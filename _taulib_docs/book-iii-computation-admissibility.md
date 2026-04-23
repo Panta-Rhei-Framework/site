@@ -61,7 +61,7 @@ admissible with W ≤ 1. Composition is sub-additive: W(g∘f) ≤ W(f) + W(g).
 
 ### `Tau.BookIII.Computation.interface_width`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L43-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L43-L62)
 **def
 Tau.BookIII.Computation.interface_width
 (x db : Denotation.TauIdx)
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.interface_width.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L49-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L49-L61)@[irreducible]
 
 **def
 Tau.BookIII.Computation.interface_width.go
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.interface_width_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L64-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L64-L74)
 **def
 Tau.BookIII.Computation.interface_width_check
 (bound db : Denotation.TauIdx)
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.interface_width_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L68-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L68-L73)@[irreducible]
 
 **def
 Tau.BookIII.Computation.interface_width_check.go
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.tau_admissible_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L80-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L80-L106)
 **def
 Tau.BookIII.Computation.tau_admissible_check
 (bound db : Denotation.TauIdx)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.tau_admissible_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L86-L105)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L86-L105)@[irreducible]
 
 **def
 Tau.BookIII.Computation.tau_admissible_check.go
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.width_principle_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L112-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L112-L132)
 **def
 Tau.BookIII.Computation.width_principle_check
 (bound db : Denotation.TauIdx)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.width_principle_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L117-L131)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L117-L131)@[irreducible]
 
 **def
 Tau.BookIII.Computation.width_principle_check.go
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.earned_admissibility_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L138-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L138-L164)
 **def
 Tau.BookIII.Computation.earned_admissibility_check
 (bound db : Denotation.TauIdx)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.earned_admissibility_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L143-L163)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L143-L163)@[irreducible]
 
 **def
 Tau.BookIII.Computation.earned_admissibility_check.go
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.composition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L166-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L166-L190)
 **def
 Tau.BookIII.Computation.composition_check
 (bound db : Denotation.TauIdx)
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.composition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L171-L189)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L171-L189)@[irreducible]
 
 **def
 Tau.BookIII.Computation.composition_check.go
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.interface_width_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L207-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L207-L208)
 **theorem
 Tau.BookIII.Computation.interface_width_10_4 :interface_width_check 10 4 = true**
 
@@ -275,7 +275,7 @@ Tau.BookIII.Computation.interface_width_10_4 :interface_width_check 10 4 = true*
 
 ### `Tau.BookIII.Computation.tau_admissible_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L210-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L210-L211)
 **theorem
 Tau.BookIII.Computation.tau_admissible_10_3 :tau_admissible_check 10 3 = true**
 
@@ -284,7 +284,7 @@ Tau.BookIII.Computation.tau_admissible_10_3 :tau_admissible_check 10 3 = true**
 
 ### `Tau.BookIII.Computation.width_principle_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L213-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L213-L214)
 **theorem
 Tau.BookIII.Computation.width_principle_10_3 :width_principle_check 10 3 = true**
 
@@ -293,7 +293,7 @@ Tau.BookIII.Computation.width_principle_10_3 :width_principle_check 10 3 = true*
 
 ### `Tau.BookIII.Computation.earned_admissibility_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L216-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L216-L217)
 **theorem
 Tau.BookIII.Computation.earned_admissibility_15_4 :earned_admissibility_check 15 4 = true**
 
@@ -302,7 +302,7 @@ Tau.BookIII.Computation.earned_admissibility_15_4 :earned_admissibility_check 15
 
 ### `Tau.BookIII.Computation.composition_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L219-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L219-L220)
 **theorem
 Tau.BookIII.Computation.composition_15_4 :composition_check 15 4 = true**
 
@@ -311,7 +311,7 @@ Tau.BookIII.Computation.composition_15_4 :composition_check 15 4 = true**
 
 ### `Tau.BookIII.Computation.width_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L226-L228)
 **theorem
 Tau.BookIII.Computation.width_bounded :interface_width 42 5 ≤ 5**
 
@@ -322,7 +322,7 @@ Tau.BookIII.Computation.width_bounded :interface_width 42 5 ≤ 5**
 
 ### `Tau.BookIII.Computation.admissible_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L230-L232)
 **theorem
 Tau.BookIII.Computation.admissible_10_1 :tau_admissible_check 10 1 = true**
 
@@ -333,7 +333,7 @@ Tau.BookIII.Computation.admissible_10_1 :tau_admissible_check 10 1 = true**
 
 ### `Tau.BookIII.Computation.id_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/Admissibility.lean#L234-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/Admissibility.lean#L234-L236)
 **theorem
 Tau.BookIII.Computation.id_admissible :earned_admissibility_check 10 1 = true**
 

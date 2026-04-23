@@ -54,7 +54,7 @@ Immune systems: cellular distinction via MHC and autoimmunity as failure.
 
 ### `Tau.BookVI.Immune.CellularDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L28-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L28-L39)
 **structure
 Tau.BookVI.Immune.CellularDistinction :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookVI.Immune.instReprCellularDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L39-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L39-L39)
 **instance
 Tau.BookVI.Immune.instReprCellularDistinction :Repr CellularDistinction**
 
@@ -90,7 +90,7 @@ Equations
 
 ### `Tau.BookVI.Immune.instReprCellularDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L39-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L39-L39)
 **def
 Tau.BookVI.Immune.instReprCellularDistinction.repr :CellularDistinction → ℕ → Std.Format**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookVI.Immune.cell_dist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L41-L41)
 **def
 Tau.BookVI.Immune.cell_dist :CellularDistinction**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookVI.Immune.cellular_distinction_is_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L43-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L43-L47)
 **theorem
 Tau.BookVI.Immune.cellular_distinction_is_tau :cell_dist.mhc_class_I = true ∧ cell_dist.mhc_class_II = true ∧ cell_dist.distinction_implementation = true**
 
@@ -123,7 +123,7 @@ Tau.BookVI.Immune.cellular_distinction_is_tau :cell_dist.mhc_class_I = true ∧ 
 
 ### `Tau.BookVI.Immune.AutoimmunityFailure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L53-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L53-L76)
 **structure
 Tau.BookVI.Immune.AutoimmunityFailure :Type**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookVI.Immune.instReprAutoimmunityFailure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L76-L76)
 **instance
 Tau.BookVI.Immune.instReprAutoimmunityFailure :Repr AutoimmunityFailure**
 
@@ -175,7 +175,7 @@ Equations
 
 ### `Tau.BookVI.Immune.instReprAutoimmunityFailure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L76-L76)
 **def
 Tau.BookVI.Immune.instReprAutoimmunityFailure.repr :AutoimmunityFailure → ℕ → Std.Format**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookVI.Immune.autoimmune`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L78-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L78-L80)
 **def
 Tau.BookVI.Immune.autoimmune :AutoimmunityFailure**
 
@@ -199,6 +199,6 @@ Instances For
 
 ### `Tau.BookVI.Immune.autoimmunity_five_failures`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Immune.lean#L82-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Immune.lean#L82-L89)
 **theorem
 Tau.BookVI.Immune.autoimmunity_five_failures :autoimmune.failure_modes = 5 ∧ autoimmune.clopen_violation = true ∧ autoimmune.refinement_violation = true ∧ autoimmune.stability_violation = true ∧ autoimmune.law_violation = true ∧ autoimmune.equivariance_violation = true**

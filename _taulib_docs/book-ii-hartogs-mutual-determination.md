@@ -74,7 +74,7 @@ completely (completeness e_plus + e_minus = 1).
 
 ### `Tau.BookII.Hartogs.refinement_tail_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L55-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L55-L70)
 **def
 Tau.BookII.Hartogs.refinement_tail_check
 (bound db : Denotation.TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.refinement_tail_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L63-L69)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L63-L69)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.refinement_tail_check.go
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.spectral_tail_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L76-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L76-L109)
 **def
 Tau.BookII.Hartogs.spectral_tail_check
 (bound db : Denotation.TauIdx)
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.spectral_tail_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L89-L108)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L89-L108)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.spectral_tail_check.go
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.exists_separator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L115-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L115-L124)
 **def
 Tau.BookII.Hartogs.exists_separator
 (x y db : ℕ)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.exists_separator.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L119-L123)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L119-L123)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.exists_separator.go
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.omega_germ_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L126-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L126-L144)
 **def
 Tau.BookII.Hartogs.omega_germ_check
 (bound db : Denotation.TauIdx)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.omega_germ_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L135-L143)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L135-L143)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.omega_germ_check.go
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.boundary_character_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L150-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L150-L174)
 **def
 Tau.BookII.Hartogs.boundary_character_check
 (bound _db : Denotation.TauIdx)
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.boundary_character_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L161-L173)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L161-L173)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.boundary_character_check.go
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hartogs_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L180-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L180-L199)
 **def
 Tau.BookII.Hartogs.hartogs_check
 (bound db : Denotation.TauIdx)
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hartogs_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L189-L198)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L189-L198)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hartogs_check.go
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.refine_spectral_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L205-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L205-L211)
 **def
 Tau.BookII.Hartogs.refine_spectral_check
 (bound db : Denotation.TauIdx)
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.spectral_germ_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L213-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L213-L218)
 **def
 Tau.BookII.Hartogs.spectral_germ_check
 (bound db : Denotation.TauIdx)
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.germ_character_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L220-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L220-L225)
 **def
 Tau.BookII.Hartogs.germ_character_check
 (bound db : Denotation.TauIdx)
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.character_hartogs_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L227-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L227-L231)
 **def
 Tau.BookII.Hartogs.character_hartogs_check
 (bound db : Denotation.TauIdx)
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mutual_determination_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L237-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L237-L257)
 **def
 Tau.BookII.Hartogs.mutual_determination_check
 (bound db : Denotation.TauIdx)
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.idempotent_mechanism_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L263-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L263-L271)
 **def
 Tau.BookII.Hartogs.idempotent_mechanism_check :Bool**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_mutual_determination_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L273-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L273-L276)
 **def
 Tau.BookII.Hartogs.full_mutual_determination_check
 (bound db : Denotation.TauIdx)
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L282-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L282-L288)
 **theorem
 Tau.BookII.Hartogs.bndlift_coherent
 (x : Denotation.TauIdx)
@@ -464,7 +464,7 @@ for j <= k. This follows from reduction compatibility.
 
 ### `Tau.BookII.Hartogs.bndlift_at_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L290-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L290-L293)
 **theorem
 Tau.BookII.Hartogs.bndlift_at_stage
 (x k : Denotation.TauIdx)
@@ -477,7 +477,7 @@ BndLift at the same stage: reduce(bndlift(x, k), k) = reduce(x, k).
 
 ### `Tau.BookII.Hartogs.bndlift_exists_4_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L343-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L343-L344)
 **theorem
 Tau.BookII.Hartogs.bndlift_exists_4_12 :bndlift_existence_check 4 12 = true**
 
@@ -486,7 +486,7 @@ Tau.BookII.Hartogs.bndlift_exists_4_12 :bndlift_existence_check 4 12 = true**
 
 ### `Tau.BookII.Hartogs.refine_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L347-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L347-L348)
 **theorem
 Tau.BookII.Hartogs.refine_12_4 :refinement_tail_check 12 4 = true**
 
@@ -495,7 +495,7 @@ Tau.BookII.Hartogs.refine_12_4 :refinement_tail_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.spectral_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L351-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L351-L352)
 **theorem
 Tau.BookII.Hartogs.spectral_8_3 :spectral_tail_check 8 3 = true**
 
@@ -504,7 +504,7 @@ Tau.BookII.Hartogs.spectral_8_3 :spectral_tail_check 8 3 = true**
 
 ### `Tau.BookII.Hartogs.germ_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L355-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L355-L356)
 **theorem
 Tau.BookII.Hartogs.germ_10_4 :omega_germ_check 10 4 = true**
 
@@ -513,7 +513,7 @@ Tau.BookII.Hartogs.germ_10_4 :omega_germ_check 10 4 = true**
 
 ### `Tau.BookII.Hartogs.character_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L359-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L359-L360)
 **theorem
 Tau.BookII.Hartogs.character_12_4 :boundary_character_check 12 4 = true**
 
@@ -522,7 +522,7 @@ Tau.BookII.Hartogs.character_12_4 :boundary_character_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.hartogs_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L363-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L363-L364)
 **theorem
 Tau.BookII.Hartogs.hartogs_12_4 :hartogs_check 12 4 = true**
 
@@ -531,7 +531,7 @@ Tau.BookII.Hartogs.hartogs_12_4 :hartogs_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.l02_refine_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L367-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L367-L368)
 **theorem
 Tau.BookII.Hartogs.l02_refine_spectral :refine_spectral_check 10 4 = true**
 
@@ -540,7 +540,7 @@ Tau.BookII.Hartogs.l02_refine_spectral :refine_spectral_check 10 4 = true**
 
 ### `Tau.BookII.Hartogs.l03_spectral_germ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L370-L371)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L370-L371)
 **theorem
 Tau.BookII.Hartogs.l03_spectral_germ :spectral_germ_check 8 3 = true**
 
@@ -549,7 +549,7 @@ Tau.BookII.Hartogs.l03_spectral_germ :spectral_germ_check 8 3 = true**
 
 ### `Tau.BookII.Hartogs.l04_germ_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L373-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L373-L374)
 **theorem
 Tau.BookII.Hartogs.l04_germ_character :germ_character_check 10 4 = true**
 
@@ -558,7 +558,7 @@ Tau.BookII.Hartogs.l04_germ_character :germ_character_check 10 4 = true**
 
 ### `Tau.BookII.Hartogs.l05_character_hartogs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L376-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L376-L377)
 **theorem
 Tau.BookII.Hartogs.l05_character_hartogs :character_hartogs_check 10 4 = true**
 
@@ -567,7 +567,7 @@ Tau.BookII.Hartogs.l05_character_hartogs :character_hartogs_check 10 4 = true**
 
 ### `Tau.BookII.Hartogs.mutual_determination`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L380-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L380-L381)
 **theorem
 Tau.BookII.Hartogs.mutual_determination :mutual_determination_check 10 4 = true**
 
@@ -576,7 +576,7 @@ Tau.BookII.Hartogs.mutual_determination :mutual_determination_check 10 4 = true*
 
 ### `Tau.BookII.Hartogs.idem_mechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L384-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L384-L385)
 **theorem
 Tau.BookII.Hartogs.idem_mechanism :idempotent_mechanism_check = true**
 
@@ -585,6 +585,6 @@ Tau.BookII.Hartogs.idem_mechanism :idempotent_mechanism_check = true**
 
 ### `Tau.BookII.Hartogs.full_mutual_determination`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/MutualDetermination.lean#L388-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/MutualDetermination.lean#L388-L389)
 **theorem
 Tau.BookII.Hartogs.full_mutual_determination :full_mutual_determination_check 10 4 = true**

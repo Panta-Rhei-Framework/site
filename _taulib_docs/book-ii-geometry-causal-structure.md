@@ -63,7 +63,7 @@ Causal classification:
 
 ### `Tau.BookII.Geometry.wave_char_roots`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L40-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L40-L48)
 **def
 Tau.BookII.Geometry.wave_char_roots :List (ℤ × ℤ)**
 
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.wave_discriminant_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L50-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L50-L57)
 **def
 Tau.BookII.Geometry.wave_discriminant_positive :Bool**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.j_squared_plus_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L59-L62)
 **theorem
 Tau.BookII.Geometry.j_squared_plus_one :{ re := 0, im := 1 }.mul { re := 0, im := 1 } = { re := 1, im := 0 }**
 
@@ -110,7 +110,7 @@ Verify j² = +1 (split-complex, not complex).
 
 ### `Tau.BookII.Geometry.char_xi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L68-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L68-L71)
 **def
 Tau.BookII.Geometry.char_xi
 (x y : ℤ)
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.char_zeta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L73-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L73-L74)
 **def
 Tau.BookII.Geometry.char_zeta
 (x y : ℤ)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.char_recover_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L76-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L76-L83)
 **def
 Tau.BookII.Geometry.char_recover_check :Bool**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.CausalClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L89-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L89-L98)
 **inductive
 Tau.BookII.Geometry.CausalClass :Type**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.instReprCausalClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
 **def
 Tau.BookII.Geometry.instReprCausalClass.repr :CausalClass → ℕ → Std.Format**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.instReprCausalClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
 **instance
 Tau.BookII.Geometry.instReprCausalClass :Repr CausalClass**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.BookII.Geometry.instDecidableEqCausalClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L98-L98)
 **instance
 Tau.BookII.Geometry.instDecidableEqCausalClass :DecidableEq CausalClass**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookII.Geometry.classify_causal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L100-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L100-L105)
 **def
 Tau.BookII.Geometry.classify_causal
 (dx dy : ℤ)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.null_cone_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L107-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L107-L112)
 **def
 Tau.BookII.Geometry.null_cone_check :Bool**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.e_plus_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L114-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L114-L117)
 **def
 Tau.BookII.Geometry.e_plus_null :Bool**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.e_minus_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L119-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L119-L122)
 **def
 Tau.BookII.Geometry.e_minus_null :Bool**
 
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.static_limit_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L128-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L128-L142)
 **def
 Tau.BookII.Geometry.static_limit_check :Bool**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.indefinite_signature_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L144-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L144-L150)
 **def
 Tau.BookII.Geometry.indefinite_signature_check :Bool**
 
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.sector_causal_correspondence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L156-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L156-L166)
 **def
 Tau.BookII.Geometry.sector_causal_correspondence :Bool**
 
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.wave_disc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L186-L186)
 **theorem
 Tau.BookII.Geometry.wave_disc :wave_discriminant_positive = true**
 
@@ -346,7 +346,7 @@ Tau.BookII.Geometry.wave_disc :wave_discriminant_positive = true**
 
 ### `Tau.BookII.Geometry.char_recover`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L187-L187)
 **theorem
 Tau.BookII.Geometry.char_recover :char_recover_check = true**
 
@@ -355,7 +355,7 @@ Tau.BookII.Geometry.char_recover :char_recover_check = true**
 
 ### `Tau.BookII.Geometry.null_cone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L188-L188)
 **theorem
 Tau.BookII.Geometry.null_cone :null_cone_check = true**
 
@@ -364,7 +364,7 @@ Tau.BookII.Geometry.null_cone :null_cone_check = true**
 
 ### `Tau.BookII.Geometry.static_lim`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L189-L189)
 **theorem
 Tau.BookII.Geometry.static_lim :static_limit_check = true**
 
@@ -373,7 +373,7 @@ Tau.BookII.Geometry.static_lim :static_limit_check = true**
 
 ### `Tau.BookII.Geometry.indef_sig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L190-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L190-L190)
 **theorem
 Tau.BookII.Geometry.indef_sig :indefinite_signature_check = true**
 
@@ -382,6 +382,6 @@ Tau.BookII.Geometry.indef_sig :indefinite_signature_check = true**
 
 ### `Tau.BookII.Geometry.sector_causal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/CausalStructure.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/CausalStructure.lean#L191-L191)
 **theorem
 Tau.BookII.Geometry.sector_causal :sector_causal_correspondence = true**

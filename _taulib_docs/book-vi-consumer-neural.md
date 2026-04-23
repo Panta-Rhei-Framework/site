@@ -82,7 +82,7 @@ Neural systems as τ³ computers, and sleep as the temporal lemniscate's second 
 
 ### `Tau.BookVI.Neural.NeuralArchitecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L43-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L43-L59)
 **structure
 Tau.BookVI.Neural.NeuralArchitecture :Type**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralArchitecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L59-L59)
 **instance
 Tau.BookVI.Neural.instReprNeuralArchitecture :Repr NeuralArchitecture**
 
@@ -125,7 +125,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprNeuralArchitecture.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L59-L59)
 **def
 Tau.BookVI.Neural.instReprNeuralArchitecture.repr :NeuralArchitecture → ℕ → Std.Format**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.neural_arch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L61-L63)
 **def
 Tau.BookVI.Neural.neural_arch :NeuralArchitecture**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.neural_is_tau3_computer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L65-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L65-L69)
 **theorem
 Tau.BookVI.Neural.neural_is_tau3_computer :neural_arch.node_types = 3 ∧ neural_arch.directed = true ∧ neural_arch.tau3_computer = true**
 
@@ -158,7 +158,7 @@ Tau.BookVI.Neural.neural_is_tau3_computer :neural_arch.node_types = 3 ∧ neural
 
 ### `Tau.BookVI.Neural.SleepLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L75-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L75-L91)
 **structure
 Tau.BookVI.Neural.SleepLemniscate :Type**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprSleepLemniscate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L91-L91)
 **def
 Tau.BookVI.Neural.instReprSleepLemniscate.repr :SleepLemniscate → ℕ → Std.Format**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprSleepLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L91-L91)
 **instance
 Tau.BookVI.Neural.instReprSleepLemniscate :Repr SleepLemniscate**
 
@@ -213,7 +213,7 @@ Equations
 
 ### `Tau.BookVI.Neural.sleep_lemn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L93-L95)
 **def
 Tau.BookVI.Neural.sleep_lemn :SleepLemniscate**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_two_lobes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L97-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L97-L102)
 **theorem
 Tau.BookVI.Neural.sleep_two_lobes :sleep_lemn.lobe_count = 2 ∧ sleep_lemn.wake_lobe = true ∧ sleep_lemn.sleep_lobe = true ∧ sleep_lemn.circadian_link = true**
 
@@ -234,7 +234,7 @@ Tau.BookVI.Neural.sleep_two_lobes :sleep_lemn.lobe_count = 2 ∧ sleep_lemn.wake
 
 ### `Tau.BookVI.Neural.NeuralDefectLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L108-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L108-L125)
 **inductive
 Tau.BookVI.Neural.NeuralDefectLevel :Type**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
 **def
 Tau.BookVI.Neural.instReprNeuralDefectLevel.repr :NeuralDefectLevel → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
 **instance
 Tau.BookVI.Neural.instReprNeuralDefectLevel :Repr NeuralDefectLevel**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instBEqNeuralDefectLevel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
 **def
 Tau.BookVI.Neural.instBEqNeuralDefectLevel.beq :NeuralDefectLevel → NeuralDefectLevel → Bool**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instBEqNeuralDefectLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L125-L125)
 **instance
 Tau.BookVI.Neural.instBEqNeuralDefectLevel :BEq NeuralDefectLevel**
 
@@ -308,7 +308,7 @@ Equations
 
 ### `Tau.BookVI.Neural.NeuralDefectTower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L131-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L131-L151)
 **structure
 Tau.BookVI.Neural.NeuralDefectTower :Type**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectTower.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L151-L151)
 **def
 Tau.BookVI.Neural.instReprNeuralDefectTower.repr :NeuralDefectTower → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectTower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L151-L151)
 **instance
 Tau.BookVI.Neural.instReprNeuralDefectTower :Repr NeuralDefectTower**
 
@@ -368,7 +368,7 @@ Equations
 
 ### `Tau.BookVI.Neural.neural_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L153-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L153-L155)
 **def
 Tau.BookVI.Neural.neural_tower :NeuralDefectTower**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.NeurodegenerativeMapping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L161-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L161-L183)
 **structure
 Tau.BookVI.Neural.NeurodegenerativeMapping :Type**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeurodegenerativeMapping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L183-L183)
 **instance
 Tau.BookVI.Neural.instReprNeurodegenerativeMapping :Repr NeurodegenerativeMapping**
 
@@ -429,7 +429,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprNeurodegenerativeMapping.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L183-L183)
 **def
 Tau.BookVI.Neural.instReprNeurodegenerativeMapping.repr :NeurodegenerativeMapping → ℕ → Std.Format**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.disease_map`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L185-L185)
 **def
 Tau.BookVI.Neural.disease_map :NeurodegenerativeMapping**
 
@@ -453,7 +453,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.InterLevelCascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L191-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L191-L214)
 **structure
 Tau.BookVI.Neural.InterLevelCascade :Type**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprInterLevelCascade.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L214-L214)
 **def
 Tau.BookVI.Neural.instReprInterLevelCascade.repr :InterLevelCascade → ℕ → Std.Format**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprInterLevelCascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L214-L214)
 **instance
 Tau.BookVI.Neural.instReprInterLevelCascade :Repr InterLevelCascade**
 
@@ -515,7 +515,7 @@ Equations
 
 ### `Tau.BookVI.Neural.cascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L216-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L216-L216)
 **def
 Tau.BookVI.Neural.cascade :InterLevelCascade**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.inter_level_cascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L218-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L218-L223)
 **theorem
 Tau.BookVI.Neural.inter_level_cascade :cascade.molecular_to_synaptic = true ∧ cascade.synaptic_to_circuit = true ∧ cascade.circuit_to_network = true ∧ cascade.upward_only = true**
 
@@ -536,7 +536,7 @@ Tau.BookVI.Neural.inter_level_cascade :cascade.molecular_to_synaptic = true ∧ 
 
 ### `Tau.BookVI.Neural.NeuralDefectMonotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L229-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L229-L247)
 **structure
 Tau.BookVI.Neural.NeuralDefectMonotone :Type**
 
@@ -569,7 +569,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectMonotone.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L247-L247)
 **def
 Tau.BookVI.Neural.instReprNeuralDefectMonotone.repr :NeuralDefectMonotone → ℕ → Std.Format**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralDefectMonotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L247-L247)
 **instance
 Tau.BookVI.Neural.instReprNeuralDefectMonotone :Repr NeuralDefectMonotone**
 
@@ -592,7 +592,7 @@ Equations
 
 ### `Tau.BookVI.Neural.neural_mono`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L249-L249)
 **def
 Tau.BookVI.Neural.neural_mono :NeuralDefectMonotone**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.neural_defect_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L251-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L251-L255)
 **theorem
 Tau.BookVI.Neural.neural_defect_monotone :neural_mono.per_level_monotone = true ∧ neural_mono.total_monotone = true ∧ neural_mono.specializes_d43 = true**
 
@@ -613,7 +613,7 @@ Tau.BookVI.Neural.neural_defect_monotone :neural_mono.per_level_monotone = true 
 
 ### `Tau.BookVI.Neural.SleepRepairFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L261-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L261-L284)
 **structure
 Tau.BookVI.Neural.SleepRepairFunction :Type**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprSleepRepairFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L284-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L284-L284)
 **instance
 Tau.BookVI.Neural.instReprSleepRepairFunction :Repr SleepRepairFunction**
 
@@ -664,7 +664,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprSleepRepairFunction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L284-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L284-L284)
 **def
 Tau.BookVI.Neural.instReprSleepRepairFunction.repr :SleepRepairFunction → ℕ → Std.Format**
 
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_repair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L286-L286)
 **def
 Tau.BookVI.Neural.sleep_repair :SleepRepairFunction**
 
@@ -688,7 +688,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.SleepConsolidatesLevels12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L292-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L292-L314)
 **structure
 Tau.BookVI.Neural.SleepConsolidatesLevels12 :Type**
 
@@ -725,7 +725,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprSleepConsolidatesLevels12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L314-L314)
 **instance
 Tau.BookVI.Neural.instReprSleepConsolidatesLevels12 :Repr SleepConsolidatesLevels12**
 
@@ -736,7 +736,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprSleepConsolidatesLevels12.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L314-L314)
 **def
 Tau.BookVI.Neural.instReprSleepConsolidatesLevels12.repr :SleepConsolidatesLevels12 → ℕ → Std.Format**
 
@@ -748,7 +748,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_consol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L316-L316)
 **def
 Tau.BookVI.Neural.sleep_consol :SleepConsolidatesLevels12**
 
@@ -760,7 +760,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_consolidates_levels_1_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L318-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L318-L322)
 **theorem
 Tau.BookVI.Neural.sleep_consolidates_levels_1_2 :sleep_consol.nrem_level_1 = true ∧ sleep_consol.rem_level_2 = true ∧ sleep_consol.levels_3_4_excluded = true**
 
@@ -769,7 +769,7 @@ Tau.BookVI.Neural.sleep_consolidates_levels_1_2 :sleep_consol.nrem_level_1 = tru
 
 ### `Tau.BookVI.Neural.SleepDeprivationAccelerates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L328-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L328-L348)
 **structure
 Tau.BookVI.Neural.SleepDeprivationAccelerates :Type**
 
@@ -805,7 +805,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprSleepDeprivationAccelerates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L348-L348)
 **instance
 Tau.BookVI.Neural.instReprSleepDeprivationAccelerates :Repr SleepDeprivationAccelerates**
 
@@ -816,7 +816,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprSleepDeprivationAccelerates.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L348-L348)
 **def
 Tau.BookVI.Neural.instReprSleepDeprivationAccelerates.repr :SleepDeprivationAccelerates → ℕ → Std.Format**
 
@@ -828,7 +828,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_dep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L350-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L350-L350)
 **def
 Tau.BookVI.Neural.sleep_dep :SleepDeprivationAccelerates**
 
@@ -840,7 +840,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.sleep_deprivation_accelerates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L352-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L352-L357)
 **theorem
 Tau.BookVI.Neural.sleep_deprivation_accelerates :sleep_dep.budget_exhaustion_accelerated = true ∧ sleep_dep.level_1_earlier = true ∧ sleep_dep.cascade_earlier = true ∧ sleep_dep.alzheimers_consistent = true**
 
@@ -849,7 +849,7 @@ Tau.BookVI.Neural.sleep_deprivation_accelerates :sleep_dep.budget_exhaustion_acc
 
 ### `Tau.BookVI.Neural.NeuralHayflickBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L363-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L363-L385)
 **structure
 Tau.BookVI.Neural.NeuralHayflickBound :Type**
 
@@ -888,7 +888,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralHayflickBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L385-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L385-L385)
 **def
 Tau.BookVI.Neural.instReprNeuralHayflickBound.repr :NeuralHayflickBound → ℕ → Std.Format**
 
@@ -900,7 +900,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeuralHayflickBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L385-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L385-L385)
 **instance
 Tau.BookVI.Neural.instReprNeuralHayflickBound :Repr NeuralHayflickBound**
 
@@ -911,7 +911,7 @@ Equations
 
 ### `Tau.BookVI.Neural.neural_hayflick`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L387-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L387-L389)
 **def
 Tau.BookVI.Neural.neural_hayflick :NeuralHayflickBound**
 
@@ -923,7 +923,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.NeurodegenerationHayflickCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L395-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L395-L421)
 **structure
 Tau.BookVI.Neural.NeurodegenerationHayflickCrossing :Type**
 
@@ -966,7 +966,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.instReprNeurodegenerationHayflickCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L421-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L421-L421)
 **instance
 Tau.BookVI.Neural.instReprNeurodegenerationHayflickCrossing :Repr NeurodegenerationHayflickCrossing**
 
@@ -977,7 +977,7 @@ Equations
 
 ### `Tau.BookVI.Neural.instReprNeurodegenerationHayflickCrossing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L421-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L421-L421)
 **def
 Tau.BookVI.Neural.instReprNeurodegenerationHayflickCrossing.repr :NeurodegenerationHayflickCrossing → ℕ → Std.Format**
 
@@ -989,7 +989,7 @@ Instances For
 
 ### `Tau.BookVI.Neural.neuro_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L423-L423)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L423-L423)
 **def
 Tau.BookVI.Neural.neuro_crossing :NeurodegenerationHayflickCrossing**
 
@@ -1001,6 +1001,6 @@ Instances For
 
 ### `Tau.BookVI.Neural.neurodegeneration_is_hayflick_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Neural.lean#L425-L431)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Neural.lean#L425-L431)
 **theorem
 Tau.BookVI.Neural.neurodegeneration_is_hayflick_crossing :neuro_crossing.disease_is_level_crossing = true ∧ neuro_crossing.alzheimers_h1 = true ∧ neuro_crossing.parkinsons_h3 = true ∧ neuro_crossing.normal_aging_safe = true ∧ neuro_crossing.specializes_universal = true**

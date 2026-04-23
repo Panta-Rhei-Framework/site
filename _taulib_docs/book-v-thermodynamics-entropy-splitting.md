@@ -109,7 +109,7 @@ where epsilon >= 0, epsilon <= S_def. When S_def = 0, the split is exact.
 
 ### `Tau.BookV.Thermodynamics.DefectPartitionOfPaths`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L61-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L61-L79)
 **structure
 Tau.BookV.Thermodynamics.DefectPartitionOfPaths :Type**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectPartitionOfPaths.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L79-L79)
 **def
 Tau.BookV.Thermodynamics.instReprDefectPartitionOfPaths.repr :DefectPartitionOfPaths → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectPartitionOfPaths`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L79-L79)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectPartitionOfPaths :Repr DefectPartitionOfPaths**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.partition_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L81-L83)
 **theorem
 Tau.BookV.Thermodynamics.partition_exhaustive
 (p : DefectPartitionOfPaths)
@@ -183,7 +183,7 @@ Partition is always exhaustive.
 
 ### `Tau.BookV.Thermodynamics.MacroDefectEntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L89-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L89-L106)
 **structure
 Tau.BookV.Thermodynamics.MacroDefectEntropy :Type**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMacroDefectEntropy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L106-L106)
 **def
 Tau.BookV.Thermodynamics.instReprMacroDefectEntropy.repr :MacroDefectEntropy → ℕ → Std.Format**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMacroDefectEntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L106-L106)
 **instance
 Tau.BookV.Thermodynamics.instReprMacroDefectEntropy :Repr MacroDefectEntropy**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.MacroDefectEntropy.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L108-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L108-L110)
 **def
 Tau.BookV.Thermodynamics.MacroDefectEntropy.toFloat
 (e : MacroDefectEntropy)
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.MacroRefinementEntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L116-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L116-L132)
 **structure
 Tau.BookV.Thermodynamics.MacroRefinementEntropy :Type**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMacroRefinementEntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L132-L132)
 **instance
 Tau.BookV.Thermodynamics.instReprMacroRefinementEntropy :Repr MacroRefinementEntropy**
 
@@ -296,7 +296,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprMacroRefinementEntropy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L132-L132)
 **def
 Tau.BookV.Thermodynamics.instReprMacroRefinementEntropy.repr :MacroRefinementEntropy → ℕ → Std.Format**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.MacroRefinementEntropy.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L134-L136)
 **def
 Tau.BookV.Thermodynamics.MacroRefinementEntropy.toFloat
 (e : MacroRefinementEntropy)
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.MacroEntropySplitThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L142-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L142-L163)
 **structure
 Tau.BookV.Thermodynamics.MacroEntropySplitThm :Type**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMacroEntropySplitThm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L163-L163)
 **def
 Tau.BookV.Thermodynamics.instReprMacroEntropySplitThm.repr :MacroEntropySplitThm → ℕ → Std.Format**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMacroEntropySplitThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L163-L163)
 **instance
 Tau.BookV.Thermodynamics.instReprMacroEntropySplitThm :Repr MacroEntropySplitThm**
 
@@ -385,7 +385,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.MacroEntropySplitThm.totalFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L165-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L165-L168)
 **def
 Tau.BookV.Thermodynamics.MacroEntropySplitThm.totalFloat
 (s : MacroEntropySplitThm)
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.defect_entropy_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L174-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L174-L179)
 **theorem
 Tau.BookV.Thermodynamics.defect_entropy_bounded
 (e0 en : MacroDefectEntropy)
@@ -419,7 +419,7 @@ Defect entropy can never exceed its initial value (Nat is non-negative).
 
 ### `Tau.BookV.Thermodynamics.defect_entropy_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L185-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L185-L191)
 **theorem
 Tau.BookV.Thermodynamics.defect_entropy_monotone :contraction_numer < contraction_denom**
 
@@ -434,7 +434,7 @@ self-coupling, ensuring exponential convergence to zero.
 
 ### `Tau.BookV.Thermodynamics.defect_entropy_reaches_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L197-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L197-L204)
 **theorem
 Tau.BookV.Thermodynamics.defect_entropy_reaches_zero :"S_def(n) <= (1-iota)^n S_def(0) -> 0 as n -> inf" = "S_def(n) <= (1-iota)^n S_def(0) -> 0 as n -> inf"**
 
@@ -449,7 +449,7 @@ The rate is controlled by the gravitational coupling.
 
 ### `Tau.BookV.Thermodynamics.refinement_entropy_unbounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L210-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L210-L217)
 **theorem
 Tau.BookV.Thermodynamics.refinement_entropy_unbounded :"S_ref(n) >= n*ln(p) + S_ref(0), unbounded growth" = "S_ref(n) >= n*ln(p) + S_ref(0), unbounded growth"**
 
@@ -464,7 +464,7 @@ In particular S_ref(n) -> infinity as n -> infinity.
 
 ### `Tau.BookV.Thermodynamics.ReadoutProjection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L223-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L223-L234)
 **structure
 Tau.BookV.Thermodynamics.ReadoutProjection :Type**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprReadoutProjection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L234-L234)
 **def
 Tau.BookV.Thermodynamics.instReprReadoutProjection.repr :ReadoutProjection → ℕ → Std.Format**
 
@@ -500,7 +500,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprReadoutProjection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L234-L234)
 **instance
 Tau.BookV.Thermodynamics.instReprReadoutProjection :Repr ReadoutProjection**
 
@@ -511,7 +511,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.SplittingRatioControl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L240-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L240-L250)
 **structure
 Tau.BookV.Thermodynamics.SplittingRatioControl :Type**
 
@@ -534,7 +534,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprSplittingRatioControl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L250-L250)
 **instance
 Tau.BookV.Thermodynamics.instReprSplittingRatioControl :Repr SplittingRatioControl**
 
@@ -545,7 +545,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprSplittingRatioControl.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L250-L250)
 **def
 Tau.BookV.Thermodynamics.instReprSplittingRatioControl.repr :SplittingRatioControl → ℕ → Std.Format**
 
@@ -557,7 +557,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.DefectEntropyFromFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L256-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L256-L266)
 **structure
 Tau.BookV.Thermodynamics.DefectEntropyFromFunctional :Type**
 
@@ -580,7 +580,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectEntropyFromFunctional.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L266-L266)
 **def
 Tau.BookV.Thermodynamics.instReprDefectEntropyFromFunctional.repr :DefectEntropyFromFunctional → ℕ → Std.Format**
 
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectEntropyFromFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L266-L266)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectEntropyFromFunctional :Repr DefectEntropyFromFunctional**
 
@@ -603,7 +603,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.paradox_resolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L277-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L277-L279)
 **theorem
 Tau.BookV.Thermodynamics.paradox_resolved :"S_total increases (S_ref grows), S_def decreases: paradox dissolved" = "S_total increases (S_ref grows), S_def decreases: paradox dissolved"**
 
@@ -612,7 +612,7 @@ Tau.BookV.Thermodynamics.paradox_resolved :"S_total increases (S_ref grows), S_d
 
 ### `Tau.BookV.Thermodynamics.noise_dominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L283-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L283-L285)
 **theorem
 Tau.BookV.Thermodynamics.noise_dominance :"At late depths: S_def/S -> 0 exponentially, S ~ S_ref" = "At late depths: S_def/S -> 0 exponentially, S ~ S_ref"**
 
@@ -621,7 +621,7 @@ Tau.BookV.Thermodynamics.noise_dominance :"At late depths: S_def/S -> 0 exponent
 
 ### `Tau.BookV.Thermodynamics.example_early_split`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L294-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L294-L301)
 **def
 Tau.BookV.Thermodynamics.example_early_split :MacroEntropySplitThm**
 
@@ -635,7 +635,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.example_late_split`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L307-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/EntropySplitting.lean#L307-L314)
 **def
 Tau.BookV.Thermodynamics.example_late_split :MacroEntropySplitThm**
 

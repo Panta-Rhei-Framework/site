@@ -74,7 +74,7 @@ to B-type eigenvalues of H_L, and similarly for C and X.
 
 ### `Tau.BookIII.Physics.is_sigma_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L54-L57)
 **def
 Tau.BookIII.Physics.is_sigma_fixed
 (nf : Spectral.BoundaryNF)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L59-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L59-L81)
 **def
 Tau.BookIII.Physics.sigma_fixed_check
 (db : Denotation.TauIdx)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L64-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L64-L74)@[irreducible]
 
 **def
 Tau.BookIII.Physics.sigma_fixed_check.go
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_check.count_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L76-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L76-L81)@[irreducible]
 
 **def
 Tau.BookIII.Physics.sigma_fixed_check.count_fixed
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_closed_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L83-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L83-L107)
 **def
 Tau.BookIII.Physics.sigma_fixed_closed_check
 (db : Denotation.TauIdx)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_closed_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L88-L95)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L88-L95)@[irreducible]
 
 **def
 Tau.BookIII.Physics.sigma_fixed_closed_check.go
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_closed_check.check_closed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L97-L107)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L97-L107)@[irreducible]
 
 **def
 Tau.BookIII.Physics.sigma_fixed_closed_check.check_closed
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sector_addressability_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L113-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L113-L130)
 **def
 Tau.BookIII.Physics.sector_addressability_check
 (bound db : Denotation.TauIdx)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sector_addressability_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L118-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L118-L129)@[irreducible]
 
 **def
 Tau.BookIII.Physics.sector_addressability_check.go
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.char_sector_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L136-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L136-L156)
 **def
 Tau.BookIII.Physics.char_sector_check
 (db : Denotation.TauIdx)
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.char_sector_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L141-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L141-L148)@[irreducible]
 
 **def
 Tau.BookIII.Physics.char_sector_check.go
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.char_sector_check.check_nonzero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L150-L156)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L150-L156)@[irreducible]
 
 **def
 Tau.BookIII.Physics.char_sector_check.check_nonzero
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.nf_addressability_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L162-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L162-L170)
 **def
 Tau.BookIII.Physics.nf_addressability_check
 (bound db : Denotation.TauIdx)
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.hodge_filtration_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L176-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L176-L205)
 **def
 Tau.BookIII.Physics.hodge_filtration_check
 (db : Denotation.TauIdx)
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.hodge_filtration_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L181-L188)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L181-L188)@[irreducible]
 
 **def
 Tau.BookIII.Physics.hodge_filtration_check.go
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.hodge_filtration_check.check_filtration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L190-L205)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L190-L205)@[irreducible]
 
 **def
 Tau.BookIII.Physics.hodge_filtration_check.check_filtration
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.spectral_hodge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L211-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L211-L233)
 **def
 Tau.BookIII.Physics.spectral_hodge_check
 (db : Denotation.TauIdx)
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.spectral_hodge_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L217-L232)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L217-L232)@[irreducible]
 
 **def
 Tau.BookIII.Physics.spectral_hodge_check.go
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.sigma_fixed_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L251-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L251-L252)
 **theorem
 Tau.BookIII.Physics.sigma_fixed_4 :sigma_fixed_check 4 = true**
 
@@ -383,7 +383,7 @@ Tau.BookIII.Physics.sigma_fixed_4 :sigma_fixed_check 4 = true**
 
 ### `Tau.BookIII.Physics.sigma_fixed_closed_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L254-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L254-L255)
 **theorem
 Tau.BookIII.Physics.sigma_fixed_closed_4 :sigma_fixed_closed_check 4 = true**
 
@@ -392,7 +392,7 @@ Tau.BookIII.Physics.sigma_fixed_closed_4 :sigma_fixed_closed_check 4 = true**
 
 ### `Tau.BookIII.Physics.sector_addr_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L257-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L257-L258)
 **theorem
 Tau.BookIII.Physics.sector_addr_15_4 :sector_addressability_check 15 4 = true**
 
@@ -401,7 +401,7 @@ Tau.BookIII.Physics.sector_addr_15_4 :sector_addressability_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.char_sector_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L260-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L260-L261)
 **theorem
 Tau.BookIII.Physics.char_sector_4 :char_sector_check 4 = true**
 
@@ -410,7 +410,7 @@ Tau.BookIII.Physics.char_sector_4 :char_sector_check 4 = true**
 
 ### `Tau.BookIII.Physics.nf_addr_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L263-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L263-L264)
 **theorem
 Tau.BookIII.Physics.nf_addr_15_3 :nf_addressability_check 15 3 = true**
 
@@ -419,7 +419,7 @@ Tau.BookIII.Physics.nf_addr_15_3 :nf_addressability_check 15 3 = true**
 
 ### `Tau.BookIII.Physics.hodge_filt_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L266-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L266-L267)
 **theorem
 Tau.BookIII.Physics.hodge_filt_4 :hodge_filtration_check 4 = true**
 
@@ -428,7 +428,7 @@ Tau.BookIII.Physics.hodge_filt_4 :hodge_filtration_check 4 = true**
 
 ### `Tau.BookIII.Physics.spectral_hodge_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L269-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L269-L270)
 **theorem
 Tau.BookIII.Physics.spectral_hodge_5 :spectral_hodge_check 5 = true**
 
@@ -437,7 +437,7 @@ Tau.BookIII.Physics.spectral_hodge_5 :spectral_hodge_check 5 = true**
 
 ### `Tau.BookIII.Physics.zero_is_sigma_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L276-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L276-L278)
 **theorem
 Tau.BookIII.Physics.zero_is_sigma_fixed :is_sigma_fixed { b_part := 0, c_part := 0, x_part := 0, depth := 3 } = true**
 
@@ -448,7 +448,7 @@ Tau.BookIII.Physics.zero_is_sigma_fixed :is_sigma_fixed { b_part := 0, c_part :=
 
 ### `Tau.BookIII.Physics.sigma_fixed_swap_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L280-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L280-L283)
 **theorem
 Tau.BookIII.Physics.sigma_fixed_swap_id
 (nf : Spectral.BoundaryNF)
@@ -463,7 +463,7 @@ Tau.BookIII.Physics.sigma_fixed_swap_id
 
 ### `Tau.BookIII.Physics.addr_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L285-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L285-L287)
 **theorem
 Tau.BookIII.Physics.addr_10_1 :sector_addressability_check 10 1 = true**
 
@@ -474,7 +474,7 @@ Tau.BookIII.Physics.addr_10_1 :sector_addressability_check 10 1 = true**
 
 ### `Tau.BookIII.Physics.nf_addr_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/Hodge.lean#L289-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/Hodge.lean#L289-L291)
 **theorem
 Tau.BookIII.Physics.nf_addr_10_1 :nf_addressability_check 10 1 = true**
 

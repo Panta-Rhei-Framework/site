@@ -65,7 +65,7 @@ monotonicity) applied to the neutrino sector.
 
 ### `Tau.BookV.Cosmology.NeutrinoBackgroundOrigin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L39-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L39-L59)
 **structure
 Tau.BookV.Cosmology.NeutrinoBackgroundOrigin :Type**
 
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutrinoBackgroundOrigin.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L59-L59)
 **def
 Tau.BookV.Cosmology.instReprNeutrinoBackgroundOrigin.repr :NeutrinoBackgroundOrigin → ℕ → Std.Format**
 
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutrinoBackgroundOrigin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L59-L59)
 **instance
 Tau.BookV.Cosmology.instReprNeutrinoBackgroundOrigin :Repr NeutrinoBackgroundOrigin**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.neutrino_bg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L61-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L61-L64)
 **def
 Tau.BookV.Cosmology.neutrino_bg :NeutrinoBackgroundOrigin**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.neutrino_background_origin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L66-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L66-L71)
 **theorem
 Tau.BookV.Cosmology.neutrino_background_origin :neutrino_bg.n_species = 3 ∧ neutrino_bg.a_sector_governed = true ∧ neutrino_bg.thermal_relic = true**
 
@@ -155,7 +155,7 @@ CνB has 3 species, A-sector governed.
 
 ### `Tau.BookV.Cosmology.density_times_species`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L73-L75)
 **theorem
 Tau.BookV.Cosmology.density_times_species :3 * 112 = 336**
 
@@ -166,7 +166,7 @@ Total density = 3 species × 112 per flavor = 336 ν/cm³.
 
 ### `Tau.BookV.Cosmology.neutrino_temp_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L77-L78)
 **def
 Tau.BookV.Cosmology.neutrino_temp_float :Float**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.DensityGradientMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L84-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L84-L102)
 **structure
 Tau.BookV.Cosmology.DensityGradientMonotonicity :Type**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDensityGradientMonotonicity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L102-L102)
 **def
 Tau.BookV.Cosmology.instReprDensityGradientMonotonicity.repr :DensityGradientMonotonicity → ℕ → Std.Format**
 
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDensityGradientMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L102-L102)
 **instance
 Tau.BookV.Cosmology.instReprDensityGradientMonotonicity :Repr DensityGradientMonotonicity**
 
@@ -242,7 +242,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.density_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L104-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L104-L105)
 **def
 Tau.BookV.Cosmology.density_monotone :DensityGradientMonotonicity**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.density_gradient_monotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L107-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L107-L112)
 **theorem
 Tau.BookV.Cosmology.density_gradient_monotonicity :density_monotone.density_decreasing = true ∧ density_monotone.from_alpha_orbit = true ∧ density_monotone.is_structural = true**
 
@@ -267,7 +267,7 @@ Density gradient is monotonically decreasing and structural.
 
 ### `Tau.BookV.Cosmology.exponent_decreases`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L114-L116)
 **theorem
 Tau.BookV.Cosmology.exponent_decreases :4 > 3**
 
@@ -278,7 +278,7 @@ Relativistic exponent (4) > non-relativistic exponent (3).
 
 ### `Tau.BookV.Cosmology.OneParamMassStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L122-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L122-L135)
 **structure
 Tau.BookV.Cosmology.OneParamMassStructure :Type**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprOneParamMassStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L135-L135)
 **def
 Tau.BookV.Cosmology.instReprOneParamMassStructure.repr :OneParamMassStructure → ℕ → Std.Format**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprOneParamMassStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L135-L135)
 **instance
 Tau.BookV.Cosmology.instReprOneParamMassStructure :Repr OneParamMassStructure**
 
@@ -328,7 +328,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.one_param_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L137-L138)
 **def
 Tau.BookV.Cosmology.one_param_mass :OneParamMassStructure**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.total_spacing_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L140-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L140-L142)
 **theorem
 Tau.BookV.Cosmology.total_spacing_sum :203 / 175 + 609 / 700 = 1421 / 700**
 
@@ -353,7 +353,7 @@ Total spacing = Δpq + Δpr: 1421/700 = 203/175 + 609/700.
 
 ### `Tau.BookV.Cosmology.spacing_ratio_four_thirds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L144-L146)
 **theorem
 Tau.BookV.Cosmology.spacing_ratio_four_thirds :203 / 175 / (609 / 700) = 4 / 3**
 
@@ -364,7 +364,7 @@ The 4/3 ratio: Δpq/Δpr = (203/175)/(609/700) = 4/3.
 
 ### `Tau.BookV.Cosmology.NormalHierarchyProof`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L152-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L152-L171)
 **structure
 Tau.BookV.Cosmology.NormalHierarchyProof :Type**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNormalHierarchyProof.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L171-L171)
 **def
 Tau.BookV.Cosmology.instReprNormalHierarchyProof.repr :NormalHierarchyProof → ℕ → Std.Format**
 
@@ -413,7 +413,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNormalHierarchyProof`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L171-L171)
 **instance
 Tau.BookV.Cosmology.instReprNormalHierarchyProof :Repr NormalHierarchyProof**
 
@@ -424,7 +424,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.normal_hierarchy_proof`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L173-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L173-L174)
 **def
 Tau.BookV.Cosmology.normal_hierarchy_proof :NormalHierarchyProof**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.normal_hierarchy_spacings_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L176-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L176-L183)
 **theorem
 Tau.BookV.Cosmology.normal_hierarchy_spacings_positive :normal_hierarchy_proof.delta_pq_num > 0 ∧ normal_hierarchy_proof.delta_pr_num > 0 ∧ normal_hierarchy_proof.delta_qr_num > 0**
 
@@ -449,7 +449,7 @@ All spacings have positive numerators → exponents satisfy q > p > r → m₁ <
 
 ### `Tau.BookV.Cosmology.normal_hierarchy_is_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L185-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L185-L189)
 **theorem
 Tau.BookV.Cosmology.normal_hierarchy_is_theorem :203 > 0 ∧ 609 > 0 ∧ 1421 > 0**
 
@@ -461,7 +461,7 @@ Verified as Nat comparisons (203 > 0, 609 > 0, 1421 > 0).
 
 ### `Tau.BookV.Cosmology.IndividualNeutrinoMasses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L195-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L195-L209)
 **structure
 Tau.BookV.Cosmology.IndividualNeutrinoMasses :Type**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprIndividualNeutrinoMasses.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L209-L209)
 **def
 Tau.BookV.Cosmology.instReprIndividualNeutrinoMasses.repr :IndividualNeutrinoMasses → ℕ → Std.Format**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprIndividualNeutrinoMasses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L209-L209)
 **instance
 Tau.BookV.Cosmology.instReprIndividualNeutrinoMasses :Repr IndividualNeutrinoMasses**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.individual_masses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L211-L212)
 **def
 Tau.BookV.Cosmology.individual_masses :IndividualNeutrinoMasses**
 
@@ -528,7 +528,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.MassSquaredSplittings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L214-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L214-L230)
 **structure
 Tau.BookV.Cosmology.MassSquaredSplittings :Type**
 
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMassSquaredSplittings.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L230-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L230-L230)
 **def
 Tau.BookV.Cosmology.instReprMassSquaredSplittings.repr :MassSquaredSplittings → ℕ → Std.Format**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMassSquaredSplittings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L230-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L230-L230)
 **instance
 Tau.BookV.Cosmology.instReprMassSquaredSplittings :Repr MassSquaredSplittings**
 
@@ -584,7 +584,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.mass_splittings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L232-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L232-L233)
 **def
 Tau.BookV.Cosmology.mass_splittings :MassSquaredSplittings**
 
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.juno_dune_predictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L235-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NeutrinoBackground.lean#L235-L240)
 **def
 Tau.BookV.Cosmology.juno_dune_predictions :String**
 

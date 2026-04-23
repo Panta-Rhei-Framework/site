@@ -122,7 +122,7 @@ The five key derived constants:
 
 ### `Tau.BookIV.Calibration.DimExponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L63-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L63-L69)
 **structure
 Tau.BookIV.Calibration.DimExponents :Type**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprDimExponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
 **instance
 Tau.BookIV.Calibration.instReprDimExponents :Repr DimExponents**
 
@@ -150,7 +150,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprDimExponents.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
 **def
 Tau.BookIV.Calibration.instReprDimExponents.repr :DimExponents → ℕ → Std.Format**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqDimExponents.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
 **def
 Tau.BookIV.Calibration.instDecidableEqDimExponents.decEq
 (x✝ x✝¹ : DimExponents)
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqDimExponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L69-L69)
 **instance
 Tau.BookIV.Calibration.instDecidableEqDimExponents :DecidableEq DimExponents**
 
@@ -187,7 +187,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.DimExponents.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L71-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L71-L73)
 **def
 Tau.BookIV.Calibration.DimExponents.add
 (a b : DimExponents)
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.DimExponents.scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L75-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L75-L77)
 **def
 Tau.BookIV.Calibration.DimExponents.scale
 (a : DimExponents)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.DimExponents.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L79-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L79-L80)
 **def
 Tau.BookIV.Calibration.DimExponents.zero :DimExponents**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.DimensionalFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L86-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L86-L102)
 **structure
 Tau.BookIV.Calibration.DimensionalFormula :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprDimensionalFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L102-L102)
 **instance
 Tau.BookIV.Calibration.instReprDimensionalFormula :Repr DimensionalFormula**
 
@@ -279,7 +279,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprDimensionalFormula.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L102-L102)
 **def
 Tau.BookIV.Calibration.instReprDimensionalFormula.repr :DimensionalFormula → ℕ → Std.Format**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.c_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L108-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L108-L116)
 **def
 Tau.BookIV.Calibration.c_formula :DimensionalFormula**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.h_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L118-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L118-L126)
 **def
 Tau.BookIV.Calibration.h_formula :DimensionalFormula**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ke_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L128-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L128-L136)
 **def
 Tau.BookIV.Calibration.ke_formula :DimensionalFormula**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.eps0_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L138-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L138-L146)
 **def
 Tau.BookIV.Calibration.eps0_formula :DimensionalFormula**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.mu0_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L148-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L148-L156)
 **def
 Tau.BookIV.Calibration.mu0_formula :DimensionalFormula**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.derivation_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L158-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L158-L160)
 **def
 Tau.BookIV.Calibration.derivation_chain :List DimensionalFormula**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.derivation_chain_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L162-L163)
 **theorem
 Tau.BookIV.Calibration.derivation_chain_count :derivation_chain.length = 5**
 
@@ -391,7 +391,7 @@ Five formulas in the derivation chain.
 
 ### `Tau.BookIV.Calibration.maxwell_dimensional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L169-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L169-L176)
 **theorem
 Tau.BookIV.Calibration.maxwell_dimensional :eps0_formula.exponents.add mu0_formula.exponents = c_formula.exponents.scale (-2)**
 
@@ -404,7 +404,7 @@ This means ε₀ · μ₀ = (prefactor) / c², i.e. c² = prefactor / (ε₀ · 
 
 ### `Tau.BookIV.Calibration.maxwell_prefactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L178-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L178-L186)
 **theorem
 Tau.BookIV.Calibration.maxwell_prefactor :eps0_formula.coeff_numer * mu0_formula.coeff_numer = eps0_formula.coeff_denom * mu0_formula.coeff_denom ∧ eps0_formula.pi_power + mu0_formula.pi_power = 0**
 
@@ -422,7 +422,7 @@ The π-prefactors cancel: (8/1 · π⁻³) × (1/8 · π³) = 1.
 
 ### `Tau.BookIV.Calibration.maxwell_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L188-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L188-L200)
 **theorem
 Tau.BookIV.Calibration.maxwell_complete :(c_formula.exponents.scale 2).add (eps0_formula.exponents.add mu0_formula.exponents) = DimExponents.zero ∧ 2 * c_formula.pi_power + eps0_formula.pi_power + mu0_formula.pi_power = 0**
 
@@ -435,7 +435,7 @@ c² · ε₀ · μ₀ = 1 (dimensionless, coefficient = 1).
 
 ### `Tau.BookIV.Calibration.coulomb_permittivity_dimensional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L206-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L206-L211)
 **theorem
 Tau.BookIV.Calibration.coulomb_permittivity_dimensional :ke_formula.exponents.add eps0_formula.exponents = DimExponents.zero**
 
@@ -448,7 +448,7 @@ This is the dimensional content of k_e = 1/(4π · ε₀).
 
 ### `Tau.BookIV.Calibration.coulomb_permittivity_prefactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L213-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L213-L227)
 **theorem
 Tau.BookIV.Calibration.coulomb_permittivity_prefactor :ke_formula.coeff_numer * eps0_formula.coeff_numer * 4 = ke_formula.coeff_denom * eps0_formula.coeff_denom * 1 ∧ ke_formula.pi_power + eps0_formula.pi_power + 1 = 0**
 
@@ -472,7 +472,7 @@ So 32 = 32 ✓
 
 ### `Tau.BookIV.Calibration.SITier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L233-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L233-L238)
 **inductive
 Tau.BookIV.Calibration.SITier :Type**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprSITier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
 **def
 Tau.BookIV.Calibration.instReprSITier.repr :SITier → ℕ → Std.Format**
 
@@ -500,7 +500,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprSITier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
 **instance
 Tau.BookIV.Calibration.instReprSITier :Repr SITier**
 
@@ -511,7 +511,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instDecidableEqSITier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L238-L238)
 **instance
 Tau.BookIV.Calibration.instDecidableEqSITier :DecidableEq SITier**
 
@@ -522,7 +522,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.TieredConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L240-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L240-L244)
 **structure
 Tau.BookIV.Calibration.TieredConstant :Type**
 
@@ -537,7 +537,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprTieredConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L244-L244)
 **instance
 Tau.BookIV.Calibration.instReprTieredConstant :Repr TieredConstant**
 
@@ -548,7 +548,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprTieredConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L244-L244)
 **def
 Tau.BookIV.Calibration.instReprTieredConstant.repr :TieredConstant → ℕ → Std.Format**
 
@@ -560,7 +560,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.tiered_exact_constants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L246-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L246-L252)
 **def
 Tau.BookIV.Calibration.tiered_exact_constants :List TieredConstant**
 
@@ -574,7 +574,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.tiered_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L254-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L254-L257)
 **theorem
 Tau.BookIV.Calibration.tiered_count :(List.filter (fun (x : TieredConstant) => x.tier == SITier.Structural) tiered_exact_constants).length = 2 ∧ (List.filter (fun (x : TieredConstant) => x.tier == SITier.Physical) tiered_exact_constants).length = 2**
 
@@ -585,7 +585,7 @@ Two structural + two physical tier-I/II constants.
 
 ### `Tau.BookIV.Calibration.GravityFrontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L263-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L263-L279)
 **structure
 Tau.BookIV.Calibration.GravityFrontier :Type**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprGravityFrontier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L279-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L279-L279)
 **def
 Tau.BookIV.Calibration.instReprGravityFrontier.repr :GravityFrontier → ℕ → Std.Format**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprGravityFrontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L279-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L279-L279)
 **instance
 Tau.BookIV.Calibration.instReprGravityFrontier :Repr GravityFrontier**
 
@@ -639,7 +639,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.gravity_frontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L281-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L281-L282)
 **def
 Tau.BookIV.Calibration.gravity_frontier :GravityFrontier**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.g_is_deferred`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L284-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L284-L285)
 **theorem
 Tau.BookIV.Calibration.g_is_deferred :gravity_frontier.deferred = true**
 
@@ -664,7 +664,7 @@ G is deferred.
 
 ### `Tau.BookIV.Calibration.c_is_velocity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L291-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L291-L293)
 **theorem
 Tau.BookIV.Calibration.c_is_velocity :c_formula.exponents = { M := 0, L := 1, H := 1, Q := 0 }**
 
@@ -675,7 +675,7 @@ c is dimensionally velocity: [c] = L/T = L · H (since H = 1/T).
 
 ### `Tau.BookIV.Calibration.h_is_action`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L295-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L295-L297)
 **theorem
 Tau.BookIV.Calibration.h_is_action :h_formula.exponents = { M := 1, L := 2, H := 1, Q := 0 }**
 
@@ -686,7 +686,7 @@ h is dimensionally action: [h] = M · L² · T⁻¹ = M · L² · H.
 
 ### `Tau.BookIV.Calibration.eps0_mu0_inverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L299-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L299-L303)
 **theorem
 Tau.BookIV.Calibration.eps0_mu0_inverse :eps0_formula.exponents.add mu0_formula.exponents = { M := 0, L := -2, H := -2, Q := 0 }**
 
@@ -697,7 +697,7 @@ Tau.BookIV.Calibration.eps0_mu0_inverse :eps0_formula.exponents.add mu0_formula.
 
 ### `Tau.BookIV.Calibration.ke_eps0_inverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionalBridge.lean#L305-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionalBridge.lean#L305-L309)
 **theorem
 Tau.BookIV.Calibration.ke_eps0_inverse :ke_formula.exponents.add eps0_formula.exponents = DimExponents.zero**
 

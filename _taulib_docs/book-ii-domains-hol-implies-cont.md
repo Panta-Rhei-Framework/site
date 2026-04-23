@@ -57,7 +57,7 @@ Here, holomorphy = algebraic tower coherence, and continuity follows.
 
 ### `Tau.BookII.Domains.stage_local_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L39-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L39-L51)
 **def
 Tau.BookII.Domains.stage_local_check
 (sf : Holomorphy.StageFun)
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookII.Domains.stage_local_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L44-L50)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L44-L50)@[irreducible]
 
 **def
 Tau.BookII.Domains.stage_local_check.go
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookII.Domains.stage_local_batch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L53-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L53-L61)
 **def
 Tau.BookII.Domains.stage_local_batch
 (sf : Holomorphy.StageFun)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookII.Domains.stage_local_batch.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L57-L60)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L57-L60)@[irreducible]
 
 **def
 Tau.BookII.Domains.stage_local_batch.go
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cyl_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L67-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L67-L82)
 **def
 Tau.BookII.Domains.cyl_compat_check
 (sf : Holomorphy.StageFun)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cyl_compat_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L74-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L74-L81)@[irreducible]
 
 **def
 Tau.BookII.Domains.cyl_compat_check.go
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Domains.check_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L88-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L88-L99)
 **def
 Tau.BookII.Domains.check_depth
 (sf : Holomorphy.StageFun)
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookII.Domains.check_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L93-L98)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L93-L98)@[irreducible]
 
 **def
 Tau.BookII.Domains.check_depth.go
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.Domains.hol_cont_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L101-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L101-L116)
 **def
 Tau.BookII.Domains.hol_cont_check
 (sf : Holomorphy.StageFun)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookII.Domains.hol_cont_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L108-L115)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L108-L115)@[irreducible]
 
 **def
 Tau.BookII.Domains.hol_cont_check.go
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookII.Domains.chi_plus_local`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L139-L139)
 **theorem
 Tau.BookII.Domains.chi_plus_local :stage_local_batch Holomorphy.chi_plus_stage 4 20 = true**
 
@@ -258,7 +258,7 @@ Tau.BookII.Domains.chi_plus_local :stage_local_batch Holomorphy.chi_plus_stage 4
 
 ### `Tau.BookII.Domains.chi_minus_local`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L140-L140)
 **theorem
 Tau.BookII.Domains.chi_minus_local :stage_local_batch Holomorphy.chi_minus_stage 4 20 = true**
 
@@ -267,7 +267,7 @@ Tau.BookII.Domains.chi_minus_local :stage_local_batch Holomorphy.chi_minus_stage
 
 ### `Tau.BookII.Domains.id_local`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L141-L141)
 **theorem
 Tau.BookII.Domains.id_local :stage_local_batch Holomorphy.id_stage 4 20 = true**
 
@@ -276,7 +276,7 @@ Tau.BookII.Domains.id_local :stage_local_batch Holomorphy.id_stage 4 20 = true**
 
 ### `Tau.BookII.Domains.chi_plus_compat_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L143-L143)
 **theorem
 Tau.BookII.Domains.chi_plus_compat_k1 :cyl_compat_check Holomorphy.chi_plus_stage 1 20 = true**
 
@@ -285,7 +285,7 @@ Tau.BookII.Domains.chi_plus_compat_k1 :cyl_compat_check Holomorphy.chi_plus_stag
 
 ### `Tau.BookII.Domains.chi_plus_compat_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L144-L144)
 **theorem
 Tau.BookII.Domains.chi_plus_compat_k2 :cyl_compat_check Holomorphy.chi_plus_stage 2 20 = true**
 
@@ -294,7 +294,7 @@ Tau.BookII.Domains.chi_plus_compat_k2 :cyl_compat_check Holomorphy.chi_plus_stag
 
 ### `Tau.BookII.Domains.chi_minus_compat_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L145-L145)
 **theorem
 Tau.BookII.Domains.chi_minus_compat_k1 :cyl_compat_check Holomorphy.chi_minus_stage 1 20 = true**
 
@@ -303,7 +303,7 @@ Tau.BookII.Domains.chi_minus_compat_k1 :cyl_compat_check Holomorphy.chi_minus_st
 
 ### `Tau.BookII.Domains.id_compat_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L146-L146)
 **theorem
 Tau.BookII.Domains.id_compat_k1 :cyl_compat_check Holomorphy.id_stage 1 20 = true**
 
@@ -312,7 +312,7 @@ Tau.BookII.Domains.id_compat_k1 :cyl_compat_check Holomorphy.id_stage 1 20 = tru
 
 ### `Tau.BookII.Domains.chi_plus_cont`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L148-L148)
 **theorem
 Tau.BookII.Domains.chi_plus_cont :hol_cont_check Holomorphy.chi_plus_stage 4 15 = true**
 
@@ -321,7 +321,7 @@ Tau.BookII.Domains.chi_plus_cont :hol_cont_check Holomorphy.chi_plus_stage 4 15 
 
 ### `Tau.BookII.Domains.chi_minus_cont`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L149-L149)
 **theorem
 Tau.BookII.Domains.chi_minus_cont :hol_cont_check Holomorphy.chi_minus_stage 4 15 = true**
 
@@ -330,6 +330,6 @@ Tau.BookII.Domains.chi_minus_cont :hol_cont_check Holomorphy.chi_minus_stage 4 1
 
 ### `Tau.BookII.Domains.id_cont`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/HolImpliesCont.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/HolImpliesCont.lean#L150-L150)
 **theorem
 Tau.BookII.Domains.id_cont :hol_cont_check Holomorphy.id_stage 4 15 = true**

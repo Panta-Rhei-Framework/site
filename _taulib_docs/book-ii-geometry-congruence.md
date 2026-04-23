@@ -61,7 +61,7 @@ Tarski congruence axioms:
 
 ### `Tau.BookII.Geometry.congruent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L34-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L34-L38)
 **def
 Tau.BookII.Geometry.congruent
 (a b c d db : Denotation.TauIdx)
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_reflexivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L44-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L44-L54)
 **def
 Tau.BookII.Geometry.cong_reflexivity_check
 (bound db : Denotation.TauIdx)
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_reflexivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L49-L53)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L49-L53)@[irreducible]
 
 **def
 Tau.BookII.Geometry.cong_reflexivity_check.go
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L56-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L56-L69)
 **def
 Tau.BookII.Geometry.cong_identity_check
 (bound db : Denotation.TauIdx)
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L61-L68)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L61-L68)@[irreducible]
 
 **def
 Tau.BookII.Geometry.cong_identity_check.go
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_transitivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L71-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L71-L79)
 **def
 Tau.BookII.Geometry.cong_transitivity_check
 (bound db : Denotation.TauIdx)
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_five_segment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L81-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L81-L88)
 **def
 Tau.BookII.Geometry.cong_five_segment_check
 (db : Denotation.TauIdx)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.segment_construct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L94-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L94-L98)
 **def
 Tau.BookII.Geometry.segment_construct
 (d_val target_depth : Denotation.TauIdx)
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.segment_construct_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L100-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L100-L113)
 **def
 Tau.BookII.Geometry.segment_construct_check
 (bound db : Denotation.TauIdx)
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.segment_construct_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L104-L112)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L104-L112)@[irreducible]
 
 **def
 Tau.BookII.Geometry.segment_construct_check.go
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_refl_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L132-L132)
 **theorem
 Tau.BookII.Geometry.cong_refl_15 :cong_reflexivity_check 15 5 = true**
 
@@ -242,7 +242,7 @@ Tau.BookII.Geometry.cong_refl_15 :cong_reflexivity_check 15 5 = true**
 
 ### `Tau.BookII.Geometry.cong_ident_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L133-L133)
 **theorem
 Tau.BookII.Geometry.cong_ident_8 :cong_identity_check 8 5 = true**
 
@@ -251,7 +251,7 @@ Tau.BookII.Geometry.cong_ident_8 :cong_identity_check 8 5 = true**
 
 ### `Tau.BookII.Geometry.cong_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L134-L134)
 **theorem
 Tau.BookII.Geometry.cong_trans :cong_transitivity_check 15 5 = true**
 
@@ -260,6 +260,6 @@ Tau.BookII.Geometry.cong_trans :cong_transitivity_check 15 5 = true**
 
 ### `Tau.BookII.Geometry.five_seg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Congruence.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Congruence.lean#L135-L135)
 **theorem
 Tau.BookII.Geometry.five_seg :cong_five_segment_check 5 = true**

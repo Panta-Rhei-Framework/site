@@ -58,7 +58,7 @@ no 4th rewiring level exists. The iterator ladder saturates at 3 rewirings
 
 ### `Tau.Kernel.diagonal_channel_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L35-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L35-L39)
 **theorem
 Tau.Kernel.diagonal_channel_count :nonOmegaGenerators.length = 4**
 
@@ -71,7 +71,7 @@ This is the source of the diagonal discipline:
 
 ### `Tau.Kernel.nonOmega_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L41-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L41-L44)
 **theorem
 Tau.Kernel.nonOmega_complete
 (g : Generator)
@@ -86,7 +86,7 @@ The complete list of non-omega generators is [α, π, γ, η].
 
 ### `Tau.Kernel.solenoidalGenerators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L50-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L50-L52)
 **def
 Tau.Kernel.solenoidalGenerators :List Generator**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.Kernel.solenoidal_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L54-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L54-L56)
 **theorem
 Tau.Kernel.solenoidal_count :solenoidalGenerators.length = 3**
 
@@ -112,7 +112,7 @@ Exactly 3 solenoidal generators.
 
 ### `Tau.Kernel.solenoidal_ne_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L58-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L58-L62)
 **theorem
 Tau.Kernel.solenoidal_ne_alpha
 (g : Generator)
@@ -127,7 +127,7 @@ The solenoidal generators are distinct from α.
 
 ### `Tau.Kernel.solenoidal_ne_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L64-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L64-L68)
 **theorem
 Tau.Kernel.solenoidal_ne_omega
 (g : Generator)
@@ -142,7 +142,7 @@ The solenoidal generators are distinct from ω.
 
 ### `Tau.Kernel.rewiring_levels_eq_solenoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L70-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L70-L79)
 **theorem
 Tau.Kernel.rewiring_levels_eq_solenoidal :solenoidalGenerators.length = nonOmegaGenerators.length - 1**
 
@@ -164,7 +164,7 @@ No 4th level: α is the counting scaffold, ω is the beacon.
 
 ### `Tau.Kernel.alpha_unique_scaffold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Diagonal.lean#L81-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Diagonal.lean#L81-L85)
 **theorem
 Tau.Kernel.alpha_unique_scaffold :¬Generator.alpha ∈ solenoidalGenerators ∧ Generator.alpha ≠ Generator.omega**
 

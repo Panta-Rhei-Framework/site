@@ -61,7 +61,7 @@ five relational units, and the correction factor.
 
 ### `Tau.BookIV.Calibration.alpha_spec_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L34-L37)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L34-L37)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.alpha_spec_numer :ℕ**
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.alpha_spec_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L38-L38)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L38-L38)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.alpha_spec_denom :ℕ**
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.alpha_spec_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L40-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L40-L44)
 **theorem
 Tau.BookIV.Calibration.alpha_spec_range :alpha_spec_denom > 137 * alpha_spec_numer ∧ alpha_spec_denom < 139 * alpha_spec_numer**
 
@@ -102,7 +102,7 @@ The spectral formula gives 1/α between 137 and 139.
 
 ### `Tau.BookIV.Calibration.RelationalUnits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L57-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L57-L73)
 **structure
 Tau.BookIV.Calibration.RelationalUnits :Type**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalUnits.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L73-L73)
 **def
 Tau.BookIV.Calibration.instReprRelationalUnits.repr :RelationalUnits → ℕ → Std.Format**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalUnits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L73-L73)
 **instance
 Tau.BookIV.Calibration.instReprRelationalUnits :Repr RelationalUnits**
 
@@ -156,7 +156,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.relational_units`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L75-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L75-L84)
 **def
 Tau.BookIV.Calibration.relational_units :RelationalUnits**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.holonomy_formula_ch11`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L90-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L90-L102)
 **theorem
 Tau.BookIV.Calibration.holonomy_formula_ch11 :Sectors.holonomy_alpha.geom_numer = 31 ∧ Sectors.holonomy_alpha.geom_denom = 16 ∧ Sectors.holonomy_alpha.Q_exp + Sectors.holonomy_alpha.M_exp + Sectors.holonomy_alpha.H_exp + Sectors.holonomy_alpha.L_exp = -7**
 
@@ -185,7 +185,7 @@ Wraps FineStructure.holonomy_alpha with holonomy_correction.
 
 ### `Tau.BookIV.Calibration.CorrectionFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L115-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L115-L126)
 **structure
 Tau.BookIV.Calibration.CorrectionFactor :Type**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCorrectionFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L126-L126)
 **instance
 Tau.BookIV.Calibration.instReprCorrectionFactor :Repr CorrectionFactor**
 
@@ -220,7 +220,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprCorrectionFactor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L126-L126)
 **def
 Tau.BookIV.Calibration.instReprCorrectionFactor.repr :CorrectionFactor → ℕ → Std.Format**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.correction_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L128-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessAlpha.lean#L128-L134)
 **def
 Tau.BookIV.Calibration.correction_factor :CorrectionFactor**
 

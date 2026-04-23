@@ -112,7 +112,7 @@ and heating.
 
 ### `Tau.BookV.FluidMacro.MHDApprox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L70-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L70-L78)
 **inductive
 Tau.BookV.FluidMacro.MHDApprox :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDApprox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
 **instance
 Tau.BookV.FluidMacro.instReprMHDApprox :Repr MHDApprox**
 
@@ -145,7 +145,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMHDApprox.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
 **def
 Tau.BookV.FluidMacro.instReprMHDApprox.repr :MHDApprox → ℕ → Std.Format**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMHDApprox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqMHDApprox :DecidableEq MHDApprox**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqMHDApprox.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
 **def
 Tau.BookV.FluidMacro.instBEqMHDApprox.beq :MHDApprox → MHDApprox → Bool**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqMHDApprox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L78-L78)
 **instance
 Tau.BookV.FluidMacro.instBEqMHDApprox :BEq MHDApprox**
 
@@ -191,7 +191,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.TauMHDSystem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L80-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L80-L98)
 **structure
 Tau.BookV.FluidMacro.TauMHDSystem :Type**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauMHDSystem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L98-L98)
 **instance
 Tau.BookV.FluidMacro.instReprTauMHDSystem :Repr TauMHDSystem**
 
@@ -237,7 +237,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprTauMHDSystem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L98-L98)
 **def
 Tau.BookV.FluidMacro.instReprTauMHDSystem.repr :TauMHDSystem → ℕ → Std.Format**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauMHDSystem.magReynolds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L100-L102)
 **def
 Tau.BookV.FluidMacro.TauMHDSystem.magReynolds
 (s : TauMHDSystem)
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MagneticPressureTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L108-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L108-L125)
 **structure
 Tau.BookV.FluidMacro.MagneticPressureTension :Type**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagneticPressureTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L125-L125)
 **instance
 Tau.BookV.FluidMacro.instReprMagneticPressureTension :Repr MagneticPressureTension**
 
@@ -309,7 +309,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMagneticPressureTension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L125-L125)
 **def
 Tau.BookV.FluidMacro.instReprMagneticPressureTension.repr :MagneticPressureTension → ℕ → Std.Format**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.tension_pressure_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L127-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L127-L129)
 **theorem
 Tau.BookV.FluidMacro.tension_pressure_ratio
 (mpt : MagneticPressureTension)
@@ -334,7 +334,7 @@ Tension-to-pressure ratio is exactly 2.
 
 ### `Tau.BookV.FluidMacro.FrozenFluxTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L135-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L135-L149)
 **structure
 Tau.BookV.FluidMacro.FrozenFluxTheorem :Type**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFrozenFluxTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L149-L149)
 **def
 Tau.BookV.FluidMacro.instReprFrozenFluxTheorem.repr :FrozenFluxTheorem → ℕ → Std.Format**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFrozenFluxTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L149-L149)
 **instance
 Tau.BookV.FluidMacro.instReprFrozenFluxTheorem :Repr FrozenFluxTheorem**
 
@@ -385,7 +385,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.frozen_flux_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L151-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L151-L153)
 **theorem
 Tau.BookV.FluidMacro.frozen_flux_theorem
 (fft : FrozenFluxTheorem)
@@ -398,7 +398,7 @@ Frozen flux requires ideal MHD.
 
 ### `Tau.BookV.FluidMacro.DynamoType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L159-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L159-L167)
 **inductive
 Tau.BookV.FluidMacro.DynamoType :Type**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDynamoType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
 **def
 Tau.BookV.FluidMacro.instReprDynamoType.repr :DynamoType → ℕ → Std.Format**
 
@@ -432,7 +432,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDynamoType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
 **instance
 Tau.BookV.FluidMacro.instReprDynamoType :Repr DynamoType**
 
@@ -443,7 +443,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqDynamoType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqDynamoType :DecidableEq DynamoType**
 
@@ -454,7 +454,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqDynamoType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
 **instance
 Tau.BookV.FluidMacro.instBEqDynamoType :BEq DynamoType**
 
@@ -465,7 +465,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqDynamoType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L167-L167)
 **def
 Tau.BookV.FluidMacro.instBEqDynamoType.beq :DynamoType → DynamoType → Bool**
 
@@ -477,7 +477,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MHDDynamo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L169-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L169-L183)
 **structure
 Tau.BookV.FluidMacro.MHDDynamo :Type**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDDynamo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L183-L183)
 **instance
 Tau.BookV.FluidMacro.instReprMHDDynamo :Repr MHDDynamo**
 
@@ -517,7 +517,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMHDDynamo.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L183-L183)
 **def
 Tau.BookV.FluidMacro.instReprMHDDynamo.repr :MHDDynamo → ℕ → Std.Format**
 
@@ -529,7 +529,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.dynamo_requires_broken_symmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L185-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L185-L189)
 **theorem
 Tau.BookV.FluidMacro.dynamo_requires_broken_symmetry
 (_d : MHDDynamo)
@@ -546,7 +546,7 @@ Self-sustaining dynamo requires broken symmetry.
 
 ### `Tau.BookV.FluidMacro.magnetic_energy_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L195-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L195-L203)
 **theorem
 Tau.BookV.FluidMacro.magnetic_energy_bound
 (mpt : MagneticPressureTension)
@@ -568,7 +568,7 @@ Follows from compactness of τ³ and the defect-budget constraint.
 
 ### `Tau.BookV.FluidMacro.ReconnectionEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L209-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L209-L221)
 **structure
 Tau.BookV.FluidMacro.ReconnectionEvent :Type**
 
@@ -594,7 +594,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprReconnectionEvent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L221-L221)
 **def
 Tau.BookV.FluidMacro.instReprReconnectionEvent.repr :ReconnectionEvent → ℕ → Std.Format**
 
@@ -606,7 +606,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprReconnectionEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L221-L221)
 **instance
 Tau.BookV.FluidMacro.instReprReconnectionEvent :Repr ReconnectionEvent**
 
@@ -617,7 +617,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.ReconnectionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L227-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L227-L240)
 **structure
 Tau.BookV.FluidMacro.ReconnectionRate :Type**
 
@@ -643,7 +643,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprReconnectionRate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L240-L240)
 **def
 Tau.BookV.FluidMacro.instReprReconnectionRate.repr :ReconnectionRate → ℕ → Std.Format**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprReconnectionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L240-L240)
 **instance
 Tau.BookV.FluidMacro.instReprReconnectionRate :Repr ReconnectionRate**
 
@@ -666,7 +666,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.reconnection_rate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L242-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L242-L246)
 **theorem
 Tau.BookV.FluidMacro.reconnection_rate
 (slow fast : ReconnectionRate)
@@ -685,7 +685,7 @@ Fast reconnection has higher inflow Mach number.
 
 ### `Tau.BookV.FluidMacro.ForceFreeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L252-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L252-L264)
 **structure
 Tau.BookV.FluidMacro.ForceFreeConfig :Type**
 
@@ -711,7 +711,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprForceFreeConfig.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L264-L264)
 **def
 Tau.BookV.FluidMacro.instReprForceFreeConfig.repr :ForceFreeConfig → ℕ → Std.Format**
 
@@ -723,7 +723,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprForceFreeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L264-L264)
 **instance
 Tau.BookV.FluidMacro.instReprForceFreeConfig :Repr ForceFreeConfig**
 
@@ -734,7 +734,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.force_free_equilibrium`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L266-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L266-L269)
 **theorem
 Tau.BookV.FluidMacro.force_free_equilibrium
 (ff : ForceFreeConfig)
@@ -749,7 +749,7 @@ Force-free implies J parallel to B.
 
 ### `Tau.BookV.FluidMacro.FastReconnectionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L275-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L275-L296)
 **structure
 Tau.BookV.FluidMacro.FastReconnectionRate :Type**
 
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFastReconnectionRate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L296-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L296-L296)
 **def
 Tau.BookV.FluidMacro.instReprFastReconnectionRate.repr :FastReconnectionRate → ℕ → Std.Format**
 
@@ -799,7 +799,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFastReconnectionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L296-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L296-L296)
 **instance
 Tau.BookV.FluidMacro.instReprFastReconnectionRate :Repr FastReconnectionRate**
 
@@ -810,7 +810,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.fast_reconnection_rate_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L298-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L298-L299)
 **def
 Tau.BookV.FluidMacro.fast_reconnection_rate_tau :FastReconnectionRate**
 
@@ -824,7 +824,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.fast_reconnection_is_iota_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L305-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L305-L311)
 **theorem
 Tau.BookV.FluidMacro.fast_reconnection_is_iota_sq :fast_reconnection_rate_tau.free_params = 0**
 
@@ -839,7 +839,7 @@ parameters. Matches observed ~0.1 v_A to within 0.6σ.
 
 ### `Tau.BookV.FluidMacro.SolarFlareConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L317-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L317-L331)
 **structure
 Tau.BookV.FluidMacro.SolarFlareConsistency :Type**
 
@@ -868,7 +868,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprSolarFlareConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L331-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L331-L331)
 **instance
 Tau.BookV.FluidMacro.instReprSolarFlareConsistency :Repr SolarFlareConsistency**
 
@@ -879,7 +879,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprSolarFlareConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L331-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L331-L331)
 **def
 Tau.BookV.FluidMacro.instReprSolarFlareConsistency.repr :SolarFlareConsistency → ℕ → Std.Format**
 
@@ -891,7 +891,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.solar_flare_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L333-L334)
 **def
 Tau.BookV.FluidMacro.solar_flare_consistency :SolarFlareConsistency**
 
@@ -905,7 +905,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_mhd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L352-L358)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L352-L358)
 **def
 Tau.BookV.FluidMacro.example_mhd :TauMHDSystem**
 
@@ -919,7 +919,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_mpt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L363-L369)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L363-L369)
 **def
 Tau.BookV.FluidMacro.example_mpt :MagneticPressureTension**
 
@@ -933,7 +933,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_reconnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauMHD.lean#L374-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauMHD.lean#L374-L377)
 **def
 Tau.BookV.FluidMacro.example_reconnection :ReconnectionEvent**
 

@@ -108,7 +108,7 @@ can merge two; no sixth exists.
 
 ### `Tau.BookV.Coda.HermeticIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L72-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L72-L91)
 **structure
 Tau.BookV.Coda.HermeticIdentity :Type**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L91-L91)
 **instance
 Tau.BookV.Coda.instReprHermeticIdentity :Repr HermeticIdentity**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprHermeticIdentity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L91-L91)
 **def
 Tau.BookV.Coda.instReprHermeticIdentity.repr :HermeticIdentity → ℕ → Std.Format**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L93-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L93-L98)
 **def
 Tau.BookV.Coda.hermetic_identity :HermeticIdentity**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_identity_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L100-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L100-L106)
 **theorem
 Tau.BookV.Coda.hermetic_identity_thm :hermetic_identity.base_gens + hermetic_identity.fiber_gens = 5 ∧ hermetic_identity.iota_in_both = true ∧ hermetic_identity.decomp_exact = true**
 
@@ -193,7 +193,7 @@ Hermetic Identity: 2 base + 3 fiber, ι<sub>τ</sub> in both, exact.
 
 ### `Tau.BookV.Coda.generators_total_five`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L108-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L108-L110)
 **theorem
 Tau.BookV.Coda.generators_total_five :2 + 3 = 5**
 
@@ -204,7 +204,7 @@ Base + fiber generators sum to 5: 2 + 3 = 5.
 
 ### `Tau.BookV.Coda.identity_matches_hermetic_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L112-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L112-L118)
 **theorem
 Tau.BookV.Coda.identity_matches_hermetic_data :hermetic_identity.base_gens = hermetic_data.base_generators ∧ hermetic_identity.fiber_gens = hermetic_data.fiber_generators**
 
@@ -215,7 +215,7 @@ Hermetic Identity matches Hermetic Truth data in BridgeToLife.
 
 ### `Tau.BookV.Coda.PhysicsSelfDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L124-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L124-L141)
 **structure
 Tau.BookV.Coda.PhysicsSelfDescription :Type**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprPhysicsSelfDescription.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L141-L141)
 **def
 Tau.BookV.Coda.instReprPhysicsSelfDescription.repr :PhysicsSelfDescription → ℕ → Std.Format**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprPhysicsSelfDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L141-L141)
 **instance
 Tau.BookV.Coda.instReprPhysicsSelfDescription :Repr PhysicsSelfDescription**
 
@@ -271,7 +271,7 @@ Equations
 
 ### `Tau.BookV.Coda.self_description`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L143-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L143-L144)
 **def
 Tau.BookV.Coda.self_description :PhysicsSelfDescription**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookV.Coda.physics_self_description`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L146-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L146-L151)
 **theorem
 Tau.BookV.Coda.physics_self_description :self_description.yoneda_restriction = true ∧ self_description.all_observables_boundary = true ∧ self_description.self_description_exact = true**
 
@@ -296,7 +296,7 @@ Physics is self-describing: Yoneda restriction, all observables boundary.
 
 ### `Tau.BookV.Coda.HermeticClosureThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L157-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L157-L174)
 **structure
 Tau.BookV.Coda.HermeticClosureThm :Type**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticClosureThm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L174-L174)
 **def
 Tau.BookV.Coda.instReprHermeticClosureThm.repr :HermeticClosureThm → ℕ → Std.Format**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticClosureThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L174-L174)
 **instance
 Tau.BookV.Coda.instReprHermeticClosureThm :Repr HermeticClosureThm**
 
@@ -352,7 +352,7 @@ Equations
 
 ### `Tau.BookV.Coda.hermetic_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L176-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L176-L179)
 **def
 Tau.BookV.Coda.hermetic_closure :HermeticClosureThm**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_closure_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L181-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L181-L186)
 **theorem
 Tau.BookV.Coda.hermetic_closure_thm :hermetic_closure.n_sectors = 5 ∧ hermetic_closure.observer_conditions = true ∧ hermetic_closure.not_anthropic = true**
 
@@ -377,7 +377,7 @@ Hermetic Closure: 5 sectors produce observer conditions structurally.
 
 ### `Tau.BookV.Coda.HermeticTruthComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L192-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L192-L214)
 **structure
 Tau.BookV.Coda.HermeticTruthComplete :Type**
 
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticTruthComplete.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L214-L214)
 **def
 Tau.BookV.Coda.instReprHermeticTruthComplete.repr :HermeticTruthComplete → ℕ → Std.Format**
 
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticTruthComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L214-L214)
 **instance
 Tau.BookV.Coda.instReprHermeticTruthComplete :Repr HermeticTruthComplete**
 
@@ -439,7 +439,7 @@ Equations
 
 ### `Tau.BookV.Coda.hermetic_truth_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L216-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L216-L217)
 **def
 Tau.BookV.Coda.hermetic_truth_complete :HermeticTruthComplete**
 
@@ -453,7 +453,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_truth_complete_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L219-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L219-L226)
 **theorem
 Tau.BookV.Coda.hermetic_truth_complete_thm :hermetic_truth_complete.microphysics_complete = true ∧ hermetic_truth_complete.macrophysics_complete = true ∧ hermetic_truth_complete.observer_conditions = true ∧ hermetic_truth_complete.single_object = true ∧ hermetic_truth_complete.two_projections = true**
 
@@ -464,7 +464,7 @@ Complete Hermetic Truth: all physics + observers from single τ³.
 
 ### `Tau.BookV.Coda.GeneratorUniversality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L232-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L232-L253)
 **structure
 Tau.BookV.Coda.GeneratorUniversality :Type**
 
@@ -502,7 +502,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprGeneratorUniversality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L253-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L253-L253)
 **instance
 Tau.BookV.Coda.instReprGeneratorUniversality :Repr GeneratorUniversality**
 
@@ -513,7 +513,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprGeneratorUniversality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L253-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L253-L253)
 **def
 Tau.BookV.Coda.instReprGeneratorUniversality.repr :GeneratorUniversality → ℕ → Std.Format**
 
@@ -525,7 +525,7 @@ Instances For
 
 ### `Tau.BookV.Coda.gen_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L255-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L255-L258)
 **def
 Tau.BookV.Coda.gen_universality :GeneratorUniversality**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookV.Coda.generator_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L260-L265)
 **theorem
 Tau.BookV.Coda.generator_universality :gen_universality.n_generators = 5 ∧ gen_universality.no_rg_flow = true ∧ gen_universality.depth_dependent = true**
 
@@ -550,7 +550,7 @@ Generator universality: 5 generators, no RG flow, depth-dependent coupling.
 
 ### `Tau.BookV.Coda.gen_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L267-L269)
 **theorem
 Tau.BookV.Coda.gen_sum :2 + 3 = 5**
 
@@ -561,7 +561,7 @@ Base + fiber = total generators: 2 + 3 = 5.
 
 ### `Tau.BookV.Coda.StructuralRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L275-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L275-L298)
 **structure
 Tau.BookV.Coda.StructuralRigidity :Type**
 
@@ -607,7 +607,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprStructuralRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L298-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L298-L298)
 **instance
 Tau.BookV.Coda.instReprStructuralRigidity :Repr StructuralRigidity**
 
@@ -618,7 +618,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprStructuralRigidity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L298-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L298-L298)
 **def
 Tau.BookV.Coda.instReprStructuralRigidity.repr :StructuralRigidity → ℕ → Std.Format**
 
@@ -630,7 +630,7 @@ Instances For
 
 ### `Tau.BookV.Coda.rigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L300-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L300-L303)
 **def
 Tau.BookV.Coda.rigidity :StructuralRigidity**
 
@@ -644,7 +644,7 @@ Instances For
 
 ### `Tau.BookV.Coda.structural_rigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L305-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L305-L311)
 **theorem
 Tau.BookV.Coda.structural_rigidity :rigidity.n_axioms = 7 ∧ rigidity.kernel_unique = true ∧ rigidity.all_derived = true ∧ rigidity.no_variation = true**
 
@@ -655,7 +655,7 @@ Structural rigidity: 7 axioms, unique kernel, all derived, no variation.
 
 ### `Tau.BookV.Coda.rigidity_matches_calibration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L313-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L313-L316)
 **theorem
 Tau.BookV.Coda.rigidity_matches_calibration :rigidity.n_axioms > rigidity.n_free**
 
@@ -666,7 +666,7 @@ Rigidity: axiom count exceeds free parameter count.
 
 ### `Tau.BookV.Coda.PermanentSectorDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L322-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L322-L343)
 **structure
 Tau.BookV.Coda.PermanentSectorDistinction :Type**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprPermanentSectorDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L343-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L343-L343)
 **def
 Tau.BookV.Coda.instReprPermanentSectorDistinction.repr :PermanentSectorDistinction → ℕ → Std.Format**
 
@@ -721,7 +721,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprPermanentSectorDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L343-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L343-L343)
 **instance
 Tau.BookV.Coda.instReprPermanentSectorDistinction :Repr PermanentSectorDistinction**
 
@@ -732,7 +732,7 @@ Equations
 
 ### `Tau.BookV.Coda.sector_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L345-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L345-L348)
 **def
 Tau.BookV.Coda.sector_distinction :PermanentSectorDistinction**
 
@@ -746,7 +746,7 @@ Instances For
 
 ### `Tau.BookV.Coda.permanent_sector_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L350-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L350-L356)
 **theorem
 Tau.BookV.Coda.permanent_sector_distinction :sector_distinction.n_sectors = 5 ∧ sector_distinction.topologically_distinct = true ∧ sector_distinction.no_sixth = true ∧ sector_distinction.permanent = true**
 
@@ -757,7 +757,7 @@ Permanent sectors: 5 distinct, no 6th, permanent.
 
 ### `Tau.BookV.Coda.sector_budget_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L358-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L358-L360)
 **theorem
 Tau.BookV.Coda.sector_budget_exact :5 = 2 + 3**
 
@@ -768,7 +768,7 @@ Sector budget = base + fiber: 5 = 2 + 3.
 
 ### `Tau.BookV.Coda.closure_sectors_eq_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L362-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L362-L365)
 **theorem
 Tau.BookV.Coda.closure_sectors_eq_distinction :hermetic_closure.n_sectors = sector_distinction.n_sectors**
 
@@ -779,7 +779,7 @@ Sectors match Hermetic Closure count (V.T161).
 
 ### `Tau.BookV.Coda.distinction_matches_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L367-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L367-L370)
 **theorem
 Tau.BookV.Coda.distinction_matches_universality :sector_distinction.n_sectors = gen_universality.n_generators**
 
@@ -790,7 +790,7 @@ Sector count matches generator universality (V.P119).
 
 ### `Tau.BookV.Coda.capstone_combines_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/HermeticClosure.lean#L372-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/HermeticClosure.lean#L372-L378)
 **theorem
 Tau.BookV.Coda.capstone_combines_three :hermetic_identity.decomp_exact = true ∧ self_description.self_description_exact = true ∧ hermetic_closure.observer_conditions = true ∧ hermetic_truth_complete.single_object = true**
 

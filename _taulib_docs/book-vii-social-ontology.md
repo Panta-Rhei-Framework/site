@@ -93,7 +93,7 @@ VII.P25 (Legitimacy as Recognition Coherence), VII.D81 (Ritual as Social Gluing)
 
 ### `Tau.BookVII.Social.Ontology.SocialBaseSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L52-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L52-L67)
 **structure
 Tau.BookVII.Social.Ontology.SocialBaseSpace :Type**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialBaseSpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L67-L67)
 **def
 Tau.BookVII.Social.Ontology.instReprSocialBaseSpace.repr :SocialBaseSpace → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialBaseSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L67-L67)
 **instance
 Tau.BookVII.Social.Ontology.instReprSocialBaseSpace :Repr SocialBaseSpace**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.social_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L69-L69)
 **def
 Tau.BookVII.Social.Ontology.social_base :SocialBaseSpace**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.RecognitionTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L75-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L75-L90)
 **structure
 Tau.BookVII.Social.Ontology.RecognitionTopology :Type**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRecognitionTopology.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L90-L90)
 **def
 Tau.BookVII.Social.Ontology.instReprRecognitionTopology.repr :RecognitionTopology → ℕ → Std.Format**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRecognitionTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L90-L90)
 **instance
 Tau.BookVII.Social.Ontology.instReprRecognitionTopology :Repr RecognitionTopology**
 
@@ -211,7 +211,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.recognition_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L92-L92)
 **def
 Tau.BookVII.Social.Ontology.recognition_topology :RecognitionTopology**
 
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.SocialSheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L98-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L98-L113)
 **structure
 Tau.BookVII.Social.Ontology.SocialSheaf :Type**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialSheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L113-L113)
 **instance
 Tau.BookVII.Social.Ontology.instReprSocialSheaf :Repr SocialSheaf**
 
@@ -264,7 +264,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialSheaf.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L113-L113)
 **def
 Tau.BookVII.Social.Ontology.instReprSocialSheaf.repr :SocialSheaf → ℕ → Std.Format**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.social_sheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L115-L115)
 **def
 Tau.BookVII.Social.Ontology.social_sheaf :SocialSheaf**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.social_ontology_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L121-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L121-L139)
 **theorem
 Tau.BookVII.Social.Ontology.social_ontology_well_defined :social_base.non_empty = true ∧ social_base.dignity_bearing = true ∧ recognition_topology.is_grothendieck = true ∧ social_sheaf.gluing_condition = true ∧ social_sheaf.dignity_constraint = true**
 
@@ -310,7 +310,7 @@ Proof: (1) non-empty by VII.T30 Dignity Universality.
 
 ### `Tau.BookVII.Social.Ontology.social_base_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L145-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L145-L153)
 **theorem
 Tau.BookVII.Social.Ontology.social_base_well_defined :social_base.non_empty = true ∧ social_base.is_coproduct = true ∧ social_base.dignity_bearing = true ∧ social_base.components_connected = true**
 
@@ -323,7 +323,7 @@ topology well-defined, each component connected.
 
 ### `Tau.BookVII.Social.Ontology.recognition_topology_generation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L159-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L159-L167)
 **theorem
 Tau.BookVII.Social.Ontology.recognition_topology_generation :recognition_topology.has_recognition_morphisms = true ∧ recognition_topology.is_grothendieck = true ∧ recognition_topology.pullback_stable = true ∧ recognition_topology.covers_mutual = true**
 
@@ -336,7 +336,7 @@ pullback stability from J_τ, covers satisfy mutual recognition.
 
 ### `Tau.BookVII.Social.Ontology.social_sheaf_construction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L173-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L173-L180)
 **theorem
 Tau.BookVII.Social.Ontology.social_sheaf_construction :social_sheaf.is_presheaf = true ∧ social_sheaf.gluing_condition = true ∧ social_sheaf.locality_condition = true ∧ social_sheaf.dignity_constraint = true**
 
@@ -348,7 +348,7 @@ on (Ω_soc, J_rec). Presheaf structure + gluing + locality + dignity.
 
 ### `Tau.BookVII.Social.Ontology.CollectiveIntentionality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L186-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L186-L205)
 **structure
 Tau.BookVII.Social.Ontology.CollectiveIntentionality :Type**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprCollectiveIntentionality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L205-L205)
 **def
 Tau.BookVII.Social.Ontology.instReprCollectiveIntentionality.repr :CollectiveIntentionality → ℕ → Std.Format**
 
@@ -394,7 +394,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprCollectiveIntentionality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L205-L205)
 **instance
 Tau.BookVII.Social.Ontology.instReprCollectiveIntentionality :Repr CollectiveIntentionality**
 
@@ -405,7 +405,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.collective_intention`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L207-L207)
 **def
 Tau.BookVII.Social.Ontology.collective_intention :CollectiveIntentionality**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.collective_intentionality_glued`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L209-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L209-L217)
 **theorem
 Tau.BookVII.Social.Ontology.collective_intentionality_glued :collective_intention.has_local_sections = true ∧ collective_intention.overlap_compatible = true ∧ collective_intention.global_section_unique = true ∧ collective_intention.dignity_preserving = true**
 
@@ -430,7 +430,7 @@ produces a unique global "we-intention."
 
 ### `Tau.BookVII.Social.Ontology.SocialSphere`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L223-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L223-L234)
 **structure
 Tau.BookVII.Social.Ontology.SocialSphere :Type**
 
@@ -455,7 +455,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialSphere`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L234-L234)
 **instance
 Tau.BookVII.Social.Ontology.instReprSocialSphere :Repr SocialSphere**
 
@@ -466,7 +466,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprSocialSphere.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L234-L234)
 **def
 Tau.BookVII.Social.Ontology.instReprSocialSphere.repr :SocialSphere → ℕ → Std.Format**
 
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.canonical_sphere`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L236-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L236-L236)
 **def
 Tau.BookVII.Social.Ontology.canonical_sphere :SocialSphere**
 
@@ -490,7 +490,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.PowerModality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L242-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L242-L249)
 **inductive
 Tau.BookVII.Social.Ontology.PowerModality :Type**
 
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instDecidableEqPowerModality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L249-L249)
 **instance
 Tau.BookVII.Social.Ontology.instDecidableEqPowerModality :DecidableEq PowerModality**
 
@@ -519,7 +519,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprPowerModality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L249-L249)
 **instance
 Tau.BookVII.Social.Ontology.instReprPowerModality :Repr PowerModality**
 
@@ -530,7 +530,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprPowerModality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L249-L249)
 **def
 Tau.BookVII.Social.Ontology.instReprPowerModality.repr :PowerModality → ℕ → Std.Format**
 
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.PowerRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L251-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L251-L272)
 **structure
 Tau.BookVII.Social.Ontology.PowerRelation :Type**
 
@@ -579,7 +579,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprPowerRelation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L272-L272)
 **def
 Tau.BookVII.Social.Ontology.instReprPowerRelation.repr :PowerRelation → ℕ → Std.Format**
 
@@ -591,7 +591,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprPowerRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L272-L272)
 **instance
 Tau.BookVII.Social.Ontology.instReprPowerRelation :Repr PowerRelation**
 
@@ -602,7 +602,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.canonical_power`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L274-L274)
 **def
 Tau.BookVII.Social.Ontology.canonical_power :PowerRelation**
 
@@ -614,7 +614,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.Sovereignty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L276-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L276-L284)
 **structure
 Tau.BookVII.Social.Ontology.Sovereignty :Type**
 
@@ -635,7 +635,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSovereignty.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L284-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L284-L284)
 **def
 Tau.BookVII.Social.Ontology.instReprSovereignty.repr :Sovereignty → ℕ → Std.Format**
 
@@ -647,7 +647,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSovereignty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L284-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L284-L284)
 **instance
 Tau.BookVII.Social.Ontology.instReprSovereignty :Repr Sovereignty**
 
@@ -658,7 +658,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.sovereignty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L286-L286)
 **def
 Tau.BookVII.Social.Ontology.sovereignty :Sovereignty**
 
@@ -670,7 +670,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.power_morphism_well_typed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L292-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L292-L300)
 **theorem
 Tau.BookVII.Social.Ontology.power_morphism_well_typed :canonical_power.asymmetric = true ∧ canonical_power.has_scope = true ∧ canonical_power.backed_by_social_category = true ∧ canonical_power.well_typed = true**
 
@@ -683,7 +683,7 @@ modality are all structural (categorical vocabulary).
 
 ### `Tau.BookVII.Social.Ontology.LegitimacyConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L306-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L306-L332)
 **structure
 Tau.BookVII.Social.Ontology.LegitimacyConditions :Type**
 
@@ -726,7 +726,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprLegitimacyConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L332-L332)
 **instance
 Tau.BookVII.Social.Ontology.instReprLegitimacyConditions :Repr LegitimacyConditions**
 
@@ -737,7 +737,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprLegitimacyConditions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L332-L332)
 **def
 Tau.BookVII.Social.Ontology.instReprLegitimacyConditions.repr :LegitimacyConditions → ℕ → Std.Format**
 
@@ -749,7 +749,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.legitimacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L334-L334)
 **def
 Tau.BookVII.Social.Ontology.legitimacy :LegitimacyConditions**
 
@@ -761,7 +761,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.legitimacy_sheaf_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L340-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L340-L348)
 **theorem
 Tau.BookVII.Social.Ontology.legitimacy_sheaf_connection :legitimacy.coherence_gluing = true ∧ Ethics.CIProof.ci_naturality.separated = true ∧ Ethics.CIProof.ci_naturality.naturality = true**
 
@@ -775,7 +775,7 @@ is equivalent to Kant's universalizability test.
 
 ### `Tau.BookVII.Social.Ontology.legitimacy_dignity_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L354-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L354-L362)
 **theorem
 Tau.BookVII.Social.Ontology.legitimacy_dignity_connection :legitimacy.dignity_preserving = true ∧ Ethics.CIProof.dignity.has_reflector = true ∧ Ethics.CIProof.dignity.reflector_idempotent = true**
 
@@ -789,7 +789,7 @@ is idempotent, every NF-address-bearing entity has non-trivial D(X).
 
 ### `Tau.BookVII.Social.Ontology.legitimacy_from_ci`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L368-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L368-L377)
 **theorem
 Tau.BookVII.Social.Ontology.legitimacy_from_ci :legitimacy.ci_justified = true ∧ Ethics.CIProof.ci_graph.j_closed = true ∧ Ethics.CIProof.ci_graph.fixed_point = true**
 
@@ -804,7 +804,7 @@ Power that passes CI is legitimate by construction.
 
 ### `Tau.BookVII.Social.Ontology.LegitimacyCrisis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L383-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L383-L398)
 **structure
 Tau.BookVII.Social.Ontology.LegitimacyCrisis :Type**
 
@@ -838,7 +838,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprLegitimacyCrisis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L398-L398)
 **instance
 Tau.BookVII.Social.Ontology.instReprLegitimacyCrisis :Repr LegitimacyCrisis**
 
@@ -849,7 +849,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprLegitimacyCrisis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L398-L398)
 **def
 Tau.BookVII.Social.Ontology.instReprLegitimacyCrisis.repr :LegitimacyCrisis → ℕ → Std.Format**
 
@@ -861,7 +861,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.legitimacy_crisis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L400-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L400-L400)
 **def
 Tau.BookVII.Social.Ontology.legitimacy_crisis :LegitimacyCrisis**
 
@@ -873,7 +873,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.RitualStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L406-L428)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L406-L428)
 **structure
 Tau.BookVII.Social.Ontology.RitualStructure :Type**
 
@@ -911,7 +911,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRitualStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L428-L428)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L428-L428)
 **def
 Tau.BookVII.Social.Ontology.instReprRitualStructure.repr :RitualStructure → ℕ → Std.Format**
 
@@ -923,7 +923,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRitualStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L428-L428)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L428-L428)
 **instance
 Tau.BookVII.Social.Ontology.instReprRitualStructure :Repr RitualStructure**
 
@@ -934,7 +934,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.ritual`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L430-L430)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L430-L430)
 **def
 Tau.BookVII.Social.Ontology.ritual :RitualStructure**
 
@@ -946,7 +946,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.ritual_gluing_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L436-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L436-L446)
 **theorem
 Tau.BookVII.Social.Ontology.ritual_gluing_well_defined :ritual.stereotypy = true ∧ ritual.synchrony = true ∧ ritual.collective_scope = true ∧ ritual.transformation = true ∧ social_sheaf.gluing_condition = true**
 
@@ -960,7 +960,7 @@ collective scope = sheaf axiom, transformation = global observation.
 
 ### `Tau.BookVII.Social.Ontology.RitualFailure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L452-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L452-L464)
 **structure
 Tau.BookVII.Social.Ontology.RitualFailure :Type**
 
@@ -992,7 +992,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRitualFailure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L464-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L464-L464)
 **instance
 Tau.BookVII.Social.Ontology.instReprRitualFailure :Repr RitualFailure**
 
@@ -1003,7 +1003,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprRitualFailure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L464-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L464-L464)
 **def
 Tau.BookVII.Social.Ontology.instReprRitualFailure.repr :RitualFailure → ℕ → Std.Format**
 
@@ -1015,7 +1015,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.ritual_failure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L466-L466)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L466-L466)
 **def
 Tau.BookVII.Social.Ontology.ritual_failure :RitualFailure**
 
@@ -1027,7 +1027,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.RiteOfPassage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L472-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L472-L487)
 **structure
 Tau.BookVII.Social.Ontology.RiteOfPassage :Type**
 
@@ -1057,7 +1057,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRiteOfPassage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L487-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L487-L487)
 **def
 Tau.BookVII.Social.Ontology.instReprRiteOfPassage.repr :RiteOfPassage → ℕ → Std.Format**
 
@@ -1069,7 +1069,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprRiteOfPassage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L487-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L487-L487)
 **instance
 Tau.BookVII.Social.Ontology.instReprRiteOfPassage :Repr RiteOfPassage**
 
@@ -1080,7 +1080,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.rite_of_passage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L489-L489)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L489-L489)
 **def
 Tau.BookVII.Social.Ontology.rite_of_passage :RiteOfPassage**
 
@@ -1092,7 +1092,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.rite_boundary_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L495-L506)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L495-L506)
 **theorem
 Tau.BookVII.Social.Ontology.rite_boundary_crossing :rite_of_passage.is_morphism = true ∧ rite_of_passage.factors_through_crossing = true ∧ rite_of_passage.crosses_components = true ∧ Meta.Archetypes.boundary_archetype.carrier_is_lemniscate = true ∧ Meta.Archetypes.boundary_archetype.lobe_count = 2**
 
@@ -1107,7 +1107,7 @@ Uses: BoundaryArchetype carrier_is_lemniscate, pi1_free_rank = 2.
 
 ### `Tau.BookVII.Social.Ontology.SacredStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L512-L523)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L512-L523)
 **structure
 Tau.BookVII.Social.Ontology.SacredStructure :Type**
 
@@ -1132,7 +1132,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.instReprSacredStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L523-L523)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L523-L523)
 **instance
 Tau.BookVII.Social.Ontology.instReprSacredStructure :Repr SacredStructure**
 
@@ -1143,7 +1143,7 @@ Equations
 
 ### `Tau.BookVII.Social.Ontology.instReprSacredStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L523-L523)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L523-L523)
 **def
 Tau.BookVII.Social.Ontology.instReprSacredStructure.repr :SacredStructure → ℕ → Std.Format**
 
@@ -1155,7 +1155,7 @@ Instances For
 
 ### `Tau.BookVII.Social.Ontology.sacred`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Social/Ontology.lean#L525-L525)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Social/Ontology.lean#L525-L525)
 **def
 Tau.BookVII.Social.Ontology.sacred :SacredStructure**
 

@@ -67,7 +67,7 @@ each integer via the tower, and the radical inherits this decomposition.
 
 ### `Tau.BookIII.Arithmetic.radical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L63-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L63-L85)
 **def
 Tau.BookIII.Arithmetic.radical
 (n : ℕ)
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L69-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L69-L76)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical.go
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical.strip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L78-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L78-L80)
 **def
 Tau.BookIII.Arithmetic.radical.strip
 (d n : ℕ)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical.go_strip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L81-L84)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L81-L84)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical.go_strip
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L87-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L87-L102)
 **def
 Tau.BookIII.Arithmetic.radical_check
 (bound : ℕ)
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L92-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L92-L101)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_triple_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L108-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L108-L121)
 **def
 Tau.BookIII.Arithmetic.abc_triple_check
 (a b : ℕ)
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_quality_bound_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L123-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L123-L134)
 **def
 Tau.BookIII.Arithmetic.abc_quality_bound_check
 (bound : ℕ)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_quality_bound_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L128-L133)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L128-L133)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.abc_quality_bound_check.go
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_primorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L140-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L140-L152)
 **def
 Tau.BookIII.Arithmetic.abc_primorial_check
 (db : ℕ)
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_primorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L145-L151)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L145-L151)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.abc_primorial_check.go
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L158-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L158-L169)
 **def
 Tau.BookIII.Arithmetic.radical_primorial_check
 (db : ℕ)
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L163-L168)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L163-L168)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical_primorial_check.go
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_le_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L171-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L171-L182)
 **def
 Tau.BookIII.Arithmetic.radical_le_check
 (bound : ℕ)
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_le_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L176-L181)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L176-L181)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical_le_check.go
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_check_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L188-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L188-L190)
 **theorem
 Tau.BookIII.Arithmetic.radical_check_30 :radical_check 30 = true**
 
@@ -317,7 +317,7 @@ Tau.BookIII.Arithmetic.radical_check_30 :radical_check 30 = true**
 
 ### `Tau.BookIII.Arithmetic.abc_quality_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L192-L194)
 **theorem
 Tau.BookIII.Arithmetic.abc_quality_15 :abc_quality_bound_check 15 = true**
 
@@ -328,7 +328,7 @@ Tau.BookIII.Arithmetic.abc_quality_15 :abc_quality_bound_check 15 = true**
 
 ### `Tau.BookIII.Arithmetic.abc_primorial_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L196-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L196-L198)
 **theorem
 Tau.BookIII.Arithmetic.abc_primorial_3 :abc_primorial_check 3 = true**
 
@@ -339,7 +339,7 @@ Tau.BookIII.Arithmetic.abc_primorial_3 :abc_primorial_check 3 = true**
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L200-L202)
 **theorem
 Tau.BookIII.Arithmetic.radical_primorial_4 :radical_primorial_check 4 = true**
 
@@ -350,7 +350,7 @@ Tau.BookIII.Arithmetic.radical_primorial_4 :radical_primorial_check 4 = true**
 
 ### `Tau.BookIII.Arithmetic.radical_le_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCConjecture.lean#L204-L206)
 **theorem
 Tau.BookIII.Arithmetic.radical_le_30 :radical_le_check 30 = true**
 

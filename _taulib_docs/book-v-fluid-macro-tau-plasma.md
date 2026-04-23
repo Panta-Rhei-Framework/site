@@ -95,7 +95,7 @@ spatial scales exceed λ_D. Single conducting fluid with frozen-flux.
 
 ### `Tau.BookV.FluidMacro.TauPlasmaState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L58-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L58-L77)
 **structure
 Tau.BookV.FluidMacro.TauPlasmaState :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauPlasmaState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L77-L77)
 **def
 Tau.BookV.FluidMacro.instReprTauPlasmaState.repr :TauPlasmaState → ℕ → Std.Format**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauPlasmaState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L77-L77)
 **instance
 Tau.BookV.FluidMacro.instReprTauPlasmaState :Repr TauPlasmaState**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.DebyeLength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L83-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L83-L95)
 **structure
 Tau.BookV.FluidMacro.DebyeLength :Type**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDebyeLength.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L95-L95)
 **def
 Tau.BookV.FluidMacro.instReprDebyeLength.repr :DebyeLength → ℕ → Std.Format**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDebyeLength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L95-L95)
 **instance
 Tau.BookV.FluidMacro.instReprDebyeLength :Repr DebyeLength**
 
@@ -208,7 +208,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.DebyeLength.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L97-L99)
 **def
 Tau.BookV.FluidMacro.DebyeLength.toFloat
 (d : DebyeLength)
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.QuasiNeutralityBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L105-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L105-L117)
 **structure
 Tau.BookV.FluidMacro.QuasiNeutralityBound :Type**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprQuasiNeutralityBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L117-L117)
 **instance
 Tau.BookV.FluidMacro.instReprQuasiNeutralityBound :Repr QuasiNeutralityBound**
 
@@ -261,7 +261,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprQuasiNeutralityBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L117-L117)
 **def
 Tau.BookV.FluidMacro.instReprQuasiNeutralityBound.repr :QuasiNeutralityBound → ℕ → Std.Format**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.forced_quasineutrality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L119-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L119-L122)
 **theorem
 Tau.BookV.FluidMacro.forced_quasineutrality
 (qn : QuasiNeutralityBound)
@@ -288,7 +288,7 @@ Quasi-neutrality: at large scales the imbalance vanishes.
 
 ### `Tau.BookV.FluidMacro.PlasmaFrequency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L128-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L128-L139)
 **structure
 Tau.BookV.FluidMacro.PlasmaFrequency :Type**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaFrequency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L139-L139)
 **def
 Tau.BookV.FluidMacro.instReprPlasmaFrequency.repr :PlasmaFrequency → ℕ → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaFrequency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L139-L139)
 **instance
 Tau.BookV.FluidMacro.instReprPlasmaFrequency :Repr PlasmaFrequency**
 
@@ -337,7 +337,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.PlasmaOscillation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L141-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L141-L153)
 **structure
 Tau.BookV.FluidMacro.PlasmaOscillation :Type**
 
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaOscillation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L153-L153)
 **def
 Tau.BookV.FluidMacro.instReprPlasmaOscillation.repr :PlasmaOscillation → ℕ → Std.Format**
 
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaOscillation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L153-L153)
 **instance
 Tau.BookV.FluidMacro.instReprPlasmaOscillation :Repr PlasmaOscillation**
 
@@ -386,7 +386,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.plasma_oscillations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L155-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L155-L158)
 **theorem
 Tau.BookV.FluidMacro.plasma_oscillations
 (po : PlasmaOscillation)
@@ -401,7 +401,7 @@ Plasma oscillations are longitudinal.
 
 ### `Tau.BookV.FluidMacro.PlasmaWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L164-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L164-L172)
 **inductive
 Tau.BookV.FluidMacro.PlasmaWaveMode :Type**
 
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
 **instance
 Tau.BookV.FluidMacro.instReprPlasmaWaveMode :Repr PlasmaWaveMode**
 
@@ -434,7 +434,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaWaveMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
 **def
 Tau.BookV.FluidMacro.instReprPlasmaWaveMode.repr :PlasmaWaveMode → ℕ → Std.Format**
 
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqPlasmaWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqPlasmaWaveMode :DecidableEq PlasmaWaveMode**
 
@@ -457,7 +457,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqPlasmaWaveMode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
 **def
 Tau.BookV.FluidMacro.instBEqPlasmaWaveMode.beq :PlasmaWaveMode → PlasmaWaveMode → Bool**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqPlasmaWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L172-L172)
 **instance
 Tau.BookV.FluidMacro.instBEqPlasmaWaveMode :BEq PlasmaWaveMode**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.PlasmaDispersion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L174-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L174-L186)
 **structure
 Tau.BookV.FluidMacro.PlasmaDispersion :Type**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaDispersion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L186-L186)
 **instance
 Tau.BookV.FluidMacro.instReprPlasmaDispersion :Repr PlasmaDispersion**
 
@@ -517,7 +517,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprPlasmaDispersion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L186-L186)
 **def
 Tau.BookV.FluidMacro.instReprPlasmaDispersion.repr :PlasmaDispersion → ℕ → Std.Format**
 
@@ -529,7 +529,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.plasma_cutoff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L188-L191)
 **theorem
 Tau.BookV.FluidMacro.plasma_cutoff
 (pd : PlasmaDispersion)
@@ -544,7 +544,7 @@ Above cutoff means propagating.
 
 ### `Tau.BookV.FluidMacro.IonosphericReflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L197-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L197-L206)
 **structure
 Tau.BookV.FluidMacro.IonosphericReflection :Type**
 
@@ -566,7 +566,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprIonosphericReflection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L206-L206)
 **def
 Tau.BookV.FluidMacro.instReprIonosphericReflection.repr :IonosphericReflection → ℕ → Std.Format**
 
@@ -578,7 +578,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprIonosphericReflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L206-L206)
 **instance
 Tau.BookV.FluidMacro.instReprIonosphericReflection :Repr IonosphericReflection**
 
@@ -589,7 +589,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.ionospheric_reflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L208-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L208-L210)
 **def
 Tau.BookV.FluidMacro.ionospheric_reflection :IonosphericReflection**
 
@@ -601,7 +601,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.DebyeShielding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L216-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L216-L227)
 **structure
 Tau.BookV.FluidMacro.DebyeShielding :Type**
 
@@ -626,7 +626,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDebyeShielding.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L227-L227)
 **def
 Tau.BookV.FluidMacro.instReprDebyeShielding.repr :DebyeShielding → ℕ → Std.Format**
 
@@ -638,7 +638,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDebyeShielding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L227-L227)
 **instance
 Tau.BookV.FluidMacro.instReprDebyeShielding :Repr DebyeShielding**
 
@@ -649,7 +649,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.debye_shielding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L229-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L229-L232)
 **theorem
 Tau.BookV.FluidMacro.debye_shielding
 (ds : DebyeShielding)
@@ -664,7 +664,7 @@ Shielding is always exponential in a τ-plasma.
 
 ### `Tau.BookV.FluidMacro.DebyeNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L238-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L238-L250)
 **structure
 Tau.BookV.FluidMacro.DebyeNumber :Type**
 
@@ -690,7 +690,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDebyeNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L250-L250)
 **instance
 Tau.BookV.FluidMacro.instReprDebyeNumber :Repr DebyeNumber**
 
@@ -701,7 +701,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprDebyeNumber.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L250-L250)
 **def
 Tau.BookV.FluidMacro.instReprDebyeNumber.repr :DebyeNumber → ℕ → Std.Format**
 
@@ -713,7 +713,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.no_dark_matter_icm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L256-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L256-L262)
 **def
 Tau.BookV.FluidMacro.no_dark_matter_icm :Prop**
 
@@ -730,7 +730,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.no_dark_matter_icm_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L264-L264)
 **theorem
 Tau.BookV.FluidMacro.no_dark_matter_icm_holds :no_dark_matter_icm**
 
@@ -739,7 +739,7 @@ Tau.BookV.FluidMacro.no_dark_matter_icm_holds :no_dark_matter_icm**
 
 ### `Tau.BookV.FluidMacro.MHDLimitCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L270-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L270-L285)
 **structure
 Tau.BookV.FluidMacro.MHDLimitCondition :Type**
 
@@ -769,7 +769,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDLimitCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L285-L285)
 **def
 Tau.BookV.FluidMacro.instReprMHDLimitCondition.repr :MHDLimitCondition → ℕ → Std.Format**
 
@@ -781,7 +781,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDLimitCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L285-L285)
 **instance
 Tau.BookV.FluidMacro.instReprMHDLimitCondition :Repr MHDLimitCondition**
 
@@ -792,7 +792,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.mhd_limit_valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L287-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L287-L293)
 **theorem
 Tau.BookV.FluidMacro.mhd_limit_valid
 (m : MHDLimitCondition)
@@ -811,7 +811,7 @@ MHD limit is valid when all three conditions hold.
 
 ### `Tau.BookV.FluidMacro.example_plasma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L299-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L299-L306)
 **def
 Tau.BookV.FluidMacro.example_plasma :TauPlasmaState**
 
@@ -825,7 +825,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_debye`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauPlasma.lean#L308-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauPlasma.lean#L308-L313)
 **def
 Tau.BookV.FluidMacro.example_debye :DebyeLength**
 

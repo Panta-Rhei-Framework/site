@@ -133,7 +133,7 @@ Among even integers k ∈ {2, 4, ..., 100}, only k = 18 simultaneously:
 
 ### `Tau.BookV.GravityField.ExponentDerivation.ExponentFactors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L87-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L87-L98)
 **structure
 Tau.BookV.GravityField.ExponentDerivation.ExponentFactors :Type**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ExponentDerivation.instReprExponentFactors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L98-L98)
 **instance
 Tau.BookV.GravityField.ExponentDerivation.instReprExponentFactors :Repr ExponentFactors**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.GravityField.ExponentDerivation.instReprExponentFactors.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L98-L98)
 **def
 Tau.BookV.GravityField.ExponentDerivation.instReprExponentFactors.repr :ExponentFactors → ℕ → Std.Format**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ExponentDerivation.canonical_factors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L100-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L100-L104)
 **def
 Tau.BookV.GravityField.ExponentDerivation.canonical_factors :ExponentFactors**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ExponentDerivation.exponent_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L110-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L110-L111)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.exponent_product :canonical_factors.product = 18**
 
@@ -207,7 +207,7 @@ Tau.BookV.GravityField.ExponentDerivation.exponent_product :canonical_factors.pr
 
 ### `Tau.BookV.GravityField.ExponentDerivation.product_matches_closing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L113-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L113-L115)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.product_matches_closing :canonical_factors.product = closing_identity_canonical.alpha_exponent**
 
@@ -218,7 +218,7 @@ The product matches the closing identity exponent.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.betti_matches_tree_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L126-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L126-L129)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.betti_matches_tree_factor :canonical_factors.betti_1_fiber = Gravity.canonical_coupling.tree_factor**
 
@@ -230,7 +230,7 @@ This double appearance is a non-trivial consistency check.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.dim_matches_holonomy_circles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L131-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L131-L135)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.dim_matches_holonomy_circles :canonical_factors.dim_tau3 = BookIV.Physics.triple_holonomy.circle_count**
 
@@ -243,7 +243,7 @@ factor of the exponent 18.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.solenoidal_matches_kernel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L137-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L137-L141)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.solenoidal_matches_kernel :canonical_factors.solenoidal_card = Kernel.solenoidalGenerators.length**
 
@@ -255,7 +255,7 @@ Verified against the kernel definition in Diagonal.lean.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.factors_from_distinct_sources`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L143-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L143-L154)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.factors_from_distinct_sources :canonical_factors.betti_1_fiber = 2 ∧ canonical_factors.dim_tau3 = 3 ∧ canonical_factors.solenoidal_card = 3 ∧ canonical_factors.betti_1_fiber = Gravity.canonical_coupling.tree_factor ∧ canonical_factors.dim_tau3 = BookIV.Physics.triple_holonomy.circle_count ∧ canonical_factors.solenoidal_card = Kernel.solenoidalGenerators.length**
 
@@ -267,7 +267,7 @@ fiber topology, manifold dimension, algebraic kernel.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.passage_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L160-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L160-L169)
 **def
 Tau.BookV.GravityField.ExponentDerivation.passage_count :ℕ**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ExponentDerivation.passage_count_is_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L171-L172)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.passage_count_is_exponent :passage_count = closing_identity_canonical.alpha_exponent**
 
@@ -298,7 +298,7 @@ Tau.BookV.GravityField.ExponentDerivation.passage_count_is_exponent :passage_cou
 
 ### `Tau.BookV.GravityField.ExponentDerivation.feynman_vertex_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L174-L176)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.feynman_vertex_count :2 * passage_count = 36**
 
@@ -310,7 +310,7 @@ Each vertex contributes √α, so (√α)^36 = α^(36/2) = α^18.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.l3_template_extends`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L182-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L182-L196)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.l3_template_extends :BookIV.Physics.triple_holonomy.circle_count = 3 ∧ canonical_factors.dim_tau3 = 3 ∧ BookIV.Physics.triple_holonomy.circle_count = canonical_factors.dim_tau3**
 
@@ -327,7 +327,7 @@ The same structural invariant serves both roles.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.exponent_unique_even_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L202-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L202-L223)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.exponent_unique_even_match :canonical_factors.betti_1_fiber = 2 ∧ canonical_factors.dim_tau3 = 3 ∧ canonical_factors.solenoidal_card = 3 ∧ canonical_factors.product = 18 ∧ 18 % 2 = 0**
 
@@ -349,7 +349,7 @@ selects 18: among even k, only k=18 gives α^k ≈ α_G / (geometric).
 
 ### `Tau.BookV.GravityField.ExponentDerivation.cf_anatomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L229-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L229-L236)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.cf_anatomy :4 * 18 = 72 ∧ 72 = 8 * 9**
 
@@ -366,7 +366,7 @@ This is a structural echo, not a coincidence:
 
 ### `Tau.BookV.GravityField.ExponentDerivation.iota_power_factorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L238-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L238-L239)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.iota_power_factorization :72 = 2 ^ 3 * 3 ^ 2**
 
@@ -407,7 +407,7 @@ for a different purpose before this sprint.
 
 ### `Tau.BookV.GravityField.ExponentDerivation.passage_uses_tensor_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L279-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L279-L288)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.passage_uses_tensor_square :BookIV.Sectors.SpectralPage.emTensorActive.length = 121 ∧ BookIV.Sectors.SpectralPage.tensorModes.length = 225 ∧ passage_count = 18**
 
@@ -422,7 +422,7 @@ The 36 Feynman vertices = 18 passages × 2 endpoints (Wheeler-Feynman).
 
 ### `Tau.BookV.GravityField.ExponentDerivation.total_iota_power`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L290-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L290-L292)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.total_iota_power :4 * passage_count = 72**
 
@@ -434,7 +434,7 @@ Each passage contributes ι⁴ (from one factor of α = (121/225)·ι⁴).
 
 ### `Tau.BookV.GravityField.ExponentDerivation.tensor_passage_cross_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ExponentDerivation.lean#L294-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ExponentDerivation.lean#L294-L307)
 **theorem
 Tau.BookV.GravityField.ExponentDerivation.tensor_passage_cross_check :121 * 121 = 11 ^ 2 * 11 ^ 2 ∧ 225 * 225 = 15 ^ 2 * 15 ^ 2 ∧ 4 * 18 = 72**
 

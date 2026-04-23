@@ -72,7 +72,7 @@ VII.T47 (No Forced Stance) is itself a methodological boundary theorem.
 
 ### `Tau.BookVII.Final.Boundary.BridgeFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L44-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L44-L58)
 **structure
 Tau.BookVII.Final.Boundary.BridgeFunctor :Type**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprBridgeFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L58-L58)
 **def
 Tau.BookVII.Final.Boundary.instReprBridgeFunctor.repr :BridgeFunctor → ℕ → Std.Format**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprBridgeFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L58-L58)
 **instance
 Tau.BookVII.Final.Boundary.instReprBridgeFunctor :Repr BridgeFunctor**
 
@@ -125,7 +125,7 @@ Equations
 
 ### `Tau.BookVII.Final.Boundary.bridge_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L60-L60)
 **def
 Tau.BookVII.Final.Boundary.bridge_functor :BridgeFunctor**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.bridge_equivalence_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L66-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L66-L78)
 **theorem
 Tau.BookVII.Final.Boundary.bridge_equivalence_structural :bridge_functor.faithful_at_sl = true ∧ bridge_functor.full_at_sl = true ∧ bridge_functor.ess_surj_at_sl = true**
 
@@ -155,7 +155,7 @@ verified; the categorical equivalence claim transcends Reg_D.
 
 ### `Tau.BookVII.Final.Boundary.four_register_convergence_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L87-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L87-L99)
 **theorem
 Tau.BookVII.Final.Boundary.four_register_convergence_structural :Meta.Registers.sector_logos.dc_coincidence = true ∧ Meta.Registers.sector_logos.unique_mediator = true ∧ Meta.Registers.canonical_sector_decomp.pure_sector_count = 4**
 
@@ -173,7 +173,7 @@ diagrammatic core.
 
 ### `Tau.BookVII.Final.Boundary.MediatorBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L108-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L108-L119)
 **structure
 Tau.BookVII.Final.Boundary.MediatorBasin :Type**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprMediatorBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L119-L119)
 **instance
 Tau.BookVII.Final.Boundary.instReprMediatorBasin :Repr MediatorBasin**
 
@@ -209,7 +209,7 @@ Equations
 
 ### `Tau.BookVII.Final.Boundary.instReprMediatorBasin.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L119-L119)
 **def
 Tau.BookVII.Final.Boundary.instReprMediatorBasin.repr :MediatorBasin → ℕ → Std.Format**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.mediator_basin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L121-L121)
 **def
 Tau.BookVII.Final.Boundary.mediator_basin :MediatorBasin**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.mediator_basin_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L123-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L123-L127)
 **theorem
 Tau.BookVII.Final.Boundary.mediator_basin_check :mediator_basin.basin_is_logos = true ∧ mediator_basin.fixed_point_at_sl = true ∧ mediator_basin.non_trivial_outside = true**
 
@@ -242,7 +242,7 @@ Tau.BookVII.Final.Boundary.mediator_basin_check :mediator_basin.basin_is_logos =
 
 ### `Tau.BookVII.Final.Boundary.SubjectToolCollapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L133-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L133-L145)
 **structure
 Tau.BookVII.Final.Boundary.SubjectToolCollapse :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprSubjectToolCollapse.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L145-L145)
 **def
 Tau.BookVII.Final.Boundary.instReprSubjectToolCollapse.repr :SubjectToolCollapse → ℕ → Std.Format**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprSubjectToolCollapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L145-L145)
 **instance
 Tau.BookVII.Final.Boundary.instReprSubjectToolCollapse :Repr SubjectToolCollapse**
 
@@ -291,7 +291,7 @@ Equations
 
 ### `Tau.BookVII.Final.Boundary.subject_tool`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L147-L147)
 **def
 Tau.BookVII.Final.Boundary.subject_tool :SubjectToolCollapse**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.subject_tool_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L149-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L149-L153)
 **theorem
 Tau.BookVII.Final.Boundary.subject_tool_check :subject_tool.boundary_condition = true ∧ subject_tool.collapse = true ∧ subject_tool.no_external_standpoint = true**
 
@@ -312,7 +312,7 @@ Tau.BookVII.Final.Boundary.subject_tool_check :subject_tool.boundary_condition =
 
 ### `Tau.BookVII.Final.Boundary.NoForcedStanceStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L159-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L159-L178)
 **structure
 Tau.BookVII.Final.Boundary.NoForcedStanceStructure :Type**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprNoForcedStanceStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L178-L178)
 **def
 Tau.BookVII.Final.Boundary.instReprNoForcedStanceStructure.repr :NoForcedStanceStructure → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.instReprNoForcedStanceStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L178-L178)
 **instance
 Tau.BookVII.Final.Boundary.instReprNoForcedStanceStructure :Repr NoForcedStanceStructure**
 
@@ -368,7 +368,7 @@ Equations
 
 ### `Tau.BookVII.Final.Boundary.no_forced_stance_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L180-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L180-L180)
 **def
 Tau.BookVII.Final.Boundary.no_forced_stance_structure :NoForcedStanceStructure**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookVII.Final.Boundary.no_forced_stance_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L182-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L182-L186)
 **theorem
 Tau.BookVII.Final.Boundary.no_forced_stance_structural :no_forced_stance_structure.omega_non_standard = true ∧ no_forced_stance_structure.no_external_standpoint = true ∧ no_forced_stance_structure.bwf_excludes = true**
 
@@ -389,6 +389,6 @@ Tau.BookVII.Final.Boundary.no_forced_stance_structural :no_forced_stance_structu
 
 ### `Tau.BookVII.Final.Boundary.no_forced_stance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Final/Boundary.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Final/Boundary.lean#L189-L189)
 **theorem
 Tau.BookVII.Final.Boundary.no_forced_stance :True**

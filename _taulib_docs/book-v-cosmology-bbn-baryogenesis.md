@@ -87,7 +87,7 @@ to host a dark sector, so N_eff > 3 is structurally impossible.
 
 ### `Tau.BookV.Cosmology.AdmissibilityCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L59-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L59-L71)
 **inductive
 Tau.BookV.Cosmology.AdmissibilityCategory :Type**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprAdmissibilityCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
 **instance
 Tau.BookV.Cosmology.instReprAdmissibilityCategory :Repr AdmissibilityCategory**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprAdmissibilityCategory.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
 **def
 Tau.BookV.Cosmology.instReprAdmissibilityCategory.repr :AdmissibilityCategory → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instDecidableEqAdmissibilityCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
 **instance
 Tau.BookV.Cosmology.instDecidableEqAdmissibilityCategory :DecidableEq AdmissibilityCategory**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqAdmissibilityCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
 **instance
 Tau.BookV.Cosmology.instBEqAdmissibilityCategory :BEq AdmissibilityCategory**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqAdmissibilityCategory.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L71-L71)
 **def
 Tau.BookV.Cosmology.instBEqAdmissibilityCategory.beq :AdmissibilityCategory → AdmissibilityCategory → Bool**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ThresholdDependentAdmissibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L73-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L73-L90)
 **structure
 Tau.BookV.Cosmology.ThresholdDependentAdmissibility :Type**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdDependentAdmissibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L90-L90)
 **instance
 Tau.BookV.Cosmology.instReprThresholdDependentAdmissibility :Repr ThresholdDependentAdmissibility**
 
@@ -215,7 +215,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprThresholdDependentAdmissibility.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L90-L90)
 **def
 Tau.BookV.Cosmology.instReprThresholdDependentAdmissibility.repr :ThresholdDependentAdmissibility → ℕ → Std.Format**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.threshold_admissibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L92-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L92-L94)
 **def
 Tau.BookV.Cosmology.threshold_admissibility :ThresholdDependentAdmissibility**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pre_confinement_admits_B_violation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L96-L99)
 **theorem
 Tau.BookV.Cosmology.pre_confinement_admits_B_violation :threshold_admissibility.above_confinement = AdmissibilityCategory.PreConfinement**
 
@@ -252,7 +252,7 @@ Pre-confinement admits B-violation.
 
 ### `Tau.BookV.Cosmology.post_confinement_conserves_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L101-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L101-L104)
 **theorem
 Tau.BookV.Cosmology.post_confinement_conserves_B :threshold_admissibility.below_confinement = AdmissibilityCategory.PostConfinement**
 
@@ -263,7 +263,7 @@ Post-confinement forbids B-violation (SA-i active).
 
 ### `Tau.BookV.Cosmology.BaryogenesisWindow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L110-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L110-L125)
 **structure
 Tau.BookV.Cosmology.BaryogenesisWindow :Type**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisWindow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L125-L125)
 **def
 Tau.BookV.Cosmology.instReprBaryogenesisWindow.repr :BaryogenesisWindow → ℕ → Std.Format**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisWindow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L125-L125)
 **instance
 Tau.BookV.Cosmology.instReprBaryogenesisWindow :Repr BaryogenesisWindow**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.baryogenesis_window`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L127-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L127-L130)
 **def
 Tau.BookV.Cosmology.baryogenesis_window :BaryogenesisWindow**
 
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.window_finite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L132-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L132-L135)
 **theorem
 Tau.BookV.Cosmology.window_finite :baryogenesis_window.depth_end - baryogenesis_window.depth_start = 1**
 
@@ -342,7 +342,7 @@ The baryogenesis window is finite (width 1).
 
 ### `Tau.BookV.Cosmology.nucleosynthesis_after_window`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L137-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L137-L142)
 **theorem
 Tau.BookV.Cosmology.nucleosynthesis_after_window :baryogenesis_window.depth_end < canonical_ladder.nucleosynthesis.depth_index**
 
@@ -354,7 +354,7 @@ window closes. This ensures BBN occurs in the B-conserving regime.
 
 ### `Tau.BookV.Cosmology.window_matches_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L144-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L144-L151)
 **theorem
 Tau.BookV.Cosmology.window_matches_ladder :baryogenesis_window.depth_start = canonical_ladder.baryogenesis.depth_index ∧ baryogenesis_window.depth_end = canonical_ladder.neutron.depth_index**
 
@@ -366,7 +366,7 @@ L_B (depth 2) < L_N (depth 3).
 
 ### `Tau.BookV.Cosmology.n_gauge_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L157-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L157-L160)
 **def
 Tau.BookV.Cosmology.n_gauge_generators :ℕ**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.n_total_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L162-L163)
 **def
 Tau.BookV.Cosmology.n_total_generators :ℕ**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.n_gauge_from_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L165-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L165-L170)
 **theorem
 Tau.BookV.Cosmology.n_gauge_from_total :n_total_generators - 1 - 1 = n_gauge_generators**
 
@@ -409,7 +409,7 @@ total − gravitational (α) − composite (ω) = 5 − 1 − 1 = 3.
 
 ### `Tau.BookV.Cosmology.n_eff_eq_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L172-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L172-L176)
 **theorem
 Tau.BookV.Cosmology.n_eff_eq_three :n_gauge_generators = 3**
 
@@ -423,7 +423,7 @@ N_eff = |{π, γ, η}| = 3.
 
 ### `Tau.BookV.Cosmology.n_eff_upper_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L182-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L182-L188)
 **theorem
 Tau.BookV.Cosmology.n_eff_upper_bound :n_gauge_generators ≤ 3**
 
@@ -439,7 +439,7 @@ observation of N_eff > 3 would falsify the 5-generator theorem.
 
 ### `Tau.BookV.Cosmology.no_dark_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L190-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L190-L192)
 **theorem
 Tau.BookV.Cosmology.no_dark_sector :n_total_generators - n_gauge_generators - 1 - 1 = 0**
 
@@ -450,7 +450,7 @@ The number of dark sector generators is zero.
 
 ### `Tau.BookV.Cosmology.window_within_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L198-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L198-L204)
 **theorem
 Tau.BookV.Cosmology.window_within_ladder :canonical_ladder.ew.depth_index ≤ baryogenesis_window.depth_start ∧ baryogenesis_window.depth_end ≤ canonical_ladder.photon_decoupling.depth_index**
 
@@ -462,7 +462,7 @@ the window [2,3] lies within the ladder [1,6].
 
 ### `Tau.BookV.Cosmology.clean_threshold_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L206-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L206-L210)
 **theorem
 Tau.BookV.Cosmology.clean_threshold_count :complete_ladder.count - 1 = domain_correction.corr_num**
 
@@ -474,7 +474,7 @@ This connects to the 5/6 domain-wall correction in HeliumFraction.
 
 ### `Tau.BookV.Cosmology.BaryogenesisSAIMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L250-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L250-L272)
 **structure
 Tau.BookV.Cosmology.BaryogenesisSAIMechanism :Type**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisSAIMechanism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L272-L272)
 **def
 Tau.BookV.Cosmology.instReprBaryogenesisSAIMechanism.repr :BaryogenesisSAIMechanism → ℕ → Std.Format**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisSAIMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L272-L272)
 **instance
 Tau.BookV.Cosmology.instReprBaryogenesisSAIMechanism :Repr BaryogenesisSAIMechanism**
 
@@ -541,7 +541,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.baryogenesis_sai_mechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L274-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L274-L280)
 **def
 Tau.BookV.Cosmology.baryogenesis_sai_mechanism :BaryogenesisSAIMechanism**
 
@@ -555,7 +555,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryogenesis_sai_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L282-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L282-L288)
 **theorem
 Tau.BookV.Cosmology.baryogenesis_sai_thm :baryogenesis_sai_mechanism.sai_modulus = 5 ∧ baryogenesis_sai_mechanism.exponent = 15 ∧ baryogenesis_sai_mechanism.coeff_num = 5 ∧ baryogenesis_sai_mechanism.coeff_den = 6**
 
@@ -566,7 +566,7 @@ SA-i mechanism: modulus 5, exponent 15, coefficient 5/6.
 
 ### `Tau.BookV.Cosmology.fifteen_window_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L291-L291)
 **theorem
 Tau.BookV.Cosmology.fifteen_window_product :3 * 5 = 15**
 
@@ -575,7 +575,7 @@ Tau.BookV.Cosmology.fifteen_window_product :3 * 5 = 15**
 
 ### `Tau.BookV.Cosmology.five_sixths_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L294-L294)
 **theorem
 Tau.BookV.Cosmology.five_sixths_structure :5 = 5 ∧ 6 = 2 * 3**
 
@@ -584,7 +584,7 @@ Tau.BookV.Cosmology.five_sixths_structure :5 = 5 ∧ 6 = 2 * 3**
 
 ### `Tau.BookV.Cosmology.BaryogenesisFirstPrinciples`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L301-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L301-L319)
 **structure
 Tau.BookV.Cosmology.BaryogenesisFirstPrinciples :Type**
 
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisFirstPrinciples.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L319-L319)
 **def
 Tau.BookV.Cosmology.instReprBaryogenesisFirstPrinciples.repr :BaryogenesisFirstPrinciples → ℕ → Std.Format**
 
@@ -635,7 +635,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryogenesisFirstPrinciples`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L319-L319)
 **instance
 Tau.BookV.Cosmology.instReprBaryogenesisFirstPrinciples :Repr BaryogenesisFirstPrinciples**
 
@@ -646,7 +646,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.baryogenesis_fp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L321-L322)
 **def
 Tau.BookV.Cosmology.baryogenesis_fp :BaryogenesisFirstPrinciples**
 
@@ -660,7 +660,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryogenesis_first_principles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L324-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L324-L330)
 **theorem
 Tau.BookV.Cosmology.baryogenesis_first_principles :baryogenesis_fp.sai_mod5_holds = true ∧ baryogenesis_fp.sakharov_all_three = true ∧ baryogenesis_fp.eta_b_formula_valid = true ∧ baryogenesis_fp.within_planck_1sigma = true**
 
@@ -671,7 +671,7 @@ Baryogenesis first principles: SA-i mod-5, Sakharov, formula valid.
 
 ### `Tau.BookV.Cosmology.sai_mod_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L333-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L333-L335)
 **def
 Tau.BookV.Cosmology.sai_mod_comparison :String**
 
@@ -683,7 +683,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.vop2_status_sprint6c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L338-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L338-L341)
 **def
 Tau.BookV.Cosmology.vop2_status_sprint6c :String**
 
@@ -695,7 +695,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.GeneratorOrbitSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L358-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L358-L382)
 **structure
 Tau.BookV.Cosmology.GeneratorOrbitSuppression :Type**
 
@@ -742,7 +742,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprGeneratorOrbitSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L382-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L382-L382)
 **instance
 Tau.BookV.Cosmology.instReprGeneratorOrbitSuppression :Repr GeneratorOrbitSuppression**
 
@@ -753,7 +753,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprGeneratorOrbitSuppression.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L382-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L382-L382)
 **def
 Tau.BookV.Cosmology.instReprGeneratorOrbitSuppression.repr :GeneratorOrbitSuppression → ℕ → Std.Format**
 
@@ -765,7 +765,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.generator_orbit_suppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L384-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L384-L385)
 **def
 Tau.BookV.Cosmology.generator_orbit_suppression :GeneratorOrbitSuppression**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.generator_orbit_produces_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L387-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L387-L393)
 **theorem
 Tau.BookV.Cosmology.generator_orbit_produces_15 :generator_orbit_suppression.total_exponent = 15 ∧ generator_orbit_suppression.n_generators = 5 ∧ generator_orbit_suppression.tau3_dim = 3 ∧ generator_orbit_suppression.cyclic_orbit = true**
 
@@ -788,7 +788,7 @@ Generator orbit produces exactly ι<sub>τ</sub>¹⁵: 5 × 3 = 15.
 
 ### `Tau.BookV.Cosmology.fiber_dimension_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L395-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L395-L397)
 **theorem
 Tau.BookV.Cosmology.fiber_dimension_decomposition :1 + 2 = 3**
 
@@ -799,7 +799,7 @@ dim(τ³) = dim(τ¹) + dim(T²) = 1 + 2 = 3.
 
 ### `Tau.BookV.Cosmology.sai_mod_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L399-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L399-L403)
 **theorem
 Tau.BookV.Cosmology.sai_mod_hierarchy :3 * 3 = 9 ∧ 3 * 5 = 15**
 
@@ -812,7 +812,7 @@ mod-5: 5 generators → ι<sub>τ</sub>¹⁵ → η_B (τ-effective)
 
 ### `Tau.BookV.Cosmology.ThresholdUniquenessFiveSixths`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L409-L433)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L409-L433)
 **structure
 Tau.BookV.Cosmology.ThresholdUniquenessFiveSixths :Type**
 
@@ -858,7 +858,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdUniquenessFiveSixths.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L433-L433)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L433-L433)
 **def
 Tau.BookV.Cosmology.instReprThresholdUniquenessFiveSixths.repr :ThresholdUniquenessFiveSixths → ℕ → Std.Format**
 
@@ -870,7 +870,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdUniquenessFiveSixths`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L433-L433)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L433-L433)
 **instance
 Tau.BookV.Cosmology.instReprThresholdUniquenessFiveSixths :Repr ThresholdUniquenessFiveSixths**
 
@@ -881,7 +881,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.threshold_uniqueness_56`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L435-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L435-L437)
 **def
 Tau.BookV.Cosmology.threshold_uniqueness_56 :ThresholdUniquenessFiveSixths**
 
@@ -894,7 +894,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.five_sixths_uniquely_forced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L439-L445)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L439-L445)
 **theorem
 Tau.BookV.Cosmology.five_sixths_uniquely_forced :threshold_uniqueness_56.nonresonant_count = 5 ∧ threshold_uniqueness_56.total_thresholds = 6 ∧ threshold_uniqueness_56.omega_unique_singularity = true ∧ threshold_uniqueness_56.resonant_count = 1**
 
@@ -905,7 +905,7 @@ Tau.BookV.Cosmology.five_sixths_uniquely_forced :threshold_uniqueness_56.nonreso
 
 ### `Tau.BookV.Cosmology.five_sixths_cross_check_yp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L447-L449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L447-L449)
 **theorem
 Tau.BookV.Cosmology.five_sixths_cross_check_yp :5 / 6 * (8 / 27) = 20 / 81**
 
@@ -916,7 +916,7 @@ Cross-check: (5/6)·(8/27) = 20/81 = Y_p.
 
 ### `Tau.BookV.Cosmology.threshold_uniqueness_matches_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L451-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L451-L454)
 **theorem
 Tau.BookV.Cosmology.threshold_uniqueness_matches_ladder :threshold_uniqueness_56.total_thresholds = complete_ladder.count**
 
@@ -927,7 +927,7 @@ Threshold uniqueness consistent with canonical ladder count.
 
 ### `Tau.BookV.Cosmology.CPAsymmetryFromPolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L460-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L460-L484)
 **structure
 Tau.BookV.Cosmology.CPAsymmetryFromPolarity :Type**
 
@@ -967,7 +967,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCPAsymmetryFromPolarity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L484-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L484-L484)
 **def
 Tau.BookV.Cosmology.instReprCPAsymmetryFromPolarity.repr :CPAsymmetryFromPolarity → ℕ → Std.Format**
 
@@ -979,7 +979,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCPAsymmetryFromPolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L484-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L484-L484)
 **instance
 Tau.BookV.Cosmology.instReprCPAsymmetryFromPolarity :Repr CPAsymmetryFromPolarity**
 
@@ -990,7 +990,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.cp_asymmetry_polarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L486-L486)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L486-L486)
 **def
 Tau.BookV.Cosmology.cp_asymmetry_polarity :CPAsymmetryFromPolarity**
 
@@ -1002,7 +1002,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cp_asymmetry_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L488-L493)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNBaryogenesis.lean#L488-L493)
 **theorem
 Tau.BookV.Cosmology.cp_asymmetry_structural :cp_asymmetry_polarity.cp_scale_is_iota = true ∧ cp_asymmetry_polarity.total_matches_sai_mod5 = true ∧ cp_asymmetry_polarity.connects_to_pmns = true**
 

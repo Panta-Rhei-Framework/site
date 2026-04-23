@@ -176,7 +176,7 @@ All claims: **tau-effective**. The R formula has zero conjectural ingredients.
 
 ### `Tau.BookIV.Calibration.bulk_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L88-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L88-L89)
 **def
 Tau.BookIV.Calibration.bulk_numer :ℕ**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.bulk_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L91-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L91-L92)
 **def
 Tau.BookIV.Calibration.bulk_denom :ℕ**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.bulk_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L94-L96)
 **theorem
 Tau.BookIV.Calibration.bulk_denom_pos :bulk_denom > 0**
 
@@ -215,7 +215,7 @@ Bulk denominator is positive.
 
 ### `Tau.BookIV.Calibration.bulk_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L98-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L98-L100)
 **def
 Tau.BookIV.Calibration.bulk_float :Float**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.bulk_gt_1853`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L106-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L106-L108)
 **theorem
 Tau.BookIV.Calibration.bulk_gt_1853 :bulk_numer > 1853 * bulk_denom**
 
@@ -240,7 +240,7 @@ Tau.BookIV.Calibration.bulk_gt_1853 :bulk_numer > 1853 * bulk_denom**
 
 ### `Tau.BookIV.Calibration.bulk_lt_1855`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L110-L112)
 **theorem
 Tau.BookIV.Calibration.bulk_lt_1855 :bulk_numer < 1855 * bulk_denom**
 
@@ -251,7 +251,7 @@ Tau.BookIV.Calibration.bulk_lt_1855 :bulk_numer < 1855 * bulk_denom**
 
 ### `Tau.BookIV.Calibration.bulk_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L114-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L114-L118)
 **theorem
 Tau.BookIV.Calibration.bulk_in_range :bulk_numer > 1853 * bulk_denom ∧ bulk_numer < 1855 * bulk_denom**
 
@@ -262,7 +262,7 @@ Combined: ι<sub>τ</sub>^(-7) ∈ (1853, 1855).
 
 ### `Tau.BookIV.Calibration.iota_neg2_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L124-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L124-L125)
 **def
 Tau.BookIV.Calibration.iota_neg2_numer :ℕ**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.iota_neg2_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L127-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L127-L128)
 **def
 Tau.BookIV.Calibration.iota_neg2_denom :ℕ**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.iota_neg2_gt_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L130-L132)
 **theorem
 Tau.BookIV.Calibration.iota_neg2_gt_8 :iota_neg2_numer > 8 * iota_neg2_denom**
 
@@ -301,7 +301,7 @@ Tau.BookIV.Calibration.iota_neg2_gt_8 :iota_neg2_numer > 8 * iota_neg2_denom**
 
 ### `Tau.BookIV.Calibration.iota_neg2_lt_9`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L134-L136)
 **theorem
 Tau.BookIV.Calibration.iota_neg2_lt_9 :iota_neg2_numer < 9 * iota_neg2_denom**
 
@@ -312,7 +312,7 @@ Tau.BookIV.Calibration.iota_neg2_lt_9 :iota_neg2_numer < 9 * iota_neg2_denom**
 
 ### `Tau.BookIV.Calibration.correction0_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L150-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L150-L151)
 **def
 Tau.BookIV.Calibration.correction0_numer :ℕ**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.correction0_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L153-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L153-L154)
 **def
 Tau.BookIV.Calibration.correction0_denom :ℕ**
 
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.correction0_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L156-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L156-L158)
 **theorem
 Tau.BookIV.Calibration.correction0_denom_pos :correction0_denom > 0**
 
@@ -351,7 +351,7 @@ Correction denominator is positive.
 
 ### `Tau.BookIV.Calibration.correction0_gt_14`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L160-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L160-L162)
 **theorem
 Tau.BookIV.Calibration.correction0_gt_14 :correction0_numer > 14 * correction0_denom**
 
@@ -362,7 +362,7 @@ Tau.BookIV.Calibration.correction0_gt_14 :correction0_numer > 14 * correction0_d
 
 ### `Tau.BookIV.Calibration.correction0_lt_16`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L164-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L164-L166)
 **theorem
 Tau.BookIV.Calibration.correction0_lt_16 :correction0_numer < 16 * correction0_denom**
 
@@ -373,7 +373,7 @@ Tau.BookIV.Calibration.correction0_lt_16 :correction0_numer < 16 * correction0_d
 
 ### `Tau.BookIV.Calibration.bulk_overshoots_codata`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L172-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L172-L178)
 **theorem
 Tau.BookIV.Calibration.bulk_overshoots_codata :bulk_numer * si_mass_ratio.denom > si_mass_ratio.numer * bulk_denom**
 
@@ -387,7 +387,7 @@ This proves the correction term has the right SIGN (must be subtracted).
 
 ### `Tau.BookIV.Calibration.r0_gt_1837`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L184-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L184-L192)
 **theorem
 Tau.BookIV.Calibration.r0_gt_1837 :bulk_numer * correction0_denom > correction0_numer * bulk_denom + 1837 * bulk_denom * correction0_denom**
 
@@ -402,7 +402,7 @@ bulk_numer × correction0_denom > correction0_numer × bulk_denom + 1837 × bulk
 
 ### `Tau.BookIV.Calibration.r0_lt_1840`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L194-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L194-L199)
 **theorem
 Tau.BookIV.Calibration.r0_lt_1840 :bulk_numer * correction0_denom < correction0_numer * bulk_denom + 1840 * bulk_denom * correction0_denom**
 
@@ -414,7 +414,7 @@ bulk_numer × correction0_denom < correction0_numer × bulk_denom + 1840 × bulk
 
 ### `Tau.BookIV.Calibration.r0_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L201-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L201-L207)
 **theorem
 Tau.BookIV.Calibration.r0_in_range :bulk_numer * correction0_denom > correction0_numer * bulk_denom + 1837 * bulk_denom * correction0_denom ∧ bulk_numer * correction0_denom < correction0_numer * bulk_denom + 1840 * bulk_denom * correction0_denom**
 
@@ -425,7 +425,7 @@ Combined: R₀ ∈ (1837, 1840) with the 6-digit ι<sub>τ</sub> approximation.
 
 ### `Tau.BookIV.Calibration.r0_deviation_lt_1pct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L213-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L213-L254)
 **theorem
 Tau.BookIV.Calibration.r0_deviation_lt_1pct :bulk_numer * si_mass_ratio.denom * correction0_denom + si_mass_ratio.numer * bulk_denom * correction0_denom > 100 * correction0_numer * si_mass_ratio.denom * bulk_denom**
 
@@ -449,7 +449,7 @@ Cross-multiplied on all three fractions' denominators.
 
 ### `Tau.BookIV.Calibration.Level1PlusFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L260-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L260-L281)
 **structure
 Tau.BookIV.Calibration.Level1PlusFormula :Type**
 
@@ -486,7 +486,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel1PlusFormula.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L281-L281)
 **def
 Tau.BookIV.Calibration.instReprLevel1PlusFormula.repr :Level1PlusFormula → ℕ → Std.Format**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel1PlusFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L281-L281)
 **instance
 Tau.BookIV.Calibration.instReprLevel1PlusFormula :Repr Level1PlusFormula**
 
@@ -509,7 +509,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.level1plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L283-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L283-L284)
 **def
 Tau.BookIV.Calibration.level1plus :Level1PlusFormula**
 
@@ -523,7 +523,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.perturbative_terms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L286-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L286-L299)
 **def
 Tau.BookIV.Calibration.perturbative_terms :List String**
 
@@ -545,7 +545,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.perturbative_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L301-L302)
 **theorem
 Tau.BookIV.Calibration.perturbative_count :perturbative_terms.length = 4**
 
@@ -556,7 +556,7 @@ Four terms in the perturbative expansion.
 
 ### `Tau.BookIV.Calibration.ElectronMassDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L308-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L308-L324)
 **structure
 Tau.BookIV.Calibration.ElectronMassDerivation :Type**
 
@@ -587,7 +587,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprElectronMassDerivation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L324-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L324-L324)
 **def
 Tau.BookIV.Calibration.instReprElectronMassDerivation.repr :ElectronMassDerivation → ℕ → Std.Format**
 
@@ -599,7 +599,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprElectronMassDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L324-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L324-L324)
 **instance
 Tau.BookIV.Calibration.instReprElectronMassDerivation :Repr ElectronMassDerivation**
 
@@ -610,7 +610,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.electron_mass_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L326-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L326-L332)
 **theorem
 Tau.BookIV.Calibration.electron_mass_consistent :si_neutron_mass.numer * si_electron_mass.denom > 1838 * si_electron_mass.numer * si_neutron_mass.denom**
 
@@ -623,7 +623,7 @@ neutron_numer × electron_denom > ratio × electron_numer × neutron_denom
 
 ### `Tau.BookIV.Calibration.RDerivationLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L338-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L338-L346)
 **structure
 Tau.BookIV.Calibration.RDerivationLink :Type**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRDerivationLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L346-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L346-L346)
 **instance
 Tau.BookIV.Calibration.instReprRDerivationLink :Repr RDerivationLink**
 
@@ -656,7 +656,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprRDerivationLink.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L346-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L346-L346)
 **def
 Tau.BookIV.Calibration.instReprRDerivationLink.repr :RDerivationLink → ℕ → Std.Format**
 
@@ -668,7 +668,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.r_derivation_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L348-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L348-L360)
 **def
 Tau.BookIV.Calibration.r_derivation_chain :List RDerivationLink**
 
@@ -682,7 +682,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.chain_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L362-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L362-L363)
 **theorem
 Tau.BookIV.Calibration.chain_length :r_derivation_chain.length = 10**
 
@@ -693,7 +693,7 @@ Tau.BookIV.Calibration.chain_length :r_derivation_chain.length = 10**
 
 ### `Tau.BookIV.Calibration.chain_all_tau_effective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L365-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L365-L368)
 **theorem
 Tau.BookIV.Calibration.chain_all_tau_effective :(r_derivation_chain.all fun (l : RDerivationLink) => l.scope == "tau-effective") = true**
 
@@ -704,7 +704,7 @@ Tau.BookIV.Calibration.chain_all_tau_effective :(r_derivation_chain.all fun (l :
 
 ### `Tau.BookIV.Calibration.chain_scope_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L370-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L370-L374)
 **theorem
 Tau.BookIV.Calibration.chain_scope_count :(List.filter (fun (x : RDerivationLink) => x.scope == "tau-effective") r_derivation_chain).length = 10 ∧ (List.filter (fun (x : RDerivationLink) => x.scope == "conjectural") r_derivation_chain).length = 0**
 
@@ -715,7 +715,7 @@ The scope count: 10 tau-effective, 0 conjectural, 0 metaphorical.
 
 ### `Tau.BookIV.Calibration.FormulaLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L380-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L380-L390)
 **structure
 Tau.BookIV.Calibration.FormulaLevel :Type**
 
@@ -740,7 +740,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprFormulaLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L390-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L390-L390)
 **def
 Tau.BookIV.Calibration.instReprFormulaLevel.repr :FormulaLevel → ℕ → Std.Format**
 
@@ -752,7 +752,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprFormulaLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L390-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L390-L390)
 **instance
 Tau.BookIV.Calibration.instReprFormulaLevel :Repr FormulaLevel**
 
@@ -763,7 +763,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.formula_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L392-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L392-L403)
 **def
 Tau.BookIV.Calibration.formula_levels :List FormulaLevel**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.formula_level_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/MassRatioFormula.lean#L405-L406)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/MassRatioFormula.lean#L405-L406)
 **theorem
 Tau.BookIV.Calibration.formula_level_count :formula_levels.length = 3**
 

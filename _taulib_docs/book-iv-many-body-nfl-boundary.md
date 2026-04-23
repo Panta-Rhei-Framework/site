@@ -76,7 +76,7 @@ other regime checks.
 
 ### `Tau.BookIV.ManyBody.NonDissEndomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L45-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L45-L55)
 **structure
 Tau.BookIV.ManyBody.NonDissEndomorphism :Type**
 
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNonDissEndomorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L55-L55)
 **def
 Tau.BookIV.ManyBody.instReprNonDissEndomorphism.repr :NonDissEndomorphism → ℕ → Std.Format**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNonDissEndomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L55-L55)
 **instance
 Tau.BookIV.ManyBody.instReprNonDissEndomorphism :Repr NonDissEndomorphism**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.nondiss_endomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L57-L57)
 **def
 Tau.BookIV.ManyBody.nondiss_endomorphism :NonDissEndomorphism**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.NFLBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L63-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L63-L92)
 **structure
 Tau.BookIV.ManyBody.NFLBoundary :Type**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNFLBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L92-L92)
 **instance
 Tau.BookIV.ManyBody.instReprNFLBoundary :Repr NFLBoundary**
 
@@ -201,7 +201,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprNFLBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L92-L92)
 **def
 Tau.BookIV.ManyBody.instReprNFLBoundary.repr :NFLBoundary → ℕ → Std.Format**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.nfl_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L94-L94)
 **def
 Tau.BookIV.ManyBody.nfl_boundary :NFLBoundary**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.nfl_nondiss_iff_aut`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L96-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L96-L97)
 **theorem
 Tau.BookIV.ManyBody.nfl_nondiss_iff_aut :nfl_boundary.nondiss_iff_aut = true**
 
@@ -234,7 +234,7 @@ Tau.BookIV.ManyBody.nfl_nondiss_iff_aut :nfl_boundary.nondiss_iff_aut = true**
 
 ### `Tau.BookIV.ManyBody.euler_all_automorphisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L99-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L99-L100)
 **theorem
 Tau.BookIV.ManyBody.euler_all_automorphisms :nfl_boundary.euler_all_aut = true**
 
@@ -243,7 +243,7 @@ Tau.BookIV.ManyBody.euler_all_automorphisms :nfl_boundary.euler_all_aut = true**
 
 ### `Tau.BookIV.ManyBody.ns_has_strict_endomorphisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L102-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L102-L103)
 **theorem
 Tau.BookIV.ManyBody.ns_has_strict_endomorphisms :nfl_boundary.ns_strict_endo = true**
 
@@ -252,7 +252,7 @@ Tau.BookIV.ManyBody.ns_has_strict_endomorphisms :nfl_boundary.ns_strict_endo = t
 
 ### `Tau.BookIV.ManyBody.DecidableMeta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L115-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L115-L133)
 **structure
 Tau.BookIV.ManyBody.DecidableMeta :Type**
 
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDecidableMeta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L133-L133)
 **instance
 Tau.BookIV.ManyBody.instReprDecidableMeta :Repr DecidableMeta**
 
@@ -297,7 +297,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprDecidableMeta.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L133-L133)
 **def
 Tau.BookIV.ManyBody.instReprDecidableMeta.repr :DecidableMeta → ℕ → Std.Format**
 
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.decidable_meta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L135-L135)
 **def
 Tau.BookIV.ManyBody.decidable_meta :DecidableMeta**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.phase_classification_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L137-L138)
 **theorem
 Tau.BookIV.ManyBody.phase_classification_decidable :decidable_meta.conditions_decidable = true**
 
@@ -330,7 +330,7 @@ Tau.BookIV.ManyBody.phase_classification_decidable :decidable_meta.conditions_de
 
 ### `Tau.BookIV.ManyBody.no_real_arithmetic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L140-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L140-L141)
 **theorem
 Tau.BookIV.ManyBody.no_real_arithmetic :decidable_meta.no_reals = true**
 
@@ -339,7 +339,7 @@ Tau.BookIV.ManyBody.no_real_arithmetic :decidable_meta.no_reals = true**
 
 ### `Tau.BookIV.ManyBody.TenRegimeInstantiations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L147-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L147-L159)
 **structure
 Tau.BookIV.ManyBody.TenRegimeInstantiations :Type**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTenRegimeInstantiations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L159-L159)
 **instance
 Tau.BookIV.ManyBody.instReprTenRegimeInstantiations :Repr TenRegimeInstantiations**
 
@@ -373,7 +373,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprTenRegimeInstantiations.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L159-L159)
 **def
 Tau.BookIV.ManyBody.instReprTenRegimeInstantiations.repr :TenRegimeInstantiations → ℕ → Std.Format**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.ten_regimes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L161-L161)
 **def
 Tau.BookIV.ManyBody.ten_regimes :TenRegimeInstantiations**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.ten_decidable_regimes_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L163-L164)
 **theorem
 Tau.BookIV.ManyBody.ten_decidable_regimes_total :ten_regimes.num_regimes = 10**
 
@@ -406,7 +406,7 @@ Tau.BookIV.ManyBody.ten_decidable_regimes_total :ten_regimes.num_regimes = 10**
 
 ### `Tau.BookIV.ManyBody.ten_decidable_regimes_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L166-L167)
 **theorem
 Tau.BookIV.ManyBody.ten_decidable_regimes_all :ten_regimes.all_decidable = true**
 
@@ -415,6 +415,6 @@ Tau.BookIV.ManyBody.ten_decidable_regimes_all :ten_regimes.all_decidable = true*
 
 ### `Tau.BookIV.ManyBody.ten_decidable_regimes_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/NFLBoundary.lean#L169-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/NFLBoundary.lean#L169-L170)
 **theorem
 Tau.BookIV.ManyBody.ten_decidable_regimes_count :ten_regimes.regimes.length = 10**

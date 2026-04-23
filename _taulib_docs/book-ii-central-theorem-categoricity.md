@@ -67,7 +67,7 @@ single point -- there are no deformations.
 
 ### `Tau.BookII.CentralTheorem.liouville_dodge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L48-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L48-L79)
 **def
 Tau.BookII.CentralTheorem.liouville_dodge_check :Bool**
 
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.nonconstant_bounded_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L81-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L81-L122)
 **def
 Tau.BookII.CentralTheorem.nonconstant_bounded_check
 (db : Denotation.TauIdx)
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.nonconstant_bounded_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L96-L109)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L96-L109)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.nonconstant_bounded_check.go
@@ -141,7 +141,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.nonconstant_bounded_check.check_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L111-L114)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L111-L114)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.nonconstant_bounded_check.check_bounded
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.nonconstant_bounded_check.check_tower_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L116-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L116-L121)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.nonconstant_bounded_check.check_tower_coherence
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.primorial_unique_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L128-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L128-L145)
 **def
 Tau.BookII.CentralTheorem.primorial_unique_check
 (db : Denotation.TauIdx)
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.primorial_unique_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L134-L144)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L134-L144)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.primorial_unique_check.go
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.abcd_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L147-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L147-L159)
 **def
 Tau.BookII.CentralTheorem.abcd_roundtrip_check
 (bound : Denotation.TauIdx)
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.abcd_roundtrip_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L152-L158)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L152-L158)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.abcd_roundtrip_check.go
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.reduction_determinism_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L161-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L161-L176)
 **def
 Tau.BookII.CentralTheorem.reduction_determinism_check
 (db bound : Denotation.TauIdx)
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.reduction_determinism_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L165-L175)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L165-L175)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.reduction_determinism_check.go
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.categoricity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L178-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L178-L190)
 **def
 Tau.BookII.CentralTheorem.categoricity_check
 (db bound : Denotation.TauIdx)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.moduli_singleton_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L196-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L196-L223)
 **def
 Tau.BookII.CentralTheorem.moduli_singleton_check
 (bound : Denotation.TauIdx)
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.moduli_singleton_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L210-L222)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L210-L222)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.moduli_singleton_check.go
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L229-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L229-L239)
 **def
 Tau.BookII.CentralTheorem.uniqueness_check
 (db bound : Denotation.TauIdx)
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_categoricity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L241-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L241-L247)
 **def
 Tau.BookII.CentralTheorem.full_categoricity_check
 (db bound : Denotation.TauIdx)
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.liouville_dodge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L292-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L292-L293)
 **theorem
 Tau.BookII.CentralTheorem.liouville_dodge :liouville_dodge_check = true**
 
@@ -398,7 +398,7 @@ Tau.BookII.CentralTheorem.liouville_dodge :liouville_dodge_check = true**
 
 ### `Tau.BookII.CentralTheorem.nonconstant_bounded_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L296-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L296-L297)
 **theorem
 Tau.BookII.CentralTheorem.nonconstant_bounded_4 :nonconstant_bounded_check 4 = true**
 
@@ -407,7 +407,7 @@ Tau.BookII.CentralTheorem.nonconstant_bounded_4 :nonconstant_bounded_check 4 = t
 
 ### `Tau.BookII.CentralTheorem.primorial_unique_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L300-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L300-L301)
 **theorem
 Tau.BookII.CentralTheorem.primorial_unique_5 :primorial_unique_check 5 = true**
 
@@ -416,7 +416,7 @@ Tau.BookII.CentralTheorem.primorial_unique_5 :primorial_unique_check 5 = true**
 
 ### `Tau.BookII.CentralTheorem.abcd_rt_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L304-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L304-L305)
 **theorem
 Tau.BookII.CentralTheorem.abcd_rt_100 :abcd_roundtrip_check 100 = true**
 
@@ -425,7 +425,7 @@ Tau.BookII.CentralTheorem.abcd_rt_100 :abcd_roundtrip_check 100 = true**
 
 ### `Tau.BookII.CentralTheorem.red_det_3_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L308-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L308-L309)
 **theorem
 Tau.BookII.CentralTheorem.red_det_3_50 :reduction_determinism_check 3 50 = true**
 
@@ -434,7 +434,7 @@ Tau.BookII.CentralTheorem.red_det_3_50 :reduction_determinism_check 3 50 = true*
 
 ### `Tau.BookII.CentralTheorem.categoricity_3_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L312-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L312-L313)
 **theorem
 Tau.BookII.CentralTheorem.categoricity_3_50 :categoricity_check 3 50 = true**
 
@@ -443,7 +443,7 @@ Tau.BookII.CentralTheorem.categoricity_3_50 :categoricity_check 3 50 = true**
 
 ### `Tau.BookII.CentralTheorem.moduli_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L316-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L316-L317)
 **theorem
 Tau.BookII.CentralTheorem.moduli_100 :moduli_singleton_check 100 = true**
 
@@ -452,7 +452,7 @@ Tau.BookII.CentralTheorem.moduli_100 :moduli_singleton_check 100 = true**
 
 ### `Tau.BookII.CentralTheorem.uniqueness_3_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L320-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L320-L321)
 **theorem
 Tau.BookII.CentralTheorem.uniqueness_3_50 :uniqueness_check 3 50 = true**
 
@@ -461,7 +461,7 @@ Tau.BookII.CentralTheorem.uniqueness_3_50 :uniqueness_check 3 50 = true**
 
 ### `Tau.BookII.CentralTheorem.full_cat_3_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L324-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L324-L325)
 **theorem
 Tau.BookII.CentralTheorem.full_cat_3_50 :full_categoricity_check 3 50 = true**
 
@@ -470,7 +470,7 @@ Tau.BookII.CentralTheorem.full_cat_3_50 :full_categoricity_check 3 50 = true**
 
 ### `Tau.BookII.CentralTheorem.j_squared_wave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L331-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L331-L335)
 **theorem
 Tau.BookII.CentralTheorem.j_squared_wave :Polarity.SplitComplex.j.mul Polarity.SplitComplex.j = Polarity.SplitComplex.one**
 
@@ -482,7 +482,7 @@ This is the structural reason Liouville's theorem does not apply.
 
 ### `Tau.BookII.CentralTheorem.zero_divisors_exist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L337-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L337-L341)
 **theorem
 Tau.BookII.CentralTheorem.zero_divisors_exist :Polarity.e_plus_sector.mul Polarity.e_minus_sector = { b_sector := 0, c_sector := 0 }**
 
@@ -494,7 +494,7 @@ This is impossible in the Gaussian integers Z[i] (i^2 = -1).
 
 ### `Tau.BookII.CentralTheorem.idempotent_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L343-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L343-L347)
 **theorem
 Tau.BookII.CentralTheorem.idempotent_complete :Polarity.e_plus_sector.add Polarity.e_minus_sector = { b_sector := 1, c_sector := 1 }**
 
@@ -506,7 +506,7 @@ The sector idempotents partition unity.
 
 ### `Tau.BookII.CentralTheorem.abcd_roundtrip_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L349-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L349-L353)
 **theorem
 Tau.BookII.CentralTheorem.abcd_roundtrip_12 :Interior.to_tau_idx (Interior.from_tau_idx 12) = 12**
 
@@ -519,7 +519,7 @@ The general statement is verified by abcd_roundtrip_check via native_decide.
 
 ### `Tau.BookII.CentralTheorem.abcd_roundtrip_64`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L355-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L355-L356)
 **theorem
 Tau.BookII.CentralTheorem.abcd_roundtrip_64 :Interior.to_tau_idx (Interior.from_tau_idx 64) = 64**
 
@@ -528,7 +528,7 @@ Tau.BookII.CentralTheorem.abcd_roundtrip_64 :Interior.to_tau_idx (Interior.from_
 
 ### `Tau.BookII.CentralTheorem.abcd_roundtrip_360`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L358-L359)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L358-L359)
 **theorem
 Tau.BookII.CentralTheorem.abcd_roundtrip_360 :Interior.to_tau_idx (Interior.from_tau_idx 360) = 360**
 
@@ -537,7 +537,7 @@ Tau.BookII.CentralTheorem.abcd_roundtrip_360 :Interior.to_tau_idx (Interior.from
 
 ### `Tau.BookII.CentralTheorem.reduce_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L361-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L361-L365)
 **theorem
 Tau.BookII.CentralTheorem.reduce_idempotent
 (x k : Denotation.TauIdx)
@@ -551,7 +551,7 @@ This is the formal statement that the primorial tower has no ambiguity.
 
 ### `Tau.BookII.CentralTheorem.abcd_distinct_12_64`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L367-L371)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L367-L371)
 **theorem
 Tau.BookII.CentralTheorem.abcd_distinct_12_64 :Interior.from_tau_idx 12 ≠ Interior.from_tau_idx 64**
 
@@ -564,7 +564,7 @@ The general computational check is abcd_roundtrip_check.
 
 ### `Tau.BookII.CentralTheorem.structure_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L373-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L373-L377)
 **theorem
 Tau.BookII.CentralTheorem.structure_uniqueness
 (x k : Denotation.TauIdx)
@@ -578,7 +578,7 @@ There is exactly one way to define it: x % primorial k.
 
 ### `Tau.BookII.CentralTheorem.tower_forced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/Categoricity.lean#L379-L384)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/Categoricity.lean#L379-L384)
 **theorem
 Tau.BookII.CentralTheorem.tower_forced
 (x : Denotation.TauIdx)

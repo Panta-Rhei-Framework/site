@@ -64,7 +64,7 @@ consequence of the bipolar partition.
 
 ### `Tau.Polarity.b_channel_seq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L39-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L39-L40)
 **def
 Tau.Polarity.b_channel_seq
 (p k : Denotation.TauIdx)
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.Polarity.c_channel_seq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L42-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L42-L43)
 **def
 Tau.Polarity.c_channel_seq
 (p k : Denotation.TauIdx)
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.Polarity.eventually_constant_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L49-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L49-L52)
 **def
 Tau.Polarity.eventually_constant_at
 (f : Nat → Nat)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.Polarity.eventually_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L54-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L54-L56)
 **def
 Tau.Polarity.eventually_constant
 (f : Nat → Nat)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Polarity.const_check_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L58-L64)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L58-L64)@[irreducible]
 
 **def
 Tau.Polarity.const_check_go
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.Polarity.const_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L66-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L66-L67)
 **def
 Tau.Polarity.const_check
 (f : Nat → Nat)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.Polarity.cofinal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L73-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L73-L76)
 **def
 Tau.Polarity.cofinal
 (f : Nat → Nat)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Polarity.cofinal_check_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L78-L84)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L78-L84)@[irreducible]
 
 **def
 Tau.Polarity.cofinal_check_go
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.Polarity.cofinal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L86-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L86-L87)
 **def
 Tau.Polarity.cofinal_check
 (f : Nat → Nat)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.Polarity.BPolarized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L93-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L93-L97)
 **def
 Tau.Polarity.BPolarized
 (p : Denotation.TauIdx)
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.Polarity.CPolarized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L99-L102)
 **def
 Tau.Polarity.CPolarized
 (p : Denotation.TauIdx)
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.Polarity.CrossingGerm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L104-L107)
 **def
 Tau.Polarity.CrossingGerm
 (p : Denotation.TauIdx)
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.Polarity.b_polarized_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L113-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L113-L117)
 **def
 Tau.Polarity.b_polarized_check
 (p d : Denotation.TauIdx)
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.Polarity.c_polarized_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L119-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L119-L123)
 **def
 Tau.Polarity.c_polarized_check
 (p d : Denotation.TauIdx)
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.Polarity.germ_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L125-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L125-L129)
 **def
 Tau.Polarity.germ_status
 (p d : Denotation.TauIdx)
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.Polarity.channel_display_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L135-L144)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L135-L144)@[irreducible]
 
 **def
 Tau.Polarity.channel_display_go
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.Polarity.channel_display`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PolarizedGerms.lean#L146-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PolarizedGerms.lean#L146-L147)
 **def
 Tau.Polarity.channel_display
 (p d : Denotation.TauIdx)

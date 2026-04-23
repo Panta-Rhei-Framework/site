@@ -92,7 +92,7 @@ Epigenetic regulation: evaluator-modulated code reading at each refinement level
 
 ### `Tau.BookVI.Epigenetics.ChromatinPartition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L47-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L47-L61)
 **structure
 Tau.BookVI.Epigenetics.ChromatinPartition :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprChromatinPartition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L61-L61)
 **def
 Tau.BookVI.Epigenetics.instReprChromatinPartition.repr :ChromatinPartition → ℕ → Std.Format**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprChromatinPartition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L61-L61)
 **instance
 Tau.BookVI.Epigenetics.instReprChromatinPartition :Repr ChromatinPartition**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.chromatin_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L63-L63)
 **def
 Tau.BookVI.Epigenetics.chromatin_partition :ChromatinPartition**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.chromatin_partition_clopen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L65-L67)
 **theorem
 Tau.BookVI.Epigenetics.chromatin_partition_clopen :chromatin_partition.clopen = true**
 
@@ -165,7 +165,7 @@ Tau.BookVI.Epigenetics.chromatin_partition_clopen :chromatin_partition.clopen = 
 
 ### `Tau.BookVI.Epigenetics.EpigeneticState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L73-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L73-L88)
 **structure
 Tau.BookVI.Epigenetics.EpigeneticState :Type**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprEpigeneticState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L88-L88)
 **def
 Tau.BookVI.Epigenetics.instReprEpigeneticState.repr :EpigeneticState → ℕ → Std.Format**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprEpigeneticState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L88-L88)
 **instance
 Tau.BookVI.Epigenetics.instReprEpigeneticState :Repr EpigeneticState**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.totipotent_state`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L90-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L90-L92)
 **def
 Tau.BookVI.Epigenetics.totipotent_state :EpigeneticState**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.totipotent_is_level_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L94-L96)
 **theorem
 Tau.BookVI.Epigenetics.totipotent_is_level_zero :totipotent_state.refinement_level = 0**
 
@@ -239,7 +239,7 @@ Tau.BookVI.Epigenetics.totipotent_is_level_zero :totipotent_state.refinement_lev
 
 ### `Tau.BookVI.Epigenetics.GeneExpressionProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L102-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L102-L116)
 **structure
 Tau.BookVI.Epigenetics.GeneExpressionProfile :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprGeneExpressionProfile.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L116-L116)
 **def
 Tau.BookVI.Epigenetics.instReprGeneExpressionProfile.repr :GeneExpressionProfile → ℕ → Std.Format**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprGeneExpressionProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L116-L116)
 **instance
 Tau.BookVI.Epigenetics.instReprGeneExpressionProfile :Repr GeneExpressionProfile**
 
@@ -291,7 +291,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.typical_somatic_profile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L118-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L118-L121)
 **def
 Tau.BookVI.Epigenetics.typical_somatic_profile :GeneExpressionProfile**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.expression_is_restricted`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L123-L125)
 **theorem
 Tau.BookVI.Epigenetics.expression_is_restricted :typical_somatic_profile.expressed_genes ≤ typical_somatic_profile.total_genes**
 
@@ -313,7 +313,7 @@ Tau.BookVI.Epigenetics.expression_is_restricted :typical_somatic_profile.express
 
 ### `Tau.BookVI.Epigenetics.PotencyRestriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L131-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L131-L146)
 **structure
 Tau.BookVI.Epigenetics.PotencyRestriction :Type**
 
@@ -343,7 +343,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprPotencyRestriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L146-L146)
 **instance
 Tau.BookVI.Epigenetics.instReprPotencyRestriction :Repr PotencyRestriction**
 
@@ -354,7 +354,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprPotencyRestriction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L146-L146)
 **def
 Tau.BookVI.Epigenetics.instReprPotencyRestriction.repr :PotencyRestriction → ℕ → Std.Format**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.potency_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L148-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L148-L150)
 **def
 Tau.BookVI.Epigenetics.potency_hierarchy :PotencyRestriction**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.potency_has_five_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L152-L154)
 **theorem
 Tau.BookVI.Epigenetics.potency_has_five_levels :potency_hierarchy.potency_levels = 5**
 
@@ -387,7 +387,7 @@ Tau.BookVI.Epigenetics.potency_has_five_levels :potency_hierarchy.potency_levels
 
 ### `Tau.BookVI.Epigenetics.IntergenerationalTransfer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L160-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L160-L175)
 **structure
 Tau.BookVI.Epigenetics.IntergenerationalTransfer :Type**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprIntergenerationalTransfer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L175-L175)
 **instance
 Tau.BookVI.Epigenetics.instReprIntergenerationalTransfer :Repr IntergenerationalTransfer**
 
@@ -428,7 +428,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprIntergenerationalTransfer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L175-L175)
 **def
 Tau.BookVI.Epigenetics.instReprIntergenerationalTransfer.repr :IntergenerationalTransfer → ℕ → Std.Format**
 
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.epigenetic_transfer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L177-L177)
 **def
 Tau.BookVI.Epigenetics.epigenetic_transfer :IntergenerationalTransfer**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.transfer_is_lossy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L179-L181)
 **theorem
 Tau.BookVI.Epigenetics.transfer_is_lossy :epigenetic_transfer.lossy = true**
 
@@ -461,7 +461,7 @@ Tau.BookVI.Epigenetics.transfer_is_lossy :epigenetic_transfer.lossy = true**
 
 ### `Tau.BookVI.Epigenetics.WaddingtonLandscape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L187-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L187-L202)
 **structure
 Tau.BookVI.Epigenetics.WaddingtonLandscape :Type**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprWaddingtonLandscape.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L202-L202)
 **def
 Tau.BookVI.Epigenetics.instReprWaddingtonLandscape.repr :WaddingtonLandscape → ℕ → Std.Format**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprWaddingtonLandscape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L202-L202)
 **instance
 Tau.BookVI.Epigenetics.instReprWaddingtonLandscape :Repr WaddingtonLandscape**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.waddington`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L204-L204)
 **def
 Tau.BookVI.Epigenetics.waddington :WaddingtonLandscape**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.waddington_descends`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L206-L208)
 **theorem
 Tau.BookVI.Epigenetics.waddington_descends :waddington.descending_active_genes = true**
 
@@ -535,7 +535,7 @@ Tau.BookVI.Epigenetics.waddington_descends :waddington.descending_active_genes =
 
 ### `Tau.BookVI.Epigenetics.CellFate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L214-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L214-L229)
 **structure
 Tau.BookVI.Epigenetics.CellFate :Type**
 
@@ -565,7 +565,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprCellFate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L229-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L229-L229)
 **instance
 Tau.BookVI.Epigenetics.instReprCellFate :Repr CellFate**
 
@@ -576,7 +576,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprCellFate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L229-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L229-L229)
 **def
 Tau.BookVI.Epigenetics.instReprCellFate.repr :CellFate → ℕ → Std.Format**
 
@@ -588,7 +588,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.terminal_fate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L231-L231)
 **def
 Tau.BookVI.Epigenetics.terminal_fate :CellFate**
 
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.terminal_is_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L233-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L233-L235)
 **theorem
 Tau.BookVI.Epigenetics.terminal_is_fixed :terminal_fate.fixed_under_selfdesc = true**
 
@@ -609,7 +609,7 @@ Tau.BookVI.Epigenetics.terminal_is_fixed :terminal_fate.fixed_under_selfdesc = t
 
 ### `Tau.BookVI.Epigenetics.DifferentiationIrreversible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L241-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L241-L256)
 **structure
 Tau.BookVI.Epigenetics.DifferentiationIrreversible :Type**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprDifferentiationIrreversible.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L256-L256)
 **def
 Tau.BookVI.Epigenetics.instReprDifferentiationIrreversible.repr :DifferentiationIrreversible → ℕ → Std.Format**
 
@@ -651,7 +651,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprDifferentiationIrreversible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L256-L256)
 **instance
 Tau.BookVI.Epigenetics.instReprDifferentiationIrreversible :Repr DifferentiationIrreversible**
 
@@ -662,7 +662,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.diff_irrev`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L258-L258)
 **def
 Tau.BookVI.Epigenetics.diff_irrev :DifferentiationIrreversible**
 
@@ -674,7 +674,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.differentiation_irreversible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L260-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L260-L264)
 **theorem
 Tau.BookVI.Epigenetics.differentiation_irreversible :diff_irrev.monotone_restriction = true ∧ diff_irrev.selfdesc_maintains = true ∧ diff_irrev.irreversible = true**
 
@@ -683,7 +683,7 @@ Tau.BookVI.Epigenetics.differentiation_irreversible :diff_irrev.monotone_restric
 
 ### `Tau.BookVI.Epigenetics.ReprogrammingReversal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L270-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L270-L285)
 **structure
 Tau.BookVI.Epigenetics.ReprogrammingReversal :Type**
 
@@ -713,7 +713,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprReprogrammingReversal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L285-L285)
 **instance
 Tau.BookVI.Epigenetics.instReprReprogrammingReversal :Repr ReprogrammingReversal**
 
@@ -724,7 +724,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprReprogrammingReversal.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L285-L285)
 **def
 Tau.BookVI.Epigenetics.instReprReprogrammingReversal.repr :ReprogrammingReversal → ℕ → Std.Format**
 
@@ -736,7 +736,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.reprog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L287-L287)
 **def
 Tau.BookVI.Epigenetics.reprog :ReprogrammingReversal**
 
@@ -748,7 +748,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.reprogramming_refinement_reversal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L289-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L289-L293)
 **theorem
 Tau.BookVI.Epigenetics.reprogramming_refinement_reversal :reprog.code_invariant = true ∧ reprog.yamanaka_demonstrated = true ∧ reprog.factor_count = 4**
 
@@ -757,7 +757,7 @@ Tau.BookVI.Epigenetics.reprogramming_refinement_reversal :reprog.code_invariant 
 
 ### `Tau.BookVI.Epigenetics.CellFateFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L299-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L299-L314)
 **structure
 Tau.BookVI.Epigenetics.CellFateFixedPoint :Type**
 
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprCellFateFixedPoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L314-L314)
 **def
 Tau.BookVI.Epigenetics.instReprCellFateFixedPoint.repr :CellFateFixedPoint → ℕ → Std.Format**
 
@@ -799,7 +799,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprCellFateFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L314-L314)
 **instance
 Tau.BookVI.Epigenetics.instReprCellFateFixedPoint :Repr CellFateFixedPoint**
 
@@ -810,7 +810,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.fate_fp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L316-L316)
 **def
 Tau.BookVI.Epigenetics.fate_fp :CellFateFixedPoint**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.cell_fate_fixed_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L318-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L318-L322)
 **theorem
 Tau.BookVI.Epigenetics.cell_fate_fixed_point :fate_fp.self_maintaining = true ∧ fate_fp.basin_absorbing = true ∧ fate_fp.is_fixed_point = true**
 
@@ -831,7 +831,7 @@ Tau.BookVI.Epigenetics.cell_fate_fixed_point :fate_fp.self_maintaining = true �
 
 ### `Tau.BookVI.Epigenetics.EpigeneticDrift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L328-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L328-L343)
 **structure
 Tau.BookVI.Epigenetics.EpigeneticDrift :Type**
 
@@ -861,7 +861,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprEpigeneticDrift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L343-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L343-L343)
 **instance
 Tau.BookVI.Epigenetics.instReprEpigeneticDrift :Repr EpigeneticDrift**
 
@@ -872,7 +872,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprEpigeneticDrift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L343-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L343-L343)
 **def
 Tau.BookVI.Epigenetics.instReprEpigeneticDrift.repr :EpigeneticDrift → ℕ → Std.Format**
 
@@ -884,7 +884,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.epi_drift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L345-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L345-L345)
 **def
 Tau.BookVI.Epigenetics.epi_drift :EpigeneticDrift**
 
@@ -896,7 +896,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.drift_is_aging_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L347-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L347-L349)
 **theorem
 Tau.BookVI.Epigenetics.drift_is_aging_instance :epi_drift.instance_of_aging_defect = true**
 
@@ -905,7 +905,7 @@ Tau.BookVI.Epigenetics.drift_is_aging_instance :epi_drift.instance_of_aging_defe
 
 ### `Tau.BookVI.Epigenetics.DriftBoundedByRepair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L355-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L355-L370)
 **structure
 Tau.BookVI.Epigenetics.DriftBoundedByRepair :Type**
 
@@ -935,7 +935,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.instReprDriftBoundedByRepair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L370-L370)
 **instance
 Tau.BookVI.Epigenetics.instReprDriftBoundedByRepair :Repr DriftBoundedByRepair**
 
@@ -946,7 +946,7 @@ Equations
 
 ### `Tau.BookVI.Epigenetics.instReprDriftBoundedByRepair.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L370-L370)
 **def
 Tau.BookVI.Epigenetics.instReprDriftBoundedByRepair.repr :DriftBoundedByRepair → ℕ → Std.Format**
 
@@ -958,7 +958,7 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.drift_repair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L372-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L372-L372)
 **def
 Tau.BookVI.Epigenetics.drift_repair :DriftBoundedByRepair**
 
@@ -970,6 +970,6 @@ Instances For
 
 ### `Tau.BookVI.Epigenetics.drift_bounded_by_repair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/Epigenetics.lean#L374-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/Epigenetics.lean#L374-L378)
 **theorem
 Tau.BookVI.Epigenetics.drift_bounded_by_repair :drift_repair.consumes_repair_budget = true ∧ drift_repair.exhaustion_implies_drift = true ∧ drift_repair.bounded_while_funded = true**

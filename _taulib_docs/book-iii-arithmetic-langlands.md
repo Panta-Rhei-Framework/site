@@ -65,7 +65,7 @@ transformations on the enriched bi-square.
 
 ### `Tau.BookIII.Arithmetic.ag_duality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L47-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L47-L71)
 **def
 Tau.BookIII.Arithmetic.ag_duality_check
 (bound db : Denotation.TauIdx)
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.ag_duality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L53-L70)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L53-L70)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.ag_duality_check.go
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.local_langlands_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L77-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L77-L101)
 **def
 Tau.BookIII.Arithmetic.local_langlands_check
 (bound db : Denotation.TauIdx)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.local_langlands_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L83-L100)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L83-L100)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.local_langlands_check.go
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.duality_md_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L107-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L107-L129)
 **def
 Tau.BookIII.Arithmetic.duality_md_check
 (bound db : Denotation.TauIdx)
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.duality_md_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L112-L128)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L112-L128)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.duality_md_check.go
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.functoriality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L135-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L135-L157)
 **def
 Tau.BookIII.Arithmetic.functoriality_check
 (bound db : Denotation.TauIdx)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.functoriality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L141-L156)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L141-L156)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.functoriality_check.go
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.base_change_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L163-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L163-L187)
 **def
 Tau.BookIII.Arithmetic.base_change_check
 (bound db : Denotation.TauIdx)
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.base_change_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L170-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L170-L186)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.base_change_check.go
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.ag_duality_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L203-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L203-L204)
 **theorem
 Tau.BookIII.Arithmetic.ag_duality_15_4 :ag_duality_check 15 4 = true**
 
@@ -249,7 +249,7 @@ Tau.BookIII.Arithmetic.ag_duality_15_4 :ag_duality_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.local_langlands_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L206-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L206-L207)
 **theorem
 Tau.BookIII.Arithmetic.local_langlands_10_3 :local_langlands_check 10 3 = true**
 
@@ -258,7 +258,7 @@ Tau.BookIII.Arithmetic.local_langlands_10_3 :local_langlands_check 10 3 = true**
 
 ### `Tau.BookIII.Arithmetic.duality_md_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L209-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L209-L210)
 **theorem
 Tau.BookIII.Arithmetic.duality_md_15_4 :duality_md_check 15 4 = true**
 
@@ -267,7 +267,7 @@ Tau.BookIII.Arithmetic.duality_md_15_4 :duality_md_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.functoriality_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L212-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L212-L213)
 **theorem
 Tau.BookIII.Arithmetic.functoriality_15_4 :functoriality_check 15 4 = true**
 
@@ -276,7 +276,7 @@ Tau.BookIII.Arithmetic.functoriality_15_4 :functoriality_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.base_change_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L215-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L215-L216)
 **theorem
 Tau.BookIII.Arithmetic.base_change_15_3 :base_change_check 15 3 = true**
 
@@ -285,7 +285,7 @@ Tau.BookIII.Arithmetic.base_change_15_3 :base_change_check 15 3 = true**
 
 ### `Tau.BookIII.Arithmetic.langlands_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L222-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L222-L223)
 **theorem
 Tau.BookIII.Arithmetic.langlands_level :Doors.problem_level Doors.MillenniumProblem.Langlands = Enrichment.EnrLevel.E2**
 
@@ -296,7 +296,7 @@ Tau.BookIII.Arithmetic.langlands_level :Doors.problem_level Doors.MillenniumProb
 
 ### `Tau.BookIII.Arithmetic.langlands_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L224-L224)
 **theorem
 Tau.BookIII.Arithmetic.langlands_part :Doors.problem_part Doors.MillenniumProblem.Langlands = 6**
 
@@ -305,7 +305,7 @@ Tau.BookIII.Arithmetic.langlands_part :Doors.problem_part Doors.MillenniumProble
 
 ### `Tau.BookIII.Arithmetic.func_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L226-L228)
 **theorem
 Tau.BookIII.Arithmetic.func_10_1 :functoriality_check 10 1 = true**
 
@@ -316,7 +316,7 @@ Tau.BookIII.Arithmetic.func_10_1 :functoriality_check 10 1 = true**
 
 ### `Tau.BookIII.Arithmetic.base_change_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/Langlands.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/Langlands.lean#L230-L232)
 **theorem
 Tau.BookIII.Arithmetic.base_change_10_1 :base_change_check 10 1 = true**
 

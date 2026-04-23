@@ -116,7 +116,7 @@ The orthodox Einstein field equations are the chart-projected shadow.
 
 ### `Tau.BookV.GravityField.CurvatureCharH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L71-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L71-L97)
 **structure
 Tau.BookV.GravityField.CurvatureCharH :Type**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCurvatureCharH.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L97-L97)
 **def
 Tau.BookV.GravityField.instReprCurvatureCharH.repr :CurvatureCharH → ℕ → Std.Format**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCurvatureCharH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L97-L97)
 **instance
 Tau.BookV.GravityField.instReprCurvatureCharH :Repr CurvatureCharH**
 
@@ -188,7 +188,7 @@ Equations
 
 ### `Tau.BookV.GravityField.CurvatureCharH.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L99-L101)
 **def
 Tau.BookV.GravityField.CurvatureCharH.toFloat
 (c : CurvatureCharH)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.MatterCharField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L107-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L107-L131)
 **structure
 Tau.BookV.GravityField.MatterCharField :Type**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprMatterCharField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L131-L131)
 **def
 Tau.BookV.GravityField.instReprMatterCharField.repr :MatterCharField → ℕ → Std.Format**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprMatterCharField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L131-L131)
 **instance
 Tau.BookV.GravityField.instReprMatterCharField :Repr MatterCharField**
 
@@ -274,7 +274,7 @@ Equations
 
 ### `Tau.BookV.GravityField.MatterCharField.total_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L133-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L133-L135)
 **def
 Tau.BookV.GravityField.MatterCharField.total_numer
 (m : MatterCharField)
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.MatterCharField.totalFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L137-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L137-L139)
 **def
 Tau.BookV.GravityField.MatterCharField.totalFloat
 (m : MatterCharField)
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TauEinsteinField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L145-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L145-L174)
 **structure
 Tau.BookV.GravityField.TauEinsteinField :Type**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTauEinsteinField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L174-L174)
 **instance
 Tau.BookV.GravityField.instReprTauEinsteinField :Repr TauEinsteinField**
 
@@ -369,7 +369,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprTauEinsteinField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L174-L174)
 **def
 Tau.BookV.GravityField.instReprTauEinsteinField.repr :TauEinsteinField → ℕ → Std.Format**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.bianchi_from_einstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L180-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L180-L194)
 **theorem
 Tau.BookV.GravityField.bianchi_from_einstein
 (e : TauEinsteinField)
@@ -404,7 +404,7 @@ structure of H*∂[n].
 
 ### `Tau.BookV.GravityField.chart_recovers_efe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L200-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L200-L208)
 **theorem
 Tau.BookV.GravityField.chart_recovers_efe
 (c : LocalTau3Chart)
@@ -422,7 +422,7 @@ The chart must be local and 4-dimensional.
 
 ### `Tau.BookV.GravityField.hartogs_from_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L214-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L214-L225)
 **theorem
 Tau.BookV.GravityField.hartogs_from_boundary
 (e : TauEinsteinField)
@@ -443,7 +443,7 @@ Depth must be positive (boundary data requires refinement).
 
 ### `Tau.BookV.GravityField.matter_three_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L231-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L231-L233)
 **theorem
 Tau.BookV.GravityField.matter_three_sectors
 (m : MatterCharField)
@@ -456,7 +456,7 @@ Matter has exactly 3 sector contributions.
 
 ### `Tau.BookV.GravityField.curvature_is_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L235-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L235-L237)
 **theorem
 Tau.BookV.GravityField.curvature_is_gravity
 (c : CurvatureCharH)
@@ -469,7 +469,7 @@ Curvature is always D-sector.
 
 ### `Tau.BookV.GravityField.example_curvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L271-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L271-L276)
 **def
 Tau.BookV.GravityField.example_curvature :CurvatureCharH**
 
@@ -481,7 +481,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_matter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauEinsteinEq.lean#L282-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauEinsteinEq.lean#L282-L289)
 **def
 Tau.BookV.GravityField.example_matter :MatterCharField**
 

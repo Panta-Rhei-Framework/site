@@ -70,7 +70,7 @@ Energy, entropy, arrow of time, and the dual reading of eigenvalues.
 
 ### `Tau.BookIV.QuantumMechanics.HolomorphicTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L38-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L38-L43)
 **structure
 Tau.BookIV.QuantumMechanics.HolomorphicTension :Type**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHolomorphicTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L43-L43)
 **instance
 Tau.BookIV.QuantumMechanics.instReprHolomorphicTension :Repr HolomorphicTension**
 
@@ -97,7 +97,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprHolomorphicTension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L43-L43)
 **def
 Tau.BookIV.QuantumMechanics.instReprHolomorphicTension.repr :HolomorphicTension → ℕ → Std.Format**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.HolomorphicTension.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L45-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L45-L46)
 **def
 Tau.BookIV.QuantumMechanics.HolomorphicTension.toFloat
 (e : HolomorphicTension)
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.GraphEnergyDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L52-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L52-L58)
 **structure
 Tau.BookIV.QuantumMechanics.GraphEnergyDensity :Type**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprGraphEnergyDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L58-L58)
 **def
 Tau.BookIV.QuantumMechanics.instReprGraphEnergyDensity.repr :GraphEnergyDensity → ℕ → Std.Format**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprGraphEnergyDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L58-L58)
 **instance
 Tau.BookIV.QuantumMechanics.instReprGraphEnergyDensity :Repr GraphEnergyDensity**
 
@@ -163,7 +163,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.GraphEnergyDensity.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L60-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L60-L61)
 **def
 Tau.BookIV.QuantumMechanics.GraphEnergyDensity.toFloat
 (d : GraphEnergyDensity)
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.LocalizationBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L67-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L67-L75)
 **structure
 Tau.BookIV.QuantumMechanics.LocalizationBound :Type**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprLocalizationBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L75-L75)
 **instance
 Tau.BookIV.QuantumMechanics.instReprLocalizationBound :Repr LocalizationBound**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprLocalizationBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L75-L75)
 **def
 Tau.BookIV.QuantumMechanics.instReprLocalizationBound.repr :LocalizationBound → ℕ → Std.Format**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.localization_energy_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L77-L78)
 **theorem
 Tau.BookIV.QuantumMechanics.localization_energy_bound
 (b : LocalizationBound)
@@ -230,7 +230,7 @@ Tau.BookIV.QuantumMechanics.localization_energy_bound
 
 ### `Tau.BookIV.QuantumMechanics.MassFromEigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L84-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L84-L90)
 **structure
 Tau.BookIV.QuantumMechanics.MassFromEigenvalue :Type**
 
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprMassFromEigenvalue.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L90-L90)
 **def
 Tau.BookIV.QuantumMechanics.instReprMassFromEigenvalue.repr :MassFromEigenvalue → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprMassFromEigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L90-L90)
 **instance
 Tau.BookIV.QuantumMechanics.instReprMassFromEigenvalue :Repr MassFromEigenvalue**
 
@@ -270,7 +270,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.FrequencyFromEigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L92-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L92-L98)
 **structure
 Tau.BookIV.QuantumMechanics.FrequencyFromEigenvalue :Type**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprFrequencyFromEigenvalue.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L98-L98)
 **def
 Tau.BookIV.QuantumMechanics.instReprFrequencyFromEigenvalue.repr :FrequencyFromEigenvalue → ℕ → Std.Format**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprFrequencyFromEigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L98-L98)
 **instance
 Tau.BookIV.QuantumMechanics.instReprFrequencyFromEigenvalue :Repr FrequencyFromEigenvalue**
 
@@ -310,7 +310,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.DualReading`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L104-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L104-L113)
 **structure
 Tau.BookIV.QuantumMechanics.DualReading :Type**
 
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprDualReading`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L113-L113)
 **instance
 Tau.BookIV.QuantumMechanics.instReprDualReading :Repr DualReading**
 
@@ -341,7 +341,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprDualReading.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L113-L113)
 **def
 Tau.BookIV.QuantumMechanics.instReprDualReading.repr :DualReading → ℕ → Std.Format**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.dual_reading`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L115-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L115-L116)
 **theorem
 Tau.BookIV.QuantumMechanics.dual_reading
 (d : DualReading)
@@ -364,7 +364,7 @@ Tau.BookIV.QuantumMechanics.dual_reading
 
 ### `Tau.BookIV.QuantumMechanics.EnergyConservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L122-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L122-L130)
 **structure
 Tau.BookIV.QuantumMechanics.EnergyConservation :Type**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEnergyConservation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L130-L130)
 **def
 Tau.BookIV.QuantumMechanics.instReprEnergyConservation.repr :EnergyConservation → ℕ → Std.Format**
 
@@ -394,7 +394,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEnergyConservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L130-L130)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEnergyConservation :Repr EnergyConservation**
 
@@ -405,7 +405,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.energy_conservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L132-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L132-L134)
 **theorem
 Tau.BookIV.QuantumMechanics.energy_conservation
 (c : EnergyConservation)
@@ -416,7 +416,7 @@ Tau.BookIV.QuantumMechanics.energy_conservation
 
 ### `Tau.BookIV.QuantumMechanics.CREntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L140-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L140-L147)
 **structure
 Tau.BookIV.QuantumMechanics.CREntropy :Type**
 
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCREntropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L147-L147)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCREntropy :Repr CREntropy**
 
@@ -445,7 +445,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCREntropy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L147-L147)
 **def
 Tau.BookIV.QuantumMechanics.instReprCREntropy.repr :CREntropy → ℕ → Std.Format**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.CREntropy.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L149-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L149-L150)
 **def
 Tau.BookIV.QuantumMechanics.CREntropy.toFloat
 (e : CREntropy)
@@ -471,7 +471,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.EntropyBoundData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L156-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L156-L161)
 **structure
 Tau.BookIV.QuantumMechanics.EntropyBoundData :Type**
 
@@ -487,7 +487,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntropyBoundData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L161-L161)
 **def
 Tau.BookIV.QuantumMechanics.instReprEntropyBoundData.repr :EntropyBoundData → ℕ → Std.Format**
 
@@ -499,7 +499,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntropyBoundData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L161-L161)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEntropyBoundData :Repr EntropyBoundData**
 
@@ -510,7 +510,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.entropy_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L163-L164)
 **theorem
 Tau.BookIV.QuantumMechanics.entropy_bound
 (b : EntropyBoundData)
@@ -521,7 +521,7 @@ Tau.BookIV.QuantumMechanics.entropy_bound
 
 ### `Tau.BookIV.QuantumMechanics.TemporalDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L170-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L170-L175)
 **structure
 Tau.BookIV.QuantumMechanics.TemporalDirection :Type**
 
@@ -537,7 +537,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprTemporalDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L175-L175)
 **instance
 Tau.BookIV.QuantumMechanics.instReprTemporalDirection :Repr TemporalDirection**
 
@@ -548,7 +548,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprTemporalDirection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L175-L175)
 **def
 Tau.BookIV.QuantumMechanics.instReprTemporalDirection.repr :TemporalDirection → ℕ → Std.Format**
 
@@ -560,7 +560,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.EntropyMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L177-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L177-L184)
 **structure
 Tau.BookIV.QuantumMechanics.EntropyMonotonicity :Type**
 
@@ -577,7 +577,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntropyMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L184-L184)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEntropyMonotonicity :Repr EntropyMonotonicity**
 
@@ -588,7 +588,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntropyMonotonicity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L184-L184)
 **def
 Tau.BookIV.QuantumMechanics.instReprEntropyMonotonicity.repr :EntropyMonotonicity → ℕ → Std.Format**
 
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.entropy_nondecreasing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L186-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L186-L189)
 **theorem
 Tau.BookIV.QuantumMechanics.entropy_nondecreasing
 (m : EntropyMonotonicity)
@@ -611,7 +611,7 @@ Tau.BookIV.QuantumMechanics.entropy_nondecreasing
 
 ### `Tau.BookIV.QuantumMechanics.ArrowOfTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L191-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L191-L198)
 **structure
 Tau.BookIV.QuantumMechanics.ArrowOfTime :Type**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprArrowOfTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L198-L198)
 **instance
 Tau.BookIV.QuantumMechanics.instReprArrowOfTime :Repr ArrowOfTime**
 
@@ -638,7 +638,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprArrowOfTime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L198-L198)
 **def
 Tau.BookIV.QuantumMechanics.instReprArrowOfTime.repr :ArrowOfTime → ℕ → Std.Format**
 
@@ -650,7 +650,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.arrow_of_time`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L200-L202)
 **theorem
 Tau.BookIV.QuantumMechanics.arrow_of_time
 (a : ArrowOfTime)
@@ -661,7 +661,7 @@ Tau.BookIV.QuantumMechanics.arrow_of_time
 
 ### `Tau.BookIV.QuantumMechanics.WithinBetweenLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L208-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L208-L213)
 **structure
 Tau.BookIV.QuantumMechanics.WithinBetweenLevels :Type**
 
@@ -677,7 +677,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprWithinBetweenLevels.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L213-L213)
 **def
 Tau.BookIV.QuantumMechanics.instReprWithinBetweenLevels.repr :WithinBetweenLevels → ℕ → Std.Format**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprWithinBetweenLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L213-L213)
 **instance
 Tau.BookIV.QuantumMechanics.instReprWithinBetweenLevels :Repr WithinBetweenLevels**
 
@@ -700,7 +700,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.within_vs_between`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L215-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L215-L219)
 **theorem
 Tau.BookIV.QuantumMechanics.within_vs_between
 (w : WithinBetweenLevels)
@@ -715,7 +715,7 @@ Tau.BookIV.QuantumMechanics.within_vs_between
 
 ### `Tau.BookIV.QuantumMechanics.example_within_between`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/EnergyEntropy.lean#L231-L231)
 **def
 Tau.BookIV.QuantumMechanics.example_within_between :WithinBetweenLevels**
 

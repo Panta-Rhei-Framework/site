@@ -53,7 +53,7 @@ group is trivial. Simple connectivity = no obstruction to global coherence.
 
 ### `Tau.BookIII.Doors.simply_connected_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L37-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L37-L62)
 **def
 Tau.BookIII.Doors.simply_connected_check
 (bound db : Denotation.TauIdx)
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.simply_connected_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L45-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L45-L61)@[irreducible]
 
 **def
 Tau.BookIII.Doors.simply_connected_check.go
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.terminal_object_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L64-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L64-L86)
 **def
 Tau.BookIII.Doors.terminal_object_check
 (bound db : Denotation.TauIdx)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.terminal_object_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L70-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L70-L85)@[irreducible]
 
 **def
 Tau.BookIII.Doors.terminal_object_check.go
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.gluing_guarantee_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L92-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L92-L117)
 **def
 Tau.BookIII.Doors.gluing_guarantee_check
 (bound db : Denotation.TauIdx)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.gluing_guarantee_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L99-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L99-L116)@[irreducible]
 
 **def
 Tau.BookIII.Doors.gluing_guarantee_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.obstruction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L119-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L119-L142)
 **def
 Tau.BookIII.Doors.obstruction_check
 (db : Denotation.TauIdx)
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.obstruction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L125-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L125-L135)@[irreducible]
 
 **def
 Tau.BookIII.Doors.obstruction_check.go
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.obstruction_check.check_bijectivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L137-L142)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L137-L142)@[irreducible]
 
 **def
 Tau.BookIII.Doors.obstruction_check.check_bijectivity
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.simply_connected_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L157-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L157-L158)
 **theorem
 Tau.BookIII.Doors.simply_connected_15_4 :simply_connected_check 15 4 = true**
 
@@ -220,7 +220,7 @@ Tau.BookIII.Doors.simply_connected_15_4 :simply_connected_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.terminal_object_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L160-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L160-L161)
 **theorem
 Tau.BookIII.Doors.terminal_object_10_3 :terminal_object_check 10 3 = true**
 
@@ -229,7 +229,7 @@ Tau.BookIII.Doors.terminal_object_10_3 :terminal_object_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.gluing_guarantee_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L163-L164)
 **theorem
 Tau.BookIII.Doors.gluing_guarantee_15_4 :gluing_guarantee_check 15 4 = true**
 
@@ -238,7 +238,7 @@ Tau.BookIII.Doors.gluing_guarantee_15_4 :gluing_guarantee_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.obstruction_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L166-L167)
 **theorem
 Tau.BookIII.Doors.obstruction_4 :obstruction_check 4 = true**
 
@@ -247,7 +247,7 @@ Tau.BookIII.Doors.obstruction_4 :obstruction_check 4 = true**
 
 ### `Tau.BookIII.Doors.crt_bijective_42_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L173-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L173-L177)
 **theorem
 Tau.BookIII.Doors.crt_bijective_42_3 :Polarity.crt_reconstruct (Polarity.crt_decompose 42 3) 3 = 42 % Polarity.primorial 3**
 
@@ -259,7 +259,7 @@ Tau.BookIII.Doors.crt_bijective_42_3 :Polarity.crt_reconstruct (Polarity.crt_dec
 
 ### `Tau.BookIII.Doors.terminal_depth_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L179-L181)
 **theorem
 Tau.BookIII.Doors.terminal_depth_1 :simply_connected_check 10 1 = true**
 
@@ -270,7 +270,7 @@ Tau.BookIII.Doors.terminal_depth_1 :simply_connected_check 10 1 = true**
 
 ### `Tau.BookIII.Doors.gluing_depth_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/Poincare.lean#L183-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/Poincare.lean#L183-L185)
 **theorem
 Tau.BookIII.Doors.gluing_depth_1 :gluing_guarantee_check 10 1 = true**
 

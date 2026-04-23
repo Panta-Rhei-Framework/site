@@ -56,7 +56,7 @@ complement of the five forbidden moves and degenerates precisely at them.
 
 ### `Tau.BookIII.Bridge.ForbiddenMove`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L40-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L40-L49)
 **inductive
 Tau.BookIII.Bridge.ForbiddenMove :Type**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprForbiddenMove`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
 **instance
 Tau.BookIII.Bridge.instReprForbiddenMove :Repr ForbiddenMove**
 
@@ -87,7 +87,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instReprForbiddenMove.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
 **def
 Tau.BookIII.Bridge.instReprForbiddenMove.repr :ForbiddenMove → ℕ → Std.Format**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instDecidableEqForbiddenMove`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
 **instance
 Tau.BookIII.Bridge.instDecidableEqForbiddenMove :DecidableEq ForbiddenMove**
 
@@ -110,7 +110,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqForbiddenMove.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
 **def
 Tau.BookIII.Bridge.instBEqForbiddenMove.beq :ForbiddenMove → ForbiddenMove → Bool**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instBEqForbiddenMove`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L49-L49)
 **instance
 Tau.BookIII.Bridge.instBEqForbiddenMove :BEq ForbiddenMove**
 
@@ -133,7 +133,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.forbidden_move_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L51-L52)
 **def
 Tau.BookIII.Bridge.forbidden_move_count :ℕ**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.ForbiddenMove.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L54-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L54-L60)
 **def
 Tau.BookIII.Bridge.ForbiddenMove.toNat :ForbiddenMove → ℕ**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.all_forbidden_moves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L62-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L62-L65)
 **def
 Tau.BookIII.Bridge.all_forbidden_moves :List ForbiddenMove**
 
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.violated_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L67-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L67-L74)
 **def
 Tau.BookIII.Bridge.violated_axiom :ForbiddenMove → Hinge.ChainLink**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L76-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L76-L85)
 **def
 Tau.BookIII.Bridge.move_threshold
 (fm : ForbiddenMove)
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.forbidden_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L87-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L87-L113)
 **def
 Tau.BookIII.Bridge.forbidden_witness
 (fm : ForbiddenMove)
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.forbidden_moves_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L115-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L115-L133)
 **def
 Tau.BookIII.Bridge.forbidden_moves_check
 (bound db : Denotation.TauIdx)
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.forbidden_moves_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L121-L132)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L121-L132)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.forbidden_moves_check.go
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_damage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L139-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L139-L150)
 **def
 Tau.BookIII.Bridge.bridge_damage :ForbiddenMove → ℕ**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_bridge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L152-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L152-L182)
 **def
 Tau.BookIII.Bridge.move_bridge_check
 (bound db : Denotation.TauIdx)
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_bridge_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L159-L181)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L159-L181)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.move_bridge_check.go
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_correspondence_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L184-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L184-L197)
 **def
 Tau.BookIII.Bridge.move_correspondence_exhaustive :Bool**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.pvsnp_forbidden_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L199-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L199-L202)
 **def
 Tau.BookIII.Bridge.pvsnp_forbidden_count :ℕ**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.forbidden_moves_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L233-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L233-L234)
 **theorem
 Tau.BookIII.Bridge.forbidden_moves_8_3 :forbidden_moves_check 8 3 = true**
 
@@ -381,7 +381,7 @@ Tau.BookIII.Bridge.forbidden_moves_8_3 :forbidden_moves_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.move_bridge_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L237-L238)
 **theorem
 Tau.BookIII.Bridge.move_bridge_8_3 :move_bridge_check 8 3 = true**
 
@@ -390,7 +390,7 @@ Tau.BookIII.Bridge.move_bridge_8_3 :move_bridge_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.move_correspondence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L241-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L241-L242)
 **theorem
 Tau.BookIII.Bridge.move_correspondence :move_correspondence_exhaustive = true**
 
@@ -399,7 +399,7 @@ Tau.BookIII.Bridge.move_correspondence :move_correspondence_exhaustive = true**
 
 ### `Tau.BookIII.Bridge.five_forbidden`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L248-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L248-L249)
 **theorem
 Tau.BookIII.Bridge.five_forbidden :all_forbidden_moves.length = 5**
 
@@ -410,7 +410,7 @@ Tau.BookIII.Bridge.five_forbidden :all_forbidden_moves.length = 5**
 
 ### `Tau.BookIII.Bridge.move_index_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L251-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L251-L252)
 **theorem
 Tau.BookIII.Bridge.move_index_0 :ForbiddenMove.unbounded_fanout.toNat = 0**
 
@@ -421,7 +421,7 @@ Tau.BookIII.Bridge.move_index_0 :ForbiddenMove.unbounded_fanout.toNat = 0**
 
 ### `Tau.BookIII.Bridge.move_index_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L253-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L253-L253)
 **theorem
 Tau.BookIII.Bridge.move_index_4 :ForbiddenMove.nonlocal_disguise.toNat = 4**
 
@@ -430,7 +430,7 @@ Tau.BookIII.Bridge.move_index_4 :ForbiddenMove.nonlocal_disguise.toNat = 4**
 
 ### `Tau.BookIII.Bridge.fanout_violates_K3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L255-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L255-L257)
 **theorem
 Tau.BookIII.Bridge.fanout_violates_K3 :violated_axiom ForbiddenMove.unbounded_fanout = Hinge.ChainLink.K3**
 
@@ -441,7 +441,7 @@ Tau.BookIII.Bridge.fanout_violates_K3 :violated_axiom ForbiddenMove.unbounded_fa
 
 ### `Tau.BookIII.Bridge.equality_violates_K5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L259-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L259-L261)
 **theorem
 Tau.BookIII.Bridge.equality_violates_K5 :violated_axiom ForbiddenMove.global_equality = Hinge.ChainLink.K5**
 
@@ -452,7 +452,7 @@ Tau.BookIII.Bridge.equality_violates_K5 :violated_axiom ForbiddenMove.global_equ
 
 ### `Tau.BookIII.Bridge.circuits_break_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L263-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L263-L265)
 **theorem
 Tau.BookIII.Bridge.circuits_break_bridge :bridge_damage ForbiddenMove.succinct_circuits = 3**
 
@@ -463,7 +463,7 @@ Tau.BookIII.Bridge.circuits_break_bridge :bridge_damage ForbiddenMove.succinct_c
 
 ### `Tau.BookIII.Bridge.pvsnp_uses_3_moves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L267-L269)
 **theorem
 Tau.BookIII.Bridge.pvsnp_uses_3_moves :pvsnp_forbidden_count = 3**
 
@@ -474,7 +474,7 @@ Tau.BookIII.Bridge.pvsnp_uses_3_moves :pvsnp_forbidden_count = 3**
 
 ### `Tau.BookIII.Bridge.max_damage_is_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L271-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L271-L274)
 **theorem
 Tau.BookIII.Bridge.max_damage_is_3 :(all_forbidden_moves.all fun (fm : ForbiddenMove) => decide (bridge_damage fm ≤ 3)) = true**
 
@@ -485,7 +485,7 @@ Tau.BookIII.Bridge.max_damage_is_3 :(all_forbidden_moves.all fun (fm : Forbidden
 
 ### `Tau.BookIII.Bridge.threshold_exceeds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L276-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ForbiddenMoves.lean#L276-L280)
 **theorem
 Tau.BookIII.Bridge.threshold_exceeds
 (fm : ForbiddenMove)

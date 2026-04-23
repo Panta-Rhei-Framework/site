@@ -66,7 +66,7 @@ pi * 10^6 ~ 3141592.
 
 ### `Tau.BookII.Transcendentals.leibniz_pi_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L41-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L41-L58)
 **def
 Tau.BookII.Transcendentals.leibniz_pi_scaled
 (terms scale : Nat)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.leibniz_pi_scaled.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L50-L57)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L50-L57)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.leibniz_pi_scaled.go
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.pi_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L60-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L60-L62)
 **def
 Tau.BookII.Transcendentals.pi_scaled
 (terms : Nat)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.pi_convergence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L68-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L68-L76)
 **def
 Tau.BookII.Transcendentals.pi_convergence_check :Bool**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.pi_improvement_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L78-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L78-L94)
 **def
 Tau.BookII.Transcendentals.pi_improvement_check :Bool**
 
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.spectral_pi_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L100-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L100-L111)
 **def
 Tau.BookII.Transcendentals.spectral_pi_check
 (bound : Denotation.TauIdx)
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.topological_pi_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L117-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L117-L132)
 **def
 Tau.BookII.Transcendentals.topological_pi_check :Bool**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.three_perspectives_pi_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L134-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L134-L138)
 **def
 Tau.BookII.Transcendentals.three_perspectives_pi_check
 (bound : Denotation.TauIdx)
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.pi_conv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L164-L164)
 **theorem
 Tau.BookII.Transcendentals.pi_conv :pi_convergence_check = true**
 
@@ -222,7 +222,7 @@ Tau.BookII.Transcendentals.pi_conv :pi_convergence_check = true**
 
 ### `Tau.BookII.Transcendentals.pi_improve`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L165-L165)
 **theorem
 Tau.BookII.Transcendentals.pi_improve :pi_improvement_check = true**
 
@@ -231,7 +231,7 @@ Tau.BookII.Transcendentals.pi_improve :pi_improvement_check = true**
 
 ### `Tau.BookII.Transcendentals.spectral_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L166-L166)
 **theorem
 Tau.BookII.Transcendentals.spectral_pi :spectral_pi_check 200 = true**
 
@@ -240,7 +240,7 @@ Tau.BookII.Transcendentals.spectral_pi :spectral_pi_check 200 = true**
 
 ### `Tau.BookII.Transcendentals.topo_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L167-L167)
 **theorem
 Tau.BookII.Transcendentals.topo_pi :topological_pi_check = true**
 
@@ -249,6 +249,6 @@ Tau.BookII.Transcendentals.topo_pi :topological_pi_check = true**
 
 ### `Tau.BookII.Transcendentals.three_persp_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/PiEarned.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/PiEarned.lean#L168-L168)
 **theorem
 Tau.BookII.Transcendentals.three_persp_pi :three_perspectives_pi_check 200 = true**

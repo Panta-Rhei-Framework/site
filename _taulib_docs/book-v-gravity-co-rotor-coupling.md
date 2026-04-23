@@ -124,7 +124,7 @@ correction identified in Sprint 4 (SS17).
 
 ### `Tau.BookV.Gravity.CoRotorCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L78-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L78-L103)
 **structure
 Tau.BookV.Gravity.CoRotorCoupling :Type**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprCoRotorCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L103-L103)
 **def
 Tau.BookV.Gravity.instReprCoRotorCoupling.repr :CoRotorCoupling → ℕ → Std.Format**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprCoRotorCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L103-L103)
 **instance
 Tau.BookV.Gravity.instReprCoRotorCoupling :Repr CoRotorCoupling**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.BookV.Gravity.c1_three_over_pi_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L109-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L109-L114)
 **def
 Tau.BookV.Gravity.c1_three_over_pi_numer :ℕ**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.c1_three_over_pi_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L115-L115)
 **def
 Tau.BookV.Gravity.c1_three_over_pi_denom :ℕ**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.canonical_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L117-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L117-L123)
 **def
 Tau.BookV.Gravity.canonical_coupling :CoRotorCoupling**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kn_required_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L129-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L129-L134)
 **def
 Tau.BookV.Gravity.kn_required_numer :ℕ**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kn_required_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L135-L135)
 **def
 Tau.BookV.Gravity.kn_required_denom :ℕ**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kn_required_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L137-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L137-L146)
 **theorem
 Tau.BookV.Gravity.kn_required_range :3439 * kn_required_denom < 1000 * kn_required_numer ∧ 1000 * kn_required_numer < 3441 * kn_required_denom**
 
@@ -284,7 +284,7 @@ This range is established by CODATA arithmetic:
 
 ### `Tau.BookV.Gravity.kn_tree_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L152-L154)
 **def
 Tau.BookV.Gravity.kn_tree_numer :ℕ**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kn_tree_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L155-L155)
 **def
 Tau.BookV.Gravity.kn_tree_denom :ℕ**
 
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kn_tree_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L157-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L157-L161)
 **theorem
 Tau.BookV.Gravity.kn_tree_in_range :3464 * kn_tree_denom < 1000 * kn_tree_numer ∧ 1000 * kn_tree_numer < 3465 * kn_tree_denom**
 
@@ -322,7 +322,7 @@ Tau.BookV.Gravity.kn_tree_in_range :3464 * kn_tree_denom < 1000 * kn_tree_numer 
 
 ### `Tau.BookV.Gravity.tree_exceeds_required`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L163-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L163-L168)
 **theorem
 Tau.BookV.Gravity.tree_exceeds_required :kn_tree_numer * kn_required_denom > kn_required_numer * kn_tree_denom**
 
@@ -334,7 +334,7 @@ Tree level exceeds required value.
 
 ### `Tau.BookV.Gravity.c1_target_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L174-L176)
 **def
 Tau.BookV.Gravity.c1_target_numer :ℕ**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.c1_target_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L177-L177)
 **def
 Tau.BookV.Gravity.c1_target_denom :ℕ**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.c1_matches_three_over_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L179-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L179-L188)
 **theorem
 Tau.BookV.Gravity.c1_matches_three_over_pi :c1_three_over_pi_numer < c1_target_numer + 5000 ∧ c1_target_numer < c1_three_over_pi_numer + 5000**
 
@@ -377,7 +377,7 @@ Relative error: 4018/9545279 ≈ 0.042% < 0.05%.
 
 ### `Tau.BookV.Gravity.c1_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L190-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L190-L194)
 **theorem
 Tau.BookV.Gravity.c1_in_range :954 * c1_three_over_pi_denom < 1000 * c1_three_over_pi_numer ∧ 1000 * c1_three_over_pi_numer < 956 * c1_three_over_pi_denom**
 
@@ -388,7 +388,7 @@ c₁ = 3/π is in range (0.954, 0.956).
 
 ### `Tau.BookV.Gravity.canonical_spectral_distance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L200-L202)
 **theorem
 Tau.BookV.Gravity.canonical_spectral_distance :canonical_coupling.spectral_distance_sq = 3**
 
@@ -399,7 +399,7 @@ The tree-level coupling has spectral distance² = 3 (from |1-ω|² = 3).
 
 ### `Tau.BookV.Gravity.canonical_tree_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L204-L206)
 **theorem
 Tau.BookV.Gravity.canonical_tree_factor :canonical_coupling.tree_factor = 2**
 
@@ -410,7 +410,7 @@ The tree-level coupling has factor 2 (from b₁(T²) = 2).
 
 ### `Tau.BookV.Gravity.canonical_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L208-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L208-L211)
 **theorem
 Tau.BookV.Gravity.canonical_denom_pos :canonical_coupling.correction_c1_denom > 0**
 
@@ -421,7 +421,7 @@ The correction denominator is positive.
 
 ### `Tau.BookV.Gravity.deficit_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/CoRotorCoupling.lean#L213-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/CoRotorCoupling.lean#L213-L217)
 **theorem
 Tau.BookV.Gravity.deficit_positive :kn_tree_numer * kn_required_denom > kn_required_numer * kn_tree_denom**
 

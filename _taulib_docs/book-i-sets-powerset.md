@@ -60,7 +60,7 @@ The restriction to nonzero sets is essential: 0 is the universal set
 
 ### `Tau.Sets.tau_strict_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L38-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L38-L39)
 **def
 Tau.Sets.tau_strict_mem
 (a b : Denotation.TauIdx)
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.Sets.tau_strict_mem_irrefl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L41-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L41-L43)
 **theorem
 Tau.Sets.tau_strict_mem_irrefl
 (a : Denotation.TauIdx)
@@ -89,7 +89,7 @@ Strict membership is irreflexive.
 
 ### `Tau.Sets.tau_strict_mem_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L45-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L45-L50)
 **theorem
 Tau.Sets.tau_strict_mem_trans
 {a b c : Denotation.TauIdx}
@@ -106,7 +106,7 @@ Strict membership is transitive.
 
 ### `Tau.Sets.tau_strict_mem_lt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L56-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L56-L61)
 **theorem
 Tau.Sets.tau_strict_mem_lt
 {a b : Denotation.TauIdx}
@@ -124,7 +124,7 @@ If a | b, a ≠ b, and b ≠ 0, then a < b.
 
 ### `Tau.Sets.tau_strict_mem_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L63-L65)
 **theorem
 Tau.Sets.tau_strict_mem_one
 {n : Denotation.TauIdx}
@@ -139,7 +139,7 @@ Tau.Sets.tau_strict_mem_one
 
 ### `Tau.Sets.tau_strict_mem_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L67-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L67-L70)
 **theorem
 Tau.Sets.tau_strict_mem_bound
 {a b : Denotation.TauIdx}
@@ -156,7 +156,7 @@ If a is a strict member of b, and b > 0, then a is strictly smaller.
 
 ### `Tau.Sets.tau_strict_mem_nz`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L82-L83)
 **def
 Tau.Sets.tau_strict_mem_nz
 (a b : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.Sets.tau_strict_mem_wf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L90-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L90-L100)
 **theorem
 Tau.Sets.tau_strict_mem_wf :WellFounded tau_strict_mem_nz**
 
@@ -189,7 +189,7 @@ and Nat.lt is well-founded.
 
 ### `Tau.Sets.tau_strict_mem_induction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L102-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L102-L108)
 **theorem
 Tau.Sets.tau_strict_mem_induction
 {P : Denotation.TauIdx → Prop}
@@ -208,7 +208,7 @@ then P holds for n.
 
 ### `Tau.Sets.tau_mem_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L114-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L114-L117)
 **theorem
 Tau.Sets.tau_mem_bounded
 {b : Denotation.TauIdx}
@@ -227,7 +227,7 @@ For nonzero b, the set of τ-members is bounded: every member is ≤ b.
 
 ### `Tau.Sets.strict_mem_chain_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Powerset.lean#L119-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Powerset.lean#L119-L124)
 **theorem
 Tau.Sets.strict_mem_chain_bound
 {a b : Denotation.TauIdx}

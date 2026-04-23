@@ -69,7 +69,7 @@ doublets, holonomy loops, W boson mass, and coupling hierarchy.
 
 ### `Tau.BookIV.Electroweak.CrossingActionSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L38-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L38-L49)
 **structure
 Tau.BookIV.Electroweak.CrossingActionSpace :Type**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCrossingActionSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L49-L49)
 **instance
 Tau.BookIV.Electroweak.instReprCrossingActionSpace :Repr CrossingActionSpace**
 
@@ -104,7 +104,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprCrossingActionSpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L49-L49)
 **def
 Tau.BookIV.Electroweak.instReprCrossingActionSpace.repr :CrossingActionSpace → ℕ → Std.Format**
 
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.crossing_action`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L51-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L51-L56)
 **def
 Tau.BookIV.Electroweak.crossing_action :CrossingActionSpace**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.SU2Generator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L62-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L62-L73)
 **structure
 Tau.BookIV.Electroweak.SU2Generator :Type**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSU2Generator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L73-L73)
 **instance
 Tau.BookIV.Electroweak.instReprSU2Generator :Repr SU2Generator**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprSU2Generator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L73-L73)
 **def
 Tau.BookIV.Electroweak.instReprSU2Generator.repr :SU2Generator → ℕ → Std.Format**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L75-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L75-L76)
 **def
 Tau.BookIV.Electroweak.sigma_1 :SU2Generator**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L77-L78)
 **def
 Tau.BookIV.Electroweak.sigma_2 :SU2Generator**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L79-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L79-L80)
 **def
 Tau.BookIV.Electroweak.sigma_3 :SU2Generator**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.su2_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L82-L83)
 **def
 Tau.BookIV.Electroweak.su2_generators :List SU2Generator**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.LeftHandedDoublet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L89-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L89-L102)
 **structure
 Tau.BookIV.Electroweak.LeftHandedDoublet :Type**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprLeftHandedDoublet.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L102-L102)
 **def
 Tau.BookIV.Electroweak.instReprLeftHandedDoublet.repr :LeftHandedDoublet → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprLeftHandedDoublet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L102-L102)
 **instance
 Tau.BookIV.Electroweak.instReprLeftHandedDoublet :Repr LeftHandedDoublet**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.doublet_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L104-L107)
 **def
 Tau.BookIV.Electroweak.doublet_1 :LeftHandedDoublet**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.doublet_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L109-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L109-L112)
 **def
 Tau.BookIV.Electroweak.doublet_2 :LeftHandedDoublet**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.doublet_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L114-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L114-L117)
 **def
 Tau.BookIV.Electroweak.doublet_3 :LeftHandedDoublet**
 
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.lepton_doublets`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L119-L120)
 **def
 Tau.BookIV.Electroweak.lepton_doublets :List LeftHandedDoublet**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.three_generations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L122-L122)
 **theorem
 Tau.BookIV.Electroweak.three_generations :lepton_doublets.length = 3**
 
@@ -353,7 +353,7 @@ Tau.BookIV.Electroweak.three_generations :lepton_doublets.length = 3**
 
 ### `Tau.BookIV.Electroweak.AdjointRep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L128-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L128-L138)
 **structure
 Tau.BookIV.Electroweak.AdjointRep :Type**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAdjointRep.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L138-L138)
 **def
 Tau.BookIV.Electroweak.instReprAdjointRep.repr :AdjointRep → ℕ → Std.Format**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAdjointRep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L138-L138)
 **instance
 Tau.BookIV.Electroweak.instReprAdjointRep :Repr AdjointRep**
 
@@ -399,7 +399,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.adjoint_su2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L140-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L140-L143)
 **def
 Tau.BookIV.Electroweak.adjoint_su2 :AdjointRep**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.WeakHolonomyLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L149-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L149-L162)
 **structure
 Tau.BookIV.Electroweak.WeakHolonomyLoop :Type**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWeakHolonomyLoop.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L162-L162)
 **def
 Tau.BookIV.Electroweak.instReprWeakHolonomyLoop.repr :WeakHolonomyLoop → ℕ → Std.Format**
 
@@ -453,7 +453,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWeakHolonomyLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L162-L162)
 **instance
 Tau.BookIV.Electroweak.instReprWeakHolonomyLoop :Repr WeakHolonomyLoop**
 
@@ -464,7 +464,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.weak_holonomy_single`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L164-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L164-L170)
 **def
 Tau.BookIV.Electroweak.weak_holonomy_single :WeakHolonomyLoop**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ObservedMass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L176-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L176-L186)
 **structure
 Tau.BookIV.Electroweak.ObservedMass :Type**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprObservedMass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L186-L186)
 **instance
 Tau.BookIV.Electroweak.instReprObservedMass :Repr ObservedMass**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprObservedMass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L186-L186)
 **def
 Tau.BookIV.Electroweak.instReprObservedMass.repr :ObservedMass → ℕ → Std.Format**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.w_mass_mev`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L188-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L188-L190)
 **def
 Tau.BookIV.Electroweak.w_mass_mev :ObservedMass**
 
@@ -540,7 +540,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.w_mass_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L192-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L192-L193)
 **def
 Tau.BookIV.Electroweak.w_mass_float :Float**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weak_gauge_su2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L199-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L199-L208)
 **theorem
 Tau.BookIV.Electroweak.weak_gauge_su2 :crossing_action.real_dim = 3 ∧ weak_holonomy_single.non_abelian = true ∧ su2l_identification.chirality = ChiralityType.Left**
 
@@ -569,7 +569,7 @@ The subscript L denotes left-handed chirality selection.
 
 ### `Tau.BookIV.Electroweak.WeakFineStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L214-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L214-L224)
 **structure
 Tau.BookIV.Electroweak.WeakFineStructure :Type**
 
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWeakFineStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L224-L224)
 **instance
 Tau.BookIV.Electroweak.instReprWeakFineStructure :Repr WeakFineStructure**
 
@@ -603,7 +603,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprWeakFineStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L224-L224)
 **def
 Tau.BookIV.Electroweak.instReprWeakFineStructure.repr :WeakFineStructure → ℕ → Std.Format**
 
@@ -615,7 +615,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_weak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L226-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L226-L233)
 **def
 Tau.BookIV.Electroweak.alpha_weak :WeakFineStructure**
 
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.w_mass_from_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L239-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L239-L244)
 **theorem
 Tau.BookIV.Electroweak.w_mass_from_coherence :w_mass_mev.mass_numer > 0**
 
@@ -646,7 +646,7 @@ Structural: the mass is nonzero because Lambda_EW > 0.
 
 ### `Tau.BookIV.Electroweak.w_from_su2_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L250-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L250-L256)
 **theorem
 Tau.BookIV.Electroweak.w_from_su2_generators :su2_generators.length = 3 ∧ adjoint_su2.num_bosons = 3**
 
@@ -659,7 +659,7 @@ W3 = sigma_3. There are exactly 3 gauge bosons.
 
 ### `Tau.BookIV.Electroweak.FermiConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L262-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L262-L272)
 **structure
 Tau.BookIV.Electroweak.FermiConstant :Type**
 
@@ -682,7 +682,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprFermiConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L272-L272)
 **instance
 Tau.BookIV.Electroweak.instReprFermiConstant :Repr FermiConstant**
 
@@ -693,7 +693,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprFermiConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L272-L272)
 **def
 Tau.BookIV.Electroweak.instReprFermiConstant.repr :FermiConstant → ℕ → Std.Format**
 
@@ -705,7 +705,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.fermi_from_w`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L274-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L274-L278)
 **def
 Tau.BookIV.Electroweak.fermi_from_w :FermiConstant**
 
@@ -719,7 +719,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weak_gt_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L284-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L284-L291)
 **theorem
 Tau.BookIV.Electroweak.weak_gt_em :Sectors.kappa_AA.numer * Sectors.kappa_BB.denom > Sectors.kappa_BB.numer * Sectors.kappa_AA.denom**
 
@@ -733,7 +733,7 @@ Proven via the coupling formula definitions.
 
 ### `Tau.BookIV.Electroweak.w_as_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L297-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakHolonomy.lean#L297-L304)
 **theorem
 Tau.BookIV.Electroweak.w_as_crossing :w_plus.charge ≠ 0 ∧ w_plus.massive = true ∧ w_minus.charge ≠ 0 ∧ w_minus.massive = true**
 

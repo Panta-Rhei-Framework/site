@@ -78,7 +78,7 @@ with a single structural remark.
 
 ### `Tau.BookIV.Coda.NeutronAnchorRationale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L52-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L52-L78)
 **structure
 Tau.BookIV.Coda.NeutronAnchorRationale :Type**
 
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprNeutronAnchorRationale.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L78-L78)
 **def
 Tau.BookIV.Coda.instReprNeutronAnchorRationale.repr :NeutronAnchorRationale → ℕ → Std.Format**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprNeutronAnchorRationale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L78-L78)
 **instance
 Tau.BookIV.Coda.instReprNeutronAnchorRationale :Repr NeutronAnchorRationale**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookIV.Coda.neutron_anchor_rationale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L80-L80)
 **def
 Tau.BookIV.Coda.neutron_anchor_rationale :NeutronAnchorRationale**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ontologically_prior`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L82-L83)
 **theorem
 Tau.BookIV.Coda.ontologically_prior :neutron_anchor_rationale.ontologically_prior = true**
 
@@ -169,7 +169,7 @@ Tau.BookIV.Coda.ontologically_prior :neutron_anchor_rationale.ontologically_prio
 
 ### `Tau.BookIV.Coda.four_step_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L85-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L85-L86)
 **theorem
 Tau.BookIV.Coda.four_step_chain :neutron_anchor_rationale.chain_length = 4**
 
@@ -178,7 +178,7 @@ Tau.BookIV.Coda.four_step_chain :neutron_anchor_rationale.chain_length = 4**
 
 ### `Tau.BookIV.Coda.chain_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L88-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L88-L89)
 **theorem
 Tau.BookIV.Coda.chain_count :neutron_anchor_rationale.chain.length = 4**
 
@@ -187,7 +187,7 @@ Tau.BookIV.Coda.chain_count :neutron_anchor_rationale.chain.length = 4**
 
 ### `Tau.BookIV.Coda.remark_neutron_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L91-L93)
 **def
 Tau.BookIV.Coda.remark_neutron_anchor :String**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.SelfEnrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L99-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L99-L115)
 **structure
 Tau.BookIV.Coda.SelfEnrichment :Type**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprSelfEnrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L115-L115)
 **instance
 Tau.BookIV.Coda.instReprSelfEnrichment :Repr SelfEnrichment**
 
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprSelfEnrichment.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L115-L115)
 **def
 Tau.BookIV.Coda.instReprSelfEnrichment.repr :SelfEnrichment → ℕ → Std.Format**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.self_enrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L117-L117)
 **def
 Tau.BookIV.Coda.self_enrichment :SelfEnrichment**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.self_enrichment_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L119-L120)
 **theorem
 Tau.BookIV.Coda.self_enrichment_internal :self_enrichment.hom_internal = true**
 
@@ -274,7 +274,7 @@ Tau.BookIV.Coda.self_enrichment_internal :self_enrichment.hom_internal = true**
 
 ### `Tau.BookIV.Coda.self_enrichment_not_circular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L122-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L122-L123)
 **theorem
 Tau.BookIV.Coda.self_enrichment_not_circular :self_enrichment.not_circular = true**
 
@@ -283,7 +283,7 @@ Tau.BookIV.Coda.self_enrichment_not_circular :self_enrichment.not_circular = tru
 
 ### `Tau.BookIV.Coda.BookIVMetaclosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L129-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L129-L161)
 **structure
 Tau.BookIV.Coda.BookIVMetaclosure :Type**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprBookIVMetaclosure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L161-L161)
 **def
 Tau.BookIV.Coda.instReprBookIVMetaclosure.repr :BookIVMetaclosure → ℕ → Std.Format**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprBookIVMetaclosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L161-L161)
 **instance
 Tau.BookIV.Coda.instReprBookIVMetaclosure :Repr BookIVMetaclosure**
 
@@ -370,7 +370,7 @@ Equations
 
 ### `Tau.BookIV.Coda.metaclosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L163-L163)
 **def
 Tau.BookIV.Coda.metaclosure :BookIVMetaclosure**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.zero_free_parameters`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L165-L166)
 **theorem
 Tau.BookIV.Coda.zero_free_parameters :metaclosure.free_params = 0**
 
@@ -391,7 +391,7 @@ Tau.BookIV.Coda.zero_free_parameters :metaclosure.free_params = 0**
 
 ### `Tau.BookIV.Coda.nine_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L168-L169)
 **theorem
 Tau.BookIV.Coda.nine_axioms :metaclosure.num_axioms = 9**
 
@@ -400,7 +400,7 @@ Tau.BookIV.Coda.nine_axioms :metaclosure.num_axioms = 9**
 
 ### `Tau.BookIV.Coda.one_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L171-L172)
 **theorem
 Tau.BookIV.Coda.one_anchor :metaclosure.num_anchors = 1**
 
@@ -409,7 +409,7 @@ Tau.BookIV.Coda.one_anchor :metaclosure.num_anchors = 1**
 
 ### `Tau.BookIV.Coda.fiber_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L174-L175)
 **theorem
 Tau.BookIV.Coda.fiber_complete :metaclosure.fiber_complete = true**
 
@@ -418,7 +418,7 @@ Tau.BookIV.Coda.fiber_complete :metaclosure.fiber_complete = true**
 
 ### `Tau.BookIV.Coda.DerivationChainSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L181-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L181-L199)
 **structure
 Tau.BookIV.Coda.DerivationChainSummary :Type**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprDerivationChainSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L199-L199)
 **instance
 Tau.BookIV.Coda.instReprDerivationChainSummary :Repr DerivationChainSummary**
 
@@ -449,7 +449,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprDerivationChainSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L199-L199)
 **def
 Tau.BookIV.Coda.instReprDerivationChainSummary.repr :DerivationChainSummary → ℕ → Std.Format**
 
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.derivation_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L201-L201)
 **def
 Tau.BookIV.Coda.derivation_summary :DerivationChainSummary**
 
@@ -473,7 +473,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ten_link_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L203-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L203-L204)
 **theorem
 Tau.BookIV.Coda.ten_link_chain :derivation_summary.total_links = 10**
 
@@ -482,7 +482,7 @@ Tau.BookIV.Coda.ten_link_chain :derivation_summary.total_links = 10**
 
 ### `Tau.BookIV.Coda.derivation_chain_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L206-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L206-L207)
 **theorem
 Tau.BookIV.Coda.derivation_chain_count :derivation_summary.chain.length = 10**
 
@@ -491,7 +491,7 @@ Tau.BookIV.Coda.derivation_chain_count :derivation_summary.chain.length = 10**
 
 ### `Tau.BookIV.Coda.SelfDescribingUniverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L213-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L213-L238)
 **structure
 Tau.BookIV.Coda.SelfDescribingUniverse :Type**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprSelfDescribingUniverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L238-L238)
 **instance
 Tau.BookIV.Coda.instReprSelfDescribingUniverse :Repr SelfDescribingUniverse**
 
@@ -550,7 +550,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprSelfDescribingUniverse.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L238-L238)
 **def
 Tau.BookIV.Coda.instReprSelfDescribingUniverse.repr :SelfDescribingUniverse → ℕ → Std.Format**
 
@@ -562,7 +562,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.self_describing_universe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L240-L240)
 **def
 Tau.BookIV.Coda.self_describing_universe :SelfDescribingUniverse**
 
@@ -574,7 +574,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.universe_self_determined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L242-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L242-L243)
 **theorem
 Tau.BookIV.Coda.universe_self_determined :self_describing_universe.self_determined = true**
 
@@ -583,7 +583,7 @@ Tau.BookIV.Coda.universe_self_determined :self_describing_universe.self_determin
 
 ### `Tau.BookIV.Coda.universe_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L245-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L245-L246)
 **theorem
 Tau.BookIV.Coda.universe_zero_params :self_describing_universe.zero_params = 0**
 
@@ -592,6 +592,6 @@ Tau.BookIV.Coda.universe_zero_params :self_describing_universe.zero_params = 0**
 
 ### `Tau.BookIV.Coda.universe_laws_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/SelfDescribing.lean#L248-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/SelfDescribing.lean#L248-L249)
 **theorem
 Tau.BookIV.Coda.universe_laws_internal :self_describing_universe.laws_internal = true**

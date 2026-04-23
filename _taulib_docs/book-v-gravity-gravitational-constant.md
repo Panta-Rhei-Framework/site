@@ -100,7 +100,7 @@ gravitational coupling strength
 
 ### `Tau.BookV.Gravity.TorusVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L64-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L64-L91)
 **structure
 Tau.BookV.Gravity.TorusVacuum :Type**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTorusVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L91-L91)
 **instance
 Tau.BookV.Gravity.instReprTorusVacuum :Repr TorusVacuum**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprTorusVacuum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L91-L91)
 **def
 Tau.BookV.Gravity.instReprTorusVacuum.repr :TorusVacuum → ℕ → Std.Format**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.TorusVacuum.minorFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L93-L95)
 **def
 Tau.BookV.Gravity.TorusVacuum.minorFloat
 (v : TorusVacuum)
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.TorusVacuum.majorFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L97-L99)
 **def
 Tau.BookV.Gravity.TorusVacuum.majorFloat
 (v : TorusVacuum)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.TorusVacuum.ratioFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L101-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L101-L103)
 **def
 Tau.BookV.Gravity.TorusVacuum.ratioFloat
 (v : TorusVacuum)
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.unit_torus_vacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L109-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L109-L119)
 **def
 Tau.BookV.Gravity.unit_torus_vacuum :TorusVacuum**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.GravConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L125-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L125-L147)
 **structure
 Tau.BookV.Gravity.GravConstant :Type**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprGravConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L147-L147)
 **def
 Tau.BookV.Gravity.instReprGravConstant.repr :GravConstant → ℕ → Std.Format**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprGravConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L147-L147)
 **instance
 Tau.BookV.Gravity.instReprGravConstant :Repr GravConstant**
 
@@ -300,7 +300,7 @@ Equations
 
 ### `Tau.BookV.Gravity.GravConstant.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L149-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L149-L151)
 **def
 Tau.BookV.Gravity.GravConstant.toFloat
 (g : GravConstant)
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.g_tau_iota_factor_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L157-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L157-L160)
 **def
 Tau.BookV.Gravity.g_tau_iota_factor_numer :ℕ**
 
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.g_tau_iota_factor_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L161-L161)
 **def
 Tau.BookV.Gravity.g_tau_iota_factor_denom :ℕ**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.gravity_self_coupling_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L163-L164)
 **def
 Tau.BookV.Gravity.gravity_self_coupling_numer :ℕ**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.gravity_self_coupling_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L165-L165)
 **def
 Tau.BookV.Gravity.gravity_self_coupling_denom :ℕ**
 
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.vacuum_shape_ratio_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L171-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L171-L176)
 **theorem
 Tau.BookV.Gravity.vacuum_shape_ratio_holds
 (v : TorusVacuum)
@@ -384,7 +384,7 @@ in the shape_ratio field of every TorusVacuum.
 
 ### `Tau.BookV.Gravity.unit_torus_has_iota_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L178-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L178-L182)
 **theorem
 Tau.BookV.Gravity.unit_torus_has_iota_ratio :unit_torus_vacuum.minor_numer = BookIV.Sectors.iota ∧ unit_torus_vacuum.major_numer = BookIV.Sectors.iotaD**
 
@@ -395,7 +395,7 @@ The unit torus vacuum has shape ratio ι<sub>τ</sub>.
 
 ### `Tau.BookV.Gravity.g_tau_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L184-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L184-L188)
 **theorem
 Tau.BookV.Gravity.g_tau_well_defined
 (g : GravConstant)
@@ -409,7 +409,7 @@ requires a positive numerator and denominator.
 
 ### `Tau.BookV.Gravity.gravity_coupling_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L190-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L190-L193)
 **theorem
 Tau.BookV.Gravity.gravity_coupling_positive :gravity_self_coupling_numer > 0**
 
@@ -420,7 +420,7 @@ The gravity self-coupling is positive (1 − ι<sub>τ</sub> > 0 since ι<sub>τ
 
 ### `Tau.BookV.Gravity.g_tau_factor_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/GravitationalConstant.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/GravitationalConstant.lean#L195-L198)
 **theorem
 Tau.BookV.Gravity.g_tau_factor_positive :g_tau_iota_factor_numer > 0**
 

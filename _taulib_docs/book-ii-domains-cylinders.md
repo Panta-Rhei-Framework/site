@@ -60,7 +60,7 @@ Properties:
 
 ### `Tau.BookII.Domains.cylinder_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L34-L37)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L34-L37)
 **def
 Tau.BookII.Domains.cylinder_mem
 (k center y : Denotation.TauIdx)
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cylinder_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L39-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L39-L47)
 **def
 Tau.BookII.Domains.cylinder_count
 (k center bound : Denotation.TauIdx)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cylinder_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L43-L46)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L43-L46)@[irreducible]
 
 **def
 Tau.BookII.Domains.cylinder_count.go
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookII.Domains.CylinderDomain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L53-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L53-L58)
 **inductive
 Tau.BookII.Domains.CylinderDomain :Type**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookII.Domains.eval_domain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L60-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L60-L66)
 **def
 Tau.BookII.Domains.eval_domain
 (d : CylinderDomain)
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cylinder_clopen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L72-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L72-L80)
 **def
 Tau.BookII.Domains.cylinder_clopen :CylinderDomain → Bool**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookII.Domains.nesting_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L86-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L86-L96)
 **def
 Tau.BookII.Domains.nesting_check
 (x k bound : Denotation.TauIdx)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookII.Domains.nesting_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L91-L95)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L91-L95)@[irreducible]
 
 **def
 Tau.BookII.Domains.nesting_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Domains.stage_zero_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L98-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L98-L107)
 **def
 Tau.BookII.Domains.stage_zero_check
 (bound : Denotation.TauIdx)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookII.Domains.stage_zero_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L103-L106)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L103-L106)@[irreducible]
 
 **def
 Tau.BookII.Domains.stage_zero_check.go
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Domains.partition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L109-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L109-L126)
 **def
 Tau.BookII.Domains.partition_check
 (k : Denotation.TauIdx)
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookII.Domains.partition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L116-L125)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L116-L125)@[irreducible]
 
 **def
 Tau.BookII.Domains.partition_check.go
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookII.Domains.separation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L128-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L128-L138)
 **def
 Tau.BookII.Domains.separation_check
 (x y : Denotation.TauIdx)
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookII.Domains.separation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L134-L137)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L134-L137)@[irreducible]
 
 **def
 Tau.BookII.Domains.separation_check.go
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookII.Domains.nesting_7_1_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L166-L166)
 **theorem
 Tau.BookII.Domains.nesting_7_1_50 :nesting_check 7 1 50 = true**
 
@@ -313,7 +313,7 @@ Tau.BookII.Domains.nesting_7_1_50 :nesting_check 7 1 50 = true**
 
 ### `Tau.BookII.Domains.nesting_7_2_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L167-L167)
 **theorem
 Tau.BookII.Domains.nesting_7_2_50 :nesting_check 7 2 50 = true**
 
@@ -322,7 +322,7 @@ Tau.BookII.Domains.nesting_7_2_50 :nesting_check 7 2 50 = true**
 
 ### `Tau.BookII.Domains.stage_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L168-L168)
 **theorem
 Tau.BookII.Domains.stage_zero :stage_zero_check 50 = true**
 
@@ -331,7 +331,7 @@ Tau.BookII.Domains.stage_zero :stage_zero_check 50 = true**
 
 ### `Tau.BookII.Domains.partition_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L169-L169)
 **theorem
 Tau.BookII.Domains.partition_1 :partition_check 1 = true**
 
@@ -340,7 +340,7 @@ Tau.BookII.Domains.partition_1 :partition_check 1 = true**
 
 ### `Tau.BookII.Domains.partition_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L170-L170)
 **theorem
 Tau.BookII.Domains.partition_2 :partition_check 2 = true**
 
@@ -349,7 +349,7 @@ Tau.BookII.Domains.partition_2 :partition_check 2 = true**
 
 ### `Tau.BookII.Domains.partition_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L171-L171)
 **theorem
 Tau.BookII.Domains.partition_3 :partition_check 3 = true**
 
@@ -358,7 +358,7 @@ Tau.BookII.Domains.partition_3 :partition_check 3 = true**
 
 ### `Tau.BookII.Domains.sep_3_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L172-L172)
 **theorem
 Tau.BookII.Domains.sep_3_5 :separation_check 3 5 = true**
 
@@ -367,6 +367,6 @@ Tau.BookII.Domains.sep_3_5 :separation_check 3 5 = true**
 
 ### `Tau.BookII.Domains.sep_7_13`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Cylinders.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Cylinders.lean#L173-L173)
 **theorem
 Tau.BookII.Domains.sep_7_13 :separation_check 7 13 = true**

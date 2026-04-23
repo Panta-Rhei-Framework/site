@@ -75,7 +75,7 @@ the tuple (x mod p_1, ..., x mod p_k).
 
 ### `Tau.BookII.Hartogs.laurent_coeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L55-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L55-L65)
 **def
 Tau.BookII.Hartogs.laurent_coeff
 (x k prime_idx : Denotation.TauIdx)
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_expansion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L67-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L67-L75)
 **def
 Tau.BookII.Hartogs.laurent_expansion
 (x k : Denotation.TauIdx)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_expansion.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L72-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L72-L74)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_expansion.go
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_range_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L77-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L77-L92)
 **def
 Tau.BookII.Hartogs.laurent_range_check
 (bound db : Denotation.TauIdx)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_range_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L82-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L82-L91)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_range_check.go
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_stability_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L94-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L94-L111)
 **def
 Tau.BookII.Hartogs.laurent_stability_check
 (bound db : Denotation.TauIdx)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_stability_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L101-L110)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L101-L110)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_stability_check.go
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.tau_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L117-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L117-L125)
 **def
 Tau.BookII.Hartogs.tau_residue
 (x i : Denotation.TauIdx)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_stage_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L127-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L127-L143)
 **def
 Tau.BookII.Hartogs.residue_stage_independence_check
 (bound db : Denotation.TauIdx)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_stage_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L133-L142)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L133-L142)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.residue_stage_independence_check.go
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.all_residues_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L145-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L145-L153)
 **def
 Tau.BookII.Hartogs.all_residues_agree
 (x y k : Denotation.TauIdx)
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.all_residues_agree.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L149-L152)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L149-L152)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.all_residues_agree.go
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_determines_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L155-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L155-L172)
 **def
 Tau.BookII.Hartogs.residue_determines_check
 (bound db : Denotation.TauIdx)
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_determines_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L161-L171)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L161-L171)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.residue_determines_check.go
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_reconstruct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L178-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L178-L198)
 **def
 Tau.BookII.Hartogs.crt_reconstruct
 (residues : List Denotation.TauIdx)
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_reconstruct.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L187-L191)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L187-L191)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_reconstruct.go
@@ -369,7 +369,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_reconstruct.matches_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L193-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L193-L198)
 **def
 Tau.BookII.Hartogs.crt_reconstruct.matches_all
 (x : ℕ)
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L200-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L200-L222)
 **def
 Tau.BookII.Hartogs.crt_roundtrip_check
 (db : Denotation.TauIdx)
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_roundtrip_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L208-L213)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L208-L213)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_roundtrip_check.go_k
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_roundtrip_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L215-L221)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L215-L221)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_roundtrip_check.go_x
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_reconstruction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L228-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L228-L253)
 **def
 Tau.BookII.Hartogs.residue_reconstruction_check
 (bound db : Denotation.TauIdx)
@@ -473,7 +473,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_reconstruction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L243-L252)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L243-L252)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.residue_reconstruction_check.go
@@ -490,7 +490,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_residue_thm_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L255-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L255-L262)
 **def
 Tau.BookII.Hartogs.crt_residue_thm_check
 (db : Denotation.TauIdx)
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.MeromorphicFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L268-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L268-L282)
 **structure
 Tau.BookII.Hartogs.MeromorphicFun :Type**
 
@@ -538,7 +538,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mk_meromorphic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L284-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L284-L287)
 **def
 Tau.BookII.Hartogs.mk_meromorphic
 (f : Denotation.TauIdx → Denotation.TauIdx → Denotation.TauIdx)
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mero_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L289-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L289-L291)
 **def
 Tau.BookII.Hartogs.mero_id :MeromorphicFun**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mero_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L293-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L293-L295)
 **def
 Tau.BookII.Hartogs.mero_sq :MeromorphicFun**
 
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mero_partial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L297-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L297-L300)
 **def
 Tau.BookII.Hartogs.mero_partial
 (n k : Denotation.TauIdx)
@@ -601,7 +601,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.mero_partial_fun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L302-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L302-L303)
 **def
 Tau.BookII.Hartogs.mero_partial_fun :MeromorphicFun**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.meromorphic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L305-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L305-L320)
 **def
 Tau.BookII.Hartogs.meromorphic_check
 (mf : MeromorphicFun)
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.meromorphic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L310-L319)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L310-L319)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.meromorphic_check.go
@@ -651,7 +651,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_is_mero_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L322-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L322-L325)
 **def
 Tau.BookII.Hartogs.hol_is_mero_check
 (bound db : Denotation.TauIdx)
@@ -667,7 +667,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L331-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L331-L340)
 **def
 Tau.BookII.Hartogs.laurent_sum
 (x k : Denotation.TauIdx)
@@ -685,7 +685,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_sum.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L337-L339)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L337-L339)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_sum.go
@@ -703,7 +703,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_sum_bounded_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L342-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L342-L360)
 **def
 Tau.BookII.Hartogs.laurent_sum_bounded_check
 (bound db : Denotation.TauIdx)
@@ -720,7 +720,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_sum_bounded_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L347-L355)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L347-L355)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_sum_bounded_check.go
@@ -737,7 +737,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_sum_bounded_check.sum_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L357-L359)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L357-L359)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.laurent_sum_bounded_check.sum_primes
@@ -752,7 +752,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_evolution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L366-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L366-L381)
 **def
 Tau.BookII.Hartogs.residue_evolution_check
 (bound db : Denotation.TauIdx)
@@ -770,7 +770,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.residue_evolution_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L372-L380)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L372-L380)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.residue_evolution_check.go
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_laurent_residue_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L387-L402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L387-L402)
 **def
 Tau.BookII.Hartogs.full_laurent_residue_check
 (bound db : Denotation.TauIdx)
@@ -816,7 +816,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.laurent_range_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L469-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L469-L470)
 **theorem
 Tau.BookII.Hartogs.laurent_range_12_4 :laurent_range_check 12 4 = true**
 
@@ -825,7 +825,7 @@ Tau.BookII.Hartogs.laurent_range_12_4 :laurent_range_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.laurent_stability_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L472-L473)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L472-L473)
 **theorem
 Tau.BookII.Hartogs.laurent_stability_12_4 :laurent_stability_check 12 4 = true**
 
@@ -834,7 +834,7 @@ Tau.BookII.Hartogs.laurent_stability_12_4 :laurent_stability_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.residue_stage_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L476-L477)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L476-L477)
 **theorem
 Tau.BookII.Hartogs.residue_stage_10_3 :residue_stage_independence_check 10 3 = true**
 
@@ -843,7 +843,7 @@ Tau.BookII.Hartogs.residue_stage_10_3 :residue_stage_independence_check 10 3 = t
 
 ### `Tau.BookII.Hartogs.residue_determines_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L479-L480)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L479-L480)
 **theorem
 Tau.BookII.Hartogs.residue_determines_10_3 :residue_determines_check 10 3 = true**
 
@@ -852,7 +852,7 @@ Tau.BookII.Hartogs.residue_determines_10_3 :residue_determines_check 10 3 = true
 
 ### `Tau.BookII.Hartogs.crt_roundtrip_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L483-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L483-L484)
 **theorem
 Tau.BookII.Hartogs.crt_roundtrip_3 :crt_roundtrip_check 3 = true**
 
@@ -861,7 +861,7 @@ Tau.BookII.Hartogs.crt_roundtrip_3 :crt_roundtrip_check 3 = true**
 
 ### `Tau.BookII.Hartogs.residue_recon_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L487-L488)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L487-L488)
 **theorem
 Tau.BookII.Hartogs.residue_recon_12_3 :residue_reconstruction_check 12 3 = true**
 
@@ -870,7 +870,7 @@ Tau.BookII.Hartogs.residue_recon_12_3 :residue_reconstruction_check 12 3 = true*
 
 ### `Tau.BookII.Hartogs.crt_residue_thm_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L490-L491)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L490-L491)
 **theorem
 Tau.BookII.Hartogs.crt_residue_thm_3 :crt_residue_thm_check 3 = true**
 
@@ -879,7 +879,7 @@ Tau.BookII.Hartogs.crt_residue_thm_3 :crt_residue_thm_check 3 = true**
 
 ### `Tau.BookII.Hartogs.mero_id_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L494-L495)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L494-L495)
 **theorem
 Tau.BookII.Hartogs.mero_id_12_4 :meromorphic_check mero_id 12 4 = true**
 
@@ -888,7 +888,7 @@ Tau.BookII.Hartogs.mero_id_12_4 :meromorphic_check mero_id 12 4 = true**
 
 ### `Tau.BookII.Hartogs.mero_sq_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L497-L498)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L497-L498)
 **theorem
 Tau.BookII.Hartogs.mero_sq_12_4 :meromorphic_check mero_sq 12 4 = true**
 
@@ -897,7 +897,7 @@ Tau.BookII.Hartogs.mero_sq_12_4 :meromorphic_check mero_sq 12 4 = true**
 
 ### `Tau.BookII.Hartogs.laurent_sum_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L501-L502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L501-L502)
 **theorem
 Tau.BookII.Hartogs.laurent_sum_12_4 :laurent_sum_bounded_check 12 4 = true**
 
@@ -906,7 +906,7 @@ Tau.BookII.Hartogs.laurent_sum_12_4 :laurent_sum_bounded_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.residue_evol_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L505-L506)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L505-L506)
 **theorem
 Tau.BookII.Hartogs.residue_evol_10_3 :residue_evolution_check 10 3 = true**
 
@@ -915,6 +915,6 @@ Tau.BookII.Hartogs.residue_evol_10_3 :residue_evolution_check 10 3 = true**
 
 ### `Tau.BookII.Hartogs.full_laurent_residue_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/LaurentResidue.lean#L509-L510)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/LaurentResidue.lean#L509-L510)
 **theorem
 Tau.BookII.Hartogs.full_laurent_residue_10_3 :full_laurent_residue_check 10 3 = true**

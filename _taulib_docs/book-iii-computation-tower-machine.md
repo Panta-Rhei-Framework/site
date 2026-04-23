@@ -58,7 +58,7 @@ bounds the observable state at each step.
 
 ### `Tau.BookIII.Computation.TTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L41-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L41-L48)
 **structure
 Tau.BookIII.Computation.TTMConfig :Type**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instReprTTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instReprTTMConfig :Repr TTMConfig**
 
@@ -87,7 +87,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instReprTTMConfig.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instReprTTMConfig.repr :TTMConfig → ℕ → Std.Format**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instDecidableEqTTMConfig.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instDecidableEqTTMConfig.decEq
 (x✝ x✝¹ : TTMConfig)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instDecidableEqTTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instDecidableEqTTMConfig :DecidableEq TTMConfig**
 
@@ -124,7 +124,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instBEqTTMConfig.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instBEqTTMConfig.beq :TTMConfig → TTMConfig → Bool**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instBEqTTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instBEqTTMConfig :BEq TTMConfig**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookIII.Computation.ttm_step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L50-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L50-L65)
 **def
 Tau.BookIII.Computation.ttm_step
 (cfg : TTMConfig)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_run`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L67-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L67-L74)
 **def
 Tau.BookIII.Computation.ttm_run
 (cfg : TTMConfig)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_run.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L71-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L71-L73)@[irreducible]
 
 **def
 Tau.BookIII.Computation.ttm_run.go
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L76-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L76-L99)
 **def
 Tau.BookIII.Computation.ttm_check
 (bound db : Denotation.TauIdx)
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L81-L98)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L81-L98)@[irreducible]
 
 **def
 Tau.BookIII.Computation.ttm_check.go
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_nativity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L105-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L105-L131)
 **def
 Tau.BookIII.Computation.ttm_nativity_check
 (bound db : Denotation.TauIdx)
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_nativity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L111-L130)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L111-L130)@[irreducible]
 
 **def
 Tau.BookIII.Computation.ttm_nativity_check.go
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.observable_width`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L137-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L137-L139)
 **def
 Tau.BookIII.Computation.observable_width :Denotation.TauIdx**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.observable_transition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L141-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L141-L165)
 **def
 Tau.BookIII.Computation.observable_transition_check
 (bound db : Denotation.TauIdx)
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.observable_transition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L146-L164)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L146-L164)@[irreducible]
 
 **def
 Tau.BookIII.Computation.observable_transition_check.go
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.ttm_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L181-L182)
 **theorem
 Tau.BookIII.Computation.ttm_5_3 :ttm_check 5 3 = true**
 
@@ -327,7 +327,7 @@ Tau.BookIII.Computation.ttm_5_3 :ttm_check 5 3 = true**
 
 ### `Tau.BookIII.Computation.ttm_nativity_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L184-L185)
 **theorem
 Tau.BookIII.Computation.ttm_nativity_10_3 :ttm_nativity_check 10 3 = true**
 
@@ -336,7 +336,7 @@ Tau.BookIII.Computation.ttm_nativity_10_3 :ttm_nativity_check 10 3 = true**
 
 ### `Tau.BookIII.Computation.observable_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L187-L188)
 **theorem
 Tau.BookIII.Computation.observable_10_3 :observable_transition_check 10 3 = true**
 
@@ -345,7 +345,7 @@ Tau.BookIII.Computation.observable_10_3 :observable_transition_check 10 3 = true
 
 ### `Tau.BookIII.Computation.ttm_preserves_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L194-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L194-L198)
 **theorem
 Tau.BookIII.Computation.ttm_preserves_depth
 (cfg : TTMConfig)
@@ -358,7 +358,7 @@ Tau.BookIII.Computation.ttm_preserves_depth
 
 ### `Tau.BookIII.Computation.ttm_depth_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L200-L202)
 **theorem
 Tau.BookIII.Computation.ttm_depth_0 :(ttm_step { state := 0, reg_a := 42, reg_b := 7, depth := 0 }).depth = 0**
 
@@ -369,7 +369,7 @@ Tau.BookIII.Computation.ttm_depth_0 :(ttm_step { state := 0, reg_a := 42, reg_b 
 
 ### `Tau.BookIII.Computation.code_is_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L204-L206)
 **theorem
 Tau.BookIII.Computation.code_is_data :(ttm_step { state := 0, reg_a := 7, reg_b := 7, depth := 3 }).reg_a = (7 + 7) % 30**
 
@@ -380,7 +380,7 @@ Tau.BookIII.Computation.code_is_data :(ttm_step { state := 0, reg_a := 7, reg_b 
 
 ### `Tau.BookIII.Computation.obs_width`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/TowerMachine.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/TowerMachine.lean#L208-L209)
 **theorem
 Tau.BookIII.Computation.obs_width :observable_width = 3**
 

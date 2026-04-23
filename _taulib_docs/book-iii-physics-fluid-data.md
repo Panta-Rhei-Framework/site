@@ -62,7 +62,7 @@ fluid datum has Δ → 0 as k → ∞.
 
 ### `Tau.BookIII.Physics.FluidData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L44-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L44-L49)
 **structure
 Tau.BookIII.Physics.FluidData :Type**
 
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instReprFluidData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **instance
 Tau.BookIII.Physics.instReprFluidData :Repr FluidData**
 
@@ -89,7 +89,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instReprFluidData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **def
 Tau.BookIII.Physics.instReprFluidData.repr :FluidData → ℕ → Std.Format**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instDecidableEqFluidData.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **def
 Tau.BookIII.Physics.instDecidableEqFluidData.decEq
 (x✝ x✝¹ : FluidData)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instDecidableEqFluidData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **instance
 Tau.BookIII.Physics.instDecidableEqFluidData :DecidableEq FluidData**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instBEqFluidData.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **def
 Tau.BookIII.Physics.instBEqFluidData.beq :FluidData → FluidData → Bool**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instBEqFluidData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L49-L49)
 **instance
 Tau.BookIII.Physics.instBEqFluidData :BEq FluidData**
 
@@ -150,7 +150,7 @@ Equations
 
 ### `Tau.BookIII.Physics.make_fluid_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L51-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L51-L56)
 **def
 Tau.BookIII.Physics.make_fluid_data
 (k : Denotation.TauIdx)
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.fluid_data_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L58-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L58-L79)
 **def
 Tau.BookIII.Physics.fluid_data_check
 (db : Denotation.TauIdx)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.fluid_data_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L63-L72)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L63-L72)@[irreducible]
 
 **def
 Tau.BookIII.Physics.fluid_data_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.fluid_data_check.go_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L74-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L74-L79)@[irreducible]
 
 **def
 Tau.BookIII.Physics.fluid_data_check.go_inner
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.cylinder_assignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L85-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L85-L90)
 **def
 Tau.BookIII.Physics.cylinder_assignment
 (x k : Denotation.TauIdx)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.cylinder_assignment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L92-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L92-L108)
 **def
 Tau.BookIII.Physics.cylinder_assignment_check
 (bound db : Denotation.TauIdx)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.cylinder_assignment_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L97-L107)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L97-L107)@[irreducible]
 
 **def
 Tau.BookIII.Physics.cylinder_assignment_check.go
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.ABCDComponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L114-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L114-L121)
 **structure
 Tau.BookIII.Physics.ABCDComponents :Type**
 
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instReprABCDComponents.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **def
 Tau.BookIII.Physics.instReprABCDComponents.repr :ABCDComponents → ℕ → Std.Format**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instReprABCDComponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **instance
 Tau.BookIII.Physics.instReprABCDComponents :Repr ABCDComponents**
 
@@ -309,7 +309,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instDecidableEqABCDComponents.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **def
 Tau.BookIII.Physics.instDecidableEqABCDComponents.decEq
 (x✝ x✝¹ : ABCDComponents)
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instDecidableEqABCDComponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **instance
 Tau.BookIII.Physics.instDecidableEqABCDComponents :DecidableEq ABCDComponents**
 
@@ -334,7 +334,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instBEqABCDComponents.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **def
 Tau.BookIII.Physics.instBEqABCDComponents.beq :ABCDComponents → ABCDComponents → Bool**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instBEqABCDComponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L121-L121)
 **instance
 Tau.BookIII.Physics.instBEqABCDComponents :BEq ABCDComponents**
 
@@ -358,7 +358,7 @@ Equations
 
 ### `Tau.BookIII.Physics.abcd_extract`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L123-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L123-L126)
 **def
 Tau.BookIII.Physics.abcd_extract
 (x k : Denotation.TauIdx)
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.abcd_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L128-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L128-L147)
 **def
 Tau.BookIII.Physics.abcd_check
 (bound db : Denotation.TauIdx)
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.abcd_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L133-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L133-L146)@[irreducible]
 
 **def
 Tau.BookIII.Physics.abcd_check.go
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.cylinder_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L153-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L153-L161)
 **def
 Tau.BookIII.Physics.cylinder_defect
 (x k : Denotation.TauIdx)
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_functional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L163-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L163-L175)
 **def
 Tau.BookIII.Physics.defect_functional
 (k : Denotation.TauIdx)
@@ -443,7 +443,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_functional.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L170-L175)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L170-L175)@[irreducible]
 
 **def
 Tau.BookIII.Physics.defect_functional.go
@@ -458,7 +458,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_monotone_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L177-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L177-L187)
 **def
 Tau.BookIII.Physics.defect_monotone_check
 (db : Denotation.TauIdx)
@@ -475,7 +475,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_monotone_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L182-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L182-L186)@[irreducible]
 
 **def
 Tau.BookIII.Physics.defect_monotone_check.go
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.fluid_data_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L205-L206)
 **theorem
 Tau.BookIII.Physics.fluid_data_4 :fluid_data_check 4 = true**
 
@@ -501,7 +501,7 @@ Tau.BookIII.Physics.fluid_data_4 :fluid_data_check 4 = true**
 
 ### `Tau.BookIII.Physics.cylinder_assign_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L208-L209)
 **theorem
 Tau.BookIII.Physics.cylinder_assign_15_4 :cylinder_assignment_check 15 4 = true**
 
@@ -510,7 +510,7 @@ Tau.BookIII.Physics.cylinder_assign_15_4 :cylinder_assignment_check 15 4 = true*
 
 ### `Tau.BookIII.Physics.abcd_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L211-L212)
 **theorem
 Tau.BookIII.Physics.abcd_15_4 :abcd_check 15 4 = true**
 
@@ -519,7 +519,7 @@ Tau.BookIII.Physics.abcd_15_4 :abcd_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.defect_zero_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L214-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L214-L215)
 **theorem
 Tau.BookIII.Physics.defect_zero_3 :defect_functional 3 = 0**
 
@@ -528,7 +528,7 @@ Tau.BookIII.Physics.defect_zero_3 :defect_functional 3 = 0**
 
 ### `Tau.BookIII.Physics.defect_zero_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L217-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L217-L218)
 **theorem
 Tau.BookIII.Physics.defect_zero_4 :defect_functional 4 = 0**
 
@@ -537,7 +537,7 @@ Tau.BookIII.Physics.defect_zero_4 :defect_functional 4 = 0**
 
 ### `Tau.BookIII.Physics.defect_monotone_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L220-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L220-L221)
 **theorem
 Tau.BookIII.Physics.defect_monotone_5 :defect_monotone_check 5 = true**
 
@@ -546,7 +546,7 @@ Tau.BookIII.Physics.defect_monotone_5 :defect_monotone_check 5 = true**
 
 ### `Tau.BookIII.Physics.fluid_data_depth_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L227-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L227-L229)
 **theorem
 Tau.BookIII.Physics.fluid_data_depth_3 :(make_fluid_data 3).values.length = 30**
 
@@ -557,7 +557,7 @@ Tau.BookIII.Physics.fluid_data_depth_3 :(make_fluid_data 3).values.length = 30**
 
 ### `Tau.BookIII.Physics.cylinder_assign_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L231-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L231-L233)
 **theorem
 Tau.BookIII.Physics.cylinder_assign_0 :cylinder_assignment 42 0 = { b_part := 0, c_part := 0, x_part := 0, depth := 0 }**
 
@@ -568,7 +568,7 @@ Tau.BookIII.Physics.cylinder_assign_0 :cylinder_assignment 42 0 = { b_part := 0,
 
 ### `Tau.BookIII.Physics.abcd_zero_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L235-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L235-L237)
 **theorem
 Tau.BookIII.Physics.abcd_zero_3 :abcd_extract 0 3 = { a_comp := 3, b_comp := 0, c_comp := 0, d_comp := 0 }**
 
@@ -579,7 +579,7 @@ Tau.BookIII.Physics.abcd_zero_3 :abcd_extract 0 3 = { a_comp := 3, b_comp := 0, 
 
 ### `Tau.BookIII.Physics.defect_zero_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/FluidData.lean#L239-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/FluidData.lean#L239-L241)
 **theorem
 Tau.BookIII.Physics.defect_zero_1 :defect_functional 1 = 0**
 

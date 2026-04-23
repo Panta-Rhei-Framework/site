@@ -40,7 +40,7 @@ Rigidity (Aut(τ) = {id}) and Categoricity of τ₀.
 
 ### `Tau.Orbit.rho_seed_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L18-L20)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L18-L20)
 **theorem
 Tau.Orbit.rho_seed_omega
 (x : Kernel.TauObj)
@@ -55,7 +55,7 @@ If x.seed = omega, then rho x = x (generalized K2).
 
 ### `Tau.Orbit.TauAutomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L22-L28)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L22-L28)
 **structure
 Tau.Orbit.TauAutomorphism :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.Orbit.auto_omega_to_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L30-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L30-L39)
 **theorem
 Tau.Orbit.auto_omega_to_omega
 (φ : TauAutomorphism)
@@ -94,7 +94,7 @@ Any τ-automorphism maps omega-fiber objects to omega-fiber objects.
 
 ### `Tau.Orbit.auto_non_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L41-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L41-L50)
 **theorem
 Tau.Orbit.auto_non_omega
 (φ : TauAutomorphism)
@@ -111,7 +111,7 @@ Tau.Orbit.auto_non_omega
 
 ### `Tau.Orbit.auto_shift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L52-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L52-L61)
 **theorem
 Tau.Orbit.auto_shift
 (φ : TauAutomorphism)
@@ -130,7 +130,7 @@ For non-omega g, φ maps the orbit O_g with constant depth offset.
 
 ### `Tau.Orbit.rigidity_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L63-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L63-L129)
 **theorem
 Tau.Orbit.rigidity_depth
 (φ : TauAutomorphism)
@@ -147,7 +147,7 @@ Tau.Orbit.rigidity_depth
 
 ### `Tau.Orbit.rigidity_non_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L131-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L131-L138)
 **theorem
 Tau.Orbit.rigidity_non_omega
 (φ : TauAutomorphism)
@@ -168,7 +168,7 @@ Tau.Orbit.rigidity_non_omega
 
 ### `Tau.Orbit.TauModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L140-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L140-L146)
 **structure
 Tau.Orbit.TauModel :Type 1**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.Orbit.interpret`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L148-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L148-L150)
 **def
 Tau.Orbit.interpret
 (M : TauModel)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Orbit.categoricity_non_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Rigidity.lean#L152-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Rigidity.lean#L152-L164)
 **theorem
 Tau.Orbit.categoricity_non_omega
 (M : TauModel)

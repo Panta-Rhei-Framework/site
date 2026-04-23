@@ -54,7 +54,7 @@ orbit rays, plus one copy for the omega fiber).
 
 ### `Tau.Denotation.denotational_lt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L39-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L39-L42)
 **def
 Tau.Denotation.denotational_lt
 (x y : Kernel.TauObj)
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.Denotation.denotational_lt_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L44-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L44-L46)
 **instance
 Tau.Denotation.denotational_lt_decidable
 (x y : Kernel.TauObj)
@@ -85,7 +85,7 @@ Equations
 
 ### `Tau.Denotation.denotational_lt_irrefl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L52-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L52-L57)
 **theorem
 Tau.Denotation.denotational_lt_irrefl
 (x : Kernel.TauObj)
@@ -98,7 +98,7 @@ Irreflexivity.
 
 ### `Tau.Denotation.denotational_lt_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L59-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L59-L71)
 **theorem
 Tau.Denotation.denotational_lt_trans
 {x y z : Kernel.TauObj}
@@ -115,7 +115,7 @@ Transitivity.
 
 ### `Tau.Denotation.denotational_lt_trichotomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L73-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L73-L93)
 **theorem
 Tau.Denotation.denotational_lt_trichotomy
 (x y : Kernel.TauObj)
@@ -128,7 +128,7 @@ Trichotomy: for any two TauObj, exactly one of <, =, > holds.
 
 ### `Tau.Denotation.alpha_zero_minimum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L99-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L99-L113)
 **theorem
 Tau.Denotation.alpha_zero_minimum
 (x : Kernel.TauObj)
@@ -143,7 +143,7 @@ Tau.Denotation.alpha_zero_minimum
 
 ### `Tau.Denotation.orbit_depth_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L115-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L115-L118)
 **theorem
 Tau.Denotation.orbit_depth_order
 (g : Kernel.Generator)
@@ -160,7 +160,7 @@ Within each orbit ray, depth gives a total order.
 
 ### `Tau.Denotation.seed_order_alpha_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L120-L122)
 **theorem
 Tau.Denotation.seed_order_alpha_pi :denotational_lt { seed := Kernel.Generator.alpha, depth := 0 } { seed := Kernel.Generator.pi, depth := 0 }**
 
@@ -171,7 +171,7 @@ Different seeds have a definite order.
 
 ### `Tau.Denotation.seed_order_pi_gamma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L124-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L124-L125)
 **theorem
 Tau.Denotation.seed_order_pi_gamma :denotational_lt { seed := Kernel.Generator.pi, depth := 0 } { seed := Kernel.Generator.gamma, depth := 0 }**
 
@@ -180,7 +180,7 @@ Tau.Denotation.seed_order_pi_gamma :denotational_lt { seed := Kernel.Generator.p
 
 ### `Tau.Denotation.seed_order_gamma_eta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L127-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L127-L128)
 **theorem
 Tau.Denotation.seed_order_gamma_eta :denotational_lt { seed := Kernel.Generator.gamma, depth := 0 } { seed := Kernel.Generator.eta, depth := 0 }**
 
@@ -189,7 +189,7 @@ Tau.Denotation.seed_order_gamma_eta :denotational_lt { seed := Kernel.Generator.
 
 ### `Tau.Denotation.seed_order_eta_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L130-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L130-L131)
 **theorem
 Tau.Denotation.seed_order_eta_omega :denotational_lt { seed := Kernel.Generator.eta, depth := 0 } { seed := Kernel.Generator.omega, depth := 0 }**
 
@@ -198,7 +198,7 @@ Tau.Denotation.seed_order_eta_omega :denotational_lt { seed := Kernel.Generator.
 
 ### `Tau.Denotation.denotational_lt_wf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Order.lean#L151-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Order.lean#L151-L157)
 **theorem
 Tau.Denotation.denotational_lt_wf :WellFounded denotational_lt**
 

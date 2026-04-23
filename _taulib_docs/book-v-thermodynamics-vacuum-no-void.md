@@ -102,7 +102,7 @@ mode summation.
 
 ### `Tau.BookV.Thermodynamics.TauVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L62-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L62-L85)
 **structure
 Tau.BookV.Thermodynamics.TauVacuum :Type**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTauVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L85-L85)
 **instance
 Tau.BookV.Thermodynamics.instReprTauVacuum :Repr TauVacuum**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprTauVacuum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L85-L85)
 **def
 Tau.BookV.Thermodynamics.instReprTauVacuum.repr :TauVacuum → ℕ → Std.Format**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.TauVacuum.energyFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L87-L89)
 **def
 Tau.BookV.Thermodynamics.TauVacuum.energyFloat
 (v : TauVacuum)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.vacuum_holomorphic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L91-L93)
 **theorem
 Tau.BookV.Thermodynamics.vacuum_holomorphic :{ zero_defect := ⋯, e_bdry_numer := 1, e_bdry_denom := 1, denom_pos := ⋯ }.is_holomorphic = true**
 
@@ -197,7 +197,7 @@ The default vacuum is holomorphic.
 
 ### `Tau.BookV.Thermodynamics.vacuum_energy_is_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L99-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L99-L107)
 **theorem
 Tau.BookV.Thermodynamics.vacuum_energy_is_boundary :"E_vac = E_bdry = integral_L |H_partial[omega_0]|^2 d-sigma, finite" = "E_vac = E_bdry = integral_L |H_partial[omega_0]|^2 d-sigma, finite"**
 
@@ -213,7 +213,7 @@ no renormalization needed.
 
 ### `Tau.BookV.Thermodynamics.QFTVacuumAsRefinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L113-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L113-L127)
 **structure
 Tau.BookV.Thermodynamics.QFTVacuumAsRefinement :Type**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprQFTVacuumAsRefinement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L127-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L127-L127)
 **def
 Tau.BookV.Thermodynamics.instReprQFTVacuumAsRefinement.repr :QFTVacuumAsRefinement → ℕ → Std.Format**
 
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprQFTVacuumAsRefinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L127-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L127-L127)
 **instance
 Tau.BookV.Thermodynamics.instReprQFTVacuumAsRefinement :Repr QFTVacuumAsRefinement**
 
@@ -265,7 +265,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.qft_vacuum_planck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L129-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L129-L132)
 **def
 Tau.BookV.Thermodynamics.qft_vacuum_planck :QFTVacuumAsRefinement**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.qft_discrepancy_120`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L134-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L134-L135)
 **theorem
 Tau.BookV.Thermodynamics.qft_discrepancy_120 :qft_vacuum_planck.discrepancy_log10 = 120**
 
@@ -288,7 +288,7 @@ Tau.BookV.Thermodynamics.qft_discrepancy_120 :qft_vacuum_planck.discrepancy_log1
 
 ### `Tau.BookV.Thermodynamics.vacuum_catastrophe_category_error`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L141-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L141-L150)
 **theorem
 Tau.BookV.Thermodynamics.vacuum_catastrophe_category_error :"rho_vac^QFT counts S_ref modes, not E_vac; 10^120 is a category error" = "rho_vac^QFT counts S_ref modes, not E_vac; 10^120 is a category error"**
 
@@ -305,7 +305,7 @@ physical energy -- comparing apples to oranges.
 
 ### `Tau.BookV.Thermodynamics.vacuum_source_finite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L156-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L156-L164)
 **theorem
 Tau.BookV.Thermodynamics.vacuum_source_finite :"T_vac = E_bdry/V, finite, no cutoff dependence" = "T_vac = E_bdry/V, finite, no cutoff dependence"**
 
@@ -321,7 +321,7 @@ momentum-space sum is performed.
 
 ### `Tau.BookV.Thermodynamics.normal_ordering_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L170-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L170-L176)
 **theorem
 Tau.BookV.Thermodynamics.normal_ordering_comparison :"QFT :H: = H - E_0 subtracts S_ref; tau explains why this is correct" = "QFT :H: = H - E_0 subtracts S_ref; tau explains why this is correct"**
 
@@ -335,7 +335,7 @@ the zero-point contributions are refinement entropy, not energy.
 
 ### `Tau.BookV.Thermodynamics.GroundStateUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L182-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L182-L196)
 **structure
 Tau.BookV.Thermodynamics.GroundStateUniqueness :Type**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGroundStateUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L196-L196)
 **instance
 Tau.BookV.Thermodynamics.instReprGroundStateUniqueness :Repr GroundStateUniqueness**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprGroundStateUniqueness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L196-L196)
 **def
 Tau.BookV.Thermodynamics.instReprGroundStateUniqueness.repr :GroundStateUniqueness → ℕ → Std.Format**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.ground_state_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L198-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L198-L201)
 **theorem
 Tau.BookV.Thermodynamics.ground_state_unique :"tau-vacuum ground state is unique by convexity" = "tau-vacuum ground state is unique by convexity"**
 
@@ -402,7 +402,7 @@ The ground state is unique (for default instance).
 
 ### `Tau.BookV.Thermodynamics.CasimirFromBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L207-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L207-L225)
 **structure
 Tau.BookV.Thermodynamics.CasimirFromBoundary :Type**
 
@@ -436,7 +436,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCasimirFromBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L225-L225)
 **instance
 Tau.BookV.Thermodynamics.instReprCasimirFromBoundary :Repr CasimirFromBoundary**
 
@@ -447,7 +447,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprCasimirFromBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L225-L225)
 **def
 Tau.BookV.Thermodynamics.instReprCasimirFromBoundary.repr :CasimirFromBoundary → ℕ → Std.Format**
 
@@ -459,7 +459,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.casimir_no_mode_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L227-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L227-L230)
 **theorem
 Tau.BookV.Thermodynamics.casimir_no_mode_sum :"Casimir from boundary modes, not mode summation" = "Casimir from boundary modes, not mode summation"**
 
@@ -470,7 +470,7 @@ Casimir does NOT use mode summation (structural fact).
 
 ### `Tau.BookV.Thermodynamics.example_vacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L247-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L247-L251)
 **def
 Tau.BookV.Thermodynamics.example_vacuum :TauVacuum**
 
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.planck_cutoff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L258-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L258-L261)
 **def
 Tau.BookV.Thermodynamics.planck_cutoff :QFTVacuumAsRefinement**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.casimir_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L266-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/VacuumNoVoid.lean#L266-L270)
 **def
 Tau.BookV.Thermodynamics.casimir_example :CasimirFromBoundary**
 

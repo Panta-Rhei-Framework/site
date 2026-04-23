@@ -88,7 +88,7 @@ robust Lean identifiers. The solenoidal triple is {π, γ, η}.
 
 ### `Tau.Kernel.Generator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L64-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L64-L73)
 **inductive
 Tau.Kernel.Generator :Type**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.Kernel.instDecidableEqGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L73-L73)
 **instance
 Tau.Kernel.instDecidableEqGenerator :DecidableEq Generator**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.Kernel.instReprGenerator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L73-L73)
 **def
 Tau.Kernel.instReprGenerator.repr :Generator → Nat → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.Kernel.instReprGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L73-L73)
 **instance
 Tau.Kernel.instReprGenerator :Repr Generator**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.Kernel.Generator.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L77-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L77-L83)
 **def
 Tau.Kernel.Generator.toNat :Generator → Nat**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.Kernel.instLTGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L85-L87)
 **instance
 Tau.Kernel.instLTGenerator :LT Generator**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.Kernel.instDecidableLtGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L89-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L89-L91)
 **instance
 Tau.Kernel.instDecidableLtGenerator
 (a b : Generator)
@@ -192,7 +192,7 @@ Equations
 
 ### `Tau.Kernel.nonOmegaGenerators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L93-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L93-L94)
 **def
 Tau.Kernel.nonOmegaGenerators :List Generator**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Kernel.TauZero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Signature.lean#L96-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Signature.lean#L96-L102)
 **structure
 Tau.Kernel.TauZero :Type**
 

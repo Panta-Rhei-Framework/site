@@ -53,7 +53,7 @@ is uniquely determined by its spectral coefficients.
 
 ### `Tau.Holomorphy.SpectralCoeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L34-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L34-L41)
 **structure
 Tau.Holomorphy.SpectralCoeff :Type**
 
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.Holomorphy.spectral_of`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L43-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L43-L45)
 **def
 Tau.Holomorphy.spectral_of
 (f : StageFun)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.Holomorphy.spectral_eq_implies_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L47-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L47-L55)
 **theorem
 Tau.Holomorphy.spectral_eq_implies_agree
 (f₁ f₂ : StageFun)
@@ -105,7 +105,7 @@ Two functions with the same spectral coefficients agree at that point.
 
 ### `Tau.Holomorphy.restriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L61-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L61-L66)
 **def
 Tau.Holomorphy.restriction
 (f : StageFun)
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.Holomorphy.restriction_outside`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L68-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L68-L73)
 **theorem
 Tau.Holomorphy.restriction_outside
 (f : StageFun)
@@ -144,7 +144,7 @@ Restriction agrees with original outside K.
 
 ### `Tau.Holomorphy.restriction_inside`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L75-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L75-L80)
 **theorem
 Tau.Holomorphy.restriction_inside
 (f : StageFun)
@@ -163,7 +163,7 @@ Restriction is zero inside K.
 
 ### `Tau.Holomorphy.spectral_determines`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L86-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/SpectralCoefficients.lean#L86-L99)
 **theorem
 Tau.Holomorphy.spectral_determines
 (f₁ f₂ : StageFun)

@@ -93,7 +93,7 @@ inverse system preserves all data at every refinement depth.
 
 ### `Tau.BookV.Cosmology.GravitationalTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L59-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L59-L73)
 **structure
 Tau.BookV.Cosmology.GravitationalTension :Type**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprGravitationalTension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L73-L73)
 **def
 Tau.BookV.Cosmology.instReprGravitationalTension.repr :GravitationalTension → ℕ → Std.Format**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprGravitationalTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L73-L73)
 **instance
 Tau.BookV.Cosmology.instReprGravitationalTension :Repr GravitationalTension**
 
@@ -145,7 +145,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.GravitationalTension.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L75-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L75-L77)
 **def
 Tau.BookV.Cosmology.GravitationalTension.toFloat
 (g : GravitationalTension)
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.SphericalCapacity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L83-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L83-L99)
 **structure
 Tau.BookV.Cosmology.SphericalCapacity :Type**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSphericalCapacity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L99-L99)
 **instance
 Tau.BookV.Cosmology.instReprSphericalCapacity :Repr SphericalCapacity**
 
@@ -204,7 +204,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprSphericalCapacity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L99-L99)
 **def
 Tau.BookV.Cosmology.instReprSphericalCapacity.repr :SphericalCapacity → ℕ → Std.Format**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.LinkingClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L105-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L105-L117)
 **structure
 Tau.BookV.Cosmology.LinkingClass :Type**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprLinkingClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L117-L117)
 **instance
 Tau.BookV.Cosmology.instReprLinkingClass :Repr LinkingClass**
 
@@ -253,7 +253,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprLinkingClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L117-L117)
 **def
 Tau.BookV.Cosmology.instReprLinkingClass.repr :LinkingClass → ℕ → Std.Format**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.unit_linking`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L119-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L119-L123)
 **def
 Tau.BookV.Cosmology.unit_linking :LinkingClass**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.HorizonTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L129-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L129-L135)
 **inductive
 Tau.BookV.Cosmology.HorizonTopology :Type**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHorizonTopology.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
 **def
 Tau.BookV.Cosmology.instReprHorizonTopology.repr :HorizonTopology → ℕ → Std.Format**
 
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHorizonTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
 **instance
 Tau.BookV.Cosmology.instReprHorizonTopology :Repr HorizonTopology**
 
@@ -321,7 +321,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqHorizonTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
 **instance
 Tau.BookV.Cosmology.instDecidableEqHorizonTopology :DecidableEq HorizonTopology**
 
@@ -332,7 +332,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqHorizonTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
 **instance
 Tau.BookV.Cosmology.instBEqHorizonTopology :BEq HorizonTopology**
 
@@ -343,7 +343,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqHorizonTopology.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L135-L135)
 **def
 Tau.BookV.Cosmology.instBEqHorizonTopology.beq :HorizonTopology → HorizonTopology → Bool**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BlackHoleTopologicalEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L137-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L137-L154)
 **structure
 Tau.BookV.Cosmology.BlackHoleTopologicalEvent :Type**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlackHoleTopologicalEvent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L154-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L154-L154)
 **def
 Tau.BookV.Cosmology.instReprBlackHoleTopologicalEvent.repr :BlackHoleTopologicalEvent → ℕ → Std.Format**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlackHoleTopologicalEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L154-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L154-L154)
 **instance
 Tau.BookV.Cosmology.instReprBlackHoleTopologicalEvent :Repr BlackHoleTopologicalEvent**
 
@@ -411,7 +411,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bh_threshold_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L160-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L160-L168)
 **theorem
 Tau.BookV.Cosmology.bh_threshold_theorem
 (g : GravitationalTension)
@@ -433,7 +433,7 @@ The threshold is sharp: below it, neutron star; above it, BH.
 
 ### `Tau.BookV.Cosmology.bh_toroidal_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L174-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L174-L181)
 **theorem
 Tau.BookV.Cosmology.bh_toroidal_topology :"BH horizon topology is T^2 (torus), not S^2 (sphere)" = "BH horizon topology is T^2 (torus), not S^2 (sphere)"**
 
@@ -448,7 +448,7 @@ This is a structural consequence of τ³ = τ¹ ×_f T².
 
 ### `Tau.BookV.Cosmology.no_interior_singularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L187-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L187-L193)
 **theorem
 Tau.BookV.Cosmology.no_interior_singularity
 (bh : BlackHoleTopologicalEvent)
@@ -466,7 +466,7 @@ bounded. Penrose-Hawking does not apply (profinite, not smooth manifold).
 
 ### `Tau.BookV.Cosmology.information_preservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L199-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L199-L206)
 **theorem
 Tau.BookV.Cosmology.information_preservation :"H_partial[omega] preserves all data: no information loss in BH" = "H_partial[omega] preserves all data: no information loss in BH"**
 
@@ -481,7 +481,7 @@ property of the profinite tower, not a dynamical accident.
 
 ### `Tau.BookV.Cosmology.CanonicalBHNeighborhood`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L212-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L212-L226)
 **structure
 Tau.BookV.Cosmology.CanonicalBHNeighborhood :Type**
 
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCanonicalBHNeighborhood`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L226-L226)
 **instance
 Tau.BookV.Cosmology.instReprCanonicalBHNeighborhood :Repr CanonicalBHNeighborhood**
 
@@ -521,7 +521,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCanonicalBHNeighborhood.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L226-L226)
 **def
 Tau.BookV.Cosmology.instReprCanonicalBHNeighborhood.repr :CanonicalBHNeighborhood → ℕ → Std.Format**
 
@@ -533,7 +533,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.example_bh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L241-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L241-L245)
 **def
 Tau.BookV.Cosmology.example_bh :BlackHoleTopologicalEvent**
 
@@ -548,7 +548,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.FiberShapeRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L261-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L261-L285)
 **structure
 Tau.BookV.Cosmology.FiberShapeRatio :Type**
 
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiberShapeRatio.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L285-L285)
 **def
 Tau.BookV.Cosmology.instReprFiberShapeRatio.repr :FiberShapeRatio → ℕ → Std.Format**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiberShapeRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L285-L285)
 **instance
 Tau.BookV.Cosmology.instReprFiberShapeRatio :Repr FiberShapeRatio**
 
@@ -615,7 +615,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.fiber_shape_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L287-L287)
 **def
 Tau.BookV.Cosmology.fiber_shape_ratio :FiberShapeRatio**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.fiber_shape_ratio_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L289-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L289-L294)
 **theorem
 Tau.BookV.Cosmology.fiber_shape_ratio_structural :fiber_shape_ratio.ratio_is_iota = true ∧ fiber_shape_ratio.breathing_fraction = true ∧ fiber_shape_ratio.qnm_ratio_inverse = true**
 
@@ -638,7 +638,7 @@ r/R = ι<sub>τ</sub> from fiber structure: QNM ratio = ι<sub>τ</sub>⁻¹.
 
 ### `Tau.BookV.Cosmology.bh_toroidal_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L300-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L300-L311)
 **theorem
 Tau.BookV.Cosmology.bh_toroidal_structural
 (lc : LinkingClass)
@@ -660,7 +660,7 @@ H₁(S²) = 0 (no non-trivial 1-cycles).
 
 ### `Tau.BookV.Cosmology.no_singularity_from_linking`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L313-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L313-L321)
 **theorem
 Tau.BookV.Cosmology.no_singularity_from_linking
 (bh : BlackHoleTopologicalEvent)
@@ -679,7 +679,7 @@ bounded boundary characters everywhere in the neighborhood.
 
 ### `Tau.BookV.Cosmology.InformationPreservationStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L323-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L323-L334)
 **structure
 Tau.BookV.Cosmology.InformationPreservationStructural :Type**
 
@@ -704,7 +704,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInformationPreservationStructural.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L334-L334)
 **def
 Tau.BookV.Cosmology.instReprInformationPreservationStructural.repr :InformationPreservationStructural → ℕ → Std.Format**
 
@@ -716,7 +716,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInformationPreservationStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L334-L334)
 **instance
 Tau.BookV.Cosmology.instReprInformationPreservationStructural :Repr InformationPreservationStructural**
 
@@ -727,7 +727,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.info_preservation_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L336-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L336-L336)
 **def
 Tau.BookV.Cosmology.info_preservation_structural :InformationPreservationStructural**
 
@@ -739,6 +739,6 @@ Instances For
 
 ### `Tau.BookV.Cosmology.info_preservation_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBirthTopology.lean#L338-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBirthTopology.lean#L338-L341)
 **theorem
 Tau.BookV.Cosmology.info_preservation_thm :info_preservation_structural.profinite_tower = true ∧ info_preservation_structural.unitarity_structural = true**

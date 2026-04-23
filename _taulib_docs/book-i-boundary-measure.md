@@ -66,7 +66,7 @@ the stage at which it is evaluated.
 
 ### `Tau.Boundary.count_satisfying`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L49-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L49-L57)
 **def
 Tau.Boundary.count_satisfying
 (p : ℕ → Bool)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.Boundary.count_satisfying.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L54-L56)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L54-L56)@[irreducible]
 
 **def
 Tau.Boundary.count_satisfying.go
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.Boundary.StageMeasure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L59-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L59-L64)
 **structure
 Tau.Boundary.StageMeasure :Type**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.Boundary.instReprStageMeasure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L64-L64)
 **def
 Tau.Boundary.instReprStageMeasure.repr :StageMeasure → ℕ → Std.Format**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.Boundary.instReprStageMeasure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L64-L64)
 **instance
 Tau.Boundary.instReprStageMeasure :Repr StageMeasure**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.Boundary.stage_measure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L66-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L66-L71)
 **def
 Tau.Boundary.stage_measure
 (p : ℕ → Bool)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.Boundary.TowerMeasurableSet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L77-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L77-L80)
 **structure
 Tau.Boundary.TowerMeasurableSet :Type**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.Boundary.tower_compatible_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L82-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L82-L94)
 **def
 Tau.Boundary.tower_compatible_check
 (tms : TowerMeasurableSet)
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.Boundary.tower_compatible_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L87-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L87-L93)@[irreducible]
 
 **def
 Tau.Boundary.tower_compatible_check.go
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.Boundary.sigma_algebra_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L96-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L96-L104)
 **def
 Tau.Boundary.sigma_algebra_check
 (tms : TowerMeasurableSet)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.Boundary.sigma_algebra_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L100-L103)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L100-L103)@[irreducible]
 
 **def
 Tau.Boundary.sigma_algebra_check.go
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.Boundary.disjoint_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L110-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L110-L120)
 **def
 Tau.Boundary.disjoint_check
 (p q : ℕ → Bool)
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.Boundary.disjoint_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L115-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L115-L119)@[irreducible]
 
 **def
 Tau.Boundary.disjoint_check.go
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.Boundary.countable_additivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L122-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L122-L129)
 **def
 Tau.Boundary.countable_additivity_check
 (p q : ℕ → Bool)
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.Boundary.measure_compatibility_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L135-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L135-L144)
 **def
 Tau.Boundary.measure_compatibility_check
 (tms : TowerMeasurableSet)
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.Boundary.measure_compatibility_full`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L146-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L146-L154)
 **def
 Tau.Boundary.measure_compatibility_full
 (tms : TowerMeasurableSet)
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.Boundary.measure_compatibility_full.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L150-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L150-L153)@[irreducible]
 
 **def
 Tau.Boundary.measure_compatibility_full.go
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.Boundary.full_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L160-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L160-L162)
 **def
 Tau.Boundary.full_set :TowerMeasurableSet**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.Boundary.empty_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L164-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L164-L166)
 **def
 Tau.Boundary.empty_set :TowerMeasurableSet**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.Boundary.even_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L168-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L168-L170)
 **def
 Tau.Boundary.even_set :TowerMeasurableSet**
 
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.Boundary.b_sector_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L172-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L172-L174)
 **def
 Tau.Boundary.b_sector_set :TowerMeasurableSet**
 
@@ -413,7 +413,7 @@ Instances For
 
 ### `Tau.Boundary.primorial_pos_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L180-L181)
 **theorem
 Tau.Boundary.primorial_pos_1 :Polarity.primorial 1 > 0**
 
@@ -424,7 +424,7 @@ Tau.Boundary.primorial_pos_1 :Polarity.primorial 1 > 0**
 
 ### `Tau.Boundary.primorial_pos_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L182-L182)
 **theorem
 Tau.Boundary.primorial_pos_2 :Polarity.primorial 2 > 0**
 
@@ -433,7 +433,7 @@ Tau.Boundary.primorial_pos_2 :Polarity.primorial 2 > 0**
 
 ### `Tau.Boundary.primorial_pos_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L183-L183)
 **theorem
 Tau.Boundary.primorial_pos_3 :Polarity.primorial 3 > 0**
 
@@ -442,7 +442,7 @@ Tau.Boundary.primorial_pos_3 :Polarity.primorial 3 > 0**
 
 ### `Tau.Boundary.additivity_even_odd_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L185-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L185-L188)
 **theorem
 Tau.Boundary.additivity_even_odd_3 :countable_additivity_check (fun (x : ℕ) => x % 2 == 0) (fun (x : ℕ) => x % 2 == 1) 3 = true**
 
@@ -453,7 +453,7 @@ Tau.Boundary.additivity_even_odd_3 :countable_additivity_check (fun (x : ℕ) =>
 
 ### `Tau.Boundary.additivity_bc_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L190-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L190-L193)
 **theorem
 Tau.Boundary.additivity_bc_3 :countable_additivity_check (fun (x : ℕ) => x % 4 == 1) (fun (x : ℕ) => x % 4 == 3) 3 = true**
 
@@ -464,7 +464,7 @@ Tau.Boundary.additivity_bc_3 :countable_additivity_check (fun (x : ℕ) => x % 4
 
 ### `Tau.Boundary.full_set_compatible_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L195-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L195-L197)
 **theorem
 Tau.Boundary.full_set_compatible_3 :sigma_algebra_check full_set 3 = true**
 
@@ -475,7 +475,7 @@ Tau.Boundary.full_set_compatible_3 :sigma_algebra_check full_set 3 = true**
 
 ### `Tau.Boundary.empty_set_compatible_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L199-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L199-L201)
 **theorem
 Tau.Boundary.empty_set_compatible_3 :sigma_algebra_check empty_set 3 = true**
 
@@ -486,7 +486,7 @@ Tau.Boundary.empty_set_compatible_3 :sigma_algebra_check empty_set 3 = true**
 
 ### `Tau.Boundary.even_set_compatible_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L203-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L203-L205)
 **theorem
 Tau.Boundary.even_set_compatible_3 :sigma_algebra_check even_set 3 = true**
 
@@ -497,7 +497,7 @@ Tau.Boundary.even_set_compatible_3 :sigma_algebra_check even_set 3 = true**
 
 ### `Tau.Boundary.full_set_measure_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L207-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L207-L209)
 **theorem
 Tau.Boundary.full_set_measure_3 :count_satisfying (fun (x : ℕ) => true) 3 = Polarity.primorial 3**
 
@@ -508,7 +508,7 @@ Tau.Boundary.full_set_measure_3 :count_satisfying (fun (x : ℕ) => true) 3 = Po
 
 ### `Tau.Boundary.empty_set_measure_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L211-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L211-L213)
 **theorem
 Tau.Boundary.empty_set_measure_3 :count_satisfying (fun (x : ℕ) => false) 3 = 0**
 
@@ -519,7 +519,7 @@ Tau.Boundary.empty_set_measure_3 :count_satisfying (fun (x : ℕ) => false) 3 = 
 
 ### `Tau.Boundary.TauMeasureSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L219-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L219-L223)
 **structure
 Tau.Boundary.TauMeasureSpace :Type**
 
@@ -535,7 +535,7 @@ Instances For
 
 ### `Tau.Boundary.tau_measure_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Measure.lean#L225-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Measure.lean#L225-L227)
 **def
 Tau.Boundary.tau_measure_check
 (tms : TauMeasureSpace)

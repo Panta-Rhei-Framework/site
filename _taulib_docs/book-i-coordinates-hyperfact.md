@@ -62,7 +62,7 @@ The constructive encoding corollary (I.C01) states: Φ is an injection from
 
 ### `Tau.Coordinates.ValidABCD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L41-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L41-L45)
 **def
 Tau.Coordinates.ValidABCD
 (x a b c d : Denotation.TauIdx)
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Coordinates.valid_abcd_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L47-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L47-L51)
 **def
 Tau.Coordinates.valid_abcd_check
 (x a b c d : Denotation.TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Coordinates.hyperfact_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L57-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L57-L70)
 **def
 Tau.Coordinates.hyperfact_check
 (x : Denotation.TauIdx)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.Coordinates.tau_encode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L76-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L76-L79)
 **def
 Tau.Coordinates.tau_encode
 (x : Denotation.TauIdx)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.Coordinates.tau_decode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L81-L83)
 **def
 Tau.Coordinates.tau_decode
 (enc : List (Denotation.TauIdx × Denotation.TauIdx × Denotation.TauIdx) × Denotation.TauIdx)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.Coordinates.encoding_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L85-L87)
 **def
 Tau.Coordinates.encoding_check
 (x : Denotation.TauIdx)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.Coordinates.injectivity_check_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L93-L100)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L93-L100)@[irreducible]
 
 **def
 Tau.Coordinates.injectivity_check_go
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Coordinates.injectivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Hyperfact.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Hyperfact.lean#L102-L102)
 **def
 Tau.Coordinates.injectivity_check
 (n : Denotation.TauIdx)

@@ -69,7 +69,7 @@ The effective polarity at bound N is computed via the spectral signature
 
 ### `Tau.Polarity.pow_ge_succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L44-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L44-L52)
 **theorem
 Tau.Polarity.pow_ge_succ
 (a : Nat)
@@ -86,7 +86,7 @@ For a ≥ 2, a^n ≥ n + 1 (exponential grows at least linearly).
 
 ### `Tau.Polarity.b_channel_unbounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L58-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L58-L61)
 **theorem
 Tau.Polarity.b_channel_unbounded
 (a : Nat)
@@ -103,7 +103,7 @@ B-channel unbounded: for a ≥ 2, for any target, ∃ B with a^B > target.
 
 ### `Tau.Polarity.c_channel_unbounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L63-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L63-L66)
 **theorem
 Tau.Polarity.c_channel_unbounded
 (a : Nat)
@@ -121,7 +121,7 @@ Direct corollary of tetration_unbounded.
 
 ### `Tau.Polarity.exp_strict_mono`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L68-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L68-L75)
 **theorem
 Tau.Polarity.exp_strict_mono
 (a : Nat)
@@ -139,7 +139,7 @@ Specifically, a^(n+1) > a^n for a ≥ 2.
 
 ### `Tau.Polarity.pure_power_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L81-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L81-L87)
 **def
 Tau.Polarity.pure_power_check
 (p k : Denotation.TauIdx)
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.Polarity.tower_witness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L89-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L89-L95)
 **def
 Tau.Polarity.tower_witness_check
 (p c : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.Polarity.large_prime_c_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L101-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L101-L104)
 **def
 Tau.Polarity.large_prime_c_bounded
 (p N : Denotation.TauIdx)
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.Polarity.large_prime_batch_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L106-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L106-L111)@[irreducible]
 
 **def
 Tau.Polarity.large_prime_batch_go
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Polarity.large_prime_batch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L113-L113)
 **def
 Tau.Polarity.large_prime_batch
 (hi N : Denotation.TauIdx)
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.Polarity.polarity_map`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L119-L121)
 **def
 Tau.Polarity.polarity_map
 (p N : Denotation.TauIdx)
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.Polarity.polarity_label`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L123-L125)
 **def
 Tau.Polarity.polarity_label
 (p N : Denotation.TauIdx)
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.Polarity.polarity_chi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L131-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L131-L137)
 **def
 Tau.Polarity.polarity_chi
 (p N : Denotation.TauIdx)
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.Polarity.chi_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L139-L141)
 **theorem
 Tau.Polarity.chi_unit
 (N : Denotation.TauIdx)
@@ -284,7 +284,7 @@ Chi(1) = 0.
 
 ### `Tau.Polarity.chi_extend`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L143-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L143-L161)
 **def
 Tau.Polarity.chi_extend
 (n N : Denotation.TauIdx)
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.Polarity.chi_extend.chi_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L149-L159)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L149-L159)@[irreducible]
 
 **def
 Tau.Polarity.chi_extend.chi_go
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.Polarity.chi_additive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L163-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L163-L165)
 **def
 Tau.Polarity.chi_additive_check
 (a b N : Denotation.TauIdx)
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.Polarity.b_class_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L171-L174)
 **def
 Tau.Polarity.b_class_witness
 (p N : Denotation.TauIdx)
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.Polarity.c_class_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L176-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L176-L179)
 **def
 Tau.Polarity.c_class_witness
 (p N : Denotation.TauIdx)
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.Polarity.count_b_dominant_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L185-L192)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L185-L192)@[irreducible]
 
 **def
 Tau.Polarity.count_b_dominant_go
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.Polarity.count_b_dominant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L194-L194)
 **def
 Tau.Polarity.count_b_dominant
 (n N : Denotation.TauIdx)
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.Polarity.count_c_dominant_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L196-L203)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L196-L203)@[irreducible]
 
 **def
 Tau.Polarity.count_c_dominant_go
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.Polarity.count_c_dominant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L205-L205)
 **def
 Tau.Polarity.count_c_dominant
 (n N : Denotation.TauIdx)
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.Polarity.count_primes_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L207-L214)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L207-L214)@[irreducible]
 
 **def
 Tau.Polarity.count_primes_go
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.Polarity.count_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L216-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L216-L216)
 **def
 Tau.Polarity.count_primes
 (n : Denotation.TauIdx)
@@ -459,7 +459,7 @@ Instances For
 
 ### `Tau.Polarity.partition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L218-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L218-L221)
 **def
 Tau.Polarity.partition_check
 (n N : Denotation.TauIdx)
@@ -476,7 +476,7 @@ Instances For
 
 ### `Tau.Polarity.b_channel_exceeds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L227-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L227-L230)
 **theorem
 Tau.Polarity.b_channel_exceeds
 (a B : Nat)
@@ -492,7 +492,7 @@ For a ≥ 2 and any bound B, there exists a power a^B' that exceeds a^B.
 
 ### `Tau.Polarity.c_beats_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L232-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L232-L235)
 **theorem
 Tau.Polarity.c_beats_b
 (a : Nat)
@@ -510,7 +510,7 @@ For a ≥ 2, the tetration channel eventually exceeds any power:
 
 ### `Tau.Polarity.b_beats_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Polarity.lean#L237-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Polarity.lean#L237-L244)
 **theorem
 Tau.Polarity.b_beats_c
 (a : Nat)

@@ -57,7 +57,7 @@ the scaling chain is coherent: algebraic → topological → enriched.
 
 ### `Tau.BookIII.Arithmetic.tower_strict_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L37-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L37-L43)
 **def
 Tau.BookIII.Arithmetic.tower_strict_check :Bool**
 
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.millennium_coverage_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L45-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L45-L56)
 **def
 Tau.BookIII.Arithmetic.millennium_coverage_check :Bool**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.scaling_chain_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L58-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L58-L94)
 **def
 Tau.BookIII.Arithmetic.scaling_chain_check
 (bound db : Denotation.TauIdx)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.scaling_chain_check.crt_roundtrip_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L70-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L70-L80)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.scaling_chain_check.crt_roundtrip_go
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.scaling_chain_check.bnf_decomposition_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L83-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L83-L93)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.scaling_chain_check.bnf_decomposition_go
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.tower_assembly_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L96-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L96-L101)
 **def
 Tau.BookIII.Arithmetic.tower_assembly_check
 (bound db : Denotation.TauIdx)
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.tower_strict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L116-L117)
 **theorem
 Tau.BookIII.Arithmetic.tower_strict :tower_strict_check = true**
 
@@ -163,7 +163,7 @@ Tau.BookIII.Arithmetic.tower_strict :tower_strict_check = true**
 
 ### `Tau.BookIII.Arithmetic.millennium_coverage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L119-L120)
 **theorem
 Tau.BookIII.Arithmetic.millennium_coverage :millennium_coverage_check = true**
 
@@ -172,7 +172,7 @@ Tau.BookIII.Arithmetic.millennium_coverage :millennium_coverage_check = true**
 
 ### `Tau.BookIII.Arithmetic.scaling_chain_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L122-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L122-L123)
 **theorem
 Tau.BookIII.Arithmetic.scaling_chain_15_3 :scaling_chain_check 15 3 = true**
 
@@ -181,7 +181,7 @@ Tau.BookIII.Arithmetic.scaling_chain_15_3 :scaling_chain_check 15 3 = true**
 
 ### `Tau.BookIII.Arithmetic.tower_assembly_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L125-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L125-L126)
 **theorem
 Tau.BookIII.Arithmetic.tower_assembly_15_3 :tower_assembly_check 15 3 = true**
 
@@ -190,7 +190,7 @@ Tau.BookIII.Arithmetic.tower_assembly_15_3 :tower_assembly_check 15 3 = true**
 
 ### `Tau.BookIII.Arithmetic.e0_lt_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L132-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L132-L133)
 **theorem
 Tau.BookIII.Arithmetic.e0_lt_e1 :Enrichment.EnrLevel.E0.lt Enrichment.EnrLevel.E1 = true**
 
@@ -201,7 +201,7 @@ Tau.BookIII.Arithmetic.e0_lt_e1 :Enrichment.EnrLevel.E0.lt Enrichment.EnrLevel.E
 
 ### `Tau.BookIII.Arithmetic.e1_lt_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L135-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L135-L136)
 **theorem
 Tau.BookIII.Arithmetic.e1_lt_e2 :Enrichment.EnrLevel.E1.lt Enrichment.EnrLevel.E2 = true**
 
@@ -212,7 +212,7 @@ Tau.BookIII.Arithmetic.e1_lt_e2 :Enrichment.EnrLevel.E1.lt Enrichment.EnrLevel.E
 
 ### `Tau.BookIII.Arithmetic.e2_lt_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L138-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L138-L139)
 **theorem
 Tau.BookIII.Arithmetic.e2_lt_e3 :Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E3 = true**
 
@@ -223,7 +223,7 @@ Tau.BookIII.Arithmetic.e2_lt_e3 :Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E
 
 ### `Tau.BookIII.Arithmetic.eight_problems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L141-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/TowerAssembly.lean#L141-L146)
 **theorem
 Tau.BookIII.Arithmetic.eight_problems :[Doors.problem_level Doors.MillenniumProblem.RH, Doors.problem_level Doors.MillenniumProblem.Poincare, Doors.problem_level Doors.MillenniumProblem.NS, Doors.problem_level Doors.MillenniumProblem.YM, Doors.problem_level Doors.MillenniumProblem.Hodge, Doors.problem_level Doors.MillenniumProblem.BSD, Doors.problem_level Doors.MillenniumProblem.Langlands, Doors.problem_level Doors.MillenniumProblem.PvsNP].length = 8**
 

@@ -80,7 +80,7 @@ points at each stage measures the arithmetic complexity
 
 ### `Tau.BookII.Closure.is_proto_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L51-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L51-L62)
 **def
 Tau.BookII.Closure.is_proto_rational
 (x max_k : Denotation.TauIdx)
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookII.Closure.is_proto_rational.find_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L57-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L57-L61)@[irreducible]
 
 **def
 Tau.BookII.Closure.is_proto_rational.find_stage
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L64-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L64-L75)
 **def
 Tau.BookII.Closure.proto_rational_stage
 (x max_k : Denotation.TauIdx)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_stage.find_min_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L70-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L70-L74)@[irreducible]
 
 **def
 Tau.BookII.Closure.proto_rational_stage.find_min_stage
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_abcd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L77-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L77-L81)
 **def
 Tau.BookII.Closure.proto_rational_abcd
 (x : Denotation.TauIdx)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L83-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L83-L94)
 **def
 Tau.BookII.Closure.proto_rational_check
 (bound max_k : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L89-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L89-L93)@[irreducible]
 
 **def
 Tau.BookII.Closure.proto_rational_check.go
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_examples_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L96-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L96-L110)
 **def
 Tau.BookII.Closure.proto_rational_examples_check :Bool**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_count_at_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L112-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L112-L132)
 **def
 Tau.BookII.Closure.proto_rational_count_at_stage
 (k : Denotation.TauIdx)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_count_at_stage.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L122-L131)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L122-L131)@[irreducible]
 
 **def
 Tau.BookII.Closure.proto_rational_count_at_stage.go
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_rational_count_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L134-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L134-L143)
 **def
 Tau.BookII.Closure.proto_rational_count_check :Bool**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookII.Closure.proto_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L185-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L185-L186)
 **theorem
 Tau.BookII.Closure.proto_2 :is_proto_rational 2 5 = true**
 
@@ -289,7 +289,7 @@ Tau.BookII.Closure.proto_2 :is_proto_rational 2 5 = true**
 
 ### `Tau.BookII.Closure.proto_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L188-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L188-L189)
 **theorem
 Tau.BookII.Closure.proto_5 :is_proto_rational 5 5 = true**
 
@@ -298,7 +298,7 @@ Tau.BookII.Closure.proto_5 :is_proto_rational 5 5 = true**
 
 ### `Tau.BookII.Closure.proto_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L191-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L191-L192)
 **theorem
 Tau.BookII.Closure.proto_7 :is_proto_rational 7 5 = true**
 
@@ -307,7 +307,7 @@ Tau.BookII.Closure.proto_7 :is_proto_rational 7 5 = true**
 
 ### `Tau.BookII.Closure.proto_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L194-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L194-L195)
 **theorem
 Tau.BookII.Closure.proto_12 :is_proto_rational 12 5 = true**
 
@@ -316,7 +316,7 @@ Tau.BookII.Closure.proto_12 :is_proto_rational 12 5 = true**
 
 ### `Tau.BookII.Closure.not_proto_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L198-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L198-L199)
 **theorem
 Tau.BookII.Closure.not_proto_0 :is_proto_rational 0 5 = false**
 
@@ -325,7 +325,7 @@ Tau.BookII.Closure.not_proto_0 :is_proto_rational 0 5 = false**
 
 ### `Tau.BookII.Closure.not_proto_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L201-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L201-L202)
 **theorem
 Tau.BookII.Closure.not_proto_1 :is_proto_rational 1 5 = false**
 
@@ -334,7 +334,7 @@ Tau.BookII.Closure.not_proto_1 :is_proto_rational 1 5 = false**
 
 ### `Tau.BookII.Closure.stage_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L205-L206)
 **theorem
 Tau.BookII.Closure.stage_2 :proto_rational_stage 2 5 = 2**
 
@@ -343,7 +343,7 @@ Tau.BookII.Closure.stage_2 :proto_rational_stage 2 5 = 2**
 
 ### `Tau.BookII.Closure.stage_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L208-L209)
 **theorem
 Tau.BookII.Closure.stage_5 :proto_rational_stage 5 5 = 2**
 
@@ -352,7 +352,7 @@ Tau.BookII.Closure.stage_5 :proto_rational_stage 5 5 = 2**
 
 ### `Tau.BookII.Closure.stage_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L211-L212)
 **theorem
 Tau.BookII.Closure.stage_7 :proto_rational_stage 7 5 = 3**
 
@@ -361,7 +361,7 @@ Tau.BookII.Closure.stage_7 :proto_rational_stage 7 5 = 3**
 
 ### `Tau.BookII.Closure.proto_examples`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L215-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L215-L216)
 **theorem
 Tau.BookII.Closure.proto_examples :proto_rational_examples_check = true**
 
@@ -370,7 +370,7 @@ Tau.BookII.Closure.proto_examples :proto_rational_examples_check = true**
 
 ### `Tau.BookII.Closure.proto_range_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L219-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L219-L220)
 **theorem
 Tau.BookII.Closure.proto_range_30 :proto_rational_check 30 5 = true**
 
@@ -379,7 +379,7 @@ Tau.BookII.Closure.proto_range_30 :proto_rational_check 30 5 = true**
 
 ### `Tau.BookII.Closure.proto_count_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L223-L224)
 **theorem
 Tau.BookII.Closure.proto_count_check :proto_rational_count_check = true**
 
@@ -388,7 +388,7 @@ Tau.BookII.Closure.proto_count_check :proto_rational_count_check = true**
 
 ### `Tau.BookII.Closure.finite_is_proto_rational_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L230-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L230-L233)
 **theorem
 Tau.BookII.Closure.finite_is_proto_rational_2 :is_proto_rational 2 5 = true**
 
@@ -400,7 +400,7 @@ If P_k > x, then reduce(x, k) = x % P_k = x. Verified for x = 2.
 
 ### `Tau.BookII.Closure.proto_at_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L235-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L235-L240)
 **theorem
 Tau.BookII.Closure.proto_at_stage
 (x k : Denotation.TauIdx)
@@ -416,7 +416,7 @@ This follows from x % P_k = x when x < P_k.
 
 ### `Tau.BookII.Closure.proto_abcd_roundtrip_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L242-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L242-L245)
 **theorem
 Tau.BookII.Closure.proto_abcd_roundtrip_2 :Interior.to_tau_idx (proto_rational_abcd 2) = 2**
 
@@ -428,6 +428,6 @@ to_tau_idx(proto_rational_abcd(x)) = x.
 
 ### `Tau.BookII.Closure.proto_abcd_roundtrip_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/BSDbridge.lean#L247-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/BSDbridge.lean#L247-L248)
 **theorem
 Tau.BookII.Closure.proto_abcd_roundtrip_12 :Interior.to_tau_idx (proto_rational_abcd 12) = 12**

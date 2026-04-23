@@ -131,7 +131,7 @@ The (1−ι)² factors cancel, leaving E₆·ι⁶ ≈ −1.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.bridge_algebraic_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L97-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L97-L117)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.bridge_algebraic_identity :BookIV.Sectors.kappa_CC.numer * BookIV.Sectors.kappa_CC.numer * (BookIV.Sectors.iotaD - BookIV.Sectors.iota) * (BookIV.Sectors.iotaD - BookIV.Sectors.iota) * ModularForms.iota_sixth_denom = ModularForms.iota_sixth_numer * BookIV.Sectors.kappa_CC.denom * BookIV.Sectors.kappa_CC.denom * BookIV.Sectors.iotaD * BookIV.Sectors.iotaD**
 
@@ -149,7 +149,7 @@ kappa_CC.numer² · (D−ι)² · D⁶ = ι⁶ · kappa_CC.denom² · D²
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.bridge_reduces_to_E6_near_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L119-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L119-L129)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.bridge_reduces_to_E6_near_identity :ModularForms.E6_abs_numer * ModularForms.i6N * 1000000 > 999990 * ModularForms.E6_abs_denom * ModularForms.i6D ∧ ModularForms.E6_abs_numer * ModularForms.i6N * 1000000 < 1000010 * ModularForms.E6_abs_denom * ModularForms.i6D**
 
@@ -181,7 +181,7 @@ within ±10 ppm.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L157-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L157-L163)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_lower :Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_N✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_D✝ * 1000000 > 999990 * Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_D✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_N✝**
 
@@ -195,7 +195,7 @@ By bridge_algebraic_identity, this is equivalent to E6_iota6_near_one.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_upper`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L165-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L165-L167)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_upper :Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_N✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_D✝ * 1000000 < 1000010 * Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_D✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_N✝**
 
@@ -204,7 +204,7 @@ Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_upper :Tau.BookIII.Spe
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L169-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L169-L172)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge :Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_N✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_D✝ * 1000000 > 999990 * Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_D✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_N✝ ∧ Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_N✝¹ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_D✝¹ * 1000000 < 1000010 * Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_D✝¹ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_N✝¹**
 
@@ -225,7 +225,7 @@ We verify: 2π/ι<sub>τ</sub> > 18 (so q' < e^{−18} < 1.6×10⁻⁸).
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.sdual_exponent_large`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L187-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L187-L196)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.sdual_exponent_large :18 * BookIV.Sectors.iota < 6283185**
 
@@ -242,7 +242,7 @@ So 6283185 > 6143472 ✓
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.sduality_E4_sign_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L198-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L198-L201)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.sduality_E4_sign_positive :4 % 4 = 0**
 
@@ -255,7 +255,7 @@ Since q' < 10⁻⁸, the residual 240q' < 2.4 × 10⁻⁶ = 2.4 ppm.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.sduality_E6_sign_negative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L203-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L203-L206)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.sduality_E6_sign_negative :6 % 4 = 2**
 
@@ -268,7 +268,7 @@ The negative sign comes from i⁶ = (i⁴)(i²) = 1·(−1) = −1.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.sign_rule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L208-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L208-L212)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.sign_rule
 (k : ℕ)
@@ -283,7 +283,7 @@ k=3 (weight 6): (−1)³ = −1, so E₆·ι⁶ ≈ −1
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.E4_qcoeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L218-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L218-L226)
 **def
 Tau.BookIII.Spectral.ConfinementBridge.E4_qcoeff :ℤ**
 
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.E6_qcoeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L227-L227)
 **def
 Tau.BookIII.Spectral.ConfinementBridge.E6_qcoeff :ℤ**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.ratio_coeff_is_744`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L229-L230)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.ratio_coeff_is_744 :240 + 504 = 744**
 
@@ -332,7 +332,7 @@ The ratio coefficient 744 = 240 + 504 = constant term of j-invariant.
 
 ### `Tau.BookIII.Spectral.ConfinementBridge.e8_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ConfinementBridge.lean#L232-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ConfinementBridge.lean#L232-L233)
 **theorem
 Tau.BookIII.Spectral.ConfinementBridge.e8_connection :240 + 504 = 744**
 

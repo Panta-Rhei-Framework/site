@@ -77,7 +77,7 @@ symmetry, no axion required.
 
 ### `Tau.BookIV.Particles.sa_i_strong_cp_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L42-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L42-L51)
 **def
 Tau.BookIV.Particles.sa_i_strong_cp_theorem :String**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sa_i_forbids_instantons`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L54-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L54-L58)
 **theorem
 Tau.BookIV.Particles.sa_i_forbids_instantons :1 % 3 ≠ 0 ∧ -1 % 3 ≠ 0**
 
@@ -110,7 +110,7 @@ SA-i allows only Δ ≡ 0 mod 3, so both are forbidden.
 
 ### `Tau.BookIV.Particles.theta_qcd_zero_from_sa_i`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L61-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L61-L73)
 **theorem
 Tau.BookIV.Particles.theta_qcd_zero_from_sa_i :True**
 
@@ -132,7 +132,7 @@ conjectural part handled separately in ch31 Yang-Mills gap discussion).
 
 ### `Tau.BookIV.Particles.neutron_edm_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L81-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L81-L87)
 **theorem
 Tau.BookIV.Particles.neutron_edm_zero :True**
 
@@ -148,7 +148,7 @@ Scope: tau-effective (follows from IV.T160 which is tau-effective).
 
 ### `Tau.BookIV.Particles.no_axion_required`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L91-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L91-L105)
 **def
 Tau.BookIV.Particles.no_axion_required :String**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.pq_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/StrongCP.lean#L108-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/StrongCP.lean#L108-L119)
 **def
 Tau.BookIV.Particles.pq_comparison :String**
 

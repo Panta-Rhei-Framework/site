@@ -66,7 +66,7 @@ is equivalent to stabilization of each channel separately.
 
 ### `Tau.BookII.Regularity.b_stabilization_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L48-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L48-L72)
 **def
 Tau.BookII.Regularity.b_stabilization_depth
 (x db : Denotation.TauIdx)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.b_stabilization_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L56-L64)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L56-L64)@[irreducible]
 
 **def
 Tau.BookII.Regularity.b_stabilization_depth.go
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.b_stabilization_depth.check_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L66-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L66-L71)@[irreducible]
 
 **def
 Tau.BookII.Regularity.b_stabilization_depth.check_stable
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.c_stabilization_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L74-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L74-L94)
 **def
 Tau.BookII.Regularity.c_stabilization_depth
 (x db : Denotation.TauIdx)
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.c_stabilization_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L79-L86)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L79-L86)@[irreducible]
 
 **def
 Tau.BookII.Regularity.c_stabilization_depth.go
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.c_stabilization_depth.check_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L88-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L88-L93)@[irreducible]
 
 **def
 Tau.BookII.Regularity.c_stabilization_depth.check_stable
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L96-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L96-L123)
 **def
 Tau.BookII.Regularity.regularity_depth
 (x db : Denotation.TauIdx)
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L104-L114)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L104-L114)@[irreducible]
 
 **def
 Tau.BookII.Regularity.regularity_depth.go
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_depth.check_both_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L116-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L116-L122)@[irreducible]
 
 **def
 Tau.BookII.Regularity.regularity_depth.check_both_stable
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is_regular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L129-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L129-L133)
 **def
 Tau.BookII.Regularity.is_regular
 (x db : Denotation.TauIdx)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is_b_regular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L135-L137)
 **def
 Tau.BookII.Regularity.is_b_regular
 (x db : Denotation.TauIdx)
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is_c_regular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L139-L141)
 **def
 Tau.BookII.Regularity.is_c_regular
 (x db : Denotation.TauIdx)
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_depth_max_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L147-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L147-L165)
 **def
 Tau.BookII.Regularity.regularity_depth_max_check
 (bound db : Denotation.TauIdx)
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_depth_max_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L156-L164)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L156-L164)@[irreducible]
 
 **def
 Tau.BookII.Regularity.regularity_depth_max_check.go
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_criterion_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L171-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L171-L192)
 **def
 Tau.BookII.Regularity.regularity_criterion_check
 (bound db : Denotation.TauIdx)
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.regularity_criterion_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L182-L191)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L182-L191)@[irreducible]
 
 **def
 Tau.BookII.Regularity.regularity_criterion_check.go
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.small_point_regularity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L198-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L198-L211)
 **def
 Tau.BookII.Regularity.small_point_regularity_check
 (db : Denotation.TauIdx)
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.small_point_regularity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L204-L210)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L204-L210)@[irreducible]
 
 **def
 Tau.BookII.Regularity.small_point_regularity_check.go
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.evolution_stabilization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L213-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L213-L239)
 **def
 Tau.BookII.Regularity.evolution_stabilization_check
 (bound db : Denotation.TauIdx)
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.evolution_stabilization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L218-L229)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L218-L229)@[irreducible]
 
 **def
 Tau.BookII.Regularity.evolution_stabilization_check.go
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.evolution_stabilization_check.check_deep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L231-L238)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L231-L238)@[irreducible]
 
 **def
 Tau.BookII.Regularity.evolution_stabilization_check.check_deep
@@ -443,7 +443,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.channel_stabilization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L245-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L245-L282)
 **def
 Tau.BookII.Regularity.channel_stabilization_check
 (bound db : Denotation.TauIdx)
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.channel_stabilization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L251-L267)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L251-L267)@[irreducible]
 
 **def
 Tau.BookII.Regularity.channel_stabilization_check.go
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.channel_stabilization_check.check_b_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L269-L274)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L269-L274)@[irreducible]
 
 **def
 Tau.BookII.Regularity.channel_stabilization_check.check_b_stable
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.channel_stabilization_check.check_c_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L276-L281)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L276-L281)@[irreducible]
 
 **def
 Tau.BookII.Regularity.channel_stabilization_check.check_c_stable
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.full_regularity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L288-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L288-L299)
 **def
 Tau.BookII.Regularity.full_regularity_check
 (bound db : Denotation.TauIdx)
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.depth_max_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L340-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L340-L341)
 **theorem
 Tau.BookII.Regularity.depth_max_20_4 :regularity_depth_max_check 20 4 = true**
 
@@ -545,7 +545,7 @@ Tau.BookII.Regularity.depth_max_20_4 :regularity_depth_max_check 20 4 = true**
 
 ### `Tau.BookII.Regularity.criterion_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L344-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L344-L345)
 **theorem
 Tau.BookII.Regularity.criterion_20_4 :regularity_criterion_check 20 4 = true**
 
@@ -554,7 +554,7 @@ Tau.BookII.Regularity.criterion_20_4 :regularity_criterion_check 20 4 = true**
 
 ### `Tau.BookII.Regularity.small_point_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L348-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L348-L349)
 **theorem
 Tau.BookII.Regularity.small_point_3 :small_point_regularity_check 3 = true**
 
@@ -563,7 +563,7 @@ Tau.BookII.Regularity.small_point_3 :small_point_regularity_check 3 = true**
 
 ### `Tau.BookII.Regularity.evolution_stab_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L352-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L352-L353)
 **theorem
 Tau.BookII.Regularity.evolution_stab_20_4 :evolution_stabilization_check 20 4 = true**
 
@@ -572,7 +572,7 @@ Tau.BookII.Regularity.evolution_stab_20_4 :evolution_stabilization_check 20 4 = 
 
 ### `Tau.BookII.Regularity.channel_stab_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L356-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L356-L357)
 **theorem
 Tau.BookII.Regularity.channel_stab_20_4 :channel_stabilization_check 20 4 = true**
 
@@ -581,6 +581,6 @@ Tau.BookII.Regularity.channel_stab_20_4 :channel_stabilization_check 20 4 = true
 
 ### `Tau.BookII.Regularity.full_regularity_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PositiveRegularity.lean#L360-L361)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PositiveRegularity.lean#L360-L361)
 **theorem
 Tau.BookII.Regularity.full_regularity_15_4 :full_regularity_check 15 4 = true**

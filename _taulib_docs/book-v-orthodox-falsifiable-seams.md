@@ -112,7 +112,7 @@ quantum phenomenon has a boundary-character description.
 
 ### `Tau.BookV.Orthodox.PredictionStrength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L78-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L78-L86)
 **inductive
 Tau.BookV.Orthodox.PredictionStrength :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprPredictionStrength.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
 **def
 Tau.BookV.Orthodox.instReprPredictionStrength.repr :PredictionStrength → ℕ → Std.Format**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprPredictionStrength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instReprPredictionStrength :Repr PredictionStrength**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instDecidableEqPredictionStrength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instDecidableEqPredictionStrength :DecidableEq PredictionStrength**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqPredictionStrength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instBEqPredictionStrength :BEq PredictionStrength**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqPredictionStrength.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L86-L86)
 **def
 Tau.BookV.Orthodox.instBEqPredictionStrength.beq :PredictionStrength → PredictionStrength → Bool**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.FalsifiablePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L88-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L88-L100)
 **structure
 Tau.BookV.Orthodox.FalsifiablePrediction :Type**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprFalsifiablePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L100-L100)
 **instance
 Tau.BookV.Orthodox.instReprFalsifiablePrediction :Repr FalsifiablePrediction**
 
@@ -230,7 +230,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprFalsifiablePrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L100-L100)
 **def
 Tau.BookV.Orthodox.instReprFalsifiablePrediction.repr :FalsifiablePrediction → ℕ → Std.Format**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_singularity_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L106-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L106-L120)
 **def
 Tau.BookV.Orthodox.no_singularity_prediction :FalsifiablePrediction**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_singularities_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L122-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L122-L125)
 **theorem
 Tau.BookV.Orthodox.no_singularities_tau :"kappa_tau = 1 - iota_tau: finite, nonzero, no singular solutions" = "kappa_tau = 1 - iota_tau: finite, nonzero, no singular solutions"**
 
@@ -275,7 +275,7 @@ No singularities: kappa_tau is finite.
 
 ### `Tau.BookV.Orthodox.no_uv_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L131-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L131-L143)
 **def
 Tau.BookV.Orthodox.no_uv_prediction :FalsifiablePrediction**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_uv_divergences_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L145-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L145-L148)
 **theorem
 Tau.BookV.Orthodox.no_uv_divergences_tau :"sum ||chi_X(alpha_n)||^2 <= kappa(X)^2 * N: finite at every depth" = "sum ||chi_X(alpha_n)||^2 <= kappa(X)^2 * N: finite at every depth"**
 
@@ -306,7 +306,7 @@ UV convergence: spectral sums bounded by kappa^2 * N.
 
 ### `Tau.BookV.Orthodox.no_dark_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L154-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L154-L166)
 **def
 Tau.BookV.Orthodox.no_dark_prediction :FalsifiablePrediction**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_dark_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L168-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L168-L171)
 **theorem
 Tau.BookV.Orthodox.no_dark_sectors :"5 generators -> 5 sectors -> budget saturated -> no dark sector" = "5 generators -> 5 sectors -> budget saturated -> no dark sector"**
 
@@ -337,7 +337,7 @@ No dark sectors: 5 generators saturate the budget.
 
 ### `Tau.BookV.Orthodox.vacuum_zero_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L177-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L177-L191)
 **def
 Tau.BookV.Orthodox.vacuum_zero_prediction :FalsifiablePrediction**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.vacuum_energy_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L193-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L193-L196)
 **theorem
 Tau.BookV.Orthodox.vacuum_energy_zero :"rho_vac^tau = 0 (exact); Lambda = 0; w(z) varies" = "rho_vac^tau = 0 (exact); Lambda = 0; w(z) varies"**
 
@@ -370,7 +370,7 @@ Vacuum energy is exactly zero.
 
 ### `Tau.BookV.Orthodox.E1Fullness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L202-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L202-L225)
 **structure
 Tau.BookV.Orthodox.E1Fullness :Type**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprE1Fullness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L225-L225)
 **def
 Tau.BookV.Orthodox.instReprE1Fullness.repr :E1Fullness → ℕ → Std.Format**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprE1Fullness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L225-L225)
 **instance
 Tau.BookV.Orthodox.instReprE1Fullness :Repr E1Fullness**
 
@@ -438,7 +438,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.e1_fullness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L227-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L227-L230)
 **def
 Tau.BookV.Orthodox.e1_fullness :E1Fullness**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.elayer1_full`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L232-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L232-L237)
 **theorem
 Tau.BookV.Orthodox.elayer1_full :e1_fullness.force_count = 5 ∧ e1_fullness.constants_from_iota = true ∧ e1_fullness.quantum_from_characters = true**
 
@@ -463,7 +463,7 @@ E1 is structurally full.
 
 ### `Tau.BookV.Orthodox.prediction_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L243-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L243-L248)
 **def
 Tau.BookV.Orthodox.prediction_ledger :List FalsifiablePrediction**
 
@@ -477,7 +477,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.prediction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L250-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L250-L252)
 **theorem
 Tau.BookV.Orthodox.prediction_count :prediction_ledger.length = 4**
 
@@ -488,7 +488,7 @@ Tau.BookV.Orthodox.prediction_count :prediction_ledger.length = 4**
 
 ### `Tau.BookV.Orthodox.strong_prediction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L254-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L254-L257)
 **theorem
 Tau.BookV.Orthodox.strong_prediction_count :(List.filter (fun (p : FalsifiablePrediction) => p.strength == PredictionStrength.Strong) prediction_ledger).length = 3**
 
@@ -499,7 +499,7 @@ At least 2 predictions are strong.
 
 ### `Tau.BookV.Orthodox.renorm_correct_unnecessary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L263-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L263-L270)
 **theorem
 Tau.BookV.Orthodox.renorm_correct_unnecessary :"Renormalization: correct readout, unnecessary at ontic level" = "Renormalization: correct readout, unnecessary at ontic level"**
 
@@ -514,7 +514,7 @@ working directly with H_partial[omega].
 
 ### `Tau.BookV.Orthodox.the_10_120`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L272-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/FalsifiableSeams.lean#L272-L277)
 **theorem
 Tau.BookV.Orthodox.the_10_120 :"10^120 = artifact / 0: no physical meaning" = "10^120 = artifact / 0: no physical meaning"**
 

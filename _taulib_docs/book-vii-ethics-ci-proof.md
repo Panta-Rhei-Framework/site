@@ -114,7 +114,7 @@ tau-effective via lattice completeness + Knaster-Tarski (Sprint R8-B3)
 
 ### `Tau.BookVII.Ethics.CIProof.DignityStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L64-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L64-L85)
 **structure
 Tau.BookVII.Ethics.CIProof.DignityStructure :Type**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprDignityStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L85-L85)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprDignityStructure :Repr DignityStructure**
 
@@ -163,7 +163,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprDignityStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L85-L85)
 **def
 Tau.BookVII.Ethics.CIProof.instReprDignityStructure.repr :DignityStructure → ℕ → Std.Format**
 
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.dignity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L87-L87)
 **def
 Tau.BookVII.Ethics.CIProof.dignity :DignityStructure**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.dignity_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L89-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L89-L95)
 **theorem
 Tau.BookVII.Ethics.CIProof.dignity_witness :dignity.label_independent = true ∧ dignity.has_identity_invariants = true ∧ dignity.has_admissible_subworld = true**
 
@@ -199,7 +199,7 @@ admissible subworld A_dig is closed under limits and internal homs.
 
 ### `Tau.BookVII.Ethics.CIProof.dignity_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L101-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L101-L118)
 **theorem
 Tau.BookVII.Ethics.CIProof.dignity_universality :dignity.has_reflector = true ∧ dignity.reflector_idempotent = true ∧ dignity.lt_modality = true ∧ dignity.label_independent = true**
 
@@ -221,7 +221,7 @@ invariants means not factoring through A_dig.
 
 ### `Tau.BookVII.Ethics.CIProof.CINaturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L124-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L124-L141)
 **structure
 Tau.BookVII.Ethics.CIProof.CINaturality :Type**
 
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCINaturality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L141-L141)
 **def
 Tau.BookVII.Ethics.CIProof.instReprCINaturality.repr :CINaturality → ℕ → Std.Format**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCINaturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L141-L141)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprCINaturality :Repr CINaturality**
 
@@ -277,7 +277,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.ci_naturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L143-L143)
 **def
 Tau.BookVII.Ethics.CIProof.ci_naturality :CINaturality**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.ci_sheaf_equivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L149-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L149-L165)
 **theorem
 Tau.BookVII.Ethics.CIProof.ci_sheaf_equivalence :ci_naturality.has_site = true ∧ ci_naturality.has_maxim_presheaf = true ∧ ci_naturality.naturality = true ∧ ci_naturality.separated = true ∧ ci_naturality.dignity_filtered = true**
 
@@ -309,7 +309,7 @@ trivial cocycles = no Čech obstruction.
 
 ### `Tau.BookVII.Ethics.CIProof.sheaf_gluing_verification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L167-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L167-L172)
 **theorem
 Tau.BookVII.Ethics.CIProof.sheaf_gluing_verification :ci_naturality.separated = true ∧ ci_naturality.naturality = true**
 
@@ -321,7 +321,7 @@ can be verified on any single sufficiently fine τ-holomorphic cover.
 
 ### `Tau.BookVII.Ethics.CIProof.DutyTyping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L178-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L178-L196)
 **structure
 Tau.BookVII.Ethics.CIProof.DutyTyping :Type**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprDutyTyping.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L196-L196)
 **def
 Tau.BookVII.Ethics.CIProof.instReprDutyTyping.repr :DutyTyping → ℕ → Std.Format**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprDutyTyping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L196-L196)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprDutyTyping :Repr DutyTyping**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.canonical_duty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L198-L198)
 **def
 Tau.BookVII.Ethics.CIProof.canonical_duty :DutyTyping**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.duty_typing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L200-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L200-L206)
 **theorem
 Tau.BookVII.Ethics.CIProof.duty_typing :canonical_duty.local_realizable = true ∧ canonical_duty.dignity_preserving = true ∧ canonical_duty.overlap_compatible = true ∧ canonical_duty.bounded_tension = true ∧ canonical_duty.is_subsheaf = true**
 
@@ -399,7 +399,7 @@ Tau.BookVII.Ethics.CIProof.duty_typing :canonical_duty.local_realizable = true �
 
 ### `Tau.BookVII.Ethics.CIProof.no_conflict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L212-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L212-L224)
 **theorem
 Tau.BookVII.Ethics.CIProof.no_conflict :canonical_duty.is_subsheaf = true ∧ canonical_duty.dignity_preserving = true ∧ ci_naturality.separated = true**
 
@@ -417,7 +417,7 @@ gives nonempty fibers + dignity preservation. Sheaf axiom gives gluing.
 
 ### `Tau.BookVII.Ethics.CIProof.MoralMonodromy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L230-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L230-L240)
 **structure
 Tau.BookVII.Ethics.CIProof.MoralMonodromy :Type**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprMoralMonodromy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L240-L240)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprMoralMonodromy :Repr MoralMonodromy**
 
@@ -452,7 +452,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprMoralMonodromy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L240-L240)
 **def
 Tau.BookVII.Ethics.CIProof.instReprMoralMonodromy.repr :MoralMonodromy → ℕ → Std.Format**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.moral_monodromy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L242-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L242-L242)
 **def
 Tau.BookVII.Ethics.CIProof.moral_monodromy :MoralMonodromy**
 
@@ -476,7 +476,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.monodromy_tragedy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L244-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L244-L253)
 **theorem
 Tau.BookVII.Ethics.CIProof.monodromy_tragedy :moral_monodromy.holonomy_defined = true ∧ moral_monodromy.detects_monodromy = true ∧ moral_monodromy.flat_iff_trivial = true**
 
@@ -491,7 +491,7 @@ Tau.BookVII.Ethics.CIProof.monodromy_tragedy :moral_monodromy.holonomy_defined =
 
 ### `Tau.BookVII.Ethics.CIProof.FourEthicalTests`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L259-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L259-L274)
 **structure
 Tau.BookVII.Ethics.CIProof.FourEthicalTests :Type**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprFourEthicalTests`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L274-L274)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprFourEthicalTests :Repr FourEthicalTests**
 
@@ -532,7 +532,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprFourEthicalTests.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L274-L274)
 **def
 Tau.BookVII.Ethics.CIProof.instReprFourEthicalTests.repr :FourEthicalTests → ℕ → Std.Format**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.ethical_tests`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L276-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L276-L276)
 **def
 Tau.BookVII.Ethics.CIProof.ethical_tests :FourEthicalTests**
 
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.CharacterFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L282-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L282-L293)
 **structure
 Tau.BookVII.Ethics.CIProof.CharacterFixedPoint :Type**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCharacterFixedPoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L293-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L293-L293)
 **def
 Tau.BookVII.Ethics.CIProof.instReprCharacterFixedPoint.repr :CharacterFixedPoint → ℕ → Std.Format**
 
@@ -593,7 +593,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCharacterFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L293-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L293-L293)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprCharacterFixedPoint :Repr CharacterFixedPoint**
 
@@ -604,7 +604,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L295-L295)
 **def
 Tau.BookVII.Ethics.CIProof.character :CharacterFixedPoint**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.flourishing_global_section`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L301-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L301-L310)
 **theorem
 Tau.BookVII.Ethics.CIProof.flourishing_global_section :character.has_habituation = true ∧ character.virtue_is_fixed = true**
 
@@ -632,7 +632,7 @@ Flourishing = Γ(L, V). Exists iff:
 
 ### `Tau.BookVII.Ethics.CIProof.CIOperatorGraph`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L316-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L316-L341)
 **structure
 Tau.BookVII.Ethics.CIProof.CIOperatorGraph :Type**
 
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCIOperatorGraph`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L341-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L341-L341)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprCIOperatorGraph :Repr CIOperatorGraph**
 
@@ -687,7 +687,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprCIOperatorGraph.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L341-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L341-L341)
 **def
 Tau.BookVII.Ethics.CIProof.instReprCIOperatorGraph.repr :CIOperatorGraph → ℕ → Std.Format**
 
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.ci_graph`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L343-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L343-L343)
 **def
 Tau.BookVII.Ethics.CIProof.ci_graph :CIOperatorGraph**
 
@@ -711,7 +711,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.operator_graph_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L345-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L345-L354)
 **theorem
 Tau.BookVII.Ethics.CIProof.operator_graph_completeness :ci_graph.has_maxim_space = true ∧ ci_graph.has_universalization = true ∧ ci_graph.has_coherence_test = true ∧ ci_graph.has_respect_operator = true ∧ ci_graph.component_count = 4**
 
@@ -724,7 +724,7 @@ operator graph are determined by the structural data of τ at E₃
 
 ### `Tau.BookVII.Ethics.CIProof.ci_j_closed_fixed_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L360-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L360-L375)
 **theorem
 Tau.BookVII.Ethics.CIProof.ci_j_closed_fixed_point :ci_graph.j_closed = true ∧ ci_graph.fixed_point = true ∧ ci_graph.minimal = true ∧ dignity.lt_modality = true**
 
@@ -744,7 +744,7 @@ exactly the group defining L_dig.
 
 ### `Tau.BookVII.Ethics.CIProof.ci_minimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L381-L394)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L381-L394)
 **theorem
 Tau.BookVII.Ethics.CIProof.ci_minimality :ci_graph.j_closed = true ∧ ci_graph.minimal = true ∧ ci_graph.fixed_point = true**
 
@@ -763,7 +763,7 @@ Knaster-Tarski on complete lattice F.
 
 ### `Tau.BookVII.Ethics.CIProof.KernelTheoremResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L400-L422)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L400-L422)
 **structure
 Tau.BookVII.Ethics.CIProof.KernelTheoremResult :Type**
 
@@ -801,7 +801,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprKernelTheoremResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L422-L422)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L422-L422)
 **def
 Tau.BookVII.Ethics.CIProof.instReprKernelTheoremResult.repr :KernelTheoremResult → ℕ → Std.Format**
 
@@ -813,7 +813,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprKernelTheoremResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L422-L422)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L422-L422)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprKernelTheoremResult :Repr KernelTheoremResult**
 
@@ -824,7 +824,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.kernel_result`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L424-L424)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L424-L424)
 **def
 Tau.BookVII.Ethics.CIProof.kernel_result :KernelTheoremResult**
 
@@ -836,7 +836,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.kernel_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L426-L432)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L426-L432)
 **theorem
 Tau.BookVII.Ethics.CIProof.kernel_theorem :kernel_result.existence = true ∧ kernel_result.from_saturation = true ∧ kernel_result.from_bipolarity = true ∧ kernel_result.from_yoneda = true ∧ kernel_result.canonical = true**
 
@@ -845,7 +845,7 @@ Tau.BookVII.Ethics.CIProof.kernel_theorem :kernel_result.existence = true ∧ ke
 
 ### `Tau.BookVII.Ethics.CIProof.SemanticObjectResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L438-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L438-L454)
 **structure
 Tau.BookVII.Ethics.CIProof.SemanticObjectResult :Type**
 
@@ -876,7 +876,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprSemanticObjectResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L454-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L454-L454)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprSemanticObjectResult :Repr SemanticObjectResult**
 
@@ -887,7 +887,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprSemanticObjectResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L454-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L454-L454)
 **def
 Tau.BookVII.Ethics.CIProof.instReprSemanticObjectResult.repr :SemanticObjectResult → ℕ → Std.Format**
 
@@ -899,7 +899,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.semantic_result`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L456-L456)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L456-L456)
 **def
 Tau.BookVII.Ethics.CIProof.semantic_result :SemanticObjectResult**
 
@@ -911,7 +911,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.semantic_object`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L458-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L458-L464)
 **theorem
 Tau.BookVII.Ethics.CIProof.semantic_object :semantic_result.typed_maxims = true ∧ semantic_result.universalization_domains = true ∧ semantic_result.personhood_predicates = true ∧ semantic_result.obligation_morphisms = true ∧ semantic_result.semantic_component_count = 4**
 
@@ -920,7 +920,7 @@ Tau.BookVII.Ethics.CIProof.semantic_object :semantic_result.typed_maxims = true 
 
 ### `Tau.BookVII.Ethics.CIProof.JClosedOperatorGraphLattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L470-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L470-L482)
 **structure
 Tau.BookVII.Ethics.CIProof.JClosedOperatorGraphLattice :Type**
 
@@ -947,7 +947,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprJClosedOperatorGraphLattice.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L482-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L482-L482)
 **def
 Tau.BookVII.Ethics.CIProof.instReprJClosedOperatorGraphLattice.repr :JClosedOperatorGraphLattice → ℕ → Std.Format**
 
@@ -959,7 +959,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprJClosedOperatorGraphLattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L482-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L482-L482)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprJClosedOperatorGraphLattice :Repr JClosedOperatorGraphLattice**
 
@@ -970,7 +970,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.f_lattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L484-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L484-L484)
 **def
 Tau.BookVII.Ethics.CIProof.f_lattice :JClosedOperatorGraphLattice**
 
@@ -982,7 +982,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.f_lattice_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L486-L497)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L486-L497)
 **theorem
 Tau.BookVII.Ethics.CIProof.f_lattice_completeness :f_lattice.non_empty = true ∧ f_lattice.intersection_closed = true ∧ f_lattice.complete_lattice = true**
 
@@ -1005,7 +1005,7 @@ operator graphs preserve j-closure because:
 
 ### `Tau.BookVII.Ethics.CIProof.ci_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L499-L516)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L499-L516)
 **theorem
 Tau.BookVII.Ethics.CIProof.ci_uniqueness :f_lattice.complete_lattice = true ∧ f_lattice.non_empty = true ∧ f_lattice.has_unique_minimum = true ∧ ci_graph.minimal = true**
 
@@ -1032,7 +1032,7 @@ Therefore: the minimal j-closed operator graph is unique up to iso.
 
 ### `Tau.BookVII.Ethics.CIProof.ci_uniqueness_derivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L518-L532)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L518-L532)
 **theorem
 Tau.BookVII.Ethics.CIProof.ci_uniqueness_derivation :f_lattice.complete_lattice = true ∧ f_lattice.intersection_closed = true ∧ kernel_result.existence = true ∧ f_lattice.non_empty = true ∧ f_lattice.has_unique_minimum = true ∧ ci_graph.minimal = true ∧ ci_graph.j_closed = true**
 
@@ -1044,7 +1044,7 @@ completeness through Knaster-Tarski to uniqueness.
 
 ### `Tau.BookVII.Ethics.CIProof.first_bombshell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L538-L555)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L538-L555)
 **theorem
 Tau.BookVII.Ethics.CIProof.first_bombshell :Meta.Registers.reg_P.register_type = Meta.Registers.RegisterType.practical ∧ Meta.Registers.reg_P.action_guiding = true ∧ Meta.Registers.reg_E.register_type ≠ Meta.Registers.reg_P.register_type ∧ kernel_result.from_saturation = true**
 
@@ -1063,7 +1063,7 @@ both are readout functors on the same kernel.
 
 ### `Tau.BookVII.Ethics.CIProof.FairnessProtocol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L561-L573)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L561-L573)
 **structure
 Tau.BookVII.Ethics.CIProof.FairnessProtocol :Type**
 
@@ -1088,7 +1088,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprFairnessProtocol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L573-L573)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L573-L573)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprFairnessProtocol :Repr FairnessProtocol**
 
@@ -1099,7 +1099,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprFairnessProtocol.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L573-L573)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L573-L573)
 **def
 Tau.BookVII.Ethics.CIProof.instReprFairnessProtocol.repr :FairnessProtocol → ℕ → Std.Format**
 
@@ -1111,7 +1111,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.fairness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L575-L575)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L575-L575)
 **def
 Tau.BookVII.Ethics.CIProof.fairness :FairnessProtocol**
 
@@ -1123,7 +1123,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.BooleanMicroLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L585-L595)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L585-L595)
 **structure
 Tau.BookVII.Ethics.CIProof.BooleanMicroLogic :Type**
 
@@ -1147,7 +1147,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprBooleanMicroLogic.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L595-L595)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L595-L595)
 **def
 Tau.BookVII.Ethics.CIProof.instReprBooleanMicroLogic.repr :BooleanMicroLogic → ℕ → Std.Format**
 
@@ -1159,7 +1159,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprBooleanMicroLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L595-L595)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L595-L595)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprBooleanMicroLogic :Repr BooleanMicroLogic**
 
@@ -1170,7 +1170,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.boolean_micro`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L597-L597)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L597-L597)
 **def
 Tau.BookVII.Ethics.CIProof.boolean_micro :BooleanMicroLogic**
 
@@ -1182,7 +1182,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.single_address_classical_logic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L603-L611)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L603-L611)
 **theorem
 Tau.BookVII.Ethics.CIProof.single_address_classical_logic :boolean_micro.single_address = true ∧ boolean_micro.two_valued = true ∧ boolean_micro.decidable = true**
 
@@ -1196,7 +1196,7 @@ This is the ground level of the scale-dependent logic stack.
 
 ### `Tau.BookVII.Ethics.CIProof.BayesianMesoLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L617-L627)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L617-L627)
 **structure
 Tau.BookVII.Ethics.CIProof.BayesianMesoLogic :Type**
 
@@ -1220,7 +1220,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprBayesianMesoLogic.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L627-L627)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L627-L627)
 **def
 Tau.BookVII.Ethics.CIProof.instReprBayesianMesoLogic.repr :BayesianMesoLogic → ℕ → Std.Format**
 
@@ -1232,7 +1232,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprBayesianMesoLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L627-L627)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L627-L627)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprBayesianMesoLogic :Repr BayesianMesoLogic**
 
@@ -1243,7 +1243,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.bayesian_meso`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L629-L629)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L629-L629)
 **def
 Tau.BookVII.Ethics.CIProof.bayesian_meso :BayesianMesoLogic**
 
@@ -1255,7 +1255,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.scale_dependent_logic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L635-L644)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L635-L644)
 **theorem
 Tau.BookVII.Ethics.CIProof.scale_dependent_logic :boolean_micro.single_address = true ∧ bayesian_meso.multi_address = true**
 
@@ -1276,7 +1276,7 @@ No single logic is "the" logic; scale determines type.
 
 ### `Tau.BookVII.Ethics.CIProof.InternalRandomness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L650-L661)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L650-L661)
 **structure
 Tau.BookVII.Ethics.CIProof.InternalRandomness :Type**
 
@@ -1301,7 +1301,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprInternalRandomness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L661-L661)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L661-L661)
 **def
 Tau.BookVII.Ethics.CIProof.instReprInternalRandomness.repr :InternalRandomness → ℕ → Std.Format**
 
@@ -1313,7 +1313,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprInternalRandomness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L661-L661)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L661-L661)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprInternalRandomness :Repr InternalRandomness**
 
@@ -1324,7 +1324,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.internal_randomness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L663-L663)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L663-L663)
 **def
 Tau.BookVII.Ethics.CIProof.internal_randomness :InternalRandomness**
 
@@ -1336,7 +1336,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.randomness_as_internal_complexity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L669-L675)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L669-L675)
 **theorem
 Tau.BookVII.Ethics.CIProof.randomness_as_internal_complexity :internal_randomness.no_external_source = true ∧ internal_randomness.complexity_as_randomness = true**
 
@@ -1349,7 +1349,7 @@ the criterion. No dice-rolling deity needed.
 
 ### `Tau.BookVII.Ethics.CIProof.no_external_randomness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L681-L688)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L681-L688)
 **theorem
 Tau.BookVII.Ethics.CIProof.no_external_randomness :internal_randomness.no_external_source = true ∧ internal_randomness.deterministic_kernel = true**
 
@@ -1363,7 +1363,7 @@ outside the kernel. All stochastic behaviour is projective
 
 ### `Tau.BookVII.Ethics.CIProof.kolmogorov_representation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L694-L701)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L694-L701)
 **theorem
 Tau.BookVII.Ethics.CIProof.kolmogorov_representation :internal_randomness.complexity_as_randomness = true ∧ internal_randomness.deterministic_kernel = true**
 
@@ -1377,7 +1377,7 @@ needed beyond NF-addresses + morphism counts.
 
 ### `Tau.BookVII.Ethics.CIProof.inference_from_kernel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L707-L715)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L707-L715)
 **theorem
 Tau.BookVII.Ethics.CIProof.inference_from_kernel :internal_randomness.deterministic_kernel = true ∧ boolean_micro.decidable = true**
 
@@ -1392,7 +1392,7 @@ structural necessity.
 
 ### `Tau.BookVII.Ethics.CIProof.TruthMakerLogical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L721-L738)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L721-L738)
 **structure
 Tau.BookVII.Ethics.CIProof.TruthMakerLogical :Type**
 
@@ -1425,7 +1425,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprTruthMakerLogical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L738-L738)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L738-L738)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprTruthMakerLogical :Repr TruthMakerLogical**
 
@@ -1436,7 +1436,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprTruthMakerLogical.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L738-L738)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L738-L738)
 **def
 Tau.BookVII.Ethics.CIProof.instReprTruthMakerLogical.repr :TruthMakerLogical → ℕ → Std.Format**
 
@@ -1448,7 +1448,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.truth_maker_logical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L740-L740)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L740-L740)
 **def
 Tau.BookVII.Ethics.CIProof.truth_maker_logical :TruthMakerLogical**
 
@@ -1460,7 +1460,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.TruthBearerAsSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L746-L755)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L746-L755)
 **structure
 Tau.BookVII.Ethics.CIProof.TruthBearerAsSection :Type**
 
@@ -1482,7 +1482,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprTruthBearerAsSection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L755-L755)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L755-L755)
 **def
 Tau.BookVII.Ethics.CIProof.instReprTruthBearerAsSection.repr :TruthBearerAsSection → ℕ → Std.Format**
 
@@ -1494,7 +1494,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprTruthBearerAsSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L755-L755)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L755-L755)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprTruthBearerAsSection :Repr TruthBearerAsSection**
 
@@ -1505,7 +1505,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.truth_bearer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L757-L757)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L757-L757)
 **def
 Tau.BookVII.Ethics.CIProof.truth_bearer :TruthBearerAsSection**
 
@@ -1517,7 +1517,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.alethic_unification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L763-L773)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L763-L773)
 **theorem
 Tau.BookVII.Ethics.CIProof.alethic_unification :truth_maker_logical.level_inclusion = true ∧ truth_maker_logical.level_section = true ∧ truth_maker_logical.level_diagram = true ∧ truth_maker_logical.level_invariant = true ∧ truth_maker_logical.level_count = 4**
 
@@ -1531,7 +1531,7 @@ All four are unified by sheaf-theoretic structure.
 
 ### `Tau.BookVII.Ethics.CIProof.alethic_pluralism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L779-L787)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L779-L787)
 **theorem
 Tau.BookVII.Ethics.CIProof.alethic_pluralism :truth_maker_logical.level_count = 4 ∧ truth_bearer.bearer_as_section = true**
 
@@ -1546,7 +1546,7 @@ not relativism.
 
 ### `Tau.BookVII.Ethics.CIProof.ModalFrameTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L793-L803)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L793-L803)
 **structure
 Tau.BookVII.Ethics.CIProof.ModalFrameTau :Type**
 
@@ -1570,7 +1570,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprModalFrameTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L803-L803)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L803-L803)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprModalFrameTau :Repr ModalFrameTau**
 
@@ -1581,7 +1581,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprModalFrameTau.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L803-L803)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L803-L803)
 **def
 Tau.BookVII.Ethics.CIProof.instReprModalFrameTau.repr :ModalFrameTau → ℕ → Std.Format**
 
@@ -1593,7 +1593,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.modal_frame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L805-L805)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L805-L805)
 **def
 Tau.BookVII.Ethics.CIProof.modal_frame :ModalFrameTau**
 
@@ -1605,7 +1605,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.AccessibilityMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L811-L822)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L811-L822)
 **structure
 Tau.BookVII.Ethics.CIProof.AccessibilityMorphism :Type**
 
@@ -1630,7 +1630,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprAccessibilityMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L822-L822)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L822-L822)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprAccessibilityMorphism :Repr AccessibilityMorphism**
 
@@ -1641,7 +1641,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.instReprAccessibilityMorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L822-L822)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L822-L822)
 **def
 Tau.BookVII.Ethics.CIProof.instReprAccessibilityMorphism.repr :AccessibilityMorphism → ℕ → Std.Format**
 
@@ -1653,7 +1653,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.accessibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L824-L824)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L824-L824)
 **def
 Tau.BookVII.Ethics.CIProof.accessibility :AccessibilityMorphism**
 
@@ -1665,7 +1665,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.kripke_soundness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L830-L840)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L830-L840)
 **theorem
 Tau.BookVII.Ethics.CIProof.kripke_soundness :modal_frame.worlds_as_addresses = true ∧ modal_frame.accessibility_admissible = true ∧ modal_frame.internal = true ∧ accessibility.reflexive = true ∧ accessibility.transitive = true**
 
@@ -1679,7 +1679,7 @@ The modal operators from VII.D33 are sound w.r.t. this frame.
 
 ### `Tau.BookVII.Ethics.CIProof.modal_collapse_prevention`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L846-L854)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L846-L854)
 **theorem
 Tau.BookVII.Ethics.CIProof.modal_collapse_prevention :accessibility.reflexive = true ∧ accessibility.transitive = true ∧ accessibility.kernel_morphism = true**
 
@@ -1693,7 +1693,7 @@ transformations are directed.
 
 ### `Tau.BookVII.Ethics.CIProof.ParaconsistentBoundaryLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L860-L871)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L860-L871)
 **structure
 Tau.BookVII.Ethics.CIProof.ParaconsistentBoundaryLogic :Type**
 
@@ -1718,7 +1718,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprParaconsistentBoundaryLogic.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L871-L871)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L871-L871)
 **def
 Tau.BookVII.Ethics.CIProof.instReprParaconsistentBoundaryLogic.repr :ParaconsistentBoundaryLogic → ℕ → Std.Format**
 
@@ -1730,7 +1730,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.instReprParaconsistentBoundaryLogic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L871-L871)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L871-L871)
 **instance
 Tau.BookVII.Ethics.CIProof.instReprParaconsistentBoundaryLogic :Repr ParaconsistentBoundaryLogic**
 
@@ -1741,7 +1741,7 @@ Equations
 
 ### `Tau.BookVII.Ethics.CIProof.paraconsistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L873-L873)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L873-L873)
 **def
 Tau.BookVII.Ethics.CIProof.paraconsistent :ParaconsistentBoundaryLogic**
 
@@ -1753,7 +1753,7 @@ Instances For
 
 ### `Tau.BookVII.Ethics.CIProof.no_explosion_at_boundaries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L879-L887)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L879-L887)
 **theorem
 Tau.BookVII.Ethics.CIProof.no_explosion_at_boundaries :paraconsistent.controlled_contradiction = true ∧ paraconsistent.no_explosion = true ∧ paraconsistent.crossing_point_site = true**
 
@@ -1767,7 +1767,7 @@ prevents global trivialization.
 
 ### `Tau.BookVII.Ethics.CIProof.truth_4_paraconsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Ethics/CIProof.lean#L893-L902)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Ethics/CIProof.lean#L893-L902)
 **theorem
 Tau.BookVII.Ethics.CIProof.truth_4_paraconsistency :paraconsistent.controlled_contradiction = true ∧ paraconsistent.no_explosion = true ∧ boolean_micro.two_valued = true**
 

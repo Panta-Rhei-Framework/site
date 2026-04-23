@@ -118,7 +118,7 @@ the Reg_D register cannot decide claims about ω.
 
 ### `Tau.BookVII.Logos.Sector.MindAsInternalTopos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L71-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L71-L84)
 **structure
 Tau.BookVII.Logos.Sector.MindAsInternalTopos :Type**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprMindAsInternalTopos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L84-L84)
 **instance
 Tau.BookVII.Logos.Sector.instReprMindAsInternalTopos :Repr MindAsInternalTopos**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.instReprMindAsInternalTopos.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L84-L84)
 **def
 Tau.BookVII.Logos.Sector.instReprMindAsInternalTopos.repr :MindAsInternalTopos → ℕ → Std.Format**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.mind_topos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L86-L86)
 **def
 Tau.BookVII.Logos.Sector.mind_topos :MindAsInternalTopos**
 
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.mind_topos_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L92-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L92-L103)
 **theorem
 Tau.BookVII.Logos.Sector.mind_topos_structure :mind_topos.topos_structure = true ∧ mind_topos.has_subobject_classifier = true ∧ mind_topos.has_exponentials = true ∧ mind_topos.has_internal_logic = true**
 
@@ -197,7 +197,7 @@ internal topos of a self-describing system satisfies:
 
 ### `Tau.BookVII.Logos.Sector.StoryFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L109-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L109-L120)
 **structure
 Tau.BookVII.Logos.Sector.StoryFunctor :Type**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprStoryFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L120-L120)
 **def
 Tau.BookVII.Logos.Sector.instReprStoryFunctor.repr :StoryFunctor → ℕ → Std.Format**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprStoryFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L120-L120)
 **instance
 Tau.BookVII.Logos.Sector.instReprStoryFunctor :Repr StoryFunctor**
 
@@ -245,7 +245,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.story_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L122-L122)
 **def
 Tau.BookVII.Logos.Sector.story_functor :StoryFunctor**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.narrative_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L128-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L128-L135)
 **theorem
 Tau.BookVII.Logos.Sector.narrative_identity :story_functor.from_temporal = true ∧ story_functor.to_mind_topos = true ∧ story_functor.compositional = true**
 
@@ -270,7 +270,7 @@ identity = preservation of composition: S(g ∘ f) = S(g) ∘ S(f).
 
 ### `Tau.BookVII.Logos.Sector.consciousness_as_global_section`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L141-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L141-L149)
 **theorem
 Tau.BookVII.Logos.Sector.consciousness_as_global_section :mind_topos.topos_structure = true ∧ mind_topos.has_internal_logic = true**
 
@@ -285,7 +285,7 @@ holds (local mental states glue globally).
 
 ### `Tau.BookVII.Logos.Sector.binding_as_gluing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L155-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L155-L162)
 **theorem
 Tau.BookVII.Logos.Sector.binding_as_gluing :mind_topos.topos_structure = true ∧ mind_topos.has_subobject_classifier = true**
 
@@ -299,7 +299,7 @@ to a global section iff compatibility (overlap agreement) holds.
 
 ### `Tau.BookVII.Logos.Sector.IntentionalityAsMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L168-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L168-L177)
 **structure
 Tau.BookVII.Logos.Sector.IntentionalityAsMorphism :Type**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprIntentionalityAsMorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L177-L177)
 **def
 Tau.BookVII.Logos.Sector.instReprIntentionalityAsMorphism.repr :IntentionalityAsMorphism → ℕ → Std.Format**
 
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprIntentionalityAsMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L177-L177)
 **instance
 Tau.BookVII.Logos.Sector.instReprIntentionalityAsMorphism :Repr IntentionalityAsMorphism**
 
@@ -344,7 +344,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.intentionality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L179-L179)
 **def
 Tau.BookVII.Logos.Sector.intentionality :IntentionalityAsMorphism**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.QualiaAsInternalMorphisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L185-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L185-L199)
 **structure
 Tau.BookVII.Logos.Sector.QualiaAsInternalMorphisms :Type**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprQualiaAsInternalMorphisms.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L199-L199)
 **def
 Tau.BookVII.Logos.Sector.instReprQualiaAsInternalMorphisms.repr :QualiaAsInternalMorphisms → ℕ → Std.Format**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprQualiaAsInternalMorphisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L199-L199)
 **instance
 Tau.BookVII.Logos.Sector.instReprQualiaAsInternalMorphisms :Repr QualiaAsInternalMorphisms**
 
@@ -407,7 +407,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.qualia`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L201-L201)
 **def
 Tau.BookVII.Logos.Sector.qualia :QualiaAsInternalMorphisms**
 
@@ -419,7 +419,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.self_recognition_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L207-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L207-L214)
 **theorem
 Tau.BookVII.Logos.Sector.self_recognition_e3 :mind_topos.topos_structure = true ∧ mind_topos.has_internal_logic = true**
 
@@ -433,7 +433,7 @@ phenomenological level.
 
 ### `Tau.BookVII.Logos.Sector.free_will_as_branching`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L220-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L220-L227)
 **theorem
 Tau.BookVII.Logos.Sector.free_will_as_branching :mind_topos.has_exponentials = true ∧ mind_topos.has_internal_logic = true**
 
@@ -447,7 +447,7 @@ Determinism-indeterminism is scale-dependent (VII.T23).
 
 ### `Tau.BookVII.Logos.Sector.compatibilism_dissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L233-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L233-L240)
 **theorem
 Tau.BookVII.Logos.Sector.compatibilism_dissolution :mind_topos.topos_structure = true ∧ mind_topos.has_exponentials = true**
 
@@ -461,7 +461,7 @@ is real. The apparent conflict is a scale confusion.
 
 ### `Tau.BookVII.Logos.Sector.identity_as_address_persistence_mind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L246-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L246-L252)
 **theorem
 Tau.BookVII.Logos.Sector.identity_as_address_persistence_mind :mind_topos.topos_structure = true ∧ story_functor.compositional = true**
 
@@ -474,7 +474,7 @@ transitions. Continuity of self = continuity of address.
 
 ### `Tau.BookVII.Logos.Sector.emotions_as_register_crossings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L258-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L258-L265)
 **theorem
 Tau.BookVII.Logos.Sector.emotions_as_register_crossings :Meta.Registers.canonical_sector_decomp.sector_count = 5 ∧ Meta.Registers.canonical_sector_decomp.pure_sector_count = 4**
 
@@ -488,7 +488,7 @@ corresponds to a specific register-pair crossing.
 
 ### `Tau.BookVII.Logos.Sector.affect_as_subsymbolic_pressure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L271-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L271-L278)
 **theorem
 Tau.BookVII.Logos.Sector.affect_as_subsymbolic_pressure :Meta.Registers.canonical_sector_decomp.sector_count = 5 ∧ Meta.Registers.canonical_sector_decomp.pure_sector_count = 4**
 
@@ -502,7 +502,7 @@ efficacious through register-crossing dynamics.
 
 ### `Tau.BookVII.Logos.Sector.extended_mind_as_carrier_extension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L284-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L284-L291)
 **theorem
 Tau.BookVII.Logos.Sector.extended_mind_as_carrier_extension :mind_topos.topos_structure = true ∧ mind_topos.has_exponentials = true**
 
@@ -516,7 +516,7 @@ the gluing condition (functorial coupling with internal states).
 
 ### `Tau.BookVII.Logos.Sector.GenerativeSwitch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L301-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L301-L312)
 **structure
 Tau.BookVII.Logos.Sector.GenerativeSwitch :Type**
 
@@ -541,7 +541,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprGenerativeSwitch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L312-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L312-L312)
 **instance
 Tau.BookVII.Logos.Sector.instReprGenerativeSwitch :Repr GenerativeSwitch**
 
@@ -552,7 +552,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.instReprGenerativeSwitch.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L312-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L312-L312)
 **def
 Tau.BookVII.Logos.Sector.instReprGenerativeSwitch.repr :GenerativeSwitch → ℕ → Std.Format**
 
@@ -564,7 +564,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.generative_switch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L314-L314)
 **def
 Tau.BookVII.Logos.Sector.generative_switch :GenerativeSwitch**
 
@@ -576,7 +576,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.layer_conflation_category_error`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L320-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L320-L329)
 **theorem
 Tau.BookVII.Logos.Sector.layer_conflation_category_error :generative_switch.layer_transition = true ∧ generative_switch.complexity_threshold = true ∧ generative_switch.structural = true**
 
@@ -591,7 +591,7 @@ applying E₃ ethics to E₁ physics (moralized nature).
 
 ### `Tau.BookVII.Logos.Sector.LogosSectorExtended`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L339-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L339-L354)
 **structure
 Tau.BookVII.Logos.Sector.LogosSectorExtended :Type**
 
@@ -621,7 +621,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprLogosSectorExtended`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L354-L354)
 **instance
 Tau.BookVII.Logos.Sector.instReprLogosSectorExtended :Repr LogosSectorExtended**
 
@@ -632,7 +632,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.instReprLogosSectorExtended.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L354-L354)
 **def
 Tau.BookVII.Logos.Sector.instReprLogosSectorExtended.repr :LogosSectorExtended → ℕ → Std.Format**
 
@@ -644,7 +644,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.logos_extended`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L356-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L356-L356)
 **def
 Tau.BookVII.Logos.Sector.logos_extended :LogosSectorExtended**
 
@@ -656,7 +656,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.OmegaRepresentative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L362-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L362-L372)
 **structure
 Tau.BookVII.Logos.Sector.OmegaRepresentative :Type**
 
@@ -680,7 +680,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprOmegaRepresentative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L372-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L372-L372)
 **instance
 Tau.BookVII.Logos.Sector.instReprOmegaRepresentative :Repr OmegaRepresentative**
 
@@ -691,7 +691,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.instReprOmegaRepresentative.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L372-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L372-L372)
 **def
 Tau.BookVII.Logos.Sector.instReprOmegaRepresentative.repr :OmegaRepresentative → ℕ → Std.Format**
 
@@ -703,7 +703,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.omega_rep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L374-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L374-L374)
 **def
 Tau.BookVII.Logos.Sector.omega_rep :OmegaRepresentative**
 
@@ -715,7 +715,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.MediatorFixedPointBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L380-L388)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L380-L388)
 **structure
 Tau.BookVII.Logos.Sector.MediatorFixedPointBasin :Type**
 
@@ -736,7 +736,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.instReprMediatorFixedPointBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L388-L388)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L388-L388)
 **instance
 Tau.BookVII.Logos.Sector.instReprMediatorFixedPointBasin :Repr MediatorFixedPointBasin**
 
@@ -747,7 +747,7 @@ Equations
 
 ### `Tau.BookVII.Logos.Sector.instReprMediatorFixedPointBasin.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L388-L388)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L388-L388)
 **def
 Tau.BookVII.Logos.Sector.instReprMediatorFixedPointBasin.repr :MediatorFixedPointBasin → ℕ → Std.Format**
 
@@ -759,7 +759,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.mediator_basin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L390-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L390-L390)
 **def
 Tau.BookVII.Logos.Sector.mediator_basin :MediatorFixedPointBasin**
 
@@ -771,7 +771,7 @@ Instances For
 
 ### `Tau.BookVII.Logos.Sector.logos_characterization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L396-L420)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L396-L420)
 **theorem
 Tau.BookVII.Logos.Sector.logos_characterization :logos_extended.dc_coincidence = true ∧ logos_extended.proof_stance_identity = true ∧ logos_extended.mutual_witnessing = true ∧ logos_extended.terminal = true ∧ Meta.Registers.sector_logos.dc_coincidence = true ∧ Meta.Registers.sector_logos.unique_mediator = true ∧ Meta.Registers.canonical_sector_decomp.mixed_sector_count = 1**
 
@@ -799,7 +799,7 @@ uniqueness (VII.L06, No-New-Crossing-Mediator).
 
 ### `Tau.BookVII.Logos.Sector.omega_point_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L426-L434)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L426-L434)
 **theorem
 Tau.BookVII.Logos.Sector.omega_point_theorem :True**
 
@@ -817,7 +817,7 @@ Structural parts enriched in Final.Boundary (bridge_equivalence_structural).
 
 ### `Tau.BookVII.Logos.Sector.logos_rigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L440-L458)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L440-L458)
 **theorem
 Tau.BookVII.Logos.Sector.logos_rigidity :Meta.Registers.canonical_sector_decomp.sector_count = 5 ∧ Meta.Registers.sector_logos.dc_coincidence = true ∧ Meta.Registers.sector_logos.unique_mediator = true ∧ Meta.Registers.canonical_sector_decomp.pure_sector_count = 4**
 
@@ -837,7 +837,7 @@ then N_C(φ, w') ≠ accept for any Reg_C-witness w'.
 
 ### `Tau.BookVII.Logos.Sector.science_faith_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Logos/Sector.lean#L464-L472)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Logos/Sector.lean#L464-L472)
 **theorem
 Tau.BookVII.Logos.Sector.science_faith_boundary :True**
 

@@ -87,7 +87,7 @@ Archetype: Archaea. Dominant forces: Poincaré (circulation) + Riemann (energy).
 
 ### `Tau.BookVI.Persistence.PersistenceSectorDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L47-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L47-L62)
 **structure
 Tau.BookVI.Persistence.PersistenceSectorDef :Type**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprPersistenceSectorDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L62-L62)
 **instance
 Tau.BookVI.Persistence.instReprPersistenceSectorDef :Repr PersistenceSectorDef**
 
@@ -129,7 +129,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprPersistenceSectorDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L62-L62)
 **def
 Tau.BookVI.Persistence.instReprPersistenceSectorDef.repr :PersistenceSectorDef → ℕ → Std.Format**
 
@@ -141,7 +141,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.persistence_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L64-L64)
 **def
 Tau.BookVI.Persistence.persistence_def :PersistenceSectorDef**
 
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.persistence_generator_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L66-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L66-L69)
 **theorem
 Tau.BookVI.Persistence.persistence_generator_match :persistence_def.generator = FourPlusOne.persistence_sector.generator**
 
@@ -164,7 +164,7 @@ Persistence sector matches the FourPlusOne persistence_sector definition.
 
 ### `Tau.BookVI.Persistence.TemporalStabilityPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L75-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L75-L90)
 **structure
 Tau.BookVI.Persistence.TemporalStabilityPredicate :Type**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprTemporalStabilityPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L90-L90)
 **instance
 Tau.BookVI.Persistence.instReprTemporalStabilityPredicate :Repr TemporalStabilityPredicate**
 
@@ -206,7 +206,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprTemporalStabilityPredicate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L90-L90)
 **def
 Tau.BookVI.Persistence.instReprTemporalStabilityPredicate.repr :TemporalStabilityPredicate → ℕ → Std.Format**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.temporal_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L92-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L92-L94)
 **def
 Tau.BookVI.Persistence.temporal_stability :TemporalStabilityPredicate**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.temporal_stability_three_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L96-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L96-L98)
 **theorem
 Tau.BookVI.Persistence.temporal_stability_three_conditions :temporal_stability.condition_count = 3**
 
@@ -239,7 +239,7 @@ Tau.BookVI.Persistence.temporal_stability_three_conditions :temporal_stability.c
 
 ### `Tau.BookVI.Persistence.temporal_stability_all_hold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L100-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L100-L104)
 **theorem
 Tau.BookVI.Persistence.temporal_stability_all_hold :temporal_stability.defect_bounded = true ∧ temporal_stability.alpha_flow_returns = true ∧ temporal_stability.refinement_constant = true**
 
@@ -248,7 +248,7 @@ Tau.BookVI.Persistence.temporal_stability_all_hold :temporal_stability.defect_bo
 
 ### `Tau.BookVI.Persistence.PersistenceStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L110-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L110-L123)
 **structure
 Tau.BookVI.Persistence.PersistenceStability :Type**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprPersistenceStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L123-L123)
 **instance
 Tau.BookVI.Persistence.instReprPersistenceStability :Repr PersistenceStability**
 
@@ -287,7 +287,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprPersistenceStability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L123-L123)
 **def
 Tau.BookVI.Persistence.instReprPersistenceStability.repr :PersistenceStability → ℕ → Std.Format**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.pers_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L125-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L125-L127)
 **def
 Tau.BookVI.Persistence.pers_stability :PersistenceStability**
 
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.persistence_is_alpha_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L129-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L129-L133)
 **theorem
 Tau.BookVI.Persistence.persistence_is_alpha_stability :pers_stability.winding_alpha = 1 ∧ pers_stability.temporal_stable = true ∧ pers_stability.sector_persistence = true**
 
@@ -320,7 +320,7 @@ Tau.BookVI.Persistence.persistence_is_alpha_stability :pers_stability.winding_al
 
 ### `Tau.BookVI.Persistence.AbiogenesisDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L139-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L139-L148)
 **structure
 Tau.BookVI.Persistence.AbiogenesisDef :Type**
 
@@ -343,7 +343,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L148-L148)
 **def
 Tau.BookVI.Persistence.instReprAbiogenesisDef.repr :AbiogenesisDef → ℕ → Std.Format**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L148-L148)
 **instance
 Tau.BookVI.Persistence.instReprAbiogenesisDef :Repr AbiogenesisDef**
 
@@ -366,7 +366,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.ThermodynamicInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L154-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L154-L172)
 **structure
 Tau.BookVI.Persistence.ThermodynamicInevitability :Type**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprThermodynamicInevitability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L172-L172)
 **def
 Tau.BookVI.Persistence.instReprThermodynamicInevitability.repr :ThermodynamicInevitability → ℕ → Std.Format**
 
@@ -413,7 +413,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprThermodynamicInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L172-L172)
 **instance
 Tau.BookVI.Persistence.instReprThermodynamicInevitability :Repr ThermodynamicInevitability**
 
@@ -424,7 +424,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.thermo_inev`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L174-L176)
 **def
 Tau.BookVI.Persistence.thermo_inev :ThermodynamicInevitability**
 
@@ -436,7 +436,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.thermodynamic_inevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L178-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L178-L183)
 **theorem
 Tau.BookVI.Persistence.thermodynamic_inevitability :thermo_inev.argument_steps = 3 ∧ thermo_inev.entropy_maximization = true ∧ thermo_inev.selfdesc_attractor = true ∧ thermo_inev.rapid_abiogenesis = true**
 
@@ -445,7 +445,7 @@ Tau.BookVI.Persistence.thermodynamic_inevitability :thermo_inev.argument_steps =
 
 ### `Tau.BookVI.Persistence.FarFromEquilibriumRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L189-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L189-L202)
 **structure
 Tau.BookVI.Persistence.FarFromEquilibriumRegime :Type**
 
@@ -473,7 +473,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprFarFromEquilibriumRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L202-L202)
 **def
 Tau.BookVI.Persistence.instReprFarFromEquilibriumRegime.repr :FarFromEquilibriumRegime → ℕ → Std.Format**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprFarFromEquilibriumRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L202-L202)
 **instance
 Tau.BookVI.Persistence.instReprFarFromEquilibriumRegime :Repr FarFromEquilibriumRegime**
 
@@ -496,7 +496,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.far_from_equilibrium`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L204-L204)
 **def
 Tau.BookVI.Persistence.far_from_equilibrium :FarFromEquilibriumRegime**
 
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.far_from_equilibrium_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L206-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L206-L210)
 **theorem
 Tau.BookVI.Persistence.far_from_equilibrium_conditions :far_from_equilibrium.defect_above_zero = true ∧ far_from_equilibrium.dissipative = true ∧ far_from_equilibrium.pre_coherence_horizon = true**
 
@@ -517,7 +517,7 @@ Tau.BookVI.Persistence.far_from_equilibrium_conditions :far_from_equilibrium.def
 
 ### `Tau.BookVI.Persistence.ComplexityBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L216-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L216-L227)
 **structure
 Tau.BookVI.Persistence.ComplexityBudget :Type**
 
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprComplexityBudget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L227-L227)
 **def
 Tau.BookVI.Persistence.instReprComplexityBudget.repr :ComplexityBudget → ℕ → Std.Format**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprComplexityBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L227-L227)
 **instance
 Tau.BookVI.Persistence.instReprComplexityBudget :Repr ComplexityBudget**
 
@@ -565,7 +565,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.ComplexityMonotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L233-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L233-L246)
 **structure
 Tau.BookVI.Persistence.ComplexityMonotone :Type**
 
@@ -593,7 +593,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprComplexityMonotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L246-L246)
 **instance
 Tau.BookVI.Persistence.instReprComplexityMonotone :Repr ComplexityMonotone**
 
@@ -604,7 +604,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprComplexityMonotone.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L246-L246)
 **def
 Tau.BookVI.Persistence.instReprComplexityMonotone.repr :ComplexityMonotone → ℕ → Std.Format**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.complexity_monotone_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L248-L248)
 **def
 Tau.BookVI.Persistence.complexity_monotone_def :ComplexityMonotone**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.complexity_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L250-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L250-L253)
 **theorem
 Tau.BookVI.Persistence.complexity_monotone :complexity_monotone_def.monotone_increasing = true ∧ complexity_monotone_def.derived_from_geometric_decay = true**
 
@@ -637,7 +637,7 @@ Tau.BookVI.Persistence.complexity_monotone :complexity_monotone_def.monotone_inc
 
 ### `Tau.BookVI.Persistence.DistinctionThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L259-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L259-L274)
 **structure
 Tau.BookVI.Persistence.DistinctionThreshold :Type**
 
@@ -668,7 +668,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprDistinctionThreshold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L274-L274)
 **def
 Tau.BookVI.Persistence.instReprDistinctionThreshold.repr :DistinctionThreshold → ℕ → Std.Format**
 
@@ -680,7 +680,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprDistinctionThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L274-L274)
 **instance
 Tau.BookVI.Persistence.instReprDistinctionThreshold :Repr DistinctionThreshold**
 
@@ -691,7 +691,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.distinction_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L276-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L276-L278)
 **def
 Tau.BookVI.Persistence.distinction_threshold :DistinctionThreshold**
 
@@ -703,7 +703,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.threshold_is_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L280-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L280-L283)
 **theorem
 Tau.BookVI.Persistence.threshold_is_sum :distinction_threshold.distinction_count + distinction_threshold.selfdesc_count = distinction_threshold.threshold_conditions**
 
@@ -712,7 +712,7 @@ Tau.BookVI.Persistence.threshold_is_sum :distinction_threshold.distinction_count
 
 ### `Tau.BookVI.Persistence.AttractorExistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L289-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L289-L311)
 **structure
 Tau.BookVI.Persistence.AttractorExistence :Type**
 
@@ -752,7 +752,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAttractorExistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L311-L311)
 **instance
 Tau.BookVI.Persistence.instReprAttractorExistence :Repr AttractorExistence**
 
@@ -763,7 +763,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprAttractorExistence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L311-L311)
 **def
 Tau.BookVI.Persistence.instReprAttractorExistence.repr :AttractorExistence → ℕ → Std.Format**
 
@@ -775,7 +775,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.attractor_existence_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L313-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L313-L315)
 **def
 Tau.BookVI.Persistence.attractor_existence_def :AttractorExistence**
 
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.attractor_existence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L317-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L317-L323)
 **theorem
 Tau.BookVI.Persistence.attractor_existence :attractor_existence_def.condition_count = 3 ∧ attractor_existence_def.finite_budget = true ∧ attractor_existence_def.polarity_seed = true ∧ attractor_existence_def.temporal_stability = true ∧ attractor_existence_def.entry_forced = true**
 
@@ -796,7 +796,7 @@ Tau.BookVI.Persistence.attractor_existence :attractor_existence_def.condition_co
 
 ### `Tau.BookVI.Persistence.BasinAbsorbing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L329-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L329-L342)
 **structure
 Tau.BookVI.Persistence.BasinAbsorbing :Type**
 
@@ -824,7 +824,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprBasinAbsorbing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L342-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L342-L342)
 **def
 Tau.BookVI.Persistence.instReprBasinAbsorbing.repr :BasinAbsorbing → ℕ → Std.Format**
 
@@ -836,7 +836,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprBasinAbsorbing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L342-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L342-L342)
 **instance
 Tau.BookVI.Persistence.instReprBasinAbsorbing :Repr BasinAbsorbing**
 
@@ -847,7 +847,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.basin_absorbing_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L344-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L344-L344)
 **def
 Tau.BookVI.Persistence.basin_absorbing_def :BasinAbsorbing**
 
@@ -859,7 +859,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.basin_is_absorbing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L346-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L346-L350)
 **theorem
 Tau.BookVI.Persistence.basin_is_absorbing :basin_absorbing_def.selfdesc_closure = true ∧ basin_absorbing_def.absorbing = true ∧ basin_absorbing_def.derived_from_selfdesc = true**
 
@@ -868,7 +868,7 @@ Tau.BookVI.Persistence.basin_is_absorbing :basin_absorbing_def.selfdesc_closure 
 
 ### `Tau.BookVI.Persistence.AbiogenesisTimescaleBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L356-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L356-L370)
 **structure
 Tau.BookVI.Persistence.AbiogenesisTimescaleBound :Type**
 
@@ -897,7 +897,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisTimescaleBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L370-L370)
 **instance
 Tau.BookVI.Persistence.instReprAbiogenesisTimescaleBound :Repr AbiogenesisTimescaleBound**
 
@@ -908,7 +908,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisTimescaleBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L370-L370)
 **def
 Tau.BookVI.Persistence.instReprAbiogenesisTimescaleBound.repr :AbiogenesisTimescaleBound → ℕ → Std.Format**
 
@@ -920,7 +920,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.TimescaleFromHalfLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L376-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L376-L390)
 **structure
 Tau.BookVI.Persistence.TimescaleFromHalfLife :Type**
 
@@ -949,7 +949,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprTimescaleFromHalfLife.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L390-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L390-L390)
 **def
 Tau.BookVI.Persistence.instReprTimescaleFromHalfLife.repr :TimescaleFromHalfLife → ℕ → Std.Format**
 
@@ -961,7 +961,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprTimescaleFromHalfLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L390-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L390-L390)
 **instance
 Tau.BookVI.Persistence.instReprTimescaleFromHalfLife :Repr TimescaleFromHalfLife**
 
@@ -972,7 +972,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.timescale_half_life_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L392-L392)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L392-L392)
 **def
 Tau.BookVI.Persistence.timescale_half_life_def :TimescaleFromHalfLife**
 
@@ -984,7 +984,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.timescale_from_half_life`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L394-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L394-L396)
 **theorem
 Tau.BookVI.Persistence.timescale_from_half_life :timescale_half_life_def.logarithmic_bound = true**
 
@@ -993,7 +993,7 @@ Tau.BookVI.Persistence.timescale_from_half_life :timescale_half_life_def.logarit
 
 ### `Tau.BookVI.Persistence.TimescaleGeologicalConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L402-L416)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L402-L416)
 **structure
 Tau.BookVI.Persistence.TimescaleGeologicalConsistency :Type**
 
@@ -1022,7 +1022,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprTimescaleGeologicalConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L416-L416)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L416-L416)
 **def
 Tau.BookVI.Persistence.instReprTimescaleGeologicalConsistency.repr :TimescaleGeologicalConsistency → ℕ → Std.Format**
 
@@ -1034,7 +1034,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprTimescaleGeologicalConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L416-L416)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L416-L416)
 **instance
 Tau.BookVI.Persistence.instReprTimescaleGeologicalConsistency :Repr TimescaleGeologicalConsistency**
 
@@ -1045,7 +1045,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.AbiogenesisInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L422-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L422-L446)
 **structure
 Tau.BookVI.Persistence.AbiogenesisInevitability :Type**
 
@@ -1087,7 +1087,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisInevitability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L446-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L446-L446)
 **def
 Tau.BookVI.Persistence.instReprAbiogenesisInevitability.repr :AbiogenesisInevitability → ℕ → Std.Format**
 
@@ -1099,7 +1099,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L446-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L446-L446)
 **instance
 Tau.BookVI.Persistence.instReprAbiogenesisInevitability :Repr AbiogenesisInevitability**
 
@@ -1110,7 +1110,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.abiogenesis_inevitability_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L448-L450)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L448-L450)
 **def
 Tau.BookVI.Persistence.abiogenesis_inevitability_def :AbiogenesisInevitability**
 
@@ -1122,7 +1122,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.abiogenesis_inevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L452-L458)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L452-L458)
 **theorem
 Tau.BookVI.Persistence.abiogenesis_inevitability :abiogenesis_inevitability_def.chain_length = 7 ∧ abiogenesis_inevitability_def.attractor_exists = true ∧ abiogenesis_inevitability_def.timescale_bounded = true ∧ abiogenesis_inevitability_def.basin_absorbing = true ∧ abiogenesis_inevitability_def.inevitable = true**
 
@@ -1131,7 +1131,7 @@ Tau.BookVI.Persistence.abiogenesis_inevitability :abiogenesis_inevitability_def.
 
 ### `Tau.BookVI.Persistence.AbiogenesisNotContingent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L464-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L464-L478)
 **structure
 Tau.BookVI.Persistence.AbiogenesisNotContingent :Type**
 
@@ -1160,7 +1160,7 @@ Instances For
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisNotContingent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L478-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L478-L478)
 **instance
 Tau.BookVI.Persistence.instReprAbiogenesisNotContingent :Repr AbiogenesisNotContingent**
 
@@ -1171,7 +1171,7 @@ Equations
 
 ### `Tau.BookVI.Persistence.instReprAbiogenesisNotContingent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/PersistenceSector.lean#L478-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/PersistenceSector.lean#L478-L478)
 **def
 Tau.BookVI.Persistence.instReprAbiogenesisNotContingent.repr :AbiogenesisNotContingent → ℕ → Std.Format**
 

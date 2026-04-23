@@ -76,7 +76,7 @@ If two extensions agree on the boundary (all stages), they agree everywhere.
 
 ### `Tau.BookII.CentralTheorem.extension_channel_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L51-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L51-L90)
 **def
 Tau.BookII.CentralTheorem.extension_channel_check
 (bound db : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_channel_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L68-L89)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L68-L89)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.extension_channel_check.go
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.b_channel_extension_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L92-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L92-L116)
 **def
 Tau.BookII.CentralTheorem.b_channel_extension_check
 (bound db : Denotation.TauIdx)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.b_channel_extension_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L102-L115)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L102-L115)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.b_channel_extension_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.c_channel_extension_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L118-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L118-L135)
 **def
 Tau.BookII.CentralTheorem.c_channel_extension_check
 (bound db : Denotation.TauIdx)
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.c_channel_extension_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L123-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L123-L134)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.c_channel_extension_check.go
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.hartogs_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L141-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L141-L170)
 **def
 Tau.BookII.CentralTheorem.hartogs_uniqueness_check
 (bound db : Denotation.TauIdx)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.hartogs_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L152-L169)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L152-L169)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.hartogs_uniqueness_check.go
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.boundary_determines_interior_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L172-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L172-L212)
 **def
 Tau.BookII.CentralTheorem.boundary_determines_interior_check
 (bound db : Denotation.TauIdx)
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.boundary_determines_interior_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L183-L201)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L183-L201)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.boundary_determines_interior_check.go
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.boundary_determines_interior_check.stages_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L203-L206)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L203-L206)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.boundary_determines_interior_check.stages_agree
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.boundary_determines_interior_check.lifts_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L208-L211)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L208-L211)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.boundary_determines_interior_check.lifts_agree
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.code_decode_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L214-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L214-L236)
 **def
 Tau.BookII.CentralTheorem.code_decode_uniqueness_check
 (bound db : Denotation.TauIdx)
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.code_decode_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L224-L235)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L224-L235)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.code_decode_uniqueness_check.go
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_hartogs_extension_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L242-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L242-L255)
 **def
 Tau.BookII.CentralTheorem.full_hartogs_extension_check
 (bound db : Denotation.TauIdx)
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_preserves_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L261-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L261-L268)
 **theorem
 Tau.BookII.CentralTheorem.extension_preserves_stage
 (x k : Denotation.TauIdx)
@@ -397,7 +397,7 @@ This follows from reduction_compat since bndlift(x, k) = reduce(x, k+1).
 
 ### `Tau.BookII.CentralTheorem.uniqueness_from_agreement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L270-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L270-L277)
 **theorem
 Tau.BookII.CentralTheorem.uniqueness_from_agreement
 (x y k : Denotation.TauIdx)
@@ -415,7 +415,7 @@ stage-k data: reduce(bndlift(x,k), k) = reduce(bndlift(y,k), k).
 
 ### `Tau.BookII.CentralTheorem.bndlift_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L279-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L279-L285)
 **theorem
 Tau.BookII.CentralTheorem.bndlift_tower
 (x k : Denotation.TauIdx)
@@ -429,7 +429,7 @@ This is the key structural property for Hartogs extension uniqueness.
 
 ### `Tau.BookII.CentralTheorem.extension_bipolar_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L287-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L287-L293)
 **theorem
 Tau.BookII.CentralTheorem.extension_bipolar_recovery
 (x k : Denotation.TauIdx)
@@ -444,7 +444,7 @@ recovers via idempotent projections.
 
 ### `Tau.BookII.CentralTheorem.ext_channel_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L329-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L329-L330)
 **theorem
 Tau.BookII.CentralTheorem.ext_channel_20_4 :extension_channel_check 20 4 = true**
 
@@ -453,7 +453,7 @@ Tau.BookII.CentralTheorem.ext_channel_20_4 :extension_channel_check 20 4 = true*
 
 ### `Tau.BookII.CentralTheorem.b_channel_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L333-L334)
 **theorem
 Tau.BookII.CentralTheorem.b_channel_20_4 :b_channel_extension_check 20 4 = true**
 
@@ -462,7 +462,7 @@ Tau.BookII.CentralTheorem.b_channel_20_4 :b_channel_extension_check 20 4 = true*
 
 ### `Tau.BookII.CentralTheorem.c_channel_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L337-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L337-L338)
 **theorem
 Tau.BookII.CentralTheorem.c_channel_20_4 :c_channel_extension_check 20 4 = true**
 
@@ -471,7 +471,7 @@ Tau.BookII.CentralTheorem.c_channel_20_4 :c_channel_extension_check 20 4 = true*
 
 ### `Tau.BookII.CentralTheorem.hartogs_uniq_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L341-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L341-L342)
 **theorem
 Tau.BookII.CentralTheorem.hartogs_uniq_15_4 :hartogs_uniqueness_check 15 4 = true**
 
@@ -480,7 +480,7 @@ Tau.BookII.CentralTheorem.hartogs_uniq_15_4 :hartogs_uniqueness_check 15 4 = tru
 
 ### `Tau.BookII.CentralTheorem.bnd_det_int_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L345-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L345-L346)
 **theorem
 Tau.BookII.CentralTheorem.bnd_det_int_10_3 :boundary_determines_interior_check 10 3 = true**
 
@@ -489,7 +489,7 @@ Tau.BookII.CentralTheorem.bnd_det_int_10_3 :boundary_determines_interior_check 1
 
 ### `Tau.BookII.CentralTheorem.cd_uniq_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L349-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L349-L350)
 **theorem
 Tau.BookII.CentralTheorem.cd_uniq_15_4 :code_decode_uniqueness_check 15 4 = true**
 
@@ -498,6 +498,6 @@ Tau.BookII.CentralTheorem.cd_uniq_15_4 :code_decode_uniqueness_check 15 4 = true
 
 ### `Tau.BookII.CentralTheorem.full_hartogs_ext_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L353-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/HartogsExtension.lean#L353-L354)
 **theorem
 Tau.BookII.CentralTheorem.full_hartogs_ext_12_3 :full_hartogs_extension_check 12 3 = true**

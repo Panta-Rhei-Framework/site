@@ -74,7 +74,7 @@ earned framework. The absence of additive inverses is structural, not a deficien
 
 ### `Tau.Denotation.Structural.tauIdx_sum_zero_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L49-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L49-L56)
 **theorem
 Tau.Denotation.Structural.tauIdx_sum_zero_iff
 (n m : TauIdx)
@@ -88,7 +88,7 @@ This is the foundational fact: addition on τ-Idx cannot "cancel" to zero.
 
 ### `Tau.Denotation.Structural.tauIdx_no_additive_inverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L58-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L58-L63)
 **theorem
 Tau.Denotation.Structural.tauIdx_no_additive_inverse
 (n : TauIdx)
@@ -104,7 +104,7 @@ Ground truth: "Actual infinity (ω) without additive zero" (Book I Reference).
 
 ### `Tau.Denotation.Structural.tauIdx_no_ring_negation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L65-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L65-L72)
 **theorem
 Tau.Denotation.Structural.tauIdx_no_ring_negation :¬∃ (neg : TauIdx → TauIdx), ∀ (n : TauIdx), idx_add n (neg n) = 0**
 
@@ -124,7 +124,7 @@ never "falls" into zero unless it starts there.
 
 ### `Tau.Denotation.Structural.tauIdx_pos_closed_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L84-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L84-L87)
 **theorem
 Tau.Denotation.Structural.tauIdx_pos_closed_add
 (n m : TauIdx)
@@ -139,7 +139,7 @@ Addition with a positive argument always yields a positive result.
 
 ### `Tau.Denotation.Structural.tauIdx_pos_closed_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L89-L92)
 **theorem
 Tau.Denotation.Structural.tauIdx_pos_closed_mul
 (n m : TauIdx)
@@ -156,7 +156,7 @@ Multiplication of two positive values is positive (no zero divisors in N⁺).
 
 ### `Tau.Denotation.Structural.tauIdx_pos_closed_exp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L94-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L94-L102)
 **theorem
 Tau.Denotation.Structural.tauIdx_pos_closed_exp
 (n : TauIdx)
@@ -173,7 +173,7 @@ Exponentiation with positive base is always positive.
 
 ### `Tau.Denotation.Structural.tauIdx_succ_always_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L104-L108)
 **theorem
 Tau.Denotation.Structural.tauIdx_succ_always_pos
 (n : TauIdx)
@@ -194,7 +194,7 @@ degeneracy is passive — it doesn't participate in the generative dynamics of �
 
 ### `Tau.Denotation.Structural.tauIdx_zero_not_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L120-L122)
 **theorem
 Tau.Denotation.Structural.tauIdx_zero_not_prime :¬Coordinates.idx_prime 0**
 
@@ -205,7 +205,7 @@ Zero is not a prime: it has no prime factorization.
 
 ### `Tau.Denotation.Structural.tauIdx_zero_not_succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L124-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L124-L127)
 **theorem
 Tau.Denotation.Structural.tauIdx_zero_not_succ :¬∃ (k : TauIdx), idx_add k 1 = 0**
 
@@ -217,7 +217,7 @@ This reflects that the alpha orbit generates only positive depths.
 
 ### `Tau.Denotation.Structural.tauIdx_integral_domain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L129-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L129-L150)
 **theorem
 Tau.Denotation.Structural.tauIdx_integral_domain
 (n m : TauIdx)
@@ -232,7 +232,7 @@ There is no "annihilation" except through the vacuous zero.
 
 ### `Tau.Denotation.Structural.tauIdx_zero_unique_mul_absorber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L152-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L152-L158)
 **theorem
 Tau.Denotation.Structural.tauIdx_zero_unique_mul_absorber
 (a : TauIdx)
@@ -248,7 +248,7 @@ This rules out any "phantom absorber" in τ-Idx.
 
 ### `Tau.Denotation.Structural.tauIdx_zero_vacuous_divisor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L160-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L160-L164)
 **theorem
 Tau.Denotation.Structural.tauIdx_zero_vacuous_divisor
 (a : TauIdx)
@@ -282,7 +282,7 @@ In ring theory, "for a ≠ 0" qualifications appear everywhere. In τ-Idx:
 
 ### `Tau.Denotation.Structural.tauIdx_add_left_cancel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L182-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L182-L186)
 **theorem
 Tau.Denotation.Structural.tauIdx_add_left_cancel
 (n a b : TauIdx)
@@ -298,7 +298,7 @@ This is *universal* — it holds for ALL n, including n = 0.
 
 ### `Tau.Denotation.Structural.tauIdx_add_right_cancel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L188-L191)
 **theorem
 Tau.Denotation.Structural.tauIdx_add_right_cancel
 (a b n : TauIdx)
@@ -313,7 +313,7 @@ Addition is right-cancellative: NO guard needed.
 
 ### `Tau.Denotation.Structural.tauIdx_mul_cancel_fails_at_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L193-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L193-L197)
 **theorem
 Tau.Denotation.Structural.tauIdx_mul_cancel_fails_at_zero :idx_mul 0 1 = idx_mul 0 2**
 
@@ -325,7 +325,7 @@ The single failure: multiplicative cancellation breaks at zero.
 
 ### `Tau.Denotation.Structural.tauIdx_mul_cancel_exactly_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L199-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L199-L216)
 **theorem
 Tau.Denotation.Structural.tauIdx_mul_cancel_exactly_pos
 (n : TauIdx)
@@ -352,7 +352,7 @@ Key contrast with standard Nat: Nat has 0 as algebraic absorber (0 × n = 0).
 
 ### `Tau.Denotation.Structural.omega_rho_absorber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L232-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L232-L236)
 **theorem
 Tau.Denotation.Structural.omega_rho_absorber
 (d : Nat)
@@ -366,7 +366,7 @@ Restatement of K2 for emphasis in the structural context.
 
 ### `Tau.Denotation.Structural.omega_unique_fixed_seed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L238-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L238-L252)
 **theorem
 Tau.Denotation.Structural.omega_unique_fixed_seed
 (x : Kernel.TauObj)
@@ -381,7 +381,7 @@ This characterizes omega as the sole dynamical absorber.
 
 ### `Tau.Denotation.Structural.alpha_orbit_no_fixed_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L254-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L254-L258)
 **theorem
 Tau.Denotation.Structural.alpha_orbit_no_fixed_point
 (n : TauIdx)
@@ -395,7 +395,7 @@ strictly advances under ρ. The orbit is genuinely progressive.
 
 ### `Tau.Denotation.Structural.alpha_orbit_strictly_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L260-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L260-L264)
 **theorem
 Tau.Denotation.Structural.alpha_orbit_strictly_monotone
 (n m : TauIdx)
@@ -423,7 +423,7 @@ compatible omega-tails) compact. This is the τ-analog of Ẑ (profinite integer
 
 ### `Tau.Denotation.Structural.ultra_dist_self`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L293-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L293-L298)
 **theorem
 Tau.Denotation.Structural.ultra_dist_self
 (n d : TauIdx)
@@ -437,7 +437,7 @@ This is the identity-of-indiscernibles axiom for the earned ultrametric.
 
 ### `Tau.Denotation.Structural.congruent_tails_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Structural.lean#L300-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Structural.lean#L300-L312)
 **theorem
 Tau.Denotation.Structural.congruent_tails_agree
 (n m d k : TauIdx)

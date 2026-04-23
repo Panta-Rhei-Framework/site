@@ -55,7 +55,7 @@ of unity property, previewing the structure Gal(Q(ζ_n)/Q) ≅ (Z/nZ)×.
 
 ### `Tau.Boundary.IsRootOfUnity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L40-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L40-L42)
 **def
 Tau.Boundary.IsRootOfUnity
 (n : ℕ)
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.Boundary.instDecidableIsRootOfUnity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L44-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L44-L46)
 **instance
 Tau.Boundary.instDecidableIsRootOfUnity
 (n : ℕ)
@@ -90,7 +90,7 @@ Equations
 
 ### `Tau.Boundary.IsPrimitiveRoot`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L48-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L48-L51)
 **def
 Tau.Boundary.IsPrimitiveRoot
 (n : ℕ)
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.Boundary.root_of_unity_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L57-L59)
 **theorem
 Tau.Boundary.root_of_unity_one
 (n m : Denotation.TauIdx)
@@ -122,7 +122,7 @@ Tau.Boundary.root_of_unity_one
 
 ### `Tau.Boundary.root_of_unity_pow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L61-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L61-L68)
 **theorem
 Tau.Boundary.root_of_unity_pow
 (n : ℕ)
@@ -141,7 +141,7 @@ If z^n ≡ 1 (mod m) then z^(k*n) ≡ 1 (mod m).
 
 ### `Tau.Boundary.CyclotomicRoot`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L70-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L70-L74)
 **def
 Tau.Boundary.CyclotomicRoot
 (n : ℕ)
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.Boundary.root_divides_power`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L76-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L76-L80)
 **theorem
 Tau.Boundary.root_divides_power
 (n : ℕ)
@@ -182,7 +182,7 @@ Any root of unity of order n is also a root of order n*k.
 
 ### `Tau.Boundary.root_of_unity_factor_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L86-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L86-L97)
 **theorem
 Tau.Boundary.root_of_unity_factor_left
 (n : ℕ)
@@ -199,7 +199,7 @@ Factor left: a root mod m1*m2 is a root mod m1.
 
 ### `Tau.Boundary.root_of_unity_factor_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L99-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L99-L103)
 **theorem
 Tau.Boundary.root_of_unity_factor_right
 (n : ℕ)
@@ -216,7 +216,7 @@ Factor right: a root mod m1*m2 is a root mod m2.
 
 ### `Tau.Boundary.euler_totient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L109-L111)
 **def
 Tau.Boundary.euler_totient
 (n : ℕ)
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.Boundary.euler_totient_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L113-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L113-L114)
 **theorem
 Tau.Boundary.euler_totient_one :euler_totient 1 = 1**
 
@@ -243,7 +243,7 @@ Tau.Boundary.euler_totient_one :euler_totient 1 = 1**
 
 ### `Tau.Boundary.euler_totient_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L116-L117)
 **theorem
 Tau.Boundary.euler_totient_two :euler_totient 2 = 1**
 
@@ -254,7 +254,7 @@ Tau.Boundary.euler_totient_two :euler_totient 2 = 1**
 
 ### `Tau.Boundary.euler_totient_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L119-L120)
 **theorem
 Tau.Boundary.euler_totient_three :euler_totient 3 = 2**
 
@@ -265,7 +265,7 @@ Tau.Boundary.euler_totient_three :euler_totient 3 = 2**
 
 ### `Tau.Boundary.euler_totient_five`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L121-L121)
 **theorem
 Tau.Boundary.euler_totient_five :euler_totient 5 = 4**
 
@@ -274,7 +274,7 @@ Tau.Boundary.euler_totient_five :euler_totient 5 = 4**
 
 ### `Tau.Boundary.euler_totient_seven`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L122-L122)
 **theorem
 Tau.Boundary.euler_totient_seven :euler_totient 7 = 6**
 
@@ -283,7 +283,7 @@ Tau.Boundary.euler_totient_seven :euler_totient 7 = 6**
 
 ### `Tau.Boundary.galois_action`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L128-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L128-L137)
 **theorem
 Tau.Boundary.galois_action
 (n k : ℕ)
@@ -304,7 +304,7 @@ This previews Gal(Q(ζ_n)/Q) ≅ (Z/nZ)×.
 
 ### `Tau.Boundary.galois_action_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Cyclotomic.lean#L139-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Cyclotomic.lean#L139-L143)
 **theorem
 Tau.Boundary.galois_action_comp
 (n j k : ℕ)

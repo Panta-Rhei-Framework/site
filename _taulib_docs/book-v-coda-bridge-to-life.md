@@ -138,7 +138,7 @@ no bound states form and the E2 enrichment cannot begin.
 
 ### `Tau.BookV.Coda.ExportContractVI`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L93-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L93-L119)
 **structure
 Tau.BookV.Coda.ExportContractVI :Type**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprExportContractVI.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L119-L119)
 **def
 Tau.BookV.Coda.instReprExportContractVI.repr :ExportContractVI → ℕ → Std.Format**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprExportContractVI`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L119-L119)
 **instance
 Tau.BookV.Coda.instReprExportContractVI :Repr ExportContractVI**
 
@@ -206,7 +206,7 @@ Equations
 
 ### `Tau.BookV.Coda.export_vi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L121-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L121-L124)
 **def
 Tau.BookV.Coda.export_vi :ExportContractVI**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookV.Coda.export_vi_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L126-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L126-L128)
 **theorem
 Tau.BookV.Coda.export_vi_count :export_vi.item_count = 6**
 
@@ -231,7 +231,7 @@ Export contract VI has 6 items.
 
 ### `Tau.BookV.Coda.ExportContractVII`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L134-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L134-L160)
 **structure
 Tau.BookV.Coda.ExportContractVII :Type**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprExportContractVII.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L160-L160)
 **def
 Tau.BookV.Coda.instReprExportContractVII.repr :ExportContractVII → ℕ → Std.Format**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprExportContractVII`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L160-L160)
 **instance
 Tau.BookV.Coda.instReprExportContractVII :Repr ExportContractVII**
 
@@ -299,7 +299,7 @@ Equations
 
 ### `Tau.BookV.Coda.export_vii`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L162-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L162-L165)
 **def
 Tau.BookV.Coda.export_vii :ExportContractVII**
 
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookV.Coda.export_vii_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L167-L169)
 **theorem
 Tau.BookV.Coda.export_vii_count :export_vii.item_count = 6**
 
@@ -324,7 +324,7 @@ Export contract VII has 6 items.
 
 ### `Tau.BookV.Coda.export_contracts_symmetric`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L171-L174)
 **theorem
 Tau.BookV.Coda.export_contracts_symmetric :export_vi.item_count = export_vii.item_count**
 
@@ -335,7 +335,7 @@ Both export contracts have the same size.
 
 ### `Tau.BookV.Coda.HermeticTruth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L180-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L180-L212)
 **structure
 Tau.BookV.Coda.HermeticTruth :Type**
 
@@ -386,7 +386,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprHermeticTruth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L212-L212)
 **instance
 Tau.BookV.Coda.instReprHermeticTruth :Repr HermeticTruth**
 
@@ -397,7 +397,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprHermeticTruth.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L212-L212)
 **def
 Tau.BookV.Coda.instReprHermeticTruth.repr :HermeticTruth → ℕ → Std.Format**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L214-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L214-L221)
 **def
 Tau.BookV.Coda.hermetic_data :HermeticTruth**
 
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookV.Coda.hermetic_truth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L223-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L223-L228)
 **theorem
 Tau.BookV.Coda.hermetic_truth :hermetic_data.total = 5 ∧ hermetic_data.tensor_exact = true ∧ hermetic_data.crossing_mediates = true**
 
@@ -434,7 +434,7 @@ The Hermetic Truth: base + fiber = 5 generators, tensor exact.
 
 ### `Tau.BookV.Coda.base_plus_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L230-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L230-L234)
 **theorem
 Tau.BookV.Coda.base_plus_fiber :hermetic_data.base_generators + hermetic_data.fiber_generators = hermetic_data.total**
 
@@ -445,7 +445,7 @@ Base + fiber = total.
 
 ### `Tau.BookV.Coda.ProfiniteErgodicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L240-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L240-L259)
 **structure
 Tau.BookV.Coda.ProfiniteErgodicity :Type**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprProfiniteErgodicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L259-L259)
 **instance
 Tau.BookV.Coda.instReprProfiniteErgodicity :Repr ProfiniteErgodicity**
 
@@ -490,7 +490,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprProfiniteErgodicity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L259-L259)
 **def
 Tau.BookV.Coda.instReprProfiniteErgodicity.repr :ProfiniteErgodicity → ℕ → Std.Format**
 
@@ -502,7 +502,7 @@ Instances For
 
 ### `Tau.BookV.Coda.ergodic_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L261-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L261-L262)
 **def
 Tau.BookV.Coda.ergodic_data :ProfiniteErgodicity**
 
@@ -516,7 +516,7 @@ Instances For
 
 ### `Tau.BookV.Coda.profinite_ergodicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L264-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L264-L269)
 **theorem
 Tau.BookV.Coda.profinite_ergodicity :ergodic_data.uniquely_ergodic = true ∧ ergodic_data.orbits_dense = true ∧ ergodic_data.determines_iota = true**
 
@@ -527,7 +527,7 @@ Profinite flow is uniquely ergodic and determines iota_tau.
 
 ### `Tau.BookV.Coda.RationalityRequirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L275-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L275-L291)
 **structure
 Tau.BookV.Coda.RationalityRequirement :Type**
 
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprRationalityRequirement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L291-L291)
 **def
 Tau.BookV.Coda.instReprRationalityRequirement.repr :RationalityRequirement → ℕ → Std.Format**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprRationalityRequirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L291-L291)
 **instance
 Tau.BookV.Coda.instReprRationalityRequirement :Repr RationalityRequirement**
 
@@ -581,7 +581,7 @@ Equations
 
 ### `Tau.BookV.Coda.rationality_req`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L293-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L293-L296)
 **def
 Tau.BookV.Coda.rationality_req :RationalityRequirement**
 
@@ -595,7 +595,7 @@ Instances For
 
 ### `Tau.BookV.Coda.rationality_requirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L298-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L298-L302)
 **theorem
 Tau.BookV.Coda.rationality_requirement :rationality_req.triple_size = 3 ∧ rationality_req.all_factor_finite = true**
 
@@ -606,7 +606,7 @@ BSD triple has 3 characters.
 
 ### `Tau.BookV.Coda.EWBridgeNecessity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L308-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L308-L326)
 **structure
 Tau.BookV.Coda.EWBridgeNecessity :Type**
 
@@ -644,7 +644,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprEWBridgeNecessity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L326-L326)
 **def
 Tau.BookV.Coda.instReprEWBridgeNecessity.repr :EWBridgeNecessity → ℕ → Std.Format**
 
@@ -656,7 +656,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprEWBridgeNecessity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L326-L326)
 **instance
 Tau.BookV.Coda.instReprEWBridgeNecessity :Repr EWBridgeNecessity**
 
@@ -667,7 +667,7 @@ Equations
 
 ### `Tau.BookV.Coda.ew_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L328-L329)
 **def
 Tau.BookV.Coda.ew_bridge :EWBridgeNecessity**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookV.Coda.ew_bridge_necessity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L331-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L331-L336)
 **theorem
 Tau.BookV.Coda.ew_bridge_necessity :ew_bridge.coupling_positive = true ∧ ew_bridge.required_for_atoms = true ∧ ew_bridge.required_for_e2 = true**
 
@@ -692,7 +692,7 @@ EW bridge is necessary for atoms and E2.
 
 ### `Tau.BookV.Coda.why_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L342-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L342-L348)
 **theorem
 Tau.BookV.Coda.why_three :"BSD triple (met, rep, err): minimal for self-enrichment, mirrors 3 fiber gens" = "BSD triple (met, rep, err): minimal for self-enrichment, mirrors 3 fiber gens"**
 
@@ -706,7 +706,7 @@ the 3 fiber generators (gamma, eta, omega) in the spatial sector.
 
 ### `Tau.BookV.Coda.connection_p_np`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L350-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L350-L356)
 **theorem
 Tau.BookV.Coda.connection_p_np :"Rationality + P=NP in tau -> E2 entities have no complexity barrier" = "Rationality + P=NP in tau -> E2 entities have no complexity barrier"**
 
@@ -720,7 +720,7 @@ has no complexity barrier.
 
 ### `Tau.BookV.Coda.life_window_narrow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L358-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L358-L365)
 **theorem
 Tau.BookV.Coda.life_window_narrow :"Life window: iota_tau must allow stable atoms (not fine-tuned, fixed by axioms)" = "Life window: iota_tau must allow stable atoms (not fine-tuned, fixed by axioms)"**
 
@@ -735,7 +735,7 @@ of the sector structure.
 
 ### `Tau.BookV.Coda.sector_exhaustion_support`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L367-L373)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L367-L373)
 **theorem
 Tau.BookV.Coda.sector_exhaustion_support :"5 sectors exhaust budget -> Hermetic Truth structurally supported" = "5 sectors exhaust budget -> Hermetic Truth structurally supported"**
 
@@ -749,7 +749,7 @@ structure can be added without breaking coherence.
 
 ### `Tau.BookV.Coda.pre_socratics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L375-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L375-L382)
 **theorem
 Tau.BookV.Coda.pre_socratics :"Panta rhei: profinite flow rho on L = Heraclitus formalized" = "Panta rhei: profinite flow rho on L = Heraclitus formalized"**
 
@@ -764,7 +764,7 @@ The lemniscate is the river.
 
 ### `Tau.BookV.Coda.ExportCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L422-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L422-L446)
 **structure
 Tau.BookV.Coda.ExportCompleteness :Type**
 
@@ -812,7 +812,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprExportCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L446-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L446-L446)
 **instance
 Tau.BookV.Coda.instReprExportCompleteness :Repr ExportCompleteness**
 
@@ -823,7 +823,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprExportCompleteness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L446-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L446-L446)
 **def
 Tau.BookV.Coda.instReprExportCompleteness.repr :ExportCompleteness → ℕ → Std.Format**
 
@@ -835,7 +835,7 @@ Instances For
 
 ### `Tau.BookV.Coda.export_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L448-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L448-L453)
 **def
 Tau.BookV.Coda.export_complete :ExportCompleteness**
 
@@ -850,7 +850,7 @@ Instances For
 
 ### `Tau.BookV.Coda.export_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L455-L460)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L455-L460)
 **theorem
 Tau.BookV.Coda.export_completeness :export_complete.vi_items = 6 ∧ export_complete.vii_items = 6 ∧ export_complete.sufficient = true**
 
@@ -861,7 +861,7 @@ Export contracts are sufficient: 6 + 6 items cover all downstream needs.
 
 ### `Tau.BookV.Coda.unique_items_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L462-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L462-L464)
 **theorem
 Tau.BookV.Coda.unique_items_count :6 + 6 - 1 = 11**
 
@@ -872,7 +872,7 @@ Total unique items: 6 + 6 − 1 overlap = 11.
 
 ### `Tau.BookV.Coda.contracts_match_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L466-L469)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L466-L469)
 **theorem
 Tau.BookV.Coda.contracts_match_completeness :export_vi.item_count = export_complete.vi_items ∧ export_vii.item_count = export_complete.vii_items**
 
@@ -883,7 +883,7 @@ Export completeness matches contract sizes from V.D190/V.D191.
 
 ### `Tau.BookV.Coda.EntropySplittingLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L475-L491)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L475-L491)
 **structure
 Tau.BookV.Coda.EntropySplittingLife :Type**
 
@@ -919,7 +919,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprEntropySplittingLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L491-L491)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L491-L491)
 **instance
 Tau.BookV.Coda.instReprEntropySplittingLife :Repr EntropySplittingLife**
 
@@ -930,7 +930,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprEntropySplittingLife.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L491-L491)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L491-L491)
 **def
 Tau.BookV.Coda.instReprEntropySplittingLife.repr :EntropySplittingLife → ℕ → Std.Format**
 
@@ -942,7 +942,7 @@ Instances For
 
 ### `Tau.BookV.Coda.entropy_life`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L493-L494)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L493-L494)
 **def
 Tau.BookV.Coda.entropy_life :EntropySplittingLife**
 
@@ -956,7 +956,7 @@ Instances For
 
 ### `Tau.BookV.Coda.entropy_splitting_life`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L496-L501)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L496-L501)
 **theorem
 Tau.BookV.Coda.entropy_splitting_life :entropy_life.local_bounded = true ∧ entropy_life.global_increasing = true ∧ entropy_life.requires_splitting = true**
 
@@ -967,7 +967,7 @@ Entropy splitting enables life: local bounded, global increasing.
 
 ### `Tau.BookV.Coda.entropy_in_export_vi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L503-L505)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L503-L505)
 **theorem
 Tau.BookV.Coda.entropy_in_export_vi :export_vi.entropy_splitting = true**
 
@@ -978,7 +978,7 @@ Entropy splitting (X2) is in the Book VI export contract.
 
 ### `Tau.BookV.Coda.BHAsFFE`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L511-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L511-L533)
 **structure
 Tau.BookV.Coda.BHAsFFE :Type**
 
@@ -1021,7 +1021,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprBHAsFFE.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L533-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L533-L533)
 **def
 Tau.BookV.Coda.instReprBHAsFFE.repr :BHAsFFE → ℕ → Std.Format**
 
@@ -1033,7 +1033,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprBHAsFFE`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L533-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L533-L533)
 **instance
 Tau.BookV.Coda.instReprBHAsFFE :Repr BHAsFFE**
 
@@ -1044,7 +1044,7 @@ Equations
 
 ### `Tau.BookV.Coda.bh_ffe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L535-L538)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L535-L538)
 **def
 Tau.BookV.Coda.bh_ffe :BHAsFFE**
 
@@ -1058,7 +1058,7 @@ Instances For
 
 ### `Tau.BookV.Coda.bh_as_ffe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L540-L546)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L540-L546)
 **theorem
 Tau.BookV.Coda.bh_as_ffe :bh_ffe.ffe_conditions = 3 ∧ bh_ffe.bounded_s_def = true ∧ bh_ffe.boundary_flux = true ∧ bh_ffe.internal_circulation = true**
 
@@ -1069,7 +1069,7 @@ BHs satisfy all 3 FFE conditions.
 
 ### `Tau.BookV.Coda.ffe_matches_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/BridgeToLife.lean#L548-L550)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/BridgeToLife.lean#L548-L550)
 **theorem
 Tau.BookV.Coda.ffe_matches_conditions :bh_ffe.ffe_conditions = bh_ffe.ffe_label_count**
 

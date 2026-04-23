@@ -56,7 +56,7 @@ The polarity at bound N is: p is B-dominant if B_max > C_max.
 
 ### `Tau.Polarity.spectral_scan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L35-L48)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L35-L48)@[irreducible]
 
 **def
 Tau.Polarity.spectral_scan
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.Polarity.spectral_sig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L50-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L50-L52)
 **def
 Tau.Polarity.spectral_sig
 (p N : Denotation.TauIdx)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.Polarity.b_max`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L54-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L54-L55)
 **def
 Tau.Polarity.b_max
 (p N : Denotation.TauIdx)
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.Polarity.c_max`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L57-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L57-L58)
 **def
 Tau.Polarity.c_max
 (p N : Denotation.TauIdx)
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Polarity.pol_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L64-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L64-L65)
 **def
 Tau.Polarity.pol_at
 (p N : Denotation.TauIdx)
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.Polarity.pol_label`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L67-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L67-L69)
 **def
 Tau.Polarity.pol_label
 (p N : Denotation.TauIdx)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.Polarity.growth_rate_separation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L75-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L75-L78)
 **theorem
 Tau.Polarity.growth_rate_separation
 (a : Nat)
@@ -173,7 +173,7 @@ a↑↑C > a^B. This is a direct corollary of tetration_unbounded.
 
 ### `Tau.Polarity.tetration_ge_arg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Spectral.lean#L80-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Spectral.lean#L80-L87)
 **theorem
 Tau.Polarity.tetration_ge_arg
 (a : Nat)

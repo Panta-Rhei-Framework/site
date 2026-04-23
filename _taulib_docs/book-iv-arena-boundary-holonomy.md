@@ -67,7 +67,7 @@ and the Central Theorem in its physical form.
 
 ### `Tau.BookIV.Arena.YonedaSelfImage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L36-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L36-L46)
 **structure
 Tau.BookIV.Arena.YonedaSelfImage :Type**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprYonedaSelfImage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L46-L46)
 **instance
 Tau.BookIV.Arena.instReprYonedaSelfImage :Repr YonedaSelfImage**
 
@@ -101,7 +101,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprYonedaSelfImage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L46-L46)
 **def
 Tau.BookIV.Arena.instReprYonedaSelfImage.repr :YonedaSelfImage → ℕ → Std.Format**
 
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.yoneda_self`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L48-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L48-L53)
 **def
 Tau.BookIV.Arena.yoneda_self :YonedaSelfImage**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.central_theorem_physical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L59-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L59-L66)
 **axiom
 Tau.BookIV.Arena.central_theorem_physical :True**
 
@@ -141,7 +141,7 @@ This is an axiom at E₁: the mathematical proof is in Book II (II.T15).
 
 ### `Tau.BookIV.Arena.CharacterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L72-L78)
 **inductive
 Tau.BookIV.Arena.CharacterType :Type**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCharacterType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
 **def
 Tau.BookIV.Arena.instReprCharacterType.repr :CharacterType → ℕ → Std.Format**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCharacterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
 **instance
 Tau.BookIV.Arena.instReprCharacterType :Repr CharacterType**
 
@@ -181,7 +181,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instDecidableEqCharacterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
 **instance
 Tau.BookIV.Arena.instDecidableEqCharacterType :DecidableEq CharacterType**
 
@@ -192,7 +192,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instBEqCharacterType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
 **def
 Tau.BookIV.Arena.instBEqCharacterType.beq :CharacterType → CharacterType → Bool**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instBEqCharacterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L78-L78)
 **instance
 Tau.BookIV.Arena.instBEqCharacterType :BEq CharacterType**
 
@@ -215,7 +215,7 @@ Equations
 
 ### `Tau.BookIV.Arena.BoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L80-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L80-L88)
 **structure
 Tau.BookIV.Arena.BoundaryCharacter :Type**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L88-L88)
 **instance
 Tau.BookIV.Arena.instReprBoundaryCharacter :Repr BoundaryCharacter**
 
@@ -247,7 +247,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprBoundaryCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L88-L88)
 **def
 Tau.BookIV.Arena.instReprBoundaryCharacter.repr :BoundaryCharacter → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.BipolarDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L94-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L94-L104)
 **structure
 Tau.BookIV.Arena.BipolarDecomposition :Type**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprBipolarDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L104-L104)
 **def
 Tau.BookIV.Arena.instReprBipolarDecomposition.repr :BipolarDecomposition → ℕ → Std.Format**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprBipolarDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L104-L104)
 **instance
 Tau.BookIV.Arena.instReprBipolarDecomposition :Repr BipolarDecomposition**
 
@@ -305,7 +305,7 @@ Equations
 
 ### `Tau.BookIV.Arena.sigma_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L110-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L110-L114)
 **theorem
 Tau.BookIV.Arena.sigma_fixed :Boundary.iota_tau_numer = Boundary.iota_tau_numer**
 
@@ -319,7 +319,7 @@ Formalized: ι<sub>τ</sub> is the same whether read from χ₊ or χ₋ perspec
 
 ### `Tau.BookIV.Arena.PhysConstCore`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L120-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L120-L128)
 **structure
 Tau.BookIV.Arena.PhysConstCore :Type**
 
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprPhysConstCore.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L128-L128)
 **def
 Tau.BookIV.Arena.instReprPhysConstCore.repr :PhysConstCore → ℕ → Std.Format**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprPhysConstCore`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L128-L128)
 **instance
 Tau.BookIV.Arena.instReprPhysConstCore :Repr PhysConstCore**
 
@@ -362,7 +362,7 @@ Equations
 
 ### `Tau.BookIV.Arena.phys_const_core`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L130-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L130-L133)
 **def
 Tau.BookIV.Arena.phys_const_core :PhysConstCore**
 
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.SectorLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L139-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L139-L147)
 **structure
 Tau.BookIV.Arena.SectorLift :Type**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprSectorLift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L147-L147)
 **def
 Tau.BookIV.Arena.instReprSectorLift.repr :SectorLift → ℕ → Std.Format**
 
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprSectorLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L147-L147)
 **instance
 Tau.BookIV.Arena.instReprSectorLift :Repr SectorLift**
 
@@ -419,7 +419,7 @@ Equations
 
 ### `Tau.BookIV.Arena.all_sector_lifts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L149-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L149-L152)
 **def
 Tau.BookIV.Arena.all_sector_lifts :List SectorLift**
 
@@ -433,7 +433,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.BoundaryChartReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L160-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L160-L169)
 **structure
 Tau.BookIV.Arena.BoundaryChartReadout :Type**
 
@@ -455,7 +455,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprBoundaryChartReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L169-L169)
 **instance
 Tau.BookIV.Arena.instReprBoundaryChartReadout :Repr BoundaryChartReadout**
 
@@ -466,7 +466,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprBoundaryChartReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L169-L169)
 **def
 Tau.BookIV.Arena.instReprBoundaryChartReadout.repr :BoundaryChartReadout → ℕ → Std.Format**
 
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.smooth_from_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L175-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L175-L180)
 **theorem
 Tau.BookIV.Arena.smooth_from_coherent :all_sector_lifts.length = 5 ∧ chart_readout.target_dim = 4**
 
@@ -491,7 +491,7 @@ a smooth 4-manifold (locally ℝ⁴).
 
 ### `Tau.BookIV.Arena.boundary_triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L189-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/BoundaryHolonomy.lean#L189-L201)
 **theorem
 Tau.BookIV.Arena.boundary_triad :1 + 1 + 1 = 3 ∧ CharacterType.ChiPlus ≠ CharacterType.ChiMinus ∧ all_sector_lifts.length = 5 ∧ chart_readout.target_dim = 4**
 

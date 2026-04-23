@@ -98,7 +98,7 @@ character magnitudes at early ticks.
 
 ### `Tau.BookV.Cosmology.TemporalOpening`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L59-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L59-L77)
 **structure
 Tau.BookV.Cosmology.TemporalOpening :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTemporalOpening.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L77-L77)
 **def
 Tau.BookV.Cosmology.instReprTemporalOpening.repr :TemporalOpening → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTemporalOpening`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L77-L77)
 **instance
 Tau.BookV.Cosmology.instReprTemporalOpening :Repr TemporalOpening**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.canonical_opening`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L79-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L79-L82)
 **def
 Tau.BookV.Cosmology.canonical_opening :TemporalOpening**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.opening_first_tick`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L84-L86)
 **theorem
 Tau.BookV.Cosmology.opening_first_tick :canonical_opening.first_tick = 1**
 
@@ -185,7 +185,7 @@ The first tick is always 1 (no zeroth tick).
 
 ### `Tau.BookV.Cosmology.CosmologicalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L92-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L92-L100)
 **inductive
 Tau.BookV.Cosmology.CosmologicalEpoch :Type**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCosmologicalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
 **instance
 Tau.BookV.Cosmology.instReprCosmologicalEpoch :Repr CosmologicalEpoch**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCosmologicalEpoch.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
 **def
 Tau.BookV.Cosmology.instReprCosmologicalEpoch.repr :CosmologicalEpoch → ℕ → Std.Format**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instDecidableEqCosmologicalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
 **instance
 Tau.BookV.Cosmology.instDecidableEqCosmologicalEpoch :DecidableEq CosmologicalEpoch**
 
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqCosmologicalEpoch.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
 **def
 Tau.BookV.Cosmology.instBEqCosmologicalEpoch.beq :CosmologicalEpoch → CosmologicalEpoch → Bool**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instBEqCosmologicalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L100-L100)
 **instance
 Tau.BookV.Cosmology.instBEqCosmologicalEpoch :BEq CosmologicalEpoch**
 
@@ -264,7 +264,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.PreHadronicRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L102-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L102-L118)
 **structure
 Tau.BookV.Cosmology.PreHadronicRegime :Type**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPreHadronicRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L118-L118)
 **def
 Tau.BookV.Cosmology.instReprPreHadronicRegime.repr :PreHadronicRegime → ℕ → Std.Format**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPreHadronicRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L118-L118)
 **instance
 Tau.BookV.Cosmology.instReprPreHadronicRegime :Repr PreHadronicRegime**
 
@@ -323,7 +323,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.RegimeBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L124-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L124-L137)
 **structure
 Tau.BookV.Cosmology.RegimeBoundaryCharacter :Type**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRegimeBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L137-L137)
 **instance
 Tau.BookV.Cosmology.instReprRegimeBoundaryCharacter :Repr RegimeBoundaryCharacter**
 
@@ -362,7 +362,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprRegimeBoundaryCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L137-L137)
 **def
 Tau.BookV.Cosmology.instReprRegimeBoundaryCharacter.repr :RegimeBoundaryCharacter → ℕ → Std.Format**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.early_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L139-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L139-L143)
 **def
 Tau.BookV.Cosmology.early_character :RegimeBoundaryCharacter**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.late_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L145-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L145-L149)
 **def
 Tau.BookV.Cosmology.late_character :RegimeBoundaryCharacter**
 
@@ -402,7 +402,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.same_equation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L155-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L155-L162)
 **theorem
 Tau.BookV.Cosmology.same_equation
 (c1 c2 : RegimeBoundaryCharacter)
@@ -423,7 +423,7 @@ equation's structure. Early ticks ≠ different physics.
 
 ### `Tau.BookV.Cosmology.no_singularity_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L168-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L168-L182)
 **theorem
 Tau.BookV.Cosmology.no_singularity_theorem
 (o : TemporalOpening)
@@ -449,7 +449,7 @@ first element), not a smooth manifold with a continuum limit.
 
 ### `Tau.BookV.Cosmology.big_bang_opening_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L188-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L188-L195)
 **theorem
 Tau.BookV.Cosmology.big_bang_opening_regime :"Big Bang = opening regime: same equation, extreme early characters, no singularity" = "Big Bang = opening regime: same equation, extreme early characters, no singularity"**
 
@@ -464,7 +464,7 @@ at early ticks. No singularity. No point of infinite density.
 
 ### `Tau.BookV.Cosmology.opening_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BigBangRegime.lean#L197-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BigBangRegime.lean#L197-L199)
 **theorem
 Tau.BookV.Cosmology.opening_positive :canonical_opening.first_tick > 0**
 

@@ -64,7 +64,7 @@ orthogonal and complete.
 
 ### `Tau.BookII.Enrichment.hom_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L46-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L46-L52)
 **def
 Tau.BookII.Enrichment.hom_stage
 (a b k : Denotation.TauIdx)
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_tower_coherent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L54-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L54-L71)
 **def
 Tau.BookII.Enrichment.hom_tower_coherent_check
 (bound db : Denotation.TauIdx)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_tower_coherent_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L61-L70)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L61-L70)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_tower_coherent_check.go
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.self_enrichment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L73-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L73-L93)
 **def
 Tau.BookII.Enrichment.self_enrichment_check
 (bound db : Denotation.TauIdx)
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.self_enrichment_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L80-L92)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L80-L92)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.self_enrichment_check.go
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.SelfEnrich`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L95-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L95-L102)
 **structure
 Tau.BookII.Enrichment.SelfEnrich :Type**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.instReprSelfEnrich.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L102-L102)
 **def
 Tau.BookII.Enrichment.instReprSelfEnrich.repr :SelfEnrich → ℕ → Std.Format**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.instReprSelfEnrich`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L102-L102)
 **instance
 Tau.BookII.Enrichment.instReprSelfEnrich :Repr SelfEnrich**
 
@@ -199,7 +199,7 @@ Equations
 
 ### `Tau.BookII.Enrichment.mk_self_enrich`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L104-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L104-L106)
 **def
 Tau.BookII.Enrichment.mk_self_enrich
 (max_stage max_val : Denotation.TauIdx)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.is_reduce_compat_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L112-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L112-L125)
 **def
 Tau.BookII.Enrichment.is_reduce_compat_at
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.is_reduce_compat_at.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L119-L124)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L119-L124)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.is_reduce_compat_at.go
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_count_affine`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L127-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L127-L146)
 **def
 Tau.BookII.Enrichment.hom_obj_count_affine
 (k : Denotation.TauIdx)
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_count_affine.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L137-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L137-L145)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_obj_count_affine.go
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L148-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L148-L158)
 **def
 Tau.BookII.Enrichment.hom_obj_identity_check
 (db : Denotation.TauIdx)
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L152-L157)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L152-L157)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_obj_identity_check.go
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_constant_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L160-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L160-L170)
 **def
 Tau.BookII.Enrichment.hom_obj_constant_check
 (db : Denotation.TauIdx)
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_constant_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L164-L169)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L164-L169)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_obj_constant_check.go
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_count_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L172-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L172-L184)
 **def
 Tau.BookII.Enrichment.hom_obj_count_check
 (db : Denotation.TauIdx)
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_obj_count_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L178-L183)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L178-L183)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_obj_count_check.go
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_bipolar_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L190-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L190-L219)
 **def
 Tau.BookII.Enrichment.hom_bipolar_check
 (bound db : Denotation.TauIdx)
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_bipolar_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L201-L218)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L201-L218)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_bipolar_check.go
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_channel_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L221-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L221-L246)
 **def
 Tau.BookII.Enrichment.hom_channel_independence_check
 (bound db : Denotation.TauIdx)
@@ -453,7 +453,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_channel_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L228-L245)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L228-L245)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.hom_channel_independence_check.go
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.full_self_enrichment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L252-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L252-L262)
 **def
 Tau.BookII.Enrichment.full_self_enrichment_check
 (bound db : Denotation.TauIdx)
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_tower_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L305-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L305-L306)
 **theorem
 Tau.BookII.Enrichment.hom_tower_8_3 :hom_tower_coherent_check 8 3 = true**
 
@@ -497,7 +497,7 @@ Tau.BookII.Enrichment.hom_tower_8_3 :hom_tower_coherent_check 8 3 = true**
 
 ### `Tau.BookII.Enrichment.self_enrich_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L309-L310)
 **theorem
 Tau.BookII.Enrichment.self_enrich_8_3 :self_enrichment_check 8 3 = true**
 
@@ -506,7 +506,7 @@ Tau.BookII.Enrichment.self_enrich_8_3 :self_enrichment_check 8 3 = true**
 
 ### `Tau.BookII.Enrichment.hom_identity_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L313-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L313-L314)
 **theorem
 Tau.BookII.Enrichment.hom_identity_3 :hom_obj_identity_check 3 = true**
 
@@ -515,7 +515,7 @@ Tau.BookII.Enrichment.hom_identity_3 :hom_obj_identity_check 3 = true**
 
 ### `Tau.BookII.Enrichment.hom_constant_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L317-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L317-L318)
 **theorem
 Tau.BookII.Enrichment.hom_constant_3 :hom_obj_constant_check 3 = true**
 
@@ -524,7 +524,7 @@ Tau.BookII.Enrichment.hom_constant_3 :hom_obj_constant_check 3 = true**
 
 ### `Tau.BookII.Enrichment.hom_count_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L321-L322)
 **theorem
 Tau.BookII.Enrichment.hom_count_3 :hom_obj_count_check 3 = true**
 
@@ -533,7 +533,7 @@ Tau.BookII.Enrichment.hom_count_3 :hom_obj_count_check 3 = true**
 
 ### `Tau.BookII.Enrichment.hom_bipolar_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L325-L326)
 **theorem
 Tau.BookII.Enrichment.hom_bipolar_8_3 :hom_bipolar_check 8 3 = true**
 
@@ -542,7 +542,7 @@ Tau.BookII.Enrichment.hom_bipolar_8_3 :hom_bipolar_check 8 3 = true**
 
 ### `Tau.BookII.Enrichment.hom_channel_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L329-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L329-L330)
 **theorem
 Tau.BookII.Enrichment.hom_channel_8_3 :hom_channel_independence_check 8 3 = true**
 
@@ -551,7 +551,7 @@ Tau.BookII.Enrichment.hom_channel_8_3 :hom_channel_independence_check 8 3 = true
 
 ### `Tau.BookII.Enrichment.full_self_enrich_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L333-L334)
 **theorem
 Tau.BookII.Enrichment.full_self_enrich_8_3 :full_self_enrichment_check 8 3 = true**
 
@@ -560,7 +560,7 @@ Tau.BookII.Enrichment.full_self_enrich_8_3 :full_self_enrichment_check 8 3 = tru
 
 ### `Tau.BookII.Enrichment.hom_stage_reduce_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L340-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L340-L346)
 **theorem
 Tau.BookII.Enrichment.hom_stage_reduce_stable
 (a b k : Denotation.TauIdx)
@@ -575,7 +575,7 @@ This follows from reduce(reduce(x, k), k) = reduce(x, k).
 
 ### `Tau.BookII.Enrichment.hom_bipolar_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L348-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L348-L356)
 **theorem
 Tau.BookII.Enrichment.hom_bipolar_complete
 (sp : Polarity.SectorPair)
@@ -591,7 +591,7 @@ This follows from e_plus * sp + e_minus * sp = (1,0)*(B,C) + (0,1)*(B,C)
 
 ### `Tau.BookII.Enrichment.hom_bipolar_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L358-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L358-L363)
 **theorem
 Tau.BookII.Enrichment.hom_bipolar_orthogonal
 (sp : Polarity.SectorPair)
@@ -605,7 +605,7 @@ e_plus * (e_minus * sp) = (0, 0) for any sector pair sp.
 
 ### `Tau.BookII.Enrichment.zero_map_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/SelfEnrichment.lean#L365-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/SelfEnrichment.lean#L365-L370)
 **theorem
 Tau.BookII.Enrichment.zero_map_compat
 (_x k : Denotation.TauIdx)

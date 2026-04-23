@@ -46,7 +46,7 @@ Seven hallmarks of life derived from Distinction + SelfDesc.
 
 ### `Tau.BookVI.Hallmarks.Hallmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L19-L22)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L19-L22)
 **structure
 Tau.BookVI.Hallmarks.Hallmark :Type**
 
@@ -59,7 +59,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.instReprHallmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L22-L22)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L22-L22)
 **instance
 Tau.BookVI.Hallmarks.instReprHallmark :Repr Hallmark**
 
@@ -70,7 +70,7 @@ Equations
 
 ### `Tau.BookVI.Hallmarks.instReprHallmark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L22-L22)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L22-L22)
 **def
 Tau.BookVI.Hallmarks.instReprHallmark.repr :Hallmark → ℕ → Std.Format**
 
@@ -82,7 +82,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.organization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L24-L27)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L24-L27)
 **def
 Tau.BookVI.Hallmarks.organization :Hallmark**
 
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.metabolism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L29-L32)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L29-L32)
 **def
 Tau.BookVI.Hallmarks.metabolism :Hallmark**
 
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.homeostasis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L34-L37)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L34-L37)
 **def
 Tau.BookVI.Hallmarks.homeostasis :Hallmark**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.growth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L39-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L39-L42)
 **def
 Tau.BookVI.Hallmarks.growth :Hallmark**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.reproduction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L44-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L44-L47)
 **def
 Tau.BookVI.Hallmarks.reproduction :Hallmark**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.response`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L49-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L49-L52)
 **def
 Tau.BookVI.Hallmarks.response :Hallmark**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.evolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L54-L57)
 **def
 Tau.BookVI.Hallmarks.evolution :Hallmark**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.all_hallmarks`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L59-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L59-L60)
 **def
 Tau.BookVI.Hallmarks.all_hallmarks :List Hallmark**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.hallmark_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L62-L62)
 **theorem
 Tau.BookVI.Hallmarks.hallmark_count :all_hallmarks.length = 7**
 
@@ -201,7 +201,7 @@ Tau.BookVI.Hallmarks.hallmark_count :all_hallmarks.length = 7**
 
 ### `Tau.BookVI.Hallmarks.ThermodynamicInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L64-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L64-L69)
 **structure
 Tau.BookVI.Hallmarks.ThermodynamicInevitability :Type**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.instReprThermodynamicInevitability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L69-L69)
 **def
 Tau.BookVI.Hallmarks.instReprThermodynamicInevitability.repr :ThermodynamicInevitability → ℕ → Std.Format**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.instReprThermodynamicInevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L69-L69)
 **instance
 Tau.BookVI.Hallmarks.instReprThermodynamicInevitability :Repr ThermodynamicInevitability**
 
@@ -240,7 +240,7 @@ Equations
 
 ### `Tau.BookVI.Hallmarks.thermo_inev`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L71-L71)
 **def
 Tau.BookVI.Hallmarks.thermo_inev :ThermodynamicInevitability**
 
@@ -252,6 +252,6 @@ Instances For
 
 ### `Tau.BookVI.Hallmarks.thermodynamic_inevitability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Hallmarks.lean#L73-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Hallmarks.lean#L73-L76)
 **theorem
 Tau.BookVI.Hallmarks.thermodynamic_inevitability :thermo_inev.is_attractor = true ∧ thermo_inev.scope = "conjectural"**

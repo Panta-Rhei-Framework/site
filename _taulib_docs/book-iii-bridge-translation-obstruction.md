@@ -80,7 +80,7 @@ cannot be translated to ZFC as P = NP or P ≠ NP (independence).
 
 ### `Tau.BookIII.Bridge.TranslationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L58-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L58-L65)
 **inductive
 Tau.BookIII.Bridge.TranslationObstruction :Type**
 
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprTranslationObstruction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
 **def
 Tau.BookIII.Bridge.instReprTranslationObstruction.repr :TranslationObstruction → ℕ → Std.Format**
 
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprTranslationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
 **instance
 Tau.BookIII.Bridge.instReprTranslationObstruction :Repr TranslationObstruction**
 
@@ -121,7 +121,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqTranslationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
 **instance
 Tau.BookIII.Bridge.instDecidableEqTranslationObstruction :DecidableEq TranslationObstruction**
 
@@ -132,7 +132,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqTranslationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
 **instance
 Tau.BookIII.Bridge.instBEqTranslationObstruction :BEq TranslationObstruction**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqTranslationObstruction.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L65-L65)
 **def
 Tau.BookIII.Bridge.instBEqTranslationObstruction.beq :TranslationObstruction → TranslationObstruction → Bool**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.obstruction_damage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L67-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L67-L74)
 **def
 Tau.BookIII.Bridge.obstruction_damage
 (obs : TranslationObstruction)
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.obstruction_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L76-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L76-L98)
 **def
 Tau.BookIII.Bridge.obstruction_value
 (obs : TranslationObstruction)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.obstruction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L100-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L100-L121)
 **def
 Tau.BookIII.Bridge.obstruction_check
 (db : ℕ)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.obstruction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L105-L120)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L105-L120)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.obstruction_check.go
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_obstructs_arith`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L127-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L127-L134)
 **def
 Tau.BookIII.Bridge.move_obstructs_arith
 (obs : TranslationObstruction)
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.move_obstructs_topo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L136-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L136-L143)
 **def
 Tau.BookIII.Bridge.move_obstructs_topo
 (obs : TranslationObstruction)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_obstruction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L145-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L145-L150)
 **def
 Tau.BookIII.Bridge.arith_obstruction_count :ℕ**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.topo_obstruction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L152-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L152-L157)
 **def
 Tau.BookIII.Bridge.topo_obstruction_count :ℕ**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.safe_region_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L163-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L163-L184)
 **def
 Tau.BookIII.Bridge.safe_region_check
 (bound db : ℕ)
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.safe_region_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L168-L183)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L168-L183)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.safe_region_check.go
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.translation_failure_boundary_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L186-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L186-L193)
 **def
 Tau.BookIII.Bridge.translation_failure_boundary_check
 (bound db : ℕ)
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.pvsnp_obstruction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L199-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L199-L231)
 **def
 Tau.BookIII.Bridge.pvsnp_obstruction_check
 (db : ℕ)
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.pvsnp_obstruction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L206-L222)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L206-L222)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.pvsnp_obstruction_check.go
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.pvsnp_obstruction_check.log_approx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L224-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L224-L226)
 **def
 Tau.BookIII.Bridge.pvsnp_obstruction_check.log_approx
 (n : ℕ)
@@ -394,7 +394,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.pvsnp_obstruction_check.go_log`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L228-L230)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L228-L230)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.pvsnp_obstruction_check.go_log
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.obstruction_check_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L237-L239)
 **theorem
 Tau.BookIII.Bridge.obstruction_check_3 :obstruction_check 3 = true**
 
@@ -420,7 +420,7 @@ Tau.BookIII.Bridge.obstruction_check_3 :obstruction_check 3 = true**
 
 ### `Tau.BookIII.Bridge.arith_obstruction_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L241-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L241-L243)
 **theorem
 Tau.BookIII.Bridge.arith_obstruction_3 :arith_obstruction_count = 3**
 
@@ -431,7 +431,7 @@ Tau.BookIII.Bridge.arith_obstruction_3 :arith_obstruction_count = 3**
 
 ### `Tau.BookIII.Bridge.topo_obstruction_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L245-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L245-L247)
 **theorem
 Tau.BookIII.Bridge.topo_obstruction_4 :topo_obstruction_count = 4**
 
@@ -442,7 +442,7 @@ Tau.BookIII.Bridge.topo_obstruction_4 :topo_obstruction_count = 4**
 
 ### `Tau.BookIII.Bridge.safe_region_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L249-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L249-L251)
 **theorem
 Tau.BookIII.Bridge.safe_region_8_3 :safe_region_check 8 3 = true**
 
@@ -453,7 +453,7 @@ Tau.BookIII.Bridge.safe_region_8_3 :safe_region_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.translation_boundary_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L253-L255)
 **theorem
 Tau.BookIII.Bridge.translation_boundary_8_3 :translation_failure_boundary_check 8 3 = true**
 
@@ -464,7 +464,7 @@ Tau.BookIII.Bridge.translation_boundary_8_3 :translation_failure_boundary_check 
 
 ### `Tau.BookIII.Bridge.pvsnp_obstruction_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationObstruction.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationObstruction.lean#L257-L259)
 **theorem
 Tau.BookIII.Bridge.pvsnp_obstruction_3 :pvsnp_obstruction_check 3 = true**
 

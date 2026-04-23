@@ -75,7 +75,7 @@ correct scope: established, tau-effective, conjectural, or metaphorical.
 
 ### `Tau.BookIII.Bridge.ScopeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L56-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L56-L63)
 **inductive
 Tau.BookIII.Bridge.ScopeLabel :Type**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprScopeLabel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
 **def
 Tau.BookIII.Bridge.instReprScopeLabel.repr :ScopeLabel → ℕ → Std.Format**
 
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprScopeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
 **instance
 Tau.BookIII.Bridge.instReprScopeLabel :Repr ScopeLabel**
 
@@ -116,7 +116,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqScopeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
 **instance
 Tau.BookIII.Bridge.instDecidableEqScopeLabel :DecidableEq ScopeLabel**
 
@@ -127,7 +127,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqScopeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
 **instance
 Tau.BookIII.Bridge.instBEqScopeLabel :BEq ScopeLabel**
 
@@ -138,7 +138,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqScopeLabel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L63-L63)
 **def
 Tau.BookIII.Bridge.instBEqScopeLabel.beq :ScopeLabel → ScopeLabel → Bool**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.ScopeLabel.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L65-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L65-L70)
 **def
 Tau.BookIII.Bridge.ScopeLabel.toNat :ScopeLabel → ℕ**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_functor_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L76-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L76-L98)
 **def
 Tau.BookIII.Bridge.bridge_functor_check
 (bound db : Denotation.TauIdx)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_functor_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L82-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L82-L97)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.bridge_functor_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_functor_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L100-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L100-L105)
 **axiom
 Tau.BookIII.Bridge.bridge_functor_exists
 (bound db : Denotation.TauIdx)
@@ -218,7 +218,7 @@ The axiom asserts that this extends to the infinite tower.
 
 ### `Tau.BookIII.Bridge.shadow_diagram_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L111-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L111-L139)
 **def
 Tau.BookIII.Bridge.shadow_diagram_check
 (bound db : Denotation.TauIdx)
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.shadow_diagram_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L121-L138)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L121-L138)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.shadow_diagram_check.go
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.BridgeStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L145-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L145-L150)
 **inductive
 Tau.BookIII.Bridge.BridgeStatus :Type**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprBridgeStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
 **instance
 Tau.BookIII.Bridge.instReprBridgeStatus :Repr BridgeStatus**
 
@@ -284,7 +284,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instReprBridgeStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
 **def
 Tau.BookIII.Bridge.instReprBridgeStatus.repr :BridgeStatus → ℕ → Std.Format**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instDecidableEqBridgeStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
 **instance
 Tau.BookIII.Bridge.instDecidableEqBridgeStatus :DecidableEq BridgeStatus**
 
@@ -307,7 +307,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqBridgeStatus.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
 **def
 Tau.BookIII.Bridge.instBEqBridgeStatus.beq :BridgeStatus → BridgeStatus → Bool**
 
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instBEqBridgeStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L150-L150)
 **instance
 Tau.BookIII.Bridge.instBEqBridgeStatus :BEq BridgeStatus**
 
@@ -330,7 +330,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.rh_bridge_three_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L152-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L152-L161)
 **def
 Tau.BookIII.Bridge.rh_bridge_three_layer
 (bound db : Denotation.TauIdx)
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.rh_bridge_layer_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L163-L164)
 **def
 Tau.BookIII.Bridge.rh_bridge_layer_count :ℕ**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.rh_conjectural_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L166-L167)
 **def
 Tau.BookIII.Bridge.rh_conjectural_layer :ℕ**
 
@@ -379,7 +379,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.BridgeLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L173-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L173-L179)
 **structure
 Tau.BookIII.Bridge.BridgeLedgerEntry :Type**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprBridgeLedgerEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **def
 Tau.BookIII.Bridge.instReprBridgeLedgerEntry.repr :BridgeLedgerEntry → ℕ → Std.Format**
 
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprBridgeLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **instance
 Tau.BookIII.Bridge.instReprBridgeLedgerEntry :Repr BridgeLedgerEntry**
 
@@ -419,7 +419,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqBridgeLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **instance
 Tau.BookIII.Bridge.instDecidableEqBridgeLedgerEntry :DecidableEq BridgeLedgerEntry**
 
@@ -430,7 +430,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqBridgeLedgerEntry.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **def
 Tau.BookIII.Bridge.instDecidableEqBridgeLedgerEntry.decEq
 (x✝ x✝¹ : BridgeLedgerEntry)
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instBEqBridgeLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **instance
 Tau.BookIII.Bridge.instBEqBridgeLedgerEntry :BEq BridgeLedgerEntry**
 
@@ -455,7 +455,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqBridgeLedgerEntry.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L179-L179)
 **def
 Tau.BookIII.Bridge.instBEqBridgeLedgerEntry.beq :BridgeLedgerEntry → BridgeLedgerEntry → Bool**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L181-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L181-L191)
 **def
 Tau.BookIII.Bridge.bridge_ledger :List BridgeLedgerEntry**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_ledger_len`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L193-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L193-L194)
 **def
 Tau.BookIII.Bridge.bridge_ledger_len :ℕ**
 
@@ -497,7 +497,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.ledger_status_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L196-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L196-L198)
 **def
 Tau.BookIII.Bridge.ledger_status_count
 (s : BridgeStatus)
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_ledger_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L200-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L200-L205)
 **def
 Tau.BookIII.Bridge.bridge_ledger_check :Bool**
 
@@ -528,7 +528,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.ClaimRecord`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L211-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L211-L215)
 **structure
 Tau.BookIII.Bridge.ClaimRecord :Type**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.established_claims`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L217-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L217-L226)
 **def
 Tau.BookIII.Bridge.established_claims :List ClaimRecord**
 
@@ -559,7 +559,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.honest_claim_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L228-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L228-L243)
 **def
 Tau.BookIII.Bridge.honest_claim_check
 (bound db : Denotation.TauIdx)
@@ -578,7 +578,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.honest_claim_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L234-L242)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L234-L242)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.honest_claim_check.go
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.conjectural_properly_marked`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L245-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L245-L249)
 **def
 Tau.BookIII.Bridge.conjectural_properly_marked :Bool**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.break_properly_marked`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L251-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L251-L255)
 **def
 Tau.BookIII.Bridge.break_properly_marked :Bool**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.honest_claim_full`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L257-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L257-L263)
 **def
 Tau.BookIII.Bridge.honest_claim_full
 (bound db : Denotation.TauIdx)
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_functor_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L301-L302)
 **theorem
 Tau.BookIII.Bridge.bridge_functor_8_3 :bridge_functor_check 8 3 = true**
 
@@ -654,7 +654,7 @@ Tau.BookIII.Bridge.bridge_functor_8_3 :bridge_functor_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.shadow_diagram_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L305-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L305-L306)
 **theorem
 Tau.BookIII.Bridge.shadow_diagram_8_3 :shadow_diagram_check 8 3 = true**
 
@@ -663,7 +663,7 @@ Tau.BookIII.Bridge.shadow_diagram_8_3 :shadow_diagram_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.honest_claim_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L309-L310)
 **theorem
 Tau.BookIII.Bridge.honest_claim_8_3 :honest_claim_check 8 3 = true**
 
@@ -672,7 +672,7 @@ Tau.BookIII.Bridge.honest_claim_8_3 :honest_claim_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.conjectural_marked`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L313-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L313-L314)
 **theorem
 Tau.BookIII.Bridge.conjectural_marked :conjectural_properly_marked = true**
 
@@ -681,7 +681,7 @@ Tau.BookIII.Bridge.conjectural_marked :conjectural_properly_marked = true**
 
 ### `Tau.BookIII.Bridge.break_marked`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L317-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L317-L318)
 **theorem
 Tau.BookIII.Bridge.break_marked :break_properly_marked = true**
 
@@ -690,7 +690,7 @@ Tau.BookIII.Bridge.break_marked :break_properly_marked = true**
 
 ### `Tau.BookIII.Bridge.honest_claim_full_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L321-L322)
 **theorem
 Tau.BookIII.Bridge.honest_claim_full_8_3 :honest_claim_full 8 3 = true**
 
@@ -699,7 +699,7 @@ Tau.BookIII.Bridge.honest_claim_full_8_3 :honest_claim_full 8 3 = true**
 
 ### `Tau.BookIII.Bridge.bridge_ledger_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L325-L326)
 **theorem
 Tau.BookIII.Bridge.bridge_ledger_consistent :bridge_ledger_check = true**
 
@@ -708,7 +708,7 @@ Tau.BookIII.Bridge.bridge_ledger_consistent :bridge_ledger_check = true**
 
 ### `Tau.BookIII.Bridge.rh_bridge_conjectural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L332-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L332-L335)
 **theorem
 Tau.BookIII.Bridge.rh_bridge_conjectural
 (bound db : Denotation.TauIdx)
@@ -721,7 +721,7 @@ Tau.BookIII.Bridge.rh_bridge_conjectural
 
 ### `Tau.BookIII.Bridge.one_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L341-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L341-L342)
 **theorem
 Tau.BookIII.Bridge.one_axiom :rh_conjectural_layer = 3**
 
@@ -732,7 +732,7 @@ Tau.BookIII.Bridge.one_axiom :rh_conjectural_layer = 3**
 
 ### `Tau.BookIII.Bridge.rh_layers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L344-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L344-L345)
 **theorem
 Tau.BookIII.Bridge.rh_layers :rh_bridge_layer_count = 3**
 
@@ -743,7 +743,7 @@ Tau.BookIII.Bridge.rh_layers :rh_bridge_layer_count = 3**
 
 ### `Tau.BookIII.Bridge.ledger_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L347-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L347-L348)
 **theorem
 Tau.BookIII.Bridge.ledger_count :bridge_ledger_len = 8**
 
@@ -754,7 +754,7 @@ Tau.BookIII.Bridge.ledger_count :bridge_ledger_len = 8**
 
 ### `Tau.BookIII.Bridge.poincare_established`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L350-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L350-L352)
 **theorem
 Tau.BookIII.Bridge.poincare_established :ledger_status_count BridgeStatus.established = 1**
 
@@ -765,7 +765,7 @@ Tau.BookIII.Bridge.poincare_established :ledger_status_count BridgeStatus.establ
 
 ### `Tau.BookIII.Bridge.pvsnp_bridge_break`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L354-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L354-L356)
 **theorem
 Tau.BookIII.Bridge.pvsnp_bridge_break :ledger_status_count BridgeStatus.bridge_break = 1**
 
@@ -776,7 +776,7 @@ Tau.BookIII.Bridge.pvsnp_bridge_break :ledger_status_count BridgeStatus.bridge_b
 
 ### `Tau.BookIII.Bridge.scope_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L358-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L358-L363)
 **theorem
 Tau.BookIII.Bridge.scope_order :ScopeLabel.established.toNat < ScopeLabel.tau_effective.toNat ∧ ScopeLabel.tau_effective.toNat < ScopeLabel.conjectural.toNat ∧ ScopeLabel.conjectural.toNat < ScopeLabel.metaphorical.toNat**
 
@@ -787,7 +787,7 @@ Tau.BookIII.Bridge.scope_order :ScopeLabel.established.toNat < ScopeLabel.tau_ef
 
 ### `Tau.BookIII.Bridge.established_not_conjectural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L365-L369)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L365-L369)
 **theorem
 Tau.BookIII.Bridge.established_not_conjectural :(established_claims.all fun (c : ClaimRecord) =>
  c.scope == ScopeLabel.established || c.scope == ScopeLabel.tau_effective) = true**
@@ -799,7 +799,7 @@ Tau.BookIII.Bridge.established_not_conjectural :(established_claims.all fun (c :
 
 ### `Tau.BookIII.Bridge.ledger_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/BridgeAxiom.lean#L371-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/BridgeAxiom.lean#L371-L376)
 **theorem
 Tau.BookIII.Bridge.ledger_partition :ledger_status_count BridgeStatus.conjectural + ledger_status_count BridgeStatus.established + ledger_status_count BridgeStatus.bridge_break = 8**
 

@@ -50,7 +50,7 @@ The shared ontological layer between Category τ and SI physics at E₁.
 
 ### `Tau.BookIV.Calibration.CalibrationMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SharedOntology.lean#L27-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SharedOntology.lean#L27-L40)
 **structure
 Tau.BookIV.Calibration.CalibrationMap :Type**
 
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCalibrationMap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SharedOntology.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SharedOntology.lean#L40-L40)
 **def
 Tau.BookIV.Calibration.instReprCalibrationMap.repr :CalibrationMap → ℕ → Std.Format**
 
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCalibrationMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SharedOntology.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SharedOntology.lean#L40-L40)
 **instance
 Tau.BookIV.Calibration.instReprCalibrationMap :Repr CalibrationMap**
 
@@ -100,7 +100,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.calibration_map`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SharedOntology.lean#L42-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SharedOntology.lean#L42-L48)
 **def
 Tau.BookIV.Calibration.calibration_map :CalibrationMap**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.calibration_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SharedOntology.lean#L50-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SharedOntology.lean#L50-L55)
 **theorem
 Tau.BookIV.Calibration.calibration_structural :calibration_map.source_dim = 5 ∧ calibration_map.no_knobs = true**
 

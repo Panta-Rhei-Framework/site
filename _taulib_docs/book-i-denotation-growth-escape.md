@@ -54,7 +54,7 @@ Concrete witness: 2↑↑4 = 65536 > 2310 = M_5.
 
 ### `Tau.Denotation.GrowthEscape.tetration_exceeds_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/GrowthEscape.lean#L37-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/GrowthEscape.lean#L37-L40)
 **theorem
 Tau.Denotation.GrowthEscape.tetration_exceeds_primorial
 (d : TauIdx)
@@ -67,7 +67,7 @@ For any primorial depth d, tetration 2 eventually exceeds primorial d.
 
 ### `Tau.Denotation.GrowthEscape.growth_escape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/GrowthEscape.lean#L53-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/GrowthEscape.lean#L53-L65)
 **theorem
 Tau.Denotation.GrowthEscape.growth_escape
 (d : TauIdx)

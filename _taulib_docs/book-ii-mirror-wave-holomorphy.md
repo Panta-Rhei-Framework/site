@@ -77,7 +77,7 @@ This decomposition is the structural foundation of bipolar holomorphy.
 
 ### `Tau.BookII.Mirror.PDEType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L56-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L56-L60)
 **inductive
 Tau.BookII.Mirror.PDEType :Type**
 
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqPDEType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
 **instance
 Tau.BookII.Mirror.instDecidableEqPDEType :DecidableEq PDEType**
 
@@ -103,7 +103,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprPDEType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
 **instance
 Tau.BookII.Mirror.instReprPDEType :Repr PDEType**
 
@@ -114,7 +114,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprPDEType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L60-L60)
 **def
 Tau.BookII.Mirror.instReprPDEType.repr :PDEType → ℕ → Std.Format**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.PDEClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L64-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L64-L71)
 **structure
 Tau.BookII.Mirror.PDEClassification :Type**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqPDEClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
 **instance
 Tau.BookII.Mirror.instDecidableEqPDEClassification :DecidableEq PDEClassification**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instDecidableEqPDEClassification.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
 **def
 Tau.BookII.Mirror.instDecidableEqPDEClassification.decEq
 (x✝ x✝¹ : PDEClassification)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprPDEClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
 **instance
 Tau.BookII.Mirror.instReprPDEClassification :Repr PDEClassification**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprPDEClassification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L71-L71)
 **def
 Tau.BookII.Mirror.instReprPDEClassification.repr :PDEClassification → ℕ → Std.Format**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.elliptic_classification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L73-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L73-L79)
 **def
 Tau.BookII.Mirror.elliptic_classification :PDEClassification**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.hyperbolic_classification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L81-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L81-L87)
 **def
 Tau.BookII.Mirror.hyperbolic_classification :PDEClassification**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.hyperbolic_hartogs_natural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L93-L95)
 **theorem
 Tau.BookII.Mirror.hyperbolic_hartogs_natural :hyperbolic_classification.hartogs_natural = true**
 
@@ -231,7 +231,7 @@ Tau.BookII.Mirror.hyperbolic_hartogs_natural :hyperbolic_classification.hartogs_
 
 ### `Tau.BookII.Mirror.elliptic_hartogs_not_natural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L97-L99)
 **theorem
 Tau.BookII.Mirror.elliptic_hartogs_not_natural :elliptic_classification.hartogs_natural = false**
 
@@ -242,7 +242,7 @@ Tau.BookII.Mirror.elliptic_hartogs_not_natural :elliptic_classification.hartogs_
 
 ### `Tau.BookII.Mirror.asymmetric_determination`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L101-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L101-L106)
 **theorem
 Tau.BookII.Mirror.asymmetric_determination :hyperbolic_classification.hartogs_natural = true ∧ elliptic_classification.hartogs_natural = false**
 
@@ -254,7 +254,7 @@ Hartogs naturalness.
 
 ### `Tau.BookII.Mirror.max_principle_asymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L108-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L108-L113)
 **theorem
 Tau.BookII.Mirror.max_principle_asymmetry :elliptic_classification.has_max_principle = true ∧ hyperbolic_classification.has_max_principle = false**
 
@@ -266,7 +266,7 @@ the hyperbolic does not.
 
 ### `Tau.BookII.Mirror.pde_classifications_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L115-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L115-L121)
 **theorem
 Tau.BookII.Mirror.pde_classifications_distinct :elliptic_classification ≠ hyperbolic_classification**
 
@@ -277,7 +277,7 @@ Tau.BookII.Mirror.pde_classifications_distinct :elliptic_classification ≠ hype
 
 ### `Tau.BookII.Mirror.characteristics_iff_hyperbolic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L123-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L123-L127)
 **theorem
 Tau.BookII.Mirror.characteristics_iff_hyperbolic :hyperbolic_classification.has_characteristics = true ∧ elliptic_classification.has_characteristics = false**
 
@@ -288,7 +288,7 @@ Tau.BookII.Mirror.characteristics_iff_hyperbolic :hyperbolic_classification.has_
 
 ### `Tau.BookII.Mirror.StageGeometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L133-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L133-L139)
 **structure
 Tau.BookII.Mirror.StageGeometry
 (k : ℕ)
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprStageGeometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L139-L139)
 **instance
 Tau.BookII.Mirror.instReprStageGeometry
 {k✝ : ℕ}
@@ -320,7 +320,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprStageGeometry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L139-L139)
 **def
 Tau.BookII.Mirror.instReprStageGeometry.repr
 {k✝ : ℕ}
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.default_stage_geometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L141-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L141-L145)
 **def
 Tau.BookII.Mirror.default_stage_geometry
 (k : ℕ)
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.stage_euclidean_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L147-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L147-L151)
 **def
 Tau.BookII.Mirror.stage_euclidean_check
 (k : ℕ)
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_stages_euclidean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L153-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L153-L161)
 **def
 Tau.BookII.Mirror.all_stages_euclidean
 (db : ℕ)
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_stages_euclidean.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L157-L160)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L157-L160)@[irreducible]
 
 **def
 Tau.BookII.Mirror.all_stages_euclidean.go
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.stage_no_light_cones`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L167-L169)
 **theorem
 Tau.BookII.Mirror.stage_no_light_cones
 (k : ℕ)
@@ -411,7 +411,7 @@ Tau.BookII.Mirror.stage_no_light_cones
 
 ### `Tau.BookII.Mirror.stage_euclidean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L171-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L171-L173)
 **theorem
 Tau.BookII.Mirror.stage_euclidean
 (k : ℕ)
@@ -424,7 +424,7 @@ Tau.BookII.Mirror.stage_euclidean
 
 ### `Tau.BookII.Mirror.stage_euclidean_check_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L175-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L175-L178)
 **theorem
 Tau.BookII.Mirror.stage_euclidean_check_true
 (k : ℕ)
@@ -437,7 +437,7 @@ Tau.BookII.Mirror.stage_euclidean_check_true
 
 ### `Tau.BookII.Mirror.all_stages_euclidean_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L180-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L180-L182)
 **theorem
 Tau.BookII.Mirror.all_stages_euclidean_5 :all_stages_euclidean 5 = true**
 
@@ -448,7 +448,7 @@ Tau.BookII.Mirror.all_stages_euclidean_5 :all_stages_euclidean 5 = true**
 
 ### `Tau.BookII.Mirror.stage_size_is_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L184-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L184-L186)
 **theorem
 Tau.BookII.Mirror.stage_size_is_primorial
 (k : ℕ)
@@ -461,7 +461,7 @@ Tau.BookII.Mirror.stage_size_is_primorial
 
 ### `Tau.BookII.Mirror.SCFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L192-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L192-L195)
 **structure
 Tau.BookII.Mirror.SCFun :Type**
 
@@ -475,7 +475,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprSCFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L195-L195)
 **instance
 Tau.BookII.Mirror.instReprSCFun :Repr SCFun**
 
@@ -486,7 +486,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSCFun.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L195-L195)
 **def
 Tau.BookII.Mirror.instReprSCFun.repr :SCFun → ℕ → Std.Format**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCFun.b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L197-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L197-L199)
 **def
 Tau.BookII.Mirror.SCFun.b_sector
 (f : SCFun)
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCFun.c_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L201-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L201-L203)
 **def
 Tau.BookII.Mirror.SCFun.c_sector
 (f : SCFun)
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.wave_decompose_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L205-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L205-L212)
 **def
 Tau.BookII.Mirror.wave_decompose_check
 (z : Polarity.SplitComplex)
@@ -549,7 +549,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCFun.wave_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L214-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L214-L216)
 **def
 Tau.BookII.Mirror.SCFun.wave_check
 (f : SCFun)
@@ -565,7 +565,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.wave_decompose_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L218-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L218-L222)
 **theorem
 Tau.BookII.Mirror.wave_decompose_exact
 (z : Polarity.SplitComplex)
@@ -578,7 +578,7 @@ Wave decomposition is exact for any split-complex number.
 
 ### `Tau.BookII.Mirror.wave_check_always_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L224-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L224-L229)
 **theorem
 Tau.BookII.Mirror.wave_check_always_true
 (f : SCFun)
@@ -591,7 +591,7 @@ Wave decomposition is exact for any function.
 
 ### `Tau.BookII.Mirror.sector_additive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L231-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L231-L236)
 **theorem
 Tau.BookII.Mirror.sector_additive
 (z w : Polarity.SplitComplex)
@@ -605,7 +605,7 @@ Tau.BookII.Mirror.sector_additive
 
 ### `Tau.BookII.Mirror.c_sector_additive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L238-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L238-L242)
 **theorem
 Tau.BookII.Mirror.c_sector_additive
 (z w : Polarity.SplitComplex)
@@ -618,7 +618,7 @@ The C-sector is also additive.
 
 ### `Tau.BookII.Mirror.b_sector_multiplicative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L244-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L244-L249)
 **theorem
 Tau.BookII.Mirror.b_sector_multiplicative
 (z w : Polarity.SplitComplex)
@@ -632,7 +632,7 @@ Tau.BookII.Mirror.b_sector_multiplicative
 
 ### `Tau.BookII.Mirror.c_sector_multiplicative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L251-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L251-L255)
 **theorem
 Tau.BookII.Mirror.c_sector_multiplicative
 (z w : Polarity.SplitComplex)
@@ -645,7 +645,7 @@ C-sector multiplicativity: (z * w)_c = z_c * w_c.
 
 ### `Tau.BookII.Mirror.MirrorSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L261-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L261-L266)
 **structure
 Tau.BookII.Mirror.MirrorSummary :Type**
 
@@ -661,7 +661,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqMirrorSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
 **instance
 Tau.BookII.Mirror.instDecidableEqMirrorSummary :DecidableEq MirrorSummary**
 
@@ -672,7 +672,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instDecidableEqMirrorSummary.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
 **def
 Tau.BookII.Mirror.instDecidableEqMirrorSummary.decEq
 (x✝ x✝¹ : MirrorSummary)
@@ -686,7 +686,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprMirrorSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
 **instance
 Tau.BookII.Mirror.instReprMirrorSummary :Repr MirrorSummary**
 
@@ -697,7 +697,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprMirrorSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L266-L266)
 **def
 Tau.BookII.Mirror.instReprMirrorSummary.repr :MirrorSummary → ℕ → Std.Format**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.mirror_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L268-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L268-L272)
 **def
 Tau.BookII.Mirror.mirror_summary :MirrorSummary**
 
@@ -723,7 +723,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.both_unique_continuation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L274-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L274-L276)
 **theorem
 Tau.BookII.Mirror.both_unique_continuation :mirror_summary.both_have_unique_continuation = true**
 
@@ -734,7 +734,7 @@ Both paths have unique continuation.
 
 ### `Tau.BookII.Mirror.hartogs_natural_hyp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L311-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L311-L312)
 **theorem
 Tau.BookII.Mirror.hartogs_natural_hyp :hyperbolic_classification.hartogs_natural = true**
 
@@ -743,7 +743,7 @@ Tau.BookII.Mirror.hartogs_natural_hyp :hyperbolic_classification.hartogs_natural
 
 ### `Tau.BookII.Mirror.hartogs_not_natural_ell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L314-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L314-L315)
 **theorem
 Tau.BookII.Mirror.hartogs_not_natural_ell :elliptic_classification.hartogs_natural = false**
 
@@ -752,7 +752,7 @@ Tau.BookII.Mirror.hartogs_not_natural_ell :elliptic_classification.hartogs_natur
 
 ### `Tau.BookII.Mirror.chars_hyp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L318-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L318-L319)
 **theorem
 Tau.BookII.Mirror.chars_hyp :hyperbolic_classification.has_characteristics = true**
 
@@ -761,7 +761,7 @@ Tau.BookII.Mirror.chars_hyp :hyperbolic_classification.has_characteristics = tru
 
 ### `Tau.BookII.Mirror.chars_ell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L321-L322)
 **theorem
 Tau.BookII.Mirror.chars_ell :elliptic_classification.has_characteristics = false**
 
@@ -770,7 +770,7 @@ Tau.BookII.Mirror.chars_ell :elliptic_classification.has_characteristics = false
 
 ### `Tau.BookII.Mirror.max_hyp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L325-L326)
 **theorem
 Tau.BookII.Mirror.max_hyp :hyperbolic_classification.has_max_principle = false**
 
@@ -779,7 +779,7 @@ Tau.BookII.Mirror.max_hyp :hyperbolic_classification.has_max_principle = false**
 
 ### `Tau.BookII.Mirror.max_ell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L328-L329)
 **theorem
 Tau.BookII.Mirror.max_ell :elliptic_classification.has_max_principle = true**
 
@@ -788,7 +788,7 @@ Tau.BookII.Mirror.max_ell :elliptic_classification.has_max_principle = true**
 
 ### `Tau.BookII.Mirror.stages_euclidean_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L332-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L332-L333)
 **theorem
 Tau.BookII.Mirror.stages_euclidean_5 :all_stages_euclidean 5 = true**
 
@@ -797,6 +797,6 @@ Tau.BookII.Mirror.stages_euclidean_5 :all_stages_euclidean 5 = true**
 
 ### `Tau.BookII.Mirror.pde_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/WaveHolomorphy.lean#L336-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/WaveHolomorphy.lean#L336-L340)
 **theorem
 Tau.BookII.Mirror.pde_distinct :elliptic_classification ≠ hyperbolic_classification**

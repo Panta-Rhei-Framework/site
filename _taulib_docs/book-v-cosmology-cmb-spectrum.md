@@ -97,7 +97,7 @@ observables (ω_b, ω_m, r_s, ℓ₁, r, A_s, h) from the single input
 
 ### `Tau.BookV.Cosmology.TauBaryonDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L57-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L57-L67)
 **structure
 Tau.BookV.Cosmology.TauBaryonDensity :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTauBaryonDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L67-L67)
 **def
 Tau.BookV.Cosmology.instReprTauBaryonDensity.repr :TauBaryonDensity → ℕ → Std.Format**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTauBaryonDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L67-L67)
 **instance
 Tau.BookV.Cosmology.instReprTauBaryonDensity :Repr TauBaryonDensity**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.tau_baryon_density_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L69-L69)
 **def
 Tau.BookV.Cosmology.tau_baryon_density_data :TauBaryonDensity**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tau_baryon_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L70-L70)
 **def
 Tau.BookV.Cosmology.tau_baryon_density :Float**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_density_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L72-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L72-L76)
 **theorem
 Tau.BookV.Cosmology.baryon_density_structural :tau_baryon_density_data.chain_source = 1 ∧ tau_baryon_density_data.free_params = 0 ∧ tau_baryon_density_data.sigma_deviation_x100 = 120**
 
@@ -177,7 +177,7 @@ Tau.BookV.Cosmology.baryon_density_structural :tau_baryon_density_data.chain_sou
 
 ### `Tau.BookV.Cosmology.HolonomyMatterFraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L78-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L78-L88)
 **structure
 Tau.BookV.Cosmology.HolonomyMatterFraction :Type**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHolonomyMatterFraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L88-L88)
 **instance
 Tau.BookV.Cosmology.instReprHolonomyMatterFraction :Repr HolonomyMatterFraction**
 
@@ -212,7 +212,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprHolonomyMatterFraction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L88-L88)
 **def
 Tau.BookV.Cosmology.instReprHolonomyMatterFraction.repr :HolonomyMatterFraction → ℕ → Std.Format**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_matter_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L90-L90)
 **def
 Tau.BookV.Cosmology.holonomy_matter_data :HolonomyMatterFraction**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_matter_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L91-L91)
 **def
 Tau.BookV.Cosmology.holonomy_matter_ratio :Float**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_matter_fraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L93-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L93-L97)
 **theorem
 Tau.BookV.Cosmology.holonomy_matter_fraction :holonomy_matter_data.origin_type = 1 ∧ holonomy_matter_data.n_dark_sectors = 1 ∧ holonomy_matter_data.source_chapter = 45**
 
@@ -257,7 +257,7 @@ Tau.BookV.Cosmology.holonomy_matter_fraction :holonomy_matter_data.origin_type =
 
 ### `Tau.BookV.Cosmology.BaryonDensityFromIota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L99-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L99-L110)
 **structure
 Tau.BookV.Cosmology.BaryonDensityFromIota :Type**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryonDensityFromIota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L110-L110)
 **instance
 Tau.BookV.Cosmology.instReprBaryonDensityFromIota :Repr BaryonDensityFromIota**
 
@@ -293,7 +293,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBaryonDensityFromIota.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L110-L110)
 **def
 Tau.BookV.Cosmology.instReprBaryonDensityFromIota.repr :BaryonDensityFromIota → ℕ → Std.Format**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_density_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L112-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L112-L114)
 **def
 Tau.BookV.Cosmology.baryon_density_chain :BaryonDensityFromIota**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_density_from_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L116-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L116-L119)
 **theorem
 Tau.BookV.Cosmology.baryon_density_from_iota :baryon_density_chain.chain_links = 5 ∧ baryon_density_chain.free_params = 0**
 
@@ -326,7 +326,7 @@ Tau.BookV.Cosmology.baryon_density_from_iota :baryon_density_chain.chain_links =
 
 ### `Tau.BookV.Cosmology.SoundHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L121-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L121-L128)
 **structure
 Tau.BookV.Cosmology.SoundHorizon :Type**
 
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSoundHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L128-L128)
 **def
 Tau.BookV.Cosmology.instReprSoundHorizon.repr :SoundHorizon → ℕ → Std.Format**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSoundHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L128-L128)
 **instance
 Tau.BookV.Cosmology.instReprSoundHorizon :Repr SoundHorizon**
 
@@ -369,7 +369,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.sound_horizon_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L130-L130)
 **def
 Tau.BookV.Cosmology.sound_horizon_data :SoundHorizon**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.sound_horizon_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L131-L131)
 **def
 Tau.BookV.Cosmology.sound_horizon_tau :Float**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.sound_horizon_tau_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L133-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L133-L136)
 **theorem
 Tau.BookV.Cosmology.sound_horizon_tau_thm :sound_horizon_data.n_native_inputs = 2 ∧ sound_horizon_data.n_holonomy_components = 1**
 
@@ -402,7 +402,7 @@ Tau.BookV.Cosmology.sound_horizon_tau_thm :sound_horizon_data.n_native_inputs = 
 
 ### `Tau.BookV.Cosmology.FirstPeakHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L138-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L138-L147)
 **structure
 Tau.BookV.Cosmology.FirstPeakHolonomy :Type**
 
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFirstPeakHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L147-L147)
 **def
 Tau.BookV.Cosmology.instReprFirstPeakHolonomy.repr :FirstPeakHolonomy → ℕ → Std.Format**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFirstPeakHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L147-L147)
 **instance
 Tau.BookV.Cosmology.instReprFirstPeakHolonomy :Repr FirstPeakHolonomy**
 
@@ -448,7 +448,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.first_peak_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L149-L149)
 **def
 Tau.BookV.Cosmology.first_peak_data :FirstPeakHolonomy**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.first_peak_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L150-L150)
 **def
 Tau.BookV.Cosmology.first_peak_holonomy :Float**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.first_peak_holonomy_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L152-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L152-L156)
 **theorem
 Tau.BookV.Cosmology.first_peak_holonomy_thm :first_peak_data.free_params = 0 ∧ first_peak_data.deviation_ppm = 2840 ∧ first_peak_data.n_pipeline_steps = 4**
 
@@ -481,7 +481,7 @@ Tau.BookV.Cosmology.first_peak_holonomy_thm :first_peak_data.free_params = 0 ∧
 
 ### `Tau.BookV.Cosmology.AcousticScaleCrosscheck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L158-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L158-L165)
 **structure
 Tau.BookV.Cosmology.AcousticScaleCrosscheck :Type**
 
@@ -501,7 +501,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprAcousticScaleCrosscheck.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L165-L165)
 **def
 Tau.BookV.Cosmology.instReprAcousticScaleCrosscheck.repr :AcousticScaleCrosscheck → ℕ → Std.Format**
 
@@ -513,7 +513,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprAcousticScaleCrosscheck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L165-L165)
 **instance
 Tau.BookV.Cosmology.instReprAcousticScaleCrosscheck :Repr AcousticScaleCrosscheck**
 
@@ -524,7 +524,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.acoustic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L167-L169)
 **def
 Tau.BookV.Cosmology.acoustic_check :AcousticScaleCrosscheck**
 
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.acoustic_scale_crosscheck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L171-L172)
 **def
 Tau.BookV.Cosmology.acoustic_scale_crosscheck :Float**
 
@@ -548,7 +548,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.acoustic_scale_crosscheck_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L174-L176)
 **theorem
 Tau.BookV.Cosmology.acoustic_scale_crosscheck_thm :acoustic_check.exponent = 5**
 
@@ -557,7 +557,7 @@ Tau.BookV.Cosmology.acoustic_scale_crosscheck_thm :acoustic_check.exponent = 5**
 
 ### `Tau.BookV.Cosmology.TensorScalarRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L178-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L178-L205)
 **structure
 Tau.BookV.Cosmology.TensorScalarRatio :Type**
 
@@ -608,7 +608,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTensorScalarRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L205-L205)
 **instance
 Tau.BookV.Cosmology.instReprTensorScalarRatio :Repr TensorScalarRatio**
 
@@ -619,7 +619,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprTensorScalarRatio.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L205-L205)
 **def
 Tau.BookV.Cosmology.instReprTensorScalarRatio.repr :TensorScalarRatio → ℕ → Std.Format**
 
@@ -631,7 +631,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tensor_scalar_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L207-L210)
 **def
 Tau.BookV.Cosmology.tensor_scalar_data :TensorScalarRatio**
 
@@ -644,7 +644,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tensor_scalar_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L212-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L212-L213)
 **def
 Tau.BookV.Cosmology.tensor_scalar_ratio :Float**
 
@@ -656,7 +656,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tensor_scalar_ratio_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L215-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L215-L220)
 **theorem
 Tau.BookV.Cosmology.tensor_scalar_ratio_thm :tensor_scalar_data.iota_power = 4 ∧ tensor_scalar_data.fiber_dim = 2 ∧ tensor_scalar_data.power_order = 2 ∧ tensor_scalar_data.free_params = 0**
 
@@ -665,7 +665,7 @@ Tau.BookV.Cosmology.tensor_scalar_ratio_thm :tensor_scalar_data.iota_power = 4 �
 
 ### `Tau.BookV.Cosmology.vop3_sprint8a_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L222-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L222-L226)
 **def
 Tau.BookV.Cosmology.vop3_sprint8a_status :String**
 
@@ -679,7 +679,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.free_streaming_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L232-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L232-L237)
 **def
 Tau.BookV.Cosmology.free_streaming_scale :String**
 
@@ -695,7 +695,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cnub_temperature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L239-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L239-L242)
 **def
 Tau.BookV.Cosmology.cnub_temperature :Float**
 
@@ -711,7 +711,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cnub_entropy_factor_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L244-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L244-L246)
 **theorem
 Tau.BookV.Cosmology.cnub_entropy_factor_rational :4 / 11 > 0**
 
@@ -722,7 +722,7 @@ CνB entropy factor: (4/11)^{1/3}.
 
 ### `Tau.BookV.Cosmology.HolonomyNLOScan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L248-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L248-L255)
 **structure
 Tau.BookV.Cosmology.HolonomyNLOScan :Type**
 
@@ -742,7 +742,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHolonomyNLOScan.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L255-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L255-L255)
 **def
 Tau.BookV.Cosmology.instReprHolonomyNLOScan.repr :HolonomyNLOScan → ℕ → Std.Format**
 
@@ -754,7 +754,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHolonomyNLOScan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L255-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L255-L255)
 **instance
 Tau.BookV.Cosmology.instReprHolonomyNLOScan :Repr HolonomyNLOScan**
 
@@ -765,7 +765,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.holonomy_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L257-L257)
 **def
 Tau.BookV.Cosmology.holonomy_nlo_data :HolonomyNLOScan**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_nlo_scan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L259-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L259-L262)
 **theorem
 Tau.BookV.Cosmology.holonomy_nlo_scan :holonomy_nlo_data.best_exponent = 3 ∧ holonomy_nlo_data.nlo_deviation_ppm = 8655**
 
@@ -786,7 +786,7 @@ Tau.BookV.Cosmology.holonomy_nlo_scan :holonomy_nlo_data.best_exponent = 3 ∧ h
 
 ### `Tau.BookV.Cosmology.NeutrinoPhaseShift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L264-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L264-L271)
 **structure
 Tau.BookV.Cosmology.NeutrinoPhaseShift :Type**
 
@@ -806,7 +806,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutrinoPhaseShift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L271-L271)
 **def
 Tau.BookV.Cosmology.instReprNeutrinoPhaseShift.repr :NeutrinoPhaseShift → ℕ → Std.Format**
 
@@ -818,7 +818,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutrinoPhaseShift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L271-L271)
 **instance
 Tau.BookV.Cosmology.instReprNeutrinoPhaseShift :Repr NeutrinoPhaseShift**
 
@@ -829,7 +829,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.neutrino_phase_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L273-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L273-L273)
 **def
 Tau.BookV.Cosmology.neutrino_phase_data :NeutrinoPhaseShift**
 
@@ -841,7 +841,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.neutrino_phase_shift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L275-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L275-L278)
 **theorem
 Tau.BookV.Cosmology.neutrino_phase_shift :neutrino_phase_data.n_eff = 3 ∧ neutrino_phase_data.sensitivity_sigma_x10 = 15**
 
@@ -850,7 +850,7 @@ Tau.BookV.Cosmology.neutrino_phase_shift :neutrino_phase_data.n_eff = 3 ∧ neut
 
 ### `Tau.BookV.Cosmology.TwoHorizonConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L280-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L280-L292)
 **structure
 Tau.BookV.Cosmology.TwoHorizonConsistency :Type**
 
@@ -877,7 +877,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTwoHorizonConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L292-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L292-L292)
 **def
 Tau.BookV.Cosmology.instReprTwoHorizonConsistency.repr :TwoHorizonConsistency → ℕ → Std.Format**
 
@@ -889,7 +889,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTwoHorizonConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L292-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L292-L292)
 **instance
 Tau.BookV.Cosmology.instReprTwoHorizonConsistency :Repr TwoHorizonConsistency**
 
@@ -900,7 +900,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.two_horizon_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L294-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L294-L296)
 **def
 Tau.BookV.Cosmology.two_horizon_data :TwoHorizonConsistency**
 
@@ -912,7 +912,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.two_horizon_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L298-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L298-L302)
 **theorem
 Tau.BookV.Cosmology.two_horizon_consistency :two_horizon_data.n_horizons = 3 ∧ two_horizon_data.free_params = 0 ∧ two_horizon_data.n_inputs = 1**
 
@@ -921,7 +921,7 @@ Tau.BookV.Cosmology.two_horizon_consistency :two_horizon_data.n_horizons = 3 ∧
 
 ### `Tau.BookV.Cosmology.FreeStreamingSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L304-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L304-L313)
 **structure
 Tau.BookV.Cosmology.FreeStreamingSuppression :Type**
 
@@ -944,7 +944,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFreeStreamingSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L313-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L313-L313)
 **instance
 Tau.BookV.Cosmology.instReprFreeStreamingSuppression :Repr FreeStreamingSuppression**
 
@@ -955,7 +955,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprFreeStreamingSuppression.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L313-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L313-L313)
 **def
 Tau.BookV.Cosmology.instReprFreeStreamingSuppression.repr :FreeStreamingSuppression → ℕ → Std.Format**
 
@@ -967,7 +967,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.free_streaming_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L315-L315)
 **def
 Tau.BookV.Cosmology.free_streaming_data :FreeStreamingSuppression**
 
@@ -979,7 +979,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.free_streaming_suppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L316-L316)
 **def
 Tau.BookV.Cosmology.free_streaming_suppression :Float**
 
@@ -991,7 +991,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.free_streaming_suppression_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L318-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L318-L322)
 **theorem
 Tau.BookV.Cosmology.free_streaming_suppression_thm :free_streaming_data.n_formula_factors = 1 ∧ free_streaming_data.desi_sigma_x10 = 45 ∧ free_streaming_data.free_params = 0**
 
@@ -1000,7 +1000,7 @@ Tau.BookV.Cosmology.free_streaming_suppression_thm :free_streaming_data.n_formul
 
 ### `Tau.BookV.Cosmology.FalsificationSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L324-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L324-L334)
 **structure
 Tau.BookV.Cosmology.FalsificationSuite :Type**
 
@@ -1024,7 +1024,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFalsificationSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L334-L334)
 **instance
 Tau.BookV.Cosmology.instReprFalsificationSuite :Repr FalsificationSuite**
 
@@ -1035,7 +1035,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprFalsificationSuite.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L334-L334)
 **def
 Tau.BookV.Cosmology.instReprFalsificationSuite.repr :FalsificationSuite → ℕ → Std.Format**
 
@@ -1047,7 +1047,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.falsification_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L336-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L336-L338)
 **def
 Tau.BookV.Cosmology.falsification_data :FalsificationSuite**
 
@@ -1059,7 +1059,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.falsification_suite_8b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L340-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L340-L343)
 **theorem
 Tau.BookV.Cosmology.falsification_suite_8b :falsification_data.n_targets = 6 ∧ falsification_data.most_falsifiable_sigma = 14**
 
@@ -1068,7 +1068,7 @@ Tau.BookV.Cosmology.falsification_suite_8b :falsification_data.n_targets = 6 ∧
 
 ### `Tau.BookV.Cosmology.vop3_sprint8b_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L345-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L345-L348)
 **def
 Tau.BookV.Cosmology.vop3_sprint8b_status :String**
 
@@ -1082,7 +1082,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.structural_hubble`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L354-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L354-L357)
 **def
 Tau.BookV.Cosmology.structural_hubble :Float**
 
@@ -1098,7 +1098,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.de_closure_omega_lambda`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L359-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L359-L363)
 **def
 Tau.BookV.Cosmology.de_closure_omega_lambda :Float**
 
@@ -1114,7 +1114,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.de_closure_omega_m`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L365-L366)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L365-L366)
 **def
 Tau.BookV.Cosmology.de_closure_omega_m :Float**
 
@@ -1126,7 +1126,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.scalar_amplitude_nlo_desc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L368-L373)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L368-L373)
 **def
 Tau.BookV.Cosmology.scalar_amplitude_nlo_desc :String**
 
@@ -1142,7 +1142,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.hubble_from_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L375-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L375-L379)
 **def
 Tau.BookV.Cosmology.hubble_from_tau :String**
 
@@ -1157,7 +1157,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.full_pipeline_h`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L381-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L381-L386)
 **def
 Tau.BookV.Cosmology.full_pipeline_h :String**
 
@@ -1173,7 +1173,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.as_inflation_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L388-L394)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L388-L394)
 **def
 Tau.BookV.Cosmology.as_inflation_consistency :String**
 
@@ -1189,7 +1189,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.reionization_z_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L396-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L396-L400)
 **theorem
 Tau.BookV.Cosmology.reionization_z_structural :13 - 5 = 8**
 
@@ -1202,7 +1202,7 @@ Planck: 0.054±0.007. Within 1σ.
 
 ### `Tau.BookV.Cosmology.reionization_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L402-L404)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L402-L404)
 **def
 Tau.BookV.Cosmology.reionization_tau :String**
 
@@ -1214,7 +1214,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.vop3_sprint8e_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L406-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L406-L410)
 **def
 Tau.BookV.Cosmology.vop3_sprint8e_status :String**
 
@@ -1228,7 +1228,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.HolonomyMatterDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L465-L490)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L465-L490)
 **structure
 Tau.BookV.Cosmology.HolonomyMatterDerivation :Type**
 
@@ -1274,7 +1274,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHolonomyMatterDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L490-L490)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L490-L490)
 **instance
 Tau.BookV.Cosmology.instReprHolonomyMatterDerivation :Repr HolonomyMatterDerivation**
 
@@ -1285,7 +1285,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprHolonomyMatterDerivation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L490-L490)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L490-L490)
 **def
 Tau.BookV.Cosmology.instReprHolonomyMatterDerivation.repr :HolonomyMatterDerivation → ℕ → Std.Format**
 
@@ -1297,7 +1297,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_matter_derivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L492-L492)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L492-L492)
 **def
 Tau.BookV.Cosmology.holonomy_matter_derivation :HolonomyMatterDerivation**
 
@@ -1309,7 +1309,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.holonomy_matter_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L494-L499)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L494-L499)
 **theorem
 Tau.BookV.Cosmology.holonomy_matter_derived :holonomy_matter_derivation.n_ratio_terms = 2 ∧ holonomy_matter_derivation.free_params = 0 ∧ holonomy_matter_derivation.n_budget_terms = 2**
 
@@ -1320,7 +1320,7 @@ Holonomy matter fraction derived from coupling structure.
 
 ### `Tau.BookV.Cosmology.EfoldsStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L505-L539)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L505-L539)
 **structure
 Tau.BookV.Cosmology.EfoldsStructural :Type**
 
@@ -1379,7 +1379,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEfoldsStructural.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L539-L539)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L539-L539)
 **def
 Tau.BookV.Cosmology.instReprEfoldsStructural.repr :EfoldsStructural → ℕ → Std.Format**
 
@@ -1391,7 +1391,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEfoldsStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L539-L539)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L539-L539)
 **instance
 Tau.BookV.Cosmology.instReprEfoldsStructural :Repr EfoldsStructural**
 
@@ -1402,7 +1402,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.efolds_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L541-L543)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L541-L543)
 **def
 Tau.BookV.Cosmology.efolds_structural :EfoldsStructural**
 
@@ -1415,7 +1415,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.efolds_57`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L545-L550)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L545-L550)
 **theorem
 Tau.BookV.Cosmology.efolds_57 :efolds_structural.n_e = 57 ∧ efolds_structural.tau3_dim = 3 ∧ efolds_structural.w53 = 19**
 
@@ -1426,7 +1426,7 @@ N_e = 57 = 3 × 19 structural derivation.
 
 ### `Tau.BookV.Cosmology.w53_from_cf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L552-L557)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L552-L557)
 **theorem
 Tau.BookV.Cosmology.w53_from_cf :efolds_structural.cf_a3 = 13 ∧ efolds_structural.cf_a4 = 3 ∧ efolds_structural.w53 = 19**
 
@@ -1437,7 +1437,7 @@ W₅(3) = 19 from CF partial quotients.
 
 ### `Tau.BookV.Cosmology.ErrorCancellationStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L563-L581)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L563-L581)
 **structure
 Tau.BookV.Cosmology.ErrorCancellationStructural :Type**
 
@@ -1469,7 +1469,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprErrorCancellationStructural.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L581-L581)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L581-L581)
 **def
 Tau.BookV.Cosmology.instReprErrorCancellationStructural.repr :ErrorCancellationStructural → ℕ → Std.Format**
 
@@ -1481,7 +1481,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprErrorCancellationStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L581-L581)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L581-L581)
 **instance
 Tau.BookV.Cosmology.instReprErrorCancellationStructural :Repr ErrorCancellationStructural**
 
@@ -1492,7 +1492,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.error_cancellation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L583-L583)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L583-L583)
 **def
 Tau.BookV.Cosmology.error_cancellation :ErrorCancellationStructural**
 
@@ -1504,7 +1504,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.error_cancellation_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L585-L590)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L585-L590)
 **theorem
 Tau.BookV.Cosmology.error_cancellation_structural :error_cancellation.n_structural_constraints = 2 ∧ error_cancellation.n_compensating_terms = 2 ∧ error_cancellation.n_coupled_params = 2**
 
@@ -1515,7 +1515,7 @@ Error cancellation is structural, not accidental.
 
 ### `Tau.BookV.Cosmology.HubbleParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L596-L606)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L596-L606)
 **structure
 Tau.BookV.Cosmology.HubbleParameter :Type**
 
@@ -1539,7 +1539,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHubbleParameter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L606-L606)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L606-L606)
 **def
 Tau.BookV.Cosmology.instReprHubbleParameter.repr :HubbleParameter → ℕ → Std.Format**
 
@@ -1551,7 +1551,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHubbleParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L606-L606)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L606-L606)
 **instance
 Tau.BookV.Cosmology.instReprHubbleParameter :Repr HubbleParameter**
 
@@ -1562,7 +1562,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.hubble_parameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L608-L608)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L608-L608)
 **def
 Tau.BookV.Cosmology.hubble_parameter :HubbleParameter**
 
@@ -1574,7 +1574,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.hubble_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L610-L614)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L610-L614)
 **theorem
 Tau.BookV.Cosmology.hubble_structural :hubble_parameter.w33 = 17 ∧ hubble_parameter.correction_power = 2 ∧ hubble_parameter.free_params = 0**
 
@@ -1583,7 +1583,7 @@ Tau.BookV.Cosmology.hubble_structural :hubble_parameter.w33 = 17 ∧ hubble_para
 
 ### `Tau.BookV.Cosmology.FullCMBPipeline`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L616-L625)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L616-L625)
 **structure
 Tau.BookV.Cosmology.FullCMBPipeline :Type**
 
@@ -1606,7 +1606,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFullCMBPipeline.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L625-L625)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L625-L625)
 **def
 Tau.BookV.Cosmology.instReprFullCMBPipeline.repr :FullCMBPipeline → ℕ → Std.Format**
 
@@ -1618,7 +1618,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFullCMBPipeline`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L625-L625)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L625-L625)
 **instance
 Tau.BookV.Cosmology.instReprFullCMBPipeline :Repr FullCMBPipeline**
 
@@ -1629,7 +1629,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.full_cmb_pipeline`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L627-L627)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L627-L627)
 **def
 Tau.BookV.Cosmology.full_cmb_pipeline :FullCMBPipeline**
 
@@ -1641,7 +1641,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.full_pipeline_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L629-L633)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L629-L633)
 **theorem
 Tau.BookV.Cosmology.full_pipeline_structural :full_cmb_pipeline.n_stages = 6 ∧ full_cmb_pipeline.free_params = 0 ∧ full_cmb_pipeline.n_inputs = 1**
 
@@ -1650,7 +1650,7 @@ Tau.BookV.Cosmology.full_pipeline_structural :full_cmb_pipeline.n_stages = 6 ∧
 
 ### `Tau.BookV.Cosmology.ScalarAmplitudeNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L635-L664)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L635-L664)
 **structure
 Tau.BookV.Cosmology.ScalarAmplitudeNLO :Type**
 
@@ -1700,7 +1700,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprScalarAmplitudeNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L664-L664)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L664-L664)
 **instance
 Tau.BookV.Cosmology.instReprScalarAmplitudeNLO :Repr ScalarAmplitudeNLO**
 
@@ -1711,7 +1711,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprScalarAmplitudeNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L664-L664)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L664-L664)
 **def
 Tau.BookV.Cosmology.instReprScalarAmplitudeNLO.repr :ScalarAmplitudeNLO → ℕ → Std.Format**
 
@@ -1723,7 +1723,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.scalar_amplitude_nlo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L666-L668)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L666-L668)
 **def
 Tau.BookV.Cosmology.scalar_amplitude_nlo :ScalarAmplitudeNLO**
 
@@ -1736,7 +1736,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.scalar_amplitude_nlo_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L670-L676)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L670-L676)
 **theorem
 Tau.BookV.Cosmology.scalar_amplitude_nlo_thm :scalar_amplitude_nlo.nlo_power = 3 ∧ scalar_amplitude_nlo.gap_factor = 156 ∧ scalar_amplitude_nlo.coeff_numer = 121 ∧ scalar_amplitude_nlo.coeff_denom = 225 ∧ scalar_amplitude_nlo.free_params = 0**
 
@@ -1745,7 +1745,7 @@ Tau.BookV.Cosmology.scalar_amplitude_nlo_thm :scalar_amplitude_nlo.nlo_power = 3
 
 ### `Tau.BookV.Cosmology.ScalarAmplitudeDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L678-L699)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L678-L699)
 **structure
 Tau.BookV.Cosmology.ScalarAmplitudeDerivation :Type**
 
@@ -1784,7 +1784,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprScalarAmplitudeDerivation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L699-L699)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L699-L699)
 **def
 Tau.BookV.Cosmology.instReprScalarAmplitudeDerivation.repr :ScalarAmplitudeDerivation → ℕ → Std.Format**
 
@@ -1796,7 +1796,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprScalarAmplitudeDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L699-L699)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L699-L699)
 **instance
 Tau.BookV.Cosmology.instReprScalarAmplitudeDerivation :Repr ScalarAmplitudeDerivation**
 
@@ -1807,7 +1807,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.scalar_amplitude_derivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L701-L702)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L701-L702)
 **def
 Tau.BookV.Cosmology.scalar_amplitude_derivation :ScalarAmplitudeDerivation**
 
@@ -1819,7 +1819,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.scalar_amplitude_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L704-L709)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L704-L709)
 **theorem
 Tau.BookV.Cosmology.scalar_amplitude_chain :scalar_amplitude_derivation.total_iota_power = 18 ∧ scalar_amplitude_derivation.chain_links = 2 ∧ scalar_amplitude_derivation.coefficient_source = 1 ∧ scalar_amplitude_derivation.free_params = 0**
 
@@ -1828,7 +1828,7 @@ Tau.BookV.Cosmology.scalar_amplitude_chain :scalar_amplitude_derivation.total_io
 
 ### `Tau.BookV.Cosmology.ReionizationOpticalDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L711-L725)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L711-L725)
 **structure
 Tau.BookV.Cosmology.ReionizationOpticalDepth :Type**
 
@@ -1858,7 +1858,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprReionizationOpticalDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L725-L725)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L725-L725)
 **instance
 Tau.BookV.Cosmology.instReprReionizationOpticalDepth :Repr ReionizationOpticalDepth**
 
@@ -1869,7 +1869,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprReionizationOpticalDepth.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L725-L725)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L725-L725)
 **def
 Tau.BookV.Cosmology.instReprReionizationOpticalDepth.repr :ReionizationOpticalDepth → ℕ → Std.Format**
 
@@ -1881,7 +1881,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.reionization_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L727-L728)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L727-L728)
 **def
 Tau.BookV.Cosmology.reionization_depth :ReionizationOpticalDepth**
 
@@ -1893,7 +1893,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.reionization_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L730-L733)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L730-L733)
 **theorem
 Tau.BookV.Cosmology.reionization_structural :reionization_depth.z_reion = 8 ∧ reionization_depth.sigma_deviation_x10 = 7**
 
@@ -1902,7 +1902,7 @@ Tau.BookV.Cosmology.reionization_structural :reionization_depth.z_reion = 8 ∧ 
 
 ### `Tau.BookV.Cosmology.SilkDampingScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L788-L808)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L788-L808)
 **structure
 Tau.BookV.Cosmology.SilkDampingScale :Type**
 
@@ -1939,7 +1939,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSilkDampingScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L808-L808)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L808-L808)
 **instance
 Tau.BookV.Cosmology.instReprSilkDampingScale :Repr SilkDampingScale**
 
@@ -1950,7 +1950,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprSilkDampingScale.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L808-L808)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L808-L808)
 **def
 Tau.BookV.Cosmology.instReprSilkDampingScale.repr :SilkDampingScale → ℕ → Std.Format**
 
@@ -1962,7 +1962,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.silk_damping_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L810-L810)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L810-L810)
 **def
 Tau.BookV.Cosmology.silk_damping_data :SilkDampingScale**
 
@@ -1974,7 +1974,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.silk_damping_ell_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L812-L813)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L812-L813)
 **def
 Tau.BookV.Cosmology.silk_damping_ell_D :Float**
 
@@ -1986,7 +1986,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.silk_damping_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L815-L818)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L815-L818)
 **theorem
 Tau.BookV.Cosmology.silk_damping_structural :silk_damping_data.deviation_ppm = 9 ∧ silk_damping_data.free_params = 0**
 
@@ -1995,7 +1995,7 @@ Tau.BookV.Cosmology.silk_damping_structural :silk_damping_data.deviation_ppm = 9
 
 ### `Tau.BookV.Cosmology.EtaBExponentResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L830-L855)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L830-L855)
 **structure
 Tau.BookV.Cosmology.EtaBExponentResolution :Type**
 
@@ -2037,7 +2037,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEtaBExponentResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L855-L855)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L855-L855)
 **def
 Tau.BookV.Cosmology.instReprEtaBExponentResolution.repr :EtaBExponentResolution → ℕ → Std.Format**
 
@@ -2049,7 +2049,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEtaBExponentResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L855-L855)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L855-L855)
 **instance
 Tau.BookV.Cosmology.instReprEtaBExponentResolution :Repr EtaBExponentResolution**
 
@@ -2060,7 +2060,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.eta_b_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L857-L858)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L857-L858)
 **def
 Tau.BookV.Cosmology.eta_b_resolution :EtaBExponentResolution**
 
@@ -2072,7 +2072,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.eta_b_effective_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L860-L865)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L860-L865)
 **theorem
 Tau.BookV.Cosmology.eta_b_effective_exponent :eta_b_resolution.effective_exponent = 19 ∧ eta_b_resolution.prefactor_numer = 121 ∧ eta_b_resolution.prefactor_denom = 270**
 
@@ -2083,7 +2083,7 @@ The effective η_B exponent 19 = W₅(3).
 
 ### `Tau.BookV.Cosmology.BaryonLoadingParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L877-L888)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L877-L888)
 **structure
 Tau.BookV.Cosmology.BaryonLoadingParameter :Type**
 
@@ -2108,7 +2108,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryonLoadingParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L888-L888)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L888-L888)
 **instance
 Tau.BookV.Cosmology.instReprBaryonLoadingParameter :Repr BaryonLoadingParameter**
 
@@ -2119,7 +2119,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBaryonLoadingParameter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L888-L888)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L888-L888)
 **def
 Tau.BookV.Cosmology.instReprBaryonLoadingParameter.repr :BaryonLoadingParameter → ℕ → Std.Format**
 
@@ -2131,7 +2131,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_loading`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L890-L890)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L890-L890)
 **def
 Tau.BookV.Cosmology.baryon_loading :BaryonLoadingParameter**
 
@@ -2143,7 +2143,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_loading_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L891-L891)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L891-L891)
 **def
 Tau.BookV.Cosmology.baryon_loading_value :Float**
 
@@ -2155,7 +2155,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_loading_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L893-L896)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L893-L896)
 **theorem
 Tau.BookV.Cosmology.baryon_loading_thm :baryon_loading.source = 1 ∧ baryon_loading.free_params = 0**
 
@@ -2164,7 +2164,7 @@ Tau.BookV.Cosmology.baryon_loading_thm :baryon_loading.source = 1 ∧ baryon_loa
 
 ### `Tau.BookV.Cosmology.PeakHeightAsymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L898-L911)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L898-L911)
 **structure
 Tau.BookV.Cosmology.PeakHeightAsymmetry :Type**
 
@@ -2192,7 +2192,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakHeightAsymmetry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L911-L911)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L911-L911)
 **def
 Tau.BookV.Cosmology.instReprPeakHeightAsymmetry.repr :PeakHeightAsymmetry → ℕ → Std.Format**
 
@@ -2204,7 +2204,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakHeightAsymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L911-L911)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L911-L911)
 **instance
 Tau.BookV.Cosmology.instReprPeakHeightAsymmetry :Repr PeakHeightAsymmetry**
 
@@ -2215,7 +2215,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.peak_height_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L913-L913)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L913-L913)
 **def
 Tau.BookV.Cosmology.peak_height_data :PeakHeightAsymmetry**
 
@@ -2227,7 +2227,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.peak_height_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L915-L918)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L915-L918)
 **theorem
 Tau.BookV.Cosmology.peak_height_thm :peak_height_data.loading_ratio_x1000 = 4194 ∧ peak_height_data.needs_boltzmann = 1**
 
@@ -2236,7 +2236,7 @@ Tau.BookV.Cosmology.peak_height_thm :peak_height_data.loading_ratio_x1000 = 4194
 
 ### `Tau.BookV.Cosmology.DEClosureMatterDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L931-L947)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L931-L947)
 **structure
 Tau.BookV.Cosmology.DEClosureMatterDensity :Type**
 
@@ -2268,7 +2268,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDEClosureMatterDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L947-L947)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L947-L947)
 **instance
 Tau.BookV.Cosmology.instReprDEClosureMatterDensity :Repr DEClosureMatterDensity**
 
@@ -2279,7 +2279,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDEClosureMatterDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L947-L947)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L947-L947)
 **def
 Tau.BookV.Cosmology.instReprDEClosureMatterDensity.repr :DEClosureMatterDensity → ℕ → Std.Format**
 
@@ -2291,7 +2291,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.de_closure_matter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L949-L949)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L949-L949)
 **def
 Tau.BookV.Cosmology.de_closure_matter :DEClosureMatterDensity**
 
@@ -2303,7 +2303,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.de_closure_matter_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L951-L955)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L951-L955)
 **theorem
 Tau.BookV.Cosmology.de_closure_matter_thm :de_closure_matter.omega_m_x10000 = 1429 ∧ de_closure_matter.improvement_factor = 41 ∧ de_closure_matter.free_params = 0**
 
@@ -2312,7 +2312,7 @@ Tau.BookV.Cosmology.de_closure_matter_thm :de_closure_matter.omega_m_x10000 = 14
 
 ### `Tau.BookV.Cosmology.PrimordialBModeAmplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L966-L980)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L966-L980)
 **structure
 Tau.BookV.Cosmology.PrimordialBModeAmplitude :Type**
 
@@ -2342,7 +2342,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPrimordialBModeAmplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L980-L980)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L980-L980)
 **instance
 Tau.BookV.Cosmology.instReprPrimordialBModeAmplitude :Repr PrimordialBModeAmplitude**
 
@@ -2353,7 +2353,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprPrimordialBModeAmplitude.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L980-L980)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L980-L980)
 **def
 Tau.BookV.Cosmology.instReprPrimordialBModeAmplitude.repr :PrimordialBModeAmplitude → ℕ → Std.Format**
 
@@ -2365,7 +2365,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bmode_amplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L982-L982)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L982-L982)
 **def
 Tau.BookV.Cosmology.bmode_amplitude :PrimordialBModeAmplitude**
 
@@ -2377,7 +2377,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bmode_amplitude_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L984-L988)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L984-L988)
 **theorem
 Tau.BookV.Cosmology.bmode_amplitude_thm :bmode_amplitude.peak_ell = 80 ∧ bmode_amplitude.d_bb_nk2 = 339 ∧ bmode_amplitude.free_params = 0**
 
@@ -2386,7 +2386,7 @@ Tau.BookV.Cosmology.bmode_amplitude_thm :bmode_amplitude.peak_ell = 80 ∧ bmode
 
 ### `Tau.BookV.Cosmology.BModeDetectionForecast`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L990-L1004)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L990-L1004)
 **structure
 Tau.BookV.Cosmology.BModeDetectionForecast :Type**
 
@@ -2416,7 +2416,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBModeDetectionForecast`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1004-L1004)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1004-L1004)
 **instance
 Tau.BookV.Cosmology.instReprBModeDetectionForecast :Repr BModeDetectionForecast**
 
@@ -2427,7 +2427,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBModeDetectionForecast.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1004-L1004)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1004-L1004)
 **def
 Tau.BookV.Cosmology.instReprBModeDetectionForecast.repr :BModeDetectionForecast → ℕ → Std.Format**
 
@@ -2439,7 +2439,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bmode_forecast`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1006-L1006)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1006-L1006)
 **def
 Tau.BookV.Cosmology.bmode_forecast :BModeDetectionForecast**
 
@@ -2451,7 +2451,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bmode_forecast_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1008-L1012)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1008-L1012)
 **theorem
 Tau.BookV.Cosmology.bmode_forecast_thm :bmode_forecast.cmbs4_sigma = 14 ∧ bmode_forecast.litebird_sigma = 7 ∧ bmode_forecast.delensing_required = 0**
 
@@ -2460,7 +2460,7 @@ Tau.BookV.Cosmology.bmode_forecast_thm :bmode_forecast.cmbs4_sigma = 14 ∧ bmod
 
 ### `Tau.BookV.Cosmology.TauLuminosityDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1026-L1042)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1026-L1042)
 **structure
 Tau.BookV.Cosmology.TauLuminosityDistance :Type**
 
@@ -2492,7 +2492,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTauLuminosityDistance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1042-L1042)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1042-L1042)
 **def
 Tau.BookV.Cosmology.instReprTauLuminosityDistance.repr :TauLuminosityDistance → ℕ → Std.Format**
 
@@ -2504,7 +2504,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTauLuminosityDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1042-L1042)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1042-L1042)
 **instance
 Tau.BookV.Cosmology.instReprTauLuminosityDistance :Repr TauLuminosityDistance**
 
@@ -2515,7 +2515,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.tau_luminosity_distance_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1044-L1044)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1044-L1044)
 **def
 Tau.BookV.Cosmology.tau_luminosity_distance_data :TauLuminosityDistance**
 
@@ -2527,7 +2527,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.luminosity_distance_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1046-L1052)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1046-L1052)
 **theorem
 Tau.BookV.Cosmology.luminosity_distance_structural :tau_luminosity_distance_data.omega_lambda_x10000 = 6849 ∧ tau_luminosity_distance_data.omega_m_x10000 = 3151 ∧ tau_luminosity_distance_data.max_ppm_deviation = 310 ∧ tau_luminosity_distance_data.free_params = 0 ∧ tau_luminosity_distance_data.pantheon_bins_matched = 9**
 
@@ -2536,7 +2536,7 @@ Tau.BookV.Cosmology.luminosity_distance_structural :tau_luminosity_distance_data
 
 ### `Tau.BookV.Cosmology.TauAngularDiameterDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1054-L1062)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1054-L1062)
 **structure
 Tau.BookV.Cosmology.TauAngularDiameterDistance :Type**
 
@@ -2557,7 +2557,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTauAngularDiameterDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1062-L1062)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1062-L1062)
 **instance
 Tau.BookV.Cosmology.instReprTauAngularDiameterDistance :Repr TauAngularDiameterDistance**
 
@@ -2568,7 +2568,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprTauAngularDiameterDistance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1062-L1062)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1062-L1062)
 **def
 Tau.BookV.Cosmology.instReprTauAngularDiameterDistance.repr :TauAngularDiameterDistance → ℕ → Std.Format**
 
@@ -2580,7 +2580,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tau_angular_diameter_distance_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1064-L1064)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1064-L1064)
 **def
 Tau.BookV.Cosmology.tau_angular_diameter_distance_data :TauAngularDiameterDistance**
 
@@ -2592,7 +2592,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.angular_diameter_distance_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1066-L1069)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1066-L1069)
 **theorem
 Tau.BookV.Cosmology.angular_diameter_distance_structural :tau_angular_diameter_distance_data.etherington_verified = 1 ∧ tau_angular_diameter_distance_data.dA_cmb_x10 = 126**
 
@@ -2601,7 +2601,7 @@ Tau.BookV.Cosmology.angular_diameter_distance_structural :tau_angular_diameter_d
 
 ### `Tau.BookV.Cosmology.DecelerationParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1071-L1081)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1071-L1081)
 **structure
 Tau.BookV.Cosmology.DecelerationParameter :Type**
 
@@ -2625,7 +2625,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDecelerationParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1081-L1081)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1081-L1081)
 **instance
 Tau.BookV.Cosmology.instReprDecelerationParameter :Repr DecelerationParameter**
 
@@ -2636,7 +2636,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDecelerationParameter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1081-L1081)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1081-L1081)
 **def
 Tau.BookV.Cosmology.instReprDecelerationParameter.repr :DecelerationParameter → ℕ → Std.Format**
 
@@ -2648,7 +2648,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.deceleration_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1083-L1083)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1083-L1083)
 **def
 Tau.BookV.Cosmology.deceleration_data :DecelerationParameter**
 
@@ -2660,7 +2660,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.deceleration_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1085-L1089)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1085-L1089)
 **theorem
 Tau.BookV.Cosmology.deceleration_structural :deceleration_data.q0_magnitude_x1000 = 527 ∧ deceleration_data.q0_negative = 0 ∧ deceleration_data.planck_match_ppm = 524**
 
@@ -2669,7 +2669,7 @@ Tau.BookV.Cosmology.deceleration_structural :deceleration_data.q0_magnitude_x100
 
 ### `Tau.BookV.Cosmology.EinsteinRadiusBoundaryHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1095-L1106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1095-L1106)
 **structure
 Tau.BookV.Cosmology.EinsteinRadiusBoundaryHolonomy :Type**
 
@@ -2694,7 +2694,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEinsteinRadiusBoundaryHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1106-L1106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1106-L1106)
 **def
 Tau.BookV.Cosmology.instReprEinsteinRadiusBoundaryHolonomy.repr :EinsteinRadiusBoundaryHolonomy → ℕ → Std.Format**
 
@@ -2706,7 +2706,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEinsteinRadiusBoundaryHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1106-L1106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1106-L1106)
 **instance
 Tau.BookV.Cosmology.instReprEinsteinRadiusBoundaryHolonomy :Repr EinsteinRadiusBoundaryHolonomy**
 
@@ -2717,7 +2717,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.einstein_radius_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1108-L1108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1108-L1108)
 **def
 Tau.BookV.Cosmology.einstein_radius_data :EinsteinRadiusBoundaryHolonomy**
 
@@ -2729,7 +2729,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.einstein_radius_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1110-L1114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1110-L1114)
 **theorem
 Tau.BookV.Cosmology.einstein_radius_structural :einstein_radius_data.mass_ratio_x100 = 665 ∧ einstein_radius_data.slacs_matched = 5 ∧ einstein_radius_data.free_params = 0**
 
@@ -2738,7 +2738,7 @@ Tau.BookV.Cosmology.einstein_radius_structural :einstein_radius_data.mass_ratio_
 
 ### `Tau.BookV.Cosmology.StrongLensingCrossSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1116-L1124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1116-L1124)
 **structure
 Tau.BookV.Cosmology.StrongLensingCrossSection :Type**
 
@@ -2759,7 +2759,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprStrongLensingCrossSection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1124-L1124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1124-L1124)
 **def
 Tau.BookV.Cosmology.instReprStrongLensingCrossSection.repr :StrongLensingCrossSection → ℕ → Std.Format**
 
@@ -2771,7 +2771,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprStrongLensingCrossSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1124-L1124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1124-L1124)
 **instance
 Tau.BookV.Cosmology.instReprStrongLensingCrossSection :Repr StrongLensingCrossSection**
 
@@ -2782,7 +2782,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.strong_lensing_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1126-L1126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1126-L1126)
 **def
 Tau.BookV.Cosmology.strong_lensing_data :StrongLensingCrossSection**
 
@@ -2794,7 +2794,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.strong_lensing_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1128-L1131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1128-L1131)
 **theorem
 Tau.BookV.Cosmology.strong_lensing_structural :strong_lensing_data.enhancement_x10 = 442 ∧ strong_lensing_data.is_mass_ratio_squared = 1**
 
@@ -2803,7 +2803,7 @@ Tau.BookV.Cosmology.strong_lensing_structural :strong_lensing_data.enhancement_x
 
 ### `Tau.BookV.Cosmology.WeakLensingConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1137-L1145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1137-L1145)
 **structure
 Tau.BookV.Cosmology.WeakLensingConvergence :Type**
 
@@ -2824,7 +2824,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprWeakLensingConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1145-L1145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1145-L1145)
 **instance
 Tau.BookV.Cosmology.instReprWeakLensingConvergence :Repr WeakLensingConvergence**
 
@@ -2835,7 +2835,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprWeakLensingConvergence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1145-L1145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1145-L1145)
 **def
 Tau.BookV.Cosmology.instReprWeakLensingConvergence.repr :WeakLensingConvergence → ℕ → Std.Format**
 
@@ -2847,7 +2847,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.weak_convergence_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1147-L1147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1147-L1147)
 **def
 Tau.BookV.Cosmology.weak_convergence_data :WeakLensingConvergence**
 
@@ -2859,7 +2859,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.weak_convergence_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1149-L1152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1149-L1152)
 **theorem
 Tau.BookV.Cosmology.weak_convergence_structural :weak_convergence_data.sigma_enhancement_x100 = 665 ∧ weak_convergence_data.same_as_3d_ratio = 1**
 
@@ -2868,7 +2868,7 @@ Tau.BookV.Cosmology.weak_convergence_structural :weak_convergence_data.sigma_enh
 
 ### `Tau.BookV.Cosmology.WeakLensingPowerSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1154-L1162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1154-L1162)
 **structure
 Tau.BookV.Cosmology.WeakLensingPowerSpectrum :Type**
 
@@ -2889,7 +2889,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprWeakLensingPowerSpectrum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1162-L1162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1162-L1162)
 **def
 Tau.BookV.Cosmology.instReprWeakLensingPowerSpectrum.repr :WeakLensingPowerSpectrum → ℕ → Std.Format**
 
@@ -2901,7 +2901,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprWeakLensingPowerSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1162-L1162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1162-L1162)
 **instance
 Tau.BookV.Cosmology.instReprWeakLensingPowerSpectrum :Repr WeakLensingPowerSpectrum**
 
@@ -2912,7 +2912,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.weak_power_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1164-L1164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1164-L1164)
 **def
 Tau.BookV.Cosmology.weak_power_data :WeakLensingPowerSpectrum**
 
@@ -2924,7 +2924,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.weak_power_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1166-L1169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1166-L1169)
 **theorem
 Tau.BookV.Cosmology.weak_power_structural :weak_power_data.uses_tau_dA = 1 ∧ weak_power_data.matches_lcdm = 1**
 
@@ -2933,7 +2933,7 @@ Tau.BookV.Cosmology.weak_power_structural :weak_power_data.uses_tau_dA = 1 ∧ w
 
 ### `Tau.BookV.Cosmology.QuantitativeBulletCluster`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1175-L1185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1175-L1185)
 **structure
 Tau.BookV.Cosmology.QuantitativeBulletCluster :Type**
 
@@ -2957,7 +2957,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprQuantitativeBulletCluster`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1185-L1185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1185-L1185)
 **instance
 Tau.BookV.Cosmology.instReprQuantitativeBulletCluster :Repr QuantitativeBulletCluster**
 
@@ -2968,7 +2968,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprQuantitativeBulletCluster.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1185-L1185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1185-L1185)
 **def
 Tau.BookV.Cosmology.instReprQuantitativeBulletCluster.repr :QuantitativeBulletCluster → ℕ → Std.Format**
 
@@ -2980,7 +2980,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bullet_cluster_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1187-L1187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1187-L1187)
 **def
 Tau.BookV.Cosmology.bullet_cluster_data :QuantitativeBulletCluster**
 
@@ -2992,7 +2992,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bullet_cluster_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1189-L1193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1189-L1193)
 **theorem
 Tau.BookV.Cosmology.bullet_cluster_structural :bullet_cluster_data.mass_ratio_x100 = 665 ∧ bullet_cluster_data.bullet_theta_E_arcsec = 74 ∧ bullet_cluster_data.cluster_count = 5**
 
@@ -3001,7 +3001,7 @@ Tau.BookV.Cosmology.bullet_cluster_structural :bullet_cluster_data.mass_ratio_x1
 
 ### `Tau.BookV.Cosmology.BAOAngularScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1199-L1209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1199-L1209)
 **structure
 Tau.BookV.Cosmology.BAOAngularScale :Type**
 
@@ -3025,7 +3025,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBAOAngularScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1209-L1209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1209-L1209)
 **instance
 Tau.BookV.Cosmology.instReprBAOAngularScale :Repr BAOAngularScale**
 
@@ -3036,7 +3036,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBAOAngularScale.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1209-L1209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1209-L1209)
 **def
 Tau.BookV.Cosmology.instReprBAOAngularScale.repr :BAOAngularScale → ℕ → Std.Format**
 
@@ -3048,7 +3048,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bao_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1211-L1211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1211-L1211)
 **def
 Tau.BookV.Cosmology.bao_data :BAOAngularScale**
 
@@ -3060,7 +3060,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bao_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1213-L1217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1213-L1217)
 **theorem
 Tau.BookV.Cosmology.bao_structural :bao_data.r_s_x10 = 1471 ∧ bao_data.dA_rs_z05_x100 = 885 ∧ bao_data.dA_rs_z10_x100 = 1157**
 
@@ -3069,7 +3069,7 @@ Tau.BookV.Cosmology.bao_structural :bao_data.r_s_x10 = 1471 ∧ bao_data.dA_rs_z
 
 ### `Tau.BookV.Cosmology.DESIConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1219-L1227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1219-L1227)
 **structure
 Tau.BookV.Cosmology.DESIConsistency :Type**
 
@@ -3090,7 +3090,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDESIConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1227-L1227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1227-L1227)
 **instance
 Tau.BookV.Cosmology.instReprDESIConsistency :Repr DESIConsistency**
 
@@ -3101,7 +3101,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDESIConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1227-L1227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1227-L1227)
 **def
 Tau.BookV.Cosmology.instReprDESIConsistency.repr :DESIConsistency → ℕ → Std.Format**
 
@@ -3113,7 +3113,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.desi_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1229-L1229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1229-L1229)
 **def
 Tau.BookV.Cosmology.desi_data :DESIConsistency**
 
@@ -3125,7 +3125,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.desi_consistency_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1231-L1234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1231-L1234)
 **theorem
 Tau.BookV.Cosmology.desi_consistency_structural :desi_data.desi_bins = 5 ∧ desi_data.all_consistent = 1**
 
@@ -3134,7 +3134,7 @@ Tau.BookV.Cosmology.desi_consistency_structural :desi_data.desi_bins = 5 ∧ des
 
 ### `Tau.BookV.Cosmology.DarkSectorConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1240-L1258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1240-L1258)
 **structure
 Tau.BookV.Cosmology.DarkSectorConsistency :Type**
 
@@ -3169,7 +3169,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDarkSectorConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1258-L1258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1258-L1258)
 **instance
 Tau.BookV.Cosmology.instReprDarkSectorConsistency :Repr DarkSectorConsistency**
 
@@ -3180,7 +3180,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDarkSectorConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1258-L1258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1258-L1258)
 **def
 Tau.BookV.Cosmology.instReprDarkSectorConsistency.repr :DarkSectorConsistency → ℕ → Std.Format**
 
@@ -3192,7 +3192,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.dark_sector_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1260-L1260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1260-L1260)
 **def
 Tau.BookV.Cosmology.dark_sector_data :DarkSectorConsistency**
 
@@ -3204,7 +3204,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.dark_sector_consistency_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1262-L1269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1262-L1269)
 **theorem
 Tau.BookV.Cosmology.dark_sector_consistency_structural :dark_sector_data.pillars = 5 ∧ dark_sector_data.free_params = 0 ∧ dark_sector_data.discriminators = 5 ∧ dark_sector_data.mass_ratio_x100 = 665 ∧ dark_sector_data.r_tensor_x10000 = 140 ∧ dark_sector_data.sum_mnu_x1000 = 89**
 
@@ -3213,7 +3213,7 @@ Tau.BookV.Cosmology.dark_sector_consistency_structural :dark_sector_data.pillars
 
 ### `Tau.BookV.Cosmology.DiscriminatorTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1271-L1286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1271-L1286)
 **structure
 Tau.BookV.Cosmology.DiscriminatorTable :Type**
 
@@ -3243,7 +3243,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDiscriminatorTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1286-L1286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1286-L1286)
 **instance
 Tau.BookV.Cosmology.instReprDiscriminatorTable :Repr DiscriminatorTable**
 
@@ -3254,7 +3254,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDiscriminatorTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1286-L1286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1286-L1286)
 **def
 Tau.BookV.Cosmology.instReprDiscriminatorTable.repr :DiscriminatorTable → ℕ → Std.Format**
 
@@ -3266,7 +3266,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.discriminator_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1288-L1288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1288-L1288)
 **def
 Tau.BookV.Cosmology.discriminator_data :DiscriminatorTable**
 
@@ -3278,7 +3278,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.discriminator_table_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1290-L1295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1290-L1295)
 **theorem
 Tau.BookV.Cosmology.discriminator_table_structural :discriminator_data.cmbs4_r_sigma = 14 ∧ discriminator_data.desi_mnu_sigma_x10 = 45 ∧ discriminator_data.dm_detection_null = 0 ∧ discriminator_data.h0_resolved = 1**
 
@@ -3287,7 +3287,7 @@ Tau.BookV.Cosmology.discriminator_table_structural :discriminator_data.cmbs4_r_s
 
 ### `Tau.BookV.Cosmology.TwoPathComplementarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1307-L1332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1307-L1332)
 **structure
 Tau.BookV.Cosmology.TwoPathComplementarity :Type**
 
@@ -3332,7 +3332,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTwoPathComplementarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1332-L1332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1332-L1332)
 **instance
 Tau.BookV.Cosmology.instReprTwoPathComplementarity :Repr TwoPathComplementarity**
 
@@ -3343,7 +3343,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprTwoPathComplementarity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1332-L1332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1332-L1332)
 **def
 Tau.BookV.Cosmology.instReprTwoPathComplementarity.repr :TwoPathComplementarity → ℕ → Std.Format**
 
@@ -3355,7 +3355,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.two_path_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1334-L1334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1334-L1334)
 **def
 Tau.BookV.Cosmology.two_path_data :TwoPathComplementarity**
 
@@ -3367,7 +3367,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.two_path_m3h_better_ell1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1336-L1339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1336-L1339)
 **theorem
 Tau.BookV.Cosmology.two_path_m3h_better_ell1 :two_path_data.m3h_ell1_ppm < two_path_data.de_ell1_ppm**
 
@@ -3378,7 +3378,7 @@ M3h achieves better ℓ₁ despite worse ω_m.
 
 ### `Tau.BookV.Cosmology.two_path_de_better_omega_m`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1341-L1345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1341-L1345)
 **theorem
 Tau.BookV.Cosmology.two_path_de_better_omega_m :two_path_data.de_omega_m_ppm * two_path_data.improvement_factor < two_path_data.m3h_omega_m_ppm**
 
@@ -3389,7 +3389,7 @@ DE-closure achieves better ω_m (41× improvement).
 
 ### `Tau.BookV.Cosmology.PeakPositions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1356-L1379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1356-L1379)
 **structure
 Tau.BookV.Cosmology.PeakPositions :Type**
 
@@ -3432,7 +3432,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakPositions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1379-L1379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1379-L1379)
 **def
 Tau.BookV.Cosmology.instReprPeakPositions.repr :PeakPositions → ℕ → Std.Format**
 
@@ -3444,7 +3444,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakPositions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1379-L1379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1379-L1379)
 **instance
 Tau.BookV.Cosmology.instReprPeakPositions :Repr PeakPositions**
 
@@ -3455,7 +3455,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.PeakHeightRatios`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1381-L1400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1381-L1400)
 **structure
 Tau.BookV.Cosmology.PeakHeightRatios :Type**
 
@@ -3492,7 +3492,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakHeightRatios.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1400-L1400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1400-L1400)
 **def
 Tau.BookV.Cosmology.instReprPeakHeightRatios.repr :PeakHeightRatios → ℕ → Std.Format**
 
@@ -3504,7 +3504,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakHeightRatios`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1400-L1400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1400-L1400)
 **instance
 Tau.BookV.Cosmology.instReprPeakHeightRatios :Repr PeakHeightRatios**
 
@@ -3515,7 +3515,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.peak_positions_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1402-L1402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1402-L1402)
 **def
 Tau.BookV.Cosmology.peak_positions_data :PeakPositions**
 
@@ -3527,7 +3527,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.peak_height_ratios_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1403-L1403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1403-L1403)
 **def
 Tau.BookV.Cosmology.peak_height_ratios_data :PeakHeightRatios**
 
@@ -3539,7 +3539,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.peak_deviation_increasing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1405-L1409)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1405-L1409)
 **theorem
 Tau.BookV.Cosmology.peak_deviation_increasing :peak_positions_data.ell1_ppm < peak_positions_data.ell2_ppm ∧ peak_positions_data.ell2_ppm < peak_positions_data.ell3_ppm**
 
@@ -3550,7 +3550,7 @@ Higher peaks have larger deviations (sound horizon deficit).
 
 ### `Tau.BookV.Cosmology.compression_dominance_36c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1411-L1414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1411-L1414)
 **theorem
 Tau.BookV.Cosmology.compression_dominance_36c :peak_height_ratios_data.compression_x1000 > peak_height_ratios_data.rarefaction_x1000**
 
@@ -3561,7 +3561,7 @@ Compression dominates rarefaction: (1+R_b) > (1-R_b).
 
 ### `Tau.BookV.Cosmology.neff_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1416-L1419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1416-L1419)
 **theorem
 Tau.BookV.Cosmology.neff_consistency :peak_height_ratios_data.n_eff_predicted = 3**
 
@@ -3572,7 +3572,7 @@ Tau.BookV.Cosmology.neff_consistency :peak_height_ratios_data.n_eff_predicted = 
 
 ### `Tau.BookV.Cosmology.CoupledNLOScan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1430-L1449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1430-L1449)
 **structure
 Tau.BookV.Cosmology.CoupledNLOScan :Type**
 
@@ -3609,7 +3609,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCoupledNLOScan.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1449-L1449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1449-L1449)
 **def
 Tau.BookV.Cosmology.instReprCoupledNLOScan.repr :CoupledNLOScan → ℕ → Std.Format**
 
@@ -3621,7 +3621,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCoupledNLOScan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1449-L1449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1449-L1449)
 **instance
 Tau.BookV.Cosmology.instReprCoupledNLOScan :Repr CoupledNLOScan**
 
@@ -3632,7 +3632,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.coupled_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1451-L1451)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1451-L1451)
 **def
 Tau.BookV.Cosmology.coupled_nlo_data :CoupledNLOScan**
 
@@ -3644,7 +3644,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.FirstPeakNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1453-L1467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1453-L1467)
 **structure
 Tau.BookV.Cosmology.FirstPeakNLO :Type**
 
@@ -3674,7 +3674,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFirstPeakNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1467-L1467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1467-L1467)
 **def
 Tau.BookV.Cosmology.instReprFirstPeakNLO.repr :FirstPeakNLO → ℕ → Std.Format**
 
@@ -3686,7 +3686,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFirstPeakNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1467-L1467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1467-L1467)
 **instance
 Tau.BookV.Cosmology.instReprFirstPeakNLO :Repr FirstPeakNLO**
 
@@ -3697,7 +3697,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.first_peak_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1469-L1469)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1469-L1469)
 **def
 Tau.BookV.Cosmology.first_peak_nlo_data :FirstPeakNLO**
 
@@ -3709,7 +3709,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.nlo_ell1_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1471-L1474)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1471-L1474)
 **theorem
 Tau.BookV.Cosmology.nlo_ell1_improvement :first_peak_nlo_data.deviation_ppm < first_peak_nlo_data.lo_deviation_ppm**
 
@@ -3720,7 +3720,7 @@ NLO dramatically improves ℓ₁.
 
 ### `Tau.BookV.Cosmology.nlo_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1476-L1480)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1476-L1480)
 **theorem
 Tau.BookV.Cosmology.nlo_zero_params :coupled_nlo_data.free_params = 0 ∧ first_peak_nlo_data.free_params = 0**
 
@@ -3731,7 +3731,7 @@ NLO uses zero free parameters.
 
 ### `Tau.BookV.Cosmology.BAOSoundHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1486-L1502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1486-L1502)
 **structure
 Tau.BookV.Cosmology.BAOSoundHorizon :Type**
 
@@ -3764,7 +3764,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBAOSoundHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1502-L1502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1502-L1502)
 **def
 Tau.BookV.Cosmology.instReprBAOSoundHorizon.repr :BAOSoundHorizon → ℕ → Std.Format**
 
@@ -3776,7 +3776,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBAOSoundHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1502-L1502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1502-L1502)
 **instance
 Tau.BookV.Cosmology.instReprBAOSoundHorizon :Repr BAOSoundHorizon**
 
@@ -3787,7 +3787,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bao_sound_horizon_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1504-L1504)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1504-L1504)
 **def
 Tau.BookV.Cosmology.bao_sound_horizon_data :BAOSoundHorizon**
 
@@ -3799,7 +3799,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bao_nlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1506-L1510)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1506-L1510)
 **theorem
 Tau.BookV.Cosmology.bao_nlo_improvement :bao_sound_horizon_data.nlo_deviation_ppm < bao_sound_horizon_data.lo_deviation_ppm**
 
@@ -3810,7 +3810,7 @@ NLO improves r_d toward Planck.
 
 ### `Tau.BookV.Cosmology.NLOPeakStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1516-L1538)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1516-L1538)
 **structure
 Tau.BookV.Cosmology.NLOPeakStructure :Type**
 
@@ -3852,7 +3852,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNLOPeakStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1538-L1538)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1538-L1538)
 **def
 Tau.BookV.Cosmology.instReprNLOPeakStructure.repr :NLOPeakStructure → ℕ → Std.Format**
 
@@ -3864,7 +3864,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNLOPeakStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1538-L1538)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1538-L1538)
 **instance
 Tau.BookV.Cosmology.instReprNLOPeakStructure :Repr NLOPeakStructure**
 
@@ -3875,7 +3875,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.nlo_peak_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1540-L1540)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1540-L1540)
 **def
 Tau.BookV.Cosmology.nlo_peak_data :NLOPeakStructure**
 
@@ -3887,7 +3887,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.SilkDampingNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1542-L1558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1542-L1558)
 **structure
 Tau.BookV.Cosmology.SilkDampingNLO :Type**
 
@@ -3920,7 +3920,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSilkDampingNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1558-L1558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1558-L1558)
 **def
 Tau.BookV.Cosmology.instReprSilkDampingNLO.repr :SilkDampingNLO → ℕ → Std.Format**
 
@@ -3932,7 +3932,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSilkDampingNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1558-L1558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1558-L1558)
 **instance
 Tau.BookV.Cosmology.instReprSilkDampingNLO :Repr SilkDampingNLO**
 
@@ -3943,7 +3943,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.silk_damping_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1560-L1560)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1560-L1560)
 **def
 Tau.BookV.Cosmology.silk_damping_nlo_data :SilkDampingNLO**
 
@@ -3955,7 +3955,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.peak_ratio_tension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1562-L1566)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1562-L1566)
 **theorem
 Tau.BookV.Cosmology.peak_ratio_tension :nlo_peak_data.ell1_nlo_ppm < nlo_peak_data.ell2_nlo_ppm ∧ nlo_peak_data.ell2_nlo_ppm < nlo_peak_data.ell3_nlo_ppm**
 
@@ -3966,7 +3966,7 @@ Tau.BookV.Cosmology.peak_ratio_tension :nlo_peak_data.ell1_nlo_ppm < nlo_peak_da
 
 ### `Tau.BookV.Cosmology.silk_nlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1568-L1571)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1568-L1571)
 **theorem
 Tau.BookV.Cosmology.silk_nlo_improvement :silk_damping_nlo_data.nlo_ppm < silk_damping_nlo_data.lo_ppm**
 
@@ -3977,7 +3977,7 @@ Silk damping improves dramatically at NLO.
 
 ### `Tau.BookV.Cosmology.damping_ratio_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1573-L1576)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1573-L1576)
 **theorem
 Tau.BookV.Cosmology.damping_ratio_exact :silk_damping_nlo_data.free_params = 0**
 
@@ -3988,7 +3988,7 @@ Damping ratio is exact (structural).
 
 ### `Tau.BookV.Cosmology.PeakRatioNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1592-L1630)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1592-L1630)
 **structure
 Tau.BookV.Cosmology.PeakRatioNLO :Type**
 
@@ -4053,7 +4053,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakRatioNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1630-L1630)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1630-L1630)
 **def
 Tau.BookV.Cosmology.instReprPeakRatioNLO.repr :PeakRatioNLO → ℕ → Std.Format**
 
@@ -4065,7 +4065,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPeakRatioNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1630-L1630)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1630-L1630)
 **instance
 Tau.BookV.Cosmology.instReprPeakRatioNLO :Repr PeakRatioNLO**
 
@@ -4076,7 +4076,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.peak_ratio_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1632-L1632)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1632-L1632)
 **def
 Tau.BookV.Cosmology.peak_ratio_nlo_data :PeakRatioNLO**
 
@@ -4088,7 +4088,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.peak_ratio_nlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1634-L1638)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1634-L1638)
 **theorem
 Tau.BookV.Cosmology.peak_ratio_nlo_improvement :peak_ratio_nlo_data.ell2_nlo_ppm < peak_ratio_nlo_data.ell2_prev_ppm ∧ peak_ratio_nlo_data.ell3_nlo_ppm < peak_ratio_nlo_data.ell3_prev_ppm**
 
@@ -4099,7 +4099,7 @@ Tau.BookV.Cosmology.peak_ratio_nlo_improvement :peak_ratio_nlo_data.ell2_nlo_ppm
 
 ### `Tau.BookV.Cosmology.peak_ratio_preserves_ell1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1640-L1643)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1640-L1643)
 **theorem
 Tau.BookV.Cosmology.peak_ratio_preserves_ell1 :first_peak_nlo_data.deviation_ppm = 69**
 
@@ -4110,7 +4110,7 @@ Tau.BookV.Cosmology.peak_ratio_preserves_ell1 :first_peak_nlo_data.deviation_ppm
 
 ### `Tau.BookV.Cosmology.peak_ratio_sub_1300`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1645-L1649)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1645-L1649)
 **theorem
 Tau.BookV.Cosmology.peak_ratio_sub_1300 :peak_ratio_nlo_data.ell2_nlo_ppm < 1300 ∧ peak_ratio_nlo_data.ell3_nlo_ppm < 1300**
 
@@ -4121,7 +4121,7 @@ Both peaks sub-1300 ppm.
 
 ### `Tau.BookV.Cosmology.peak_ratio_improvement_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1651-L1655)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1651-L1655)
 **theorem
 Tau.BookV.Cosmology.peak_ratio_improvement_factor :peak_ratio_nlo_data.ell2_prev_ppm / peak_ratio_nlo_data.ell2_nlo_ppm ≥ 15 ∧ peak_ratio_nlo_data.ell3_prev_ppm / peak_ratio_nlo_data.ell3_nlo_ppm ≥ 15**
 
@@ -4132,7 +4132,7 @@ Improvement > 93% for both peaks. Ratio: prev/nlo > 15 for ℓ₂, > 15 for ℓ�
 
 ### `Tau.BookV.Cosmology.BaryonDensityNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1668-L1693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1668-L1693)
 **structure
 Tau.BookV.Cosmology.BaryonDensityNLO :Type**
 
@@ -4178,7 +4178,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaryonDensityNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1693-L1693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1693-L1693)
 **instance
 Tau.BookV.Cosmology.instReprBaryonDensityNLO :Repr BaryonDensityNLO**
 
@@ -4189,7 +4189,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBaryonDensityNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1693-L1693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1693-L1693)
 **def
 Tau.BookV.Cosmology.instReprBaryonDensityNLO.repr :BaryonDensityNLO → ℕ → Std.Format**
 
@@ -4201,7 +4201,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_nlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1695-L1695)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1695-L1695)
 **def
 Tau.BookV.Cosmology.baryon_nlo_data :BaryonDensityNLO**
 
@@ -4213,7 +4213,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.baryon_nlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1697-L1700)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1697-L1700)
 **theorem
 Tau.BookV.Cosmology.baryon_nlo_improvement :baryon_nlo_data.nlo_deviation_ppm < baryon_nlo_data.lo_deviation_ppm**
 
@@ -4224,7 +4224,7 @@ Tau.BookV.Cosmology.baryon_nlo_improvement :baryon_nlo_data.nlo_deviation_ppm < 
 
 ### `Tau.BookV.Cosmology.sound_horizon_nlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1702-L1705)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1702-L1705)
 **theorem
 Tau.BookV.Cosmology.sound_horizon_nlo_improvement :baryon_nlo_data.rd_nlo_ppm < baryon_nlo_data.rd_lo_ppm**
 
@@ -4235,7 +4235,7 @@ Tau.BookV.Cosmology.sound_horizon_nlo_improvement :baryon_nlo_data.rd_nlo_ppm < 
 
 ### `Tau.BookV.Cosmology.baryon_nlo_sub_300`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1707-L1710)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1707-L1710)
 **theorem
 Tau.BookV.Cosmology.baryon_nlo_sub_300 :baryon_nlo_data.nlo_deviation_ppm < 300**
 
@@ -4246,7 +4246,7 @@ Tau.BookV.Cosmology.baryon_nlo_sub_300 :baryon_nlo_data.nlo_deviation_ppm < 300*
 
 ### `Tau.BookV.Cosmology.CoupledNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1721-L1749)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1721-L1749)
 **structure
 Tau.BookV.Cosmology.CoupledNLO :Type**
 
@@ -4296,7 +4296,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCoupledNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1749-L1749)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1749-L1749)
 **instance
 Tau.BookV.Cosmology.instReprCoupledNLO :Repr CoupledNLO**
 
@@ -4307,7 +4307,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCoupledNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1749-L1749)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1749-L1749)
 **def
 Tau.BookV.Cosmology.instReprCoupledNLO.repr :CoupledNLO → ℕ → Std.Format**
 
@@ -4319,7 +4319,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.coupled_nlo_2d_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1751-L1751)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1751-L1751)
 **def
 Tau.BookV.Cosmology.coupled_nlo_2d_data :CoupledNLO**
 
@@ -4331,7 +4331,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.coupled_nlo_2d_omega_b_sub_300`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1753-L1756)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1753-L1756)
 **theorem
 Tau.BookV.Cosmology.coupled_nlo_2d_omega_b_sub_300 :coupled_nlo_2d_data.omega_b_ppm < 300**
 
@@ -4342,7 +4342,7 @@ Tau.BookV.Cosmology.coupled_nlo_2d_omega_b_sub_300 :coupled_nlo_2d_data.omega_b_
 
 ### `Tau.BookV.Cosmology.coupled_nlo_2d_ell1_sub_200`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1758-L1761)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1758-L1761)
 **theorem
 Tau.BookV.Cosmology.coupled_nlo_2d_ell1_sub_200 :coupled_nlo_2d_data.ell1_ppm < 200**
 
@@ -4353,7 +4353,7 @@ Tau.BookV.Cosmology.coupled_nlo_2d_ell1_sub_200 :coupled_nlo_2d_data.ell1_ppm < 
 
 ### `Tau.BookV.Cosmology.coupled_nlo_2d_ell2_sub_700`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1763-L1766)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1763-L1766)
 **theorem
 Tau.BookV.Cosmology.coupled_nlo_2d_ell2_sub_700 :coupled_nlo_2d_data.ell2_ppm < 700**
 
@@ -4364,7 +4364,7 @@ Tau.BookV.Cosmology.coupled_nlo_2d_ell2_sub_700 :coupled_nlo_2d_data.ell2_ppm < 
 
 ### `Tau.BookV.Cosmology.coupled_nlo_2d_three_sub_700`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1768-L1773)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1768-L1773)
 **theorem
 Tau.BookV.Cosmology.coupled_nlo_2d_three_sub_700 :coupled_nlo_2d_data.omega_b_ppm < 700 ∧ coupled_nlo_2d_data.ell1_ppm < 700 ∧ coupled_nlo_2d_data.ell2_ppm < 700**
 
@@ -4375,7 +4375,7 @@ Tau.BookV.Cosmology.coupled_nlo_2d_three_sub_700 :coupled_nlo_2d_data.omega_b_pp
 
 ### `Tau.BookV.Cosmology.n_e_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1775-L1778)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1775-L1778)
 **theorem
 Tau.BookV.Cosmology.n_e_structural :coupled_nlo_2d_data.n_e = 3 * 19**
 
@@ -4386,7 +4386,7 @@ N_e = 57 structural check.
 
 ### `Tau.BookV.Cosmology.PhaseShiftAlpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1791-L1811)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1791-L1811)
 **structure
 Tau.BookV.Cosmology.PhaseShiftAlpha :Type**
 
@@ -4424,7 +4424,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPhaseShiftAlpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1811-L1811)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1811-L1811)
 **instance
 Tau.BookV.Cosmology.instReprPhaseShiftAlpha :Repr PhaseShiftAlpha**
 
@@ -4435,7 +4435,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprPhaseShiftAlpha.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1811-L1811)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1811-L1811)
 **def
 Tau.BookV.Cosmology.instReprPhaseShiftAlpha.repr :PhaseShiftAlpha → ℕ → Std.Format**
 
@@ -4447,7 +4447,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.phase_shift_alpha_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1813-L1813)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1813-L1813)
 **def
 Tau.BookV.Cosmology.phase_shift_alpha_data :PhaseShiftAlpha**
 
@@ -4459,7 +4459,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ell2_alpha_insensitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1815-L1818)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1815-L1818)
 **theorem
 Tau.BookV.Cosmology.ell2_alpha_insensitive :phase_shift_alpha_data.ell2_ppm_fixed = 663**
 
@@ -4470,7 +4470,7 @@ Tau.BookV.Cosmology.ell2_alpha_insensitive :phase_shift_alpha_data.ell2_ppm_fixe
 
 ### `Tau.BookV.Cosmology.ell3_sensitivity_sub_700`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1820-L1823)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1820-L1823)
 **theorem
 Tau.BookV.Cosmology.ell3_sensitivity_sub_700 :phase_shift_alpha_data.ell3_sensitivity_band < 700**
 
@@ -4481,7 +4481,7 @@ Tau.BookV.Cosmology.ell3_sensitivity_sub_700 :phase_shift_alpha_data.ell3_sensit
 
 ### `Tau.BookV.Cosmology.OmegaMatterNNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1834-L1868)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1834-L1868)
 **structure
 Tau.BookV.Cosmology.OmegaMatterNNLO :Type**
 
@@ -4540,7 +4540,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprOmegaMatterNNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1868-L1868)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1868-L1868)
 **def
 Tau.BookV.Cosmology.instReprOmegaMatterNNLO.repr :OmegaMatterNNLO → ℕ → Std.Format**
 
@@ -4552,7 +4552,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprOmegaMatterNNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1868-L1868)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1868-L1868)
 **instance
 Tau.BookV.Cosmology.instReprOmegaMatterNNLO :Repr OmegaMatterNNLO**
 
@@ -4563,7 +4563,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.omega_m_nnlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1870-L1870)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1870-L1870)
 **def
 Tau.BookV.Cosmology.omega_m_nnlo_data :OmegaMatterNNLO**
 
@@ -4575,7 +4575,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.omega_m_nnlo_sub_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1872-L1874)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1872-L1874)
 **theorem
 Tau.BookV.Cosmology.omega_m_nnlo_sub_20 :omega_m_nnlo_data.omega_m_ppm < 20**
 
@@ -4586,7 +4586,7 @@ Tau.BookV.Cosmology.omega_m_nnlo_sub_20 :omega_m_nnlo_data.omega_m_ppm < 20**
 
 ### `Tau.BookV.Cosmology.rd_nnlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1876-L1878)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1876-L1878)
 **theorem
 Tau.BookV.Cosmology.rd_nnlo_improvement :omega_m_nnlo_data.rd_ppm * 11 < 14064**
 
@@ -4597,7 +4597,7 @@ Tau.BookV.Cosmology.rd_nnlo_improvement :omega_m_nnlo_data.rd_ppm * 11 < 14064**
 
 ### `Tau.BookV.Cosmology.n_e_nnlo_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1880-L1882)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1880-L1882)
 **theorem
 Tau.BookV.Cosmology.n_e_nnlo_structural :omega_m_nnlo_data.n_e = 3 * 19**
 
@@ -4608,7 +4608,7 @@ Tau.BookV.Cosmology.n_e_nnlo_structural :omega_m_nnlo_data.n_e = 3 * 19**
 
 ### `Tau.BookV.Cosmology.fund_domain_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1884-L1886)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1884-L1886)
 **theorem
 Tau.BookV.Cosmology.fund_domain_structural :omega_m_nnlo_data.fund_domain = 2 ^ 3 * 3**
 
@@ -4619,7 +4619,7 @@ Tau.BookV.Cosmology.fund_domain_structural :omega_m_nnlo_data.fund_domain = 2 ^ 
 
 ### `Tau.BookV.Cosmology.two_path_convergence_30x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1888-L1890)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1888-L1890)
 **theorem
 Tau.BookV.Cosmology.two_path_convergence_30x :omega_m_nnlo_data.two_path_gap_ppm * 30 < 52280**
 
@@ -4630,7 +4630,7 @@ Tau.BookV.Cosmology.two_path_convergence_30x :omega_m_nnlo_data.two_path_gap_ppm
 
 ### `Tau.BookV.Cosmology.ParetoBarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1892-L1913)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1892-L1913)
 **structure
 Tau.BookV.Cosmology.ParetoBarrier :Type**
 
@@ -4670,7 +4670,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprParetoBarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1913-L1913)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1913-L1913)
 **instance
 Tau.BookV.Cosmology.instReprParetoBarrier :Repr ParetoBarrier**
 
@@ -4681,7 +4681,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprParetoBarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1913-L1913)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1913-L1913)
 **def
 Tau.BookV.Cosmology.instReprParetoBarrier.repr :ParetoBarrier → ℕ → Std.Format**
 
@@ -4693,7 +4693,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pareto_barrier_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1915-L1915)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1915-L1915)
 **def
 Tau.BookV.Cosmology.pareto_barrier_data :ParetoBarrier**
 
@@ -4705,7 +4705,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.density_omega_m_sub_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1917-L1919)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1917-L1919)
 **theorem
 Tau.BookV.Cosmology.density_omega_m_sub_20 :pareto_barrier_data.density_omega_m_ppm < 20**
 
@@ -4716,7 +4716,7 @@ Tau.BookV.Cosmology.density_omega_m_sub_20 :pareto_barrier_data.density_omega_m_
 
 ### `Tau.BookV.Cosmology.peaks_ell1_sub_200`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1921-L1923)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1921-L1923)
 **theorem
 Tau.BookV.Cosmology.peaks_ell1_sub_200 :pareto_barrier_data.peaks_ell1_ppm < 200**
 
@@ -4727,7 +4727,7 @@ Tau.BookV.Cosmology.peaks_ell1_sub_200 :pareto_barrier_data.peaks_ell1_ppm < 200
 
 ### `Tau.BookV.Cosmology.crossover_ell1_ell3_close`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1925-L1928)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1925-L1928)
 **theorem
 Tau.BookV.Cosmology.crossover_ell1_ell3_close :pareto_barrier_data.crossover_ell1_ppm - pareto_barrier_data.crossover_ell3_ppm < 50**
 
@@ -4738,7 +4738,7 @@ Tau.BookV.Cosmology.crossover_ell1_ell3_close :pareto_barrier_data.crossover_ell
 
 ### `Tau.BookV.Cosmology.BAONNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1940-L1961)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1940-L1961)
 **structure
 Tau.BookV.Cosmology.BAONNLO :Type**
 
@@ -4778,7 +4778,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBAONNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1961-L1961)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1961-L1961)
 **def
 Tau.BookV.Cosmology.instReprBAONNLO.repr :BAONNLO → ℕ → Std.Format**
 
@@ -4790,7 +4790,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBAONNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1961-L1961)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1961-L1961)
 **instance
 Tau.BookV.Cosmology.instReprBAONNLO :Repr BAONNLO**
 
@@ -4801,7 +4801,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bao_nnlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1963-L1963)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1963-L1963)
 **def
 Tau.BookV.Cosmology.bao_nnlo_data :BAONNLO**
 
@@ -4813,7 +4813,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bao_nnlo_sub_1300`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1965-L1972)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1965-L1972)
 **theorem
 Tau.BookV.Cosmology.bao_nnlo_sub_1300 :bao_nnlo_data.dv_rd_ppm_z051 < 1300 ∧ bao_nnlo_data.dv_rd_ppm_z071 < 1300 ∧ bao_nnlo_data.dv_rd_ppm_z093 < 1300 ∧ bao_nnlo_data.dv_rd_ppm_z132 < 1300 ∧ bao_nnlo_data.dv_rd_ppm_z233 < 1300**
 
@@ -4824,7 +4824,7 @@ Tau.BookV.Cosmology.bao_nnlo_sub_1300 :bao_nnlo_data.dv_rd_ppm_z051 < 1300 ∧ b
 
 ### `Tau.BookV.Cosmology.bao_nnlo_improvement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1974-L1977)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1974-L1977)
 **theorem
 Tau.BookV.Cosmology.bao_nnlo_improvement :bao_nnlo_data.nlo_mean_ppm / bao_nnlo_data.nnlo_mean_ppm ≥ 20**
 
@@ -4835,7 +4835,7 @@ Tau.BookV.Cosmology.bao_nnlo_improvement :bao_nnlo_data.nlo_mean_ppm / bao_nnlo_
 
 ### `Tau.BookV.Cosmology.DensitySectorClosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1988-L2011)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L1988-L2011)
 **structure
 Tau.BookV.Cosmology.DensitySectorClosure :Type**
 
@@ -4878,7 +4878,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDensitySectorClosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2011-L2011)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2011-L2011)
 **instance
 Tau.BookV.Cosmology.instReprDensitySectorClosure :Repr DensitySectorClosure**
 
@@ -4889,7 +4889,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDensitySectorClosure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2011-L2011)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2011-L2011)
 **def
 Tau.BookV.Cosmology.instReprDensitySectorClosure.repr :DensitySectorClosure → ℕ → Std.Format**
 
@@ -4901,7 +4901,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.density_closure_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2013-L2013)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2013-L2013)
 **def
 Tau.BookV.Cosmology.density_closure_data :DensitySectorClosure**
 
@@ -4913,7 +4913,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.density_sector_sub_1300`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2015-L2020)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2015-L2020)
 **theorem
 Tau.BookV.Cosmology.density_sector_sub_1300 :density_closure_data.omega_m_ppm < 1300 ∧ density_closure_data.rd_ppm < 1300 ∧ density_closure_data.bao_max_ppm < 1300**
 
@@ -4924,7 +4924,7 @@ Tau.BookV.Cosmology.density_sector_sub_1300 :density_closure_data.omega_m_ppm < 
 
 ### `Tau.BookV.Cosmology.density_sector_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2022-L2025)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CMBSpectrum.lean#L2022-L2025)
 **theorem
 Tau.BookV.Cosmology.density_sector_zero_params :density_closure_data.free_params = 0**
 

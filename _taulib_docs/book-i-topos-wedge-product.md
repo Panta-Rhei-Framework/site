@@ -48,7 +48,7 @@ The bi-monoidal structure has product (×) distributing over coproduct (∨).
 
 ### `Tau.Topos.cat_coproduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L28-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L28-L31)
 **def
 Tau.Topos.cat_coproduct
 (P Q : Presheaf)
@@ -65,7 +65,7 @@ Instances For
 
 ### `Tau.Topos.coprod_inl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L33-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L33-L36)
 **theorem
 Tau.Topos.coprod_inl
 (P Q : Presheaf)
@@ -80,7 +80,7 @@ Left injection: P → P ∨ Q.
 
 ### `Tau.Topos.coprod_inr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L38-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L38-L41)
 **theorem
 Tau.Topos.coprod_inr
 (P Q : Presheaf)
@@ -95,7 +95,7 @@ Right injection: Q → P ∨ Q.
 
 ### `Tau.Topos.coproduct_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L43-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L43-L46)
 **theorem
 Tau.Topos.coproduct_comm
 (P Q : Presheaf)
@@ -108,7 +108,7 @@ Coproduct is commutative.
 
 ### `Tau.Topos.coproduct_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L48-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L48-L52)
 **theorem
 Tau.Topos.coproduct_assoc
 (P Q R : Presheaf)
@@ -121,7 +121,7 @@ Coproduct is associative.
 
 ### `Tau.Topos.coproduct_initial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L54-L57)
 **theorem
 Tau.Topos.coproduct_initial
 (P : Presheaf)
@@ -134,7 +134,7 @@ Coproduct with initial is identity.
 
 ### `Tau.Topos.product_distributes_over_coproduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L63-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L63-L70)
 **theorem
 Tau.Topos.product_distributes_over_coproduct
 (P Q R : Presheaf)
@@ -148,7 +148,7 @@ P × (Q ∨ R) = (P × Q) ∨ (P × R).
 
 ### `Tau.Topos.product_distributes_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L72-L78)
 **theorem
 Tau.Topos.product_distributes_right
 (P Q R : Presheaf)
@@ -161,7 +161,7 @@ Right distributivity: (P ∨ Q) × R = (P × R) ∨ (Q × R).
 
 ### `Tau.Topos.BiMonoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L84-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L84-L94)
 **structure
 Tau.Topos.BiMonoidal :Type**
 
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.Topos.bi_monoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L96-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L96-L97)
 **def
 Tau.Topos.bi_monoidal :BiMonoidal**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.Topos.product_absorb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L99-L102)
 **theorem
 Tau.Topos.product_absorb
 (P : Presheaf)
@@ -206,7 +206,7 @@ Absorption: P × 0 = 0.
 
 ### `Tau.Topos.coproduct_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/WedgeProduct.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/WedgeProduct.lean#L104-L107)
 **theorem
 Tau.Topos.coproduct_terminal
 (P : Presheaf)

@@ -74,7 +74,7 @@ Under this encoding:
 
 ### `Tau.Sets.tau_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L47-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L47-L49)
 **def
 Tau.Sets.tau_mem
 (a b : Denotation.TauIdx)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.Sets.tau_mem_iff_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L51-L53)
 **theorem
 Tau.Sets.tau_mem_iff_dvd
 (a b : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Bridge: τ-membership is Nat divisibility.
 
 ### `Tau.Sets.instDecidableTauMem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L55-L57)
 **instance
 Tau.Sets.instDecidableTauMem
 (a b : Denotation.TauIdx)
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.Sets.tau_mem_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L63-L65)
 **theorem
 Tau.Sets.tau_mem_refl
 (a : Denotation.TauIdx)
@@ -132,7 +132,7 @@ Reflexivity: every τ-set is a member of itself.
 
 ### `Tau.Sets.tau_mem_antisymm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L67-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L67-L69)
 **theorem
 Tau.Sets.tau_mem_antisymm
 {a b : Denotation.TauIdx}
@@ -149,7 +149,7 @@ Antisymmetry: mutual membership implies equality.
 
 ### `Tau.Sets.tau_mem_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L71-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L71-L73)
 **theorem
 Tau.Sets.tau_mem_trans
 {a b c : Denotation.TauIdx}
@@ -166,7 +166,7 @@ Transitivity: membership is transitive.
 
 ### `Tau.Sets.tau_mem_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L75-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L75-L77)
 **theorem
 Tau.Sets.tau_mem_one
 (b : Denotation.TauIdx)
@@ -179,7 +179,7 @@ Tau.Sets.tau_mem_one
 
 ### `Tau.Sets.tau_mem_le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L79-L81)
 **theorem
 Tau.Sets.tau_mem_le
 {a b : Denotation.TauIdx}
@@ -196,7 +196,7 @@ Membership is bounded: a ∈_τ b with b ≠ 0 implies a ≤ b.
 
 ### `Tau.Sets.tau_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L87-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L87-L90)
 **def
 Tau.Sets.tau_unit :Denotation.TauIdx**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.Sets.tau_unit_char`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L92-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L92-L97)
 **theorem
 Tau.Sets.tau_unit_char
 (a : Denotation.TauIdx)
@@ -227,7 +227,7 @@ The unit has no members other than itself: if a ∈_τ 1, then a = 1.
 
 ### `Tau.Sets.singleton_char`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L99-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L99-L119)
 **theorem
 Tau.Sets.singleton_char
 (p : Denotation.TauIdx)
@@ -242,7 +242,7 @@ A nonzero τ-set p is a singleton (only 1 and p are τ-members) iff p = 1 or p i
 
 ### `Tau.Sets.tau_mem_mul_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L125-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L125-L130)
 **theorem
 Tau.Sets.tau_mem_mul_right
 {a b : Denotation.TauIdx}
@@ -259,7 +259,7 @@ Product membership: if a ∈_τ b, then a ∈_τ b*c.
 
 ### `Tau.Sets.tau_mem_mul_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Membership.lean#L132-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Membership.lean#L132-L137)
 **theorem
 Tau.Sets.tau_mem_mul_left
 {a c : Denotation.TauIdx}

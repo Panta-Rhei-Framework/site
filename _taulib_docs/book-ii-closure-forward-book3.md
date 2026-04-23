@@ -71,7 +71,7 @@ enrichment ladder
 
 ### `Tau.BookII.Closure.E1ExportPackage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L46-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L46-L56)
 **structure
 Tau.BookII.Closure.E1ExportPackage :Type**
 
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprE1ExportPackage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
 **def
 Tau.BookII.Closure.instReprE1ExportPackage.repr :E1ExportPackage → ℕ → Std.Format**
 
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprE1ExportPackage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
 **instance
 Tau.BookII.Closure.instReprE1ExportPackage :Repr E1ExportPackage**
 
@@ -115,7 +115,7 @@ Equations
 
 ### `Tau.BookII.Closure.instDecidableEqE1ExportPackage.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
 **def
 Tau.BookII.Closure.instDecidableEqE1ExportPackage.decEq
 (x✝ x✝¹ : E1ExportPackage)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqE1ExportPackage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L56-L56)
 **instance
 Tau.BookII.Closure.instDecidableEqE1ExportPackage :DecidableEq E1ExportPackage**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookII.Closure.compute_e1_export`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L58-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L58-L70)
 **def
 Tau.BookII.Closure.compute_e1_export
 (db bound k_max : Denotation.TauIdx)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookII.Closure.export_package_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L72-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L72-L80)
 **def
 Tau.BookII.Closure.export_package_complete
 (pkg : E1ExportPackage)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookII.Closure.full_export_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L82-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L82-L84)
 **def
 Tau.BookII.Closure.full_export_check
 (db bound k_max : Denotation.TauIdx)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookII.Closure.export_component_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L90-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L90-L97)
 **def
 Tau.BookII.Closure.export_component_count
 (pkg : E1ExportPackage)
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookII.Closure.export_all_six`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L99-L101)
 **def
 Tau.BookII.Closure.export_all_six
 (db bound k_max : Denotation.TauIdx)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookII.Closure.book3_entry_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L107-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L107-L113)
 **def
 Tau.BookII.Closure.book3_entry_level
 (db bound k_max : Denotation.TauIdx)
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookII.Closure.book3_starts_at_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L115-L117)
 **def
 Tau.BookII.Closure.book3_starts_at_e1
 (db bound k_max : Denotation.TauIdx)
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookII.Closure.full_export_3_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L156-L157)
 **theorem
 Tau.BookII.Closure.full_export_3_15_3 :full_export_check 3 15 3 = true**
 
@@ -273,7 +273,7 @@ Tau.BookII.Closure.full_export_3_15_3 :full_export_check 3 15 3 = true**
 
 ### `Tau.BookII.Closure.all_six_3_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L160-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L160-L161)
 **theorem
 Tau.BookII.Closure.all_six_3_15_3 :export_all_six 3 15 3 = true**
 
@@ -282,7 +282,7 @@ Tau.BookII.Closure.all_six_3_15_3 :export_all_six 3 15 3 = true**
 
 ### `Tau.BookII.Closure.book3_e1_3_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L164-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L164-L165)
 **theorem
 Tau.BookII.Closure.book3_e1_3_15_3 :book3_starts_at_e1 3 15 3 = true**
 
@@ -291,7 +291,7 @@ Tau.BookII.Closure.book3_e1_3_15_3 :book3_starts_at_e1 3 15 3 = true**
 
 ### `Tau.BookII.Closure.export_e1_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L168-L169)
 **theorem
 Tau.BookII.Closure.export_e1_layer :(compute_e1_export 3 15 3).e1_layer_complete = true**
 
@@ -300,7 +300,7 @@ Tau.BookII.Closure.export_e1_layer :(compute_e1_export 3 15 3).e1_layer_complete
 
 ### `Tau.BookII.Closure.export_central`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L171-L172)
 **theorem
 Tau.BookII.Closure.export_central :(compute_e1_export 3 15 3).central_theorem_verified = true**
 
@@ -309,7 +309,7 @@ Tau.BookII.Closure.export_central :(compute_e1_export 3 15 3).central_theorem_ve
 
 ### `Tau.BookII.Closure.export_categoricity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L174-L175)
 **theorem
 Tau.BookII.Closure.export_categoricity :(compute_e1_export 3 15 3).categoricity_verified = true**
 
@@ -318,7 +318,7 @@ Tau.BookII.Closure.export_categoricity :(compute_e1_export 3 15 3).categoricity_
 
 ### `Tau.BookII.Closure.export_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L177-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L177-L178)
 **theorem
 Tau.BookII.Closure.export_ladder :(compute_e1_export 3 15 3).enrichment_ladder_verified = true**
 
@@ -327,7 +327,7 @@ Tau.BookII.Closure.export_ladder :(compute_e1_export 3 15 3).enrichment_ladder_v
 
 ### `Tau.BookII.Closure.export_manifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L180-L181)
 **theorem
 Tau.BookII.Closure.export_manifold :(compute_e1_export 3 15 3).tau_manifold_verified = true**
 
@@ -336,7 +336,7 @@ Tau.BookII.Closure.export_manifold :(compute_e1_export 3 15 3).tau_manifold_veri
 
 ### `Tau.BookII.Closure.export_proto`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L183-L184)
 **theorem
 Tau.BookII.Closure.export_proto :(compute_e1_export 3 15 3).proto_rationality_verified = true**
 
@@ -345,7 +345,7 @@ Tau.BookII.Closure.export_proto :(compute_e1_export 3 15 3).proto_rationality_ve
 
 ### `Tau.BookII.Closure.complete_means_six`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L190-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L190-L205)
 **theorem
 Tau.BookII.Closure.complete_means_six
 (pkg : E1ExportPackage)
@@ -359,7 +359,7 @@ This is the structural statement that completeness implies count = 6.
 
 ### `Tau.BookII.Closure.export_implies_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L207-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L207-L215)
 **theorem
 Tau.BookII.Closure.export_implies_e1
 (db bound k_max : Denotation.TauIdx)
@@ -373,7 +373,7 @@ then each component individually passes.
 
 ### `Tau.BookII.Closure.export_implies_central`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L217-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L217-L225)
 **theorem
 Tau.BookII.Closure.export_implies_central
 (db bound k_max : Denotation.TauIdx)
@@ -387,7 +387,7 @@ Central Theorem verified.
 
 ### `Tau.BookII.Closure.e1_gt_e0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/ForwardBook3.lean#L227-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/ForwardBook3.lean#L227-L230)
 **theorem
 Tau.BookII.Closure.e1_gt_e0 :Enrichment.EnrichmentLevel.E0 ≠ Enrichment.EnrichmentLevel.E1**
 

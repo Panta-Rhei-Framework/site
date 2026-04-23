@@ -94,7 +94,7 @@ fourth (a dimensional combination, not a particle).
 
 ### `Tau.BookIV.Calibration.CalibrationAnchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L59-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L59-L75)
 **structure
 Tau.BookIV.Calibration.CalibrationAnchor :Type**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCalibrationAnchor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L75-L75)
 **def
 Tau.BookIV.Calibration.instReprCalibrationAnchor.repr :CalibrationAnchor → ℕ → Std.Format**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCalibrationAnchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L75-L75)
 **instance
 Tau.BookIV.Calibration.instReprCalibrationAnchor :Repr CalibrationAnchor**
 
@@ -149,7 +149,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.neutron_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L77-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L77-L83)
 **def
 Tau.BookIV.Calibration.neutron_anchor :CalibrationAnchor**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.anchor_matches_si`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L85-L89)
 **theorem
 Tau.BookIV.Calibration.anchor_matches_si :neutron_anchor.mass_numer = si_neutron_mass.numer ∧ neutron_anchor.mass_denom = si_neutron_mass.denom**
 
@@ -174,7 +174,7 @@ The anchor mass matches the SI reference.
 
 ### `Tau.BookIV.Calibration.TauToSIConversion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L95-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L95-L113)
 **structure
 Tau.BookIV.Calibration.TauToSIConversion :Type**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprTauToSIConversion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L113-L113)
 **def
 Tau.BookIV.Calibration.instReprTauToSIConversion.repr :TauToSIConversion → ℕ → Std.Format**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprTauToSIConversion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L113-L113)
 **instance
 Tau.BookIV.Calibration.instReprTauToSIConversion :Repr TauToSIConversion**
 
@@ -231,7 +231,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.lambda_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L115-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L115-L121)
 **def
 Tau.BookIV.Calibration.lambda_mass :TauToSIConversion**
 
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.DimensionalFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L127-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L127-L141)
 **structure
 Tau.BookIV.Calibration.DimensionalFactorization :Type**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprDimensionalFactorization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L141-L141)
 **def
 Tau.BookIV.Calibration.instReprDimensionalFactorization.repr :DimensionalFactorization → ℕ → Std.Format**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprDimensionalFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L141-L141)
 **instance
 Tau.BookIV.Calibration.instReprDimensionalFactorization :Repr DimensionalFactorization**
 
@@ -298,7 +298,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.parameter_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L143-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L143-L151)
 **theorem
 Tau.BookIV.Calibration.parameter_count :0 = 0 ∧ neutron_anchor.is_sole_anchor = true**
 
@@ -311,7 +311,7 @@ All dimensional quantities factor through the single anchor Λ_M = m_n(SI).
 
 ### `Tau.BookIV.Calibration.RelationalStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L157-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L157-L162)
 **inductive
 Tau.BookIV.Calibration.RelationalStatus :Type**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
 **instance
 Tau.BookIV.Calibration.instReprRelationalStatus :Repr RelationalStatus**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprRelationalStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
 **def
 Tau.BookIV.Calibration.instReprRelationalStatus.repr :RelationalStatus → ℕ → Std.Format**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqRelationalStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L162-L162)
 **instance
 Tau.BookIV.Calibration.instDecidableEqRelationalStatus :DecidableEq RelationalStatus**
 
@@ -361,7 +361,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.RelationalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L164-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L164-L172)
 **structure
 Tau.BookIV.Calibration.RelationalQuantity :Type**
 
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L172-L172)
 **instance
 Tau.BookIV.Calibration.instReprRelationalQuantity :Repr RelationalQuantity**
 
@@ -394,7 +394,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprRelationalQuantity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L172-L172)
 **def
 Tau.BookIV.Calibration.instReprRelationalQuantity.repr :RelationalQuantity → ℕ → Std.Format**
 
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.relational_quantities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L174-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L174-L181)
 **def
 Tau.BookIV.Calibration.relational_quantities :List RelationalQuantity**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.tau_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L183-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L183-L190)
 **theorem
 Tau.BookIV.Calibration.tau_collapse :relational_quantities.length = 5 ∧ (List.filter (fun (x : RelationalQuantity) => x.status == RelationalStatus.Anchor) relational_quantities).length = 1 ∧ (List.filter (fun (x : RelationalQuantity) => x.status == RelationalStatus.IotaDerived)
  relational_quantities).length = 3 ∧ (List.filter (fun (x : RelationalQuantity) => x.status == RelationalStatus.SIExact)
@@ -435,7 +435,7 @@ exactly 1 is the anchor and 3 are ι<sub>τ</sub>-derived
 
 ### `Tau.BookIV.Calibration.OntologicalPriority`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L196-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L196-L210)
 **inductive
 Tau.BookIV.Calibration.OntologicalPriority :Type**
 
@@ -465,7 +465,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprOntologicalPriority`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
 **instance
 Tau.BookIV.Calibration.instReprOntologicalPriority :Repr OntologicalPriority**
 
@@ -476,7 +476,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprOntologicalPriority.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
 **def
 Tau.BookIV.Calibration.instReprOntologicalPriority.repr :OntologicalPriority → ℕ → Std.Format**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqOntologicalPriority`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L210-L210)
 **instance
 Tau.BookIV.Calibration.instDecidableEqOntologicalPriority :DecidableEq OntologicalPriority**
 
@@ -499,7 +499,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.OntologicalPriority.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L212-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L212-L217)
 **def
 Tau.BookIV.Calibration.OntologicalPriority.toNat :OntologicalPriority → ℕ**
 
@@ -516,7 +516,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.neutron_first`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L219-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L219-L224)
 **theorem
 Tau.BookIV.Calibration.neutron_first :OntologicalPriority.Neutron.toNat < OntologicalPriority.Proton.toNat ∧ OntologicalPriority.Proton.toNat < OntologicalPriority.Electron.toNat ∧ OntologicalPriority.Electron.toNat < OntologicalPriority.PlanckMass.toNat**
 
@@ -527,7 +527,7 @@ Neutron has highest ontological priority.
 
 ### `Tau.BookIV.Calibration.priority_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L226-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L226-L227)
 **theorem
 Tau.BookIV.Calibration.priority_levels :4 = 4**
 
@@ -538,7 +538,7 @@ The priority chain has 4 levels.
 
 ### `Tau.BookIV.Calibration.anchor_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L233-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L233-L236)
 **theorem
 Tau.BookIV.Calibration.anchor_positive :neutron_anchor.mass_numer > 0**
 
@@ -549,7 +549,7 @@ The neutron mass anchor is positive.
 
 ### `Tau.BookIV.Calibration.anchor_much_heavier_than_electron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L238-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchor.lean#L238-L243)
 **theorem
 Tau.BookIV.Calibration.anchor_much_heavier_than_electron :si_neutron_mass.numer * si_electron_mass.denom > 1838 * si_electron_mass.numer * si_neutron_mass.denom**
 

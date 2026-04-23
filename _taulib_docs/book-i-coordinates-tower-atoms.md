@@ -56,7 +56,7 @@ prime factor of T(a,b,c) is a.
 
 ### `Tau.Coordinates.tetration_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L34-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L34-L38)
 **theorem
 Tau.Coordinates.tetration_pos
 (a : Nat)
@@ -73,7 +73,7 @@ a↑↑c ≥ 1 for a ≥ 1.
 
 ### `Tau.Coordinates.tetration_ge_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L40-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L40-L49)
 **theorem
 Tau.Coordinates.tetration_ge_base
 (a : Nat)
@@ -92,7 +92,7 @@ a↑↑c ≥ a for a ≥ 2, c ≥ 1.
 
 ### `Tau.Coordinates.tetration_strict_mono`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L51-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L51-L61)
 **theorem
 Tau.Coordinates.tetration_strict_mono
 (a : Nat)
@@ -109,7 +109,7 @@ a↑↑(c+1) > a↑↑c for a ≥ 2 (strict monotonicity).
 
 ### `Tau.Coordinates.tetration_unbounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L63-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L63-L72)
 **theorem
 Tau.Coordinates.tetration_unbounded
 (a : Nat)
@@ -126,7 +126,7 @@ Tetration is unbounded: for a ≥ 2 and any N, ∃ c, a↑↑c > N.
 
 ### `Tau.Coordinates.tower_atom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L78-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L78-L79)
 **def
 Tau.Coordinates.tower_atom
 (a b c : Denotation.TauIdx)
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.Coordinates.tower_atom_eq_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L81-L83)
 **theorem
 Tau.Coordinates.tower_atom_eq_nat
 (a b c : Denotation.TauIdx)
@@ -155,7 +155,7 @@ Bridge: tower_atom a b c = (tetration a c) ^ b (definitional).
 
 ### `Tau.Coordinates.tower_atom_via_fold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L85-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L85-L91)
 **theorem
 Tau.Coordinates.tower_atom_via_fold
 (a b c : Denotation.TauIdx)
@@ -170,7 +170,7 @@ Ground truth: chunk_0241, chunk_0060 (UR-ITER).
 
 ### `Tau.Coordinates.tower_atom_ge_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L93-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L93-L101)
 **theorem
 Tau.Coordinates.tower_atom_ge_two
 (a b c : Denotation.TauIdx)
@@ -189,7 +189,7 @@ Tower atoms are at least 2 for prime base, b ≥ 1, c ≥ 1.
 
 ### `Tau.Coordinates.tower_atom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L103-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L103-L108)
 **theorem
 Tau.Coordinates.tower_atom_pos
 (a b c : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Tower atoms are positive for a ≥ 1.
 
 ### `Tau.Coordinates.tetration_as_pow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L114-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L114-L120)
 **theorem
 Tau.Coordinates.tetration_as_pow
 (a c : Nat)
@@ -220,7 +220,7 @@ That is, a↑↑c = a ^ (a↑↑(c-1)).
 
 ### `Tau.Coordinates.tower_atom_as_prime_power`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L122-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L122-L127)
 **theorem
 Tau.Coordinates.tower_atom_as_prime_power
 (a b c : Denotation.TauIdx)
@@ -235,7 +235,7 @@ T(a,b,c) is a power of a: T(a,b,c) = a^(b * a↑↑(c-1)).
 
 ### `Tau.Coordinates.tower_atom_prime_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L145-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L145-L157)
 **theorem
 Tau.Coordinates.tower_atom_prime_factor
 (a b c p : Denotation.TauIdx)
@@ -258,7 +258,7 @@ All prime factors of T(a,b,c) equal a (when a is prime, b ≥ 1, c ≥ 1).
 
 ### `Tau.Coordinates.largest_prime_divisor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L163-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L163-L173)
 **def
 Tau.Coordinates.largest_prime_divisor
 (n : Denotation.TauIdx)
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.Coordinates.largest_prime_divisor.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L168-L171)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L168-L171)@[irreducible]
 
 **def
 Tau.Coordinates.largest_prime_divisor.go
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.Coordinates.max_tet_height`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L175-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L175-L185)
 **def
 Tau.Coordinates.max_tet_height
 (a n : Denotation.TauIdx)
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.Coordinates.max_tet_height.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L180-L183)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L180-L183)@[irreducible]
 
 **def
 Tau.Coordinates.max_tet_height.go
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.Coordinates.max_exp_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L187-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L187-L197)
 **def
 Tau.Coordinates.max_exp_at
 (base n : Denotation.TauIdx)
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.Coordinates.max_exp_at.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L192-L195)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L192-L195)@[irreducible]
 
 **def
 Tau.Coordinates.max_exp_at.go
@@ -352,7 +352,7 @@ Instances For
 
 ### `Tau.Coordinates.max_tet_div`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L199-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L199-L209)
 **def
 Tau.Coordinates.max_tet_div
 (a v : Denotation.TauIdx)
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.Coordinates.max_tet_div.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L204-L207)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L204-L207)@[irreducible]
 
 **def
 Tau.Coordinates.max_tet_div.go
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.Coordinates.greedy_peel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/TowerAtoms.lean#L211-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/TowerAtoms.lean#L211-L227)
 **def
 Tau.Coordinates.greedy_peel
 (x : Denotation.TauIdx)

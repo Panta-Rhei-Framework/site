@@ -61,7 +61,7 @@ small primorial levels.
 
 ### `Tau.Coordinates.prime_count_mod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L55-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L55-L66)
 **def
 Tau.Coordinates.prime_count_mod
 (x q a : Nat)
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_count_mod.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L60-L65)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L60-L65)@[irreducible]
 
 **def
 Tau.Coordinates.prime_count_mod.go
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_race_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L68-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L68-L81)
 **def
 Tau.Coordinates.prime_race_check
 (bound q a1 a2 : Nat)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_race_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L72-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L72-L80)@[irreducible]
 
 **def
 Tau.Coordinates.prime_race_check.go
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Coordinates.chebyshev_bias`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L87-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L87-L101)
 **def
 Tau.Coordinates.chebyshev_bias
 (x q a1 a2 : Nat)
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.Coordinates.chebyshev_bias.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L93-L100)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L93-L100)@[irreducible]
 
 **def
 Tau.Coordinates.chebyshev_bias.go
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_quantification_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L103-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L103-L108)
 **def
 Tau.Coordinates.bias_quantification_check
 (bound : Nat)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_mod3_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L110-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L110-L114)
 **def
 Tau.Coordinates.bias_mod3_check
 (bound : Nat)
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L120-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L120-L157)
 **def
 Tau.Coordinates.bias_primorial_check
 (db : Nat)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L125-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L125-L134)@[irreducible]
 
 **def
 Tau.Coordinates.bias_primorial_check.go
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check.go_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L137-L138)
 **def
 Tau.Coordinates.bias_primorial_check.go_primorial
 (k : Nat)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check.go_p`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L140-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L140-L145)@[irreducible]
 
 **def
 Tau.Coordinates.bias_primorial_check.go_p
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check.go_nth_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L147-L148)
 **def
 Tau.Coordinates.bias_primorial_check.go_nth_prime
 (k : Nat)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.Coordinates.bias_primorial_check.go_np`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L150-L156)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L150-L156)@[irreducible]
 
 **def
 Tau.Coordinates.bias_primorial_check.go_np
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_race_4_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L163-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L163-L165)
 **theorem
 Tau.Coordinates.prime_race_4_50 :prime_race_check 50 4 3 1 = true**
 
@@ -289,7 +289,7 @@ Tau.Coordinates.prime_race_4_50 :prime_race_check 50 4 3 1 = true**
 
 ### `Tau.Coordinates.bias_positive_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L167-L169)
 **theorem
 Tau.Coordinates.bias_positive_50 :bias_quantification_check 50 = true**
 
@@ -300,7 +300,7 @@ Tau.Coordinates.bias_positive_50 :bias_quantification_check 50 = true**
 
 ### `Tau.Coordinates.bias_mod3_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L171-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L171-L173)
 **theorem
 Tau.Coordinates.bias_mod3_50 :bias_mod3_check 50 = true**
 
@@ -311,7 +311,7 @@ Tau.Coordinates.bias_mod3_50 :bias_mod3_check 50 = true**
 
 ### `Tau.Coordinates.bias_primorial_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ChebyshevBias.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ChebyshevBias.lean#L175-L177)
 **theorem
 Tau.Coordinates.bias_primorial_3 :bias_primorial_check 3 = true**
 

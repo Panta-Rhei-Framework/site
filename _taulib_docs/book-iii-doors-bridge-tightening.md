@@ -77,7 +77,7 @@ triple (P vs NP). Poincaré is established (no gap).
 
 ### `Tau.BookIII.Doors.rh_internal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L60-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L60-L69)
 **def
 Tau.BookIII.Doors.rh_internal_check
 (k : ℕ)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_gap_char`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L71-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L71-L86)
 **def
 Tau.BookIII.Doors.rh_gap_char
 (db : ℕ)
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_gap_char.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L76-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L76-L85)@[irreducible]
 
 **def
 Tau.BookIII.Doors.rh_gap_char.go
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.tau_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L92-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L92-L97)
 **def
 Tau.BookIII.Doors.tau_gap
 (k : ℕ)
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ym_gap_persistence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L99-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L99-L114)
 **def
 Tau.BookIII.Doors.ym_gap_persistence_check
 (db : ℕ)
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ym_gap_persistence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L104-L113)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L104-L113)@[irreducible]
 
 **def
 Tau.BookIII.Doors.ym_gap_persistence_check.go
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ym_gap_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L116-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L116-L130)
 **def
 Tau.BookIII.Doors.ym_gap_growth_check
 (db : ℕ)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ym_gap_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L121-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L121-L129)@[irreducible]
 
 **def
 Tau.BookIII.Doors.ym_gap_growth_check.go
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ns_causal_asymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L136-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L136-L142)
 **def
 Tau.BookIII.Doors.ns_causal_asymmetry
 (k : ℕ)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ns_causal_entropy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L144-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L144-L169)
 **def
 Tau.BookIII.Doors.ns_causal_entropy_check
 (db : ℕ)
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ns_causal_entropy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L149-L159)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L149-L159)@[irreducible]
 
 **def
 Tau.BookIII.Doors.ns_causal_entropy_check.go
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.ns_causal_entropy_check.go_fp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L161-L168)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L161-L168)@[irreducible]
 
 **def
 Tau.BookIII.Doors.ns_causal_entropy_check.go_fp
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.pvsnp_forbidden_damage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L175-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L175-L183)
 **def
 Tau.BookIII.Doors.pvsnp_forbidden_damage :ℕ**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.pvsnp_internal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L185-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L185-L201)
 **def
 Tau.BookIII.Doors.pvsnp_internal_check
 (db : ℕ)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.pvsnp_internal_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L191-L200)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L191-L200)@[irreducible]
 
 **def
 Tau.BookIII.Doors.pvsnp_internal_check.go
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.pvsnp_forbidden_triple_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L203-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L203-L210)
 **def
 Tau.BookIII.Doors.pvsnp_forbidden_triple_check
 (db : ℕ)
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.GapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L216-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L216-L222)
 **inductive
 Tau.BookIII.Doors.GapType :Type**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instReprGapType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
 **def
 Tau.BookIII.Doors.instReprGapType.repr :GapType → ℕ → Std.Format**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instReprGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
 **instance
 Tau.BookIII.Doors.instReprGapType :Repr GapType**
 
@@ -384,7 +384,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instDecidableEqGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
 **instance
 Tau.BookIII.Doors.instDecidableEqGapType :DecidableEq GapType**
 
@@ -395,7 +395,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instBEqGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
 **instance
 Tau.BookIII.Doors.instBEqGapType :BEq GapType**
 
@@ -406,7 +406,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instBEqGapType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L222-L222)
 **def
 Tau.BookIII.Doors.instBEqGapType.beq :GapType → GapType → Bool**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.problem_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L224-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L224-L234)
 **def
 Tau.BookIII.Doors.problem_gap
 (p : MillenniumProblem)
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.bridge_ledger_complete_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L236-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L236-L249)
 **def
 Tau.BookIII.Doors.bridge_ledger_complete_check :Bool**
 
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_gap_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L255-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L255-L257)
 **theorem
 Tau.BookIII.Doors.rh_gap_5 :rh_gap_char 5 = true**
 
@@ -467,7 +467,7 @@ Tau.BookIII.Doors.rh_gap_5 :rh_gap_char 5 = true**
 
 ### `Tau.BookIII.Doors.ym_gap_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L259-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L259-L261)
 **theorem
 Tau.BookIII.Doors.ym_gap_5 :ym_gap_persistence_check 5 = true**
 
@@ -478,7 +478,7 @@ Tau.BookIII.Doors.ym_gap_5 :ym_gap_persistence_check 5 = true**
 
 ### `Tau.BookIII.Doors.ym_gap_growth_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L263-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L263-L265)
 **theorem
 Tau.BookIII.Doors.ym_gap_growth_4 :ym_gap_growth_check 4 = true**
 
@@ -489,7 +489,7 @@ Tau.BookIII.Doors.ym_gap_growth_4 :ym_gap_growth_check 4 = true**
 
 ### `Tau.BookIII.Doors.ns_causal_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L267-L269)
 **theorem
 Tau.BookIII.Doors.ns_causal_4 :ns_causal_entropy_check 4 = true**
 
@@ -500,7 +500,7 @@ Tau.BookIII.Doors.ns_causal_4 :ns_causal_entropy_check 4 = true**
 
 ### `Tau.BookIII.Doors.pvsnp_triple_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L271-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L271-L273)
 **theorem
 Tau.BookIII.Doors.pvsnp_triple_3 :pvsnp_forbidden_triple_check 3 = true**
 
@@ -511,7 +511,7 @@ Tau.BookIII.Doors.pvsnp_triple_3 :pvsnp_forbidden_triple_check 3 = true**
 
 ### `Tau.BookIII.Doors.bridge_ledger_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/BridgeTightening.lean#L275-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/BridgeTightening.lean#L275-L277)
 **theorem
 Tau.BookIII.Doors.bridge_ledger_complete :bridge_ledger_complete_check = true**
 

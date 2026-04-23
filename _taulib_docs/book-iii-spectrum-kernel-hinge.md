@@ -86,7 +86,7 @@ Every result traces back to the axioms. No external imports.
 
 ### `Tau.Spectrum.KernelHinge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L52-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L52-L85)
 **structure
 Tau.Spectrum.KernelHinge :Type 1**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.Spectrum.kernel_hinge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L87-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L87-L94)
 **def
 Tau.Spectrum.kernel_hinge :KernelHinge**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.Spectrum.BookIIBridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L100-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L100-L119)
 **structure
 Tau.Spectrum.BookIIBridge :Type 1**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.Spectrum.book_ii_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L121-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L121-L126)
 **def
 Tau.Spectrum.book_ii_bridge :BookIIBridge**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Spectrum.book_ii_bridge_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L128-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L128-L134)
 **theorem
 Tau.Spectrum.book_ii_bridge_complete :⋯ = ⋯ ∧ book_ii_bridge.export_data = Holomorphy.book_i_export**
 
@@ -197,7 +197,7 @@ no sorry, no axiom, no external import beyond Mathlib tactics.
 
 ### `Tau.Spectrum.book_i_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L140-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L140-L142)
 **theorem
 Tau.Spectrum.book_i_generators :[Kernel.Generator.alpha, Kernel.Generator.pi, Kernel.Generator.gamma, Kernel.Generator.eta, Kernel.Generator.omega].length = 5**
 
@@ -208,7 +208,7 @@ Book I has 5 generators.
 
 ### `Tau.Spectrum.book_i_parts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L144-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L144-L145)
 **theorem
 Tau.Spectrum.book_i_parts :16 + 1 = 17**
 
@@ -219,7 +219,7 @@ Book I covers 16 Parts (0 = Prologue, I-XVI = main).
 
 ### `Tau.Spectrum.book_i_monoid_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L147-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L147-L151)
 **theorem
 Tau.Spectrum.book_i_monoid_assoc
 (p q r : Denotation.Program)
@@ -232,7 +232,7 @@ The program monoid is associative (I.T03).
 
 ### `Tau.Spectrum.book_i_non_boolean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L153-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L153-L157)
 **theorem
 Tau.Spectrum.book_i_non_boolean :Logic.Truth4.B.impl Logic.Truth4.F ≠ Logic.Truth4.T**
 
@@ -243,7 +243,7 @@ The topos is non-Boolean (explosion barrier, I.T13).
 
 ### `Tau.Spectrum.book_i_admissibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/KernelHinge.lean#L159-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/KernelHinge.lean#L159-L164)
 **theorem
 Tau.Spectrum.book_i_admissibility :TauAdmissible Holomorphy.chi_plus_stage ∧ TauAdmissible Holomorphy.chi_minus_stage ∧ TauAdmissible Holomorphy.id_stage**
 

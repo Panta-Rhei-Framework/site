@@ -58,7 +58,7 @@ Consumer mixer on (π', π''): the mixed-sector foundation of animal life.
 
 ### `Tau.BookVI.Consumer.ConsumerMixer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L32-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L32-L50)
 **structure
 Tau.BookVI.Consumer.ConsumerMixer :Type**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.instReprConsumerMixer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L50-L50)
 **def
 Tau.BookVI.Consumer.instReprConsumerMixer.repr :ConsumerMixer → ℕ → Std.Format**
 
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.instReprConsumerMixer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L50-L50)
 **instance
 Tau.BookVI.Consumer.instReprConsumerMixer :Repr ConsumerMixer**
 
@@ -116,7 +116,7 @@ Equations
 
 ### `Tau.BookVI.Consumer.canonical_mixer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L52-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L52-L56)
 **def
 Tau.BookVI.Consumer.canonical_mixer :ConsumerMixer**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.consumer_is_mixed_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L58-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L58-L62)
 **theorem
 Tau.BookVI.Consumer.consumer_is_mixed_sector :FourPlusOne.consumer_sector.is_primitive = false ∧ canonical_mixer.is_mixed = true**
 
@@ -139,7 +139,7 @@ Consumer is the mixed sector from FourPlusOne.
 
 ### `Tau.BookVI.Consumer.consumer_generator_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L64-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L64-L67)
 **theorem
 Tau.BookVI.Consumer.consumer_generator_match :canonical_mixer.generator_pair = FourPlusOne.consumer_sector.generator**
 
@@ -150,7 +150,7 @@ Consumer matches FourPlusOne generator label.
 
 ### `Tau.BookVI.Consumer.SignatureRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L73-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L73-L92)
 **structure
 Tau.BookVI.Consumer.SignatureRigidity :Type**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.instReprSignatureRigidity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L92-L92)
 **def
 Tau.BookVI.Consumer.instReprSignatureRigidity.repr :SignatureRigidity → ℕ → Std.Format**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.instReprSignatureRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L92-L92)
 **instance
 Tau.BookVI.Consumer.instReprSignatureRigidity :Repr SignatureRigidity**
 
@@ -214,7 +214,7 @@ Equations
 
 ### `Tau.BookVI.Consumer.sig_rigid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L94-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L94-L97)
 **def
 Tau.BookVI.Consumer.sig_rigid :SignatureRigidity**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.signature_rigidity_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L99-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L99-L104)
 **theorem
 Tau.BookVI.Consumer.signature_rigidity_uniqueness :sig_rigid.fiber_fiber_stable = true ∧ sig_rigid.base_base_stable = false ∧ sig_rigid.base_fiber_stable = false ∧ sig_rigid.stable_count = 1**
 
@@ -235,7 +235,7 @@ Tau.BookVI.Consumer.signature_rigidity_uniqueness :sig_rigid.fiber_fiber_stable 
 
 ### `Tau.BookVI.Consumer.BridgeHeadE3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L110-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L110-L124)
 **structure
 Tau.BookVI.Consumer.BridgeHeadE3 :Type**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.instReprBridgeHeadE3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L124-L124)
 **instance
 Tau.BookVI.Consumer.instReprBridgeHeadE3 :Repr BridgeHeadE3**
 
@@ -275,7 +275,7 @@ Equations
 
 ### `Tau.BookVI.Consumer.instReprBridgeHeadE3.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L124-L124)
 **def
 Tau.BookVI.Consumer.instReprBridgeHeadE3.repr :BridgeHeadE3 → ℕ → Std.Format**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookVI.Consumer.bridge_head`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L126-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L126-L128)
 **def
 Tau.BookVI.Consumer.bridge_head :BridgeHeadE3**
 
@@ -299,6 +299,6 @@ Instances For
 
 ### `Tau.BookVI.Consumer.bridge_head_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/ConsumerMixer.lean#L130-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/ConsumerMixer.lean#L130-L134)
 **theorem
 Tau.BookVI.Consumer.bridge_head_e3 :bridge_head.eval_order = 2 ∧ bridge_head.only_mixed_sector = true ∧ bridge_head.opens_e3 = true**

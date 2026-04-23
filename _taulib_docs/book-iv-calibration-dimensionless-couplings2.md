@@ -67,7 +67,7 @@ closure, and power hierarchy — all wrapping existing CouplingFormulas proofs.
 
 ### `Tau.BookIV.Calibration.ew_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L36-L38)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L36-L38)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.ew_cross :Sectors.CouplingFormula**
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.weak_strong_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L40-L42)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L40-L42)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.weak_strong_cross :Sectors.CouplingFormula**
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.em_strong_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L44-L46)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L44-L46)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.em_strong_cross :Sectors.CouplingFormula**
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.em_grav_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L48-L50)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L48-L50)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.em_grav_cross :Sectors.CouplingFormula**
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.strong_grav_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L52-L54)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L52-L54)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.strong_grav_cross :Sectors.CouplingFormula**
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.temporal_complement_ch10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L63-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L63-L67)
 **theorem
 Tau.BookIV.Calibration.temporal_complement_ch10 :Sectors.kappa_AA.numer + Sectors.kappa_DD.numer = Sectors.kappa_AA.denom**
 
@@ -159,7 +159,7 @@ Wraps CouplingFormulas.temporal_complement.
 
 ### `Tau.BookIV.Calibration.temporal_mult_ch10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L73-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L73-L78)
 **theorem
 Tau.BookIV.Calibration.temporal_mult_ch10 :Sectors.kappa_AD.numer * (Sectors.kappa_AA.denom * Sectors.kappa_DD.denom) = Sectors.kappa_AA.numer * Sectors.kappa_DD.numer * Sectors.kappa_AD.denom**
 
@@ -171,7 +171,7 @@ Wraps CouplingFormulas.temporal_multiplicative.
 
 ### `Tau.BookIV.Calibration.power_hierarchy_ch10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L87-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L87-L97)
 **theorem
 Tau.BookIV.Calibration.power_hierarchy_ch10 :Sectors.kappa_BB.numer * (Sectors.kappa_AA.denom * Sectors.kappa_AA.denom) = Sectors.kappa_AA.numer * Sectors.kappa_AA.numer * Sectors.kappa_BB.denom ∧ Sectors.kappa_AC.numer * (Sectors.kappa_AA.denom * Sectors.kappa_CC.denom) = Sectors.kappa_AA.numer * Sectors.kappa_CC.numer * Sectors.kappa_AC.denom**
 
@@ -184,7 +184,7 @@ the multiplicative closure of weak × strong.
 
 ### `Tau.BookIV.Calibration.hierarchy_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L103-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings2.lean#L103-L109)
 **theorem
 Tau.BookIV.Calibration.hierarchy_resolution :Sectors.kappa_DD.numer > Sectors.kappa_AA.numer**
 

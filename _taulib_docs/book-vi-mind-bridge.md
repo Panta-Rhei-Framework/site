@@ -70,7 +70,7 @@ Enrichment saturation, language, and the bridge from Book VI to Book VII.
 
 ### `Tau.BookVI.Bridge.EnrichmentSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L36-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L36-L50)
 **structure
 Tau.BookVI.Bridge.EnrichmentSaturation :Type**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprEnrichmentSaturation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L50-L50)
 **def
 Tau.BookVI.Bridge.instReprEnrichmentSaturation.repr :EnrichmentSaturation → ℕ → Std.Format**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprEnrichmentSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L50-L50)
 **instance
 Tau.BookVI.Bridge.instReprEnrichmentSaturation :Repr EnrichmentSaturation**
 
@@ -122,7 +122,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.enrichment_sat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L52-L54)
 **def
 Tau.BookVI.Bridge.enrichment_sat :EnrichmentSaturation**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.enrichment_saturates_at_four`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L56-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L56-L59)
 **theorem
 Tau.BookVI.Bridge.enrichment_saturates_at_four :enrichment_sat.layer_count = 4 ∧ enrichment_sat.e4_collapses = true**
 
@@ -143,7 +143,7 @@ Tau.BookVI.Bridge.enrichment_saturates_at_four :enrichment_sat.layer_count = 4 �
 
 ### `Tau.BookVI.Bridge.ExtendedLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L65-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L65-L79)
 **structure
 Tau.BookVI.Bridge.ExtendedLemniscate :Type**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprExtendedLemniscate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L79-L79)
 **def
 Tau.BookVI.Bridge.instReprExtendedLemniscate.repr :ExtendedLemniscate → ℕ → Std.Format**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprExtendedLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L79-L79)
 **instance
 Tau.BookVI.Bridge.instReprExtendedLemniscate :Repr ExtendedLemniscate**
 
@@ -195,7 +195,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.ext_lemn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L81-L83)
 **def
 Tau.BookVI.Bridge.ext_lemn :ExtendedLemniscate**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.LanguageSharedCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L89-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L89-L100)
 **structure
 Tau.BookVI.Bridge.LanguageSharedCode :Type**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprLanguageSharedCode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L100-L100)
 **def
 Tau.BookVI.Bridge.instReprLanguageSharedCode.repr :LanguageSharedCode → ℕ → Std.Format**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprLanguageSharedCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L100-L100)
 **instance
 Tau.BookVI.Bridge.instReprLanguageSharedCode :Repr LanguageSharedCode**
 
@@ -255,7 +255,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.language`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L102-L102)
 **def
 Tau.BookVI.Bridge.language :LanguageSharedCode**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.language_is_shared_code`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L104-L108)
 **theorem
 Tau.BookVI.Bridge.language_is_shared_code :language.alphabet_finite = true ∧ language.encoding = true ∧ language.decoding = true**
 
@@ -276,7 +276,7 @@ Tau.BookVI.Bridge.language_is_shared_code :language.alphabet_finite = true ∧ l
 
 ### `Tau.BookVI.Bridge.ComputationTheme`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L114-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L114-L125)
 **structure
 Tau.BookVI.Bridge.ComputationTheme :Type**
 
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprComputationTheme`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L125-L125)
 **instance
 Tau.BookVI.Bridge.instReprComputationTheme :Repr ComputationTheme**
 
@@ -312,7 +312,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.instReprComputationTheme.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L125-L125)
 **def
 Tau.BookVI.Bridge.instReprComputationTheme.repr :ComputationTheme → ℕ → Std.Format**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.comp_theme`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L127-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L127-L129)
 **def
 Tau.BookVI.Bridge.comp_theme :ComputationTheme**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.SixExportContracts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L135-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L135-L151)
 **structure
 Tau.BookVI.Bridge.SixExportContracts :Type**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprSixExportContracts.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L151-L151)
 **def
 Tau.BookVI.Bridge.instReprSixExportContracts.repr :SixExportContracts → ℕ → Std.Format**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprSixExportContracts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L151-L151)
 **instance
 Tau.BookVI.Bridge.instReprSixExportContracts :Repr SixExportContracts**
 
@@ -389,7 +389,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.exports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L153-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L153-L155)
 **def
 Tau.BookVI.Bridge.exports :SixExportContracts**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.six_exports_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L157-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L157-L160)
 **theorem
 Tau.BookVI.Bridge.six_exports_complete :exports.export_count = 6 ∧ exports.all_delivered = true**
 
@@ -410,7 +410,7 @@ Tau.BookVI.Bridge.six_exports_complete :exports.export_count = 6 ∧ exports.all
 
 ### `Tau.BookVI.Bridge.OmegaGermNonDiagrammatic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L166-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L166-L177)
 **structure
 Tau.BookVI.Bridge.OmegaGermNonDiagrammatic :Type**
 
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprOmegaGermNonDiagrammatic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L177-L177)
 **instance
 Tau.BookVI.Bridge.instReprOmegaGermNonDiagrammatic :Repr OmegaGermNonDiagrammatic**
 
@@ -445,7 +445,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.instReprOmegaGermNonDiagrammatic.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L177-L177)
 **def
 Tau.BookVI.Bridge.instReprOmegaGermNonDiagrammatic.repr :OmegaGermNonDiagrammatic → ℕ → Std.Format**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.omega_germ_nd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L179-L179)
 **def
 Tau.BookVI.Bridge.omega_germ_nd :OmegaGermNonDiagrammatic**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.omega_germ_non_diagrammatic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L181-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L181-L184)
 **theorem
 Tau.BookVI.Bridge.omega_germ_non_diagrammatic :omega_germ_nd.non_diagrammatic = true ∧ omega_germ_nd.existence_not_structure = true**
 
@@ -478,7 +478,7 @@ Tau.BookVI.Bridge.omega_germ_non_diagrammatic :omega_germ_nd.non_diagrammatic = 
 
 ### `Tau.BookVI.Bridge.ScienceFaithBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L190-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L190-L203)
 **structure
 Tau.BookVI.Bridge.ScienceFaithBoundary :Type**
 
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.instReprScienceFaithBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L203-L203)
 **instance
 Tau.BookVI.Bridge.instReprScienceFaithBoundary :Repr ScienceFaithBoundary**
 
@@ -516,7 +516,7 @@ Equations
 
 ### `Tau.BookVI.Bridge.instReprScienceFaithBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L203-L203)
 **def
 Tau.BookVI.Bridge.instReprScienceFaithBoundary.repr :ScienceFaithBoundary → ℕ → Std.Format**
 
@@ -528,7 +528,7 @@ Instances For
 
 ### `Tau.BookVI.Bridge.sci_faith`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L205-L205)
 **def
 Tau.BookVI.Bridge.sci_faith :ScienceFaithBoundary**
 
@@ -540,6 +540,6 @@ Instances For
 
 ### `Tau.BookVI.Bridge.science_faith_boundary_located`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Bridge.lean#L207-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Bridge.lean#L207-L211)
 **theorem
 Tau.BookVI.Bridge.science_faith_boundary_located :sci_faith.structurally_located = true ∧ sci_faith.not_agnosticism = true ∧ sci_faith.not_fideism = true**

@@ -99,7 +99,7 @@ def extract_release_manifest_sections(path: Path) -> dict:
 def yaml_escape(s: str) -> str:
     """Quote a string for YAML scalar safety."""
     # Use the block scalar style (|) and indent each line.
-    indented = "\n".join("    " + ln for ln in s.split("\n"))
+    indented = "\n".join(("    " + ln) if ln else "" for ln in s.split("\n"))
     return "|\n" + indented
 
 

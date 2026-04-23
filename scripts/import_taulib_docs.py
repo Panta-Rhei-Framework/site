@@ -18,6 +18,11 @@ DOC_DIR = os.path.join(
 )
 COLLECTION_DIR = os.path.join(SITE_DIR, "_taulib_docs")
 ASSETS_DIR = os.path.join(SITE_DIR, "assets", "taulib")
+PINNED_TAULIB_COMMIT = "2261c049119c8dd9a4e891457f196745178c02b3"
+LEGACY_SOURCE_PREFIX_RE = re.compile(
+    r"https://github\.com/ThorFuchs/PantaRhei-2ndEd/blob/"
+    r"[0-9a-f]+/lean4/TauLib/TauLib/"
+)
 
 BOOK_LABELS = {
     "BookI": ("I", "Foundations"),
@@ -114,6 +119,10 @@ def process_html_file(filepath, rel_path):
     # Clean up content: fix relative links to point within the collection
     # Remove doc-gen4 internal links that won't work
     content = re.sub(r'href="(\.\./)*\./style\.css"', '', content)
+    content = LEGACY_SOURCE_PREFIX_RE.sub(
+        f"https://github.com/Panta-Rhei-Research/taulib/blob/{PINNED_TAULIB_COMMIT}/TauLib/",
+        content,
+    )
 
     return title, content
 

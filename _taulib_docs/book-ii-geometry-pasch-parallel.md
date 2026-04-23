@@ -67,7 +67,7 @@ needs ≥ 13 (all odd/even residue classes mod 6 covered).
 
 ### `Tau.BookII.Geometry.collinear_triple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L48-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L48-L52)
 **def
 Tau.BookII.Geometry.collinear_triple
 (a b c db : Denotation.TauIdx)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.pasch_spot_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L54-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L54-L62)
 **def
 Tau.BookII.Geometry.pasch_spot_check
 (db : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.pasch_exhaustive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L64-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L64-L75)
 **def
 Tau.BookII.Geometry.pasch_exhaustive_check
 (bound db : Denotation.TauIdx)
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.pasch_exhaustive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L69-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L69-L74)@[irreducible]
 
 **def
 Tau.BookII.Geometry.pasch_exhaustive_check.go
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.on_depth_line`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L81-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L81-L85)
 **def
 Tau.BookII.Geometry.on_depth_line
 (x y z db : Denotation.TauIdx)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.find_parallel_partner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L87-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L87-L97)
 **def
 Tau.BookII.Geometry.find_parallel_partner
 (z k db bound : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.find_parallel_partner.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L92-L96)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L92-L96)@[irreducible]
 
 **def
 Tau.BookII.Geometry.find_parallel_partner.go
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_check_z`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L99-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L99-L111)
 **def
 Tau.BookII.Geometry.parallel_check_z
 (x y bound db : Denotation.TauIdx)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_check_z.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L103-L110)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L103-L110)@[irreducible]
 
 **def
 Tau.BookII.Geometry.parallel_check_z.go
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_check_y`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L113-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L113-L122)
 **def
 Tau.BookII.Geometry.parallel_check_y
 (x bound db : Denotation.TauIdx)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_check_y.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L117-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L117-L121)@[irreducible]
 
 **def
 Tau.BookII.Geometry.parallel_check_y.go
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_exists_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L124-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L124-L134)
 **def
 Tau.BookII.Geometry.parallel_exists_check
 (bound db : Denotation.TauIdx)
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_exists_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L130-L133)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L130-L133)@[irreducible]
 
 **def
 Tau.BookII.Geometry.parallel_exists_check.go
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.parallel_unique_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L136-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L136-L138)
 **def
 Tau.BookII.Geometry.parallel_unique_check
 (bound db : Denotation.TauIdx)
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.tarski_complete_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L144-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L144-L151)
 **def
 Tau.BookII.Geometry.tarski_complete_check
 (bound db : Denotation.TauIdx)
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.pasch_spot`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L184-L184)
 **theorem
 Tau.BookII.Geometry.pasch_spot :pasch_spot_check 5 = true**
 
@@ -331,7 +331,7 @@ Tau.BookII.Geometry.pasch_spot :pasch_spot_check 5 = true**
 
 ### `Tau.BookII.Geometry.pasch_exhaustive_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L185-L185)
 **theorem
 Tau.BookII.Geometry.pasch_exhaustive_5 :pasch_exhaustive_check 5 5 = true**
 
@@ -340,7 +340,7 @@ Tau.BookII.Geometry.pasch_exhaustive_5 :pasch_exhaustive_check 5 5 = true**
 
 ### `Tau.BookII.Geometry.parallel_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L186-L186)
 **theorem
 Tau.BookII.Geometry.parallel_6 :parallel_unique_check 6 5 = true**
 
@@ -349,7 +349,7 @@ Tau.BookII.Geometry.parallel_6 :parallel_unique_check 6 5 = true**
 
 ### `Tau.BookII.Geometry.parallel_13`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L187-L187)
 **theorem
 Tau.BookII.Geometry.parallel_13 :parallel_unique_check 13 5 = true**
 
@@ -358,6 +358,6 @@ Tau.BookII.Geometry.parallel_13 :parallel_unique_check 13 5 = true**
 
 ### `Tau.BookII.Geometry.tarski_complete_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/PaschParallel.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/PaschParallel.lean#L188-L188)
 **theorem
 Tau.BookII.Geometry.tarski_complete_6 :tarski_complete_check 6 5 = true**

@@ -59,7 +59,7 @@ from double spectral gap, PMNS mixing, and CP phase from sigma-polarity.
 
 ### `Tau.BookIV.Electroweak.NeutrinoFlavor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L33-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L33-L43)
 **inductive
 Tau.BookIV.Electroweak.NeutrinoFlavor :Type**
 
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoFlavor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
 **instance
 Tau.BookIV.Electroweak.instReprNeutrinoFlavor :Repr NeutrinoFlavor**
 
@@ -94,7 +94,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoFlavor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
 **def
 Tau.BookIV.Electroweak.instReprNeutrinoFlavor.repr :NeutrinoFlavor → ℕ → Std.Format**
 
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instDecidableEqNeutrinoFlavor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
 **instance
 Tau.BookIV.Electroweak.instDecidableEqNeutrinoFlavor :DecidableEq NeutrinoFlavor**
 
@@ -117,7 +117,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqNeutrinoFlavor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
 **instance
 Tau.BookIV.Electroweak.instBEqNeutrinoFlavor :BEq NeutrinoFlavor**
 
@@ -128,7 +128,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqNeutrinoFlavor.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L43-L43)
 **def
 Tau.BookIV.Electroweak.instBEqNeutrinoFlavor.beq :NeutrinoFlavor → NeutrinoFlavor → Bool**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.all_neutrino_flavors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L45-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L45-L47)
 **def
 Tau.BookIV.Electroweak.all_neutrino_flavors :List NeutrinoFlavor**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.three_flavors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L49-L49)
 **theorem
 Tau.BookIV.Electroweak.three_flavors :all_neutrino_flavors.length = 3**
 
@@ -163,7 +163,7 @@ Tau.BookIV.Electroweak.three_flavors :all_neutrino_flavors.length = 3**
 
 ### `Tau.BookIV.Electroweak.NeutrinoMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L55-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L55-L76)
 **structure
 Tau.BookIV.Electroweak.NeutrinoMode :Type**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L76-L76)
 **instance
 Tau.BookIV.Electroweak.instReprNeutrinoMode :Repr NeutrinoMode**
 
@@ -211,7 +211,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L76-L76)
 **def
 Tau.BookIV.Electroweak.instReprNeutrinoMode.repr :NeutrinoMode → ℕ → Std.Format**
 
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nu_e`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L78-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L78-L86)
 **def
 Tau.BookIV.Electroweak.nu_e :NeutrinoMode**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nu_mu`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L88-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L88-L96)
 **def
 Tau.BookIV.Electroweak.nu_mu :NeutrinoMode**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nu_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L98-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L98-L106)
 **def
 Tau.BookIV.Electroweak.nu_tau :NeutrinoMode**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.all_neutrino_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L108-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L108-L109)
 **def
 Tau.BookIV.Electroweak.all_neutrino_modes :List NeutrinoMode**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.three_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L111-L111)
 **theorem
 Tau.BookIV.Electroweak.three_modes :all_neutrino_modes.length = 3**
 
@@ -294,7 +294,7 @@ Tau.BookIV.Electroweak.three_modes :all_neutrino_modes.length = 3**
 
 ### `Tau.BookIV.Electroweak.MassSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L117-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L117-L144)
 **structure
 Tau.BookIV.Electroweak.MassSuppression :Type**
 
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMassSuppression.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L144-L144)
 **def
 Tau.BookIV.Electroweak.instReprMassSuppression.repr :MassSuppression → ℕ → Std.Format**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMassSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L144-L144)
 **instance
 Tau.BookIV.Electroweak.instReprMassSuppression :Repr MassSuppression**
 
@@ -358,7 +358,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.mass_suppression_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L146-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L146-L153)
 **def
 Tau.BookIV.Electroweak.mass_suppression_exponent :MassSuppression**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.exponent_factorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L155-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L155-L157)
 **theorem
 Tau.BookIV.Electroweak.exponent_factorization :mass_suppression_exponent.total_exponent = 2 * 4**
 
@@ -383,7 +383,7 @@ The total exponent 8 factors as 2 * 4.
 
 ### `Tau.BookIV.Electroweak.nu_tau_heaviest`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L159-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L159-L163)
 **theorem
 Tau.BookIV.Electroweak.nu_tau_heaviest :nu_tau.mass_exponent ≤ nu_mu.mass_exponent ∧ nu_mu.mass_exponent ≤ nu_e.mass_exponent**
 
@@ -394,7 +394,7 @@ The heaviest neutrino (nu_tau) exponent is the smallest.
 
 ### `Tau.BookIV.Electroweak.neutrino_weak_only`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L169-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L169-L177)
 **theorem
 Tau.BookIV.Electroweak.neutrino_weak_only :nu_e.weak_only = true ∧ nu_e.charge = 0 ∧ nu_e.color_neutral = true ∧ nu_mu.weak_only = true ∧ nu_mu.charge = 0 ∧ nu_mu.color_neutral = true ∧ nu_tau.weak_only = true ∧ nu_tau.charge = 0 ∧ nu_tau.color_neutral = true**
 
@@ -408,7 +408,7 @@ zero electric charge (no EM coupling), zero color charge
 
 ### `Tau.BookIV.Electroweak.mass_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L183-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L183-L191)
 **theorem
 Tau.BookIV.Electroweak.mass_hierarchy :nu_tau.mass_exponent < nu_mu.mass_exponent ∧ nu_mu.mass_exponent < nu_e.mass_exponent**
 
@@ -423,7 +423,7 @@ The "normal ordering" corresponds to exponent ordering.
 
 ### `Tau.BookIV.Electroweak.mass_hierarchy_spacing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L193-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L193-L200)
 **theorem
 Tau.BookIV.Electroweak.mass_hierarchy_spacing :nu_mu.mass_exponent - nu_tau.mass_exponent = 1 ∧ nu_e.mass_exponent - nu_mu.mass_exponent = 1**
 
@@ -437,7 +437,7 @@ NOT match the PDG value of ≈ 32.6. The σ-polarity recurrence model
 
 ### `Tau.BookIV.Electroweak.PMNSMatrix`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L206-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L206-L224)
 **structure
 Tau.BookIV.Electroweak.PMNSMatrix :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPMNSMatrix`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L224-L224)
 **instance
 Tau.BookIV.Electroweak.instReprPMNSMatrix :Repr PMNSMatrix**
 
@@ -481,7 +481,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprPMNSMatrix.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L224-L224)
 **def
 Tau.BookIV.Electroweak.instReprPMNSMatrix.repr :PMNSMatrix → ℕ → Std.Format**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pmns_matrix`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L226-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L226-L231)
 **def
 Tau.BookIV.Electroweak.pmns_matrix :PMNSMatrix**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pmns_parameters`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L233-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L233-L236)
 **theorem
 Tau.BookIV.Electroweak.pmns_parameters :pmns_matrix.num_angles + pmns_matrix.num_cp_phases = 4**
 
@@ -518,7 +518,7 @@ Total parameters in PMNS: 3 angles + 1 phase = 4.
 
 ### `Tau.BookIV.Electroweak.cp_phase_origin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L242-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L242-L255)
 **theorem
 Tau.BookIV.Electroweak.cp_phase_origin :(3 - 1) * (3 - 2) / 2 = 1 ∧ pmns_matrix.num_cp_phases = 1**
 
@@ -537,7 +537,7 @@ N_CP = (N-1)(N-2)/2 = (3-1)(3-2)/2 = 1.
 
 ### `Tau.BookIV.Electroweak.majorana_phases`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L257-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L257-L260)
 **theorem
 Tau.BookIV.Electroweak.majorana_phases :3 * (3 - 1) / 2 = 3**
 
@@ -549,7 +549,7 @@ Total Majorana phases = N(N-1)/2 = 3 for N = 3.
 
 ### `Tau.BookIV.Electroweak.NeutrinoRecurrence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L266-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L266-L299)
 **structure
 Tau.BookIV.Electroweak.NeutrinoRecurrence :Type**
 
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoRecurrence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L299-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L299-L299)
 **instance
 Tau.BookIV.Electroweak.instReprNeutrinoRecurrence :Repr NeutrinoRecurrence**
 
@@ -609,7 +609,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprNeutrinoRecurrence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L299-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L299-L299)
 **def
 Tau.BookIV.Electroweak.instReprNeutrinoRecurrence.repr :NeutrinoRecurrence → ℕ → Std.Format**
 
@@ -621,7 +621,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_recurrence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L301-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L301-L311)
 **def
 Tau.BookIV.Electroweak.neutrino_recurrence :NeutrinoRecurrence**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.recurrence_three_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L313-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L313-L315)
 **theorem
 Tau.BookIV.Electroweak.recurrence_three_modes :neutrino_recurrence.num_modes = 3**
 
@@ -650,7 +650,7 @@ The σ-polarity model has three mass modes.
 
 ### `Tau.BookIV.Electroweak.recurrence_sigma_equivariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L317-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L317-L319)
 **theorem
 Tau.BookIV.Electroweak.recurrence_sigma_equivariant :neutrino_recurrence.sigma_equivariant = true**
 
@@ -661,7 +661,7 @@ The σ-polarity model is σ-equivariant.
 
 ### `Tau.BookIV.Electroweak.non_equal_spacing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L321-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L321-L329)
 **theorem
 Tau.BookIV.Electroweak.non_equal_spacing :neutrino_recurrence.p_lobe ≠ neutrino_recurrence.r_mediator**
 
@@ -677,7 +677,7 @@ breaks the equal-spacing degeneracy and matches observation.
 
 ### `Tau.BookIV.Electroweak.coupling_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L331-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L331-L335)
 **theorem
 Tau.BookIV.Electroweak.coupling_hierarchy :neutrino_recurrence.r_mediator < neutrino_recurrence.p_lobe ∧ neutrino_recurrence.p_lobe < neutrino_recurrence.q_coupling**
 
@@ -688,7 +688,7 @@ The lobe-mediator coupling (q) is the weakest (largest exponent).
 
 ### `Tau.BookIV.Electroweak.SigmaPolarityMatrix`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L362-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L362-L381)
 **structure
 Tau.BookIV.Electroweak.SigmaPolarityMatrix :Type**
 
@@ -722,7 +722,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sprint3_best_fit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L383-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L383-L386)
 **def
 Tau.BookIV.Electroweak.sprint3_best_fit :SigmaPolarityMatrix**
 
@@ -737,7 +737,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.bestFitExponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L388-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L388-L396)
 **def
 Tau.BookIV.Electroweak.bestFitExponents :SigmaPolarityMatrix × String**
 
@@ -754,7 +754,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.off_diagonal_zero_is_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L398-L401)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L398-L401)
 **theorem
 Tau.BookIV.Electroweak.off_diagonal_zero_is_structural :True**
 
@@ -767,7 +767,7 @@ Only the mixed winding class (1,1) mediates inter-lobe transitions.
 
 ### `Tau.BookIV.Electroweak.three_distinct_eigenvalues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L403-L409)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L403-L409)
 **theorem
 Tau.BookIV.Electroweak.three_distinct_eigenvalues
 (m : SigmaPolarityMatrix)
@@ -788,7 +788,7 @@ The sigma-odd eigenvalue equals a EXACTLY for all (p,q,r).
 
 ### `Tau.BookIV.Electroweak.cosmological_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L411-L415)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L411-L415)
 **def
 Tau.BookIV.Electroweak.cosmological_bound :String**
 
@@ -803,7 +803,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_normal_ordering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L417-L426)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L417-L426)
 **def
 Tau.BookIV.Electroweak.remark_normal_ordering :String**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pmns_angles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L428-L438)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L428-L438)
 **def
 Tau.BookIV.Electroweak.pmns_angles :String**
 
@@ -847,7 +847,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.PMNSAnglePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L440-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L440-L453)
 **structure
 Tau.BookIV.Electroweak.PMNSAnglePrediction :Type**
 
@@ -875,7 +875,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPMNSAnglePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L453-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L453-L453)
 **instance
 Tau.BookIV.Electroweak.instReprPMNSAnglePrediction :Repr PMNSAnglePrediction**
 
@@ -886,7 +886,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprPMNSAnglePrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L453-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L453-L453)
 **def
 Tau.BookIV.Electroweak.instReprPMNSAnglePrediction.repr :PMNSAnglePrediction → ℕ → Std.Format**
 
@@ -898,7 +898,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pmns_angle_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L455-L457)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L455-L457)
 **def
 Tau.BookIV.Electroweak.pmns_angle_prediction :PMNSAnglePrediction**
 
@@ -912,7 +912,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pmns_angle_prediction_conj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L459-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L459-L464)
 **theorem
 Tau.BookIV.Electroweak.pmns_angle_prediction_conj :pmns_angle_prediction.n_angles = 3 ∧ pmns_angle_prediction.requires_flavor_rotation = true ∧ pmns_angle_prediction.theta13_reasonable = true**
 
@@ -923,7 +923,7 @@ Tau.BookIV.Electroweak.pmns_angle_prediction_conj :pmns_angle_prediction.n_angle
 
 ### `Tau.BookIV.Electroweak.theta13_bare_sigma_deg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L466-L467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L466-L467)
 **def
 Tau.BookIV.Electroweak.theta13_bare_sigma_deg :Float**
 
@@ -937,7 +937,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.majorana_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L473-L486)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L473-L486)
 **def
 Tau.BookIV.Electroweak.majorana_structure :String**
 
@@ -964,7 +964,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_sprint4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L488-L495)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L488-L495)
 **def
 Tau.BookIV.Electroweak.remark_sprint4 :String**
 
@@ -980,7 +980,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_winding_strategy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L510-L518)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L510-L518)
 **def
 Tau.BookIV.Electroweak.neutrino_winding_strategy :String**
 
@@ -998,7 +998,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_one_param_family_conjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L521-L524)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L521-L524)
 **theorem
 Tau.BookIV.Electroweak.neutrino_one_param_family_conjecture :True**
 
@@ -1011,7 +1011,7 @@ PDG target 32.58 requires asymmetric offsets Δpq ≠ Δpr.
 
 ### `Tau.BookIV.Electroweak.pmns_mixing_angles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L530-L541)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L530-L541)
 **def
 Tau.BookIV.Electroweak.pmns_mixing_angles :String**
 
@@ -1032,7 +1032,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.normal_mass_ordering_from_sigma_polarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L544-L553)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L544-L553)
 **theorem
 Tau.BookIV.Electroweak.normal_mass_ordering_from_sigma_polarity :True**
 
@@ -1051,7 +1051,7 @@ Inverted ordering requires r > p (violates τ³ winding-mode coupling hierarchy)
 
 ### `Tau.BookIV.Electroweak.sprint4a_oqc3_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L561-L571)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L561-L571)
 **def
 Tau.BookIV.Electroweak.sprint4a_oqc3_status :String**
 
@@ -1071,7 +1071,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_cf_asymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L586-L592)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L586-L592)
 **def
 Tau.BookIV.Electroweak.neutrino_cf_asymmetry :String**
 
@@ -1088,7 +1088,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.SigmaExponentGrid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L595-L604)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L595-L604)
 **structure
 Tau.BookIV.Electroweak.SigmaExponentGrid :Type**
 
@@ -1111,7 +1111,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaExponentGrid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L604-L604)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L604-L604)
 **instance
 Tau.BookIV.Electroweak.instReprSigmaExponentGrid :Repr SigmaExponentGrid**
 
@@ -1122,7 +1122,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprSigmaExponentGrid.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L604-L604)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L604-L604)
 **def
 Tau.BookIV.Electroweak.instReprSigmaExponentGrid.repr :SigmaExponentGrid → ℕ → Std.Format**
 
@@ -1134,7 +1134,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_grid_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L606-L606)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L606-L606)
 **def
 Tau.BookIV.Electroweak.sigma_grid_data :SigmaExponentGrid**
 
@@ -1146,7 +1146,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_exponent_grid_optimum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L608-L612)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L608-L612)
 **theorem
 Tau.BookIV.Electroweak.sigma_exponent_grid_optimum :sigma_grid_data.optimum_found = true ∧ sigma_grid_data.tau_effective = true ∧ sigma_grid_data.ratio_matches = true**
 
@@ -1155,7 +1155,7 @@ Tau.BookIV.Electroweak.sigma_exponent_grid_optimum :sigma_grid_data.optimum_foun
 
 ### `Tau.BookIV.Electroweak.MajoranaCPPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L615-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L615-L626)
 **structure
 Tau.BookIV.Electroweak.MajoranaCPPhase :Type**
 
@@ -1180,7 +1180,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMajoranaCPPhase.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L626-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L626-L626)
 **def
 Tau.BookIV.Electroweak.instReprMajoranaCPPhase.repr :MajoranaCPPhase → ℕ → Std.Format**
 
@@ -1192,7 +1192,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMajoranaCPPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L626-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L626-L626)
 **instance
 Tau.BookIV.Electroweak.instReprMajoranaCPPhase :Repr MajoranaCPPhase**
 
@@ -1203,7 +1203,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.majorana_cp_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L628-L628)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L628-L628)
 **def
 Tau.BookIV.Electroweak.majorana_cp_data :MajoranaCPPhase**
 
@@ -1215,7 +1215,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.majorana_cp_phases_from_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L630-L634)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L630-L634)
 **theorem
 Tau.BookIV.Electroweak.majorana_cp_phases_from_sigma :majorana_cp_data.phi2_zero = true ∧ majorana_cp_data.from_sigma_constraint = true ∧ majorana_cp_data.is_analytic = true**
 
@@ -1224,7 +1224,7 @@ Tau.BookIV.Electroweak.majorana_cp_phases_from_sigma :majorana_cp_data.phi2_zero
 
 ### `Tau.BookIV.Electroweak.SigmaExponentAsymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L637-L648)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L637-L648)
 **structure
 Tau.BookIV.Electroweak.SigmaExponentAsymmetry :Type**
 
@@ -1250,7 +1250,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaExponentAsymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L648-L648)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L648-L648)
 **instance
 Tau.BookIV.Electroweak.instReprSigmaExponentAsymmetry :Repr SigmaExponentAsymmetry**
 
@@ -1261,7 +1261,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprSigmaExponentAsymmetry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L648-L648)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L648-L648)
 **def
 Tau.BookIV.Electroweak.instReprSigmaExponentAsymmetry.repr :SigmaExponentAsymmetry → ℕ → Std.Format**
 
@@ -1273,7 +1273,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_exponent_asymmetry_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L650-L651)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L650-L651)
 **def
 Tau.BookIV.Electroweak.sigma_exponent_asymmetry_data :SigmaExponentAsymmetry**
 
@@ -1287,7 +1287,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_exponent_asymmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L653-L659)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L653-L659)
 **theorem
 Tau.BookIV.Electroweak.sigma_exponent_asymmetry :sigma_exponent_asymmetry_data.cf_coefficient = 13 ∧ sigma_exponent_asymmetry_data.asymmetry_numerator = 2 ∧ sigma_exponent_asymmetry_data.is_cf_structural = true ∧ sigma_exponent_asymmetry_data.cf_approximate = true**
 
@@ -1298,7 +1298,7 @@ Tau.BookIV.Electroweak.sigma_exponent_asymmetry :sigma_exponent_asymmetry_data.c
 
 ### `Tau.BookIV.Electroweak.cf_asymmetry_int_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L661-L662)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L661-L662)
 **theorem
 Tau.BookIV.Electroweak.cf_asymmetry_int_check :2 * 100 / 13 = 15**
 
@@ -1309,7 +1309,7 @@ CF asymmetry integer check: 2×100/13 = 15 (≈ 15.4% of unit interval).
 
 ### `Tau.BookIV.Electroweak.sprint5a_oqc3_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L668-L670)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L668-L670)
 **def
 Tau.BookIV.Electroweak.sprint5a_oqc3_status :String**
 
@@ -1321,7 +1321,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_exponent_43_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L681-L686)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L681-L686)
 **def
 Tau.BookIV.Electroweak.neutrino_exponent_43_ratio :String**
 
@@ -1337,7 +1337,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_43_counting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L689-L690)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L689-L690)
 **theorem
 Tau.BookIV.Electroweak.neutrino_43_counting :2 * 2 = 4 ∧ 4 + 3 = 7**
 
@@ -1346,7 +1346,7 @@ Tau.BookIV.Electroweak.neutrino_43_counting :2 * 2 = 4 ∧ 4 + 3 = 7**
 
 ### `Tau.BookIV.Electroweak.neutrino_span_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L692-L692)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L692-L692)
 **theorem
 Tau.BookIV.Electroweak.neutrino_span_check :8 + 6 = 14 ∧ 14 = 2 * 7**
 
@@ -1355,7 +1355,7 @@ Tau.BookIV.Electroweak.neutrino_span_check :8 + 6 = 14 ∧ 14 = 2 * 7**
 
 ### `Tau.BookIV.Electroweak.neutrino_ratio_43`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L694-L694)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L694-L694)
 **theorem
 Tau.BookIV.Electroweak.neutrino_ratio_43 :8 * 3 = 6 * 4**
 
@@ -1364,7 +1364,7 @@ Tau.BookIV.Electroweak.neutrino_ratio_43 :8 * 3 = 6 * 4**
 
 ### `Tau.BookIV.Electroweak.Neutrino87Candidate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L698-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L698-L712)
 **structure
 Tau.BookIV.Electroweak.Neutrino87Candidate :Type**
 
@@ -1394,7 +1394,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutrino87Candidate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L712-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L712-L712)
 **def
 Tau.BookIV.Electroweak.instReprNeutrino87Candidate.repr :Neutrino87Candidate → ℕ → Std.Format**
 
@@ -1406,7 +1406,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutrino87Candidate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L712-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L712-L712)
 **instance
 Tau.BookIV.Electroweak.instReprNeutrino87Candidate :Repr Neutrino87Candidate**
 
@@ -1417,7 +1417,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.neutrino_87_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L714-L715)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L714-L715)
 **def
 Tau.BookIV.Electroweak.neutrino_87_data :Neutrino87Candidate**
 
@@ -1431,7 +1431,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.neutrino_87_candidate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L717-L724)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L717-L724)
 **theorem
 Tau.BookIV.Electroweak.neutrino_87_candidate :neutrino_87_data.numerator = 8 ∧ neutrino_87_data.denominator = 7 ∧ neutrino_87_data.numerator_pr = 6 ∧ neutrino_87_data.ratio_exact_43 = true ∧ neutrino_87_data.span_eq_lobes = true**
 
@@ -1442,7 +1442,7 @@ Tau.BookIV.Electroweak.neutrino_87_candidate :neutrino_87_data.numerator = 8 ∧
 
 ### `Tau.BookIV.Electroweak.neutrino_87_cross_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L726-L727)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L726-L727)
 **theorem
 Tau.BookIV.Electroweak.neutrino_87_cross_ratio :8 * 3 = 6 * 4**
 
@@ -1453,7 +1453,7 @@ Tau.BookIV.Electroweak.neutrino_87_cross_ratio :8 * 3 = 6 * 4**
 
 ### `Tau.BookIV.Electroweak.neutrino_87_span`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L729-L730)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L729-L730)
 **theorem
 Tau.BookIV.Electroweak.neutrino_87_span :8 + 6 = 2 * 7**
 
@@ -1464,7 +1464,7 @@ Span check: 8+6 = 14 = 2×7.
 
 ### `Tau.BookIV.Electroweak.neutrino_n7_scan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L733-L736)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L733-L736)
 **theorem
 Tau.BookIV.Electroweak.neutrino_n7_scan :True**
 
@@ -1477,7 +1477,7 @@ CF crossover: n=13 gives +52368 ppm (overshoot).
 
 ### `Tau.BookIV.Electroweak.sprint6a_oqc3_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L739-L742)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/NeutrinoMode.lean#L739-L742)
 **def
 Tau.BookIV.Electroweak.sprint6a_oqc3_status :String**
 

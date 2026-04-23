@@ -55,7 +55,7 @@ clopen subsets of ℒ \ {p₀}, profinite limits of angular sectors.
 
 ### `Tau.BookII.Topology.angular_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L37-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L37-L41)
 **def
 Tau.BookII.Topology.angular_b_sector
 (x k : Denotation.TauIdx)
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookII.Topology.angular_c_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L43-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L43-L47)
 **def
 Tau.BookII.Topology.angular_c_sector
 (x k : Denotation.TauIdx)
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookII.Topology.angular_sector_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L49-L51)
 **def
 Tau.BookII.Topology.angular_sector_mem
 (k b_val c_val x : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobe_class`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L57-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L57-L60)
 **def
 Tau.BookII.Topology.lobe_class
 (x : Denotation.TauIdx)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobe_distribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L62-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L62-L74)
 **def
 Tau.BookII.Topology.lobe_distribution
 (bound : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobe_distribution.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L67-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L67-L73)@[irreducible]
 
 **def
 Tau.BookII.Topology.lobe_distribution.go
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobes_exhaustive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L80-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L80-L95)
 **def
 Tau.BookII.Topology.lobes_exhaustive_check
 (bound : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobes_exhaustive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L85-L94)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L85-L94)@[irreducible]
 
 **def
 Tau.BookII.Topology.lobes_exhaustive_check.go
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobes_clopen_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L97-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L97-L112)
 **def
 Tau.BookII.Topology.lobes_clopen_check
 (bound : Denotation.TauIdx)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobes_clopen_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L102-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L102-L111)@[irreducible]
 
 **def
 Tau.BookII.Topology.lobes_clopen_check.go
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookII.Topology.boundary_minimal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L118-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L118-L132)
 **def
 Tau.BookII.Topology.boundary_minimal_check :Bool**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookII.Topology.crossing_point_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L134-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L134-L144)
 **def
 Tau.BookII.Topology.crossing_point_exists
 (bound : Denotation.TauIdx)
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookII.Topology.crossing_point_exists.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L138-L143)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L138-L143)@[irreducible]
 
 **def
 Tau.BookII.Topology.crossing_point_exists.go
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookII.Topology.lobes_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L164-L164)
 **theorem
 Tau.BookII.Topology.lobes_exhaust :lobes_exhaustive_check 50 = true**
 
@@ -281,7 +281,7 @@ Tau.BookII.Topology.lobes_exhaust :lobes_exhaustive_check 50 = true**
 
 ### `Tau.BookII.Topology.lobes_clopen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L165-L165)
 **theorem
 Tau.BookII.Topology.lobes_clopen :lobes_clopen_check 50 = true**
 
@@ -290,7 +290,7 @@ Tau.BookII.Topology.lobes_clopen :lobes_clopen_check 50 = true**
 
 ### `Tau.BookII.Topology.bnd_minimal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L166-L166)
 **theorem
 Tau.BookII.Topology.bnd_minimal :boundary_minimal_check = true**
 
@@ -299,6 +299,6 @@ Tau.BookII.Topology.bnd_minimal :boundary_minimal_check = true**
 
 ### `Tau.BookII.Topology.crossing_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/BoundaryMinimality.lean#L167-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/BoundaryMinimality.lean#L167-L167)
 **theorem
 Tau.BookII.Topology.crossing_exists :crossing_point_exists 100 = true**

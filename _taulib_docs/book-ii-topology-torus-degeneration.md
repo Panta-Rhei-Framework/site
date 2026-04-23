@@ -55,7 +55,7 @@ The abelian fundamental group becomes free non-abelian (richer!).
 
 ### `Tau.BookII.Topology.PinchImage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L36-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L36-L43)
 **inductive
 Tau.BookII.Topology.PinchImage :Type**
 
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.BookII.Topology.instReprPinchImage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
 **def
 Tau.BookII.Topology.instReprPinchImage.repr :PinchImage → ℕ → Std.Format**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookII.Topology.instReprPinchImage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
 **instance
 Tau.BookII.Topology.instReprPinchImage :Repr PinchImage**
 
@@ -96,7 +96,7 @@ Equations
 
 ### `Tau.BookII.Topology.instDecidableEqPinchImage.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
 **def
 Tau.BookII.Topology.instDecidableEqPinchImage.decEq
 (x✝ x✝¹ : PinchImage)
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookII.Topology.instDecidableEqPinchImage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L43-L43)
 **instance
 Tau.BookII.Topology.instDecidableEqPinchImage :DecidableEq PinchImage**
 
@@ -138,7 +138,7 @@ Equations
 
 ### `Tau.BookII.Topology.pinch_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L45-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L45-L50)
 **def
 Tau.BookII.Topology.pinch_fiber
 (b c : Denotation.TauIdx)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L52-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L52-L55)
 **def
 Tau.BookII.Topology.pinch_point
 (x : Denotation.TauIdx)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_surjective_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L61-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L61-L84)
 **def
 Tau.BookII.Topology.pinch_surjective_check :Bool**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_surjective_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L78-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L78-L83)@[irreducible]
 
 **def
 Tau.BookII.Topology.pinch_surjective_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Topology.gauge_survival_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L86-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L86-L98)
 **def
 Tau.BookII.Topology.gauge_survival_check :Bool**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookII.Topology.fund_group_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L104-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L104-L128)
 **def
 Tau.BookII.Topology.fund_group_check :Bool**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_distribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L134-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L134-L145)
 **def
 Tau.BookII.Topology.pinch_distribution
 (bound : Denotation.TauIdx)
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_distribution.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L138-L144)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L138-L144)@[irreducible]
 
 **def
 Tau.BookII.Topology.pinch_distribution.go
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pinch_surj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L162-L162)
 **theorem
 Tau.BookII.Topology.pinch_surj :pinch_surjective_check = true**
 
@@ -284,7 +284,7 @@ Tau.BookII.Topology.pinch_surj :pinch_surjective_check = true**
 
 ### `Tau.BookII.Topology.gauge_surv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L163-L163)
 **theorem
 Tau.BookII.Topology.gauge_surv :gauge_survival_check = true**
 
@@ -293,6 +293,6 @@ Tau.BookII.Topology.gauge_surv :gauge_survival_check = true**
 
 ### `Tau.BookII.Topology.fund_group`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/TorusDegeneration.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/TorusDegeneration.lean#L164-L164)
 **theorem
 Tau.BookII.Topology.fund_group :fund_group_check = true**

@@ -62,7 +62,7 @@ recovered from its eigenvalues and projectors. Verified at finite stages.
 
 ### `Tau.BookIII.Doors.spectral_projector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L46-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L46-L60)
 **def
 Tau.BookIII.Doors.spectral_projector
 (n : ℕ)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_idempotent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L62-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L62-L82)
 **def
 Tau.BookIII.Doors.projector_idempotent_check
 (N : ℕ)
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_idempotent_check.go_n`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L66-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L66-L73)@[irreducible]
 
 **def
 Tau.BookIII.Doors.projector_idempotent_check.go_n
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_idempotent_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L75-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L75-L81)@[irreducible]
 
 **def
 Tau.BookIII.Doors.projector_idempotent_check.go_x
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_orthogonal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L84-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L84-L108)
 **def
 Tau.BookIII.Doors.projector_orthogonal_check
 (N : ℕ)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_orthogonal_check.go_n`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L88-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L88-L91)@[irreducible]
 
 **def
 Tau.BookIII.Doors.projector_orthogonal_check.go_n
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_orthogonal_check.go_m`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L93-L102)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L93-L102)@[irreducible]
 
 **def
 Tau.BookIII.Doors.projector_orthogonal_check.go_m
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_orthogonal_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L104-L107)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L104-L107)@[irreducible]
 
 **def
 Tau.BookIII.Doors.projector_orthogonal_check.go_x
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L110-L112)
 **def
 Tau.BookIII.Doors.projector_check
 (N : ℕ)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_measure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L118-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L118-L122)
 **def
 Tau.BookIII.Doors.spectral_measure
 (N n : ℕ)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.measure_total_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L124-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L124-L132)
 **def
 Tau.BookIII.Doors.measure_total_check
 (N : ℕ)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.measure_total_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L129-L131)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L129-L131)@[irreducible]
 
 **def
 Tau.BookIII.Doors.measure_total_check.go
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.parseval_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L138-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L138-L165)
 **def
 Tau.BookIII.Doors.parseval_check
 (N : ℕ)
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.parseval_check.go_f`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L144-L154)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L144-L154)@[irreducible]
 
 **def
 Tau.BookIII.Doors.parseval_check.go_f
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.parseval_check.sum_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L156-L158)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L156-L158)@[irreducible]
 
 **def
 Tau.BookIII.Doors.parseval_check.sum_sq
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.parseval_check.sum_coeff_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L160-L164)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L160-L164)@[irreducible]
 
 **def
 Tau.BookIII.Doors.parseval_check.sum_coeff_sq
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_resolution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L171-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L171-L201)
 **def
 Tau.BookIII.Doors.spectral_resolution_check
 (N : ℕ)
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_resolution_check.go_f`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L178-L183)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L178-L183)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_resolution_check.go_f
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_resolution_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L185-L193)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L185-L193)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_resolution_check.go_x
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_resolution_check.sum_projectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L195-L200)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L195-L200)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_resolution_check.sum_projectors
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.projector_check_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L207-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L207-L209)
 **theorem
 Tau.BookIII.Doors.projector_check_2 :projector_check 2 = true**
 
@@ -422,7 +422,7 @@ Tau.BookIII.Doors.projector_check_2 :projector_check 2 = true**
 
 ### `Tau.BookIII.Doors.projector_check_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L211-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L211-L213)
 **theorem
 Tau.BookIII.Doors.projector_check_6 :projector_check 6 = true**
 
@@ -433,7 +433,7 @@ Tau.BookIII.Doors.projector_check_6 :projector_check 6 = true**
 
 ### `Tau.BookIII.Doors.measure_total_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L215-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L215-L217)
 **theorem
 Tau.BookIII.Doors.measure_total_6 :measure_total_check 6 = true**
 
@@ -444,7 +444,7 @@ Tau.BookIII.Doors.measure_total_6 :measure_total_check 6 = true**
 
 ### `Tau.BookIII.Doors.measure_total_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L219-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L219-L221)
 **theorem
 Tau.BookIII.Doors.measure_total_30 :measure_total_check 30 = true**
 
@@ -455,7 +455,7 @@ Tau.BookIII.Doors.measure_total_30 :measure_total_check 30 = true**
 
 ### `Tau.BookIII.Doors.parseval_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L223-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L223-L225)
 **theorem
 Tau.BookIII.Doors.parseval_2 :parseval_check 2 = true**
 
@@ -466,7 +466,7 @@ Tau.BookIII.Doors.parseval_2 :parseval_check 2 = true**
 
 ### `Tau.BookIII.Doors.parseval_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L227-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L227-L229)
 **theorem
 Tau.BookIII.Doors.parseval_6 :parseval_check 6 = true**
 
@@ -477,7 +477,7 @@ Tau.BookIII.Doors.parseval_6 :parseval_check 6 = true**
 
 ### `Tau.BookIII.Doors.spectral_resolution_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L231-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L231-L233)
 **theorem
 Tau.BookIII.Doors.spectral_resolution_2 :spectral_resolution_check 2 = true**
 
@@ -488,7 +488,7 @@ Tau.BookIII.Doors.spectral_resolution_2 :spectral_resolution_check 2 = true**
 
 ### `Tau.BookIII.Doors.spectral_resolution_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralDecomp.lean#L235-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralDecomp.lean#L235-L237)
 **theorem
 Tau.BookIII.Doors.spectral_resolution_6 :spectral_resolution_check 6 = true**
 

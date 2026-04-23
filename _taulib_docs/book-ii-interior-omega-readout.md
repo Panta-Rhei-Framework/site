@@ -66,7 +66,7 @@ the algebraic lemniscate from Book I (I.D18).
 
 ### `Tau.BookII.Interior.FiberDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L38-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L38-L44)
 **inductive
 Tau.BookII.Interior.FiberDominance :Type**
 
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprFiberDominance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
 **def
 Tau.BookII.Interior.instReprFiberDominance.repr :FiberDominance → ℕ → Std.Format**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprFiberDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
 **instance
 Tau.BookII.Interior.instReprFiberDominance :Repr FiberDominance**
 
@@ -106,7 +106,7 @@ Equations
 
 ### `Tau.BookII.Interior.instDecidableEqFiberDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L44-L44)
 **instance
 Tau.BookII.Interior.instDecidableEqFiberDominance :DecidableEq FiberDominance**
 
@@ -117,7 +117,7 @@ Equations
 
 ### `Tau.BookII.Interior.classify_dominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L46-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L46-L50)
 **def
 Tau.BookII.Interior.classify_dominance
 (b c : Denotation.TauIdx)
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookII.Interior.TauAdmissiblePoint.fiber_dominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L52-L54)
 **def
 Tau.BookII.Interior.TauAdmissiblePoint.fiber_dominance
 (p : TauAdmissiblePoint)
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Interior.omega_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L60-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L60-L65)
 **def
 Tau.BookII.Interior.omega_readout
 (p : TauAdmissiblePoint)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookII.Interior.dominance_to_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L67-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L67-L73)
 **def
 Tau.BookII.Interior.dominance_to_sector
 (fd : FiberDominance)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_fiber_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L79-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L79-L82)
 **def
 Tau.BookII.Interior.primorial_fiber_check :Bool**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_base_diverges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L84-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L84-L92)
 **def
 Tau.BookII.Interior.primorial_base_diverges :Bool**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_base_diverges.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L90-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L90-L92)
 **def
 Tau.BookII.Interior.primorial_base_diverges.go :List Denotation.TauIdx → Bool**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookII.Interior.tower_path_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L94-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L94-L97)
 **def
 Tau.BookII.Interior.tower_path_check :Bool**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookII.Interior.base_collapse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L99-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L99-L107)
 **def
 Tau.BookII.Interior.base_collapse_check :Bool**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Interior.base_collapse_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L105-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L105-L107)
 **def
 Tau.BookII.Interior.base_collapse_check.go :List (Denotation.TauIdx × Denotation.TauIdx) → Bool**
 
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookII.Interior.lemniscate_sector_idem_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L113-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L113-L132)
 **def
 Tau.BookII.Interior.lemniscate_sector_idem_check :Bool**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_balanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L162-L162)
 **theorem
 Tau.BookII.Interior.primorial_balanced :primorial_fiber_check = true**
 
@@ -306,7 +306,7 @@ Tau.BookII.Interior.primorial_balanced :primorial_fiber_check = true**
 
 ### `Tau.BookII.Interior.base_diverges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L163-L163)
 **theorem
 Tau.BookII.Interior.base_diverges :primorial_base_diverges = true**
 
@@ -315,6 +315,6 @@ Tau.BookII.Interior.base_diverges :primorial_base_diverges = true**
 
 ### `Tau.BookII.Interior.lemniscate_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/OmegaReadout.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/OmegaReadout.lean#L164-L164)
 **theorem
 Tau.BookII.Interior.lemniscate_compat :lemniscate_sector_idem_check = true**

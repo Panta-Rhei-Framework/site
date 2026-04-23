@@ -57,7 +57,7 @@ Descent module.
 
 ### `Tau.Coordinates.NFStep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L35-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L35-L41)
 **structure
 Tau.Coordinates.NFStep :Type**
 
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.Coordinates.instReprNFStep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
 **instance
 Tau.Coordinates.instReprNFStep :Repr NFStep**
 
@@ -85,7 +85,7 @@ Equations
 
 ### `Tau.Coordinates.instReprNFStep.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
 **def
 Tau.Coordinates.instReprNFStep.repr :NFStep → Nat → Std.Format**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.Coordinates.instDecidableEqNFStep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
 **instance
 Tau.Coordinates.instDecidableEqNFStep :DecidableEq NFStep**
 
@@ -108,7 +108,7 @@ Equations
 
 ### `Tau.Coordinates.instDecidableEqNFStep.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L41-L41)
 **def
 Tau.Coordinates.instDecidableEqNFStep.decEq
 (x✝ x✝¹ : NFStep)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.Coordinates.NFStep.ofPeel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L43-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L43-L46)
 **def
 Tau.Coordinates.NFStep.ofPeel
 (x : Denotation.TauIdx)
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.Coordinates.NFStep.atom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L48-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L48-L49)
 **def
 Tau.Coordinates.NFStep.atom
 (s : NFStep)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.Coordinates.NFStep.value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L51-L52)
 **def
 Tau.Coordinates.NFStep.value
 (s : NFStep)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.Coordinates.list_tower_prod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L58-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L58-L61)
 **def
 Tau.Coordinates.list_tower_prod :List (Denotation.TauIdx × Denotation.TauIdx × Denotation.TauIdx) → Denotation.TauIdx**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.Coordinates.list_tower_prod_nil`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L63-L63)
 **theorem
 Tau.Coordinates.list_tower_prod_nil :list_tower_prod [] = 1**
 
@@ -195,7 +195,7 @@ Tau.Coordinates.list_tower_prod_nil :list_tower_prod [] = 1**
 
 ### `Tau.Coordinates.list_tower_prod_cons`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L65-L66)
 **theorem
 Tau.Coordinates.list_tower_prod_cons
 (a b c : Denotation.TauIdx)
@@ -208,7 +208,7 @@ Tau.Coordinates.list_tower_prod_cons
 
 ### `Tau.Coordinates.spine`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L72-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L72-L85)
 **def
 Tau.Coordinates.spine
 (x : Denotation.TauIdx)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.Coordinates.spine.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L78-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L78-L83)@[irreducible]
 
 **def
 Tau.Coordinates.spine.go
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.Coordinates.spine_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L87-L88)
 **def
 Tau.Coordinates.spine_length
 (x : Denotation.TauIdx)
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.Coordinates.spine_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NormalForm.lean#L94-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NormalForm.lean#L94-L95)
 **def
 Tau.Coordinates.spine_check
 (x : Denotation.TauIdx)

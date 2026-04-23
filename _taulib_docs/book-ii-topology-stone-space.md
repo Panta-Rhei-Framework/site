@@ -62,7 +62,7 @@ cylinder C_{k+1}(x) splits S into two nonempty open parts.
 
 ### `Tau.BookII.Topology.hausdorff_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L37-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L37-L55)
 **def
 Tau.BookII.Topology.hausdorff_check
 (bound db : Denotation.TauIdx)
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookII.Topology.hausdorff_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L44-L54)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L44-L54)@[irreducible]
 
 **def
 Tau.BookII.Topology.hausdorff_check.go
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookII.Topology.separating_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L57-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L57-L60)
 **def
 Tau.BookII.Topology.separating_stage
 (x y db : Denotation.TauIdx)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookII.Topology.totally_disconnected_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L66-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L66-L81)
 **def
 Tau.BookII.Topology.totally_disconnected_check
 (bound db : Denotation.TauIdx)
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookII.Topology.totally_disconnected_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L72-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L72-L80)@[irreducible]
 
 **def
 Tau.BookII.Topology.totally_disconnected_check.go
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Topology.finite_subcover_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L87-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L87-L105)
 **def
 Tau.BookII.Topology.finite_subcover_check
 (k bound : Denotation.TauIdx)
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookII.Topology.finite_subcover_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L101-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L101-L104)@[irreducible]
 
 **def
 Tau.BookII.Topology.finite_subcover_check.go
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Topology.stone_space_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L111-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L111-L118)
 **def
 Tau.BookII.Topology.stone_space_check
 (bound db : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.Topology.StoneWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L120-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L120-L126)
 **structure
 Tau.BookII.Topology.StoneWitness :Type**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookII.Topology.instReprStoneWitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L126-L126)
 **def
 Tau.BookII.Topology.instReprStoneWitness.repr :StoneWitness → Nat → Std.Format**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookII.Topology.instReprStoneWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L126-L126)
 **instance
 Tau.BookII.Topology.instReprStoneWitness :Repr StoneWitness**
 
@@ -244,7 +244,7 @@ Equations
 
 ### `Tau.BookII.Topology.stone_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L128-L130)
 **def
 Tau.BookII.Topology.stone_witness
 (x y db : Denotation.TauIdx)
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookII.Topology.hausdorff_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L150-L150)
 **theorem
 Tau.BookII.Topology.hausdorff_15 :hausdorff_check 15 5 = true**
 
@@ -269,7 +269,7 @@ Tau.BookII.Topology.hausdorff_15 :hausdorff_check 15 5 = true**
 
 ### `Tau.BookII.Topology.td_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L151-L151)
 **theorem
 Tau.BookII.Topology.td_15 :totally_disconnected_check 15 5 = true**
 
@@ -278,7 +278,7 @@ Tau.BookII.Topology.td_15 :totally_disconnected_check 15 5 = true**
 
 ### `Tau.BookII.Topology.subcover_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L152-L152)
 **theorem
 Tau.BookII.Topology.subcover_k1 :finite_subcover_check 1 20 = true**
 
@@ -287,7 +287,7 @@ Tau.BookII.Topology.subcover_k1 :finite_subcover_check 1 20 = true**
 
 ### `Tau.BookII.Topology.subcover_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L153-L153)
 **theorem
 Tau.BookII.Topology.subcover_k2 :finite_subcover_check 2 30 = true**
 
@@ -296,6 +296,6 @@ Tau.BookII.Topology.subcover_k2 :finite_subcover_check 2 30 = true**
 
 ### `Tau.BookII.Topology.stone_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/StoneSpace.lean#L154-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/StoneSpace.lean#L154-L154)
 **theorem
 Tau.BookII.Topology.stone_12 :stone_space_check 12 5 = true**

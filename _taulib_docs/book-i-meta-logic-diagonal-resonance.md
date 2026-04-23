@@ -55,7 +55,7 @@ that arise from this interaction.
 
 ### `Tau.MetaLogic.ResonanceComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L31-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L31-L36)
 **inductive
 Tau.MetaLogic.ResonanceComponent :Type**
 
@@ -71,7 +71,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqResonanceComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
 **instance
 Tau.MetaLogic.instDecidableEqResonanceComponent :DecidableEq ResonanceComponent**
 
@@ -82,7 +82,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprResonanceComponent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
 **def
 Tau.MetaLogic.instReprResonanceComponent.repr :ResonanceComponent → ℕ → Std.Format**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprResonanceComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L36-L36)
 **instance
 Tau.MetaLogic.instReprResonanceComponent :Repr ResonanceComponent**
 
@@ -105,7 +105,7 @@ Equations
 
 ### `Tau.MetaLogic.DiagonalResonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L38-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L38-L43)
 **structure
 Tau.MetaLogic.DiagonalResonance :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqDiagonalResonance.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
 **def
 Tau.MetaLogic.instDecidableEqDiagonalResonance.decEq
 (x✝ x✝¹ : DiagonalResonance)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqDiagonalResonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
 **instance
 Tau.MetaLogic.instDecidableEqDiagonalResonance :DecidableEq DiagonalResonance**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprDiagonalResonance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
 **def
 Tau.MetaLogic.instReprDiagonalResonance.repr :DiagonalResonance → ℕ → Std.Format**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprDiagonalResonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L43-L43)
 **instance
 Tau.MetaLogic.instReprDiagonalResonance :Repr DiagonalResonance**
 
@@ -169,7 +169,7 @@ Equations
 
 ### `Tau.MetaLogic.DiagonalResonance.isFullResonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L45-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L45-L47)
 **def
 Tau.MetaLogic.DiagonalResonance.isFullResonance
 (dr : DiagonalResonance)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.MetaLogic.allResonanceComponents`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L49-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L49-L50)
 **def
 Tau.MetaLogic.allResonanceComponents :List ResonanceComponent**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.MetaLogic.resonance_component_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L52-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L52-L53)
 **theorem
 Tau.MetaLogic.resonance_component_count :allResonanceComponents.length = 3**
 
@@ -210,7 +210,7 @@ There are exactly 3 resonance components.
 
 ### `Tau.MetaLogic.tau_resonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L59-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L59-L63)
 **def
 Tau.MetaLogic.tau_resonance :DiagonalResonance**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_no_full_resonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L65-L66)
 **theorem
 Tau.MetaLogic.tau_no_full_resonance :tau_resonance.isFullResonance = false**
 
@@ -235,7 +235,7 @@ Tau.MetaLogic.tau_no_full_resonance :tau_resonance.isFullResonance = false**
 
 ### `Tau.MetaLogic.IdentitySlippage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L72-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L72-L77)
 **structure
 Tau.MetaLogic.IdentitySlippage :Type**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_no_slippage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L80-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L80-L85)
 **theorem
 Tau.MetaLogic.tau_no_slippage :¬∃ (s : IdentitySlippage), s.resonance = tau_resonance**
 
@@ -263,7 +263,7 @@ Tau.MetaLogic.tau_no_slippage :¬∃ (s : IdentitySlippage), s.resonance = tau_r
 
 ### `Tau.MetaLogic.ShadowIdentityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L91-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L91-L96)
 **inductive
 Tau.MetaLogic.ShadowIdentityType :Type**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqShadowIdentityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
 **instance
 Tau.MetaLogic.instDecidableEqShadowIdentityType :DecidableEq ShadowIdentityType**
 
@@ -290,7 +290,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprShadowIdentityType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
 **def
 Tau.MetaLogic.instReprShadowIdentityType.repr :ShadowIdentityType → ℕ → Std.Format**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprShadowIdentityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L96-L96)
 **instance
 Tau.MetaLogic.instReprShadowIdentityType :Repr ShadowIdentityType**
 
@@ -313,7 +313,7 @@ Equations
 
 ### `Tau.MetaLogic.shadowRequires`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L98-L102)
 **def
 Tau.MetaLogic.shadowRequires :ShadowIdentityType → List ResonanceComponent**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.MetaLogic.ShadowIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L104-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L104-L113)
 **structure
 Tau.MetaLogic.ShadowIdentity :Type**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_no_shadow_equivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L115-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L115-L121)
 **theorem
 Tau.MetaLogic.tau_no_shadow_equivalence :¬∃ (s : ShadowIdentity), s.resonance = tau_resonance ∧ s.kind = ShadowIdentityType.equivalenceWitness**
 
@@ -361,7 +361,7 @@ Tau.MetaLogic.tau_no_shadow_equivalence :¬∃ (s : ShadowIdentity), s.resonance
 
 ### `Tau.MetaLogic.tau_no_shadow_substitution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L123-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L123-L129)
 **theorem
 Tau.MetaLogic.tau_no_shadow_substitution :¬∃ (s : ShadowIdentity), s.resonance = tau_resonance ∧ s.kind = ShadowIdentityType.substitutionBridge**
 
@@ -372,7 +372,7 @@ Tau.MetaLogic.tau_no_shadow_substitution :¬∃ (s : ShadowIdentity), s.resonanc
 
 ### `Tau.MetaLogic.tau_no_shadow_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L131-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L131-L137)
 **theorem
 Tau.MetaLogic.tau_no_shadow_diagonal :¬∃ (s : ShadowIdentity), s.resonance = tau_resonance ∧ s.kind = ShadowIdentityType.diagonalProjection**
 
@@ -383,7 +383,7 @@ Tau.MetaLogic.tau_no_shadow_diagonal :¬∃ (s : ShadowIdentity), s.resonance = 
 
 ### `Tau.MetaLogic.BugHidingReason`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L143-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L143-L150)
 **inductive
 Tau.MetaLogic.BugHidingReason :Type**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqBugHidingReason`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
 **instance
 Tau.MetaLogic.instDecidableEqBugHidingReason :DecidableEq BugHidingReason**
 
@@ -412,7 +412,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprBugHidingReason`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
 **instance
 Tau.MetaLogic.instReprBugHidingReason :Repr BugHidingReason**
 
@@ -423,7 +423,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprBugHidingReason.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L150-L150)
 **def
 Tau.MetaLogic.instReprBugHidingReason.repr :BugHidingReason → ℕ → Std.Format**
 
@@ -435,7 +435,7 @@ Instances For
 
 ### `Tau.MetaLogic.allBugHidingReasons`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L152-L154)
 **def
 Tau.MetaLogic.allBugHidingReasons :List BugHidingReason**
 
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.MetaLogic.bug_hiding_reason_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L156-L157)
 **theorem
 Tau.MetaLogic.bug_hiding_reason_count :allBugHidingReasons.length = 5**
 
@@ -460,7 +460,7 @@ There are exactly 5 bug hiding reasons.
 
 ### `Tau.MetaLogic.OrthodoxFoundation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L163-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L163-L168)
 **inductive
 Tau.MetaLogic.OrthodoxFoundation :Type**
 
@@ -476,7 +476,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqOrthodoxFoundation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
 **instance
 Tau.MetaLogic.instDecidableEqOrthodoxFoundation :DecidableEq OrthodoxFoundation**
 
@@ -487,7 +487,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprOrthodoxFoundation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
 **def
 Tau.MetaLogic.instReprOrthodoxFoundation.repr :OrthodoxFoundation → ℕ → Std.Format**
 
@@ -499,7 +499,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprOrthodoxFoundation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L168-L168)
 **instance
 Tau.MetaLogic.instReprOrthodoxFoundation :Repr OrthodoxFoundation**
 
@@ -510,7 +510,7 @@ Equations
 
 ### `Tau.MetaLogic.orthodox_resonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L170-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L170-L174)
 **def
 Tau.MetaLogic.orthodox_resonance :OrthodoxFoundation → DiagonalResonance**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.MetaLogic.orthodox_full_resonance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L176-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L176-L179)
 **theorem
 Tau.MetaLogic.orthodox_full_resonance
 (f : OrthodoxFoundation)
@@ -539,7 +539,7 @@ All orthodox foundations exhibit full diagonal resonance.
 
 ### `Tau.MetaLogic.allOrthodoxFoundations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L181-L182)
 **def
 Tau.MetaLogic.allOrthodoxFoundations :List OrthodoxFoundation**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.MetaLogic.orthodox_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/DiagonalResonance.lean#L184-L185)
 **theorem
 Tau.MetaLogic.orthodox_count :allOrthodoxFoundations.length = 3**
 

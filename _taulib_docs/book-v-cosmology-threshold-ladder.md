@@ -105,7 +105,7 @@ He-4 mass fraction Y_p ~ 0.245 from neutron-to-proton freeze-out ratio.
 
 ### `Tau.BookV.Cosmology.ThresholdType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L63-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L63-L77)
 **inductive
 Tau.BookV.Cosmology.ThresholdType :Type**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
 **def
 Tau.BookV.Cosmology.instReprThresholdType.repr :ThresholdType → ℕ → Std.Format**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
 **instance
 Tau.BookV.Cosmology.instReprThresholdType :Repr ThresholdType**
 
@@ -159,7 +159,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqThresholdType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
 **instance
 Tau.BookV.Cosmology.instDecidableEqThresholdType :DecidableEq ThresholdType**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqThresholdType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
 **instance
 Tau.BookV.Cosmology.instBEqThresholdType :BEq ThresholdType**
 
@@ -181,7 +181,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqThresholdType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L77-L77)
 **def
 Tau.BookV.Cosmology.instBEqThresholdType.beq :ThresholdType → ThresholdType → Bool**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ThresholdRegimeBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L79-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L79-L95)
 **structure
 Tau.BookV.Cosmology.ThresholdRegimeBoundary :Type**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdRegimeBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L95-L95)
 **def
 Tau.BookV.Cosmology.instReprThresholdRegimeBoundary.repr :ThresholdRegimeBoundary → ℕ → Std.Format**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdRegimeBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L95-L95)
 **instance
 Tau.BookV.Cosmology.instReprThresholdRegimeBoundary :Repr ThresholdRegimeBoundary**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.CanonicalThresholds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L101-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L101-L122)
 **structure
 Tau.BookV.Cosmology.CanonicalThresholds :Type**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCanonicalThresholds.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L122-L122)
 **def
 Tau.BookV.Cosmology.instReprCanonicalThresholds.repr :CanonicalThresholds → ℕ → Std.Format**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCanonicalThresholds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L122-L122)
 **instance
 Tau.BookV.Cosmology.instReprCanonicalThresholds :Repr CanonicalThresholds**
 
@@ -306,7 +306,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.canonical_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L124-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L124-L138)
 **def
 Tau.BookV.Cosmology.canonical_ladder :CanonicalThresholds**
 
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ladder_monotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L144-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L144-L152)
 **theorem
 Tau.BookV.Cosmology.ladder_monotonicity :canonical_ladder.ew.depth_index < canonical_ladder.baryogenesis.depth_index ∧ canonical_ladder.baryogenesis.depth_index < canonical_ladder.neutron.depth_index ∧ canonical_ladder.neutron.depth_index < canonical_ladder.nucleosynthesis.depth_index ∧ canonical_ladder.nucleosynthesis.depth_index < canonical_ladder.hydrogen.depth_index ∧ canonical_ladder.hydrogen.depth_index < canonical_ladder.photon_decoupling.depth_index**
 
@@ -332,7 +332,7 @@ the order n_EW < n_B < n_N < n_nuc < n_H < n_γ.
 
 ### `Tau.BookV.Cosmology.NeutronThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L158-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L158-L173)
 **structure
 Tau.BookV.Cosmology.NeutronThreshold :Type**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutronThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L173-L173)
 **instance
 Tau.BookV.Cosmology.instReprNeutronThreshold :Repr NeutronThreshold**
 
@@ -372,7 +372,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprNeutronThreshold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L173-L173)
 **def
 Tau.BookV.Cosmology.instReprNeutronThreshold.repr :NeutronThreshold → ℕ → Std.Format**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.SakharovConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L179-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L179-L194)
 **structure
 Tau.BookV.Cosmology.SakharovConditions :Type**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSakharovConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L194-L194)
 **instance
 Tau.BookV.Cosmology.instReprSakharovConditions :Repr SakharovConditions**
 
@@ -425,7 +425,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprSakharovConditions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L194-L194)
 **def
 Tau.BookV.Cosmology.instReprSakharovConditions.repr :SakharovConditions → ℕ → Std.Format**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.NucleosyntheticWindow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L200-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L200-L214)
 **structure
 Tau.BookV.Cosmology.NucleosyntheticWindow :Type**
 
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNucleosyntheticWindow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L214-L214)
 **def
 Tau.BookV.Cosmology.instReprNucleosyntheticWindow.repr :NucleosyntheticWindow → ℕ → Std.Format**
 
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNucleosyntheticWindow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L214-L214)
 **instance
 Tau.BookV.Cosmology.instReprNucleosyntheticWindow :Repr NucleosyntheticWindow**
 
@@ -489,7 +489,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.NucleosynthesisResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L220-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L220-L233)
 **structure
 Tau.BookV.Cosmology.NucleosynthesisResult :Type**
 
@@ -515,7 +515,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNucleosynthesisResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L233-L233)
 **instance
 Tau.BookV.Cosmology.instReprNucleosynthesisResult :Repr NucleosynthesisResult**
 
@@ -526,7 +526,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprNucleosynthesisResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L233-L233)
 **def
 Tau.BookV.Cosmology.instReprNucleosynthesisResult.repr :NucleosynthesisResult → ℕ → Std.Format**
 
@@ -538,7 +538,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.tau_yp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L235-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L235-L238)
 **def
 Tau.BookV.Cosmology.tau_yp :NucleosynthesisResult**
 
@@ -552,7 +552,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.nucleosynthesis_from_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L240-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L240-L243)
 **theorem
 Tau.BookV.Cosmology.nucleosynthesis_from_tau :tau_yp.yp_times_1000 > 240 ∧ tau_yp.yp_times_1000 < 260**
 
@@ -563,7 +563,7 @@ He-4 prediction is in range.
 
 ### `Tau.BookV.Cosmology.CmbOrigin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L249-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L249-L264)
 **structure
 Tau.BookV.Cosmology.CmbOrigin :Type**
 
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCmbOrigin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L264-L264)
 **instance
 Tau.BookV.Cosmology.instReprCmbOrigin :Repr CmbOrigin**
 
@@ -603,7 +603,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCmbOrigin.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L264-L264)
 **def
 Tau.BookV.Cosmology.instReprCmbOrigin.repr :CmbOrigin → ℕ → Std.Format**
 
@@ -615,7 +615,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.observed_cmb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L266-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L266-L270)
 **def
 Tau.BookV.Cosmology.observed_cmb :CmbOrigin**
 
@@ -629,7 +629,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cmb_origin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L272-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L272-L273)
 **theorem
 Tau.BookV.Cosmology.cmb_origin :observed_cmb.temp_mK > 2700**
 
@@ -640,7 +640,7 @@ CMB temperature in range.
 
 ### `Tau.BookV.Cosmology.MassHierarchyAtLN`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L279-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L279-L288)
 **structure
 Tau.BookV.Cosmology.MassHierarchyAtLN :Type**
 
@@ -662,7 +662,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMassHierarchyAtLN.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L288-L288)
 **def
 Tau.BookV.Cosmology.instReprMassHierarchyAtLN.repr :MassHierarchyAtLN → ℕ → Std.Format**
 
@@ -674,7 +674,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMassHierarchyAtLN`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L288-L288)
 **instance
 Tau.BookV.Cosmology.instReprMassHierarchyAtLN :Repr MassHierarchyAtLN**
 
@@ -685,7 +685,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.mass_hierarchy_r`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L290-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L290-L293)
 **def
 Tau.BookV.Cosmology.mass_hierarchy_r :MassHierarchyAtLN**
 
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ThresholdLadderComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L299-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L299-L308)
 **structure
 Tau.BookV.Cosmology.ThresholdLadderComplete :Type**
 
@@ -722,7 +722,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprThresholdLadderComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L308-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L308-L308)
 **instance
 Tau.BookV.Cosmology.instReprThresholdLadderComplete :Repr ThresholdLadderComplete**
 
@@ -733,7 +733,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprThresholdLadderComplete.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L308-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L308-L308)
 **def
 Tau.BookV.Cosmology.instReprThresholdLadderComplete.repr :ThresholdLadderComplete → ℕ → Std.Format**
 
@@ -745,7 +745,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.complete_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/ThresholdLadder.lean#L310-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/ThresholdLadder.lean#L310-L314)
 **def
 Tau.BookV.Cosmology.complete_ladder :ThresholdLadderComplete**
 

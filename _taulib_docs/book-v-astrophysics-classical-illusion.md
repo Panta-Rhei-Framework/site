@@ -118,7 +118,7 @@ No classical phenomenon lies outside the τ-readout map.
 
 ### `Tau.BookV.Astrophysics.ReadoutRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L69-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L69-L79)
 **inductive
 Tau.BookV.Astrophysics.ReadoutRegime :Type**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprReadoutRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instReprReadoutRegime :Repr ReadoutRegime**
 
@@ -154,7 +154,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprReadoutRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
 **def
 Tau.BookV.Astrophysics.instReprReadoutRegime.repr :ReadoutRegime → ℕ → Std.Format**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqReadoutRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqReadoutRegime :DecidableEq ReadoutRegime**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqReadoutRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
 **def
 Tau.BookV.Astrophysics.instBEqReadoutRegime.beq :ReadoutRegime → ReadoutRegime → Bool**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqReadoutRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instBEqReadoutRegime :BEq ReadoutRegime**
 
@@ -200,7 +200,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.ClassicalReadoutMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L81-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L81-L98)
 **structure
 Tau.BookV.Astrophysics.ClassicalReadoutMap :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprClassicalReadoutMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L98-L98)
 **instance
 Tau.BookV.Astrophysics.instReprClassicalReadoutMap :Repr ClassicalReadoutMap**
 
@@ -244,7 +244,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprClassicalReadoutMap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L98-L98)
 **def
 Tau.BookV.Astrophysics.instReprClassicalReadoutMap.repr :ClassicalReadoutMap → ℕ → Std.Format**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.newtonian_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L100-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L100-L104)
 **def
 Tau.BookV.Astrophysics.newtonian_readout :ClassicalReadoutMap**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.post_newtonian_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L106-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L106-L110)
 **def
 Tau.BookV.Astrophysics.post_newtonian_readout :ClassicalReadoutMap**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.classical_limit_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L116-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L116-L125)
 **theorem
 Tau.BookV.Astrophysics.classical_limit_theorem
 (m : ClassicalReadoutMap)
@@ -308,7 +308,7 @@ Euler-Lagrange equations of classical mechanics.
 
 ### `Tau.BookV.Astrophysics.ApparentForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L131-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L131-L143)
 **inductive
 Tau.BookV.Astrophysics.ApparentForce :Type**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprApparentForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
 **instance
 Tau.BookV.Astrophysics.instReprApparentForce :Repr ApparentForce**
 
@@ -347,7 +347,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprApparentForce.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
 **def
 Tau.BookV.Astrophysics.instReprApparentForce.repr :ApparentForce → ℕ → Std.Format**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqApparentForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqApparentForce :DecidableEq ApparentForce**
 
@@ -370,7 +370,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqApparentForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
 **instance
 Tau.BookV.Astrophysics.instBEqApparentForce :BEq ApparentForce**
 
@@ -381,7 +381,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqApparentForce.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L143-L143)
 **def
 Tau.BookV.Astrophysics.instBEqApparentForce.beq :ApparentForce → ApparentForce → Bool**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.force_free_ontology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L145-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L145-L149)
 **theorem
 Tau.BookV.Astrophysics.force_free_ontology
 (_f : ApparentForce)
@@ -407,7 +407,7 @@ coupling readout. No fundamental force exists as a primitive.
 
 ### `Tau.BookV.Astrophysics.euler_lagrange_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L155-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L155-L163)
 **theorem
 Tau.BookV.Astrophysics.euler_lagrange_recovery :"Euler-Lagrange = defect minimization in D-sector readout" = "Euler-Lagrange = defect minimization in D-sector readout"**
 
@@ -423,7 +423,7 @@ along a world-line in the D-sector readout.
 
 ### `Tau.BookV.Astrophysics.action_from_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L169-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L169-L177)
 **theorem
 Tau.BookV.Astrophysics.action_from_defect :"Least action = classical limit of defect minimization" = "Least action = classical limit of defect minimization"**
 
@@ -439,7 +439,7 @@ action integral S[q] = ∫ L(q, dq/dt) dt.
 
 ### `Tau.BookV.Astrophysics.ConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L183-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L183-L191)
 **inductive
 Tau.BookV.Astrophysics.ConservationLaw :Type**
 
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprConservationLaw.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
 **def
 Tau.BookV.Astrophysics.instReprConservationLaw.repr :ConservationLaw → ℕ → Std.Format**
 
@@ -473,7 +473,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
 **instance
 Tau.BookV.Astrophysics.instReprConservationLaw :Repr ConservationLaw**
 
@@ -484,7 +484,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqConservationLaw :DecidableEq ConservationLaw**
 
@@ -495,7 +495,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqConservationLaw.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
 **def
 Tau.BookV.Astrophysics.instBEqConservationLaw.beq :ConservationLaw → ConservationLaw → Bool**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L191-L191)
 **instance
 Tau.BookV.Astrophysics.instBEqConservationLaw :BEq ConservationLaw**
 
@@ -518,7 +518,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.conservation_from_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L193-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L193-L202)
 **theorem
 Tau.BookV.Astrophysics.conservation_from_sectors :[ConservationLaw.Energy, ConservationLaw.Momentum, ConservationLaw.AngularMomentum].length = 3**
 
@@ -540,7 +540,7 @@ Each conservation law corresponds to a sector automorphism:
 
 ### `Tau.BookV.Astrophysics.classical_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L208-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/ClassicalIllusion.lean#L208-L215)
 **theorem
 Tau.BookV.Astrophysics.classical_completeness :"All Newtonian mechanics = coarse-grained tau readouts" = "All Newtonian mechanics = coarse-grained tau readouts"**
 

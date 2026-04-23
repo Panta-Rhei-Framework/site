@@ -74,7 +74,7 @@ All ring axioms are proved up to the respective equivalence relations.
 
 ### `Tau.Boundary.TauInt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L48-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L48-L53)
 **structure
 Tau.Boundary.TauInt :Type**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.Boundary.instDecidableEqTauInt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
 **instance
 Tau.Boundary.instDecidableEqTauInt :DecidableEq TauInt**
 
@@ -101,7 +101,7 @@ Equations
 
 ### `Tau.Boundary.instDecidableEqTauInt.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
 **def
 Tau.Boundary.instDecidableEqTauInt.decEq
 (x✝ x✝¹ : TauInt)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.Boundary.instReprTauInt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
 **instance
 Tau.Boundary.instReprTauInt :Repr TauInt**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.Boundary.instReprTauInt.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L53-L53)
 **def
 Tau.Boundary.instReprTauInt.repr :TauInt → ℕ → Std.Format**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L55-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L55-L56)
 **def
 Tau.Boundary.TauInt.zero :TauInt**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L58-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L58-L59)
 **def
 Tau.Boundary.TauInt.one :TauInt**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L61-L63)
 **def
 Tau.Boundary.TauInt.add
 (a b : TauInt)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L65-L67)
 **def
 Tau.Boundary.TauInt.negate
 (a : TauInt)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L69-L71)
 **def
 Tau.Boundary.TauInt.mul
 (a b : TauInt)
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.sub`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L73-L75)
 **def
 Tau.Boundary.TauInt.sub
 (a b : TauInt)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.fromNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L77-L78)
 **def
 Tau.Boundary.TauInt.fromNat
 (n : Denotation.TauIdx)
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L84-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L84-L87)
 **def
 Tau.Boundary.TauInt.equiv
 (a b : TauInt)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.Boundary.TauInt.equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L89-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L89-L91)
 **theorem
 Tau.Boundary.TauInt.equiv_refl
 (a : TauInt)
@@ -276,7 +276,7 @@ TauInt equivalence is reflexive.
 
 ### `Tau.Boundary.TauInt.equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L93-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L93-L98)
 **theorem
 Tau.Boundary.TauInt.equiv_symm
 {a b : TauInt}
@@ -291,7 +291,7 @@ TauInt equivalence is symmetric.
 
 ### `Tau.Boundary.TauInt.equiv_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L100-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L100-L107)
 **theorem
 Tau.Boundary.TauInt.equiv_trans
 {a b c : TauInt}
@@ -308,7 +308,7 @@ TauInt equivalence is transitive.
 
 ### `Tau.Boundary.TauInt.toInt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L113-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L113-L115)
 **def
 Tau.Boundary.TauInt.toInt
 (a : TauInt)
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.Boundary.equiv_of_int_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L117-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L117-L122)
 **theorem
 Tau.Boundary.equiv_of_int_eq
 (a b : TauInt)
@@ -339,7 +339,7 @@ Convert Int difference equality to TauInt.equiv.
 
 ### `Tau.Boundary.int_eq_of_equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L124-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L124-L129)
 **theorem
 Tau.Boundary.int_eq_of_equiv
 (a b : TauInt)
@@ -354,7 +354,7 @@ TauInt.equiv implies Int difference equality.
 
 ### `Tau.Boundary.equiv_iff_toInt_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L131-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L131-L136)
 **theorem
 Tau.Boundary.equiv_iff_toInt_eq
 (a b : TauInt)
@@ -367,7 +367,7 @@ Equiv iff same Int value.
 
 ### `Tau.Boundary.toInt_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L138-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L138-L141)
 **theorem
 Tau.Boundary.toInt_add
 (a b : TauInt)
@@ -380,7 +380,7 @@ toInt of add.
 
 ### `Tau.Boundary.toInt_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L143-L146)
 **theorem
 Tau.Boundary.toInt_mul
 (a b : TauInt)
@@ -393,7 +393,7 @@ toInt of mul.
 
 ### `Tau.Boundary.toInt_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L148-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L148-L151)
 **theorem
 Tau.Boundary.toInt_negate
 (a : TauInt)
@@ -406,7 +406,7 @@ toInt of negate.
 
 ### `Tau.Boundary.toInt_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L153-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L153-L155)
 **theorem
 Tau.Boundary.toInt_zero :TauInt.zero.toInt = 0**
 
@@ -417,7 +417,7 @@ toInt of zero.
 
 ### `Tau.Boundary.toInt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L157-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L157-L159)
 **theorem
 Tau.Boundary.toInt_one :TauInt.one.toInt = 1**
 
@@ -428,7 +428,7 @@ toInt of one.
 
 ### `Tau.Boundary.toInt_fromNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L161-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L161-L164)
 **theorem
 Tau.Boundary.toInt_fromNat
 (n : Denotation.TauIdx)
@@ -441,7 +441,7 @@ toInt of fromNat.
 
 ### `Tau.Boundary.tauint_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L170-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L170-L173)
 **theorem
 Tau.Boundary.tauint_add_comm
 (a b : TauInt)
@@ -454,7 +454,7 @@ Addition is commutative up to equiv.
 
 ### `Tau.Boundary.tauint_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L175-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L175-L178)
 **theorem
 Tau.Boundary.tauint_add_assoc
 (a b c : TauInt)
@@ -467,7 +467,7 @@ Addition is associative up to equiv.
 
 ### `Tau.Boundary.tauint_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L180-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L180-L183)
 **theorem
 Tau.Boundary.tauint_add_zero
 (a : TauInt)
@@ -480,7 +480,7 @@ Zero is a right identity for addition (up to equiv).
 
 ### `Tau.Boundary.tauint_zero_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L185-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L185-L188)
 **theorem
 Tau.Boundary.tauint_zero_add
 (a : TauInt)
@@ -493,7 +493,7 @@ Zero is a left identity for addition (up to equiv).
 
 ### `Tau.Boundary.tauint_add_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L190-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L190-L193)
 **theorem
 Tau.Boundary.tauint_add_negate
 (a : TauInt)
@@ -506,7 +506,7 @@ Negation is a right inverse for addition (up to equiv).
 
 ### `Tau.Boundary.tauint_negate_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L195-L198)
 **theorem
 Tau.Boundary.tauint_negate_add
 (a : TauInt)
@@ -519,7 +519,7 @@ Negation is a left inverse for addition (up to equiv).
 
 ### `Tau.Boundary.tauint_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L200-L203)
 **theorem
 Tau.Boundary.tauint_mul_comm
 (a b : TauInt)
@@ -532,7 +532,7 @@ Multiplication is commutative up to equiv.
 
 ### `Tau.Boundary.tauint_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L205-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L205-L208)
 **theorem
 Tau.Boundary.tauint_mul_assoc
 (a b c : TauInt)
@@ -545,7 +545,7 @@ Multiplication is associative up to equiv.
 
 ### `Tau.Boundary.tauint_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L210-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L210-L213)
 **theorem
 Tau.Boundary.tauint_mul_one
 (a : TauInt)
@@ -558,7 +558,7 @@ One is a right identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.tauint_one_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L215-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L215-L218)
 **theorem
 Tau.Boundary.tauint_one_mul
 (a : TauInt)
@@ -571,7 +571,7 @@ One is a left identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.tauint_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L220-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L220-L223)
 **theorem
 Tau.Boundary.tauint_distrib
 (a b c : TauInt)
@@ -584,7 +584,7 @@ Left distributivity: a * (b + c) = a * b + a * c (up to equiv).
 
 ### `Tau.Boundary.tauint_distrib_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L225-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L225-L228)
 **theorem
 Tau.Boundary.tauint_distrib_right
 (a b c : TauInt)
@@ -597,7 +597,7 @@ Right distributivity: (a + b) * c = a * c + b * c (up to equiv).
 
 ### `Tau.Boundary.tauint_mul_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L230-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L230-L233)
 **theorem
 Tau.Boundary.tauint_mul_zero
 (a : TauInt)
@@ -610,7 +610,7 @@ Multiplication by zero gives zero (up to equiv).
 
 ### `Tau.Boundary.nat_to_tauint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L239-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L239-L240)
 **def
 Tau.Boundary.nat_to_tauint
 (n : Denotation.TauIdx)
@@ -626,7 +626,7 @@ Instances For
 
 ### `Tau.Boundary.nat_to_tauint_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L242-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L242-L246)
 **theorem
 Tau.Boundary.nat_to_tauint_injective
 {a b : Denotation.TauIdx}
@@ -641,7 +641,7 @@ The embedding is injective.
 
 ### `Tau.Boundary.toInt_nat_to_tauint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L248-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L248-L251)
 **theorem
 Tau.Boundary.toInt_nat_to_tauint
 (n : Denotation.TauIdx)
@@ -654,7 +654,7 @@ toInt of nat_to_tauint.
 
 ### `Tau.Boundary.nat_to_tauint_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L253-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L253-L258)
 **theorem
 Tau.Boundary.nat_to_tauint_add
 (a b : Denotation.TauIdx)
@@ -667,7 +667,7 @@ The embedding preserves addition (up to equiv).
 
 ### `Tau.Boundary.nat_to_tauint_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L260-L265)
 **theorem
 Tau.Boundary.nat_to_tauint_mul
 (a b : Denotation.TauIdx)
@@ -680,7 +680,7 @@ The embedding preserves multiplication (up to equiv).
 
 ### `Tau.Boundary.TauRat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L271-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L271-L277)
 **structure
 Tau.Boundary.TauRat :Type**
 
@@ -697,7 +697,7 @@ Instances For
 
 ### `Tau.Boundary.instReprTauRat.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L277-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L277-L277)
 **def
 Tau.Boundary.instReprTauRat.repr :TauRat → ℕ → Std.Format**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.Boundary.instReprTauRat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L277-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L277-L277)
 **instance
 Tau.Boundary.instReprTauRat :Repr TauRat**
 
@@ -720,7 +720,7 @@ Equations
 
 ### `Tau.Boundary.TauRat.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L279-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L279-L281)
 **def
 Tau.Boundary.TauRat.zero :TauRat**
 
@@ -734,7 +734,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L283-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L283-L285)
 **def
 Tau.Boundary.TauRat.one :TauRat**
 
@@ -748,7 +748,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L287-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L287-L291)
 **def
 Tau.Boundary.TauRat.add
 (a b : TauRat)
@@ -765,7 +765,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L293-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L293-L297)
 **def
 Tau.Boundary.TauRat.mul
 (a b : TauRat)
@@ -781,7 +781,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L299-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L299-L301)
 **def
 Tau.Boundary.TauRat.negate
 (a : TauRat)
@@ -797,7 +797,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.sub`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L303-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L303-L305)
 **def
 Tau.Boundary.TauRat.sub
 (a b : TauRat)
@@ -813,7 +813,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L311-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L311-L315)
 **def
 Tau.Boundary.TauRat.equiv
 (a b : TauRat)
@@ -830,7 +830,7 @@ Instances For
 
 ### `Tau.Boundary.TauRat.equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L317-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L317-L320)
 **theorem
 Tau.Boundary.TauRat.equiv_refl
 (a : TauRat)
@@ -843,7 +843,7 @@ TauRat equivalence is reflexive.
 
 ### `Tau.Boundary.TauRat.equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L322-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L322-L326)
 **theorem
 Tau.Boundary.TauRat.equiv_symm
 {a b : TauRat}
@@ -858,7 +858,7 @@ TauRat equivalence is symmetric.
 
 ### `Tau.Boundary.taurat_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L332-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L332-L338)
 **theorem
 Tau.Boundary.taurat_add_comm
 (a b : TauRat)
@@ -871,7 +871,7 @@ Addition is commutative up to equiv.
 
 ### `Tau.Boundary.taurat_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L340-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L340-L346)
 **theorem
 Tau.Boundary.taurat_add_zero
 (a : TauRat)
@@ -884,7 +884,7 @@ Zero is a right identity for addition (up to equiv).
 
 ### `Tau.Boundary.taurat_add_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L348-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L348-L354)
 **theorem
 Tau.Boundary.taurat_add_negate
 (a : TauRat)
@@ -897,7 +897,7 @@ Negation is a right inverse for addition (up to equiv).
 
 ### `Tau.Boundary.taurat_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L356-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L356-L362)
 **theorem
 Tau.Boundary.taurat_mul_comm
 (a b : TauRat)
@@ -910,7 +910,7 @@ Multiplication is commutative up to equiv.
 
 ### `Tau.Boundary.taurat_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L364-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L364-L370)
 **theorem
 Tau.Boundary.taurat_mul_one
 (a : TauRat)
@@ -923,7 +923,7 @@ One is a right identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.int_to_taurat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L376-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L376-L378)
 **def
 Tau.Boundary.int_to_taurat
 (z : TauInt)
@@ -939,7 +939,7 @@ Instances For
 
 ### `Tau.Boundary.int_to_taurat_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L380-L384)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L380-L384)
 **theorem
 Tau.Boundary.int_to_taurat_injective
 {a b : TauInt}
@@ -954,7 +954,7 @@ The embedding is injective (on TauInt structures).
 
 ### `Tau.Boundary.int_to_taurat_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L386-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L386-L393)
 **theorem
 Tau.Boundary.int_to_taurat_add
 (a b : TauInt)
@@ -967,7 +967,7 @@ The embedding preserves addition (up to equiv).
 
 ### `Tau.Boundary.int_to_taurat_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L395-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L395-L400)
 **theorem
 Tau.Boundary.int_to_taurat_mul
 (a b : TauInt)
@@ -980,7 +980,7 @@ The embedding preserves multiplication (up to equiv).
 
 ### `Tau.Boundary.nat_to_taurat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L406-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L406-L408)
 **def
 Tau.Boundary.nat_to_taurat
 (n : Denotation.TauIdx)
@@ -996,7 +996,7 @@ Instances For
 
 ### `Tau.Boundary.nat_to_taurat_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/NumberTower.lean#L410-L413)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/NumberTower.lean#L410-L413)
 **theorem
 Tau.Boundary.nat_to_taurat_injective
 {a b : Denotation.TauIdx}

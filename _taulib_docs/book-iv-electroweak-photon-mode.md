@@ -104,7 +104,7 @@ loop. Electric charge is the integer winding number of this holonomy:
 
 ### `Tau.BookIV.Electroweak.PhotonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L60-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L60-L84)
 **structure
 Tau.BookIV.Electroweak.PhotonMode :Type**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L84-L84)
 **def
 Tau.BookIV.Electroweak.instReprPhotonMode.repr :PhotonMode → ℕ → Std.Format**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L84-L84)
 **instance
 Tau.BookIV.Electroweak.instReprPhotonMode :Repr PhotonMode**
 
@@ -169,7 +169,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.photon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L86-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L86-L101)
 **def
 Tau.BookIV.Electroweak.photon :PhotonMode**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.U1Holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L107-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L107-L118)
 **structure
 Tau.BookIV.Electroweak.U1Holonomy :Type**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprU1Holonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L118-L118)
 **def
 Tau.BookIV.Electroweak.instReprU1Holonomy.repr :U1Holonomy → ℕ → Std.Format**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprU1Holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L118-L118)
 **instance
 Tau.BookIV.Electroweak.instReprU1Holonomy :Repr U1Holonomy**
 
@@ -231,7 +231,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.U1Holonomy.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L120-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L120-L124)
 **def
 Tau.BookIV.Electroweak.U1Holonomy.compose
 (h₁ h₂ : U1Holonomy)
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.U1Holonomy.trivial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L126-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L126-L130)
 **def
 Tau.BookIV.Electroweak.U1Holonomy.trivial :U1Holonomy**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.U1Holonomy.inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L132-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L132-L136)
 **def
 Tau.BookIV.Electroweak.U1Holonomy.inv
 (h : U1Holonomy)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ElectricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L142-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L142-L148)
 **structure
 Tau.BookIV.Electroweak.ElectricCharge :Type**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprElectricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **instance
 Tau.BookIV.Electroweak.instReprElectricCharge :Repr ElectricCharge**
 
@@ -306,7 +306,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprElectricCharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **def
 Tau.BookIV.Electroweak.instReprElectricCharge.repr :ElectricCharge → ℕ → Std.Format**
 
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instDecidableEqElectricCharge.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **def
 Tau.BookIV.Electroweak.instDecidableEqElectricCharge.decEq
 (x✝ x✝¹ : ElectricCharge)
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instDecidableEqElectricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **instance
 Tau.BookIV.Electroweak.instDecidableEqElectricCharge :DecidableEq ElectricCharge**
 
@@ -343,7 +343,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqElectricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **instance
 Tau.BookIV.Electroweak.instBEqElectricCharge :BEq ElectricCharge**
 
@@ -354,7 +354,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqElectricCharge.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L148-L148)
 **def
 Tau.BookIV.Electroweak.instBEqElectricCharge.beq :ElectricCharge → ElectricCharge → Bool**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charge_electron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L150-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L150-L151)
 **def
 Tau.BookIV.Electroweak.charge_electron :ElectricCharge**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charge_proton`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L152-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L152-L153)
 **def
 Tau.BookIV.Electroweak.charge_proton :ElectricCharge**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charge_neutron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L154-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L154-L155)
 **def
 Tau.BookIV.Electroweak.charge_neutron :ElectricCharge**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charge_photon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L156-L157)
 **def
 Tau.BookIV.Electroweak.charge_photon :ElectricCharge**
 
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ElectricCharge.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L159-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L159-L161)
 **def
 Tau.BookIV.Electroweak.ElectricCharge.add
 (q₁ q₂ : ElectricCharge)
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.photon_mass_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L167-L169)
 **theorem
 Tau.BookIV.Electroweak.photon_mass_zero :photon.mass_numer = 0**
 
@@ -451,7 +451,7 @@ Tau.BookIV.Electroweak.photon_mass_zero :photon.mass_numer = 0**
 
 ### `Tau.BookIV.Electroweak.PhotonSpeed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L175-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L175-L182)
 **structure
 Tau.BookIV.Electroweak.PhotonSpeed :Type**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonSpeed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L182-L182)
 **instance
 Tau.BookIV.Electroweak.instReprPhotonSpeed :Repr PhotonSpeed**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprPhotonSpeed.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L182-L182)
 **def
 Tau.BookIV.Electroweak.instReprPhotonSpeed.repr :PhotonSpeed → ℕ → Std.Format**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.photon_speed_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L184-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L184-L186)
 **theorem
 Tau.BookIV.Electroweak.photon_speed_c
 (p : PhotonSpeed)
@@ -507,7 +507,7 @@ Tau.BookIV.Electroweak.photon_speed_c
 
 ### `Tau.BookIV.Electroweak.HolonomyTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L192-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L192-L202)
 **structure
 Tau.BookIV.Electroweak.HolonomyTransport :Type**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L202-L202)
 **instance
 Tau.BookIV.Electroweak.instReprHolonomyTransport :Repr HolonomyTransport**
 
@@ -542,7 +542,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyTransport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L202-L202)
 **def
 Tau.BookIV.Electroweak.instReprHolonomyTransport.repr :HolonomyTransport → ℕ → Std.Format**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.holonomy_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L204-L206)
 **theorem
 Tau.BookIV.Electroweak.holonomy_transport
 (ht : HolonomyTransport)
@@ -569,7 +569,7 @@ Tau.BookIV.Electroweak.holonomy_transport
 
 ### `Tau.BookIV.Electroweak.charge_conservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L212-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L212-L215)
 **theorem
 Tau.BookIV.Electroweak.charge_conservation
 (q₁ q₂ : ElectricCharge)
@@ -583,7 +583,7 @@ are additive under composition of holonomy loops.
 
 ### `Tau.BookIV.Electroweak.charge_quantized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L221-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L221-L224)
 **theorem
 Tau.BookIV.Electroweak.charge_quantized
 (q : ElectricCharge)
@@ -597,7 +597,7 @@ From compactness of T²: holonomy exp(i·2π·n) requires n ∈ ℤ.
 
 ### `Tau.BookIV.Electroweak.NoRestFrame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L230-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L230-L235)
 **structure
 Tau.BookIV.Electroweak.NoRestFrame :Type**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNoRestFrame.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L235-L235)
 **def
 Tau.BookIV.Electroweak.instReprNoRestFrame.repr :NoRestFrame → ℕ → Std.Format**
 
@@ -625,7 +625,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNoRestFrame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L235-L235)
 **instance
 Tau.BookIV.Electroweak.instReprNoRestFrame :Repr NoRestFrame**
 
@@ -636,7 +636,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.no_rest_frame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L237-L238)
 **theorem
 Tau.BookIV.Electroweak.no_rest_frame
 (nrf : NoRestFrame)
@@ -649,7 +649,7 @@ Tau.BookIV.Electroweak.no_rest_frame
 
 ### `Tau.BookIV.Electroweak.photon_spin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L244-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L244-L247)
 **theorem
 Tau.BookIV.Electroweak.photon_spin :photon.spin = 1 ∧ photon.polarizations = 2**
 
@@ -661,7 +661,7 @@ states (not 2s+1=3) due to masslessness removing longitudinal.
 
 ### `Tau.BookIV.Electroweak.particle_charges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L253-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L253-L258)
 **theorem
 Tau.BookIV.Electroweak.particle_charges :charge_electron.charge_units = -1 ∧ charge_proton.charge_units = 1 ∧ charge_neutron.charge_units = 0**
 
@@ -672,7 +672,7 @@ Tau.BookIV.Electroweak.particle_charges :charge_electron.charge_units = -1 ∧ c
 
 ### `Tau.BookIV.Electroweak.PhotonBoundaryChar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L264-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L264-L270)
 **structure
 Tau.BookIV.Electroweak.PhotonBoundaryChar :Type**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonBoundaryChar.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L270-L270)
 **def
 Tau.BookIV.Electroweak.instReprPhotonBoundaryChar.repr :PhotonBoundaryChar → ℕ → Std.Format**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonBoundaryChar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L270-L270)
 **instance
 Tau.BookIV.Electroweak.instReprPhotonBoundaryChar :Repr PhotonBoundaryChar**
 
@@ -712,7 +712,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.photon_boundary_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L272-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L272-L273)
 **theorem
 Tau.BookIV.Electroweak.photon_boundary_character :photon.m_index = 0 ∧ photon.n_index = 0**
 
@@ -721,7 +721,7 @@ Tau.BookIV.Electroweak.photon_boundary_character :photon.m_index = 0 ∧ photon.
 
 ### `Tau.BookIV.Electroweak.EmissionAmplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L279-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L279-L286)
 **structure
 Tau.BookIV.Electroweak.EmissionAmplitude :Type**
 
@@ -740,7 +740,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEmissionAmplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L286-L286)
 **instance
 Tau.BookIV.Electroweak.instReprEmissionAmplitude :Repr EmissionAmplitude**
 
@@ -751,7 +751,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEmissionAmplitude.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L286-L286)
 **def
 Tau.BookIV.Electroweak.instReprEmissionAmplitude.repr :EmissionAmplitude → ℕ → Std.Format**
 
@@ -763,7 +763,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EmissionAmplitude.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L288-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L288-L289)
 **def
 Tau.BookIV.Electroweak.EmissionAmplitude.toFloat
 (e : EmissionAmplitude)
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.emission_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L291-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L291-L295)
 **def
 Tau.BookIV.Electroweak.emission_alpha :EmissionAmplitude**
 
@@ -791,7 +791,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.emission_amplitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L297-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L297-L299)
 **theorem
 Tau.BookIV.Electroweak.emission_amplitude :emission_alpha.amplitude_sq_numer = Sectors.alpha_spectral_numer**
 
@@ -800,7 +800,7 @@ Tau.BookIV.Electroweak.emission_amplitude :emission_alpha.amplitude_sq_numer = S
 
 ### `Tau.BookIV.Electroweak.example_u1_hol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/PhotonMode.lean#L328-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/PhotonMode.lean#L328-L328)
 **def
 Tau.BookIV.Electroweak.example_u1_hol :U1Holonomy**
 

@@ -77,7 +77,7 @@ is precisely the Central Theorem.
 
 ### `Tau.BookII.Closure.GeometricBiSquareData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L52-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L52-L82)
 **structure
 Tau.BookII.Closure.GeometricBiSquareData :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprGeometricBiSquareData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
 **def
 Tau.BookII.Closure.instReprGeometricBiSquareData.repr :GeometricBiSquareData → ℕ → Std.Format**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprGeometricBiSquareData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
 **instance
 Tau.BookII.Closure.instReprGeometricBiSquareData :Repr GeometricBiSquareData**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookII.Closure.instDecidableEqGeometricBiSquareData.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
 **def
 Tau.BookII.Closure.instDecidableEqGeometricBiSquareData.decEq
 (x✝ x✝¹ : GeometricBiSquareData)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqGeometricBiSquareData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L82-L82)
 **instance
 Tau.BookII.Closure.instDecidableEqGeometricBiSquareData :DecidableEq GeometricBiSquareData**
 
@@ -183,7 +183,7 @@ Equations
 
 ### `Tau.BookII.Closure.compute_geometric_bisquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L88-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L88-L101)
 **def
 Tau.BookII.Closure.compute_geometric_bisquare
 (db bound : Denotation.TauIdx)
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geometric_bisquare_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L103-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L103-L112)
 **def
 Tau.BookII.Closure.geometric_bisquare_complete
 (gbs : GeometricBiSquareData)
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geometric_bisquare_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L118-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L118-L121)
 **def
 Tau.BookII.Closure.geometric_bisquare_check
 (db bound : Denotation.TauIdx)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geometric_component_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L123-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L123-L132)
 **def
 Tau.BookII.Closure.geometric_component_count
 (gbs : GeometricBiSquareData)
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookII.Closure.algebraic_geometric_audit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L138-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L138-L144)
 **def
 Tau.BookII.Closure.algebraic_geometric_audit
 (db bound k_max : Denotation.TauIdx)
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookII.Closure.algebraic_core`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L150-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L150-L154)
 **def
 Tau.BookII.Closure.algebraic_core :Holomorphy.BookICrownJewel**
 
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookII.Closure.compatibility_with_algebraic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L156-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L156-L162)
 **theorem
 Tau.BookII.Closure.compatibility_with_algebraic
 (f : Holomorphy.StageFun)
@@ -300,7 +300,7 @@ preserved. Forgetting geometry recovers I.T41.
 
 ### `Tau.BookII.Closure.geometric_preserves_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L164-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L164-L169)
 **theorem
 Tau.BookII.Closure.geometric_preserves_limit
 (f₁ f₂ : Holomorphy.StageFun)
@@ -323,7 +323,7 @@ Compatibility: the limit principle survives geometrization.
 
 ### `Tau.BookII.Closure.geometric_preserves_right_auto`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L171-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L171-L177)
 **theorem
 Tau.BookII.Closure.geometric_preserves_right_auto
 (f : Holomorphy.StageFun)
@@ -343,7 +343,7 @@ Compatibility: right-square automaticity survives geometrization.
 
 ### `Tau.BookII.Closure.ScalingLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L183-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L183-L191)
 **inductive
 Tau.BookII.Closure.ScalingLevel :Type**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprScalingLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
 **instance
 Tau.BookII.Closure.instReprScalingLevel :Repr ScalingLevel**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookII.Closure.instReprScalingLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
 **def
 Tau.BookII.Closure.instReprScalingLevel.repr :ScalingLevel → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqScalingLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L191-L191)
 **instance
 Tau.BookII.Closure.instDecidableEqScalingLevel :DecidableEq ScalingLevel**
 
@@ -401,7 +401,7 @@ Equations
 
 ### `Tau.BookII.Closure.scaling_level_index`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L193-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L193-L198)
 **def
 Tau.BookII.Closure.scaling_level_index :ScalingLevel → ℕ**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookII.Closure.scaling_chain_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L200-L203)
 **def
 Tau.BookII.Closure.scaling_chain_check :Bool**
 
@@ -432,7 +432,7 @@ Instances For
 
 ### `Tau.BookII.Closure.book2_scaling_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L205-L206)
 **def
 Tau.BookII.Closure.book2_scaling_level :ScalingLevel**
 
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookII.Closure.e2_not_yet_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L208-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L208-L211)
 **def
 Tau.BookII.Closure.e2_not_yet_earned :Bool**
 
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geometric_bisquare_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L254-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L254-L255)
 **theorem
 Tau.BookII.Closure.geometric_bisquare_3_15 :geometric_bisquare_check 3 15 = true**
 
@@ -470,7 +470,7 @@ Tau.BookII.Closure.geometric_bisquare_3_15 :geometric_bisquare_check 3 15 = true
 
 ### `Tau.BookII.Closure.geometric_all_eight`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L258-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L258-L259)
 **theorem
 Tau.BookII.Closure.geometric_all_eight :geometric_component_count (compute_geometric_bisquare 3 15) = 8**
 
@@ -479,7 +479,7 @@ Tau.BookII.Closure.geometric_all_eight :geometric_component_count (compute_geome
 
 ### `Tau.BookII.Closure.geo_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L262-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L262-L263)
 **theorem
 Tau.BookII.Closure.geo_topology :(compute_geometric_bisquare 3 15).topology_earned = true**
 
@@ -488,7 +488,7 @@ Tau.BookII.Closure.geo_topology :(compute_geometric_bisquare 3 15).topology_earn
 
 ### `Tau.BookII.Closure.geo_continuity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L265-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L265-L266)
 **theorem
 Tau.BookII.Closure.geo_continuity :(compute_geometric_bisquare 3 15).continuity_earned = true**
 
@@ -497,7 +497,7 @@ Tau.BookII.Closure.geo_continuity :(compute_geometric_bisquare 3 15).continuity_
 
 ### `Tau.BookII.Closure.geo_geometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L268-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L268-L269)
 **theorem
 Tau.BookII.Closure.geo_geometry :(compute_geometric_bisquare 3 15).geometry_earned = true**
 
@@ -506,7 +506,7 @@ Tau.BookII.Closure.geo_geometry :(compute_geometric_bisquare 3 15).geometry_earn
 
 ### `Tau.BookII.Closure.geo_torus_degeneration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L271-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L271-L272)
 **theorem
 Tau.BookII.Closure.geo_torus_degeneration :(compute_geometric_bisquare 3 15).torus_degeneration_earned = true**
 
@@ -515,7 +515,7 @@ Tau.BookII.Closure.geo_torus_degeneration :(compute_geometric_bisquare 3 15).tor
 
 ### `Tau.BookII.Closure.geo_calibration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L274-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L274-L275)
 **theorem
 Tau.BookII.Closure.geo_calibration :(compute_geometric_bisquare 3 15).calibration_earned = true**
 
@@ -524,7 +524,7 @@ Tau.BookII.Closure.geo_calibration :(compute_geometric_bisquare 3 15).calibratio
 
 ### `Tau.BookII.Closure.geo_spectral_algebra`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L277-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L277-L278)
 **theorem
 Tau.BookII.Closure.geo_spectral_algebra :(compute_geometric_bisquare 3 15).spectral_algebra_earned = true**
 
@@ -533,7 +533,7 @@ Tau.BookII.Closure.geo_spectral_algebra :(compute_geometric_bisquare 3 15).spect
 
 ### `Tau.BookII.Closure.geo_central_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L280-L281)
 **theorem
 Tau.BookII.Closure.geo_central_theorem :(compute_geometric_bisquare 3 15).central_theorem_earned = true**
 
@@ -542,7 +542,7 @@ Tau.BookII.Closure.geo_central_theorem :(compute_geometric_bisquare 3 15).centra
 
 ### `Tau.BookII.Closure.geo_hartogs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L283-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L283-L284)
 **theorem
 Tau.BookII.Closure.geo_hartogs :(compute_geometric_bisquare 3 15).hartogs_earned = true**
 
@@ -551,7 +551,7 @@ Tau.BookII.Closure.geo_hartogs :(compute_geometric_bisquare 3 15).hartogs_earned
 
 ### `Tau.BookII.Closure.audit_3_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L287-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L287-L288)
 **theorem
 Tau.BookII.Closure.audit_3_15_3 :algebraic_geometric_audit 3 15 3 = true**
 
@@ -560,7 +560,7 @@ Tau.BookII.Closure.audit_3_15_3 :algebraic_geometric_audit 3 15 3 = true**
 
 ### `Tau.BookII.Closure.scaling_chain_valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L291-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L291-L292)
 **theorem
 Tau.BookII.Closure.scaling_chain_valid :scaling_chain_check = true**
 
@@ -569,7 +569,7 @@ Tau.BookII.Closure.scaling_chain_valid :scaling_chain_check = true**
 
 ### `Tau.BookII.Closure.e2_not_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L294-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L294-L295)
 **theorem
 Tau.BookII.Closure.e2_not_earned :e2_not_yet_earned = true**
 
@@ -578,7 +578,7 @@ Tau.BookII.Closure.e2_not_earned :e2_not_yet_earned = true**
 
 ### `Tau.BookII.Closure.complete_means_eight`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L301-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L301-L318)
 **theorem
 Tau.BookII.Closure.complete_means_eight
 (gbs : GeometricBiSquareData)
@@ -592,7 +592,7 @@ This is the structural statement that completeness implies count = 8.
 
 ### `Tau.BookII.Closure.geometric_implies_central`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L320-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L320-L329)
 **theorem
 Tau.BookII.Closure.geometric_implies_central
 (db bound : Denotation.TauIdx)
@@ -606,7 +606,7 @@ If the full check passes, the central_theorem_earned field is true.
 
 ### `Tau.BookII.Closure.e0_ne_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L331-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L331-L333)
 **theorem
 Tau.BookII.Closure.e0_ne_e1 :ScalingLevel.E0_algebraic ≠ ScalingLevel.E1_geometric**
 
@@ -617,7 +617,7 @@ Tau.BookII.Closure.e0_ne_e1 :ScalingLevel.E0_algebraic ≠ ScalingLevel.E1_geome
 
 ### `Tau.BookII.Closure.e1_ne_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/GeometricBiSquare.lean#L335-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/GeometricBiSquare.lean#L335-L337)
 **theorem
 Tau.BookII.Closure.e1_ne_e2 :ScalingLevel.E1_geometric ≠ ScalingLevel.E2_enriched**
 

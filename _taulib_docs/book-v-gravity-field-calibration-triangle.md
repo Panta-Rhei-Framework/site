@@ -110,7 +110,7 @@ precision.
 
 ### `Tau.BookV.GravityField.CalibrationConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L67-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L67-L83)
 **structure
 Tau.BookV.GravityField.CalibrationConstant :Type**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCalibrationConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L83-L83)
 **instance
 Tau.BookV.GravityField.instReprCalibrationConstant :Repr CalibrationConstant**
 
@@ -153,7 +153,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprCalibrationConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L83-L83)
 **def
 Tau.BookV.GravityField.instReprCalibrationConstant.repr :CalibrationConstant → ℕ → Std.Format**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CalibrationConstant.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L85-L87)
 **def
 Tau.BookV.GravityField.CalibrationConstant.toFloat
 (c : CalibrationConstant)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CalibrationVertex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L93-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L93-L101)
 **inductive
 Tau.BookV.GravityField.CalibrationVertex :Type**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCalibrationVertex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
 **def
 Tau.BookV.GravityField.instReprCalibrationVertex.repr :CalibrationVertex → ℕ → Std.Format**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCalibrationVertex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
 **instance
 Tau.BookV.GravityField.instReprCalibrationVertex :Repr CalibrationVertex**
 
@@ -226,7 +226,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instDecidableEqCalibrationVertex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
 **instance
 Tau.BookV.GravityField.instDecidableEqCalibrationVertex :DecidableEq CalibrationVertex**
 
@@ -237,7 +237,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqCalibrationVertex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
 **instance
 Tau.BookV.GravityField.instBEqCalibrationVertex :BEq CalibrationVertex**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqCalibrationVertex.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L101-L101)
 **def
 Tau.BookV.GravityField.instBEqCalibrationVertex.beq :CalibrationVertex → CalibrationVertex → Bool**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CalibrationTriangle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L103-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L103-L125)
 **structure
 Tau.BookV.GravityField.CalibrationTriangle :Type**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCalibrationTriangle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L125-L125)
 **instance
 Tau.BookV.GravityField.instReprCalibrationTriangle :Repr CalibrationTriangle**
 
@@ -314,7 +314,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprCalibrationTriangle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L125-L125)
 **def
 Tau.BookV.GravityField.instReprCalibrationTriangle.repr :CalibrationTriangle → ℕ → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.calibration_triangle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L127-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L127-L134)
 **def
 Tau.BookV.GravityField.calibration_triangle :CalibrationTriangle**
 
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.BoundaryHomomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L140-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L140-L157)
 **structure
 Tau.BookV.GravityField.BoundaryHomomorphism :Type**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprBoundaryHomomorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L157-L157)
 **instance
 Tau.BookV.GravityField.instReprBoundaryHomomorphism :Repr BoundaryHomomorphism**
 
@@ -385,7 +385,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprBoundaryHomomorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L157-L157)
 **def
 Tau.BookV.GravityField.instReprBoundaryHomomorphism.repr :BoundaryHomomorphism → ℕ → Std.Format**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.edge_ratios_from_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L163-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L163-L172)
 **theorem
 Tau.BookV.GravityField.edge_ratios_from_iota :"R = f(iota_tau), G = g(iota_tau), alpha = h(iota_tau)" = "R = f(iota_tau), G = g(iota_tau), alpha = h(iota_tau)"**
 
@@ -418,7 +418,7 @@ All edge ratios are functions of iota_tau alone.
 
 ### `Tau.BookV.GravityField.dimensional_bridge_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L174-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L174-L181)
 **theorem
 Tau.BookV.GravityField.dimensional_bridge_complete :calibration_triangle.experimental_inputs + calibration_triangle.derived_count = calibration_triangle.vertex_count**
 
@@ -432,7 +432,7 @@ Structural: the triangle has 1 input + 2 derived = 3 vertices.
 
 ### `Tau.BookV.GravityField.xi_refinement_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L183-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L183-L186)
 **theorem
 Tau.BookV.GravityField.xi_refinement_stable
 (c : CalibrationConstant)
@@ -447,7 +447,7 @@ Tau.BookV.GravityField.xi_refinement_stable
 
 ### `Tau.BookV.GravityField.a_sector_preserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L188-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L188-L192)
 **theorem
 Tau.BookV.GravityField.a_sector_preserved
 (bh : BoundaryHomomorphism)
@@ -463,7 +463,7 @@ homomorphism (the weak sector coupling maps correctly).
 
 ### `Tau.BookV.GravityField.three_distinct_vertices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L194-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L194-L199)
 **theorem
 Tau.BookV.GravityField.three_distinct_vertices :CalibrationVertex.NeutronMass ≠ CalibrationVertex.GravConstant ∧ CalibrationVertex.GravConstant ≠ CalibrationVertex.FineStructure ∧ CalibrationVertex.NeutronMass ≠ CalibrationVertex.FineStructure**
 
@@ -474,7 +474,7 @@ Three distinct vertices.
 
 ### `Tau.BookV.GravityField.triangle_vertex_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L201-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L201-L204)
 **theorem
 Tau.BookV.GravityField.triangle_vertex_count :calibration_triangle.vertex_count = 3**
 
@@ -485,7 +485,7 @@ Calibration triangle has exactly 3 vertices.
 
 ### `Tau.BookV.GravityField.example_xi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/CalibrationTriangle.lean#L228-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/CalibrationTriangle.lean#L228-L232)
 **def
 Tau.BookV.GravityField.example_xi :CalibrationConstant**
 

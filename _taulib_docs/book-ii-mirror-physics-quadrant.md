@@ -83,7 +83,7 @@ Euclidean (II.T45), and the hyperbolic structure emerges only in the limit.
 
 ### `Tau.BookII.Mirror.PDEAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L52-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L52-L56)
 **inductive
 Tau.BookII.Mirror.PDEAxis :Type**
 
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqPDEAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
 **instance
 Tau.BookII.Mirror.instDecidableEqPDEAxis :DecidableEq PDEAxis**
 
@@ -109,7 +109,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprPDEAxis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
 **def
 Tau.BookII.Mirror.instReprPDEAxis.repr :PDEAxis → ℕ → Std.Format**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprPDEAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L56-L56)
 **instance
 Tau.BookII.Mirror.instReprPDEAxis :Repr PDEAxis**
 
@@ -132,7 +132,7 @@ Equations
 
 ### `Tau.BookII.Mirror.MetricAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L58-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L58-L62)
 **inductive
 Tau.BookII.Mirror.MetricAxis :Type**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqMetricAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
 **instance
 Tau.BookII.Mirror.instDecidableEqMetricAxis :DecidableEq MetricAxis**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprMetricAxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
 **instance
 Tau.BookII.Mirror.instReprMetricAxis :Repr MetricAxis**
 
@@ -169,7 +169,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprMetricAxis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L62-L62)
 **def
 Tau.BookII.Mirror.instReprMetricAxis.repr :MetricAxis → ℕ → Std.Format**
 
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.PhysicsQuadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L66-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L66-L71)
 **structure
 Tau.BookII.Mirror.PhysicsQuadrant :Type**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprPhysicsQuadrant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L71-L71)
 **def
 Tau.BookII.Mirror.instReprPhysicsQuadrant.repr :PhysicsQuadrant → ℕ → Std.Format**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprPhysicsQuadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L71-L71)
 **instance
 Tau.BookII.Mirror.instReprPhysicsQuadrant :Repr PhysicsQuadrant**
 
@@ -220,7 +220,7 @@ Equations
 
 ### `Tau.BookII.Mirror.qft_quadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L73-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L73-L77)
 **def
 Tau.BookII.Mirror.qft_quadrant :PhysicsQuadrant**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.gr_local_quadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L79-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L79-L83)
 **def
 Tau.BookII.Mirror.gr_local_quadrant :PhysicsQuadrant**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.padic_quadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L85-L89)
 **def
 Tau.BookII.Mirror.padic_quadrant :PhysicsQuadrant**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_quadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L91-L95)
 **def
 Tau.BookII.Mirror.tau_quadrant :PhysicsQuadrant**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_quadrants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L97-L99)
 **def
 Tau.BookII.Mirror.all_quadrants :List PhysicsQuadrant**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.quadrant_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L101-L102)
 **theorem
 Tau.BookII.Mirror.quadrant_count :all_quadrants.length = 4**
 
@@ -301,7 +301,7 @@ There are exactly 4 quadrants.
 
 ### `Tau.BookII.Mirror.same_archimedean_column`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L108-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L108-L110)
 **def
 Tau.BookII.Mirror.same_archimedean_column
 (q1 q2 : PhysicsQuadrant)
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.compatible_pde`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L112-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L112-L114)
 **def
 Tau.BookII.Mirror.compatible_pde
 (q1 q2 : PhysicsQuadrant)
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.unification_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L116-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L116-L120)
 **def
 Tau.BookII.Mirror.unification_obstructed
 (q1 q2 : PhysicsQuadrant)
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.qft_gr_same_column`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L122-L124)
 **theorem
 Tau.BookII.Mirror.qft_gr_same_column :same_archimedean_column qft_quadrant gr_local_quadrant = true**
 
@@ -362,7 +362,7 @@ Tau.BookII.Mirror.qft_gr_same_column :same_archimedean_column qft_quadrant gr_lo
 
 ### `Tau.BookII.Mirror.qft_gr_incompatible_pde`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L126-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L126-L128)
 **theorem
 Tau.BookII.Mirror.qft_gr_incompatible_pde :compatible_pde qft_quadrant gr_local_quadrant = false**
 
@@ -373,7 +373,7 @@ Tau.BookII.Mirror.qft_gr_incompatible_pde :compatible_pde qft_quadrant gr_local_
 
 ### `Tau.BookII.Mirror.qft_gr_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L130-L132)
 **theorem
 Tau.BookII.Mirror.qft_gr_obstructed :unification_obstructed qft_quadrant gr_local_quadrant = true**
 
@@ -384,7 +384,7 @@ Tau.BookII.Mirror.qft_gr_obstructed :unification_obstructed qft_quadrant gr_loca
 
 ### `Tau.BookII.Mirror.tau_is_non_archimedean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L138-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L138-L140)
 **theorem
 Tau.BookII.Mirror.tau_is_non_archimedean :tau_quadrant.metric = MetricAxis.NonArchimedean**
 
@@ -395,7 +395,7 @@ Tau.BookII.Mirror.tau_is_non_archimedean :tau_quadrant.metric = MetricAxis.NonAr
 
 ### `Tau.BookII.Mirror.tau_is_hyperbolic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L142-L144)
 **theorem
 Tau.BookII.Mirror.tau_is_hyperbolic :tau_quadrant.pde = PDEAxis.Hyperbolic**
 
@@ -406,7 +406,7 @@ Tau.BookII.Mirror.tau_is_hyperbolic :tau_quadrant.pde = PDEAxis.Hyperbolic**
 
 ### `Tau.BookII.Mirror.tau_not_archimedean_with_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L146-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L146-L148)
 **theorem
 Tau.BookII.Mirror.tau_not_archimedean_with_qft :same_archimedean_column tau_quadrant qft_quadrant = false**
 
@@ -417,7 +417,7 @@ Tau.BookII.Mirror.tau_not_archimedean_with_qft :same_archimedean_column tau_quad
 
 ### `Tau.BookII.Mirror.tau_not_archimedean_with_gr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L150-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L150-L152)
 **theorem
 Tau.BookII.Mirror.tau_not_archimedean_with_gr :same_archimedean_column tau_quadrant gr_local_quadrant = false**
 
@@ -428,7 +428,7 @@ Tau.BookII.Mirror.tau_not_archimedean_with_gr :same_archimedean_column tau_quadr
 
 ### `Tau.BookII.Mirror.tau_qft_not_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L154-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L154-L156)
 **theorem
 Tau.BookII.Mirror.tau_qft_not_obstructed :unification_obstructed tau_quadrant qft_quadrant = false**
 
@@ -439,7 +439,7 @@ Tau.BookII.Mirror.tau_qft_not_obstructed :unification_obstructed tau_quadrant qf
 
 ### `Tau.BookII.Mirror.tau_gr_not_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L158-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L158-L160)
 **theorem
 Tau.BookII.Mirror.tau_gr_not_obstructed :unification_obstructed tau_quadrant gr_local_quadrant = false**
 
@@ -450,7 +450,7 @@ Tau.BookII.Mirror.tau_gr_not_obstructed :unification_obstructed tau_quadrant gr_
 
 ### `Tau.BookII.Mirror.tau_escapes_obstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L162-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L162-L168)
 **theorem
 Tau.BookII.Mirror.tau_escapes_obstruction :tau_quadrant.metric = MetricAxis.NonArchimedean ∧ unification_obstructed tau_quadrant qft_quadrant = false ∧ unification_obstructed tau_quadrant gr_local_quadrant = false**
 
@@ -462,7 +462,7 @@ it is in the non-Archimedean column.
 
 ### `Tau.BookII.Mirror.tau_distinct_from_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L170-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L170-L173)
 **theorem
 Tau.BookII.Mirror.tau_distinct_from_qft :tau_quadrant.pde ≠ qft_quadrant.pde**
 
@@ -473,7 +473,7 @@ Tau.BookII.Mirror.tau_distinct_from_qft :tau_quadrant.pde ≠ qft_quadrant.pde**
 
 ### `Tau.BookII.Mirror.tau_distinct_from_gr_metric`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L175-L177)
 **theorem
 Tau.BookII.Mirror.tau_distinct_from_gr_metric :tau_quadrant.metric ≠ gr_local_quadrant.metric**
 
@@ -482,7 +482,7 @@ Tau.BookII.Mirror.tau_distinct_from_gr_metric :tau_quadrant.metric ≠ gr_local_
 
 ### `Tau.BookII.Mirror.is_non_archimedean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L183-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L183-L185)
 **def
 Tau.BookII.Mirror.is_non_archimedean
 (q : PhysicsQuadrant)
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.non_archimedean_quadrants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L187-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L187-L189)
 **def
 Tau.BookII.Mirror.non_archimedean_quadrants :List PhysicsQuadrant**
 
@@ -512,7 +512,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.archimedean_quadrants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L191-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L191-L193)
 **def
 Tau.BookII.Mirror.archimedean_quadrants :List PhysicsQuadrant**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.non_arch_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L195-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L195-L197)
 **theorem
 Tau.BookII.Mirror.non_arch_count :non_archimedean_quadrants.length = 2**
 
@@ -538,7 +538,7 @@ There are exactly 2 non-Archimedean quadrants.
 
 ### `Tau.BookII.Mirror.arch_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L199-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L199-L201)
 **theorem
 Tau.BookII.Mirror.arch_count :archimedean_quadrants.length = 2**
 
@@ -549,7 +549,7 @@ There are exactly 2 Archimedean quadrants.
 
 ### `Tau.BookII.Mirror.obstruction_in_archimedean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L203-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L203-L208)
 **def
 Tau.BookII.Mirror.obstruction_in_archimedean :Bool**
 
@@ -563,7 +563,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.obstruction_confined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L210-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L210-L212)
 **theorem
 Tau.BookII.Mirror.obstruction_confined :obstruction_in_archimedean = true**
 
@@ -574,7 +574,7 @@ The obstruction is confined to the Archimedean column.
 
 ### `Tau.BookII.Mirror.pde_axis_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L218-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L218-L221)
 **theorem
 Tau.BookII.Mirror.pde_axis_exhaustive
 (a : PDEAxis)
@@ -587,7 +587,7 @@ PDEAxis has exactly 2 values.
 
 ### `Tau.BookII.Mirror.metric_axis_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L223-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L223-L226)
 **theorem
 Tau.BookII.Mirror.metric_axis_exhaustive
 (a : MetricAxis)
@@ -600,7 +600,7 @@ MetricAxis has exactly 2 values.
 
 ### `Tau.BookII.Mirror.same_pde_not_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L228-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L228-L232)
 **theorem
 Tau.BookII.Mirror.same_pde_not_obstructed
 (q1 q2 : PhysicsQuadrant)
@@ -613,7 +613,7 @@ Two quadrants in the same column with the same PDE type are NOT obstructed.
 
 ### `Tau.BookII.Mirror.different_column_not_obstructed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L234-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L234-L238)
 **theorem
 Tau.BookII.Mirror.different_column_not_obstructed
 (q1 q2 : PhysicsQuadrant)
@@ -628,7 +628,7 @@ Two quadrants in different columns are NOT obstructed.
 
 ### `Tau.BookII.Mirror.four_quadrants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L275-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L275-L276)
 **theorem
 Tau.BookII.Mirror.four_quadrants :all_quadrants.length = 4**
 
@@ -637,7 +637,7 @@ Tau.BookII.Mirror.four_quadrants :all_quadrants.length = 4**
 
 ### `Tau.BookII.Mirror.qft_gr_obstructed_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L279-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L279-L280)
 **theorem
 Tau.BookII.Mirror.qft_gr_obstructed_native :unification_obstructed qft_quadrant gr_local_quadrant = true**
 
@@ -646,7 +646,7 @@ Tau.BookII.Mirror.qft_gr_obstructed_native :unification_obstructed qft_quadrant 
 
 ### `Tau.BookII.Mirror.tau_escapes_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L283-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L283-L284)
 **theorem
 Tau.BookII.Mirror.tau_escapes_qft :unification_obstructed tau_quadrant qft_quadrant = false**
 
@@ -655,7 +655,7 @@ Tau.BookII.Mirror.tau_escapes_qft :unification_obstructed tau_quadrant qft_quadr
 
 ### `Tau.BookII.Mirror.tau_escapes_gr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L286-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L286-L287)
 **theorem
 Tau.BookII.Mirror.tau_escapes_gr :unification_obstructed tau_quadrant gr_local_quadrant = false**
 
@@ -664,7 +664,7 @@ Tau.BookII.Mirror.tau_escapes_gr :unification_obstructed tau_quadrant gr_local_q
 
 ### `Tau.BookII.Mirror.tau_hyp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L290-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L290-L291)
 **theorem
 Tau.BookII.Mirror.tau_hyp :tau_quadrant.pde = PDEAxis.Hyperbolic**
 
@@ -673,7 +673,7 @@ Tau.BookII.Mirror.tau_hyp :tau_quadrant.pde = PDEAxis.Hyperbolic**
 
 ### `Tau.BookII.Mirror.tau_non_arch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L293-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L293-L294)
 **theorem
 Tau.BookII.Mirror.tau_non_arch :tau_quadrant.metric = MetricAxis.NonArchimedean**
 
@@ -682,7 +682,7 @@ Tau.BookII.Mirror.tau_non_arch :tau_quadrant.metric = MetricAxis.NonArchimedean*
 
 ### `Tau.BookII.Mirror.obstruction_confined_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L297-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L297-L298)
 **theorem
 Tau.BookII.Mirror.obstruction_confined_native :obstruction_in_archimedean = true**
 
@@ -691,6 +691,6 @@ Tau.BookII.Mirror.obstruction_confined_native :obstruction_in_archimedean = true
 
 ### `Tau.BookII.Mirror.arch_plus_nonarch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/PhysicsQuadrant.lean#L301-L302)
 **theorem
 Tau.BookII.Mirror.arch_plus_nonarch :archimedean_quadrants.length + non_archimedean_quadrants.length = 4**

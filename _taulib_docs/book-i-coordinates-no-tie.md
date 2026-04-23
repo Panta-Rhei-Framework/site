@@ -65,7 +65,7 @@ The No-Tie holds only with the maximality constraint.
 
 ### `Tau.Coordinates.tetration_mono`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NoTie.lean#L39-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NoTie.lean#L39-L46)
 **theorem
 Tau.Coordinates.tetration_mono
 (a : Nat)
@@ -84,7 +84,7 @@ Tetration is weakly monotone: c₁ ≤ c₂ → a↑↑c₁ ≤ a↑↑c₂ for 
 
 ### `Tau.Coordinates.pow_dvd_pow_of_le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NoTie.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NoTie.lean#L52-L54)
 **theorem
 Tau.Coordinates.pow_dvd_pow_of_le
 (a : Nat)
@@ -101,7 +101,7 @@ a^m divides a^n when m ≤ n.
 
 ### `Tau.Coordinates.tetration_dvd_of_le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NoTie.lean#L56-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NoTie.lean#L56-L61)
 **theorem
 Tau.Coordinates.tetration_dvd_of_le
 (a : Nat)
@@ -124,7 +124,7 @@ Higher tetrations divide lower tetrations (for c ≥ 1, both are powers of A).
 
 ### `Tau.Coordinates.nat_mul_cancel_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NoTie.lean#L79-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NoTie.lean#L79-L82)
 **theorem
 Tau.Coordinates.nat_mul_cancel_right
 {a b d : Nat}
@@ -141,7 +141,7 @@ Right cancellation for multiplication: a * d = b * d → d ≥ 1 → a = b.
 
 ### `Tau.Coordinates.no_tie`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/NoTie.lean#L88-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/NoTie.lean#L88-L132)
 **theorem
 Tau.Coordinates.no_tie
 (a b1 c1 b2 c2 : Nat)

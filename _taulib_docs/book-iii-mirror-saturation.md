@@ -62,7 +62,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Mirror.applied_saturation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L46-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L46-L81)
 **def
 Tau.BookIII.Mirror.applied_saturation_check
 (bound db : Denotation.TauIdx)
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.applied_saturation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L56-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L56-L80)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.applied_saturation_check.go
@@ -112,7 +112,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Mirror.full_saturation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L89-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L89-L114)
 **def
 Tau.BookIII.Mirror.full_saturation_check
 (bound db : Denotation.TauIdx)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.full_saturation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L94-L113)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L94-L113)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.full_saturation_check.go
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.terminal_level_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L120-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L120-L141)
 **def
 Tau.BookIII.Mirror.terminal_level_check
 (bound db : Denotation.TauIdx)
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.tower_complete_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L147-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L147-L169)
 **def
 Tau.BookIII.Mirror.tower_complete_check :Bool**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.reachability_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L171-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L171-L176)
 **def
 Tau.BookIII.Mirror.reachability_check :Bool**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.mirror_master_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L178-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L178-L197)
 **def
 Tau.BookIII.Mirror.mirror_master_check
 (bound db : Denotation.TauIdx)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.applied_saturation_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L228-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L228-L229)
 **theorem
 Tau.BookIII.Mirror.applied_saturation_8_3 :applied_saturation_check 8 3 = true**
 
@@ -230,7 +230,7 @@ Tau.BookIII.Mirror.applied_saturation_8_3 :applied_saturation_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.full_saturation_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L232-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L232-L233)
 **theorem
 Tau.BookIII.Mirror.full_saturation_8_3 :full_saturation_check 8 3 = true**
 
@@ -239,7 +239,7 @@ Tau.BookIII.Mirror.full_saturation_8_3 :full_saturation_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.terminal_level_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L236-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L236-L237)
 **theorem
 Tau.BookIII.Mirror.terminal_level_8_3 :terminal_level_check 8 3 = true**
 
@@ -248,7 +248,7 @@ Tau.BookIII.Mirror.terminal_level_8_3 :terminal_level_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.tower_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L240-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L240-L241)
 **theorem
 Tau.BookIII.Mirror.tower_complete :tower_complete_check = true**
 
@@ -257,7 +257,7 @@ Tau.BookIII.Mirror.tower_complete :tower_complete_check = true**
 
 ### `Tau.BookIII.Mirror.reachability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L244-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L244-L245)
 **theorem
 Tau.BookIII.Mirror.reachability :reachability_check = true**
 
@@ -266,7 +266,7 @@ Tau.BookIII.Mirror.reachability :reachability_check = true**
 
 ### `Tau.BookIII.Mirror.mirror_master_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L248-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L248-L249)
 **theorem
 Tau.BookIII.Mirror.mirror_master_8_3 :mirror_master_check 8 3 = true**
 
@@ -275,7 +275,7 @@ Tau.BookIII.Mirror.mirror_master_8_3 :mirror_master_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.e3_is_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L255-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L255-L256)
 **theorem
 Tau.BookIII.Mirror.e3_is_terminal :Enrichment.EnrLevel.E3.lt Enrichment.EnrLevel.E3 = false**
 
@@ -286,7 +286,7 @@ Tau.BookIII.Mirror.e3_is_terminal :Enrichment.EnrLevel.E3.lt Enrichment.EnrLevel
 
 ### `Tau.BookIII.Mirror.e3_is_max`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L258-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L258-L259)
 **theorem
 Tau.BookIII.Mirror.e3_is_max :Enrichment.EnrLevel.E3.toNat = 3**
 
@@ -297,7 +297,7 @@ Tau.BookIII.Mirror.e3_is_max :Enrichment.EnrLevel.E3.toNat = 3**
 
 ### `Tau.BookIII.Mirror.four_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L261-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L261-L263)
 **theorem
 Tau.BookIII.Mirror.four_levels :[Enrichment.EnrLevel.E0, Enrichment.EnrLevel.E1, Enrichment.EnrLevel.E2, Enrichment.EnrLevel.E3].length = 4**
 
@@ -308,7 +308,7 @@ Tower has exactly four levels.
 
 ### `Tau.BookIII.Mirror.tower_complete_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L265-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L265-L270)
 **theorem
 Tau.BookIII.Mirror.tower_complete_order :Enrichment.EnrLevel.E0.lt Enrichment.EnrLevel.E1 = true ∧ Enrichment.EnrLevel.E1.lt Enrichment.EnrLevel.E2 = true ∧ Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E3 = true**
 
@@ -319,7 +319,7 @@ Tower ordering: E0 < E1 < E2 < E3 is a strict chain.
 
 ### `Tau.BookIII.Mirror.tower_irreflexive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L272-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L272-L278)
 **theorem
 Tau.BookIII.Mirror.tower_irreflexive :Enrichment.EnrLevel.E0.lt Enrichment.EnrLevel.E0 = false ∧ Enrichment.EnrLevel.E1.lt Enrichment.EnrLevel.E1 = false ∧ Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E2 = false ∧ Enrichment.EnrLevel.E3.lt Enrichment.EnrLevel.E3 = false**
 
@@ -330,7 +330,7 @@ Tower irreflexivity: no level exceeds itself.
 
 ### `Tau.BookIII.Mirror.e3_succ_saturates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L280-L281)
 **theorem
 Tau.BookIII.Mirror.e3_succ_saturates :Enrichment.EnrLevel.E3.succ = Enrichment.EnrLevel.E3**
 
@@ -341,7 +341,7 @@ E3.succ = E3: successor saturates at E3.
 
 ### `Tau.BookIII.Mirror.all_reachable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L283-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L283-L288)
 **theorem
 Tau.BookIII.Mirror.all_reachable :Enrichment.EnrLevel.E0.succ = Enrichment.EnrLevel.E1 ∧ Enrichment.EnrLevel.E0.succ.succ = Enrichment.EnrLevel.E2 ∧ Enrichment.EnrLevel.E0.succ.succ.succ = Enrichment.EnrLevel.E3**
 
@@ -352,7 +352,7 @@ All levels reachable from E0 by iterated succ.
 
 ### `Tau.BookIII.Mirror.e3_succ_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L290-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L290-L291)
 **theorem
 Tau.BookIII.Mirror.e3_succ_nat :Enrichment.EnrLevel.E3.succ.toNat = Enrichment.EnrLevel.E3.toNat**
 
@@ -363,7 +363,7 @@ Tau.BookIII.Mirror.e3_succ_nat :Enrichment.EnrLevel.E3.succ.toNat = Enrichment.E
 
 ### `Tau.BookIII.Mirror.e3_unique_fixpoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L293-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L293-L300)
 **theorem
 Tau.BookIII.Mirror.e3_unique_fixpoint :Enrichment.EnrLevel.E0.succ ≠ Enrichment.EnrLevel.E0 ∧ Enrichment.EnrLevel.E1.succ ≠ Enrichment.EnrLevel.E1 ∧ Enrichment.EnrLevel.E2.succ ≠ Enrichment.EnrLevel.E2 ∧ Enrichment.EnrLevel.E3.succ = Enrichment.EnrLevel.E3**
 
@@ -375,7 +375,7 @@ Tau.BookIII.Mirror.e3_unique_fixpoint :Enrichment.EnrLevel.E0.succ ≠ Enrichmen
 
 ### `Tau.BookIII.Mirror.strictly_increasing_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/Saturation.lean#L302-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/Saturation.lean#L302-L308)
 **theorem
 Tau.BookIII.Mirror.strictly_increasing_nat :Enrichment.EnrLevel.E0.toNat < Enrichment.EnrLevel.E1.toNat ∧ Enrichment.EnrLevel.E1.toNat < Enrichment.EnrLevel.E2.toNat ∧ Enrichment.EnrLevel.E2.toNat < Enrichment.EnrLevel.E3.toNat**
 

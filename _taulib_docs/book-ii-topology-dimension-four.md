@@ -59,7 +59,7 @@ The 1+3 split cannot be eliminated by relabeling.
 
 ### `Tau.BookII.Topology.abcd_coords`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L37-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L37-L40)
 **def
 Tau.BookII.Topology.abcd_coords
 (x : Denotation.TauIdx)
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookII.Topology.tau_dim`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L42-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L42-L44)
 **def
 Tau.BookII.Topology.tau_dim :Nat**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookII.Topology.four_suffice_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L50-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L50-L62)
 **def
 Tau.BookII.Topology.four_suffice_check
 (bound : Denotation.TauIdx)
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookII.Topology.four_suffice_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L55-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L55-L61)@[irreducible]
 
 **def
 Tau.BookII.Topology.four_suffice_check.go
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookII.Topology.three_insufficient_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L64-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L64-L84)
 **def
 Tau.BookII.Topology.three_insufficient_check :Bool**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.Topology.dim_four_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L86-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L86-L88)
 **def
 Tau.BookII.Topology.dim_four_check
 (bound : Denotation.TauIdx)
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookII.Topology.radial_solenoidal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L94-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L94-L113)
 **def
 Tau.BookII.Topology.radial_solenoidal_check
 (bound : Denotation.TauIdx)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Topology.radial_solenoidal_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L104-L112)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L104-L112)@[irreducible]
 
 **def
 Tau.BookII.Topology.radial_solenoidal_check.go
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.Topology.pairwise_independent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L115-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L115-L127)
 **def
 Tau.BookII.Topology.pairwise_independent_check :Bool**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookII.Topology.four_suff_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L145-L145)
 **theorem
 Tau.BookII.Topology.four_suff_50 :four_suffice_check 50 = true**
 
@@ -228,7 +228,7 @@ Tau.BookII.Topology.four_suff_50 :four_suffice_check 50 = true**
 
 ### `Tau.BookII.Topology.three_insuff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L146-L146)
 **theorem
 Tau.BookII.Topology.three_insuff :three_insufficient_check = true**
 
@@ -237,7 +237,7 @@ Tau.BookII.Topology.three_insuff :three_insufficient_check = true**
 
 ### `Tau.BookII.Topology.dim_four_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L147-L147)
 **theorem
 Tau.BookII.Topology.dim_four_50 :dim_four_check 50 = true**
 
@@ -246,7 +246,7 @@ Tau.BookII.Topology.dim_four_50 :dim_four_check 50 = true**
 
 ### `Tau.BookII.Topology.rad_sol_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L148-L148)
 **theorem
 Tau.BookII.Topology.rad_sol_50 :radial_solenoidal_check 50 = true**
 
@@ -255,6 +255,6 @@ Tau.BookII.Topology.rad_sol_50 :radial_solenoidal_check 50 = true**
 
 ### `Tau.BookII.Topology.pairwise_ind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/DimensionFour.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/DimensionFour.lean#L149-L149)
 **theorem
 Tau.BookII.Topology.pairwise_ind :pairwise_independent_check = true**

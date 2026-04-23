@@ -79,7 +79,7 @@ Associativity: HolFun composition is associative (monoid structure).
 
 ### `Tau.Holomorphy.no_simul_projection_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L47-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L47-L60)
 **theorem
 Tau.Holomorphy.no_simul_projection_b
 (f : StageFun)
@@ -105,7 +105,7 @@ stagewise function outputs zero.
 
 ### `Tau.Holomorphy.no_simul_projection_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L62-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L62-L65)
 **theorem
 Tau.Holomorphy.no_simul_projection_c
 (f : StageFun)
@@ -120,7 +120,7 @@ Tau.Holomorphy.no_simul_projection_c
 
 ### `Tau.Holomorphy.diagonal_free_protection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L71-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L71-L80)
 **theorem
 Tau.Holomorphy.diagonal_free_protection
 (b_val c_val : Denotation.TauIdx)
@@ -139,7 +139,7 @@ their sector product is zero.
 
 ### `Tau.Holomorphy.diagonal_free_protection_int`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L82-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L82-L85)
 **theorem
 Tau.Holomorphy.diagonal_free_protection_int
 (b c : ℤ)
@@ -152,7 +152,7 @@ The protection extends to Int-level SectorPair: pure B times pure C is zero.
 
 ### `Tau.Holomorphy.ReduceForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L91-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L91-L100)
 **structure
 Tau.Holomorphy.ReduceForm
 (f : StageFun)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_reduce_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L102-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L102-L106)
 **def
 Tau.Holomorphy.chi_plus_reduce_form :ReduceForm chi_plus_stage**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_reduce_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L108-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L108-L112)
 **def
 Tau.Holomorphy.chi_minus_reduce_form :ReduceForm chi_minus_stage**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_reduce_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L114-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L114-L118)
 **def
 Tau.Holomorphy.id_reduce_form :ReduceForm id_stage**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.Holomorphy.ReduceCompat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L120-L122)
 **def
 Tau.Holomorphy.ReduceCompat
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_reduce_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L124-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L124-L126)
 **theorem
 Tau.Holomorphy.id_reduce_compat :ReduceCompat fun (n : Denotation.TauIdx) => n**
 
@@ -253,7 +253,7 @@ The identity map is reduce-compatible.
 
 ### `Tau.Holomorphy.const_zero_reduce_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L128-L130)
 **theorem
 Tau.Holomorphy.const_zero_reduce_compat :ReduceCompat fun (x : Denotation.TauIdx) => 0**
 
@@ -264,7 +264,7 @@ The constant-zero map is reduce-compatible.
 
 ### `Tau.Holomorphy.comp_reduce_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L132-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L132-L160)
 **theorem
 Tau.Holomorphy.comp_reduce_coherent
 (f₁ f₂ : StageFun)
@@ -290,7 +290,7 @@ provided the outer function's underlying maps preserve residue classes.
 
 ### `Tau.Holomorphy.holfun_comp_rf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L162-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L162-L168)
 **def
 Tau.Holomorphy.holfun_comp_rf
 (hf₁ hf₂ : HolFun)
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.Holomorphy.stagefun_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L174-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L174-L177)
 **theorem
 Tau.Holomorphy.stagefun_comp_assoc
 (f₁ f₂ f₃ : StageFun)
@@ -327,7 +327,7 @@ Tau.Holomorphy.stagefun_comp_assoc
 
 ### `Tau.Holomorphy.stagefun_id_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L179-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L179-L183)
 **theorem
 Tau.Holomorphy.stagefun_id_comp
 (f : StageFun)
@@ -341,7 +341,7 @@ The identity stagewise function is a left unit for composition.
 
 ### `Tau.Holomorphy.sector_comp_assoc'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L185-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L185-L188)
 **theorem
 Tau.Holomorphy.sector_comp_assoc'
 (sf₁ sf₂ sf₃ : SectorFun)
@@ -354,7 +354,7 @@ SectorFun composition is associative (re-export).
 
 ### `Tau.Holomorphy.gt_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L190-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DiagonalProtection.lean#L190-L193)
 **theorem
 Tau.Holomorphy.gt_comp_assoc
 (gt₁ gt₂ gt₃ : GermTransformer)

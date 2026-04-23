@@ -45,7 +45,7 @@ correction via modular complement. Lifting is unique (p-adic contraction).
 
 ### `Tau.BookIII.Spectral.is_prime_naive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L29-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L29-L39)
 **def
 Tau.BookIII.Spectral.is_prime_naive
 (n : ℕ)
@@ -61,7 +61,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_prime_naive.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L34-L38)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L34-L38)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.is_prime_naive.go
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.poly_eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L45-L49)
 **def
 Tau.BookIII.Spectral.poly_eval
 (a x m : Denotation.TauIdx)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.poly_deriv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L51-L54)
 **def
 Tau.BookIII.Spectral.poly_deriv
 (x m : Denotation.TauIdx)
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L56-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L56-L67)
 **def
 Tau.BookIII.Spectral.hensel_step
 (a x _p _pk pk1 : Denotation.TauIdx)
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_lift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L69-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L69-L82)
 **def
 Tau.BookIII.Spectral.hensel_lift
 (a root p n : Denotation.TauIdx)
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_lift.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L75-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L75-L81)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hensel_lift.go
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L84-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L84-L102)
 **def
 Tau.BookIII.Spectral.hensel_check
 (bound : Denotation.TauIdx)
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L89-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L89-L101)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hensel_check.go
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L104-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L104-L123)
 **def
 Tau.BookIII.Spectral.hensel_uniqueness_check
 (bound : Denotation.TauIdx)
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L110-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L110-L122)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hensel_uniqueness_check.go
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L125-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L125-L142)
 **def
 Tau.BookIII.Spectral.hensel_tower_check
 (bound : Denotation.TauIdx)
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L130-L141)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L130-L141)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hensel_tower_check.go
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hensel_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L168-L169)
 **theorem
 Tau.BookIII.Spectral.hensel_20 :hensel_check 20 = true**
 
@@ -274,7 +274,7 @@ Tau.BookIII.Spectral.hensel_20 :hensel_check 20 = true**
 
 ### `Tau.BookIII.Spectral.hensel_unique_11`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L172-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L172-L173)
 **theorem
 Tau.BookIII.Spectral.hensel_unique_11 :hensel_uniqueness_check 11 = true**
 
@@ -283,7 +283,7 @@ Tau.BookIII.Spectral.hensel_unique_11 :hensel_uniqueness_check 11 = true**
 
 ### `Tau.BookIII.Spectral.hensel_tower_11`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L176-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L176-L177)
 **theorem
 Tau.BookIII.Spectral.hensel_tower_11 :hensel_tower_check 11 = true**
 
@@ -292,7 +292,7 @@ Tau.BookIII.Spectral.hensel_tower_11 :hensel_tower_check 11 = true**
 
 ### `Tau.BookIII.Spectral.one_is_root_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L183-L184)
 **theorem
 Tau.BookIII.Spectral.one_is_root_3 :poly_eval 1 1 3 = 0**
 
@@ -303,7 +303,7 @@ Tau.BookIII.Spectral.one_is_root_3 :poly_eval 1 1 3 = 0**
 
 ### `Tau.BookIII.Spectral.one_is_root_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L185-L185)
 **theorem
 Tau.BookIII.Spectral.one_is_root_5 :poly_eval 1 1 5 = 0**
 
@@ -312,7 +312,7 @@ Tau.BookIII.Spectral.one_is_root_5 :poly_eval 1 1 5 = 0**
 
 ### `Tau.BookIII.Spectral.one_is_root_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L186-L186)
 **theorem
 Tau.BookIII.Spectral.one_is_root_7 :poly_eval 1 1 7 = 0**
 
@@ -321,7 +321,7 @@ Tau.BookIII.Spectral.one_is_root_7 :poly_eval 1 1 7 = 0**
 
 ### `Tau.BookIII.Spectral.hensel_1_mod_9`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L188-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L188-L189)
 **theorem
 Tau.BookIII.Spectral.hensel_1_mod_9 :hensel_lift 1 1 3 2 = 1**
 
@@ -332,7 +332,7 @@ Tau.BookIII.Spectral.hensel_1_mod_9 :hensel_lift 1 1 3 2 = 1**
 
 ### `Tau.BookIII.Spectral.hensel_correct_3_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L191-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L191-L193)
 **theorem
 Tau.BookIII.Spectral.hensel_correct_3_2 :poly_eval 1 (hensel_lift 1 1 3 2) 9 = 0**
 
@@ -343,6 +343,6 @@ Tau.BookIII.Spectral.hensel_correct_3_2 :poly_eval 1 (hensel_lift 1 1 3 2) 9 = 0
 
 ### `Tau.BookIII.Spectral.hensel_correct_5_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/HenselLifting.lean#L195-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/HenselLifting.lean#L195-L196)
 **theorem
 Tau.BookIII.Spectral.hensel_correct_5_2 :poly_eval 1 (hensel_lift 1 1 5 2) 25 = 0**

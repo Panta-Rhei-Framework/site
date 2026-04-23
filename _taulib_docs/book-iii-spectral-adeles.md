@@ -54,7 +54,7 @@ decomposes into local factors at each prime. CRT lifted to holomorphic level.
 
 ### `Tau.BookIII.Spectral.AdeleElement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L36-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L36-L41)
 **structure
 Tau.BookIII.Spectral.AdeleElement :Type**
 
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprAdeleElement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **instance
 Tau.BookIII.Spectral.instReprAdeleElement :Repr AdeleElement**
 
@@ -81,7 +81,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instReprAdeleElement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **def
 Tau.BookIII.Spectral.instReprAdeleElement.repr :AdeleElement → ℕ → Std.Format**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instDecidableEqAdeleElement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **instance
 Tau.BookIII.Spectral.instDecidableEqAdeleElement :DecidableEq AdeleElement**
 
@@ -104,7 +104,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instDecidableEqAdeleElement.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **def
 Tau.BookIII.Spectral.instDecidableEqAdeleElement.decEq
 (x✝ x✝¹ : AdeleElement)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqAdeleElement.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **def
 Tau.BookIII.Spectral.instBEqAdeleElement.beq :AdeleElement → AdeleElement → Bool**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqAdeleElement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L41-L41)
 **instance
 Tau.BookIII.Spectral.instBEqAdeleElement :BEq AdeleElement**
 
@@ -142,7 +142,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.to_adele`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L43-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L43-L46)
 **def
 Tau.BookIII.Spectral.to_adele
 (x k : Denotation.TauIdx)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L48-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L48-L61)
 **def
 Tau.BookIII.Spectral.adele_add
 (a b : AdeleElement)
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_add.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L54-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L54-L61)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.adele_add.go
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L63-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L63-L76)
 **def
 Tau.BookIII.Spectral.adele_mul
 (a b : AdeleElement)
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_mul.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L69-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L69-L76)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.adele_mul.go
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_ring_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L78-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L78-L102)
 **def
 Tau.BookIII.Spectral.adele_ring_check
 (bound db : Denotation.TauIdx)
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_ring_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L82-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L82-L101)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.adele_ring_check.go
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adelic_embedding_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L108-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L108-L130)
 **def
 Tau.BookIII.Spectral.adelic_embedding_check
 (bound db : Denotation.TauIdx)
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adelic_embedding_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L113-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L113-L129)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.adelic_embedding_check.go
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adelic_dense_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L132-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L132-L146)
 **def
 Tau.BookIII.Spectral.adelic_dense_check
 (bound db : Denotation.TauIdx)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adelic_dense_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L137-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L137-L145)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.adelic_dense_check.go
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.euler_product_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L152-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L152-L173)
 **def
 Tau.BookIII.Spectral.euler_product_check
 (bound db : Denotation.TauIdx)
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.euler_product_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L158-L172)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L158-L172)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.euler_product_check.go
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_factor_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L175-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L175-L199)
 **def
 Tau.BookIII.Spectral.local_factor_independence_check
 (bound db : Denotation.TauIdx)
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_factor_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L180-L192)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L180-L192)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.local_factor_independence_check.go
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_factor_independence_check.check_others`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L194-L199)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L194-L199)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.local_factor_independence_check.check_others
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.adele_ring_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L225-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L225-L226)
 **theorem
 Tau.BookIII.Spectral.adele_ring_10_3 :adele_ring_check 10 3 = true**
 
@@ -425,7 +425,7 @@ Tau.BookIII.Spectral.adele_ring_10_3 :adele_ring_check 10 3 = true**
 
 ### `Tau.BookIII.Spectral.adelic_embedding_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L229-L230)
 **theorem
 Tau.BookIII.Spectral.adelic_embedding_15_3 :adelic_embedding_check 15 3 = true**
 
@@ -434,7 +434,7 @@ Tau.BookIII.Spectral.adelic_embedding_15_3 :adelic_embedding_check 15 3 = true**
 
 ### `Tau.BookIII.Spectral.adelic_dense_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L233-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L233-L234)
 **theorem
 Tau.BookIII.Spectral.adelic_dense_20_4 :adelic_dense_check 20 4 = true**
 
@@ -443,7 +443,7 @@ Tau.BookIII.Spectral.adelic_dense_20_4 :adelic_dense_check 20 4 = true**
 
 ### `Tau.BookIII.Spectral.euler_product_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L237-L238)
 **theorem
 Tau.BookIII.Spectral.euler_product_20_4 :euler_product_check 20 4 = true**
 
@@ -452,7 +452,7 @@ Tau.BookIII.Spectral.euler_product_20_4 :euler_product_check 20 4 = true**
 
 ### `Tau.BookIII.Spectral.local_factor_ind_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L241-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L241-L242)
 **theorem
 Tau.BookIII.Spectral.local_factor_ind_10_3 :local_factor_independence_check 10 3 = true**
 
@@ -461,7 +461,7 @@ Tau.BookIII.Spectral.local_factor_ind_10_3 :local_factor_independence_check 10 3
 
 ### `Tau.BookIII.Spectral.adele_zero_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L248-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L248-L249)
 **theorem
 Tau.BookIII.Spectral.adele_zero_3 :(to_adele 0 3).components = [0, 0, 0]**
 
@@ -472,7 +472,7 @@ Tau.BookIII.Spectral.adele_zero_3 :(to_adele 0 3).components = [0, 0, 0]**
 
 ### `Tau.BookIII.Spectral.adele_is_crt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L251-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L251-L253)
 **theorem
 Tau.BookIII.Spectral.adele_is_crt :(to_adele 42 3).components = Polarity.crt_decompose 42 3**
 
@@ -483,7 +483,7 @@ Tau.BookIII.Spectral.adele_is_crt :(to_adele 42 3).components = Polarity.crt_dec
 
 ### `Tau.BookIII.Spectral.adele_injective_1_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Adeles.lean#L255-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Adeles.lean#L255-L257)
 **theorem
 Tau.BookIII.Spectral.adele_injective_1_2 :(to_adele 1 3).components ≠ (to_adele 2 3).components**
 

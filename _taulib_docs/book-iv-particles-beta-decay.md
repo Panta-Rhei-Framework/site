@@ -84,7 +84,7 @@ Fine structure splitting is a 4th-order holonomy correction.
 
 ### `Tau.BookIV.Particles.NeutronParent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L50-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L50-L66)
 **structure
 Tau.BookIV.Particles.NeutronParent :Type**
 
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronParent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L66-L66)
 **def
 Tau.BookIV.Particles.instReprNeutronParent.repr :NeutronParent → ℕ → Std.Format**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronParent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L66-L66)
 **instance
 Tau.BookIV.Particles.instReprNeutronParent :Repr NeutronParent**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookIV.Particles.neutron_as_parent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L68-L68)
 **def
 Tau.BookIV.Particles.neutron_as_parent :NeutronParent**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.three_products`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L70-L70)
 **theorem
 Tau.BookIV.Particles.three_products :neutron_as_parent.products.length = 3**
 
@@ -164,7 +164,7 @@ Tau.BookIV.Particles.three_products :neutron_as_parent.products.length = 3**
 
 ### `Tau.BookIV.Particles.BetaDecayQValue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L76-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L76-L95)
 **structure
 Tau.BookIV.Particles.BetaDecayQValue :Type**
 
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprBetaDecayQValue.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L95-L95)
 **def
 Tau.BookIV.Particles.instReprBetaDecayQValue.repr :BetaDecayQValue → ℕ → Std.Format**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprBetaDecayQValue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L95-L95)
 **instance
 Tau.BookIV.Particles.instReprBetaDecayQValue :Repr BetaDecayQValue**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.BookIV.Particles.beta_decay_q_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L97-L97)
 **def
 Tau.BookIV.Particles.beta_decay_q_value :BetaDecayQValue**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.q_value_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L99-L102)
 **theorem
 Tau.BookIV.Particles.q_value_consistency :beta_decay_q_value.delta_A_keV - beta_decay_q_value.m_e_keV = beta_decay_q_value.q_predicted_keV**
 
@@ -251,7 +251,7 @@ Q_β = δ_A − m_e.
 
 ### `Tau.BookIV.Particles.LifetimeStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L108-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L108-L118)
 **structure
 Tau.BookIV.Particles.LifetimeStructural :Type**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprLifetimeStructural.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L118-L118)
 **def
 Tau.BookIV.Particles.instReprLifetimeStructural.repr :LifetimeStructural → ℕ → Std.Format**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprLifetimeStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L118-L118)
 **instance
 Tau.BookIV.Particles.instReprLifetimeStructural :Repr LifetimeStructural**
 
@@ -298,7 +298,7 @@ Equations
 
 ### `Tau.BookIV.Particles.lifetime_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L120-L120)
 **def
 Tau.BookIV.Particles.lifetime_structural :LifetimeStructural**
 
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.BohrRadius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L126-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L126-L140)
 **structure
 Tau.BookIV.Particles.BohrRadius :Type**
 
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprBohrRadius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L140-L140)
 **instance
 Tau.BookIV.Particles.instReprBohrRadius :Repr BohrRadius**
 
@@ -350,7 +350,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprBohrRadius.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L140-L140)
 **def
 Tau.BookIV.Particles.instReprBohrRadius.repr :BohrRadius → ℕ → Std.Format**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.bohr_radius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L142-L142)
 **def
 Tau.BookIV.Particles.bohr_radius :BohrRadius**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.bohr_from_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L144-L144)
 **theorem
 Tau.BookIV.Particles.bohr_from_iota :bohr_radius.iota_and_mn_only = true**
 
@@ -383,7 +383,7 @@ Tau.BookIV.Particles.bohr_from_iota :bohr_radius.iota_and_mn_only = true**
 
 ### `Tau.BookIV.Particles.HydrogenLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L150-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L150-L164)
 **structure
 Tau.BookIV.Particles.HydrogenLevels :Type**
 
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprHydrogenLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L164-L164)
 **instance
 Tau.BookIV.Particles.instReprHydrogenLevels :Repr HydrogenLevels**
 
@@ -422,7 +422,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprHydrogenLevels.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L164-L164)
 **def
 Tau.BookIV.Particles.instReprHydrogenLevels.repr :HydrogenLevels → ℕ → Std.Format**
 
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.hydrogen_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L166-L166)
 **def
 Tau.BookIV.Particles.hydrogen_levels :HydrogenLevels**
 
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.ground_state_energy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L168-L168)
 **theorem
 Tau.BookIV.Particles.ground_state_energy :hydrogen_levels.E1_meV = 13606**
 
@@ -455,7 +455,7 @@ Tau.BookIV.Particles.ground_state_energy :hydrogen_levels.E1_meV = 13606**
 
 ### `Tau.BookIV.Particles.RydbergConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L174-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L174-L188)
 **structure
 Tau.BookIV.Particles.RydbergConstant :Type**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprRydbergConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L188-L188)
 **instance
 Tau.BookIV.Particles.instReprRydbergConstant :Repr RydbergConstant**
 
@@ -494,7 +494,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprRydbergConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L188-L188)
 **def
 Tau.BookIV.Particles.instReprRydbergConstant.repr :RydbergConstant → ℕ → Std.Format**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.rydberg_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L190-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L190-L190)
 **def
 Tau.BookIV.Particles.rydberg_constant :RydbergConstant**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.RydbergPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L196-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L196-L208)
 **structure
 Tau.BookIV.Particles.RydbergPrediction :Type**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprRydbergPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L208-L208)
 **def
 Tau.BookIV.Particles.instReprRydbergPrediction.repr :RydbergPrediction → ℕ → Std.Format**
 
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprRydbergPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L208-L208)
 **instance
 Tau.BookIV.Particles.instReprRydbergPrediction :Repr RydbergPrediction**
 
@@ -567,7 +567,7 @@ Equations
 
 ### `Tau.BookIV.Particles.rydberg_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L210-L210)
 **def
 Tau.BookIV.Particles.rydberg_prediction :RydbergPrediction**
 
@@ -579,7 +579,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.rydberg_seven_sig_figs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L212-L212)
 **theorem
 Tau.BookIV.Particles.rydberg_seven_sig_figs :rydberg_prediction.sig_figs = 7**
 
@@ -588,7 +588,7 @@ Tau.BookIV.Particles.rydberg_seven_sig_figs :rydberg_prediction.sig_figs = 7**
 
 ### `Tau.BookIV.Particles.rydberg_testable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L218-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L218-L222)
 **def
 Tau.BookIV.Particles.rydberg_testable :String**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.SpectralModeSwitching`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L228-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L228-L239)
 **structure
 Tau.BookIV.Particles.SpectralModeSwitching :Type**
 
@@ -629,7 +629,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprSpectralModeSwitching`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L239-L239)
 **instance
 Tau.BookIV.Particles.instReprSpectralModeSwitching :Repr SpectralModeSwitching**
 
@@ -640,7 +640,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprSpectralModeSwitching.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L239-L239)
 **def
 Tau.BookIV.Particles.instReprSpectralModeSwitching.repr :SpectralModeSwitching → ℕ → Std.Format**
 
@@ -652,7 +652,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.spectral_mode_switching`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L241-L241)
 **def
 Tau.BookIV.Particles.spectral_mode_switching :SpectralModeSwitching**
 
@@ -664,7 +664,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.ForbiddenTransitions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L247-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L247-L258)
 **structure
 Tau.BookIV.Particles.ForbiddenTransitions :Type**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprForbiddenTransitions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L258-L258)
 **def
 Tau.BookIV.Particles.instReprForbiddenTransitions.repr :ForbiddenTransitions → ℕ → Std.Format**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprForbiddenTransitions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L258-L258)
 **instance
 Tau.BookIV.Particles.instReprForbiddenTransitions :Repr ForbiddenTransitions**
 
@@ -712,7 +712,7 @@ Equations
 
 ### `Tau.BookIV.Particles.forbidden_transitions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L260-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L260-L260)
 **def
 Tau.BookIV.Particles.forbidden_transitions :ForbiddenTransitions**
 
@@ -724,7 +724,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.FineStructureHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L266-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L266-L281)
 **structure
 Tau.BookIV.Particles.FineStructureHolonomy :Type**
 
@@ -754,7 +754,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprFineStructureHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L281-L281)
 **def
 Tau.BookIV.Particles.instReprFineStructureHolonomy.repr :FineStructureHolonomy → ℕ → Std.Format**
 
@@ -766,7 +766,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprFineStructureHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L281-L281)
 **instance
 Tau.BookIV.Particles.instReprFineStructureHolonomy :Repr FineStructureHolonomy**
 
@@ -777,7 +777,7 @@ Equations
 
 ### `Tau.BookIV.Particles.fine_structure_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L283-L283)
 **def
 Tau.BookIV.Particles.fine_structure_holonomy :FineStructureHolonomy**
 
@@ -789,7 +789,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.fine_structure_fourth_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L285-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L285-L286)
 **theorem
 Tau.BookIV.Particles.fine_structure_fourth_order :fine_structure_holonomy.alpha_order = 4**
 
@@ -798,7 +798,7 @@ Tau.BookIV.Particles.fine_structure_fourth_order :fine_structure_holonomy.alpha_
 
 ### `Tau.BookIV.Particles.LambShift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L292-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L292-L302)
 **structure
 Tau.BookIV.Particles.LambShift :Type**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprLambShift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L302-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L302-L302)
 **def
 Tau.BookIV.Particles.instReprLambShift.repr :LambShift → ℕ → Std.Format**
 
@@ -834,7 +834,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprLambShift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L302-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L302-L302)
 **instance
 Tau.BookIV.Particles.instReprLambShift :Repr LambShift**
 
@@ -845,7 +845,7 @@ Equations
 
 ### `Tau.BookIV.Particles.lamb_shift_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L304-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L304-L304)
 **def
 Tau.BookIV.Particles.lamb_shift_tau :LambShift**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.AllRoadsME`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L310-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L310-L326)
 **structure
 Tau.BookIV.Particles.AllRoadsME :Type**
 
@@ -893,7 +893,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAllRoadsME.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L326-L326)
 **def
 Tau.BookIV.Particles.instReprAllRoadsME.repr :AllRoadsME → ℕ → Std.Format**
 
@@ -905,7 +905,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAllRoadsME`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L326-L326)
 **instance
 Tau.BookIV.Particles.instReprAllRoadsME :Repr AllRoadsME**
 
@@ -916,7 +916,7 @@ Equations
 
 ### `Tau.BookIV.Particles.all_roads_m_e`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L328-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L328-L328)
 **def
 Tau.BookIV.Particles.all_roads_m_e :AllRoadsME**
 
@@ -928,7 +928,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.four_quantities_depend`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L330-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L330-L330)
 **theorem
 Tau.BookIV.Particles.four_quantities_depend :all_roads_m_e.dependent_quantities = 4**
 
@@ -937,7 +937,7 @@ Tau.BookIV.Particles.four_quantities_depend :all_roads_m_e.dependent_quantities 
 
 ### `Tau.BookIV.Particles.ProtonChargeRadiusNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L336-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L336-L354)
 **structure
 Tau.BookIV.Particles.ProtonChargeRadiusNLO :Type**
 
@@ -973,7 +973,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprProtonChargeRadiusNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L354-L354)
 **def
 Tau.BookIV.Particles.instReprProtonChargeRadiusNLO.repr :ProtonChargeRadiusNLO → ℕ → Std.Format**
 
@@ -985,7 +985,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprProtonChargeRadiusNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L354-L354)
 **instance
 Tau.BookIV.Particles.instReprProtonChargeRadiusNLO :Repr ProtonChargeRadiusNLO**
 
@@ -996,7 +996,7 @@ Equations
 
 ### `Tau.BookIV.Particles.proton_charge_radius_nlo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L356-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L356-L356)
 **def
 Tau.BookIV.Particles.proton_charge_radius_nlo :ProtonChargeRadiusNLO**
 
@@ -1008,7 +1008,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.nlo_improves_lo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L358-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L358-L360)
 **theorem
 Tau.BookIV.Particles.nlo_improves_lo :proton_charge_radius_nlo.deviation_nlo_ppm < proton_charge_radius_nlo.deviation_lo_ppm**
 
@@ -1017,7 +1017,7 @@ Tau.BookIV.Particles.nlo_improves_lo :proton_charge_radius_nlo.deviation_nlo_ppm
 
 ### `Tau.BookIV.Particles.NeutronLifetimeInputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L366-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L366-L379)
 **structure
 Tau.BookIV.Particles.NeutronLifetimeInputs :Type**
 
@@ -1046,7 +1046,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronLifetimeInputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L379-L379)
 **instance
 Tau.BookIV.Particles.instReprNeutronLifetimeInputs :Repr NeutronLifetimeInputs**
 
@@ -1057,7 +1057,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprNeutronLifetimeInputs.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L379-L379)
 **def
 Tau.BookIV.Particles.instReprNeutronLifetimeInputs.repr :NeutronLifetimeInputs → ℕ → Std.Format**
 
@@ -1069,7 +1069,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.neutron_lifetime_inputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L381-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L381-L381)
 **def
 Tau.BookIV.Particles.neutron_lifetime_inputs :NeutronLifetimeInputs**
 
@@ -1081,7 +1081,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NeutronLifetimePrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L387-L402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L387-L402)
 **structure
 Tau.BookIV.Particles.NeutronLifetimePrecision :Type**
 
@@ -1113,7 +1113,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronLifetimePrecision.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L402-L402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L402-L402)
 **def
 Tau.BookIV.Particles.instReprNeutronLifetimePrecision.repr :NeutronLifetimePrecision → ℕ → Std.Format**
 
@@ -1125,7 +1125,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronLifetimePrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L402-L402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L402-L402)
 **instance
 Tau.BookIV.Particles.instReprNeutronLifetimePrecision :Repr NeutronLifetimePrecision**
 
@@ -1136,7 +1136,7 @@ Equations
 
 ### `Tau.BookIV.Particles.neutron_lifetime_precision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L404-L404)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L404-L404)
 **def
 Tau.BookIV.Particles.neutron_lifetime_precision :NeutronLifetimePrecision**
 
@@ -1148,7 +1148,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.selects_bottle_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L406-L407)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L406-L407)
 **theorem
 Tau.BookIV.Particles.selects_bottle_value :neutron_lifetime_precision.selects_bottle = true**
 
@@ -1157,7 +1157,7 @@ Tau.BookIV.Particles.selects_bottle_value :neutron_lifetime_precision.selects_bo
 
 ### `Tau.BookIV.Particles.CancelledFormBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L413-L429)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L413-L429)
 **structure
 Tau.BookIV.Particles.CancelledFormBudget :Type**
 
@@ -1190,7 +1190,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprCancelledFormBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L429-L429)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L429-L429)
 **instance
 Tau.BookIV.Particles.instReprCancelledFormBudget :Repr CancelledFormBudget**
 
@@ -1201,7 +1201,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprCancelledFormBudget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L429-L429)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L429-L429)
 **def
 Tau.BookIV.Particles.instReprCancelledFormBudget.repr :CancelledFormBudget → ℕ → Std.Format**
 
@@ -1213,7 +1213,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.cancelled_form_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L431-L431)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L431-L431)
 **def
 Tau.BookIV.Particles.cancelled_form_budget :CancelledFormBudget**
 
@@ -1225,6 +1225,6 @@ Instances For
 
 ### `Tau.BookIV.Particles.cancelled_form_improves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/BetaDecay.lean#L433-L434)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/BetaDecay.lean#L433-L434)
 **theorem
 Tau.BookIV.Particles.cancelled_form_improves :cancelled_form_budget.rss_ppm < cancelled_form_budget.naive_ppm**

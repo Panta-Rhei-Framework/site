@@ -111,7 +111,7 @@ All claims in this module are **tau-effective**: they follow from the
 
 ### `Tau.BookIV.Calibration.EpsteinZetaStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L68-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L68-L85)
 **structure
 Tau.BookIV.Calibration.EpsteinZetaStructure :Type**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprEpsteinZetaStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L85-L85)
 **instance
 Tau.BookIV.Calibration.instReprEpsteinZetaStructure :Repr EpsteinZetaStructure**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprEpsteinZetaStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L85-L85)
 **def
 Tau.BookIV.Calibration.instReprEpsteinZetaStructure.repr :EpsteinZetaStructure → ℕ → Std.Format**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.epstein_at_T2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L87-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L87-L92)
 **def
 Tau.BookIV.Calibration.epstein_at_T2 :EpsteinZetaStructure**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ChowlaSelbergTerms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L98-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L98-L114)
 **structure
 Tau.BookIV.Calibration.ChowlaSelbergTerms :Type**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprChowlaSelbergTerms.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L114-L114)
 **def
 Tau.BookIV.Calibration.instReprChowlaSelbergTerms.repr :ChowlaSelbergTerms → ℕ → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprChowlaSelbergTerms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L114-L114)
 **instance
 Tau.BookIV.Calibration.instReprChowlaSelbergTerms :Repr ChowlaSelbergTerms**
 
@@ -236,7 +236,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.chowla_selberg_s4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L116-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L116-L121)
 **def
 Tau.BookIV.Calibration.chowla_selberg_s4 :ChowlaSelbergTerms**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.leading_exponent_is_neg7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L127-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L127-L133)
 **theorem
 Tau.BookIV.Calibration.leading_exponent_is_neg7 :chowla_selberg_s4.leading_exp = -7**
 
@@ -265,7 +265,7 @@ proportional to ι<sub>τ</sub>^(1-2×4) = ι<sub>τ</sub>^(-7).
 
 ### `Tau.BookIV.Calibration.exponent_formula_s4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L135-L137)
 **theorem
 Tau.BookIV.Calibration.exponent_formula_s4 :1 - 2 * 4 = -7**
 
@@ -276,7 +276,7 @@ At s = 4, the exponent formula gives 1 - 8 = -7.
 
 ### `Tau.BookIV.Calibration.s4_unique_from_neg7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L139-L141)
 **theorem
 Tau.BookIV.Calibration.s4_unique_from_neg7
 (s : ℕ)
@@ -289,7 +289,7 @@ The exponent -7 = 1 - 2s uniquely determines s = 4.
 
 ### `Tau.BookIV.Calibration.LatticeMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L147-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L147-L151)
 **inductive
 Tau.BookIV.Calibration.LatticeMode :Type**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLatticeMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
 **instance
 Tau.BookIV.Calibration.instReprLatticeMode :Repr LatticeMode**
 
@@ -315,7 +315,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprLatticeMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
 **def
 Tau.BookIV.Calibration.instReprLatticeMode.repr :LatticeMode → ℕ → Std.Format**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqLatticeMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L151-L151)
 **instance
 Tau.BookIV.Calibration.instDecidableEqLatticeMode :DecidableEq LatticeMode**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.NAxisDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L153-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L153-L162)
 **structure
 Tau.BookIV.Calibration.NAxisDominance :Type**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNAxisDominance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L162-L162)
 **def
 Tau.BookIV.Calibration.instReprNAxisDominance.repr :NAxisDominance → ℕ → Std.Format**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNAxisDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L162-L162)
 **instance
 Tau.BookIV.Calibration.instReprNAxisDominance :Repr NAxisDominance**
 
@@ -383,7 +383,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.n_axis_dominant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L164-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L164-L167)
 **def
 Tau.BookIV.Calibration.n_axis_dominant :NAxisDominance**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.NormalizationRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L173-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L173-L193)
 **structure
 Tau.BookIV.Calibration.NormalizationRemark :Type**
 
@@ -431,7 +431,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNormalizationRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L193-L193)
 **instance
 Tau.BookIV.Calibration.instReprNormalizationRemark :Repr NormalizationRemark**
 
@@ -442,7 +442,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprNormalizationRemark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L193-L193)
 **def
 Tau.BookIV.Calibration.instReprNormalizationRemark.repr :NormalizationRemark → ℕ → Std.Format**
 
@@ -454,7 +454,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.shape_is_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L199-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L199-L203)
 **theorem
 Tau.BookIV.Calibration.shape_is_iota :epstein_at_T2.shape_numer = Boundary.iota_tau_numer ∧ epstein_at_T2.shape_denom = Boundary.iota_tau_denom**
 
@@ -465,7 +465,7 @@ The shape parameter matches ι<sub>τ</sub>.
 
 ### `Tau.BookIV.Calibration.eval_at_s4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L205-L206)
 **theorem
 Tau.BookIV.Calibration.eval_at_s4 :epstein_at_T2.eval_point = 4**
 
@@ -476,7 +476,7 @@ The evaluation point is s = 4.
 
 ### `Tau.BookIV.Calibration.chowla_selberg_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/EpsteinZeta.lean#L208-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/EpsteinZeta.lean#L208-L211)
 **theorem
 Tau.BookIV.Calibration.chowla_selberg_consistent :chowla_selberg_s4.leading_exp = 1 - 2 * ↑chowla_selberg_s4.s**
 

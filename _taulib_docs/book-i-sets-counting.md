@@ -70,7 +70,7 @@ All three are blocked by the earned-arrow discipline.
 
 ### `Tau.Sets.GenerativeCountingPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L46-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L46-L57)
 **structure
 Tau.Sets.GenerativeCountingPrinciple
 (g : Kernel.Generator)
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.Sets.generative_counting_principle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L59-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L59-L68)
 **def
 Tau.Sets.generative_counting_principle
 (g : Kernel.Generator)
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.Sets.gcp_eq_iter_rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L70-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L70-L73)
 **theorem
 Tau.Sets.gcp_eq_iter_rho
 (g : Kernel.Generator)
@@ -142,7 +142,7 @@ The generative counting map agrees with iter_rho from the generator.
 
 ### `Tau.Sets.counting_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L79-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L79-L93)
 **theorem
 Tau.Sets.counting_structural :(∀ (g : Kernel.Generator),
  g ≠ Kernel.Generator.omega →
@@ -159,7 +159,7 @@ The injection TauObj -> Nat witnesses countability.
 
 ### `Tau.Sets.obj_tau_countable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L99-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L99-L106)
 **theorem
 Tau.Sets.obj_tau_countable :(∃ (f : Kernel.TauObj → ℕ), Function.Injective f) ∧ ∃ (g : ℕ → Kernel.TauObj), Function.Injective g**
 
@@ -172,7 +172,7 @@ Surjective: the alpha orbit maps Nat into TauObj injectively.
 
 ### `Tau.Sets.UncountablePrerequisites`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L112-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L112-L125)
 **structure
 Tau.Sets.UncountablePrerequisites :Type**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.Sets.no_uncountable_prerequisite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L127-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L127-L151)
 **def
 Tau.Sets.no_uncountable_prerequisite :UncountablePrerequisites**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.Sets.p1_verified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L153-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L153-L156)
 **theorem
 Tau.Sets.p1_verified :no_uncountable_prerequisite.no_impredicative_powerset = ∀ (b : Denotation.TauIdx), b ≠ 0 → ∀ (a : Denotation.TauIdx), tau_mem a b → a ≤ b**
 
@@ -238,7 +238,7 @@ Verification: P1 holds (finite divisor sets).
 
 ### `Tau.Sets.p2_verified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L158-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L158-L161)
 **theorem
 Tau.Sets.p2_verified :no_uncountable_prerequisite.no_comprehension = ¬∃ (R : Denotation.TauIdx), ∀ (a : Denotation.TauIdx), tau_mem a R ↔ ¬tau_mem a R**
 
@@ -249,7 +249,7 @@ Verification: P2 holds (no Russell set).
 
 ### `Tau.Sets.p1_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L163-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L163-L165)
 **theorem
 Tau.Sets.p1_true
 (b : Denotation.TauIdx)
@@ -262,7 +262,7 @@ P1 is provably true: divisor sets are bounded.
 
 ### `Tau.Sets.p2_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Counting.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Counting.lean#L167-L169)
 **theorem
 Tau.Sets.p2_true :¬∃ (R : Denotation.TauIdx), ∀ (a : Denotation.TauIdx), tau_mem a R ↔ ¬tau_mem a R**
 

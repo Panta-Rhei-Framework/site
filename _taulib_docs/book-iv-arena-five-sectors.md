@@ -67,7 +67,7 @@ power hierarchy, no-running principle, and generator adequacy.
 
 ### `Tau.BookIV.Arena.gen_sector_corr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L37-L40)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L37-L40)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Arena.gen_sector_corr
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.phi_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L46-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L46-L52)
 **theorem
 Tau.BookIV.Arena.phi_unique
 (Psi : Kernel.Generator → BookIII.Sectors.Sector)
@@ -106,7 +106,7 @@ Wraps assignment_unique from CoherenceKernel.
 
 ### `Tau.BookIV.Arena.CouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L58-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L58-L69)
 **structure
 Tau.BookIV.Arena.CouplingEntry :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCouplingEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L69-L69)
 **def
 Tau.BookIV.Arena.instReprCouplingEntry.repr :CouplingEntry → ℕ → Std.Format**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L69-L69)
 **instance
 Tau.BookIV.Arena.instReprCouplingEntry :Repr CouplingEntry**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookIV.Arena.CouplingLedger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L71-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L71-L79)
 **structure
 Tau.BookIV.Arena.CouplingLedger :Type**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.temporal_complement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L85-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L85-L90)
 **theorem
 Tau.BookIV.Arena.temporal_complement :Sectors.kappa_AA.numer + Sectors.kappa_DD.numer = Sectors.kappa_AA.denom**
 
@@ -190,7 +190,7 @@ Wraps CouplingFormulas.temporal_complement.
 
 ### `Tau.BookIV.Arena.temporal_mult_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L96-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L96-L101)
 **theorem
 Tau.BookIV.Arena.temporal_mult_closure :Sectors.kappa_AD.numer * (Sectors.kappa_AA.denom * Sectors.kappa_DD.denom) = Sectors.kappa_AA.numer * Sectors.kappa_DD.numer * Sectors.kappa_AD.denom**
 
@@ -202,7 +202,7 @@ Since κ(A) + κ(D) = 1 and κ(A) ≠ κ(D), strict inequality holds.
 
 ### `Tau.BookIV.Arena.power_hier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L111-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L111-L120)
 **theorem
 Tau.BookIV.Arena.power_hier :Sectors.kappa_BB.numer * (Sectors.kappa_AA.denom * Sectors.kappa_AA.denom) = Sectors.kappa_AA.numer * Sectors.kappa_AA.numer * Sectors.kappa_BB.denom ∧ Sectors.kappa_AC.numer * (Sectors.kappa_AA.denom * Sectors.kappa_CC.denom) = Sectors.kappa_AA.numer * Sectors.kappa_CC.numer * Sectors.kappa_AC.denom**
 
@@ -214,7 +214,7 @@ Wraps CouplingFormulas power relations and multiplicative closure.
 
 ### `Tau.BookIV.Arena.NoRunning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L129-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L129-L139)
 **structure
 Tau.BookIV.Arena.NoRunning :Type**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprNoRunning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L139-L139)
 **instance
 Tau.BookIV.Arena.instReprNoRunning :Repr NoRunning**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprNoRunning.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L139-L139)
 **def
 Tau.BookIV.Arena.instReprNoRunning.repr :NoRunning → ℕ → Std.Format**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.no_running`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L141-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L141-L146)
 **def
 Tau.BookIV.Arena.no_running :NoRunning**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.HolonomyGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L152-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L152-L161)
 **structure
 Tau.BookIV.Arena.HolonomyGenerator :Type**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprHolonomyGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L161-L161)
 **instance
 Tau.BookIV.Arena.instReprHolonomyGenerator :Repr HolonomyGenerator**
 
@@ -308,7 +308,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprHolonomyGenerator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L161-L161)
 **def
 Tau.BookIV.Arena.instReprHolonomyGenerator.repr :HolonomyGenerator → ℕ → Std.Format**
 
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.holonomy_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L163-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L163-L166)
 **def
 Tau.BookIV.Arena.holonomy_generators :List HolonomyGenerator**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.generator_adequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/FiveSectors.lean#L172-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/FiveSectors.lean#L172-L179)
 **theorem
 Tau.BookIV.Arena.generator_adequacy :holonomy_generators.length = 5 ∧ (List.map (fun (x : HolonomyGenerator) => x.sector) holonomy_generators).length = 5**
 

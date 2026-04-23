@@ -104,7 +104,7 @@ inapplicable.
 
 ### `Tau.BookII.Mirror.SCVDimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L73-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L73-L79)
 **inductive
 Tau.BookII.Mirror.SCVDimension :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqSCVDimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
 **instance
 Tau.BookII.Mirror.instDecidableEqSCVDimension :DecidableEq SCVDimension**
 
@@ -132,7 +132,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSCVDimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
 **instance
 Tau.BookII.Mirror.instReprSCVDimension :Repr SCVDimension**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSCVDimension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L79-L79)
 **def
 Tau.BookII.Mirror.instReprSCVDimension.repr :SCVDimension → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCVDimension.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L81-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L81-L86)
 **def
 Tau.BookII.Mirror.SCVDimension.toNat :SCVDimension → ℕ**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCVDimension.le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L88-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L88-L90)
 **def
 Tau.BookII.Mirror.SCVDimension.le
 (d1 d2 : SCVDimension)
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.SCVFeature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L96-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L96-L111)
 **inductive
 Tau.BookII.Mirror.SCVFeature :Type**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqSCVFeature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
 **instance
 Tau.BookII.Mirror.instDecidableEqSCVFeature :DecidableEq SCVFeature**
 
@@ -225,7 +225,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSCVFeature.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
 **def
 Tau.BookII.Mirror.instReprSCVFeature.repr :SCVFeature → ℕ → Std.Format**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprSCVFeature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L111-L111)
 **instance
 Tau.BookII.Mirror.instReprSCVFeature :Repr SCVFeature**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookII.Mirror.feature_origin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L113-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L113-L126)
 **def
 Tau.BookII.Mirror.feature_origin :SCVFeature → SCVDimension**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.features_present`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L132-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L132-L146)
 **def
 Tau.BookII.Mirror.features_present :SCVDimension → List SCVFeature**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.features_new`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L148-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L148-L154)
 **def
 Tau.BookII.Mirror.features_new :SCVDimension → List SCVFeature**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.c1_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L156-L157)
 **theorem
 Tau.BookII.Mirror.c1_count :(features_present SCVDimension.C1).length = 5**
 
@@ -313,7 +313,7 @@ C1 has 5 features.
 
 ### `Tau.BookII.Mirror.c2_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L159-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L159-L160)
 **theorem
 Tau.BookII.Mirror.c2_count :(features_present SCVDimension.C2).length = 8**
 
@@ -324,7 +324,7 @@ C2 has 8 features (5 inherited + 3 new).
 
 ### `Tau.BookII.Mirror.c3_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L162-L163)
 **theorem
 Tau.BookII.Mirror.c3_count :(features_present SCVDimension.C3).length = 12**
 
@@ -335,7 +335,7 @@ C3 has 12 features (8 inherited + 4 new).
 
 ### `Tau.BookII.Mirror.c4plus_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L165-L166)
 **theorem
 Tau.BookII.Mirror.c4plus_count :(features_present SCVDimension.C4plus).length = 12**
 
@@ -346,7 +346,7 @@ C4+ has 12 features (saturation).
 
 ### `Tau.BookII.Mirror.ladder_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L168-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L168-L173)
 **theorem
 Tau.BookII.Mirror.ladder_monotone :(features_present SCVDimension.C1).length ≤ (features_present SCVDimension.C2).length ∧ (features_present SCVDimension.C2).length ≤ (features_present SCVDimension.C3).length ∧ (features_present SCVDimension.C3).length ≤ (features_present SCVDimension.C4plus).length**
 
@@ -357,7 +357,7 @@ The ladder is monotonically non-decreasing.
 
 ### `Tau.BookII.Mirror.c4plus_saturated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L175-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L175-L176)
 **theorem
 Tau.BookII.Mirror.c4plus_saturated :(features_new SCVDimension.C4plus).length = 0**
 
@@ -368,7 +368,7 @@ C4+ adds nothing new: saturation.
 
 ### `Tau.BookII.Mirror.tau_features`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L182-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L182-L189)
 **def
 Tau.BookII.Mirror.tau_features :List SCVFeature**
 
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_absent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L191-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L191-L199)
 **def
 Tau.BookII.Mirror.tau_absent :List SCVFeature**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_feature_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L201-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L201-L202)
 **theorem
 Tau.BookII.Mirror.tau_feature_count :tau_features.length = 4**
 
@@ -408,7 +408,7 @@ Tau.BookII.Mirror.tau_feature_count :tau_features.length = 4**
 
 ### `Tau.BookII.Mirror.tau_absent_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L204-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L204-L205)
 **theorem
 Tau.BookII.Mirror.tau_absent_count :tau_absent.length = 6**
 
@@ -419,7 +419,7 @@ Tau.BookII.Mirror.tau_absent_count :tau_absent.length = 6**
 
 ### `Tau.BookII.Mirror.tau_coverage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L207-L210)
 **theorem
 Tau.BookII.Mirror.tau_coverage :tau_features.length + tau_absent.length = 10**
 
@@ -431,7 +431,7 @@ Tau.BookII.Mirror.tau_coverage :tau_features.length + tau_absent.length = 10**
 
 ### `Tau.BookII.Mirror.tau_feature_origins`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L216-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L216-L218)
 **def
 Tau.BookII.Mirror.tau_feature_origins :List SCVDimension**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_origins_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L220-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L220-L222)
 **theorem
 Tau.BookII.Mirror.tau_origins_value :tau_feature_origins = [SCVDimension.C1, SCVDimension.C2, SCVDimension.C2, SCVDimension.C3]**
 
@@ -456,7 +456,7 @@ The origins list is [C1, C2, C2, C3].
 
 ### `Tau.BookII.Mirror.tau_distinct_rungs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L224-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L224-L225)
 **def
 Tau.BookII.Mirror.tau_distinct_rungs :List SCVDimension**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.rung_present`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L227-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L227-L229)
 **def
 Tau.BookII.Mirror.rung_present
 (d : SCVDimension)
@@ -486,7 +486,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.c1_present`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L231-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L231-L232)
 **theorem
 Tau.BookII.Mirror.c1_present :rung_present SCVDimension.C1 = true**
 
@@ -497,7 +497,7 @@ C1 is represented (via CauchyIntegral).
 
 ### `Tau.BookII.Mirror.c2_present`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L234-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L234-L235)
 **theorem
 Tau.BookII.Mirror.c2_present :rung_present SCVDimension.C2 = true**
 
@@ -508,7 +508,7 @@ C2 is represented (via DistinguishedBoundary, HartogsExtension).
 
 ### `Tau.BookII.Mirror.c3_present`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L237-L238)
 **theorem
 Tau.BookII.Mirror.c3_present :rung_present SCVDimension.C3 = true**
 
@@ -519,7 +519,7 @@ C3 is represented (via FullHartogs).
 
 ### `Tau.BookII.Mirror.tau_spans_three_rungs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L240-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L240-L242)
 **theorem
 Tau.BookII.Mirror.tau_spans_three_rungs :tau_distinct_rungs.length = 3**
 
@@ -530,7 +530,7 @@ Tau.BookII.Mirror.tau_spans_three_rungs :tau_distinct_rungs.length = 3**
 
 ### `Tau.BookII.Mirror.simultaneous_rung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L244-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L244-L249)
 **theorem
 Tau.BookII.Mirror.simultaneous_rung :tau_distinct_rungs.length ≥ 3**
 
@@ -544,7 +544,7 @@ and C3 (FullHartogs).
 
 ### `Tau.BookII.Mirror.tau_rungs_are_c1_c2_c3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L251-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L251-L253)
 **theorem
 Tau.BookII.Mirror.tau_rungs_are_c1_c2_c3 :tau_distinct_rungs = [SCVDimension.C1, SCVDimension.C2, SCVDimension.C3]**
 
@@ -555,7 +555,7 @@ The three specific rungs are C1, C2, C3.
 
 ### `Tau.BookII.Mirror.tau_violates_monotone_acquisition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L255-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L255-L266)
 **theorem
 Tau.BookII.Mirror.tau_violates_monotone_acquisition :List.elem SCVDimension.C3 (List.map feature_origin tau_features) = true ∧ List.elem SCVFeature.RiemannMapping tau_absent = true ∧ List.elem SCVFeature.Monodromy tau_absent = true ∧ List.elem SCVFeature.IsolatedSingularities tau_absent = true**
 
@@ -569,7 +569,7 @@ pattern by having C3 features (FullHartogs) while lacking C1 features
 
 ### `Tau.BookII.Mirror.ArchimedeanEllipticEngine`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L272-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L272-L289)
 **structure
 Tau.BookII.Mirror.ArchimedeanEllipticEngine :Type**
 
@@ -605,7 +605,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.engine_active`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L291-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L291-L293)
 **def
 Tau.BookII.Mirror.engine_active
 (q : PhysicsQuadrant)
@@ -621,7 +621,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.engine_for_quadrant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L295-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L295-L302)
 **def
 Tau.BookII.Mirror.engine_for_quadrant
 (q : PhysicsQuadrant)
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.engine_active_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L304-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L304-L306)
 **theorem
 Tau.BookII.Mirror.engine_active_qft :engine_active qft_quadrant = true**
 
@@ -648,7 +648,7 @@ The engine is active in the QFT quadrant (Elliptic, Archimedean).
 
 ### `Tau.BookII.Mirror.engine_inactive_gr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L308-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L308-L311)
 **theorem
 Tau.BookII.Mirror.engine_inactive_gr :engine_active gr_local_quadrant = false**
 
@@ -660,7 +660,7 @@ missing the elliptic ingredient.
 
 ### `Tau.BookII.Mirror.engine_inactive_padic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L313-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L313-L316)
 **theorem
 Tau.BookII.Mirror.engine_inactive_padic :engine_active padic_quadrant = false**
 
@@ -672,7 +672,7 @@ missing the Archimedean ingredient.
 
 ### `Tau.BookII.Mirror.tau_engine_inactive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L322-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L322-L324)
 **theorem
 Tau.BookII.Mirror.tau_engine_inactive :engine_active tau_quadrant = false**
 
@@ -683,7 +683,7 @@ Tau.BookII.Mirror.tau_engine_inactive :engine_active tau_quadrant = false**
 
 ### `Tau.BookII.Mirror.ladder_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L326-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L326-L334)
 **theorem
 Tau.BookII.Mirror.ladder_collapse :engine_active tau_quadrant = false ∧ tau_quadrant.pde = PDEAxis.Hyperbolic ∧ tau_quadrant.metric = MetricAxis.NonArchimedean**
 
@@ -696,7 +696,7 @@ that generates it is absent.
 
 ### `Tau.BookII.Mirror.tau_engine_both_absent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L336-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L336-L340)
 **theorem
 Tau.BookII.Mirror.tau_engine_both_absent :have e := engine_for_quadrant tau_quadrant;
 e.has_metric_dimension = false ∧ e.has_elliptic_cr = false**
@@ -708,7 +708,7 @@ The engine's two ingredients are both absent for tau.
 
 ### `Tau.BookII.Mirror.engine_unique_to_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L342-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L342-L348)
 **theorem
 Tau.BookII.Mirror.engine_unique_to_qft :engine_active qft_quadrant = true ∧ engine_active gr_local_quadrant = false ∧ engine_active padic_quadrant = false ∧ engine_active tau_quadrant = false**
 
@@ -719,7 +719,7 @@ Only the QFT quadrant has an active engine.
 
 ### `Tau.BookII.Mirror.DimensionalRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L354-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L354-L365)
 **structure
 Tau.BookII.Mirror.DimensionalRigidity :Type**
 
@@ -745,7 +745,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprDimensionalRigidity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L365-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L365-L365)
 **def
 Tau.BookII.Mirror.instReprDimensionalRigidity.repr :DimensionalRigidity → ℕ → Std.Format**
 
@@ -757,7 +757,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprDimensionalRigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L365-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L365-L365)
 **instance
 Tau.BookII.Mirror.instReprDimensionalRigidity :Repr DimensionalRigidity**
 
@@ -768,7 +768,7 @@ Equations
 
 ### `Tau.BookII.Mirror.tau_rigidity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L367-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L367-L372)
 **def
 Tau.BookII.Mirror.tau_rigidity :DimensionalRigidity**
 
@@ -782,7 +782,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.fibration_forced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L374-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L374-L377)
 **theorem
 Tau.BookII.Mirror.fibration_forced :tau_rigidity.fibration_index = tau_rigidity.base_factors + tau_rigidity.fiber_factors**
 
@@ -793,7 +793,7 @@ Tau.BookII.Mirror.fibration_forced :tau_rigidity.fibration_index = tau_rigidity.
 
 ### `Tau.BookII.Mirror.refinement_is_abcd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L379-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L379-L381)
 **theorem
 Tau.BookII.Mirror.refinement_is_abcd :tau_rigidity.refinement_dim = 4**
 
@@ -804,7 +804,7 @@ Tau.BookII.Mirror.refinement_is_abcd :tau_rigidity.refinement_dim = 4**
 
 ### `Tau.BookII.Mirror.fibration_is_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L383-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L383-L385)
 **theorem
 Tau.BookII.Mirror.fibration_is_three :tau_rigidity.fibration_index = 3**
 
@@ -815,7 +815,7 @@ Tau.BookII.Mirror.fibration_is_three :tau_rigidity.fibration_index = 3**
 
 ### `Tau.BookII.Mirror.rigidity_no_free_parameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L387-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L387-L393)
 **theorem
 Tau.BookII.Mirror.rigidity_no_free_parameter :tau_rigidity.fibration_index = tau_rigidity.base_factors + tau_rigidity.fiber_factors ∧ tau_rigidity.base_factors = 1 ∧ tau_rigidity.fiber_factors = 2**
 
@@ -827,7 +827,7 @@ the fibration index is determined by the base and fiber structure.
 
 ### `Tau.BookII.Mirror.tau_moduli_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L399-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L399-L400)
 **def
 Tau.BookII.Mirror.tau_moduli_count :ℕ**
 
@@ -841,7 +841,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.categoricity_no_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L402-L404)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L402-L404)
 **def
 Tau.BookII.Mirror.categoricity_no_ladder :Bool**
 
@@ -855,7 +855,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.categoricity_kills_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L406-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L406-L408)
 **theorem
 Tau.BookII.Mirror.categoricity_kills_ladder :categoricity_no_ladder = true**
 
@@ -866,7 +866,7 @@ Tau.BookII.Mirror.categoricity_kills_ladder :categoricity_no_ladder = true**
 
 ### `Tau.BookII.Mirror.moduli_singleton`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L410-L412)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L410-L412)
 **theorem
 Tau.BookII.Mirror.moduli_singleton :tau_moduli_count = 1**
 
@@ -877,7 +877,7 @@ Tau.BookII.Mirror.moduli_singleton :tau_moduli_count = 1**
 
 ### `Tau.BookII.Mirror.full_ladder_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L418-L430)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L418-L430)
 **theorem
 Tau.BookII.Mirror.full_ladder_collapse :engine_active tau_quadrant = false ∧ tau_rigidity.fibration_index = tau_rigidity.base_factors + tau_rigidity.fiber_factors ∧ tau_moduli_count = 1 ∧ tau_distinct_rungs.length = 3**
 
@@ -890,7 +890,7 @@ why τ³ has no dimensional ladder.
 
 ### `Tau.BookII.Mirror.engine_only_qft_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L484-L489)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L484-L489)
 **theorem
 Tau.BookII.Mirror.engine_only_qft_native :engine_active qft_quadrant = true ∧ engine_active gr_local_quadrant = false ∧ engine_active padic_quadrant = false ∧ engine_active tau_quadrant = false**
 
@@ -899,7 +899,7 @@ Tau.BookII.Mirror.engine_only_qft_native :engine_active qft_quadrant = true ∧ 
 
 ### `Tau.BookII.Mirror.rigidity_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L492-L497)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L492-L497)
 **theorem
 Tau.BookII.Mirror.rigidity_native :tau_rigidity.fibration_index = 3 ∧ tau_rigidity.refinement_dim = 4 ∧ tau_rigidity.base_factors = 1 ∧ tau_rigidity.fiber_factors = 2**
 
@@ -908,7 +908,7 @@ Tau.BookII.Mirror.rigidity_native :tau_rigidity.fibration_index = 3 ∧ tau_rigi
 
 ### `Tau.BookII.Mirror.simultaneous_rung_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L500-L501)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L500-L501)
 **theorem
 Tau.BookII.Mirror.simultaneous_rung_native :tau_distinct_rungs.length = 3**
 
@@ -917,7 +917,7 @@ Tau.BookII.Mirror.simultaneous_rung_native :tau_distinct_rungs.length = 3**
 
 ### `Tau.BookII.Mirror.ladder_collapse_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L504-L505)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L504-L505)
 **theorem
 Tau.BookII.Mirror.ladder_collapse_native :engine_active tau_quadrant = false**
 
@@ -926,6 +926,6 @@ Tau.BookII.Mirror.ladder_collapse_native :engine_active tau_quadrant = false**
 
 ### `Tau.BookII.Mirror.categoricity_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/DimensionalLadder.lean#L508-L509)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/DimensionalLadder.lean#L508-L509)
 **theorem
 Tau.BookII.Mirror.categoricity_native :categoricity_no_ladder = true**

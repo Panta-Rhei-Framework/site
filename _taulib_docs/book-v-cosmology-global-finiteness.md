@@ -115,7 +115,7 @@ defect). No infinite tower of ever-larger structures exists.
 
 ### `Tau.BookV.Cosmology.MotifStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L72-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L72-L80)
 **inductive
 Tau.BookV.Cosmology.MotifStability :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMotifStability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
 **def
 Tau.BookV.Cosmology.instReprMotifStability.repr :MotifStability → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMotifStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
 **instance
 Tau.BookV.Cosmology.instReprMotifStability :Repr MotifStability**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqMotifStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
 **instance
 Tau.BookV.Cosmology.instDecidableEqMotifStability :DecidableEq MotifStability**
 
@@ -171,7 +171,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqMotifStability.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
 **def
 Tau.BookV.Cosmology.instBEqMotifStability.beq :MotifStability → MotifStability → Bool**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instBEqMotifStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L80-L80)
 **instance
 Tau.BookV.Cosmology.instBEqMotifStability :BEq MotifStability**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.TopologicalMotif`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L82-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L82-L102)
 **structure
 Tau.BookV.Cosmology.TopologicalMotif :Type**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTopologicalMotif`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L102-L102)
 **instance
 Tau.BookV.Cosmology.instReprTopologicalMotif :Repr TopologicalMotif**
 
@@ -243,7 +243,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprTopologicalMotif.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L102-L102)
 **def
 Tau.BookV.Cosmology.instReprTopologicalMotif.repr :TopologicalMotif → ℕ → Std.Format**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.FiniteMotifBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L108-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L108-L132)
 **structure
 Tau.BookV.Cosmology.FiniteMotifBound :Type**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiniteMotifBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L132-L132)
 **def
 Tau.BookV.Cosmology.instReprFiniteMotifBound.repr :FiniteMotifBound → ℕ → Std.Format**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiniteMotifBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L132-L132)
 **instance
 Tau.BookV.Cosmology.instReprFiniteMotifBound :Repr FiniteMotifBound**
 
@@ -319,7 +319,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.motif_bound_depth1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L134-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L134-L141)
 **def
 Tau.BookV.Cosmology.motif_bound_depth1 :FiniteMotifBound**
 
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.finite_motif_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L143-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L143-L145)
 **theorem
 Tau.BookV.Cosmology.finite_motif_theorem
 (b : FiniteMotifBound)
@@ -346,7 +346,7 @@ Finite motif theorem: count is bounded.
 
 ### `Tau.BookV.Cosmology.defect_tuple_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L147-L148)
 **theorem
 Tau.BookV.Cosmology.defect_tuple_base :2 ^ 4 = 16**
 
@@ -357,7 +357,7 @@ Tau.BookV.Cosmology.defect_tuple_base :2 ^ 4 = 16**
 
 ### `Tau.BookV.Cosmology.SaturationRadius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L154-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L154-L171)
 **structure
 Tau.BookV.Cosmology.SaturationRadius :Type**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSaturationRadius.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L171-L171)
 **def
 Tau.BookV.Cosmology.instReprSaturationRadius.repr :SaturationRadius → ℕ → Std.Format**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSaturationRadius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L171-L171)
 **instance
 Tau.BookV.Cosmology.instReprSaturationRadius :Repr SaturationRadius**
 
@@ -416,7 +416,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.saturation_radius_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L177-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L177-L187)
 **theorem
 Tau.BookV.Cosmology.saturation_radius_theorem
 (r : SaturationRadius)
@@ -442,7 +442,7 @@ The saturation radius is a structural property of τ³
 
 ### `Tau.BookV.Cosmology.AbsorbingPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L193-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L193-L212)
 **structure
 Tau.BookV.Cosmology.AbsorbingPattern :Type**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprAbsorbingPattern.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L212-L212)
 **def
 Tau.BookV.Cosmology.instReprAbsorbingPattern.repr :AbsorbingPattern → ℕ → Std.Format**
 
@@ -495,7 +495,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprAbsorbingPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L212-L212)
 **instance
 Tau.BookV.Cosmology.instReprAbsorbingPattern :Repr AbsorbingPattern**
 
@@ -506,7 +506,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.absorbing_pattern_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L218-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L218-L229)
 **theorem
 Tau.BookV.Cosmology.absorbing_pattern_theorem
 (ap : AbsorbingPattern)
@@ -531,7 +531,7 @@ ever-larger structures exists.
 
 ### `Tau.BookV.Cosmology.contrast_fractal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L235-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L235-L240)
 **def
 Tau.BookV.Cosmology.contrast_fractal :Prop**
 
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.contrast_fractal_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L242-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L242-L242)
 **theorem
 Tau.BookV.Cosmology.contrast_fractal_holds :contrast_fractal**
 
@@ -556,7 +556,7 @@ Tau.BookV.Cosmology.contrast_fractal_holds :contrast_fractal**
 
 ### `Tau.BookV.Cosmology.saturation_vs_observable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L248-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L248-L254)
 **def
 Tau.BookV.Cosmology.saturation_vs_observable :Prop**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.saturation_vs_observable_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L256-L256)
 **theorem
 Tau.BookV.Cosmology.saturation_vs_observable_holds :saturation_vs_observable**
 
@@ -582,7 +582,7 @@ Tau.BookV.Cosmology.saturation_vs_observable_holds :saturation_vs_observable**
 
 ### `Tau.BookV.Cosmology.no_infinite_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L262-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L262-L267)
 **def
 Tau.BookV.Cosmology.no_infinite_hierarchy :Prop**
 
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.no_hierarchy_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L269-L269)
 **theorem
 Tau.BookV.Cosmology.no_hierarchy_holds :no_infinite_hierarchy**
 
@@ -607,7 +607,7 @@ Tau.BookV.Cosmology.no_hierarchy_holds :no_infinite_hierarchy**
 
 ### `Tau.BookV.Cosmology.GlobalFinitenessStatement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L275-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L275-L294)
 **structure
 Tau.BookV.Cosmology.GlobalFinitenessStatement :Type**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprGlobalFinitenessStatement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L294-L294)
 **def
 Tau.BookV.Cosmology.instReprGlobalFinitenessStatement.repr :GlobalFinitenessStatement → ℕ → Std.Format**
 
@@ -657,7 +657,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprGlobalFinitenessStatement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L294-L294)
 **instance
 Tau.BookV.Cosmology.instReprGlobalFinitenessStatement :Repr GlobalFinitenessStatement**
 
@@ -668,7 +668,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.global_finiteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L296-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L296-L298)
 **theorem
 Tau.BookV.Cosmology.global_finiteness :4 = 4**
 
@@ -679,7 +679,7 @@ The chain has 4 theorems.
 
 ### `Tau.BookV.Cosmology.what_chain_does_not_prove`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L304-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L304-L310)
 **def
 Tau.BookV.Cosmology.what_chain_does_not_prove :Prop**
 
@@ -696,7 +696,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.chain_disclaimer_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L312-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L312-L312)
 **theorem
 Tau.BookV.Cosmology.chain_disclaimer_holds :what_chain_does_not_prove**
 
@@ -705,7 +705,7 @@ Tau.BookV.Cosmology.chain_disclaimer_holds :what_chain_does_not_prove**
 
 ### `Tau.BookV.Cosmology.vacuum_motif`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L318-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L318-L326)
 **def
 Tau.BookV.Cosmology.vacuum_motif :TopologicalMotif**
 
@@ -719,7 +719,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.example_absorbing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L328-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/GlobalFiniteness.lean#L328-L331)
 **def
 Tau.BookV.Cosmology.example_absorbing :AbsorbingPattern**
 

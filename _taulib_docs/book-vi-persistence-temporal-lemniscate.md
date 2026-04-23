@@ -66,7 +66,7 @@ Temporal lemniscate L_T, circadian rhythms, and homochirality.
 
 ### `Tau.BookVI.TempLem.TemporalLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L34-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L34-L49)
 **structure
 Tau.BookVI.TempLem.TemporalLemniscate :Type**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprTemporalLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L49-L49)
 **instance
 Tau.BookVI.TempLem.instReprTemporalLemniscate :Repr TemporalLemniscate**
 
@@ -108,7 +108,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprTemporalLemniscate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L49-L49)
 **def
 Tau.BookVI.TempLem.instReprTemporalLemniscate.repr :TemporalLemniscate → ℕ → Std.Format**
 
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.temporal_lem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L51-L53)
 **def
 Tau.BookVI.TempLem.temporal_lem :TemporalLemniscate**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.temporal_lemniscate_two_lobes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L55-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L55-L56)
 **theorem
 Tau.BookVI.TempLem.temporal_lemniscate_two_lobes :temporal_lem.lobe_count = 2**
 
@@ -141,7 +141,7 @@ Tau.BookVI.TempLem.temporal_lemniscate_two_lobes :temporal_lem.lobe_count = 2**
 
 ### `Tau.BookVI.TempLem.temporal_lemniscate_winding_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L58-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L58-L59)
 **theorem
 Tau.BookVI.TempLem.temporal_lemniscate_winding_one :temporal_lem.winding_number = 1**
 
@@ -150,7 +150,7 @@ Tau.BookVI.TempLem.temporal_lemniscate_winding_one :temporal_lem.winding_number 
 
 ### `Tau.BookVI.TempLem.CircadianPoincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L65-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L65-L82)
 **structure
 Tau.BookVI.TempLem.CircadianPoincare :Type**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprCircadianPoincare.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L82-L82)
 **def
 Tau.BookVI.TempLem.instReprCircadianPoincare.repr :CircadianPoincare → ℕ → Std.Format**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprCircadianPoincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L82-L82)
 **instance
 Tau.BookVI.TempLem.instReprCircadianPoincare :Repr CircadianPoincare**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.circadian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L84-L86)
 **def
 Tau.BookVI.TempLem.circadian :CircadianPoincare**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.circadian_poincare_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L88-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L88-L93)
 **theorem
 Tau.BookVI.TempLem.circadian_poincare_orbit :circadian.period_hours = 24 ∧ circadian.is_limit_cycle = true ∧ circadian.traces_L_T = true ∧ circadian.winding_alpha = 1**
 
@@ -228,7 +228,7 @@ Tau.BookVI.TempLem.circadian_poincare_orbit :circadian.period_hours = 24 ∧ cir
 
 ### `Tau.BookVI.TempLem.CircadianTau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L99-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L99-L107)
 **structure
 Tau.BookVI.TempLem.CircadianTau1 :Type**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprCircadianTau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L107-L107)
 **instance
 Tau.BookVI.TempLem.instReprCircadianTau1 :Repr CircadianTau1**
 
@@ -260,7 +260,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprCircadianTau1.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L107-L107)
 **def
 Tau.BookVI.TempLem.instReprCircadianTau1.repr :CircadianTau1 → ℕ → Std.Format**
 
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.circadian_tau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L109-L109)
 **def
 Tau.BookVI.TempLem.circadian_tau1 :CircadianTau1**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.circadian_tau1_rotation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L111-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L111-L112)
 **theorem
 Tau.BookVI.TempLem.circadian_tau1_rotation :circadian_tau1.tau1_locked = true**
 
@@ -293,7 +293,7 @@ Tau.BookVI.TempLem.circadian_tau1_rotation :circadian_tau1.tau1_locked = true**
 
 ### `Tau.BookVI.TempLem.Homochirality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L118-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L118-L131)
 **structure
 Tau.BookVI.TempLem.Homochirality :Type**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprHomochirality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L131-L131)
 **instance
 Tau.BookVI.TempLem.instReprHomochirality :Repr Homochirality**
 
@@ -332,7 +332,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprHomochirality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L131-L131)
 **def
 Tau.BookVI.TempLem.instReprHomochirality.repr :Homochirality → ℕ → Std.Format**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.HomochiralityParityShadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L133-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L133-L143)
 **structure
 Tau.BookVI.TempLem.HomochiralityParityShadow :Type**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityParityShadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L143-L143)
 **instance
 Tau.BookVI.TempLem.instReprHomochiralityParityShadow :Repr HomochiralityParityShadow**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityParityShadow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L143-L143)
 **def
 Tau.BookVI.TempLem.instReprHomochiralityParityShadow.repr :HomochiralityParityShadow → ℕ → Std.Format**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.homo_parity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L145-L145)
 **def
 Tau.BookVI.TempLem.homo_parity :HomochiralityParityShadow**
 
@@ -403,7 +403,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.homochirality_parity_shadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L147-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L147-L151)
 **theorem
 Tau.BookVI.TempLem.homochirality_parity_shadow :homo_parity.iv_t146_majorana = true ∧ homo_parity.iv_t160_strong_cp = true ∧ homo_parity.temporal_protection = true**
 
@@ -412,7 +412,7 @@ Tau.BookVI.TempLem.homochirality_parity_shadow :homo_parity.iv_t146_majorana = t
 
 ### `Tau.BookVI.TempLem.EnantiomericExcess`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L157-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L157-L170)
 **structure
 Tau.BookVI.TempLem.EnantiomericExcess :Type**
 
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprEnantiomericExcess`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L170-L170)
 **instance
 Tau.BookVI.TempLem.instReprEnantiomericExcess :Repr EnantiomericExcess**
 
@@ -451,7 +451,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprEnantiomericExcess.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L170-L170)
 **def
 Tau.BookVI.TempLem.instReprEnantiomericExcess.repr :EnantiomericExcess → ℕ → Std.Format**
 
@@ -463,7 +463,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.StereochemicalSelection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L176-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L176-L189)
 **structure
 Tau.BookVI.TempLem.StereochemicalSelection :Type**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprStereochemicalSelection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L189-L189)
 **def
 Tau.BookVI.TempLem.instReprStereochemicalSelection.repr :StereochemicalSelection → ℕ → Std.Format**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprStereochemicalSelection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L189-L189)
 **instance
 Tau.BookVI.TempLem.instReprStereochemicalSelection :Repr StereochemicalSelection**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.stereochemical_sel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L191-L191)
 **def
 Tau.BookVI.TempLem.stereochemical_sel :StereochemicalSelection**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.stereochemical_selection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L193-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L193-L198)
 **theorem
 Tau.BookVI.TempLem.stereochemical_selection :stereochemical_sel.selfdesc_amplification = true ∧ stereochemical_sel.seed_from_parity_bridge = true ∧ stereochemical_sel.exponential_gain = true ∧ stereochemical_sel.final_ee_is_one = true**
 
@@ -535,7 +535,7 @@ Tau.BookVI.TempLem.stereochemical_selection :stereochemical_sel.selfdesc_amplifi
 
 ### `Tau.BookVI.TempLem.EeMonotoneConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L204-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L204-L218)
 **structure
 Tau.BookVI.TempLem.EeMonotoneConvergence :Type**
 
@@ -564,7 +564,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprEeMonotoneConvergence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L218-L218)
 **def
 Tau.BookVI.TempLem.instReprEeMonotoneConvergence.repr :EeMonotoneConvergence → ℕ → Std.Format**
 
@@ -576,7 +576,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprEeMonotoneConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L218-L218)
 **instance
 Tau.BookVI.TempLem.instReprEeMonotoneConvergence :Repr EeMonotoneConvergence**
 
@@ -587,7 +587,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.ee_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L220-L220)
 **def
 Tau.BookVI.TempLem.ee_convergence :EeMonotoneConvergence**
 
@@ -599,7 +599,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.ee_monotone_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L222-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L222-L227)
 **theorem
 Tau.BookVI.TempLem.ee_monotone_convergence :ee_convergence.monotone_increasing = true ∧ ee_convergence.limit_is_one = true ∧ ee_convergence.hodge_stabilization = true ∧ ee_convergence.poincare_lockin = true**
 
@@ -608,7 +608,7 @@ Tau.BookVI.TempLem.ee_monotone_convergence :ee_convergence.monotone_increasing =
 
 ### `Tau.BookVI.TempLem.HomochiralityUniversality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L233-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L233-L247)
 **structure
 Tau.BookVI.TempLem.HomochiralityUniversality :Type**
 
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityUniversality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L247-L247)
 **def
 Tau.BookVI.TempLem.instReprHomochiralityUniversality.repr :HomochiralityUniversality → ℕ → Std.Format**
 
@@ -649,7 +649,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityUniversality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L247-L247)
 **instance
 Tau.BookVI.TempLem.instReprHomochiralityUniversality :Repr HomochiralityUniversality**
 
@@ -660,7 +660,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.homochirality_universality_inst`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L249-L249)
 **def
 Tau.BookVI.TempLem.homochirality_universality_inst :HomochiralityUniversality**
 
@@ -672,7 +672,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.homochirality_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L251-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L251-L255)
 **theorem
 Tau.BookVI.TempLem.homochirality_universality :homochirality_universality_inst.universal_chirality = true ∧ homochirality_universality_inst.from_unique_path = true ∧ homochirality_universality_inst.applies_to_all_carriers = true**
 
@@ -681,7 +681,7 @@ Tau.BookVI.TempLem.homochirality_universality :homochirality_universality_inst.u
 
 ### `Tau.BookVI.TempLem.HomochiralityScopeUpgrade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L261-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L261-L280)
 **structure
 Tau.BookVI.TempLem.HomochiralityScopeUpgrade :Type**
 
@@ -715,7 +715,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityScopeUpgrade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L280-L280)
 **instance
 Tau.BookVI.TempLem.instReprHomochiralityScopeUpgrade :Repr HomochiralityScopeUpgrade**
 
@@ -726,7 +726,7 @@ Equations
 
 ### `Tau.BookVI.TempLem.instReprHomochiralityScopeUpgrade.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L280-L280)
 **def
 Tau.BookVI.TempLem.instReprHomochiralityScopeUpgrade.repr :HomochiralityScopeUpgrade → ℕ → Std.Format**
 
@@ -738,7 +738,7 @@ Instances For
 
 ### `Tau.BookVI.TempLem.scope_upgrade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L282-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Persistence/TemporalLemniscate.lean#L282-L284)
 **def
 Tau.BookVI.TempLem.scope_upgrade :HomochiralityScopeUpgrade**
 

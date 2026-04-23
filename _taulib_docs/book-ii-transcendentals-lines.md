@@ -52,7 +52,7 @@ Level circles: points sharing the same D-residue mod P_k at stage k.
 
 ### `Tau.BookII.Transcendentals.alpha_ray_member`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L33-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L33-L38)
 **def
 Tau.BookII.Transcendentals.alpha_ray_member
 (x a : Denotation.TauIdx)
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.alpha_ray_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L40-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L40-L48)
 **def
 Tau.BookII.Transcendentals.alpha_ray_count
 (a bound : Denotation.TauIdx)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.alpha_ray_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L44-L47)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L44-L47)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.alpha_ray_count.go
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.level_circle_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L54-L57)
 **def
 Tau.BookII.Transcendentals.level_circle_mem
 (x y k : Denotation.TauIdx)
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.level_nesting_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L59-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L59-L70)
 **def
 Tau.BookII.Transcendentals.level_nesting_check
 (bound : Denotation.TauIdx)
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.level_nesting_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L63-L69)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L63-L69)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.level_nesting_check.go
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.count_d_residues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L76-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L76-L86)
 **def
 Tau.BookII.Transcendentals.count_d_residues
 (a k bound : Denotation.TauIdx)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.count_d_residues.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L80-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L80-L85)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.count_d_residues.go
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.real_inverse_limit_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L88-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L88-L102)
 **def
 Tau.BookII.Transcendentals.real_inverse_limit_check
 (a bound stages : Denotation.TauIdx)
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.real_inverse_limit_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L95-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L95-L101)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.real_inverse_limit_check.go
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.alpha_ray_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L104-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L104-L115)
 **def
 Tau.BookII.Transcendentals.alpha_ray_growth_check
 (a bound stages : Denotation.TauIdx)
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.alpha_ray_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L109-L114)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L109-L114)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.alpha_ray_growth_check.go
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.alpha_ray_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L145-L145)
 **theorem
 Tau.BookII.Transcendentals.alpha_ray_2 :alpha_ray_member 2 2 = true**
 
@@ -267,7 +267,7 @@ Tau.BookII.Transcendentals.alpha_ray_2 :alpha_ray_member 2 2 = true**
 
 ### `Tau.BookII.Transcendentals.alpha_ray_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L146-L146)
 **theorem
 Tau.BookII.Transcendentals.alpha_ray_3 :alpha_ray_member 3 3 = true**
 
@@ -276,7 +276,7 @@ Tau.BookII.Transcendentals.alpha_ray_3 :alpha_ray_member 3 3 = true**
 
 ### `Tau.BookII.Transcendentals.alpha_ray_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L147-L147)
 **theorem
 Tau.BookII.Transcendentals.alpha_ray_12 :alpha_ray_member 12 3 = true**
 
@@ -285,7 +285,7 @@ Tau.BookII.Transcendentals.alpha_ray_12 :alpha_ray_member 12 3 = true**
 
 ### `Tau.BookII.Transcendentals.alpha_ray_not_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L148-L148)
 **theorem
 Tau.BookII.Transcendentals.alpha_ray_not_8 :alpha_ray_member 8 2 = false**
 
@@ -294,7 +294,7 @@ Tau.BookII.Transcendentals.alpha_ray_not_8 :alpha_ray_member 8 2 = false**
 
 ### `Tau.BookII.Transcendentals.alpha_ray_not_64`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L149-L149)
 **theorem
 Tau.BookII.Transcendentals.alpha_ray_not_64 :alpha_ray_member 64 2 = false**
 
@@ -303,7 +303,7 @@ Tau.BookII.Transcendentals.alpha_ray_not_64 :alpha_ray_member 64 2 = false**
 
 ### `Tau.BookII.Transcendentals.level_nest_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L151-L151)
 **theorem
 Tau.BookII.Transcendentals.level_nest_20 :level_nesting_check 20 = true**
 
@@ -312,7 +312,7 @@ Tau.BookII.Transcendentals.level_nest_20 :level_nesting_check 20 = true**
 
 ### `Tau.BookII.Transcendentals.inv_lim_2_50_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L152-L152)
 **theorem
 Tau.BookII.Transcendentals.inv_lim_2_50_3 :real_inverse_limit_check 2 50 3 = true**
 
@@ -321,6 +321,6 @@ Tau.BookII.Transcendentals.inv_lim_2_50_3 :real_inverse_limit_check 2 50 3 = tru
 
 ### `Tau.BookII.Transcendentals.growth_2_50_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Lines.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Lines.lean#L153-L153)
 **theorem
 Tau.BookII.Transcendentals.growth_2_50_3 :alpha_ray_growth_check 2 50 3 = true**

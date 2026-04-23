@@ -120,7 +120,7 @@ Gravitational waves are propagating solutions of the linearized
 
 ### `Tau.BookV.GravityField.LinearizedEinstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L71-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L71-L93)
 **structure
 Tau.BookV.GravityField.LinearizedEinstein :Type**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprLinearizedEinstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L93-L93)
 **instance
 Tau.BookV.GravityField.instReprLinearizedEinstein :Repr LinearizedEinstein**
 
@@ -174,7 +174,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprLinearizedEinstein.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L93-L93)
 **def
 Tau.BookV.GravityField.instReprLinearizedEinstein.repr :LinearizedEinstein → ℕ → Std.Format**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.first_order_einstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L95-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L95-L101)
 **def
 Tau.BookV.GravityField.first_order_einstein :LinearizedEinstein**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GWPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L107-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L107-L113)
 **inductive
 Tau.BookV.GravityField.GWPolarization :Type**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGWPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
 **instance
 Tau.BookV.GravityField.instReprGWPolarization :Repr GWPolarization**
 
@@ -230,7 +230,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprGWPolarization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
 **def
 Tau.BookV.GravityField.instReprGWPolarization.repr :GWPolarization → ℕ → Std.Format**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instDecidableEqGWPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
 **instance
 Tau.BookV.GravityField.instDecidableEqGWPolarization :DecidableEq GWPolarization**
 
@@ -253,7 +253,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqGWPolarization.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
 **def
 Tau.BookV.GravityField.instBEqGWPolarization.beq :GWPolarization → GWPolarization → Bool**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instBEqGWPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L113-L113)
 **instance
 Tau.BookV.GravityField.instBEqGWPolarization :BEq GWPolarization**
 
@@ -276,7 +276,7 @@ Equations
 
 ### `Tau.BookV.GravityField.RadiationPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L115-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L115-L123)
 **inductive
 Tau.BookV.GravityField.RadiationPattern :Type**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprRadiationPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
 **instance
 Tau.BookV.GravityField.instReprRadiationPattern :Repr RadiationPattern**
 
@@ -309,7 +309,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprRadiationPattern.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
 **def
 Tau.BookV.GravityField.instReprRadiationPattern.repr :RadiationPattern → ℕ → Std.Format**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instDecidableEqRadiationPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
 **instance
 Tau.BookV.GravityField.instDecidableEqRadiationPattern :DecidableEq RadiationPattern**
 
@@ -332,7 +332,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqRadiationPattern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
 **instance
 Tau.BookV.GravityField.instBEqRadiationPattern :BEq RadiationPattern**
 
@@ -343,7 +343,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqRadiationPattern.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L123-L123)
 **def
 Tau.BookV.GravityField.instBEqRadiationPattern.beq :RadiationPattern → RadiationPattern → Bool**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GravitationalWave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L125-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L125-L150)
 **structure
 Tau.BookV.GravityField.GravitationalWave :Type**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGravitationalWave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L150-L150)
 **instance
 Tau.BookV.GravityField.instReprGravitationalWave :Repr GravitationalWave**
 
@@ -416,7 +416,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprGravitationalWave.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L150-L150)
 **def
 Tau.BookV.GravityField.instReprGravitationalWave.repr :GravitationalWave → ℕ → Std.Format**
 
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.canonical_gw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L152-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L152-L161)
 **def
 Tau.BookV.GravityField.canonical_gw :GravitationalWave**
 
@@ -442,7 +442,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ClassicalTestResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L167-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L167-L179)
 **structure
 Tau.BookV.GravityField.ClassicalTestResult :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprClassicalTestResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L179-L179)
 **def
 Tau.BookV.GravityField.instReprClassicalTestResult.repr :ClassicalTestResult → ℕ → Std.Format**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprClassicalTestResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L179-L179)
 **instance
 Tau.BookV.GravityField.instReprClassicalTestResult :Repr ClassicalTestResult**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookV.GravityField.mercury_precession_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L181-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L181-L187)
 **def
 Tau.BookV.GravityField.mercury_precession_value :ClassicalTestResult**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.light_deflection_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L189-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L189-L195)
 **def
 Tau.BookV.GravityField.light_deflection_value :ClassicalTestResult**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.grav_redshift_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L197-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L197-L203)
 **def
 Tau.BookV.GravityField.grav_redshift_value :ClassicalTestResult**
 
@@ -535,7 +535,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.newtonian_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L209-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L209-L218)
 **theorem
 Tau.BookV.GravityField.newtonian_recovery :first_order_einstein.order = 1 ∧ first_order_einstein.kappa.kappa_numer = BookIV.Sectors.iotaD - BookIV.Sectors.iota**
 
@@ -551,7 +551,7 @@ The coupling κ_τ maps to 8πG/c⁴ under readout.
 
 ### `Tau.BookV.GravityField.mercury_precession`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L224-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L224-L233)
 **theorem
 Tau.BookV.GravityField.mercury_precession :mercury_precession_value.value_numer = 43 ∧ mercury_precession_value.value_denom = 1**
 
@@ -567,7 +567,7 @@ chart readout). No free parameters.
 
 ### `Tau.BookV.GravityField.light_deflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L239-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L239-L247)
 **theorem
 Tau.BookV.GravityField.light_deflection :light_deflection_value.value_numer = 175 ∧ light_deflection_value.value_denom = 100**
 
@@ -582,7 +582,7 @@ at the solar limb is 1.75 arcsec (= 4GM/(rc²)).
 
 ### `Tau.BookV.GravityField.grav_redshift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L253-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L253-L259)
 **theorem
 Tau.BookV.GravityField.grav_redshift :grav_redshift_value.name = "Gravitational redshift"**
 
@@ -597,7 +597,7 @@ The fractional frequency shift equals GM/(rc²).
 
 ### `Tau.BookV.GravityField.grav_wave_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L265-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L265-L275)
 **theorem
 Tau.BookV.GravityField.grav_wave_properties :canonical_gw.speed_is_c = true ∧ canonical_gw.polarization_count = 2 ∧ canonical_gw.leading_multipole = RadiationPattern.Quadrupole ∧ canonical_gw.spin = 2**
 
@@ -618,7 +618,7 @@ Tau.BookV.GravityField.grav_wave_properties :canonical_gw.speed_is_c = true ∧ 
 
 ### `Tau.BookV.GravityField.grav_wave_speed_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LinearEinstein.lean#L281-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LinearEinstein.lean#L281-L288)
 **theorem
 Tau.BookV.GravityField.grav_wave_speed_c
 (gw : GravitationalWave)

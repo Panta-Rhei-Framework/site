@@ -80,7 +80,7 @@ is recovered as a CONSEQUENCE of the Künneth-type dimension formula.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.BipolarHolonomySpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L52-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L52-L69)
 **structure
 Tau.BookV.GravityField.BipolarHolonomy.BipolarHolonomySpace :Type**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.instReprBipolarHolonomySpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L69-L69)
 **def
 Tau.BookV.GravityField.BipolarHolonomy.instReprBipolarHolonomySpace.repr :BipolarHolonomySpace → ℕ → Std.Format**
 
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.instReprBipolarHolonomySpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L69-L69)
 **instance
 Tau.BookV.GravityField.BipolarHolonomy.instReprBipolarHolonomySpace :Repr BipolarHolonomySpace**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.canonical_bhs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L71-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L71-L75)
 **def
 Tau.BookV.GravityField.BipolarHolonomy.canonical_bhs :BipolarHolonomySpace**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_dimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L81-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L81-L87)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_dimension :canonical_bhs.dim = 18**
 
@@ -170,7 +170,7 @@ single tensor product space, not three ad hoc factors multiplied.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_arena_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L93-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L93-L96)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_arena_earned :canonical_bhs.b₁_arena = BookIV.Physics.triple_holonomy.circle_count**
 
@@ -182,7 +182,7 @@ Same invariant: dim(τ³) = 3 independent 1-cycles = 3 holonomy circles.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_dual_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L98-L102)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_dual_earned :canonical_bhs.b1_arena = Kernel.solenoidalGenerators.length**
 
@@ -194,7 +194,7 @@ Dual interpretation: 3 independent characters ↔ 3 solenoidal generators.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_boundary_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L104-L107)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_b1_boundary_earned :canonical_bhs.b₁_boundary = BookIV.Arena.lemniscate.lobe_count**
 
@@ -206,7 +206,7 @@ Two independent loops in L = S¹ ∨ S¹ ↔ two lobes.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_equals_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L113-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L113-L122)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_equals_exponent :canonical_bhs.dim = ExponentDerivation.canonical_factors.product**
 
@@ -224,7 +224,7 @@ from different vantage points.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_matches_closing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L124-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L124-L126)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_matches_closing :canonical_bhs.dim = closing_identity_canonical.alpha_exponent**
 
@@ -235,7 +235,7 @@ The BHS dimension matches the closing identity alpha exponent.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L132-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L132-L143)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_universality :canonical_bhs.b₁_arena = canonical_bhs.b1_arena**
 
@@ -255,7 +255,7 @@ b₁_arena = b1_arena in the BHS.
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_is_topological`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L149-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L149-L161)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_is_topological :canonical_bhs.b₁_arena = 3 ∧ canonical_bhs.b1_arena = 3 ∧ canonical_bhs.b₁_boundary = 2 ∧ canonical_bhs.dim = canonical_bhs.b₁_arena * canonical_bhs.b1_arena * canonical_bhs.b₁_boundary**
 
@@ -270,7 +270,7 @@ The dimension 18 is therefore a topological invariant of the pair (τ³, L).
 
 ### `Tau.BookV.GravityField.BipolarHolonomy.bhs_minimal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/BipolarHolonomy.lean#L167-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/BipolarHolonomy.lean#L167-L173)
 **theorem
 Tau.BookV.GravityField.BipolarHolonomy.bhs_minimal :canonical_bhs.b₁_arena * canonical_bhs.b1_arena ≠ 18 ∧ canonical_bhs.b₁_arena * canonical_bhs.b₁_boundary ≠ 18 ∧ canonical_bhs.b1_arena * canonical_bhs.b₁_boundary ≠ 18**
 

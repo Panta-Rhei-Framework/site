@@ -53,7 +53,7 @@ descent). This ensures the spine terminates with strictly decreasing primes.
 
 ### `Tau.Coordinates.div_lt_of_ge_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L32-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L32-L35)
 **theorem
 Tau.Coordinates.div_lt_of_ge_two
 {x d : Nat}
@@ -72,7 +72,7 @@ If d ≥ 2 divides x and x ≥ 1, then x / d < x.
 
 ### `Tau.Coordinates.lt_mul_of_ge_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L37-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L37-L41)
 **theorem
 Tau.Coordinates.lt_mul_of_ge_two
 {a b : Nat}
@@ -89,7 +89,7 @@ A product a * b with a ≥ 2 is strictly larger than b (when b ≥ 1).
 
 ### `Tau.Coordinates.descent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L47-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L47-L54)
 **def
 Tau.Coordinates.descent_check
 (x : Denotation.TauIdx)
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_stratum_descent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L56-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L56-L62)
 **def
 Tau.Coordinates.prime_stratum_descent_check
 (x : Denotation.TauIdx)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.Coordinates.full_descent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L64-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L64-L66)
 **def
 Tau.Coordinates.full_descent_check
 (x : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Coordinates.verify_descent_up_to_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L72-L77)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L72-L77)@[irreducible]
 
 **def
 Tau.Coordinates.verify_descent_up_to_go
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.Coordinates.verify_descent_up_to`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Descent.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Descent.lean#L79-L79)
 **def
 Tau.Coordinates.verify_descent_up_to
 (n : Denotation.TauIdx)

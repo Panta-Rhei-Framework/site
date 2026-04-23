@@ -80,7 +80,7 @@ spectral decomposition: knowing all proj_coeff values determines f.
 
 ### `Tau.BookII.Regularity.code_extract`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L58-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L58-L65)
 **def
 Tau.BookII.Regularity.code_extract
 (f : Denotation.TauIdx → ℤ)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L67-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L67-L74)
 **def
 Tau.BookII.Regularity.code_spectral
 (f : Denotation.TauIdx → ℤ)
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L76-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L76-L92)
 **def
 Tau.BookII.Regularity.code_tower_check
 (bound db : Denotation.TauIdx)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L82-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L82-L91)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_tower_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_delta_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L94-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L94-L109)
 **def
 Tau.BookII.Regularity.code_delta_check
 (k_max : Denotation.TauIdx)
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_delta_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L99-L108)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L99-L108)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_delta_check.go
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_constant_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L111-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L111-L129)
 **def
 Tau.BookII.Regularity.code_constant_check
 (k_max : Denotation.TauIdx)
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_constant_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L116-L128)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L116-L128)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_constant_check.go
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_reconstruct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L135-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L135-L144)
 **def
 Tau.BookII.Regularity.decode_reconstruct
 (table : Denotation.TauIdx → ℤ)
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_crt_indicator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L146-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L146-L150)
 **def
 Tau.BookII.Regularity.decode_crt_indicator
 (k x target : Denotation.TauIdx)
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_welldef_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L152-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L152-L168)
 **def
 Tau.BookII.Regularity.decode_welldef_check
 (k_max bound : Denotation.TauIdx)
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_welldef_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L158-L167)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L158-L167)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decode_welldef_check.go
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L170-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L170-L187)
 **def
 Tau.BookII.Regularity.decode_uniqueness_check
 (k_max : Denotation.TauIdx)
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L175-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L175-L186)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decode_uniqueness_check.go
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_inverse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L193-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L193-L222)
 **def
 Tau.BookII.Regularity.code_decode_inverse_check
 (k_max : Denotation.TauIdx)
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_inverse_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L202-L213)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L202-L213)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_decode_inverse_check.go_k
@@ -379,7 +379,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_inverse_check.check_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L215-L221)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L215-L221)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_decode_inverse_check.check_roundtrip
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_code_inverse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L224-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L224-L249)
 **def
 Tau.BookII.Regularity.decode_code_inverse_check
 (k_max : Denotation.TauIdx)
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_code_inverse_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L233-L240)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L233-L240)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decode_code_inverse_check.go_k
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decode_code_inverse_check.check_inverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L242-L248)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L242-L248)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decode_code_inverse_check.check_inverse
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_scan_residues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L255-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L255-L269)
 **def
 Tau.BookII.Regularity.code_spectral_scan_residues
 (f g : Denotation.TauIdx → ℤ)
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_scan_residues.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L261-L268)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L261-L268)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_spectral_scan_residues.go
@@ -486,7 +486,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_find_separator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L271-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L271-L284)
 **def
 Tau.BookII.Regularity.code_spectral_find_separator
 (f g : Denotation.TauIdx → ℤ)
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_find_separator.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L276-L283)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L276-L283)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_spectral_find_separator.go
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_separation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L286-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L286-L302)
 **def
 Tau.BookII.Regularity.code_spectral_separation_check
 (k_max : Denotation.TauIdx)
@@ -541,7 +541,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_spectral_separation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L294-L301)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L294-L301)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_spectral_separation_check.go
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_delta_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L304-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L304-L331)
 **def
 Tau.BookII.Regularity.code_decode_delta_check
 (k_max : Denotation.TauIdx)
@@ -575,7 +575,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_delta_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L309-L315)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L309-L315)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_decode_delta_check.go_k
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_delta_check.check_deltas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L317-L330)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L317-L330)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_decode_delta_check.check_deltas
@@ -607,7 +607,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L337-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L337-L354)
 **def
 Tau.BookII.Regularity.code_decode_tower_check
 (bound db : Denotation.TauIdx)
@@ -625,7 +625,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_decode_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L343-L353)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L343-L353)@[irreducible]
 
 **def
 Tau.BookII.Regularity.code_decode_tower_check.go
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.full_code_decode_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L360-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L360-L378)
 **def
 Tau.BookII.Regularity.full_code_decode_check
 (k_max : Denotation.TauIdx)
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.code_delta_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L442-L443)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L442-L443)
 **theorem
 Tau.BookII.Regularity.code_delta_3 :code_delta_check 3 = true**
 
@@ -685,7 +685,7 @@ Tau.BookII.Regularity.code_delta_3 :code_delta_check 3 = true**
 
 ### `Tau.BookII.Regularity.code_constant_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L445-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L445-L446)
 **theorem
 Tau.BookII.Regularity.code_constant_3 :code_constant_check 3 = true**
 
@@ -694,7 +694,7 @@ Tau.BookII.Regularity.code_constant_3 :code_constant_check 3 = true**
 
 ### `Tau.BookII.Regularity.code_tower_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L448-L449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L448-L449)
 **theorem
 Tau.BookII.Regularity.code_tower_15_3 :code_tower_check 15 3 = true**
 
@@ -703,7 +703,7 @@ Tau.BookII.Regularity.code_tower_15_3 :code_tower_check 15 3 = true**
 
 ### `Tau.BookII.Regularity.decode_welldef_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L452-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L452-L453)
 **theorem
 Tau.BookII.Regularity.decode_welldef_3_15 :decode_welldef_check 3 15 = true**
 
@@ -712,7 +712,7 @@ Tau.BookII.Regularity.decode_welldef_3_15 :decode_welldef_check 3 15 = true**
 
 ### `Tau.BookII.Regularity.decode_unique_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L456-L457)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L456-L457)
 **theorem
 Tau.BookII.Regularity.decode_unique_3 :decode_uniqueness_check 3 = true**
 
@@ -721,7 +721,7 @@ Tau.BookII.Regularity.decode_unique_3 :decode_uniqueness_check 3 = true**
 
 ### `Tau.BookII.Regularity.code_decode_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L460-L461)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L460-L461)
 **theorem
 Tau.BookII.Regularity.code_decode_3 :code_decode_inverse_check 3 = true**
 
@@ -730,7 +730,7 @@ Tau.BookII.Regularity.code_decode_3 :code_decode_inverse_check 3 = true**
 
 ### `Tau.BookII.Regularity.decode_code_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L463-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L463-L464)
 **theorem
 Tau.BookII.Regularity.decode_code_3 :decode_code_inverse_check 3 = true**
 
@@ -739,7 +739,7 @@ Tau.BookII.Regularity.decode_code_3 :decode_code_inverse_check 3 = true**
 
 ### `Tau.BookII.Regularity.code_decode_delta_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L467-L468)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L467-L468)
 **theorem
 Tau.BookII.Regularity.code_decode_delta_3 :code_decode_delta_check 3 = true**
 
@@ -748,7 +748,7 @@ Tau.BookII.Regularity.code_decode_delta_3 :code_decode_delta_check 3 = true**
 
 ### `Tau.BookII.Regularity.spectral_sep_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L471-L472)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L471-L472)
 **theorem
 Tau.BookII.Regularity.spectral_sep_3 :code_spectral_separation_check 3 = true**
 
@@ -757,7 +757,7 @@ Tau.BookII.Regularity.spectral_sep_3 :code_spectral_separation_check 3 = true**
 
 ### `Tau.BookII.Regularity.tower_compat_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L475-L476)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L475-L476)
 **theorem
 Tau.BookII.Regularity.tower_compat_15_3 :code_decode_tower_check 15 3 = true**
 
@@ -766,7 +766,7 @@ Tau.BookII.Regularity.tower_compat_15_3 :code_decode_tower_check 15 3 = true**
 
 ### `Tau.BookII.Regularity.full_code_decode_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L479-L480)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L479-L480)
 **theorem
 Tau.BookII.Regularity.full_code_decode_3 :full_code_decode_check 3 = true**
 
@@ -775,7 +775,7 @@ Tau.BookII.Regularity.full_code_decode_3 :full_code_decode_check 3 = true**
 
 ### `Tau.BookII.Regularity.code_decode_id_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L486-L493)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L486-L493)
 **theorem
 Tau.BookII.Regularity.code_decode_id_roundtrip
 (x k : Denotation.TauIdx)
@@ -789,7 +789,7 @@ This follows from reduction idempotence: reduce(reduce(x, k), k) = reduce(x, k).
 
 ### `Tau.BookII.Regularity.decode_code_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/CodeDecode.lean#L495-L502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/CodeDecode.lean#L495-L502)
 **theorem
 Tau.BookII.Regularity.decode_code_roundtrip
 (table : Denotation.TauIdx → ℤ)

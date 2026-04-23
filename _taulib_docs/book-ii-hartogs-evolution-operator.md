@@ -75,7 +75,7 @@ the lemniscate as the "future."
 
 ### `Tau.BookII.Hartogs.evolution_op`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L56-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L56-L66)
 **def
 Tau.BookII.Hartogs.evolution_op
 (x _n m : Denotation.TauIdx)
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L68-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L68-L70)
 **def
 Tau.BookII.Hartogs.evolution_id
 (x n : Denotation.TauIdx)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_semigroup_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L76-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L76-L96)
 **def
 Tau.BookII.Hartogs.evolution_semigroup_check
 (bound db : Denotation.TauIdx)
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_semigroup_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L86-L95)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L86-L95)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.evolution_semigroup_check.go
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L98-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L98-L112)
 **def
 Tau.BookII.Hartogs.evolution_identity_check
 (bound db : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L104-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L104-L111)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.evolution_identity_check.go
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_composition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L114-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L114-L133)
 **def
 Tau.BookII.Hartogs.evolution_composition_check
 (bound db : Denotation.TauIdx)
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_composition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L121-L132)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L121-L132)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.evolution_composition_check.go
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.evolution_semigroup_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L139-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L139-L145)
 **theorem
 Tau.BookII.Hartogs.evolution_semigroup_thm
 (x : Denotation.TauIdx)
@@ -244,7 +244,7 @@ This is a direct corollary of reduction_compat from ModArith.
 
 ### `Tau.BookII.Hartogs.evolution_identity_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L147-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L147-L151)
 **theorem
 Tau.BookII.Hartogs.evolution_identity_thm
 (x n : Denotation.TauIdx)
@@ -258,7 +258,7 @@ reduce(reduce(x, n), n) = reduce(x, n).
 
 ### `Tau.BookII.Hartogs.evolution_composition_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L153-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L153-L158)
 **theorem
 Tau.BookII.Hartogs.evolution_composition_thm
 (x : Denotation.TauIdx)
@@ -276,7 +276,7 @@ For m <= l, reduce(reduce(x, l), m) = reduce(x, m).
 
 ### `Tau.BookII.Hartogs.causal_arrow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L164-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L164-L180)
 **def
 Tau.BookII.Hartogs.causal_arrow
 (x : Denotation.TauIdx)
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bc_asymmetry_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L186-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L186-L206)
 **def
 Tau.BookII.Hartogs.bc_asymmetry_check
 (bound : Denotation.TauIdx)
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bc_asymmetry_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L197-L205)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L197-L205)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.bc_asymmetry_check.go
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bc_asymmetry_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L208-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L208-L219)
 **def
 Tau.BookII.Hartogs.bc_asymmetry_witness :Bool**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.causal_arrow_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L221-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L221-L234)
 **def
 Tau.BookII.Hartogs.causal_arrow_check
 (bound : Denotation.TauIdx)
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.causal_arrow_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L226-L233)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L226-L233)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.causal_arrow_check.go
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.causal_nontrivial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L236-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L236-L253)
 **def
 Tau.BookII.Hartogs.causal_nontrivial_check
 (bound : Denotation.TauIdx)
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.causal_nontrivial_check.has_b_dom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L242-L246)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L242-L246)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.causal_nontrivial_check.has_b_dom
@@ -435,7 +435,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.causal_nontrivial_check.has_c_dom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L248-L252)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L248-L252)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.causal_nontrivial_check.has_c_dom
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_evolution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L259-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L259-L268)
 **def
 Tau.BookII.Hartogs.full_evolution_check
 (bound db : Denotation.TauIdx)
@@ -471,7 +471,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.semigroup_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L312-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L312-L313)
 **theorem
 Tau.BookII.Hartogs.semigroup_12_4 :evolution_semigroup_check 12 4 = true**
 
@@ -480,7 +480,7 @@ Tau.BookII.Hartogs.semigroup_12_4 :evolution_semigroup_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.identity_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L315-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L315-L316)
 **theorem
 Tau.BookII.Hartogs.identity_12_4 :evolution_identity_check 12 4 = true**
 
@@ -489,7 +489,7 @@ Tau.BookII.Hartogs.identity_12_4 :evolution_identity_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.composition_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L318-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L318-L319)
 **theorem
 Tau.BookII.Hartogs.composition_8_3 :evolution_composition_check 8 3 = true**
 
@@ -498,7 +498,7 @@ Tau.BookII.Hartogs.composition_8_3 :evolution_composition_check 8 3 = true**
 
 ### `Tau.BookII.Hartogs.asymmetry_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L322-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L322-L323)
 **theorem
 Tau.BookII.Hartogs.asymmetry_witness :bc_asymmetry_witness = true**
 
@@ -507,7 +507,7 @@ Tau.BookII.Hartogs.asymmetry_witness :bc_asymmetry_witness = true**
 
 ### `Tau.BookII.Hartogs.asymmetry_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L325-L326)
 **theorem
 Tau.BookII.Hartogs.asymmetry_15 :bc_asymmetry_check 15 = true**
 
@@ -516,7 +516,7 @@ Tau.BookII.Hartogs.asymmetry_15 :bc_asymmetry_check 15 = true**
 
 ### `Tau.BookII.Hartogs.causal_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L328-L329)
 **theorem
 Tau.BookII.Hartogs.causal_15 :causal_arrow_check 15 = true**
 
@@ -525,7 +525,7 @@ Tau.BookII.Hartogs.causal_15 :causal_arrow_check 15 = true**
 
 ### `Tau.BookII.Hartogs.causal_nontrivial_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L331-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L331-L332)
 **theorem
 Tau.BookII.Hartogs.causal_nontrivial_20 :causal_nontrivial_check 20 = true**
 
@@ -534,6 +534,6 @@ Tau.BookII.Hartogs.causal_nontrivial_20 :causal_nontrivial_check 20 = true**
 
 ### `Tau.BookII.Hartogs.full_evolution_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/EvolutionOperator.lean#L335-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/EvolutionOperator.lean#L335-L336)
 **theorem
 Tau.BookII.Hartogs.full_evolution_10_4 :full_evolution_check 10 4 = true**

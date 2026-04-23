@@ -56,7 +56,7 @@ three non-trivial sector-restricted readings (NS, YM, Hodge).
 
 ### `Tau.BookIII.Arithmetic.enr_01_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L40-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L40-L67)
 **def
 Tau.BookIII.Arithmetic.enr_01_check
 (bound db : Denotation.TauIdx)
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enr_01_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L46-L66)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L46-L66)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.enr_01_check.go
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enr_01_faithful_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L69-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L69-L87)
 **def
 Tau.BookIII.Arithmetic.enr_01_faithful_check
 (bound db : Denotation.TauIdx)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enr_01_faithful_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L74-L86)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L74-L86)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.enr_01_faithful_check.go
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.e1_md_instance_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L93-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L93-L104)
 **def
 Tau.BookIII.Arithmetic.e1_md_instance_check
 (bound db : Denotation.TauIdx)
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.three_reading_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L110-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L110-L121)
 **def
 Tau.BookIII.Arithmetic.three_reading_check
 (bound db : Denotation.TauIdx)
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enr_01_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L136-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L136-L137)
 **theorem
 Tau.BookIII.Arithmetic.enr_01_15_4 :enr_01_check 15 4 = true**
 
@@ -169,7 +169,7 @@ Tau.BookIII.Arithmetic.enr_01_15_4 :enr_01_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.enr_01_faithful_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L139-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L139-L140)
 **theorem
 Tau.BookIII.Arithmetic.enr_01_faithful_15_4 :enr_01_faithful_check 15 4 = true**
 
@@ -178,7 +178,7 @@ Tau.BookIII.Arithmetic.enr_01_faithful_15_4 :enr_01_faithful_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.e1_md_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L142-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L142-L143)
 **theorem
 Tau.BookIII.Arithmetic.e1_md_15_3 :e1_md_instance_check 15 3 = true**
 
@@ -187,7 +187,7 @@ Tau.BookIII.Arithmetic.e1_md_15_3 :e1_md_instance_check 15 3 = true**
 
 ### `Tau.BookIII.Arithmetic.three_reading_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L145-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L145-L146)
 **theorem
 Tau.BookIII.Arithmetic.three_reading_15_3 :three_reading_check 15 3 = true**
 
@@ -196,7 +196,7 @@ Tau.BookIII.Arithmetic.three_reading_15_3 :three_reading_check 15 3 = true**
 
 ### `Tau.BookIII.Arithmetic.enr_01_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L152-L154)
 **theorem
 Tau.BookIII.Arithmetic.enr_01_10_1 :enr_01_check 10 1 = true**
 
@@ -207,7 +207,7 @@ Tau.BookIII.Arithmetic.enr_01_10_1 :enr_01_check 10 1 = true**
 
 ### `Tau.BookIII.Arithmetic.e1_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L156-L157)
 **theorem
 Tau.BookIII.Arithmetic.e1_level :Enrichment.EnrLevel.E1.toNat = 1**
 
@@ -218,7 +218,7 @@ Tau.BookIII.Arithmetic.e1_level :Enrichment.EnrLevel.E1.toNat = 1**
 
 ### `Tau.BookIII.Arithmetic.all_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L159-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrFunctor01.lean#L159-L163)
 **theorem
 Tau.BookIII.Arithmetic.all_e1 :(Doors.problem_level Doors.MillenniumProblem.NS == Enrichment.EnrLevel.E1 && Doors.problem_level Doors.MillenniumProblem.YM == Enrichment.EnrLevel.E1 && Doors.problem_level Doors.MillenniumProblem.Hodge == Enrichment.EnrLevel.E1) = true**
 

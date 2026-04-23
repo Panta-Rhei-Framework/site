@@ -61,7 +61,7 @@ DecodeTarget, DecodeHorizon, Metabolic Fiber Theorem, Consumer Mixer Uniqueness.
 
 ### `Tau.BookVI.LifeLoop.LifeLoopClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L27-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L27-L31)
 **structure
 Tau.BookVI.LifeLoop.LifeLoopClass :Type**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprLifeLoopClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L31-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L31-L31)
 **instance
 Tau.BookVI.LifeLoop.instReprLifeLoopClass :Repr LifeLoopClass**
 
@@ -87,7 +87,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.instReprLifeLoopClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L31-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L31-L31)
 **def
 Tau.BookVI.LifeLoop.instReprLifeLoopClass.repr :LifeLoopClass → ℕ → Std.Format**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.life_loop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L33-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L33-L35)
 **def
 Tau.BookVI.LifeLoop.life_loop :LifeLoopClass**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.DecodeTarget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L37-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L37-L41)
 **structure
 Tau.BookVI.LifeLoop.DecodeTarget :Type**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprDecodeTarget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L41-L41)
 **instance
 Tau.BookVI.LifeLoop.instReprDecodeTarget :Repr DecodeTarget**
 
@@ -137,7 +137,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.instReprDecodeTarget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L41-L41)
 **def
 Tau.BookVI.LifeLoop.instReprDecodeTarget.repr :DecodeTarget → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.decode_target`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L43-L43)
 **def
 Tau.BookVI.LifeLoop.decode_target :DecodeTarget**
 
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.DecodeHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L45-L49)
 **structure
 Tau.BookVI.LifeLoop.DecodeHorizon :Type**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprDecodeHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L49-L49)
 **instance
 Tau.BookVI.LifeLoop.instReprDecodeHorizon :Repr DecodeHorizon**
 
@@ -187,7 +187,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.instReprDecodeHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L49-L49)
 **def
 Tau.BookVI.LifeLoop.instReprDecodeHorizon.repr :DecodeHorizon → ℕ → Std.Format**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.decode_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L51-L51)
 **def
 Tau.BookVI.LifeLoop.decode_horizon :DecodeHorizon**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.SourceSubClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L53-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L53-L57)
 **structure
 Tau.BookVI.LifeLoop.SourceSubClass :Type**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprSourceSubClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L57-L57)
 **def
 Tau.BookVI.LifeLoop.instReprSourceSubClass.repr :SourceSubClass → ℕ → Std.Format**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprSourceSubClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L57-L57)
 **instance
 Tau.BookVI.LifeLoop.instReprSourceSubClass :Repr SourceSubClass**
 
@@ -249,7 +249,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.ClosureSubClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L59-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L59-L63)
 **structure
 Tau.BookVI.LifeLoop.ClosureSubClass :Type**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprClosureSubClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L63-L63)
 **def
 Tau.BookVI.LifeLoop.instReprClosureSubClass.repr :ClosureSubClass → ℕ → Std.Format**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprClosureSubClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L63-L63)
 **instance
 Tau.BookVI.LifeLoop.instReprClosureSubClass :Repr ClosureSubClass**
 
@@ -287,7 +287,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.MetabolicFiberTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L65-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L65-L72)
 **structure
 Tau.BookVI.LifeLoop.MetabolicFiberTheorem :Type**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprMetabolicFiberTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L72-L72)
 **instance
 Tau.BookVI.LifeLoop.instReprMetabolicFiberTheorem :Repr MetabolicFiberTheorem**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.instReprMetabolicFiberTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L72-L72)
 **def
 Tau.BookVI.LifeLoop.instReprMetabolicFiberTheorem.repr :MetabolicFiberTheorem → ℕ → Std.Format**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.metabolic_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L74-L76)
 **def
 Tau.BookVI.LifeLoop.metabolic_fiber :MetabolicFiberTheorem**
 
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.metabolic_fiber_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L78-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L78-L82)
 **theorem
 Tau.BookVI.LifeLoop.metabolic_fiber_theorem :metabolic_fiber.factor_count = 3 ∧ metabolic_fiber.src_nontrivial = true ∧ metabolic_fiber.rec_nontrivial = true**
 
@@ -349,7 +349,7 @@ Tau.BookVI.LifeLoop.metabolic_fiber_theorem :metabolic_fiber.factor_count = 3 �
 
 ### `Tau.BookVI.LifeLoop.ConsumerMixerUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L84-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L84-L89)
 **structure
 Tau.BookVI.LifeLoop.ConsumerMixerUniqueness :Type**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.instReprConsumerMixerUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L89-L89)
 **instance
 Tau.BookVI.LifeLoop.instReprConsumerMixerUniqueness :Repr ConsumerMixerUniqueness**
 
@@ -376,7 +376,7 @@ Equations
 
 ### `Tau.BookVI.LifeLoop.instReprConsumerMixerUniqueness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L89-L89)
 **def
 Tau.BookVI.LifeLoop.instReprConsumerMixerUniqueness.repr :ConsumerMixerUniqueness → ℕ → Std.Format**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.consumer_mixer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L91-L93)
 **def
 Tau.BookVI.LifeLoop.consumer_mixer :ConsumerMixerUniqueness**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookVI.LifeLoop.consumer_mixer_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L95-L98)
 **theorem
 Tau.BookVI.LifeLoop.consumer_mixer_uniqueness :consumer_mixer.mixer_count = 1 ∧ consumer_mixer.fiber_pair = true**
 
@@ -409,7 +409,7 @@ Tau.BookVI.LifeLoop.consumer_mixer_uniqueness :consumer_mixer.mixer_count = 1 �
 
 ### `Tau.BookVI.LifeLoop.seven_forces_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L100-L101)
 **theorem
 Tau.BookVI.LifeLoop.seven_forces_e2 :7 = 7**
 
@@ -420,7 +420,7 @@ Tau.BookVI.LifeLoop.seven_forces_e2 :7 = 7**
 
 ### `Tau.BookVI.LifeLoop.force_sector_matching`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/LifeLoop.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/LifeLoop.lean#L103-L104)
 **theorem
 Tau.BookVI.LifeLoop.force_sector_matching :5 = 5**
 

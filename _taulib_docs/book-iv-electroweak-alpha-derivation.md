@@ -95,7 +95,7 @@ formula makes this manifest: α ∝ ι<sub>τ</sub>⁴.
 
 ### `Tau.BookIV.Electroweak.AlphaTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L63-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L63-L83)
 **structure
 Tau.BookIV.Electroweak.AlphaTau :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L83-L83)
 **instance
 Tau.BookIV.Electroweak.instReprAlphaTau :Repr AlphaTau**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprAlphaTau.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L83-L83)
 **def
 Tau.BookIV.Electroweak.instReprAlphaTau.repr :AlphaTau → ℕ → Std.Format**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L85-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L85-L95)
 **def
 Tau.BookIV.Electroweak.alpha_tau :AlphaTau**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_tau_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L97-L99)
 **def
 Tau.BookIV.Electroweak.alpha_tau_float :Float**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.NullTransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L105-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L105-L117)
 **structure
 Tau.BookIV.Electroweak.NullTransportMode :Type**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNullTransportMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L117-L117)
 **def
 Tau.BookIV.Electroweak.instReprNullTransportMode.repr :NullTransportMode → ℕ → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNullTransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L117-L117)
 **instance
 Tau.BookIV.Electroweak.instReprNullTransportMode :Repr NullTransportMode**
 
@@ -236,7 +236,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.photon_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L119-L121)
 **def
 Tau.BookIV.Electroweak.photon_null :NullTransportMode**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.graviton_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L123-L125)
 **def
 Tau.BookIV.Electroweak.graviton_null :NullTransportMode**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.HolonomyCorrectionR`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L131-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L131-L144)
 **structure
 Tau.BookIV.Electroweak.HolonomyCorrectionR :Type**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyCorrectionR.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L144-L144)
 **def
 Tau.BookIV.Electroweak.instReprHolonomyCorrectionR.repr :HolonomyCorrectionR → ℕ → Std.Format**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyCorrectionR`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L144-L144)
 **instance
 Tau.BookIV.Electroweak.instReprHolonomyCorrectionR :Repr HolonomyCorrectionR**
 
@@ -314,7 +314,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.HolonomyCorrectionR.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L146-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L146-L147)
 **def
 Tau.BookIV.Electroweak.HolonomyCorrectionR.toFloat
 (r : HolonomyCorrectionR)
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.correction_r`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L149-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L149-L155)
 **def
 Tau.BookIV.Electroweak.correction_r :HolonomyCorrectionR**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.HolonomyFormulaExact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L161-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L161-L177)
 **structure
 Tau.BookIV.Electroweak.HolonomyFormulaExact :Type**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyFormulaExact.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L177-L177)
 **def
 Tau.BookIV.Electroweak.instReprHolonomyFormulaExact.repr :HolonomyFormulaExact → ℕ → Std.Format**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHolonomyFormulaExact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L177-L177)
 **instance
 Tau.BookIV.Electroweak.instReprHolonomyFormulaExact :Repr HolonomyFormulaExact**
 
@@ -396,7 +396,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.holonomy_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L179-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L179-L186)
 **def
 Tau.BookIV.Electroweak.holonomy_formula :HolonomyFormulaExact**
 
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.holonomy_formula_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L188-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L188-L189)
 **theorem
 Tau.BookIV.Electroweak.holonomy_formula_exact :holonomy_formula.is_exact = true**
 
@@ -419,7 +419,7 @@ Tau.BookIV.Electroweak.holonomy_formula_exact :holonomy_formula.is_exact = true*
 
 ### `Tau.BookIV.Electroweak.OnticInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L195-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L195-L206)
 **structure
 Tau.BookIV.Electroweak.OnticInvariant :Type**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprOnticInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L206-L206)
 **instance
 Tau.BookIV.Electroweak.instReprOnticInvariant :Repr OnticInvariant**
 
@@ -455,7 +455,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprOnticInvariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L206-L206)
 **def
 Tau.BookIV.Electroweak.instReprOnticInvariant.repr :OnticInvariant → ℕ → Std.Format**
 
@@ -467,7 +467,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ontic_invariant_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L208-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L208-L210)
 **def
 Tau.BookIV.Electroweak.ontic_invariant_instance :OnticInvariant**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_ontic_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L212-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L212-L213)
 **theorem
 Tau.BookIV.Electroweak.alpha_ontic_invariant :ontic_invariant_instance.free_parameters = 0**
 
@@ -488,7 +488,7 @@ Tau.BookIV.Electroweak.alpha_ontic_invariant :ontic_invariant_instance.free_para
 
 ### `Tau.BookIV.Electroweak.ABHolonomyLemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L219-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L219-L232)
 **structure
 Tau.BookIV.Electroweak.ABHolonomyLemma :Type**
 
@@ -515,7 +515,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprABHolonomyLemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L232-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L232-L232)
 **instance
 Tau.BookIV.Electroweak.instReprABHolonomyLemma :Repr ABHolonomyLemma**
 
@@ -526,7 +526,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprABHolonomyLemma.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L232-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L232-L232)
 **def
 Tau.BookIV.Electroweak.instReprABHolonomyLemma.repr :ABHolonomyLemma → ℕ → Std.Format**
 
@@ -538,7 +538,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ab_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L234-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L234-L240)
 **def
 Tau.BookIV.Electroweak.ab_holonomy :ABHolonomyLemma**
 
@@ -552,7 +552,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ab_holonomy_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L242-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L242-L243)
 **theorem
 Tau.BookIV.Electroweak.ab_holonomy_lemma :ab_holonomy.equals_kappa_b = true**
 
@@ -561,7 +561,7 @@ Tau.BookIV.Electroweak.ab_holonomy_lemma :ab_holonomy.equals_kappa_b = true**
 
 ### `Tau.BookIV.Electroweak.PhotonPhaseQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L249-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L249-L259)
 **structure
 Tau.BookIV.Electroweak.PhotonPhaseQuantum :Type**
 
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonPhaseQuantum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L259-L259)
 **def
 Tau.BookIV.Electroweak.instReprPhotonPhaseQuantum.repr :PhotonPhaseQuantum → ℕ → Std.Format**
 
@@ -596,7 +596,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonPhaseQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L259-L259)
 **instance
 Tau.BookIV.Electroweak.instReprPhotonPhaseQuantum :Repr PhotonPhaseQuantum**
 
@@ -607,7 +607,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.phase_quantum_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L261-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L261-L265)
 **def
 Tau.BookIV.Electroweak.phase_quantum_instance :PhotonPhaseQuantum**
 
@@ -619,7 +619,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.photon_phase_quantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L267-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L267-L268)
 **theorem
 Tau.BookIV.Electroweak.photon_phase_quantum :phase_quantum_instance.phase_per_quantum = 1**
 
@@ -628,7 +628,7 @@ Tau.BookIV.Electroweak.photon_phase_quantum :phase_quantum_instance.phase_per_qu
 
 ### `Tau.BookIV.Electroweak.AlphaRelationalUnits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L274-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L274-L294)
 **structure
 Tau.BookIV.Electroweak.AlphaRelationalUnits :Type**
 
@@ -664,7 +664,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaRelationalUnits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L294-L294)
 **instance
 Tau.BookIV.Electroweak.instReprAlphaRelationalUnits :Repr AlphaRelationalUnits**
 
@@ -675,7 +675,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprAlphaRelationalUnits.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L294-L294)
 **def
 Tau.BookIV.Electroweak.instReprAlphaRelationalUnits.repr :AlphaRelationalUnits → ℕ → Std.Format**
 
@@ -687,7 +687,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_rel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L296-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L296-L307)
 **def
 Tau.BookIV.Electroweak.alpha_rel :AlphaRelationalUnits**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.alpha_relational_units`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L309-L310)
 **theorem
 Tau.BookIV.Electroweak.alpha_relational_units :alpha_rel.q_exp = 4 ∧ alpha_rel.denom_total = 11**
 
@@ -710,7 +710,7 @@ Tau.BookIV.Electroweak.alpha_relational_units :alpha_rel.q_exp = 4 ∧ alpha_rel
 
 ### `Tau.BookIV.Electroweak.UniqueMassless`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L316-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L316-L326)
 **structure
 Tau.BookIV.Electroweak.UniqueMassless :Type**
 
@@ -733,7 +733,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprUniqueMassless`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L326-L326)
 **instance
 Tau.BookIV.Electroweak.instReprUniqueMassless :Repr UniqueMassless**
 
@@ -744,7 +744,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprUniqueMassless.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L326-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L326-L326)
 **def
 Tau.BookIV.Electroweak.instReprUniqueMassless.repr :UniqueMassless → ℕ → Std.Format**
 
@@ -756,7 +756,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.unique_massless_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L328-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L328-L331)
 **def
 Tau.BookIV.Electroweak.unique_massless_instance :UniqueMassless**
 
@@ -768,7 +768,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.unique_massless_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L333-L334)
 **theorem
 Tau.BookIV.Electroweak.unique_massless_transport :unique_massless_instance.unique_in_b = true**
 
@@ -777,7 +777,7 @@ Tau.BookIV.Electroweak.unique_massless_transport :unique_massless_instance.uniqu
 
 ### `Tau.BookIV.Electroweak.StructuralIndependence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L340-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L340-L351)
 **structure
 Tau.BookIV.Electroweak.StructuralIndependence :Type**
 
@@ -802,7 +802,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprStructuralIndependence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L351-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L351-L351)
 **def
 Tau.BookIV.Electroweak.instReprStructuralIndependence.repr :StructuralIndependence → ℕ → Std.Format**
 
@@ -814,7 +814,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprStructuralIndependence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L351-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L351-L351)
 **instance
 Tau.BookIV.Electroweak.instReprStructuralIndependence :Repr StructuralIndependence**
 
@@ -825,7 +825,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.structural_indep_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L353-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L353-L353)
 **def
 Tau.BookIV.Electroweak.structural_indep_instance :StructuralIndependence**
 
@@ -837,7 +837,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.structural_independence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L355-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L355-L357)
 **theorem
 Tau.BookIV.Electroweak.structural_independence :structural_indep_instance.alpha_from_iota = true ∧ structural_indep_instance.iota_is_master = true**
 
@@ -846,7 +846,7 @@ Tau.BookIV.Electroweak.structural_independence :structural_indep_instance.alpha_
 
 ### `Tau.BookIV.Electroweak.example_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L403-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L403-L403)
 **def
 Tau.BookIV.Electroweak.example_null :NullTransportMode**
 
@@ -858,7 +858,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.TwoLoopWindowCoeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L410-L427)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L410-L427)
 **structure
 Tau.BookIV.Electroweak.TwoLoopWindowCoeff :Type**
 
@@ -896,7 +896,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprTwoLoopWindowCoeff.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L427-L427)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L427-L427)
 **def
 Tau.BookIV.Electroweak.instReprTwoLoopWindowCoeff.repr :TwoLoopWindowCoeff → ℕ → Std.Format**
 
@@ -908,7 +908,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprTwoLoopWindowCoeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L427-L427)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L427-L427)
 **instance
 Tau.BookIV.Electroweak.instReprTwoLoopWindowCoeff :Repr TwoLoopWindowCoeff**
 
@@ -919,7 +919,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.two_loop_window`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L429-L429)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L429-L429)
 **def
 Tau.BookIV.Electroweak.two_loop_window :TwoLoopWindowCoeff**
 
@@ -931,7 +931,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.window_depth_loop_correspondence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L431-L433)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L431-L433)
 **theorem
 Tau.BookIV.Electroweak.window_depth_loop_correspondence :17 + 1 = 18 ∧ 18 + 1 = 19**
 
@@ -942,7 +942,7 @@ Tau.BookIV.Electroweak.window_depth_loop_correspondence :17 + 1 = 18 ∧ 18 + 1 
 
 ### `Tau.BookIV.Electroweak.c2_alpha_sub_1_ppm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L435-L439)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L435-L439)
 **theorem
 Tau.BookIV.Electroweak.c2_alpha_sub_1_ppm :two_loop_window.c2_denom = 18 ∧ two_loop_window.w3_4 = 5**
 
@@ -954,7 +954,7 @@ Tau.BookIV.Electroweak.c2_alpha_sub_1_ppm :two_loop_window.c2_denom = 18 ∧ two
 
 ### `Tau.BookIV.Electroweak.AlphaNLOCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L448-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L448-L464)
 **structure
 Tau.BookIV.Electroweak.AlphaNLOCatalog :Type**
 
@@ -985,7 +985,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaNLOCatalog.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L464-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L464-L464)
 **def
 Tau.BookIV.Electroweak.instReprAlphaNLOCatalog.repr :AlphaNLOCatalog → ℕ → Std.Format**
 
@@ -997,7 +997,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaNLOCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L464-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L464-L464)
 **instance
 Tau.BookIV.Electroweak.instReprAlphaNLOCatalog :Repr AlphaNLOCatalog**
 
@@ -1008,7 +1008,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.alpha_nlo_catalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L466-L466)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L466-L466)
 **def
 Tau.BookIV.Electroweak.alpha_nlo_catalog :AlphaNLOCatalog**
 
@@ -1020,7 +1020,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.AlphaPrecisionBarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L468-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L468-L478)
 **structure
 Tau.BookIV.Electroweak.AlphaPrecisionBarrier :Type**
 
@@ -1044,7 +1044,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaPrecisionBarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L478-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L478-L478)
 **def
 Tau.BookIV.Electroweak.instReprAlphaPrecisionBarrier.repr :AlphaPrecisionBarrier → ℕ → Std.Format**
 
@@ -1056,7 +1056,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAlphaPrecisionBarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L478-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L478-L478)
 **instance
 Tau.BookIV.Electroweak.instReprAlphaPrecisionBarrier :Repr AlphaPrecisionBarrier**
 
@@ -1067,7 +1067,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.alpha_precision_barrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L480-L480)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/AlphaDerivation.lean#L480-L480)
 **def
 Tau.BookIV.Electroweak.alpha_precision_barrier :AlphaPrecisionBarrier**
 

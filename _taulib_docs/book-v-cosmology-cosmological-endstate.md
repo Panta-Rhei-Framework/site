@@ -99,7 +99,7 @@ Life emerges in the refinement phase, not the generative phase.
 
 ### `Tau.BookV.Cosmology.DefectEntropyConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L63-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L63-L82)
 **structure
 Tau.BookV.Cosmology.DefectEntropyConvergence :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDefectEntropyConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L82-L82)
 **instance
 Tau.BookV.Cosmology.instReprDefectEntropyConvergence :Repr DefectEntropyConvergence**
 
@@ -145,7 +145,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDefectEntropyConvergence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L82-L82)
 **def
 Tau.BookV.Cosmology.instReprDefectEntropyConvergence.repr :DefectEntropyConvergence → ℕ → Std.Format**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.defect_entropy_converges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L84-L86)
 **theorem
 Tau.BookV.Cosmology.defect_entropy_converges
 (d : DefectEntropyConvergence)
@@ -170,7 +170,7 @@ Defect entropy converges.
 
 ### `Tau.BookV.Cosmology.BHDominatedEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L92-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L92-L106)
 **structure
 Tau.BookV.Cosmology.BHDominatedEpoch :Type**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHDominatedEpoch.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L106-L106)
 **def
 Tau.BookV.Cosmology.instReprBHDominatedEpoch.repr :BHDominatedEpoch → ℕ → Std.Format**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHDominatedEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L106-L106)
 **instance
 Tau.BookV.Cosmology.instReprBHDominatedEpoch :Repr BHDominatedEpoch**
 
@@ -222,7 +222,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.example_bh_epoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L108-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L108-L113)
 **def
 Tau.BookV.Cosmology.example_bh_epoch :BHDominatedEpoch**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.CoherenceHorizonCosmo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L119-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L119-L136)
 **structure
 Tau.BookV.Cosmology.CoherenceHorizonCosmo :Type**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCoherenceHorizonCosmo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L136-L136)
 **instance
 Tau.BookV.Cosmology.instReprCoherenceHorizonCosmo :Repr CoherenceHorizonCosmo**
 
@@ -280,7 +280,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCoherenceHorizonCosmo.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L136-L136)
 **def
 Tau.BookV.Cosmology.instReprCoherenceHorizonCosmo.repr :CoherenceHorizonCosmo → ℕ → Std.Format**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.CosmicPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L142-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L142-L156)
 **inductive
 Tau.BookV.Cosmology.CosmicPhase :Type**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCosmicPhase.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
 **def
 Tau.BookV.Cosmology.instReprCosmicPhase.repr :CosmicPhase → ℕ → Std.Format**
 
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCosmicPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
 **instance
 Tau.BookV.Cosmology.instReprCosmicPhase :Repr CosmicPhase**
 
@@ -344,7 +344,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqCosmicPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
 **instance
 Tau.BookV.Cosmology.instDecidableEqCosmicPhase :DecidableEq CosmicPhase**
 
@@ -355,7 +355,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqCosmicPhase.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
 **def
 Tau.BookV.Cosmology.instBEqCosmicPhase.beq :CosmicPhase → CosmicPhase → Bool**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instBEqCosmicPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L156-L156)
 **instance
 Tau.BookV.Cosmology.instBEqCosmicPhase :BEq CosmicPhase**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.CosmicPhaseData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L158-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L158-L173)
 **structure
 Tau.BookV.Cosmology.CosmicPhaseData :Type**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCosmicPhaseData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L173-L173)
 **def
 Tau.BookV.Cosmology.instReprCosmicPhaseData.repr :CosmicPhaseData → ℕ → Std.Format**
 
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCosmicPhaseData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L173-L173)
 **instance
 Tau.BookV.Cosmology.instReprCosmicPhaseData :Repr CosmicPhaseData**
 
@@ -432,7 +432,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.EternalCirculation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L179-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L179-L200)
 **structure
 Tau.BookV.Cosmology.EternalCirculation :Type**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEternalCirculation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L200-L200)
 **instance
 Tau.BookV.Cosmology.instReprEternalCirculation :Repr EternalCirculation**
 
@@ -483,7 +483,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprEternalCirculation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L200-L200)
 **def
 Tau.BookV.Cosmology.instReprEternalCirculation.repr :EternalCirculation → ℕ → Std.Format**
 
@@ -495,7 +495,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.eternal_circulation_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L202-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L202-L205)
 **theorem
 Tau.BookV.Cosmology.eternal_circulation_theorem :"Endstate = eternal circulation on L, not heat death" = "Endstate = eternal circulation on L, not heat death"**
 
@@ -506,7 +506,7 @@ The endstate is eternal circulation.
 
 ### `Tau.BookV.Cosmology.late_stage_complexity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L211-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L211-L218)
 **def
 Tau.BookV.Cosmology.late_stage_complexity :Prop**
 
@@ -524,7 +524,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.late_stage_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L220-L220)
 **theorem
 Tau.BookV.Cosmology.late_stage_holds :late_stage_complexity**
 
@@ -533,7 +533,7 @@ Tau.BookV.Cosmology.late_stage_holds :late_stage_complexity**
 
 ### `Tau.BookV.Cosmology.not_anthropic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L226-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L226-L232)
 **def
 Tau.BookV.Cosmology.not_anthropic :Prop**
 
@@ -550,7 +550,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.not_anthropic_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L234-L234)
 **theorem
 Tau.BookV.Cosmology.not_anthropic_holds :not_anthropic**
 
@@ -559,7 +559,7 @@ Tau.BookV.Cosmology.not_anthropic_holds :not_anthropic**
 
 ### `Tau.BookV.Cosmology.generative_now`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L259-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L259-L266)
 **def
 Tau.BookV.Cosmology.generative_now :CosmicPhaseData**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.refinement_now`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L268-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L268-L275)
 **def
 Tau.BookV.Cosmology.refinement_now :CosmicPhaseData**
 
@@ -587,7 +587,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.endstate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L281-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/CosmologicalEndstate.lean#L281-L282)
 **def
 Tau.BookV.Cosmology.endstate :EternalCirculation**
 

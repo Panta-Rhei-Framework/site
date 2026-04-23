@@ -56,7 +56,7 @@ ingredient for E₂ emergence. Non-trivial iff rank > 0.
 
 ### `Tau.BookIII.Arithmetic.ProtoCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L40-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L40-L47)
 **structure
 Tau.BookIII.Arithmetic.ProtoCode :Type**
 
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instReprProtoCode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **def
 Tau.BookIII.Arithmetic.instReprProtoCode.repr :ProtoCode → ℕ → Std.Format**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instReprProtoCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **instance
 Tau.BookIII.Arithmetic.instReprProtoCode :Repr ProtoCode**
 
@@ -97,7 +97,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.instDecidableEqProtoCode.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **def
 Tau.BookIII.Arithmetic.instDecidableEqProtoCode.decEq
 (x✝ x✝¹ : ProtoCode)
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instDecidableEqProtoCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **instance
 Tau.BookIII.Arithmetic.instDecidableEqProtoCode :DecidableEq ProtoCode**
 
@@ -122,7 +122,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.instBEqProtoCode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **def
 Tau.BookIII.Arithmetic.instBEqProtoCode.beq :ProtoCode → ProtoCode → Bool**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instBEqProtoCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L47-L47)
 **instance
 Tau.BookIII.Arithmetic.instBEqProtoCode :BEq ProtoCode**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.make_proto_code`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L49-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L49-L59)
 **def
 Tau.BookIII.Arithmetic.make_proto_code
 (x k : Denotation.TauIdx)
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.proto_code_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L61-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L61-L77)
 **def
 Tau.BookIII.Arithmetic.proto_code_check
 (bound db : Denotation.TauIdx)
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.proto_code_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L66-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L66-L76)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.proto_code_check.go
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_functional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L83-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L83-L103)
 **def
 Tau.BookIII.Arithmetic.bsd_functional
 (k : Denotation.TauIdx)
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_functional.count_ranks`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L98-L103)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L98-L103)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_functional.count_ranks
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_functional_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L105-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L105-L119)
 **def
 Tau.BookIII.Arithmetic.bsd_functional_check
 (db : Denotation.TauIdx)
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_functional_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L110-L118)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L110-L118)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_functional_check.go
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bridgehead_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L125-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L125-L146)
 **def
 Tau.BookIII.Arithmetic.bridgehead_check
 (db : Denotation.TauIdx)
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bridgehead_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L130-L139)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L130-L139)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bridgehead_check.go
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bridgehead_check.check_nontrivial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L141-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L141-L146)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bridgehead_check.check_nontrivial
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.proto_code_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L161-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L161-L162)
 **theorem
 Tau.BookIII.Arithmetic.proto_code_15_4 :proto_code_check 15 4 = true**
 
@@ -321,7 +321,7 @@ Tau.BookIII.Arithmetic.proto_code_15_4 :proto_code_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.bsd_functional_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L164-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L164-L165)
 **theorem
 Tau.BookIII.Arithmetic.bsd_functional_5 :bsd_functional_check 5 = true**
 
@@ -330,7 +330,7 @@ Tau.BookIII.Arithmetic.bsd_functional_5 :bsd_functional_check 5 = true**
 
 ### `Tau.BookIII.Arithmetic.bridgehead_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L167-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L167-L168)
 **theorem
 Tau.BookIII.Arithmetic.bridgehead_4 :bridgehead_check 4 = true**
 
@@ -339,7 +339,7 @@ Tau.BookIII.Arithmetic.bridgehead_4 :bridgehead_check 4 = true**
 
 ### `Tau.BookIII.Arithmetic.proto_zero_verified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L174-L176)
 **theorem
 Tau.BookIII.Arithmetic.proto_zero_verified :(make_proto_code 0 3).verified = true**
 
@@ -350,7 +350,7 @@ Tau.BookIII.Arithmetic.proto_zero_verified :(make_proto_code 0 3).verified = tru
 
 ### `Tau.BookIII.Arithmetic.bsd_nonneg_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L178-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L178-L180)
 **theorem
 Tau.BookIII.Arithmetic.bsd_nonneg_1 :bsd_functional 1 ≥ 0**
 
@@ -361,7 +361,7 @@ Tau.BookIII.Arithmetic.bsd_nonneg_1 :bsd_functional 1 ≥ 0**
 
 ### `Tau.BookIII.Arithmetic.bridgehead_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L182-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ProtoCodes.lean#L182-L184)
 **theorem
 Tau.BookIII.Arithmetic.bridgehead_1 :bridgehead_check 1 = true**
 

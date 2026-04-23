@@ -88,7 +88,7 @@ d₄ signature variants.
 
 ### `Tau.BookIV.ManyBody.MagneticMoment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L51-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L51-L61)
 **structure
 Tau.BookIV.ManyBody.MagneticMoment :Type**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMagneticMoment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L61-L61)
 **instance
 Tau.BookIV.ManyBody.instReprMagneticMoment :Repr MagneticMoment**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprMagneticMoment.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L61-L61)
 **def
 Tau.BookIV.ManyBody.instReprMagneticMoment.repr :MagneticMoment → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.magnetic_moment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L63-L63)
 **def
 Tau.BookIV.ManyBody.magnetic_moment :MagneticMoment**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.IsingHamiltonian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L69-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L69-L82)
 **structure
 Tau.BookIV.ManyBody.IsingHamiltonian :Type**
 
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprIsingHamiltonian.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L82-L82)
 **def
 Tau.BookIV.ManyBody.instReprIsingHamiltonian.repr :IsingHamiltonian → ℕ → Std.Format**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprIsingHamiltonian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L82-L82)
 **instance
 Tau.BookIV.ManyBody.instReprIsingHamiltonian :Repr IsingHamiltonian**
 
@@ -198,7 +198,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.ising_hamiltonian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L84-L84)
 **def
 Tau.BookIV.ManyBody.ising_hamiltonian :IsingHamiltonian**
 
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.ising_periodic_bc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L86-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L86-L87)
 **theorem
 Tau.BookIV.ManyBody.ising_periodic_bc :ising_hamiltonian.periodic_from_torus = true**
 
@@ -219,7 +219,7 @@ Tau.BookIV.ManyBody.ising_periodic_bc :ising_hamiltonian.periodic_from_torus = t
 
 ### `Tau.BookIV.ManyBody.SpontaneousMagnetization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L93-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L93-L108)
 **structure
 Tau.BookIV.ManyBody.SpontaneousMagnetization :Type**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSpontaneousMagnetization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L108-L108)
 **def
 Tau.BookIV.ManyBody.instReprSpontaneousMagnetization.repr :SpontaneousMagnetization → ℕ → Std.Format**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSpontaneousMagnetization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L108-L108)
 **instance
 Tau.BookIV.ManyBody.instReprSpontaneousMagnetization :Repr SpontaneousMagnetization**
 
@@ -278,7 +278,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.spontaneous_magnetization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L110-L110)
 **def
 Tau.BookIV.ManyBody.spontaneous_magnetization :SpontaneousMagnetization**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.magnetization_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L112-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L112-L113)
 **theorem
 Tau.BookIV.ManyBody.magnetization_transition :spontaneous_magnetization.phase_transition = true**
 
@@ -299,7 +299,7 @@ Tau.BookIV.ManyBody.magnetization_transition :spontaneous_magnetization.phase_tr
 
 ### `Tau.BookIV.ManyBody.NoMonopoles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L119-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L119-L144)
 **structure
 Tau.BookIV.ManyBody.NoMonopoles :Type**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNoMonopoles.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L144-L144)
 **def
 Tau.BookIV.ManyBody.instReprNoMonopoles.repr :NoMonopoles → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNoMonopoles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L144-L144)
 **instance
 Tau.BookIV.ManyBody.instReprNoMonopoles :Repr NoMonopoles**
 
@@ -368,7 +368,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.no_monopoles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L146-L146)
 **def
 Tau.BookIV.ManyBody.no_monopoles :NoMonopoles**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.euler_char_T2_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L148-L149)
 **theorem
 Tau.BookIV.ManyBody.euler_char_T2_zero :no_monopoles.euler_char_zero = true**
 
@@ -389,7 +389,7 @@ Tau.BookIV.ManyBody.euler_char_T2_zero :no_monopoles.euler_char_zero = true**
 
 ### `Tau.BookIV.ManyBody.no_monopoles_topological`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L151-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L151-L152)
 **theorem
 Tau.BookIV.ManyBody.no_monopoles_topological :no_monopoles.topological_necessity = true**
 
@@ -398,7 +398,7 @@ Tau.BookIV.ManyBody.no_monopoles_topological :no_monopoles.topological_necessity
 
 ### `Tau.BookIV.ManyBody.DomainWall`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L158-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L158-L171)
 **structure
 Tau.BookIV.ManyBody.DomainWall :Type**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDomainWall.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L171-L171)
 **def
 Tau.BookIV.ManyBody.instReprDomainWall.repr :DomainWall → ℕ → Std.Format**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDomainWall`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L171-L171)
 **instance
 Tau.BookIV.ManyBody.instReprDomainWall :Repr DomainWall**
 
@@ -449,7 +449,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.domain_wall`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L173-L173)
 **def
 Tau.BookIV.ManyBody.domain_wall :DomainWall**
 
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.DomainWallEnergy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L179-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L179-L192)
 **structure
 Tau.BookIV.ManyBody.DomainWallEnergy :Type**
 
@@ -489,7 +489,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDomainWallEnergy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L192-L192)
 **def
 Tau.BookIV.ManyBody.instReprDomainWallEnergy.repr :DomainWallEnergy → ℕ → Std.Format**
 
@@ -501,7 +501,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDomainWallEnergy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L192-L192)
 **instance
 Tau.BookIV.ManyBody.instReprDomainWallEnergy :Repr DomainWallEnergy**
 
@@ -512,7 +512,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.domain_wall_energy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L194-L194)
 **def
 Tau.BookIV.ManyBody.domain_wall_energy :DomainWallEnergy**
 
@@ -524,7 +524,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.CurieTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L200-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L200-L218)
 **structure
 Tau.BookIV.ManyBody.CurieTransition :Type**
 
@@ -564,7 +564,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprCurieTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L218-L218)
 **instance
 Tau.BookIV.ManyBody.instReprCurieTransition :Repr CurieTransition**
 
@@ -575,7 +575,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprCurieTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L218-L218)
 **def
 Tau.BookIV.ManyBody.instReprCurieTransition.repr :CurieTransition → ℕ → Std.Format**
 
@@ -587,7 +587,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.curie_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L220-L220)
 **def
 Tau.BookIV.ManyBody.curie_transition :CurieTransition**
 
@@ -599,7 +599,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.curie_is_second_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L222-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L222-L223)
 **theorem
 Tau.BookIV.ManyBody.curie_is_second_order :curie_transition.second_order = true**
 
@@ -608,7 +608,7 @@ Tau.BookIV.ManyBody.curie_is_second_order :curie_transition.second_order = true*
 
 ### `Tau.BookIV.ManyBody.MagneticOrders`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L229-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L229-L244)
 **structure
 Tau.BookIV.ManyBody.MagneticOrders :Type**
 
@@ -641,7 +641,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMagneticOrders.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L244-L244)
 **def
 Tau.BookIV.ManyBody.instReprMagneticOrders.repr :MagneticOrders → ℕ → Std.Format**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMagneticOrders`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L244-L244)
 **instance
 Tau.BookIV.ManyBody.instReprMagneticOrders :Repr MagneticOrders**
 
@@ -664,7 +664,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.magnetic_orders`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L246-L246)
 **def
 Tau.BookIV.ManyBody.magnetic_orders :MagneticOrders**
 
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.five_magnetic_orders`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L248-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L248-L249)
 **theorem
 Tau.BookIV.ManyBody.five_magnetic_orders :magnetic_orders.num_orders = 5**
 
@@ -685,6 +685,6 @@ Tau.BookIV.ManyBody.five_magnetic_orders :magnetic_orders.num_orders = 5**
 
 ### `Tau.BookIV.ManyBody.magnetic_orders_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/Magnetism.lean#L251-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/Magnetism.lean#L251-L252)
 **theorem
 Tau.BookIV.ManyBody.magnetic_orders_count :magnetic_orders.orders.length = 5**

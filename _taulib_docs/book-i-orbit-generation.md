@@ -53,7 +53,7 @@ since we import Mathlib for tactics only.
 
 ### `Tau.Orbit.iter_rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L33-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L33-L36)
 **def
 Tau.Orbit.iter_rho :Nat → Kernel.TauObj → Kernel.TauObj**
 
@@ -68,7 +68,7 @@ Instances For
 
 ### `Tau.Orbit.iter_rho_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L38-L39)@[simp]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L38-L39)@[simp]
 
 **theorem
 Tau.Orbit.iter_rho_zero
@@ -80,7 +80,7 @@ Tau.Orbit.iter_rho_zero
 
 ### `Tau.Orbit.iter_rho_succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L41-L43)@[simp]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L41-L43)@[simp]
 
 **theorem
 Tau.Orbit.iter_rho_succ
@@ -94,7 +94,7 @@ Tau.Orbit.iter_rho_succ
 
 ### `Tau.Orbit.iter_rho_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L45-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L45-L54)
 **theorem
 Tau.Orbit.iter_rho_depth
 (g : Kernel.Generator)
@@ -111,7 +111,7 @@ iter_rho on a non-omega object increments depth.
 
 ### `Tau.Orbit.iter_rho_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L56-L62)@[simp]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L56-L62)@[simp]
 
 **theorem
 Tau.Orbit.iter_rho_omega
@@ -125,7 +125,7 @@ iter_rho on omega is the identity.
 
 ### `Tau.Orbit.iter_rho_seed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L64-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L64-L67)
 **theorem
 Tau.Orbit.iter_rho_seed
 (g : Kernel.Generator)
@@ -142,7 +142,7 @@ iter_rho preserves the seed for non-omega generators.
 
 ### `Tau.Orbit.iter_rho_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L69-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L69-L75)
 **theorem
 Tau.Orbit.iter_rho_add
 (n m : Nat)
@@ -157,7 +157,7 @@ iter_rho composes: ρⁿ⁺ᵐ(x) = ρⁿ(ρᵐ(x)).
 
 ### `Tau.Orbit.OrbitRay`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L81-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L81-L84)
 **def
 Tau.Orbit.OrbitRay
 (g : Kernel.Generator)
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.Orbit.OmegaFiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L86-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L86-L88)
 **def
 Tau.Orbit.OmegaFiber
 (x : Kernel.TauObj)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.Orbit.orbit_ray_contains_gen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L90-L93)
 **theorem
 Tau.Orbit.orbit_ray_contains_gen
 (g : Kernel.Generator)
@@ -207,7 +207,7 @@ Each non-omega generator belongs to its own orbit ray.
 
 ### `Tau.Orbit.orbit_ray_rho_closed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L95-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L95-L102)
 **theorem
 Tau.Orbit.orbit_ray_rho_closed
 (g : Kernel.Generator)
@@ -226,7 +226,7 @@ Orbit rays are closed under ρ.
 
 ### `Tau.Orbit.orbit_ray_characterize`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L104-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L104-L111)
 **theorem
 Tau.Orbit.orbit_ray_characterize
 (g : Kernel.Generator)
@@ -243,7 +243,7 @@ Every element of an orbit ray is ⟨g, n⟩ for some n.
 
 ### `Tau.Orbit.orbit_disjoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L117-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L117-L122)
 **theorem
 Tau.Orbit.orbit_disjoint
 (g h : Kernel.Generator)
@@ -261,7 +261,7 @@ belongs to both O_g and O_h.
 
 ### `Tau.Orbit.omega_not_in_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L124-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L124-L129)
 **theorem
 Tau.Orbit.omega_not_in_orbit
 (g : Kernel.Generator)
@@ -278,7 +278,7 @@ Omega is not in any orbit ray.
 
 ### `Tau.Orbit.orbit_ray_seed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L131-L133)
 **theorem
 Tau.Orbit.orbit_ray_seed
 (g : Kernel.Generator)
@@ -295,7 +295,7 @@ Orbit ray elements have seed equal to the generator.
 
 ### `Tau.Orbit.generative_act`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Generation.lean#L139-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Generation.lean#L139-L144)
 **theorem
 Tau.Orbit.generative_act
 (x : Kernel.TauObj)

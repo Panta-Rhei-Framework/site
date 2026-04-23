@@ -109,7 +109,7 @@ Step 5 is the physical bridge (see BipolarAlgebra.lean, PhotonMode.lean).
 
 ### `Tau.Denotation.depth_sync`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L62-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L62-L69)
 **theorem
 Tau.Denotation.depth_sync
 (g h : Kernel.Generator)
@@ -128,7 +128,7 @@ This is the structural content of "all clocks tick at the same rate."
 
 ### `Tau.Denotation.depth_sync_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L71-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L71-L77)
 **theorem
 Tau.Denotation.depth_sync_sigma
 (g h : Kernel.Generator)
@@ -147,7 +147,7 @@ observation that both rank transfers produce the same depth.
 
 ### `Tau.Denotation.pitch_ratio_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L83-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L83-L92)
 **theorem
 Tau.Denotation.pitch_ratio_one
 (n : TauIdx)
@@ -166,7 +166,7 @@ Each ρ-step advances α by 1 (K4_no_jump for α) and π by 1
 
 ### `Tau.Denotation.alpha_advance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L94-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L94-L97)
 **theorem
 Tau.Denotation.alpha_advance
 (n : TauIdx)
@@ -179,7 +179,7 @@ The advance of α under ρ is exactly 1.
 
 ### `Tau.Denotation.pi_advance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L99-L102)
 **theorem
 Tau.Denotation.pi_advance
 (n : TauIdx)
@@ -192,7 +192,7 @@ The advance of π under ρ is exactly 1.
 
 ### `Tau.Denotation.advance_ratio_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L104-L108)
 **theorem
 Tau.Denotation.advance_ratio_eq
 (n : TauIdx)
@@ -205,7 +205,7 @@ The advances are equal: α and π gain the same depth per ρ-step.
 
 ### `Tau.Denotation.c_tau_eq_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L114-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L114-L140)
 **theorem
 Tau.Denotation.c_tau_eq_one :(∀ (n : TauIdx), (RT Kernel.Generator.alpha n).depth = (RT Kernel.Generator.pi n).depth) ∧ ∀ (φ : Orbit.TauAutomorphism) (g : Kernel.Generator),
  g ≠ Kernel.Generator.omega →
@@ -241,7 +241,7 @@ pitch = 1. See BipolarAlgebra.lean for j² = +1.
 
 ### `Tau.Denotation.universal_depth_sync`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L146-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L146-L151)
 **theorem
 Tau.Denotation.universal_depth_sync
 (g h : Kernel.Generator)
@@ -261,7 +261,7 @@ This extends depth_sync to the full generator set.
 
 ### `Tau.Denotation.four_orbit_sync`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/SolenoidPitch.lean#L153-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/SolenoidPitch.lean#L153-L160)
 **theorem
 Tau.Denotation.four_orbit_sync
 (n : TauIdx)

@@ -63,7 +63,7 @@ The program monoid is the quotient by NF-equivalence.
 
 ### `Tau.Denotation.Instruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L36-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L36-L40)
 **inductive
 Tau.Denotation.Instruction :Type**
 
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Denotation.instDecidableEqInstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
 **instance
 Tau.Denotation.instDecidableEqInstruction :DecidableEq Instruction**
 
@@ -89,7 +89,7 @@ Equations
 
 ### `Tau.Denotation.instDecidableEqInstruction.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
 **def
 Tau.Denotation.instDecidableEqInstruction.decEq
 (x✝ x✝¹ : Instruction)
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.Denotation.instReprInstruction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
 **def
 Tau.Denotation.instReprInstruction.repr :Instruction → Nat → Std.Format**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.Denotation.instReprInstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L40-L40)
 **instance
 Tau.Denotation.instReprInstruction :Repr Instruction**
 
@@ -132,7 +132,7 @@ Equations
 
 ### `Tau.Denotation.Program`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L42-L43)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L42-L43)@[reducible, inline]
 
 **abbrev
 Tau.Denotation.Program :Type**
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.Denotation.execInstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L45-L49)
 **def
 Tau.Denotation.execInstruction
 (i : Instruction)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.Denotation.execProgram`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L51-L53)
 **def
 Tau.Denotation.execProgram
 (p : Program)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.Denotation.NormalForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L59-L62)
 **structure
 Tau.Denotation.NormalForm :Type**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.Denotation.countRho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L64-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L64-L68)
 **def
 Tau.Denotation.countRho :Program → Nat**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.Denotation.NormalForm.id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L70-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L70-L73)
 **def
 Tau.Denotation.NormalForm.id :NormalForm**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.Denotation.NormalForm.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L75-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L75-L78)
 **def
 Tau.Denotation.NormalForm.compose
 (nf1 nf2 : NormalForm)
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.Denotation.execNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L80-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L80-L83)
 **def
 Tau.Denotation.execNF
 (nf : NormalForm)
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.Denotation.Program.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L89-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L89-L90)
 **def
 Tau.Denotation.Program.compose
 (p q : Program)
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.Denotation.compose_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L92-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L92-L95)
 **theorem
 Tau.Denotation.compose_assoc
 (p q r : Program)
@@ -293,7 +293,7 @@ Tau.Denotation.compose_assoc
 
 ### `Tau.Denotation.compose_id_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L97-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L97-L100)
 **theorem
 Tau.Denotation.compose_id_left
 (p : Program)
@@ -306,7 +306,7 @@ The empty program is a left identity.
 
 ### `Tau.Denotation.compose_id_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L102-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L102-L105)
 **theorem
 Tau.Denotation.compose_id_right
 (p : Program)
@@ -319,7 +319,7 @@ The empty program is a right identity.
 
 ### `Tau.Denotation.exec_compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L111-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L111-L114)
 **theorem
 Tau.Denotation.exec_compose
 (p q : Program)
@@ -334,7 +334,7 @@ Executing a concatenation is the same as executing sequentially.
 
 ### `Tau.Denotation.exec_nil`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L116-L118)
 **theorem
 Tau.Denotation.exec_nil
 (x : Kernel.TauObj)
@@ -347,7 +347,7 @@ The empty program is the identity.
 
 ### `Tau.Denotation.exec_rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L120-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L120-L123)
 **theorem
 Tau.Denotation.exec_rho
 (x : Kernel.TauObj)
@@ -360,7 +360,7 @@ A single rho instruction applies rho.
 
 ### `Tau.Denotation.exec_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L125-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L125-L128)
 **theorem
 Tau.Denotation.exec_sigma
 (s t : Kernel.Generator)
@@ -375,7 +375,7 @@ A single sigma instruction applies sigma.
 
 ### `Tau.Denotation.rho_count_compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L134-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L134-L149)
 **theorem
 Tau.Denotation.rho_count_compose
 (p q : Program)
@@ -389,7 +389,7 @@ is the sum of the individual rho counts.
 
 ### `Tau.Denotation.rho_count_nil`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/ProgramMonoid.lean#L151-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/ProgramMonoid.lean#L151-L152)
 **theorem
 Tau.Denotation.rho_count_nil :countRho [] = 0**
 

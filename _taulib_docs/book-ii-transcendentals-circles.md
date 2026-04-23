@@ -54,7 +54,7 @@ at each stage, witnessing the T^2 = S^1 x S^1 torus structure.
 
 ### `Tau.BookII.Transcendentals.solenoidal_b_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L35-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L35-L39)
 **def
 Tau.BookII.Transcendentals.solenoidal_b_orbit
 (x k : Denotation.TauIdx)
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.solenoidal_c_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L41-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L41-L43)
 **def
 Tau.BookII.Transcendentals.solenoidal_c_orbit
 (x k : Denotation.TauIdx)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.exists_with_b_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L49-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L49-L59)
 **def
 Tau.BookII.Transcendentals.exists_with_b_residue
 (r k bound : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.exists_with_b_residue.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L54-L58)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L54-L58)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.exists_with_b_residue.go
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.exists_with_c_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L61-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L61-L70)
 **def
 Tau.BookII.Transcendentals.exists_with_c_residue
 (r k bound : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.exists_with_c_residue.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L65-L69)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L65-L69)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.exists_with_c_residue.go
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.circle_profinite_b_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L72-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L72-L83)
 **def
 Tau.BookII.Transcendentals.circle_profinite_b_check
 (k bound : Denotation.TauIdx)
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.circle_profinite_b_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L79-L82)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L79-L82)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.circle_profinite_b_check.go
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.circle_profinite_c_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L85-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L85-L94)
 **def
 Tau.BookII.Transcendentals.circle_profinite_c_check
 (k bound : Denotation.TauIdx)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.circle_profinite_c_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L90-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L90-L93)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.circle_profinite_c_check.go
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.geo_topo_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L100-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L100-L110)
 **def
 Tau.BookII.Transcendentals.geo_topo_check
 (bound : Denotation.TauIdx)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.bc_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L112-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L112-L121)
 **def
 Tau.BookII.Transcendentals.bc_independence_check :Bool**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.circle_b_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L149-L149)
 **theorem
 Tau.BookII.Transcendentals.circle_b_k1 :circle_profinite_b_check 1 100 = true**
 
@@ -267,7 +267,7 @@ Tau.BookII.Transcendentals.circle_b_k1 :circle_profinite_b_check 1 100 = true**
 
 ### `Tau.BookII.Transcendentals.circle_b_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L150-L150)
 **theorem
 Tau.BookII.Transcendentals.circle_b_k2 :circle_profinite_b_check 2 100 = true**
 
@@ -276,7 +276,7 @@ Tau.BookII.Transcendentals.circle_b_k2 :circle_profinite_b_check 2 100 = true**
 
 ### `Tau.BookII.Transcendentals.circle_c_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L151-L151)
 **theorem
 Tau.BookII.Transcendentals.circle_c_k1 :circle_profinite_c_check 1 200 = true**
 
@@ -285,7 +285,7 @@ Tau.BookII.Transcendentals.circle_c_k1 :circle_profinite_c_check 1 200 = true**
 
 ### `Tau.BookII.Transcendentals.geo_topo_200`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L152-L152)
 **theorem
 Tau.BookII.Transcendentals.geo_topo_200 :geo_topo_check 200 = true**
 
@@ -294,6 +294,6 @@ Tau.BookII.Transcendentals.geo_topo_200 :geo_topo_check 200 = true**
 
 ### `Tau.BookII.Transcendentals.bc_indep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/Circles.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/Circles.lean#L153-L153)
 **theorem
 Tau.BookII.Transcendentals.bc_indep :bc_independence_check = true**

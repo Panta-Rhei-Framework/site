@@ -69,7 +69,7 @@ and the 4-dimensional physical reading.
 
 ### `Tau.BookIV.Arena.Tau1Base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L38-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L38-L52)
 **structure
 Tau.BookIV.Arena.Tau1Base :Type**
 
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprTau1Base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L52-L52)
 **instance
 Tau.BookIV.Arena.instReprTau1Base :Repr Tau1Base**
 
@@ -109,7 +109,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprTau1Base.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L52-L52)
 **def
 Tau.BookIV.Arena.instReprTau1Base.repr :Tau1Base → ℕ → Std.Format**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.tau1_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L54-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L54-L61)
 **def
 Tau.BookIV.Arena.tau1_base :Tau1Base**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.FiberT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L67-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L67-L83)
 **structure
 Tau.BookIV.Arena.FiberT2 :Type**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprFiberT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L83-L83)
 **instance
 Tau.BookIV.Arena.instReprFiberT2 :Repr FiberT2**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprFiberT2.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L83-L83)
 **def
 Tau.BookIV.Arena.instReprFiberT2.repr :FiberT2 → ℕ → Std.Format**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.fiber_t2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L85-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L85-L94)
 **def
 Tau.BookIV.Arena.fiber_t2 :FiberT2**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.Tau3Arena`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L100-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L100-L110)
 **structure
 Tau.BookIV.Arena.Tau3Arena :Type**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprTau3Arena`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L110-L110)
 **instance
 Tau.BookIV.Arena.instReprTau3Arena :Repr Tau3Arena**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprTau3Arena.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L110-L110)
 **def
 Tau.BookIV.Arena.instReprTau3Arena.repr :Tau3Arena → ℕ → Std.Format**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.tau3_arena`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L112-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L112-L117)
 **def
 Tau.BookIV.Arena.tau3_arena :Tau3Arena**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.MasterConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L123-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L123-L135)
 **structure
 Tau.BookIV.Arena.MasterConstant :Type**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.master_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L137-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L137-L143)
 **def
 Tau.BookIV.Arena.master_constant :MasterConstant**
 
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.quasi_ergodic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L149-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L149-L157)
 **theorem
 Tau.BookIV.Arena.quasi_ergodic :Sectors.gravity_sector.coupling_numer > 0 ∧ Sectors.weak_sector.coupling_numer > 0 ∧ Sectors.em_sector.coupling_numer > 0 ∧ Sectors.strong_sector.coupling_numer > 0 ∧ Sectors.higgs_sector.coupling_numer > 0**
 
@@ -319,7 +319,7 @@ deep orbit level. Formalized: all 5 sectors are active (positive coupling).
 
 ### `Tau.BookIV.Arena.four_dim_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L163-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L163-L168)
 **theorem
 Tau.BookIV.Arena.four_dim_earned :tau1_base.gen_count + fiber_t2.gen_count = 5 ∧ tau1_base.gen_count = 2 ∧ fiber_t2.gen_count = 3**
 
@@ -331,7 +331,7 @@ Tau.BookIV.Arena.four_dim_earned :tau1_base.gen_count + fiber_t2.gen_count = 5 �
 
 ### `Tau.BookIV.Arena.LemniscateBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L183-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L183-L193)
 **structure
 Tau.BookIV.Arena.LemniscateBoundary :Type**
 
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprLemniscateBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L193-L193)
 **def
 Tau.BookIV.Arena.instReprLemniscateBoundary.repr :LemniscateBoundary → ℕ → Std.Format**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprLemniscateBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L193-L193)
 **instance
 Tau.BookIV.Arena.instReprLemniscateBoundary :Repr LemniscateBoundary**
 
@@ -377,7 +377,7 @@ Equations
 
 ### `Tau.BookIV.Arena.lemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L195-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L195-L200)
 **def
 Tau.BookIV.Arena.lemniscate :LemniscateBoundary**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.micro_macro_split`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L206-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L206-L210)
 **theorem
 Tau.BookIV.Arena.micro_macro_split :fiber_t2.gen_count = 3 ∧ tau1_base.gen_count = 2**
 
@@ -403,7 +403,7 @@ and macrocosm (base τ¹, Book V).
 
 ### `Tau.BookIV.Arena.ChartReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L219-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L219-L237)
 **structure
 Tau.BookIV.Arena.ChartReadout :Type**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprChartReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L237-L237)
 **instance
 Tau.BookIV.Arena.instReprChartReadout :Repr ChartReadout**
 
@@ -448,7 +448,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprChartReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L237-L237)
 **def
 Tau.BookIV.Arena.instReprChartReadout.repr :ChartReadout → ℕ → Std.Format**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.chart_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/Tau3Arena.lean#L239-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/Tau3Arena.lean#L239-L249)
 **def
 Tau.BookIV.Arena.chart_readout :ChartReadout**
 

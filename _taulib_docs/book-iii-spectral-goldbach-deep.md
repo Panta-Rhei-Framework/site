@@ -72,7 +72,7 @@ finite verification can lift local solutions to a global proof.
 
 ### `Tau.BookIII.Spectral.goldbach_sieve_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L51-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L51-L60)
 **def
 Tau.BookIII.Spectral.goldbach_sieve_pair
 (n : ℕ)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_sieve_pair.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L55-L59)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L55-L59)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_sieve_pair.go
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_sieve_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L62-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L62-L72)
 **def
 Tau.BookIII.Spectral.goldbach_sieve_check
 (bound : ℕ)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_sieve_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L66-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L66-L71)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_sieve_check.go
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_partition_count_sieve`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L78-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L78-L89)
 **def
 Tau.BookIII.Spectral.goldbach_partition_count_sieve
 (n : ℕ)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_partition_count_sieve.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L83-L88)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L83-L88)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_partition_count_sieve.go
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_partition_count_at_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L91-L95)
 **def
 Tau.BookIII.Spectral.goldbach_partition_count_at_primorial
 (k : ℕ)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.partition_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L97-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L97-L108)
 **def
 Tau.BookIII.Spectral.partition_growth_check
 (lo hi : ℕ)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.partition_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L101-L107)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L101-L107)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.partition_growth_check.go
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_obstruction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L114-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L114-L119)
 **def
 Tau.BookIII.Spectral.goldbach_obstruction_count
 (n p : ℕ)
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.obstruction_bounded_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L121-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L121-L133)
 **def
 Tau.BookIII.Spectral.obstruction_bounded_check
 (bound db : ℕ)
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.obstruction_bounded_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L125-L132)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L125-L132)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.obstruction_bounded_check.go
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_goldbach_local_solvable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L139-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L139-L154)
 **def
 Tau.BookIII.Spectral.crt_goldbach_local_solvable
 (n k : ℕ)
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_goldbach_local_solvable.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L146-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L146-L153)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_goldbach_local_solvable.go
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_goldbach_duality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L156-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L156-L167)
 **def
 Tau.BookIII.Spectral.crt_goldbach_duality_check
 (bound db : ℕ)
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_goldbach_duality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L161-L166)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L161-L166)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_goldbach_duality_check.go
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_500`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L173-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L173-L175)
 **theorem
 Tau.BookIII.Spectral.goldbach_500 :goldbach_sieve_check 500 = true**
 
@@ -338,7 +338,7 @@ Tau.BookIII.Spectral.goldbach_500 :goldbach_sieve_check 500 = true**
 
 ### `Tau.BookIII.Spectral.goldbach_primorial_m4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L177-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L177-L179)
 **theorem
 Tau.BookIII.Spectral.goldbach_primorial_m4 :goldbach_sieve_check 210 = true**
 
@@ -349,7 +349,7 @@ Tau.BookIII.Spectral.goldbach_primorial_m4 :goldbach_sieve_check 210 = true**
 
 ### `Tau.BookIII.Spectral.partition_growth_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L181-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L181-L183)
 **theorem
 Tau.BookIII.Spectral.partition_growth_4 :partition_growth_check 2 4 = true**
 
@@ -360,7 +360,7 @@ Tau.BookIII.Spectral.partition_growth_4 :partition_growth_check 2 4 = true**
 
 ### `Tau.BookIII.Spectral.obstruction_bounded_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L185-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L185-L187)
 **theorem
 Tau.BookIII.Spectral.obstruction_bounded_5 :obstruction_bounded_check 100 5 = true**
 
@@ -371,7 +371,7 @@ Tau.BookIII.Spectral.obstruction_bounded_5 :obstruction_bounded_check 100 5 = tr
 
 ### `Tau.BookIII.Spectral.crt_goldbach_duality_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L189-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L189-L191)
 **theorem
 Tau.BookIII.Spectral.crt_goldbach_duality_3 :crt_goldbach_duality_check 100 3 = true**
 
@@ -382,7 +382,7 @@ Tau.BookIII.Spectral.crt_goldbach_duality_3 :crt_goldbach_duality_check 100 3 = 
 
 ### `Tau.BookIII.Spectral.partition_m2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L197-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L197-L199)
 **theorem
 Tau.BookIII.Spectral.partition_m2 :goldbach_partition_count_at_primorial 2 = 1**
 
@@ -393,7 +393,7 @@ Tau.BookIII.Spectral.partition_m2 :goldbach_partition_count_at_primorial 2 = 1**
 
 ### `Tau.BookIII.Spectral.partition_m3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L201-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L201-L203)
 **theorem
 Tau.BookIII.Spectral.partition_m3 :goldbach_partition_count_at_primorial 3 = 3**
 
@@ -404,7 +404,7 @@ Tau.BookIII.Spectral.partition_m3 :goldbach_partition_count_at_primorial 3 = 3**
 
 ### `Tau.BookIII.Spectral.partition_m4_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L205-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L205-L207)
 **theorem
 Tau.BookIII.Spectral.partition_m4_pos :goldbach_partition_count_at_primorial 4 > 0**
 
@@ -415,7 +415,7 @@ Tau.BookIII.Spectral.partition_m4_pos :goldbach_partition_count_at_primorial 4 >
 
 ### `Tau.BookIII.Spectral.obstruction_100_p2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L209-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L209-L211)
 **theorem
 Tau.BookIII.Spectral.obstruction_100_p2 :goldbach_obstruction_count 100 2 = 1**
 
@@ -426,7 +426,7 @@ Tau.BookIII.Spectral.obstruction_100_p2 :goldbach_obstruction_count 100 2 = 1**
 
 ### `Tau.BookIII.Spectral.obstruction_100_p3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/GoldbachDeep.lean#L213-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/GoldbachDeep.lean#L213-L215)
 **theorem
 Tau.BookIII.Spectral.obstruction_100_p3 :goldbach_obstruction_count 100 3 = 0**
 

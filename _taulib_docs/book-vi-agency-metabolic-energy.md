@@ -68,7 +68,7 @@ Metabolic energy: ATP structure, membrane topology, and metabolism.
 
 ### `Tau.BookVI.MetabolicEnergy.ATPOscillation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L35-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L35-L50)
 **structure
 Tau.BookVI.MetabolicEnergy.ATPOscillation :Type**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprATPOscillation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L50-L50)
 **def
 Tau.BookVI.MetabolicEnergy.instReprATPOscillation.repr :ATPOscillation → ℕ → Std.Format**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprATPOscillation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L50-L50)
 **instance
 Tau.BookVI.MetabolicEnergy.instReprATPOscillation :Repr ATPOscillation**
 
@@ -122,7 +122,7 @@ Equations
 
 ### `Tau.BookVI.MetabolicEnergy.atp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L52-L54)
 **def
 Tau.BookVI.MetabolicEnergy.atp :ATPOscillation**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.CurrencyUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L60-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L60-L78)
 **structure
 Tau.BookVI.MetabolicEnergy.CurrencyUniqueness :Type**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprCurrencyUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L78-L78)
 **instance
 Tau.BookVI.MetabolicEnergy.instReprCurrencyUniqueness :Repr CurrencyUniqueness**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookVI.MetabolicEnergy.instReprCurrencyUniqueness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L78-L78)
 **def
 Tau.BookVI.MetabolicEnergy.instReprCurrencyUniqueness.repr :CurrencyUniqueness → ℕ → Std.Format**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.currency_uniq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L80-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L80-L82)
 **def
 Tau.BookVI.MetabolicEnergy.currency_uniq :CurrencyUniqueness**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.atp_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L84-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L84-L89)
 **theorem
 Tau.BookVI.MetabolicEnergy.atp_universality :currency_uniq.constraint_count = 3 ∧ currency_uniq.loop_closure = true ∧ currency_uniq.coupling = true ∧ currency_uniq.topological = true**
 
@@ -213,7 +213,7 @@ Tau.BookVI.MetabolicEnergy.atp_universality :currency_uniq.constraint_count = 3 
 
 ### `Tau.BookVI.MetabolicEnergy.MembraneAsLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L95-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L95-L113)
 **structure
 Tau.BookVI.MetabolicEnergy.MembraneAsLemniscate :Type**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprMembraneAsLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L113-L113)
 **instance
 Tau.BookVI.MetabolicEnergy.instReprMembraneAsLemniscate :Repr MembraneAsLemniscate**
 
@@ -259,7 +259,7 @@ Equations
 
 ### `Tau.BookVI.MetabolicEnergy.instReprMembraneAsLemniscate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L113-L113)
 **def
 Tau.BookVI.MetabolicEnergy.instReprMembraneAsLemniscate.repr :MembraneAsLemniscate → ℕ → Std.Format**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.membrane`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L115-L117)
 **def
 Tau.BookVI.MetabolicEnergy.membrane :MembraneAsLemniscate**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.membrane_two_leaflets`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L119-L120)
 **theorem
 Tau.BookVI.MetabolicEnergy.membrane_two_leaflets :membrane.leaflet_count = 2**
 
@@ -292,7 +292,7 @@ Tau.BookVI.MetabolicEnergy.membrane_two_leaflets :membrane.leaflet_count = 2**
 
 ### `Tau.BookVI.MetabolicEnergy.membrane_realizes_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L122-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L122-L123)
 **theorem
 Tau.BookVI.MetabolicEnergy.membrane_realizes_distinction :membrane.realizes_distinction = true**
 
@@ -301,7 +301,7 @@ Tau.BookVI.MetabolicEnergy.membrane_realizes_distinction :membrane.realizes_dist
 
 ### `Tau.BookVI.MetabolicEnergy.KrebsCycleLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L129-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L129-L142)
 **structure
 Tau.BookVI.MetabolicEnergy.KrebsCycleLoop :Type**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprKrebsCycleLoop.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L142-L142)
 **def
 Tau.BookVI.MetabolicEnergy.instReprKrebsCycleLoop.repr :KrebsCycleLoop → ℕ → Std.Format**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprKrebsCycleLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L142-L142)
 **instance
 Tau.BookVI.MetabolicEnergy.instReprKrebsCycleLoop :Repr KrebsCycleLoop**
 
@@ -352,7 +352,7 @@ Equations
 
 ### `Tau.BookVI.MetabolicEnergy.krebs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L144-L146)
 **def
 Tau.BookVI.MetabolicEnergy.krebs :KrebsCycleLoop**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.krebs_cycle_loop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L148-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L148-L152)
 **theorem
 Tau.BookVI.MetabolicEnergy.krebs_cycle_loop :krebs.steps = 8 ∧ krebs.poincare_circulation = true ∧ krebs.life_loop_instance = true**
 
@@ -373,7 +373,7 @@ Tau.BookVI.MetabolicEnergy.krebs_cycle_loop :krebs.steps = 8 ∧ krebs.poincare_
 
 ### `Tau.BookVI.MetabolicEnergy.MembraneAssembly`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L158-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L158-L169)
 **structure
 Tau.BookVI.MetabolicEnergy.MembraneAssembly :Type**
 
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprMembraneAssembly.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L169-L169)
 **def
 Tau.BookVI.MetabolicEnergy.instReprMembraneAssembly.repr :MembraneAssembly → ℕ → Std.Format**
 
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.instReprMembraneAssembly`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L169-L169)
 **instance
 Tau.BookVI.MetabolicEnergy.instReprMembraneAssembly :Repr MembraneAssembly**
 
@@ -421,7 +421,7 @@ Equations
 
 ### `Tau.BookVI.MetabolicEnergy.self_assembly`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L171-L171)
 **def
 Tau.BookVI.MetabolicEnergy.self_assembly :MembraneAssembly**
 
@@ -433,6 +433,6 @@ Instances For
 
 ### `Tau.BookVI.MetabolicEnergy.membrane_self_assembly`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/MetabolicEnergy.lean#L173-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/MetabolicEnergy.lean#L173-L177)
 **theorem
 Tau.BookVI.MetabolicEnergy.membrane_self_assembly :self_assembly.no_template = true ∧ self_assembly.produces_lemniscate = true ∧ self_assembly.unique = true**

@@ -67,7 +67,7 @@ operational closure cannot see its own totality
 
 ### `Tau.BookIII.Bridge.diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L48-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L48-L55)
 **def
 Tau.BookIII.Bridge.diagonal
 (x k : Denotation.TauIdx)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.godel_sentence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L57-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L57-L67)
 **def
 Tau.BookIII.Bridge.godel_sentence
 (k : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.e2_e3_boundary_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L73-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L73-L102)
 **def
 Tau.BookIII.Bridge.e2_e3_boundary_check
 (bound db : Denotation.TauIdx)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.e2_e3_boundary_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L86-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L86-L101)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.e2_e3_boundary_check.go
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.godel_i_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L104-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L104-L128)
 **def
 Tau.BookIII.Bridge.godel_i_check
 (db : Denotation.TauIdx)
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.godel_i_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L110-L127)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L110-L127)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.godel_i_check.go
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.godel_ii_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L130-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L130-L150)
 **def
 Tau.BookIII.Bridge.godel_ii_check
 (bound db : Denotation.TauIdx)
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.godel_ii_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L137-L149)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L137-L149)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.godel_ii_check.go
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.halting_finite_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L152-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L152-L175)
 **def
 Tau.BookIII.Bridge.halting_finite_check
 (bound db : Denotation.TauIdx)
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.halting_finite_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L159-L174)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L159-L174)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.halting_finite_check.go
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.incompleteness_vm_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L177-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L177-L184)
 **def
 Tau.BookIII.Bridge.incompleteness_vm_check
 (bound db : Denotation.TauIdx)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.IncompletePhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L186-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L186-L192)
 **inductive
 Tau.BookIII.Bridge.IncompletePhenomenon :Type**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprIncompletePhenomenon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
 **def
 Tau.BookIII.Bridge.instReprIncompletePhenomenon.repr :IncompletePhenomenon → ℕ → Std.Format**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprIncompletePhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
 **instance
 Tau.BookIII.Bridge.instReprIncompletePhenomenon :Repr IncompletePhenomenon**
 
@@ -310,7 +310,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqIncompletePhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
 **instance
 Tau.BookIII.Bridge.instDecidableEqIncompletePhenomenon :DecidableEq IncompletePhenomenon**
 
@@ -321,7 +321,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqIncompletePhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
 **instance
 Tau.BookIII.Bridge.instBEqIncompletePhenomenon :BEq IncompletePhenomenon**
 
@@ -332,7 +332,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqIncompletePhenomenon.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L192-L192)
 **def
 Tau.BookIII.Bridge.instBEqIncompletePhenomenon.beq :IncompletePhenomenon → IncompletePhenomenon → Bool**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.phenomenon_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L194-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L194-L198)
 **def
 Tau.BookIII.Bridge.phenomenon_level :IncompletePhenomenon → Enrichment.EnrLevel**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.phenomenon_source`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L200-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L200-L204)
 **def
 Tau.BookIII.Bridge.phenomenon_source :IncompletePhenomenon → Enrichment.EnrLevel**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.incompleteness_vm_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L233-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L233-L234)
 **theorem
 Tau.BookIII.Bridge.incompleteness_vm_10_3 :incompleteness_vm_check 10 3 = true**
 
@@ -385,7 +385,7 @@ Tau.BookIII.Bridge.incompleteness_vm_10_3 :incompleteness_vm_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.e2_e3_boundary_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L237-L238)
 **theorem
 Tau.BookIII.Bridge.e2_e3_boundary_10_3 :e2_e3_boundary_check 10 3 = true**
 
@@ -394,7 +394,7 @@ Tau.BookIII.Bridge.e2_e3_boundary_10_3 :e2_e3_boundary_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.godel_i_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L240-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L240-L241)
 **theorem
 Tau.BookIII.Bridge.godel_i_4 :godel_i_check 4 = true**
 
@@ -403,7 +403,7 @@ Tau.BookIII.Bridge.godel_i_4 :godel_i_check 4 = true**
 
 ### `Tau.BookIII.Bridge.godel_ii_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L243-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L243-L244)
 **theorem
 Tau.BookIII.Bridge.godel_ii_10_3 :godel_ii_check 10 3 = true**
 
@@ -412,7 +412,7 @@ Tau.BookIII.Bridge.godel_ii_10_3 :godel_ii_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.halting_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L246-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L246-L247)
 **theorem
 Tau.BookIII.Bridge.halting_10_3 :halting_finite_check 10 3 = true**
 
@@ -421,7 +421,7 @@ Tau.BookIII.Bridge.halting_10_3 :halting_finite_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.diagonal_depth_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L253-L255)
 **theorem
 Tau.BookIII.Bridge.diagonal_depth_0 :diagonal 42 0 = 0**
 
@@ -432,7 +432,7 @@ Tau.BookIII.Bridge.diagonal_depth_0 :diagonal 42 0 = 0**
 
 ### `Tau.BookIII.Bridge.diagonal_mod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L257-L259)
 **theorem
 Tau.BookIII.Bridge.diagonal_mod :diagonal 7 3 = 14**
 
@@ -443,7 +443,7 @@ Tau.BookIII.Bridge.diagonal_mod :diagonal 7 3 = 14**
 
 ### `Tau.BookIII.Bridge.godel_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L261-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L261-L263)
 **theorem
 Tau.BookIII.Bridge.godel_at_3 :godel_sentence 3 = 9**
 
@@ -454,7 +454,7 @@ Tau.BookIII.Bridge.godel_at_3 :godel_sentence 3 = 9**
 
 ### `Tau.BookIII.Bridge.all_at_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L265-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L265-L270)
 **theorem
 Tau.BookIII.Bridge.all_at_e3 :phenomenon_level IncompletePhenomenon.godel_i = Enrichment.EnrLevel.E3 ∧ phenomenon_level IncompletePhenomenon.godel_ii = Enrichment.EnrLevel.E3 ∧ phenomenon_level IncompletePhenomenon.halting = Enrichment.EnrLevel.E3**
 
@@ -465,7 +465,7 @@ Tau.BookIII.Bridge.all_at_e3 :phenomenon_level IncompletePhenomenon.godel_i = En
 
 ### `Tau.BookIII.Bridge.all_from_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L272-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L272-L277)
 **theorem
 Tau.BookIII.Bridge.all_from_e2 :phenomenon_source IncompletePhenomenon.godel_i = Enrichment.EnrLevel.E2 ∧ phenomenon_source IncompletePhenomenon.godel_ii = Enrichment.EnrLevel.E2 ∧ phenomenon_source IncompletePhenomenon.halting = Enrichment.EnrLevel.E2**
 
@@ -476,7 +476,7 @@ Tau.BookIII.Bridge.all_from_e2 :phenomenon_source IncompletePhenomenon.godel_i =
 
 ### `Tau.BookIII.Bridge.e2_lt_e3_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L279-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L279-L281)
 **theorem
 Tau.BookIII.Bridge.e2_lt_e3_boundary :Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E3 = true**
 
@@ -487,7 +487,7 @@ Tau.BookIII.Bridge.e2_lt_e3_boundary :Enrichment.EnrLevel.E2.lt Enrichment.EnrLe
 
 ### `Tau.BookIII.Bridge.e3_resolves_incompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/Incompleteness.lean#L283-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/Incompleteness.lean#L283-L285)
 **theorem
 Tau.BookIII.Bridge.e3_resolves_incompleteness :Enrichment.EnrLevel.E3.toNat = 3**
 

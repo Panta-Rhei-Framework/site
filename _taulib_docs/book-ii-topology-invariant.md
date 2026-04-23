@@ -55,7 +55,7 @@ Consequence: topology is earned (invariant of denotation), not chosen.
 
 ### `Tau.BookII.Topology.crt_continuous_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L37-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L37-L58)
 **def
 Tau.BookII.Topology.crt_continuous_check
 (k bound : Denotation.TauIdx)
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.BookII.Topology.crt_continuous_check.check_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L44-L47)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L44-L47)@[irreducible]
 
 **def
 Tau.BookII.Topology.crt_continuous_check.check_lower
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookII.Topology.crt_continuous_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L49-L57)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L49-L57)@[irreducible]
 
 **def
 Tau.BookII.Topology.crt_continuous_check.go
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookII.Topology.topology_unique_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L64-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L64-L76)
 **def
 Tau.BookII.Topology.topology_unique_check
 (bound db : Denotation.TauIdx)
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookII.Topology.reduction_compatible_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L78-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L78-L92)
 **def
 Tau.BookII.Topology.reduction_compatible_check
 (bound : Denotation.TauIdx)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.Topology.reduction_compatible_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L84-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L84-L91)@[irreducible]
 
 **def
 Tau.BookII.Topology.reduction_compatible_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.Topology.crt_cont_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L104-L104)
 **theorem
 Tau.BookII.Topology.crt_cont_k1 :crt_continuous_check 1 20 = true**
 
@@ -170,7 +170,7 @@ Tau.BookII.Topology.crt_cont_k1 :crt_continuous_check 1 20 = true**
 
 ### `Tau.BookII.Topology.crt_cont_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L105-L105)
 **theorem
 Tau.BookII.Topology.crt_cont_k2 :crt_continuous_check 2 20 = true**
 
@@ -179,7 +179,7 @@ Tau.BookII.Topology.crt_cont_k2 :crt_continuous_check 2 20 = true**
 
 ### `Tau.BookII.Topology.topo_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L106-L106)
 **theorem
 Tau.BookII.Topology.topo_unique :topology_unique_check 12 5 = true**
 
@@ -188,6 +188,6 @@ Tau.BookII.Topology.topo_unique :topology_unique_check 12 5 = true**
 
 ### `Tau.BookII.Topology.red_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/Invariant.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/Invariant.lean#L107-L107)
 **theorem
 Tau.BookII.Topology.red_compat :reduction_compatible_check 30 = true**

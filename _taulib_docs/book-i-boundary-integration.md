@@ -56,7 +56,7 @@ f_k: Z/M_k Z → ℤ with f_k ≤ f_{k+1} (appropriately defined), the integrals
 
 ### `Tau.Boundary.stage_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L38-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L38-L45)
 **def
 Tau.Boundary.stage_sum
 (f : ℕ → ℤ)
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.Boundary.stage_sum.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L42-L44)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L42-L44)@[irreducible]
 
 **def
 Tau.Boundary.stage_sum.go
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Boundary.TauIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L47-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L47-L52)
 **structure
 Tau.Boundary.TauIntegral :Type**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.Boundary.instReprTauIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L52-L52)
 **instance
 Tau.Boundary.instReprTauIntegral :Repr TauIntegral**
 
@@ -120,7 +120,7 @@ Equations
 
 ### `Tau.Boundary.instReprTauIntegral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L52-L52)
 **def
 Tau.Boundary.instReprTauIntegral.repr :TauIntegral → ℕ → Std.Format**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.Boundary.tau_integral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L54-L57)
 **def
 Tau.Boundary.tau_integral
 (f : ℕ → ℤ)
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.Boundary.integral_equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L59-L62)
 **def
 Tau.Boundary.integral_equiv
 (i j : TauIntegral)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.Boundary.integral_linearity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L68-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L68-L77)
 **def
 Tau.Boundary.integral_linearity_check
 (a b : ℤ)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.Boundary.monotone_convergence_check_step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L83-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L83-L91)
 **def
 Tau.Boundary.monotone_convergence_check_step
 (f : ℕ → ℕ → ℤ)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Boundary.const_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L97-L98)
 **def
 Tau.Boundary.const_one :ℕ → ℤ**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.Boundary.ident_fn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L100-L101)
 **def
 Tau.Boundary.ident_fn :ℕ → ℤ**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.Boundary.even_indicator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L103-L104)
 **def
 Tau.Boundary.even_indicator :ℕ → ℤ**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.Boundary.integral_const_one_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L110-L112)
 **theorem
 Tau.Boundary.integral_const_one_3 :(tau_integral const_one 3).numerator = 30**
 
@@ -259,7 +259,7 @@ Tau.Boundary.integral_const_one_3 :(tau_integral const_one 3).numerator = 30**
 
 ### `Tau.Boundary.linearity_2f_3g_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L114-L116)
 **theorem
 Tau.Boundary.linearity_2f_3g_stage2 :integral_linearity_check 2 3 ident_fn const_one 2 = true**
 
@@ -270,7 +270,7 @@ Tau.Boundary.linearity_2f_3g_stage2 :integral_linearity_check 2 3 ident_fn const
 
 ### `Tau.Boundary.linearity_identity_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L118-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L118-L120)
 **theorem
 Tau.Boundary.linearity_identity_stage2 :integral_linearity_check 1 0 ident_fn const_one 2 = true**
 
@@ -281,7 +281,7 @@ Tau.Boundary.linearity_identity_stage2 :integral_linearity_check 1 0 ident_fn co
 
 ### `Tau.Boundary.integral_even_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Integration.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Integration.lean#L122-L124)
 **theorem
 Tau.Boundary.integral_even_2 :(tau_integral even_indicator 2).numerator = 3**
 

@@ -52,7 +52,7 @@ the infinite-limit correspondence is axiomatized.
 
 ### `Tau.BookIII.Doors.spectral_parameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L36-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L36-L41)
 **def
 Tau.BookIII.Doors.spectral_parameter
 (s k : Denotation.TauIdx)
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_param_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L43-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L43-L60)
 **def
 Tau.BookIII.Doors.spectral_param_check
 (bound db : Denotation.TauIdx)
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_param_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L48-L59)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L48-L59)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_param_check.go
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.eigenvalue_nesting_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L62-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L62-L76)
 **def
 Tau.BookIII.Doors.eigenvalue_nesting_check
 (db : Denotation.TauIdx)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.eigenvalue_nesting_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L68-L75)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L68-L75)@[irreducible]
 
 **def
 Tau.BookIII.Doors.eigenvalue_nesting_check.go
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_correspondence_finite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L82-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L82-L95)
 **def
 Tau.BookIII.Doors.spectral_correspondence_finite
 (k : Denotation.TauIdx)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_correspondence_finite.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L88-L94)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L88-L94)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_correspondence_finite.go
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_correspondence_O3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L97-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L97-L106)
 **axiom
 Tau.BookIII.Doors.spectral_correspondence_O3
 (k : ℕ)
@@ -194,7 +194,7 @@ the content of this axiom.
 
 ### `Tau.BookIII.Doors.spectral_param_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L123-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L123-L124)
 **theorem
 Tau.BookIII.Doors.spectral_param_15_4 :spectral_param_check 15 4 = true**
 
@@ -203,7 +203,7 @@ Tau.BookIII.Doors.spectral_param_15_4 :spectral_param_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.eigenvalue_nesting_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L126-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L126-L127)
 **theorem
 Tau.BookIII.Doors.eigenvalue_nesting_5 :eigenvalue_nesting_check 5 = true**
 
@@ -212,7 +212,7 @@ Tau.BookIII.Doors.eigenvalue_nesting_5 :eigenvalue_nesting_check 5 = true**
 
 ### `Tau.BookIII.Doors.spectral_corr_finite_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L129-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L129-L130)
 **theorem
 Tau.BookIII.Doors.spectral_corr_finite_5 :spectral_correspondence_finite 5 = true**
 
@@ -221,7 +221,7 @@ Tau.BookIII.Doors.spectral_corr_finite_5 :spectral_correspondence_finite 5 = tru
 
 ### `Tau.BookIII.Doors.spectral_corr_finite_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L132-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L132-L133)
 **theorem
 Tau.BookIII.Doors.spectral_corr_finite_10 :spectral_correspondence_finite 10 = true**
 
@@ -230,7 +230,7 @@ Tau.BookIII.Doors.spectral_corr_finite_10 :spectral_correspondence_finite 10 = t
 
 ### `Tau.BookIII.Doors.spectral_param_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L139-L141)
 **theorem
 Tau.BookIII.Doors.spectral_param_zero :spectral_parameter 42 0 = 0**
 
@@ -241,7 +241,7 @@ Tau.BookIII.Doors.spectral_param_zero :spectral_parameter 42 0 = 0**
 
 ### `Tau.BookIII.Doors.spectral_param_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L143-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L143-L145)
 **theorem
 Tau.BookIII.Doors.spectral_param_bounded :spectral_parameter 100 4 ≤ 4**
 
@@ -252,7 +252,7 @@ Tau.BookIII.Doors.spectral_param_bounded :spectral_parameter 100 4 ≤ 4**
 
 ### `Tau.BookIII.Doors.spectral_corr_from_O3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L147-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SpectralCorrespondence.lean#L147-L150)
 **theorem
 Tau.BookIII.Doors.spectral_corr_from_O3
 (k : ℕ)

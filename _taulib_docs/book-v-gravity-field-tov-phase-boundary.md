@@ -99,7 +99,7 @@ stellar radius as a function of total mass.
 
 ### `Tau.BookV.GravityField.PhaseTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L61-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L61-L81)
 **structure
 Tau.BookV.GravityField.PhaseTension :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprPhaseTension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L81-L81)
 **def
 Tau.BookV.GravityField.instReprPhaseTension.repr :PhaseTension → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprPhaseTension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L81-L81)
 **instance
 Tau.BookV.GravityField.instReprPhaseTension :Repr PhaseTension**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookV.GravityField.PhaseTension.s2Float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L83-L85)
 **def
 Tau.BookV.GravityField.PhaseTension.s2Float
 (p : PhaseTension)
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.PhaseTension.t2Float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L87-L89)
 **def
 Tau.BookV.GravityField.PhaseTension.t2Float
 (p : PhaseTension)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L95-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L95-L114)
 **structure
 Tau.BookV.GravityField.CoherenceHorizon :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCoherenceHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L114-L114)
 **def
 Tau.BookV.GravityField.instReprCoherenceHorizon.repr :CoherenceHorizon → ℕ → Std.Format**
 
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L114-L114)
 **instance
 Tau.BookV.GravityField.instReprCoherenceHorizon :Repr CoherenceHorizon**
 
@@ -256,7 +256,7 @@ Equations
 
 ### `Tau.BookV.GravityField.CoherenceHorizon.massFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L116-L118)
 **def
 Tau.BookV.GravityField.CoherenceHorizon.massFloat
 (h : CoherenceHorizon)
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TopologyCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L124-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L124-L137)
 **structure
 Tau.BookV.GravityField.TopologyCrossing :Type**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTopologyCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L137-L137)
 **instance
 Tau.BookV.GravityField.instReprTopologyCrossing :Repr TopologyCrossing**
 
@@ -310,7 +310,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprTopologyCrossing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L137-L137)
 **def
 Tau.BookV.GravityField.instReprTopologyCrossing.repr :TopologyCrossing → ℕ → Std.Format**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CoherenceHorizonAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L143-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L143-L156)
 **structure
 Tau.BookV.GravityField.CoherenceHorizonAxiom :Type**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCoherenceHorizonAxiom.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L156-L156)
 **def
 Tau.BookV.GravityField.instReprCoherenceHorizonAxiom.repr :CoherenceHorizonAxiom → ℕ → Std.Format**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCoherenceHorizonAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L156-L156)
 **instance
 Tau.BookV.GravityField.instReprCoherenceHorizonAxiom :Repr CoherenceHorizonAxiom**
 
@@ -372,7 +372,7 @@ Equations
 
 ### `Tau.BookV.GravityField.coherence_horizon_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L158-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L158-L160)
 **def
 Tau.BookV.GravityField.coherence_horizon_axiom
 (a : CoherenceHorizonAxiom)
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.SurfaceBoundaryCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L166-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L166-L184)
 **structure
 Tau.BookV.GravityField.SurfaceBoundaryCondition :Type**
 
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprSurfaceBoundaryCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L184-L184)
 **instance
 Tau.BookV.GravityField.instReprSurfaceBoundaryCondition :Repr SurfaceBoundaryCondition**
 
@@ -432,7 +432,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprSurfaceBoundaryCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L184-L184)
 **def
 Tau.BookV.GravityField.instReprSurfaceBoundaryCondition.repr :SurfaceBoundaryCondition → ℕ → Std.Format**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.surface_boundary_condition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L186-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L186-L188)
 **def
 Tau.BookV.GravityField.surface_boundary_condition
 (s : SurfaceBoundaryCondition)
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.tension_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L194-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L194-L200)
 **theorem
 Tau.BookV.GravityField.tension_monotone :"T_S2(M1) < T_S2(M2) when M1 < M2 above M_Ch" = "T_S2(M1) < T_S2(M2) when M1 < M2 above M_Ch"**
 
@@ -474,7 +474,7 @@ Structural recording: for M1 < M2, T_S2(M1) < T_S2(M2).
 
 ### `Tau.BookV.GravityField.threshold_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L202-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L202-L205)
 **theorem
 Tau.BookV.GravityField.threshold_exists
 (h : CoherenceHorizon)
@@ -488,7 +488,7 @@ Follows from tension monotonicity + T^2 branch being bounded.
 
 ### `Tau.BookV.GravityField.torus_above_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L207-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L207-L213)
 **theorem
 Tau.BookV.GravityField.torus_above_threshold :"M > M_n* implies T2 topology preferred" = "M > M_n* implies T2 topology preferred"**
 
@@ -502,7 +502,7 @@ Structural recording.
 
 ### `Tau.BookV.GravityField.defect_cost_equality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L215-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L215-L221)
 **theorem
 Tau.BookV.GravityField.defect_cost_equality :"T_S2(M_n*) = T_T2(M_n*)" = "T_S2(M_n*) = T_T2(M_n*)"**
 
@@ -516,7 +516,7 @@ Structural recording of the phase transition condition.
 
 ### `Tau.BookV.GravityField.example_coherence_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L244-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L244-L249)
 **def
 Tau.BookV.GravityField.example_coherence_horizon :CoherenceHorizon**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L254-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVPhaseBoundary.lean#L254-L256)
 **def
 Tau.BookV.GravityField.example_crossing :TopologyCrossing**
 

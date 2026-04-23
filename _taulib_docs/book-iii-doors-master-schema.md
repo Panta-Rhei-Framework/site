@@ -58,7 +58,7 @@ the common tower, the CRT the common local-global bridge.
 
 ### `Tau.BookIII.Doors.MillenniumProblem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L37-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L37-L47)
 **inductive
 Tau.BookIII.Doors.MillenniumProblem :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instReprMillenniumProblem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
 **instance
 Tau.BookIII.Doors.instReprMillenniumProblem :Repr MillenniumProblem**
 
@@ -90,7 +90,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instReprMillenniumProblem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
 **def
 Tau.BookIII.Doors.instReprMillenniumProblem.repr :MillenniumProblem → ℕ → Std.Format**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instDecidableEqMillenniumProblem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
 **instance
 Tau.BookIII.Doors.instDecidableEqMillenniumProblem :DecidableEq MillenniumProblem**
 
@@ -113,7 +113,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instBEqMillenniumProblem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
 **instance
 Tau.BookIII.Doors.instBEqMillenniumProblem :BEq MillenniumProblem**
 
@@ -124,7 +124,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instBEqMillenniumProblem.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L47-L47)
 **def
 Tau.BookIII.Doors.instBEqMillenniumProblem.beq :MillenniumProblem → MillenniumProblem → Bool**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.problem_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L49-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L49-L59)
 **def
 Tau.BookIII.Doors.problem_level
 (p : MillenniumProblem)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.problem_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L61-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L61-L71)
 **def
 Tau.BookIII.Doors.problem_part
 (p : MillenniumProblem)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.MasterSchemaEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L73-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L73-L80)
 **structure
 Tau.BookIII.Doors.MasterSchemaEntry :Type**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_schema_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L82-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L82-L88)
 **def
 Tau.BookIII.Doors.rh_schema_check
 (_bound db : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.poincare_schema_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L90-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L90-L94)
 **def
 Tau.BookIII.Doors.poincare_schema_check
 (bound db : Denotation.TauIdx)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.generic_schema_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L96-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L96-L102)
 **def
 Tau.BookIII.Doors.generic_schema_check
 (bound db : Denotation.TauIdx)
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.master_schema_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L104-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L104-L116)
 **def
 Tau.BookIII.Doors.master_schema_check
 (bound db : Denotation.TauIdx)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.level_coverage_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L118-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L118-L129)
 **def
 Tau.BookIII.Doors.level_coverage_check :Bool**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.part_assignment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L131-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L131-L142)
 **def
 Tau.BookIII.Doors.part_assignment_check :Bool**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_schema_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L159-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L159-L160)
 **theorem
 Tau.BookIII.Doors.rh_schema_10_4 :rh_schema_check 10 4 = true**
 
@@ -308,7 +308,7 @@ Tau.BookIII.Doors.rh_schema_10_4 :rh_schema_check 10 4 = true**
 
 ### `Tau.BookIII.Doors.poincare_schema_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L162-L163)
 **theorem
 Tau.BookIII.Doors.poincare_schema_10_3 :poincare_schema_check 10 3 = true**
 
@@ -317,7 +317,7 @@ Tau.BookIII.Doors.poincare_schema_10_3 :poincare_schema_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.master_schema_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L165-L166)
 **theorem
 Tau.BookIII.Doors.master_schema_10_3 :master_schema_check 10 3 = true**
 
@@ -326,7 +326,7 @@ Tau.BookIII.Doors.master_schema_10_3 :master_schema_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.level_coverage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L168-L169)
 **theorem
 Tau.BookIII.Doors.level_coverage :level_coverage_check = true**
 
@@ -335,7 +335,7 @@ Tau.BookIII.Doors.level_coverage :level_coverage_check = true**
 
 ### `Tau.BookIII.Doors.part_assignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L171-L172)
 **theorem
 Tau.BookIII.Doors.part_assignment :part_assignment_check = true**
 
@@ -344,7 +344,7 @@ Tau.BookIII.Doors.part_assignment :part_assignment_check = true**
 
 ### `Tau.BookIII.Doors.rh_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L178-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L178-L179)
 **theorem
 Tau.BookIII.Doors.rh_level :problem_level MillenniumProblem.RH = Enrichment.EnrLevel.E0**
 
@@ -355,7 +355,7 @@ Tau.BookIII.Doors.rh_level :problem_level MillenniumProblem.RH = Enrichment.EnrL
 
 ### `Tau.BookIII.Doors.pvsnp_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L181-L182)
 **theorem
 Tau.BookIII.Doors.pvsnp_level :problem_level MillenniumProblem.PvsNP = Enrichment.EnrLevel.E2**
 
@@ -366,7 +366,7 @@ Tau.BookIII.Doors.pvsnp_level :problem_level MillenniumProblem.PvsNP = Enrichmen
 
 ### `Tau.BookIII.Doors.ns_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L184-L185)
 **theorem
 Tau.BookIII.Doors.ns_level :problem_level MillenniumProblem.NS = Enrichment.EnrLevel.E1**
 
@@ -377,7 +377,7 @@ Tau.BookIII.Doors.ns_level :problem_level MillenniumProblem.NS = Enrichment.EnrL
 
 ### `Tau.BookIII.Doors.rh_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L187-L188)
 **theorem
 Tau.BookIII.Doors.rh_part :problem_part MillenniumProblem.RH = 4**
 
@@ -388,7 +388,7 @@ Tau.BookIII.Doors.rh_part :problem_part MillenniumProblem.RH = 4**
 
 ### `Tau.BookIII.Doors.ns_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L189-L189)
 **theorem
 Tau.BookIII.Doors.ns_part :problem_part MillenniumProblem.NS = 5**
 
@@ -397,7 +397,7 @@ Tau.BookIII.Doors.ns_part :problem_part MillenniumProblem.NS = 5**
 
 ### `Tau.BookIII.Doors.bsd_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L190-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L190-L190)
 **theorem
 Tau.BookIII.Doors.bsd_part :problem_part MillenniumProblem.BSD = 6**
 
@@ -406,7 +406,7 @@ Tau.BookIII.Doors.bsd_part :problem_part MillenniumProblem.BSD = 6**
 
 ### `Tau.BookIII.Doors.pvsnp_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L191-L191)
 **theorem
 Tau.BookIII.Doors.pvsnp_part :problem_part MillenniumProblem.PvsNP = 7**
 
@@ -415,7 +415,7 @@ Tau.BookIII.Doors.pvsnp_part :problem_part MillenniumProblem.PvsNP = 7**
 
 ### `Tau.BookIII.Doors.e0_before_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L193-L195)
 **theorem
 Tau.BookIII.Doors.e0_before_e1 :(problem_level MillenniumProblem.RH).toNat < (problem_level MillenniumProblem.NS).toNat**
 
@@ -426,6 +426,6 @@ Tau.BookIII.Doors.e0_before_e1 :(problem_level MillenniumProblem.RH).toNat < (pr
 
 ### `Tau.BookIII.Doors.e1_before_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MasterSchema.lean#L197-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MasterSchema.lean#L197-L198)
 **theorem
 Tau.BookIII.Doors.e1_before_e2 :(problem_level MillenniumProblem.NS).toNat < (problem_level MillenniumProblem.PvsNP).toNat**

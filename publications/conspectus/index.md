@@ -31,11 +31,13 @@ right_rail:
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/panta-rhei-conspectus.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Panta Rhei Conspectus — Free PDF (303 KB, 29 pp)
+    ⬇ Download Panta Rhei Conspectus — Free PDF (303 KB, 29 pp; see trust-budget note)
   </a>
 </div>
 
 The **Panta Rhei Conspectus** is a self-contained, single-sitting reading of the seven-book Panta Rhei series — the briefest possible document that still carries the full narrative and structural arc of the research programme. It is designed to be consumed in one go (reading time approximately **35–45 minutes**), without requiring the reader to leave the document or consult the monograph first.
+
+> **Trust-budget note.** The downloadable v1.1 PDF still contains the pre-refactor TauLib trust-budget disclosure. The current pinned TauLib release state is **3 custom axioms, 0 sorry**, with Book VII methodological commitments represented as inspectable `def : Commitment` values. The [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) is authoritative for current machine-checkable counts.
 
 The name comes from Latin *conspicere*, "to survey with the eyes, to take in at a glance" — a scholarly genre for giving a comprehensive view-of-the-whole of a body of work. The Conspectus is distinct from the brief *Series Prospectus* (23 pp, marketing-facing) and the deep *Physics Ledger* (209 pp, numerical audit trail): it sits between, as the canonical narrative synthesis.
 
@@ -59,7 +61,7 @@ Five parts, seventeen sections, one integrated argument:
 
 - **The Physics Ledger at a glance.** 67 zero-parameter dimensionless predictions; precision tiers (A ~0.025 ppm, B ~3 ppm, C ~0.8%); the Calibration Sufficiency Theorem.
 - **The Falsification Pack N1–N30.** 30 named experiments on a 2025–2035 timeline; 4 confirmed, 26 consistent-and-testable; three framework-terminal scenarios named. Flagship: N9 at CMB-S4 (~14σ on the 2028–2032 window).
-- **TauLib — the formal trust budget.** ~4,332 theorems across 445 modules, 3 conjecture-axioms, **0 sorry**. CI enforces tactics-only Mathlib and the axiom/sorry counts. native_decide TCB extensions disclosed.
+- **TauLib — the formal trust budget.** ~4,332 theorems across 445 modules, 3 conjecture-axioms, **0 sorry**. CI enforces tactics-only Mathlib and the axiom/sorry counts. `native_decide` TCB extensions are disclosed on the [TCB page]({{ '/verify/tcb/' | relative_url }}).
 
 **Part IV — The Programme in a Single Image.** A master-cascade diagram (L0 → L4 horizontal × E₀ → E₃ vertical, with the Omega Point dashed loop) and a single master table comparing τ-predicted vs CODATA 2018 / PDG measured for every major dimensionless constant and every structural binary prediction.
 
@@ -113,7 +115,7 @@ See the [Verify lane]({{ '/verify/' | relative_url }}) for the full scope-label 
 - **Fit-space objection engaged** directly, with pointer to the programme's fit-space calculation.
 - **Discrete-choice budget disclosed** (rational prefactors, window-sum indices, exponent library).
 - **Sector Exhaustion Theorem (V.T44) stated informally** rather than named-but-invisible.
-- **Lean trust budget made honest:** actual codebase state is **4 custom axioms + 3 Book VII performative `sorry` + ~1,842 `native_decide` leaves**, not the "3 axioms / 0 sorry" v1.0 claimed. (TauLib v1.1 is in preparation with the planned refactor.)
+- **Lean trust budget made honest and then updated to the pinned TauLib release:** v1.1 disclosed the pre-refactor TauLib trust budget rather than preserving an aspirational count. The pinned public TauLib release has since landed the peer-review refactor: **3 custom axioms, 0 sorry**, and inspectable Book VII `Commitment` values. The [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) is authoritative for the current machine-checkable trust budget.
 - **Hubble readout reframed** as orbit-depth-dependent, per Book V Chapter 45.
 - **"Four confirmed" renamed "Four pre-conditions met at current sensitivity"** with explicit "also predicted by" column — none of N5, N7, N16, N27 yet *discriminates* τ from the Standard Model / ΛCDM.
 - **Master-cascade figure re-laid** to eliminate label truncation and Omega Point overlap.

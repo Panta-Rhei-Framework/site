@@ -73,7 +73,7 @@ Archetypes as minimal j-closed fixed points of the Grothendieck topology J_τ.
 
 ### `Tau.BookVII.Meta.Archetypes.LawvereTierneyOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L40-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L40-L49)
 **structure
 Tau.BookVII.Meta.Archetypes.LawvereTierneyOperator :Type**
 
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprLawvereTierneyOperator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L49-L49)
 **def
 Tau.BookVII.Meta.Archetypes.instReprLawvereTierneyOperator.repr :LawvereTierneyOperator → ℕ → Std.Format**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprLawvereTierneyOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L49-L49)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprLawvereTierneyOperator :Repr LawvereTierneyOperator**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.j_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L51-L52)
 **def
 Tau.BookVII.Meta.Archetypes.j_tau :LawvereTierneyOperator**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.lt_axiom_verification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L54-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L54-L62)
 **theorem
 Tau.BookVII.Meta.Archetypes.lt_axiom_verification :j_tau.lt1_truth_closed = true ∧ j_tau.lt2_idempotent = true ∧ j_tau.lt3_meet_commute = true**
 
@@ -147,7 +147,7 @@ LT3 from J_τ derived from τ³ cylinder basis (finite meets of covers are cover
 
 ### `Tau.BookVII.Meta.Archetypes.StructuralInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L68-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L68-L77)
 **structure
 Tau.BookVII.Meta.Archetypes.StructuralInvariant :Type**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprStructuralInvariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L77-L77)
 **def
 Tau.BookVII.Meta.Archetypes.instReprStructuralInvariant.repr :StructuralInvariant → ℕ → Std.Format**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprStructuralInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L77-L77)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprStructuralInvariant :Repr StructuralInvariant**
 
@@ -193,7 +193,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.ArchetypeFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L83-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L83-L99)
 **structure
 Tau.BookVII.Meta.Archetypes.ArchetypeFixedPoint :Type**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypeFixedPoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L99-L99)
 **def
 Tau.BookVII.Meta.Archetypes.instReprArchetypeFixedPoint.repr :ArchetypeFixedPoint → ℕ → Std.Format**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypeFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L99-L99)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprArchetypeFixedPoint :Repr ArchetypeFixedPoint**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.ArchetypeExtractor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L105-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L105-L123)
 **structure
 Tau.BookVII.Meta.Archetypes.ArchetypeExtractor :Type**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypeExtractor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L123-L123)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprArchetypeExtractor :Repr ArchetypeExtractor**
 
@@ -293,7 +293,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypeExtractor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L123-L123)
 **def
 Tau.BookVII.Meta.Archetypes.instReprArchetypeExtractor.repr :ArchetypeExtractor → ℕ → Std.Format**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.canonical_extractor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L125-L125)
 **def
 Tau.BookVII.Meta.Archetypes.canonical_extractor :ArchetypeExtractor**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.JClosedFamily`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L131-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L131-L146)
 **structure
 Tau.BookVII.Meta.Archetypes.JClosedFamily :Type**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprJClosedFamily`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L146-L146)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprJClosedFamily :Repr JClosedFamily**
 
@@ -360,7 +360,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.instReprJClosedFamily.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L146-L146)
 **def
 Tau.BookVII.Meta.Archetypes.instReprJClosedFamily.repr :JClosedFamily → ℕ → Std.Format**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.canonical_j_family`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L148-L148)
 **def
 Tau.BookVII.Meta.Archetypes.canonical_j_family :JClosedFamily**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.lattice_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L150-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L150-L158)
 **theorem
 Tau.BookVII.Meta.Archetypes.lattice_closure :canonical_j_family.intersection_closed = true ∧ canonical_j_family.complete_lattice = true**
 
@@ -399,7 +399,7 @@ reflection preserves intersection).
 
 ### `Tau.BookVII.Meta.Archetypes.j_closure_minimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L164-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L164-L184)
 **theorem
 Tau.BookVII.Meta.Archetypes.j_closure_minimality :canonical_j_family.non_empty = true ∧ canonical_j_family.complete_lattice = true ∧ canonical_j_family.has_minimum = true ∧ canonical_j_family.minimum_unique = true**
 
@@ -432,7 +432,7 @@ conditions are preserved under intersection (positive_coherence).
 
 ### `Tau.BookVII.Meta.Archetypes.canonical_archetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L190-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L190-L191)
 **def
 Tau.BookVII.Meta.Archetypes.canonical_archetype :ArchetypeFixedPoint**
 
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.archetype_existence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L193-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L193-L207)
 **theorem
 Tau.BookVII.Meta.Archetypes.archetype_existence :canonical_archetype.a1_j_closed = true ∧ canonical_archetype.a2_exhibits_invariant = true ∧ canonical_archetype.a3_minimal = true ∧ canonical_j_family.minimum_unique = true**
 
@@ -465,7 +465,7 @@ Uniqueness up to iso from VII.L08 minimum_unique.
 
 ### `Tau.BookVII.Meta.Archetypes.minimality_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L209-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L209-L217)
 **theorem
 Tau.BookVII.Meta.Archetypes.minimality_witness :canonical_archetype.a3_minimal = true ∧ canonical_archetype.a1_j_closed = true ∧ canonical_archetype.a2_exhibits_invariant = true**
 
@@ -479,7 +479,7 @@ j-closed I-exhibiting subobject.
 
 ### `Tau.BookVII.Meta.Archetypes.ThresholdCrossingInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L223-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L223-L238)
 **structure
 Tau.BookVII.Meta.Archetypes.ThresholdCrossingInvariant :Type**
 
@@ -509,7 +509,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprThresholdCrossingInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L238-L238)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprThresholdCrossingInvariant :Repr ThresholdCrossingInvariant**
 
@@ -520,7 +520,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.instReprThresholdCrossingInvariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L238-L238)
 **def
 Tau.BookVII.Meta.Archetypes.instReprThresholdCrossingInvariant.repr :ThresholdCrossingInvariant → ℕ → Std.Format**
 
@@ -532,7 +532,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.i_bnd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L240-L240)
 **def
 Tau.BookVII.Meta.Archetypes.i_bnd :ThresholdCrossingInvariant**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.BoundaryArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L246-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L246-L267)
 **structure
 Tau.BookVII.Meta.Archetypes.BoundaryArchetype :Type**
 
@@ -588,7 +588,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprBoundaryArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L267-L267)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprBoundaryArchetype :Repr BoundaryArchetype**
 
@@ -599,7 +599,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.instReprBoundaryArchetype.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L267-L267)
 **def
 Tau.BookVII.Meta.Archetypes.instReprBoundaryArchetype.repr :BoundaryArchetype → ℕ → Std.Format**
 
@@ -611,7 +611,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.boundary_archetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L269-L269)
 **def
 Tau.BookVII.Meta.Archetypes.boundary_archetype :BoundaryArchetype**
 
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.boundary_archetype_minimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L275-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L275-L306)
 **theorem
 Tau.BookVII.Meta.Archetypes.boundary_archetype_minimality :boundary_archetype.archetype.a1_j_closed = true ∧ boundary_archetype.archetype.a2_exhibits_invariant = true ∧ boundary_archetype.archetype.a3_minimal = true ∧ boundary_archetype.invariant.b1_two_domains = true ∧ boundary_archetype.invariant.b2_crossing_point = true ∧ boundary_archetype.invariant.b3_monodromy_exchange = true ∧ boundary_archetype.invariant.b4_transition_morphism = true ∧ boundary_archetype.carrier_is_lemniscate = true ∧ boundary_archetype.pi1_free_rank = 2 ∧ boundary_archetype.lobe_count = 2 ∧ boundary_archetype.crossing_count = 1**
 
@@ -653,7 +653,7 @@ destroys that generator. Therefore F = L.
 
 ### `Tau.BookVII.Meta.Archetypes.MitigationArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L312-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L312-L332)
 **structure
 Tau.BookVII.Meta.Archetypes.MitigationArchetype :Type**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprMitigationArchetype.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L332-L332)
 **def
 Tau.BookVII.Meta.Archetypes.instReprMitigationArchetype.repr :MitigationArchetype → ℕ → Std.Format**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprMitigationArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L332-L332)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprMitigationArchetype :Repr MitigationArchetype**
 
@@ -712,7 +712,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.mitigation_archetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L334-L334)
 **def
 Tau.BookVII.Meta.Archetypes.mitigation_archetype :MitigationArchetype**
 
@@ -724,7 +724,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.MetaFramingArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L340-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L340-L362)
 **structure
 Tau.BookVII.Meta.Archetypes.MetaFramingArchetype :Type**
 
@@ -763,7 +763,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprMetaFramingArchetype.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L362-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L362-L362)
 **def
 Tau.BookVII.Meta.Archetypes.instReprMetaFramingArchetype.repr :MetaFramingArchetype → ℕ → Std.Format**
 
@@ -775,7 +775,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprMetaFramingArchetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L362-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L362-L362)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprMetaFramingArchetype :Repr MetaFramingArchetype**
 
@@ -786,7 +786,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.meta_framing_archetype`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L364-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L364-L364)
 **def
 Tau.BookVII.Meta.Archetypes.meta_framing_archetype :MetaFramingArchetype**
 
@@ -798,7 +798,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.ArchetypalBasis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L370-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L370-L389)
 **structure
 Tau.BookVII.Meta.Archetypes.ArchetypalBasis :Type**
 
@@ -850,7 +850,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypalBasis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L389-L389)
 **instance
 Tau.BookVII.Meta.Archetypes.instReprArchetypalBasis :Repr ArchetypalBasis**
 
@@ -861,7 +861,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Archetypes.instReprArchetypalBasis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L389-L389)
 **def
 Tau.BookVII.Meta.Archetypes.instReprArchetypalBasis.repr :ArchetypalBasis → ℕ → Std.Format**
 
@@ -873,7 +873,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.canonical_basis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L391-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L391-L391)
 **def
 Tau.BookVII.Meta.Archetypes.canonical_basis :ArchetypalBasis**
 
@@ -885,7 +885,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Archetypes.archetypal_basis_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Archetypes.lean#L393-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Archetypes.lean#L393-L398)
 **theorem
 Tau.BookVII.Meta.Archetypes.archetypal_basis_complete :canonical_basis.count = 3 ∧ canonical_basis.complete = true ∧ canonical_basis.minimal_basis = true**
 

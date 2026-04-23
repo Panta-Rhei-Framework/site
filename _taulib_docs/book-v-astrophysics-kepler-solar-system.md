@@ -103,7 +103,7 @@ defect cost exceeds the object's internal cohesion budget.
 
 ### `Tau.BookV.Astrophysics.OrbitType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L62-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L62-L72)
 **inductive
 Tau.BookV.Astrophysics.OrbitType :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprOrbitType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
 **instance
 Tau.BookV.Astrophysics.instReprOrbitType :Repr OrbitType**
 
@@ -139,7 +139,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprOrbitType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
 **def
 Tau.BookV.Astrophysics.instReprOrbitType.repr :OrbitType → ℕ → Std.Format**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqOrbitType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqOrbitType :DecidableEq OrbitType**
 
@@ -162,7 +162,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqOrbitType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
 **def
 Tau.BookV.Astrophysics.instBEqOrbitType.beq :OrbitType → OrbitType → Bool**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqOrbitType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L72-L72)
 **instance
 Tau.BookV.Astrophysics.instBEqOrbitType :BEq OrbitType**
 
@@ -185,7 +185,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.KeplerOrbitData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L74-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L74-L94)
 **structure
 Tau.BookV.Astrophysics.KeplerOrbitData :Type**
 
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprKeplerOrbitData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L94-L94)
 **instance
 Tau.BookV.Astrophysics.instReprKeplerOrbitData :Repr KeplerOrbitData**
 
@@ -234,7 +234,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprKeplerOrbitData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L94-L94)
 **def
 Tau.BookV.Astrophysics.instReprKeplerOrbitData.repr :KeplerOrbitData → ℕ → Std.Format**
 
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.earth_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L96-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L96-L103)
 **def
 Tau.BookV.Astrophysics.earth_orbit :KeplerOrbitData**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.mercury_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L105-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L105-L112)
 **def
 Tau.BookV.Astrophysics.mercury_orbit :KeplerOrbitData**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.kepler_first_law`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L118-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L118-L123)
 **theorem
 Tau.BookV.Astrophysics.kepler_first_law
 (k : KeplerOrbitData)
@@ -291,7 +291,7 @@ readout in the Newtonian regime.
 
 ### `Tau.BookV.Astrophysics.kepler_second_law`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L125-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L125-L130)
 **theorem
 Tau.BookV.Astrophysics.kepler_second_law :"Equal areas in equal times = D-sector angular momentum conservation" = "Equal areas in equal times = D-sector angular momentum conservation"**
 
@@ -304,7 +304,7 @@ a readout of D-sector isotropy (rotational symmetry).
 
 ### `Tau.BookV.Astrophysics.kepler_third_law`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L132-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L132-L137)
 **theorem
 Tau.BookV.Astrophysics.kepler_third_law :"T^2 / a^3 = 4pi^2 / (G*M) = readout of D-sector coupling" = "T^2 / a^3 = 4pi^2 / (G*M) = readout of D-sector coupling"**
 
@@ -317,7 +317,7 @@ This follows from the specific form of the D-sector coupling
 
 ### `Tau.BookV.Astrophysics.TidalForceStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L143-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L143-L158)
 **structure
 Tau.BookV.Astrophysics.TidalForceStructure :Type**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTidalForceStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L158-L158)
 **def
 Tau.BookV.Astrophysics.instReprTidalForceStructure.repr :TidalForceStructure → ℕ → Std.Format**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTidalForceStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L158-L158)
 **instance
 Tau.BookV.Astrophysics.instReprTidalForceStructure :Repr TidalForceStructure**
 
@@ -371,7 +371,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.tidal_force_gradient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L160-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L160-L165)
 **theorem
 Tau.BookV.Astrophysics.tidal_force_gradient :"Tidal force = gradient of D-sector coupling across object extent" = "Tidal force = gradient of D-sector coupling across object extent"**
 
@@ -384,7 +384,7 @@ spatial variation of the same D-sector coupling that produces gravity.
 
 ### `Tau.BookV.Astrophysics.orbital_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L171-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L171-L175)
 **theorem
 Tau.BookV.Astrophysics.orbital_stability :"Stable orbit = local minimum of effective defect potential" = "Stable orbit = local minimum of effective defect potential"**
 
@@ -396,7 +396,7 @@ correspond to local minima of the effective defect potential.
 
 ### `Tau.BookV.Astrophysics.resonance_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L177-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L177-L182)
 **theorem
 Tau.BookV.Astrophysics.resonance_rational :"Orbital resonance = rational period ratio in refinement tower" = "Orbital resonance = rational period ratio in refinement tower"**
 
@@ -409,7 +409,7 @@ rational number — a condition on the refinement tower levels.
 
 ### `Tau.BookV.Astrophysics.solar_system_single_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L184-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L184-L190)
 **theorem
 Tau.BookV.Astrophysics.solar_system_single_readout :"Solar system = one D-sector readout at depth 1" = "Solar system = one D-sector readout at depth 1"**
 
@@ -423,7 +423,7 @@ and comets emerge from ONE sector.
 
 ### `Tau.BookV.Astrophysics.PlanetaryType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L192-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L192-L202)
 **inductive
 Tau.BookV.Astrophysics.PlanetaryType :Type**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPlanetaryType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
 **def
 Tau.BookV.Astrophysics.instReprPlanetaryType.repr :PlanetaryType → ℕ → Std.Format**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPlanetaryType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
 **instance
 Tau.BookV.Astrophysics.instReprPlanetaryType :Repr PlanetaryType**
 
@@ -471,7 +471,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqPlanetaryType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqPlanetaryType :DecidableEq PlanetaryType**
 
@@ -482,7 +482,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqPlanetaryType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
 **instance
 Tau.BookV.Astrophysics.instBEqPlanetaryType :BEq PlanetaryType**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqPlanetaryType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L202-L202)
 **def
 Tau.BookV.Astrophysics.instBEqPlanetaryType.beq :PlanetaryType → PlanetaryType → Bool**
 
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.planetary_classification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L204-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/KeplerSolarSystem.lean#L204-L210)
 **theorem
 Tau.BookV.Astrophysics.planetary_classification :[PlanetaryType.Rocky, PlanetaryType.GasGiant, PlanetaryType.IceGiant, PlanetaryType.DwarfPlanet].length = 4**
 

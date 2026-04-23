@@ -96,7 +96,7 @@ but the numerical calibration carries observational uncertainties.
 
 ### `Tau.BookV.Cosmology.FalsificationLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L55-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L55-L63)
 **inductive
 Tau.BookV.Cosmology.FalsificationLevel :Type**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFalsificationLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
 **def
 Tau.BookV.Cosmology.instReprFalsificationLevel.repr :FalsificationLevel → ℕ → Std.Format**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFalsificationLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
 **instance
 Tau.BookV.Cosmology.instReprFalsificationLevel :Repr FalsificationLevel**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqFalsificationLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
 **instance
 Tau.BookV.Cosmology.instDecidableEqFalsificationLevel :DecidableEq FalsificationLevel**
 
@@ -152,7 +152,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqFalsificationLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
 **instance
 Tau.BookV.Cosmology.instBEqFalsificationLevel :BEq FalsificationLevel**
 
@@ -163,7 +163,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqFalsificationLevel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L63-L63)
 **def
 Tau.BookV.Cosmology.instBEqFalsificationLevel.beq :FalsificationLevel → FalsificationLevel → Bool**
 
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.TestablePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L65-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L65-L77)
 **structure
 Tau.BookV.Cosmology.TestablePrediction :Type**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTestablePrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L77-L77)
 **instance
 Tau.BookV.Cosmology.instReprTestablePrediction :Repr TestablePrediction**
 
@@ -214,7 +214,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprTestablePrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L77-L77)
 **def
 Tau.BookV.Cosmology.instReprTestablePrediction.repr :TestablePrediction → ℕ → Std.Format**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.FalsificationLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L79-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L79-L99)
 **structure
 Tau.BookV.Cosmology.FalsificationLevels :Type**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFalsificationLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L99-L99)
 **instance
 Tau.BookV.Cosmology.instReprFalsificationLevels :Repr FalsificationLevels**
 
@@ -274,7 +274,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprFalsificationLevels.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L99-L99)
 **def
 Tau.BookV.Cosmology.instReprFalsificationLevels.repr :FalsificationLevels → ℕ → Std.Format**
 
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_no_sixth_force`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L105-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L105-L111)
 **def
 Tau.BookV.Cosmology.pred_no_sixth_force :TestablePrediction**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_no_dm_particle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L113-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L113-L119)
 **def
 Tau.BookV.Cosmology.pred_no_dm_particle :TestablePrediction**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_cgw_equals_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L121-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L121-L127)
 **def
 Tau.BookV.Cosmology.pred_cgw_equals_c :TestablePrediction**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_no_gw_echoes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L129-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L129-L135)
 **def
 Tau.BookV.Cosmology.pred_no_gw_echoes :TestablePrediction**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_electron_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L141-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L141-L147)
 **def
 Tau.BookV.Cosmology.pred_electron_mass :TestablePrediction**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_grav_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L149-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L149-L155)
 **def
 Tau.BookV.Cosmology.pred_grav_constant :TestablePrediction**
 
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_tensor_scalar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L157-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L157-L163)
 **def
 Tau.BookV.Cosmology.pred_tensor_scalar :TestablePrediction**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_torus_shadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L169-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L169-L175)
 **def
 Tau.BookV.Cosmology.pred_torus_shadow :TestablePrediction**
 
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_discreteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L177-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L177-L183)
 **def
 Tau.BookV.Cosmology.pred_discreteness :TestablePrediction**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.pred_no_transplanckian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L185-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L185-L191)
 **def
 Tau.BookV.Cosmology.pred_no_transplanckian :TestablePrediction**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.falsification_package`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L197-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L197-L205)
 **def
 Tau.BookV.Cosmology.falsification_package :FalsificationLevels**
 
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.structural_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L207-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L207-L209)
 **theorem
 Tau.BookV.Cosmology.structural_count :falsification_package.structural.length = 4**
 
@@ -451,7 +451,7 @@ Tau.BookV.Cosmology.structural_count :falsification_package.structural.length = 
 
 ### `Tau.BookV.Cosmology.quantitative_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L211-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L211-L213)
 **theorem
 Tau.BookV.Cosmology.quantitative_count :falsification_package.quantitative.length = 3**
 
@@ -462,7 +462,7 @@ Tau.BookV.Cosmology.quantitative_count :falsification_package.quantitative.lengt
 
 ### `Tau.BookV.Cosmology.frontier_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L215-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L215-L217)
 **theorem
 Tau.BookV.Cosmology.frontier_count :falsification_package.frontier.length = 3**
 
@@ -473,7 +473,7 @@ Tau.BookV.Cosmology.frontier_count :falsification_package.frontier.length = 3**
 
 ### `Tau.BookV.Cosmology.total_predictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L219-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L219-L223)
 **theorem
 Tau.BookV.Cosmology.total_predictions :falsification_package.structural.length + falsification_package.quantitative.length + falsification_package.frontier.length = 10**
 
@@ -484,7 +484,7 @@ Total: 10 testable predictions.
 
 ### `Tau.BookV.Cosmology.cmb_scope_note`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L229-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L229-L235)
 **def
 Tau.BookV.Cosmology.cmb_scope_note :Prop**
 
@@ -501,6 +501,6 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cmb_scope_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/FalsificationPack.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/FalsificationPack.lean#L237-L237)
 **theorem
 Tau.BookV.Cosmology.cmb_scope_holds :cmb_scope_note**

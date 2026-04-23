@@ -103,7 +103,7 @@ has effectively "converged" for practical purposes.
 
 ### `Tau.BookV.Temporal.TemporalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L65-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L65-L79)
 **inductive
 Tau.BookV.Temporal.TemporalEpoch :Type**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprTemporalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **instance
 Tau.BookV.Temporal.instReprTemporalEpoch :Repr TemporalEpoch**
 
@@ -142,7 +142,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprTemporalEpoch.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **def
 Tau.BookV.Temporal.instReprTemporalEpoch.repr :TemporalEpoch → ℕ → Std.Format**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instDecidableEqTemporalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **instance
 Tau.BookV.Temporal.instDecidableEqTemporalEpoch :DecidableEq TemporalEpoch**
 
@@ -165,7 +165,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instBEqTemporalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **instance
 Tau.BookV.Temporal.instBEqTemporalEpoch :BEq TemporalEpoch**
 
@@ -176,7 +176,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instBEqTemporalEpoch.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **def
 Tau.BookV.Temporal.instBEqTemporalEpoch.beq :TemporalEpoch → TemporalEpoch → Bool**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instInhabitedTemporalEpoch.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **def
 Tau.BookV.Temporal.instInhabitedTemporalEpoch.default :TemporalEpoch**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instInhabitedTemporalEpoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L79-L79)
 **instance
 Tau.BookV.Temporal.instInhabitedTemporalEpoch :Inhabited TemporalEpoch**
 
@@ -211,7 +211,7 @@ Equations
 
 ### `Tau.BookV.Temporal.IgnitionDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L85-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L85-L99)
 **structure
 Tau.BookV.Temporal.IgnitionDepth :Type**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprIgnitionDepth.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L99-L99)
 **def
 Tau.BookV.Temporal.instReprIgnitionDepth.repr :IgnitionDepth → ℕ → Std.Format**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprIgnitionDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L99-L99)
 **instance
 Tau.BookV.Temporal.instReprIgnitionDepth :Repr IgnitionDepth**
 
@@ -263,7 +263,7 @@ Equations
 
 ### `Tau.BookV.Temporal.canonical_ignition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L101-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L101-L108)
 **def
 Tau.BookV.Temporal.canonical_ignition :IgnitionDepth**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.epoch_classification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L114-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L114-L118)
 **def
 Tau.BookV.Temporal.epoch_classification
 (t : BookIV.Arena.ProtoTime)
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.three_epochs_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L124-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L124-L143)
 **theorem
 Tau.BookV.Temporal.three_epochs_nonempty
 (n_ign n_open : ℕ)
@@ -326,7 +326,7 @@ least one depth:
 
 ### `Tau.BookV.Temporal.pre_temporal_no_labels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L149-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L149-L159)
 **theorem
 Tau.BookV.Temporal.pre_temporal_no_labels
 (t : BookIV.Arena.ProtoTime)
@@ -349,7 +349,7 @@ PreTemporal (i.e., full sector labels are NOT yet present).
 
 ### `Tau.BookV.Temporal.NowHypersurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L165-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L165-L178)
 **structure
 Tau.BookV.Temporal.NowHypersurface :Type**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNowHypersurface.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L178-L178)
 **def
 Tau.BookV.Temporal.instReprNowHypersurface.repr :NowHypersurface → ℕ → Std.Format**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNowHypersurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L178-L178)
 **instance
 Tau.BookV.Temporal.instReprNowHypersurface :Repr NowHypersurface**
 
@@ -399,7 +399,7 @@ Equations
 
 ### `Tau.BookV.Temporal.current_depth_exceeds_ignition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L184-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L184-L191)
 **theorem
 Tau.BookV.Temporal.current_depth_exceeds_ignition
 (h : NowHypersurface)
@@ -416,7 +416,7 @@ by the past_ignition field of NowHypersurface.
 
 ### `Tau.BookV.Temporal.CoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L197-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L197-L214)
 **structure
 Tau.BookV.Temporal.CoherenceHorizon :Type**
 
@@ -447,7 +447,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L214-L214)
 **instance
 Tau.BookV.Temporal.instReprCoherenceHorizon :Repr CoherenceHorizon**
 
@@ -458,7 +458,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprCoherenceHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L214-L214)
 **def
 Tau.BookV.Temporal.instReprCoherenceHorizon.repr :CoherenceHorizon → ℕ → Std.Format**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.epoch_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L220-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L220-L223)
 **theorem
 Tau.BookV.Temporal.epoch_exhaust
 (e : TemporalEpoch)
@@ -483,7 +483,7 @@ All temporal epochs are accounted for.
 
 ### `Tau.BookV.Temporal.temporal_is_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/TemporalIgnition.lean#L225-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/TemporalIgnition.lean#L225-L228)
 **theorem
 Tau.BookV.Temporal.temporal_is_stable :epoch_classification { tick := 100, tick_pos := ⋯ } 5 10 = TemporalEpoch.Temporal**
 

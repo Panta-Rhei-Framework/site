@@ -82,7 +82,7 @@ follows directly from reduction_compat.
 
 ### `Tau.BookII.Hartogs.crt_decompose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L58-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L58-L64)
 **def
 Tau.BookII.Hartogs.crt_decompose
 (x stage : Denotation.TauIdx)
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_unique_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L66-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L66-L83)
 **def
 Tau.BookII.Hartogs.crt_unique_check
 (stage : Denotation.TauIdx)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_unique_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L74-L82)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L74-L82)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_unique_check.go
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_coverage_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L85-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L85-L102)
 **def
 Tau.BookII.Hartogs.crt_coverage_check
 (stage : Denotation.TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_coverage_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L98-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L98-L101)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_coverage_check.go
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L108-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L108-L119)
 **def
 Tau.BookII.Hartogs.bndlift
 (x stage : Denotation.TauIdx)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L121-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L121-L127)
 **def
 Tau.BookII.Hartogs.bndlift_value
 (x stage : Denotation.TauIdx)
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift_coherent_pointwise`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L129-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L129-L133)
 **def
 Tau.BookII.Hartogs.bndlift_coherent_pointwise
 (x stage : Denotation.TauIdx)
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift_existence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L139-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L139-L156)
 **def
 Tau.BookII.Hartogs.bndlift_existence_check
 (k_max bound : Denotation.TauIdx)
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bndlift_existence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L149-L155)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L149-L155)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.bndlift_existence_check.go
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.tower_coherence_multi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L158-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L158-L173)
 **def
 Tau.BookII.Hartogs.tower_coherence_multi
 (k_max bound : Denotation.TauIdx)
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.tower_coherence_multi.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L164-L172)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L164-L172)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.tower_coherence_multi.go
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.lift_information_gain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L175-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L175-L187)
 **def
 Tau.BookII.Hartogs.lift_information_gain
 (k_max : Denotation.TauIdx)
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.lift_information_gain.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L181-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L181-L186)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.lift_information_gain.go
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L193-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L193-L215)
 **def
 Tau.BookII.Hartogs.crt_independence_check
 (stage bound : Denotation.TauIdx)
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L201-L214)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L201-L214)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.crt_independence_check.go
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_channel_independence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L221-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L221-L250)
 **def
 Tau.BookII.Hartogs.bipolar_channel_independence
 (bound : Denotation.TauIdx)
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_channel_independence.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L236-L249)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L236-L249)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.bipolar_channel_independence.go
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.channel_decoupling_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L252-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L252-L285)
 **def
 Tau.BookII.Hartogs.channel_decoupling_check
 (stage bound : Denotation.TauIdx)
@@ -443,7 +443,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.channel_decoupling_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L263-L284)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L263-L284)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.channel_decoupling_check.go
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.lift_sector_preservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L287-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L287-L305)
 **def
 Tau.BookII.Hartogs.lift_sector_preservation
 (stage bound : Denotation.TauIdx)
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.lift_sector_preservation.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L293-L304)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L293-L304)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.lift_sector_preservation.go
@@ -495,7 +495,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.extension_determinacy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L311-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L311-L327)
 **def
 Tau.BookII.Hartogs.extension_determinacy_check
 (stage : Denotation.TauIdx)
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.extension_determinacy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L320-L326)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L320-L326)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.extension_determinacy_check.go
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.splitting_count_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L329-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L329-L352)
 **def
 Tau.BookII.Hartogs.splitting_count_check
 (stage : Denotation.TauIdx)
@@ -550,7 +550,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.splitting_count_check.go_r`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L339-L346)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L339-L346)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.splitting_count_check.go_r
@@ -567,7 +567,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.splitting_count_check.count_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L348-L351)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L348-L351)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.splitting_count_check.count_x
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_bndlift_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L358-L380)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L358-L380)
 **def
 Tau.BookII.Hartogs.full_bndlift_check :Bool**
 
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.crt_unique_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L447-L447)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L447-L447)
 **theorem
 Tau.BookII.Hartogs.crt_unique_1 :crt_unique_check 1 = true**
 
@@ -607,7 +607,7 @@ Tau.BookII.Hartogs.crt_unique_1 :crt_unique_check 1 = true**
 
 ### `Tau.BookII.Hartogs.crt_unique_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L448-L448)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L448-L448)
 **theorem
 Tau.BookII.Hartogs.crt_unique_2 :crt_unique_check 2 = true**
 
@@ -616,7 +616,7 @@ Tau.BookII.Hartogs.crt_unique_2 :crt_unique_check 2 = true**
 
 ### `Tau.BookII.Hartogs.crt_cover_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L449-L449)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L449-L449)
 **theorem
 Tau.BookII.Hartogs.crt_cover_1 :crt_coverage_check 1 = true**
 
@@ -625,7 +625,7 @@ Tau.BookII.Hartogs.crt_cover_1 :crt_coverage_check 1 = true**
 
 ### `Tau.BookII.Hartogs.crt_cover_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L450-L450)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L450-L450)
 **theorem
 Tau.BookII.Hartogs.crt_cover_2 :crt_coverage_check 2 = true**
 
@@ -634,7 +634,7 @@ Tau.BookII.Hartogs.crt_cover_2 :crt_coverage_check 2 = true**
 
 ### `Tau.BookII.Hartogs.bndlift_exist_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L453-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L453-L453)
 **theorem
 Tau.BookII.Hartogs.bndlift_exist_3_30 :bndlift_existence_check 3 30 = true**
 
@@ -643,7 +643,7 @@ Tau.BookII.Hartogs.bndlift_exist_3_30 :bndlift_existence_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.tower_multi_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L454-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L454-L454)
 **theorem
 Tau.BookII.Hartogs.tower_multi_3_30 :tower_coherence_multi 3 30 = true**
 
@@ -652,7 +652,7 @@ Tau.BookII.Hartogs.tower_multi_3_30 :tower_coherence_multi 3 30 = true**
 
 ### `Tau.BookII.Hartogs.info_gain_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L455-L455)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L455-L455)
 **theorem
 Tau.BookII.Hartogs.info_gain_4 :lift_information_gain 4 = true**
 
@@ -661,7 +661,7 @@ Tau.BookII.Hartogs.info_gain_4 :lift_information_gain 4 = true**
 
 ### `Tau.BookII.Hartogs.crt_indep_1_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L458-L458)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L458-L458)
 **theorem
 Tau.BookII.Hartogs.crt_indep_1_20 :crt_independence_check 1 20 = true**
 
@@ -670,7 +670,7 @@ Tau.BookII.Hartogs.crt_indep_1_20 :crt_independence_check 1 20 = true**
 
 ### `Tau.BookII.Hartogs.crt_indep_2_40`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L459-L459)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L459-L459)
 **theorem
 Tau.BookII.Hartogs.crt_indep_2_40 :crt_independence_check 2 40 = true**
 
@@ -679,7 +679,7 @@ Tau.BookII.Hartogs.crt_indep_2_40 :crt_independence_check 2 40 = true**
 
 ### `Tau.BookII.Hartogs.bipolar_indep_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L462-L462)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L462-L462)
 **theorem
 Tau.BookII.Hartogs.bipolar_indep_30 :bipolar_channel_independence 30 = true**
 
@@ -688,7 +688,7 @@ Tau.BookII.Hartogs.bipolar_indep_30 :bipolar_channel_independence 30 = true**
 
 ### `Tau.BookII.Hartogs.decoupling_1_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L463-L463)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L463-L463)
 **theorem
 Tau.BookII.Hartogs.decoupling_1_20 :channel_decoupling_check 1 20 = true**
 
@@ -697,7 +697,7 @@ Tau.BookII.Hartogs.decoupling_1_20 :channel_decoupling_check 1 20 = true**
 
 ### `Tau.BookII.Hartogs.sector_pres_2_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L464-L464)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L464-L464)
 **theorem
 Tau.BookII.Hartogs.sector_pres_2_30 :lift_sector_preservation 2 30 = true**
 
@@ -706,7 +706,7 @@ Tau.BookII.Hartogs.sector_pres_2_30 :lift_sector_preservation 2 30 = true**
 
 ### `Tau.BookII.Hartogs.ext_det_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L467-L467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L467-L467)
 **theorem
 Tau.BookII.Hartogs.ext_det_1 :extension_determinacy_check 1 = true**
 
@@ -715,7 +715,7 @@ Tau.BookII.Hartogs.ext_det_1 :extension_determinacy_check 1 = true**
 
 ### `Tau.BookII.Hartogs.ext_det_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L468-L468)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L468-L468)
 **theorem
 Tau.BookII.Hartogs.ext_det_2 :extension_determinacy_check 2 = true**
 
@@ -724,7 +724,7 @@ Tau.BookII.Hartogs.ext_det_2 :extension_determinacy_check 2 = true**
 
 ### `Tau.BookII.Hartogs.split_count_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L469-L469)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L469-L469)
 **theorem
 Tau.BookII.Hartogs.split_count_1 :splitting_count_check 1 = true**
 
@@ -733,7 +733,7 @@ Tau.BookII.Hartogs.split_count_1 :splitting_count_check 1 = true**
 
 ### `Tau.BookII.Hartogs.split_count_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L470-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L470-L470)
 **theorem
 Tau.BookII.Hartogs.split_count_2 :splitting_count_check 2 = true**
 
@@ -742,6 +742,6 @@ Tau.BookII.Hartogs.split_count_2 :splitting_count_check 2 = true**
 
 ### `Tau.BookII.Hartogs.full_bndlift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/BndLift.lean#L473-L473)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/BndLift.lean#L473-L473)
 **theorem
 Tau.BookII.Hartogs.full_bndlift :full_bndlift_check = true**

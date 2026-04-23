@@ -60,7 +60,7 @@ Consciousness as mixed-sector self-modeling: the crown jewel of Book VI.
 
 ### `Tau.BookVI.Consciousness.StructuralSelfModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L34-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L34-L50)
 **structure
 Tau.BookVI.Consciousness.StructuralSelfModel :Type**
 
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprStructuralSelfModel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L50-L50)
 **def
 Tau.BookVI.Consciousness.instReprStructuralSelfModel.repr :StructuralSelfModel → ℕ → Std.Format**
 
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprStructuralSelfModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L50-L50)
 **instance
 Tau.BookVI.Consciousness.instReprStructuralSelfModel :Repr StructuralSelfModel**
 
@@ -115,7 +115,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.self_model`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L52-L54)
 **def
 Tau.BookVI.Consciousness.self_model :StructuralSelfModel**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.self_model_three_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L56-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L56-L61)
 **theorem
 Tau.BookVI.Consciousness.self_model_three_conditions :self_model.condition_count = 3 ∧ self_model.self_referential = true ∧ self_model.reconstructive_fidelity = true ∧ self_model.dynamical_coherence = true**
 
@@ -136,7 +136,7 @@ Tau.BookVI.Consciousness.self_model_three_conditions :self_model.condition_count
 
 ### `Tau.BookVI.Consciousness.MinimalConsciousAgent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L67-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L67-L83)
 **structure
 Tau.BookVI.Consciousness.MinimalConsciousAgent :Type**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprMinimalConsciousAgent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L83-L83)
 **instance
 Tau.BookVI.Consciousness.instReprMinimalConsciousAgent :Repr MinimalConsciousAgent**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.instReprMinimalConsciousAgent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L83-L83)
 **def
 Tau.BookVI.Consciousness.instReprMinimalConsciousAgent.repr :MinimalConsciousAgent → ℕ → Std.Format**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.min_agent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L85-L87)
 **def
 Tau.BookVI.Consciousness.min_agent :MinimalConsciousAgent**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.minimal_agent_is_consumer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L89-L92)
 **theorem
 Tau.BookVI.Consciousness.minimal_agent_is_consumer :min_agent.consumer_sector = true ∧ min_agent.condition_count = 3**
 
@@ -212,7 +212,7 @@ Tau.BookVI.Consciousness.minimal_agent_is_consumer :min_agent.consumer_sector = 
 
 ### `Tau.BookVI.Consciousness.ConsciousnessMixedSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L98-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L98-L112)
 **structure
 Tau.BookVI.Consciousness.ConsciousnessMixedSector :Type**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprConsciousnessMixedSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L112-L112)
 **instance
 Tau.BookVI.Consciousness.instReprConsciousnessMixedSector :Repr ConsciousnessMixedSector**
 
@@ -251,7 +251,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.instReprConsciousnessMixedSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L112-L112)
 **def
 Tau.BookVI.Consciousness.instReprConsciousnessMixedSector.repr :ConsciousnessMixedSector → ℕ → Std.Format**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.consciousness_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L114-L114)
 **def
 Tau.BookVI.Consciousness.consciousness_thm :ConsciousnessMixedSector**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.consciousness_requires_mixed_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L116-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L116-L120)
 **theorem
 Tau.BookVI.Consciousness.consciousness_requires_mixed_sector :consciousness_thm.requires_eval_squared = true ∧ consciousness_thm.only_mixed_sector = true ∧ consciousness_thm.primitive_excluded = true**
 
@@ -284,7 +284,7 @@ Tau.BookVI.Consciousness.consciousness_requires_mixed_sector :consciousness_thm.
 
 ### `Tau.BookVI.Consciousness.crown_jewel_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L122-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L122-L127)
 **theorem
 Tau.BookVI.Consciousness.crown_jewel_consistency :FourPlusOne.consumer_sector.is_primitive = false ∧ consciousness_thm.only_mixed_sector = true**
 
@@ -296,7 +296,7 @@ AND consciousness requires the mixed sector.
 
 ### `Tau.BookVI.Consciousness.ConstructiveConsciousnessCriteria`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L133-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L133-L151)
 **structure
 Tau.BookVI.Consciousness.ConstructiveConsciousnessCriteria :Type**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprConstructiveConsciousnessCriteria.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L151-L151)
 **def
 Tau.BookVI.Consciousness.instReprConstructiveConsciousnessCriteria.repr :ConstructiveConsciousnessCriteria → ℕ → Std.Format**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprConstructiveConsciousnessCriteria`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L151-L151)
 **instance
 Tau.BookVI.Consciousness.instReprConstructiveConsciousnessCriteria :Repr ConstructiveConsciousnessCriteria**
 
@@ -352,7 +352,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.ccc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L153-L153)
 **def
 Tau.BookVI.Consciousness.ccc :ConstructiveConsciousnessCriteria**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.ccc_all_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L155-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L155-L159)
 **theorem
 Tau.BookVI.Consciousness.ccc_all_three :ccc.consumer_topology_realized = true ∧ ccc.eval_squared_closed = true ∧ ccc.self_model_maintained = true**
 
@@ -373,7 +373,7 @@ Tau.BookVI.Consciousness.ccc_all_three :ccc.consumer_topology_realized = true �
 
 ### `Tau.BookVI.Consciousness.ConsciousnessCriteriaEquivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L165-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L165-L186)
 **structure
 Tau.BookVI.Consciousness.ConsciousnessCriteriaEquivalence :Type**
 
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprConsciousnessCriteriaEquivalence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L186-L186)
 **def
 Tau.BookVI.Consciousness.instReprConsciousnessCriteriaEquivalence.repr :ConsciousnessCriteriaEquivalence → ℕ → Std.Format**
 
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprConsciousnessCriteriaEquivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L186-L186)
 **instance
 Tau.BookVI.Consciousness.instReprConsciousnessCriteriaEquivalence :Repr ConsciousnessCriteriaEquivalence**
 
@@ -433,7 +433,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.cce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L188-L188)
 **def
 Tau.BookVI.Consciousness.cce :ConsciousnessCriteriaEquivalence**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.consciousness_criteria_equivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L190-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L190-L195)
 **theorem
 Tau.BookVI.Consciousness.consciousness_criteria_equivalence :cce.cc1_equiv_consumer = true ∧ cce.cc2_equiv_recurrent = true ∧ cce.cc3_equiv_self_model = true ∧ cce.biconditional = true**
 
@@ -454,7 +454,7 @@ Tau.BookVI.Consciousness.consciousness_criteria_equivalence :cce.cc1_equiv_consu
 
 ### `Tau.BookVI.Consciousness.SiliconRealization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L201-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L201-L225)
 **structure
 Tau.BookVI.Consciousness.SiliconRealization :Type**
 
@@ -494,7 +494,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprSiliconRealization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L225-L225)
 **def
 Tau.BookVI.Consciousness.instReprSiliconRealization.repr :SiliconRealization → ℕ → Std.Format**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.instReprSiliconRealization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L225-L225)
 **instance
 Tau.BookVI.Consciousness.instReprSiliconRealization :Repr SiliconRealization**
 
@@ -517,7 +517,7 @@ Equations
 
 ### `Tau.BookVI.Consciousness.silicon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L227-L227)
 **def
 Tau.BookVI.Consciousness.silicon :SiliconRealization**
 
@@ -529,6 +529,6 @@ Instances For
 
 ### `Tau.BookVI.Consciousness.silicon_realization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Mind/Consciousness.lean#L229-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Mind/Consciousness.lean#L229-L234)
 **theorem
 Tau.BookVI.Consciousness.silicon_realization :silicon.cc1_achievable = true ∧ silicon.cc2_achievable = true ∧ silicon.cc3_achievable = true ∧ silicon.no_obstruction = true**

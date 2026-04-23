@@ -65,7 +65,7 @@ profinite topology from Part III.
 
 ### `Tau.BookII.Geometry.approx_seq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L42-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L42-L44)
 **def
 Tau.BookII.Geometry.approx_seq
 (x k : Denotation.TauIdx)
@@ -82,7 +82,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.approx_stabilizes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L46-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L46-L57)
 **def
 Tau.BookII.Geometry.approx_stabilizes
 (x stages : Denotation.TauIdx)
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.approx_stabilizes.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L51-L56)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L51-L56)@[irreducible]
 
 **def
 Tau.BookII.Geometry.approx_stabilizes.go
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cauchy_check_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L63-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L63-L73)
 **def
 Tau.BookII.Geometry.cauchy_check_k2
 (x k1 stages : Denotation.TauIdx)
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cauchy_check_k2.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L67-L72)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L67-L72)@[irreducible]
 
 **def
 Tau.BookII.Geometry.cauchy_check_k2.go
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cauchy_check_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L75-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L75-L84)
 **def
 Tau.BookII.Geometry.cauchy_check_k1
 (x stages : Denotation.TauIdx)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cauchy_check_k1.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L79-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L79-L83)@[irreducible]
 
 **def
 Tau.BookII.Geometry.cauchy_check_k1.go
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_cauchy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L86-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L86-L97)
 **def
 Tau.BookII.Geometry.den_cauchy_check
 (bound stages : Denotation.TauIdx)
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_cauchy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L92-L96)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L92-L96)@[irreducible]
 
 **def
 Tau.BookII.Geometry.den_cauchy_check.go
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.find_separating_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L103-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L103-L112)
 **def
 Tau.BookII.Geometry.find_separating_stage
 (x y stages : Denotation.TauIdx)
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.find_separating_stage.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L107-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L107-L111)@[irreducible]
 
 **def
 Tau.BookII.Geometry.find_separating_stage.go
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.injective_check_y`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L114-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L114-L123)
 **def
 Tau.BookII.Geometry.injective_check_y
 (x bound stages : Denotation.TauIdx)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.injective_check_y.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L118-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L118-L122)@[irreducible]
 
 **def
 Tau.BookII.Geometry.injective_check_y.go
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_injective_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L125-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L125-L135)
 **def
 Tau.BookII.Geometry.den_injective_check
 (bound stages : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_injective_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L130-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L130-L134)@[irreducible]
 
 **def
 Tau.BookII.Geometry.den_injective_check.go
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_stages`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L141-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L141-L155)
 **def
 Tau.BookII.Geometry.between_mono_stages
 (x y z db stages : Denotation.TauIdx)
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_stages.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L145-L154)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L145-L154)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_mono_stages.go
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_z`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L157-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L157-L168)
 **def
 Tau.BookII.Geometry.between_mono_z
 (x y bound db stages : Denotation.TauIdx)
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_z.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L161-L167)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L161-L167)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_mono_z.go
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_y`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L170-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L170-L179)
 **def
 Tau.BookII.Geometry.between_mono_y
 (x bound db stages : Denotation.TauIdx)
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_mono_y.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L174-L178)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L174-L178)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_mono_y.go
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_between_mono_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L181-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L181-L192)
 **def
 Tau.BookII.Geometry.den_between_mono_check
 (bound db stages : Denotation.TauIdx)
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_between_mono_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L187-L191)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L187-L191)@[irreducible]
 
 **def
 Tau.BookII.Geometry.den_between_mono_check.go
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_compat_stages`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L198-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L198-L213)
 **def
 Tau.BookII.Geometry.cong_compat_stages
 (a b c d db : Denotation.TauIdx)
@@ -467,7 +467,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cong_compat_stages.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L202-L212)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L202-L212)@[irreducible]
 
 **def
 Tau.BookII.Geometry.cong_compat_stages.go
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.den_cong_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L215-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L215-L220)
 **def
 Tau.BookII.Geometry.den_cong_compat_check
 (db : Denotation.TauIdx)
@@ -500,7 +500,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.orthodox_bridge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L226-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L226-L232)
 **def
 Tau.BookII.Geometry.orthodox_bridge_check
 (bound db stages : Denotation.TauIdx)
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.cauchy_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L270-L270)
 **theorem
 Tau.BookII.Geometry.cauchy_15_4 :den_cauchy_check 15 4 = true**
 
@@ -527,7 +527,7 @@ Tau.BookII.Geometry.cauchy_15_4 :den_cauchy_check 15 4 = true**
 
 ### `Tau.BookII.Geometry.injective_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L271-L271)
 **theorem
 Tau.BookII.Geometry.injective_12_4 :den_injective_check 12 4 = true**
 
@@ -536,7 +536,7 @@ Tau.BookII.Geometry.injective_12_4 :den_injective_check 12 4 = true**
 
 ### `Tau.BookII.Geometry.between_mono_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L272-L272)
 **theorem
 Tau.BookII.Geometry.between_mono_8 :den_between_mono_check 8 5 3 = true**
 
@@ -545,7 +545,7 @@ Tau.BookII.Geometry.between_mono_8 :den_between_mono_check 8 5 3 = true**
 
 ### `Tau.BookII.Geometry.cong_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L273-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L273-L273)
 **theorem
 Tau.BookII.Geometry.cong_compat :den_cong_compat_check 5 = true**
 
@@ -554,6 +554,6 @@ Tau.BookII.Geometry.cong_compat :den_cong_compat_check 5 = true**
 
 ### `Tau.BookII.Geometry.bridge_8_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/OrthodoxBridge.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/OrthodoxBridge.lean#L274-L274)
 **theorem
 Tau.BookII.Geometry.bridge_8_5_3 :orthodox_bridge_check 8 5 3 = true**

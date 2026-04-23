@@ -106,7 +106,7 @@ pulsars provide the most precise tests of τ-gravitational predictions.
 
 ### `Tau.BookV.Astrophysics.CompactObjectType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L64-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L64-L75)
 **inductive
 Tau.BookV.Astrophysics.CompactObjectType :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCompactObjectType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
 **instance
 Tau.BookV.Astrophysics.instReprCompactObjectType :Repr CompactObjectType**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprCompactObjectType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
 **def
 Tau.BookV.Astrophysics.instReprCompactObjectType.repr :CompactObjectType → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqCompactObjectType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqCompactObjectType :DecidableEq CompactObjectType**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqCompactObjectType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
 **instance
 Tau.BookV.Astrophysics.instBEqCompactObjectType :BEq CompactObjectType**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqCompactObjectType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L75-L75)
 **def
 Tau.BookV.Astrophysics.instBEqCompactObjectType.beq :CompactObjectType → CompactObjectType → Bool**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.CompactObjectData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L77-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L77-L91)
 **structure
 Tau.BookV.Astrophysics.CompactObjectData :Type**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCompactObjectData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L91-L91)
 **instance
 Tau.BookV.Astrophysics.instReprCompactObjectData :Repr CompactObjectData**
 
@@ -231,7 +231,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprCompactObjectData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L91-L91)
 **def
 Tau.BookV.Astrophysics.instReprCompactObjectData.repr :CompactObjectData → ℕ → Std.Format**
 
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.chandrasekhar_mass_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L97-L98)
 **def
 Tau.BookV.Astrophysics.chandrasekhar_mass_limit :ℕ**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.wd_mass_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L100-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L100-L112)
 **theorem
 Tau.BookV.Astrophysics.wd_mass_limit :"WD mass limited by electron degeneracy at M_Ch ~ 1.4 M_sun" = "WD mass limited by electron degeneracy at M_Ch ~ 1.4 M_sun"**
 
@@ -277,7 +277,7 @@ neutron degeneracy (neutron star) or direct collapse.
 
 ### `Tau.BookV.Astrophysics.ns_eos_from_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L118-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L118-L127)
 **theorem
 Tau.BookV.Astrophysics.ns_eos_from_defect :"NS EOS = defect-bundle compression component at nuclear density" = "NS EOS = defect-bundle compression component at nuclear density"**
 
@@ -294,7 +294,7 @@ TOV maximum mass.
 
 ### `Tau.BookV.Astrophysics.tov_mass_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L133-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L133-L134)
 **def
 Tau.BookV.Astrophysics.tov_mass_lower :ℕ**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.tov_mass_upper`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L135-L135)
 **def
 Tau.BookV.Astrophysics.tov_mass_upper :ℕ**
 
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.tov_maximum_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L137-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L137-L145)
 **theorem
 Tau.BookV.Astrophysics.tov_maximum_mass :tov_mass_lower < tov_mass_upper**
 
@@ -337,7 +337,7 @@ from first principles alone.
 
 ### `Tau.BookV.Astrophysics.PulsarType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L151-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L151-L159)
 **inductive
 Tau.BookV.Astrophysics.PulsarType :Type**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPulsarType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
 **def
 Tau.BookV.Astrophysics.instReprPulsarType.repr :PulsarType → ℕ → Std.Format**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPulsarType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
 **instance
 Tau.BookV.Astrophysics.instReprPulsarType :Repr PulsarType**
 
@@ -382,7 +382,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqPulsarType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqPulsarType :DecidableEq PulsarType**
 
@@ -393,7 +393,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqPulsarType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
 **instance
 Tau.BookV.Astrophysics.instBEqPulsarType :BEq PulsarType**
 
@@ -404,7 +404,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqPulsarType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L159-L159)
 **def
 Tau.BookV.Astrophysics.instBEqPulsarType.beq :PulsarType → PulsarType → Bool**
 
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.PulsarData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L161-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L161-L179)
 **structure
 Tau.BookV.Astrophysics.PulsarData :Type**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPulsarData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L179-L179)
 **def
 Tau.BookV.Astrophysics.instReprPulsarData.repr :PulsarData → ℕ → Std.Format**
 
@@ -463,7 +463,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPulsarData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L179-L179)
 **instance
 Tau.BookV.Astrophysics.instReprPulsarData :Repr PulsarData**
 
@@ -474,7 +474,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.mass_gap_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L185-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L185-L186)
 **def
 Tau.BookV.Astrophysics.mass_gap_lower :ℕ**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.mass_gap_upper`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L187-L188)
 **def
 Tau.BookV.Astrophysics.mass_gap_upper :ℕ**
 
@@ -502,7 +502,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.mass_gap_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L190-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L190-L202)
 **theorem
 Tau.BookV.Astrophysics.mass_gap_prediction :mass_gap_lower < mass_gap_upper**
 
@@ -523,7 +523,7 @@ of merger remnants.
 
 ### `Tau.BookV.Astrophysics.magnetar_from_vortex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L208-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L208-L216)
 **theorem
 Tau.BookV.Astrophysics.magnetar_from_vortex :"Magnetar = NS with large vorticity defect component, topologically stabilized" = "Magnetar = NS with large vorticity defect component, topologically stabilized"**
 
@@ -539,7 +539,7 @@ preventing field decay on dynamical timescales.
 
 ### `Tau.BookV.Astrophysics.crab_pulsar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/CompactObjects.lean#L246-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/CompactObjects.lean#L246-L260)
 **def
 Tau.BookV.Astrophysics.crab_pulsar :PulsarData**
 

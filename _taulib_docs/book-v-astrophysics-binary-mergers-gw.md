@@ -119,7 +119,7 @@ confirmed this channel for heavy element production.
 
 ### `Tau.BookV.Astrophysics.BinarySystemType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L68-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L68-L79)
 **inductive
 Tau.BookV.Astrophysics.BinarySystemType :Type**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBinarySystemType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
 **def
 Tau.BookV.Astrophysics.instReprBinarySystemType.repr :BinarySystemType → ℕ → Std.Format**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBinarySystemType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instReprBinarySystemType :Repr BinarySystemType**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqBinarySystemType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqBinarySystemType :DecidableEq BinarySystemType**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqBinarySystemType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
 **instance
 Tau.BookV.Astrophysics.instBEqBinarySystemType :BEq BinarySystemType**
 
@@ -190,7 +190,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqBinarySystemType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L79-L79)
 **def
 Tau.BookV.Astrophysics.instBEqBinarySystemType.beq :BinarySystemType → BinarySystemType → Bool**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.BinarySystemType.canProduceKilonova`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L81-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L81-L85)
 **def
 Tau.BookV.Astrophysics.BinarySystemType.canProduceKilonova :BinarySystemType → Bool**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GWSignalData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L91-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L91-L116)
 **structure
 Tau.BookV.Astrophysics.GWSignalData :Type**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGWSignalData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L116-L116)
 **def
 Tau.BookV.Astrophysics.instReprGWSignalData.repr :GWSignalData → ℕ → Std.Format**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGWSignalData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L116-L116)
 **instance
 Tau.BookV.Astrophysics.instReprGWSignalData :Repr GWSignalData**
 
@@ -286,7 +286,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.chirp_mass_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L122-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L122-L131)
 **theorem
 Tau.BookV.Astrophysics.chirp_mass_formula :"M_c = (m1*m2)^(3/5) / (m1+m2)^(1/5) determines GW inspiral waveform" = "M_c = (m1*m2)^(3/5) / (m1+m2)^(1/5) determines GW inspiral waveform"**
 
@@ -303,7 +303,7 @@ require the mass ratio η = m₁m₂/(m₁+m₂)².
 
 ### `Tau.BookV.Astrophysics.orbital_decay_gw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L137-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L137-L151)
 **theorem
 Tau.BookV.Astrophysics.orbital_decay_gw :"dP/dt from GW emission matches GR = D-sector defect radiation" = "dP/dt from GW emission matches GR = D-sector defect radiation"**
 
@@ -328,7 +328,7 @@ as propagating boundary-character disturbances.
 
 ### `Tau.BookV.Astrophysics.MergerOutcome`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L157-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L157-L165)
 **inductive
 Tau.BookV.Astrophysics.MergerOutcome :Type**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMergerOutcome`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
 **instance
 Tau.BookV.Astrophysics.instReprMergerOutcome :Repr MergerOutcome**
 
@@ -361,7 +361,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprMergerOutcome.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
 **def
 Tau.BookV.Astrophysics.instReprMergerOutcome.repr :MergerOutcome → ℕ → Std.Format**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqMergerOutcome`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqMergerOutcome :DecidableEq MergerOutcome**
 
@@ -384,7 +384,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqMergerOutcome`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
 **instance
 Tau.BookV.Astrophysics.instBEqMergerOutcome :BEq MergerOutcome**
 
@@ -395,7 +395,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqMergerOutcome.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L165-L165)
 **def
 Tau.BookV.Astrophysics.instBEqMergerOutcome.beq :MergerOutcome → MergerOutcome → Bool**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.MergerOutcomeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L167-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L167-L181)
 **structure
 Tau.BookV.Astrophysics.MergerOutcomeData :Type**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMergerOutcomeData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L181-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L181-L181)
 **def
 Tau.BookV.Astrophysics.instReprMergerOutcomeData.repr :MergerOutcomeData → ℕ → Std.Format**
 
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMergerOutcomeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L181-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L181-L181)
 **instance
 Tau.BookV.Astrophysics.instReprMergerOutcomeData :Repr MergerOutcomeData**
 
@@ -461,7 +461,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.no_hair_after_merger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L187-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L187-L195)
 **theorem
 Tau.BookV.Astrophysics.no_hair_after_merger :"BH remnant relaxes to (M, J) only = T^2 torus vacuum normalization" = "BH remnant relaxes to (M, J) only = T^2 torus vacuum normalization"**
 
@@ -477,7 +477,7 @@ crossing. All other "hair" is radiated away as ringdown GW.
 
 ### `Tau.BookV.Astrophysics.KilonovaData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L201-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L201-L217)
 **structure
 Tau.BookV.Astrophysics.KilonovaData :Type**
 
@@ -509,7 +509,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprKilonovaData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L217-L217)
 **def
 Tau.BookV.Astrophysics.instReprKilonovaData.repr :KilonovaData → ℕ → Std.Format**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprKilonovaData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L217-L217)
 **instance
 Tau.BookV.Astrophysics.instReprKilonovaData :Repr KilonovaData**
 
@@ -532,7 +532,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.merger_rate_population`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L223-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L223-L233)
 **theorem
 Tau.BookV.Astrophysics.merger_rate_population :"Merger rate = f(binary population) = galactic defect-bundle history readout" = "Merger rate = f(binary population) = galactic defect-bundle history readout"**
 
@@ -555,7 +555,7 @@ Current estimates (LIGO O3):
 
 ### `Tau.BookV.Astrophysics.gw150914`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L263-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L263-L274)
 **def
 Tau.BookV.Astrophysics.gw150914 :GWSignalData**
 
@@ -569,7 +569,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.gw170817_kilonova`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L276-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L276-L282)
 **def
 Tau.BookV.Astrophysics.gw170817_kilonova :KilonovaData**
 
@@ -583,7 +583,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GWEventComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L293-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L293-L301)
 **structure
 Tau.BookV.Astrophysics.GWEventComparison :Type**
 
@@ -602,7 +602,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGWEventComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L301-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L301-L301)
 **instance
 Tau.BookV.Astrophysics.instReprGWEventComparison :Repr GWEventComparison**
 
@@ -613,7 +613,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprGWEventComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L301-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L301-L301)
 **def
 Tau.BookV.Astrophysics.instReprGWEventComparison.repr :GWEventComparison → ℕ → Std.Format**
 
@@ -625,7 +625,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.gw_event_catalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L303-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L303-L312)
 **def
 Tau.BookV.Astrophysics.gw_event_catalog :List GWEventComparison**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.t2_ringdown_ratio_x1000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L314-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L314-L315)
 **def
 Tau.BookV.Astrophysics.t2_ringdown_ratio_x1000 :ℕ**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.bbh_events_have_final_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L317-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L317-L320)
 **theorem
 Tau.BookV.Astrophysics.bbh_events_have_final_mass
 (e : GWEventComparison)
@@ -666,7 +666,7 @@ All BBH events have nonzero final mass
 
 ### `Tau.BookV.Astrophysics.bns_no_ringdown`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L322-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L322-L325)
 **theorem
 Tau.BookV.Astrophysics.bns_no_ringdown
 (e : GWEventComparison)
@@ -679,7 +679,7 @@ BNS event has zero final mass (no BH ringdown)
 
 ### `Tau.BookV.Astrophysics.chirp_mass_consistency_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L327-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L327-L330)
 **def
 Tau.BookV.Astrophysics.chirp_mass_consistency_remark :String**
 
@@ -693,7 +693,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ligo_comparison_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L332-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BinaryMergersGW.lean#L332-L335)
 **def
 Tau.BookV.Astrophysics.ligo_comparison_remark :String**
 

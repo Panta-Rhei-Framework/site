@@ -65,7 +65,7 @@ This is the φ-function product: φ(M_k) = 1 × 2 × 4 × ... × (p_k - 1).
 
 ### `Tau.Boundary.GaloisAut`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L47-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L47-L51)
 **structure
 Tau.Boundary.GaloisAut :Type**
 
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.Boundary.instReprGaloisAut`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L51-L51)
 **instance
 Tau.Boundary.instReprGaloisAut :Repr GaloisAut**
 
@@ -91,7 +91,7 @@ Equations
 
 ### `Tau.Boundary.instReprGaloisAut.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L51-L51)
 **def
 Tau.Boundary.instReprGaloisAut.repr :GaloisAut → ℕ → Std.Format**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.Boundary.instDecidableEqGaloisAut`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L51-L51)
 **instance
 Tau.Boundary.instDecidableEqGaloisAut :DecidableEq GaloisAut**
 
@@ -114,7 +114,7 @@ Equations
 
 ### `Tau.Boundary.instDecidableEqGaloisAut.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L51-L51)
 **def
 Tau.Boundary.instDecidableEqGaloisAut.decEq
 (x✝ x✝¹ : GaloisAut)
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.Boundary.is_unit_mod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L53-L55)
 **def
 Tau.Boundary.is_unit_mod
 (a m : ℕ)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.Boundary.galois_apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L57-L59)
 **def
 Tau.Boundary.galois_apply
 (σ : GaloisAut)
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.Boundary.galois_aut_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L61-L63)
 **def
 Tau.Boundary.galois_aut_check
 (σ : GaloisAut)
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.Boundary.galois_compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L65-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L65-L69)
 **def
 Tau.Boundary.galois_compose
 (σ τ_aut : GaloisAut)
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.Boundary.galois_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L71-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L71-L73)
 **def
 Tau.Boundary.galois_id
 (k : ℕ)
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.Boundary.galois_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L75-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L75-L86)
 **def
 Tau.Boundary.galois_inv
 (σ_aut : GaloisAut)
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.Boundary.galois_inv.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L82-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L82-L85)@[irreducible]
 
 **def
 Tau.Boundary.galois_inv.go
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.Boundary.galois_group_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L94-L96)
 **def
 Tau.Boundary.galois_group_order
 (k : ℕ)
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.Boundary.galois_order_expected`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L98-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L98-L107)
 **def
 Tau.Boundary.galois_order_expected
 (k : ℕ)
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.Boundary.galois_order_expected.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L102-L106)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L102-L106)@[irreducible]
 
 **def
 Tau.Boundary.galois_order_expected.go
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.Boundary.galois_group_order_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L109-L111)
 **def
 Tau.Boundary.galois_group_order_check
 (k : ℕ)
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.Boundary.galois_additive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L117-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L117-L134)
 **def
 Tau.Boundary.galois_additive_check
 (σ : GaloisAut)
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.Boundary.galois_additive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L122-L125)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L122-L125)@[irreducible]
 
 **def
 Tau.Boundary.galois_additive_check.go
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.Boundary.galois_additive_check.go_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L127-L133)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L127-L133)@[irreducible]
 
 **def
 Tau.Boundary.galois_additive_check.go_inner
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.Boundary.galois_root_preserving_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L136-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L136-L162)
 **def
 Tau.Boundary.galois_root_preserving_check
 (σ : GaloisAut)
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.Boundary.galois_root_preserving_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L142-L149)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L142-L149)@[irreducible]
 
 **def
 Tau.Boundary.galois_root_preserving_check.go
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.Boundary.galois_root_preserving_check.go_n`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L151-L161)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L151-L161)@[irreducible]
 
 **def
 Tau.Boundary.galois_root_preserving_check.go_n
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.Boundary.unit_group_closed_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L164-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L164-L182)
 **def
 Tau.Boundary.unit_group_closed_check
 (k : ℕ)
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.Boundary.unit_group_closed_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L169-L172)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L169-L172)@[irreducible]
 
 **def
 Tau.Boundary.unit_group_closed_check.go
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.Boundary.unit_group_closed_check.go_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L174-L181)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L174-L181)@[irreducible]
 
 **def
 Tau.Boundary.unit_group_closed_check.go_inner
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.Boundary.galois_crt_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L188-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L188-L192)
 **def
 Tau.Boundary.galois_crt_check
 (k : ℕ)
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.Boundary.galois_fundamental_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L198-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L198-L217)
 **def
 Tau.Boundary.galois_fundamental_check
 (k : ℕ)
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.Boundary.galois_fundamental_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L208-L216)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L208-L216)@[irreducible]
 
 **def
 Tau.Boundary.galois_fundamental_check.go
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.Boundary.galois_order_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L223-L224)
 **theorem
 Tau.Boundary.galois_order_1 :galois_group_order 1 = 1**
 
@@ -514,7 +514,7 @@ Tau.Boundary.galois_order_1 :galois_group_order 1 = 1**
 
 ### `Tau.Boundary.galois_order_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L226-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L226-L227)
 **theorem
 Tau.Boundary.galois_order_2 :galois_group_order 2 = 2**
 
@@ -525,7 +525,7 @@ Tau.Boundary.galois_order_2 :galois_group_order 2 = 2**
 
 ### `Tau.Boundary.galois_order_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L229-L230)
 **theorem
 Tau.Boundary.galois_order_3 :galois_group_order 3 = 8**
 
@@ -536,7 +536,7 @@ Tau.Boundary.galois_order_3 :galois_group_order 3 = 8**
 
 ### `Tau.Boundary.galois_order_check_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L232-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L232-L234)
 **theorem
 Tau.Boundary.galois_order_check_1 :galois_group_order_check 1 = true**
 
@@ -547,7 +547,7 @@ Tau.Boundary.galois_order_check_1 :galois_group_order_check 1 = true**
 
 ### `Tau.Boundary.galois_order_check_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L236-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L236-L238)
 **theorem
 Tau.Boundary.galois_order_check_2 :galois_group_order_check 2 = true**
 
@@ -558,7 +558,7 @@ Tau.Boundary.galois_order_check_2 :galois_group_order_check 2 = true**
 
 ### `Tau.Boundary.galois_order_check_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L240-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L240-L242)
 **theorem
 Tau.Boundary.galois_order_check_3 :galois_group_order_check 3 = true**
 
@@ -569,7 +569,7 @@ Tau.Boundary.galois_order_check_3 :galois_group_order_check 3 = true**
 
 ### `Tau.Boundary.galois_fundamental_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L244-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L244-L246)
 **theorem
 Tau.Boundary.galois_fundamental_2 :galois_fundamental_check 2 = true**
 
@@ -580,7 +580,7 @@ Tau.Boundary.galois_fundamental_2 :galois_fundamental_check 2 = true**
 
 ### `Tau.Boundary.galois_crt_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L248-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L248-L250)
 **theorem
 Tau.Boundary.galois_crt_3 :galois_crt_check 3 = true**
 
@@ -591,7 +591,7 @@ Tau.Boundary.galois_crt_3 :galois_crt_check 3 = true**
 
 ### `Tau.Boundary.galois_id_valid_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L252-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L252-L254)
 **theorem
 Tau.Boundary.galois_id_valid_1 :galois_aut_check (galois_id 1) = true**
 
@@ -602,7 +602,7 @@ Tau.Boundary.galois_id_valid_1 :galois_aut_check (galois_id 1) = true**
 
 ### `Tau.Boundary.galois_id_valid_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L256-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L256-L258)
 **theorem
 Tau.Boundary.galois_id_valid_2 :galois_aut_check (galois_id 2) = true**
 
@@ -613,7 +613,7 @@ Tau.Boundary.galois_id_valid_2 :galois_aut_check (galois_id 2) = true**
 
 ### `Tau.Boundary.galois_id_valid_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Galois.lean#L260-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Galois.lean#L260-L262)
 **theorem
 Tau.Boundary.galois_id_valid_3 :galois_aut_check (galois_id 3) = true**
 

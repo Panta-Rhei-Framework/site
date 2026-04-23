@@ -77,7 +77,7 @@ question at E0/E1 level. At E3, the self-model absorbs the paradox.
 
 ### `Tau.BookIII.Mirror.Paradox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L53-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L53-L60)
 **inductive
 Tau.BookIII.Mirror.Paradox :Type**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.instReprParadox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
 **instance
 Tau.BookIII.Mirror.instReprParadox :Repr Paradox**
 
@@ -106,7 +106,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instReprParadox.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
 **def
 Tau.BookIII.Mirror.instReprParadox.repr :Paradox → ℕ → Std.Format**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.instDecidableEqParadox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
 **instance
 Tau.BookIII.Mirror.instDecidableEqParadox :DecidableEq Paradox**
 
@@ -129,7 +129,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instBEqParadox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
 **instance
 Tau.BookIII.Mirror.instBEqParadox :BEq Paradox**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instBEqParadox.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L60-L60)
 **def
 Tau.BookIII.Mirror.instBEqParadox.beq :Paradox → Paradox → Bool**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.Paradox.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L62-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L62-L67)
 **def
 Tau.BookIII.Mirror.Paradox.toNat :Paradox → ℕ**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.Paradox.level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L69-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L69-L75)
 **def
 Tau.BookIII.Mirror.Paradox.level :Paradox → Enrichment.EnrLevel**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.Paradox.resolution_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L77-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L77-L83)
 **def
 Tau.BookIII.Mirror.Paradox.resolution_level :Paradox → Enrichment.EnrLevel**
 
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.Paradox.forbidden_move_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L85-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L85-L93)
 **def
 Tau.BookIII.Mirror.Paradox.forbidden_move_idx :Paradox → ℕ**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.all_paradoxes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L95-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L95-L97)
 **def
 Tau.BookIII.Mirror.all_paradoxes :List Paradox**
 
@@ -245,7 +245,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Mirror.proof_theory_e3_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L109-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L109-L140)
 **def
 Tau.BookIII.Mirror.proof_theory_e3_check
 (bound db : Denotation.TauIdx)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.proof_theory_e3_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L118-L139)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L118-L139)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.proof_theory_e3_check.go
@@ -289,7 +289,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Mirror.self_model_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L152-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L152-L176)
 **def
 Tau.BookIII.Mirror.self_model_check
 (bound db : Denotation.TauIdx)
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L161-L175)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L161-L175)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.self_model_check.go
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_invariant_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L178-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L178-L199)
 **def
 Tau.BookIII.Mirror.self_model_invariant_check
 (bound db : Denotation.TauIdx)
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_invariant_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L183-L198)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L183-L198)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.self_model_invariant_check.go
@@ -367,7 +367,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Mirror.paradox_single_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L211-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L211-L226)
 **def
 Tau.BookIII.Mirror.paradox_single_check
 (p : Paradox)
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.four_paradox_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L228-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L228-L240)
 **def
 Tau.BookIII.Mirror.four_paradox_check
 (bound db : Denotation.TauIdx)
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.forbidden_moves_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L242-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L242-L251)
 **def
 Tau.BookIII.Mirror.forbidden_moves_distinct :Bool**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.forbidden_moves_distinct.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L248-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L248-L251)
 **def
 Tau.BookIII.Mirror.forbidden_moves_distinct.go
 (xs : List ℕ)
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.paradox_resolution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L257-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L257-L277)
 **def
 Tau.BookIII.Mirror.paradox_resolution_check
 (bound db : Denotation.TauIdx)
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.proof_theory_e3_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L317-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L317-L318)
 **theorem
 Tau.BookIII.Mirror.proof_theory_e3_8_3 :proof_theory_e3_check 8 3 = true**
 
@@ -479,7 +479,7 @@ Tau.BookIII.Mirror.proof_theory_e3_8_3 :proof_theory_e3_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.self_model_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L321-L322)
 **theorem
 Tau.BookIII.Mirror.self_model_8_3 :self_model_check 8 3 = true**
 
@@ -488,7 +488,7 @@ Tau.BookIII.Mirror.self_model_8_3 :self_model_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.self_model_inv_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L325-L326)
 **theorem
 Tau.BookIII.Mirror.self_model_inv_8_3 :self_model_invariant_check 8 3 = true**
 
@@ -497,7 +497,7 @@ Tau.BookIII.Mirror.self_model_inv_8_3 :self_model_invariant_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.four_paradox_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L329-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L329-L330)
 **theorem
 Tau.BookIII.Mirror.four_paradox_8_3 :four_paradox_check 8 3 = true**
 
@@ -506,7 +506,7 @@ Tau.BookIII.Mirror.four_paradox_8_3 :four_paradox_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.forbidden_moves_distinct_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L333-L334)
 **theorem
 Tau.BookIII.Mirror.forbidden_moves_distinct_thm :forbidden_moves_distinct = true**
 
@@ -515,7 +515,7 @@ Tau.BookIII.Mirror.forbidden_moves_distinct_thm :forbidden_moves_distinct = true
 
 ### `Tau.BookIII.Mirror.paradox_resolution_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L337-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L337-L338)
 **theorem
 Tau.BookIII.Mirror.paradox_resolution_8_3 :paradox_resolution_check 8 3 = true**
 
@@ -524,7 +524,7 @@ Tau.BookIII.Mirror.paradox_resolution_8_3 :paradox_resolution_check 8 3 = true**
 
 ### `Tau.BookIII.Mirror.e3_is_proof_theory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L344-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L344-L345)
 **theorem
 Tau.BookIII.Mirror.e3_is_proof_theory :Enrichment.EnrLevel.E3.toNat = 3**
 
@@ -535,7 +535,7 @@ Tau.BookIII.Mirror.e3_is_proof_theory :Enrichment.EnrLevel.E3.toNat = 3**
 
 ### `Tau.BookIII.Mirror.self_model_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L347-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L347-L349)
 **theorem
 Tau.BookIII.Mirror.self_model_levels :Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E3 = true**
 
@@ -546,7 +546,7 @@ Tau.BookIII.Mirror.self_model_levels :Enrichment.EnrLevel.E2.lt Enrichment.EnrLe
 
 ### `Tau.BookIII.Mirror.all_paradoxes_at_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L351-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L351-L353)
 **theorem
 Tau.BookIII.Mirror.all_paradoxes_at_e2 :(all_paradoxes.all fun (p : Paradox) => p.level == Enrichment.EnrLevel.E2) = true**
 
@@ -557,7 +557,7 @@ Tau.BookIII.Mirror.all_paradoxes_at_e2 :(all_paradoxes.all fun (p : Paradox) => 
 
 ### `Tau.BookIII.Mirror.all_paradoxes_resolve_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L355-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L355-L357)
 **theorem
 Tau.BookIII.Mirror.all_paradoxes_resolve_e3 :(all_paradoxes.all fun (p : Paradox) => p.resolution_level == Enrichment.EnrLevel.E3) = true**
 
@@ -568,7 +568,7 @@ Tau.BookIII.Mirror.all_paradoxes_resolve_e3 :(all_paradoxes.all fun (p : Paradox
 
 ### `Tau.BookIII.Mirror.exactly_four_paradoxes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L359-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L359-L360)
 **theorem
 Tau.BookIII.Mirror.exactly_four_paradoxes :all_paradoxes.length = 4**
 
@@ -579,7 +579,7 @@ Tau.BookIII.Mirror.exactly_four_paradoxes :all_paradoxes.length = 4**
 
 ### `Tau.BookIII.Mirror.forbidden_move_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L362-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L362-L364)
 **theorem
 Tau.BookIII.Mirror.forbidden_move_range :List.map Paradox.forbidden_move_idx all_paradoxes = [0, 1, 2, 3]**
 
@@ -590,7 +590,7 @@ Tau.BookIII.Mirror.forbidden_move_range :List.map Paradox.forbidden_move_idx all
 
 ### `Tau.BookIII.Mirror.paradox_move_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L366-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L366-L374)
 **theorem
 Tau.BookIII.Mirror.paradox_move_injective :Paradox.Cantor.forbidden_move_idx ≠ Paradox.Russell.forbidden_move_idx ∧ Paradox.Cantor.forbidden_move_idx ≠ Paradox.Goedel.forbidden_move_idx ∧ Paradox.Cantor.forbidden_move_idx ≠ Paradox.Turing.forbidden_move_idx ∧ Paradox.Russell.forbidden_move_idx ≠ Paradox.Goedel.forbidden_move_idx ∧ Paradox.Russell.forbidden_move_idx ≠ Paradox.Turing.forbidden_move_idx ∧ Paradox.Goedel.forbidden_move_idx ≠ Paradox.Turing.forbidden_move_idx**
 
@@ -601,7 +601,7 @@ Tau.BookIII.Mirror.paradox_move_injective :Paradox.Cantor.forbidden_move_idx ≠
 
 ### `Tau.BookIII.Mirror.paradox_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L376-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/ProofTheoryE3.lean#L376-L378)
 **theorem
 Tau.BookIII.Mirror.paradox_gap :Enrichment.EnrLevel.E2.toNat + 1 = Enrichment.EnrLevel.E3.toNat**
 

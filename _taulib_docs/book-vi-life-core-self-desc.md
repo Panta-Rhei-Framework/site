@@ -53,7 +53,7 @@ Eval_X satisfying completeness, internality, and refinement coherence.
 
 ### `Tau.BookVI.SelfDesc.SelfDescPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L23-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L23-L31)
 **structure
 Tau.BookVI.SelfDesc.SelfDescPredicate :Type**
 
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprSelfDescPredicate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L31-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L31-L31)
 **def
 Tau.BookVI.SelfDesc.instReprSelfDescPredicate.repr :SelfDescPredicate → ℕ → Std.Format**
 
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprSelfDescPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L31-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L31-L31)
 **instance
 Tau.BookVI.SelfDesc.instReprSelfDescPredicate :Repr SelfDescPredicate**
 
@@ -95,7 +95,7 @@ Equations
 
 ### `Tau.BookVI.SelfDesc.canonical_selfdesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L33-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L33-L35)
 **def
 Tau.BookVI.SelfDesc.canonical_selfdesc :SelfDescPredicate**
 
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.InternalEvaluator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L37-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L37-L42)
 **structure
 Tau.BookVI.SelfDesc.InternalEvaluator :Type**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprInternalEvaluator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L42-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L42-L42)
 **instance
 Tau.BookVI.SelfDesc.instReprInternalEvaluator :Repr InternalEvaluator**
 
@@ -134,7 +134,7 @@ Equations
 
 ### `Tau.BookVI.SelfDesc.instReprInternalEvaluator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L42-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L42-L42)
 **def
 Tau.BookVI.SelfDesc.instReprInternalEvaluator.repr :InternalEvaluator → ℕ → Std.Format**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.internal_eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L44-L44)
 **def
 Tau.BookVI.SelfDesc.internal_eval :InternalEvaluator**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.code_reconstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L46-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L46-L48)
 **theorem
 Tau.BookVI.SelfDesc.code_reconstruction :internal_eval.no_oracle = true**
 
@@ -169,7 +169,7 @@ Tau.BookVI.SelfDesc.code_reconstruction :internal_eval.no_oracle = true**
 
 ### `Tau.BookVI.SelfDesc.SelfDescClosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L50-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L50-L55)
 **structure
 Tau.BookVI.SelfDesc.SelfDescClosure :Type**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprSelfDescClosure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L55-L55)
 **instance
 Tau.BookVI.SelfDesc.instReprSelfDescClosure :Repr SelfDescClosure**
 
@@ -196,7 +196,7 @@ Equations
 
 ### `Tau.BookVI.SelfDesc.instReprSelfDescClosure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L55-L55)
 **def
 Tau.BookVI.SelfDesc.instReprSelfDescClosure.repr :SelfDescClosure → ℕ → Std.Format**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.closure_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L57-L57)
 **def
 Tau.BookVI.SelfDesc.closure_thm :SelfDescClosure**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.selfdesc_closure_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L59-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L59-L63)
 **theorem
 Tau.BookVI.SelfDesc.selfdesc_closure_theorem :closure_thm.basin_correction = true ∧ closure_thm.code_integrity = true ∧ closure_thm.closure_under_eval = true**
 
@@ -229,7 +229,7 @@ Tau.BookVI.SelfDesc.selfdesc_closure_theorem :closure_thm.basin_correction = tru
 
 ### `Tau.BookVI.SelfDesc.SevenHallmarksComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L65-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L65-L72)
 **structure
 Tau.BookVI.SelfDesc.SevenHallmarksComplete :Type**
 
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprSevenHallmarksComplete.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L72-L72)
 **def
 Tau.BookVI.SelfDesc.instReprSevenHallmarksComplete.repr :SevenHallmarksComplete → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.instReprSevenHallmarksComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L72-L72)
 **instance
 Tau.BookVI.SelfDesc.instReprSevenHallmarksComplete :Repr SevenHallmarksComplete**
 
@@ -270,7 +270,7 @@ Equations
 
 ### `Tau.BookVI.SelfDesc.seven_hallmarks`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L74-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L74-L78)
 **def
 Tau.BookVI.SelfDesc.seven_hallmarks :SevenHallmarksComplete**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookVI.SelfDesc.seven_hallmarks_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L80-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L80-L84)
 **theorem
 Tau.BookVI.SelfDesc.seven_hallmarks_complete :seven_hallmarks.hallmark_count = 7 ∧ seven_hallmarks.formal_count = 7 ∧ seven_hallmarks.is_bijection = true**
 
@@ -291,7 +291,7 @@ Tau.BookVI.SelfDesc.seven_hallmarks_complete :seven_hallmarks.hallmark_count = 7
 
 ### `Tau.BookVI.SelfDesc.life_requires_both`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/SelfDesc.lean#L86-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/SelfDesc.lean#L86-L90)
 **theorem
 Tau.BookVI.SelfDesc.life_requires_both :canonical_selfdesc.condition_count = 3 ∧ Distinction.canonical_distinction.condition_count = 5**
 

@@ -115,7 +115,7 @@ metrological conventions of the International System of Units.
 
 ### `Tau.BookIV.Physics.MeasurementProcedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L62-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L62-L85)
 **structure
 Tau.BookIV.Physics.MeasurementProcedure :Type**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprMeasurementProcedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L85-L85)
 **instance
 Tau.BookIV.Physics.instReprMeasurementProcedure :Repr MeasurementProcedure**
 
@@ -171,7 +171,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprMeasurementProcedure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L85-L85)
 **def
 Tau.BookIV.Physics.instReprMeasurementProcedure.repr :MeasurementProcedure → ℕ → Std.Format**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.ReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L91-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L91-L114)
 **structure
 Tau.BookIV.Physics.ReadoutFunctor :Type**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L114-L114)
 **instance
 Tau.BookIV.Physics.instReprReadoutFunctor :Repr ReadoutFunctor**
 
@@ -240,7 +240,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprReadoutFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L114-L114)
 **def
 Tau.BookIV.Physics.instReprReadoutFunctor.repr :ReadoutFunctor → ℕ → Std.Format**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L116-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L116-L123)
 **def
 Tau.BookIV.Physics.readout :ReadoutFunctor**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.ReadoutAnchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L129-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L129-L148)
 **structure
 Tau.BookIV.Physics.ReadoutAnchor :Type**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprReadoutAnchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L148-L148)
 **instance
 Tau.BookIV.Physics.instReprReadoutAnchor :Repr ReadoutAnchor**
 
@@ -317,7 +317,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprReadoutAnchor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L148-L148)
 **def
 Tau.BookIV.Physics.instReprReadoutAnchor.repr :ReadoutAnchor → ℕ → Std.Format**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.neutron_procedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L150-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L150-L157)
 **def
 Tau.BookIV.Physics.neutron_procedure :MeasurementProcedure**
 
@@ -343,7 +343,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.readout_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L159-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L159-L165)
 **def
 Tau.BookIV.Physics.readout_anchor :ReadoutAnchor**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.electron_procedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L171-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L171-L178)
 **def
 Tau.BookIV.Physics.electron_procedure :MeasurementProcedure**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.alpha_procedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L180-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L180-L187)
 **def
 Tau.BookIV.Physics.alpha_procedure :MeasurementProcedure**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.gravity_procedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L189-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L189-L196)
 **def
 Tau.BookIV.Physics.gravity_procedure :MeasurementProcedure**
 
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.speed_of_light_procedure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L198-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L198-L205)
 **def
 Tau.BookIV.Physics.speed_of_light_procedure :MeasurementProcedure**
 
@@ -413,7 +413,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_procedures`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L207-L210)
 **def
 Tau.BookIV.Physics.all_procedures :List MeasurementProcedure**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.readout_preserves_identities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L216-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L216-L220)
 **theorem
 Tau.BookIV.Physics.readout_preserves_identities :readout.preserves_identities = true**
 
@@ -440,7 +440,7 @@ their R_μ images yield equal SI numbers.
 
 ### `Tau.BookIV.Physics.single_anchor_sufficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L222-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L222-L226)
 **theorem
 Tau.BookIV.Physics.single_anchor_sufficiency :readout.num_anchors = 1 ∧ readout.num_exact_si = 4**
 
@@ -452,7 +452,7 @@ exactly 1 empirical input (m_n) and 4 exact SI constants.
 
 ### `Tau.BookIV.Physics.codomain_operational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L228-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L228-L235)
 **theorem
 Tau.BookIV.Physics.codomain_operational :neutron_procedure.protocol ≠ "" ∧ electron_procedure.protocol ≠ "" ∧ alpha_procedure.protocol ≠ "" ∧ gravity_procedure.protocol ≠ ""**
 
@@ -464,7 +464,7 @@ procedure specifies a protocol, not just a number.
 
 ### `Tau.BookIV.Physics.unique_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L237-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L237-L241)
 **theorem
 Tau.BookIV.Physics.unique_anchor :(List.filter (fun (x : MeasurementProcedure) => x.is_anchor) all_procedures).length = 1**
 
@@ -475,7 +475,7 @@ Exactly one procedure is the anchor.
 
 ### `Tau.BookIV.Physics.anchor_is_neutron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/ReadoutFunctor.lean#L243-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/ReadoutFunctor.lean#L243-L245)
 **theorem
 Tau.BookIV.Physics.anchor_is_neutron :readout_anchor.anchor.name = "Neutron mass m_n"**
 

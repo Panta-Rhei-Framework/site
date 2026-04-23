@@ -52,7 +52,7 @@ Hom(A × B, C) ≅ Hom(A, C^B).
 
 ### `Tau.Topos.internal_hom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L32-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L32-L35)
 **def
 Tau.Topos.internal_hom
 (P Q : Presheaf)
@@ -69,7 +69,7 @@ Instances For
 
 ### `Tau.Topos.ihom_both_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L37-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L37-L41)
 **theorem
 Tau.Topos.ihom_both_true
 (P Q : Presheaf)
@@ -88,7 +88,7 @@ Internal hom evaluates correctly when P holds and Q holds.
 
 ### `Tau.Topos.ihom_p_false`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L43-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L43-L47)
 **theorem
 Tau.Topos.ihom_p_false
 (P Q : Presheaf)
@@ -105,7 +105,7 @@ Internal hom evaluates correctly when P fails.
 
 ### `Tau.Topos.ihom_p_true_q_false`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L49-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L49-L53)
 **theorem
 Tau.Topos.ihom_p_true_q_false
 (P Q : Presheaf)
@@ -124,7 +124,7 @@ Internal hom evaluates correctly when P holds but Q fails.
 
 ### `Tau.Topos.cartesian_closed_adj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L59-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L59-L73)
 **theorem
 Tau.Topos.cartesian_closed_adj
 (A B C : Presheaf)
@@ -144,7 +144,7 @@ This is the pointwise version of Hom(A × B, C) ≅ Hom(A, C^B).
 
 ### `Tau.Topos.eval_morphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L75-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L75-L80)
 **theorem
 Tau.Topos.eval_morphism
 (P Q : Presheaf)
@@ -159,7 +159,7 @@ Evaluation morphism: (Q^P × P) → Q.
 
 ### `Tau.Topos.self_enrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L86-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L86-L91)
 **theorem
 Tau.Topos.self_enrichment
 (P Q : Presheaf)
@@ -174,7 +174,7 @@ Witness: internal_hom P Q is itself a Presheaf.
 
 ### `Tau.Topos.ihom_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L93-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L93-L96)
 **theorem
 Tau.Topos.ihom_terminal
 (Q : Presheaf)
@@ -187,7 +187,7 @@ Internal hom with terminal: Q^1 = Q (everything implies Q iff Q).
 
 ### `Tau.Topos.ihom_initial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L98-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L98-L101)
 **theorem
 Tau.Topos.ihom_initial
 (Q : Presheaf)
@@ -200,7 +200,7 @@ Internal hom from initial: Q^0 = 1 (false implies anything).
 
 ### `Tau.Topos.ihom_to_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/InternalHom.lean#L103-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/InternalHom.lean#L103-L106)
 **theorem
 Tau.Topos.ihom_to_terminal
 (P : Presheaf)

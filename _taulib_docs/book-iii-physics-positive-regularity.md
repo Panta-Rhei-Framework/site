@@ -62,7 +62,7 @@ functional is zero at all levels from some k₀ onward.
 
 ### `Tau.BookIII.Physics.clopen_locality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L44-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L44-L69)
 **def
 Tau.BookIII.Physics.clopen_locality_check
 (bound db : Denotation.TauIdx)
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.clopen_locality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L50-L68)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L50-L68)@[irreducible]
 
 **def
 Tau.BookIII.Physics.clopen_locality_check.go
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.tower_determinacy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L71-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L71-L88)
 **def
 Tau.BookIII.Physics.tower_determinacy_check
 (bound db : Denotation.TauIdx)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.tower_determinacy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L76-L87)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L76-L87)@[irreducible]
 
 **def
 Tau.BookIII.Physics.tower_determinacy_check.go
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.positive_regularity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L90-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L90-L100)
 **def
 Tau.BookIII.Physics.positive_regularity_check
 (bound db : Denotation.TauIdx)
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.stabilized_germ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L106-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L106-L111)
 **def
 Tau.BookIII.Physics.stabilized_germ
 (x db : Denotation.TauIdx)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.stabilized_germ_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L113-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L113-L136)
 **def
 Tau.BookIII.Physics.stabilized_germ_check
 (bound db : Denotation.TauIdx)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.stabilized_germ_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L118-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L118-L135)@[irreducible]
 
 **def
 Tau.BookIII.Physics.stabilized_germ_check.go
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_contractivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L142-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L142-L159)
 **def
 Tau.BookIII.Physics.defect_contractivity_check
 (db : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.defect_contractivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L148-L158)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L148-L158)@[irreducible]
 
 **def
 Tau.BookIII.Physics.defect_contractivity_check.go
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.is_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L165-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L165-L168)
 **def
 Tau.BookIII.Physics.is_stable
 (k : Denotation.TauIdx)
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.stability_criterion_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L170-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L170-L179)
 **def
 Tau.BookIII.Physics.stability_criterion_check
 (db : Denotation.TauIdx)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.stability_criterion_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L174-L178)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L174-L178)@[irreducible]
 
 **def
 Tau.BookIII.Physics.stability_criterion_check.go
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.clopen_locality_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L196-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L196-L197)
 **theorem
 Tau.BookIII.Physics.clopen_locality_15_4 :clopen_locality_check 15 4 = true**
 
@@ -294,7 +294,7 @@ Tau.BookIII.Physics.clopen_locality_15_4 :clopen_locality_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.tower_determinacy_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L199-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L199-L200)
 **theorem
 Tau.BookIII.Physics.tower_determinacy_15_4 :tower_determinacy_check 15 4 = true**
 
@@ -303,7 +303,7 @@ Tau.BookIII.Physics.tower_determinacy_15_4 :tower_determinacy_check 15 4 = true*
 
 ### `Tau.BookIII.Physics.positive_regularity_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L202-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L202-L203)
 **theorem
 Tau.BookIII.Physics.positive_regularity_15_4 :positive_regularity_check 15 4 = true**
 
@@ -312,7 +312,7 @@ Tau.BookIII.Physics.positive_regularity_15_4 :positive_regularity_check 15 4 = t
 
 ### `Tau.BookIII.Physics.stabilized_germ_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L205-L206)
 **theorem
 Tau.BookIII.Physics.stabilized_germ_15_4 :stabilized_germ_check 15 4 = true**
 
@@ -321,7 +321,7 @@ Tau.BookIII.Physics.stabilized_germ_15_4 :stabilized_germ_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.defect_contractivity_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L208-L209)
 **theorem
 Tau.BookIII.Physics.defect_contractivity_5 :defect_contractivity_check 5 = true**
 
@@ -330,7 +330,7 @@ Tau.BookIII.Physics.defect_contractivity_5 :defect_contractivity_check 5 = true*
 
 ### `Tau.BookIII.Physics.stability_criterion_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L211-L212)
 **theorem
 Tau.BookIII.Physics.stability_criterion_5 :stability_criterion_check 5 = true**
 
@@ -339,7 +339,7 @@ Tau.BookIII.Physics.stability_criterion_5 :stability_criterion_check 5 = true**
 
 ### `Tau.BookIII.Physics.pos_reg_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L218-L220)
 **theorem
 Tau.BookIII.Physics.pos_reg_10_1 :positive_regularity_check 10 1 = true**
 
@@ -350,7 +350,7 @@ Tau.BookIII.Physics.pos_reg_10_1 :positive_regularity_check 10 1 = true**
 
 ### `Tau.BookIII.Physics.stab_germ_0_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L222-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L222-L224)
 **theorem
 Tau.BookIII.Physics.stab_germ_0_3 :stabilized_germ 0 3 = { b_part := 0, c_part := 0, x_part := 0, depth := 3 }**
 
@@ -361,7 +361,7 @@ Tau.BookIII.Physics.stab_germ_0_3 :stabilized_germ 0 3 = { b_part := 0, c_part :
 
 ### `Tau.BookIII.Physics.defect_1_is_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L226-L228)
 **theorem
 Tau.BookIII.Physics.defect_1_is_zero :defect_functional 1 = 0**
 
@@ -372,7 +372,7 @@ Tau.BookIII.Physics.defect_1_is_zero :defect_functional 1 = 0**
 
 ### `Tau.BookIII.Physics.stable_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PositiveRegularity.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PositiveRegularity.lean#L230-L232)
 **theorem
 Tau.BookIII.Physics.stable_at_3 :is_stable 3 = true**
 

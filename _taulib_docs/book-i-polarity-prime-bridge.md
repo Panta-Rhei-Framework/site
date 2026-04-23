@@ -46,7 +46,7 @@ formal proof chain.
 
 ### `Tau.Polarity.no_factor_below_true_imp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PrimeBridge.lean#L66-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PrimeBridge.lean#L66-L70)
 **theorem
 Tau.Polarity.no_factor_below_true_imp
 (n d : Denotation.TauIdx)
@@ -67,7 +67,7 @@ If no_factor_below n d = true, then no k in [d, √n] divides n.
 
 ### `Tau.Polarity.no_factor_below_of_spec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PrimeBridge.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PrimeBridge.lean#L104-L108)
 **theorem
 Tau.Polarity.no_factor_below_of_spec
 (n d : Denotation.TauIdx)
@@ -86,7 +86,7 @@ If no k in [d, √n] divides n, then no_factor_below n d = true.
 
 ### `Tau.Polarity.is_prime_of_bool`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PrimeBridge.lean#L114-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PrimeBridge.lean#L114-L159)
 **theorem
 Tau.Polarity.is_prime_of_bool
 (p : Denotation.TauIdx)
@@ -101,7 +101,7 @@ Forward: is_prime_bool p = true → idx_prime p.
 
 ### `Tau.Polarity.bool_of_is_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PrimeBridge.lean#L165-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PrimeBridge.lean#L165-L179)
 **theorem
 Tau.Polarity.bool_of_is_prime
 (p : Denotation.TauIdx)
@@ -116,7 +116,7 @@ Backward: idx_prime p → is_prime_bool p = true.
 
 ### `Tau.Polarity.is_prime_bool_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/PrimeBridge.lean#L185-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/PrimeBridge.lean#L185-L187)
 **theorem
 Tau.Polarity.is_prime_bool_iff
 (p : Denotation.TauIdx)

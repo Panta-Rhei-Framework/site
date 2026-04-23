@@ -119,7 +119,7 @@ This perturbative hierarchy is the hallmark of a well-controlled expansion.
 
 ### `Tau.BookIV.Physics.TripleHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L73-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L73-L88)
 **structure
 Tau.BookIV.Physics.TripleHolonomy :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprTripleHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instReprTripleHolonomy :Repr TripleHolonomy**
 
@@ -161,7 +161,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprTripleHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instReprTripleHolonomy.repr :TripleHolonomy → ℕ → Std.Format**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.triple_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L90-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L90-L96)
 **def
 Tau.BookIV.Physics.triple_holonomy :TripleHolonomy**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.three_circles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L98-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L98-L99)
 **theorem
 Tau.BookIV.Physics.three_circles :triple_holonomy.circle_count = 3**
 
@@ -198,7 +198,7 @@ There are exactly 3 holonomy circles.
 
 ### `Tau.BookIV.Physics.pi_cubed_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L101-L102)
 **theorem
 Tau.BookIV.Physics.pi_cubed_exponent :triple_holonomy.pi_exponent = 3**
 
@@ -209,7 +209,7 @@ The π exponent is 3.
 
 ### `Tau.BookIV.Physics.pi_cubed_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L108-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L108-L113)
 **def
 Tau.BookIV.Physics.pi_cubed_numer :ℕ**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.pi_cubed_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L114-L114)
 **def
 Tau.BookIV.Physics.pi_cubed_denom :ℕ**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.pi_cubed_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L116-L118)
 **theorem
 Tau.BookIV.Physics.pi_cubed_denom_pos :pi_cubed_denom > 0**
 
@@ -250,7 +250,7 @@ Tau.BookIV.Physics.pi_cubed_denom_pos :pi_cubed_denom > 0**
 
 ### `Tau.BookIV.Physics.pi_cubed_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L120-L122)
 **def
 Tau.BookIV.Physics.pi_cubed_float :Float**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.pi_cubed_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L124-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L124-L128)
 **theorem
 Tau.BookIV.Physics.pi_cubed_in_range :310 * pi_cubed_denom < 10 * pi_cubed_numer ∧ 10 * pi_cubed_numer < 311 * pi_cubed_denom**
 
@@ -275,7 +275,7 @@ Tau.BookIV.Physics.pi_cubed_in_range :310 * pi_cubed_denom < 10 * pi_cubed_numer
 
 ### `Tau.BookIV.Physics.alpha_sq_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L134-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L134-L142)
 **def
 Tau.BookIV.Physics.alpha_sq_numer :ℕ**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.alpha_sq_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L144-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L144-L145)
 **def
 Tau.BookIV.Physics.alpha_sq_denom :ℕ**
 
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.alpha_sq_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L147-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L147-L149)
 **theorem
 Tau.BookIV.Physics.alpha_sq_denom_pos :alpha_sq_denom > 0**
 
@@ -318,7 +318,7 @@ Tau.BookIV.Physics.alpha_sq_denom_pos :alpha_sq_denom > 0**
 
 ### `Tau.BookIV.Physics.HolonomyCorrectionData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L155-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L155-L170)
 **structure
 Tau.BookIV.Physics.HolonomyCorrectionData :Type**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprHolonomyCorrectionData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L170-L170)
 **def
 Tau.BookIV.Physics.instReprHolonomyCorrectionData.repr :HolonomyCorrectionData → ℕ → Std.Format**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprHolonomyCorrectionData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L170-L170)
 **instance
 Tau.BookIV.Physics.instReprHolonomyCorrectionData :Repr HolonomyCorrectionData**
 
@@ -371,7 +371,7 @@ Equations
 
 ### `Tau.BookIV.Physics.holonomy_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L172-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L172-L176)
 **def
 Tau.BookIV.Physics.holonomy_correction :HolonomyCorrectionData**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.correction_lt_2_per_mille`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L182-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L182-L193)
 **theorem
 Tau.BookIV.Physics.correction_lt_2_per_mille :holonomy_correction.numer * 1000 < 2 * holonomy_correction.denom**
 
@@ -401,7 +401,7 @@ Cross-multiplied: numer × 1000 < 2 × denom.
 
 ### `Tau.BookIV.Physics.correction_gt_1_per_mille`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L195-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L195-L201)
 **theorem
 Tau.BookIV.Physics.correction_gt_1_per_mille :holonomy_correction.numer * 1000 > holonomy_correction.denom**
 
@@ -412,7 +412,7 @@ Tau.BookIV.Physics.correction_gt_1_per_mille :holonomy_correction.numer * 1000 >
 
 ### `Tau.BookIV.Physics.perturbative_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L207-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L207-L222)
 **theorem
 Tau.BookIV.Physics.perturbative_hierarchy :pi_cubed_numer * alpha_sq_numer * 1000 * 10000000 < 17320508 * pi_cubed_denom * alpha_sq_denom**
 
@@ -426,7 +426,7 @@ The holonomy correction is 1000× smaller than the lemniscate correction.
 
 ### `Tau.BookIV.Physics.ChargConjugation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L228-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L228-L246)
 **structure
 Tau.BookIV.Physics.ChargConjugation :Type**
 
@@ -458,7 +458,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprChargConjugation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L246-L246)
 **instance
 Tau.BookIV.Physics.instReprChargConjugation :Repr ChargConjugation**
 
@@ -469,7 +469,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprChargConjugation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L246-L246)
 **def
 Tau.BookIV.Physics.instReprChargConjugation.repr :ChargConjugation → ℕ → Std.Format**
 
@@ -481,7 +481,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.holonomy_from_top_cohomology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L252-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L252-L269)
 **theorem
 Tau.BookIV.Physics.holonomy_from_top_cohomology :triple_holonomy.circle_count = 3 ∧ triple_holonomy.pi_exponent = 3 ∧ triple_holonomy.components.length = 3**
 
@@ -500,7 +500,7 @@ This upgrades [IV.D44] from heuristic to cohomological derivation.
 
 ### `Tau.BookIV.Physics.charge_conjugation_kills_odd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L271-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L271-L283)
 **theorem
 Tau.BookIV.Physics.charge_conjugation_kills_odd :2 % 2 = 0 ∧ 1 % 2 = 1**
 
@@ -518,7 +518,7 @@ Leading correction: k=2, giving α².
 
 ### `Tau.BookIV.Physics.correction_coefficient_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L285-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L285-L298)
 **theorem
 Tau.BookIV.Physics.correction_coefficient_unique :-7 + 5 * 1 = -2 ∧ 2 * 1 = 2**
 
@@ -542,7 +542,7 @@ No other topological invariant of τ³ at this order matches the
 
 ### `Tau.BookIV.Physics.s4_from_weight_and_dimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L304-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L304-L318)
 **theorem
 Tau.BookIV.Physics.s4_from_weight_and_dimension :2 * 2 = 4 ∧ 3 + 1 = 4**
 
@@ -562,7 +562,7 @@ is then forced, not fitted.
 
 ### `Tau.BookIV.Physics.s4_uniqueness_from_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/HolonomyCorrection.lean#L320-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/HolonomyCorrection.lean#L320-L328)
 **theorem
 Tau.BookIV.Physics.s4_uniqueness_from_exponent
 (s : ℕ)

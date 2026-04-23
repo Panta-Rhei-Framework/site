@@ -122,7 +122,7 @@ blow-up.
 
 ### `Tau.BookV.FluidMacro.TauTurbulentFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L72-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L72-L90)
 **structure
 Tau.BookV.FluidMacro.TauTurbulentFlow :Type**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauTurbulentFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L90-L90)
 **instance
 Tau.BookV.FluidMacro.instReprTauTurbulentFlow :Repr TauTurbulentFlow**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprTauTurbulentFlow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L90-L90)
 **def
 Tau.BookV.FluidMacro.instReprTauTurbulentFlow.repr :TauTurbulentFlow → ℕ → Std.Format**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauTurbulentFlow.inertialWidth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L92-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L92-L94)
 **def
 Tau.BookV.FluidMacro.TauTurbulentFlow.inertialWidth
 (t : TauTurbulentFlow)
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.KolmogorovExponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L100-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L100-L108)
 **structure
 Tau.BookV.FluidMacro.KolmogorovExponent :Type**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovExponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L108-L108)
 **instance
 Tau.BookV.FluidMacro.instReprKolmogorovExponent :Repr KolmogorovExponent**
 
@@ -229,7 +229,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovExponent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L108-L108)
 **def
 Tau.BookV.FluidMacro.instReprKolmogorovExponent.repr :KolmogorovExponent → ℕ → Std.Format**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.kolmogorov_53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L110-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L110-L114)
 **def
 Tau.BookV.FluidMacro.kolmogorov_53 :KolmogorovExponent**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.macro_energy_spectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L116-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L116-L122)
 **theorem
 Tau.BookV.FluidMacro.macro_energy_spectrum :"E(k) = C_K * epsilon^(2/3) * k^(-5/3) in inertial range" = "E(k) = C_K * epsilon^(2/3) * k^(-5/3) in inertial range"**
 
@@ -269,7 +269,7 @@ Structural recording: the exponent is 5/3, matching K41.
 
 ### `Tau.BookV.FluidMacro.kolmogorov_exponent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L124-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L124-L127)
 **theorem
 Tau.BookV.FluidMacro.kolmogorov_exponent_check :kolmogorov_53.numer * 3 = 5 * kolmogorov_53.denom**
 
@@ -280,7 +280,7 @@ The Kolmogorov exponent is 5/3 (verified).
 
 ### `Tau.BookV.FluidMacro.KolmogorovConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L133-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L133-L142)
 **structure
 Tau.BookV.FluidMacro.KolmogorovConstant :Type**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L142-L142)
 **def
 Tau.BookV.FluidMacro.instReprKolmogorovConstant.repr :KolmogorovConstant → ℕ → Std.Format**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L142-L142)
 **instance
 Tau.BookV.FluidMacro.instReprKolmogorovConstant :Repr KolmogorovConstant**
 
@@ -325,7 +325,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.kolmogorov_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L144-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L144-L147)
 **def
 Tau.BookV.FluidMacro.kolmogorov_constant :KolmogorovConstant**
 
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauEnstrophy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L153-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L153-L162)
 **structure
 Tau.BookV.FluidMacro.TauEnstrophy :Type**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauEnstrophy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **def
 Tau.BookV.FluidMacro.instReprTauEnstrophy.repr :TauEnstrophy → ℕ → Std.Format**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauEnstrophy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **instance
 Tau.BookV.FluidMacro.instReprTauEnstrophy :Repr TauEnstrophy**
 
@@ -384,7 +384,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqTauEnstrophy.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **def
 Tau.BookV.FluidMacro.instDecidableEqTauEnstrophy.decEq
 (x✝ x✝¹ : TauEnstrophy)
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqTauEnstrophy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqTauEnstrophy :DecidableEq TauEnstrophy**
 
@@ -409,7 +409,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqTauEnstrophy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **instance
 Tau.BookV.FluidMacro.instBEqTauEnstrophy :BEq TauEnstrophy**
 
@@ -420,7 +420,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqTauEnstrophy.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L162-L162)
 **def
 Tau.BookV.FluidMacro.instBEqTauEnstrophy.beq :TauEnstrophy → TauEnstrophy → Bool**
 
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauEnstrophy.fromTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L164-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L164-L167)
 **def
 Tau.BookV.FluidMacro.TauEnstrophy.fromTransport
 (d : MacroDefectTransport)
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.CascadeDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L173-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L173-L179)
 **inductive
 Tau.BookV.FluidMacro.CascadeDirection :Type**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCascadeDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
 **instance
 Tau.BookV.FluidMacro.instReprCascadeDirection :Repr CascadeDirection**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprCascadeDirection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
 **def
 Tau.BookV.FluidMacro.instReprCascadeDirection.repr :CascadeDirection → ℕ → Std.Format**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqCascadeDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqCascadeDirection :DecidableEq CascadeDirection**
 
@@ -503,7 +503,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqCascadeDirection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
 **instance
 Tau.BookV.FluidMacro.instBEqCascadeDirection :BEq CascadeDirection**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqCascadeDirection.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L179-L179)
 **def
 Tau.BookV.FluidMacro.instBEqCascadeDirection.beq :CascadeDirection → CascadeDirection → Bool**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.DualCascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L181-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L181-L192)
 **structure
 Tau.BookV.FluidMacro.DualCascade :Type**
 
@@ -555,7 +555,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDualCascade.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L192-L192)
 **def
 Tau.BookV.FluidMacro.instReprDualCascade.repr :DualCascade → ℕ → Std.Format**
 
@@ -567,7 +567,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDualCascade`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L192-L192)
 **instance
 Tau.BookV.FluidMacro.instReprDualCascade :Repr DualCascade**
 
@@ -578,7 +578,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.dual_cascade_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L194-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L194-L201)
 **theorem
 Tau.BookV.FluidMacro.dual_cascade_decomposition
 (dc : DualCascade)
@@ -595,7 +595,7 @@ The two cascades have opposite directions.
 
 ### `Tau.BookV.FluidMacro.BatchelorKraichnanSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L207-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L207-L217)
 **structure
 Tau.BookV.FluidMacro.BatchelorKraichnanSpectrum :Type**
 
@@ -618,7 +618,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprBatchelorKraichnanSpectrum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L217-L217)
 **def
 Tau.BookV.FluidMacro.instReprBatchelorKraichnanSpectrum.repr :BatchelorKraichnanSpectrum → ℕ → Std.Format**
 
@@ -630,7 +630,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprBatchelorKraichnanSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L217-L217)
 **instance
 Tau.BookV.FluidMacro.instReprBatchelorKraichnanSpectrum :Repr BatchelorKraichnanSpectrum**
 
@@ -641,7 +641,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.batchelor_kraichnan`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L219-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L219-L224)
 **def
 Tau.BookV.FluidMacro.batchelor_kraichnan :BatchelorKraichnanSpectrum**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.vortex_stretching_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L230-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L230-L237)
 **theorem
 Tau.BookV.FluidMacro.vortex_stretching_bound
 (d : MacroDefectTransport)
@@ -676,7 +676,7 @@ Compactness prevents blow-up.
 
 ### `Tau.BookV.FluidMacro.FiberCodimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L243-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L243-L257)
 **structure
 Tau.BookV.FluidMacro.FiberCodimension :Type**
 
@@ -705,7 +705,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFiberCodimension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L257-L257)
 **def
 Tau.BookV.FluidMacro.instReprFiberCodimension.repr :FiberCodimension → ℕ → Std.Format**
 
@@ -717,7 +717,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprFiberCodimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L257-L257)
 **instance
 Tau.BookV.FluidMacro.instReprFiberCodimension :Repr FiberCodimension**
 
@@ -728,7 +728,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.fiber_codimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L259-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L259-L260)
 **def
 Tau.BookV.FluidMacro.fiber_codimension :FiberCodimension**
 
@@ -742,7 +742,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.SheLevequeDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L266-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L266-L299)
 **structure
 Tau.BookV.FluidMacro.SheLevequeDecomposition :Type**
 
@@ -802,7 +802,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprSheLevequeDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L299-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L299-L299)
 **instance
 Tau.BookV.FluidMacro.instReprSheLevequeDecomposition :Repr SheLevequeDecomposition**
 
@@ -813,7 +813,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprSheLevequeDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L299-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L299-L299)
 **def
 Tau.BookV.FluidMacro.instReprSheLevequeDecomposition.repr :SheLevequeDecomposition → ℕ → Std.Format**
 
@@ -825,7 +825,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.she_leveque_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L301-L302)
 **def
 Tau.BookV.FluidMacro.she_leveque_decomposition :SheLevequeDecomposition**
 
@@ -839,7 +839,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.she_leveque_from_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L308-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L308-L322)
 **theorem
 Tau.BookV.FluidMacro.she_leveque_from_tau
 (d : SheLevequeDecomposition)
@@ -868,7 +868,7 @@ Zero free parameters.
 
 ### `Tau.BookV.FluidMacro.SheLevequeAgreement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L328-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L328-L352)
 **structure
 Tau.BookV.FluidMacro.SheLevequeAgreement :Type**
 
@@ -909,7 +909,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprSheLevequeAgreement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L352-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L352-L352)
 **def
 Tau.BookV.FluidMacro.instReprSheLevequeAgreement.repr :SheLevequeAgreement → ℕ → Std.Format**
 
@@ -921,7 +921,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprSheLevequeAgreement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L352-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L352-L352)
 **instance
 Tau.BookV.FluidMacro.instReprSheLevequeAgreement :Repr SheLevequeAgreement**
 
@@ -932,7 +932,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.she_leveque_agreement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L354-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L354-L355)
 **def
 Tau.BookV.FluidMacro.she_leveque_agreement :SheLevequeAgreement**
 
@@ -946,7 +946,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.zeta_p_experimental_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L361-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L361-L367)
 **theorem
 Tau.BookV.FluidMacro.zeta_p_experimental_consistency
 (a : SheLevequeAgreement)
@@ -963,7 +963,7 @@ Benzi et al. 1993) to < 1% for all integer p from 1 to 12.
 
 ### `Tau.BookV.FluidMacro.KolmogorovDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L373-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L373-L396)
 **structure
 Tau.BookV.FluidMacro.KolmogorovDecomposition :Type**
 
@@ -1005,7 +1005,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L396-L396)
 **instance
 Tau.BookV.FluidMacro.instReprKolmogorovDecomposition :Repr KolmogorovDecomposition**
 
@@ -1016,7 +1016,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L396-L396)
 **def
 Tau.BookV.FluidMacro.instReprKolmogorovDecomposition.repr :KolmogorovDecomposition → ℕ → Std.Format**
 
@@ -1028,7 +1028,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.kolmogorov_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L398-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L398-L399)
 **def
 Tau.BookV.FluidMacro.kolmogorov_decomposition :KolmogorovDecomposition**
 
@@ -1043,7 +1043,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.kolmogorov_53_from_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L405-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L405-L414)
 **theorem
 Tau.BookV.FluidMacro.kolmogorov_53_from_tau :kolmogorov_decomposition.numer = kolmogorov_decomposition.n_gen + kolmogorov_decomposition.fiber_dim ∧ kolmogorov_decomposition.denom = kolmogorov_decomposition.tau3_dim ∧ kolmogorov_decomposition.free_params = 0**
 
@@ -1058,7 +1058,7 @@ through |gen| + dim(T²) = 3 + 2 = 5 channels.
 
 ### `Tau.BookV.FluidMacro.KolmogorovConstantDerived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L420-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L420-L437)
 **structure
 Tau.BookV.FluidMacro.KolmogorovConstantDerived :Type**
 
@@ -1092,7 +1092,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovConstantDerived.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L437-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L437-L437)
 **def
 Tau.BookV.FluidMacro.instReprKolmogorovConstantDerived.repr :KolmogorovConstantDerived → ℕ → Std.Format**
 
@@ -1104,7 +1104,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprKolmogorovConstantDerived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L437-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L437-L437)
 **instance
 Tau.BookV.FluidMacro.instReprKolmogorovConstantDerived :Repr KolmogorovConstantDerived**
 
@@ -1115,7 +1115,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.ck_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L439-L440)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L439-L440)
 **def
 Tau.BookV.FluidMacro.ck_derived :KolmogorovConstantDerived**
 
@@ -1129,7 +1129,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.ck_is_three_halves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L442-L444)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L442-L444)
 **theorem
 Tau.BookV.FluidMacro.ck_is_three_halves :ck_derived.ck_x10 * 2 = 3 * 10**
 
@@ -1140,7 +1140,7 @@ C_K is exactly 3/2 (verified).
 
 ### `Tau.BookV.FluidMacro.ck_observational_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L450-L456)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L450-L456)
 **theorem
 Tau.BookV.FluidMacro.ck_observational_match :ck_derived.deviation_ppm = 0**
 
@@ -1155,7 +1155,7 @@ Deviation: 0.0%.
 
 ### `Tau.BookV.FluidMacro.example_turbulent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L482-L497)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L482-L497)
 **def
 Tau.BookV.FluidMacro.example_turbulent :TauTurbulentFlow**
 
@@ -1169,7 +1169,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_enstrophy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/Turbulence.lean#L502-L503)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/Turbulence.lean#L502-L503)
 **def
 Tau.BookV.FluidMacro.example_enstrophy :TauEnstrophy**
 

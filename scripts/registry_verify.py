@@ -67,12 +67,90 @@ def check_dashboard_prose() -> list[str]:
     return errs
 
 
+def check_release_manifest_sections() -> list[str]:
+    """Release-manifest sections must match the saved checksum baseline.
+
+    The baseline file stores the exact section text and a short checksum for
+    each section. This catches stale or accidentally edited preservation data
+    before a generator relies on it.
+    """
+    errs: list[str] = []
+    if not RELEASE_MANIFEST.exists():
+        return [f"MISSING live: {RELEASE_MANIFEST}"]
+    if not RELEASE_PROSE_FILE.exists():
+        return [f"MISSING baseline: {RELEASE_PROSE_FILE}"]
+
+    try:
+        baseline = parse_yaml_simple(RELEASE_PROSE_FILE.read_text(encoding="utf-8"))
+    except Exception as e:
+        return [f"PARSE ERROR: {RELEASE_PROSE_FILE}: {e}"]
+
+    baseline_sections = baseline.get("sections", {}) or {}
+    baseline_checksums = baseline.get("sha256_checksums", {}) or {}
+    if not baseline_sections:
+        return [f"{RELEASE_PROSE_FILE}: missing sections baseline"]
+    if not baseline_checksums:
+        return [f"{RELEASE_PROSE_FILE}: missing sha256_checksums baseline"]
+
+    live_sections = extract_release_manifest_sections(
+        RELEASE_MANIFEST.read_text(encoding="utf-8")
+    )
+
+    for heading, expected_text in baseline_sections.items():
+        if heading not in live_sections:
+            errs.append(f"RELEASE MANIFEST MISSING SECTION: {heading!r}")
+            continue
+        live_text = live_sections[heading]
+        expected_checksum = baseline_checksums.get(heading)
+        if not expected_checksum:
+            errs.append(f"{RELEASE_PROSE_FILE}: missing checksum for {heading!r}")
+            continue
+        live_checksum = sha256(live_text)
+        if live_checksum != expected_checksum:
+            errs.append(
+                f"RELEASE MANIFEST MISMATCH {heading!r}: "
+                f"live={live_checksum} vs baseline={expected_checksum}"
+            )
+
+    for heading in live_sections:
+        if heading not in baseline_sections and live_sections[heading].strip():
+            errs.append(f"RELEASE MANIFEST NEW UNBASELINED SECTION: {heading!r}")
+
+    return errs
+
+
 def parse_yaml_simple(text: str) -> dict:
     """Minimal YAML parser for filter_rules.yml — we support only the
     idioms we actually use: scalar keys, nested mappings, block scalars (|).
     Avoids a PyYAML dependency for portability."""
     import yaml  # PyYAML ships with most python installs; Jekyll requires it.
     return yaml.safe_load(text)
+
+
+def extract_release_manifest_sections(text: str) -> dict[str, str]:
+    """Split release-manifest.md into frontmatter, preamble, and H2 sections."""
+    lines = text.split("\n")
+    sections: dict[str, list[str]] = {"__frontmatter__": [], "__preamble__": []}
+    current = "__frontmatter__"
+    frontmatter_delim_count = 0
+
+    for ln in lines:
+        if ln.strip() == "---":
+            frontmatter_delim_count += 1
+            sections[current].append(ln)
+            if frontmatter_delim_count == 2:
+                current = "__preamble__"
+            continue
+        if frontmatter_delim_count < 2:
+            sections[current].append(ln)
+            continue
+        if ln.startswith("## "):
+            current = ln[3:].strip()
+            sections.setdefault(current, []).append(ln)
+        else:
+            sections[current].append(ln)
+
+    return {k: "\n".join(v) for k, v in sections.items() if "\n".join(v).strip()}
 
 
 def check_filter_rules_consistency() -> list[str]:
@@ -174,6 +252,7 @@ def main() -> int:
 
     all_errs: list[str] = []
     all_errs.extend(check_dashboard_prose())
+    all_errs.extend(check_release_manifest_sections())
     all_errs.extend(check_filter_rules_consistency())
     if args.full:
         all_errs.extend(check_site_data_matches_manifest())
@@ -185,6 +264,7 @@ def main() -> int:
         return 1
 
     print("\n✓ Dashboard prose integrity: all 7 books match baseline")
+    print("✓ Release Manifest sections: match checksum baseline")
     print("✓ filter_rules.yml: internal consistency checks pass")
     if args.full:
         print("✓ Site data registry totals: match filter_rules manifest")

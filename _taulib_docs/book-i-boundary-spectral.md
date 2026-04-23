@@ -70,7 +70,7 @@ Key results:
 
 ### `Tau.Boundary.spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L42-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L42-L44)
 **def
 Tau.Boundary.spectral
 (z : Polarity.SplitComplex)
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.Boundary.spectral_eq_chi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L46-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L46-L49)
 **theorem
 Tau.Boundary.spectral_eq_chi
 (z : Polarity.SplitComplex)
@@ -100,7 +100,7 @@ Spectral transform equals character decomposition.
 
 ### `Tau.Boundary.spectral_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L55-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L55-L60)
 **theorem
 Tau.Boundary.spectral_decomposition
 (z : Polarity.SplitComplex)
@@ -115,7 +115,7 @@ to_sectors(z) = χ₊(z) + χ₋(z)
 
 ### `Tau.Boundary.spectral_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L62-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L62-L63)
 **def
 Tau.Boundary.spectral_b
 (z : Polarity.SplitComplex)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Boundary.spectral_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L65-L66)
 **def
 Tau.Boundary.spectral_c
 (z : Polarity.SplitComplex)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.Boundary.spectral_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L68-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L68-L71)
 **theorem
 Tau.Boundary.spectral_orthogonal
 (z : Polarity.SplitComplex)
@@ -160,7 +160,7 @@ The B and C components are orthogonal.
 
 ### `Tau.Boundary.spectral_reconstruct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L73-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L73-L76)
 **theorem
 Tau.Boundary.spectral_reconstruct
 (z : Polarity.SplitComplex)
@@ -173,7 +173,7 @@ The B and C components together reconstruct the spectral transform.
 
 ### `Tau.Boundary.spectral_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L82-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L82-L86)
 **theorem
 Tau.Boundary.spectral_unique
 (a b : Polarity.SplitComplex)
@@ -189,7 +189,7 @@ as another, they are equal. This is to_sectors injectivity in spectral language.
 
 ### `Tau.Boundary.spectral_eq_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L88-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L88-L91)
 **theorem
 Tau.Boundary.spectral_eq_iff
 (a b : Polarity.SplitComplex)
@@ -202,7 +202,7 @@ Two elements have equal B-sectors and C-sectors iff they are equal.
 
 ### `Tau.Boundary.spectral_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L97-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L97-L101)
 **theorem
 Tau.Boundary.spectral_mul
 (a b : Polarity.SplitComplex)
@@ -215,7 +215,7 @@ The spectral transform preserves multiplication (componentwise in sectors).
 
 ### `Tau.Boundary.spectral_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L103-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L103-L107)
 **theorem
 Tau.Boundary.spectral_add
 (a b : Polarity.SplitComplex)
@@ -228,7 +228,7 @@ The spectral transform preserves addition.
 
 ### `Tau.Boundary.spectral_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L109-L111)
 **theorem
 Tau.Boundary.spectral_one :spectral Polarity.SplitComplex.one = SectorPair.one**
 
@@ -239,7 +239,7 @@ The spectral transform preserves one.
 
 ### `Tau.Boundary.spectral_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L113-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L113-L115)
 **theorem
 Tau.Boundary.spectral_zero :spectral Polarity.SplitComplex.zero = SectorPair.zero**
 
@@ -250,7 +250,7 @@ The spectral transform preserves zero.
 
 ### `Tau.Boundary.spectral_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L117-L120)
 **theorem
 Tau.Boundary.spectral_neg
 (z : Polarity.SplitComplex)
@@ -263,7 +263,7 @@ The spectral transform preserves negation.
 
 ### `Tau.Boundary.spectral_ring_iso`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L122-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L122-L134)
 **theorem
 Tau.Boundary.spectral_ring_iso :(∀ (a b : Polarity.SplitComplex), spectral (a.add b) = (spectral a).add (spectral b)) ∧ (∀ (a b : Polarity.SplitComplex), spectral (a.mul b) = (spectral a).mul (spectral b)) ∧ spectral Polarity.SplitComplex.one = SectorPair.one ∧ ∀ (a b : Polarity.SplitComplex), spectral a = spectral b → a = b**
 
@@ -274,7 +274,7 @@ Full ring isomorphism: spectral is a ring homomorphism that is also injective.
 
 ### `Tau.Boundary.spectral_j`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L140-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L140-L142)
 **theorem
 Tau.Boundary.spectral_j :spectral Polarity.SplitComplex.j = { b_sector := 1, c_sector := -1 }**
 
@@ -285,7 +285,7 @@ The spectral transform of j: B-sector = 1, C-sector = -1.
 
 ### `Tau.Boundary.spectral_one_val`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L144-L146)
 **theorem
 Tau.Boundary.spectral_one_val :spectral Polarity.SplitComplex.one = { b_sector := 1, c_sector := 1 }**
 
@@ -296,7 +296,7 @@ The spectral transform of 1: both sectors equal 1.
 
 ### `Tau.Boundary.spectral_real`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L148-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L148-L151)
 **theorem
 Tau.Boundary.spectral_real
 (a : ℤ)
@@ -309,7 +309,7 @@ A real element (im = 0) has equal sector values.
 
 ### `Tau.Boundary.spectral_imaginary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L153-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L153-L156)
 **theorem
 Tau.Boundary.spectral_imaginary
 (b : ℤ)
@@ -322,7 +322,7 @@ A purely imaginary element (re = 0) has opposite sector values.
 
 ### `Tau.Boundary.spectral_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L162-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L162-L167)
 **theorem
 Tau.Boundary.spectral_sigma
 (z : Polarity.SplitComplex)
@@ -335,7 +335,7 @@ The polarity involution σ swaps the spectral components.
 
 ### `Tau.Boundary.spectral_sigma_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L169-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L169-L172)
 **theorem
 Tau.Boundary.spectral_sigma_involutive
 (z : Polarity.SplitComplex)
@@ -348,7 +348,7 @@ Tau.Boundary.spectral_sigma_involutive
 
 ### `Tau.Boundary.spectral_norm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L178-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L178-L181)
 **def
 Tau.Boundary.spectral_norm
 (z : Polarity.SplitComplex)
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.Boundary.spectral_norm_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L183-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L183-L187)
 **theorem
 Tau.Boundary.spectral_norm_eq
 (z : Polarity.SplitComplex)
@@ -378,7 +378,7 @@ The spectral norm equals a² - b² (the split-complex norm).
 
 ### `Tau.Boundary.spectral_norm_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L189-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L189-L196)
 **theorem
 Tau.Boundary.spectral_norm_mul
 (z w : Polarity.SplitComplex)
@@ -391,7 +391,7 @@ The spectral norm is multiplicative: N(zw) = N(z)N(w).
 
 ### `Tau.Boundary.zero_div_iff_norm_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Spectral.lean#L198-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Spectral.lean#L198-L202)
 **theorem
 Tau.Boundary.zero_div_iff_norm_zero
 (z : Polarity.SplitComplex)

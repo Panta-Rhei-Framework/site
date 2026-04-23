@@ -52,7 +52,7 @@ Langlands₀: boundary functoriality.
 
 ### `Tau.BookIII.Sectors.BoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L36-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L36-L44)
 **structure
 Tau.BookIII.Sectors.BoundaryCharacter :Type**
 
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instReprBoundaryCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **def
 Tau.BookIII.Sectors.instReprBoundaryCharacter.repr :BoundaryCharacter → ℕ → Std.Format**
 
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instReprBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **instance
 Tau.BookIII.Sectors.instReprBoundaryCharacter :Repr BoundaryCharacter**
 
@@ -98,7 +98,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instDecidableEqBoundaryCharacter.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **def
 Tau.BookIII.Sectors.instDecidableEqBoundaryCharacter.decEq
 (x✝ x✝¹ : BoundaryCharacter)
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instDecidableEqBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **instance
 Tau.BookIII.Sectors.instDecidableEqBoundaryCharacter :DecidableEq BoundaryCharacter**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instBEqBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **instance
 Tau.BookIII.Sectors.instBEqBoundaryCharacter :BEq BoundaryCharacter**
 
@@ -134,7 +134,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instBEqBoundaryCharacter.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **def
 Tau.BookIII.Sectors.instBEqBoundaryCharacter.beq :BoundaryCharacter → BoundaryCharacter → Bool**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instInhabitedBoundaryCharacter.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **def
 Tau.BookIII.Sectors.instInhabitedBoundaryCharacter.default :BoundaryCharacter**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instInhabitedBoundaryCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L44-L44)
 **instance
 Tau.BookIII.Sectors.instInhabitedBoundaryCharacter :Inhabited BoundaryCharacter**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.BoundaryCharacter.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L46-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L46-L47)
 **def
 Tau.BookIII.Sectors.BoundaryCharacter.zero :BoundaryCharacter**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.BoundaryCharacter.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L49-L51)
 **def
 Tau.BookIII.Sectors.BoundaryCharacter.add
 (χ₁ χ₂ : BoundaryCharacter)
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.BoundaryCharacter.neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L53-L55)
 **def
 Tau.BookIII.Sectors.BoundaryCharacter.neg
 (χ : BoundaryCharacter)
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.BoundaryCharacter.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L57-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L57-L64)
 **def
 Tau.BookIII.Sectors.BoundaryCharacter.eval
 (χ : BoundaryCharacter)
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.boundary_char_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L66-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L66-L91)
 **def
 Tau.BookIII.Sectors.boundary_char_check
 (bound db : Denotation.TauIdx)
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.boundary_char_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L72-L90)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L72-L90)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.boundary_char_check.go
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.boundary_to_interior`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L97-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L97-L106)
 **def
 Tau.BookIII.Sectors.boundary_to_interior
 (χ : BoundaryCharacter)
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.bti_functor_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L108-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L108-L133)
 **def
 Tau.BookIII.Sectors.bti_functor_check
 (bound db : Denotation.TauIdx)
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.bti_functor_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L114-L132)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L114-L132)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.bti_functor_check.go
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.bti_additive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L135-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L135-L154)
 **def
 Tau.BookIII.Sectors.bti_additive_check
 (bound db : Denotation.TauIdx)
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.bti_additive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L140-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L140-L153)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.bti_additive_check.go
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.boundary_char_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L179-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L179-L180)
 **theorem
 Tau.BookIII.Sectors.boundary_char_3_3 :boundary_char_check 3 3 = true**
 
@@ -374,7 +374,7 @@ Tau.BookIII.Sectors.boundary_char_3_3 :boundary_char_check 3 3 = true**
 
 ### `Tau.BookIII.Sectors.bti_functor_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L183-L184)
 **theorem
 Tau.BookIII.Sectors.bti_functor_5_3 :bti_functor_check 5 3 = true**
 
@@ -383,7 +383,7 @@ Tau.BookIII.Sectors.bti_functor_5_3 :bti_functor_check 5 3 = true**
 
 ### `Tau.BookIII.Sectors.bti_additive_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L187-L188)
 **theorem
 Tau.BookIII.Sectors.bti_additive_3_3 :bti_additive_check 3 3 = true**
 
@@ -392,7 +392,7 @@ Tau.BookIII.Sectors.bti_additive_3_3 :bti_additive_check 3 3 = true**
 
 ### `Tau.BookIII.Sectors.zero_char_eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L194-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L194-L198)
 **theorem
 Tau.BookIII.Sectors.zero_char_eval
 (x k : Denotation.TauIdx)
@@ -405,7 +405,7 @@ Tau.BookIII.Sectors.zero_char_eval
 
 ### `Tau.BookIII.Sectors.neg_neg_char`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L200-L203)
 **theorem
 Tau.BookIII.Sectors.neg_neg_char
 (χ : BoundaryCharacter)
@@ -418,7 +418,7 @@ Tau.BookIII.Sectors.neg_neg_char
 
 ### `Tau.BookIII.Sectors.bti_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L205-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/BoundaryCharacters.lean#L205-L210)
 **theorem
 Tau.BookIII.Sectors.bti_zero
 (x k : Denotation.TauIdx)

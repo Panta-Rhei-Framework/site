@@ -68,7 +68,7 @@ p_{k+1} preimages at stage k+1.
 
 ### `Tau.BookIII.Bridge.tower_projection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L53-L55)
 **def
 Tau.BookIII.Bridge.tower_projection
 (x k : ℕ)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.topo_translation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L57-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L57-L77)
 **def
 Tau.BookIII.Bridge.topo_translation_check
 (bound db : ℕ)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.topo_translation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L62-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L62-L76)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.topo_translation_check.go
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_dimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L83-L85)
 **def
 Tau.BookIII.Bridge.crt_dimension
 (k : ℕ)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.dimension_recovery_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L87-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L87-L110)
 **def
 Tau.BookIII.Bridge.dimension_recovery_check
 (db : ℕ)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.dimension_recovery_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L92-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L92-L99)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.dimension_recovery_check.go
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.dimension_recovery_check.count_prime_factors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L101-L102)
 **def
 Tau.BookIII.Bridge.dimension_recovery_check.count_prime_factors
 (pk k : ℕ)
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.dimension_recovery_check.go_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L104-L109)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L104-L109)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.dimension_recovery_check.go_count
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.cylinder_preservation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L116-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L116-L145)
 **def
 Tau.BookIII.Bridge.cylinder_preservation_check
 (bound db : ℕ)
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.cylinder_preservation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L121-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L121-L135)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.cylinder_preservation_check.go
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.cylinder_preservation_check.count_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L137-L138)
 **def
 Tau.BookIII.Bridge.cylinder_preservation_check.count_fiber
 (a k pk1 : ℕ)
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.cylinder_preservation_check.go_cf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L140-L144)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L140-L144)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.cylinder_preservation_check.go_cf
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.topo_faithful_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L147-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L147-L150)
 **def
 Tau.BookIII.Bridge.topo_faithful_check
 (bound db : ℕ)
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.boundary_restriction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L156-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L156-L188)
 **def
 Tau.BookIII.Bridge.boundary_restriction_check
 (db : ℕ)
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.boundary_restriction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L161-L171)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L161-L171)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.boundary_restriction_check.go
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.boundary_restriction_check.go_a`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L173-L178)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L173-L178)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.boundary_restriction_check.go_a
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.boundary_restriction_check.count_fiber_size`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L180-L181)
 **def
 Tau.BookIII.Bridge.boundary_restriction_check.count_fiber_size
 (a k pk1 : ℕ)
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.boundary_restriction_check.go_cf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L183-L187)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L183-L187)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.boundary_restriction_check.go_cf
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.topo_translation_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L194-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L194-L196)
 **theorem
 Tau.BookIII.Bridge.topo_translation_10_3 :topo_translation_check 10 3 = true**
 
@@ -359,7 +359,7 @@ Tau.BookIII.Bridge.topo_translation_10_3 :topo_translation_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.dimension_recovery_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L198-L200)
 **theorem
 Tau.BookIII.Bridge.dimension_recovery_3 :dimension_recovery_check 3 = true**
 
@@ -370,7 +370,7 @@ Tau.BookIII.Bridge.dimension_recovery_3 :dimension_recovery_check 3 = true**
 
 ### `Tau.BookIII.Bridge.topo_faithful_6_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L202-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L202-L204)
 **theorem
 Tau.BookIII.Bridge.topo_faithful_6_2 :topo_faithful_check 6 2 = true**
 
@@ -381,7 +381,7 @@ Tau.BookIII.Bridge.topo_faithful_6_2 :topo_faithful_check 6 2 = true**
 
 ### `Tau.BookIII.Bridge.boundary_restriction_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationTopo.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationTopo.lean#L206-L208)
 **theorem
 Tau.BookIII.Bridge.boundary_restriction_3 :boundary_restriction_check 3 = true**
 

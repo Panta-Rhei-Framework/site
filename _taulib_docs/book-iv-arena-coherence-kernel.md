@@ -60,7 +60,7 @@ minimal (no proper subset of generators spans all 5 sectors).
 
 ### `Tau.BookIV.Arena.GenSectorAssignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L37-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L37-L45)
 **def
 Tau.BookIV.Arena.GenSectorAssignment
 (g : Kernel.Generator)
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.assignment_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L47-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L47-L59)
 **theorem
 Tau.BookIV.Arena.assignment_injective :GenSectorAssignment Kernel.Generator.alpha ≠ GenSectorAssignment Kernel.Generator.pi ∧ GenSectorAssignment Kernel.Generator.alpha ≠ GenSectorAssignment Kernel.Generator.gamma ∧ GenSectorAssignment Kernel.Generator.alpha ≠ GenSectorAssignment Kernel.Generator.eta ∧ GenSectorAssignment Kernel.Generator.alpha ≠ GenSectorAssignment Kernel.Generator.omega ∧ GenSectorAssignment Kernel.Generator.pi ≠ GenSectorAssignment Kernel.Generator.gamma ∧ GenSectorAssignment Kernel.Generator.pi ≠ GenSectorAssignment Kernel.Generator.eta ∧ GenSectorAssignment Kernel.Generator.pi ≠ GenSectorAssignment Kernel.Generator.omega ∧ GenSectorAssignment Kernel.Generator.gamma ≠ GenSectorAssignment Kernel.Generator.eta ∧ GenSectorAssignment Kernel.Generator.gamma ≠ GenSectorAssignment Kernel.Generator.omega ∧ GenSectorAssignment Kernel.Generator.eta ≠ GenSectorAssignment Kernel.Generator.omega**
 
@@ -92,7 +92,7 @@ Tau.BookIV.Arena.assignment_injective :GenSectorAssignment Kernel.Generator.alph
 
 ### `Tau.BookIV.Arena.assignment_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L61-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L61-L69)
 **theorem
 Tau.BookIV.Arena.assignment_surjective
 (s : BookIII.Sectors.Sector)
@@ -105,7 +105,7 @@ Tau.BookIV.Arena.assignment_surjective
 
 ### `Tau.BookIV.Arena.CoherenceKernel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L75-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L75-L87)
 **structure
 Tau.BookIV.Arena.CoherenceKernel :Type**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCoherenceKernel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L87-L87)
 **def
 Tau.BookIV.Arena.instReprCoherenceKernel.repr :CoherenceKernel → ℕ → Std.Format**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprCoherenceKernel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L87-L87)
 **instance
 Tau.BookIV.Arena.instReprCoherenceKernel :Repr CoherenceKernel**
 
@@ -154,7 +154,7 @@ Equations
 
 ### `Tau.BookIV.Arena.canonical_kernel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L89-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L89-L95)
 **def
 Tau.BookIV.Arena.canonical_kernel :CoherenceKernel**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.gen_polarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L101-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L101-L103)
 **def
 Tau.BookIV.Arena.gen_polarity
 (g : Kernel.Generator)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.gen_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L105-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L105-L107)
 **def
 Tau.BookIV.Arena.gen_depth
 (g : Kernel.Generator)
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.assignment_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L124-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L124-L136)
 **theorem
 Tau.BookIV.Arena.assignment_unique
 (Psi : Kernel.Generator → BookIII.Sectors.Sector)
@@ -221,7 +221,7 @@ Proved by exhaustive case analysis on generator × sector.
 
 ### `Tau.BookIV.Arena.all_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L142-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L142-L143)
 **def
 Tau.BookIV.Arena.all_generators :List Kernel.Generator**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.covered_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L145-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L145-L147)
 **def
 Tau.BookIV.Arena.covered_sectors
 (gens : List Kernel.Generator)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.ontic_minimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L149-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L149-L167)
 **theorem
 Tau.BookIV.Arena.ontic_minimality :GenSectorAssignment Kernel.Generator.alpha = BookIII.Sectors.Sector.D ∧ GenSectorAssignment Kernel.Generator.pi ≠ BookIII.Sectors.Sector.D ∧ GenSectorAssignment Kernel.Generator.gamma ≠ BookIII.Sectors.Sector.D ∧ GenSectorAssignment Kernel.Generator.eta ≠ BookIII.Sectors.Sector.D ∧ GenSectorAssignment Kernel.Generator.omega ≠ BookIII.Sectors.Sector.D ∧ GenSectorAssignment Kernel.Generator.pi = BookIII.Sectors.Sector.A ∧ GenSectorAssignment Kernel.Generator.alpha ≠ BookIII.Sectors.Sector.A ∧ GenSectorAssignment Kernel.Generator.gamma ≠ BookIII.Sectors.Sector.A ∧ GenSectorAssignment Kernel.Generator.eta ≠ BookIII.Sectors.Sector.A ∧ GenSectorAssignment Kernel.Generator.omega ≠ BookIII.Sectors.Sector.A ∧ GenSectorAssignment Kernel.Generator.gamma = BookIII.Sectors.Sector.B ∧ GenSectorAssignment Kernel.Generator.alpha ≠ BookIII.Sectors.Sector.B ∧ GenSectorAssignment Kernel.Generator.pi ≠ BookIII.Sectors.Sector.B ∧ GenSectorAssignment Kernel.Generator.eta ≠ BookIII.Sectors.Sector.B ∧ GenSectorAssignment Kernel.Generator.omega ≠ BookIII.Sectors.Sector.B ∧ GenSectorAssignment Kernel.Generator.eta = BookIII.Sectors.Sector.C ∧ GenSectorAssignment Kernel.Generator.alpha ≠ BookIII.Sectors.Sector.C ∧ GenSectorAssignment Kernel.Generator.pi ≠ BookIII.Sectors.Sector.C ∧ GenSectorAssignment Kernel.Generator.gamma ≠ BookIII.Sectors.Sector.C ∧ GenSectorAssignment Kernel.Generator.omega ≠ BookIII.Sectors.Sector.C ∧ GenSectorAssignment Kernel.Generator.omega = BookIII.Sectors.Sector.Omega ∧ GenSectorAssignment Kernel.Generator.alpha ≠ BookIII.Sectors.Sector.Omega ∧ GenSectorAssignment Kernel.Generator.pi ≠ BookIII.Sectors.Sector.Omega ∧ GenSectorAssignment Kernel.Generator.gamma ≠ BookIII.Sectors.Sector.Omega ∧ GenSectorAssignment Kernel.Generator.eta ≠ BookIII.Sectors.Sector.Omega**
 
@@ -263,7 +263,7 @@ of its sector under Φ, so removing any one loses a sector.
 
 ### `Tau.BookIV.Arena.kernel_generator_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L169-L169)
 **theorem
 Tau.BookIV.Arena.kernel_generator_count :all_generators.length = 5**
 
@@ -272,7 +272,7 @@ Tau.BookIV.Arena.kernel_generator_count :all_generators.length = 5**
 
 ### `Tau.BookIV.Arena.assignment_agrees_with_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/CoherenceKernel.lean#L175-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/CoherenceKernel.lean#L175-L182)
 **theorem
 Tau.BookIV.Arena.assignment_agrees_with_params :Sectors.gravity_sector.generator = Kernel.Generator.alpha ∧ Sectors.weak_sector.generator = Kernel.Generator.pi ∧ Sectors.em_sector.generator = Kernel.Generator.gamma ∧ Sectors.strong_sector.generator = Kernel.Generator.eta ∧ Sectors.higgs_sector.generator = Kernel.Generator.omega**
 

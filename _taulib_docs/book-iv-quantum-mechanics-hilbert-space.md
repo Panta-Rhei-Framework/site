@@ -72,7 +72,7 @@ characters, physical states, entanglement, and superposition.
 
 ### `Tau.BookIV.QuantumMechanics.CRFunctionSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L40-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L40-L58)
 **structure
 Tau.BookIV.QuantumMechanics.CRFunctionSpace :Type**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCRFunctionSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L58-L58)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCRFunctionSpace :Repr CRFunctionSpace**
 
@@ -120,7 +120,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCRFunctionSpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L58-L58)
 **def
 Tau.BookIV.QuantumMechanics.instReprCRFunctionSpace.repr :CRFunctionSpace → ℕ → Std.Format**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.cr_function_space`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L60-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L60-L67)
 **def
 Tau.BookIV.QuantumMechanics.cr_function_space :CRFunctionSpace**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.cr_space_algebraic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L73-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L73-L79)
 **theorem
 Tau.BookIV.QuantumMechanics.cr_space_algebraic :cr_function_space.is_vector_space = true ∧ cr_function_space.is_algebra = true ∧ cr_function_space.is_infinite_dim = true**
 
@@ -158,7 +158,7 @@ and infinite-dimensional.
 
 ### `Tau.BookIV.QuantumMechanics.TauInnerProduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L85-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L85-L99)
 **structure
 Tau.BookIV.QuantumMechanics.TauInnerProduct :Type**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprTauInnerProduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L99-L99)
 **instance
 Tau.BookIV.QuantumMechanics.instReprTauInnerProduct :Repr TauInnerProduct**
 
@@ -197,7 +197,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprTauInnerProduct.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L99-L99)
 **def
 Tau.BookIV.QuantumMechanics.instReprTauInnerProduct.repr :TauInnerProduct → ℕ → Std.Format**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.tau_inner_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L101-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L101-L108)
 **def
 Tau.BookIV.QuantumMechanics.tau_inner_product :TauInnerProduct**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.inner_product_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L114-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L114-L120)
 **theorem
 Tau.BookIV.QuantumMechanics.inner_product_properties :tau_inner_product.is_sesquilinear = true ∧ tau_inner_product.is_hermitian = true ∧ tau_inner_product.is_positive_definite = true**
 
@@ -236,7 +236,7 @@ and positive definite.
 
 ### `Tau.BookIV.QuantumMechanics.InnerProductUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L126-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L126-L138)
 **structure
 Tau.BookIV.QuantumMechanics.InnerProductUniqueness :Type**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprInnerProductUniqueness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L138-L138)
 **def
 Tau.BookIV.QuantumMechanics.instReprInnerProductUniqueness.repr :InnerProductUniqueness → ℕ → Std.Format**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprInnerProductUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L138-L138)
 **instance
 Tau.BookIV.QuantumMechanics.instReprInnerProductUniqueness :Repr InnerProductUniqueness**
 
@@ -284,7 +284,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.inner_product_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L140-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L140-L145)
 **def
 Tau.BookIV.QuantumMechanics.inner_product_unique :InnerProductUniqueness**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.HilbertSpaceTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L151-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L151-L163)
 **structure
 Tau.BookIV.QuantumMechanics.HilbertSpaceTau :Type**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHilbertSpaceTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L163-L163)
 **instance
 Tau.BookIV.QuantumMechanics.instReprHilbertSpaceTau :Repr HilbertSpaceTau**
 
@@ -335,7 +335,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprHilbertSpaceTau.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L163-L163)
 **def
 Tau.BookIV.QuantumMechanics.instReprHilbertSpaceTau.repr :HilbertSpaceTau → ℕ → Std.Format**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.hilbert_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L165-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L165-L172)
 **def
 Tau.BookIV.QuantumMechanics.hilbert_tau :HilbertSpaceTau**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.von_neumann_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L178-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L178-L185)
 **theorem
 Tau.BookIV.QuantumMechanics.von_neumann_axioms :hilbert_tau.is_complete = true ∧ hilbert_tau.is_separable = true ∧ hilbert_tau.is_infinite_dim = true**
 
@@ -375,7 +375,7 @@ These are exactly the axioms required for quantum mechanical state spaces.
 
 ### `Tau.BookIV.QuantumMechanics.BoundaryDetermination`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L191-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L191-L204)
 **structure
 Tau.BookIV.QuantumMechanics.BoundaryDetermination :Type**
 
@@ -402,7 +402,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprBoundaryDetermination.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L204-L204)
 **def
 Tau.BookIV.QuantumMechanics.instReprBoundaryDetermination.repr :BoundaryDetermination → ℕ → Std.Format**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprBoundaryDetermination`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L204-L204)
 **instance
 Tau.BookIV.QuantumMechanics.instReprBoundaryDetermination :Repr BoundaryDetermination**
 
@@ -425,7 +425,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.boundary_determines_states`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L206-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L206-L212)
 **def
 Tau.BookIV.QuantumMechanics.boundary_determines_states :BoundaryDetermination**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.ONBStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L218-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L218-L234)
 **structure
 Tau.BookIV.QuantumMechanics.ONBStructure :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprONBStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L234-L234)
 **def
 Tau.BookIV.QuantumMechanics.instReprONBStructure.repr :ONBStructure → ℕ → Std.Format**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprONBStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L234-L234)
 **instance
 Tau.BookIV.QuantumMechanics.instReprONBStructure :Repr ONBStructure**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.onb_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L236-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L236-L245)
 **def
 Tau.BookIV.QuantumMechanics.onb_admissible :ONBStructure**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.onb_is_admissible_characters`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L247-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L247-L253)
 **theorem
 Tau.BookIV.QuantumMechanics.onb_is_admissible_characters :onb_admissible.index_type = "Lambda_CR" ∧ onb_admissible.is_orthogonal = true ∧ onb_admissible.is_normalized = true ∧ onb_admissible.is_complete = true**
 
@@ -518,7 +518,7 @@ Tau.BookIV.QuantumMechanics.onb_is_admissible_characters :onb_admissible.index_t
 
 ### `Tau.BookIV.QuantumMechanics.spectral_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L259-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L259-L263)
 **theorem
 Tau.BookIV.QuantumMechanics.spectral_completeness :onb_admissible.is_complete = true**
 
@@ -531,7 +531,7 @@ The convergence is in L^2 norm.
 
 ### `Tau.BookIV.QuantumMechanics.PhysicalState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L269-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L269-L278)
 **structure
 Tau.BookIV.QuantumMechanics.PhysicalState :Type**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprPhysicalState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L278-L278)
 **instance
 Tau.BookIV.QuantumMechanics.instReprPhysicalState :Repr PhysicalState**
 
@@ -564,7 +564,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprPhysicalState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L278-L278)
 **def
 Tau.BookIV.QuantumMechanics.instReprPhysicalState.repr :PhysicalState → ℕ → Std.Format**
 
@@ -576,7 +576,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.EntanglementClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L284-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L284-L291)
 **inductive
 Tau.BookIV.QuantumMechanics.EntanglementClass :Type**
 
@@ -596,7 +596,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntanglementClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEntanglementClass :Repr EntanglementClass**
 
@@ -607,7 +607,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntanglementClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
 **def
 Tau.BookIV.QuantumMechanics.instReprEntanglementClass.repr :EntanglementClass → ℕ → Std.Format**
 
@@ -619,7 +619,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instDecidableEqEntanglementClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
 **instance
 Tau.BookIV.QuantumMechanics.instDecidableEqEntanglementClass :DecidableEq EntanglementClass**
 
@@ -630,7 +630,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instBEqEntanglementClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
 **instance
 Tau.BookIV.QuantumMechanics.instBEqEntanglementClass :BEq EntanglementClass**
 
@@ -641,7 +641,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instBEqEntanglementClass.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L291-L291)
 **def
 Tau.BookIV.QuantumMechanics.instBEqEntanglementClass.beq :EntanglementClass → EntanglementClass → Bool**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.EntanglementGenericity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L297-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L297-L307)
 **structure
 Tau.BookIV.QuantumMechanics.EntanglementGenericity :Type**
 
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntanglementGenericity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L307-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L307-L307)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEntanglementGenericity :Repr EntanglementGenericity**
 
@@ -687,7 +687,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprEntanglementGenericity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L307-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L307-L307)
 **def
 Tau.BookIV.QuantumMechanics.instReprEntanglementGenericity.repr :EntanglementGenericity → ℕ → Std.Format**
 
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.entangled_is_generic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L309-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L309-L314)
 **def
 Tau.BookIV.QuantumMechanics.entangled_is_generic :EntanglementGenericity**
 
@@ -713,7 +713,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.superposition_from_linearity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L320-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/HilbertSpace.lean#L320-L325)
 **theorem
 Tau.BookIV.QuantumMechanics.superposition_from_linearity :cr_function_space.is_vector_space = true**
 

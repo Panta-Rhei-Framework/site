@@ -67,7 +67,7 @@ bipolar e₊/e₋ involution).
 
 ### `Tau.BookIII.Computation.self_apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L51-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L51-L56)
 **def
 Tau.BookIII.Computation.self_apply
 (c k : ℕ)
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.kleene_fixed_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L58-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L58-L64)
 **def
 Tau.BookIII.Computation.kleene_fixed_point
 (k : ℕ)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_fixed_points`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L66-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L66-L76)
 **def
 Tau.BookIII.Computation.count_fixed_points
 (k : ℕ)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_fixed_points.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L71-L75)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L71-L75)@[irreducible]
 
 **def
 Tau.BookIII.Computation.count_fixed_points.go
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.kleene_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L78-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L78-L87)
 **def
 Tau.BookIII.Computation.kleene_check
 (db : ℕ)
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.kleene_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L82-L86)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L82-L86)@[irreducible]
 
 **def
 Tau.BookIII.Computation.kleene_check.go
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.orbit_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L93-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L93-L105)
 **def
 Tau.BookIII.Computation.orbit_length
 (c d k : ℕ)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.orbit_length.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L101-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L101-L104)@[irreducible]
 
 **def
 Tau.BookIII.Computation.orbit_length.go
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.orbit_diversity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L107-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L107-L117)
 **def
 Tau.BookIII.Computation.orbit_diversity_check
 (k : ℕ)
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_distinct_orbit_lengths`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L119-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L119-L139)
 **def
 Tau.BookIII.Computation.count_distinct_orbit_lengths
 (k : ℕ)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_distinct_orbit_lengths.go_d`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L124-L131)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L124-L131)@[irreducible]
 
 **def
 Tau.BookIII.Computation.count_distinct_orbit_lengths.go_d
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_distinct_orbit_lengths.is_new_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L133-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L133-L134)
 **def
 Tau.BookIII.Computation.count_distinct_orbit_lengths.is_new_length
 (len d pk k : ℕ)
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.count_distinct_orbit_lengths.go_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L135-L138)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L135-L138)@[irreducible]
 
 **def
 Tau.BookIII.Computation.count_distinct_orbit_lengths.go_check
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.operational_closure_full_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L145-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L145-L171)
 **def
 Tau.BookIII.Computation.operational_closure_full_check
 (bound db : ℕ)
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.operational_closure_full_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L150-L160)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L150-L160)@[irreducible]
 
 **def
 Tau.BookIII.Computation.operational_closure_full_check.go
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.operational_closure_full_check.go_d`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L162-L170)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L162-L170)@[irreducible]
 
 **def
 Tau.BookIII.Computation.operational_closure_full_check.go_d
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_strict_witness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L177-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L177-L199)
 **def
 Tau.BookIII.Computation.e2_strict_witness_check
 (db : ℕ)
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_strict_witness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L183-L190)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L183-L190)@[irreducible]
 
 **def
 Tau.BookIII.Computation.e2_strict_witness_check.go
@@ -352,7 +352,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_strict_witness_check.find_long_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L192-L198)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L192-L198)@[irreducible]
 
 **def
 Tau.BookIII.Computation.e2_strict_witness_check.find_long_orbit
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.kleene_check_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L205-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L205-L207)
 **theorem
 Tau.BookIII.Computation.kleene_check_3 :kleene_check 3 = true**
 
@@ -378,7 +378,7 @@ Tau.BookIII.Computation.kleene_check_3 :kleene_check 3 = true**
 
 ### `Tau.BookIII.Computation.fixed_points_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L209-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L209-L211)
 **theorem
 Tau.BookIII.Computation.fixed_points_stage2 :count_fixed_points 2 ≥ 1**
 
@@ -389,7 +389,7 @@ Tau.BookIII.Computation.fixed_points_stage2 :count_fixed_points 2 ≥ 1**
 
 ### `Tau.BookIII.Computation.orbit_diversity_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L213-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L213-L215)
 **theorem
 Tau.BookIII.Computation.orbit_diversity_2 :orbit_diversity_check 2 = true**
 
@@ -400,7 +400,7 @@ Tau.BookIII.Computation.orbit_diversity_2 :orbit_diversity_check 2 = true**
 
 ### `Tau.BookIII.Computation.orbit_diversity_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L217-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L217-L219)
 **theorem
 Tau.BookIII.Computation.orbit_diversity_3 :orbit_diversity_check 3 = true**
 
@@ -411,7 +411,7 @@ Tau.BookIII.Computation.orbit_diversity_3 :orbit_diversity_check 3 = true**
 
 ### `Tau.BookIII.Computation.operational_closure_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L221-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L221-L223)
 **theorem
 Tau.BookIII.Computation.operational_closure_8_3 :operational_closure_full_check 8 3 = true**
 
@@ -422,7 +422,7 @@ Tau.BookIII.Computation.operational_closure_8_3 :operational_closure_full_check 
 
 ### `Tau.BookIII.Computation.e2_strict_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Witness.lean#L225-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Witness.lean#L225-L227)
 **theorem
 Tau.BookIII.Computation.e2_strict_3 :e2_strict_witness_check 3 = true**
 

@@ -70,7 +70,7 @@ nontrivial holonomy (from the lemniscate fundamental group).
 
 ### `Tau.BookII.Closure.TauConnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L52-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L52-L55)
 **structure
 Tau.BookII.Closure.TauConnection :Type**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L57-L59)
 **def
 Tau.BookII.Closure.flat_connection :TauConnection**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookII.Closure.connection_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L61-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L61-L79)
 **def
 Tau.BookII.Closure.connection_tower_check
 (conn : TauConnection)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookII.Closure.connection_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L67-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L67-L71)@[irreducible]
 
 **def
 Tau.BookII.Closure.connection_tower_check.go
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookII.Closure.connection_tower_check.go_v`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L73-L78)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L73-L78)@[irreducible]
 
 **def
 Tau.BookII.Closure.connection_tower_check.go_v
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Closure.connection_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L81-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L81-L89)
 **def
 Tau.BookII.Closure.connection_check
 (conn : TauConnection)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.Closure.connection_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L85-L88)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L85-L88)@[irreducible]
 
 **def
 Tau.BookII.Closure.connection_check.go
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Closure.parallel_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L95-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L95-L99)
 **def
 Tau.BookII.Closure.parallel_transport
 (conn : TauConnection)
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.Closure.transport_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L101-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L101-L106)
 **def
 Tau.BookII.Closure.transport_in_range
 (conn : TauConnection)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flatness_check_loop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L112-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L112-L117)
 **def
 Tau.BookII.Closure.flatness_check_loop
 (conn : TauConnection)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_check_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L119-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L119-L139)
 **def
 Tau.BookII.Closure.flat_connection_check_stage
 (k : ℕ)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_check_stage.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L125-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L125-L129)@[irreducible]
 
 **def
 Tau.BookII.Closure.flat_connection_check_stage.go
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_check_stage.go_w`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L131-L138)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L131-L138)@[irreducible]
 
 **def
 Tau.BookII.Closure.flat_connection_check_stage.go_w
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L141-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L141-L149)
 **def
 Tau.BookII.Closure.flat_connection_check
 (db : ℕ)
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L145-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L145-L148)@[irreducible]
 
 **def
 Tau.BookII.Closure.flat_connection_check.go
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookII.Closure.holonomy_trivial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L155-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L155-L178)
 **def
 Tau.BookII.Closure.holonomy_trivial_check
 (k : ℕ)
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookII.Closure.holonomy_trivial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L164-L169)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L164-L169)@[irreducible]
 
 **def
 Tau.BookII.Closure.holonomy_trivial_check.go
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookII.Closure.holonomy_trivial_check.go_loop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L171-L177)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L171-L177)@[irreducible]
 
 **def
 Tau.BookII.Closure.holonomy_trivial_check.go_loop
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_connection_compatible_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L184-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L184-L186)
 **theorem
 Tau.BookII.Closure.flat_connection_compatible_2 :connection_check flat_connection 2 = true**
 
@@ -388,7 +388,7 @@ Tau.BookII.Closure.flat_connection_compatible_2 :connection_check flat_connectio
 
 ### `Tau.BookII.Closure.flat_connection_flat_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L188-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L188-L190)
 **theorem
 Tau.BookII.Closure.flat_connection_flat_2 :flat_connection_check 2 = true**
 
@@ -399,7 +399,7 @@ Tau.BookII.Closure.flat_connection_flat_2 :flat_connection_check 2 = true**
 
 ### `Tau.BookII.Closure.holonomy_trivial_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L192-L194)
 **theorem
 Tau.BookII.Closure.holonomy_trivial_1 :holonomy_trivial_check 1 = true**
 
@@ -410,7 +410,7 @@ Tau.BookII.Closure.holonomy_trivial_1 :holonomy_trivial_check 1 = true**
 
 ### `Tau.BookII.Closure.holonomy_trivial_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L196-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L196-L198)
 **theorem
 Tau.BookII.Closure.holonomy_trivial_2 :holonomy_trivial_check 2 = true**
 
@@ -421,7 +421,7 @@ Tau.BookII.Closure.holonomy_trivial_2 :holonomy_trivial_check 2 = true**
 
 ### `Tau.BookII.Closure.transport_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L200-L203)
 **theorem
 Tau.BookII.Closure.transport_zero
 (k x : ℕ)
@@ -434,7 +434,7 @@ Transport by 0 is identity.
 
 ### `Tau.BookII.Closure.transport_empty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Connection.lean#L205-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Connection.lean#L205-L208)
 **theorem
 Tau.BookII.Closure.transport_empty
 (k x : ℕ)

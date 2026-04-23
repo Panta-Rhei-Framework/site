@@ -63,7 +63,7 @@ Archetype: Bacteria. Dominant forces: Navier–Stokes + Poincaré.
 
 ### `Tau.BookVI.Agency.AgencySectorDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L35-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L35-L50)
 **structure
 Tau.BookVI.Agency.AgencySectorDef :Type**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprAgencySectorDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L50-L50)
 **instance
 Tau.BookVI.Agency.instReprAgencySectorDef :Repr AgencySectorDef**
 
@@ -105,7 +105,7 @@ Equations
 
 ### `Tau.BookVI.Agency.instReprAgencySectorDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L50-L50)
 **def
 Tau.BookVI.Agency.instReprAgencySectorDef.repr :AgencySectorDef → ℕ → Std.Format**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.agency_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L52-L52)
 **def
 Tau.BookVI.Agency.agency_def :AgencySectorDef**
 
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.agency_generator_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L54-L57)
 **theorem
 Tau.BookVI.Agency.agency_generator_match :agency_def.generator = FourPlusOne.agency_sector.generator**
 
@@ -140,7 +140,7 @@ Agency sector matches the FourPlusOne agency_sector definition.
 
 ### `Tau.BookVI.Agency.SpatialMotilityPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L63-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L63-L78)
 **structure
 Tau.BookVI.Agency.SpatialMotilityPredicate :Type**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprSpatialMotilityPredicate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L78-L78)
 **def
 Tau.BookVI.Agency.instReprSpatialMotilityPredicate.repr :SpatialMotilityPredicate → ℕ → Std.Format**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprSpatialMotilityPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L78-L78)
 **instance
 Tau.BookVI.Agency.instReprSpatialMotilityPredicate :Repr SpatialMotilityPredicate**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.BookVI.Agency.spatial_motility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L80-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L80-L82)
 **def
 Tau.BookVI.Agency.spatial_motility :SpatialMotilityPredicate**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.motility_three_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L84-L86)
 **theorem
 Tau.BookVI.Agency.motility_three_conditions :spatial_motility.condition_count = 3**
 
@@ -215,7 +215,7 @@ Tau.BookVI.Agency.motility_three_conditions :spatial_motility.condition_count = 
 
 ### `Tau.BookVI.Agency.motility_all_hold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L88-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L88-L92)
 **theorem
 Tau.BookVI.Agency.motility_all_hold :spatial_motility.base_displacement = true ∧ spatial_motility.distinction_preserving = true ∧ spatial_motility.energy_bounded = true**
 
@@ -224,7 +224,7 @@ Tau.BookVI.Agency.motility_all_hold :spatial_motility.base_displacement = true �
 
 ### `Tau.BookVI.Agency.AgencyExtension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L98-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L98-L110)
 **structure
 Tau.BookVI.Agency.AgencyExtension :Type**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprAgencyExtension.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L110-L110)
 **def
 Tau.BookVI.Agency.instReprAgencyExtension.repr :AgencyExtension → ℕ → Std.Format**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprAgencyExtension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L110-L110)
 **instance
 Tau.BookVI.Agency.instReprAgencyExtension :Repr AgencyExtension**
 
@@ -274,7 +274,7 @@ Equations
 
 ### `Tau.BookVI.Agency.agency_ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L112-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L112-L114)
 **def
 Tau.BookVI.Agency.agency_ext :AgencyExtension**
 
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.agency_is_pi_extension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L116-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L116-L120)
 **theorem
 Tau.BookVI.Agency.agency_is_pi_extension :agency_ext.winding_alpha = 1 ∧ agency_ext.winding_pi ≥ 1 ∧ agency_ext.extends_persistence = true**
 
@@ -295,7 +295,7 @@ Tau.BookVI.Agency.agency_is_pi_extension :agency_ext.winding_alpha = 1 ∧ agenc
 
 ### `Tau.BookVI.Agency.ChemotaxisFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L126-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L126-L138)
 **structure
 Tau.BookVI.Agency.ChemotaxisFunctor :Type**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.instReprChemotaxisFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L138-L138)
 **instance
 Tau.BookVI.Agency.instReprChemotaxisFunctor :Repr ChemotaxisFunctor**
 
@@ -333,7 +333,7 @@ Equations
 
 ### `Tau.BookVI.Agency.instReprChemotaxisFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L138-L138)
 **def
 Tau.BookVI.Agency.instReprChemotaxisFunctor.repr :ChemotaxisFunctor → ℕ → Std.Format**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookVI.Agency.chemotaxis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L140-L140)
 **def
 Tau.BookVI.Agency.chemotaxis :ChemotaxisFunctor**
 
@@ -357,6 +357,6 @@ Instances For
 
 ### `Tau.BookVI.Agency.chemotaxis_preserves_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Agency/AgencySector.lean#L142-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Agency/AgencySector.lean#L142-L143)
 **theorem
 Tau.BookVI.Agency.chemotaxis_preserves_distinction :chemotaxis.preserves_distinction = true**

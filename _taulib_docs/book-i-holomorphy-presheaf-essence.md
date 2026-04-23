@@ -66,7 +66,7 @@ Five generators, seven axioms, one bi-square.
 
 ### `Tau.Holomorphy.PrimorialPresheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L46-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L46-L51)
 **structure
 Tau.Holomorphy.PrimorialPresheaf :Type**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.Holomorphy.presheaf_of_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L53-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L53-L57)
 **def
 Tau.Holomorphy.presheaf_of_nat
 (n : Denotation.TauIdx)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.Holomorphy.presheaf_value_reduced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L59-L62)
 **theorem
 Tau.Holomorphy.presheaf_value_reduced
 (p : PrimorialPresheaf)
@@ -117,7 +117,7 @@ Presheaf values are already reduced at their own depth.
 
 ### `Tau.Holomorphy.IsNatTrans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L68-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L68-L70)
 **def
 Tau.Holomorphy.IsNatTrans
 (f : StageFun)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.Holomorphy.nat_trans_iff_tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L72-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L72-L74)
 **theorem
 Tau.Holomorphy.nat_trans_iff_tower_coherent
 (f : StageFun)
@@ -147,7 +147,7 @@ Presheaf naturality and tower coherence are definitionally equal.
 
 ### `Tau.Holomorphy.presheaf_characterization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L80-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L80-L84)
 **theorem
 Tau.Holomorphy.presheaf_characterization
 (hf : HolFun)
@@ -161,7 +161,7 @@ of the primorial presheaf.
 
 ### `Tau.Holomorphy.nat_trans_gives_holfun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L86-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L86-L90)
 **theorem
 Tau.Holomorphy.nat_trans_gives_holfun
 (sf : SectorFun)
@@ -180,7 +180,7 @@ Converse: a natural transformation with sector structure gives a HolFun.
 
 ### `Tau.Holomorphy.BiSquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L96-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L96-L109)
 **structure
 Tau.Holomorphy.BiSquare :Type**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.Holomorphy.BiSquare.tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L115-L117)
 **def
 Tau.Holomorphy.BiSquare.tower_coherent
 (bs : BiSquare)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.Holomorphy.BiSquare.of_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L119-L121)
 **def
 Tau.Holomorphy.BiSquare.of_coherent
 (f : StageFun)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.Holomorphy.bi_square_characterization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L123-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L123-L129)
 **theorem
 Tau.Holomorphy.bi_square_characterization
 (f : StageFun)
@@ -257,7 +257,7 @@ TowerCoherent f ↔ both sectors of the left square commute.
 
 ### `Tau.Holomorphy.BiSquare.toHolFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L131-L133)
 **def
 Tau.Holomorphy.BiSquare.toHolFun
 (bs : BiSquare)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.Holomorphy.HolFun.toBiSquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L135-L137)
 **def
 Tau.Holomorphy.HolFun.toBiSquare
 (hf : HolFun)
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.Holomorphy.holfun_bisquare_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L139-L141)
 **theorem
 Tau.Holomorphy.holfun_bisquare_roundtrip
 (hf : HolFun)
@@ -306,7 +306,7 @@ Round-trip preserves the StageFun.
 
 ### `Tau.Holomorphy.right_from_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L153-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L153-L170)
 **theorem
 Tau.Holomorphy.right_from_left
 (bs : BiSquare)
@@ -330,7 +330,7 @@ but are the same condition in TauLib's concrete formulation.
 
 ### `Tau.Holomorphy.right_from_left'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L172-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L172-L178)
 **theorem
 Tau.Holomorphy.right_from_left'
 (f : StageFun)
@@ -349,7 +349,7 @@ Right square for any tower-coherent function (not just BiSquare).
 
 ### `Tau.Holomorphy.limit_determines_stages`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L184-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L184-L191)
 **theorem
 Tau.Holomorphy.limit_determines_stages
 (bs₁ bs₂ : BiSquare)
@@ -369,7 +369,7 @@ Global Hartogs (I.T31) in bi-square language.
 
 ### `Tau.Holomorphy.limit_determines_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L193-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L193-L202)
 **theorem
 Tau.Holomorphy.limit_determines_spectral
 (bs₁ bs₂ : BiSquare)
@@ -388,7 +388,7 @@ Limit principle in spectral language.
 
 ### `Tau.Holomorphy.chi_plus_bisquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L208-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L208-L210)
 **def
 Tau.Holomorphy.chi_plus_bisquare :BiSquare**
 
@@ -402,7 +402,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_bisquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L212-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L212-L214)
 **def
 Tau.Holomorphy.chi_minus_bisquare :BiSquare**
 
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_bisquare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L216-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L216-L218)
 **def
 Tau.Holomorphy.id_bisquare :BiSquare**
 
@@ -430,7 +430,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_right_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L220-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L220-L225)
 **theorem
 Tau.Holomorphy.chi_plus_right_square
 (n k l : Denotation.TauIdx)
@@ -446,7 +446,7 @@ Right square verified for χ₊.
 
 ### `Tau.Holomorphy.BookICrownJewel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L231-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L231-L252)
 **structure
 Tau.Holomorphy.BookICrownJewel :Prop**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.Holomorphy.book_i_crown_jewel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/PresheafEssence.lean#L254-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/PresheafEssence.lean#L254-L260)
 **def
 Tau.Holomorphy.book_i_crown_jewel :BookICrownJewel**
 

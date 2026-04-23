@@ -54,7 +54,7 @@ stable, law-stable, H_∂-equivariant.
 
 ### `Tau.BookVI.Distinction.Distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L24-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L24-L35)
 **structure
 Tau.BookVI.Distinction.Distinction :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L35-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L35-L35)
 **def
 Tau.BookVI.Distinction.instReprDistinction.repr :Distinction → ℕ → Std.Format**
 
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L35-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L35-L35)
 **instance
 Tau.BookVI.Distinction.instReprDistinction :Repr Distinction**
 
@@ -102,7 +102,7 @@ Equations
 
 ### `Tau.BookVI.Distinction.canonical_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L37-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L37-L39)
 **def
 Tau.BookVI.Distinction.canonical_distinction :Distinction**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.FiniteLineageCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L41-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L41-L48)
 **structure
 Tau.BookVI.Distinction.FiniteLineageCarrier :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprFiniteLineageCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L48-L48)
 **def
 Tau.BookVI.Distinction.instReprFiniteLineageCarrier.repr :FiniteLineageCarrier → ℕ → Std.Format**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprFiniteLineageCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L48-L48)
 **instance
 Tau.BookVI.Distinction.instReprFiniteLineageCarrier :Repr FiniteLineageCarrier**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookVI.Distinction.MacroTorusCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L50-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L50-L55)
 **structure
 Tau.BookVI.Distinction.MacroTorusCarrier :Type**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprMacroTorusCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L55-L55)
 **def
 Tau.BookVI.Distinction.instReprMacroTorusCarrier.repr :MacroTorusCarrier → ℕ → Std.Format**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprMacroTorusCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L55-L55)
 **instance
 Tau.BookVI.Distinction.instReprMacroTorusCarrier :Repr MacroTorusCarrier**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.BookVI.Distinction.GalacticCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L57-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L57-L62)
 **structure
 Tau.BookVI.Distinction.GalacticCarrier :Type**
 
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprGalacticCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L62-L62)
 **instance
 Tau.BookVI.Distinction.instReprGalacticCarrier :Repr GalacticCarrier**
 
@@ -221,7 +221,7 @@ Equations
 
 ### `Tau.BookVI.Distinction.instReprGalacticCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L62-L62)
 **def
 Tau.BookVI.Distinction.instReprGalacticCarrier.repr :GalacticCarrier → ℕ → Std.Format**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.DistinctionWellDefined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L64-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L64-L70)
 **structure
 Tau.BookVI.Distinction.DistinctionWellDefined :Type**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.instReprDistinctionWellDefined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L70-L70)
 **instance
 Tau.BookVI.Distinction.instReprDistinctionWellDefined :Repr DistinctionWellDefined**
 
@@ -261,7 +261,7 @@ Equations
 
 ### `Tau.BookVI.Distinction.instReprDistinctionWellDefined.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L70-L70)
 **def
 Tau.BookVI.Distinction.instReprDistinctionWellDefined.repr :DistinctionWellDefined → ℕ → Std.Format**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.distinction_wd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L72-L72)
 **def
 Tau.BookVI.Distinction.distinction_wd :DistinctionWellDefined**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookVI.Distinction.distinction_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L74-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L74-L78)
 **theorem
 Tau.BookVI.Distinction.distinction_well_defined :distinction_wd.bounded_stabilization = true ∧ distinction_wd.terminates = true ∧ distinction_wd.unique_given_chi = true**
 
@@ -294,6 +294,6 @@ Tau.BookVI.Distinction.distinction_well_defined :distinction_wd.bounded_stabiliz
 
 ### `Tau.BookVI.Distinction.distinction_has_five_conditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/Distinction.lean#L80-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/Distinction.lean#L80-L82)
 **theorem
 Tau.BookVI.Distinction.distinction_has_five_conditions :canonical_distinction.condition_count = 5**

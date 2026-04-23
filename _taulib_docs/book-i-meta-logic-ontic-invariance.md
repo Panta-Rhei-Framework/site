@@ -51,7 +51,7 @@ shows identity slippage prevents unique omega internalization.
 
 ### `Tau.MetaLogic.BlockingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L29-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L29-L34)
 **inductive
 Tau.MetaLogic.BlockingMechanism :Type**
 
@@ -67,7 +67,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqBlockingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
 **instance
 Tau.MetaLogic.instDecidableEqBlockingMechanism :DecidableEq BlockingMechanism**
 
@@ -78,7 +78,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprBlockingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
 **instance
 Tau.MetaLogic.instReprBlockingMechanism :Repr BlockingMechanism**
 
@@ -89,7 +89,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprBlockingMechanism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L34-L34)
 **def
 Tau.MetaLogic.instReprBlockingMechanism.repr :BlockingMechanism → ℕ → Std.Format**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.MetaLogic.blocking_targets`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L36-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L36-L40)
 **def
 Tau.MetaLogic.blocking_targets :BlockingMechanism → ResonanceComponent**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.MetaLogic.blocking_targets_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L42-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L42-L45)
 **theorem
 Tau.MetaLogic.blocking_targets_injective
 (m1 m2 : BlockingMechanism)
@@ -132,7 +132,7 @@ The blocking map is injective: each mechanism targets a distinct component.
 
 ### `Tau.MetaLogic.blocking_targets_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L47-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L47-L53)
 **theorem
 Tau.MetaLogic.blocking_targets_surjective
 (c : ResonanceComponent)
@@ -145,7 +145,7 @@ The blocking map is surjective: every component has a blocker.
 
 ### `Tau.MetaLogic.allBlockingMechanisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L55-L57)
 **def
 Tau.MetaLogic.allBlockingMechanisms :List BlockingMechanism**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.MetaLogic.blocking_mechanism_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L59-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L59-L60)
 **theorem
 Tau.MetaLogic.blocking_mechanism_count :allBlockingMechanisms.length = 3**
 
@@ -170,7 +170,7 @@ There are exactly 3 blocking mechanisms.
 
 ### `Tau.MetaLogic.OnticIdentityInvariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L66-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L66-L86)
 **structure
 Tau.MetaLogic.OnticIdentityInvariance :Type**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.MetaLogic.ontic_identity_invariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L88-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L88-L95)
 **def
 Tau.MetaLogic.ontic_identity_invariance :OnticIdentityInvariance**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.MetaLogic.identityCoherenceLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L101-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L101-L106)
 **def
 Tau.MetaLogic.identityCoherenceLevel
 (dr : DiagonalResonance)
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_identity_coherence_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L108-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L108-L109)
 **theorem
 Tau.MetaLogic.tau_identity_coherence_100 :identityCoherenceLevel tau_resonance = 100**
 
@@ -255,7 +255,7 @@ Tau.MetaLogic.tau_identity_coherence_100 :identityCoherenceLevel tau_resonance =
 
 ### `Tau.MetaLogic.orthodox_identity_coherence_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L111-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L111-L114)
 **theorem
 Tau.MetaLogic.orthodox_identity_coherence_0
 (f : OrthodoxFoundation)
@@ -268,7 +268,7 @@ Orthodox foundations have 0% identity coherence (all three components present).
 
 ### `Tau.MetaLogic.no_identity_decoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L120-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L120-L123)
 **theorem
 Tau.MetaLogic.no_identity_decoherence :tau_resonance.isFullResonance = false**
 
@@ -280,7 +280,7 @@ cannot occur at the ontic level in τ. Direct consequence of I.T46.
 
 ### `Tau.MetaLogic.no_partial_decoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L125-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L125-L130)
 **theorem
 Tau.MetaLogic.no_partial_decoherence :tau_resonance.contraction_present = false ∧ tau_resonance.equality_congruence = false ∧ tau_resonance.self_products = false**
 
@@ -291,7 +291,7 @@ Stronger form: no subset of the resonance components is present.
 
 ### `Tau.MetaLogic.UniqueOmegaCapability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L136-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L136-L140)
 **structure
 Tau.MetaLogic.UniqueOmegaCapability :Type**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.MetaLogic.slippage_breaks_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L146-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L146-L158)
 **theorem
 Tau.MetaLogic.slippage_breaks_omega
 (dr : DiagonalResonance)
@@ -327,7 +327,7 @@ UniqueOmegaCapability is impossible for that resonance profile.
 
 ### `Tau.MetaLogic.tau_omega_capability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L160-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L160-L163)
 **def
 Tau.MetaLogic.tau_omega_capability :UniqueOmegaCapability**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.MetaLogic.orthodox_no_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/OnticInvariance.lean#L165-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/OnticInvariance.lean#L165-L168)
 **theorem
 Tau.MetaLogic.orthodox_no_omega
 (f : OrthodoxFoundation)

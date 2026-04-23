@@ -62,7 +62,7 @@ The Enrichment Frontier Classification grades each E-transition:
 
 ### `Tau.MetaLogic.SelfHostingDegree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L35-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L35-L47)
 **inductive
 Tau.MetaLogic.SelfHostingDegree :Type**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqSelfHostingDegree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
 **instance
 Tau.MetaLogic.instDecidableEqSelfHostingDegree :DecidableEq SelfHostingDegree**
 
@@ -101,7 +101,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprSelfHostingDegree.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
 **def
 Tau.MetaLogic.instReprSelfHostingDegree.repr :SelfHostingDegree → ℕ → Std.Format**
 
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprSelfHostingDegree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L47-L47)
 **instance
 Tau.MetaLogic.instReprSelfHostingDegree :Repr SelfHostingDegree**
 
@@ -124,7 +124,7 @@ Equations
 
 ### `Tau.MetaLogic.allSelfHostingDegrees`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L51-L53)
 **def
 Tau.MetaLogic.allSelfHostingDegrees :List SelfHostingDegree**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.MetaLogic.self_hosting_degree_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L55-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L55-L56)
 **theorem
 Tau.MetaLogic.self_hosting_degree_count :allSelfHostingDegrees.length = 4**
 
@@ -149,7 +149,7 @@ There are exactly 4 self-hosting degrees.
 
 ### `Tau.MetaLogic.CCCSide`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L62-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L62-L71)
 **structure
 Tau.MetaLogic.CCCSide :Type**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.MetaLogic.StarAutonomousSide`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L73-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L73-L83)
 **structure
 Tau.MetaLogic.StarAutonomousSide :Type**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.MetaLogic.ccc_side`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L85-L89)
 **def
 Tau.MetaLogic.ccc_side :CCCSide**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.MetaLogic.star_autonomous_side`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L91-L95)
 **def
 Tau.MetaLogic.star_autonomous_side :StarAutonomousSide**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.MetaLogic.K5StructuralExclusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L101-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L101-L117)
 **structure
 Tau.MetaLogic.K5StructuralExclusion :Type**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.MetaLogic.k5_structural_exclusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L119-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L119-L124)
 **def
 Tau.MetaLogic.k5_structural_exclusion :K5StructuralExclusion**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.MetaLogic.EnrichmentFrontierStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L130-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L130-L136)
 **inductive
 Tau.MetaLogic.EnrichmentFrontierStatus :Type**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqEnrichmentFrontierStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
 **instance
 Tau.MetaLogic.instDecidableEqEnrichmentFrontierStatus :DecidableEq EnrichmentFrontierStatus**
 
@@ -305,7 +305,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprEnrichmentFrontierStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
 **instance
 Tau.MetaLogic.instReprEnrichmentFrontierStatus :Repr EnrichmentFrontierStatus**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprEnrichmentFrontierStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L136-L136)
 **def
 Tau.MetaLogic.instReprEnrichmentFrontierStatus.repr :EnrichmentFrontierStatus → ℕ → Std.Format**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.MetaLogic.e0_e1_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L140-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L140-L143)
 **def
 Tau.MetaLogic.e0_e1_status :EnrichmentFrontierStatus**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.MetaLogic.e1_e2_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L145-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L145-L148)
 **def
 Tau.MetaLogic.e1_e2_status :EnrichmentFrontierStatus**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.MetaLogic.e2_e3_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L150-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L150-L153)
 **def
 Tau.MetaLogic.e2_e3_status :EnrichmentFrontierStatus**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.MetaLogic.allFrontierStatuses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L155-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L155-L157)
 **def
 Tau.MetaLogic.allFrontierStatuses :List EnrichmentFrontierStatus**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.MetaLogic.frontier_status_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L159-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L159-L160)
 **theorem
 Tau.MetaLogic.frontier_status_count :allFrontierStatuses.length = 3**
 
@@ -401,7 +401,7 @@ There are exactly 3 frontier statuses.
 
 ### `Tau.MetaLogic.e_transitions_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L162-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L162-L167)
 **theorem
 Tau.MetaLogic.e_transitions_distinct :e0_e1_status ≠ e1_e2_status ∧ e1_e2_status ≠ e2_e3_status ∧ e0_e1_status ≠ e2_e3_status**
 
@@ -412,7 +412,7 @@ The three E-transitions have distinct statuses.
 
 ### `Tau.MetaLogic.frontierRank`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L169-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L169-L175)
 **def
 Tau.MetaLogic.frontierRank :EnrichmentFrontierStatus → ℕ**
 
@@ -430,7 +430,7 @@ Instances For
 
 ### `Tau.MetaLogic.e0_e1_easier_than_e1_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L177-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L177-L179)
 **theorem
 Tau.MetaLogic.e0_e1_easier_than_e1_e2 :frontierRank e0_e1_status < frontierRank e1_e2_status**
 
@@ -441,7 +441,7 @@ E₀→E₁ is easier than E₁→E₂.
 
 ### `Tau.MetaLogic.e1_e2_easier_than_e2_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L181-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L181-L183)
 **theorem
 Tau.MetaLogic.e1_e2_easier_than_e2_e3 :frontierRank e1_e2_status < frontierRank e2_e3_status**
 
@@ -452,7 +452,7 @@ E₁→E₂ is easier than E₂→E₃.
 
 ### `Tau.MetaLogic.max_frontier_rank`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L185-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/StructuralExclusion.lean#L185-L187)
 **theorem
 Tau.MetaLogic.max_frontier_rank :frontierRank e2_e3_status = 2**
 

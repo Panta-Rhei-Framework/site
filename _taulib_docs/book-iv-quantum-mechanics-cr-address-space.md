@@ -74,7 +74,7 @@ sublattice, and the emergence of spin-1/2 from CR-parity.
 
 ### `Tau.BookIV.QuantumMechanics.CRManifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L42-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L42-L54)
 **structure
 Tau.BookIV.QuantumMechanics.CRManifold :Type**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCRManifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L54-L54)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCRManifold :Repr CRManifold**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCRManifold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L54-L54)
 **def
 Tau.BookIV.QuantumMechanics.instReprCRManifold.repr :CRManifold → ℕ → Std.Format**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.CRManifold.mk_auto`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L56-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L56-L61)
 **def
 Tau.BookIV.QuantumMechanics.CRManifold.mk_auto
 (k l : ℕ)
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.IntegrableCR`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L67-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L67-L74)
 **structure
 Tau.BookIV.QuantumMechanics.IntegrableCRextends Tau.BookIV.QuantumMechanics.CRManifold :Type**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprIntegrableCR.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L74-L74)
 **def
 Tau.BookIV.QuantumMechanics.instReprIntegrableCR.repr :IntegrableCR → ℕ → Std.Format**
 
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprIntegrableCR`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L74-L74)
 **instance
 Tau.BookIV.QuantumMechanics.instReprIntegrableCR :Repr IntegrableCR**
 
@@ -186,7 +186,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.integrability_criterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L76-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L76-L78)
 **theorem
 Tau.BookIV.QuantumMechanics.integrability_criterion
 (icr : IntegrableCR)
@@ -199,7 +199,7 @@ Integrable CR-structures have vanishing Nijenhuis tensor.
 
 ### `Tau.BookIV.QuantumMechanics.cr_structure_tau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L84-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L84-L94)
 **def
 Tau.BookIV.QuantumMechanics.cr_structure_tau3 :IntegrableCR**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.tau3_cr_integrable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L100-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L100-L103)
 **theorem
 Tau.BookIV.QuantumMechanics.tau3_cr_integrable :cr_structure_tau3.nijenhuis_vanishes = true**
 
@@ -230,7 +230,7 @@ fibration projection is holomorphic.
 
 ### `Tau.BookIV.QuantumMechanics.tau3_cr_dim`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L105-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L105-L106)
 **theorem
 Tau.BookIV.QuantumMechanics.tau3_cr_dim :cr_structure_tau3.real_dim = 3**
 
@@ -241,7 +241,7 @@ tau^3 is CR of type (1,1) with real dimension 3.
 
 ### `Tau.BookIV.QuantumMechanics.CharacterMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L112-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L112-L120)
 **structure
 Tau.BookIV.QuantumMechanics.CharacterMode :Type**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCharacterMode :Repr CharacterMode**
 
@@ -273,7 +273,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **def
 Tau.BookIV.QuantumMechanics.instReprCharacterMode.repr :CharacterMode → ℕ → Std.Format**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instDecidableEqCharacterMode.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **def
 Tau.BookIV.QuantumMechanics.instDecidableEqCharacterMode.decEq
 (x✝ x✝¹ : CharacterMode)
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instDecidableEqCharacterMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **instance
 Tau.BookIV.QuantumMechanics.instDecidableEqCharacterMode :DecidableEq CharacterMode**
 
@@ -310,7 +310,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instBEqCharacterMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **instance
 Tau.BookIV.QuantumMechanics.instBEqCharacterMode :BEq CharacterMode**
 
@@ -321,7 +321,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instBEqCharacterMode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L120-L120)
 **def
 Tau.BookIV.QuantumMechanics.instBEqCharacterMode.beq :CharacterMode → CharacterMode → Bool**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.CRAddress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L126-L129)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L126-L129)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.QuantumMechanics.CRAddress :Type**
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.AddressPrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L135-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L135-L149)
 **structure
 Tau.BookIV.QuantumMechanics.AddressPrecision :Type**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprAddressPrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L149-L149)
 **instance
 Tau.BookIV.QuantumMechanics.instReprAddressPrecision :Repr AddressPrecision**
 
@@ -392,7 +392,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprAddressPrecision.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L149-L149)
 **def
 Tau.BookIV.QuantumMechanics.instReprAddressPrecision.repr :AddressPrecision → ℕ → Std.Format**
 
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.WedgeHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L155-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L155-L165)
 **structure
 Tau.BookIV.QuantumMechanics.WedgeHolonomy :Type**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprWedgeHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L165-L165)
 **instance
 Tau.BookIV.QuantumMechanics.instReprWedgeHolonomy :Repr WedgeHolonomy**
 
@@ -438,7 +438,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprWedgeHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L165-L165)
 **def
 Tau.BookIV.QuantumMechanics.instReprWedgeHolonomy.repr :WedgeHolonomy → ℕ → Std.Format**
 
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.wedge_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L167-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L167-L171)
 **def
 Tau.BookIV.QuantumMechanics.wedge_holonomy
 (cm : CharacterMode)
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.cr_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L177-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L177-L181)
 **def
 Tau.BookIV.QuantumMechanics.cr_admissible
 (addr : CRAddress)
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instDecidableCr_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L183-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L183-L185)
 **instance
 Tau.BookIV.QuantumMechanics.instDecidableCr_admissible
 (addr : CRAddress)
@@ -499,7 +499,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.cr_parity_constraint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L187-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L187-L190)
 **theorem
 Tau.BookIV.QuantumMechanics.cr_parity_constraint
 (addr : CRAddress)
@@ -512,7 +512,7 @@ CR parity constraint: m+n even iff admissible.
 
 ### `Tau.BookIV.QuantumMechanics.AdmissibleLattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L205-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L205-L211)
 **structure
 Tau.BookIV.QuantumMechanics.AdmissibleLattice :Type**
 
@@ -532,7 +532,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.density_halving`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L217-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L217-L223)
 **theorem
 Tau.BookIV.QuantumMechanics.density_halving
 (addr : CRAddress)
@@ -549,7 +549,7 @@ This proves the sublattice has index 2.
 
 ### `Tau.BookIV.QuantumMechanics.density_halving_converse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L225-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L225-L229)
 **theorem
 Tau.BookIV.QuantumMechanics.density_halving_converse
 (addr : CRAddress)
@@ -564,7 +564,7 @@ Conversely, if (m,n) is inadmissible, (m+1,n) is admissible.
 
 ### `Tau.BookIV.QuantumMechanics.SpinHalfEmergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L235-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L235-L251)
 **structure
 Tau.BookIV.QuantumMechanics.SpinHalfEmergence :Type**
 
@@ -594,7 +594,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSpinHalfEmergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L251-L251)
 **instance
 Tau.BookIV.QuantumMechanics.instReprSpinHalfEmergence :Repr SpinHalfEmergence**
 
@@ -605,7 +605,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprSpinHalfEmergence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L251-L251)
 **def
 Tau.BookIV.QuantumMechanics.instReprSpinHalfEmergence.repr :SpinHalfEmergence → ℕ → Std.Format**
 
@@ -617,7 +617,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.spin_half_emergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L253-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/CRAddressSpace.lean#L253-L259)
 **def
 Tau.BookIV.QuantumMechanics.spin_half_emergence :SpinHalfEmergence**
 

@@ -82,7 +82,7 @@ is holomorphic if and only if it satisfies four conditions:
 
 ### `Tau.BookII.Regularity.branch_factorization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L52-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L52-L79)
 **def
 Tau.BookII.Regularity.branch_factorization_check
 (bound db : Denotation.TauIdx)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.branch_factorization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L61-L78)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L61-L78)@[irreducible]
 
 **def
 Tau.BookII.Regularity.branch_factorization_check.go
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.branch_factorization_bndlift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L81-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L81-L98)
 **def
 Tau.BookII.Regularity.branch_factorization_bndlift
 (bound db : Denotation.TauIdx)
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.branch_factorization_bndlift.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L86-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L86-L97)@[irreducible]
 
 **def
 Tau.BookII.Regularity.branch_factorization_bndlift.go
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.prime_split_support_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L104-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L104-L136)
 **def
 Tau.BookII.Regularity.prime_split_support_check
 (bound : Denotation.TauIdx)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.prime_split_support_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L119-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L119-L135)@[irreducible]
 
 **def
 Tau.BookII.Regularity.prime_split_support_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.prime_split_stagewise`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L138-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L138-L156)
 **def
 Tau.BookII.Regularity.prime_split_stagewise
 (bound db : Denotation.TauIdx)
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.prime_split_stagewise.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L144-L155)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L144-L155)@[irreducible]
 
 **def
 Tau.BookII.Regularity.prime_split_stagewise.go
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.j_swap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L162-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L162-L166)
 **def
 Tau.BookII.Regularity.j_swap
 (sp : Polarity.SectorPair)
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.polarity_symmetry_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L168-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L168-L199)
 **def
 Tau.BookII.Regularity.polarity_symmetry_check
 (bound : Denotation.TauIdx)
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.polarity_symmetry_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L179-L198)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L179-L198)@[irreducible]
 
 **def
 Tau.BookII.Regularity.polarity_symmetry_check.go
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.j_swap_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L201-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L201-L204)
 **theorem
 Tau.BookII.Regularity.j_swap_involution
 (sp : Polarity.SectorPair)
@@ -308,7 +308,7 @@ j-swap is an involution: j_swap(j_swap(sp)) = sp.
 
 ### `Tau.BookII.Regularity.j_swap_proj_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L206-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L206-L209)
 **theorem
 Tau.BookII.Regularity.j_swap_proj_plus
 (bp : Polarity.SectorPair)
@@ -321,7 +321,7 @@ j-swap swaps the idempotent projections (formal).
 
 ### `Tau.BookII.Regularity.j_swap_proj_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L211-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L211-L213)
 **theorem
 Tau.BookII.Regularity.j_swap_proj_minus
 (bp : Polarity.SectorPair)
@@ -332,7 +332,7 @@ Tau.BookII.Regularity.j_swap_proj_minus
 
 ### `Tau.BookII.Regularity.j_swap_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L215-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L215-L219)
 **theorem
 Tau.BookII.Regularity.j_swap_recovery
 (bp : Polarity.SectorPair)
@@ -345,7 +345,7 @@ j-swap preserves decomposition recovery.
 
 ### `Tau.BookII.Regularity.sc_j_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L225-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L225-L228)
 **def
 Tau.BookII.Regularity.sc_j_mul
 (z : Polarity.SplitComplex)
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.sc_j_swaps`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L230-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L230-L233)
 **theorem
 Tau.BookII.Regularity.sc_j_swaps
 (z : Polarity.SplitComplex)
@@ -375,7 +375,7 @@ j-multiplication swaps re and im (formal).
 
 ### `Tau.BookII.Regularity.j_swaps_idempotents_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L235-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L235-L240)
 **def
 Tau.BookII.Regularity.j_swaps_idempotents_check :Bool**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is1_decomposition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L246-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L246-L261)
 **def
 Tau.BookII.Regularity.is1_decomposition_check
 (bound db : Denotation.TauIdx)
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is1_decomposition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L251-L260)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L251-L260)@[irreducible]
 
 **def
 Tau.BookII.Regularity.is1_decomposition_check.go
@@ -424,7 +424,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is2_naturality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L263-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L263-L287)
 **def
 Tau.BookII.Regularity.is2_naturality_check
 (bound db : Denotation.TauIdx)
@@ -442,7 +442,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is2_naturality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L269-L286)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L269-L286)@[irreducible]
 
 **def
 Tau.BookII.Regularity.is2_naturality_check.go
@@ -459,7 +459,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is3_channel_support_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L289-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L289-L291)
 **def
 Tau.BookII.Regularity.is3_channel_support_check
 (bound : Denotation.TauIdx)
@@ -475,7 +475,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.is4_polarity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L293-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L293-L295)
 **def
 Tau.BookII.Regularity.is4_polarity_check
 (bound : Denotation.TauIdx)
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.hol_iff_is_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L297-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L297-L303)
 **def
 Tau.BookII.Regularity.hol_iff_is_check
 (bound db : Denotation.TauIdx)
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.full_three_lemma_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L309-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L309-L317)
 **def
 Tau.BookII.Regularity.full_three_lemma_check
 (bound db : Denotation.TauIdx)
@@ -524,7 +524,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.branch_fact_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L358-L359)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L358-L359)
 **theorem
 Tau.BookII.Regularity.branch_fact_12_3 :branch_factorization_check 12 3 = true**
 
@@ -533,7 +533,7 @@ Tau.BookII.Regularity.branch_fact_12_3 :branch_factorization_check 12 3 = true**
 
 ### `Tau.BookII.Regularity.branch_bndlift_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L361-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L361-L362)
 **theorem
 Tau.BookII.Regularity.branch_bndlift_12_3 :branch_factorization_bndlift 12 3 = true**
 
@@ -542,7 +542,7 @@ Tau.BookII.Regularity.branch_bndlift_12_3 :branch_factorization_bndlift 12 3 = t
 
 ### `Tau.BookII.Regularity.prime_split_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L365-L366)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L365-L366)
 **theorem
 Tau.BookII.Regularity.prime_split_30 :prime_split_support_check 30 = true**
 
@@ -551,7 +551,7 @@ Tau.BookII.Regularity.prime_split_30 :prime_split_support_check 30 = true**
 
 ### `Tau.BookII.Regularity.prime_split_stage_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L368-L369)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L368-L369)
 **theorem
 Tau.BookII.Regularity.prime_split_stage_12_3 :prime_split_stagewise 12 3 = true**
 
@@ -560,7 +560,7 @@ Tau.BookII.Regularity.prime_split_stage_12_3 :prime_split_stagewise 12 3 = true*
 
 ### `Tau.BookII.Regularity.polarity_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L372-L373)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L372-L373)
 **theorem
 Tau.BookII.Regularity.polarity_30 :polarity_symmetry_check 30 = true**
 
@@ -569,7 +569,7 @@ Tau.BookII.Regularity.polarity_30 :polarity_symmetry_check 30 = true**
 
 ### `Tau.BookII.Regularity.j_idem_swap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L375-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L375-L376)
 **theorem
 Tau.BookII.Regularity.j_idem_swap :j_swaps_idempotents_check = true**
 
@@ -578,7 +578,7 @@ Tau.BookII.Regularity.j_idem_swap :j_swaps_idempotents_check = true**
 
 ### `Tau.BookII.Regularity.is1_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L379-L380)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L379-L380)
 **theorem
 Tau.BookII.Regularity.is1_12_3 :is1_decomposition_check 12 3 = true**
 
@@ -587,7 +587,7 @@ Tau.BookII.Regularity.is1_12_3 :is1_decomposition_check 12 3 = true**
 
 ### `Tau.BookII.Regularity.is2_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L382-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L382-L383)
 **theorem
 Tau.BookII.Regularity.is2_12_3 :is2_naturality_check 12 3 = true**
 
@@ -596,7 +596,7 @@ Tau.BookII.Regularity.is2_12_3 :is2_naturality_check 12 3 = true**
 
 ### `Tau.BookII.Regularity.is3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L385-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L385-L386)
 **theorem
 Tau.BookII.Regularity.is3_30 :is3_channel_support_check 30 = true**
 
@@ -605,7 +605,7 @@ Tau.BookII.Regularity.is3_30 :is3_channel_support_check 30 = true**
 
 ### `Tau.BookII.Regularity.is4_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L388-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L388-L389)
 **theorem
 Tau.BookII.Regularity.is4_30 :is4_polarity_check 30 = true**
 
@@ -614,7 +614,7 @@ Tau.BookII.Regularity.is4_30 :is4_polarity_check 30 = true**
 
 ### `Tau.BookII.Regularity.hol_iff_is_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L392-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L392-L393)
 **theorem
 Tau.BookII.Regularity.hol_iff_is_12_3 :hol_iff_is_check 12 3 = true**
 
@@ -623,6 +623,6 @@ Tau.BookII.Regularity.hol_iff_is_12_3 :hol_iff_is_check 12 3 = true**
 
 ### `Tau.BookII.Regularity.full_three_lemma_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L396-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/ThreeLemmaChain.lean#L396-L397)
 **theorem
 Tau.BookII.Regularity.full_three_lemma_12_3 :full_three_lemma_check 12 3 = true**

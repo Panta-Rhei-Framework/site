@@ -53,7 +53,7 @@ All three are decidable. Shadow equality implies ontic equality
 
 ### `Tau.Denotation.ontic_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L31-L32)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L31-L32)
 **def
 Tau.Denotation.ontic_eq
 (x y : Kernel.TauObj)
@@ -69,7 +69,7 @@ Instances For
 
 ### `Tau.Denotation.addr_equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L34-L37)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L34-L37)
 **def
 Tau.Denotation.addr_equiv
 (p q : Program)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.Denotation.shadow_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L39-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L39-L42)
 **def
 Tau.Denotation.shadow_eq
 (x y : Kernel.TauObj)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.Denotation.ontic_eq_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L48-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L48-L50)
 **instance
 Tau.Denotation.ontic_eq_decidable
 (x y : Kernel.TauObj)
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.Denotation.addr_equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L52-L54)
 **theorem
 Tau.Denotation.addr_equiv_refl
 (p : Program)
@@ -132,7 +132,7 @@ Address equivalence is reflexive.
 
 ### `Tau.Denotation.addr_equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L56-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L56-L58)
 **theorem
 Tau.Denotation.addr_equiv_symm
 {p q : Program}
@@ -147,7 +147,7 @@ Address equivalence is symmetric.
 
 ### `Tau.Denotation.addr_equiv_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L60-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L60-L63)
 **theorem
 Tau.Denotation.addr_equiv_trans
 {p q r : Program}
@@ -164,7 +164,7 @@ Address equivalence is transitive.
 
 ### `Tau.Denotation.addr_equiv_nil`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L65-L67)
 **theorem
 Tau.Denotation.addr_equiv_nil :addr_equiv [] []**
 
@@ -175,7 +175,7 @@ The empty program is addr_equiv to itself.
 
 ### `Tau.Denotation.shadow_implies_ontic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L69-L71)
 **theorem
 Tau.Denotation.shadow_implies_ontic
 (x y : Kernel.TauObj)
@@ -190,7 +190,7 @@ Shadow equality implies ontic equality (trivially, in current scope).
 
 ### `Tau.Denotation.addr_equiv_compose_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L73-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L73-L77)
 **theorem
 Tau.Denotation.addr_equiv_compose_left
 {p₁ p₂ : Program}
@@ -207,7 +207,7 @@ Composition preserves address equivalence (left).
 
 ### `Tau.Denotation.addr_equiv_compose_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Equality.lean#L79-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Equality.lean#L79-L83)
 **theorem
 Tau.Denotation.addr_equiv_compose_right
 (p : Program)

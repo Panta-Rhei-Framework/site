@@ -107,7 +107,7 @@ and refinement is irreversible (structural arrow of time).
 
 ### `Tau.BookV.Temporal.BaseCircle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L66-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L66-L82)
 **structure
 Tau.BookV.Temporal.BaseCircle :Type**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_base_circle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L84-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L84-L89)
 **def
 Tau.BookV.Temporal.canonical_base_circle :BaseCircle**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.AlphaTick`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L95-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L95-L109)
 **structure
 Tau.BookV.Temporal.AlphaTick :Type**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprAlphaTick.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L109-L109)
 **def
 Tau.BookV.Temporal.instReprAlphaTick.repr :AlphaTick → ℕ → Std.Format**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprAlphaTick`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L109-L109)
 **instance
 Tau.BookV.Temporal.instReprAlphaTick :Repr AlphaTick**
 
@@ -210,7 +210,7 @@ Equations
 
 ### `Tau.BookV.Temporal.alpha_tick_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L111-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L111-L115)
 **def
 Tau.BookV.Temporal.alpha_tick_at
 (n : ℕ)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.alpha_tick_causal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L117-L120)
 **theorem
 Tau.BookV.Temporal.alpha_tick_causal
 (t : AlphaTick)
@@ -241,7 +241,7 @@ Alpha-ticks preserve the causal direction (source < target).
 
 ### `Tau.BookV.Temporal.ProperTimeSeries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L126-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L126-L146)
 **structure
 Tau.BookV.Temporal.ProperTimeSeries :Type**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprProperTimeSeries.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L146-L146)
 **def
 Tau.BookV.Temporal.instReprProperTimeSeries.repr :ProperTimeSeries → ℕ → Std.Format**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprProperTimeSeries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L146-L146)
 **instance
 Tau.BookV.Temporal.instReprProperTimeSeries :Repr ProperTimeSeries**
 
@@ -300,7 +300,7 @@ Equations
 
 ### `Tau.BookV.Temporal.ProperTimeSeries.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L148-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L148-L150)
 **def
 Tau.BookV.Temporal.ProperTimeSeries.toFloat
 (t : ProperTimeSeries)
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.physical_time_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L156-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L156-L175)
 **theorem
 Tau.BookV.Temporal.physical_time_derived :(∃ (t : BookIV.Arena.ProtoTime), t.tick > 0) ∧ ∀ (n : ℕ), ∃ (t : BookIV.Arena.ProtoTime), BookIV.Arena.prototime_to_nat t = n**
 
@@ -343,7 +343,7 @@ generates the proper time series.
 
 ### `Tau.BookV.Temporal.temporal_direction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L181-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L181-L191)
 **theorem
 Tau.BookV.Temporal.temporal_direction :canonical_base_circle.seed = Kernel.Generator.alpha ∧ canonical_base_circle.profinite.seed = Kernel.Generator.alpha**
 
@@ -365,7 +365,7 @@ The alpha generator uniquely determines this direction:
 
 ### `Tau.BookV.Temporal.causal_ordering_enforced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L204-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L204-L211)
 **theorem
 Tau.BookV.Temporal.causal_ordering_enforced
 (t1 t2 : BookIV.Arena.ProtoTime)
@@ -384,7 +384,7 @@ it is not an additional postulate but a consequence of tower directedness.
 
 ### `Tau.BookV.Temporal.causal_transitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L213-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L213-L216)
 **theorem
 Tau.BookV.Temporal.causal_transitive
 (t1 t2 t3 : BookIV.Arena.ProtoTime)
@@ -401,7 +401,7 @@ Causal ordering is transitive.
 
 ### `Tau.BookV.Temporal.causal_irreflexive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L218-L220)
 **theorem
 Tau.BookV.Temporal.causal_irreflexive
 (t : BookIV.Arena.ProtoTime)
@@ -414,7 +414,7 @@ Causal ordering is irreflexive.
 
 ### `Tau.BookV.Temporal.GeodesicDuration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L226-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L226-L239)
 **structure
 Tau.BookV.Temporal.GeodesicDuration :Type**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprGeodesicDuration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L239-L239)
 **instance
 Tau.BookV.Temporal.instReprGeodesicDuration :Repr GeodesicDuration**
 
@@ -452,7 +452,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprGeodesicDuration.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L239-L239)
 **def
 Tau.BookV.Temporal.instReprGeodesicDuration.repr :GeodesicDuration → ℕ → Std.Format**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.GeodesicDuration.tick_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L241-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L241-L243)
 **def
 Tau.BookV.Temporal.GeodesicDuration.tick_count
 (g : GeodesicDuration)
@@ -480,7 +480,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.geodesic_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L245-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L245-L249)
 **theorem
 Tau.BookV.Temporal.geodesic_positive
 (g : GeodesicDuration)
@@ -493,7 +493,7 @@ Tick count is always positive.
 
 ### `Tau.BookV.Temporal.total_proper_time_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BaseCircle.lean#L255-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BaseCircle.lean#L255-L272)
 **theorem
 Tau.BookV.Temporal.total_proper_time_bounded :BookIV.Sectors.iota < BookIV.Sectors.iotaD ∧ BookIV.Sectors.iota < BookIV.Sectors.iotaD - BookIV.Sectors.iota**
 

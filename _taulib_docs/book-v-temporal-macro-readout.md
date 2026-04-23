@@ -61,7 +61,7 @@ expansion, and the Hubble parameter.
 
 ### `Tau.BookV.Temporal.NullIntertwiner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L36-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L36-L52)
 **structure
 Tau.BookV.Temporal.NullIntertwiner :Type**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNullIntertwiner.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L52-L52)
 **def
 Tau.BookV.Temporal.instReprNullIntertwiner.repr :NullIntertwiner → ℕ → Std.Format**
 
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNullIntertwiner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L52-L52)
 **instance
 Tau.BookV.Temporal.instReprNullIntertwiner :Repr NullIntertwiner**
 
@@ -117,7 +117,7 @@ Equations
 
 ### `Tau.BookV.Temporal.photon_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L54-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L54-L61)
 **def
 Tau.BookV.Temporal.photon_null :NullIntertwiner**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.boundary_supports_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L67-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L67-L73)
 **theorem
 Tau.BookV.Temporal.boundary_supports_null :BookIV.Sectors.em_sector.generator = Kernel.Generator.gamma ∧ BookIV.Sectors.em_sector.depth = 2 ∧ photon_null.sector = BookIII.Sectors.Sector.B**
 
@@ -143,7 +143,7 @@ EM generator gamma at depth 2 allows null transport on τ¹.
 
 ### `Tau.BookV.Temporal.null_selects_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L79-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L79-L83)
 **theorem
 Tau.BookV.Temporal.null_selects_em
 (n : NullIntertwiner)
@@ -158,7 +158,7 @@ C is confined (χ₋), Omega is massive (crossing).
 
 ### `Tau.BookV.Temporal.em_unique_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L85-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L85-L91)
 **theorem
 Tau.BookV.Temporal.em_unique_null :BookIV.Sectors.em_sector.polarity = BookIV.Sectors.PolaritySign.ChiPlus ∧ BookIV.Sectors.em_sector.depth = 2 ∧ BookIV.Sectors.strong_sector.polarity = BookIV.Sectors.PolaritySign.ChiMinus ∧ BookIV.Sectors.higgs_sector.polarity = BookIV.Sectors.PolaritySign.Crossing**
 
@@ -169,7 +169,7 @@ EM is the unique null carrier among the 5 sectors.
 
 ### `Tau.BookV.Temporal.OperationalDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L97-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L97-L108)
 **structure
 Tau.BookV.Temporal.OperationalDistance :Type**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprOperationalDistance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L108-L108)
 **instance
 Tau.BookV.Temporal.instReprOperationalDistance :Repr OperationalDistance**
 
@@ -204,7 +204,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprOperationalDistance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L108-L108)
 **def
 Tau.BookV.Temporal.instReprOperationalDistance.repr :OperationalDistance → ℕ → Std.Format**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.OperationalDistance.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L110-L112)
 **def
 Tau.BookV.Temporal.OperationalDistance.toFloat
 (d : OperationalDistance)
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.distance_time_dual`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L118-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L118-L125)
 **theorem
 Tau.BookV.Temporal.distance_time_dual :canonical_base_circle.seed = Kernel.Generator.alpha ∧ photon_null.sector = BookIII.Sectors.Sector.B ∧ canonical_base_circle.profinite.seed = Kernel.Generator.alpha**
 
@@ -245,7 +245,7 @@ ticks between events. Both derived from the refinement tower.
 
 ### `Tau.BookV.Temporal.RefinementDrift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L131-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L131-L142)
 **structure
 Tau.BookV.Temporal.RefinementDrift :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprRefinementDrift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L142-L142)
 **instance
 Tau.BookV.Temporal.instReprRefinementDrift :Repr RefinementDrift**
 
@@ -279,7 +279,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprRefinementDrift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L142-L142)
 **def
 Tau.BookV.Temporal.instReprRefinementDrift.repr :RefinementDrift → ℕ → Std.Format**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.RefinementDrift.depth_diff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L144-L146)
 **def
 Tau.BookV.Temporal.RefinementDrift.depth_diff
 (d : RefinementDrift)
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.drift_formula_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L152-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L152-L157)
 **theorem
 Tau.BookV.Temporal.drift_formula_positive
 (d : RefinementDrift)
@@ -321,7 +321,7 @@ observations (source earlier than receiver).
 
 ### `Tau.BookV.Temporal.ReadoutExpansion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L163-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L163-L172)
 **structure
 Tau.BookV.Temporal.ReadoutExpansion :Type**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprReadoutExpansion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L172-L172)
 **def
 Tau.BookV.Temporal.instReprReadoutExpansion.repr :ReadoutExpansion → ℕ → Std.Format**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprReadoutExpansion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L172-L172)
 **instance
 Tau.BookV.Temporal.instReprReadoutExpansion :Repr ReadoutExpansion**
 
@@ -364,7 +364,7 @@ Equations
 
 ### `Tau.BookV.Temporal.ReadoutExpansion.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L174-L176)
 **def
 Tau.BookV.Temporal.ReadoutExpansion.toFloat
 (a : ReadoutExpansion)
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.HubbleReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L182-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L182-L191)
 **structure
 Tau.BookV.Temporal.HubbleReadout :Type**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprHubbleReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L191-L191)
 **def
 Tau.BookV.Temporal.instReprHubbleReadout.repr :HubbleReadout → ℕ → Std.Format**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprHubbleReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L191-L191)
 **instance
 Tau.BookV.Temporal.instReprHubbleReadout :Repr HubbleReadout**
 
@@ -423,7 +423,7 @@ Equations
 
 ### `Tau.BookV.Temporal.HubbleReadout.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L193-L195)
 **def
 Tau.BookV.Temporal.HubbleReadout.toFloat
 (h : HubbleReadout)
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.null_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L201-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L201-L204)
 **theorem
 Tau.BookV.Temporal.null_structural
 (n : NullIntertwiner)
@@ -452,7 +452,7 @@ Null intertwiner is always massless and base-carried.
 
 ### `Tau.BookV.Temporal.null_transport_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L206-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L206-L210)
 **theorem
 Tau.BookV.Temporal.null_transport_scale :BookIV.Sectors.em_sector.coupling_numer = BookIV.Sectors.iota_sq_numer ∧ BookIV.Sectors.em_sector.coupling_denom = BookIV.Sectors.iota_sq_denom**
 
@@ -463,7 +463,7 @@ The EM sector coupling ι<sub>τ</sub>² is the null-transport scale.
 
 ### `Tau.BookV.Temporal.redshift_requires_earlier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/MacroReadout.lean#L212-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/MacroReadout.lean#L212-L214)
 **theorem
 Tau.BookV.Temporal.redshift_requires_earlier
 (d : RefinementDrift)

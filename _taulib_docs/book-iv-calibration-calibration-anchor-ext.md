@@ -105,7 +105,7 @@ makes it the natural calibration anchor.
 
 ### `Tau.BookIV.Calibration.RelationalUnit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L65-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L65-L81)
 **structure
 Tau.BookIV.Calibration.RelationalUnit :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalUnit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L81-L81)
 **def
 Tau.BookIV.Calibration.instReprRelationalUnit.repr :RelationalUnit → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRelationalUnit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L81-L81)
 **instance
 Tau.BookIV.Calibration.instReprRelationalUnit :Repr RelationalUnit**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.five_relational_units`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L83-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L83-L93)
 **def
 Tau.BookIV.Calibration.five_relational_units :List RelationalUnit**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.five_relational_units_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L95-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L95-L96)
 **theorem
 Tau.BookIV.Calibration.five_relational_units_count :five_relational_units.length = 5**
 
@@ -188,7 +188,7 @@ Five relational units total.
 
 ### `Tau.BookIV.Calibration.CollapseStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L102-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L102-L107)
 **inductive
 Tau.BookIV.Calibration.CollapseStatus :Type**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCollapseStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
 **instance
 Tau.BookIV.Calibration.instReprCollapseStatus :Repr CollapseStatus**
 
@@ -215,7 +215,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprCollapseStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
 **def
 Tau.BookIV.Calibration.instReprCollapseStatus.repr :CollapseStatus → ℕ → Std.Format**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqCollapseStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L107-L107)
 **instance
 Tau.BookIV.Calibration.instDecidableEqCollapseStatus :DecidableEq CollapseStatus**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.CollapsedUnit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L109-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L109-L115)
 **structure
 Tau.BookIV.Calibration.CollapsedUnit :Type**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCollapsedUnit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L115-L115)
 **def
 Tau.BookIV.Calibration.instReprCollapsedUnit.repr :CollapsedUnit → ℕ → Std.Format**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCollapsedUnit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L115-L115)
 **instance
 Tau.BookIV.Calibration.instReprCollapsedUnit :Repr CollapsedUnit**
 
@@ -280,7 +280,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.collapsed_units`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L117-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L117-L124)
 **def
 Tau.BookIV.Calibration.collapsed_units :List CollapsedUnit**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.tau_collapse_five_to_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L126-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L126-L138)
 **theorem
 Tau.BookIV.Calibration.tau_collapse_five_to_one :collapsed_units.length = 5 ∧ (List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.Free) collapsed_units).length = 1 ∧ (List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.IotaDetermined) collapsed_units).length = 3 ∧ (List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.SIFixed) collapsed_units).length = 1 ∧ (List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.IotaDetermined) collapsed_units).length + (List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.SIFixed) collapsed_units).length = 4**
 
@@ -308,7 +308,7 @@ leaving exactly 1 free parameter (the neutron mass).
 
 ### `Tau.BookIV.Calibration.Level0FormulaSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L144-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L144-L163)
 **structure
 Tau.BookIV.Calibration.Level0FormulaSummary :Type**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel0FormulaSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L163-L163)
 **def
 Tau.BookIV.Calibration.instReprLevel0FormulaSummary.repr :Level0FormulaSummary → ℕ → Std.Format**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel0FormulaSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L163-L163)
 **instance
 Tau.BookIV.Calibration.instReprLevel0FormulaSummary :Repr Level0FormulaSummary**
 
@@ -367,7 +367,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.level0_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L165-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L165-L172)
 **def
 Tau.BookIV.Calibration.level0_summary :Level0FormulaSummary**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.level0_bulk_exp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L174-L175)
 **theorem
 Tau.BookIV.Calibration.level0_bulk_exp :level0_summary.bulk_exponent = 7**
 
@@ -392,7 +392,7 @@ The bulk exponent is 7.
 
 ### `Tau.BookIV.Calibration.level0_range_valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L177-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L177-L182)
 **theorem
 Tau.BookIV.Calibration.level0_range_valid :level0_summary.result_range_lo = 1838 ∧ level0_summary.result_range_hi = 1839 ∧ level0_summary.result_range_lo < level0_summary.result_range_hi**
 
@@ -403,7 +403,7 @@ The Level 0 result range is (1838, 1839) at exact ι<sub>τ</sub>.
 
 ### `Tau.BookIV.Calibration.Level1PlusFormulaSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L188-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L188-L207)
 **structure
 Tau.BookIV.Calibration.Level1PlusFormulaSummary :Type**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel1PlusFormulaSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L207-L207)
 **def
 Tau.BookIV.Calibration.instReprLevel1PlusFormulaSummary.repr :Level1PlusFormulaSummary → ℕ → Std.Format**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLevel1PlusFormulaSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L207-L207)
 **instance
 Tau.BookIV.Calibration.instReprLevel1PlusFormulaSummary :Repr Level1PlusFormulaSummary**
 
@@ -462,7 +462,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.level1plus_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L209-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L209-L216)
 **def
 Tau.BookIV.Calibration.level1plus_summary :Level1PlusFormulaSummary**
 
@@ -476,7 +476,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.level1plus_ppm_sub_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L218-L220)
 **theorem
 Tau.BookIV.Calibration.level1plus_ppm_sub_100 :level1plus_summary.result_ppm_scaled < 100**
 
@@ -487,7 +487,7 @@ The ppm value (25/1000 = 0.025) is less than 100/1000 = 0.1 ppm.
 
 ### `Tau.BookIV.Calibration.level1plus_three_circles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L222-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L222-L224)
 **theorem
 Tau.BookIV.Calibration.level1plus_three_circles :level1plus_summary.holonomy_circles = 3**
 
@@ -498,7 +498,7 @@ The holonomy comes from exactly 3 circles.
 
 ### `Tau.BookIV.Calibration.level1plus_second_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L226-L228)
 **theorem
 Tau.BookIV.Calibration.level1plus_second_order :level1plus_summary.em_order = 2**
 
@@ -509,7 +509,7 @@ The EM correction is second-order (charge conjugation kills first).
 
 ### `Tau.BookIV.Calibration.UnpolarizedDefectBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L234-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L234-L248)
 **structure
 Tau.BookIV.Calibration.UnpolarizedDefectBundle :Type**
 
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprUnpolarizedDefectBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L248-L248)
 **instance
 Tau.BookIV.Calibration.instReprUnpolarizedDefectBundle :Repr UnpolarizedDefectBundle**
 
@@ -553,7 +553,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprUnpolarizedDefectBundle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L248-L248)
 **def
 Tau.BookIV.Calibration.instReprUnpolarizedDefectBundle.repr :UnpolarizedDefectBundle → ℕ → Std.Format**
 
@@ -565,7 +565,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.is_unpolarized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L250-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L250-L252)
 **def
 Tau.BookIV.Calibration.is_unpolarized
 (b : UnpolarizedDefectBundle)
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.unpolarized_bundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L254-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L254-L255)
 **def
 Tau.BookIV.Calibration.unpolarized_bundle :UnpolarizedDefectBundle**
 
@@ -595,7 +595,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.unpolarized_bundle_is_unpolarized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L257-L259)
 **theorem
 Tau.BookIV.Calibration.unpolarized_bundle_is_unpolarized :is_unpolarized unpolarized_bundle = true**
 
@@ -606,7 +606,7 @@ The canonical bundle is unpolarized.
 
 ### `Tau.BookIV.Calibration.NeutronMinimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L265-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L265-L281)
 **structure
 Tau.BookIV.Calibration.NeutronMinimality :Type**
 
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNeutronMinimality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L281-L281)
 **def
 Tau.BookIV.Calibration.instReprNeutronMinimality.repr :NeutronMinimality → ℕ → Std.Format**
 
@@ -649,7 +649,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNeutronMinimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L281-L281)
 **instance
 Tau.BookIV.Calibration.instReprNeutronMinimality :Repr NeutronMinimality**
 
@@ -660,7 +660,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.neutron_minimal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L283-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L283-L288)
 **def
 Tau.BookIV.Calibration.neutron_minimal :NeutronMinimality**
 
@@ -674,7 +674,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.neutron_minimality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L290-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L290-L295)
 **theorem
 Tau.BookIV.Calibration.neutron_minimality :is_unpolarized neutron_minimal.bundle = true ∧ neutron_minimal.is_minimal = true ∧ neutron_minimal.is_stable = true**
 
@@ -685,7 +685,7 @@ Tau.BookIV.Calibration.neutron_minimality :is_unpolarized neutron_minimal.bundle
 
 ### `Tau.BookIV.Calibration.CalibrationAnchorExt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L301-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L301-L316)
 **structure
 Tau.BookIV.Calibration.CalibrationAnchorExt :Type**
 
@@ -716,7 +716,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCalibrationAnchorExt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L316-L316)
 **instance
 Tau.BookIV.Calibration.instReprCalibrationAnchorExt :Repr CalibrationAnchorExt**
 
@@ -727,7 +727,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprCalibrationAnchorExt.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L316-L316)
 **def
 Tau.BookIV.Calibration.instReprCalibrationAnchorExt.repr :CalibrationAnchorExt → ℕ → Std.Format**
 
@@ -739,7 +739,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.anchor_ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L318-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L318-L324)
 **def
 Tau.BookIV.Calibration.anchor_ext :CalibrationAnchorExt**
 
@@ -753,7 +753,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.anchor_ext_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L326-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L326-L328)
 **theorem
 Tau.BookIV.Calibration.anchor_ext_positive :anchor_ext.neutron_mass_kg_numer > 0**
 
@@ -764,7 +764,7 @@ The anchor mass numerator is positive.
 
 ### `Tau.BookIV.Calibration.anchor_ext_precise`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L330-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L330-L332)
 **theorem
 Tau.BookIV.Calibration.anchor_ext_precise :anchor_ext.uncertainty_ppb < 100**
 
@@ -775,7 +775,7 @@ The uncertainty is sub-100 ppb.
 
 ### `Tau.BookIV.Calibration.parameter_count_ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L338-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L338-L348)
 **theorem
 Tau.BookIV.Calibration.parameter_count_ext :(List.filter (fun (x : CollapsedUnit) => x.status == CollapseStatus.Free) collapsed_units).length = 1 ∧ anchor_ext.sole_anchor = true**
 
@@ -790,7 +790,7 @@ The single free parameter is the neutron mass m_n
 
 ### `Tau.BookIV.Calibration.TauToSIConversionExt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L354-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L354-L368)
 **structure
 Tau.BookIV.Calibration.TauToSIConversionExt :Type**
 
@@ -819,7 +819,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprTauToSIConversionExt.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L368-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L368-L368)
 **def
 Tau.BookIV.Calibration.instReprTauToSIConversionExt.repr :TauToSIConversionExt → ℕ → Std.Format**
 
@@ -831,7 +831,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprTauToSIConversionExt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L368-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L368-L368)
 **instance
 Tau.BookIV.Calibration.instReprTauToSIConversionExt :Repr TauToSIConversionExt**
 
@@ -842,7 +842,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.tau_to_si_ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L370-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L370-L375)
 **def
 Tau.BookIV.Calibration.tau_to_si_ext :TauToSIConversionExt**
 
@@ -856,7 +856,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.conversion_single_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L377-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L377-L379)
 **theorem
 Tau.BookIV.Calibration.conversion_single_anchor :tau_to_si_ext.anchor_count = 1**
 
@@ -867,7 +867,7 @@ Exactly 1 anchor is needed.
 
 ### `Tau.BookIV.Calibration.conversion_ratios_determined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L381-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/CalibrationAnchorExt.lean#L381-L383)
 **theorem
 Tau.BookIV.Calibration.conversion_ratios_determined :tau_to_si_ext.all_ratios_determined = true**
 

@@ -64,7 +64,7 @@ coherence to rescue rigidity.
 
 ### `Tau.Holomorphy.SectorFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L42-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L42-L49)
 **structure
 Tau.Holomorphy.SectorFun :Type**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.Holomorphy.SectorFun.apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L51-L53)
 **def
 Tau.Holomorphy.SectorFun.apply
 (sf : SectorFun)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.Holomorphy.SectorFun.apply_sc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L55-L57)
 **def
 Tau.Holomorphy.SectorFun.apply_sc
 (sf : SectorFun)
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.Holomorphy.is_sector_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L63-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L63-L69)
 **def
 Tau.Holomorphy.is_sector_independent
 (f : Polarity.SectorPair → Polarity.SectorPair)
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.Holomorphy.sector_fun_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L71-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L71-L78)
 **theorem
 Tau.Holomorphy.sector_fun_independent
 (sf : SectorFun)
@@ -152,7 +152,7 @@ Tau.Holomorphy.sector_fun_independent
 
 ### `Tau.Holomorphy.has_split_cr_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L84-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L84-L88)
 **def
 Tau.Holomorphy.has_split_cr_form
 (f : Polarity.SplitComplex → Polarity.SplitComplex)
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.Holomorphy.SectorFun.comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L94-L96)
 **def
 Tau.Holomorphy.SectorFun.comp
 (sf₁ sf₂ : SectorFun)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.Holomorphy.sector_comp_apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L98-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L98-L101)
 **theorem
 Tau.Holomorphy.sector_comp_apply
 (sf₁ sf₂ : SectorFun)
@@ -201,7 +201,7 @@ Composition of sector functions gives sectorial composition in sector coordinate
 
 ### `Tau.Holomorphy.sector_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L103-L105)
 **theorem
 Tau.Holomorphy.sector_comp_assoc
 (sf₁ sf₂ sf₃ : SectorFun)
@@ -214,7 +214,7 @@ Composition of sector functions is associative.
 
 ### `Tau.Holomorphy.SectorFun.id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L107-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L107-L108)
 **def
 Tau.Holomorphy.SectorFun.id :SectorFun**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.Holomorphy.sector_id_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L110-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L110-L113)
 **theorem
 Tau.Holomorphy.sector_id_comp
 (sf : SectorFun)
@@ -241,7 +241,7 @@ Identity is a left unit for composition.
 
 ### `Tau.Holomorphy.sector_comp_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L115-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L115-L118)
 **theorem
 Tau.Holomorphy.sector_comp_id
 (sf : SectorFun)
@@ -254,7 +254,7 @@ Identity is a right unit for composition.
 
 ### `Tau.Holomorphy.zero_div_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L124-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L124-L128)
 **theorem
 Tau.Holomorphy.zero_div_sectors :Polarity.e_plus_sector.mul Polarity.e_minus_sector = { b_sector := 0, c_sector := 0 }**
 
@@ -267,7 +267,7 @@ functions can be zero on one sector and arbitrary on the other.
 
 ### `Tau.Holomorphy.zero_div_sc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L130-L132)
 **theorem
 Tau.Holomorphy.zero_div_sc :{ re := 1, im := 1 }.mul { re := 1, im := -1 } = Polarity.SplitComplex.zero**
 
@@ -278,7 +278,7 @@ Concrete witness: (1+j)(1-j) = 0 in split-complex coordinates.
 
 ### `Tau.Holomorphy.b_only_fun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L138-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L138-L140)
 **def
 Tau.Holomorphy.b_only_fun
 (g : ℤ → ℤ)
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.Holomorphy.c_only_fun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L142-L144)
 **def
 Tau.Holomorphy.c_only_fun
 (h : ℤ → ℤ)
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.Holomorphy.b_only_comp_c_only`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L146-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L146-L150)
 **theorem
 Tau.Holomorphy.b_only_comp_c_only
 (g h : ℤ → ℤ)
@@ -328,7 +328,7 @@ B-only and C-only sector functions compose to zero
 
 ### `Tau.Holomorphy.chi_plus_sf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L156-L157)
 **def
 Tau.Holomorphy.chi_plus_sf :SectorFun**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_sf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L159-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L159-L160)
 **def
 Tau.Holomorphy.chi_minus_sf :SectorFun**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_sf_apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L162-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L162-L165)
 **theorem
 Tau.Holomorphy.chi_plus_sf_apply
 (s : Polarity.SectorPair)
@@ -369,7 +369,7 @@ Tau.Holomorphy.chi_plus_sf_apply
 
 ### `Tau.Holomorphy.chi_minus_sf_apply`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L167-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L167-L170)
 **theorem
 Tau.Holomorphy.chi_minus_sf_apply
 (s : Polarity.SectorPair)
@@ -382,7 +382,7 @@ Tau.Holomorphy.chi_minus_sf_apply
 
 ### `Tau.Holomorphy.chi_sector_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L172-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L172-L175)
 **theorem
 Tau.Holomorphy.chi_sector_complete
 (s : Polarity.SectorPair)
@@ -395,7 +395,7 @@ Tau.Holomorphy.chi_sector_complete
 
 ### `Tau.Holomorphy.chi_sector_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/DHolomorphic.lean#L177-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/DHolomorphic.lean#L177-L180)
 **theorem
 Tau.Holomorphy.chi_sector_orthogonal
 (s : Polarity.SectorPair)

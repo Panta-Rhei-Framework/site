@@ -56,7 +56,7 @@ are independent. CRT guarantees unique reassembly.
 
 ### `Tau.BookIII.Spectral.crt_spectral_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L38-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L38-L59)
 **def
 Tau.BookIII.Spectral.crt_spectral_check
 (bound db : Denotation.TauIdx)
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_spectral_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L44-L58)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L44-L58)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_spectral_check.go
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_add_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L61-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L61-L91)
 **def
 Tau.BookIII.Spectral.crt_add_check
 (bound db : Denotation.TauIdx)
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_add_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L65-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L65-L81)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_add_check.go
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_add_check.go_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L83-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L83-L91)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_add_check.go_components
@@ -141,7 +141,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_mul_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L93-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L93-L121)
 **def
 Tau.BookIII.Spectral.crt_mul_check
 (bound db : Denotation.TauIdx)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_mul_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L97-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L97-L111)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_mul_check.go
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_mul_check.go_mul_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L113-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L113-L121)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_mul_check.go_mul_components
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.reconstruction_functor_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L127-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L127-L144)
 **def
 Tau.BookIII.Spectral.reconstruction_functor_check
 (bound db : Denotation.TauIdx)
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.reconstruction_functor_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L133-L143)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L133-L143)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.reconstruction_functor_check.go
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.reconstruction_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L146-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L146-L161)
 **def
 Tau.BookIII.Spectral.reconstruction_tower_check
 (bound db : Denotation.TauIdx)
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.reconstruction_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L151-L160)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L151-L160)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.reconstruction_tower_check.go
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.prime_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L167-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L167-L195)
 **def
 Tau.BookIII.Spectral.prime_independence_check
 (bound db : Denotation.TauIdx)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.prime_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L172-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L172-L186)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.prime_independence_check.go
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.prime_independence_check.check_off_diag`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L188-L195)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L188-L195)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.prime_independence_check.check_off_diag
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_spectral_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L218-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L218-L219)
 **theorem
 Tau.BookIII.Spectral.crt_spectral_20_4 :crt_spectral_check 20 4 = true**
 
@@ -320,7 +320,7 @@ Tau.BookIII.Spectral.crt_spectral_20_4 :crt_spectral_check 20 4 = true**
 
 ### `Tau.BookIII.Spectral.crt_add_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L222-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L222-L223)
 **theorem
 Tau.BookIII.Spectral.crt_add_10_3 :crt_add_check 10 3 = true**
 
@@ -329,7 +329,7 @@ Tau.BookIII.Spectral.crt_add_10_3 :crt_add_check 10 3 = true**
 
 ### `Tau.BookIII.Spectral.crt_mul_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L225-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L225-L226)
 **theorem
 Tau.BookIII.Spectral.crt_mul_10_3 :crt_mul_check 10 3 = true**
 
@@ -338,7 +338,7 @@ Tau.BookIII.Spectral.crt_mul_10_3 :crt_mul_check 10 3 = true**
 
 ### `Tau.BookIII.Spectral.reconstruction_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L229-L230)
 **theorem
 Tau.BookIII.Spectral.reconstruction_20_4 :reconstruction_functor_check 20 4 = true**
 
@@ -347,7 +347,7 @@ Tau.BookIII.Spectral.reconstruction_20_4 :reconstruction_functor_check 20 4 = tr
 
 ### `Tau.BookIII.Spectral.reconstruction_tower_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L232-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L232-L233)
 **theorem
 Tau.BookIII.Spectral.reconstruction_tower_20_4 :reconstruction_tower_check 20 4 = true**
 
@@ -356,7 +356,7 @@ Tau.BookIII.Spectral.reconstruction_tower_20_4 :reconstruction_tower_check 20 4 
 
 ### `Tau.BookIII.Spectral.prime_independence_5_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L236-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L236-L237)
 **theorem
 Tau.BookIII.Spectral.prime_independence_5_4 :prime_independence_check 5 4 = true**
 
@@ -365,7 +365,7 @@ Tau.BookIII.Spectral.prime_independence_5_4 :prime_independence_check 5 4 = true
 
 ### `Tau.BookIII.Spectral.crt_roundtrip_42`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L243-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L243-L245)
 **theorem
 Tau.BookIII.Spectral.crt_roundtrip_42 :Polarity.crt_reconstruct (Polarity.crt_decompose 42 3) 3 = Polarity.reduce 42 3**
 
@@ -376,7 +376,7 @@ Tau.BookIII.Spectral.crt_roundtrip_42 :Polarity.crt_reconstruct (Polarity.crt_de
 
 ### `Tau.BookIII.Spectral.crt_decompose_42`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L247-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L247-L250)
 **theorem
 Tau.BookIII.Spectral.crt_decompose_42 :Polarity.crt_decompose 42 3 = [0, 0, 2]**
 
@@ -388,7 +388,7 @@ Tau.BookIII.Spectral.crt_decompose_42 :Polarity.crt_decompose 42 3 = [0, 0, 2]**
 
 ### `Tau.BookIII.Spectral.crt_basis_0_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/CRT.lean#L252-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/CRT.lean#L252-L255)
 **theorem
 Tau.BookIII.Spectral.crt_basis_0_3 :Polarity.crt_decompose (Polarity.crt_basis 3 0) 3 = [1, 0, 0]**
 

@@ -76,7 +76,7 @@ This follows from the τ-Identity Theorem (I.T21).
 
 ### `Tau.Topos.TauArrow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L45-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L45-L50)
 **structure
 Tau.Topos.TauArrow :Type**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Topos.TauArrow.ext_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L52-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L52-L55)
 **def
 Tau.Topos.TauArrow.ext_agree
 (a₁ a₂ : TauArrow)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.Topos.id_arrow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L61-L63)
 **def
 Tau.Topos.id_arrow
 (x : Denotation.TauIdx)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.Topos.arrow_comp_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L65-L67)
 **def
 Tau.Topos.arrow_comp_stage
 (a₁ a₂ : TauArrow)
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.Topos.CatTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L69-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L69-L73)
 **structure
 Tau.Topos.CatTau :Type**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.Topos.cat_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L75-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L75-L76)
 **def
 Tau.Topos.cat_tau :CatTau**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.Topos.cat_tau_id_src`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L78-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L78-L79)
 **theorem
 Tau.Topos.cat_tau_id_src
 (x : Denotation.TauIdx)
@@ -187,7 +187,7 @@ Identity arrows have matching source.
 
 ### `Tau.Topos.cat_tau_id_tgt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L81-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L81-L82)
 **theorem
 Tau.Topos.cat_tau_id_tgt
 (x : Denotation.TauIdx)
@@ -200,7 +200,7 @@ Identity arrows have matching target.
 
 ### `Tau.Topos.cat_tau_id_left_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L88-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L88-L92)
 **theorem
 Tau.Topos.cat_tau_id_left_stage
 (f : Holomorphy.StageFun)
@@ -216,7 +216,7 @@ applying id to the output of f.
 
 ### `Tau.Topos.cat_tau_id_right_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L94-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L94-L97)
 **theorem
 Tau.Topos.cat_tau_id_right_stage
 (f : Holomorphy.StageFun)
@@ -231,7 +231,7 @@ Tau.Topos.cat_tau_id_right_stage
 
 ### `Tau.Topos.cat_tau_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L99-L102)
 **theorem
 Tau.Topos.cat_tau_assoc
 (f₁ f₂ f₃ : Holomorphy.StageFun)
@@ -244,7 +244,7 @@ Tau.Topos.cat_tau_assoc
 
 ### `Tau.Topos.cat_tau_gt_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L104-L108)
 **theorem
 Tau.Topos.cat_tau_gt_assoc
 (gt₁ gt₂ gt₃ : Holomorphy.GermTransformer)
@@ -257,7 +257,7 @@ Tau.Topos.cat_tau_gt_assoc
 
 ### `Tau.Topos.cat_tau_thin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L114-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L114-L121)
 **theorem
 Tau.Topos.cat_tau_thin
 (f₁ f₂ : Holomorphy.StageFun)
@@ -282,7 +282,7 @@ This is a direct corollary of the τ-Identity Theorem (I.T21).
 
 ### `Tau.Topos.cat_tau_self_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L123-L125)
 **theorem
 Tau.Topos.cat_tau_self_agree
 (f : Holomorphy.StageFun)
@@ -297,7 +297,7 @@ Thin category consequence: self-agreement is trivial.
 
 ### `Tau.Topos.id_holfun_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L131-L133)
 **theorem
 Tau.Topos.id_holfun_coherent
 (d : ℕ)
@@ -310,7 +310,7 @@ The identity HolFun at any depth is tower-coherent.
 
 ### `Tau.Topos.chi_plus_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L135-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L135-L138)
 **theorem
 Tau.Topos.chi_plus_idempotent :(Holomorphy.chi_plus_stage.comp Holomorphy.chi_plus_stage).b_fun 1 1 = Holomorphy.chi_plus_stage.b_fun 1 1**
 
@@ -321,7 +321,7 @@ Tau.Topos.chi_plus_idempotent :(Holomorphy.chi_plus_stage.comp Holomorphy.chi_pl
 
 ### `Tau.Topos.chi_minus_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L140-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L140-L143)
 **theorem
 Tau.Topos.chi_minus_idempotent :(Holomorphy.chi_minus_stage.comp Holomorphy.chi_minus_stage).c_fun 1 1 = Holomorphy.chi_minus_stage.c_fun 1 1**
 
@@ -332,7 +332,7 @@ Tau.Topos.chi_minus_idempotent :(Holomorphy.chi_minus_stage.comp Holomorphy.chi_
 
 ### `Tau.Topos.at_least_three_holfuns`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedArrows.lean#L149-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedArrows.lean#L149-L152)
 **theorem
 Tau.Topos.at_least_three_holfuns :Holomorphy.chi_plus_stage.b_fun 1 1 ≠ Holomorphy.chi_minus_stage.b_fun 1 1**
 

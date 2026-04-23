@@ -93,7 +93,7 @@ Four-ray rigidity (II.P03):
 
 ### `Tau.BookII.Interior.four_ray_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L42-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L42-L46)
 **def
 Tau.BookII.Interior.four_ray_complete
 (bound : Denotation.TauIdx)
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Interior.four_ray_bipolar_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L48-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L48-L67)
 **def
 Tau.BookII.Interior.four_ray_bipolar_check
 (bound : Denotation.TauIdx)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookII.Interior.four_ray_bipolar_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L56-L66)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L56-L66)@[irreducible]
 
 **def
 Tau.BookII.Interior.four_ray_bipolar_check.go
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookII.Interior.four_ray_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L69-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L69-L82)
 **def
 Tau.BookII.Interior.four_ray_coherent
 (bound : Denotation.TauIdx)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookII.Interior.four_ray_coherent.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L75-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L75-L81)@[irreducible]
 
 **def
 Tau.BookII.Interior.four_ray_coherent.go
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookII.Interior.four_starting_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L88-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L88-L93)
 **def
 Tau.BookII.Interior.four_starting_primes :List Denotation.TauIdx**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Interior.starting_primes_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L95-L98)
 **def
 Tau.BookII.Interior.starting_primes_distinct :Bool**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookII.Interior.starting_primes_all_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L100-L102)
 **def
 Tau.BookII.Interior.starting_primes_all_prime :Bool**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookII.Interior.abcd_has_zero_divisors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L104-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L104-L114)
 **theorem
 Tau.BookII.Interior.abcd_has_zero_divisors :∃ (z : Polarity.SplitComplex), ∃ (w : Polarity.SplitComplex), z ≠ { re := 0, im := 0 } ∧ w ≠ { re := 0, im := 0 } ∧ z.mul w = { re := 0, im := 0 }**
 
@@ -242,7 +242,7 @@ via e₊ · e₋ = 0, while ℍ is a division algebra.
 
 ### `Tau.BookII.Interior.para_complex_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L120-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L120-L129)
 **theorem
 Tau.BookII.Interior.para_complex_structure :{ re := 0, im := 1 }.mul { re := 0, im := 1 } = { re := 1, im := 0 }**
 
@@ -259,7 +259,7 @@ Verification: j² = +1 in split-complex arithmetic.
 
 ### `Tau.BookII.Interior.rigidity_2_to_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L145-L145)
 **theorem
 Tau.BookII.Interior.rigidity_2_to_30 :four_ray_complete 30 = true**
 
@@ -268,7 +268,7 @@ Tau.BookII.Interior.rigidity_2_to_30 :four_ray_complete 30 = true**
 
 ### `Tau.BookII.Interior.bipolar_2_to_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L146-L146)
 **theorem
 Tau.BookII.Interior.bipolar_2_to_30 :four_ray_bipolar_check 30 = true**
 
@@ -277,7 +277,7 @@ Tau.BookII.Interior.bipolar_2_to_30 :four_ray_bipolar_check 30 = true**
 
 ### `Tau.BookII.Interior.coherent_2_to_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L147-L147)
 **theorem
 Tau.BookII.Interior.coherent_2_to_30 :four_ray_coherent 30 = true**
 
@@ -286,7 +286,7 @@ Tau.BookII.Interior.coherent_2_to_30 :four_ray_coherent 30 = true**
 
 ### `Tau.BookII.Interior.primes_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L148-L148)
 **theorem
 Tau.BookII.Interior.primes_distinct :starting_primes_distinct = true**
 
@@ -295,6 +295,6 @@ Tau.BookII.Interior.primes_distinct :starting_primes_distinct = true**
 
 ### `Tau.BookII.Interior.primes_all_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/ABCDRigidity.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/ABCDRigidity.lean#L149-L149)
 **theorem
 Tau.BookII.Interior.primes_all_prime :starting_primes_all_prime = true**

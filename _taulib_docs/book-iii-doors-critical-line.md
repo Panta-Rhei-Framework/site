@@ -62,7 +62,7 @@ protocol at each primorial level.
 
 ### `Tau.BookIII.Doors.critical_line_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L44-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L44-L61)
 **def
 Tau.BookIII.Doors.critical_line_check
 (k : Denotation.TauIdx)
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.critical_line_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L50-L60)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L50-L60)@[irreducible]
 
 **def
 Tau.BookIII.Doors.critical_line_check.go
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.critical_line_multi_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L63-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L63-L72)
 **def
 Tau.BookIII.Doors.critical_line_multi_check
 (db : Denotation.TauIdx)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.critical_line_multi_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L67-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L67-L71)@[irreducible]
 
 **def
 Tau.BookIII.Doors.critical_line_multi_check.go
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.k5_exclusion_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L78-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L78-L97)
 **def
 Tau.BookIII.Doors.k5_exclusion_check
 (bound db : Denotation.TauIdx)
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.k5_exclusion_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L84-L96)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L84-L96)@[irreducible]
 
 **def
 Tau.BookIII.Doors.k5_exclusion_check.go
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.tau_effective_rh_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L103-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L103-L120)
 **def
 Tau.BookIII.Doors.tau_effective_rh_check
 (db : Denotation.TauIdx)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.tau_effective_rh_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L109-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L109-L119)@[irreducible]
 
 **def
 Tau.BookIII.Doors.tau_effective_rh_check.go
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_protocol_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L126-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L126-L149)
 **def
 Tau.BookIII.Doors.rh_protocol_check
 (db : Denotation.TauIdx)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.rh_protocol_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L133-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L133-L148)@[irreducible]
 
 **def
 Tau.BookIII.Doors.rh_protocol_check.go
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.critical_line_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L166-L167)
 **theorem
 Tau.BookIII.Doors.critical_line_5 :critical_line_check 5 = true**
 
@@ -245,7 +245,7 @@ Tau.BookIII.Doors.critical_line_5 :critical_line_check 5 = true**
 
 ### `Tau.BookIII.Doors.critical_line_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L169-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L169-L170)
 **theorem
 Tau.BookIII.Doors.critical_line_10 :critical_line_check 10 = true**
 
@@ -254,7 +254,7 @@ Tau.BookIII.Doors.critical_line_10 :critical_line_check 10 = true**
 
 ### `Tau.BookIII.Doors.critical_line_multi_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L172-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L172-L173)
 **theorem
 Tau.BookIII.Doors.critical_line_multi_5 :critical_line_multi_check 5 = true**
 
@@ -263,7 +263,7 @@ Tau.BookIII.Doors.critical_line_multi_5 :critical_line_multi_check 5 = true**
 
 ### `Tau.BookIII.Doors.k5_exclusion_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L175-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L175-L176)
 **theorem
 Tau.BookIII.Doors.k5_exclusion_10_3 :k5_exclusion_check 10 3 = true**
 
@@ -272,7 +272,7 @@ Tau.BookIII.Doors.k5_exclusion_10_3 :k5_exclusion_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.tau_effective_rh_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L178-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L178-L179)
 **theorem
 Tau.BookIII.Doors.tau_effective_rh_5 :tau_effective_rh_check 5 = true**
 
@@ -281,7 +281,7 @@ Tau.BookIII.Doors.tau_effective_rh_5 :tau_effective_rh_check 5 = true**
 
 ### `Tau.BookIII.Doors.rh_protocol_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L181-L182)
 **theorem
 Tau.BookIII.Doors.rh_protocol_4 :rh_protocol_check 4 = true**
 
@@ -290,7 +290,7 @@ Tau.BookIII.Doors.rh_protocol_4 :rh_protocol_check 4 = true**
 
 ### `Tau.BookIII.Doors.critical_line_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L188-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L188-L190)
 **theorem
 Tau.BookIII.Doors.critical_line_1 :critical_line_check 1 = true**
 
@@ -301,7 +301,7 @@ Tau.BookIII.Doors.critical_line_1 :critical_line_check 1 = true**
 
 ### `Tau.BookIII.Doors.k5_eigenvalue_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L192-L194)
 **theorem
 Tau.BookIII.Doors.k5_eigenvalue_1 :lemniscate_eigenvalue 1 = 1**
 
@@ -312,7 +312,7 @@ Tau.BookIII.Doors.k5_eigenvalue_1 :lemniscate_eigenvalue 1 = 1**
 
 ### `Tau.BookIII.Doors.tau_rh_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/CriticalLine.lean#L196-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/CriticalLine.lean#L196-L198)
 **theorem
 Tau.BookIII.Doors.tau_rh_1 :tau_effective_rh_check 1 = true**
 

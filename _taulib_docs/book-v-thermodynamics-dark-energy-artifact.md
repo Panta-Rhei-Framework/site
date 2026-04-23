@@ -101,7 +101,7 @@ to refinement entropy S_ref -- a counting artifact, not physical energy.
 
 ### `Tau.BookV.Thermodynamics.CapacitySurplus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L66-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L66-L85)
 **structure
 Tau.BookV.Thermodynamics.CapacitySurplus :Type**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCapacitySurplus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L85-L85)
 **instance
 Tau.BookV.Thermodynamics.instReprCapacitySurplus :Repr CapacitySurplus**
 
@@ -147,7 +147,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprCapacitySurplus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L85-L85)
 **def
 Tau.BookV.Thermodynamics.instReprCapacitySurplus.repr :CapacitySurplus → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.surplus_nonneg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L87-L89)
 **theorem
 Tau.BookV.Thermodynamics.surplus_nonneg
 (s : CapacitySurplus)
@@ -172,7 +172,7 @@ Surplus is non-negative when capacity exceeds defects.
 
 ### `Tau.BookV.Thermodynamics.EoSRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L95-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L95-L103)
 **inductive
 Tau.BookV.Thermodynamics.EoSRegime :Type**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprEoSRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
 **instance
 Tau.BookV.Thermodynamics.instReprEoSRegime :Repr EoSRegime**
 
@@ -205,7 +205,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprEoSRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
 **def
 Tau.BookV.Thermodynamics.instReprEoSRegime.repr :EoSRegime → ℕ → Std.Format**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instDecidableEqEoSRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
 **instance
 Tau.BookV.Thermodynamics.instDecidableEqEoSRegime :DecidableEq EoSRegime**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instBEqEoSRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
 **instance
 Tau.BookV.Thermodynamics.instBEqEoSRegime :BEq EoSRegime**
 
@@ -239,7 +239,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instBEqEoSRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L103-L103)
 **def
 Tau.BookV.Thermodynamics.instBEqEoSRegime.beq :EoSRegime → EoSRegime → Bool**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.DefectDrivenAcceleration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L105-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L105-L130)
 **structure
 Tau.BookV.Thermodynamics.DefectDrivenAcceleration :Type**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectDrivenAcceleration.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L130-L130)
 **def
 Tau.BookV.Thermodynamics.instReprDefectDrivenAcceleration.repr :DefectDrivenAcceleration → ℕ → Std.Format**
 
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectDrivenAcceleration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L130-L130)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectDrivenAcceleration :Repr DefectDrivenAcceleration**
 
@@ -318,7 +318,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.DefectDrivenAcceleration.determineRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L132-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L132-L138)
 **def
 Tau.BookV.Thermodynamics.DefectDrivenAcceleration.determineRegime
 (ratio_n ratio_d thresh_n thresh_d : ℕ)
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.no_lambda`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L144-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L144-L152)
 **theorem
 Tau.BookV.Thermodynamics.no_lambda :"R^H = kappa_tau * T: no Lambda term, acceleration is transient" = "R^H = kappa_tau * T: no Lambda term, acceleration is transient"**
 
@@ -350,7 +350,7 @@ There is no need for Lambda and no fine-tuning problem.
 
 ### `Tau.BookV.Thermodynamics.dark_energy_artifact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L158-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L158-L166)
 **theorem
 Tau.BookV.Thermodynamics.dark_energy_artifact :"Lambda-CDM dark energy = readout artifact from S_def -> S_ref transition" = "Lambda-CDM dark energy = readout artifact from S_def -> S_ref transition"**
 
@@ -366,7 +366,7 @@ entropy (ordering) as a repulsive energy source.
 
 ### `Tau.BookV.Thermodynamics.the_68_percent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L172-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L172-L179)
 **theorem
 Tau.BookV.Thermodynamics.the_68_percent :"68% dark energy = S_ref (counting artifact, not physical energy)" = "68% dark energy = S_ref (counting artifact, not physical energy)"**
 
@@ -381,7 +381,7 @@ The 68% was never "missing energy" but misattributed entropy.
 
 ### `Tau.BookV.Thermodynamics.data_vs_interpretation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L185-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L185-L191)
 **theorem
 Tau.BookV.Thermodynamics.data_vs_interpretation :"Acceleration = data (real). Dark energy = interpretation (artifact)." = "Acceleration = data (real). Dark energy = interpretation (artifact)."**
 
@@ -395,7 +395,7 @@ replaces the interpretation (different cause).
 
 ### `Tau.BookV.Thermodynamics.two_faces`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L197-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L197-L205)
 **theorem
 Tau.BookV.Thermodynamics.two_faces :"CC problem: (i) why small? (ii) why nonzero? Both dissolve if Lambda = 0" = "CC problem: (i) why small? (ii) why nonzero? Both dissolve if Lambda = 0"**
 
@@ -411,7 +411,7 @@ from the defect-to-refinement transition.
 
 ### `Tau.BookV.Thermodynamics.where_68_goes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L211-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L211-L219)
 **theorem
 Tau.BookV.Thermodynamics.where_68_goes :"68% was never real energy; tau-budget = defect bundles + E_bdry on L" = "68% was never real energy; tau-budget = defect bundles + E_bdry on L"**
 
@@ -427,7 +427,7 @@ boundary energy on L. No dark energy component exists.
 
 ### `Tau.BookV.Thermodynamics.DarkEnergyTestability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L225-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L225-L246)
 **structure
 Tau.BookV.Thermodynamics.DarkEnergyTestability :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDarkEnergyTestability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L246-L246)
 **instance
 Tau.BookV.Thermodynamics.instReprDarkEnergyTestability :Repr DarkEnergyTestability**
 
@@ -481,7 +481,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprDarkEnergyTestability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L246-L246)
 **def
 Tau.BookV.Thermodynamics.instReprDarkEnergyTestability.repr :DarkEnergyTestability → ℕ → Std.Format**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.dark_energy_testability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L248-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L248-L250)
 **def
 Tau.BookV.Thermodynamics.dark_energy_testability :DarkEnergyTestability**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.w_varies_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L252-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L252-L254)
 **theorem
 Tau.BookV.Thermodynamics.w_varies_prediction :dark_energy_testability.w_varies = true**
 
@@ -518,7 +518,7 @@ The testable prediction: w varies (not exactly -1).
 
 ### `Tau.BookV.Thermodynamics.CosmicComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L260-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L260-L266)
 **inductive
 Tau.BookV.Thermodynamics.CosmicComponent :Type**
 
@@ -537,7 +537,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCosmicComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
 **instance
 Tau.BookV.Thermodynamics.instReprCosmicComponent :Repr CosmicComponent**
 
@@ -548,7 +548,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprCosmicComponent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
 **def
 Tau.BookV.Thermodynamics.instReprCosmicComponent.repr :CosmicComponent → ℕ → Std.Format**
 
@@ -560,7 +560,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instDecidableEqCosmicComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
 **instance
 Tau.BookV.Thermodynamics.instDecidableEqCosmicComponent :DecidableEq CosmicComponent**
 
@@ -571,7 +571,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instBEqCosmicComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
 **instance
 Tau.BookV.Thermodynamics.instBEqCosmicComponent :BEq CosmicComponent**
 
@@ -582,7 +582,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instBEqCosmicComponent.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L266-L266)
 **def
 Tau.BookV.Thermodynamics.instBEqCosmicComponent.beq :CosmicComponent → CosmicComponent → Bool**
 
@@ -594,7 +594,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.cosmic_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L268-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L268-L270)
 **def
 Tau.BookV.Thermodynamics.cosmic_budget :List CosmicComponent**
 
@@ -608,7 +608,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.cosmic_budget_two_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L272-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L272-L274)
 **theorem
 Tau.BookV.Thermodynamics.cosmic_budget_two_components :cosmic_budget.length = 2**
 
@@ -619,7 +619,7 @@ Two components, not three (no dark energy).
 
 ### `Tau.BookV.Thermodynamics.early_universe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L280-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L280-L285)
 **def
 Tau.BookV.Thermodynamics.early_universe :DefectDrivenAcceleration**
 
@@ -633,7 +633,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.present_epoch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L287-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L287-L292)
 **def
 Tau.BookV.Thermodynamics.present_epoch :DefectDrivenAcceleration**
 
@@ -647,7 +647,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.surplus_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L299-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L299-L305)
 **def
 Tau.BookV.Thermodynamics.surplus_example :CapacitySurplus**
 
@@ -661,7 +661,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.testability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L311-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L311-L312)
 **def
 Tau.BookV.Thermodynamics.testability :DarkEnergyTestability**
 
@@ -675,7 +675,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.OmegaLambdaStandalone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L321-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L321-L340)
 **structure
 Tau.BookV.Thermodynamics.OmegaLambdaStandalone :Type**
 
@@ -711,7 +711,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprOmegaLambdaStandalone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L340-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L340-L340)
 **instance
 Tau.BookV.Thermodynamics.instReprOmegaLambdaStandalone :Repr OmegaLambdaStandalone**
 
@@ -722,7 +722,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprOmegaLambdaStandalone.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L340-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L340-L340)
 **def
 Tau.BookV.Thermodynamics.instReprOmegaLambdaStandalone.repr :OmegaLambdaStandalone → ℕ → Std.Format**
 
@@ -734,7 +734,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.omega_lambda_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L342-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L342-L348)
 **def
 Tau.BookV.Thermodynamics.omega_lambda_canonical :OmegaLambdaStandalone**
 
@@ -748,7 +748,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.omega_lambda_deviation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L350-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L350-L352)
 **theorem
 Tau.BookV.Thermodynamics.omega_lambda_deviation :omega_lambda_canonical.deviation_ppm = 269**
 
@@ -759,7 +759,7 @@ Tau.BookV.Thermodynamics.omega_lambda_deviation :omega_lambda_canonical.deviatio
 
 ### `Tau.BookV.Thermodynamics.omega_lambda_tau_effective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L354-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L354-L356)
 **theorem
 Tau.BookV.Thermodynamics.omega_lambda_tau_effective :omega_lambda_canonical.scope_tau_effective = true**
 
@@ -770,7 +770,7 @@ Tau.BookV.Thermodynamics.omega_lambda_tau_effective :omega_lambda_canonical.scop
 
 ### `Tau.BookV.Thermodynamics.DefectFractionEoS`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L362-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L362-L379)
 **structure
 Tau.BookV.Thermodynamics.DefectFractionEoS :Type**
 
@@ -802,7 +802,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectFractionEoS.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L379-L379)
 **def
 Tau.BookV.Thermodynamics.instReprDefectFractionEoS.repr :DefectFractionEoS → ℕ → Std.Format**
 
@@ -814,7 +814,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectFractionEoS`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L379-L379)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectFractionEoS :Repr DefectFractionEoS**
 
@@ -825,7 +825,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.defect_eos_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L381-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L381-L385)
 **def
 Tau.BookV.Thermodynamics.defect_eos_canonical :DefectFractionEoS**
 
@@ -839,7 +839,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.w0_quintessence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L387-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L387-L389)
 **theorem
 Tau.BookV.Thermodynamics.w0_quintessence :defect_eos_canonical.w0_gt_minus_one = true**
 
@@ -850,7 +850,7 @@ w₀ > −1: quintessence-like, no phantom crossing.
 
 ### `Tau.BookV.Thermodynamics.TransitionRedshift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L395-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L395-L408)
 **structure
 Tau.BookV.Thermodynamics.TransitionRedshift :Type**
 
@@ -878,7 +878,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTransitionRedshift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L408-L408)
 **def
 Tau.BookV.Thermodynamics.instReprTransitionRedshift.repr :TransitionRedshift → ℕ → Std.Format**
 
@@ -890,7 +890,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTransitionRedshift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L408-L408)
 **instance
 Tau.BookV.Thermodynamics.instReprTransitionRedshift :Repr TransitionRedshift**
 
@@ -901,7 +901,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.z_acc_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L410-L413)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L410-L413)
 **def
 Tau.BookV.Thermodynamics.z_acc_canonical :TransitionRedshift**
 
@@ -915,7 +915,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.z_acc_within_1sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L415-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DarkEnergyArtifact.lean#L415-L418)
 **theorem
 Tau.BookV.Thermodynamics.z_acc_within_1sigma :z_acc_canonical.z_acc_x1000 ≥ z_acc_canonical.observed_x1000 - z_acc_canonical.uncertainty_x1000**
 

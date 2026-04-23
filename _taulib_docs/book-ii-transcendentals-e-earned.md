@@ -55,7 +55,7 @@ e appears naturally as the base of natural logarithms.
 
 ### `Tau.BookII.Transcendentals.e_factorial_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L36-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L36-L49)
 **def
 Tau.BookII.Transcendentals.e_factorial_scaled
 (terms scale : Nat)
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.e_factorial_scaled.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L42-L48)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L42-L48)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.e_factorial_scaled.go
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.e_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L51-L52)
 **def
 Tau.BookII.Transcendentals.e_scaled
 (terms : Nat)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.e_convergence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L58-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L58-L64)
 **def
 Tau.BookII.Transcendentals.e_convergence_check :Bool**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.e_rapid_convergence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L66-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L66-L79)
 **def
 Tau.BookII.Transcendentals.e_rapid_convergence_check :Bool**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.primorial_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L85-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L85-L99)
 **def
 Tau.BookII.Transcendentals.primorial_growth_check
 (stages : Denotation.TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.primorial_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L91-L98)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L91-L98)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.primorial_growth_check.go
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.primorial_ratio_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L101-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L101-L114)
 **def
 Tau.BookII.Transcendentals.primorial_ratio_check
 (stages : Denotation.TauIdx)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.primorial_ratio_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L105-L113)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L105-L113)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.primorial_ratio_check.go
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.nat_factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L120-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L120-L123)
 **def
 Tau.BookII.Transcendentals.nat_factorial :Nat → Nat**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.factorial_primorial_compare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L125-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L125-L129)
 **def
 Tau.BookII.Transcendentals.factorial_primorial_compare
 (k : Denotation.TauIdx)
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.e_conv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L156-L156)
 **theorem
 Tau.BookII.Transcendentals.e_conv :e_convergence_check = true**
 
@@ -245,7 +245,7 @@ Tau.BookII.Transcendentals.e_conv :e_convergence_check = true**
 
 ### `Tau.BookII.Transcendentals.e_rapid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L157-L157)
 **theorem
 Tau.BookII.Transcendentals.e_rapid :e_rapid_convergence_check = true**
 
@@ -254,7 +254,7 @@ Tau.BookII.Transcendentals.e_rapid :e_rapid_convergence_check = true**
 
 ### `Tau.BookII.Transcendentals.prim_growth_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L158-L158)
 **theorem
 Tau.BookII.Transcendentals.prim_growth_5 :primorial_growth_check 5 = true**
 
@@ -263,6 +263,6 @@ Tau.BookII.Transcendentals.prim_growth_5 :primorial_growth_check 5 = true**
 
 ### `Tau.BookII.Transcendentals.prim_ratio_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/EEarned.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/EEarned.lean#L159-L159)
 **theorem
 Tau.BookII.Transcendentals.prim_ratio_5 :primorial_ratio_check 5 = true**

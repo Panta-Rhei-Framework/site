@@ -51,7 +51,7 @@ via primorial cofinality, (3) E₁ Mutual Determination equality.
 
 ### `Tau.BookIII.Arithmetic.bsd_coherence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L36-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L36-L55)
 **def
 Tau.BookIII.Arithmetic.bsd_coherence_check
 (db : Denotation.TauIdx)
@@ -68,7 +68,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_coherence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L41-L54)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L41-L54)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_coherence_check.go
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_rank_agreement_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L57-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L57-L86)
 **def
 Tau.BookIII.Arithmetic.bsd_rank_agreement_check
 (db : Denotation.TauIdx)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_rank_agreement_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L62-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L62-L79)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_rank_agreement_check.go
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_rank_agreement_check.check_all_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L81-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L81-L85)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_rank_agreement_check.check_all_rational
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_three_ingredient_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L92-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L92-L117)
 **def
 Tau.BookIII.Arithmetic.bsd_three_ingredient_check
 (bound db : Denotation.TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_three_ingredient_check.l_value_stab_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L106-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L106-L116)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bsd_three_ingredient_check.l_value_stab_go
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bsd_coherence_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L131-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L131-L132)
 **theorem
 Tau.BookIII.Arithmetic.bsd_coherence_5 :bsd_coherence_check 5 = true**
 
@@ -179,7 +179,7 @@ Tau.BookIII.Arithmetic.bsd_coherence_5 :bsd_coherence_check 5 = true**
 
 ### `Tau.BookIII.Arithmetic.bsd_rank_agreement_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L134-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L134-L135)
 **theorem
 Tau.BookIII.Arithmetic.bsd_rank_agreement_4 :bsd_rank_agreement_check 4 = true**
 
@@ -188,7 +188,7 @@ Tau.BookIII.Arithmetic.bsd_rank_agreement_4 :bsd_rank_agreement_check 4 = true**
 
 ### `Tau.BookIII.Arithmetic.bsd_three_ingredient_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L137-L138)
 **theorem
 Tau.BookIII.Arithmetic.bsd_three_ingredient_15_3 :bsd_three_ingredient_check 15 3 = true**
 
@@ -197,7 +197,7 @@ Tau.BookIII.Arithmetic.bsd_three_ingredient_15_3 :bsd_three_ingredient_check 15 
 
 ### `Tau.BookIII.Arithmetic.bsd_coherence_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L144-L146)
 **theorem
 Tau.BookIII.Arithmetic.bsd_coherence_1 :bsd_coherence_check 1 = true**
 
@@ -208,7 +208,7 @@ Tau.BookIII.Arithmetic.bsd_coherence_1 :bsd_coherence_check 1 = true**
 
 ### `Tau.BookIII.Arithmetic.bsd_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L148-L149)
 **theorem
 Tau.BookIII.Arithmetic.bsd_level :Doors.problem_level Doors.MillenniumProblem.BSD = Enrichment.EnrLevel.E2**
 
@@ -219,6 +219,6 @@ Tau.BookIII.Arithmetic.bsd_level :Doors.problem_level Doors.MillenniumProblem.BS
 
 ### `Tau.BookIII.Arithmetic.bsd_part`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/BSD.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/BSD.lean#L150-L150)
 **theorem
 Tau.BookIII.Arithmetic.bsd_part :Doors.problem_part Doors.MillenniumProblem.BSD = 6**

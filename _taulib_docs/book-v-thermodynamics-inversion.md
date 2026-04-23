@@ -101,7 +101,7 @@ The two are exactly opposite under t <-> n identification.
 
 ### `Tau.BookV.Thermodynamics.contraction_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L61-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L61-L64)
 **def
 Tau.BookV.Thermodynamics.contraction_numer :ℕ**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.contraction_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L66-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L66-L67)
 **def
 Tau.BookV.Thermodynamics.contraction_denom :ℕ**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.contraction_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L69-L71)
 **theorem
 Tau.BookV.Thermodynamics.contraction_pos :contraction_numer > 0**
 
@@ -142,7 +142,7 @@ The contraction factor is positive: 1 - iota_tau > 0.
 
 ### `Tau.BookV.Thermodynamics.contraction_lt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L73-L75)
 **theorem
 Tau.BookV.Thermodynamics.contraction_lt_one :contraction_numer < contraction_denom**
 
@@ -153,7 +153,7 @@ The contraction factor is less than 1 (strict contraction).
 
 ### `Tau.BookV.Thermodynamics.CategoricalSecondLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L81-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L81-L100)
 **structure
 Tau.BookV.Thermodynamics.CategoricalSecondLaw :Type**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCategoricalSecondLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L100-L100)
 **instance
 Tau.BookV.Thermodynamics.instReprCategoricalSecondLaw :Repr CategoricalSecondLaw**
 
@@ -199,7 +199,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprCategoricalSecondLaw.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L100-L100)
 **def
 Tau.BookV.Thermodynamics.instReprCategoricalSecondLaw.repr :CategoricalSecondLaw → ℕ → Std.Format**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.categorical_second_law`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L102-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L102-L107)
 **def
 Tau.BookV.Thermodynamics.categorical_second_law :CategoricalSecondLaw**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.CategoricalEquilibrium`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L113-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L113-L126)
 **structure
 Tau.BookV.Thermodynamics.CategoricalEquilibrium :Type**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCategoricalEquilibrium.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L126-L126)
 **def
 Tau.BookV.Thermodynamics.instReprCategoricalEquilibrium.repr :CategoricalEquilibrium → ℕ → Std.Format**
 
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprCategoricalEquilibrium`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L126-L126)
 **instance
 Tau.BookV.Thermodynamics.instReprCategoricalEquilibrium :Repr CategoricalEquilibrium**
 
@@ -275,7 +275,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.DefectAbsorptionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L132-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L132-L149)
 **structure
 Tau.BookV.Thermodynamics.DefectAbsorptionRate :Type**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectAbsorptionRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L149-L149)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectAbsorptionRate :Repr DefectAbsorptionRate**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprDefectAbsorptionRate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L149-L149)
 **def
 Tau.BookV.Thermodynamics.instReprDefectAbsorptionRate.repr :DefectAbsorptionRate → ℕ → Std.Format**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.WeakRedistribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L155-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L155-L168)
 **structure
 Tau.BookV.Thermodynamics.WeakRedistribution :Type**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprWeakRedistribution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L168-L168)
 **def
 Tau.BookV.Thermodynamics.instReprWeakRedistribution.repr :WeakRedistribution → ℕ → Std.Format**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprWeakRedistribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L168-L168)
 **instance
 Tau.BookV.Thermodynamics.instReprWeakRedistribution :Repr WeakRedistribution**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.weak_preserves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L170-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L170-L172)
 **theorem
 Tau.BookV.Thermodynamics.weak_preserves
 (w : WeakRedistribution)
@@ -391,7 +391,7 @@ Weak redistribution is exactly count-preserving.
 
 ### `Tau.BookV.Thermodynamics.GeometricContraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L178-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L178-L197)
 **structure
 Tau.BookV.Thermodynamics.GeometricContraction :Type**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGeometricContraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L197-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L197-L197)
 **instance
 Tau.BookV.Thermodynamics.instReprGeometricContraction :Repr GeometricContraction**
 
@@ -437,7 +437,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprGeometricContraction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L197-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L197-L197)
 **def
 Tau.BookV.Thermodynamics.instReprGeometricContraction.repr :GeometricContraction → ℕ → Std.Format**
 
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.geometric_series_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L199-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L199-L204)
 **theorem
 Tau.BookV.Thermodynamics.geometric_series_bound
 (g : GeometricContraction)
@@ -463,7 +463,7 @@ Since iota_tau 0.341, the bound is 2.93 * a_0.
 
 ### `Tau.BookV.Thermodynamics.defect_support_exhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L210-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L210-L217)
 **theorem
 Tau.BookV.Thermodynamics.defect_support_exhaustion :contraction_numer < contraction_denom**
 
@@ -479,7 +479,7 @@ with factor (1 - iota_tau) < 1.
 
 ### `Tau.BookV.Thermodynamics.ThermalCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L223-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L223-L236)
 **structure
 Tau.BookV.Thermodynamics.ThermalCoherenceHorizon :Type**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprThermalCoherenceHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L236-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L236-L236)
 **def
 Tau.BookV.Thermodynamics.instReprThermalCoherenceHorizon.repr :ThermalCoherenceHorizon → ℕ → Std.Format**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprThermalCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L236-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L236-L236)
 **instance
 Tau.BookV.Thermodynamics.instReprThermalCoherenceHorizon :Repr ThermalCoherenceHorizon**
 
@@ -529,7 +529,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.coherence_horizon_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L238-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L238-L241)
 **def
 Tau.BookV.Thermodynamics.coherence_horizon_bound :ℕ**
 
@@ -545,7 +545,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.inversion_180`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L247-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L247-L257)
 **theorem
 Tau.BookV.Thermodynamics.inversion_180 :"dS_class/dt >= 0 AND dS_def/dn <= 0: opposite monotonicity" = "dS_class/dt >= 0 AND dS_def/dn <= 0: opposite monotonicity"**
 
@@ -563,7 +563,7 @@ structurally exact, not merely analogical.
 
 ### `Tau.BookV.Thermodynamics.OrbitStepsVsTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L263-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L263-L274)
 **structure
 Tau.BookV.Thermodynamics.OrbitStepsVsTime :Type**
 
@@ -587,7 +587,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprOrbitStepsVsTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L274-L274)
 **instance
 Tau.BookV.Thermodynamics.instReprOrbitStepsVsTime :Repr OrbitStepsVsTime**
 
@@ -598,7 +598,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprOrbitStepsVsTime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L274-L274)
 **def
 Tau.BookV.Thermodynamics.instReprOrbitStepsVsTime.repr :OrbitStepsVsTime → ℕ → Std.Format**
 
@@ -610,7 +610,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.pixel_analogy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L287-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L287-L289)
 **theorem
 Tau.BookV.Thermodynamics.pixel_analogy :"resolution 100x100 -> 1000x1000: pixel count up 100x, noise near zero" = "resolution 100x100 -> 1000x1000: pixel count up 100x, noise near zero"**
 
@@ -619,6 +619,6 @@ Tau.BookV.Thermodynamics.pixel_analogy :"resolution 100x100 -> 1000x1000: pixel 
 
 ### `Tau.BookV.Thermodynamics.contraction_is_kappa_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/Inversion.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/Inversion.lean#L301-L302)
 **theorem
 Tau.BookV.Thermodynamics.contraction_is_kappa_D :contraction_numer = Boundary.iota_tau_denom - Boundary.iota_tau_numer**

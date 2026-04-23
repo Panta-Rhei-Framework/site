@@ -58,7 +58,7 @@ this gives σ·J = id on the spectral side.
 
 ### `Tau.BookIII.Physics.hartogs_flow_step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L41-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L41-L55)
 **def
 Tau.BookIII.Physics.hartogs_flow_step
 (x k : Denotation.TauIdx)
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L57-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L57-L83)
 **def
 Tau.BookIII.Physics.flow_check
 (bound db : Denotation.TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L62-L82)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L62-L82)@[irreducible]
 
 **def
 Tau.BookIII.Physics.flow_check.go
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_semigroup_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L85-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L85-L105)
 **def
 Tau.BookIII.Physics.flow_semigroup_check
 (bound db : Denotation.TauIdx)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_semigroup_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L91-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L91-L104)@[irreducible]
 
 **def
 Tau.BookIII.Physics.flow_semigroup_check.go
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_stabilization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L111-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L111-L130)
 **def
 Tau.BookIII.Physics.flow_stabilization_check
 (bound db : Denotation.TauIdx)
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_stabilization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L117-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L117-L129)@[irreducible]
 
 **def
 Tau.BookIII.Physics.flow_stabilization_check.go
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.causal_arrow_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L132-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L132-L147)
 **def
 Tau.BookIII.Physics.causal_arrow_check
 (db : Denotation.TauIdx)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.causal_arrow_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L137-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L137-L146)@[irreducible]
 
 **def
 Tau.BookIII.Physics.causal_arrow_check.go
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.polarity_swap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L153-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L153-L157)
 **def
 Tau.BookIII.Physics.polarity_swap
 (nf : Spectral.BoundaryNF)
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.polarity_swap_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L159-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L159-L162)
 **theorem
 Tau.BookIII.Physics.polarity_swap_involutive
 (nf : Spectral.BoundaryNF)
@@ -246,7 +246,7 @@ Tau.BookIII.Physics.polarity_swap_involutive
 
 ### `Tau.BookIII.Physics.polarity_swap_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L164-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L164-L189)
 **def
 Tau.BookIII.Physics.polarity_swap_check
 (bound db : Denotation.TauIdx)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.polarity_swap_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L169-L188)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L169-L188)@[irreducible]
 
 **def
 Tau.BookIII.Physics.polarity_swap_check.go
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.flow_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L205-L206)
 **theorem
 Tau.BookIII.Physics.flow_15_4 :flow_check 15 4 = true**
 
@@ -289,7 +289,7 @@ Tau.BookIII.Physics.flow_15_4 :flow_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.flow_semigroup_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L208-L209)
 **theorem
 Tau.BookIII.Physics.flow_semigroup_10_3 :flow_semigroup_check 10 3 = true**
 
@@ -298,7 +298,7 @@ Tau.BookIII.Physics.flow_semigroup_10_3 :flow_semigroup_check 10 3 = true**
 
 ### `Tau.BookIII.Physics.flow_stabilization_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L211-L212)
 **theorem
 Tau.BookIII.Physics.flow_stabilization_15_4 :flow_stabilization_check 15 4 = true**
 
@@ -307,7 +307,7 @@ Tau.BookIII.Physics.flow_stabilization_15_4 :flow_stabilization_check 15 4 = tru
 
 ### `Tau.BookIII.Physics.causal_arrow_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L214-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L214-L215)
 **theorem
 Tau.BookIII.Physics.causal_arrow_5 :causal_arrow_check 5 = true**
 
@@ -316,7 +316,7 @@ Tau.BookIII.Physics.causal_arrow_5 :causal_arrow_check 5 = true**
 
 ### `Tau.BookIII.Physics.polarity_swap_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L217-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L217-L218)
 **theorem
 Tau.BookIII.Physics.polarity_swap_15_4 :polarity_swap_check 15 4 = true**
 
@@ -325,7 +325,7 @@ Tau.BookIII.Physics.polarity_swap_15_4 :polarity_swap_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.flow_depth_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L224-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L224-L226)
 **theorem
 Tau.BookIII.Physics.flow_depth_0 :hartogs_flow_step 42 0 = { b_part := 0, c_part := 0, x_part := 0, depth := 1 }**
 
@@ -336,7 +336,7 @@ Tau.BookIII.Physics.flow_depth_0 :hartogs_flow_step 42 0 = { b_part := 0, c_part
 
 ### `Tau.BookIII.Physics.swap_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L228-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L228-L230)
 **theorem
 Tau.BookIII.Physics.swap_zero :polarity_swap { b_part := 0, c_part := 0, x_part := 0, depth := 3 } = { b_part := 0, c_part := 0, x_part := 0, depth := 3 }**
 
@@ -347,7 +347,7 @@ Tau.BookIII.Physics.swap_zero :polarity_swap { b_part := 0, c_part := 0, x_part 
 
 ### `Tau.BookIII.Physics.flow_stable_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/HartogsFlow.lean#L232-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/HartogsFlow.lean#L232-L234)
 **theorem
 Tau.BookIII.Physics.flow_stable_1 :flow_stabilization_check 10 1 = true**
 

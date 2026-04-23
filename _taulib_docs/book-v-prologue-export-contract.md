@@ -104,7 +104,7 @@ the E₂ (computational/biological) enrichment.
 
 ### `Tau.BookV.Prologue.ExportContract`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L64-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L64-L88)
 **structure
 Tau.BookV.Prologue.ExportContract :Type**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprExportContract.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L88-L88)
 **def
 Tau.BookV.Prologue.instReprExportContract.repr :ExportContract → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprExportContract`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L88-L88)
 **instance
 Tau.BookV.Prologue.instReprExportContract :Repr ExportContract**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.Prologue.canonical_export`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L90-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L90-L99)
 **def
 Tau.BookV.Prologue.canonical_export :ExportContract**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.export_contract_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L101-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L101-L103)
 **theorem
 Tau.BookV.Prologue.export_contract_count :canonical_export.item_count = 10**
 
@@ -195,7 +195,7 @@ Tau.BookV.Prologue.export_contract_count :canonical_export.item_count = 10**
 
 ### `Tau.BookV.Prologue.OnticParticleExport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L109-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L109-L122)
 **structure
 Tau.BookV.Prologue.OnticParticleExport :Type**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprOnticParticleExport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L122-L122)
 **instance
 Tau.BookV.Prologue.instReprOnticParticleExport :Repr OnticParticleExport**
 
@@ -236,7 +236,7 @@ Equations
 
 ### `Tau.BookV.Prologue.instReprOnticParticleExport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L122-L122)
 **def
 Tau.BookV.Prologue.instReprOnticParticleExport.repr :OnticParticleExport → ℕ → Std.Format**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.ontic_export_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L124-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L124-L127)
 **theorem
 Tau.BookV.Prologue.ontic_export_fiber
 (p : OnticParticleExport)
@@ -261,7 +261,7 @@ Ontic particles live on the fiber (from Book IV).
 
 ### `Tau.BookV.Prologue.ontic_export_persistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L129-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L129-L132)
 **theorem
 Tau.BookV.Prologue.ontic_export_persistent
 (p : OnticParticleExport)
@@ -274,7 +274,7 @@ Ontic particles are persistent (from Book IV).
 
 ### `Tau.BookV.Prologue.defect_tuple_four_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L138-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L138-L142)
 **theorem
 Tau.BookV.Prologue.defect_tuple_four_components :4 = 4**
 
@@ -287,7 +287,7 @@ Wraps DefectTuple from Book IV DefectFunctional.
 
 ### `Tau.BookV.Prologue.defect_export_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L144-L146)
 **theorem
 Tau.BookV.Prologue.defect_export_total
 (d : BookIV.Physics.DefectTuple)
@@ -300,7 +300,7 @@ The defect total is the sum of all 4 components.
 
 ### `Tau.BookV.Prologue.mass_ratio_export`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L152-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L152-L164)
 **theorem
 Tau.BookV.Prologue.mass_ratio_export :BookIV.Calibration.bulk_numer * BookIV.Calibration.correction0_denom > BookIV.Calibration.correction0_numer * BookIV.Calibration.bulk_denom + 1837 * BookIV.Calibration.bulk_denom * BookIV.Calibration.correction0_denom ∧ BookIV.Calibration.bulk_numer * BookIV.Calibration.correction0_denom < BookIV.Calibration.correction0_numer * BookIV.Calibration.bulk_denom + 1840 * BookIV.Calibration.bulk_denom * BookIV.Calibration.correction0_denom**
 
@@ -315,7 +315,7 @@ precision, R₀ is in (1837, 1840); at exact ι<sub>τ</sub>, R₁ ≈ 1838.684)
 
 ### `Tau.BookV.Prologue.mass_ratio_chain_tau_effective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L166-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L166-L169)
 **theorem
 Tau.BookV.Prologue.mass_ratio_chain_tau_effective :(BookIV.Calibration.r_derivation_chain.all fun (l : BookIV.Calibration.RDerivationLink) => l.scope == "tau-effective") = true**
 
@@ -326,7 +326,7 @@ All 10 links of the R derivation chain are tau-effective.
 
 ### `Tau.BookV.Prologue.EnrichmentBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L175-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L175-L191)
 **structure
 Tau.BookV.Prologue.EnrichmentBoundary :Type**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprEnrichmentBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L191-L191)
 **def
 Tau.BookV.Prologue.instReprEnrichmentBoundary.repr :EnrichmentBoundary → ℕ → Std.Format**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprEnrichmentBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L191-L191)
 **instance
 Tau.BookV.Prologue.instReprEnrichmentBoundary :Repr EnrichmentBoundary**
 
@@ -387,7 +387,7 @@ Equations
 
 ### `Tau.BookV.Prologue.e1_to_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L193-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L193-L197)
 **def
 Tau.BookV.Prologue.e1_to_e2 :EnrichmentBoundary**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.export_sectors_match_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L203-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L203-L206)
 **theorem
 Tau.BookV.Prologue.export_sectors_match_generators :BookIV.Arena.holonomy_generators.length = canonical_export.sector_count**
 
@@ -412,7 +412,7 @@ Export sectors match holonomy generators.
 
 ### `Tau.BookV.Prologue.export_invariants_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/ExportContract.lean#L208-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/ExportContract.lean#L208-L210)
 **theorem
 Tau.BookV.Prologue.export_invariants_match :BookIV.Arena.primary_invariants.length = canonical_export.invariant_count**
 

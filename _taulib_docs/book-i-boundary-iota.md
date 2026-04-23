@@ -65,7 +65,7 @@ Book II). Instead we work with the rational approximation and Float evaluation.
 
 ### `Tau.Boundary.iota_tau_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L40-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L40-L41)
 **def
 Tau.Boundary.iota_tau_numer :ℕ**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.Boundary.iota_tau_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L43-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L43-L44)
 **def
 Tau.Boundary.iota_tau_denom :ℕ**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Boundary.iota_tau_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L46-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L46-L48)
 **theorem
 Tau.Boundary.iota_tau_denom_pos :iota_tau_denom > 0**
 
@@ -104,7 +104,7 @@ iota_tau denominator is positive.
 
 ### `Tau.Boundary.iota_tau_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L50-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L50-L53)
 **def
 Tau.Boundary.iota_tau_float :Float**
 
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.Boundary.iota_tau_rat_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L55-L57)
 **def
 Tau.Boundary.iota_tau_rat_float :Float**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.Boundary.bc_ratio_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L63-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L63-L66)
 **def
 Tau.Boundary.bc_ratio_pair
 (n N : Denotation.TauIdx)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.Boundary.bc_ratio_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L68-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L68-L72)
 **def
 Tau.Boundary.bc_ratio_float
 (n N : Denotation.TauIdx)
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.Boundary.bc_ratio_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L74-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L74-L78)
 **def
 Tau.Boundary.bc_ratio_scaled
 (n N : Denotation.TauIdx)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.Boundary.ConvergenceClaimFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L84-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L84-L92)
 **def
 Tau.Boundary.ConvergenceClaimFloat
 (N : Denotation.TauIdx)
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.Boundary.ConvergenceClaimRat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L94-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L94-L106)
 **def
 Tau.Boundary.ConvergenceClaimRat
 (N : Denotation.TauIdx)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.Boundary.both_channels_active`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L112-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L112-L115)
 **def
 Tau.Boundary.both_channels_active
 (n N : Denotation.TauIdx)
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.Boundary.b_minority_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Iota.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Iota.lean#L117-L120)
 **def
 Tau.Boundary.b_minority_check
 (n N : Denotation.TauIdx)

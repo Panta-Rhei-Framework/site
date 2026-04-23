@@ -59,7 +59,7 @@ particle masses, and structural constants — the Ch15 export contract.
 
 ### `Tau.BookIV.Calibration.CouplingTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L33-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L33-L45)
 **structure
 Tau.BookIV.Calibration.CouplingTable :Type**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCouplingTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L45-L45)
 **def
 Tau.BookIV.Calibration.instReprCouplingTable.repr :CouplingTable → ℕ → Std.Format**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprCouplingTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L45-L45)
 **instance
 Tau.BookIV.Calibration.instReprCouplingTable :Repr CouplingTable**
 
@@ -108,7 +108,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.coupling_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L47-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L47-L54)
 **def
 Tau.BookIV.Calibration.coupling_table :CouplingTable**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.FundamentalScalesTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L63-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L63-L73)
 **structure
 Tau.BookIV.Calibration.FundamentalScalesTable :Type**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprFundamentalScalesTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L73-L73)
 **instance
 Tau.BookIV.Calibration.instReprFundamentalScalesTable :Repr FundamentalScalesTable**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprFundamentalScalesTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L73-L73)
 **def
 Tau.BookIV.Calibration.instReprFundamentalScalesTable.repr :FundamentalScalesTable → ℕ → Std.Format**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.fundamental_scales`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L75-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L75-L80)
 **def
 Tau.BookIV.Calibration.fundamental_scales :FundamentalScalesTable**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ParticleMassTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L86-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L86-L96)
 **structure
 Tau.BookIV.Calibration.ParticleMassTable :Type**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprParticleMassTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L96-L96)
 **instance
 Tau.BookIV.Calibration.instReprParticleMassTable :Repr ParticleMassTable**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprParticleMassTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L96-L96)
 **def
 Tau.BookIV.Calibration.instReprParticleMassTable.repr :ParticleMassTable → ℕ → Std.Format**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.particle_mass_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L98-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L98-L103)
 **def
 Tau.BookIV.Calibration.particle_mass_table :ParticleMassTable**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.StructuralConstantsTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L113-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L113-L131)
 **structure
 Tau.BookIV.Calibration.StructuralConstantsTable :Type**
 
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprStructuralConstantsTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L131-L131)
 **def
 Tau.BookIV.Calibration.instReprStructuralConstantsTable.repr :StructuralConstantsTable → ℕ → Std.Format**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprStructuralConstantsTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L131-L131)
 **instance
 Tau.BookIV.Calibration.instReprStructuralConstantsTable :Repr StructuralConstantsTable**
 
@@ -301,7 +301,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.structural_constants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L133-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedgerExt.lean#L133-L144)
 **def
 Tau.BookIV.Calibration.structural_constants :StructuralConstantsTable**
 

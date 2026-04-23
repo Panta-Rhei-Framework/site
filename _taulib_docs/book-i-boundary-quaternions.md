@@ -70,7 +70,7 @@ is componentwise TauReal.equiv. The key results are:
 
 ### `Tau.Boundary.TauQuaternion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L43-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L43-L49)
 **structure
 Tau.Boundary.TauQuaternion :Type**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L55-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L55-L58)
 **def
 Tau.Boundary.TauQuaternion.equiv
 (a b : TauQuaternion)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L60-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L60-L63)
 **theorem
 Tau.Boundary.TauQuaternion.equiv_refl
 (a : TauQuaternion)
@@ -117,7 +117,7 @@ TauQuaternion equivalence is reflexive.
 
 ### `Tau.Boundary.TauQuaternion.equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L65-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L65-L69)
 **theorem
 Tau.Boundary.TauQuaternion.equiv_symm
 {a b : TauQuaternion}
@@ -132,7 +132,7 @@ TauQuaternion equivalence is symmetric.
 
 ### `Tau.Boundary.TauQuaternion.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L75-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L75-L77)
 **def
 Tau.Boundary.TauQuaternion.zero :TauQuaternion**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L79-L81)
 **def
 Tau.Boundary.TauQuaternion.one :TauQuaternion**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.qi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L83-L85)
 **def
 Tau.Boundary.TauQuaternion.qi :TauQuaternion**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.qj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L87-L89)
 **def
 Tau.Boundary.TauQuaternion.qj :TauQuaternion**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.qk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L91-L93)
 **def
 Tau.Boundary.TauQuaternion.qk :TauQuaternion**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L99-L101)
 **def
 Tau.Boundary.TauQuaternion.add
 (a b : TauQuaternion)
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L103-L105)
 **def
 Tau.Boundary.TauQuaternion.negate
 (a : TauQuaternion)
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L107-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L107-L117)
 **def
 Tau.Boundary.TauQuaternion.mul
 (a b : TauQuaternion)
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.conj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L119-L121)
 **def
 Tau.Boundary.TauQuaternion.conj
 (a : TauQuaternion)
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.normSq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L123-L125)
 **def
 Tau.Boundary.TauQuaternion.normSq
 (a : TauQuaternion)
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.Boundary.TauQuaternion.neg_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L141-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L141-L142)
 **def
 Tau.Boundary.TauQuaternion.neg_one :TauQuaternion**
 
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.Boundary.qi_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L144-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L144-L157)
 **theorem
 Tau.Boundary.qi_squared :(TauQuaternion.qi.mul TauQuaternion.qi).equiv TauQuaternion.neg_one**
 
@@ -322,7 +322,7 @@ i^2 = -1: qi * qi is equivalent to negate one.
 
 ### `Tau.Boundary.qj_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L159-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L159-L172)
 **theorem
 Tau.Boundary.qj_squared :(TauQuaternion.qj.mul TauQuaternion.qj).equiv TauQuaternion.neg_one**
 
@@ -333,7 +333,7 @@ j^2 = -1: qj * qj is equivalent to negate one.
 
 ### `Tau.Boundary.qk_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L174-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L174-L187)
 **theorem
 Tau.Boundary.qk_squared :(TauQuaternion.qk.mul TauQuaternion.qk).equiv TauQuaternion.neg_one**
 
@@ -344,7 +344,7 @@ k^2 = -1: qk * qk is equivalent to negate one.
 
 ### `Tau.Boundary.ijk_relation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L189-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L189-L203)
 **theorem
 Tau.Boundary.ijk_relation :((TauQuaternion.qi.mul TauQuaternion.qj).mul TauQuaternion.qk).equiv TauQuaternion.neg_one**
 
@@ -355,7 +355,7 @@ ijk = -1: qi * qj * qk is equivalent to negate one.
 
 ### `Tau.Boundary.non_commutativity_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L209-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L209-L225)
 **theorem
 Tau.Boundary.non_commutativity_witness :¬(TauQuaternion.qi.mul TauQuaternion.qj).equiv (TauQuaternion.qj.mul TauQuaternion.qi)**
 
@@ -367,7 +367,7 @@ qi * qj has z = 1 while qj * qi has z = -1.
 
 ### `Tau.Boundary.tauquat_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L231-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L231-L235)
 **theorem
 Tau.Boundary.tauquat_add_comm
 (a b : TauQuaternion)
@@ -380,7 +380,7 @@ Quaternion addition is commutative (up to equiv).
 
 ### `Tau.Boundary.tauquat_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L237-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L237-L242)
 **theorem
 Tau.Boundary.tauquat_add_assoc
 (a b c : TauQuaternion)
@@ -393,7 +393,7 @@ Quaternion addition is associative (up to equiv).
 
 ### `Tau.Boundary.tauquat_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L244-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L244-L248)
 **theorem
 Tau.Boundary.tauquat_add_zero
 (a : TauQuaternion)
@@ -406,7 +406,7 @@ Quaternion zero is a right identity for addition (up to equiv).
 
 ### `Tau.Boundary.tauquat_add_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L250-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L250-L254)
 **theorem
 Tau.Boundary.tauquat_add_negate
 (a : TauQuaternion)
@@ -419,7 +419,7 @@ Quaternion negation is a right inverse for addition (up to equiv).
 
 ### `Tau.Boundary.tauquat_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L260-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L260-L271)
 **theorem
 Tau.Boundary.tauquat_mul_one
 (a : TauQuaternion)
@@ -432,7 +432,7 @@ One is a right identity for quaternion multiplication (up to equiv).
 
 ### `Tau.Boundary.tauquat_one_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Quaternions.lean#L273-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Quaternions.lean#L273-L284)
 **theorem
 Tau.Boundary.tauquat_one_mul
 (a : TauQuaternion)

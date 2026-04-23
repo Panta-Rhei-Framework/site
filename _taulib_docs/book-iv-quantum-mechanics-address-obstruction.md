@@ -74,7 +74,7 @@ unique Planck mediator, saturation state, and the full Heisenberg bound.
 
 ### `Tau.BookIV.QuantumMechanics.PositionUncertainty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L41-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L41-L53)
 **structure
 Tau.BookIV.QuantumMechanics.PositionUncertainty :Type**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprPositionUncertainty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L53-L53)
 **instance
 Tau.BookIV.QuantumMechanics.instReprPositionUncertainty :Repr PositionUncertainty**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprPositionUncertainty.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L53-L53)
 **def
 Tau.BookIV.QuantumMechanics.instReprPositionUncertainty.repr :PositionUncertainty → ℕ → Std.Format**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.MomentumUncertainty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L55-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L55-L66)
 **structure
 Tau.BookIV.QuantumMechanics.MomentumUncertainty :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprMomentumUncertainty.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L66-L66)
 **def
 Tau.BookIV.QuantumMechanics.instReprMomentumUncertainty.repr :MomentumUncertainty → ℕ → Std.Format**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprMomentumUncertainty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L66-L66)
 **instance
 Tau.BookIV.QuantumMechanics.instReprMomentumUncertainty :Repr MomentumUncertainty**
 
@@ -173,7 +173,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.JointAddressNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L72-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L72-L87)
 **structure
 Tau.BookIV.QuantumMechanics.JointAddressNF :Type**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprJointAddressNF.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L87-L87)
 **def
 Tau.BookIV.QuantumMechanics.instReprJointAddressNF.repr :JointAddressNF → ℕ → Std.Format**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprJointAddressNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L87-L87)
 **instance
 Tau.BookIV.QuantumMechanics.instReprJointAddressNF :Repr JointAddressNF**
 
@@ -226,7 +226,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.PhaseTransportWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L93-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L93-L105)
 **structure
 Tau.BookIV.QuantumMechanics.PhaseTransportWitness :Type**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprPhaseTransportWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L105-L105)
 **instance
 Tau.BookIV.QuantumMechanics.instReprPhaseTransportWitness :Repr PhaseTransportWitness**
 
@@ -264,7 +264,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprPhaseTransportWitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L105-L105)
 **def
 Tau.BookIV.QuantumMechanics.instReprPhaseTransportWitness.repr :PhaseTransportWitness → ℕ → Std.Format**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.ClopenLocalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L111-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L111-L123)
 **structure
 Tau.BookIV.QuantumMechanics.ClopenLocalization :Type**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprClopenLocalization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L123-L123)
 **def
 Tau.BookIV.QuantumMechanics.instReprClopenLocalization.repr :ClopenLocalization → ℕ → Std.Format**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprClopenLocalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L123-L123)
 **instance
 Tau.BookIV.QuantumMechanics.instReprClopenLocalization :Repr ClopenLocalization**
 
@@ -326,7 +326,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.phase_transport_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L129-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L129-L143)
 **theorem
 Tau.BookIV.QuantumMechanics.phase_transport_monotone
 (_eps1_n _eps1_d _eps2_n _eps2_d _cost1_n _cost1_d _cost2_n _cost2_d : ℕ)
@@ -347,7 +347,7 @@ Formalized: epsilon1 < epsilon2 implies cost1 >= cost2
 
 ### `Tau.BookIV.QuantumMechanics.NoJointMinimum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L149-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L149-L168)
 **structure
 Tau.BookIV.QuantumMechanics.NoJointMinimum :Type**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprNoJointMinimum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L168-L168)
 **def
 Tau.BookIV.QuantumMechanics.instReprNoJointMinimum.repr :NoJointMinimum → ℕ → Std.Format**
 
@@ -392,7 +392,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprNoJointMinimum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L168-L168)
 **instance
 Tau.BookIV.QuantumMechanics.instReprNoJointMinimum :Repr NoJointMinimum**
 
@@ -403,7 +403,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.no_joint_minimum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L170-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L170-L174)
 **theorem
 Tau.BookIV.QuantumMechanics.no_joint_minimum
 (njm : NoJointMinimum)
@@ -416,7 +416,7 @@ NoJointMin: the product of uncertainties is bounded below.
 
 ### `Tau.BookIV.QuantumMechanics.CrossingMediator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L180-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L180-L196)
 **structure
 Tau.BookIV.QuantumMechanics.CrossingMediator :Type**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCrossingMediator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L196-L196)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCrossingMediator :Repr CrossingMediator**
 
@@ -459,7 +459,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCrossingMediator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L196-L196)
 **def
 Tau.BookIV.QuantumMechanics.instReprCrossingMediator.repr :CrossingMediator → ℕ → Std.Format**
 
@@ -471,7 +471,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.crossing_mediator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L198-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L198-L206)
 **def
 Tau.BookIV.QuantumMechanics.crossing_mediator :CrossingMediator**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.planck_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L212-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L212-L221)
 **theorem
 Tau.BookIV.QuantumMechanics.planck_uniqueness :crossing_mediator.numer = 1 ∧ crossing_mediator.denom = 4 ∧ crossing_mediator.is_sigma_equivariant = true ∧ crossing_mediator.is_unique = true**
 
@@ -499,7 +499,7 @@ Formalized: the mediator has the specific value 1/4.
 
 ### `Tau.BookIV.QuantumMechanics.SaturationState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L227-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L227-L243)
 **structure
 Tau.BookIV.QuantumMechanics.SaturationState :Type**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSaturationState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L243-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L243-L243)
 **def
 Tau.BookIV.QuantumMechanics.instReprSaturationState.repr :SaturationState → ℕ → Std.Format**
 
@@ -543,7 +543,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSaturationState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L243-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L243-L243)
 **instance
 Tau.BookIV.QuantumMechanics.instReprSaturationState :Repr SaturationState**
 
@@ -554,7 +554,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.saturation_state`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L245-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L245-L252)
 **def
 Tau.BookIV.QuantumMechanics.saturation_state :SaturationState**
 
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.saturation_achieves_equality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L258-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L258-L262)
 **theorem
 Tau.BookIV.QuantumMechanics.saturation_achieves_equality :saturation_state.product_numer * 8 = saturation_state.product_denom**
 
@@ -580,7 +580,7 @@ Delta_x * Delta_p = hbar_tau/2 = 1/8.
 
 ### `Tau.BookIV.QuantumMechanics.HeisenbergXP`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L268-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L268-L292)
 **structure
 Tau.BookIV.QuantumMechanics.HeisenbergXP :Type**
 
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHeisenbergXP.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L292-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L292-L292)
 **def
 Tau.BookIV.QuantumMechanics.instReprHeisenbergXP.repr :HeisenbergXP → ℕ → Std.Format**
 
@@ -635,7 +635,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHeisenbergXP`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L292-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L292-L292)
 **instance
 Tau.BookIV.QuantumMechanics.instReprHeisenbergXP :Repr HeisenbergXP**
 
@@ -646,7 +646,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.heisenberg_xp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L294-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L294-L303)
 **def
 Tau.BookIV.QuantumMechanics.heisenberg_xp :HeisenbergXP**
 
@@ -660,7 +660,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.HeisenbergTE`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L309-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L309-L325)
 **structure
 Tau.BookIV.QuantumMechanics.HeisenbergTE :Type**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHeisenbergTE.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L325-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L325-L325)
 **def
 Tau.BookIV.QuantumMechanics.instReprHeisenbergTE.repr :HeisenbergTE → ℕ → Std.Format**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprHeisenbergTE`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L325-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L325-L325)
 **instance
 Tau.BookIV.QuantumMechanics.instReprHeisenbergTE :Repr HeisenbergTE**
 
@@ -712,7 +712,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.heisenberg_te`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L327-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L327-L333)
 **def
 Tau.BookIV.QuantumMechanics.heisenberg_te :HeisenbergTE**
 
@@ -726,7 +726,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.uncertainty_bound_universal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L335-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/AddressObstruction.lean#L335-L339)
 **theorem
 Tau.BookIV.QuantumMechanics.uncertainty_bound_universal :heisenberg_xp.bound_numer = heisenberg_te.bound_numer ∧ heisenberg_xp.bound_denom = heisenberg_te.bound_denom**
 

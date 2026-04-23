@@ -111,7 +111,7 @@ These arise from **incompatible address constraints**, NOT measurement disturban
 
 ### `Tau.BookIV.Physics.PlanckCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L65-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L65-L81)
 **structure
 Tau.BookIV.Physics.PlanckCharacter :Type**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPlanckCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L81-L81)
 **def
 Tau.BookIV.Physics.instReprPlanckCharacter.repr :PlanckCharacter → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPlanckCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L81-L81)
 **instance
 Tau.BookIV.Physics.instReprPlanckCharacter :Repr PlanckCharacter**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookIV.Physics.PlanckCharacter.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L83-L85)
 **def
 Tau.BookIV.Physics.PlanckCharacter.toFloat
 (h : PlanckCharacter)
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.SectorLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L91-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L91-L114)
 **structure
 Tau.BookIV.Physics.SectorLift :Type**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprSectorLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L114-L114)
 **instance
 Tau.BookIV.Physics.instReprSectorLift :Repr SectorLift**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprSectorLift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L114-L114)
 **def
 Tau.BookIV.Physics.instReprSectorLift.repr :SectorLift → ℕ → Std.Format**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.SectorLift.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L116-L118)
 **def
 Tau.BookIV.Physics.SectorLift.toFloat
 (s : SectorLift)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.lift_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L131-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L131-L136)
 **def
 Tau.BookIV.Physics.lift_em :SectorLift**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.lift_weak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L138-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L138-L143)
 **def
 Tau.BookIV.Physics.lift_weak :SectorLift**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.lift_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L145-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L145-L150)
 **def
 Tau.BookIV.Physics.lift_strong :SectorLift**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.lift_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L152-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L152-L157)
 **def
 Tau.BookIV.Physics.lift_gravity :SectorLift**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.lift_higgs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L159-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L159-L164)
 **def
 Tau.BookIV.Physics.lift_higgs :SectorLift**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_sector_lifts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L166-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L166-L168)
 **def
 Tau.BookIV.Physics.all_sector_lifts :List SectorLift**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.UncertaintyProduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L174-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L174-L194)
 **structure
 Tau.BookIV.Physics.UncertaintyProduct :Type**
 
@@ -386,7 +386,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprUncertaintyProduct.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L194-L194)
 **def
 Tau.BookIV.Physics.instReprUncertaintyProduct.repr :UncertaintyProduct → ℕ → Std.Format**
 
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprUncertaintyProduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L194-L194)
 **instance
 Tau.BookIV.Physics.instReprUncertaintyProduct :Repr UncertaintyProduct**
 
@@ -409,7 +409,7 @@ Equations
 
 ### `Tau.BookIV.Physics.UncertaintyProduct.product_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L196-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L196-L198)
 **def
 Tau.BookIV.Physics.UncertaintyProduct.product_numer
 (u : UncertaintyProduct)
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.UncertaintyProduct.product_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L200-L202)
 **def
 Tau.BookIV.Physics.UncertaintyProduct.product_denom
 (u : UncertaintyProduct)
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.PhysicalConstantsCore`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L208-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L208-L228)
 **structure
 Tau.BookIV.Physics.PhysicalConstantsCore :Type**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPhysicalConstantsCore.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L228-L228)
 **def
 Tau.BookIV.Physics.instReprPhysicalConstantsCore.repr :PhysicalConstantsCore → ℕ → Std.Format**
 
@@ -495,7 +495,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPhysicalConstantsCore`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L228-L228)
 **instance
 Tau.BookIV.Physics.instReprPhysicalConstantsCore :Repr PhysicalConstantsCore**
 
@@ -506,7 +506,7 @@ Equations
 
 ### `Tau.BookIV.Physics.physical_constants_core`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L230-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L230-L231)
 **def
 Tau.BookIV.Physics.physical_constants_core :PhysicalConstantsCore**
 
@@ -520,7 +520,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.planck_sigma_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L237-L239)
 **theorem
 Tau.BookIV.Physics.planck_sigma_fixed
 (h : PlanckCharacter)
@@ -535,7 +535,7 @@ Tau.BookIV.Physics.planck_sigma_fixed
 
 ### `Tau.BookIV.Physics.all_lifts_sigma_equivariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L241-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L241-L244)
 **theorem
 Tau.BookIV.Physics.all_lifts_sigma_equivariant :((List.map SectorLift.preserves_sigma all_sector_lifts).all fun (x : Bool) => x == true) = true**
 
@@ -546,7 +546,7 @@ All 5 sector lifts preserve σ-equivariance.
 
 ### `Tau.BookIV.Physics.five_sector_lifts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L246-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L246-L247)
 **theorem
 Tau.BookIV.Physics.five_sector_lifts :all_sector_lifts.length = 5**
 
@@ -557,7 +557,7 @@ Exactly 5 sector lifts (one per sector).
 
 ### `Tau.BookIV.Physics.all_lifts_ring_hom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L249-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L249-L252)
 **theorem
 Tau.BookIV.Physics.all_lifts_ring_hom :((List.map SectorLift.is_ring_hom all_sector_lifts).all fun (x : Bool) => x == true) = true**
 
@@ -568,7 +568,7 @@ All sector lifts are ring homomorphisms.
 
 ### `Tau.BookIV.Physics.uncertainty_product_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L254-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L254-L257)
 **theorem
 Tau.BookIV.Physics.uncertainty_product_denom_pos
 (u : UncertaintyProduct)
@@ -581,7 +581,7 @@ The uncertainty product has positive denominator.
 
 ### `Tau.BookIV.Physics.weak_lift_is_master`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L259-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L259-L262)
 **theorem
 Tau.BookIV.Physics.weak_lift_is_master :lift_weak.target_numer = Sectors.iota ∧ lift_weak.target_denom = Sectors.iotaD**
 
@@ -592,7 +592,7 @@ The weak sector lift IS the master constant (ι<sub>τ</sub> itself).
 
 ### `Tau.BookIV.Physics.em_lift_is_iota_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/PlanckCharacter.lean#L264-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/PlanckCharacter.lean#L264-L268)
 **theorem
 Tau.BookIV.Physics.em_lift_is_iota_squared :lift_em.target_numer = Sectors.iota_sq_numer ∧ lift_em.target_denom = Sectors.iota_sq_denom**
 

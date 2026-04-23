@@ -61,7 +61,7 @@ This module verifies the algebraic properties at the interior level.
 
 ### `Tau.BookII.Transcendentals.j_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L40-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L40-L41)
 **def
 Tau.BookII.Transcendentals.j_unit :Polarity.SplitComplex**
 
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.j_squared_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L43-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L43-L45)
 **def
 Tau.BookII.Transcendentals.j_squared_check :Bool**
 
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.j_nontrivial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L47-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L47-L49)
 **def
 Tau.BookII.Transcendentals.j_nontrivial_check :Bool**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.j_involution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L51-L53)
 **def
 Tau.BookII.Transcendentals.j_involution_check :Bool**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.idempotent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L59-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L59-L75)
 **def
 Tau.BookII.Transcendentals.idempotent_check :Bool**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.interior_projection_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L77-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L77-L87)
 **def
 Tau.BookII.Transcendentals.interior_projection_check :Bool**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.j_vs_i_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L93-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L93-L111)
 **def
 Tau.BookII.Transcendentals.j_vs_i_check :Bool**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.wave_vs_laplace_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L113-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L113-L123)
 **def
 Tau.BookII.Transcendentals.wave_vs_laplace_check :Bool**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.interior_bipolar_via_j`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L129-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L129-L146)
 **def
 Tau.BookII.Transcendentals.interior_bipolar_via_j
 (bound : Denotation.TauIdx)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.interior_bipolar_via_j.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L134-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L134-L145)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.interior_bipolar_via_j.go
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.j_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L171-L171)
 **theorem
 Tau.BookII.Transcendentals.j_sq :j_squared_check = true**
 
@@ -245,7 +245,7 @@ Tau.BookII.Transcendentals.j_sq :j_squared_check = true**
 
 ### `Tau.BookII.Transcendentals.j_nontriv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L172-L172)
 **theorem
 Tau.BookII.Transcendentals.j_nontriv :j_nontrivial_check = true**
 
@@ -254,7 +254,7 @@ Tau.BookII.Transcendentals.j_nontriv :j_nontrivial_check = true**
 
 ### `Tau.BookII.Transcendentals.j_invol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L173-L173)
 **theorem
 Tau.BookII.Transcendentals.j_invol :j_involution_check = true**
 
@@ -263,7 +263,7 @@ Tau.BookII.Transcendentals.j_invol :j_involution_check = true**
 
 ### `Tau.BookII.Transcendentals.idemp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L174-L174)
 **theorem
 Tau.BookII.Transcendentals.idemp :idempotent_check = true**
 
@@ -272,7 +272,7 @@ Tau.BookII.Transcendentals.idemp :idempotent_check = true**
 
 ### `Tau.BookII.Transcendentals.int_proj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L175-L175)
 **theorem
 Tau.BookII.Transcendentals.int_proj :interior_projection_check = true**
 
@@ -281,7 +281,7 @@ Tau.BookII.Transcendentals.int_proj :interior_projection_check = true**
 
 ### `Tau.BookII.Transcendentals.j_vs_i`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L176-L176)
 **theorem
 Tau.BookII.Transcendentals.j_vs_i :j_vs_i_check = true**
 
@@ -290,7 +290,7 @@ Tau.BookII.Transcendentals.j_vs_i :j_vs_i_check = true**
 
 ### `Tau.BookII.Transcendentals.wave_laplace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L177-L177)
 **theorem
 Tau.BookII.Transcendentals.wave_laplace :wave_vs_laplace_check = true**
 
@@ -299,6 +299,6 @@ Tau.BookII.Transcendentals.wave_laplace :wave_vs_laplace_check = true**
 
 ### `Tau.BookII.Transcendentals.int_bipolar_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/JReplacesI.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/JReplacesI.lean#L178-L178)
 **theorem
 Tau.BookII.Transcendentals.int_bipolar_30 :interior_bipolar_via_j 30 = true**

@@ -77,7 +77,7 @@ winding-mode geometry, not free parameters.
 
 ### `Tau.BookIV.Particles.ExactlyFourPrimitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L47-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L47-L65)
 **structure
 Tau.BookIV.Particles.ExactlyFourPrimitive :Type**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprExactlyFourPrimitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L65-L65)
 **instance
 Tau.BookIV.Particles.instReprExactlyFourPrimitive :Repr ExactlyFourPrimitive**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprExactlyFourPrimitive.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L65-L65)
 **def
 Tau.BookIV.Particles.instReprExactlyFourPrimitive.repr :ExactlyFourPrimitive → ℕ → Std.Format**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.exactly_four_primitive_forces`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L67-L67)
 **def
 Tau.BookIV.Particles.exactly_four_primitive_forces :ExactlyFourPrimitive**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.four_primitive_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L69-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L69-L70)
 **theorem
 Tau.BookIV.Particles.four_primitive_count :exactly_four_primitive_forces.count = 4**
 
@@ -159,7 +159,7 @@ Tau.BookIV.Particles.four_primitive_count :exactly_four_primitive_forces.count =
 
 ### `Tau.BookIV.Particles.four_primitive_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L72-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L72-L73)
 **theorem
 Tau.BookIV.Particles.four_primitive_sectors :exactly_four_primitive_forces.sectors.length = 4**
 
@@ -168,7 +168,7 @@ Tau.BookIV.Particles.four_primitive_sectors :exactly_four_primitive_forces.secto
 
 ### `Tau.BookIV.Particles.ExactlyOneDerived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L79-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L79-L97)
 **structure
 Tau.BookIV.Particles.ExactlyOneDerived :Type**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprExactlyOneDerived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L97-L97)
 **instance
 Tau.BookIV.Particles.instReprExactlyOneDerived :Repr ExactlyOneDerived**
 
@@ -213,7 +213,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprExactlyOneDerived.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L97-L97)
 **def
 Tau.BookIV.Particles.instReprExactlyOneDerived.repr :ExactlyOneDerived → ℕ → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.exactly_one_derived_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L99-L99)
 **def
 Tau.BookIV.Particles.exactly_one_derived_sector :ExactlyOneDerived**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.one_derived_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L101-L102)
 **theorem
 Tau.BookIV.Particles.one_derived_count :exactly_one_derived_sector.count = 1**
 
@@ -246,7 +246,7 @@ Tau.BookIV.Particles.one_derived_count :exactly_one_derived_sector.count = 1**
 
 ### `Tau.BookIV.Particles.total_sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L104-L107)
 **theorem
 Tau.BookIV.Particles.total_sector_count :exactly_four_primitive_forces.count + exactly_one_derived_sector.count = 5**
 
@@ -257,7 +257,7 @@ Total sector count: 4 primitive + 1 derived = 5.
 
 ### `Tau.BookIV.Particles.GeneratorGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L113-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L113-L121)
 **inductive
 Tau.BookIV.Particles.GeneratorGroup :Type**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprGeneratorGroup.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
 **def
 Tau.BookIV.Particles.instReprGeneratorGroup.repr :GeneratorGroup → ℕ → Std.Format**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprGeneratorGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
 **instance
 Tau.BookIV.Particles.instReprGeneratorGroup :Repr GeneratorGroup**
 
@@ -302,7 +302,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instDecidableEqGeneratorGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
 **instance
 Tau.BookIV.Particles.instDecidableEqGeneratorGroup :DecidableEq GeneratorGroup**
 
@@ -313,7 +313,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqGeneratorGroup.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
 **def
 Tau.BookIV.Particles.instBEqGeneratorGroup.beq :GeneratorGroup → GeneratorGroup → Bool**
 
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instBEqGeneratorGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L121-L121)
 **instance
 Tau.BookIV.Particles.instBEqGeneratorGroup :BEq GeneratorGroup**
 
@@ -336,7 +336,7 @@ Equations
 
 ### `Tau.BookIV.Particles.CanonicalGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L123-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L123-L135)
 **structure
 Tau.BookIV.Particles.CanonicalGenerator :Type**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprCanonicalGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L135-L135)
 **instance
 Tau.BookIV.Particles.instReprCanonicalGenerator :Repr CanonicalGenerator**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprCanonicalGenerator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L135-L135)
 **def
 Tau.BookIV.Particles.instReprCanonicalGenerator.repr :CanonicalGenerator → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.canonical_generator_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L137-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L137-L151)
 **def
 Tau.BookIV.Particles.canonical_generator_set :List CanonicalGenerator**
 
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.nine_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L153-L153)
 **theorem
 Tau.BookIV.Particles.nine_generators :canonical_generator_set.length = 9**
 
@@ -413,7 +413,7 @@ Tau.BookIV.Particles.nine_generators :canonical_generator_set.length = 9**
 
 ### `Tau.BookIV.Particles.GeneratorAdequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L159-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L159-L172)
 **structure
 Tau.BookIV.Particles.GeneratorAdequacy :Type**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprGeneratorAdequacy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L172-L172)
 **def
 Tau.BookIV.Particles.instReprGeneratorAdequacy.repr :GeneratorAdequacy → ℕ → Std.Format**
 
@@ -453,7 +453,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprGeneratorAdequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L172-L172)
 **instance
 Tau.BookIV.Particles.instReprGeneratorAdequacy :Repr GeneratorAdequacy**
 
@@ -464,7 +464,7 @@ Equations
 
 ### `Tau.BookIV.Particles.generator_adequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L174-L174)
 **def
 Tau.BookIV.Particles.generator_adequacy :GeneratorAdequacy**
 
@@ -476,7 +476,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.adequacy_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L176-L176)
 **theorem
 Tau.BookIV.Particles.adequacy_count :generator_adequacy.total = 9**
 
@@ -485,7 +485,7 @@ Tau.BookIV.Particles.adequacy_count :generator_adequacy.total = 9**
 
 ### `Tau.BookIV.Particles.is_adequate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L177-L177)
 **theorem
 Tau.BookIV.Particles.is_adequate :generator_adequacy.adequate = true**
 
@@ -494,7 +494,7 @@ Tau.BookIV.Particles.is_adequate :generator_adequacy.adequate = true**
 
 ### `Tau.BookIV.Particles.is_minimal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L178-L178)
 **theorem
 Tau.BookIV.Particles.is_minimal :generator_adequacy.minimal = true**
 
@@ -503,7 +503,7 @@ Tau.BookIV.Particles.is_minimal :generator_adequacy.minimal = true**
 
 ### `Tau.BookIV.Particles.TauYukawaCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L184-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L184-L206)
 **structure
 Tau.BookIV.Particles.TauYukawaCoupling :Type**
 
@@ -543,7 +543,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprTauYukawaCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L206-L206)
 **def
 Tau.BookIV.Particles.instReprTauYukawaCoupling.repr :TauYukawaCoupling → ℕ → Std.Format**
 
@@ -555,7 +555,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprTauYukawaCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L206-L206)
 **instance
 Tau.BookIV.Particles.instReprTauYukawaCoupling :Repr TauYukawaCoupling**
 
@@ -566,7 +566,7 @@ Equations
 
 ### `Tau.BookIV.Particles.YukawaReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L212-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L212-L225)
 **structure
 Tau.BookIV.Particles.YukawaReadout :Type**
 
@@ -594,7 +594,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprYukawaReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L225-L225)
 **def
 Tau.BookIV.Particles.instReprYukawaReadout.repr :YukawaReadout → ℕ → Std.Format**
 
@@ -606,7 +606,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprYukawaReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L225-L225)
 **instance
 Tau.BookIV.Particles.instReprYukawaReadout :Repr YukawaReadout**
 
@@ -617,7 +617,7 @@ Equations
 
 ### `Tau.BookIV.Particles.yukawa_is_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L227-L227)
 **def
 Tau.BookIV.Particles.yukawa_is_readout :YukawaReadout**
 
@@ -629,7 +629,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.yukawa_span`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L229-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L229-L229)
 **theorem
 Tau.BookIV.Particles.yukawa_span :yukawa_is_readout.span_orders = 6**
 
@@ -638,7 +638,7 @@ Tau.BookIV.Particles.yukawa_span :yukawa_is_readout.span_orders = 6**
 
 ### `Tau.BookIV.Particles.yukawa_not_free`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L230-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L230-L230)
 **theorem
 Tau.BookIV.Particles.yukawa_not_free :yukawa_is_readout.not_free = true**
 
@@ -647,7 +647,7 @@ Tau.BookIV.Particles.yukawa_not_free :yukawa_is_readout.not_free = true**
 
 ### `Tau.BookIV.Particles.ParameterComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L236-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L236-L252)
 **structure
 Tau.BookIV.Particles.ParameterComparison :Type**
 
@@ -682,7 +682,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprParameterComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L252-L252)
 **instance
 Tau.BookIV.Particles.instReprParameterComparison :Repr ParameterComparison**
 
@@ -693,7 +693,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprParameterComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L252-L252)
 **def
 Tau.BookIV.Particles.instReprParameterComparison.repr :ParameterComparison → ℕ → Std.Format**
 
@@ -705,7 +705,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sm_parameter_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L254-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L254-L254)
 **def
 Tau.BookIV.Particles.sm_parameter_comparison :ParameterComparison**
 
@@ -717,7 +717,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sm_has_19`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L256-L256)
 **theorem
 Tau.BookIV.Particles.sm_has_19 :sm_parameter_comparison.sm_params = 19**
 
@@ -726,7 +726,7 @@ Tau.BookIV.Particles.sm_has_19 :sm_parameter_comparison.sm_params = 19**
 
 ### `Tau.BookIV.Particles.tau_one_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L257-L257)
 **theorem
 Tau.BookIV.Particles.tau_one_constant :sm_parameter_comparison.tau_numerical = 1**
 
@@ -735,7 +735,7 @@ Tau.BookIV.Particles.tau_one_constant :sm_parameter_comparison.tau_numerical = 1
 
 ### `Tau.BookIV.Particles.structural_plus_numerical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L258-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L258-L261)
 **theorem
 Tau.BookIV.Particles.structural_plus_numerical :sm_parameter_comparison.tau_structural + sm_parameter_comparison.tau_numerical = sm_parameter_comparison.tau_generators**
 
@@ -744,7 +744,7 @@ Tau.BookIV.Particles.structural_plus_numerical :sm_parameter_comparison.tau_stru
 
 ### `Tau.BookIV.Particles.NoBSM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L267-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L267-L283)
 **structure
 Tau.BookIV.Particles.NoBSM :Type**
 
@@ -776,7 +776,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNoBSM.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L283-L283)
 **def
 Tau.BookIV.Particles.instReprNoBSM.repr :NoBSM → ℕ → Std.Format**
 
@@ -788,7 +788,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNoBSM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L283-L283)
 **instance
 Tau.BookIV.Particles.instReprNoBSM :Repr NoBSM**
 
@@ -799,7 +799,7 @@ Equations
 
 ### `Tau.BookIV.Particles.no_bsm_particles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L285-L285)
 **def
 Tau.BookIV.Particles.no_bsm_particles :NoBSM**
 
@@ -811,7 +811,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.bsm_all_excluded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L287-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L287-L292)
 **theorem
 Tau.BookIV.Particles.bsm_all_excluded :no_bsm_particles.no_susy = true ∧ no_bsm_particles.no_leptoquarks = true ∧ no_bsm_particles.no_rh_neutrinos = true ∧ no_bsm_particles.no_fourth_gen = true ∧ no_bsm_particles.no_new_dm = true**
 
@@ -820,7 +820,7 @@ Tau.BookIV.Particles.bsm_all_excluded :no_bsm_particles.no_susy = true ∧ no_bs
 
 ### `Tau.BookIV.Particles.AtlasEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L298-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L298-L308)
 **structure
 Tau.BookIV.Particles.AtlasEntry :Type**
 
@@ -845,7 +845,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAtlasEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L308-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L308-L308)
 **def
 Tau.BookIV.Particles.instReprAtlasEntry.repr :AtlasEntry → ℕ → Std.Format**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAtlasEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L308-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L308-L308)
 **instance
 Tau.BookIV.Particles.instReprAtlasEntry :Repr AtlasEntry**
 
@@ -868,7 +868,7 @@ Equations
 
 ### `Tau.BookIV.Particles.sector_atlas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L310-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L310-L318)
 **def
 Tau.BookIV.Particles.sector_atlas :List AtlasEntry**
 
@@ -883,6 +883,6 @@ Instances For
 
 ### `Tau.BookIV.Particles.atlas_five_entries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SectorAtlas.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SectorAtlas.lean#L320-L320)
 **theorem
 Tau.BookIV.Particles.atlas_five_entries :sector_atlas.length = 5**

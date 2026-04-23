@@ -60,7 +60,7 @@ Ecosystems: inter-sector web, biogeochemical circulation, repair budget.
 
 ### `Tau.BookVI.Ecosystem.InterSectorWeb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L31-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L31-L44)
 **structure
 Tau.BookVI.Ecosystem.InterSectorWeb :Type**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprInterSectorWeb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L44-L44)
 **instance
 Tau.BookVI.Ecosystem.instReprInterSectorWeb :Repr InterSectorWeb**
 
@@ -99,7 +99,7 @@ Equations
 
 ### `Tau.BookVI.Ecosystem.instReprInterSectorWeb.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L44-L44)
 **def
 Tau.BookVI.Ecosystem.instReprInterSectorWeb.repr :InterSectorWeb → ℕ → Std.Format**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.isw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L46-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L46-L48)
 **def
 Tau.BookVI.Ecosystem.isw :InterSectorWeb**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.inter_sector_web_five`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L50-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L50-L51)
 **theorem
 Tau.BookVI.Ecosystem.inter_sector_web_five :isw.sector_count = 5**
 
@@ -132,7 +132,7 @@ Tau.BookVI.Ecosystem.inter_sector_web_five :isw.sector_count = 5**
 
 ### `Tau.BookVI.Ecosystem.inter_sector_web_connected`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L53-L55)
 **theorem
 Tau.BookVI.Ecosystem.inter_sector_web_connected :isw.connected = true ∧ isw.source_closure_dual = true**
 
@@ -141,7 +141,7 @@ Tau.BookVI.Ecosystem.inter_sector_web_connected :isw.connected = true ∧ isw.so
 
 ### `Tau.BookVI.Ecosystem.EcosystemPoincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L61-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L61-L77)
 **structure
 Tau.BookVI.Ecosystem.EcosystemPoincare :Type**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprEcosystemPoincare.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L77-L77)
 **def
 Tau.BookVI.Ecosystem.instReprEcosystemPoincare.repr :EcosystemPoincare → ℕ → Std.Format**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprEcosystemPoincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L77-L77)
 **instance
 Tau.BookVI.Ecosystem.instReprEcosystemPoincare :Repr EcosystemPoincare**
 
@@ -196,7 +196,7 @@ Equations
 
 ### `Tau.BookVI.Ecosystem.eco_poincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L79-L81)
 **def
 Tau.BookVI.Ecosystem.eco_poincare :EcosystemPoincare**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.ecosystem_poincare`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L83-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L83-L87)
 **theorem
 Tau.BookVI.Ecosystem.ecosystem_poincare :eco_poincare.major_cycles ≥ 3 ∧ eco_poincare.all_closed = true ∧ eco_poincare.multi_scale = true**
 
@@ -217,7 +217,7 @@ Tau.BookVI.Ecosystem.ecosystem_poincare :eco_poincare.major_cycles ≥ 3 ∧ eco
 
 ### `Tau.BookVI.Ecosystem.RepairBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L93-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L93-L104)
 **structure
 Tau.BookVI.Ecosystem.RepairBudget :Type**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprRepairBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L104-L104)
 **instance
 Tau.BookVI.Ecosystem.instReprRepairBudget :Repr RepairBudget**
 
@@ -253,7 +253,7 @@ Equations
 
 ### `Tau.BookVI.Ecosystem.instReprRepairBudget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L104-L104)
 **def
 Tau.BookVI.Ecosystem.instReprRepairBudget.repr :RepairBudget → ℕ → Std.Format**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.repair_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L106-L106)
 **def
 Tau.BookVI.Ecosystem.repair_budget :RepairBudget**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.repair_budget_finite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L108-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L108-L111)
 **theorem
 Tau.BookVI.Ecosystem.repair_budget_finite :repair_budget.finite_budget = true ∧ repair_budget.bounds_basin = true**
 
@@ -286,7 +286,7 @@ Tau.BookVI.Ecosystem.repair_budget_finite :repair_budget.finite_budget = true �
 
 ### `Tau.BookVI.Ecosystem.MetamorphosisSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L117-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L117-L129)
 **structure
 Tau.BookVI.Ecosystem.MetamorphosisSelfDesc :Type**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprMetamorphosisSelfDesc.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L129-L129)
 **def
 Tau.BookVI.Ecosystem.instReprMetamorphosisSelfDesc.repr :MetamorphosisSelfDesc → ℕ → Std.Format**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.instReprMetamorphosisSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L129-L129)
 **instance
 Tau.BookVI.Ecosystem.instReprMetamorphosisSelfDesc :Repr MetamorphosisSelfDesc**
 
@@ -335,7 +335,7 @@ Equations
 
 ### `Tau.BookVI.Ecosystem.metamorphosis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L131-L131)
 **def
 Tau.BookVI.Ecosystem.metamorphosis :MetamorphosisSelfDesc**
 
@@ -347,6 +347,6 @@ Instances For
 
 ### `Tau.BookVI.Ecosystem.metamorphosis_selfdesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Closure/Ecosystem.lean#L133-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Closure/Ecosystem.lean#L133-L137)
 **theorem
 Tau.BookVI.Ecosystem.metamorphosis_selfdesc :metamorphosis.code_preserved = true ∧ metamorphosis.selfdesc_continuous = true ∧ metamorphosis.profinite_invariant = true**

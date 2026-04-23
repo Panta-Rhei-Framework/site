@@ -57,7 +57,7 @@ coordinate vanishes: z is a zero divisor iff z.re + z.im = 0 or z.re - z.im = 0.
 
 ### `Tau.Boundary.SplitComplex.ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L36-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L36-L39)
 **theorem
 Tau.Boundary.SplitComplex.ext
 {a b : Polarity.SplitComplex}
@@ -72,7 +72,7 @@ Tau.Boundary.SplitComplex.ext
 
 ### `Tau.Boundary.SplitComplex.ext_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L36-L36)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L36-L36)
 **theorem
 Tau.Boundary.SplitComplex.ext_iff
 {a b : Polarity.SplitComplex}
@@ -83,7 +83,7 @@ Tau.Boundary.SplitComplex.ext_iff
 
 ### `Tau.Boundary.sc_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L45-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L45-L48)
 **theorem
 Tau.Boundary.sc_add_comm
 (a b : Polarity.SplitComplex)
@@ -96,7 +96,7 @@ Additive commutativity: a + b = b + a.
 
 ### `Tau.Boundary.sc_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L50-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L50-L54)
 **theorem
 Tau.Boundary.sc_add_assoc
 (a b c : Polarity.SplitComplex)
@@ -109,7 +109,7 @@ Additive associativity: (a + b) + c = a + (b + c).
 
 ### `Tau.Boundary.sc_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L56-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L56-L59)
 **theorem
 Tau.Boundary.sc_add_zero
 (a : Polarity.SplitComplex)
@@ -122,7 +122,7 @@ Additive identity: a + 0 = a.
 
 ### `Tau.Boundary.sc_add_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L61-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L61-L64)
 **theorem
 Tau.Boundary.sc_add_neg
 (a : Polarity.SplitComplex)
@@ -135,7 +135,7 @@ Additive inverse: a + (-a) = 0.
 
 ### `Tau.Boundary.sc_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L66-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L66-L69)
 **theorem
 Tau.Boundary.sc_mul_comm
 (a b : Polarity.SplitComplex)
@@ -148,7 +148,7 @@ Multiplicative commutativity: a * b = b * a.
 
 ### `Tau.Boundary.sc_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L71-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L71-L75)
 **theorem
 Tau.Boundary.sc_mul_assoc
 (a b c : Polarity.SplitComplex)
@@ -161,7 +161,7 @@ Multiplicative associativity: (a * b) * c = a * (b * c).
 
 ### `Tau.Boundary.sc_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L77-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L77-L80)
 **theorem
 Tau.Boundary.sc_mul_one
 (a : Polarity.SplitComplex)
@@ -174,7 +174,7 @@ Multiplicative identity: a * 1 = a.
 
 ### `Tau.Boundary.sc_left_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L82-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L82-L86)
 **theorem
 Tau.Boundary.sc_left_distrib
 (a b c : Polarity.SplitComplex)
@@ -187,7 +187,7 @@ Left distributivity: a * (b + c) = a*b + a*c.
 
 ### `Tau.Boundary.sc_ring_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L88-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L88-L102)
 **theorem
 Tau.Boundary.sc_ring_axioms :(∀ (a b : Polarity.SplitComplex), a.add b = b.add a) ∧ (∀ (a b c : Polarity.SplitComplex), (a.add b).add c = a.add (b.add c)) ∧ (∀ (a : Polarity.SplitComplex), a.add Polarity.SplitComplex.zero = a) ∧ (∀ (a : Polarity.SplitComplex), a.add a.neg = Polarity.SplitComplex.zero) ∧ (∀ (a b : Polarity.SplitComplex), a.mul b = b.mul a) ∧ (∀ (a b c : Polarity.SplitComplex), (a.mul b).mul c = a.mul (b.mul c)) ∧ (∀ (a : Polarity.SplitComplex), a.mul Polarity.SplitComplex.one = a) ∧ ∀ (a b c : Polarity.SplitComplex), a.mul (b.add c) = (a.mul b).add (a.mul c)**
 
@@ -198,7 +198,7 @@ Full SplitComplex ring axiom collection.
 
 ### `Tau.Boundary.SectorPair.ext`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L108-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L108-L112)
 **theorem
 Tau.Boundary.SectorPair.ext
 {a b : Polarity.SectorPair}
@@ -213,7 +213,7 @@ Tau.Boundary.SectorPair.ext
 
 ### `Tau.Boundary.SectorPair.ext_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L108-L108)
 **theorem
 Tau.Boundary.SectorPair.ext_iff
 {a b : Polarity.SectorPair}
@@ -224,7 +224,7 @@ Tau.Boundary.SectorPair.ext_iff
 
 ### `Tau.Boundary.SectorPair.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L118-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L118-L119)
 **def
 Tau.Boundary.SectorPair.zero :Polarity.SectorPair**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.Boundary.SectorPair.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L121-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L121-L122)
 **def
 Tau.Boundary.SectorPair.one :Polarity.SectorPair**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.Boundary.SectorPair.neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L124-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L124-L126)
 **def
 Tau.Boundary.SectorPair.neg
 (a : Polarity.SectorPair)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.Boundary.sp_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L128-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L128-L131)
 **theorem
 Tau.Boundary.sp_add_comm
 (a b : Polarity.SectorPair)
@@ -281,7 +281,7 @@ Additive commutativity.
 
 ### `Tau.Boundary.sp_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L133-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L133-L137)
 **theorem
 Tau.Boundary.sp_add_assoc
 (a b c : Polarity.SectorPair)
@@ -294,7 +294,7 @@ Additive associativity.
 
 ### `Tau.Boundary.sp_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L139-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L139-L142)
 **theorem
 Tau.Boundary.sp_add_zero
 (a : Polarity.SectorPair)
@@ -307,7 +307,7 @@ Additive identity.
 
 ### `Tau.Boundary.sp_add_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L144-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L144-L147)
 **theorem
 Tau.Boundary.sp_add_neg
 (a : Polarity.SectorPair)
@@ -320,7 +320,7 @@ Additive inverse.
 
 ### `Tau.Boundary.sp_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L149-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L149-L152)
 **theorem
 Tau.Boundary.sp_mul_comm
 (a b : Polarity.SectorPair)
@@ -333,7 +333,7 @@ Multiplicative commutativity.
 
 ### `Tau.Boundary.sp_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L154-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L154-L158)
 **theorem
 Tau.Boundary.sp_mul_assoc
 (a b c : Polarity.SectorPair)
@@ -346,7 +346,7 @@ Multiplicative associativity.
 
 ### `Tau.Boundary.sp_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L160-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L160-L163)
 **theorem
 Tau.Boundary.sp_mul_one
 (a : Polarity.SectorPair)
@@ -359,7 +359,7 @@ Multiplicative identity.
 
 ### `Tau.Boundary.sp_left_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L165-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L165-L169)
 **theorem
 Tau.Boundary.sp_left_distrib
 (a b c : Polarity.SectorPair)
@@ -372,7 +372,7 @@ Left distributivity: a * (b + c) = a*b + a*c.
 
 ### `Tau.Boundary.sp_ring_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L171-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L171-L185)
 **theorem
 Tau.Boundary.sp_ring_axioms :(∀ (a b : Polarity.SectorPair), a.add b = b.add a) ∧ (∀ (a b c : Polarity.SectorPair), (a.add b).add c = a.add (b.add c)) ∧ (∀ (a : Polarity.SectorPair), a.add SectorPair.zero = a) ∧ (∀ (a : Polarity.SectorPair), a.add (SectorPair.neg a) = SectorPair.zero) ∧ (∀ (a b : Polarity.SectorPair), a.mul b = b.mul a) ∧ (∀ (a b c : Polarity.SectorPair), (a.mul b).mul c = a.mul (b.mul c)) ∧ (∀ (a : Polarity.SectorPair), a.mul SectorPair.one = a) ∧ ∀ (a b c : Polarity.SectorPair), a.mul (b.add c) = (a.mul b).add (a.mul c)**
 
@@ -383,7 +383,7 @@ Full SectorPair ring axiom collection.
 
 ### `Tau.Boundary.from_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L191-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L191-L197)
 **def
 Tau.Boundary.from_sectors
 (s : Polarity.SectorPair)
@@ -403,7 +403,7 @@ Instances For
 
 ### `Tau.Boundary.to_sectors_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L199-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L199-L206)
 **theorem
 Tau.Boundary.to_sectors_injective
 (a b : Polarity.SplitComplex)
@@ -418,7 +418,7 @@ to_sectors is injective: to_sectors a = to_sectors b implies a = b.
 
 ### `Tau.Boundary.from_sectors_left_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L208-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L208-L212)
 **theorem
 Tau.Boundary.from_sectors_left_inv
 (z : Polarity.SplitComplex)
@@ -431,7 +431,7 @@ from_sectors is a left inverse of to_sectors (over SplitComplex).
 
 ### `Tau.Boundary.to_sectors_surj_on_image`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L214-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L214-L224)
 **theorem
 Tau.Boundary.to_sectors_surj_on_image
 (s : Polarity.SectorPair)
@@ -447,7 +447,7 @@ Note: over Z, to_sectors only reaches even-sum pairs (u+v always even).
 
 ### `Tau.Boundary.to_sectors_parity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L226-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L226-L233)
 **theorem
 Tau.Boundary.to_sectors_parity
 (z : Polarity.SplitComplex)
@@ -460,7 +460,7 @@ The image of to_sectors consists of pairs with equal parity.
 
 ### `Tau.Boundary.to_sectors_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L239-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L239-L242)
 **theorem
 Tau.Boundary.to_sectors_zero :Polarity.to_sectors Polarity.SplitComplex.zero = SectorPair.zero**
 
@@ -471,7 +471,7 @@ to_sectors preserves zero.
 
 ### `Tau.Boundary.to_sectors_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L244-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L244-L247)
 **theorem
 Tau.Boundary.to_sectors_one :Polarity.to_sectors Polarity.SplitComplex.one = SectorPair.one**
 
@@ -482,7 +482,7 @@ to_sectors preserves one.
 
 ### `Tau.Boundary.to_sectors_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L249-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L249-L253)
 **theorem
 Tau.Boundary.to_sectors_neg
 (z : Polarity.SplitComplex)
@@ -495,7 +495,7 @@ to_sectors preserves negation.
 
 ### `Tau.Boundary.zero_divisor_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L261-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L261-L278)
 **theorem
 Tau.Boundary.zero_divisor_sector
 (z w : Polarity.SplitComplex)
@@ -515,7 +515,7 @@ have exactly one sector vanishing.
 
 ### `Tau.Boundary.zero_divisor_witness_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L280-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L280-L286)
 **theorem
 Tau.Boundary.zero_divisor_witness_b
 (z : Polarity.SplitComplex)
@@ -531,7 +531,7 @@ Converse: if one sector of z is zero, z is a zero divisor
 
 ### `Tau.Boundary.zero_divisor_witness_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L288-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L288-L292)
 **theorem
 Tau.Boundary.zero_divisor_witness_c
 (z : Polarity.SplitComplex)
@@ -544,7 +544,7 @@ Tau.Boundary.zero_divisor_witness_c
 
 ### `Tau.Boundary.zero_divisors_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/SplitComplex.lean#L294-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/SplitComplex.lean#L294-L314)
 **theorem
 Tau.Boundary.zero_divisors_iff
 (z : Polarity.SplitComplex)

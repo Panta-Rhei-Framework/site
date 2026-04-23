@@ -85,7 +85,7 @@ Float display is available via `.toFloat` for smoke tests only.
 
 ### `Tau.BookIV.Calibration.SIConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L48-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L48-L62)
 **structure
 Tau.BookIV.Calibration.SIConstant :Type**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprSIConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L62-L62)
 **instance
 Tau.BookIV.Calibration.instReprSIConstant :Repr SIConstant**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprSIConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L62-L62)
 **def
 Tau.BookIV.Calibration.instReprSIConstant.repr :SIConstant → ℕ → Std.Format**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.SIConstant.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L64-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L64-L66)
 **def
 Tau.BookIV.Calibration.SIConstant.toFloat
 (c : SIConstant)
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_speed_of_light`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L72-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L72-L80)
 **def
 Tau.BookIV.Calibration.si_speed_of_light :SIConstant**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_planck_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L82-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L82-L90)
 **def
 Tau.BookIV.Calibration.si_planck_constant :SIConstant**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_elementary_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L92-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L92-L100)
 **def
 Tau.BookIV.Calibration.si_elementary_charge :SIConstant**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_boltzmann`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L102-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L102-L110)
 **def
 Tau.BookIV.Calibration.si_boltzmann :SIConstant**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_avogadro`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L112-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L112-L120)
 **def
 Tau.BookIV.Calibration.si_avogadro :SIConstant**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_exact_constants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L122-L124)
 **def
 Tau.BookIV.Calibration.si_exact_constants :List SIConstant**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_neutron_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L130-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L130-L139)
 **def
 Tau.BookIV.Calibration.si_neutron_mass :SIConstant**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_electron_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L141-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L141-L149)
 **def
 Tau.BookIV.Calibration.si_electron_mass :SIConstant**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_proton_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L151-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L151-L159)
 **def
 Tau.BookIV.Calibration.si_proton_mass :SIConstant**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_alpha_inverse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L161-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L161-L169)
 **def
 Tau.BookIV.Calibration.si_alpha_inverse :SIConstant**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_weinberg_sin2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L171-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L171-L179)
 **def
 Tau.BookIV.Calibration.si_weinberg_sin2 :SIConstant**
 
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_strong_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L181-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L181-L189)
 **def
 Tau.BookIV.Calibration.si_strong_coupling :SIConstant**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_mass_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L191-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L191-L199)
 **def
 Tau.BookIV.Calibration.si_mass_ratio :SIConstant**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_np_mass_diff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L201-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L201-L209)
 **def
 Tau.BookIV.Calibration.si_np_mass_diff :SIConstant**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_gravitational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L211-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L211-L220)
 **def
 Tau.BookIV.Calibration.si_gravitational :SIConstant**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_measured_constants`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L222-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L222-L226)
 **def
 Tau.BookIV.Calibration.si_measured_constants :List SIConstant**
 
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_tau_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L232-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L232-L241)
 **def
 Tau.BookIV.Calibration.si_tau_length :SIConstant**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.si_tau_frequency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L243-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L243-L253)
 **def
 Tau.BookIV.Calibration.si_tau_frequency :SIConstant**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.exact_constants_are_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L259-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L259-L263)
 **theorem
 Tau.BookIV.Calibration.exact_constants_are_exact :((List.map SIConstant.is_exact si_exact_constants).all fun (x : Bool) => x == true) = true**
 
@@ -459,7 +459,7 @@ All SI exact constants are flagged as exact.
 
 ### `Tau.BookIV.Calibration.exact_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L265-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L265-L266)
 **theorem
 Tau.BookIV.Calibration.exact_count :si_exact_constants.length = 4**
 
@@ -470,7 +470,7 @@ Exactly 4 exact constants in our reference table.
 
 ### `Tau.BookIV.Calibration.measured_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L268-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L268-L269)
 **theorem
 Tau.BookIV.Calibration.measured_count :si_measured_constants.length = 9**
 
@@ -481,7 +481,7 @@ Exactly 9 measured constants in our reference table.
 
 ### `Tau.BookIV.Calibration.measured_not_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L271-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L271-L276)
 **theorem
 Tau.BookIV.Calibration.measured_not_exact :((List.map SIConstant.is_exact si_measured_constants).all fun (x : Bool) => x == false) = true**
 
@@ -492,7 +492,7 @@ No measured constant is flagged as exact.
 
 ### `Tau.BookIV.Calibration.c_exact_integer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L278-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L278-L279)
 **theorem
 Tau.BookIV.Calibration.c_exact_integer :si_speed_of_light.denom = 1**
 
@@ -503,7 +503,7 @@ Speed of light is exact integer: c = 299792458.
 
 ### `Tau.BookIV.Calibration.neutron_heavier_than_proton`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L281-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L281-L286)
 **theorem
 Tau.BookIV.Calibration.neutron_heavier_than_proton :si_neutron_mass.numer * si_proton_mass.denom > si_proton_mass.numer * si_neutron_mass.denom**
 
@@ -515,7 +515,7 @@ m_n > m_p (neutron heavier than proton).
 
 ### `Tau.BookIV.Calibration.mass_ratio_gt_1838`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L288-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L288-L291)
 **theorem
 Tau.BookIV.Calibration.mass_ratio_gt_1838 :si_mass_ratio.numer > 1838 * si_mass_ratio.denom**
 
@@ -526,7 +526,7 @@ The mass ratio R > 1838 (neutron is ~1839× heavier than electron).
 
 ### `Tau.BookIV.Calibration.mass_ratio_lt_1840`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L293-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L293-L296)
 **theorem
 Tau.BookIV.Calibration.mass_ratio_lt_1840 :si_mass_ratio.numer < 1840 * si_mass_ratio.denom**
 
@@ -537,7 +537,7 @@ The mass ratio R < 1840 (neutron is less than 1840× the electron).
 
 ### `Tau.BookIV.Calibration.alpha_inverse_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/SIReference.lean#L298-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/SIReference.lean#L298-L302)
 **theorem
 Tau.BookIV.Calibration.alpha_inverse_in_range :si_alpha_inverse.numer > 137 * si_alpha_inverse.denom ∧ si_alpha_inverse.numer < 138 * si_alpha_inverse.denom**
 

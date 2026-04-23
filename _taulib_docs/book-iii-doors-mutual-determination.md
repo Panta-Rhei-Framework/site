@@ -46,7 +46,7 @@ closure B↔S (dual perspectives). Uniform template for all millennium problems.
 
 ### `Tau.BookIII.Doors.MDDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L31-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L31-L38)
 **inductive
 Tau.BookIII.Doors.MDDescription :Type**
 
@@ -64,7 +64,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instReprMDDescription.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
 **def
 Tau.BookIII.Doors.instReprMDDescription.repr :MDDescription → ℕ → Std.Format**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instReprMDDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
 **instance
 Tau.BookIII.Doors.instReprMDDescription :Repr MDDescription**
 
@@ -87,7 +87,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instDecidableEqMDDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
 **instance
 Tau.BookIII.Doors.instDecidableEqMDDescription :DecidableEq MDDescription**
 
@@ -98,7 +98,7 @@ Equations
 
 ### `Tau.BookIII.Doors.instBEqMDDescription.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
 **def
 Tau.BookIII.Doors.instBEqMDDescription.beq :MDDescription → MDDescription → Bool**
 
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.instBEqMDDescription`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L38-L38)
 **instance
 Tau.BookIII.Doors.instBEqMDDescription :BEq MDDescription**
 
@@ -121,7 +121,7 @@ Equations
 
 ### `Tau.BookIII.Doors.boundary_to_interior_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L40-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L40-L56)
 **def
 Tau.BookIII.Doors.boundary_to_interior_check
 (bound db : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.boundary_to_interior_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L45-L55)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L45-L55)@[irreducible]
 
 **def
 Tau.BookIII.Doors.boundary_to_interior_check.go
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.interior_to_spectral_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L58-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L58-L75)
 **def
 Tau.BookIII.Doors.interior_to_spectral_check
 (bound db : Denotation.TauIdx)
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.interior_to_spectral_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L63-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L63-L74)@[irreducible]
 
 **def
 Tau.BookIII.Doors.interior_to_spectral_check.go
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_to_boundary_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L77-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L77-L100)
 **def
 Tau.BookIII.Doors.spectral_to_boundary_check
 (bound db : Denotation.TauIdx)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_to_boundary_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L82-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L82-L99)@[irreducible]
 
 **def
 Tau.BookIII.Doors.spectral_to_boundary_check.go
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.mutual_det_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L102-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L102-L106)
 **def
 Tau.BookIII.Doors.mutual_det_check
 (bound db : Denotation.TauIdx)
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.b_to_i_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L121-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L121-L122)
 **theorem
 Tau.BookIII.Doors.b_to_i_15_4 :boundary_to_interior_check 15 4 = true**
 
@@ -248,7 +248,7 @@ Tau.BookIII.Doors.b_to_i_15_4 :boundary_to_interior_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.i_to_s_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L124-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L124-L125)
 **theorem
 Tau.BookIII.Doors.i_to_s_15_4 :interior_to_spectral_check 15 4 = true**
 
@@ -257,7 +257,7 @@ Tau.BookIII.Doors.i_to_s_15_4 :interior_to_spectral_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.s_to_b_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L127-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L127-L128)
 **theorem
 Tau.BookIII.Doors.s_to_b_10_3 :spectral_to_boundary_check 10 3 = true**
 
@@ -266,7 +266,7 @@ Tau.BookIII.Doors.s_to_b_10_3 :spectral_to_boundary_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.mutual_det_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L130-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L130-L131)
 **theorem
 Tau.BookIII.Doors.mutual_det_10_3 :mutual_det_check 10 3 = true**
 
@@ -275,7 +275,7 @@ Tau.BookIII.Doors.mutual_det_10_3 :mutual_det_check 10 3 = true**
 
 ### `Tau.BookIII.Doors.b_to_i_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L137-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L137-L139)
 **theorem
 Tau.BookIII.Doors.b_to_i_zero :Polarity.crt_reconstruct (Polarity.crt_decompose 0 3) 3 = 0**
 
@@ -286,7 +286,7 @@ Tau.BookIII.Doors.b_to_i_zero :Polarity.crt_reconstruct (Polarity.crt_decompose 
 
 ### `Tau.BookIII.Doors.md_cycle_42_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/MutualDetermination.lean#L141-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/MutualDetermination.lean#L141-L147)
 **theorem
 Tau.BookIII.Doors.md_cycle_42_3 :have residues := Polarity.crt_decompose 42 3;
 have reconstructed := Polarity.crt_reconstruct residues 3;

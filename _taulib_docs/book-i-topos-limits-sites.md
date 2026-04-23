@@ -75,7 +75,7 @@ PSh(Cat_τ) is a Grothendieck topos (standard result for small sites).
 
 ### `Tau.Topos.terminal_obj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L44-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L44-L46)
 **def
 Tau.Topos.terminal_obj :Denotation.TauIdx**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.Topos.terminal_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L48-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L48-L50)
 **theorem
 Tau.Topos.terminal_pos :terminal_obj > 0**
 
@@ -101,7 +101,7 @@ The terminal object is a valid τ-index.
 
 ### `Tau.Topos.cantor_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L56-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L56-L58)
 **def
 Tau.Topos.cantor_pair
 (a b : Denotation.TauIdx)
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.Topos.ProductObj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L60-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L60-L67)
 **structure
 Tau.Topos.ProductObj :Type**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.Topos.ProductObj.proj1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L69-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L69-L70)
 **def
 Tau.Topos.ProductObj.proj1
 (p : ProductObj)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.Topos.ProductObj.proj2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L72-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L72-L73)
 **def
 Tau.Topos.ProductObj.proj2
 (p : ProductObj)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.Topos.cantor_pair_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L75-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L75-L80)
 **theorem
 Tau.Topos.cantor_pair_zero :cantor_pair 0 0 = 0**
 
@@ -185,7 +185,7 @@ for algebraic completeness of the Nat encoding.
 
 ### `Tau.Topos.equalizer_obj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L89-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L89-L94)
 **def
 Tau.Topos.equalizer_obj
 (source : Denotation.TauIdx)
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.Topos.equalizer_is_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L96-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L96-L98)
 **theorem
 Tau.Topos.equalizer_is_identity
 (source : Denotation.TauIdx)
@@ -222,7 +222,7 @@ The equalizer inclusion is the identity (in a thin category).
 
 ### `Tau.Topos.pullback_obj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L104-L107)
 **def
 Tau.Topos.pullback_obj
 (x y : Denotation.TauIdx)
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.Topos.crt_component`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L113-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L113-L118)
 **def
 Tau.Topos.crt_component
 (x i : Denotation.TauIdx)
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.Topos.PrimorialCoverage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L120-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L120-L129)
 **structure
 Tau.Topos.PrimorialCoverage :Type**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.Topos.crt_coverage_determines`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L131-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L131-L135)
 **theorem
 Tau.Topos.crt_coverage_determines
 (x k : Denotation.TauIdx)
@@ -298,7 +298,7 @@ This is the content of the Chinese Remainder Theorem.
 
 ### `Tau.Topos.TauSite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L137-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L137-L142)
 **structure
 Tau.Topos.TauSite :Type**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.Topos.PShCatTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L148-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L148-L154)
 **structure
 Tau.Topos.PShCatTau :Type**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.Topos.terminal_presheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L156-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L156-L158)
 **def
 Tau.Topos.terminal_presheaf :PShCatTau**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.Topos.initial_presheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L160-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L160-L162)
 **def
 Tau.Topos.initial_presheaf :PShCatTau**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.Topos.psh_has_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L168-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L168-L175)
 **theorem
 Tau.Topos.psh_has_terminal :terminal_presheaf.presheaf.support 0 = true**
 
@@ -380,7 +380,7 @@ equalizers, and a subobject classifier.
 
 ### `Tau.Topos.psh_has_initial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L177-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L177-L178)
 **theorem
 Tau.Topos.psh_has_initial :initial_presheaf.presheaf.support 0 = false**
 
@@ -389,7 +389,7 @@ Tau.Topos.psh_has_initial :initial_presheaf.presheaf.support 0 = false**
 
 ### `Tau.Topos.presheaf_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L180-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L180-L182)
 **def
 Tau.Topos.presheaf_product
 (P Q : Presheaf)
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.Topos.presheaf_coproduct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L184-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L184-L186)
 **def
 Tau.Topos.presheaf_coproduct
 (P Q : Presheaf)
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.Topos.presheaf_product_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L188-L191)
 **theorem
 Tau.Topos.presheaf_product_terminal
 (P : Presheaf)
@@ -434,7 +434,7 @@ Product with terminal is identity.
 
 ### `Tau.Topos.presheaf_coproduct_initial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L193-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L193-L196)
 **theorem
 Tau.Topos.presheaf_coproduct_initial
 (P : Presheaf)
@@ -447,7 +447,7 @@ Coproduct with initial is identity.
 
 ### `Tau.Topos.psh_countable_objects`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/LimitsSites.lean#L202-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/LimitsSites.lean#L202-L207)
 **theorem
 Tau.Topos.psh_countable_objects :True**
 

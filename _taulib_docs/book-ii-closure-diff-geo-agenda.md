@@ -65,7 +65,7 @@ by delegating to e1_layer_check.
 
 ### `Tau.BookII.Closure.ConnectionPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L45-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L45-L51)
 **structure
 Tau.BookII.Closure.ConnectionPlaceholder :Type**
 
@@ -82,7 +82,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprConnectionPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
 **instance
 Tau.BookII.Closure.instReprConnectionPlaceholder :Repr ConnectionPlaceholder**
 
@@ -93,7 +93,7 @@ Equations
 
 ### `Tau.BookII.Closure.instReprConnectionPlaceholder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
 **def
 Tau.BookII.Closure.instReprConnectionPlaceholder.repr :ConnectionPlaceholder → ℕ → Std.Format**
 
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqConnectionPlaceholder.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
 **def
 Tau.BookII.Closure.instDecidableEqConnectionPlaceholder.decEq
 (x✝ x✝¹ : ConnectionPlaceholder)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqConnectionPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L51-L51)
 **instance
 Tau.BookII.Closure.instDecidableEqConnectionPlaceholder :DecidableEq ConnectionPlaceholder**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookII.Closure.CurvaturePlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L53-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L53-L57)
 **structure
 Tau.BookII.Closure.CurvaturePlaceholder :Type**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprCurvaturePlaceholder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
 **def
 Tau.BookII.Closure.instReprCurvaturePlaceholder.repr :CurvaturePlaceholder → ℕ → Std.Format**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprCurvaturePlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
 **instance
 Tau.BookII.Closure.instReprCurvaturePlaceholder :Repr CurvaturePlaceholder**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookII.Closure.instDecidableEqCurvaturePlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
 **instance
 Tau.BookII.Closure.instDecidableEqCurvaturePlaceholder :DecidableEq CurvaturePlaceholder**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookII.Closure.instDecidableEqCurvaturePlaceholder.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L57-L57)
 **def
 Tau.BookII.Closure.instDecidableEqCurvaturePlaceholder.decEq
 (x✝ x✝¹ : CurvaturePlaceholder)
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookII.Closure.HolonomyPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L59-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L59-L63)
 **structure
 Tau.BookII.Closure.HolonomyPlaceholder :Type**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprHolonomyPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
 **instance
 Tau.BookII.Closure.instReprHolonomyPlaceholder :Repr HolonomyPlaceholder**
 
@@ -219,7 +219,7 @@ Equations
 
 ### `Tau.BookII.Closure.instReprHolonomyPlaceholder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
 **def
 Tau.BookII.Closure.instReprHolonomyPlaceholder.repr :HolonomyPlaceholder → ℕ → Std.Format**
 
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqHolonomyPlaceholder.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
 **def
 Tau.BookII.Closure.instDecidableEqHolonomyPlaceholder.decEq
 (x✝ x✝¹ : HolonomyPlaceholder)
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqHolonomyPlaceholder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L63-L63)
 **instance
 Tau.BookII.Closure.instDecidableEqHolonomyPlaceholder :DecidableEq HolonomyPlaceholder**
 
@@ -256,7 +256,7 @@ Equations
 
 ### `Tau.BookII.Closure.default_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L65-L67)
 **def
 Tau.BookII.Closure.default_connection :ConnectionPlaceholder**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookII.Closure.default_curvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L69-L71)
 **def
 Tau.BookII.Closure.default_curvature :CurvaturePlaceholder**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookII.Closure.default_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L73-L75)
 **def
 Tau.BookII.Closure.default_holonomy :HolonomyPlaceholder**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookII.Closure.diffgeo_not_yet_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L77-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L77-L81)
 **def
 Tau.BookII.Closure.diffgeo_not_yet_earned :Bool**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookII.Closure.e1_complete_for_book3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L87-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L87-L91)
 **def
 Tau.BookII.Closure.e1_complete_for_book3
 (bound db k_max : Denotation.TauIdx)
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookII.Closure.book3_prerequisites_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L93-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L93-L104)
 **def
 Tau.BookII.Closure.book3_prerequisites_check
 (db bound k_max : Denotation.TauIdx)
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookII.Closure.diffgeo_not_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L129-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L129-L130)
 **theorem
 Tau.BookII.Closure.diffgeo_not_earned :diffgeo_not_yet_earned = true**
 
@@ -366,7 +366,7 @@ Tau.BookII.Closure.diffgeo_not_earned :diffgeo_not_yet_earned = true**
 
 ### `Tau.BookII.Closure.e1_complete_b3_10_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L133-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L133-L134)
 **theorem
 Tau.BookII.Closure.e1_complete_b3_10_3_3 :e1_complete_for_book3 10 3 3 = true**
 
@@ -375,7 +375,7 @@ Tau.BookII.Closure.e1_complete_b3_10_3_3 :e1_complete_for_book3 10 3 3 = true**
 
 ### `Tau.BookII.Closure.book3_prereq_3_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L137-L138)
 **theorem
 Tau.BookII.Closure.book3_prereq_3_15_3 :book3_prerequisites_check 3 15 3 = true**
 
@@ -384,7 +384,7 @@ Tau.BookII.Closure.book3_prereq_3_15_3 :book3_prerequisites_check 3 15 3 = true*
 
 ### `Tau.BookII.Closure.connection_not_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L144-L146)
 **theorem
 Tau.BookII.Closure.connection_not_earned :default_connection.earned = false**
 
@@ -395,7 +395,7 @@ Tau.BookII.Closure.connection_not_earned :default_connection.earned = false**
 
 ### `Tau.BookII.Closure.curvature_not_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L148-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L148-L150)
 **theorem
 Tau.BookII.Closure.curvature_not_earned :default_curvature.earned = false**
 
@@ -406,7 +406,7 @@ Tau.BookII.Closure.curvature_not_earned :default_curvature.earned = false**
 
 ### `Tau.BookII.Closure.holonomy_not_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L152-L154)
 **theorem
 Tau.BookII.Closure.holonomy_not_earned :default_holonomy.earned = false**
 
@@ -417,7 +417,7 @@ Tau.BookII.Closure.holonomy_not_earned :default_holonomy.earned = false**
 
 ### `Tau.BookII.Closure.e1_includes_self_enrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/DiffGeoAgenda.lean#L156-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/DiffGeoAgenda.lean#L156-L166)
 **theorem
 Tau.BookII.Closure.e1_includes_self_enrichment
 (bound db k_max : Denotation.TauIdx)

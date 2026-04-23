@@ -73,7 +73,7 @@ This avoids modifying Book II code.
 
 ### `Tau.BookIII.Enrichment.EnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L47-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L47-L54)
 **inductive
 Tau.BookIII.Enrichment.EnrLevel :Type**
 
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.instReprEnrLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **def
 Tau.BookIII.Enrichment.instReprEnrLevel.repr :EnrLevel → ℕ → Std.Format**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.instReprEnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **instance
 Tau.BookIII.Enrichment.instReprEnrLevel :Repr EnrLevel**
 
@@ -114,7 +114,7 @@ Equations
 
 ### `Tau.BookIII.Enrichment.instDecidableEqEnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **instance
 Tau.BookIII.Enrichment.instDecidableEqEnrLevel :DecidableEq EnrLevel**
 
@@ -125,7 +125,7 @@ Equations
 
 ### `Tau.BookIII.Enrichment.instBEqEnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **instance
 Tau.BookIII.Enrichment.instBEqEnrLevel :BEq EnrLevel**
 
@@ -136,7 +136,7 @@ Equations
 
 ### `Tau.BookIII.Enrichment.instBEqEnrLevel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **def
 Tau.BookIII.Enrichment.instBEqEnrLevel.beq :EnrLevel → EnrLevel → Bool**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.instInhabitedEnrLevel.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **def
 Tau.BookIII.Enrichment.instInhabitedEnrLevel.default :EnrLevel**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.instInhabitedEnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L54-L54)
 **instance
 Tau.BookIII.Enrichment.instInhabitedEnrLevel :Inhabited EnrLevel**
 
@@ -171,7 +171,7 @@ Equations
 
 ### `Tau.BookIII.Enrichment.EnrLevel.ofBookII`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L56-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L56-L59)
 **def
 Tau.BookIII.Enrichment.EnrLevel.ofBookII :BookII.Enrichment.EnrichmentLevel → EnrLevel**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.EnrLevel.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L61-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L61-L66)
 **def
 Tau.BookIII.Enrichment.EnrLevel.toNat :EnrLevel → ℕ**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.EnrLevel.lt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L68-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L68-L70)
 **def
 Tau.BookIII.Enrichment.EnrLevel.lt
 (a b : EnrLevel)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.EnrLevel.le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L72-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L72-L74)
 **def
 Tau.BookIII.Enrichment.EnrLevel.le
 (a b : EnrLevel)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.EnrLevel.succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L76-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L76-L81)
 **def
 Tau.BookIII.Enrichment.EnrLevel.succ :EnrLevel → EnrLevel**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.LayerTemplate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L87-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L87-L106)
 **structure
 Tau.BookIII.Enrichment.LayerTemplate :Type**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.layer_template_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L108-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L108-L130)
 **def
 Tau.BookIII.Enrichment.layer_template_check
 (lt : LayerTemplate)
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.layer_template_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L113-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L113-L129)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.layer_template_check.go
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e0_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L136-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L136-L151)
 **def
 Tau.BookIII.Enrichment.e0_layer
 (bound db : Denotation.TauIdx)
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e1_layer_book3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L157-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L157-L188)
 **def
 Tau.BookIII.Enrichment.e1_layer_book3
 (bound db : Denotation.TauIdx)
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e2_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L194-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L194-L218)
 **def
 Tau.BookIII.Enrichment.e2_layer
 (bound db : Denotation.TauIdx)
@@ -420,7 +420,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Enrichment.e3_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L230-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L230-L267)
 **def
 Tau.BookIII.Enrichment.e3_layer
 (bound db : Denotation.TauIdx)
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.layer_of`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L273-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L273-L279)
 **def
 Tau.BookIII.Enrichment.layer_of
 (lev : EnrLevel)
@@ -471,7 +471,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.layer_valid_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L281-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L281-L283)
 **def
 Tau.BookIII.Enrichment.layer_valid_at
 (lev : EnrLevel)
@@ -489,7 +489,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.all_layers_valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L285-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L285-L290)
 **def
 Tau.BookIII.Enrichment.all_layers_valid
 (bound db : Denotation.TauIdx)
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e0_layer_valid_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L338-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L338-L339)
 **theorem
 Tau.BookIII.Enrichment.e0_layer_valid_8_3 :layer_valid_at EnrLevel.E0 8 3 = true**
 
@@ -514,7 +514,7 @@ Tau.BookIII.Enrichment.e0_layer_valid_8_3 :layer_valid_at EnrLevel.E0 8 3 = true
 
 ### `Tau.BookIII.Enrichment.e1_layer_valid_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L342-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L342-L343)
 **theorem
 Tau.BookIII.Enrichment.e1_layer_valid_8_3 :layer_valid_at EnrLevel.E1 8 3 = true**
 
@@ -523,7 +523,7 @@ Tau.BookIII.Enrichment.e1_layer_valid_8_3 :layer_valid_at EnrLevel.E1 8 3 = true
 
 ### `Tau.BookIII.Enrichment.e2_layer_valid_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L346-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L346-L347)
 **theorem
 Tau.BookIII.Enrichment.e2_layer_valid_8_3 :layer_valid_at EnrLevel.E2 8 3 = true**
 
@@ -532,7 +532,7 @@ Tau.BookIII.Enrichment.e2_layer_valid_8_3 :layer_valid_at EnrLevel.E2 8 3 = true
 
 ### `Tau.BookIII.Enrichment.e3_layer_valid_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L350-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L350-L351)
 **theorem
 Tau.BookIII.Enrichment.e3_layer_valid_8_3 :layer_valid_at EnrLevel.E3 8 3 = true**
 
@@ -541,7 +541,7 @@ Tau.BookIII.Enrichment.e3_layer_valid_8_3 :layer_valid_at EnrLevel.E3 8 3 = true
 
 ### `Tau.BookIII.Enrichment.all_layers_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L354-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L354-L355)
 **theorem
 Tau.BookIII.Enrichment.all_layers_8_3 :all_layers_valid 8 3 = true**
 
@@ -550,7 +550,7 @@ Tau.BookIII.Enrichment.all_layers_8_3 :all_layers_valid 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.enr_le_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L361-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L361-L364)
 **theorem
 Tau.BookIII.Enrichment.enr_le_total
 (a b : EnrLevel)
@@ -563,7 +563,7 @@ EnrLevel ordering is total: for any two levels, one ≤ the other.
 
 ### `Tau.BookIII.Enrichment.e3_saturates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L366-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L366-L367)
 **theorem
 Tau.BookIII.Enrichment.e3_saturates :EnrLevel.E3.succ = EnrLevel.E3**
 
@@ -574,7 +574,7 @@ E₃ is maximal: E₃.succ = E₃ (saturation).
 
 ### `Tau.BookIII.Enrichment.e0_ne_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L369-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L369-L370)
 **theorem
 Tau.BookIII.Enrichment.e0_ne_e1 :EnrLevel.E0 ≠ EnrLevel.E1**
 
@@ -585,7 +585,7 @@ Enrichment levels are distinct.
 
 ### `Tau.BookIII.Enrichment.e1_ne_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L371-L371)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L371-L371)
 **theorem
 Tau.BookIII.Enrichment.e1_ne_e2 :EnrLevel.E1 ≠ EnrLevel.E2**
 
@@ -594,7 +594,7 @@ Tau.BookIII.Enrichment.e1_ne_e2 :EnrLevel.E1 ≠ EnrLevel.E2**
 
 ### `Tau.BookIII.Enrichment.e2_ne_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L372-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L372-L372)
 **theorem
 Tau.BookIII.Enrichment.e2_ne_e3 :EnrLevel.E2 ≠ EnrLevel.E3**
 
@@ -603,7 +603,7 @@ Tau.BookIII.Enrichment.e2_ne_e3 :EnrLevel.E2 ≠ EnrLevel.E3**
 
 ### `Tau.BookIII.Enrichment.coercion_preserves_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L374-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L374-L377)
 **theorem
 Tau.BookIII.Enrichment.coercion_preserves_order :(EnrLevel.ofBookII BookII.Enrichment.EnrichmentLevel.E0).lt (EnrLevel.ofBookII BookII.Enrichment.EnrichmentLevel.E1) = true**
 
@@ -614,7 +614,7 @@ Coercion preserves order: if E0 < E1 in Book II, then ofBookII preserves this.
 
 ### `Tau.BookIII.Enrichment.e0_carrier_small`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/LayerTemplate.lean#L379-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/LayerTemplate.lean#L379-L383)
 **theorem
 Tau.BookIII.Enrichment.e0_carrier_small
 (x k : Denotation.TauIdx)

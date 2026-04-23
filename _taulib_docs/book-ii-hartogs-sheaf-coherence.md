@@ -85,7 +85,7 @@ Both axioms are verified computationally for representative stages.
 
 ### `Tau.BookII.Hartogs.presheaf_assign`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L52-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L52-L59)
 **def
 Tau.BookII.Hartogs.presheaf_assign
 (k a x : Denotation.TauIdx)
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cylinder_partition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L61-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L61-L88)
 **def
 Tau.BookII.Hartogs.cylinder_partition_check
 (k : Denotation.TauIdx)
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cylinder_partition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L68-L78)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L68-L78)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.cylinder_partition_check.go
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cylinder_partition_check.check_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L80-L87)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L80-L87)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.cylinder_partition_check.check_unique
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.presheaf_restrict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L94-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L94-L100)
 **def
 Tau.BookII.Hartogs.presheaf_restrict
 (a l k : Denotation.TauIdx)
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.presheaf_restriction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L102-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L102-L122)
 **def
 Tau.BookII.Hartogs.presheaf_restriction_check
 (k_max bound : Denotation.TauIdx)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.presheaf_restriction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L108-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L108-L121)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.presheaf_restriction_check.go
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.restriction_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L124-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L124-L140)
 **def
 Tau.BookII.Hartogs.restriction_identity_check
 (k_max bound : Denotation.TauIdx)
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.restriction_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L129-L139)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L129-L139)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.restriction_identity_check.go
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.overlap_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L146-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L146-L163)
 **def
 Tau.BookII.Hartogs.overlap_check
 (k a b : Denotation.TauIdx)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.overlap_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L155-L162)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L155-L162)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.overlap_check.go
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.batch_disjoint_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L165-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L165-L179)
 **def
 Tau.BookII.Hartogs.batch_disjoint_check
 (k : Denotation.TauIdx)
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.batch_disjoint_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L170-L178)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L170-L178)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.batch_disjoint_check.go
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.containment_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L185-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L185-L201)
 **def
 Tau.BookII.Hartogs.containment_check
 (k_max bound : Denotation.TauIdx)
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.containment_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L193-L200)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L193-L200)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.containment_check.go
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_lemma_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L207-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L207-L240)
 **def
 Tau.BookII.Hartogs.gluing_lemma_check
 (k_max : Denotation.TauIdx)
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_lemma_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L221-L231)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L221-L231)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.gluing_lemma_check.go_k
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_lemma_check.check_paste`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L233-L239)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L233-L239)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.gluing_lemma_check.check_paste
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.locality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L246-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L246-L274)
 **def
 Tau.BookII.Hartogs.locality_check
 (k_max : Denotation.TauIdx)
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.locality_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L258-L264)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L258-L264)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.locality_check.go_k
@@ -446,7 +446,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.locality_check.check_cover`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L266-L273)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L266-L273)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.locality_check.check_cover
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_axiom_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L276-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L276-L309)
 **def
 Tau.BookII.Hartogs.gluing_axiom_check
 (k_max : Denotation.TauIdx)
@@ -487,7 +487,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_axiom_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L290-L298)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L290-L298)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.gluing_axiom_check.go_k
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gluing_axiom_check.check_sections`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L300-L308)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L300-L308)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.gluing_axiom_check.check_sections
@@ -519,7 +519,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.sheaf_axioms_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L311-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L311-L313)
 **def
 Tau.BookII.Hartogs.sheaf_axioms_check
 (k_max : Denotation.TauIdx)
@@ -535,7 +535,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.functoriality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L319-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L319-L329)
 **def
 Tau.BookII.Hartogs.functoriality_check
 (k_max bound : Denotation.TauIdx)
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.section_compatibility_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L335-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L335-L363)
 **def
 Tau.BookII.Hartogs.section_compatibility_check
 (k_max : Denotation.TauIdx)
@@ -583,7 +583,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.section_compatibility_check.go_k`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L345-L351)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L345-L351)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.section_compatibility_check.go_k
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.section_compatibility_check.check_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L353-L362)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L353-L362)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.section_compatibility_check.check_compat
@@ -615,7 +615,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_sheaf_coherence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L369-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L369-L387)
 **def
 Tau.BookII.Hartogs.full_sheaf_coherence_check
 (k_max bound : Denotation.TauIdx)
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.partition_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L452-L453)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L452-L453)
 **theorem
 Tau.BookII.Hartogs.partition_1 :cylinder_partition_check 1 = true**
 
@@ -641,7 +641,7 @@ Tau.BookII.Hartogs.partition_1 :cylinder_partition_check 1 = true**
 
 ### `Tau.BookII.Hartogs.partition_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L455-L456)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L455-L456)
 **theorem
 Tau.BookII.Hartogs.partition_2 :cylinder_partition_check 2 = true**
 
@@ -650,7 +650,7 @@ Tau.BookII.Hartogs.partition_2 :cylinder_partition_check 2 = true**
 
 ### `Tau.BookII.Hartogs.disjoint_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L459-L460)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L459-L460)
 **theorem
 Tau.BookII.Hartogs.disjoint_1 :batch_disjoint_check 1 = true**
 
@@ -659,7 +659,7 @@ Tau.BookII.Hartogs.disjoint_1 :batch_disjoint_check 1 = true**
 
 ### `Tau.BookII.Hartogs.disjoint_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L462-L463)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L462-L463)
 **theorem
 Tau.BookII.Hartogs.disjoint_2 :batch_disjoint_check 2 = true**
 
@@ -668,7 +668,7 @@ Tau.BookII.Hartogs.disjoint_2 :batch_disjoint_check 2 = true**
 
 ### `Tau.BookII.Hartogs.containment_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L466-L467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L466-L467)
 **theorem
 Tau.BookII.Hartogs.containment_3_30 :containment_check 3 30 = true**
 
@@ -677,7 +677,7 @@ Tau.BookII.Hartogs.containment_3_30 :containment_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.gluing_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L470-L471)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L470-L471)
 **theorem
 Tau.BookII.Hartogs.gluing_3 :gluing_lemma_check 3 = true**
 
@@ -686,7 +686,7 @@ Tau.BookII.Hartogs.gluing_3 :gluing_lemma_check 3 = true**
 
 ### `Tau.BookII.Hartogs.locality_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L474-L475)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L474-L475)
 **theorem
 Tau.BookII.Hartogs.locality_3 :locality_check 3 = true**
 
@@ -695,7 +695,7 @@ Tau.BookII.Hartogs.locality_3 :locality_check 3 = true**
 
 ### `Tau.BookII.Hartogs.gluing_axiom_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L478-L479)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L478-L479)
 **theorem
 Tau.BookII.Hartogs.gluing_axiom_3 :gluing_axiom_check 3 = true**
 
@@ -704,7 +704,7 @@ Tau.BookII.Hartogs.gluing_axiom_3 :gluing_axiom_check 3 = true**
 
 ### `Tau.BookII.Hartogs.sheaf_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L482-L483)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L482-L483)
 **theorem
 Tau.BookII.Hartogs.sheaf_3 :sheaf_axioms_check 3 = true**
 
@@ -713,7 +713,7 @@ Tau.BookII.Hartogs.sheaf_3 :sheaf_axioms_check 3 = true**
 
 ### `Tau.BookII.Hartogs.funct_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L486-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L486-L487)
 **theorem
 Tau.BookII.Hartogs.funct_3_30 :functoriality_check 3 30 = true**
 
@@ -722,7 +722,7 @@ Tau.BookII.Hartogs.funct_3_30 :functoriality_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.sect_compat_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L490-L491)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L490-L491)
 **theorem
 Tau.BookII.Hartogs.sect_compat_3 :section_compatibility_check 3 = true**
 
@@ -731,6 +731,6 @@ Tau.BookII.Hartogs.sect_compat_3 :section_compatibility_check 3 = true**
 
 ### `Tau.BookII.Hartogs.full_sheaf_3_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/SheafCoherence.lean#L494-L495)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/SheafCoherence.lean#L494-L495)
 **theorem
 Tau.BookII.Hartogs.full_sheaf_3_20 :full_sheaf_coherence_check 3 20 = true**

@@ -117,7 +117,7 @@ spontaneous symmetry breaking.
 
 ### `Tau.BookV.FluidMacro.PhaseType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L70-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L70-L76)
 **inductive
 Tau.BookV.FluidMacro.PhaseType :Type**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPhaseType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
 **def
 Tau.BookV.FluidMacro.instReprPhaseType.repr :PhaseType → ℕ → Std.Format**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprPhaseType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
 **instance
 Tau.BookV.FluidMacro.instReprPhaseType :Repr PhaseType**
 
@@ -159,7 +159,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqPhaseType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqPhaseType :DecidableEq PhaseType**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqPhaseType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
 **instance
 Tau.BookV.FluidMacro.instBEqPhaseType :BEq PhaseType**
 
@@ -181,7 +181,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqPhaseType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L76-L76)
 **def
 Tau.BookV.FluidMacro.instBEqPhaseType.beq :PhaseType → PhaseType → Bool**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauOrderParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L78-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L78-L89)
 **structure
 Tau.BookV.FluidMacro.TauOrderParameter :Type**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauOrderParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L89-L89)
 **instance
 Tau.BookV.FluidMacro.instReprTauOrderParameter :Repr TauOrderParameter**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprTauOrderParameter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L89-L89)
 **def
 Tau.BookV.FluidMacro.instReprTauOrderParameter.repr :TauOrderParameter → ℕ → Std.Format**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.order_parameter_determines`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L91-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L91-L94)
 **theorem
 Tau.BookV.FluidMacro.order_parameter_determines
 (op : TauOrderParameter)
@@ -255,7 +255,7 @@ Tau.BookV.FluidMacro.order_parameter_determines
 
 ### `Tau.BookV.FluidMacro.nonzero_means_ordered`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L96-L99)
 **theorem
 Tau.BookV.FluidMacro.nonzero_means_ordered
 (op : TauOrderParameter)
@@ -270,7 +270,7 @@ Nonzero order parameter means ordered phase.
 
 ### `Tau.BookV.FluidMacro.TransitionOrder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L105-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L105-L113)
 **inductive
 Tau.BookV.FluidMacro.TransitionOrder :Type**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTransitionOrder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
 **instance
 Tau.BookV.FluidMacro.instReprTransitionOrder :Repr TransitionOrder**
 
@@ -303,7 +303,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprTransitionOrder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
 **def
 Tau.BookV.FluidMacro.instReprTransitionOrder.repr :TransitionOrder → ℕ → Std.Format**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqTransitionOrder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqTransitionOrder :DecidableEq TransitionOrder**
 
@@ -326,7 +326,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqTransitionOrder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
 **instance
 Tau.BookV.FluidMacro.instBEqTransitionOrder :BEq TransitionOrder**
 
@@ -337,7 +337,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqTransitionOrder.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L113-L113)
 **def
 Tau.BookV.FluidMacro.instBEqTransitionOrder.beq :TransitionOrder → TransitionOrder → Bool**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.TauPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L115-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L115-L128)
 **structure
 Tau.BookV.FluidMacro.TauPhaseTransition :Type**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauPhaseTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L128-L128)
 **def
 Tau.BookV.FluidMacro.instReprTauPhaseTransition.repr :TauPhaseTransition → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTauPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L128-L128)
 **instance
 Tau.BookV.FluidMacro.instReprTauPhaseTransition :Repr TauPhaseTransition**
 
@@ -401,7 +401,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.symmetry_breaking_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L134-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L134-L142)
 **def
 Tau.BookV.FluidMacro.symmetry_breaking_remark :Prop**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.symmetry_breaking_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L144-L144)
 **theorem
 Tau.BookV.FluidMacro.symmetry_breaking_holds :symmetry_breaking_remark**
 
@@ -429,7 +429,7 @@ Tau.BookV.FluidMacro.symmetry_breaking_holds :symmetry_breaking_remark**
 
 ### `Tau.BookV.FluidMacro.CriticalExponentSet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L150-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L150-L182)
 **structure
 Tau.BookV.FluidMacro.CriticalExponentSet :Type**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCriticalExponentSet.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L182-L182)
 **def
 Tau.BookV.FluidMacro.instReprCriticalExponentSet.repr :CriticalExponentSet → ℕ → Std.Format**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCriticalExponentSet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L182-L182)
 **instance
 Tau.BookV.FluidMacro.instReprCriticalExponentSet :Repr CriticalExponentSet**
 
@@ -502,7 +502,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.UniversalityClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L188-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L188-L202)
 **structure
 Tau.BookV.FluidMacro.UniversalityClass :Type**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprUniversalityClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L202-L202)
 **instance
 Tau.BookV.FluidMacro.instReprUniversalityClass :Repr UniversalityClass**
 
@@ -542,7 +542,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprUniversalityClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L202-L202)
 **def
 Tau.BookV.FluidMacro.instReprUniversalityClass.repr :UniversalityClass → ℕ → Std.Format**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.mean_field_class`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L204-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L204-L217)
 **def
 Tau.BookV.FluidMacro.mean_field_class :UniversalityClass**
 
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.ising_3d_class`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L219-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L219-L233)
 **def
 Tau.BookV.FluidMacro.ising_3d_class :UniversalityClass**
 
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.universality_from_renormalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L239-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L239-L249)
 **theorem
 Tau.BookV.FluidMacro.universality_from_renormalization
 (u1 u2 : UniversalityClass)
@@ -605,7 +605,7 @@ in the same way for all systems in the same universality class.
 
 ### `Tau.BookV.FluidMacro.HiggsOmegaCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L255-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L255-L270)
 **structure
 Tau.BookV.FluidMacro.HiggsOmegaCrossing :Type**
 
@@ -635,7 +635,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprHiggsOmegaCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L270-L270)
 **instance
 Tau.BookV.FluidMacro.instReprHiggsOmegaCrossing :Repr HiggsOmegaCrossing**
 
@@ -646,7 +646,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprHiggsOmegaCrossing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L270-L270)
 **def
 Tau.BookV.FluidMacro.instReprHiggsOmegaCrossing.repr :HiggsOmegaCrossing → ℕ → Std.Format**
 
@@ -658,7 +658,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.higgs_omega_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L272-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L272-L275)
 **theorem
 Tau.BookV.FluidMacro.higgs_omega_crossing
 (h : HiggsOmegaCrossing)
@@ -673,7 +673,7 @@ Higgs mechanism involves the ω-sector.
 
 ### `Tau.BookV.FluidMacro.no_fine_tuning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L281-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L281-L287)
 **def
 Tau.BookV.FluidMacro.no_fine_tuning :Prop**
 
@@ -690,7 +690,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.no_fine_tuning_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L289-L289)
 **theorem
 Tau.BookV.FluidMacro.no_fine_tuning_holds :no_fine_tuning**
 
@@ -699,7 +699,7 @@ Tau.BookV.FluidMacro.no_fine_tuning_holds :no_fine_tuning**
 
 ### `Tau.BookV.FluidMacro.CosmologicalPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L295-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L295-L315)
 **inductive
 Tau.BookV.FluidMacro.CosmologicalPhaseTransition :Type**
 
@@ -739,7 +739,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCosmologicalPhaseTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
 **def
 Tau.BookV.FluidMacro.instReprCosmologicalPhaseTransition.repr :CosmologicalPhaseTransition → ℕ → Std.Format**
 
@@ -751,7 +751,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCosmologicalPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
 **instance
 Tau.BookV.FluidMacro.instReprCosmologicalPhaseTransition :Repr CosmologicalPhaseTransition**
 
@@ -762,7 +762,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqCosmologicalPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqCosmologicalPhaseTransition :DecidableEq CosmologicalPhaseTransition**
 
@@ -773,7 +773,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqCosmologicalPhaseTransition.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
 **def
 Tau.BookV.FluidMacro.instBEqCosmologicalPhaseTransition.beq :CosmologicalPhaseTransition → CosmologicalPhaseTransition → Bool**
 
@@ -785,7 +785,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqCosmologicalPhaseTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L315-L315)
 **instance
 Tau.BookV.FluidMacro.instBEqCosmologicalPhaseTransition :BEq CosmologicalPhaseTransition**
 
@@ -796,7 +796,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.phase_transition_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L317-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L317-L323)
 **theorem
 Tau.BookV.FluidMacro.phase_transition_completeness :[CosmologicalPhaseTransition.QCDConfinement, CosmologicalPhaseTransition.EWSymmetryBreaking, CosmologicalPhaseTransition.SuperfluidTransition, CosmologicalPhaseTransition.LiquidGas].length = 4**
 
@@ -807,7 +807,7 @@ All four are τ-structural.
 
 ### `Tau.BookV.FluidMacro.CosmologicalTransitionRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L329-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L329-L342)
 **structure
 Tau.BookV.FluidMacro.CosmologicalTransitionRemark :Type**
 
@@ -834,7 +834,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCosmologicalTransitionRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L342-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L342-L342)
 **instance
 Tau.BookV.FluidMacro.instReprCosmologicalTransitionRemark :Repr CosmologicalTransitionRemark**
 
@@ -845,7 +845,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprCosmologicalTransitionRemark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L342-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L342-L342)
 **def
 Tau.BookV.FluidMacro.instReprCosmologicalTransitionRemark.repr :CosmologicalTransitionRemark → ℕ → Std.Format**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.qcd_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L344-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L344-L348)
 **def
 Tau.BookV.FluidMacro.qcd_transition :CosmologicalTransitionRemark**
 
@@ -872,7 +872,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.ew_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L350-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L350-L354)
 **def
 Tau.BookV.FluidMacro.ew_transition :CosmologicalTransitionRemark**
 
@@ -886,7 +886,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.mean_field_scaling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L360-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L360-L374)
 **theorem
 Tau.BookV.FluidMacro.mean_field_scaling :mean_field_class.exponents.alpha_n * ↑mean_field_class.exponents.beta_d * ↑mean_field_class.exponents.gamma_d + 2 * ↑mean_field_class.exponents.beta_n * ↑mean_field_class.exponents.alpha_d * ↑mean_field_class.exponents.gamma_d + ↑mean_field_class.exponents.gamma_n * ↑mean_field_class.exponents.alpha_d * ↑mean_field_class.exponents.beta_d = 2 * ↑mean_field_class.exponents.alpha_d * ↑mean_field_class.exponents.beta_d * ↑mean_field_class.exponents.gamma_d**
 
@@ -898,7 +898,7 @@ Verification for mean-field exponents: 0 + 2(1/2) + 1 = 2.
 
 ### `Tau.BookV.FluidMacro.disordered_op`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L389-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L389-L393)
 **def
 Tau.BookV.FluidMacro.disordered_op :TauOrderParameter**
 
@@ -913,7 +913,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.ordered_op`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L395-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L395-L399)
 **def
 Tau.BookV.FluidMacro.ordered_op :TauOrderParameter**
 
@@ -928,7 +928,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.water_boiling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L401-L405)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L401-L405)
 **def
 Tau.BookV.FluidMacro.water_boiling :TauPhaseTransition**
 
@@ -942,7 +942,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.NSCrustCoreTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L418-L430)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L418-L430)
 **structure
 Tau.BookV.FluidMacro.NSCrustCoreTransition :Type**
 
@@ -970,7 +970,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.crust_fraction_permille`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L432-L435)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L432-L435)
 **def
 Tau.BookV.FluidMacro.crust_fraction_permille :ℕ**
 
@@ -986,7 +986,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.transition_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L437-L438)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/PhaseTransitions.lean#L437-L438)
 **theorem
 Tau.BookV.FluidMacro.transition_positive :0 < 341**
 

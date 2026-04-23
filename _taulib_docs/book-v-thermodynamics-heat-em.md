@@ -96,7 +96,7 @@ with heat flux proportional to the boundary holonomy algebra's B-component.
 
 ### `Tau.BookV.Thermodynamics.artificial_trichotomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L60-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L60-L66)
 **theorem
 Tau.BookV.Thermodynamics.artificial_trichotomy :"radiation + conduction + convection = three faces of B-sector transport" = "radiation + conduction + convection = three faces of B-sector transport"**
 
@@ -110,7 +110,7 @@ gradients are electromagnetic.
 
 ### `Tau.BookV.Thermodynamics.TransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L72-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L72-L80)
 **inductive
 Tau.BookV.Thermodynamics.TransportMode :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
 **instance
 Tau.BookV.Thermodynamics.instReprTransportMode :Repr TransportMode**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprTransportMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
 **def
 Tau.BookV.Thermodynamics.instReprTransportMode.repr :TransportMode → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instDecidableEqTransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
 **instance
 Tau.BookV.Thermodynamics.instDecidableEqTransportMode :DecidableEq TransportMode**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instBEqTransportMode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
 **def
 Tau.BookV.Thermodynamics.instBEqTransportMode.beq :TransportMode → TransportMode → Bool**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instBEqTransportMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L80-L80)
 **instance
 Tau.BookV.Thermodynamics.instBEqTransportMode :BEq TransportMode**
 
@@ -189,7 +189,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.TransportMode.sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L82-L83)
 **def
 Tau.BookV.Thermodynamics.TransportMode.sector :TransportMode → BookIII.Sectors.Sector**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.EMEnergyTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L85-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L85-L101)
 **structure
 Tau.BookV.Thermodynamics.EMEnergyTransport :Type**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprEMEnergyTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L101-L101)
 **instance
 Tau.BookV.Thermodynamics.instReprEMEnergyTransport :Repr EMEnergyTransport**
 
@@ -246,7 +246,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprEMEnergyTransport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L101-L101)
 **def
 Tau.BookV.Thermodynamics.instReprEMEnergyTransport.repr :EMEnergyTransport → ℕ → Std.Format**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.transport_default_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L103-L105)
 **theorem
 Tau.BookV.Thermodynamics.transport_default_b :BookIII.Sectors.Sector.B = BookIII.Sectors.Sector.B**
 
@@ -269,7 +269,7 @@ The default mediating sector is B.
 
 ### `Tau.BookV.Thermodynamics.radiation_is_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L111-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L111-L116)
 **theorem
 Tau.BookV.Thermodynamics.radiation_is_b_sector :TransportMode.Radiation.sector = BookIII.Sectors.Sector.B**
 
@@ -283,7 +283,7 @@ j_rad = kappa(B;2) * rho_def^2 * c = iota_tau^2 * rho_def^2 * c
 
 ### `Tau.BookV.Thermodynamics.conduction_is_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L122-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L122-L128)
 **theorem
 Tau.BookV.Thermodynamics.conduction_is_b_sector :TransportMode.Conduction.sector = BookIII.Sectors.Sector.B**
 
@@ -298,7 +298,7 @@ kappa_cond proportional to alpha (readout of iota_tau^2).
 
 ### `Tau.BookV.Thermodynamics.convection_is_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L134-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L134-L140)
 **theorem
 Tau.BookV.Thermodynamics.convection_is_b_sector :TransportMode.Convection.sector = BookIII.Sectors.Sector.B**
 
@@ -313,7 +313,7 @@ q_conv = kappa_eff * defect_profile * flow_velocity
 
 ### `Tau.BookV.Thermodynamics.alpha_governs_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L146-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L146-L156)
 **theorem
 Tau.BookV.Thermodynamics.alpha_governs_transport :"Gamma_transport propto alpha * Delta_E (B-sector readout)" = "Gamma_transport propto alpha * Delta_E (B-sector readout)"**
 
@@ -331,7 +331,7 @@ self-coupling iota_tau^2 after holonomy correction.
 
 ### `Tau.BookV.Thermodynamics.why_alpha_not_iota_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L162-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L162-L170)
 **theorem
 Tau.BookV.Thermodynamics.why_alpha_not_iota_sq :Boundary.iota_tau_numer * Boundary.iota_tau_numer > 0**
 
@@ -347,7 +347,7 @@ Numerical check: iota_tau^2 = 341304^2 / 10^12 ~ 0.1166.
 
 ### `Tau.BookV.Thermodynamics.GeometricRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L176-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L176-L196)
 **structure
 Tau.BookV.Thermodynamics.GeometricRelaxation :Type**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGeometricRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L196-L196)
 **instance
 Tau.BookV.Thermodynamics.instReprGeometricRelaxation :Repr GeometricRelaxation**
 
@@ -395,7 +395,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprGeometricRelaxation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L196-L196)
 **def
 Tau.BookV.Thermodynamics.instReprGeometricRelaxation.repr :GeometricRelaxation → ℕ → Std.Format**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.TopologicalRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L202-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L202-L217)
 **structure
 Tau.BookV.Thermodynamics.TopologicalRelaxation :Type**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTopologicalRelaxation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L217-L217)
 **def
 Tau.BookV.Thermodynamics.instReprTopologicalRelaxation.repr :TopologicalRelaxation → ℕ → Std.Format**
 
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprTopologicalRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L217-L217)
 **instance
 Tau.BookV.Thermodynamics.instReprTopologicalRelaxation :Repr TopologicalRelaxation**
 
@@ -460,7 +460,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.relaxation_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L223-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L223-L231)
 **theorem
 Tau.BookV.Thermodynamics.relaxation_hierarchy :"tau_geom << tau_top: geometric much faster than topological" = "tau_geom << tau_top: geometric much faster than topological"**
 
@@ -476,7 +476,7 @@ The separation explains the apparent stability of defect bundles.
 
 ### `Tau.BookV.Thermodynamics.HeatIsEM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L237-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L237-L252)
 **structure
 Tau.BookV.Thermodynamics.HeatIsEM :Type**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprHeatIsEM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L252-L252)
 **instance
 Tau.BookV.Thermodynamics.instReprHeatIsEM :Repr HeatIsEM**
 
@@ -515,7 +515,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprHeatIsEM.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L252-L252)
 **def
 Tau.BookV.Thermodynamics.instReprHeatIsEM.repr :HeatIsEM → ℕ → Std.Format**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.heat_is_em_unified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L254-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L254-L256)
 **theorem
 Tau.BookV.Thermodynamics.heat_is_em_unified :[TransportMode.Radiation, TransportMode.Conduction, TransportMode.Convection].length = 3**
 
@@ -538,7 +538,7 @@ The heat theorem: exactly 3 transport modes.
 
 ### `Tau.BookV.Thermodynamics.all_modes_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L258-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L258-L261)
 **theorem
 Tau.BookV.Thermodynamics.all_modes_b_sector :List.map TransportMode.sector [TransportMode.Radiation, TransportMode.Conduction, TransportMode.Convection] = [BookIII.Sectors.Sector.B, BookIII.Sectors.Sector.B, BookIII.Sectors.Sector.B]**
 
@@ -549,7 +549,7 @@ All modes in the heat structure are B-sector.
 
 ### `Tau.BookV.Thermodynamics.example_radiation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L267-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L267-L272)
 **def
 Tau.BookV.Thermodynamics.example_radiation :EMEnergyTransport**
 
@@ -563,7 +563,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.example_geo_relax`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L277-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L277-L283)
 **def
 Tau.BookV.Thermodynamics.example_geo_relax :GeometricRelaxation**
 
@@ -577,7 +577,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.example_top_relax`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/HeatEM.lean#L287-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/HeatEM.lean#L287-L291)
 **def
 Tau.BookV.Thermodynamics.example_top_relax :TopologicalRelaxation**
 

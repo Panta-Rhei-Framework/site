@@ -119,7 +119,7 @@ extraction mechanism in nature.
 
 ### `Tau.BookV.Astrophysics.accretion_as_defect_infall`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L73-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L73-L81)
 **theorem
 Tau.BookV.Astrophysics.accretion_as_defect_infall :"Accretion = defect-bundle infall along D-sector coupling gradient" = "Accretion = defect-bundle infall along D-sector coupling gradient"**
 
@@ -135,7 +135,7 @@ rate through the angular-momentum barrier.
 
 ### `Tau.BookV.Astrophysics.DiskModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L87-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L87-L95)
 **inductive
 Tau.BookV.Astrophysics.DiskModel :Type**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprDiskModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
 **instance
 Tau.BookV.Astrophysics.instReprDiskModel :Repr DiskModel**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprDiskModel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
 **def
 Tau.BookV.Astrophysics.instReprDiskModel.repr :DiskModel → ℕ → Std.Format**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqDiskModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqDiskModel :DecidableEq DiskModel**
 
@@ -191,7 +191,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqDiskModel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
 **def
 Tau.BookV.Astrophysics.instBEqDiskModel.beq :DiskModel → DiskModel → Bool**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqDiskModel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L95-L95)
 **instance
 Tau.BookV.Astrophysics.instBEqDiskModel :BEq DiskModel**
 
@@ -214,7 +214,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.AccretionDiskStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L97-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L97-L115)
 **structure
 Tau.BookV.Astrophysics.AccretionDiskStructure :Type**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAccretionDiskStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L115-L115)
 **def
 Tau.BookV.Astrophysics.instReprAccretionDiskStructure.repr :AccretionDiskStructure → ℕ → Std.Format**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAccretionDiskStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L115-L115)
 **instance
 Tau.BookV.Astrophysics.instReprAccretionDiskStructure :Repr AccretionDiskStructure**
 
@@ -272,7 +272,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.EddingtonLimitData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L121-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L121-L134)
 **structure
 Tau.BookV.Astrophysics.EddingtonLimitData :Type**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprEddingtonLimitData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L134-L134)
 **def
 Tau.BookV.Astrophysics.instReprEddingtonLimitData.repr :EddingtonLimitData → ℕ → Std.Format**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprEddingtonLimitData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L134-L134)
 **instance
 Tau.BookV.Astrophysics.instReprEddingtonLimitData :Repr EddingtonLimitData**
 
@@ -323,7 +323,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.eddington_sector_balance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L136-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L136-L144)
 **theorem
 Tau.BookV.Astrophysics.eddington_sector_balance :"Eddington limit = D-sector (gravity) balanced by B-sector (radiation)" = "Eddington limit = D-sector (gravity) balanced by B-sector (radiation)"**
 
@@ -339,7 +339,7 @@ reduces the effective radiation pressure (slim disk regime).
 
 ### `Tau.BookV.Astrophysics.bipolar_jet_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L150-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L150-L161)
 **theorem
 Tau.BookV.Astrophysics.bipolar_jet_theorem :"Jets are always bipolar: 2 lobes of L = S^1 v S^1" = "Jets are always bipolar: 2 lobes of L = S^1 v S^1"**
 
@@ -358,7 +358,7 @@ or have more than two lobes in the τ-framework.
 
 ### `Tau.BookV.Astrophysics.jet_power_from_spin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L167-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L167-L179)
 **theorem
 Tau.BookV.Astrophysics.jet_power_from_spin :"P_jet proportional to a^2*B^2*M^2 = spin readout of T^2 rotation" = "P_jet proportional to a^2*B^2*M^2 = spin readout of T^2 rotation"**
 
@@ -381,7 +381,7 @@ torus vacuum T², and the jet power is its D-sector readout.
 
 ### `Tau.BookV.Astrophysics.JetCollimationData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L185-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L185-L199)
 **structure
 Tau.BookV.Astrophysics.JetCollimationData :Type**
 
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprJetCollimationData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L199-L199)
 **instance
 Tau.BookV.Astrophysics.instReprJetCollimationData :Repr JetCollimationData**
 
@@ -422,7 +422,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprJetCollimationData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L199-L199)
 **def
 Tau.BookV.Astrophysics.instReprJetCollimationData.repr :JetCollimationData → ℕ → Std.Format**
 
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.AGNType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L205-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L205-L224)
 **inductive
 Tau.BookV.Astrophysics.AGNType :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAGNType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
 **def
 Tau.BookV.Astrophysics.instReprAGNType.repr :AGNType → ℕ → Std.Format**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAGNType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
 **instance
 Tau.BookV.Astrophysics.instReprAGNType :Repr AGNType**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqAGNType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqAGNType :DecidableEq AGNType**
 
@@ -504,7 +504,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqAGNType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
 **def
 Tau.BookV.Astrophysics.instBEqAGNType.beq :AGNType → AGNType → Bool**
 
@@ -516,7 +516,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqAGNType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L224-L224)
 **instance
 Tau.BookV.Astrophysics.instBEqAGNType :BEq AGNType**
 
@@ -527,7 +527,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.quasar_luminosity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L230-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L230-L237)
 **theorem
 Tau.BookV.Astrophysics.quasar_luminosity :"L_quasar = eta*Mdot*c^2, eta ~ 0.1 for thin disk accretion" = "L_quasar = eta*Mdot*c^2, eta ~ 0.1 for thin disk accretion"**
 
@@ -542,7 +542,7 @@ L_quasar = η · M_dot · c² where η ~ 0.1 for a thin disk.
 
 ### `Tau.BookV.Astrophysics.nuclear_efficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L243-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L243-L244)
 **def
 Tau.BookV.Astrophysics.nuclear_efficiency :ℕ**
 
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.max_accretion_efficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L245-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L245-L246)
 **def
 Tau.BookV.Astrophysics.max_accretion_efficiency :ℕ**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.accretion_efficiency_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L248-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L248-L256)
 **theorem
 Tau.BookV.Astrophysics.accretion_efficiency_bound :nuclear_efficiency < max_accretion_efficiency**
 
@@ -587,7 +587,7 @@ accreting modest mass rates.
 
 ### `Tau.BookV.Astrophysics.stellar_bh_disk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L299-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L299-L306)
 **def
 Tau.BookV.Astrophysics.stellar_bh_disk :AccretionDiskStructure**
 
@@ -601,7 +601,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_jet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L308-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L308-L314)
 **def
 Tau.BookV.Astrophysics.m87_jet :JetCollimationData**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ToroidalFluxIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L325-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L325-L334)
 **structure
 Tau.BookV.Astrophysics.ToroidalFluxIntegral :Type**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprToroidalFluxIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L334-L334)
 **instance
 Tau.BookV.Astrophysics.instReprToroidalFluxIntegral :Repr ToroidalFluxIntegral**
 
@@ -650,7 +650,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprToroidalFluxIntegral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L334-L334)
 **def
 Tau.BookV.Astrophysics.instReprToroidalFluxIntegral.repr :ToroidalFluxIntegral → ℕ → Std.Format**
 
@@ -662,7 +662,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.PoloidalFluxIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L336-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L336-L345)
 **structure
 Tau.BookV.Astrophysics.PoloidalFluxIntegral :Type**
 
@@ -685,7 +685,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPoloidalFluxIntegral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L345-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L345-L345)
 **def
 Tau.BookV.Astrophysics.instReprPoloidalFluxIntegral.repr :PoloidalFluxIntegral → ℕ → Std.Format**
 
@@ -697,7 +697,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPoloidalFluxIntegral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L345-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L345-L345)
 **instance
 Tau.BookV.Astrophysics.instReprPoloidalFluxIntegral :Repr PoloidalFluxIntegral**
 
@@ -708,7 +708,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.flux_threading_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L347-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L347-L352)
 **theorem
 Tau.BookV.Astrophysics.flux_threading_theorem :"Φ_pol(T²) topologically protected; Φ_hole(S²) = 0" = "Φ_pol(T²) topologically protected; Φ_hole(S²) = 0"**
 
@@ -721,7 +721,7 @@ On S², there is no topological flux (H_1(S²) = 0).
 
 ### `Tau.BookV.Astrophysics.homology_rank_t2_vs_s2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L354-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L354-L355)
 **theorem
 Tau.BookV.Astrophysics.homology_rank_t2_vs_s2 :2 > 0**
 
@@ -732,7 +732,7 @@ H_1(T²) ≅ Z² (rank 2 homology), H_1(S²) = 0 (rank 0).
 
 ### `Tau.BookV.Astrophysics.FluxRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L357-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L357-L367)
 **structure
 Tau.BookV.Astrophysics.FluxRatio :Type**
 
@@ -757,7 +757,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprFluxRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L367-L367)
 **instance
 Tau.BookV.Astrophysics.instReprFluxRatio :Repr FluxRatio**
 
@@ -768,7 +768,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprFluxRatio.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L367-L367)
 **def
 Tau.BookV.Astrophysics.instReprFluxRatio.repr :FluxRatio → ℕ → Std.Format**
 
@@ -780,7 +780,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.JetPoloidalField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L373-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L373-L386)
 **structure
 Tau.BookV.Astrophysics.JetPoloidalField :Type**
 
@@ -809,7 +809,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprJetPoloidalField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L386-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L386-L386)
 **def
 Tau.BookV.Astrophysics.instReprJetPoloidalField.repr :JetPoloidalField → ℕ → Std.Format**
 
@@ -821,7 +821,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprJetPoloidalField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L386-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L386-L386)
 **instance
 Tau.BookV.Astrophysics.instReprJetPoloidalField :Repr JetPoloidalField**
 
@@ -832,7 +832,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.JetHelicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L388-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L388-L398)
 **structure
 Tau.BookV.Astrophysics.JetHelicity :Type**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprJetHelicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L398-L398)
 **instance
 Tau.BookV.Astrophysics.instReprJetHelicity :Repr JetHelicity**
 
@@ -868,7 +868,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprJetHelicity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L398-L398)
 **def
 Tau.BookV.Astrophysics.instReprJetHelicity.repr :JetHelicity → ℕ → Std.Format**
 
@@ -880,7 +880,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.jet_helicity_conserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L400-L404)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L400-L404)
 **theorem
 Tau.BookV.Astrophysics.jet_helicity_conserved :"H_m(jet) is topologically fixed and conserved (frozen flux + Taylor)" = "H_m(jet) is topologically fixed and conserved (frozen flux + Taylor)"**
 
@@ -892,7 +892,7 @@ at the jet base and conserved along the jet (frozen flux + Taylor).
 
 ### `Tau.BookV.Astrophysics.jet_collimation_from_hoop_stress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L406-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L406-L410)
 **theorem
 Tau.BookV.Astrophysics.jet_collimation_from_hoop_stress :"sin(θ_jet) ≤ B_z/B_φ = ι<sub>τ</sub> ≈ 0.341 → θ_jet ≤ 20°" = "sin(θ_jet) ≤ B_z/B_φ = ι<sub>τ</sub> ≈ 0.341 → θ_jet ≤ 20°"**
 
@@ -904,7 +904,7 @@ sin(θ_jet) ≤ B_z/B_phi = ι<sub>τ</sub>, recovering the Jet Collimation Theo
 
 ### `Tau.BookV.Astrophysics.m87_jet_magnetic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L412-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L412-L414)
 **def
 Tau.BookV.Astrophysics.m87_jet_magnetic :JetPoloidalField**
 
@@ -918,7 +918,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_jet_helicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L416-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/AccretionJets.lean#L416-L418)
 **def
 Tau.BookV.Astrophysics.m87_jet_helicity :JetHelicity**
 

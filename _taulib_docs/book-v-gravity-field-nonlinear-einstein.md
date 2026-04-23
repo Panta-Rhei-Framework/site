@@ -129,7 +129,7 @@ surface at the current iteration depth. It separates "resolved"
 
 ### `Tau.BookV.GravityField.CocycleDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L83-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L83-L99)
 **structure
 Tau.BookV.GravityField.CocycleDefect :Type**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCocycleDefect.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L99-L99)
 **def
 Tau.BookV.GravityField.instReprCocycleDefect.repr :CocycleDefect → ℕ → Std.Format**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCocycleDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L99-L99)
 **instance
 Tau.BookV.GravityField.instReprCocycleDefect :Repr CocycleDefect**
 
@@ -183,7 +183,7 @@ Equations
 
 ### `Tau.BookV.GravityField.CocycleDefect.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L101-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L101-L103)
 **def
 Tau.BookV.GravityField.CocycleDefect.toFloat
 (d : CocycleDefect)
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CocycleDefect.is_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L105-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L105-L107)
 **def
 Tau.BookV.GravityField.CocycleDefect.is_zero
 (d : CocycleDefect)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.NFEinsteinIteration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L113-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L113-L133)
 **structure
 Tau.BookV.GravityField.NFEinsteinIteration :Type**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNFEinsteinIteration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L133-L133)
 **instance
 Tau.BookV.GravityField.instReprNFEinsteinIteration :Repr NFEinsteinIteration**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprNFEinsteinIteration.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L133-L133)
 **def
 Tau.BookV.GravityField.instReprNFEinsteinIteration.repr :NFEinsteinIteration → ℕ → Std.Format**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TruncationCoherentStep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L139-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L139-L160)
 **structure
 Tau.BookV.GravityField.TruncationCoherentStep :Type**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTruncationCoherentStep.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L160-L160)
 **def
 Tau.BookV.GravityField.instReprTruncationCoherentStep.repr :TruncationCoherentStep → ℕ → Std.Format**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTruncationCoherentStep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L160-L160)
 **instance
 Tau.BookV.GravityField.instReprTruncationCoherentStep :Repr TruncationCoherentStep**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookV.GravityField.DensitySaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L166-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L166-L191)
 **structure
 Tau.BookV.GravityField.DensitySaturation :Type**
 
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprDensitySaturation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L191-L191)
 **def
 Tau.BookV.GravityField.instReprDensitySaturation.repr :DensitySaturation → ℕ → Std.Format**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprDensitySaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L191-L191)
 **instance
 Tau.BookV.GravityField.instReprDensitySaturation :Repr DensitySaturation**
 
@@ -406,7 +406,7 @@ Equations
 
 ### `Tau.BookV.GravityField.DensitySaturation.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L193-L195)
 **def
 Tau.BookV.GravityField.DensitySaturation.toFloat
 (d : DensitySaturation)
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.NullAtDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L201-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L201-L217)
 **structure
 Tau.BookV.GravityField.NullAtDepth :Type**
 
@@ -454,7 +454,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNullAtDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L217-L217)
 **instance
 Tau.BookV.GravityField.instReprNullAtDepth :Repr NullAtDepth**
 
@@ -465,7 +465,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprNullAtDepth.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L217-L217)
 **def
 Tau.BookV.GravityField.instReprNullAtDepth.repr :NullAtDepth → ℕ → Std.Format**
 
@@ -477,7 +477,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.PresentSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L223-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L223-L241)
 **structure
 Tau.BookV.GravityField.PresentSurface :Type**
 
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprPresentSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L241-L241)
 **instance
 Tau.BookV.GravityField.instReprPresentSurface :Repr PresentSurface**
 
@@ -521,7 +521,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprPresentSurface.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L241-L241)
 **def
 Tau.BookV.GravityField.instReprPresentSurface.repr :PresentSurface → ℕ → Std.Format**
 
@@ -533,7 +533,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TauHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L247-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L247-L274)
 **structure
 Tau.BookV.GravityField.TauHorizon :Type**
 
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTauHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L274-L274)
 **def
 Tau.BookV.GravityField.instReprTauHorizon.repr :TauHorizon → ℕ → Std.Format**
 
@@ -596,7 +596,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTauHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L274-L274)
 **instance
 Tau.BookV.GravityField.instReprTauHorizon :Repr TauHorizon**
 
@@ -607,7 +607,7 @@ Equations
 
 ### `Tau.BookV.GravityField.TauHorizon.radiusFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L276-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L276-L278)
 **def
 Tau.BookV.GravityField.TauHorizon.radiusFloat
 (h : TauHorizon)
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.nf_existence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L284-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L284-L292)
 **theorem
 Tau.BookV.GravityField.nf_existence
 (nf : NFEinsteinIteration)
@@ -641,7 +641,7 @@ and current defect with positive denominator.
 
 ### `Tau.BookV.GravityField.nf_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L298-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L298-L305)
 **theorem
 Tau.BookV.GravityField.nf_uniqueness
 (nf : NFEinsteinIteration)
@@ -659,7 +659,7 @@ Encoded: if converged, defect numerator = 0.
 
 ### `Tau.BookV.GravityField.minimal_defect_solution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L311-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L311-L320)
 **theorem
 Tau.BookV.GravityField.minimal_defect_solution
 (nf : NFEinsteinIteration)
@@ -678,7 +678,7 @@ Encoded: converged solutions have zero defect (the minimum).
 
 ### `Tau.BookV.GravityField.density_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L326-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L326-L333)
 **theorem
 Tau.BookV.GravityField.density_bound
 (d : DensitySaturation)
@@ -695,7 +695,7 @@ no infinite density, no geodesic incompleteness.
 
 ### `Tau.BookV.GravityField.causal_disconnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L339-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L339-L347)
 **theorem
 Tau.BookV.GravityField.causal_disconnection
 (h : TauHorizon)
@@ -713,7 +713,7 @@ horizon boundary at the given depth.
 
 ### `Tau.BookV.GravityField.nf_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L353-L361)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L353-L361)
 **theorem
 Tau.BookV.GravityField.nf_convergence
 (s : TruncationCoherentStep)
@@ -730,7 +730,7 @@ defect_after / denom_after ≤ defect_before / denom_before
 
 ### `Tau.BookV.GravityField.singularity_replaced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L367-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L367-L372)
 **theorem
 Tau.BookV.GravityField.singularity_replaced
 (d : DensitySaturation)
@@ -745,7 +745,7 @@ Orthodox GR singularities are chart artifacts (V.R67).
 
 ### `Tau.BookV.GravityField.defect_step0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L398-L402)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L398-L402)
 **def
 Tau.BookV.GravityField.defect_step0 :CocycleDefect**
 
@@ -757,7 +757,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.defect_step1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L404-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L404-L408)
 **def
 Tau.BookV.GravityField.defect_step1 :CocycleDefect**
 
@@ -769,7 +769,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.defect_converged`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L410-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L410-L414)
 **def
 Tau.BookV.GravityField.defect_converged :CocycleDefect**
 
@@ -781,7 +781,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.converged_nf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L421-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L421-L425)
 **def
 Tau.BookV.GravityField.converged_nf :NFEinsteinIteration**
 
@@ -793,7 +793,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L431-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L431-L437)
 **def
 Tau.BookV.GravityField.example_saturation :DensitySaturation**
 
@@ -805,7 +805,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L442-L450)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L442-L450)
 **def
 Tau.BookV.GravityField.example_horizon :TauHorizon**
 
@@ -817,7 +817,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_surface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/NonlinearEinstein.lean#L455-L457)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/NonlinearEinstein.lean#L455-L457)
 **def
 Tau.BookV.GravityField.example_surface :PresentSurface**
 

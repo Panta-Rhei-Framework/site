@@ -58,7 +58,7 @@ rigidity, and saturation simultaneously.
 
 ### `Tau.Orbit.Saturation.tetration_non_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L37-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L37-L39)
 **theorem
 Tau.Orbit.Saturation.tetration_non_comm :tetration 2 3 ≠ tetration 3 2**
 
@@ -69,7 +69,7 @@ Tetration is not commutative: 2↑↑3 = 16 ≠ 9 = 3↑↑2.
 
 ### `Tau.Orbit.Saturation.tetration_non_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L41-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L41-L45)
 **theorem
 Tau.Orbit.Saturation.tetration_non_assoc :tetration (tetration 2 2) 2 ≠ tetration 2 (tetration 2 2)**
 
@@ -81,7 +81,7 @@ Tetration is not associative:
 
 ### `Tau.Orbit.Saturation.tetration_no_left_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L47-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L47-L67)
 **theorem
 Tau.Orbit.Saturation.tetration_no_left_identity :¬∃ (e : Nat), e ≥ 2 ∧ ∀ (n : Nat), n ≥ 1 → tetration e n = n**
 
@@ -101,7 +101,7 @@ For any e, e↑↑n = n fails: e↑↑2 = e^e ≠ 2 for e ≥ 2.
 
 ### `Tau.Orbit.Saturation.lower_ops_have_identities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L69-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L69-L74)
 **theorem
 Tau.Orbit.Saturation.lower_ops_have_identities :(∀ (n : Nat), n + 0 = n) ∧ (∀ (n : Nat), n * 1 = n) ∧ ∀ (n : Nat), n ^ 1 = n**
 
@@ -114,7 +114,7 @@ Tetration has right identity 1 (n↑↑1 = n) but no left identity ≥ 2.
 
 ### `Tau.Orbit.Saturation.AlgebraicDegradation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L80-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L80-L86)
 **structure
 Tau.Orbit.Saturation.AlgebraicDegradation :Prop**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.Orbit.Saturation.tetration_algebraic_degradation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L88-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L88-L91)
 **theorem
 Tau.Orbit.Saturation.tetration_algebraic_degradation :AlgebraicDegradation**
 
@@ -144,7 +144,7 @@ Tetration fails all three algebraic canonicality conditions.
 
 ### `Tau.Orbit.Saturation.MinimalAlphabetSpec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L97-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L97-L110)
 **structure
 Tau.Orbit.Saturation.MinimalAlphabetSpec :Prop**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.Orbit.Saturation.five_gen_spec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L112-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L112-L119)
 **theorem
 Tau.Orbit.Saturation.five_gen_spec :MinimalAlphabetSpec**
 
@@ -182,7 +182,7 @@ The 5-generator system satisfies the Minimal Alphabet specification.
 
 ### `Tau.Orbit.Saturation.minimal_alphabet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Saturation.lean#L125-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Saturation.lean#L125-L161)
 **theorem
 Tau.Orbit.Saturation.minimal_alphabet :MinimalAlphabetSpec ∧ (∃ (f : TooMany.Obj6 → TooMany.Obj6), (∀ (x : TooMany.Obj6), f (TooMany.rho6 x) = TooMany.rho6 (f x)) ∧ (∀ (x : TooMany.Obj6), f (f x) = x) ∧ ¬∀ (x : TooMany.Obj6), f x = x) ∧ TooFew.ladder4Channel TooFew.Ladder4Level.exp_level = none ∧ AlgebraicDegradation**
 

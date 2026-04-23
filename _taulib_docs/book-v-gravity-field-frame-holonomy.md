@@ -99,7 +99,7 @@ weak (A) sectors. κ_τ is σ-fixed (unpolarized).
 
 ### `Tau.BookV.GravityField.ClopenFrame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L64-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L64-L82)
 **structure
 Tau.BookV.GravityField.ClopenFrame :Type**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprClopenFrame`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L82-L82)
 **instance
 Tau.BookV.GravityField.instReprClopenFrame :Repr ClopenFrame**
 
@@ -149,7 +149,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprClopenFrame.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L82-L82)
 **def
 Tau.BookV.GravityField.instReprClopenFrame.repr :ClopenFrame → ℕ → Std.Format**
 
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ClopenFrame.same_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L84-L86)
 **def
 Tau.BookV.GravityField.ClopenFrame.same_depth
 (f₁ f₂ : ClopenFrame)
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.FrameHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L92-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L92-L114)
 **structure
 Tau.BookV.GravityField.FrameHolonomy :Type**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFrameHolonomy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L114-L114)
 **def
 Tau.BookV.GravityField.instReprFrameHolonomy.repr :FrameHolonomy → ℕ → Std.Format**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFrameHolonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L114-L114)
 **instance
 Tau.BookV.GravityField.instReprFrameHolonomy :Repr FrameHolonomy**
 
@@ -239,7 +239,7 @@ Equations
 
 ### `Tau.BookV.GravityField.FrameHolonomy.gapFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L116-L118)
 **def
 Tau.BookV.GravityField.FrameHolonomy.gapFloat
 (h : FrameHolonomy)
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.LocalGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L124-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L124-L146)
 **structure
 Tau.BookV.GravityField.LocalGap :Type**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprLocalGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L146-L146)
 **instance
 Tau.BookV.GravityField.instReprLocalGap :Repr LocalGap**
 
@@ -305,7 +305,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprLocalGap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L146-L146)
 **def
 Tau.BookV.GravityField.instReprLocalGap.repr :LocalGap → ℕ → Std.Format**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.LocalGap.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L148-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L148-L150)
 **def
 Tau.BookV.GravityField.LocalGap.toFloat
 (g : LocalGap)
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TorusVacuumRestated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L156-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L156-L169)
 **structure
 Tau.BookV.GravityField.TorusVacuumRestated :Type**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTorusVacuumRestated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L169-L169)
 **instance
 Tau.BookV.GravityField.instReprTorusVacuumRestated :Repr TorusVacuumRestated**
 
@@ -369,7 +369,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprTorusVacuumRestated.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L169-L169)
 **def
 Tau.BookV.GravityField.instReprTorusVacuumRestated.repr :TorusVacuumRestated → ℕ → Std.Format**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.canonical_torus_restated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L171-L174)
 **def
 Tau.BookV.GravityField.canonical_torus_restated :TorusVacuumRestated**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GTauFromShape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L180-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L180-L198)
 **structure
 Tau.BookV.GravityField.GTauFromShape :Type**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGTauFromShape.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L198-L198)
 **def
 Tau.BookV.GravityField.instReprGTauFromShape.repr :GTauFromShape → ℕ → Std.Format**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGTauFromShape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L198-L198)
 **instance
 Tau.BookV.GravityField.instReprGTauFromShape :Repr GTauFromShape**
 
@@ -450,7 +450,7 @@ Equations
 
 ### `Tau.BookV.GravityField.g_tau_from_shape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L200-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L200-L207)
 **def
 Tau.BookV.GravityField.g_tau_from_shape :GTauFromShape**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GTauFromShape.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L209-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L209-L211)
 **def
 Tau.BookV.GravityField.GTauFromShape.toFloat
 (g : GTauFromShape)
@@ -480,7 +480,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GravitationalCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L217-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L217-L238)
 **structure
 Tau.BookV.GravityField.GravitationalCoupling :Type**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGravitationalCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L238-L238)
 **def
 Tau.BookV.GravityField.instReprGravitationalCoupling.repr :GravitationalCoupling → ℕ → Std.Format**
 
@@ -533,7 +533,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGravitationalCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L238-L238)
 **instance
 Tau.BookV.GravityField.instReprGravitationalCoupling :Repr GravitationalCoupling**
 
@@ -544,7 +544,7 @@ Equations
 
 ### `Tau.BookV.GravityField.canonical_grav_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L240-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L240-L245)
 **def
 Tau.BookV.GravityField.canonical_grav_coupling :GravitationalCoupling**
 
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GravitationalCoupling.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L247-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L247-L249)
 **def
 Tau.BookV.GravityField.GravitationalCoupling.toFloat
 (g : GravitationalCoupling)
@@ -574,7 +574,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.temporal_complement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L255-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L255-L263)
 **theorem
 Tau.BookV.GravityField.temporal_complement :BookIV.Sectors.iotaD - BookIV.Sectors.iota + BookIV.Sectors.iota = BookIV.Sectors.iotaD**
 
@@ -590,7 +590,7 @@ Cross-multiplied: (iotaD − iota) + iota = iotaD.
 
 ### `Tau.BookV.GravityField.temporal_complement_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L265-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L265-L268)
 **theorem
 Tau.BookV.GravityField.temporal_complement_sectors :BookIV.Sectors.gravity_sector.coupling_numer + BookIV.Sectors.weak_sector.coupling_numer = BookIV.Sectors.iotaD**
 
@@ -601,7 +601,7 @@ Temporal complement restated using sector definitions.
 
 ### `Tau.BookV.GravityField.d_sector_holonomy_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L274-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L274-L281)
 **theorem
 Tau.BookV.GravityField.d_sector_holonomy_gap
 (h : FrameHolonomy)
@@ -618,7 +618,7 @@ non-trivial holonomy element: gap_numer = 1 (in normalized units).
 
 ### `Tau.BookV.GravityField.shape_ratio_is_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L287-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L287-L292)
 **theorem
 Tau.BookV.GravityField.shape_ratio_is_iota :g_tau_from_shape.iota_sq_num = BookIV.Sectors.iota * BookIV.Sectors.iota ∧ g_tau_from_shape.iota_sq_den = BookIV.Sectors.iotaD * BookIV.Sectors.iotaD**
 
@@ -630,7 +630,7 @@ Restated from V.T01 in the gravitational field context.
 
 ### `Tau.BookV.GravityField.g_from_iota_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L298-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L298-L306)
 **theorem
 Tau.BookV.GravityField.g_from_iota_squared :g_tau_from_shape.iota_sq_num > 0 ∧ g_tau_from_shape.iota_sq_den > 0**
 
@@ -643,7 +643,7 @@ Verified: iota * iota > 0 (positive coupling).
 
 ### `Tau.BookV.GravityField.kappa_sigma_fixed_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L312-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L312-L315)
 **theorem
 Tau.BookV.GravityField.kappa_sigma_fixed_thm :canonical_grav_coupling.sigma_fixed = true**
 
@@ -655,7 +655,7 @@ energy-momentum, not to any specific polarity channel.
 
 ### `Tau.BookV.GravityField.frame_adjacency_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L321-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L321-L325)
 **theorem
 Tau.BookV.GravityField.frame_adjacency_coherent
 (f₁ f₂ : ClopenFrame)
@@ -671,7 +671,7 @@ have compatible transition maps.
 
 ### `Tau.BookV.GravityField.gap_refinement_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L331-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L331-L336)
 **theorem
 Tau.BookV.GravityField.gap_refinement_invariant :canonical_grav_coupling.kappa_numer = BookIV.Sectors.iotaD - BookIV.Sectors.iota**
 
@@ -684,7 +684,7 @@ Only the resolution (gap size) changes, not the total phase.
 
 ### `Tau.BookV.GravityField.example_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L357-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L357-L362)
 **def
 Tau.BookV.GravityField.example_holonomy :FrameHolonomy**
 
@@ -696,7 +696,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/FrameHolonomy.lean#L366-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/FrameHolonomy.lean#L366-L372)
 **def
 Tau.BookV.GravityField.example_gap :LocalGap**
 

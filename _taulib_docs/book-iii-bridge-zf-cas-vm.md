@@ -60,7 +60,7 @@ at each primorial depth k, the "sets of rank <= k" are tau-addresses < Prim(k).
 
 ### `Tau.BookIII.Bridge.ZFCAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L43-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L43-L55)
 **inductive
 Tau.BookIII.Bridge.ZFCAxiom :Type**
 
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprZFCAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
 **instance
 Tau.BookIII.Bridge.instReprZFCAxiom :Repr ZFCAxiom**
 
@@ -94,7 +94,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instReprZFCAxiom.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
 **def
 Tau.BookIII.Bridge.instReprZFCAxiom.repr :ZFCAxiom → ℕ → Std.Format**
 
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instDecidableEqZFCAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
 **instance
 Tau.BookIII.Bridge.instDecidableEqZFCAxiom :DecidableEq ZFCAxiom**
 
@@ -117,7 +117,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqZFCAxiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
 **instance
 Tau.BookIII.Bridge.instBEqZFCAxiom :BEq ZFCAxiom**
 
@@ -128,7 +128,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqZFCAxiom.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L55-L55)
 **def
 Tau.BookIII.Bridge.instBEqZFCAxiom.beq :ZFCAxiom → ZFCAxiom → Bool**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.zfc_axiom_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L57-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L57-L58)
 **def
 Tau.BookIII.Bridge.zfc_axiom_count :ℕ**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.axiom_min_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L60-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L60-L71)
 **def
 Tau.BookIII.Bridge.axiom_min_depth :ZFCAxiom → ℕ**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.axiom_operation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L73-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L73-L99)
 **def
 Tau.BookIII.Bridge.axiom_operation
 (ax : ZFCAxiom)
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.zfc_vm_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L101-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L101-L116)
 **def
 Tau.BookIII.Bridge.zfc_vm_layer
 (bound db : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.zfc_vm_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L118-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L118-L147)
 **def
 Tau.BookIII.Bridge.zfc_vm_check
 (bound db : Denotation.TauIdx)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.zfc_vm_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L123-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L123-L146)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.zfc_vm_check.go
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.axiom_encoding_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L153-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L153-L186)
 **def
 Tau.BookIII.Bridge.axiom_encoding_check
 (bound db : Denotation.TauIdx)
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.axiom_encoding_check.next_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L159-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L159-L169)
 **def
 Tau.BookIII.Bridge.axiom_encoding_check.next_axiom
 (ax : ZFCAxiom)
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.axiom_encoding_check.go_ax`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L170-L185)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L170-L185)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.axiom_encoding_check.go_ax
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.universe_rank`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L192-L194)
 **def
 Tau.BookIII.Bridge.universe_rank
 (k : Denotation.TauIdx)
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.set_universe_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L196-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L196-L215)
 **def
 Tau.BookIII.Bridge.set_universe_check
 (bound db : Denotation.TauIdx)
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.set_universe_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L201-L214)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L201-L214)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.set_universe_check.go
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.host_level_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L217-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L217-L235)
 **def
 Tau.BookIII.Bridge.host_level_check
 (bound db : Denotation.TauIdx)
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.host_level_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L223-L234)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L223-L234)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.host_level_check.go
@@ -398,7 +398,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.zfc_vm_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L263-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L263-L264)
 **theorem
 Tau.BookIII.Bridge.zfc_vm_8_3 :zfc_vm_check 8 3 = true**
 
@@ -407,7 +407,7 @@ Tau.BookIII.Bridge.zfc_vm_8_3 :zfc_vm_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.axiom_encoding_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L267-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L267-L268)
 **theorem
 Tau.BookIII.Bridge.axiom_encoding_8_3 :axiom_encoding_check 8 3 = true**
 
@@ -416,7 +416,7 @@ Tau.BookIII.Bridge.axiom_encoding_8_3 :axiom_encoding_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.set_universe_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L271-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L271-L272)
 **theorem
 Tau.BookIII.Bridge.set_universe_10_4 :set_universe_check 10 4 = true**
 
@@ -425,7 +425,7 @@ Tau.BookIII.Bridge.set_universe_10_4 :set_universe_check 10 4 = true**
 
 ### `Tau.BookIII.Bridge.host_level_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L275-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L275-L276)
 **theorem
 Tau.BookIII.Bridge.host_level_10_3 :host_level_check 10 3 = true**
 
@@ -434,7 +434,7 @@ Tau.BookIII.Bridge.host_level_10_3 :host_level_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.zfc_has_9_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L282-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L282-L283)
 **theorem
 Tau.BookIII.Bridge.zfc_has_9_axioms :zfc_axiom_count = 9**
 
@@ -445,7 +445,7 @@ Tau.BookIII.Bridge.zfc_has_9_axioms :zfc_axiom_count = 9**
 
 ### `Tau.BookIII.Bridge.zfc_is_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L285-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L285-L286)
 **theorem
 Tau.BookIII.Bridge.zfc_is_e2 :Enrichment.EnrLevel.E2.toNat = 2**
 
@@ -456,7 +456,7 @@ Tau.BookIII.Bridge.zfc_is_e2 :Enrichment.EnrLevel.E2.toNat = 2**
 
 ### `Tau.BookIII.Bridge.ext_min_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L288-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L288-L289)
 **theorem
 Tau.BookIII.Bridge.ext_min_depth :axiom_min_depth ZFCAxiom.extensionality = 1**
 
@@ -467,7 +467,7 @@ Tau.BookIII.Bridge.ext_min_depth :axiom_min_depth ZFCAxiom.extensionality = 1**
 
 ### `Tau.BookIII.Bridge.inf_min_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L291-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L291-L292)
 **theorem
 Tau.BookIII.Bridge.inf_min_depth :axiom_min_depth ZFCAxiom.infinity = 3**
 
@@ -478,7 +478,7 @@ Tau.BookIII.Bridge.inf_min_depth :axiom_min_depth ZFCAxiom.infinity = 3**
 
 ### `Tau.BookIII.Bridge.universe_rank_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L294-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L294-L295)
 **theorem
 Tau.BookIII.Bridge.universe_rank_0 :universe_rank 0 = 1**
 
@@ -489,7 +489,7 @@ Tau.BookIII.Bridge.universe_rank_0 :universe_rank 0 = 1**
 
 ### `Tau.BookIII.Bridge.universe_rank_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L297-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L297-L298)
 **theorem
 Tau.BookIII.Bridge.universe_rank_3 :universe_rank 3 = 30**
 
@@ -500,7 +500,7 @@ Tau.BookIII.Bridge.universe_rank_3 :universe_rank 3 = 30**
 
 ### `Tau.BookIII.Bridge.pairing_valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L300-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L300-L302)
 **theorem
 Tau.BookIII.Bridge.pairing_valid :axiom_operation ZFCAxiom.pairing 3 5 3 < 30**
 
@@ -511,7 +511,7 @@ Tau.BookIII.Bridge.pairing_valid :axiom_operation ZFCAxiom.pairing 3 5 3 < 30**
 
 ### `Tau.BookIII.Bridge.ext_detects_equal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L304-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L304-L306)
 **theorem
 Tau.BookIII.Bridge.ext_detects_equal :axiom_operation ZFCAxiom.extensionality 3 3 3 = 1**
 
@@ -522,7 +522,7 @@ Tau.BookIII.Bridge.ext_detects_equal :axiom_operation ZFCAxiom.extensionality 3 
 
 ### `Tau.BookIII.Bridge.ext_detects_unequal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ZFCasVM.lean#L308-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ZFCasVM.lean#L308-L310)
 **theorem
 Tau.BookIII.Bridge.ext_detects_unequal :axiom_operation ZFCAxiom.extensionality 3 5 3 = 0**
 

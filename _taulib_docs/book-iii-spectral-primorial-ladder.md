@@ -51,7 +51,7 @@ levels is SUFFICIENT. The cutoff k₀ is always computable.
 
 ### `Tau.BookIII.Spectral.PrimorialStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L34-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L34-L40)
 **structure
 Tau.BookIII.Spectral.PrimorialStage :Type**
 
@@ -68,7 +68,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprPrimorialStage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instReprPrimorialStage.repr :PrimorialStage → ℕ → Std.Format**
 
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprPrimorialStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instReprPrimorialStage :Repr PrimorialStage**
 
@@ -91,7 +91,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instDecidableEqPrimorialStage.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instDecidableEqPrimorialStage.decEq
 (x✝ x✝¹ : PrimorialStage)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instDecidableEqPrimorialStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instDecidableEqPrimorialStage :DecidableEq PrimorialStage**
 
@@ -116,7 +116,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instBEqPrimorialStage.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instBEqPrimorialStage.beq :PrimorialStage → PrimorialStage → Bool**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqPrimorialStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instBEqPrimorialStage :BEq PrimorialStage**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.primorial_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L42-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L42-L44)
 **def
 Tau.BookIII.Spectral.primorial_stage
 (x k : Denotation.TauIdx)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_ladder_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L46-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L46-L60)
 **def
 Tau.BookIII.Spectral.primorial_ladder_check
 (bound : Denotation.TauIdx)
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_ladder_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L51-L59)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L51-L59)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.primorial_ladder_check.go
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_divisibility_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L62-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L62-L73)
 **def
 Tau.BookIII.Spectral.primorial_divisibility_check
 (bound : Denotation.TauIdx)
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_divisibility_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L66-L72)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L66-L72)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.primorial_divisibility_check.go
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L75-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L75-L84)
 **def
 Tau.BookIII.Spectral.primorial_growth_check
 (bound : Denotation.TauIdx)
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L79-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L79-L83)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.primorial_growth_check.go
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.cofinal_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L90-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L90-L98)
 **def
 Tau.BookIII.Spectral.cofinal_level
 (n : Denotation.TauIdx)
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.cofinal_level.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L94-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L94-L97)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.cofinal_level.go
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_cofinal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L100-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L100-L111)
 **def
 Tau.BookIII.Spectral.primorial_cofinal_check
 (bound : Denotation.TauIdx)
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_cofinal_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L105-L110)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L105-L110)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.primorial_cofinal_check.go
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.prime_cofinal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L113-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L113-L128)
 **def
 Tau.BookIII.Spectral.prime_cofinal_check
 (bound : Denotation.TauIdx)
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.prime_cofinal_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L118-L127)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L118-L127)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.prime_cofinal_check.go
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.primorial_ladder_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L154-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L154-L155)
 **theorem
 Tau.BookIII.Spectral.primorial_ladder_8 :primorial_ladder_check 8 = true**
 
@@ -368,7 +368,7 @@ Tau.BookIII.Spectral.primorial_ladder_8 :primorial_ladder_check 8 = true**
 
 ### `Tau.BookIII.Spectral.primorial_div_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L158-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L158-L159)
 **theorem
 Tau.BookIII.Spectral.primorial_div_6 :primorial_divisibility_check 6 = true**
 
@@ -377,7 +377,7 @@ Tau.BookIII.Spectral.primorial_div_6 :primorial_divisibility_check 6 = true**
 
 ### `Tau.BookIII.Spectral.primorial_growth_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L162-L163)
 **theorem
 Tau.BookIII.Spectral.primorial_growth_6 :primorial_growth_check 6 = true**
 
@@ -386,7 +386,7 @@ Tau.BookIII.Spectral.primorial_growth_6 :primorial_growth_check 6 = true**
 
 ### `Tau.BookIII.Spectral.primorial_cofinal_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L166-L167)
 **theorem
 Tau.BookIII.Spectral.primorial_cofinal_50 :primorial_cofinal_check 50 = true**
 
@@ -395,7 +395,7 @@ Tau.BookIII.Spectral.primorial_cofinal_50 :primorial_cofinal_check 50 = true**
 
 ### `Tau.BookIII.Spectral.prime_cofinal_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L170-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L170-L171)
 **theorem
 Tau.BookIII.Spectral.prime_cofinal_30 :prime_cofinal_check 30 = true**
 
@@ -404,7 +404,7 @@ Tau.BookIII.Spectral.prime_cofinal_30 :prime_cofinal_check 30 = true**
 
 ### `Tau.BookIII.Spectral.primorial_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L177-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L177-L178)
 **theorem
 Tau.BookIII.Spectral.primorial_zero :Polarity.primorial 0 = 1**
 
@@ -415,7 +415,7 @@ Tau.BookIII.Spectral.primorial_zero :Polarity.primorial 0 = 1**
 
 ### `Tau.BookIII.Spectral.primorial_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L180-L181)
 **theorem
 Tau.BookIII.Spectral.primorial_one :Polarity.primorial 1 = 2**
 
@@ -426,7 +426,7 @@ Tau.BookIII.Spectral.primorial_one :Polarity.primorial 1 = 2**
 
 ### `Tau.BookIII.Spectral.primorial_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L183-L184)
 **theorem
 Tau.BookIII.Spectral.primorial_three :Polarity.primorial 3 = 30**
 
@@ -437,7 +437,7 @@ Tau.BookIII.Spectral.primorial_three :Polarity.primorial 3 = 30**
 
 ### `Tau.BookIII.Spectral.cofinal_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L186-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L186-L187)
 **theorem
 Tau.BookIII.Spectral.cofinal_30 :cofinal_level 30 = 3**
 
@@ -448,7 +448,7 @@ Tau.BookIII.Spectral.cofinal_30 :cofinal_level 30 = 3**
 
 ### `Tau.BookIII.Spectral.reduce_coherence_42`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/PrimorialLadder.lean#L189-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/PrimorialLadder.lean#L189-L191)
 **theorem
 Tau.BookIII.Spectral.reduce_coherence_42 :Polarity.reduce (Polarity.reduce 42 4) 3 = Polarity.reduce 42 3**
 

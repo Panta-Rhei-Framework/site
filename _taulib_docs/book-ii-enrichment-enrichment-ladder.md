@@ -68,7 +68,7 @@ Book III will earn E2 (enriched with spectral forces).
 
 ### `Tau.BookII.Enrichment.EnrichmentLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L52-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L52-L57)
 **inductive
 Tau.BookII.Enrichment.EnrichmentLevel :Type**
 
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.instReprEnrichmentLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
 **instance
 Tau.BookII.Enrichment.instReprEnrichmentLevel :Repr EnrichmentLevel**
 
@@ -95,7 +95,7 @@ Equations
 
 ### `Tau.BookII.Enrichment.instReprEnrichmentLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
 **def
 Tau.BookII.Enrichment.instReprEnrichmentLevel.repr :EnrichmentLevel → ℕ → Std.Format**
 
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.instDecidableEqEnrichmentLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L57-L57)
 **instance
 Tau.BookII.Enrichment.instDecidableEqEnrichmentLevel :DecidableEq EnrichmentLevel**
 
@@ -118,7 +118,7 @@ Equations
 
 ### `Tau.BookII.Enrichment.e0_check_id_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L63-L77)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L63-L77)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.e0_check_id_compat
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e0_check_zero_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L79-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L79-L83)
 **def
 Tau.BookII.Enrichment.e0_check_zero_compat
 (k : ℕ)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e0_external_hom_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L85-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L85-L107)
 **def
 Tau.BookII.Enrichment.e0_external_hom_check
 (db : Denotation.TauIdx)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e0_external_hom_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L99-L106)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L99-L106)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.e0_external_hom_check.go
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.count_rc_endomorphisms_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L109-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L109-L115)
 **def
 Tau.BookII.Enrichment.count_rc_endomorphisms_k1 :Denotation.TauIdx**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.verify_k1_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L117-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L117-L137)
 **def
 Tau.BookII.Enrichment.verify_k1_count :Bool**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.verify_k1_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L122-L136)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L122-L136)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.verify_k1_count.go
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e1_internal_hom_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L143-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L143-L180)
 **def
 Tau.BookII.Enrichment.e1_internal_hom_check
 (db : Denotation.TauIdx)
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e1_internal_hom_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L158-L170)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L158-L170)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.e1_internal_hom_check.go
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e1_internal_hom_check.check_id_restriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L172-L179)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L172-L179)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.e1_internal_hom_check.check_id_restriction
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.e0_e1_transition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L186-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L186-L198)
 **def
 Tau.BookII.Enrichment.e0_e1_transition_check
 (db : Denotation.TauIdx)
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_gap_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L204-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L204-L220)
 **def
 Tau.BookII.Enrichment.enrichment_gap_check
 (bound db k_max : Denotation.TauIdx)
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.full_enrichment_ladder_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L226-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L226-L235)
 **def
 Tau.BookII.Enrichment.full_enrichment_ladder_check
 (bound db k_max : Denotation.TauIdx)
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.id_restriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L241-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L241-L247)
 **theorem
 Tau.BookII.Enrichment.id_restriction
 (x : Denotation.TauIdx)
@@ -402,7 +402,7 @@ This is the structural core of the E0/E1 transition for id.
 
 ### `Tau.BookII.Enrichment.zero_restriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L249-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L249-L253)
 **theorem
 Tau.BookII.Enrichment.zero_restriction
 (k : Denotation.TauIdx)
@@ -416,7 +416,7 @@ reduce(0, k-1) = 0 for all k.
 
 ### `Tau.BookII.Enrichment.e0_recoverable_from_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L255-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L255-L260)
 **theorem
 Tau.BookII.Enrichment.e0_recoverable_from_e1
 (x k : Denotation.TauIdx)
@@ -431,7 +431,7 @@ maps is the same), but E1 carries additional tower structure.
 
 ### `Tau.BookII.Enrichment.tower_coherence_transitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L262-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L262-L268)
 **theorem
 Tau.BookII.Enrichment.tower_coherence_transitive
 (x : Denotation.TauIdx)
@@ -451,7 +451,7 @@ This follows directly from reduction_compat.
 
 ### `Tau.BookII.Enrichment.e0_ne_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L270-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L270-L273)
 **theorem
 Tau.BookII.Enrichment.e0_ne_e1 :EnrichmentLevel.E0 ≠ EnrichmentLevel.E1**
 
@@ -462,7 +462,7 @@ The E0 and E1 levels are distinct (structural).
 
 ### `Tau.BookII.Enrichment.e0_hom_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L312-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L312-L313)
 **theorem
 Tau.BookII.Enrichment.e0_hom_3 :e0_external_hom_check 3 = true**
 
@@ -471,7 +471,7 @@ Tau.BookII.Enrichment.e0_hom_3 :e0_external_hom_check 3 = true**
 
 ### `Tau.BookII.Enrichment.e1_hom_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L316-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L316-L317)
 **theorem
 Tau.BookII.Enrichment.e1_hom_3 :e1_internal_hom_check 3 = true**
 
@@ -480,7 +480,7 @@ Tau.BookII.Enrichment.e1_hom_3 :e1_internal_hom_check 3 = true**
 
 ### `Tau.BookII.Enrichment.k1_count_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L320-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L320-L321)
 **theorem
 Tau.BookII.Enrichment.k1_count_4 :count_rc_endomorphisms_k1 = 4**
 
@@ -489,7 +489,7 @@ Tau.BookII.Enrichment.k1_count_4 :count_rc_endomorphisms_k1 = 4**
 
 ### `Tau.BookII.Enrichment.k1_verify`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L323-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L323-L324)
 **theorem
 Tau.BookII.Enrichment.k1_verify :verify_k1_count = true**
 
@@ -498,7 +498,7 @@ Tau.BookII.Enrichment.k1_verify :verify_k1_count = true**
 
 ### `Tau.BookII.Enrichment.transition_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L327-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L327-L328)
 **theorem
 Tau.BookII.Enrichment.transition_3 :e0_e1_transition_check 3 = true**
 
@@ -507,7 +507,7 @@ Tau.BookII.Enrichment.transition_3 :e0_e1_transition_check 3 = true**
 
 ### `Tau.BookII.Enrichment.gap_10_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L331-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L331-L332)
 **theorem
 Tau.BookII.Enrichment.gap_10_3_3 :enrichment_gap_check 10 3 3 = true**
 
@@ -516,6 +516,6 @@ Tau.BookII.Enrichment.gap_10_3_3 :enrichment_gap_check 10 3 3 = true**
 
 ### `Tau.BookII.Enrichment.full_ladder_10_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L335-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/EnrichmentLadder.lean#L335-L336)
 **theorem
 Tau.BookII.Enrichment.full_ladder_10_3_3 :full_enrichment_ladder_check 10 3 3 = true**

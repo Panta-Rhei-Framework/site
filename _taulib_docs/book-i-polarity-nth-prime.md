@@ -50,7 +50,7 @@ when fuel contains enough primes (proved by induction on fuel)
 
 ### `Tau.Polarity.count_primes_in`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L29-L34)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L29-L34)@[irreducible]
 
 **def
 Tau.Polarity.count_primes_in
@@ -69,7 +69,7 @@ Instances For
 
 ### `Tau.Polarity.count_primes_in_empty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L42-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L42-L43)
 **theorem
 Tau.Polarity.count_primes_in_empty
 (lo : Nat)
@@ -80,7 +80,7 @@ Tau.Polarity.count_primes_in_empty
 
 ### `Tau.Polarity.count_primes_in_step_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L45-L49)
 **theorem
 Tau.Polarity.count_primes_in_step_prime
 (lo hi : Nat)
@@ -95,7 +95,7 @@ Tau.Polarity.count_primes_in_step_prime
 
 ### `Tau.Polarity.count_primes_in_step_not`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L51-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L51-L55)
 **theorem
 Tau.Polarity.count_primes_in_step_not
 (lo hi : Nat)
@@ -110,7 +110,7 @@ Tau.Polarity.count_primes_in_step_not
 
 ### `Tau.Polarity.nth_prime_go_is_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L65-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L65-L114)
 **theorem
 Tau.Polarity.nth_prime_go_is_prime
 (target count cur fuel : Nat)
@@ -143,7 +143,7 @@ This propagates cleanly:
 
 ### `Tau.Polarity.nth_prime_fuel_ok`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L120-L122)
 **def
 Tau.Polarity.nth_prime_fuel_ok
 (k : Nat)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.Polarity.nth_prime_prime_of_fuel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L124-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L124-L134)
 **theorem
 Tau.Polarity.nth_prime_prime_of_fuel
 {k : Denotation.TauIdx}
@@ -176,7 +176,7 @@ When fuel suffices, nth_prime k is prime.
 
 ### `Tau.Polarity.nth_prime_dvd_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L152-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L152-L170)
 **theorem
 Tau.Polarity.nth_prime_dvd_primorial
 {i k : Denotation.TauIdx}
@@ -191,7 +191,7 @@ nth_prime(i+1) divides primorial(k) for i + 1 ≤ k. Structural induction.
 
 ### `Tau.Polarity.nth_prime_coprime_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L180-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L180-L185)
 **theorem
 Tau.Polarity.nth_prime_coprime_primorial
 {k : Denotation.TauIdx}
@@ -208,7 +208,7 @@ nth_prime(k+1) is coprime to primorial(k), given primality and freshness.
 
 ### `Tau.Polarity.nth_prime_pairwise_coprime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L187-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L187-L194)
 **theorem
 Tau.Polarity.nth_prime_pairwise_coprime
 {k : Denotation.TauIdx}
@@ -227,7 +227,7 @@ Pairwise coprimality from primality and distinctness.
 
 ### `Tau.Polarity.CRTHyp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L196-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L196-L200)
 **structure
 Tau.Polarity.CRTHyp
 (k : Denotation.TauIdx)
@@ -248,6 +248,6 @@ Instances For
 
 ### `Tau.Polarity.crt_hyp_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/NthPrime.lean#L209-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/NthPrime.lean#L209-L221)
 **theorem
 Tau.Polarity.crt_hyp_5 :CRTHyp 5**

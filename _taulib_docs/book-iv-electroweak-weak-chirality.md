@@ -67,7 +67,7 @@ origin of maximal parity violation in the weak (A) sector.
 
 ### `Tau.BookIV.Electroweak.PolarityIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L37-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L37-L49)
 **structure
 Tau.BookIV.Electroweak.PolarityIndex :Type**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPolarityIndex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L49-L49)
 **def
 Tau.BookIV.Electroweak.instReprPolarityIndex.repr :PolarityIndex → ℕ → Std.Format**
 
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPolarityIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L49-L49)
 **instance
 Tau.BookIV.Electroweak.instReprPolarityIndex :Repr PolarityIndex**
 
@@ -117,7 +117,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.pol_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L51-L53)
 **def
 Tau.BookIV.Electroweak.pol_D :PolarityIndex**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pol_A`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L55-L57)
 **def
 Tau.BookIV.Electroweak.pol_A :PolarityIndex**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pol_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L59-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L59-L61)
 **def
 Tau.BookIV.Electroweak.pol_B :PolarityIndex**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pol_C`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L63-L65)
 **def
 Tau.BookIV.Electroweak.pol_C :PolarityIndex**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pol_Omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L67-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L67-L69)
 **def
 Tau.BookIV.Electroweak.pol_Omega :PolarityIndex**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.all_sector_polarities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L71-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L71-L73)
 **def
 Tau.BookIV.Electroweak.all_sector_polarities :List PolarityIndex**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.all_sector_polarities_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L75-L75)
 **theorem
 Tau.BookIV.Electroweak.all_sector_polarities_count :all_sector_polarities.length = 5**
 
@@ -215,7 +215,7 @@ Tau.BookIV.Electroweak.all_sector_polarities_count :all_sector_polarities.length
 
 ### `Tau.BookIV.Electroweak.ParityPreserving`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L81-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L81-L89)
 **structure
 Tau.BookIV.Electroweak.ParityPreserving :Type**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityPreserving.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L89-L89)
 **def
 Tau.BookIV.Electroweak.instReprParityPreserving.repr :ParityPreserving → ℕ → Std.Format**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityPreserving`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L89-L89)
 **instance
 Tau.BookIV.Electroweak.instReprParityPreserving :Repr ParityPreserving**
 
@@ -259,7 +259,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.parity_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L91-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L91-L92)
 **def
 Tau.BookIV.Electroweak.parity_em :ParityPreserving**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.parity_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L93-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L93-L94)
 **def
 Tau.BookIV.Electroweak.parity_strong :ParityPreserving**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.parity_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L95-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L95-L96)
 **def
 Tau.BookIV.Electroweak.parity_gravity :ParityPreserving**
 
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.parity_weak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L97-L98)
 **def
 Tau.BookIV.Electroweak.parity_weak :ParityPreserving**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.parity_higgs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L99-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L99-L100)
 **def
 Tau.BookIV.Electroweak.parity_higgs :ParityPreserving**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ChiralityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L106-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L106-L114)
 **inductive
 Tau.BookIV.Electroweak.ChiralityType :Type**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprChiralityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
 **instance
 Tau.BookIV.Electroweak.instReprChiralityType :Repr ChiralityType**
 
@@ -361,7 +361,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprChiralityType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
 **def
 Tau.BookIV.Electroweak.instReprChiralityType.repr :ChiralityType → ℕ → Std.Format**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instDecidableEqChiralityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
 **instance
 Tau.BookIV.Electroweak.instDecidableEqChiralityType :DecidableEq ChiralityType**
 
@@ -384,7 +384,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqChiralityType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
 **def
 Tau.BookIV.Electroweak.instBEqChiralityType.beq :ChiralityType → ChiralityType → Bool**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instBEqChiralityType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L114-L114)
 **instance
 Tau.BookIV.Electroweak.instBEqChiralityType :BEq ChiralityType**
 
@@ -407,7 +407,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.sigma_a_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L120-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L120-L126)
 **def
 Tau.BookIV.Electroweak.sigma_a_admissible
 (c : ChiralityType)
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sigma_a_iff_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L128-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L128-L131)
 **theorem
 Tau.BookIV.Electroweak.sigma_a_iff_left
 (c : ChiralityType)
@@ -439,7 +439,7 @@ Tau.BookIV.Electroweak.sigma_a_iff_left
 
 ### `Tau.BookIV.Electroweak.WBosonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L137-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L137-L150)
 **structure
 Tau.BookIV.Electroweak.WBosonMode :Type**
 
@@ -467,7 +467,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWBosonMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L150-L150)
 **def
 Tau.BookIV.Electroweak.instReprWBosonMode.repr :WBosonMode → ℕ → Std.Format**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWBosonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L150-L150)
 **instance
 Tau.BookIV.Electroweak.instReprWBosonMode :Repr WBosonMode**
 
@@ -490,7 +490,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.w_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L152-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L152-L153)
 **def
 Tau.BookIV.Electroweak.w_plus :WBosonMode**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.w_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L154-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L154-L155)
 **def
 Tau.BookIV.Electroweak.w_minus :WBosonMode**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ZBosonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L161-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L161-L172)
 **structure
 Tau.BookIV.Electroweak.ZBosonMode :Type**
 
@@ -543,7 +543,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprZBosonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L172-L172)
 **instance
 Tau.BookIV.Electroweak.instReprZBosonMode :Repr ZBosonMode**
 
@@ -554,7 +554,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprZBosonMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L172-L172)
 **def
 Tau.BookIV.Electroweak.instReprZBosonMode.repr :ZBosonMode → ℕ → Std.Format**
 
@@ -566,7 +566,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.z_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L174-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L174-L180)
 **def
 Tau.BookIV.Electroweak.z_zero :ZBosonMode**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ParityTransformation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L186-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L186-L196)
 **structure
 Tau.BookIV.Electroweak.ParityTransformation :Type**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityTransformation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L196-L196)
 **def
 Tau.BookIV.Electroweak.instReprParityTransformation.repr :ParityTransformation → ℕ → Std.Format**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityTransformation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L196-L196)
 **instance
 Tau.BookIV.Electroweak.instReprParityTransformation :Repr ParityTransformation**
 
@@ -627,7 +627,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.parity_3d`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L198-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L198-L203)
 **def
 Tau.BookIV.Electroweak.parity_3d :ParityTransformation**
 
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ParityViolation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L209-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L209-L219)
 **structure
 Tau.BookIV.Electroweak.ParityViolation :Type**
 
@@ -666,7 +666,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityViolation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L219-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L219-L219)
 **def
 Tau.BookIV.Electroweak.instReprParityViolation.repr :ParityViolation → ℕ → Std.Format**
 
@@ -678,7 +678,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParityViolation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L219-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L219-L219)
 **instance
 Tau.BookIV.Electroweak.instReprParityViolation :Repr ParityViolation**
 
@@ -689,7 +689,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.pv_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L221-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L221-L222)
 **def
 Tau.BookIV.Electroweak.pv_gravity :ParityViolation**
 
@@ -703,7 +703,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pv_weak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L223-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L223-L223)
 **def
 Tau.BookIV.Electroweak.pv_weak :ParityViolation**
 
@@ -715,7 +715,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pv_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L224-L224)
 **def
 Tau.BookIV.Electroweak.pv_em :ParityViolation**
 
@@ -727,7 +727,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pv_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L225-L225)
 **def
 Tau.BookIV.Electroweak.pv_strong :ParityViolation**
 
@@ -739,7 +739,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.pv_higgs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L226-L226)
 **def
 Tau.BookIV.Electroweak.pv_higgs :ParityViolation**
 
@@ -751,7 +751,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weak_max_parity_violation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L232-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L232-L242)
 **theorem
 Tau.BookIV.Electroweak.weak_max_parity_violation :pv_weak.violation = 100 ∧ pv_gravity.violation = 0 ∧ pv_em.violation = 0 ∧ pv_strong.violation = 0 ∧ pv_higgs.violation = 0**
 
@@ -765,7 +765,7 @@ means sigma_A acts non-trivially, selecting one chirality.
 
 ### `Tau.BookIV.Electroweak.weak_unique_violator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L244-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L244-L251)
 **theorem
 Tau.BookIV.Electroweak.weak_unique_violator :pv_weak.violation > 0 ∧ pv_gravity.violation = 0 ∧ pv_em.violation = 0 ∧ pv_strong.violation = 0 ∧ pv_higgs.violation = 0**
 
@@ -776,7 +776,7 @@ Only the weak sector has nonzero parity violation.
 
 ### `Tau.BookIV.Electroweak.wz_massive_from_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L257-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L257-L265)
 **theorem
 Tau.BookIV.Electroweak.wz_massive_from_omega :w_plus.massive = true ∧ w_minus.massive = true ∧ z_zero.massive = true**
 
@@ -790,7 +790,7 @@ Structural: massive = true for both W and Z.
 
 ### `Tau.BookIV.Electroweak.w_left_only`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeakChirality.lean#L267-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeakChirality.lean#L267-L270)
 **theorem
 Tau.BookIV.Electroweak.w_left_only :w_plus.left_only = true ∧ w_minus.left_only = true**
 

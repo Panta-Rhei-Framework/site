@@ -133,7 +133,7 @@ All couplings are determined by ι<sub>τ</sub> = 2/(π+e) ≈ 0.341304 (No Knob
 
 ### `Tau.BookIV.Sectors.PolaritySign`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L55-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L55-L66)
 **inductive
 Tau.BookIV.Sectors.PolaritySign :Type**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.instReprPolaritySign`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
 **instance
 Tau.BookIV.Sectors.instReprPolaritySign :Repr PolaritySign**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.instReprPolaritySign.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
 **def
 Tau.BookIV.Sectors.instReprPolaritySign.repr :PolaritySign → ℕ → Std.Format**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.instDecidableEqPolaritySign`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
 **instance
 Tau.BookIV.Sectors.instDecidableEqPolaritySign :DecidableEq PolaritySign**
 
@@ -193,7 +193,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.instBEqPolaritySign`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
 **instance
 Tau.BookIV.Sectors.instBEqPolaritySign :BEq PolaritySign**
 
@@ -204,7 +204,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.instBEqPolaritySign.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L66-L66)
 **def
 Tau.BookIV.Sectors.instBEqPolaritySign.beq :PolaritySign → PolaritySign → Bool**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.SectorPhysics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L72-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L72-L90)
 **structure
 Tau.BookIV.Sectors.SectorPhysics :Type**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.instReprSectorPhysics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L90-L90)
 **instance
 Tau.BookIV.Sectors.instReprSectorPhysics :Repr SectorPhysics**
 
@@ -263,7 +263,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.instReprSectorPhysics.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L90-L90)
 **def
 Tau.BookIV.Sectors.instReprSectorPhysics.repr :SectorPhysics → ℕ → Std.Format**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.CouplingScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L96-L98)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L96-L98)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Sectors.CouplingScale :ℕ**
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L100-L101)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L100-L101)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Sectors.iota :ℕ**
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iotaD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L103-L104)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L103-L104)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Sectors.iotaD :ℕ**
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota_sq_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L106-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L106-L107)
 **def
 Tau.BookIV.Sectors.iota_sq_numer :ℕ**
 
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota_sq_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L109-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L109-L110)
 **def
 Tau.BookIV.Sectors.iota_sq_denom :ℕ**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota_cu_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L112-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L112-L113)
 **def
 Tau.BookIV.Sectors.iota_cu_numer :ℕ**
 
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota_cu_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L115-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L115-L116)
 **def
 Tau.BookIV.Sectors.iota_cu_denom :ℕ**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.em_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L122-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L122-L134)
 **def
 Tau.BookIV.Sectors.em_sector :SectorPhysics**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.strong_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L135-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L135-L151)
 **def
 Tau.BookIV.Sectors.strong_sector :SectorPhysics**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.higgs_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L152-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L152-L166)
 **def
 Tau.BookIV.Sectors.higgs_sector :SectorPhysics**
 
@@ -433,7 +433,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.gravity_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L167-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L167-L179)
 **def
 Tau.BookIV.Sectors.gravity_sector :SectorPhysics**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.weak_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L180-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L180-L193)
 **def
 Tau.BookIV.Sectors.weak_sector :SectorPhysics**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.all_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L198-L200)
 **def
 Tau.BookIV.Sectors.all_sectors :List SectorPhysics**
 
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.sector_physics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L202-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L202-L209)
 **def
 Tau.BookIV.Sectors.sector_physics
 (s : BookIII.Sectors.Sector)
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.gen_sector_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L215-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L215-L220)
 **theorem
 Tau.BookIV.Sectors.gen_sector_injective :gravity_sector.generator ≠ weak_sector.generator ∧ weak_sector.generator ≠ em_sector.generator ∧ em_sector.generator ≠ strong_sector.generator**
 
@@ -515,7 +515,7 @@ Generator-sector correspondence is injective on primitive sectors.
 
 ### `Tau.BookIV.Sectors.all_couplings_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L222-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L222-L230)
 **theorem
 Tau.BookIV.Sectors.all_couplings_pos :gravity_sector.coupling_numer > 0 ∧ weak_sector.coupling_numer > 0 ∧ em_sector.coupling_numer > 0 ∧ strong_sector.coupling_numer > 0 ∧ higgs_sector.coupling_numer > 0**
 
@@ -526,7 +526,7 @@ Every sector has a positive coupling.
 
 ### `Tau.BookIV.Sectors.temporal_depth_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L232-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L232-L235)
 **theorem
 Tau.BookIV.Sectors.temporal_depth_one :gravity_sector.depth = 1 ∧ weak_sector.depth = 1**
 
@@ -537,7 +537,7 @@ Temporal sectors have depth 1; spatial sectors have depth ≥ 2.
 
 ### `Tau.BookIV.Sectors.spatial_depth_ge_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L237-L239)
 **theorem
 Tau.BookIV.Sectors.spatial_depth_ge_two :em_sector.depth ≥ 2 ∧ strong_sector.depth ≥ 2 ∧ higgs_sector.depth ≥ 2**
 
@@ -546,7 +546,7 @@ Tau.BookIV.Sectors.spatial_depth_ge_two :em_sector.depth ≥ 2 ∧ strong_sector
 
 ### `Tau.BookIV.Sectors.weak_unique_balanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L241-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L241-L248)
 **theorem
 Tau.BookIV.Sectors.weak_unique_balanced :weak_sector.polarity = PolaritySign.Balanced ∧ gravity_sector.polarity ≠ PolaritySign.Balanced ∧ em_sector.polarity ≠ PolaritySign.Balanced ∧ strong_sector.polarity ≠ PolaritySign.Balanced ∧ higgs_sector.polarity ≠ PolaritySign.Balanced**
 
@@ -557,7 +557,7 @@ The weak sector is the unique balanced sector.
 
 ### `Tau.BookIV.Sectors.SectorPhysics.coupling_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SectorParameters.lean#L254-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SectorParameters.lean#L254-L256)
 **def
 Tau.BookIV.Sectors.SectorPhysics.coupling_float
 (s : SectorPhysics)

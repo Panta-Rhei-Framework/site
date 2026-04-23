@@ -59,7 +59,7 @@ no information loss in the sector decomposition.
 
 ### `Tau.BookIII.Physics.strong_sector_at_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L42-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L42-L57)
 **def
 Tau.BookIII.Physics.strong_sector_at_level
 (k : Denotation.TauIdx)
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.strong_sector_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L59-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L59-L68)
 **def
 Tau.BookIII.Physics.strong_sector_check
 (db : Denotation.TauIdx)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.strong_sector_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L63-L67)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L63-L67)@[irreducible]
 
 **def
 Tau.BookIII.Physics.strong_sector_check.go
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.label_stability_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L70-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L70-L86)
 **def
 Tau.BookIII.Physics.label_stability_check
 (bound db : Denotation.TauIdx)
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.label_stability_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L74-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L74-L85)@[irreducible]
 
 **def
 Tau.BookIII.Physics.label_stability_check.go
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.GaugeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L92-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L92-L102)
 **structure
 Tau.BookIII.Physics.GaugeData :Type**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instReprGaugeData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **def
 Tau.BookIII.Physics.instReprGaugeData.repr :GaugeData → ℕ → Std.Format**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instReprGaugeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **instance
 Tau.BookIII.Physics.instReprGaugeData :Repr GaugeData**
 
@@ -187,7 +187,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instDecidableEqGaugeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **instance
 Tau.BookIII.Physics.instDecidableEqGaugeData :DecidableEq GaugeData**
 
@@ -198,7 +198,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instDecidableEqGaugeData.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **def
 Tau.BookIII.Physics.instDecidableEqGaugeData.decEq
 (x✝ x✝¹ : GaugeData)
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.instBEqGaugeData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **instance
 Tau.BookIII.Physics.instBEqGaugeData :BEq GaugeData**
 
@@ -223,7 +223,7 @@ Equations
 
 ### `Tau.BookIII.Physics.instBEqGaugeData.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L102-L102)
 **def
 Tau.BookIII.Physics.instBEqGaugeData.beq :GaugeData → GaugeData → Bool**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.gauge_data_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L104-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L104-L107)
 **def
 Tau.BookIII.Physics.gauge_data_at
 (k : Denotation.TauIdx)
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.gauge_data_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L109-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L109-L127)
 **def
 Tau.BookIII.Physics.gauge_data_check
 (db : Denotation.TauIdx)
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.gauge_data_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L114-L126)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L114-L126)@[irreducible]
 
 **def
 Tau.BookIII.Physics.gauge_data_check.go
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.gauge_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L129-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L129-L149)
 **def
 Tau.BookIII.Physics.gauge_tower_check
 (db : Denotation.TauIdx)
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.gauge_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L134-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L134-L148)@[irreducible]
 
 **def
 Tau.BookIII.Physics.gauge_tower_check.go
@@ -320,7 +320,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.nf_discreteness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L155-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L155-L176)
 **def
 Tau.BookIII.Physics.nf_discreteness_check
 (db : Denotation.TauIdx)
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.nf_discreteness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L160-L167)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L160-L167)@[irreducible]
 
 **def
 Tau.BookIII.Physics.nf_discreteness_check.go
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.nf_discreteness_check.check_inj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L169-L176)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L169-L176)@[irreducible]
 
 **def
 Tau.BookIII.Physics.nf_discreteness_check.check_inj
@@ -369,7 +369,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.strong_sector_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L194-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L194-L195)
 **theorem
 Tau.BookIII.Physics.strong_sector_5 :strong_sector_check 5 = true**
 
@@ -378,7 +378,7 @@ Tau.BookIII.Physics.strong_sector_5 :strong_sector_check 5 = true**
 
 ### `Tau.BookIII.Physics.label_stability_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L197-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L197-L198)
 **theorem
 Tau.BookIII.Physics.label_stability_10_4 :label_stability_check 10 4 = true**
 
@@ -387,7 +387,7 @@ Tau.BookIII.Physics.label_stability_10_4 :label_stability_check 10 4 = true**
 
 ### `Tau.BookIII.Physics.gauge_data_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L200-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L200-L201)
 **theorem
 Tau.BookIII.Physics.gauge_data_5 :gauge_data_check 5 = true**
 
@@ -396,7 +396,7 @@ Tau.BookIII.Physics.gauge_data_5 :gauge_data_check 5 = true**
 
 ### `Tau.BookIII.Physics.gauge_tower_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L203-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L203-L204)
 **theorem
 Tau.BookIII.Physics.gauge_tower_4 :gauge_tower_check 4 = true**
 
@@ -405,7 +405,7 @@ Tau.BookIII.Physics.gauge_tower_4 :gauge_tower_check 4 = true**
 
 ### `Tau.BookIII.Physics.nf_discrete_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L206-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L206-L207)
 **theorem
 Tau.BookIII.Physics.nf_discrete_3 :nf_discreteness_check 3 = true**
 
@@ -414,7 +414,7 @@ Tau.BookIII.Physics.nf_discrete_3 :nf_discreteness_check 3 = true**
 
 ### `Tau.BookIII.Physics.strong_at_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L213-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L213-L215)
 **theorem
 Tau.BookIII.Physics.strong_at_1 :strong_sector_at_level 1 = true**
 
@@ -425,7 +425,7 @@ Tau.BookIII.Physics.strong_at_1 :strong_sector_at_level 1 = true**
 
 ### `Tau.BookIII.Physics.gauge_3_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L217-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L217-L220)
 **theorem
 Tau.BookIII.Physics.gauge_3_complete :(gauge_data_at 3).b_product * (gauge_data_at 3).c_product * (gauge_data_at 3).x_product = Polarity.primorial 3**
 
@@ -436,7 +436,7 @@ Tau.BookIII.Physics.gauge_3_complete :(gauge_data_at 3).b_product * (gauge_data_
 
 ### `Tau.BookIII.Physics.gauge_3_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L222-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L222-L225)
 **theorem
 Tau.BookIII.Physics.gauge_3_count :(gauge_data_at 3).b_count + (gauge_data_at 3).c_count + (gauge_data_at 3).x_count = 3**
 
@@ -447,7 +447,7 @@ Tau.BookIII.Physics.gauge_3_count :(gauge_data_at 3).b_count + (gauge_data_at 3)
 
 ### `Tau.BookIII.Physics.nf_zero_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/StrongSector.lean#L227-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/StrongSector.lean#L227-L229)
 **theorem
 Tau.BookIII.Physics.nf_zero_unique :Spectral.boundary_normal_form 0 3 = { b_part := 0, c_part := 0, x_part := 0, depth := 3 }**
 

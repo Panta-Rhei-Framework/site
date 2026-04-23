@@ -79,7 +79,7 @@ notion but a proximity notion -- qualitative, not quantitative.
 
 ### `Tau.Sets.OmegaGermApproach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L51-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L51-L68)
 **structure
 Tau.Sets.OmegaGermApproach :Prop**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Sets.omega_germ_approach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L70-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L70-L75)
 **def
 Tau.Sets.omega_germ_approach :OmegaGermApproach**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.Sets.InfinityObject`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L81-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L81-L89)
 **structure
 Tau.Sets.InfinityObject
 (x : Kernel.TauObj)
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.Sets.omega_rho_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L91-L93)
 **theorem
 Tau.Sets.omega_rho_fixed
 (d : ℕ)
@@ -175,7 +175,7 @@ Omega (with any depth) is a fixed point of rho.
 
 ### `Tau.Sets.omega_is_infinity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L95-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L95-L101)
 **def
 Tau.Sets.omega_is_infinity :InfinityObject Orbit.omega_obj**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.Sets.unique_infinity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L103-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L103-L140)
 **theorem
 Tau.Sets.unique_infinity
 (x : Kernel.TauObj)
@@ -215,7 +215,7 @@ exactly one infinity object.
 
 ### `Tau.Sets.infinity_in_omega_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L142-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L142-L145)
 **theorem
 Tau.Sets.infinity_in_omega_fiber
 (x : Kernel.TauObj)
@@ -230,7 +230,7 @@ Corollary: every infinity object is in the omega fiber.
 
 ### `Tau.Sets.no_orbit_infinity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L147-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L147-L153)
 **theorem
 Tau.Sets.no_orbit_infinity
 (g : Kernel.Generator)
@@ -247,7 +247,7 @@ Corollary: no non-omega generator produces an infinity object.
 
 ### `Tau.Sets.ultrametric_replaces_card`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L159-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L159-L187)
 **theorem
 Tau.Sets.ultrametric_replaces_card :(∀ (t1 t2 : Polarity.OmegaTail), Polarity.ultra_dist t1 t2 = Polarity.ultra_dist t2 t1) ∧ (∀ (t1 t2 t3 : Polarity.OmegaTail),
  t1.depth = t2.depth →
@@ -282,7 +282,7 @@ We package these as a single theorem.
 
 ### `Tau.Sets.GermConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L193-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L193-L199)
 **def
 Tau.Sets.GermConvergence
 (seq : ℕ → Denotation.TauIdx)
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.Sets.const_seq_converges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L201-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L201-L204)
 **theorem
 Tau.Sets.const_seq_converges
 (c : Denotation.TauIdx)
@@ -319,7 +319,7 @@ Constant sequences converge at every depth.
 
 ### `Tau.Sets.germ_convergence_via_reduction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L206-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L206-L221)
 **theorem
 Tau.Sets.germ_convergence_via_reduction
 (seq : ℕ → Denotation.TauIdx)
@@ -339,7 +339,7 @@ convergence at depth d means agreement modulo M_d.
 
 ### `Tau.Sets.cardinality_hierarchy_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/UniqueInfinity.lean#L227-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/UniqueInfinity.lean#L227-L240)
 **theorem
 Tau.Sets.cardinality_hierarchy_collapse :(∀ (x y : Kernel.TauObj), InfinityObject x → InfinityObject y → x.seed = y.seed) ∧ (∃ (f : Kernel.TauObj → ℕ), Function.Injective f) ∧ ¬∃ (x : CantorDiagonalApparatus), True**
 

@@ -108,7 +108,7 @@ Layer 2 via the readout functor R_μ.
 
 ### `Tau.BookIV.Physics.TickKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L52-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L52-L70)
 **inductive
 Tau.BookIV.Physics.TickKind :Type**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprTickKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **instance
 Tau.BookIV.Physics.instReprTickKind :Repr TickKind**
 
@@ -153,7 +153,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprTickKind.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **def
 Tau.BookIV.Physics.instReprTickKind.repr :TickKind → ℕ → Std.Format**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqTickKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **instance
 Tau.BookIV.Physics.instDecidableEqTickKind :DecidableEq TickKind**
 
@@ -176,7 +176,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqTickKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **instance
 Tau.BookIV.Physics.instBEqTickKind :BEq TickKind**
 
@@ -187,7 +187,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqTickKind.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **def
 Tau.BookIV.Physics.instBEqTickKind.beq :TickKind → TickKind → Bool**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedTickKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **instance
 Tau.BookIV.Physics.instInhabitedTickKind :Inhabited TickKind**
 
@@ -210,7 +210,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedTickKind.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L70-L70)
 **def
 Tau.BookIV.Physics.instInhabitedTickKind.default :TickKind**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L76-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L76-L88)
 **structure
 Tau.BookIV.Physics.TickMorphism :Type**
 
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprTickMorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instReprTickMorphism.repr :TickMorphism → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprTickMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instReprTickMorphism :Repr TickMorphism**
 
@@ -270,7 +270,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqTickMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instDecidableEqTickMorphism :DecidableEq TickMorphism**
 
@@ -281,7 +281,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqTickMorphism.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instDecidableEqTickMorphism.decEq
 (x✝ x✝¹ : TickMorphism)
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instBEqTickMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instBEqTickMorphism :BEq TickMorphism**
 
@@ -306,7 +306,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqTickMorphism.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instBEqTickMorphism.beq :TickMorphism → TickMorphism → Bool**
 
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickMorphism.identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L90-L93)
 **def
 Tau.BookIV.Physics.TickMorphism.identity
 (k : TickKind)
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickMorphism.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L95-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L95-L99)
 **def
 Tau.BookIV.Physics.TickMorphism.compose
 (a b : TickMorphism)
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickKind.sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L105-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L105-L111)
 **def
 Tau.BookIV.Physics.TickKind.sector :TickKind → BookIII.Sectors.Sector**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickKind.carrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L113-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L113-L119)
 **def
 Tau.BookIV.Physics.TickKind.carrier :TickKind → CarrierType**
 
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.TickKind.measuredInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L121-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L121-L127)
 **def
 Tau.BookIV.Physics.TickKind.measuredInvariant :TickKind → PrimaryInvariant**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.tick_sector_bijection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L133-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L133-L146)
 **theorem
 Tau.BookIV.Physics.tick_sector_bijection :TickKind.AlphaTick.sector ≠ TickKind.PiStep.sector ∧ TickKind.AlphaTick.sector ≠ TickKind.GammaOscillation.sector ∧ TickKind.AlphaTick.sector ≠ TickKind.EtaStep.sector ∧ TickKind.AlphaTick.sector ≠ TickKind.OmegaCrossing.sector ∧ TickKind.PiStep.sector ≠ TickKind.GammaOscillation.sector ∧ TickKind.PiStep.sector ≠ TickKind.EtaStep.sector ∧ TickKind.PiStep.sector ≠ TickKind.OmegaCrossing.sector ∧ TickKind.GammaOscillation.sector ≠ TickKind.EtaStep.sector ∧ TickKind.GammaOscillation.sector ≠ TickKind.OmegaCrossing.sector ∧ TickKind.EtaStep.sector ≠ TickKind.OmegaCrossing.sector**
 
@@ -419,7 +419,7 @@ and each sector has exactly one tick kind.
 
 ### `Tau.BookIV.Physics.tick_exhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L148-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L148-L152)
 **theorem
 Tau.BookIV.Physics.tick_exhaustion
 (t : TickKind)
@@ -432,7 +432,7 @@ Tau.BookIV.Physics.tick_exhaustion
 
 ### `Tau.BookIV.Physics.tick_sector_consistent_with_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L154-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L154-L157)
 **theorem
 Tau.BookIV.Physics.tick_sector_consistent_with_invariant
 (t : TickKind)
@@ -445,7 +445,7 @@ The tick-sector assignment is consistent with the invariant-sector assignment.
 
 ### `Tau.BookIV.Physics.identity_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L159-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L159-L161)
 **theorem
 Tau.BookIV.Physics.identity_count
 (k : TickKind)
@@ -458,7 +458,7 @@ Identity ticks have count zero.
 
 ### `Tau.BookIV.Physics.compose_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L163-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L163-L165)
 **theorem
 Tau.BookIV.Physics.compose_count
 (a b : TickMorphism)
@@ -473,7 +473,7 @@ Composition is additive in tick count.
 
 ### `Tau.BookIV.Physics.InternalRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L171-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L171-L185)
 **structure
 Tau.BookIV.Physics.InternalRatio :Type**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprInternalRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L185-L185)
 **instance
 Tau.BookIV.Physics.instReprInternalRatio :Repr InternalRatio**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprInternalRatio.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L185-L185)
 **def
 Tau.BookIV.Physics.instReprInternalRatio.repr :InternalRatio → ℕ → Std.Format**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.InternalRatio.isDimensionless`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/TickUnits.lean#L187-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/TickUnits.lean#L187-L189)
 **def
 Tau.BookIV.Physics.InternalRatio.isDimensionless
 (r : InternalRatio)

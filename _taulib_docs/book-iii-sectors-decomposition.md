@@ -55,7 +55,7 @@ between B and C lobes simultaneously. The structural reason for 4+1, not 5.
 
 ### `Tau.BookIII.Sectors.Sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L38-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L38-L46)
 **inductive
 Tau.BookIII.Sectors.Sector :Type**
 
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instReprSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **instance
 Tau.BookIII.Sectors.instReprSector :Repr Sector**
 
@@ -85,7 +85,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instReprSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **def
 Tau.BookIII.Sectors.instReprSector.repr :Sector → ℕ → Std.Format**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instDecidableEqSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **instance
 Tau.BookIII.Sectors.instDecidableEqSector :DecidableEq Sector**
 
@@ -108,7 +108,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instBEqSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **instance
 Tau.BookIII.Sectors.instBEqSector :BEq Sector**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instBEqSector.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **def
 Tau.BookIII.Sectors.instBEqSector.beq :Sector → Sector → Bool**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instInhabitedSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **instance
 Tau.BookIII.Sectors.instInhabitedSector :Inhabited Sector**
 
@@ -142,7 +142,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instInhabitedSector.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L46-L46)
 **def
 Tau.BookIII.Sectors.instInhabitedSector.default :Sector**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_of`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L48-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L48-L63)
 **def
 Tau.BookIII.Sectors.sector_of
 (χ : BoundaryCharacter)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.Sector.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L65-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L65-L71)
 **def
 Tau.BookIII.Sectors.Sector.toNat :Sector → ℕ**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_decomposition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L73-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L73-L92)
 **def
 Tau.BookIII.Sectors.sector_decomposition_check
 (bound : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_decomposition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L79-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L79-L91)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.sector_decomposition_check.go
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.omega_coupling_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L98-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L98-L116)
 **def
 Tau.BookIII.Sectors.omega_coupling_check
 (bound : Denotation.TauIdx)
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.omega_coupling_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L105-L115)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L105-L115)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.omega_coupling_check.go
@@ -279,7 +279,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Sectors.sector_preservation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L128-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L128-L154)
 **def
 Tau.BookIII.Sectors.sector_preservation_check
 (bound db : Denotation.TauIdx)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_preservation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L135-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L135-L153)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.sector_preservation_check.go
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_decomp_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L182-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L182-L183)
 **theorem
 Tau.BookIII.Sectors.sector_decomp_5 :sector_decomposition_check 5 = true**
 
@@ -324,7 +324,7 @@ Tau.BookIII.Sectors.sector_decomp_5 :sector_decomposition_check 5 = true**
 
 ### `Tau.BookIII.Sectors.omega_coupling_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L186-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L186-L187)
 **theorem
 Tau.BookIII.Sectors.omega_coupling_5 :omega_coupling_check 5 = true**
 
@@ -333,7 +333,7 @@ Tau.BookIII.Sectors.omega_coupling_5 :omega_coupling_check 5 = true**
 
 ### `Tau.BookIII.Sectors.sector_preservation_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L190-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L190-L191)
 **theorem
 Tau.BookIII.Sectors.sector_preservation_5_3 :sector_preservation_check 5 3 = true**
 
@@ -342,7 +342,7 @@ Tau.BookIII.Sectors.sector_preservation_5_3 :sector_preservation_check 5 3 = tru
 
 ### `Tau.BookIII.Sectors.zero_in_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L197-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L197-L198)
 **theorem
 Tau.BookIII.Sectors.zero_in_D :sector_of BoundaryCharacter.zero = Sector.D**
 
@@ -353,7 +353,7 @@ Tau.BookIII.Sectors.zero_in_D :sector_of BoundaryCharacter.zero = Sector.D**
 
 ### `Tau.BookIII.Sectors.pure_m_in_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L200-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L200-L201)
 **theorem
 Tau.BookIII.Sectors.pure_m_in_B :sector_of { m_index := 2, n_index := 0 } = Sector.B**
 
@@ -364,7 +364,7 @@ Tau.BookIII.Sectors.pure_m_in_B :sector_of { m_index := 2, n_index := 0 } = Sect
 
 ### `Tau.BookIII.Sectors.pure_n_in_C`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L203-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L203-L204)
 **theorem
 Tau.BookIII.Sectors.pure_n_in_C :sector_of { m_index := 0, n_index := 2 } = Sector.C**
 
@@ -375,7 +375,7 @@ Tau.BookIII.Sectors.pure_n_in_C :sector_of { m_index := 0, n_index := 2 } = Sect
 
 ### `Tau.BookIII.Sectors.equal_mag_in_A`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L206-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L206-L207)
 **theorem
 Tau.BookIII.Sectors.equal_mag_in_A :sector_of { m_index := 3, n_index := 3 } = Sector.A**
 
@@ -386,7 +386,7 @@ Tau.BookIII.Sectors.equal_mag_in_A :sector_of { m_index := 3, n_index := 3 } = S
 
 ### `Tau.BookIII.Sectors.mixed_in_Omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L209-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L209-L210)
 **theorem
 Tau.BookIII.Sectors.mixed_in_Omega :sector_of { m_index := 2, n_index := 1 } = Sector.Omega**
 
@@ -397,7 +397,7 @@ Tau.BookIII.Sectors.mixed_in_Omega :sector_of { m_index := 2, n_index := 1 } = S
 
 ### `Tau.BookIII.Sectors.sector_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/Decomposition.lean#L212-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/Decomposition.lean#L212-L222)
 **theorem
 Tau.BookIII.Sectors.sector_exhaustive
 (χ : BoundaryCharacter)

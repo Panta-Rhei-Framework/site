@@ -86,7 +86,7 @@ it requires base-fiber coupling not available on T^2 alone.
 
 ### `Tau.BookIV.Coda.remark_c1_conjectural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L51-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L51-L61)
 **def
 Tau.BookIV.Coda.remark_c1_conjectural :String**
 
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.LedgerComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L67-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L67-L83)
 **structure
 Tau.BookIV.Coda.LedgerComparison :Type**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprLedgerComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L83-L83)
 **instance
 Tau.BookIV.Coda.instReprLedgerComparison :Repr LedgerComparison**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprLedgerComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L83-L83)
 **def
 Tau.BookIV.Coda.instReprLedgerComparison.repr :LedgerComparison → ℕ → Std.Format**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ledger_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L85-L85)
 **def
 Tau.BookIV.Coda.ledger_comparison :LedgerComparison**
 
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ledger_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L87-L88)
 **theorem
 Tau.BookIV.Coda.ledger_total :ledger_comparison.total = 66**
 
@@ -184,7 +184,7 @@ Tau.BookIV.Coda.ledger_total :ledger_comparison.total = 66**
 
 ### `Tau.BookIV.Coda.ledger_sums_to_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L90-L93)
 **theorem
 Tau.BookIV.Coda.ledger_sums_to_total :ledger_comparison.established + ledger_comparison.tau_effective + ledger_comparison.conjectural + ledger_comparison.metaphorical = 66**
 
@@ -193,7 +193,7 @@ Tau.BookIV.Coda.ledger_sums_to_total :ledger_comparison.established + ledger_com
 
 ### `Tau.BookIV.Coda.remark_ledger_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L95-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L95-L96)
 **def
 Tau.BookIV.Coda.remark_ledger_comparison :String**
 
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.FormalizationFrontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L102-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L102-L114)
 **structure
 Tau.BookIV.Coda.FormalizationFrontier :Type**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprFormalizationFrontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L114-L114)
 **instance
 Tau.BookIV.Coda.instReprFormalizationFrontier :Repr FormalizationFrontier**
 
@@ -243,7 +243,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprFormalizationFrontier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L114-L114)
 **def
 Tau.BookIV.Coda.instReprFormalizationFrontier.repr :FormalizationFrontier → ℕ → Std.Format**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.formalization_frontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L116-L116)
 **def
 Tau.BookIV.Coda.formalization_frontier :FormalizationFrontier**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.remark_formalization_frontier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L118-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L118-L119)
 **def
 Tau.BookIV.Coda.remark_formalization_frontier :String**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.OpenProblems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L125-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L125-L143)
 **structure
 Tau.BookIV.Coda.OpenProblems :Type**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprOpenProblems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L143-L143)
 **instance
 Tau.BookIV.Coda.instReprOpenProblems :Repr OpenProblems**
 
@@ -317,7 +317,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprOpenProblems.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L143-L143)
 **def
 Tau.BookIV.Coda.instReprOpenProblems.repr :OpenProblems → ℕ → Std.Format**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.open_problems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L145-L145)
 **def
 Tau.BookIV.Coda.open_problems :OpenProblems**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.five_open`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L147-L148)
 **theorem
 Tau.BookIV.Coda.five_open :open_problems.num_open = 5**
 
@@ -350,7 +350,7 @@ Tau.BookIV.Coda.five_open :open_problems.num_open = 5**
 
 ### `Tau.BookIV.Coda.open_problems_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L150-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L150-L151)
 **theorem
 Tau.BookIV.Coda.open_problems_count :open_problems.problems.length = 5**
 
@@ -359,7 +359,7 @@ Tau.BookIV.Coda.open_problems_count :open_problems.problems.length = 5**
 
 ### `Tau.BookIV.Coda.remark_open_vs_wrong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L153-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L153-L154)
 **def
 Tau.BookIV.Coda.remark_open_vs_wrong :String**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.TauSphaleronQuestion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L160-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L160-L182)
 **structure
 Tau.BookIV.Coda.TauSphaleronQuestion :Type**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprTauSphaleronQuestion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L182-L182)
 **instance
 Tau.BookIV.Coda.instReprTauSphaleronQuestion :Repr TauSphaleronQuestion**
 
@@ -420,7 +420,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprTauSphaleronQuestion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L182-L182)
 **def
 Tau.BookIV.Coda.instReprTauSphaleronQuestion.repr :TauSphaleronQuestion → ℕ → Std.Format**
 
@@ -432,7 +432,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.tau_sphaleron_question`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L184-L184)
 **def
 Tau.BookIV.Coda.tau_sphaleron_question :TauSphaleronQuestion**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.BookVImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L195-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L195-L220)
 **structure
 Tau.BookIV.Coda.BookVImportList :Type**
 
@@ -495,7 +495,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprBookVImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L220-L220)
 **instance
 Tau.BookIV.Coda.instReprBookVImportList :Repr BookVImportList**
 
@@ -506,7 +506,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprBookVImportList.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L220-L220)
 **def
 Tau.BookIV.Coda.instReprBookVImportList.repr :BookVImportList → ℕ → Std.Format**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.book_v_imports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L222-L222)
 **def
 Tau.BookIV.Coda.book_v_imports :BookVImportList**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ten_couplings_exported`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L224-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L224-L225)
 **theorem
 Tau.BookIV.Coda.ten_couplings_exported :book_v_imports.couplings = 10**
 
@@ -539,7 +539,7 @@ Tau.BookIV.Coda.ten_couplings_exported :book_v_imports.couplings = 10**
 
 ### `Tau.BookIV.Coda.BookVIImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L231-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L231-L248)
 **structure
 Tau.BookIV.Coda.BookVIImportList :Type**
 
@@ -578,7 +578,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprBookVIImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L248-L248)
 **instance
 Tau.BookIV.Coda.instReprBookVIImportList :Repr BookVIImportList**
 
@@ -589,7 +589,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprBookVIImportList.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L248-L248)
 **def
 Tau.BookIV.Coda.instReprBookVIImportList.repr :BookVIImportList → ℕ → Std.Format**
 
@@ -601,7 +601,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.book_vi_imports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L250-L250)
 **def
 Tau.BookIV.Coda.book_vi_imports :BookVIImportList**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.BookVIIImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L256-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L256-L275)
 **structure
 Tau.BookIV.Coda.BookVIIImportList :Type**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprBookVIIImportList`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L275-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L275-L275)
 **instance
 Tau.BookIV.Coda.instReprBookVIIImportList :Repr BookVIIImportList**
 
@@ -666,7 +666,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprBookVIIImportList.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L275-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L275-L275)
 **def
 Tau.BookIV.Coda.instReprBookVIIImportList.repr :BookVIIImportList → ℕ → Std.Format**
 
@@ -678,7 +678,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.book_vii_imports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L277-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L277-L277)
 **def
 Tau.BookIV.Coda.book_vii_imports :BookVIIImportList**
 
@@ -690,7 +690,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.LedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L289-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L289-L295)
 **inductive
 Tau.BookIV.Coda.LedgerScope :Type**
 
@@ -707,7 +707,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprLedgerScope.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
 **def
 Tau.BookIV.Coda.instReprLedgerScope.repr :LedgerScope → ℕ → Std.Format**
 
@@ -719,7 +719,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
 **instance
 Tau.BookIV.Coda.instReprLedgerScope :Repr LedgerScope**
 
@@ -730,7 +730,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instDecidableEqLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
 **instance
 Tau.BookIV.Coda.instDecidableEqLedgerScope :DecidableEq LedgerScope**
 
@@ -741,7 +741,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instBEqLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
 **instance
 Tau.BookIV.Coda.instBEqLedgerScope :BEq LedgerScope**
 
@@ -752,7 +752,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instBEqLedgerScope.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L295-L295)
 **def
 Tau.BookIV.Coda.instBEqLedgerScope.beq :LedgerScope → LedgerScope → Bool**
 
@@ -764,7 +764,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.LedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L297-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L297-L305)
 **structure
 Tau.BookIV.Coda.LedgerEntry :Type**
 
@@ -786,7 +786,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L305-L305)
 **instance
 Tau.BookIV.Coda.instReprLedgerEntry :Repr LedgerEntry**
 
@@ -797,7 +797,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprLedgerEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L305-L305)
 **def
 Tau.BookIV.Coda.instReprLedgerEntry.repr :LedgerEntry → ℕ → Std.Format**
 
@@ -809,7 +809,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.representative_entries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L307-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L307-L319)
 **def
 Tau.BookIV.Coda.representative_entries :List LedgerEntry**
 
@@ -823,6 +823,6 @@ Instances For
 
 ### `Tau.BookIV.Coda.representative_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/CompleteLedger.lean#L321-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/CompleteLedger.lean#L321-L322)
 **theorem
 Tau.BookIV.Coda.representative_count :representative_entries.length = 10**

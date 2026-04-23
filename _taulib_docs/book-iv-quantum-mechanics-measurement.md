@@ -97,7 +97,7 @@ large-quantum-number limit.
 
 ### `Tau.BookIV.QuantumMechanics.AddressResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L63-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L63-L85)
 **structure
 Tau.BookIV.QuantumMechanics.AddressResolution :Type**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprAddressResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L85-L85)
 **instance
 Tau.BookIV.QuantumMechanics.instReprAddressResolution :Repr AddressResolution**
 
@@ -147,7 +147,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprAddressResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L85-L85)
 **def
 Tau.BookIV.QuantumMechanics.instReprAddressResolution.repr :AddressResolution → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.AddressResolution.probFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L87-L89)
 **def
 Tau.BookIV.QuantumMechanics.AddressResolution.probFloat
 (a : AddressResolution)
@@ -175,7 +175,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.born_rule_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L95-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L95-L102)
 **theorem
 Tau.BookIV.QuantumMechanics.born_rule_structural
 (a : AddressResolution)
@@ -193,7 +193,7 @@ determined by the geometry of the projection, not by an axiom.
 
 ### `Tau.BookIV.QuantumMechanics.BornNormalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L104-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L104-L116)
 **structure
 Tau.BookIV.QuantumMechanics.BornNormalization :Type**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprBornNormalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L116-L116)
 **instance
 Tau.BookIV.QuantumMechanics.instReprBornNormalization :Repr BornNormalization**
 
@@ -231,7 +231,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprBornNormalization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L116-L116)
 **def
 Tau.BookIV.QuantumMechanics.instReprBornNormalization.repr :BornNormalization → ℕ → Std.Format**
 
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.PostResolutionState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L122-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L122-L135)
 **structure
 Tau.BookIV.QuantumMechanics.PostResolutionState :Type**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprPostResolutionState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L135-L135)
 **def
 Tau.BookIV.QuantumMechanics.instReprPostResolutionState.repr :PostResolutionState → ℕ → Std.Format**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprPostResolutionState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L135-L135)
 **instance
 Tau.BookIV.QuantumMechanics.instReprPostResolutionState :Repr PostResolutionState**
 
@@ -293,7 +293,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.projection_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L137-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L137-L139)
 **theorem
 Tau.BookIV.QuantumMechanics.projection_idempotent
 (p : PostResolutionState)
@@ -308,7 +308,7 @@ Tau.BookIV.QuantumMechanics.projection_idempotent
 
 ### `Tau.BookIV.QuantumMechanics.Decoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L145-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L145-L164)
 **structure
 Tau.BookIV.QuantumMechanics.Decoherence :Type**
 
@@ -343,7 +343,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprDecoherence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L164-L164)
 **def
 Tau.BookIV.QuantumMechanics.instReprDecoherence.repr :Decoherence → ℕ → Std.Format**
 
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprDecoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L164-L164)
 **instance
 Tau.BookIV.QuantumMechanics.instReprDecoherence :Repr Decoherence**
 
@@ -366,7 +366,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.SchrodingerEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L170-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L170-L191)
 **structure
 Tau.BookIV.QuantumMechanics.SchrodingerEquation :Type**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSchrodingerEquation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L191-L191)
 **def
 Tau.BookIV.QuantumMechanics.instReprSchrodingerEquation.repr :SchrodingerEquation → ℕ → Std.Format**
 
@@ -419,7 +419,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSchrodingerEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L191-L191)
 **instance
 Tau.BookIV.QuantumMechanics.instReprSchrodingerEquation :Repr SchrodingerEquation**
 
@@ -430,7 +430,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.schrodinger_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L193-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L193-L197)
 **def
 Tau.BookIV.QuantumMechanics.schrodinger_canonical :SchrodingerEquation**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.ClassicalLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L203-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L203-L217)
 **structure
 Tau.BookIV.QuantumMechanics.ClassicalLimit :Type**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprClassicalLimit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L217-L217)
 **def
 Tau.BookIV.QuantumMechanics.instReprClassicalLimit.repr :ClassicalLimit → ℕ → Std.Format**
 
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprClassicalLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L217-L217)
 **instance
 Tau.BookIV.QuantumMechanics.instReprClassicalLimit :Repr ClassicalLimit**
 
@@ -495,7 +495,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.classical_limit_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L219-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L219-L221)
 **theorem
 Tau.BookIV.QuantumMechanics.classical_limit_structural
 (c : ClassicalLimit)
@@ -508,7 +508,7 @@ Classical limit exists for any threshold ≥ 100.
 
 ### `Tau.BookIV.QuantumMechanics.DualTrackCompatibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L227-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L227-L245)
 **structure
 Tau.BookIV.QuantumMechanics.DualTrackCompatibility :Type**
 
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprDualTrackCompatibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L245-L245)
 **instance
 Tau.BookIV.QuantumMechanics.instReprDualTrackCompatibility :Repr DualTrackCompatibility**
 
@@ -558,7 +558,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprDualTrackCompatibility.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L245-L245)
 **def
 Tau.BookIV.QuantumMechanics.instReprDualTrackCompatibility.repr :DualTrackCompatibility → ℕ → Std.Format**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.determinism_probability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L247-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L247-L255)
 **theorem
 Tau.BookIV.QuantumMechanics.determinism_probability
 (d : DualTrackCompatibility)
@@ -589,7 +589,7 @@ Tau.BookIV.QuantumMechanics.determinism_probability
 
 ### `Tau.BookIV.QuantumMechanics.schrodinger_is_iota_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L261-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L261-L265)
 **theorem
 Tau.BookIV.QuantumMechanics.schrodinger_is_iota_sq :schrodinger_canonical.hamiltonian_coeff_numer = Sectors.iota_sq_numer ∧ schrodinger_canonical.hamiltonian_coeff_denom = Sectors.iota_sq_denom**
 
@@ -600,7 +600,7 @@ The Schrodinger Hamiltonian coefficient matches ι<sub>τ</sub>².
 
 ### `Tau.BookIV.QuantumMechanics.schrodinger_is_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L267-L269)
 **theorem
 Tau.BookIV.QuantumMechanics.schrodinger_is_derived :schrodinger_canonical.is_derived = true**
 
@@ -611,7 +611,7 @@ The Schrodinger equation is derived, not postulated.
 
 ### `Tau.BookIV.QuantumMechanics.resolution_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L271-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L271-L273)
 **theorem
 Tau.BookIV.QuantumMechanics.resolution_bounded
 (a : AddressResolution)
@@ -624,7 +624,7 @@ Address resolution probabilities are bounded by 1.
 
 ### `Tau.BookIV.QuantumMechanics.example_decoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L288-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L288-L291)
 **def
 Tau.BookIV.QuantumMechanics.example_decoherence :Decoherence**
 
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.example_dual_track`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/Measurement.lean#L295-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/Measurement.lean#L295-L295)
 **def
 Tau.BookIV.QuantumMechanics.example_dual_track :DualTrackCompatibility**
 

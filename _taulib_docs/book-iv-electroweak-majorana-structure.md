@@ -76,7 +76,7 @@ M_ν is σ-equivariant → mass eigenstates = σ-eigenstates → Majorana.
 
 ### `Tau.BookIV.Electroweak.Majorana.c_tau_equals_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L44-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L44-L57)
 **theorem
 Tau.BookIV.Electroweak.Majorana.c_tau_equals_sigma :True**
 
@@ -99,7 +99,7 @@ Scope: established (follows from I.D18 + character arithmetic).
 
 ### `Tau.BookIV.Electroweak.Majorana.sigma_is_charge_conjugation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L66-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L66-L80)
 **theorem
 Tau.BookIV.Electroweak.Majorana.sigma_is_charge_conjugation
 (z : Polarity.SplitComplex)
@@ -120,7 +120,7 @@ U(1)-holonomy charge, mapping particles to antiparticles.
 
 ### `Tau.BookIV.Electroweak.Majorana.sigma_reverses_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L82-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L82-L87)
 **theorem
 Tau.BookIV.Electroweak.Majorana.sigma_reverses_charge
 (z : Polarity.SplitComplex)
@@ -134,7 +134,7 @@ Q(σz) = χ₊(σz) − χ₋(σz) = χ₋(z) − χ₊(z) = −Q(z).
 
 ### `Tau.BookIV.Electroweak.Majorana.zero_charge_sigma_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L89-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L89-L96)
 **theorem
 Tau.BookIV.Electroweak.Majorana.zero_charge_sigma_invariant
 (z : Polarity.SplitComplex)
@@ -151,7 +151,7 @@ The zero-charge subspace is σ-invariant.
 
 ### `Tau.BookIV.Electroweak.Majorana.zero_holonomy_modes_majorana`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L102-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L102-L121)
 **theorem
 Tau.BookIV.Electroweak.Majorana.zero_holonomy_modes_majorana
 (ν : NeutrinoMode)
@@ -186,7 +186,7 @@ all tested (p,q,r) give σ-parities [+1,−1,+1]).
 
 ### `Tau.BookIV.Electroweak.Majorana.sigma_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L123-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L123-L126)
 **theorem
 Tau.BookIV.Electroweak.Majorana.sigma_involution
 (z : Polarity.SplitComplex)
@@ -199,7 +199,7 @@ The polarity involution is an involution: σ² = id.
 
 ### `Tau.BookIV.Electroweak.Majorana.majorana_from_sigma_parity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L128-L130)
 **theorem
 Tau.BookIV.Electroweak.Majorana.majorana_from_sigma_parity :True**
 
@@ -211,7 +211,7 @@ This is the abstract version of the field-redefinition argument.
 
 ### `Tau.BookIV.Electroweak.Majorana.all_neutrinos_charge_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L143-L146)
 **theorem
 Tau.BookIV.Electroweak.Majorana.all_neutrinos_charge_zero :nu_e.charge = 0 ∧ nu_mu.charge = 0 ∧ nu_tau.charge = 0**
 
@@ -222,7 +222,7 @@ All three neutrino modes have zero U(1)-holonomy charge.
 
 ### `Tau.BookIV.Electroweak.Majorana.all_neutrinos_majorana`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L148-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L148-L153)
 **theorem
 Tau.BookIV.Electroweak.Majorana.all_neutrinos_majorana :nu_e.charge = 0 ∧ nu_mu.charge = 0 ∧ nu_tau.charge = 0**
 
@@ -235,7 +235,7 @@ of the three neutrino eigenmodes.
 
 ### `Tau.BookIV.Electroweak.Majorana.sigma_polarity_matrix_equivariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L155-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L155-L159)
 **theorem
 Tau.BookIV.Electroweak.Majorana.sigma_polarity_matrix_equivariant :True**
 
@@ -249,7 +249,7 @@ exchange = the σ_swap action on (lobe₊, crossing, lobe₋) basis.
 
 ### `Tau.BookIV.Electroweak.Majorana.beta_decay_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L167-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L167-L178)
 **def
 Tau.BookIV.Electroweak.Majorana.beta_decay_resolution :String**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.Majorana.lepton_number_not_conserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L180-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L180-L187)
 **def
 Tau.BookIV.Electroweak.Majorana.lepton_number_not_conserved :String**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.Majorana.neutrinoless_double_beta_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L193-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/MajoranaStructure.lean#L193-L217)
 **def
 Tau.BookIV.Electroweak.Majorana.neutrinoless_double_beta_prediction :String**
 

@@ -73,7 +73,7 @@ The entire Part VI uses only two inputs: ι<sub>τ</sub> = 2/(π+e) and m_n.
 
 ### `Tau.BookIV.Particles.OnticCriterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L46-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L46-L57)
 **inductive
 Tau.BookIV.Particles.OnticCriterion :Type**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprOnticCriterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
 **instance
 Tau.BookIV.Particles.instReprOnticCriterion :Repr OnticCriterion**
 
@@ -110,7 +110,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprOnticCriterion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
 **def
 Tau.BookIV.Particles.instReprOnticCriterion.repr :OnticCriterion → ℕ → Std.Format**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instDecidableEqOnticCriterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
 **instance
 Tau.BookIV.Particles.instDecidableEqOnticCriterion :DecidableEq OnticCriterion**
 
@@ -133,7 +133,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqOnticCriterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
 **instance
 Tau.BookIV.Particles.instBEqOnticCriterion :BEq OnticCriterion**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqOnticCriterion.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L57-L57)
 **def
 Tau.BookIV.Particles.instBEqOnticCriterion.beq :OnticCriterion → OnticCriterion → Bool**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.OnticEntity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L59-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L59-L69)
 **structure
 Tau.BookIV.Particles.OnticEntity :Type**
 
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprOnticEntity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L69-L69)
 **def
 Tau.BookIV.Particles.instReprOnticEntity.repr :OnticEntity → ℕ → Std.Format**
 
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprOnticEntity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L69-L69)
 **instance
 Tau.BookIV.Particles.instReprOnticEntity :Repr OnticEntity**
 
@@ -204,7 +204,7 @@ Equations
 
 ### `Tau.BookIV.Particles.ontic_register`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L75-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L75-L92)
 **def
 Tau.BookIV.Particles.ontic_register :List OnticEntity**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.ontic_register_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L94-L94)
 **theorem
 Tau.BookIV.Particles.ontic_register_count :ontic_register.length = 15**
 
@@ -227,7 +227,7 @@ Tau.BookIV.Particles.ontic_register_count :ontic_register.length = 15**
 
 ### `Tau.BookIV.Particles.ParameterCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L100-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L100-L115)
 **structure
 Tau.BookIV.Particles.ParameterCount :Type**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprParameterCount.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L115-L115)
 **def
 Tau.BookIV.Particles.instReprParameterCount.repr :ParameterCount → ℕ → Std.Format**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprParameterCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L115-L115)
 **instance
 Tau.BookIV.Particles.instReprParameterCount :Repr ParameterCount**
 
@@ -286,7 +286,7 @@ Equations
 
 ### `Tau.BookIV.Particles.parameter_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L117-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L117-L117)
 **def
 Tau.BookIV.Particles.parameter_count :ParameterCount**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.zero_fitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L119-L119)
 **theorem
 Tau.BookIV.Particles.zero_fitting :parameter_count.fitting = 0**
 
@@ -307,7 +307,7 @@ Tau.BookIV.Particles.zero_fitting :parameter_count.fitting = 0**
 
 ### `Tau.BookIV.Particles.zero_effective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L120-L120)
 **theorem
 Tau.BookIV.Particles.zero_effective :parameter_count.effective = 0**
 
@@ -316,7 +316,7 @@ Tau.BookIV.Particles.zero_effective :parameter_count.effective = 0**
 
 ### `Tau.BookIV.Particles.zero_ad_hoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L121-L121)
 **theorem
 Tau.BookIV.Particles.zero_ad_hoc :parameter_count.ad_hoc = 0**
 
@@ -325,7 +325,7 @@ Tau.BookIV.Particles.zero_ad_hoc :parameter_count.ad_hoc = 0**
 
 ### `Tau.BookIV.Particles.total_inputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L122-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L122-L123)
 **theorem
 Tau.BookIV.Particles.total_inputs :parameter_count.dimensionless + parameter_count.anchors = 2**
 
@@ -334,7 +334,7 @@ Tau.BookIV.Particles.total_inputs :parameter_count.dimensionless + parameter_cou
 
 ### `Tau.BookIV.Particles.NonOnticEntity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L129-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L129-L136)
 **structure
 Tau.BookIV.Particles.NonOnticEntity :Type**
 
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNonOnticEntity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L136-L136)
 **instance
 Tau.BookIV.Particles.instReprNonOnticEntity :Repr NonOnticEntity**
 
@@ -365,7 +365,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprNonOnticEntity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L136-L136)
 **def
 Tau.BookIV.Particles.instReprNonOnticEntity.repr :NonOnticEntity → ℕ → Std.Format**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.non_ontic_entities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L138-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L138-L149)
 **def
 Tau.BookIV.Particles.non_ontic_entities :List NonOnticEntity**
 
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.five_non_ontic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L151-L151)
 **theorem
 Tau.BookIV.Particles.five_non_ontic :non_ontic_entities.length = 5**
 
@@ -398,7 +398,7 @@ Tau.BookIV.Particles.five_non_ontic :non_ontic_entities.length = 5**
 
 ### `Tau.BookIV.Particles.OntologicalLine`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L157-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L157-L172)
 **structure
 Tau.BookIV.Particles.OntologicalLine :Type**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprOntologicalLine`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L172-L172)
 **instance
 Tau.BookIV.Particles.instReprOntologicalLine :Repr OntologicalLine**
 
@@ -440,7 +440,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprOntologicalLine.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L172-L172)
 **def
 Tau.BookIV.Particles.instReprOntologicalLine.repr :OntologicalLine → ℕ → Std.Format**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.ontological_line`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L174-L174)
 **def
 Tau.BookIV.Particles.ontological_line :OntologicalLine**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.line_is_mathematical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L176-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L176-L177)
 **theorem
 Tau.BookIV.Particles.line_is_mathematical :ontological_line.mathematical = true**
 
@@ -473,7 +473,7 @@ Tau.BookIV.Particles.line_is_mathematical :ontological_line.mathematical = true*
 
 ### `Tau.BookIV.Particles.DictionaryLimits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L183-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L183-L195)
 **structure
 Tau.BookIV.Particles.DictionaryLimits :Type**
 
@@ -496,7 +496,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprDictionaryLimits.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L195-L195)
 **def
 Tau.BookIV.Particles.instReprDictionaryLimits.repr :DictionaryLimits → ℕ → Std.Format**
 
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprDictionaryLimits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L195-L195)
 **instance
 Tau.BookIV.Particles.instReprDictionaryLimits :Repr DictionaryLimits**
 
@@ -519,7 +519,7 @@ Equations
 
 ### `Tau.BookIV.Particles.dictionary_limits`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L197-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L197-L197)
 **def
 Tau.BookIV.Particles.dictionary_limits :DictionaryLimits**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.three_tau_only`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L199-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L199-L199)
 **theorem
 Tau.BookIV.Particles.three_tau_only :dictionary_limits.tau_only.length = 3**
 
@@ -540,7 +540,7 @@ Tau.BookIV.Particles.three_tau_only :dictionary_limits.tau_only.length = 3**
 
 ### `Tau.BookIV.Particles.four_sm_only`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L200-L200)
 **theorem
 Tau.BookIV.Particles.four_sm_only :dictionary_limits.sm_only.length = 4**
 
@@ -549,7 +549,7 @@ Tau.BookIV.Particles.four_sm_only :dictionary_limits.sm_only.length = 4**
 
 ### `Tau.BookIV.Particles.TemperatureNotFundamental`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L206-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L206-L219)
 **structure
 Tau.BookIV.Particles.TemperatureNotFundamental :Type**
 
@@ -577,7 +577,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprTemperatureNotFundamental.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L219-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L219-L219)
 **def
 Tau.BookIV.Particles.instReprTemperatureNotFundamental.repr :TemperatureNotFundamental → ℕ → Std.Format**
 
@@ -589,7 +589,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprTemperatureNotFundamental`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L219-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L219-L219)
 **instance
 Tau.BookIV.Particles.instReprTemperatureNotFundamental :Repr TemperatureNotFundamental**
 
@@ -600,7 +600,7 @@ Equations
 
 ### `Tau.BookIV.Particles.temperature_not_fundamental`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L221-L221)
 **def
 Tau.BookIV.Particles.temperature_not_fundamental :TemperatureNotFundamental**
 
@@ -612,7 +612,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.temp_is_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L223-L224)
 **theorem
 Tau.BookIV.Particles.temp_is_derived :temperature_not_fundamental.derived = true**
 
@@ -621,7 +621,7 @@ Tau.BookIV.Particles.temp_is_derived :temperature_not_fundamental.derived = true
 
 ### `Tau.BookIV.Particles.SpectrumSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L230-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L230-L246)
 **structure
 Tau.BookIV.Particles.SpectrumSummary :Type**
 
@@ -659,7 +659,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprSpectrumSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L246-L246)
 **def
 Tau.BookIV.Particles.instReprSpectrumSummary.repr :SpectrumSummary → ℕ → Std.Format**
 
@@ -671,7 +671,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprSpectrumSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L246-L246)
 **instance
 Tau.BookIV.Particles.instReprSpectrumSummary :Repr SpectrumSummary**
 
@@ -682,7 +682,7 @@ Equations
 
 ### `Tau.BookIV.Particles.spectrum_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L248-L248)
 **def
 Tau.BookIV.Particles.spectrum_summary :SpectrumSummary**
 
@@ -694,7 +694,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.spectrum_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L250-L250)
 **theorem
 Tau.BookIV.Particles.spectrum_complete :spectrum_summary.sm_complete = true**
 
@@ -703,7 +703,7 @@ Tau.BookIV.Particles.spectrum_complete :spectrum_summary.sm_complete = true**
 
 ### `Tau.BookIV.Particles.spectrum_no_bsm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L251-L251)
 **theorem
 Tau.BookIV.Particles.spectrum_no_bsm :spectrum_summary.no_bsm = true**
 
@@ -712,7 +712,7 @@ Tau.BookIV.Particles.spectrum_no_bsm :spectrum_summary.no_bsm = true**
 
 ### `Tau.BookIV.Particles.spectrum_two_inputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L252-L252)
 **theorem
 Tau.BookIV.Particles.spectrum_two_inputs :spectrum_summary.num_inputs = 2**
 
@@ -721,7 +721,7 @@ Tau.BookIV.Particles.spectrum_two_inputs :spectrum_summary.num_inputs = 2**
 
 ### `Tau.BookIV.Particles.total_entities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/SpectrumComplete.lean#L254-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/SpectrumComplete.lean#L254-L256)
 **theorem
 Tau.BookIV.Particles.total_entities :spectrum_summary.ontic_count + spectrum_summary.non_ontic_count = 20**
 

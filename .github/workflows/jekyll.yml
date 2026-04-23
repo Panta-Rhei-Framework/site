@@ -3,6 +3,8 @@ name: Deploy Jekyll to GitHub Pages
 on:
   push:
     branches: ["main"]
+  pull_request:
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -24,7 +26,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: .ruby-version
           bundler-cache: true
 
       - name: Setup Pages
@@ -34,7 +36,11 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version-file: .node-version
+          cache: npm
+
+      - name: Install Node dependencies
+        run: npm ci
 
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl ""
@@ -42,7 +48,7 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Build Pagefind search index
-        run: npx -y pagefind --site _site --output-subdir pagefind
+        run: npm exec -- pagefind --site _site --output-subdir pagefind
 
       # ── Smoke-test the built artifact ──────────────────────
       # Validates _site/ has every expected asset, body marker,

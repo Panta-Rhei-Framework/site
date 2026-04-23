@@ -104,7 +104,7 @@ holds as a structural identity between the mass and energy indices.
 
 ### `Tau.BookIV.Physics.MassIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L65-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L65-L86)
 **structure
 Tau.BookIV.Physics.MassIndex :Type**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprMassIndex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L86-L86)
 **def
 Tau.BookIV.Physics.instReprMassIndex.repr :MassIndex → ℕ → Std.Format**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprMassIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L86-L86)
 **instance
 Tau.BookIV.Physics.instReprMassIndex :Repr MassIndex**
 
@@ -169,7 +169,7 @@ Equations
 
 ### `Tau.BookIV.Physics.MassIndex.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L88-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L88-L90)
 **def
 Tau.BookIV.Physics.MassIndex.toFloat
 (m : MassIndex)
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.EnergyIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L96-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L96-L110)
 **structure
 Tau.BookIV.Physics.EnergyIndex :Type**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprEnergyIndex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L110-L110)
 **def
 Tau.BookIV.Physics.instReprEnergyIndex.repr :EnergyIndex → ℕ → Std.Format**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprEnergyIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L110-L110)
 **instance
 Tau.BookIV.Physics.instReprEnergyIndex :Repr EnergyIndex**
 
@@ -237,7 +237,7 @@ Equations
 
 ### `Tau.BookIV.Physics.EnergyIndex.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L112-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L112-L114)
 **def
 Tau.BookIV.Physics.EnergyIndex.toFloat
 (e : EnergyIndex)
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.SpeedConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L120-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L120-L133)
 **structure
 Tau.BookIV.Physics.SpeedConstant :Type**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprSpeedConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L133-L133)
 **def
 Tau.BookIV.Physics.instReprSpeedConstant.repr :SpeedConstant → ℕ → Std.Format**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprSpeedConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L133-L133)
 **instance
 Tau.BookIV.Physics.instReprSpeedConstant :Repr SpeedConstant**
 
@@ -303,7 +303,7 @@ Equations
 
 ### `Tau.BookIV.Physics.SpeedConstant.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L135-L137)
 **def
 Tau.BookIV.Physics.SpeedConstant.toFloat
 (s : SpeedConstant)
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.MassEnergyRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L143-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L143-L162)
 **structure
 Tau.BookIV.Physics.MassEnergyRelation :Type**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprMassEnergyRelation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L162-L162)
 **def
 Tau.BookIV.Physics.instReprMassEnergyRelation.repr :MassEnergyRelation → ℕ → Std.Format**
 
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprMassEnergyRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L162-L162)
 **instance
 Tau.BookIV.Physics.instReprMassEnergyRelation :Repr MassEnergyRelation**
 
@@ -374,7 +374,7 @@ Equations
 
 ### `Tau.BookIV.Physics.OnticParticle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L168-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L168-L176)
 **structure
 Tau.BookIV.Physics.OnticParticle :Type**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprOnticParticle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L176-L176)
 **def
 Tau.BookIV.Physics.instReprOnticParticle.repr :OnticParticle → ℕ → Std.Format**
 
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprOnticParticle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L176-L176)
 **instance
 Tau.BookIV.Physics.instReprOnticParticle :Repr OnticParticle**
 
@@ -419,7 +419,7 @@ Equations
 
 ### `Tau.BookIV.Physics.RadiationCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L178-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L178-L184)
 **structure
 Tau.BookIV.Physics.RadiationCarrier :Type**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprRadiationCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L184-L184)
 **def
 Tau.BookIV.Physics.instReprRadiationCarrier.repr :RadiationCarrier → ℕ → Std.Format**
 
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprRadiationCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L184-L184)
 **instance
 Tau.BookIV.Physics.instReprRadiationCarrier :Repr RadiationCarrier**
 
@@ -461,7 +461,7 @@ Equations
 
 ### `Tau.BookIV.Physics.NeutronRole`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L190-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L190-L208)
 **structure
 Tau.BookIV.Physics.NeutronRole :Type**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprNeutronRole`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L208-L208)
 **instance
 Tau.BookIV.Physics.instReprNeutronRole :Repr NeutronRole**
 
@@ -509,7 +509,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprNeutronRole.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L208-L208)
 **def
 Tau.BookIV.Physics.instReprNeutronRole.repr :NeutronRole → ℕ → Std.Format**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.ontic_has_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L214-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L214-L216)
 **theorem
 Tau.BookIV.Physics.ontic_has_fiber
 (p : OnticParticle)
@@ -534,7 +534,7 @@ Ontic particles have Fiber carrier type.
 
 ### `Tau.BookIV.Physics.ontic_is_persistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L218-L220)
 **theorem
 Tau.BookIV.Physics.ontic_is_persistent
 (p : OnticParticle)
@@ -547,7 +547,7 @@ Ontic particles are persistent.
 
 ### `Tau.BookIV.Physics.mass_energy_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/MassEnergy.lean#L222-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/MassEnergy.lean#L222-L228)
 **theorem
 Tau.BookIV.Physics.mass_energy_positive
 (r : MassEnergyRelation)

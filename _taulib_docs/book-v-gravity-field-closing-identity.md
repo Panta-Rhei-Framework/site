@@ -146,7 +146,7 @@ ALL 10 links are tau-effective. Zero conjectural ingredients in the R chain.
 
 ### `Tau.BookV.GravityField.ClosingIdentityData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L85-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L85-L115)
 **structure
 Tau.BookV.GravityField.ClosingIdentityData :Type**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprClosingIdentityData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L115-L115)
 **instance
 Tau.BookV.GravityField.instReprClosingIdentityData :Repr ClosingIdentityData**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprClosingIdentityData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L115-L115)
 **def
 Tau.BookV.GravityField.instReprClosingIdentityData.repr :ClosingIdentityData → ℕ → Std.Format**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.closing_identity_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L117-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L117-L126)
 **def
 Tau.BookV.GravityField.closing_identity_canonical :ClosingIdentityData**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.CorrectedCoRotor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L132-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L132-L156)
 **structure
 Tau.BookV.GravityField.CorrectedCoRotor :Type**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCorrectedCoRotor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L156-L156)
 **def
 Tau.BookV.GravityField.instReprCorrectedCoRotor.repr :CorrectedCoRotor → ℕ → Std.Format**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprCorrectedCoRotor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L156-L156)
 **instance
 Tau.BookV.GravityField.instReprCorrectedCoRotor :Repr CorrectedCoRotor**
 
@@ -298,7 +298,7 @@ Equations
 
 ### `Tau.BookV.GravityField.corrected_corotor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L158-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L158-L166)
 **def
 Tau.BookV.GravityField.corrected_corotor :CorrectedCoRotor**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.sqrt3_spectral_distance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L172-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L172-L179)
 **theorem
 Tau.BookV.GravityField.sqrt3_spectral_distance :"sqrt(3) = |1 - omega|, omega = cube root of unity" = "sqrt(3) = |1 - omega|, omega = cube root of unity"**
 
@@ -327,7 +327,7 @@ on L = S^1 v S^1.
 
 ### `Tau.BookV.GravityField.g_predicted_3ppm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L181-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L181-L193)
 **theorem
 Tau.BookV.GravityField.g_predicted_3ppm :Gravity.c1_three_over_pi_numer < Gravity.c1_target_numer + 5000**
 
@@ -347,7 +347,7 @@ Verification: |c1(3/pi) - c1(target)| < 0.05%.
 
 ### `Tau.BookV.GravityField.r_independent_of_kn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L195-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L195-L207)
 **theorem
 Tau.BookV.GravityField.r_independent_of_kn :"R = iota^(-7) - (sqrt3 + pi^3*alpha^2)*iota^(-2), no kn" = "R = iota^(-7) - (sqrt3 + pi^3*alpha^2)*iota^(-2), no kn"**
 
@@ -367,7 +367,7 @@ pi, and alpha -- none of which depend on kn.
 
 ### `Tau.BookV.GravityField.ten_link_chain_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L209-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L209-L219)
 **theorem
 Tau.BookV.GravityField.ten_link_chain_complete :"10 links: K0-K6 -> tau^3 -> Hodge -> B -> spectral -> " ++ "Epstein -> sqrt3 -> R0 -> holonomy -> R1 -> m_e (all tau-effective)" = "10 links: K0-K6 -> tau^3 -> Hodge -> B -> spectral -> " ++ "Epstein -> sqrt3 -> R0 -> holonomy -> R1 -> m_e (all tau-effective)"**
 
@@ -383,7 +383,7 @@ identity context.
 
 ### `Tau.BookV.GravityField.closing_exponent_18`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L221-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L221-L224)
 **theorem
 Tau.BookV.GravityField.closing_exponent_18 :closing_identity_canonical.alpha_exponent = 18**
 
@@ -394,7 +394,7 @@ The closing identity exponent is 18.
 
 ### `Tau.BookV.GravityField.closing_deficit_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L226-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L226-L229)
 **theorem
 Tau.BookV.GravityField.closing_deficit_positive :Gravity.kn_tree_numer * Gravity.kn_required_denom > Gravity.kn_required_numer * Gravity.kn_tree_denom**
 
@@ -405,7 +405,7 @@ The tree-level kn exceeds the required value (deficit is positive).
 
 ### `Tau.BookV.GravityField.closing_c1_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L231-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L231-L234)
 **theorem
 Tau.BookV.GravityField.closing_c1_range :954 * Gravity.c1_three_over_pi_denom < 1000 * Gravity.c1_three_over_pi_numer**
 
@@ -416,7 +416,7 @@ c1 = 3/pi is in range (0.954, 0.956).
 
 ### `Tau.BookV.GravityField.TwoPredictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L265-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L265-L273)
 **structure
 Tau.BookV.GravityField.TwoPredictions :Type**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTwoPredictions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L273-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L273-L273)
 **def
 Tau.BookV.GravityField.instReprTwoPredictions.repr :TwoPredictions → ℕ → Std.Format**
 
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTwoPredictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L273-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L273-L273)
 **instance
 Tau.BookV.GravityField.instReprTwoPredictions :Repr TwoPredictions**
 
@@ -461,7 +461,7 @@ Equations
 
 ### `Tau.BookV.GravityField.two_predictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/ClosingIdentity.lean#L275-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/ClosingIdentity.lean#L275-L278)
 **def
 Tau.BookV.GravityField.two_predictions :TwoPredictions**
 

@@ -67,7 +67,7 @@ Degeneration to boundary at ω-limit:
 
 ### `Tau.BookII.Interior.interior_bipolar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L42-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L42-L49)
 **def
 Tau.BookII.Interior.interior_bipolar
 (p : TauAdmissiblePoint)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookII.Interior.s_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L51-L52)
 **def
 Tau.BookII.Interior.s_plus
 (p : TauAdmissiblePoint)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Interior.s_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L54-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L54-L55)
 **def
 Tau.BookII.Interior.s_minus
 (p : TauAdmissiblePoint)
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookII.Interior.interior_split_complex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L57-L59)
 **def
 Tau.BookII.Interior.interior_split_complex
 (p : TauAdmissiblePoint)
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookII.Interior.sector_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L65-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L65-L74)
 **theorem
 Tau.BookII.Interior.sector_orthogonal
 (p : TauAdmissiblePoint)
@@ -155,7 +155,7 @@ and e₋ = ⟨0,1⟩ projects out the B-component.
 
 ### `Tau.BookII.Interior.sector_orthogonal'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L76-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L76-L78)
 **theorem
 Tau.BookII.Interior.sector_orthogonal'
 (p : TauAdmissiblePoint)
@@ -166,7 +166,7 @@ Tau.BookII.Interior.sector_orthogonal'
 
 ### `Tau.BookII.Interior.sector_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L80-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L80-L89)
 **theorem
 Tau.BookII.Interior.sector_complete
 (p : TauAdmissiblePoint)
@@ -181,7 +181,7 @@ s₊ + s₋ (in appropriate sense) gives back (B, C).
 
 ### `Tau.BookII.Interior.sector_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L91-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L91-L94)
 **def
 Tau.BookII.Interior.sector_lobe
 (p : TauAdmissiblePoint)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookII.Interior.char_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L100-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L100-L103)
 **def
 Tau.BookII.Interior.char_plus
 (p : TauAdmissiblePoint)
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookII.Interior.char_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L104-L104)
 **def
 Tau.BookII.Interior.char_minus
 (p : TauAdmissiblePoint)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookII.Interior.char_to_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/BipolarDecomposition.lean#L106-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/BipolarDecomposition.lean#L106-L114)
 **def
 Tau.BookII.Interior.char_to_sectors
 (p : TauAdmissiblePoint)

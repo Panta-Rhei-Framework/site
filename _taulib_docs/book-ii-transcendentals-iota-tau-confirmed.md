@@ -58,7 +58,7 @@ bounded by 1/P_k, which decreases monotonically.
 
 ### `Tau.BookII.Transcendentals.iota_tau_computed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L39-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L39-L49)
 **def
 Tau.BookII.Transcendentals.iota_tau_computed
 (pi_terms e_terms scale : ℕ)
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.iota_tau_confirmed_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L51-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L51-L58)
 **def
 Tau.BookII.Transcendentals.iota_tau_confirmed_check :Bool**
 
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.iota_tau_precision_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L60-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L60-L67)
 **def
 Tau.BookII.Transcendentals.iota_tau_precision_check :Bool**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.self_consistency_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L73-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L73-L89)
 **def
 Tau.BookII.Transcendentals.self_consistency_check :Bool**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.archimedean_bridge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L95-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L95-L112)
 **def
 Tau.BookII.Transcendentals.archimedean_bridge_check :Bool**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.bridge_interpolation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L114-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L114-L125)
 **def
 Tau.BookII.Transcendentals.bridge_interpolation_check :Bool**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.refinement_resolution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L131-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L131-L141)
 **def
 Tau.BookII.Transcendentals.refinement_resolution_check
 (stages : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.refinement_resolution_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L137-L140)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L137-L140)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.refinement_resolution_check.go
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.resolution_halving_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L143-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L143-L154)
 **def
 Tau.BookII.Transcendentals.resolution_halving_check
 (stages : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.resolution_halving_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L148-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L148-L153)@[irreducible]
 
 **def
 Tau.BookII.Transcendentals.resolution_halving_check.go
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.full_confirmation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L160-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L160-L168)
 **def
 Tau.BookII.Transcendentals.full_confirmation_check :Bool**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookII.Transcendentals.iota_confirmed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L202-L202)
 **theorem
 Tau.BookII.Transcendentals.iota_confirmed :iota_tau_confirmed_check = true**
 
@@ -258,7 +258,7 @@ Tau.BookII.Transcendentals.iota_confirmed :iota_tau_confirmed_check = true**
 
 ### `Tau.BookII.Transcendentals.iota_precision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L203-L203)
 **theorem
 Tau.BookII.Transcendentals.iota_precision :iota_tau_precision_check = true**
 
@@ -267,7 +267,7 @@ Tau.BookII.Transcendentals.iota_precision :iota_tau_precision_check = true**
 
 ### `Tau.BookII.Transcendentals.self_consist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L204-L204)
 **theorem
 Tau.BookII.Transcendentals.self_consist :self_consistency_check = true**
 
@@ -276,7 +276,7 @@ Tau.BookII.Transcendentals.self_consist :self_consistency_check = true**
 
 ### `Tau.BookII.Transcendentals.arch_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L205-L205)
 **theorem
 Tau.BookII.Transcendentals.arch_bridge :archimedean_bridge_check = true**
 
@@ -285,7 +285,7 @@ Tau.BookII.Transcendentals.arch_bridge :archimedean_bridge_check = true**
 
 ### `Tau.BookII.Transcendentals.bridge_interp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L206-L206)
 **theorem
 Tau.BookII.Transcendentals.bridge_interp :bridge_interpolation_check = true**
 
@@ -294,7 +294,7 @@ Tau.BookII.Transcendentals.bridge_interp :bridge_interpolation_check = true**
 
 ### `Tau.BookII.Transcendentals.refine_res_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L207-L207)
 **theorem
 Tau.BookII.Transcendentals.refine_res_5 :refinement_resolution_check 5 = true**
 
@@ -303,7 +303,7 @@ Tau.BookII.Transcendentals.refine_res_5 :refinement_resolution_check 5 = true**
 
 ### `Tau.BookII.Transcendentals.res_halving_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L208-L208)
 **theorem
 Tau.BookII.Transcendentals.res_halving_5 :resolution_halving_check 5 = true**
 
@@ -312,6 +312,6 @@ Tau.BookII.Transcendentals.res_halving_5 :resolution_halving_check 5 = true**
 
 ### `Tau.BookII.Transcendentals.full_confirm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Transcendentals/IotaTauConfirmed.lean#L209-L209)
 **theorem
 Tau.BookII.Transcendentals.full_confirm :full_confirmation_check = true**

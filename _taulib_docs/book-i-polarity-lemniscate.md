@@ -75,7 +75,7 @@ Key properties:
 
 ### `Tau.Polarity.AlgebraicLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L42-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L42-L58)
 **structure
 Tau.Polarity.AlgebraicLemniscate :Type**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.Polarity.canonical_lemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L64-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L64-L72)
 **def
 Tau.Polarity.canonical_lemniscate :AlgebraicLemniscate**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.Polarity.algebraic_lemniscate_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L74-L76)
 **theorem
 Tau.Polarity.algebraic_lemniscate_exists :Nonempty AlgebraicLemniscate**
 
@@ -137,7 +137,7 @@ Tau.Polarity.algebraic_lemniscate_exists :Nonempty AlgebraicLemniscate**
 
 ### `Tau.Polarity.canonical_swaps_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L82-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L82-L86)
 **theorem
 Tau.Polarity.canonical_swaps_sectors
 (z : SplitComplex)
@@ -150,7 +150,7 @@ The canonical involution swaps sectors.
 
 ### `Tau.Polarity.b_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L88-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L88-L89)
 **def
 Tau.Polarity.b_lobe :SectorPair**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.Polarity.c_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L90-L90)
 **def
 Tau.Polarity.c_lobe :SectorPair**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.Polarity.involution_swaps_lobes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L92-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L92-L96)
 **theorem
 Tau.Polarity.involution_swaps_lobes :to_sectors (polarity_inv { re := 1, im := 1 }) = { b_sector := (to_sectors { re := 1, im := 1 }).c_sector, c_sector := (to_sectors { re := 1, im := 1 }).b_sector }**
 
@@ -187,7 +187,7 @@ The involution swaps the lobes.
 
 ### `Tau.Polarity.sector_ring_iso`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L102-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L102-L105)
 **theorem
 Tau.Polarity.sector_ring_iso
 (a b : SplitComplex)
@@ -200,7 +200,7 @@ The sector decomposition is a ring isomorphism (proved via sectors_mul).
 
 ### `Tau.Polarity.sector_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L107-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L107-L113)
 **theorem
 Tau.Polarity.sector_unique
 (z : SplitComplex)
@@ -214,7 +214,7 @@ Every split-complex element has a unique sector decomposition.
 
 ### `Tau.Polarity.split_complex_zero_divisor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L119-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L119-L122)
 **theorem
 Tau.Polarity.split_complex_zero_divisor :{ re := 1, im := 1 }.mul { re := 1, im := -1 } = SplitComplex.zero**
 
@@ -225,7 +225,7 @@ The split-complex algebra has zero divisors: (1+j)(1-j) = 0.
 
 ### `Tau.Polarity.zero_divisor_via_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/Lemniscate.lean#L124-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/Lemniscate.lean#L124-L127)
 **theorem
 Tau.Polarity.zero_divisor_via_sectors :to_sectors { re := 1, im := 1 } = { b_sector := 2, c_sector := 0 } ∧ to_sectors { re := 1, im := -1 } = { b_sector := 0, c_sector := 2 }**
 

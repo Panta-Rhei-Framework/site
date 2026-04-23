@@ -54,7 +54,7 @@ All earned HolFuns (χ₊, χ₋, id) are τ-admissible with width 1.
 
 ### `Tau.Spectrum.interface_width_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L33-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L33-L47)
 **def
 Tau.Spectrum.interface_width_at
 (f : Holomorphy.StageFun)
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.Spectrum.width_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L49-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L49-L53)
 **def
 Tau.Spectrum.width_check
 (f : Holomorphy.StageFun)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.Spectrum.TauAdmissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L59-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L59-L67)
 **def
 Tau.Spectrum.TauAdmissible
 (f : Holomorphy.StageFun)
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.Spectrum.TauAdmissibleFull`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L69-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L69-L73)
 **def
 Tau.Spectrum.TauAdmissibleFull
 (f : Holomorphy.StageFun)
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.Spectrum.width_principle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L79-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L79-L89)
 **theorem
 Tau.Spectrum.width_principle
 (f : Holomorphy.StageFun)
@@ -164,7 +164,7 @@ This is exactly the tower coherence condition (I.D46).
 
 ### `Tau.Spectrum.width_principle_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L91-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L91-L94)
 **theorem
 Tau.Spectrum.width_principle_c
 (f : Holomorphy.StageFun)
@@ -181,7 +181,7 @@ Width principle for C-sector.
 
 ### `Tau.Spectrum.coherent_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L96-L99)
 **theorem
 Tau.Spectrum.coherent_admissible
 (f : Holomorphy.StageFun)
@@ -196,7 +196,7 @@ Tower coherence implies τ-admissibility (at any depth D).
 
 ### `Tau.Spectrum.chi_plus_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L105-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L105-L108)
 **theorem
 Tau.Spectrum.chi_plus_admissible :TauAdmissible Holomorphy.chi_plus_stage**
 
@@ -208,7 +208,7 @@ because χ₊ is tower-coherent.
 
 ### `Tau.Spectrum.chi_minus_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L110-L112)
 **theorem
 Tau.Spectrum.chi_minus_admissible :TauAdmissible Holomorphy.chi_minus_stage**
 
@@ -219,7 +219,7 @@ Tau.Spectrum.chi_minus_admissible :TauAdmissible Holomorphy.chi_minus_stage**
 
 ### `Tau.Spectrum.id_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L114-L116)
 **theorem
 Tau.Spectrum.id_admissible :TauAdmissible Holomorphy.id_stage**
 
@@ -230,7 +230,7 @@ The identity is τ-admissible.
 
 ### `Tau.Spectrum.comp_chi_plus_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L118-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L118-L126)
 **theorem
 Tau.Spectrum.comp_chi_plus_admissible :TauAdmissible (Holomorphy.chi_plus_stage.comp Holomorphy.chi_plus_stage)**
 
@@ -241,7 +241,7 @@ Composition of χ₊ with itself is τ-admissible.
 
 ### `Tau.Spectrum.chi_plus_crt_complexity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L132-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L132-L136)
 **theorem
 Tau.Spectrum.chi_plus_crt_complexity
 (n k : Denotation.TauIdx)
@@ -255,7 +255,7 @@ Tau.Spectrum.chi_plus_crt_complexity
 
 ### `Tau.Spectrum.chi_minus_crt_complexity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L138-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L138-L141)
 **theorem
 Tau.Spectrum.chi_minus_crt_complexity
 (n k : Denotation.TauIdx)
@@ -268,7 +268,7 @@ Tau.Spectrum.chi_minus_crt_complexity
 
 ### `Tau.Spectrum.id_crt_complexity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/InterfaceWidth.lean#L143-L146)
 **theorem
 Tau.Spectrum.id_crt_complexity
 (n k : Denotation.TauIdx)

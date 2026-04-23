@@ -77,7 +77,7 @@ is forced to be su(3) by chi_minus dominance (non-abelian), depth-3
 
 ### `Tau.BookIV.Strong.TernaryDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L45-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L45-L55)
 **structure
 Tau.BookIV.Strong.TernaryDecomposition :Type**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprTernaryDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L55-L55)
 **instance
 Tau.BookIV.Strong.instReprTernaryDecomposition :Repr TernaryDecomposition**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprTernaryDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L55-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L55-L55)
 **def
 Tau.BookIV.Strong.instReprTernaryDecomposition.repr :TernaryDecomposition → ℕ → Std.Format**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ternary_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L57-L57)
 **def
 Tau.BookIV.Strong.ternary_decomposition :TernaryDecomposition**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.three_color_classes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L59-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L59-L60)
 **theorem
 Tau.BookIV.Strong.three_color_classes :ternary_decomposition.num_classes = 3**
 
@@ -145,7 +145,7 @@ Tau.BookIV.Strong.three_color_classes :ternary_decomposition.num_classes = 3**
 
 ### `Tau.BookIV.Strong.depth_forces_ternary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L62-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L62-L63)
 **theorem
 Tau.BookIV.Strong.depth_forces_ternary :ternary_decomposition.depth = 3**
 
@@ -154,7 +154,7 @@ Tau.BookIV.Strong.depth_forces_ternary :ternary_decomposition.depth = 3**
 
 ### `Tau.BookIV.Strong.ColorClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L69-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L69-L74)
 **inductive
 Tau.BookIV.Strong.ColorClass :Type**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **def
 Tau.BookIV.Strong.instReprColorClass.repr :ColorClass → ℕ → Std.Format**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **instance
 Tau.BookIV.Strong.instReprColorClass :Repr ColorClass**
 
@@ -193,7 +193,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instDecidableEqColorClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **instance
 Tau.BookIV.Strong.instDecidableEqColorClass :DecidableEq ColorClass**
 
@@ -204,7 +204,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqColorClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **instance
 Tau.BookIV.Strong.instBEqColorClass :BEq ColorClass**
 
@@ -215,7 +215,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqColorClass.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **def
 Tau.BookIV.Strong.instBEqColorClass.beq :ColorClass → ColorClass → Bool**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instInhabitedColorClass.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **def
 Tau.BookIV.Strong.instInhabitedColorClass.default :ColorClass**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instInhabitedColorClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L74-L74)
 **instance
 Tau.BookIV.Strong.instInhabitedColorClass :Inhabited ColorClass**
 
@@ -250,7 +250,7 @@ Equations
 
 ### `Tau.BookIV.Strong.ColorCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L76-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L76-L84)
 **structure
 Tau.BookIV.Strong.ColorCharge :Type**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorCharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L84-L84)
 **def
 Tau.BookIV.Strong.instReprColorCharge.repr :ColorCharge → ℕ → Std.Format**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L84-L84)
 **instance
 Tau.BookIV.Strong.instReprColorCharge :Repr ColorCharge**
 
@@ -294,7 +294,7 @@ Equations
 
 ### `Tau.BookIV.Strong.winding_to_color`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L86-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L86-L91)
 **def
 Tau.BookIV.Strong.winding_to_color
 (n : ℕ)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.winding_0_is_red`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L93-L93)
 **theorem
 Tau.BookIV.Strong.winding_0_is_red :winding_to_color 0 = ColorClass.red**
 
@@ -322,7 +322,7 @@ Tau.BookIV.Strong.winding_0_is_red :winding_to_color 0 = ColorClass.red**
 
 ### `Tau.BookIV.Strong.winding_1_is_green`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L94-L94)
 **theorem
 Tau.BookIV.Strong.winding_1_is_green :winding_to_color 1 = ColorClass.green**
 
@@ -331,7 +331,7 @@ Tau.BookIV.Strong.winding_1_is_green :winding_to_color 1 = ColorClass.green**
 
 ### `Tau.BookIV.Strong.winding_2_is_blue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L95-L95)
 **theorem
 Tau.BookIV.Strong.winding_2_is_blue :winding_to_color 2 = ColorClass.blue**
 
@@ -340,7 +340,7 @@ Tau.BookIV.Strong.winding_2_is_blue :winding_to_color 2 = ColorClass.blue**
 
 ### `Tau.BookIV.Strong.winding_3_is_red`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L96-L96)
 **theorem
 Tau.BookIV.Strong.winding_3_is_red :winding_to_color 3 = ColorClass.red**
 
@@ -349,7 +349,7 @@ Tau.BookIV.Strong.winding_3_is_red :winding_to_color 3 = ColorClass.red**
 
 ### `Tau.BookIV.Strong.winding_6_is_red`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L97-L97)
 **theorem
 Tau.BookIV.Strong.winding_6_is_red :winding_to_color 6 = ColorClass.red**
 
@@ -358,7 +358,7 @@ Tau.BookIV.Strong.winding_6_is_red :winding_to_color 6 = ColorClass.red**
 
 ### `Tau.BookIV.Strong.anticolor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L103-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L103-L109)
 **def
 Tau.BookIV.Strong.anticolor
 (c : ColorClass)
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.anticolor_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L111-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L111-L114)
 **theorem
 Tau.BookIV.Strong.anticolor_involution
 (c : ColorClass)
@@ -390,7 +390,7 @@ Anticolor is an involution.
 
 ### `Tau.BookIV.Strong.red_self_conjugate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L116-L117)
 **theorem
 Tau.BookIV.Strong.red_self_conjugate :anticolor ColorClass.red = ColorClass.red**
 
@@ -401,7 +401,7 @@ Red is self-conjugate (the singlet class).
 
 ### `Tau.BookIV.Strong.ColorNeutrality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L123-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L123-L130)
 **structure
 Tau.BookIV.Strong.ColorNeutrality :Type**
 
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorNeutrality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L130-L130)
 **instance
 Tau.BookIV.Strong.instReprColorNeutrality :Repr ColorNeutrality**
 
@@ -432,7 +432,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprColorNeutrality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L130-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L130-L130)
 **def
 Tau.BookIV.Strong.instReprColorNeutrality.repr :ColorNeutrality → ℕ → Std.Format**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.is_color_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L132-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L132-L134)
 **def
 Tau.BookIV.Strong.is_color_singlet
 (windings : List ℕ)
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.empty_is_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L136-L136)
 **theorem
 Tau.BookIV.Strong.empty_is_singlet :is_color_singlet [] = true**
 
@@ -469,7 +469,7 @@ Tau.BookIV.Strong.empty_is_singlet :is_color_singlet [] = true**
 
 ### `Tau.BookIV.Strong.baryon_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L137-L137)
 **theorem
 Tau.BookIV.Strong.baryon_singlet :is_color_singlet [0, 1, 2] = true**
 
@@ -478,7 +478,7 @@ Tau.BookIV.Strong.baryon_singlet :is_color_singlet [0, 1, 2] = true**
 
 ### `Tau.BookIV.Strong.meson_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L138-L138)
 **theorem
 Tau.BookIV.Strong.meson_singlet :is_color_singlet [1, 2] = true**
 
@@ -487,7 +487,7 @@ Tau.BookIV.Strong.meson_singlet :is_color_singlet [1, 2] = true**
 
 ### `Tau.BookIV.Strong.ColorQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L144-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L144-L153)
 **structure
 Tau.BookIV.Strong.ColorQuantization :Type**
 
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorQuantization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L153-L153)
 **def
 Tau.BookIV.Strong.instReprColorQuantization.repr :ColorQuantization → ℕ → Std.Format**
 
@@ -522,7 +522,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L153-L153)
 **instance
 Tau.BookIV.Strong.instReprColorQuantization :Repr ColorQuantization**
 
@@ -533,7 +533,7 @@ Equations
 
 ### `Tau.BookIV.Strong.color_quantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L155-L155)
 **def
 Tau.BookIV.Strong.color_quantization :ColorQuantization**
 
@@ -545,7 +545,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.is_color_charged`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L161-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L161-L163)
 **def
 Tau.BookIV.Strong.is_color_charged
 (eta_winding : ℕ)
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.color_charged_criterion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L165-L166)
 **def
 Tau.BookIV.Strong.color_charged_criterion :String**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.zero_winding_neutral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L168-L168)
 **theorem
 Tau.BookIV.Strong.zero_winding_neutral :is_color_charged 0 = false**
 
@@ -582,7 +582,7 @@ Tau.BookIV.Strong.zero_winding_neutral :is_color_charged 0 = false**
 
 ### `Tau.BookIV.Strong.one_winding_charged`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L169-L169)
 **theorem
 Tau.BookIV.Strong.one_winding_charged :is_color_charged 1 = true**
 
@@ -591,7 +591,7 @@ Tau.BookIV.Strong.one_winding_charged :is_color_charged 1 = true**
 
 ### `Tau.BookIV.Strong.three_winding_neutral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L170-L170)
 **theorem
 Tau.BookIV.Strong.three_winding_neutral :is_color_charged 3 = false**
 
@@ -600,7 +600,7 @@ Tau.BookIV.Strong.three_winding_neutral :is_color_charged 3 = false**
 
 ### `Tau.BookIV.Strong.DominanceNoncommutativity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L176-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L176-L185)
 **structure
 Tau.BookIV.Strong.DominanceNoncommutativity :Type**
 
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprDominanceNoncommutativity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L185-L185)
 **instance
 Tau.BookIV.Strong.instReprDominanceNoncommutativity :Repr DominanceNoncommutativity**
 
@@ -634,7 +634,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprDominanceNoncommutativity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L185-L185)
 **def
 Tau.BookIV.Strong.instReprDominanceNoncommutativity.repr :DominanceNoncommutativity → ℕ → Std.Format**
 
@@ -646,7 +646,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.dominance_noncommutativity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L187-L187)
 **def
 Tau.BookIV.Strong.dominance_noncommutativity :DominanceNoncommutativity**
 
@@ -658,7 +658,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.Tracelessness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L193-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L193-L202)
 **structure
 Tau.BookIV.Strong.Tracelessness :Type**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprTracelessness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L202-L202)
 **instance
 Tau.BookIV.Strong.instReprTracelessness :Repr Tracelessness**
 
@@ -692,7 +692,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprTracelessness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L202-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L202-L202)
 **def
 Tau.BookIV.Strong.instReprTracelessness.repr :Tracelessness → ℕ → Std.Format**
 
@@ -704,7 +704,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.tracelessness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L204-L204)
 **def
 Tau.BookIV.Strong.tracelessness :Tracelessness**
 
@@ -716,7 +716,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.SU3GaugeAlgebra`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L210-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L210-L228)
 **structure
 Tau.BookIV.Strong.SU3GaugeAlgebra :Type**
 
@@ -753,7 +753,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSU3GaugeAlgebra.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L228-L228)
 **def
 Tau.BookIV.Strong.instReprSU3GaugeAlgebra.repr :SU3GaugeAlgebra → ℕ → Std.Format**
 
@@ -765,7 +765,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSU3GaugeAlgebra`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L228-L228)
 **instance
 Tau.BookIV.Strong.instReprSU3GaugeAlgebra :Repr SU3GaugeAlgebra**
 
@@ -776,7 +776,7 @@ Equations
 
 ### `Tau.BookIV.Strong.su3_gauge_algebra`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L230-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L230-L230)
 **def
 Tau.BookIV.Strong.su3_gauge_algebra :SU3GaugeAlgebra**
 
@@ -788,7 +788,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.su3_dimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L232-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L232-L232)
 **theorem
 Tau.BookIV.Strong.su3_dimension :su3_gauge_algebra.dimension = 8**
 
@@ -797,7 +797,7 @@ Tau.BookIV.Strong.su3_dimension :su3_gauge_algebra.dimension = 8**
 
 ### `Tau.BookIV.Strong.su3_num_colors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L233-L233)
 **theorem
 Tau.BookIV.Strong.su3_num_colors :su3_gauge_algebra.num_colors = 3**
 
@@ -806,7 +806,7 @@ Tau.BookIV.Strong.su3_num_colors :su3_gauge_algebra.num_colors = 3**
 
 ### `Tau.BookIV.Strong.su3_rank`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L234-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L234-L234)
 **theorem
 Tau.BookIV.Strong.su3_rank :su3_gauge_algebra.rank = 2**
 
@@ -815,7 +815,7 @@ Tau.BookIV.Strong.su3_rank :su3_gauge_algebra.rank = 2**
 
 ### `Tau.BookIV.Strong.dimension_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L236-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L236-L239)
 **theorem
 Tau.BookIV.Strong.dimension_formula :su3_gauge_algebra.num_colors ^ 2 - 1 = su3_gauge_algebra.dimension**
 
@@ -826,7 +826,7 @@ N_c^2 - 1 = 8.
 
 ### `Tau.BookIV.Strong.GluonSelfInteraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L245-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L245-L257)
 **structure
 Tau.BookIV.Strong.GluonSelfInteraction :Type**
 
@@ -853,7 +853,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGluonSelfInteraction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L257-L257)
 **def
 Tau.BookIV.Strong.instReprGluonSelfInteraction.repr :GluonSelfInteraction → ℕ → Std.Format**
 
@@ -865,7 +865,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGluonSelfInteraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L257-L257)
 **instance
 Tau.BookIV.Strong.instReprGluonSelfInteraction :Repr GluonSelfInteraction**
 
@@ -876,7 +876,7 @@ Equations
 
 ### `Tau.BookIV.Strong.gluon_self_interaction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L259-L259)
 **def
 Tau.BookIV.Strong.gluon_self_interaction :GluonSelfInteraction**
 
@@ -888,7 +888,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ColorNumberTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L265-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L265-L289)
 **structure
 Tau.BookIV.Strong.ColorNumberTheorem :Type**
 
@@ -935,7 +935,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorNumberTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L289-L289)
 **def
 Tau.BookIV.Strong.instReprColorNumberTheorem.repr :ColorNumberTheorem → ℕ → Std.Format**
 
@@ -947,7 +947,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorNumberTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L289-L289)
 **instance
 Tau.BookIV.Strong.instReprColorNumberTheorem :Repr ColorNumberTheorem**
 
@@ -958,7 +958,7 @@ Equations
 
 ### `Tau.BookIV.Strong.color_number_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L291-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L291-L291)
 **def
 Tau.BookIV.Strong.color_number_theorem :ColorNumberTheorem**
 
@@ -970,7 +970,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.nc_equals_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L293-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L293-L293)
 **theorem
 Tau.BookIV.Strong.nc_equals_3 :color_number_theorem.num_colors = 3**
 
@@ -979,7 +979,7 @@ Tau.BookIV.Strong.nc_equals_3 :color_number_theorem.num_colors = 3**
 
 ### `Tau.BookIV.Strong.primorial_3_is_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L295-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L295-L301)
 **theorem
 Tau.BookIV.Strong.primorial_3_is_30 :color_number_theorem.crt_factor_2 * color_number_theorem.crt_factor_3 * color_number_theorem.crt_factor_5 = color_number_theorem.primorial_3**
 
@@ -990,7 +990,7 @@ Primorial(3) = 2 * 3 * 5 = 30.
 
 ### `Tau.BookIV.Strong.WilsonLoopDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L307-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L307-L318)
 **structure
 Tau.BookIV.Strong.WilsonLoopDef :Type**
 
@@ -1015,7 +1015,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprWilsonLoopDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L318-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L318-L318)
 **instance
 Tau.BookIV.Strong.instReprWilsonLoopDef :Repr WilsonLoopDef**
 
@@ -1026,7 +1026,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprWilsonLoopDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L318-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L318-L318)
 **def
 Tau.BookIV.Strong.instReprWilsonLoopDef.repr :WilsonLoopDef → ℕ → Std.Format**
 
@@ -1038,7 +1038,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.wilson_loop_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L320-L320)
 **def
 Tau.BookIV.Strong.wilson_loop_def :WilsonLoopDef**
 
@@ -1050,6 +1050,6 @@ Instances For
 
 ### `Tau.BookIV.Strong.wilson_normalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/ColorHolonomy.lean#L322-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/ColorHolonomy.lean#L322-L324)
 **theorem
 Tau.BookIV.Strong.wilson_normalization :wilson_loop_def.normalization_denom = su3_gauge_algebra.num_colors**

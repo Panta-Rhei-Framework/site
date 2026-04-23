@@ -86,7 +86,7 @@ the breathing operator on T².
 
 ### `Tau.BookIV.Electroweak.HiggsMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L54-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L54-L71)
 **structure
 Tau.BookIV.Electroweak.HiggsMechanism :Type**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHiggsMechanism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L71-L71)
 **def
 Tau.BookIV.Electroweak.instReprHiggsMechanism.repr :HiggsMechanism → ℕ → Std.Format**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHiggsMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L71-L71)
 **instance
 Tau.BookIV.Electroweak.instReprHiggsMechanism :Repr HiggsMechanism**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.higgs_mechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L73-L73)
 **def
 Tau.BookIV.Electroweak.higgs_mechanism :HiggsMechanism**
 
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.CoherenceFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L79-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L79-L97)
 **structure
 Tau.BookIV.Electroweak.CoherenceFunctional :Type**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCoherenceFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L97-L97)
 **instance
 Tau.BookIV.Electroweak.instReprCoherenceFunctional :Repr CoherenceFunctional**
 
@@ -198,7 +198,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprCoherenceFunctional.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L97-L97)
 **def
 Tau.BookIV.Electroweak.instReprCoherenceFunctional.repr :CoherenceFunctional → ℕ → Std.Format**
 
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.coherence_V1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L99-L102)
 **def
 Tau.BookIV.Electroweak.coherence_V1 :CoherenceFunctional**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.PhysicalVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L108-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L108-L123)
 **structure
 Tau.BookIV.Electroweak.PhysicalVacuum :Type**
 
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhysicalVacuum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L123-L123)
 **def
 Tau.BookIV.Electroweak.instReprPhysicalVacuum.repr :PhysicalVacuum → ℕ → Std.Format**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhysicalVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L123-L123)
 **instance
 Tau.BookIV.Electroweak.instReprPhysicalVacuum :Repr PhysicalVacuum**
 
@@ -277,7 +277,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.physical_vacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L125-L125)
 **def
 Tau.BookIV.Electroweak.physical_vacuum :PhysicalVacuum**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.MinimalityCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L131-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L131-L142)
 **structure
 Tau.BookIV.Electroweak.MinimalityCondition :Type**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMinimalityCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L142-L142)
 **def
 Tau.BookIV.Electroweak.instReprMinimalityCondition.repr :MinimalityCondition → ℕ → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMinimalityCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L142-L142)
 **instance
 Tau.BookIV.Electroweak.instReprMinimalityCondition :Repr MinimalityCondition**
 
@@ -337,7 +337,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.minimality_condition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L144-L144)
 **def
 Tau.BookIV.Electroweak.minimality_condition :MinimalityCondition**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EMNullity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L150-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L150-L164)
 **structure
 Tau.BookIV.Electroweak.EMNullity :Type**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMNullity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L164-L164)
 **instance
 Tau.BookIV.Electroweak.instReprEMNullity :Repr EMNullity**
 
@@ -388,7 +388,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMNullity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L164-L164)
 **def
 Tau.BookIV.Electroweak.instReprEMNullity.repr :EMNullity → ℕ → Std.Format**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.em_nullity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L166-L166)
 **def
 Tau.BookIV.Electroweak.em_nullity :EMNullity**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.SigmaPolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L172-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L172-L183)
 **structure
 Tau.BookIV.Electroweak.SigmaPolarity :Type**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaPolarity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L183-L183)
 **def
 Tau.BookIV.Electroweak.instReprSigmaPolarity.repr :SigmaPolarity → ℕ → Std.Format**
 
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaPolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L183-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L183-L183)
 **instance
 Tau.BookIV.Electroweak.instReprSigmaPolarity :Repr SigmaPolarity**
 
@@ -460,7 +460,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.sigma_polarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L185-L185)
 **def
 Tau.BookIV.Electroweak.sigma_polarity :SigmaPolarity**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.FiberSpinDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L191-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L191-L207)
 **structure
 Tau.BookIV.Electroweak.FiberSpinDecomposition :Type**
 
@@ -507,7 +507,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprFiberSpinDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L207-L207)
 **instance
 Tau.BookIV.Electroweak.instReprFiberSpinDecomposition :Repr FiberSpinDecomposition**
 
@@ -518,7 +518,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprFiberSpinDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L207-L207)
 **def
 Tau.BookIV.Electroweak.instReprFiberSpinDecomposition.repr :FiberSpinDecomposition → ℕ → Std.Format**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.fiber_spin_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L209-L209)
 **def
 Tau.BookIV.Electroweak.fiber_spin_decomposition :FiberSpinDecomposition**
 
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.vacuum_existence_uniqueness_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L215-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L215-L225)
 **theorem
 Tau.BookIV.Electroweak.vacuum_existence_uniqueness_stability :physical_vacuum.unique = true ∧ physical_vacuum.stable = true ∧ physical_vacuum.vev_MeV > 0**
 
@@ -558,7 +558,7 @@ in the radial direction (the angular direction is flat = Goldstone).
 
 ### `Tau.BookIV.Electroweak.surviving_is_spin0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L231-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L231-L239)
 **theorem
 Tau.BookIV.Electroweak.surviving_is_spin0 :fiber_spin_decomposition.spin0_count = 1 ∧ fiber_spin_decomposition.spin1_count = 3 ∧ fiber_spin_decomposition.total = 4**
 
@@ -572,7 +572,7 @@ Counting: 4 real components − 3 Goldstones = 1 physical scalar.
 
 ### `Tau.BookIV.Electroweak.surviving_at_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L241-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L241-L245)
 **theorem
 Tau.BookIV.Electroweak.surviving_at_crossing :sigma_polarity.at_crossing = true ∧ sigma_polarity.sigma = 1**
 
@@ -583,7 +583,7 @@ The surviving mode is at the crossing point with σ = +1.
 
 ### `Tau.BookIV.Electroweak.DegenerateVacuumManifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L251-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L251-L267)
 **structure
 Tau.BookIV.Electroweak.DegenerateVacuumManifold :Type**
 
@@ -614,7 +614,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprDegenerateVacuumManifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L267-L267)
 **instance
 Tau.BookIV.Electroweak.instReprDegenerateVacuumManifold :Repr DegenerateVacuumManifold**
 
@@ -625,7 +625,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprDegenerateVacuumManifold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L267-L267)
 **def
 Tau.BookIV.Electroweak.instReprDegenerateVacuumManifold.repr :DegenerateVacuumManifold → ℕ → Std.Format**
 
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.degenerate_vacuum_manifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L269-L269)
 **def
 Tau.BookIV.Electroweak.degenerate_vacuum_manifold :DegenerateVacuumManifold**
 
@@ -649,7 +649,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.VnMinimumCircle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L275-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L275-L285)
 **structure
 Tau.BookIV.Electroweak.VnMinimumCircle :Type**
 
@@ -673,7 +673,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprVnMinimumCircle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L285-L285)
 **def
 Tau.BookIV.Electroweak.instReprVnMinimumCircle.repr :VnMinimumCircle → ℕ → Std.Format**
 
@@ -685,7 +685,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprVnMinimumCircle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L285-L285)
 **instance
 Tau.BookIV.Electroweak.instReprVnMinimumCircle :Repr VnMinimumCircle**
 
@@ -696,7 +696,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.vn_minimum_on_circle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L287-L287)
 **def
 Tau.BookIV.Electroweak.vn_minimum_on_circle :VnMinimumCircle**
 
@@ -708,7 +708,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_sector_separation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauHiggs.lean#L293-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauHiggs.lean#L293-L304)
 **def
 Tau.BookIV.Electroweak.remark_sector_separation :String**
 

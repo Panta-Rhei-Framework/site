@@ -63,7 +63,7 @@ Invariant) is preserved at each step, but the content enriches.
 
 ### `Tau.BookIII.Enrichment.enrichment_functor_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L39-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L39-L67)
 **def
 Tau.BookIII.Enrichment.enrichment_functor_check
 (k : EnrLevel)
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.enrichment_functor_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L52-L66)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L52-L66)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.enrichment_functor_check.go
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.enrichment_functor_faithful`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L69-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L69-L88)
 **def
 Tau.BookIII.Enrichment.enrichment_functor_faithful
 (k : EnrLevel)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.enrichment_functor_faithful.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L77-L87)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L77-L87)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.enrichment_functor_faithful.go
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.full_enrichment_functor_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L90-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L90-L98)
 **def
 Tau.BookIII.Enrichment.full_enrichment_functor_check
 (bound db : Denotation.TauIdx)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.existence_checker`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L104-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L104-L120)
 **def
 Tau.BookIII.Enrichment.existence_checker
 (k : EnrLevel)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.existence_checker.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L111-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L111-L119)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.existence_checker.go
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.stability_checker`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L122-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L122-L125)
 **def
 Tau.BookIII.Enrichment.stability_checker
 (k : EnrLevel)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.strictness_checker`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L127-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L127-L162)
 **def
 Tau.BookIII.Enrichment.strictness_checker
 (k : EnrLevel)
@@ -253,7 +253,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Enrichment.saturation_checker`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L170-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L170-L194)
 **def
 Tau.BookIII.Enrichment.saturation_checker
 (bound db : Denotation.TauIdx)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.saturation_checker.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L184-L193)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L184-L193)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.saturation_checker.go
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.ladder_checker`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L196-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L196-L210)
 **def
 Tau.BookIII.Enrichment.ladder_checker
 (bound db : Denotation.TauIdx)
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.enr_functor_e0_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L258-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L258-L259)
 **theorem
 Tau.BookIII.Enrichment.enr_functor_e0_8_3 :enrichment_functor_check EnrLevel.E0 8 3 = true**
 
@@ -314,7 +314,7 @@ Tau.BookIII.Enrichment.enr_functor_e0_8_3 :enrichment_functor_check EnrLevel.E0 
 
 ### `Tau.BookIII.Enrichment.enr_functor_e1_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L262-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L262-L263)
 **theorem
 Tau.BookIII.Enrichment.enr_functor_e1_8_3 :enrichment_functor_check EnrLevel.E1 8 3 = true**
 
@@ -323,7 +323,7 @@ Tau.BookIII.Enrichment.enr_functor_e1_8_3 :enrichment_functor_check EnrLevel.E1 
 
 ### `Tau.BookIII.Enrichment.enr_functor_e2_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L266-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L266-L267)
 **theorem
 Tau.BookIII.Enrichment.enr_functor_e2_8_3 :enrichment_functor_check EnrLevel.E2 8 3 = true**
 
@@ -332,7 +332,7 @@ Tau.BookIII.Enrichment.enr_functor_e2_8_3 :enrichment_functor_check EnrLevel.E2 
 
 ### `Tau.BookIII.Enrichment.full_enr_functor_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L270-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L270-L271)
 **theorem
 Tau.BookIII.Enrichment.full_enr_functor_8_3 :full_enrichment_functor_check 8 3 = true**
 
@@ -341,7 +341,7 @@ Tau.BookIII.Enrichment.full_enr_functor_8_3 :full_enrichment_functor_check 8 3 =
 
 ### `Tau.BookIII.Enrichment.ladder_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L274-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L274-L275)
 **theorem
 Tau.BookIII.Enrichment.ladder_8_3 :ladder_checker 8 3 = true**
 
@@ -350,7 +350,7 @@ Tau.BookIII.Enrichment.ladder_8_3 :ladder_checker 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.succ_idempotent_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L281-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L281-L283)
 **theorem
 Tau.BookIII.Enrichment.succ_idempotent_e3 :EnrLevel.E3.succ.succ = EnrLevel.E3.succ**
 
@@ -362,7 +362,7 @@ This is the functor-level expression of saturation.
 
 ### `Tau.BookIII.Enrichment.three_steps_to_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/Functor.lean#L285-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/Functor.lean#L285-L289)
 **theorem
 Tau.BookIII.Enrichment.three_steps_to_e3
 (k : EnrLevel)

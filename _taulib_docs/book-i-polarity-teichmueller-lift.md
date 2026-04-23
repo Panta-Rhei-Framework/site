@@ -70,7 +70,7 @@ Properties:
 
 ### `Tau.Polarity.teich_residues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L42-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L42-L45)
 **def
 Tau.Polarity.teich_residues
 (r i k : Denotation.TauIdx)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.Polarity.teich_component`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L51-L54)
 **def
 Tau.Polarity.teich_component
 (r i k : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.Polarity.teich_lift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L70-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L70-L73)
 **def
 Tau.Polarity.teich_lift
 (r i d : Denotation.TauIdx)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.Polarity.teich_retract_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L79-L81)
 **def
 Tau.Polarity.teich_retract_check
 (r i d : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Polarity.teich_orthog_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L83-L85)
 **def
 Tau.Polarity.teich_orthog_check
 (r i j d : Denotation.TauIdx)
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.Polarity.teich_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L87-L89)
 **def
 Tau.Polarity.teich_compat_check
 (r i d : Denotation.TauIdx)
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.Polarity.teich_mult_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L91-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L91-L97)
 **def
 Tau.Polarity.teich_mult_check
 (r s i d : Denotation.TauIdx)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.Polarity.teich_decomp_check_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L99-L108)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L99-L108)@[irreducible]
 
 **def
 Tau.Polarity.teich_decomp_check_go
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.Polarity.teich_decomp_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L110-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L110-L114)
 **def
 Tau.Polarity.teich_decomp_check
 (n d : Denotation.TauIdx)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.Polarity.teich_retraction_formal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L211-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L211-L219)
 **theorem
 Tau.Polarity.teich_retraction_formal
 {r i d : Denotation.TauIdx}
@@ -239,7 +239,7 @@ teich_component r i d ≡ r (mod p_{i+1}) for i < d.
 
 ### `Tau.Polarity.teich_orthogonality_formal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/TeichmuellerLift.lean#L221-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/TeichmuellerLift.lean#L221-L230)
 **theorem
 Tau.Polarity.teich_orthogonality_formal
 {r i j d : Denotation.TauIdx}

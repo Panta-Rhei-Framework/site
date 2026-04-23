@@ -62,7 +62,7 @@ no adjustable parameters. Everything flows from the seven axioms.
 
 ### `Tau.BookIII.Hinge.sector_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L47-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L47-L60)
 **def
 Tau.BookIII.Hinge.sector_product
 (s : Sectors.Sector)
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.total_sector_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L62-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L62-L69)
 **def
 Tau.BookIII.Hinge.total_sector_product
 (k : Denotation.TauIdx)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.sector_product_at_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L71-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L71-L78)
 **def
 Tau.BookIII.Hinge.sector_product_at_level
 (lev : Enrichment.EnrLevel)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.sector_instantiation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L84-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L84-L117)
 **def
 Tau.BookIII.Hinge.sector_instantiation_check
 (bound db : Denotation.TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.sector_instantiation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L91-L102)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L91-L102)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.sector_instantiation_check.go
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.sector_instantiation_check.bnf_check_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L105-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L105-L106)
 **def
 Tau.BookIII.Hinge.sector_instantiation_check.bnf_check_at
 (bound k : ℕ)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.sector_instantiation_check.bnf_at_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L107-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L107-L116)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.sector_instantiation_check.bnf_at_go
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.level_coherence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L119-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L119-L136)
 **def
 Tau.BookIII.Hinge.level_coherence_check
 (db : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.level_coherence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L124-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L124-L135)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.level_coherence_check.go
@@ -239,7 +239,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Hinge.enrichment_determines_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L144-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L144-L171)
 **def
 Tau.BookIII.Hinge.enrichment_determines_sectors
 (bound db : Denotation.TauIdx)
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.enrichment_determines_sectors.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L149-L170)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L149-L170)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.enrichment_determines_sectors.go
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.hinge_theorem_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L173-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L173-L183)
 **def
 Tau.BookIII.Hinge.hinge_theorem_check
 (bound db : Denotation.TauIdx)
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.iota_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L189-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L189-L190)
 **def
 Tau.BookIII.Hinge.iota_numer :ℕ**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.iota_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L191-L191)
 **def
 Tau.BookIII.Hinge.iota_denom :ℕ**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.iota_determines_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L193-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L193-L214)
 **def
 Tau.BookIII.Hinge.iota_determines_ratio
 (db : Denotation.TauIdx)
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.iota_determines_ratio.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L200-L213)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L200-L213)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.iota_determines_ratio.go
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.no_free_parameters_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L216-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L216-L243)
 **def
 Tau.BookIII.Hinge.no_free_parameters_check
 (bound db : Denotation.TauIdx)
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.no_free_parameters_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L222-L242)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L222-L242)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.no_free_parameters_check.go
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.coupling_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L245-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L245-L255)
 **def
 Tau.BookIII.Hinge.coupling_uniqueness_check
 (bound db : Denotation.TauIdx)
@@ -402,7 +402,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.no_knobs_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L257-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L257-L263)
 **def
 Tau.BookIII.Hinge.no_knobs_check
 (bound db : Denotation.TauIdx)
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.hinge_assembly_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L269-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L269-L274)
 **def
 Tau.BookIII.Hinge.hinge_assembly_check
 (bound db : Denotation.TauIdx)
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.hinge_theorem_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L317-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L317-L318)
 **theorem
 Tau.BookIII.Hinge.hinge_theorem_8_3 :hinge_theorem_check 8 3 = true**
 
@@ -449,7 +449,7 @@ Tau.BookIII.Hinge.hinge_theorem_8_3 :hinge_theorem_check 8 3 = true**
 
 ### `Tau.BookIII.Hinge.sector_instantiation_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L320-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L320-L321)
 **theorem
 Tau.BookIII.Hinge.sector_instantiation_10_3 :sector_instantiation_check 10 3 = true**
 
@@ -458,7 +458,7 @@ Tau.BookIII.Hinge.sector_instantiation_10_3 :sector_instantiation_check 10 3 = t
 
 ### `Tau.BookIII.Hinge.level_coherence_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L323-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L323-L324)
 **theorem
 Tau.BookIII.Hinge.level_coherence_4 :level_coherence_check 4 = true**
 
@@ -467,7 +467,7 @@ Tau.BookIII.Hinge.level_coherence_4 :level_coherence_check 4 = true**
 
 ### `Tau.BookIII.Hinge.enrichment_determines_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L326-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L326-L327)
 **theorem
 Tau.BookIII.Hinge.enrichment_determines_10_3 :enrichment_determines_sectors 10 3 = true**
 
@@ -476,7 +476,7 @@ Tau.BookIII.Hinge.enrichment_determines_10_3 :enrichment_determines_sectors 10 3
 
 ### `Tau.BookIII.Hinge.no_knobs_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L330-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L330-L331)
 **theorem
 Tau.BookIII.Hinge.no_knobs_8_3 :no_knobs_check 8 3 = true**
 
@@ -485,7 +485,7 @@ Tau.BookIII.Hinge.no_knobs_8_3 :no_knobs_check 8 3 = true**
 
 ### `Tau.BookIII.Hinge.iota_determines_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L333-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L333-L334)
 **theorem
 Tau.BookIII.Hinge.iota_determines_5 :iota_determines_ratio 5 = true**
 
@@ -494,7 +494,7 @@ Tau.BookIII.Hinge.iota_determines_5 :iota_determines_ratio 5 = true**
 
 ### `Tau.BookIII.Hinge.no_free_params_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L336-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L336-L337)
 **theorem
 Tau.BookIII.Hinge.no_free_params_10_3 :no_free_parameters_check 10 3 = true**
 
@@ -503,7 +503,7 @@ Tau.BookIII.Hinge.no_free_params_10_3 :no_free_parameters_check 10 3 = true**
 
 ### `Tau.BookIII.Hinge.coupling_uniqueness_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L339-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L339-L340)
 **theorem
 Tau.BookIII.Hinge.coupling_uniqueness_8_3 :coupling_uniqueness_check 8 3 = true**
 
@@ -512,7 +512,7 @@ Tau.BookIII.Hinge.coupling_uniqueness_8_3 :coupling_uniqueness_check 8 3 = true*
 
 ### `Tau.BookIII.Hinge.hinge_assembly_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L343-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L343-L344)
 **theorem
 Tau.BookIII.Hinge.hinge_assembly_8_3 :hinge_assembly_check 8 3 = true**
 
@@ -521,7 +521,7 @@ Tau.BookIII.Hinge.hinge_assembly_8_3 :hinge_assembly_check 8 3 = true**
 
 ### `Tau.BookIII.Hinge.hinge_chain_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L350-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L350-L352)
 **theorem
 Tau.BookIII.Hinge.hinge_chain_length :chain_links.length = 14**
 
@@ -532,7 +532,7 @@ Tau.BookIII.Hinge.hinge_chain_length :chain_links.length = 14**
 
 ### `Tau.BookIII.Hinge.sector_product_depth_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L354-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L354-L357)
 **theorem
 Tau.BookIII.Hinge.sector_product_depth_3 :Doors.split_zeta_b 3 * Doors.split_zeta_c 3 * Doors.split_zeta_x 3 = Polarity.primorial 3**
 
@@ -543,7 +543,7 @@ Tau.BookIII.Hinge.sector_product_depth_3 :Doors.split_zeta_b 3 * Doors.split_zet
 
 ### `Tau.BookIII.Hinge.enrichment_strict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L359-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L359-L364)
 **theorem
 Tau.BookIII.Hinge.enrichment_strict :Enrichment.EnrLevel.E0.lt Enrichment.EnrLevel.E1 = true ∧ Enrichment.EnrLevel.E1.lt Enrichment.EnrLevel.E2 = true ∧ Enrichment.EnrLevel.E2.lt Enrichment.EnrLevel.E3 = true**
 
@@ -554,7 +554,7 @@ Tau.BookIII.Hinge.enrichment_strict :Enrichment.EnrLevel.E0.lt Enrichment.EnrLev
 
 ### `Tau.BookIII.Hinge.iota_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L366-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L366-L368)
 **theorem
 Tau.BookIII.Hinge.iota_value :iota_numer = 341304 ∧ iota_denom = 1000000**
 
@@ -565,7 +565,7 @@ Tau.BookIII.Hinge.iota_value :iota_numer = 341304 ∧ iota_denom = 1000000**
 
 ### `Tau.BookIII.Hinge.iota_lt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L370-L371)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L370-L371)
 **theorem
 Tau.BookIII.Hinge.iota_lt_one :iota_numer < iota_denom**
 
@@ -576,7 +576,7 @@ Tau.BookIII.Hinge.iota_lt_one :iota_numer < iota_denom**
 
 ### `Tau.BookIII.Hinge.iota_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L373-L374)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L373-L374)
 **theorem
 Tau.BookIII.Hinge.iota_pos :iota_numer > 0**
 
@@ -587,7 +587,7 @@ Tau.BookIII.Hinge.iota_pos :iota_numer > 0**
 
 ### `Tau.BookIII.Hinge.iota_ratio_depth_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L376-L380)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L376-L380)
 **theorem
 Tau.BookIII.Hinge.iota_ratio_depth_3 :sector_product Sectors.Sector.B 3 * iota_denom > sector_product Sectors.Sector.C 3 * iota_numer**
 
@@ -599,7 +599,7 @@ B*denom = 5*1000000 = 5000000 > C*numer = 3*341304 = 1023912.
 
 ### `Tau.BookIII.Hinge.iota_ratio_depth_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L382-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L382-L386)
 **theorem
 Tau.BookIII.Hinge.iota_ratio_depth_4 :sector_product Sectors.Sector.B 4 * iota_denom < sector_product Sectors.Sector.C 4 * iota_numer**
 
@@ -611,7 +611,7 @@ B*denom = 5*1000000 = 5000000 < C*numer = 21*341304 = 7167384.
 
 ### `Tau.BookIII.Hinge.five_sectors_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L388-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L388-L391)
 **theorem
 Tau.BookIII.Hinge.five_sectors_exhaustive
 (s : Sectors.Sector)
@@ -624,7 +624,7 @@ Tau.BookIII.Hinge.five_sectors_exhaustive
 
 ### `Tau.BookIII.Hinge.no_knobs_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L393-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L393-L398)
 **theorem
 Tau.BookIII.Hinge.no_knobs_witness :sector_product Sectors.Sector.B 3 = 5 ∧ sector_product Sectors.Sector.C 3 = 3 ∧ sector_product Sectors.Sector.Omega 3 = 2**
 
@@ -636,7 +636,7 @@ At depth 3: B=5, C=3, X=2, and 5*3*2 = 30 = Prim(3).
 
 ### `Tau.BookIII.Hinge.hinge_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/HingeTheorem.lean#L400-L405)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/HingeTheorem.lean#L400-L405)
 **theorem
 Tau.BookIII.Hinge.hinge_point :ChainLink.K6.succ = ChainLink.E0 ∧ ChainLink.E0.toEnrLevel = Enrichment.EnrLevel.E0**
 

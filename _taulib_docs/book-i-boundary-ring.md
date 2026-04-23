@@ -63,7 +63,7 @@ mul_comm, mul_assoc, mul_one, left_distrib
 
 ### `Tau.Boundary.BdryRing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L37-L38)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L37-L38)@[reducible, inline]
 
 **abbrev
 Tau.Boundary.BdryRing :Type**
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Boundary.mk_omega_tail_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L129-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L129-L133)
 **def
 Tau.Boundary.mk_omega_tail_neg
 (n d : Denotation.TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Boundary.omega_neg_components_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L163-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L163-L176)
 **theorem
 Tau.Boundary.omega_neg_components_eq
 (n d : Denotation.TauIdx)
@@ -107,7 +107,7 @@ Bridge: componentwise negation produces the negation representative at each stag
 
 ### `Tau.Boundary.Compatible_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L182-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L182-L194)
 **theorem
 Tau.Boundary.Compatible_neg
 (n d : Denotation.TauIdx)
@@ -120,7 +120,7 @@ Negation of canonical tails is compatible.
 
 ### `Tau.Boundary.omega_neg_neg_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L213-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L213-L225)
 **theorem
 Tau.Boundary.omega_neg_neg_eq
 (n d : Denotation.TauIdx)
@@ -136,7 +136,7 @@ Double negation is identity: neg(neg(n)) has the same components as n.
 
 ### `Tau.Boundary.omega_add_neg_cancel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L244-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L244-L263)
 **theorem
 Tau.Boundary.omega_add_neg_cancel
 (n d : Denotation.TauIdx)
@@ -154,7 +154,7 @@ Additive inverse: n + neg(n) = 0 (on components).
 
 ### `Tau.Boundary.bdry_ring_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L269-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L269-L292)
 **theorem
 Tau.Boundary.bdry_ring_axioms :(∀ (n1 n2 d : Denotation.TauIdx),
  (Polarity.mk_omega_tail_add n1 n2 d).components = (Polarity.mk_omega_tail_add n2 n1 d).components) ∧ (∀ (n1 n2 n3 d : Denotation.TauIdx),
@@ -176,7 +176,7 @@ Full boundary ring axioms: all eight ring properties, proved universally.
 
 ### `Tau.Boundary.neg_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L298-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L298-L299)
 **def
 Tau.Boundary.neg_compat_check
 (n d : Denotation.TauIdx)
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.Boundary.add_neg_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L301-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L301-L303)
 **def
 Tau.Boundary.add_neg_check
 (n d : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.Boundary.double_neg_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Ring.lean#L305-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Ring.lean#L305-L308)
 **def
 Tau.Boundary.double_neg_check
 (n d : Denotation.TauIdx)

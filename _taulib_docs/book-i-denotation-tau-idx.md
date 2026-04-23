@@ -58,7 +58,7 @@ canonical bijections between orbit rays.
 
 ### `Tau.Denotation.TauIdx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L39-L45)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L39-L45)@[reducible, inline]
 
 **abbrev
 Tau.Denotation.TauIdx :Type**
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Denotation.toAlphaOrbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L47-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L47-L48)
 **def
 Tau.Denotation.toAlphaOrbit
 (n : TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Denotation.fromAlphaOrbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L50-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L50-L51)
 **def
 Tau.Denotation.fromAlphaOrbit
 (x : Kernel.TauObj)
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.Denotation.toAlpha_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L53-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L53-L57)
 **theorem
 Tau.Denotation.toAlpha_injective
 (n m : TauIdx)
@@ -125,7 +125,7 @@ The embedding is injective.
 
 ### `Tau.Denotation.toAlpha_fromAlpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L59-L62)
 **theorem
 Tau.Denotation.toAlpha_fromAlpha
 (n : TauIdx)
@@ -138,7 +138,7 @@ Round-trip: fromAlpha ∘ toAlpha = id.
 
 ### `Tau.Denotation.toAlpha_in_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L64-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L64-L67)
 **theorem
 Tau.Denotation.toAlpha_in_orbit
 (n : TauIdx)
@@ -151,7 +151,7 @@ The embedding lands in the alpha orbit ray.
 
 ### `Tau.Denotation.toAlpha_rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L69-L72)
 **theorem
 Tau.Denotation.toAlpha_rho
 (n : TauIdx)
@@ -164,7 +164,7 @@ The embedding commutes with ρ: toAlpha(n+1) = ρ(toAlpha(n)).
 
 ### `Tau.Denotation.sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L78-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L78-L83)
 **def
 Tau.Denotation.sigma
 (s t : Kernel.Generator)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.Denotation.sigma_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L85-L89)
 **theorem
 Tau.Denotation.sigma_involutive
 (s t : Kernel.Generator)
@@ -198,7 +198,7 @@ Tau.Denotation.sigma_involutive
 
 ### `Tau.Denotation.sigma_preserves_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L91-L95)
 **theorem
 Tau.Denotation.sigma_preserves_depth
 (s t : Kernel.Generator)
@@ -213,7 +213,7 @@ Tau.Denotation.sigma_preserves_depth
 
 ### `Tau.Denotation.sigma_self`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L97-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L97-L101)
 **theorem
 Tau.Denotation.sigma_self
 (s : Kernel.Generator)
@@ -228,7 +228,7 @@ Tau.Denotation.sigma_self
 
 ### `Tau.Denotation.sigma_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/TauIdx.lean#L103-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/TauIdx.lean#L103-L107)
 **theorem
 Tau.Denotation.sigma_comm
 (s t : Kernel.Generator)

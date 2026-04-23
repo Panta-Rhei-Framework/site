@@ -59,7 +59,7 @@ Tarski axioms:
 
 ### `Tau.BookII.Geometry.between`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L35-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L35-L42)
 **def
 Tau.BookII.Geometry.between
 (x y z db : Denotation.TauIdx)
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L48-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L48-L61)
 **def
 Tau.BookII.Geometry.between_identity_check
 (bound db : Denotation.TauIdx)
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L54-L60)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L54-L60)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_identity_check.go
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_connectivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L63-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L63-L77)
 **def
 Tau.BookII.Geometry.between_connectivity_check
 (bound db : Denotation.TauIdx)
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_connectivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L69-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L69-L76)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_connectivity_check.go
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_transitivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L79-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L79-L95)
 **def
 Tau.BookII.Geometry.between_transitivity_check
 (bound db : Denotation.TauIdx)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.between_transitivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L86-L94)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L86-L94)@[irreducible]
 
 **def
 Tau.BookII.Geometry.between_transitivity_check.go
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Geometry.identity_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L114-L114)
 **theorem
 Tau.BookII.Geometry.identity_10 :between_identity_check 10 5 = true**
 
@@ -193,7 +193,7 @@ Tau.BookII.Geometry.identity_10 :between_identity_check 10 5 = true**
 
 ### `Tau.BookII.Geometry.connectivity_8`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L115-L115)
 **theorem
 Tau.BookII.Geometry.connectivity_8 :between_connectivity_check 8 5 = true**
 
@@ -202,6 +202,6 @@ Tau.BookII.Geometry.connectivity_8 :between_connectivity_check 8 5 = true**
 
 ### `Tau.BookII.Geometry.transitivity_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Geometry/Betweenness.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Geometry/Betweenness.lean#L116-L116)
 **theorem
 Tau.BookII.Geometry.transitivity_6 :between_transitivity_check 6 5 = true**

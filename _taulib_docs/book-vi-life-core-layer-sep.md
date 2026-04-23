@@ -51,7 +51,7 @@ provides a constructive witness. Also: loop factorization lemma.
 
 ### `Tau.BookVI.LayerSep.NSTOVCounterexample`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L22-L29)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L22-L29)
 **structure
 Tau.BookVI.LayerSep.NSTOVCounterexample :Type**
 
@@ -69,7 +69,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprNSTOVCounterexample.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L29-L29)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L29-L29)
 **def
 Tau.BookVI.LayerSep.instReprNSTOVCounterexample.repr :NSTOVCounterexample → ℕ → Std.Format**
 
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprNSTOVCounterexample`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L29-L29)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L29-L29)
 **instance
 Tau.BookVI.LayerSep.instReprNSTOVCounterexample :Repr NSTOVCounterexample**
 
@@ -92,7 +92,7 @@ Equations
 
 ### `Tau.BookVI.LayerSep.ns_tov`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L31-L33)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L31-L33)
 **def
 Tau.BookVI.LayerSep.ns_tov :NSTOVCounterexample**
 
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.ns_tov_counterexample`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L35-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L35-L38)
 **theorem
 Tau.BookVI.LayerSep.ns_tov_counterexample :ns_tov.distinction_passed = 5 ∧ ns_tov.selfdesc_fails = true**
 
@@ -113,7 +113,7 @@ Tau.BookVI.LayerSep.ns_tov_counterexample :ns_tov.distinction_passed = 5 ∧ ns_
 
 ### `Tau.BookVI.LayerSep.LayerSeparation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L40-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L40-L47)
 **structure
 Tau.BookVI.LayerSep.LayerSeparation :Type**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprLayerSeparation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L47-L47)
 **def
 Tau.BookVI.LayerSep.instReprLayerSeparation.repr :LayerSeparation → ℕ → Std.Format**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprLayerSeparation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L47-L47)
 **instance
 Tau.BookVI.LayerSep.instReprLayerSeparation :Repr LayerSeparation**
 
@@ -154,7 +154,7 @@ Equations
 
 ### `Tau.BookVI.LayerSep.layer_sep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L49-L49)
 **def
 Tau.BookVI.LayerSep.layer_sep :LayerSeparation**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.layer_separation_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L51-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L51-L55)
 **theorem
 Tau.BookVI.LayerSep.layer_separation_lemma :layer_sep.e1_has_distinction = true ∧ layer_sep.e1_lacks_selfdesc = true ∧ layer_sep.non_reducible = true**
 
@@ -175,7 +175,7 @@ Tau.BookVI.LayerSep.layer_separation_lemma :layer_sep.e1_has_distinction = true 
 
 ### `Tau.BookVI.LayerSep.LoopFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L57-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L57-L63)
 **structure
 Tau.BookVI.LayerSep.LoopFactorization :Type**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprLoopFactorization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L63-L63)
 **def
 Tau.BookVI.LayerSep.instReprLoopFactorization.repr :LoopFactorization → ℕ → Std.Format**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprLoopFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L63-L63)
 **instance
 Tau.BookVI.LayerSep.instReprLoopFactorization :Repr LoopFactorization**
 
@@ -215,7 +215,7 @@ Equations
 
 ### `Tau.BookVI.LayerSep.loop_fact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L65-L67)
 **def
 Tau.BookVI.LayerSep.loop_fact :LoopFactorization**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.loop_factorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L69-L72)
 **theorem
 Tau.BookVI.LayerSep.loop_factorization :loop_fact.factor_count = 3 ∧ loop_fact.is_unique = true**
 
@@ -236,7 +236,7 @@ Tau.BookVI.LayerSep.loop_factorization :loop_fact.factor_count = 3 ∧ loop_fact
 
 ### `Tau.BookVI.LayerSep.LifePhaseBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L74-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L74-L78)
 **structure
 Tau.BookVI.LayerSep.LifePhaseBoundary :Type**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.instReprLifePhaseBoundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L78-L78)
 **instance
 Tau.BookVI.LayerSep.instReprLifePhaseBoundary :Repr LifePhaseBoundary**
 
@@ -262,7 +262,7 @@ Equations
 
 ### `Tau.BookVI.LayerSep.instReprLifePhaseBoundary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L78-L78)
 **def
 Tau.BookVI.LayerSep.instReprLifePhaseBoundary.repr :LifePhaseBoundary → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.phase_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L80-L80)
 **def
 Tau.BookVI.LayerSep.phase_boundary :LifePhaseBoundary**
 
@@ -286,6 +286,6 @@ Instances For
 
 ### `Tau.BookVI.LayerSep.life_phase_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/LayerSep.lean#L82-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/LayerSep.lean#L82-L85)
 **theorem
 Tau.BookVI.LayerSep.life_phase_boundary :phase_boundary.is_sharp = true ∧ phase_boundary.topology_change = true**

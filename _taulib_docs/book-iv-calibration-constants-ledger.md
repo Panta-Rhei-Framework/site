@@ -98,7 +98,7 @@ determines how the entry may be used:
 
 ### `Tau.BookIV.Calibration.LedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L58-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L58-L64)
 **inductive
 Tau.BookIV.Calibration.LedgerScope :Type**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
 **instance
 Tau.BookIV.Calibration.instReprLedgerScope :Repr LedgerScope**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprLedgerScope.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
 **def
 Tau.BookIV.Calibration.instReprLedgerScope.repr :LedgerScope → ℕ → Std.Format**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instDecidableEqLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L64-L64)
 **instance
 Tau.BookIV.Calibration.instDecidableEqLedgerScope :DecidableEq LedgerScope**
 
@@ -149,7 +149,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.LedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L70-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L70-L80)
 **structure
 Tau.BookIV.Calibration.LedgerEntry :Type**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLedgerEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L80-L80)
 **def
 Tau.BookIV.Calibration.instReprLedgerEntry.repr :LedgerEntry → ℕ → Std.Format**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L80-L80)
 **instance
 Tau.BookIV.Calibration.instReprLedgerEntry :Repr LedgerEntry**
 
@@ -197,7 +197,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.coupling_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L86-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L86-L98)
 **def
 Tau.BookIV.Calibration.coupling_ledger :List LedgerEntry**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.formula_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L104-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L104-L111)
 **def
 Tau.BookIV.Calibration.formula_ledger :List LedgerEntry**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.identity_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L117-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L117-L121)
 **def
 Tau.BookIV.Calibration.identity_ledger :List LedgerEntry**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.near_match_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L127-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L127-L132)
 **def
 Tau.BookIV.Calibration.near_match_ledger :List LedgerEntry**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.framework_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L138-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L138-L143)
 **def
 Tau.BookIV.Calibration.framework_ledger :List LedgerEntry**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.complete_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L149-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L149-L152)
 **def
 Tau.BookIV.Calibration.complete_ledger :List LedgerEntry**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ledger_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L158-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L158-L159)
 **theorem
 Tau.BookIV.Calibration.ledger_count :complete_ledger.length = 23**
 
@@ -292,7 +292,7 @@ Tau.BookIV.Calibration.ledger_count :complete_ledger.length = 23**
 
 ### `Tau.BookIV.Calibration.ledger_breakdown`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L161-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L161-L168)
 **theorem
 Tau.BookIV.Calibration.ledger_breakdown :coupling_ledger.length = 10 ∧ formula_ledger.length = 5 ∧ identity_ledger.length = 2 ∧ near_match_ledger.length = 3 ∧ framework_ledger.length = 3**
 
@@ -303,7 +303,7 @@ Tau.BookIV.Calibration.ledger_breakdown :coupling_ledger.length = 10 ∧ formula
 
 ### `Tau.BookIV.Calibration.scope_distribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L174-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L174-L183)
 **theorem
 Tau.BookIV.Calibration.scope_distribution :(List.filter (fun (x : LedgerEntry) => x.scope == LedgerScope.Established) complete_ledger).length = 12 ∧ (List.filter (fun (x : LedgerEntry) => x.scope == LedgerScope.TauEffective) complete_ledger).length = 7 ∧ (List.filter (fun (x : LedgerEntry) => x.scope == LedgerScope.Conjectural) complete_ledger).length = 4 ∧ (List.filter (fun (x : LedgerEntry) => x.scope == LedgerScope.Metaphorical) complete_ledger).length = 0**
 
@@ -324,7 +324,7 @@ Tau.BookIV.Calibration.scope_distribution :(List.filter (fun (x : LedgerEntry) =
 
 ### `Tau.BookIV.Calibration.no_metaphorical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L185-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L185-L188)
 **theorem
 Tau.BookIV.Calibration.no_metaphorical :(List.filter (fun (x : LedgerEntry) => x.scope == LedgerScope.Metaphorical) complete_ledger).length = 0**
 
@@ -335,7 +335,7 @@ No metaphorical entries in Part II.
 
 ### `Tau.BookIV.Calibration.all_have_ids`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L194-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L194-L196)
 **theorem
 Tau.BookIV.Calibration.all_have_ids :(complete_ledger.all fun (e : LedgerEntry) => decide (e.id.length > 0)) = true**
 
@@ -346,7 +346,7 @@ Every entry has a non-empty registry ID.
 
 ### `Tau.BookIV.Calibration.all_have_names`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/ConstantsLedger.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/ConstantsLedger.lean#L198-L200)
 **theorem
 Tau.BookIV.Calibration.all_have_names :(complete_ledger.all fun (e : LedgerEntry) => decide (e.name.length > 0)) = true**
 

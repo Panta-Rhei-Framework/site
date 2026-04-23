@@ -89,7 +89,7 @@ squarefree part, which is where ABC is easy.
 
 ### `Tau.BookIII.Arithmetic.is_squarefree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L70-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L70-L80)
 **def
 Tau.BookIII.Arithmetic.is_squarefree
 (n : ℕ)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.is_squarefree.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L75-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L75-L79)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.is_squarefree.go
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_sieve_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L86-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L86-L98)
 **def
 Tau.BookIII.Arithmetic.abc_sieve_check
 (bound : ℕ)
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_sieve_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L91-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L91-L97)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.abc_sieve_check.go
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_high_quality_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L104-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L104-L121)
 **def
 Tau.BookIII.Arithmetic.abc_high_quality_count
 (bound : ℕ)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_high_quality_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L109-L120)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L109-L120)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.abc_high_quality_count.go
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.squarefree_abc_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L127-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L127-L147)
 **def
 Tau.BookIII.Arithmetic.squarefree_abc_check
 (bound : ℕ)
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.squarefree_abc_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L134-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L134-L146)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.squarefree_abc_check.go
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_deep_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L153-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L153-L164)
 **def
 Tau.BookIII.Arithmetic.radical_primorial_deep_check
 (db : ℕ)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_deep_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L158-L163)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L158-L163)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.radical_primorial_deep_check.go
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.squarefree_high_quality_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L170-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L170-L188)
 **def
 Tau.BookIII.Arithmetic.squarefree_high_quality_count
 (bound : ℕ)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.squarefree_high_quality_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L176-L187)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L176-L187)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.squarefree_high_quality_count.go
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.abc_quality_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L194-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L194-L196)
 **theorem
 Tau.BookIII.Arithmetic.abc_quality_100 :abc_sieve_check 100 = true**
 
@@ -294,7 +294,7 @@ Tau.BookIII.Arithmetic.abc_quality_100 :abc_sieve_check 100 = true**
 
 ### `Tau.BookIII.Arithmetic.squarefree_dominance_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L198-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L198-L201)
 **theorem
 Tau.BookIII.Arithmetic.squarefree_dominance_100 :squarefree_abc_check 100 = true**
 
@@ -306,7 +306,7 @@ coprime pairs up to 100.
 
 ### `Tau.BookIII.Arithmetic.radical_primorial_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L203-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L203-L205)
 **theorem
 Tau.BookIII.Arithmetic.radical_primorial_5 :radical_primorial_deep_check 5 = true**
 
@@ -317,7 +317,7 @@ Tau.BookIII.Arithmetic.radical_primorial_5 :radical_primorial_deep_check 5 = tru
 
 ### `Tau.BookIII.Arithmetic.squarefree_dominance_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L207-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L207-L209)
 **theorem
 Tau.BookIII.Arithmetic.squarefree_dominance_thm :squarefree_high_quality_count 50 = 0**
 
@@ -328,7 +328,7 @@ Tau.BookIII.Arithmetic.squarefree_dominance_thm :squarefree_high_quality_count 5
 
 ### `Tau.BookIII.Arithmetic.high_quality_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L215-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L215-L217)
 **theorem
 Tau.BookIII.Arithmetic.high_quality_30 :abc_high_quality_count 30 ≤ 5**
 
@@ -339,7 +339,7 @@ Tau.BookIII.Arithmetic.high_quality_30 :abc_high_quality_count 30 ≤ 5**
 
 ### `Tau.BookIII.Arithmetic.one_squarefree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L219-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L219-L220)
 **theorem
 Tau.BookIII.Arithmetic.one_squarefree :is_squarefree 1 = true**
 
@@ -350,7 +350,7 @@ Tau.BookIII.Arithmetic.one_squarefree :is_squarefree 1 = true**
 
 ### `Tau.BookIII.Arithmetic.thirty_squarefree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L222-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L222-L223)
 **theorem
 Tau.BookIII.Arithmetic.thirty_squarefree :is_squarefree 30 = true**
 
@@ -361,7 +361,7 @@ Tau.BookIII.Arithmetic.thirty_squarefree :is_squarefree 30 = true**
 
 ### `Tau.BookIII.Arithmetic.twelve_not_squarefree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/ABCDeep.lean#L225-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/ABCDeep.lean#L225-L226)
 **theorem
 Tau.BookIII.Arithmetic.twelve_not_squarefree :is_squarefree 12 = false**
 

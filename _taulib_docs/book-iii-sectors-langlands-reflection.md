@@ -65,7 +65,7 @@ multiplicative/Galois (B-lobe) direction, n-axis the additive/automorphic
 
 ### `Tau.BookIII.Sectors.langlands_reflection_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L46-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L46-L74)
 **def
 Tau.BookIII.Sectors.langlands_reflection_check
 (bound db : Denotation.TauIdx)
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.langlands_reflection_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L53-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L53-L73)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.langlands_reflection_check.go
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.template_invariance_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L80-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L80-L99)
 **def
 Tau.BookIII.Sectors.template_invariance_check
 (bound db : Denotation.TauIdx)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.template_invariance_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L88-L98)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L88-L98)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.template_invariance_check.go
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.universal_operator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L105-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L105-L119)
 **def
 Tau.BookIII.Sectors.universal_operator
 (χ : BoundaryCharacter)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.universal_operator.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L113-L118)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L113-L118)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.universal_operator.go
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.universal_op_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L121-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L121-L138)
 **def
 Tau.BookIII.Sectors.universal_op_check
 (bound db : Denotation.TauIdx)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.universal_op_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L125-L137)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L125-L137)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.universal_op_check.go
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.spectral_polarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L144-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L144-L161)
 **def
 Tau.BookIII.Sectors.spectral_polarity
 (sec : Sector)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.spectral_polarity.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L151-L160)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L151-L160)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.spectral_polarity.go
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.spectral_polarity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L163-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L163-L181)
 **def
 Tau.BookIII.Sectors.spectral_polarity_check
 (bound : Denotation.TauIdx)
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.balanced_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L187-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L187-L199)
 **def
 Tau.BookIII.Sectors.balanced_uniqueness_check
 (bound : Denotation.TauIdx)
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.langlands_reflection_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L229-L230)
 **theorem
 Tau.BookIII.Sectors.langlands_reflection_5_3 :langlands_reflection_check 5 3 = true**
 
@@ -301,7 +301,7 @@ Tau.BookIII.Sectors.langlands_reflection_5_3 :langlands_reflection_check 5 3 = t
 
 ### `Tau.BookIII.Sectors.template_invariance_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L233-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L233-L234)
 **theorem
 Tau.BookIII.Sectors.template_invariance_8_3 :template_invariance_check 8 3 = true**
 
@@ -310,7 +310,7 @@ Tau.BookIII.Sectors.template_invariance_8_3 :template_invariance_check 8 3 = tru
 
 ### `Tau.BookIII.Sectors.universal_op_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L237-L238)
 **theorem
 Tau.BookIII.Sectors.universal_op_3_3 :universal_op_check 3 3 = true**
 
@@ -319,7 +319,7 @@ Tau.BookIII.Sectors.universal_op_3_3 :universal_op_check 3 3 = true**
 
 ### `Tau.BookIII.Sectors.spectral_polarity_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L241-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L241-L242)
 **theorem
 Tau.BookIII.Sectors.spectral_polarity_5 :spectral_polarity_check 5 = true**
 
@@ -328,7 +328,7 @@ Tau.BookIII.Sectors.spectral_polarity_5 :spectral_polarity_check 5 = true**
 
 ### `Tau.BookIII.Sectors.balanced_uniqueness_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L245-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L245-L246)
 **theorem
 Tau.BookIII.Sectors.balanced_uniqueness_5 :balanced_uniqueness_check 5 = true**
 
@@ -337,7 +337,7 @@ Tau.BookIII.Sectors.balanced_uniqueness_5 :balanced_uniqueness_check 5 = true**
 
 ### `Tau.BookIII.Sectors.sector_count_preserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L252-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L252-L254)
 **theorem
 Tau.BookIII.Sectors.sector_count_preserved :[Sector.D, Sector.A, Sector.B, Sector.C, Sector.Omega].length = 5**
 
@@ -354,7 +354,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Sectors.template_invariance_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L262-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L262-L265)
 **theorem
 Tau.BookIII.Sectors.template_invariance_e3 :Enrichment.layer_of Enrichment.EnrLevel.E3 8 3 = Enrichment.layer_of Enrichment.EnrLevel.E3.succ 8 3**
 
@@ -366,7 +366,7 @@ since E₃.succ = E₃ (saturation).
 
 ### `Tau.BookIII.Sectors.d_polarity_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L267-L269)
 **theorem
 Tau.BookIII.Sectors.d_polarity_zero :spectral_polarity Sector.D 10 = (0, 0)**
 
@@ -378,7 +378,7 @@ because only the trivial character (0,0) is in D.
 
 ### `Tau.BookIII.Sectors.a_balanced_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/LanglandsReflection.lean#L271-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/LanglandsReflection.lean#L271-L273)
 **theorem
 Tau.BookIII.Sectors.a_balanced_3 :(spectral_polarity Sector.A 3).1 = (spectral_polarity Sector.A 3).2**
 

@@ -61,7 +61,7 @@ positioning Book III's eight spectral forces to provide structural handles.
 
 ### `Tau.Spectrum.Literal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L37-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L37-L43)
 **structure
 Tau.Spectrum.Literal :Type**
 
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqLiteral.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
 **def
 Tau.Spectrum.instDecidableEqLiteral.decEq
 (x✝ x✝¹ : Literal)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqLiteral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
 **instance
 Tau.Spectrum.instDecidableEqLiteral :DecidableEq Literal**
 
@@ -105,7 +105,7 @@ Equations
 
 ### `Tau.Spectrum.instReprLiteral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
 **def
 Tau.Spectrum.instReprLiteral.repr :Literal → ℕ → Std.Format**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprLiteral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L43-L43)
 **instance
 Tau.Spectrum.instReprLiteral :Repr Literal**
 
@@ -128,7 +128,7 @@ Equations
 
 ### `Tau.Spectrum.Clause`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L45-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L45-L53)
 **structure
 Tau.Spectrum.Clause :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqClause.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
 **def
 Tau.Spectrum.instDecidableEqClause.decEq
 (x✝ x✝¹ : Clause)
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqClause`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
 **instance
 Tau.Spectrum.instDecidableEqClause :DecidableEq Clause**
 
@@ -175,7 +175,7 @@ Equations
 
 ### `Tau.Spectrum.instReprClause.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
 **def
 Tau.Spectrum.instReprClause.repr :Clause → ℕ → Std.Format**
 
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprClause`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L53-L53)
 **instance
 Tau.Spectrum.instReprClause :Repr Clause**
 
@@ -198,7 +198,7 @@ Equations
 
 ### `Tau.Spectrum.CNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L55-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L55-L61)
 **structure
 Tau.Spectrum.CNF :Type**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprCNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L61-L61)
 **instance
 Tau.Spectrum.instReprCNF :Repr CNF**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.Spectrum.instReprCNF.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L61-L61)
 **def
 Tau.Spectrum.instReprCNF.repr :CNF → ℕ → Std.Format**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.Spectrum.Assignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L67-L68)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L67-L68)@[reducible, inline]
 
 **abbrev
 Tau.Spectrum.Assignment :Type**
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.Spectrum.Literal.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L70-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L70-L72)
 **def
 Tau.Spectrum.Literal.eval
 (l : Literal)
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.Spectrum.Clause.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L74-L76)
 **def
 Tau.Spectrum.Clause.eval
 (c : Clause)
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.Spectrum.CNF.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L78-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L78-L80)
 **def
 Tau.Spectrum.CNF.eval
 (φ : CNF)
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.Spectrum.CNF.satisfiable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L82-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L82-L84)
 **def
 Tau.Spectrum.CNF.satisfiable
 (φ : CNF)
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.Spectrum.crt_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L90-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L90-L94)
 **def
 Tau.Spectrum.crt_residue
 (v i : Denotation.TauIdx)
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.Spectrum.spectral_var_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L96-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L96-L101)
 **def
 Tau.Spectrum.spectral_var_true
 (var_idx : ℕ)
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.Spectrum.spectral_literal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L103-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L103-L106)
 **def
 Tau.Spectrum.spectral_literal
 (l : Literal)
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.Spectrum.spectral_clause`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L108-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L108-L110)
 **def
 Tau.Spectrum.spectral_clause
 (c : Clause)
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.Spectrum.spectral_cnf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L112-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L112-L115)
 **def
 Tau.Spectrum.spectral_cnf
 (φ : CNF)
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.Spectrum.SpectralSatisfiable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L117-L120)
 **def
 Tau.Spectrum.SpectralSatisfiable
 (φ : CNF)
@@ -435,7 +435,7 @@ Instances For
 
 ### `Tau.Spectrum.spectral_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L126-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L126-L131)
 **theorem
 Tau.Spectrum.spectral_decidable
 (φ : CNF)
@@ -452,7 +452,7 @@ This is the computable core of the encoding.
 
 ### `Tau.Spectrum.empty_cnf_sat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L133-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L133-L135)
 **theorem
 Tau.Spectrum.empty_cnf_sat
 (v : Denotation.TauIdx)
@@ -465,7 +465,7 @@ The empty formula is trivially satisfied.
 
 ### `Tau.Spectrum.bool_sat_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L137-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L137-L140)
 **theorem
 Tau.Spectrum.bool_sat_decidable
 (φ : CNF)
@@ -480,7 +480,7 @@ Boolean satisfiability is also decidable for concrete formulas.
 
 ### `Tau.Spectrum.tau_complexity_bridge_concrete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L146-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L146-L157)
 **theorem
 Tau.Spectrum.tau_complexity_bridge_concrete :∃ (φ : CNF), ∃ (a : Assignment), φ.eval a = true ∧ ∃ (v : Denotation.TauIdx), spectral_cnf φ v = true**
 
@@ -495,7 +495,7 @@ satisfiability by searching over CRT residues.
 
 ### `Tau.Spectrum.single_var_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L159-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L159-L162)
 **theorem
 Tau.Spectrum.single_var_spectral
 (v : Denotation.TauIdx)
@@ -508,7 +508,7 @@ The encoding maps a single-variable clause to a CRT constraint.
 
 ### `Tau.Spectrum.example_clause`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L168-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L168-L170)
 **def
 Tau.Spectrum.example_clause :Clause**
 
@@ -523,7 +523,7 @@ Instances For
 
 ### `Tau.Spectrum.example_cnf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/ThreeSAT.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/ThreeSAT.lean#L175-L177)
 **def
 Tau.Spectrum.example_cnf :CNF**
 

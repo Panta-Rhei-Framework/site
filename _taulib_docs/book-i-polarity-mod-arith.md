@@ -48,7 +48,7 @@ arithmetic ring laws needed for omega-germ construction.
 
 ### `Tau.Polarity.nth_prime_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L29-L39)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L29-L39)@[irreducible]
 
 **def
 Tau.Polarity.nth_prime_go
@@ -65,7 +65,7 @@ Instances For
 
 ### `Tau.Polarity.nth_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L41-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L41-L44)
 **def
 Tau.Polarity.nth_prime
 (k : Denotation.TauIdx)
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.Polarity.primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L50-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L50-L54)
 **def
 Tau.Polarity.primorial :Denotation.TauIdx → Denotation.TauIdx**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.Polarity.reduce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L60-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L60-L62)
 **def
 Tau.Polarity.reduce
 (x k : Denotation.TauIdx)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.Polarity.primorial_dvd_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L64-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L64-L67)
 **def
 Tau.Polarity.primorial_dvd_check
 (k l : Denotation.TauIdx)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Polarity.reduction_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L69-L72)
 **def
 Tau.Polarity.reduction_compat_check
 (x k l : Denotation.TauIdx)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.Polarity.mod_add_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L78-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L78-L80)
 **theorem
 Tau.Polarity.mod_add_eq
 (a b m : Nat)
@@ -160,7 +160,7 @@ Modular addition: (a + b) % m = ((a % m) + (b % m)) % m.
 
 ### `Tau.Polarity.mod_mul_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L82-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L82-L84)
 **theorem
 Tau.Polarity.mod_mul_eq
 (a b m : Nat)
@@ -173,7 +173,7 @@ Modular multiplication: (a * b) % m = ((a % m) * (b % m)) % m.
 
 ### `Tau.Polarity.mod_lt_of_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L86-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L86-L88)
 **theorem
 Tau.Polarity.mod_lt_of_pos
 (a m : Nat)
@@ -188,7 +188,7 @@ a % m < m for m > 0.
 
 ### `Tau.Polarity.distinct_primes_coprime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L94-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L94-L107)
 **theorem
 Tau.Polarity.distinct_primes_coprime
 {p q : Denotation.TauIdx}
@@ -207,7 +207,7 @@ If p and q are distinct primes, they are coprime.
 
 ### `Tau.Polarity.nth_prime_go_ge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L113-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L113-L131)
 **theorem
 Tau.Polarity.nth_prime_go_ge
 (target count cur fuel : Nat)
@@ -220,7 +220,7 @@ nth_prime_go always returns a value ≥ cur.
 
 ### `Tau.Polarity.nth_prime_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L133-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L133-L138)
 **theorem
 Tau.Polarity.nth_prime_pos
 {k : Denotation.TauIdx}
@@ -235,7 +235,7 @@ nth_prime k ≥ 1 for k ≥ 1.
 
 ### `Tau.Polarity.primorial_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L140-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L140-L148)
 **theorem
 Tau.Polarity.primorial_pos
 (k : Denotation.TauIdx)
@@ -248,7 +248,7 @@ Every primorial is positive: M_k > 0.
 
 ### `Tau.Polarity.primorial_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L154-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L154-L169)
 **theorem
 Tau.Polarity.primorial_dvd
 {k l : Denotation.TauIdx}
@@ -264,7 +264,7 @@ This is the structural backbone of the inverse system.
 
 ### `Tau.Polarity.mod_mod_of_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L184-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L184-L197)
 **theorem
 Tau.Polarity.mod_mod_of_dvd
 (x a b : Nat)
@@ -280,7 +280,7 @@ Proved from first principles using Lean 4 core.
 
 ### `Tau.Polarity.reduction_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ModArith.lean#L199-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ModArith.lean#L199-L204)
 **theorem
 Tau.Polarity.reduction_compat
 (x : Denotation.TauIdx)

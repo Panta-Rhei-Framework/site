@@ -112,7 +112,7 @@ Supernova explosions create heavy elements:
 
 ### `Tau.BookV.Astrophysics.SupernovaType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L68-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L68-L78)
 **inductive
 Tau.BookV.Astrophysics.SupernovaType :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSupernovaType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
 **def
 Tau.BookV.Astrophysics.instReprSupernovaType.repr :SupernovaType → ℕ → Std.Format**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSupernovaType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instReprSupernovaType :Repr SupernovaType**
 
@@ -160,7 +160,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqSupernovaType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqSupernovaType :DecidableEq SupernovaType**
 
@@ -171,7 +171,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqSupernovaType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instBEqSupernovaType :BEq SupernovaType**
 
@@ -182,7 +182,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqSupernovaType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L78-L78)
 **def
 Tau.BookV.Astrophysics.instBEqSupernovaType.beq :SupernovaType → SupernovaType → Bool**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.SupernovaType.isCoreCollapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L80-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L80-L85)
 **def
 Tau.BookV.Astrophysics.SupernovaType.isCoreCollapse :SupernovaType → Bool**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.SupernovaType.isThermonuclear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L87-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L87-L90)
 **def
 Tau.BookV.Astrophysics.SupernovaType.isThermonuclear :SupernovaType → Bool**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.core_collapse_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L96-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L96-L104)
 **theorem
 Tau.BookV.Astrophysics.core_collapse_topology
 (sn : SupernovaType)
@@ -246,7 +246,7 @@ horizon crossing discussed in TOVPhaseBoundary.
 
 ### `Tau.BookV.Astrophysics.CollapsePhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L110-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L110-L124)
 **inductive
 Tau.BookV.Astrophysics.CollapsePhase :Type**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCollapsePhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
 **instance
 Tau.BookV.Astrophysics.instReprCollapsePhase :Repr CollapsePhase**
 
@@ -288,7 +288,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprCollapsePhase.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
 **def
 Tau.BookV.Astrophysics.instReprCollapsePhase.repr :CollapsePhase → ℕ → Std.Format**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqCollapsePhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqCollapsePhase :DecidableEq CollapsePhase**
 
@@ -311,7 +311,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqCollapsePhase.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
 **def
 Tau.BookV.Astrophysics.instBEqCollapsePhase.beq :CollapsePhase → CollapsePhase → Bool**
 
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqCollapsePhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L124-L124)
 **instance
 Tau.BookV.Astrophysics.instBEqCollapsePhase :BEq CollapsePhase**
 
@@ -334,7 +334,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.CoreCollapseMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L126-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L126-L142)
 **structure
 Tau.BookV.Astrophysics.CoreCollapseMechanism :Type**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCoreCollapseMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L142-L142)
 **instance
 Tau.BookV.Astrophysics.instReprCoreCollapseMechanism :Repr CoreCollapseMechanism**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprCoreCollapseMechanism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L142-L142)
 **def
 Tau.BookV.Astrophysics.instReprCoreCollapseMechanism.repr :CoreCollapseMechanism → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.collapse_phases_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L144-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L144-L149)
 **theorem
 Tau.BookV.Astrophysics.collapse_phases_complete :[CollapsePhase.IronCoreGrowth, CollapsePhase.ElectronCapture, CollapsePhase.Bounce, CollapsePhase.ShockRevival, CollapsePhase.EnvelopeEjection, CollapsePhase.RemnantFormation].length = 6**
 
@@ -401,7 +401,7 @@ All collapse phases form a complete sequence.
 
 ### `Tau.BookV.Astrophysics.neutrino_from_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L155-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L155-L164)
 **theorem
 Tau.BookV.Astrophysics.neutrino_from_defect :"99% of binding energy released as neutrinos = defect energy release" = "99% of binding energy released as neutrinos = defect energy release"**
 
@@ -418,7 +418,7 @@ defect tuple.
 
 ### `Tau.BookV.Astrophysics.type_ia_chandrasekhar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L170-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L170-L178)
 **theorem
 Tau.BookV.Astrophysics.type_ia_chandrasekhar :"Type Ia trigger at M_Ch = fixed mass threshold from iota_tau" = "Type Ia trigger at M_Ch = fixed mass threshold from iota_tau"**
 
@@ -434,7 +434,7 @@ trigger mass (M_Ch is determined by fundamental constants
 
 ### `Tau.BookV.Astrophysics.ElementGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L184-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L184-L194)
 **inductive
 Tau.BookV.Astrophysics.ElementGroup :Type**
 
@@ -459,7 +459,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprElementGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
 **instance
 Tau.BookV.Astrophysics.instReprElementGroup :Repr ElementGroup**
 
@@ -470,7 +470,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprElementGroup.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
 **def
 Tau.BookV.Astrophysics.instReprElementGroup.repr :ElementGroup → ℕ → Std.Format**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqElementGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqElementGroup :DecidableEq ElementGroup**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqElementGroup.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
 **def
 Tau.BookV.Astrophysics.instBEqElementGroup.beq :ElementGroup → ElementGroup → Bool**
 
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqElementGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L194-L194)
 **instance
 Tau.BookV.Astrophysics.instBEqElementGroup :BEq ElementGroup**
 
@@ -516,7 +516,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.NucleosynthesisProducts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L196-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L196-L209)
 **structure
 Tau.BookV.Astrophysics.NucleosynthesisProducts :Type**
 
@@ -543,7 +543,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprNucleosynthesisProducts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L209-L209)
 **instance
 Tau.BookV.Astrophysics.instReprNucleosynthesisProducts :Repr NucleosynthesisProducts**
 
@@ -554,7 +554,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprNucleosynthesisProducts.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L209-L209)
 **def
 Tau.BookV.Astrophysics.instReprNucleosynthesisProducts.repr :NucleosynthesisProducts → ℕ → Std.Format**
 
@@ -566,7 +566,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.cc_sn_products`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L211-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L211-L215)
 **def
 Tau.BookV.Astrophysics.cc_sn_products :NucleosynthesisProducts**
 
@@ -580,7 +580,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ia_sn_products`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L217-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L217-L221)
 **def
 Tau.BookV.Astrophysics.ia_sn_products :NucleosynthesisProducts**
 
@@ -594,7 +594,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.standardizable_candle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L227-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L227-L235)
 **theorem
 Tau.BookV.Astrophysics.standardizable_candle :"Type Ia standardizable because M_Ch fixed by iota_tau" = "Type Ia standardizable because M_Ch fixed by iota_tau"**
 
@@ -610,7 +610,7 @@ the standardization correction.
 
 ### `Tau.BookV.Astrophysics.sn_rate_sfh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L241-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L241-L246)
 **theorem
 Tau.BookV.Astrophysics.sn_rate_sfh :"SN rate = f(star formation history) = D-sector galactic readout" = "SN rate = f(star formation history) = D-sector galactic readout"**
 
@@ -623,7 +623,7 @@ is a D-sector readout of the galactic defect bundle.
 
 ### `Tau.BookV.Astrophysics.example_cc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/Supernovae.lean#L276-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/Supernovae.lean#L276-L283)
 **def
 Tau.BookV.Astrophysics.example_cc :CoreCollapseMechanism**
 

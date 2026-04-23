@@ -76,7 +76,7 @@ Mesons (q-qbar) and baryons (qqq) are the minimal color singlets.
 
 ### `Tau.BookIV.Strong.QuarkType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L45-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L45-L51)
 **inductive
 Tau.BookIV.Strong.QuarkType :Type**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
 **def
 Tau.BookIV.Strong.instReprQuarkType.repr :QuarkType → ℕ → Std.Format**
 
@@ -107,7 +107,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
 **instance
 Tau.BookIV.Strong.instReprQuarkType :Repr QuarkType**
 
@@ -118,7 +118,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instDecidableEqQuarkType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
 **instance
 Tau.BookIV.Strong.instDecidableEqQuarkType :DecidableEq QuarkType**
 
@@ -129,7 +129,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqQuarkType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
 **instance
 Tau.BookIV.Strong.instBEqQuarkType :BEq QuarkType**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqQuarkType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L51-L51)
 **def
 Tau.BookIV.Strong.instBEqQuarkType.beq :QuarkType → QuarkType → Bool**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.QuarkMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L53-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L53-L67)
 **structure
 Tau.BookIV.Strong.QuarkMode :Type**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L67-L67)
 **def
 Tau.BookIV.Strong.instReprQuarkMode.repr :QuarkMode → ℕ → Std.Format**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L67-L67)
 **instance
 Tau.BookIV.Strong.instReprQuarkMode :Repr QuarkMode**
 
@@ -205,7 +205,7 @@ Equations
 
 ### `Tau.BookIV.Strong.QuarkChargeSpec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L73-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L73-L85)
 **structure
 Tau.BookIV.Strong.QuarkChargeSpec :Type**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkChargeSpec.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L85-L85)
 **def
 Tau.BookIV.Strong.instReprQuarkChargeSpec.repr :QuarkChargeSpec → ℕ → Std.Format**
 
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkChargeSpec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L85-L85)
 **instance
 Tau.BookIV.Strong.instReprQuarkChargeSpec :Repr QuarkChargeSpec**
 
@@ -258,7 +258,7 @@ Equations
 
 ### `Tau.BookIV.Strong.down_type_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L87-L89)
 **def
 Tau.BookIV.Strong.down_type_charge :QuarkChargeSpec**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.up_type_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L91-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L91-L93)
 **def
 Tau.BookIV.Strong.up_type_charge :QuarkChargeSpec**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.down_charge_minus_third`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L95-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L95-L99)
 **theorem
 Tau.BookIV.Strong.down_charge_minus_third :down_type_charge.charge_numer = -1 ∧ down_type_charge.charge_denom = 3**
 
@@ -293,7 +293,7 @@ Down-type charge is -1/3.
 
 ### `Tau.BookIV.Strong.up_charge_plus_two_thirds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L101-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L101-L105)
 **theorem
 Tau.BookIV.Strong.up_charge_plus_two_thirds :up_type_charge.charge_numer = 2 ∧ up_type_charge.charge_denom = 3**
 
@@ -304,7 +304,7 @@ Up-type charge is +2/3.
 
 ### `Tau.BookIV.Strong.ud_charge_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L107-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L107-L110)
 **theorem
 Tau.BookIV.Strong.ud_charge_sum :up_type_charge.charge_numer + down_type_charge.charge_numer = 1**
 
@@ -315,7 +315,7 @@ Charge sum of u + d = 2/3 + (-1/3) = 1/3.
 
 ### `Tau.BookIV.Strong.proton_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L112-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L112-L116)
 **theorem
 Tau.BookIV.Strong.proton_charge :up_type_charge.charge_numer + up_type_charge.charge_numer + down_type_charge.charge_numer = 3**
 
@@ -326,7 +326,7 @@ Charge sum of u + u + d = 2/3 + 2/3 + (-1/3) = 3/3 = 1 (proton).
 
 ### `Tau.BookIV.Strong.neutron_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L118-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L118-L122)
 **theorem
 Tau.BookIV.Strong.neutron_charge :up_type_charge.charge_numer + down_type_charge.charge_numer + down_type_charge.charge_numer = 0**
 
@@ -337,7 +337,7 @@ Charge sum of u + d + d = 2/3 + (-1/3) + (-1/3) = 0 (neutron).
 
 ### `Tau.BookIV.Strong.AntiquarkMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L128-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L128-L139)
 **structure
 Tau.BookIV.Strong.AntiquarkMode :Type**
 
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprAntiquarkMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L139-L139)
 **def
 Tau.BookIV.Strong.instReprAntiquarkMode.repr :AntiquarkMode → ℕ → Std.Format**
 
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprAntiquarkMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L139-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L139-L139)
 **instance
 Tau.BookIV.Strong.instReprAntiquarkMode :Repr AntiquarkMode**
 
@@ -386,7 +386,7 @@ Equations
 
 ### `Tau.BookIV.Strong.quark_to_antiquark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L141-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L141-L148)
 **def
 Tau.BookIV.Strong.quark_to_antiquark
 (q : QuarkMode)
@@ -402,7 +402,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.LemniscateModeClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L154-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L154-L162)
 **inductive
 Tau.BookIV.Strong.LemniscateModeClass :Type**
 
@@ -424,7 +424,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLemniscateModeClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
 **def
 Tau.BookIV.Strong.instReprLemniscateModeClass.repr :LemniscateModeClass → ℕ → Std.Format**
 
@@ -436,7 +436,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLemniscateModeClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
 **instance
 Tau.BookIV.Strong.instReprLemniscateModeClass :Repr LemniscateModeClass**
 
@@ -447,7 +447,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instDecidableEqLemniscateModeClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
 **instance
 Tau.BookIV.Strong.instDecidableEqLemniscateModeClass :DecidableEq LemniscateModeClass**
 
@@ -458,7 +458,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqLemniscateModeClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
 **instance
 Tau.BookIV.Strong.instBEqLemniscateModeClass :BEq LemniscateModeClass**
 
@@ -469,7 +469,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqLemniscateModeClass.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L162-L162)
 **def
 Tau.BookIV.Strong.instBEqLemniscateModeClass.beq :LemniscateModeClass → LemniscateModeClass → Bool**
 
@@ -481,7 +481,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.QuarkGenerations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L164-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L164-L177)
 **structure
 Tau.BookIV.Strong.QuarkGenerations :Type**
 
@@ -509,7 +509,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQuarkGenerations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L177-L177)
 **instance
 Tau.BookIV.Strong.instReprQuarkGenerations :Repr QuarkGenerations**
 
@@ -520,7 +520,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprQuarkGenerations.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L177-L177)
 **def
 Tau.BookIV.Strong.instReprQuarkGenerations.repr :QuarkGenerations → ℕ → Std.Format**
 
@@ -532,7 +532,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.quark_generations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L179-L179)
 **def
 Tau.BookIV.Strong.quark_generations :QuarkGenerations**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.three_generations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L181-L182)
 **theorem
 Tau.BookIV.Strong.three_generations :quark_generations.num_generations = 3**
 
@@ -553,7 +553,7 @@ Tau.BookIV.Strong.three_generations :quark_generations.num_generations = 3**
 
 ### `Tau.BookIV.Strong.mode_classes_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L184-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L184-L189)
 **theorem
 Tau.BookIV.Strong.mode_classes_distinct :quark_generations.gen1_class ≠ quark_generations.gen2_class ∧ quark_generations.gen2_class ≠ quark_generations.gen3_class ∧ quark_generations.gen1_class ≠ quark_generations.gen3_class**
 
@@ -564,7 +564,7 @@ All three mode classes are distinct.
 
 ### `Tau.BookIV.Strong.GenerationMassOrdering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L195-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L195-L207)
 **structure
 Tau.BookIV.Strong.GenerationMassOrdering :Type**
 
@@ -590,7 +590,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGenerationMassOrdering.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L207-L207)
 **def
 Tau.BookIV.Strong.instReprGenerationMassOrdering.repr :GenerationMassOrdering → ℕ → Std.Format**
 
@@ -602,7 +602,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGenerationMassOrdering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L207-L207)
 **instance
 Tau.BookIV.Strong.instReprGenerationMassOrdering :Repr GenerationMassOrdering**
 
@@ -613,7 +613,7 @@ Equations
 
 ### `Tau.BookIV.Strong.generation_mass_ordering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L209-L209)
 **def
 Tau.BookIV.Strong.generation_mass_ordering :GenerationMassOrdering**
 
@@ -625,7 +625,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.GluonCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L215-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L215-L224)
 **structure
 Tau.BookIV.Strong.GluonCount :Type**
 
@@ -648,7 +648,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGluonCount.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L224-L224)
 **def
 Tau.BookIV.Strong.instReprGluonCount.repr :GluonCount → ℕ → Std.Format**
 
@@ -660,7 +660,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGluonCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L224-L224)
 **instance
 Tau.BookIV.Strong.instReprGluonCount :Repr GluonCount**
 
@@ -671,7 +671,7 @@ Equations
 
 ### `Tau.BookIV.Strong.gluon_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L226-L226)
 **def
 Tau.BookIV.Strong.gluon_count :GluonCount**
 
@@ -683,7 +683,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.eight_gluons`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L228-L228)
 **theorem
 Tau.BookIV.Strong.eight_gluons :gluon_count.count = 8**
 
@@ -692,7 +692,7 @@ Tau.BookIV.Strong.eight_gluons :gluon_count.count = 8**
 
 ### `Tau.BookIV.Strong.gluon_dim_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L230-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L230-L231)
 **theorem
 Tau.BookIV.Strong.gluon_dim_formula :3 ^ 2 - 1 = 8**
 
@@ -703,7 +703,7 @@ Verify 3^2 - 1 = 8.
 
 ### `Tau.BookIV.Strong.GluonVertices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L237-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L237-L248)
 **structure
 Tau.BookIV.Strong.GluonVertices :Type**
 
@@ -732,7 +732,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGluonVertices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L248-L248)
 **instance
 Tau.BookIV.Strong.instReprGluonVertices :Repr GluonVertices**
 
@@ -743,7 +743,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprGluonVertices.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L248-L248)
 **def
 Tau.BookIV.Strong.instReprGluonVertices.repr :GluonVertices → ℕ → Std.Format**
 
@@ -755,7 +755,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.gluon_vertices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L250-L250)
 **def
 Tau.BookIV.Strong.gluon_vertices :GluonVertices**
 
@@ -767,7 +767,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.two_vertex_types`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L252-L252)
 **theorem
 Tau.BookIV.Strong.two_vertex_types :gluon_vertices.vertex_types = 2**
 
@@ -776,7 +776,7 @@ Tau.BookIV.Strong.two_vertex_types :gluon_vertices.vertex_types = 2**
 
 ### `Tau.BookIV.Strong.StructuralAF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L258-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L258-L267)
 **structure
 Tau.BookIV.Strong.StructuralAF :Type**
 
@@ -799,7 +799,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStructuralAF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L267-L267)
 **instance
 Tau.BookIV.Strong.instReprStructuralAF :Repr StructuralAF**
 
@@ -810,7 +810,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprStructuralAF.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L267-L267)
 **def
 Tau.BookIV.Strong.instReprStructuralAF.repr :StructuralAF → ℕ → Std.Format**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.structural_af`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L269-L269)
 **def
 Tau.BookIV.Strong.structural_af :StructuralAF**
 
@@ -834,7 +834,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.AFFromNcNf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L275-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L275-L287)
 **structure
 Tau.BookIV.Strong.AFFromNcNf :Type**
 
@@ -861,7 +861,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprAFFromNcNf.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L287-L287)
 **def
 Tau.BookIV.Strong.instReprAFFromNcNf.repr :AFFromNcNf → ℕ → Std.Format**
 
@@ -873,7 +873,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprAFFromNcNf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L287-L287)
 **instance
 Tau.BookIV.Strong.instReprAFFromNcNf :Repr AFFromNcNf**
 
@@ -884,7 +884,7 @@ Equations
 
 ### `Tau.BookIV.Strong.af_from_nc_nf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L289-L289)
 **def
 Tau.BookIV.Strong.af_from_nc_nf :AFFromNcNf**
 
@@ -896,7 +896,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.af_condition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L291-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L291-L293)
 **theorem
 Tau.BookIV.Strong.af_condition :2 * af_from_nc_nf.nf < 11 * af_from_nc_nf.nc**
 
@@ -907,7 +907,7 @@ Tau.BookIV.Strong.af_condition :2 * af_from_nc_nf.nf < 11 * af_from_nc_nf.nc**
 
 ### `Tau.BookIV.Strong.six_flavors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L295-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L295-L296)
 **theorem
 Tau.BookIV.Strong.six_flavors :af_from_nc_nf.nf = 6**
 
@@ -918,7 +918,7 @@ N_f = 6: exactly 6 quark flavors.
 
 ### `Tau.BookIV.Strong.MesonState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L302-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L302-L315)
 **structure
 Tau.BookIV.Strong.MesonState :Type**
 
@@ -947,7 +947,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprMesonState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L315-L315)
 **def
 Tau.BookIV.Strong.instReprMesonState.repr :MesonState → ℕ → Std.Format**
 
@@ -959,7 +959,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprMesonState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L315-L315)
 **instance
 Tau.BookIV.Strong.instReprMesonState :Repr MesonState**
 
@@ -970,7 +970,7 @@ Equations
 
 ### `Tau.BookIV.Strong.mk_meson`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L317-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L317-L323)
 **def
 Tau.BookIV.Strong.mk_meson
 (q_flavor aq_flavor : String)
@@ -988,7 +988,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.pi_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L325-L326)
 **def
 Tau.BookIV.Strong.pi_plus :MesonState**
 
@@ -1002,7 +1002,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.pi_plus_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L328-L329)
 **theorem
 Tau.BookIV.Strong.pi_plus_singlet :pi_plus.is_singlet = true**
 
@@ -1013,7 +1013,7 @@ Pi+ is a color singlet.
 
 ### `Tau.BookIV.Strong.BaryonState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L335-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L335-L348)
 **structure
 Tau.BookIV.Strong.BaryonState :Type**
 
@@ -1040,7 +1040,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprBaryonState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L348-L348)
 **def
 Tau.BookIV.Strong.instReprBaryonState.repr :BaryonState → ℕ → Std.Format**
 
@@ -1052,7 +1052,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprBaryonState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L348-L348)
 **instance
 Tau.BookIV.Strong.instReprBaryonState :Repr BaryonState**
 
@@ -1063,7 +1063,7 @@ Equations
 
 ### `Tau.BookIV.Strong.proton_state`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L350-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L350-L354)
 **def
 Tau.BookIV.Strong.proton_state :BaryonState**
 
@@ -1077,7 +1077,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.neutron_state`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L356-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L356-L360)
 **def
 Tau.BookIV.Strong.neutron_state :BaryonState**
 
@@ -1091,7 +1091,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.proton_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L362-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L362-L365)
 **theorem
 Tau.BookIV.Strong.proton_singlet :(proton_state.color_1 + proton_state.color_2 + proton_state.color_3) % 3 = 0**
 
@@ -1102,7 +1102,7 @@ Proton is a color singlet: (0+1+2) mod 3 = 0.
 
 ### `Tau.BookIV.Strong.neutron_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/QuarksGluons.lean#L367-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/QuarksGluons.lean#L367-L370)
 **theorem
 Tau.BookIV.Strong.neutron_singlet :(neutron_state.color_1 + neutron_state.color_2 + neutron_state.color_3) % 3 = 0**
 

@@ -130,7 +130,7 @@ EM-superfluid + quantized flux Φ_τ
 
 ### `Tau.BookIV.Physics.DefectComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L56-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L56-L68)
 **inductive
 Tau.BookIV.Physics.DefectComponent :Type**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprDefectComponent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **def
 Tau.BookIV.Physics.instReprDefectComponent.repr :DefectComponent → ℕ → Std.Format**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprDefectComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **instance
 Tau.BookIV.Physics.instReprDefectComponent :Repr DefectComponent**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqDefectComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **instance
 Tau.BookIV.Physics.instDecidableEqDefectComponent :DecidableEq DefectComponent**
 
@@ -191,7 +191,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqDefectComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **instance
 Tau.BookIV.Physics.instBEqDefectComponent :BEq DefectComponent**
 
@@ -202,7 +202,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqDefectComponent.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **def
 Tau.BookIV.Physics.instBEqDefectComponent.beq :DefectComponent → DefectComponent → Bool**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedDefectComponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **instance
 Tau.BookIV.Physics.instInhabitedDefectComponent :Inhabited DefectComponent**
 
@@ -225,7 +225,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedDefectComponent.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L68-L68)
 **def
 Tau.BookIV.Physics.instInhabitedDefectComponent.default :DefectComponent**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.DefectTuple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L74-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L74-L88)
 **structure
 Tau.BookIV.Physics.DefectTuple :Type**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprDefectTuple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instReprDefectTuple :Repr DefectTuple**
 
@@ -277,7 +277,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprDefectTuple.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instReprDefectTuple.repr :DefectTuple → ℕ → Std.Format**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqDefectTuple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instDecidableEqDefectTuple :DecidableEq DefectTuple**
 
@@ -300,7 +300,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqDefectTuple.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instDecidableEqDefectTuple.decEq
 (x✝ x✝¹ : DefectTuple)
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instBEqDefectTuple.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **def
 Tau.BookIV.Physics.instBEqDefectTuple.beq :DefectTuple → DefectTuple → Bool**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instBEqDefectTuple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L88-L88)
 **instance
 Tau.BookIV.Physics.instBEqDefectTuple :BEq DefectTuple**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookIV.Physics.DefectTuple.total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L90-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L90-L92)
 **def
 Tau.BookIV.Physics.DefectTuple.total
 (d : DefectTuple)
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.FluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L98-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L98-L128)
 **inductive
 Tau.BookIV.Physics.FluidRegime :Type**
 
@@ -403,7 +403,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **instance
 Tau.BookIV.Physics.instReprFluidRegime :Repr FluidRegime**
 
@@ -414,7 +414,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprFluidRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **def
 Tau.BookIV.Physics.instReprFluidRegime.repr :FluidRegime → ℕ → Std.Format**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **instance
 Tau.BookIV.Physics.instDecidableEqFluidRegime :DecidableEq FluidRegime**
 
@@ -437,7 +437,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **instance
 Tau.BookIV.Physics.instBEqFluidRegime :BEq FluidRegime**
 
@@ -448,7 +448,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqFluidRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **def
 Tau.BookIV.Physics.instBEqFluidRegime.beq :FluidRegime → FluidRegime → Bool**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **instance
 Tau.BookIV.Physics.instInhabitedFluidRegime :Inhabited FluidRegime**
 
@@ -471,7 +471,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedFluidRegime.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L128-L128)
 **def
 Tau.BookIV.Physics.instInhabitedFluidRegime.default :FluidRegime**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.RegimeSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L134-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L134-L154)
 **structure
 Tau.BookIV.Physics.RegimeSignature :Type**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprRegimeSignature.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L154-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L154-L154)
 **def
 Tau.BookIV.Physics.instReprRegimeSignature.repr :RegimeSignature → ℕ → Std.Format**
 
@@ -533,7 +533,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprRegimeSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L154-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L154-L154)
 **instance
 Tau.BookIV.Physics.instReprRegimeSignature :Repr RegimeSignature**
 
@@ -544,7 +544,7 @@ Equations
 
 ### `Tau.BookIV.Physics.crystal_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L160-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L160-L168)
 **def
 Tau.BookIV.Physics.crystal_signature :RegimeSignature**
 
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.glass_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L170-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L170-L178)
 **def
 Tau.BookIV.Physics.glass_signature :RegimeSignature**
 
@@ -572,7 +572,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.euler_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L180-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L180-L188)
 **def
 Tau.BookIV.Physics.euler_signature :RegimeSignature**
 
@@ -586,7 +586,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.ns_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L190-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L190-L198)
 **def
 Tau.BookIV.Physics.ns_signature :RegimeSignature**
 
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.mhd_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L200-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L200-L208)
 **def
 Tau.BookIV.Physics.mhd_signature :RegimeSignature**
 
@@ -614,7 +614,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.plasma_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L210-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L210-L218)
 **def
 Tau.BookIV.Physics.plasma_signature :RegimeSignature**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.superfluid_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L220-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L220-L228)
 **def
 Tau.BookIV.Physics.superfluid_signature :RegimeSignature**
 
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.superconductor_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L230-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L230-L238)
 **def
 Tau.BookIV.Physics.superconductor_signature :RegimeSignature**
 
@@ -656,7 +656,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_regime_signatures`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L240-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L240-L243)
 **def
 Tau.BookIV.Physics.all_regime_signatures :List RegimeSignature**
 
@@ -670,7 +670,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.regime_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L245-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L245-L255)
 **def
 Tau.BookIV.Physics.regime_signature
 (r : FluidRegime)
@@ -693,7 +693,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.four_components_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L261-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L261-L264)
 **theorem
 Tau.BookIV.Physics.four_components_exhaust
 (c : DefectComponent)
@@ -706,7 +706,7 @@ Exactly 4 defect components.
 
 ### `Tau.BookIV.Physics.eight_regimes_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L266-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L266-L270)
 **theorem
 Tau.BookIV.Physics.eight_regimes_exhaust
 (r : FluidRegime)
@@ -719,7 +719,7 @@ Exactly 8 fluid regimes.
 
 ### `Tau.BookIV.Physics.euler_no_dissipation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L272-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L272-L274)
 **theorem
 Tau.BookIV.Physics.euler_no_dissipation :(regime_signature FluidRegime.Euler).dissipation = false**
 
@@ -730,7 +730,7 @@ Euler regime has no dissipation (inviscid).
 
 ### `Tau.BookIV.Physics.euler_kelvin_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L276-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L276-L278)
 **theorem
 Tau.BookIV.Physics.euler_kelvin_invariant :(regime_signature FluidRegime.Euler).kelvin_invariant = true**
 
@@ -741,7 +741,7 @@ Euler regime preserves Kelvin circulation invariant.
 
 ### `Tau.BookIV.Physics.ns_has_dissipation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L280-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L280-L282)
 **theorem
 Tau.BookIV.Physics.ns_has_dissipation :(regime_signature FluidRegime.NavierStokes).dissipation = true**
 
@@ -752,7 +752,7 @@ Navier-Stokes regime has dissipation.
 
 ### `Tau.BookIV.Physics.superfluid_quantized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L284-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L284-L286)
 **theorem
 Tau.BookIV.Physics.superfluid_quantized :(regime_signature FluidRegime.Superfluid).quantized_circulation = true**
 
@@ -763,7 +763,7 @@ Superfluid has quantized circulation.
 
 ### `Tau.BookIV.Physics.superfluid_no_dissipation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L288-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L288-L290)
 **theorem
 Tau.BookIV.Physics.superfluid_no_dissipation :(regime_signature FluidRegime.Superfluid).dissipation = false**
 
@@ -774,7 +774,7 @@ Superfluid has no dissipation (dissipation gap).
 
 ### `Tau.BookIV.Physics.superconductor_em_coupled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L292-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L292-L294)
 **theorem
 Tau.BookIV.Physics.superconductor_em_coupled :(regime_signature FluidRegime.Superconductor).em_coupled = true**
 
@@ -785,7 +785,7 @@ Superconductor is EM-coupled (Meissner effect).
 
 ### `Tau.BookIV.Physics.crystal_arrested`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L296-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L296-L298)
 **theorem
 Tau.BookIV.Physics.crystal_arrested :(regime_signature FluidRegime.Crystal).mobility_bound = some 0**
 
@@ -796,7 +796,7 @@ Crystal regime has arrested transport (mobility bound = 0).
 
 ### `Tau.BookIV.Physics.mhd_em_coupled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L300-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L300-L302)
 **theorem
 Tau.BookIV.Physics.mhd_em_coupled :(regime_signature FluidRegime.MHD).em_coupled = true**
 
@@ -807,7 +807,7 @@ MHD is EM-coupled (frozen flux).
 
 ### `Tau.BookIV.Physics.defect_total_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L304-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L304-L306)
 **theorem
 Tau.BookIV.Physics.defect_total_sum
 (d : DefectTuple)
@@ -820,7 +820,7 @@ Defect tuple total is sum of all components.
 
 ### `Tau.BookIV.Physics.all_signatures_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/DefectFunctional.lean#L308-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/DefectFunctional.lean#L308-L309)
 **theorem
 Tau.BookIV.Physics.all_signatures_count :all_regime_signatures.length = 8**
 

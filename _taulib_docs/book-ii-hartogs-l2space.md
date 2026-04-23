@@ -61,7 +61,7 @@ the inverse system of L² spaces is coherent.
 
 ### `Tau.BookII.Hartogs.inner_product_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L44-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L44-L51)
 **def
 Tau.BookII.Hartogs.inner_product_sum
 (f g : ℕ → ℤ)
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.inner_product_sum.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L48-L50)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L48-L50)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.inner_product_sum.go
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.L2Inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L53-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L53-L56)
 **structure
 Tau.BookII.Hartogs.L2Inner :Type**
 
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_inner_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L58-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L58-L61)
 **def
 Tau.BookII.Hartogs.l2_inner_product
 (f g : ℕ → ℤ)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.inner_product_symmetry_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L63-L65)
 **def
 Tau.BookII.Hartogs.inner_product_symmetry_check
 (f g : ℕ → ℤ)
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.inner_product_linearity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L67-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L67-L73)
 **def
 Tau.BookII.Hartogs.inner_product_linearity_check
 (a b : ℤ)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_norm_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L79-L81)
 **def
 Tau.BookII.Hartogs.l2_norm_sq
 (f : ℕ → ℤ)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.norm_positivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L83-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L83-L94)
 **def
 Tau.BookII.Hartogs.norm_positivity_check
 (k : ℕ)
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.norm_positivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L88-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L88-L93)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.norm_positivity_check.go
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.norm_definiteness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L96-L99)
 **def
 Tau.BookII.Hartogs.norm_definiteness_check
 (k : ℕ)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L105-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L105-L111)
 **def
 Tau.BookII.Hartogs.cauchy_schwarz_check
 (f g : ℕ → ℤ)
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_exhaustive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L113-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L113-L130)
 **def
 Tau.BookII.Hartogs.cauchy_schwarz_exhaustive
 (k : ℕ)
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_exhaustive.go_f`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L118-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L118-L121)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.cauchy_schwarz_exhaustive.go_f
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_exhaustive.go_g`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L123-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L123-L129)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.cauchy_schwarz_exhaustive.go_g
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L136-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L136-L156)
 **def
 Tau.BookII.Hartogs.l2_completeness_check
 (k : ℕ)
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_basis_orthogonality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L162-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L162-L182)
 **def
 Tau.BookII.Hartogs.l2_basis_orthogonality_check
 (k : ℕ)
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_basis_orthogonality_check.go_a`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L168-L171)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L168-L171)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.l2_basis_orthogonality_check.go_a
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.l2_basis_orthogonality_check.go_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L173-L181)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L173-L181)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.l2_basis_orthogonality_check.go_b
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.inner_product_symmetry_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L188-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L188-L192)
 **theorem
 Tau.BookII.Hartogs.inner_product_symmetry_2 :inner_product_symmetry_check (fun (x : ℕ) => ↑x) (fun (x : ℕ) => ↑x * ↑x) 2 = true**
 
@@ -376,7 +376,7 @@ Tau.BookII.Hartogs.inner_product_symmetry_2 :inner_product_symmetry_check (fun (
 
 ### `Tau.BookII.Hartogs.inner_product_linearity_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L194-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L194-L198)
 **theorem
 Tau.BookII.Hartogs.inner_product_linearity_2 :inner_product_linearity_check 2 3 (fun (x : ℕ) => ↑x) (fun (x : ℕ) => 1) (fun (x : ℕ) => ↑x * ↑x) 2 = true**
 
@@ -387,7 +387,7 @@ Tau.BookII.Hartogs.inner_product_linearity_2 :inner_product_linearity_check 2 3 
 
 ### `Tau.BookII.Hartogs.norm_positivity_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L200-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L200-L202)
 **theorem
 Tau.BookII.Hartogs.norm_positivity_2 :norm_positivity_check 2 = true**
 
@@ -398,7 +398,7 @@ Tau.BookII.Hartogs.norm_positivity_2 :norm_positivity_check 2 = true**
 
 ### `Tau.BookII.Hartogs.norm_definiteness_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L204-L206)
 **theorem
 Tau.BookII.Hartogs.norm_definiteness_2 :norm_definiteness_check 2 = true**
 
@@ -409,7 +409,7 @@ Tau.BookII.Hartogs.norm_definiteness_2 :norm_definiteness_check 2 = true**
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_stage1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L208-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L208-L210)
 **theorem
 Tau.BookII.Hartogs.cauchy_schwarz_stage1 :cauchy_schwarz_exhaustive 1 = true**
 
@@ -420,7 +420,7 @@ Tau.BookII.Hartogs.cauchy_schwarz_stage1 :cauchy_schwarz_exhaustive 1 = true**
 
 ### `Tau.BookII.Hartogs.cauchy_schwarz_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L212-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L212-L214)
 **theorem
 Tau.BookII.Hartogs.cauchy_schwarz_stage2 :cauchy_schwarz_exhaustive 2 = true**
 
@@ -431,7 +431,7 @@ Tau.BookII.Hartogs.cauchy_schwarz_stage2 :cauchy_schwarz_exhaustive 2 = true**
 
 ### `Tau.BookII.Hartogs.l2_completeness_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L216-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L216-L218)
 **theorem
 Tau.BookII.Hartogs.l2_completeness_1 :l2_completeness_check 1 = true**
 
@@ -442,7 +442,7 @@ Tau.BookII.Hartogs.l2_completeness_1 :l2_completeness_check 1 = true**
 
 ### `Tau.BookII.Hartogs.l2_completeness_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L220-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L220-L222)
 **theorem
 Tau.BookII.Hartogs.l2_completeness_2 :l2_completeness_check 2 = true**
 
@@ -453,7 +453,7 @@ Tau.BookII.Hartogs.l2_completeness_2 :l2_completeness_check 2 = true**
 
 ### `Tau.BookII.Hartogs.l2_basis_orthogonal_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L224-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L224-L226)
 **theorem
 Tau.BookII.Hartogs.l2_basis_orthogonal_1 :l2_basis_orthogonality_check 1 = true**
 
@@ -464,7 +464,7 @@ Tau.BookII.Hartogs.l2_basis_orthogonal_1 :l2_basis_orthogonality_check 1 = true*
 
 ### `Tau.BookII.Hartogs.l2_basis_orthogonal_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/L2Space.lean#L228-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/L2Space.lean#L228-L230)
 **theorem
 Tau.BookII.Hartogs.l2_basis_orthogonal_2 :l2_basis_orthogonality_check 2 = true**
 

@@ -79,7 +79,7 @@ Key properties:
 
 ### `Tau.Boundary.chi_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L46-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L46-L49)
 **def
 Tau.Boundary.chi_plus
 (z : Polarity.SplitComplex)
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.Boundary.chi_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L51-L54)
 **def
 Tau.Boundary.chi_minus
 (z : Polarity.SplitComplex)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.Boundary.chi_plus_val`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L56-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L56-L57)
 **def
 Tau.Boundary.chi_plus_val
 (z : Polarity.SplitComplex)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.Boundary.chi_minus_val`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L59-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L59-L60)
 **def
 Tau.Boundary.chi_minus_val
 (z : Polarity.SplitComplex)
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.Boundary.chi_plus_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L62-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L62-L64)
 **theorem
 Tau.Boundary.chi_plus_eq
 (z : Polarity.SplitComplex)
@@ -158,7 +158,7 @@ Bridge: chi_plus decomposes as sector-embedded chi_plus_val.
 
 ### `Tau.Boundary.chi_minus_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L66-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L66-L68)
 **theorem
 Tau.Boundary.chi_minus_eq
 (z : Polarity.SplitComplex)
@@ -171,7 +171,7 @@ Bridge: chi_minus decomposes as sector-embedded chi_minus_val.
 
 ### `Tau.Boundary.chi_plus_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L74-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L74-L79)
 **theorem
 Tau.Boundary.chi_plus_add
 (a b : Polarity.SplitComplex)
@@ -184,7 +184,7 @@ Tau.Boundary.chi_plus_add
 
 ### `Tau.Boundary.chi_plus_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L81-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L81-L88)
 **theorem
 Tau.Boundary.chi_plus_mul
 (a b : Polarity.SplitComplex)
@@ -197,7 +197,7 @@ Tau.Boundary.chi_plus_mul
 
 ### `Tau.Boundary.chi_plus_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L90-L93)
 **theorem
 Tau.Boundary.chi_plus_one :chi_plus Polarity.SplitComplex.one = { b_sector := 1, c_sector := 0 }**
 
@@ -208,7 +208,7 @@ Tau.Boundary.chi_plus_one :chi_plus Polarity.SplitComplex.one = { b_sector := 1,
 
 ### `Tau.Boundary.chi_plus_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L95-L98)
 **theorem
 Tau.Boundary.chi_plus_zero :chi_plus Polarity.SplitComplex.zero = SectorPair.zero**
 
@@ -219,7 +219,7 @@ Tau.Boundary.chi_plus_zero :chi_plus Polarity.SplitComplex.zero = SectorPair.zer
 
 ### `Tau.Boundary.chi_plus_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L100-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L100-L104)
 **theorem
 Tau.Boundary.chi_plus_neg
 (z : Polarity.SplitComplex)
@@ -232,7 +232,7 @@ Tau.Boundary.chi_plus_neg
 
 ### `Tau.Boundary.chi_minus_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L110-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L110-L115)
 **theorem
 Tau.Boundary.chi_minus_add
 (a b : Polarity.SplitComplex)
@@ -245,7 +245,7 @@ Tau.Boundary.chi_minus_add
 
 ### `Tau.Boundary.chi_minus_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L117-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L117-L124)
 **theorem
 Tau.Boundary.chi_minus_mul
 (a b : Polarity.SplitComplex)
@@ -258,7 +258,7 @@ Tau.Boundary.chi_minus_mul
 
 ### `Tau.Boundary.chi_minus_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L126-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L126-L129)
 **theorem
 Tau.Boundary.chi_minus_one :chi_minus Polarity.SplitComplex.one = { b_sector := 0, c_sector := 1 }**
 
@@ -269,7 +269,7 @@ Tau.Boundary.chi_minus_one :chi_minus Polarity.SplitComplex.one = { b_sector := 
 
 ### `Tau.Boundary.chi_minus_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L131-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L131-L134)
 **theorem
 Tau.Boundary.chi_minus_zero :chi_minus Polarity.SplitComplex.zero = SectorPair.zero**
 
@@ -280,7 +280,7 @@ Tau.Boundary.chi_minus_zero :chi_minus Polarity.SplitComplex.zero = SectorPair.z
 
 ### `Tau.Boundary.chi_minus_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L136-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L136-L140)
 **theorem
 Tau.Boundary.chi_minus_neg
 (z : Polarity.SplitComplex)
@@ -293,7 +293,7 @@ Tau.Boundary.chi_minus_neg
 
 ### `Tau.Boundary.chi_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L146-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L146-L151)
 **theorem
 Tau.Boundary.chi_complete
 (z : Polarity.SplitComplex)
@@ -307,7 +307,7 @@ The two characters together reconstruct the full sector decomposition.
 
 ### `Tau.Boundary.to_sectors_eq_chi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L153-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L153-L156)
 **theorem
 Tau.Boundary.to_sectors_eq_chi
 (z : Polarity.SplitComplex)
@@ -320,7 +320,7 @@ Completeness in terms of values: the sector pair equals (χ₊ val, χ₋ val).
 
 ### `Tau.Boundary.chi_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L162-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L162-L166)
 **theorem
 Tau.Boundary.chi_orthogonal
 (z w : Polarity.SplitComplex)
@@ -334,7 +334,7 @@ The B-sector and C-sector are mutually annihilating.
 
 ### `Tau.Boundary.chi_orthogonal'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L168-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L168-L171)
 **theorem
 Tau.Boundary.chi_orthogonal'
 (z w : Polarity.SplitComplex)
@@ -347,7 +347,7 @@ Orthogonality in the other order.
 
 ### `Tau.Boundary.chi_plus_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L177-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L177-L181)
 **theorem
 Tau.Boundary.chi_plus_idempotent
 (z : Polarity.SplitComplex)
@@ -360,7 +360,7 @@ Tau.Boundary.chi_plus_idempotent
 
 ### `Tau.Boundary.chi_plus_of_e_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L183-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L183-L186)
 **theorem
 Tau.Boundary.chi_plus_of_e_plus :chi_plus { re := 1, im := 1 } = { b_sector := 2, c_sector := 0 }**
 
@@ -371,7 +371,7 @@ Tau.Boundary.chi_plus_of_e_plus :chi_plus { re := 1, im := 1 } = { b_sector := 2
 
 ### `Tau.Boundary.chi_minus_of_e_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L188-L191)
 **theorem
 Tau.Boundary.chi_minus_of_e_minus :chi_minus { re := 1, im := -1 } = { b_sector := 0, c_sector := 2 }**
 
@@ -382,7 +382,7 @@ Tau.Boundary.chi_minus_of_e_minus :chi_minus { re := 1, im := -1 } = { b_sector 
 
 ### `Tau.Boundary.chi_plus_of_e_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L193-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L193-L196)
 **theorem
 Tau.Boundary.chi_plus_of_e_minus :chi_plus { re := 1, im := -1 } = SectorPair.zero**
 
@@ -393,7 +393,7 @@ Tau.Boundary.chi_plus_of_e_minus :chi_plus { re := 1, im := -1 } = SectorPair.ze
 
 ### `Tau.Boundary.chi_minus_of_e_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L198-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L198-L201)
 **theorem
 Tau.Boundary.chi_minus_of_e_plus :chi_minus { re := 1, im := 1 } = SectorPair.zero**
 
@@ -404,7 +404,7 @@ Tau.Boundary.chi_minus_of_e_plus :chi_minus { re := 1, im := 1 } = SectorPair.ze
 
 ### `Tau.Boundary.sigma_swaps_chi_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L207-L210)
 **theorem
 Tau.Boundary.sigma_swaps_chi_plus
 (z : Polarity.SplitComplex)
@@ -417,7 +417,7 @@ Tau.Boundary.sigma_swaps_chi_plus
 
 ### `Tau.Boundary.sigma_swaps_chi_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L212-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L212-L215)
 **theorem
 Tau.Boundary.sigma_swaps_chi_minus
 (z : Polarity.SplitComplex)
@@ -430,7 +430,7 @@ Tau.Boundary.sigma_swaps_chi_minus
 
 ### `Tau.Boundary.sigma_swaps_chi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L217-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L217-L223)
 **theorem
 Tau.Boundary.sigma_swaps_chi
 (z : Polarity.SplitComplex)
@@ -443,7 +443,7 @@ Tau.Boundary.sigma_swaps_chi
 
 ### `Tau.Boundary.chi_split_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L229-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L229-L233)
 **theorem
 Tau.Boundary.chi_split_b_sector
 (p N : Denotation.TauIdx)
@@ -459,7 +459,7 @@ e_plus_sector = (1,0), which is in the image of chi_plus (up to scaling).
 
 ### `Tau.Boundary.chi_split_c_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L235-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L235-L239)
 **theorem
 Tau.Boundary.chi_split_c_sector
 (p N : Denotation.TauIdx)
@@ -475,7 +475,7 @@ e_minus_sector = (0,1), which is in the image of chi_minus (up to scaling).
 
 ### `Tau.Boundary.chi_plus_j`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L245-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L245-L247)
 **theorem
 Tau.Boundary.chi_plus_j :chi_plus_val Polarity.SplitComplex.j = 1**
 
@@ -486,7 +486,7 @@ Tau.Boundary.chi_plus_j :chi_plus_val Polarity.SplitComplex.j = 1**
 
 ### `Tau.Boundary.chi_minus_j`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L249-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L249-L251)
 **theorem
 Tau.Boundary.chi_minus_j :chi_minus_val Polarity.SplitComplex.j = -1**
 
@@ -497,7 +497,7 @@ Tau.Boundary.chi_minus_j :chi_minus_val Polarity.SplitComplex.j = -1**
 
 ### `Tau.Boundary.chi_vals_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Characters.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Characters.lean#L253-L255)
 **theorem
 Tau.Boundary.chi_vals_one :chi_plus_val Polarity.SplitComplex.one = 1 ∧ chi_minus_val Polarity.SplitComplex.one = 1**
 

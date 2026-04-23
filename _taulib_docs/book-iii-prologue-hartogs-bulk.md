@@ -57,7 +57,7 @@ coherence.
 
 ### `Tau.BookIII.Prologue.HartogsBulk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L39-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L39-L52)
 **structure
 Tau.BookIII.Prologue.HartogsBulk :Type**
 
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.instReprHartogsBulk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
 **instance
 Tau.BookIII.Prologue.instReprHartogsBulk :Repr HartogsBulk**
 
@@ -92,7 +92,7 @@ Equations
 
 ### `Tau.BookIII.Prologue.instReprHartogsBulk.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
 **def
 Tau.BookIII.Prologue.instReprHartogsBulk.repr :HartogsBulk → ℕ → Std.Format**
 
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.instDecidableEqHartogsBulk.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
 **def
 Tau.BookIII.Prologue.instDecidableEqHartogsBulk.decEq
 (x✝ x✝¹ : HartogsBulk)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.instDecidableEqHartogsBulk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L52-L52)
 **instance
 Tau.BookIII.Prologue.instDecidableEqHartogsBulk :DecidableEq HartogsBulk**
 
@@ -129,7 +129,7 @@ Equations
 
 ### `Tau.BookIII.Prologue.bulk_coordinate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L54-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L54-L58)
 **def
 Tau.BookIII.Prologue.bulk_coordinate
 (hb : HartogsBulk)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.hartogs_bulk_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L60-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L60-L69)
 **def
 Tau.BookIII.Prologue.hartogs_bulk_coherent
 (hb : HartogsBulk)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.hartogs_bulk_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L71-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L71-L84)
 **def
 Tau.BookIII.Prologue.hartogs_bulk_check
 (bound db : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.hartogs_bulk_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L76-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L76-L83)@[irreducible]
 
 **def
 Tau.BookIII.Prologue.hartogs_bulk_check.go
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.e1_gluing_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L90-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L90-L97)
 **def
 Tau.BookIII.Prologue.e1_gluing_check
 (bound db k_max : Denotation.TauIdx)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.book3_e1_established`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L99-L102)
 **def
 Tau.BookIII.Prologue.book3_e1_established
 (bound db k_max : Denotation.TauIdx)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookIII.Prologue.hartogs_bulk_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L131-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L131-L132)
 **theorem
 Tau.BookIII.Prologue.hartogs_bulk_8_3 :hartogs_bulk_check 8 3 = true**
 
@@ -247,7 +247,7 @@ Tau.BookIII.Prologue.hartogs_bulk_8_3 :hartogs_bulk_check 8 3 = true**
 
 ### `Tau.BookIII.Prologue.e1_gluing_8_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L135-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L135-L136)
 **theorem
 Tau.BookIII.Prologue.e1_gluing_8_3_3 :e1_gluing_check 8 3 3 = true**
 
@@ -256,7 +256,7 @@ Tau.BookIII.Prologue.e1_gluing_8_3_3 :e1_gluing_check 8 3 3 = true**
 
 ### `Tau.BookIII.Prologue.book3_entry_8_3_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L139-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L139-L140)
 **theorem
 Tau.BookIII.Prologue.book3_entry_8_3_3 :book3_e1_established 8 3 3 = true**
 
@@ -265,7 +265,7 @@ Tau.BookIII.Prologue.book3_entry_8_3_3 :book3_e1_established 8 3 3 = true**
 
 ### `Tau.BookIII.Prologue.bulk_tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L146-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L146-L151)
 **theorem
 Tau.BookIII.Prologue.bulk_tower_coherent
 (b c : Denotation.TauIdx)
@@ -284,7 +284,7 @@ This is reduction_compat from Book I.
 
 ### `Tau.BookIII.Prologue.bulk_reduce_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Prologue/HartogsBulk.lean#L153-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Prologue/HartogsBulk.lean#L153-L158)
 **theorem
 Tau.BookIII.Prologue.bulk_reduce_stable
 (hb : HartogsBulk)

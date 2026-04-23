@@ -100,7 +100,7 @@ The tau-NS regularity claim (IV.T93) is explicitly marked as conjectural.
 
 ### `Tau.BookIV.ManyBody.TauEulerFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L59-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L59-L77)
 **structure
 Tau.BookIV.ManyBody.TauEulerFlow :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauEulerFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L77-L77)
 **instance
 Tau.BookIV.ManyBody.instReprTauEulerFlow :Repr TauEulerFlow**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprTauEulerFlow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L77-L77)
 **def
 Tau.BookIV.ManyBody.instReprTauEulerFlow.repr :TauEulerFlow → ℕ → Std.Format**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.remark_kelvin_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L79-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L79-L83)
 **def
 Tau.BookIV.ManyBody.remark_kelvin_budget :String**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.TauNSFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L89-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L89-L106)
 **structure
 Tau.BookIV.ManyBody.TauNSFlow :Type**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauNSFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L106-L106)
 **instance
 Tau.BookIV.ManyBody.instReprTauNSFlow :Repr TauNSFlow**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprTauNSFlow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L106-L106)
 **def
 Tau.BookIV.ManyBody.instReprTauNSFlow.repr :TauNSFlow → ℕ → Std.Format**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.FiniteAtEveryLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L112-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L112-L127)
 **structure
 Tau.BookIV.ManyBody.FiniteAtEveryLevel :Type**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiniteAtEveryLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L127-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L127-L127)
 **def
 Tau.BookIV.ManyBody.instReprFiniteAtEveryLevel.repr :FiniteAtEveryLevel → ℕ → Std.Format**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiniteAtEveryLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L127-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L127-L127)
 **instance
 Tau.BookIV.ManyBody.instReprFiniteAtEveryLevel :Repr FiniteAtEveryLevel**
 
@@ -284,7 +284,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.finite_every_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L129-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L129-L130)
 **def
 Tau.BookIV.ManyBody.finite_every_level :FiniteAtEveryLevel**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.finiteness_unconditional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L132-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L132-L133)
 **theorem
 Tau.BookIV.ManyBody.finiteness_unconditional :finite_every_level.n_assumptions = 0**
 
@@ -305,7 +305,7 @@ Tau.BookIV.ManyBody.finiteness_unconditional :finite_every_level.n_assumptions =
 
 ### `Tau.BookIV.ManyBody.TauNSRegularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L143-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L143-L159)
 **structure
 Tau.BookIV.ManyBody.TauNSRegularity :Type**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauNSRegularity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L159-L159)
 **def
 Tau.BookIV.ManyBody.instReprTauNSRegularity.repr :TauNSRegularity → ℕ → Std.Format**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauNSRegularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L159-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L159-L159)
 **instance
 Tau.BookIV.ManyBody.instReprTauNSRegularity :Repr TauNSRegularity**
 
@@ -359,7 +359,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.tau_ns_regularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L161-L161)
 **def
 Tau.BookIV.ManyBody.tau_ns_regularity :TauNSRegularity**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SuperfluidRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L171-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L171-L189)
 **structure
 Tau.BookIV.ManyBody.SuperfluidRegimeCh53 :Type**
 
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L189-L189)
 **instance
 Tau.BookIV.ManyBody.instReprSuperfluidRegimeCh53 :Repr SuperfluidRegimeCh53**
 
@@ -417,7 +417,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidRegimeCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L189-L189)
 **def
 Tau.BookIV.ManyBody.instReprSuperfluidRegimeCh53.repr :SuperfluidRegimeCh53 → ℕ → Std.Format**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.superfluid_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L191-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L191-L192)
 **def
 Tau.BookIV.ManyBody.superfluid_ch53 :SuperfluidRegimeCh53**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.QuantizedCirculationProp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L198-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L198-L210)
 **structure
 Tau.BookIV.ManyBody.QuantizedCirculationProp :Type**
 
@@ -468,7 +468,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprQuantizedCirculationProp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L210-L210)
 **instance
 Tau.BookIV.ManyBody.instReprQuantizedCirculationProp :Repr QuantizedCirculationProp**
 
@@ -479,7 +479,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprQuantizedCirculationProp.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L210-L210)
 **def
 Tau.BookIV.ManyBody.instReprQuantizedCirculationProp.repr :QuantizedCirculationProp → ℕ → Std.Format**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.quantized_circulation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L212-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L212-L213)
 **def
 Tau.BookIV.ManyBody.quantized_circulation :QuantizedCirculationProp**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SuperconductorRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L219-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L219-L231)
 **structure
 Tau.BookIV.ManyBody.SuperconductorRegimeCh53 :Type**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperconductorRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L231-L231)
 **instance
 Tau.BookIV.ManyBody.instReprSuperconductorRegimeCh53 :Repr SuperconductorRegimeCh53**
 
@@ -541,7 +541,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprSuperconductorRegimeCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L231-L231)
 **def
 Tau.BookIV.ManyBody.instReprSuperconductorRegimeCh53.repr :SuperconductorRegimeCh53 → ℕ → Std.Format**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.superconductor_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L233-L233)
 **def
 Tau.BookIV.ManyBody.superconductor_ch53 :SuperconductorRegimeCh53**
 
@@ -565,7 +565,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.CrystalRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L242-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L242-L254)
 **structure
 Tau.BookIV.ManyBody.CrystalRegimeCh53 :Type**
 
@@ -592,7 +592,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprCrystalRegimeCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L254-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L254-L254)
 **def
 Tau.BookIV.ManyBody.instReprCrystalRegimeCh53.repr :CrystalRegimeCh53 → ℕ → Std.Format**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprCrystalRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L254-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L254-L254)
 **instance
 Tau.BookIV.ManyBody.instReprCrystalRegimeCh53 :Repr CrystalRegimeCh53**
 
@@ -615,7 +615,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.crystal_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L256-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L256-L257)
 **def
 Tau.BookIV.ManyBody.crystal_ch53 :CrystalRegimeCh53**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.remark_crystal_symmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L259-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L259-L262)
 **def
 Tau.BookIV.ManyBody.remark_crystal_symmetry :String**
 
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.GlassRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L264-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L264-L278)
 **structure
 Tau.BookIV.ManyBody.GlassRegimeCh53 :Type**
 
@@ -672,7 +672,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprGlassRegimeCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L278-L278)
 **def
 Tau.BookIV.ManyBody.instReprGlassRegimeCh53.repr :GlassRegimeCh53 → ℕ → Std.Format**
 
@@ -684,7 +684,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprGlassRegimeCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L278-L278)
 **instance
 Tau.BookIV.ManyBody.instReprGlassRegimeCh53 :Repr GlassRegimeCh53**
 
@@ -695,7 +695,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.glass_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L280-L281)
 **def
 Tau.BookIV.ManyBody.glass_ch53 :GlassRegimeCh53**
 
@@ -707,7 +707,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.QuasicrystalRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L290-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L290-L305)
 **structure
 Tau.BookIV.ManyBody.QuasicrystalRegime :Type**
 
@@ -738,7 +738,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprQuasicrystalRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L305-L305)
 **def
 Tau.BookIV.ManyBody.instReprQuasicrystalRegime.repr :QuasicrystalRegime → ℕ → Std.Format**
 
@@ -750,7 +750,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprQuasicrystalRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L305-L305)
 **instance
 Tau.BookIV.ManyBody.instReprQuasicrystalRegime :Repr QuasicrystalRegime**
 
@@ -761,7 +761,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.quasicrystal_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L307-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L307-L308)
 **def
 Tau.BookIV.ManyBody.quasicrystal_regime :QuasicrystalRegime**
 
@@ -773,7 +773,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.remark_penrose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L310-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L310-L315)
 **def
 Tau.BookIV.ManyBody.remark_penrose :String**
 
@@ -789,7 +789,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.FirstOrderCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L321-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L321-L334)
 **structure
 Tau.BookIV.ManyBody.FirstOrderCh53 :Type**
 
@@ -817,7 +817,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFirstOrderCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L334-L334)
 **instance
 Tau.BookIV.ManyBody.instReprFirstOrderCh53 :Repr FirstOrderCh53**
 
@@ -828,7 +828,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprFirstOrderCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L334-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L334-L334)
 **def
 Tau.BookIV.ManyBody.instReprFirstOrderCh53.repr :FirstOrderCh53 → ℕ → Std.Format**
 
@@ -840,7 +840,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.first_order_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L336-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L336-L337)
 **def
 Tau.BookIV.ManyBody.first_order_ch53 :FirstOrderCh53**
 
@@ -852,7 +852,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SecondOrderCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L339-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L339-L352)
 **structure
 Tau.BookIV.ManyBody.SecondOrderCh53 :Type**
 
@@ -880,7 +880,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondOrderCh53.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L352-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L352-L352)
 **def
 Tau.BookIV.ManyBody.instReprSecondOrderCh53.repr :SecondOrderCh53 → ℕ → Std.Format**
 
@@ -892,7 +892,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondOrderCh53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L352-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L352-L352)
 **instance
 Tau.BookIV.ManyBody.instReprSecondOrderCh53 :Repr SecondOrderCh53**
 
@@ -903,7 +903,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.second_order_ch53`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L354-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L354-L355)
 **def
 Tau.BookIV.ManyBody.second_order_ch53 :SecondOrderCh53**
 
@@ -915,7 +915,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.UniversalOrderParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L361-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L361-L379)
 **structure
 Tau.BookIV.ManyBody.UniversalOrderParameter :Type**
 
@@ -949,7 +949,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprUniversalOrderParameter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L379-L379)
 **def
 Tau.BookIV.ManyBody.instReprUniversalOrderParameter.repr :UniversalOrderParameter → ℕ → Std.Format**
 
@@ -961,7 +961,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprUniversalOrderParameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L379-L379)
 **instance
 Tau.BookIV.ManyBody.instReprUniversalOrderParameter :Repr UniversalOrderParameter**
 
@@ -972,7 +972,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.universal_order_parameter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L381-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L381-L382)
 **def
 Tau.BookIV.ManyBody.universal_order_parameter :UniversalOrderParameter**
 
@@ -984,7 +984,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.order_param_unifies_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L384-L385)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L384-L385)
 **theorem
 Tau.BookIV.ManyBody.order_param_unifies_three :universal_order_parameter.n_unified_frameworks = 3**
 
@@ -993,7 +993,7 @@ Tau.BookIV.ManyBody.order_param_unifies_three :universal_order_parameter.n_unifi
 
 ### `Tau.BookIV.ManyBody.order_param_four_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L387-L388)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L387-L388)
 **theorem
 Tau.BookIV.ManyBody.order_param_four_components :universal_order_parameter.num_components = 4**
 
@@ -1002,7 +1002,7 @@ Tau.BookIV.ManyBody.order_param_four_components :universal_order_parameter.num_c
 
 ### `Tau.BookIV.ManyBody.ExtendedRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L397-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L397-L408)
 **inductive
 Tau.BookIV.ManyBody.ExtendedRegime :Type**
 
@@ -1024,7 +1024,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprExtendedRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
 **instance
 Tau.BookIV.ManyBody.instReprExtendedRegime :Repr ExtendedRegime**
 
@@ -1035,7 +1035,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprExtendedRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
 **def
 Tau.BookIV.ManyBody.instReprExtendedRegime.repr :ExtendedRegime → ℕ → Std.Format**
 
@@ -1047,7 +1047,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instDecidableEqExtendedRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
 **instance
 Tau.BookIV.ManyBody.instDecidableEqExtendedRegime :DecidableEq ExtendedRegime**
 
@@ -1058,7 +1058,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instBEqExtendedRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
 **def
 Tau.BookIV.ManyBody.instBEqExtendedRegime.beq :ExtendedRegime → ExtendedRegime → Bool**
 
@@ -1070,7 +1070,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instBEqExtendedRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L408-L408)
 **instance
 Tau.BookIV.ManyBody.instBEqExtendedRegime :BEq ExtendedRegime**
 
@@ -1081,7 +1081,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.nine_extended_regimes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L410-L415)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L410-L415)
 **theorem
 Tau.BookIV.ManyBody.nine_extended_regimes
 (r : ExtendedRegime)
@@ -1094,7 +1094,7 @@ Total count of extended regimes.
 
 ### `Tau.BookIV.ManyBody.DefectContractivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L440-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L440-L470)
 **structure
 Tau.BookIV.ManyBody.DefectContractivity :Type**
 
@@ -1149,7 +1149,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDefectContractivity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L470-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L470-L470)
 **def
 Tau.BookIV.ManyBody.instReprDefectContractivity.repr :DefectContractivity → ℕ → Std.Format**
 
@@ -1161,7 +1161,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprDefectContractivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L470-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L470-L470)
 **instance
 Tau.BookIV.ManyBody.instReprDefectContractivity :Repr DefectContractivity**
 
@@ -1172,7 +1172,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.defect_contractivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L472-L474)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L472-L474)
 **def
 Tau.BookIV.ManyBody.defect_contractivity :DefectContractivity**
 
@@ -1184,7 +1184,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.c3_defect_contractivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L476-L481)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L476-L481)
 **theorem
 Tau.BookIV.ManyBody.c3_defect_contractivity :defect_contractivity.first_eigenvalue = 1 ∧ defect_contractivity.n_cycles = 2 ∧ defect_contractivity.decay_channels = 2**
 
@@ -1195,7 +1195,7 @@ C3 defect contractivity holds on T² fiber: λ₁₀ = 1, 2 cycles, 2 decay chan
 
 ### `Tau.BookIV.ManyBody.regularity_t2_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/FluidRegimes.lean#L483-L489)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/FluidRegimes.lean#L483-L489)
 **theorem
 Tau.BookIV.ManyBody.regularity_t2_scope :defect_contractivity.clay_gap_acknowledged = true ∧ defect_contractivity.scope = "tau-effective (T^2 fiber)"**
 

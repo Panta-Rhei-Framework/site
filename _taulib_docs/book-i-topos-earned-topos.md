@@ -65,7 +65,7 @@ law fails, and the internal logic is both intuitionistic and paraconsistent.
 
 ### `Tau.Topos.omega_tau_classifier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L42-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L42-L58)
 **theorem
 Tau.Topos.omega_tau_classifier
 (v : Logic.Omega_tau)
@@ -96,7 +96,7 @@ The key theorem: Ω_τ has exactly four elements, matching Truth4.
 
 ### `Tau.Topos.omega_true_is_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L60-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L60-L61)
 **theorem
 Tau.Topos.omega_true_is_T :Logic.omega_true = Logic.Truth4.T**
 
@@ -107,7 +107,7 @@ The "true" morphism: the global element selecting T ∈ Ω_τ.
 
 ### `Tau.Topos.omega_tau_card_four`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L63-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L63-L71)
 **theorem
 Tau.Topos.omega_tau_card_four :Logic.omega_true ≠ Logic.omega_false ∧ Logic.omega_true ≠ Logic.omega_both ∧ Logic.omega_true ≠ Logic.omega_neither ∧ Logic.omega_false ≠ Logic.omega_both ∧ Logic.omega_false ≠ Logic.omega_neither ∧ Logic.omega_both ≠ Logic.omega_neither**
 
@@ -118,7 +118,7 @@ The subobject classifier has exactly 4 elements.
 
 ### `Tau.Topos.characteristic_morphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L77-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L77-L84)
 **def
 Tau.Topos.characteristic_morphism
 (b_member c_member : Denotation.TauIdx → Bool)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Topos.char_both_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L86-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L86-L90)
 **theorem
 Tau.Topos.char_both_true
 (b_mem c_mem : Denotation.TauIdx → Bool)
@@ -157,7 +157,7 @@ Characteristic morphism: both sectors confirm ⟹ T.
 
 ### `Tau.Topos.char_both_false`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L92-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L92-L96)
 **theorem
 Tau.Topos.char_both_false
 (b_mem c_mem : Denotation.TauIdx → Bool)
@@ -176,7 +176,7 @@ Characteristic morphism: both sectors deny ⟹ F.
 
 ### `Tau.Topos.char_overdetermined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L98-L102)
 **theorem
 Tau.Topos.char_overdetermined
 (b_mem c_mem : Denotation.TauIdx → Bool)
@@ -195,7 +195,7 @@ Characteristic morphism: B-sector confirms, C denies ⟹ B.
 
 ### `Tau.Topos.char_underdetermined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L104-L108)
 **theorem
 Tau.Topos.char_underdetermined
 (b_mem c_mem : Denotation.TauIdx → Bool)
@@ -214,7 +214,7 @@ Characteristic morphism: neither confirms ⟹ N.
 
 ### `Tau.Topos.char_pullback_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L110-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L110-L120)
 **theorem
 Tau.Topos.char_pullback_true
 (b_mem c_mem : Denotation.TauIdx → Bool)
@@ -230,7 +230,7 @@ The pullback of true along χ recovers the subobject:
 
 ### `Tau.Topos.EarnedTopos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L126-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L126-L134)
 **structure
 Tau.Topos.EarnedTopos :Type 1**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.Topos.earned_topos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L136-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L136-L140)
 **def
 Tau.Topos.earned_topos :EarnedTopos**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.Topos.earned_topos_non_boolean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L146-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L146-L159)
 **theorem
 Tau.Topos.earned_topos_non_boolean :Logic.omega_both ≠ Logic.omega_true ∧ Logic.omega_neither ≠ Logic.omega_true**
 
@@ -288,7 +288,7 @@ validate ex falso quodlibet.
 
 ### `Tau.Topos.topos_explosion_barrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L161-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L161-L163)
 **theorem
 Tau.Topos.topos_explosion_barrier :Logic.Truth4.B.impl Logic.Truth4.F ≠ Logic.Truth4.T**
 
@@ -299,7 +299,7 @@ The explosion barrier transfers to the topos: B → F ≠ T.
 
 ### `Tau.Topos.neg_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L165-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L165-L170)
 **theorem
 Tau.Topos.neg_involutive
 (v : Logic.Truth4)
@@ -315,7 +315,7 @@ the existence of non-trivial truth values B and N.
 
 ### `Tau.Topos.non_boolean_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L172-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L172-L175)
 **theorem
 Tau.Topos.non_boolean_witness :∃ (v : Logic.Truth4), v ≠ Logic.Truth4.T ∧ v ≠ Logic.Truth4.F**
 
@@ -327,7 +327,7 @@ that are neither T nor F.
 
 ### `Tau.Topos.B_join_N_is_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L177-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L177-L178)
 **theorem
 Tau.Topos.B_join_N_is_T :Logic.Truth4.B.join Logic.Truth4.N = Logic.Truth4.T**
 
@@ -338,7 +338,7 @@ The join of B and N is T (overdetermined ∨ underdetermined = true).
 
 ### `Tau.Topos.B_meet_N_is_F`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L180-L181)
 **theorem
 Tau.Topos.B_meet_N_is_F :Logic.Truth4.B.meet Logic.Truth4.N = Logic.Truth4.F**
 
@@ -349,7 +349,7 @@ The meet of B and N is F (overdetermined ∧ underdetermined = false).
 
 ### `Tau.Topos.internal_logic_four_valued`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L183-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L183-L189)
 **theorem
 Tau.Topos.internal_logic_four_valued
 (v : Logic.Omega_tau)
@@ -369,7 +369,7 @@ This means the internal logic is both:
 
 ### `Tau.Topos.even_odd_char`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/EarnedTopos.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/EarnedTopos.lean#L195-L198)
 **def
 Tau.Topos.even_odd_char :Denotation.TauIdx → Logic.Omega_tau**
 

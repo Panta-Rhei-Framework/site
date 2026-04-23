@@ -63,7 +63,7 @@ induces a long exact sequence in homology. Verified at finite stages.
 
 ### `Tau.BookII.Enrichment.ChainComplex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L46-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L46-L50)
 **structure
 Tau.BookII.Enrichment.ChainComplex :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.primorial_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L52-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L52-L56)
 **def
 Tau.BookII.Enrichment.primorial_chain :ChainComplex**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.boundary_coherence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L58-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L58-L75)
 **def
 Tau.BookII.Enrichment.boundary_coherence_check
 (k : ℕ)
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.boundary_coherence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L63-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L63-L74)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.boundary_coherence_check.go
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_exactness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L81-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L81-L102)
 **def
 Tau.BookII.Enrichment.ses_exactness_check
 (k : ℕ)
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_exactness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L94-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L94-L101)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.ses_exactness_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_kernel_size`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L104-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L104-L112)
 **def
 Tau.BookII.Enrichment.ses_kernel_size
 (k : ℕ)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.homology_trivial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L114-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L114-L119)
 **def
 Tau.BookII.Enrichment.homology_trivial_check
 (k : ℕ)
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L125-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L125-L155)
 **def
 Tau.BookII.Enrichment.ses_check
 (k : ℕ)
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_check.go_gf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L141-L146)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L141-L146)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.ses_check.go_gf
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.ses_check.go_inj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L148-L154)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L148-L154)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.ses_check.go_inj
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.les_exactness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L157-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L157-L160)
 **def
 Tau.BookII.Enrichment.les_exactness_check
 (k : ℕ)
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.boundary_coherence_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L166-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L166-L168)
 **theorem
 Tau.BookII.Enrichment.boundary_coherence_2 :boundary_coherence_check 2 = true**
 
@@ -275,7 +275,7 @@ Tau.BookII.Enrichment.boundary_coherence_2 :boundary_coherence_check 2 = true**
 
 ### `Tau.BookII.Enrichment.boundary_coherence_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L170-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L170-L172)
 **theorem
 Tau.BookII.Enrichment.boundary_coherence_3 :boundary_coherence_check 3 = true**
 
@@ -286,7 +286,7 @@ Tau.BookII.Enrichment.boundary_coherence_3 :boundary_coherence_check 3 = true**
 
 ### `Tau.BookII.Enrichment.ses_exact_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L174-L176)
 **theorem
 Tau.BookII.Enrichment.ses_exact_1 :ses_exactness_check 1 = true**
 
@@ -297,7 +297,7 @@ Tau.BookII.Enrichment.ses_exact_1 :ses_exactness_check 1 = true**
 
 ### `Tau.BookII.Enrichment.ses_exact_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L178-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L178-L180)
 **theorem
 Tau.BookII.Enrichment.ses_exact_2 :ses_exactness_check 2 = true**
 
@@ -308,7 +308,7 @@ Tau.BookII.Enrichment.ses_exact_2 :ses_exactness_check 2 = true**
 
 ### `Tau.BookII.Enrichment.homology_trivial_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L182-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L182-L184)
 **theorem
 Tau.BookII.Enrichment.homology_trivial_1 :homology_trivial_check 1 = true**
 
@@ -319,7 +319,7 @@ Tau.BookII.Enrichment.homology_trivial_1 :homology_trivial_check 1 = true**
 
 ### `Tau.BookII.Enrichment.homology_trivial_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L186-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L186-L188)
 **theorem
 Tau.BookII.Enrichment.homology_trivial_2 :homology_trivial_check 2 = true**
 
@@ -330,7 +330,7 @@ Tau.BookII.Enrichment.homology_trivial_2 :homology_trivial_check 2 = true**
 
 ### `Tau.BookII.Enrichment.ses_stage1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L190-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L190-L192)
 **theorem
 Tau.BookII.Enrichment.ses_stage1 :ses_check 1 = true**
 
@@ -341,7 +341,7 @@ Tau.BookII.Enrichment.ses_stage1 :ses_check 1 = true**
 
 ### `Tau.BookII.Enrichment.ses_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L194-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L194-L196)
 **theorem
 Tau.BookII.Enrichment.ses_stage2 :ses_check 2 = true**
 
@@ -352,7 +352,7 @@ Tau.BookII.Enrichment.ses_stage2 :ses_check 2 = true**
 
 ### `Tau.BookII.Enrichment.les_stage2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/Homological.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/Homological.lean#L198-L200)
 **theorem
 Tau.BookII.Enrichment.les_stage2 :les_exactness_check 2 = true**
 

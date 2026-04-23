@@ -73,7 +73,7 @@ give the same result. This uses the Code/Decode bijection (II.T35).
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L56-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L56-L92)
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_check
 (bound db : Denotation.TauIdx)
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L69-L91)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L69-L91)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_check.go
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_strong_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L94-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L94-L113)
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_strong_check
 (bound db : Denotation.TauIdx)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_strong_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L101-L112)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L101-L112)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_strong_check.go
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_multi_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L115-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L115-L131)
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_multi_check
 (bound db : Denotation.TauIdx)
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_multi_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L121-L130)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L121-L130)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.stagewise_naturality_multi_check.go
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.omega_germ_transformer_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L137-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L137-L160)
 **def
 Tau.BookII.CentralTheorem.omega_germ_transformer_check
 (bound db : Denotation.TauIdx)
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.omega_germ_transformer_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L147-L159)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L147-L159)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.omega_germ_transformer_check.go
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.bndlift_stagefun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L162-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L162-L169)
 **def
 Tau.BookII.CentralTheorem.bndlift_stagefun :Holomorphy.StageFun**
 
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.bndlift_stagefun_coherent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L171-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L171-L194)
 **def
 Tau.BookII.CentralTheorem.bndlift_stagefun_coherent_check
 (bound db : Denotation.TauIdx)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.bndlift_stagefun_coherent_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L179-L193)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L179-L193)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.bndlift_stagefun_coherent_check.go
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_germ_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L200-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L200-L237)
 **def
 Tau.BookII.CentralTheorem.extension_germ_roundtrip_check
 (bound db : Denotation.TauIdx)
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_germ_roundtrip_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L218-L236)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L218-L236)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.extension_germ_roundtrip_check.go
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_sector_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L239-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L239-L260)
 **def
 Tau.BookII.CentralTheorem.extension_sector_roundtrip_check
 (bound db : Denotation.TauIdx)
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.extension_sector_roundtrip_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L245-L259)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L245-L259)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.extension_sector_roundtrip_check.go
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_extensions_omega_germs_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L266-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L266-L281)
 **def
 Tau.BookII.CentralTheorem.full_extensions_omega_germs_check
 (bound db : Denotation.TauIdx)
@@ -394,7 +394,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L287-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L287-L294)
 **theorem
 Tau.BookII.CentralTheorem.stagewise_naturality
 (x k : Denotation.TauIdx)
@@ -409,7 +409,7 @@ from reduction_compat.
 
 ### `Tau.BookII.CentralTheorem.stagewise_naturality_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L296-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L296-L302)
 **theorem
 Tau.BookII.CentralTheorem.stagewise_naturality_strong
 (x k : Denotation.TauIdx)
@@ -424,7 +424,7 @@ which follows from reduction_compat since k+1 <= k+2.
 
 ### `Tau.BookII.CentralTheorem.bndlift_reduce_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L304-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L304-L311)
 **theorem
 Tau.BookII.CentralTheorem.bndlift_reduce_invariant
 (x k : Denotation.TauIdx)
@@ -440,7 +440,7 @@ which is reduction idempotence.
 
 ### `Tau.BookII.CentralTheorem.bndlift_stagefun_welldef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L313-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L313-L320)
 **theorem
 Tau.BookII.CentralTheorem.bndlift_stagefun_welldef
 (x k : Denotation.TauIdx)
@@ -457,7 +457,7 @@ from_tau_idx(bndlift(x, k)) by bndlift_reduce_invariant.
 
 ### `Tau.BookII.CentralTheorem.reduction_gives_naturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L322-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L322-L327)
 **theorem
 Tau.BookII.CentralTheorem.reduction_gives_naturality
 (x : Denotation.TauIdx)
@@ -475,7 +475,7 @@ This is the structural heart of the module.
 
 ### `Tau.BookII.CentralTheorem.nat_check_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L365-L366)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L365-L366)
 **theorem
 Tau.BookII.CentralTheorem.nat_check_20_4 :stagewise_naturality_check 20 4 = true**
 
@@ -484,7 +484,7 @@ Tau.BookII.CentralTheorem.nat_check_20_4 :stagewise_naturality_check 20 4 = true
 
 ### `Tau.BookII.CentralTheorem.nat_strong_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L368-L369)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L368-L369)
 **theorem
 Tau.BookII.CentralTheorem.nat_strong_20_4 :stagewise_naturality_strong_check 20 4 = true**
 
@@ -493,7 +493,7 @@ Tau.BookII.CentralTheorem.nat_strong_20_4 :stagewise_naturality_strong_check 20 
 
 ### `Tau.BookII.CentralTheorem.nat_multi_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L371-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L371-L372)
 **theorem
 Tau.BookII.CentralTheorem.nat_multi_15_4 :stagewise_naturality_multi_check 15 4 = true**
 
@@ -502,7 +502,7 @@ Tau.BookII.CentralTheorem.nat_multi_15_4 :stagewise_naturality_multi_check 15 4 
 
 ### `Tau.BookII.CentralTheorem.ogt_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L375-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L375-L376)
 **theorem
 Tau.BookII.CentralTheorem.ogt_15_4 :omega_germ_transformer_check 15 4 = true**
 
@@ -511,7 +511,7 @@ Tau.BookII.CentralTheorem.ogt_15_4 :omega_germ_transformer_check 15 4 = true**
 
 ### `Tau.BookII.CentralTheorem.bsf_coh_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L379-L380)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L379-L380)
 **theorem
 Tau.BookII.CentralTheorem.bsf_coh_15_4 :bndlift_stagefun_coherent_check 15 4 = true**
 
@@ -520,7 +520,7 @@ Tau.BookII.CentralTheorem.bsf_coh_15_4 :bndlift_stagefun_coherent_check 15 4 = t
 
 ### `Tau.BookII.CentralTheorem.egr_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L383-L384)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L383-L384)
 **theorem
 Tau.BookII.CentralTheorem.egr_15_4 :extension_germ_roundtrip_check 15 4 = true**
 
@@ -529,7 +529,7 @@ Tau.BookII.CentralTheorem.egr_15_4 :extension_germ_roundtrip_check 15 4 = true**
 
 ### `Tau.BookII.CentralTheorem.esr_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L386-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L386-L387)
 **theorem
 Tau.BookII.CentralTheorem.esr_15_4 :extension_sector_roundtrip_check 15 4 = true**
 
@@ -538,6 +538,6 @@ Tau.BookII.CentralTheorem.esr_15_4 :extension_sector_roundtrip_check 15 4 = true
 
 ### `Tau.BookII.CentralTheorem.full_eog_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L390-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/ExtensionsOmegaGerms.lean#L390-L391)
 **theorem
 Tau.BookII.CentralTheorem.full_eog_12_3 :full_extensions_omega_germs_check 12 3 = true**

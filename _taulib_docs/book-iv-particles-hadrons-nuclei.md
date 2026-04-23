@@ -95,7 +95,7 @@ from optimal C-sector binding vs B-sector Coulomb repulsion balance.
 
 ### `Tau.BookIV.Particles.BaryonNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L55-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L55-L61)
 **inductive
 Tau.BookIV.Particles.BaryonNumber :Type**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprBaryonNumber.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
 **def
 Tau.BookIV.Particles.instReprBaryonNumber.repr :BaryonNumber → ℕ → Std.Format**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprBaryonNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
 **instance
 Tau.BookIV.Particles.instReprBaryonNumber :Repr BaryonNumber**
 
@@ -137,7 +137,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instDecidableEqBaryonNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
 **instance
 Tau.BookIV.Particles.instDecidableEqBaryonNumber :DecidableEq BaryonNumber**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqBaryonNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
 **instance
 Tau.BookIV.Particles.instBEqBaryonNumber :BEq BaryonNumber**
 
@@ -159,7 +159,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqBaryonNumber.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L61-L61)
 **def
 Tau.BookIV.Particles.instBEqBaryonNumber.beq :BaryonNumber → BaryonNumber → Bool**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.MesonClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L63-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L63-L81)
 **structure
 Tau.BookIV.Particles.MesonClassification :Type**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprMesonClassification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L81-L81)
 **def
 Tau.BookIV.Particles.instReprMesonClassification.repr :MesonClassification → ℕ → Std.Format**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprMesonClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L81-L81)
 **instance
 Tau.BookIV.Particles.instReprMesonClassification :Repr MesonClassification**
 
@@ -232,7 +232,7 @@ Equations
 
 ### `Tau.BookIV.Particles.pion_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L83-L85)
 **def
 Tau.BookIV.Particles.pion_plus :MesonClassification**
 
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.kaon_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L87-L88)
 **def
 Tau.BookIV.Particles.kaon_plus :MesonClassification**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.rho_meson`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L90-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L90-L91)
 **def
 Tau.BookIV.Particles.rho_meson :MesonClassification**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.EtaEtaPrime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L97-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L97-L107)
 **structure
 Tau.BookIV.Particles.EtaEtaPrime :Type**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprEtaEtaPrime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L107-L107)
 **instance
 Tau.BookIV.Particles.instReprEtaEtaPrime :Repr EtaEtaPrime**
 
@@ -305,7 +305,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprEtaEtaPrime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L107-L107)
 **def
 Tau.BookIV.Particles.instReprEtaEtaPrime.repr :EtaEtaPrime → ℕ → Std.Format**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.eta_eta_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L109-L109)
 **def
 Tau.BookIV.Particles.eta_eta_prime :EtaEtaPrime**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.GlueballDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L115-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L115-L129)
 **structure
 Tau.BookIV.Particles.GlueballDef :Type**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprGlueballDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L129-L129)
 **instance
 Tau.BookIV.Particles.instReprGlueballDef :Repr GlueballDef**
 
@@ -369,7 +369,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprGlueballDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L129-L129)
 **def
 Tau.BookIV.Particles.instReprGlueballDef.repr :GlueballDef → ℕ → Std.Format**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.glueball_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L131-L131)
 **def
 Tau.BookIV.Particles.glueball_def :GlueballDef**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.glueball_no_quarks`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L133-L133)
 **theorem
 Tau.BookIV.Particles.glueball_no_quarks :glueball_def.quark_content = 0**
 
@@ -402,7 +402,7 @@ Tau.BookIV.Particles.glueball_no_quarks :glueball_def.quark_content = 0**
 
 ### `Tau.BookIV.Particles.glueballs_mass_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L139-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L139-L143)
 **def
 Tau.BookIV.Particles.glueballs_mass_gap :String**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NucleonMassDecomp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L149-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L149-L170)
 **structure
 Tau.BookIV.Particles.NucleonMassDecomp :Type**
 
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNucleonMassDecomp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L170-L170)
 **instance
 Tau.BookIV.Particles.instReprNucleonMassDecomp :Repr NucleonMassDecomp**
 
@@ -473,7 +473,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprNucleonMassDecomp.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L170-L170)
 **def
 Tau.BookIV.Particles.instReprNucleonMassDecomp.repr :NucleonMassDecomp → ℕ → Std.Format**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.nucleon_mass_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L172-L172)
 **def
 Tau.BookIV.Particles.nucleon_mass_decomposition :NucleonMassDecomp**
 
@@ -497,7 +497,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.nucleon_99pct_nonquark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L174-L175)
 **theorem
 Tau.BookIV.Particles.nucleon_99pct_nonquark :nucleon_mass_decomposition.nonquark_pct = 99**
 
@@ -506,7 +506,7 @@ Tau.BookIV.Particles.nucleon_99pct_nonquark :nucleon_mass_decomposition.nonquark
 
 ### `Tau.BookIV.Particles.nucleon_decomp_sums`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L177-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L177-L183)
 **theorem
 Tau.BookIV.Particles.nucleon_decomp_sums :nucleon_mass_decomposition.e_vac_mev + nucleon_mass_decomposition.e_kin_mev + nucleon_mass_decomposition.e_quark_mev + nucleon_mass_decomposition.e_other_mev = nucleon_mass_decomposition.total_mev**
 
@@ -517,7 +517,7 @@ Decomposition sums to approximately the nucleon mass.
 
 ### `Tau.BookIV.Particles.IsospinSplitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L189-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L189-L201)
 **structure
 Tau.BookIV.Particles.IsospinSplitting :Type**
 
@@ -544,7 +544,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIsospinSplitting.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L201-L201)
 **def
 Tau.BookIV.Particles.instReprIsospinSplitting.repr :IsospinSplitting → ℕ → Std.Format**
 
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIsospinSplitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L201-L201)
 **instance
 Tau.BookIV.Particles.instReprIsospinSplitting :Repr IsospinSplitting**
 
@@ -567,7 +567,7 @@ Equations
 
 ### `Tau.BookIV.Particles.isospin_splitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L203-L203)
 **def
 Tau.BookIV.Particles.isospin_splitting :IsospinSplitting**
 
@@ -579,7 +579,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NuclearForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L209-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L209-L220)
 **structure
 Tau.BookIV.Particles.NuclearForce :Type**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNuclearForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L220-L220)
 **instance
 Tau.BookIV.Particles.instReprNuclearForce :Repr NuclearForce**
 
@@ -615,7 +615,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprNuclearForce.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L220-L220)
 **def
 Tau.BookIV.Particles.instReprNuclearForce.repr :NuclearForce → ℕ → Std.Format**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.nuclear_force`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L222-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L222-L222)
 **def
 Tau.BookIV.Particles.nuclear_force :NuclearForce**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.DeuteronBinding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L228-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L228-L238)
 **structure
 Tau.BookIV.Particles.DeuteronBinding :Type**
 
@@ -663,7 +663,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprDeuteronBinding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L238-L238)
 **instance
 Tau.BookIV.Particles.instReprDeuteronBinding :Repr DeuteronBinding**
 
@@ -674,7 +674,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprDeuteronBinding.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L238-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L238-L238)
 **def
 Tau.BookIV.Particles.instReprDeuteronBinding.repr :DeuteronBinding → ℕ → Std.Format**
 
@@ -686,7 +686,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.deuteron_binding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L240-L240)
 **def
 Tau.BookIV.Particles.deuteron_binding :DeuteronBinding**
 
@@ -698,7 +698,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NuclearSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L246-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L246-L256)
 **structure
 Tau.BookIV.Particles.NuclearSaturation :Type**
 
@@ -722,7 +722,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNuclearSaturation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L256-L256)
 **def
 Tau.BookIV.Particles.instReprNuclearSaturation.repr :NuclearSaturation → ℕ → Std.Format**
 
@@ -734,7 +734,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNuclearSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L256-L256)
 **instance
 Tau.BookIV.Particles.instReprNuclearSaturation :Repr NuclearSaturation**
 
@@ -745,7 +745,7 @@ Equations
 
 ### `Tau.BookIV.Particles.nuclear_force_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L258-L258)
 **def
 Tau.BookIV.Particles.nuclear_force_saturation :NuclearSaturation**
 
@@ -757,7 +757,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NuclearShellStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L264-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L264-L272)
 **structure
 Tau.BookIV.Particles.NuclearShellStructure :Type**
 
@@ -778,7 +778,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNuclearShellStructure.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L272-L272)
 **def
 Tau.BookIV.Particles.instReprNuclearShellStructure.repr :NuclearShellStructure → ℕ → Std.Format**
 
@@ -790,7 +790,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNuclearShellStructure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L272-L272)
 **instance
 Tau.BookIV.Particles.instReprNuclearShellStructure :Repr NuclearShellStructure**
 
@@ -801,7 +801,7 @@ Equations
 
 ### `Tau.BookIV.Particles.nuclear_shell_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L274-L274)
 **def
 Tau.BookIV.Particles.nuclear_shell_structure :NuclearShellStructure**
 
@@ -813,7 +813,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.seven_magic_numbers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L276-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L276-L277)
 **theorem
 Tau.BookIV.Particles.seven_magic_numbers :nuclear_shell_structure.magic_numbers.length = 7**
 
@@ -822,7 +822,7 @@ Tau.BookIV.Particles.seven_magic_numbers :nuclear_shell_structure.magic_numbers.
 
 ### `Tau.BookIV.Particles.Helium4Bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L283-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L283-L297)
 **structure
 Tau.BookIV.Particles.Helium4Bound :Type**
 
@@ -852,7 +852,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprHelium4Bound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L297-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L297-L297)
 **def
 Tau.BookIV.Particles.instReprHelium4Bound.repr :Helium4Bound → ℕ → Std.Format**
 
@@ -864,7 +864,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprHelium4Bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L297-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L297-L297)
 **instance
 Tau.BookIV.Particles.instReprHelium4Bound :Repr Helium4Bound**
 
@@ -875,7 +875,7 @@ Equations
 
 ### `Tau.BookIV.Particles.helium4_tightly_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L299-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L299-L299)
 **def
 Tau.BookIV.Particles.helium4_tightly_bound :Helium4Bound**
 
@@ -887,7 +887,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.helium4_doubly_magic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L301-L302)
 **theorem
 Tau.BookIV.Particles.helium4_doubly_magic :helium4_tightly_bound.doubly_magic = true**
 
@@ -896,7 +896,7 @@ Tau.BookIV.Particles.helium4_doubly_magic :helium4_tightly_bound.doubly_magic = 
 
 ### `Tau.BookIV.Particles.IronPeak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L308-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L308-L323)
 **structure
 Tau.BookIV.Particles.IronPeak :Type**
 
@@ -930,7 +930,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIronPeak.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L323-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L323-L323)
 **def
 Tau.BookIV.Particles.instReprIronPeak.repr :IronPeak → ℕ → Std.Format**
 
@@ -942,7 +942,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIronPeak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L323-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L323-L323)
 **instance
 Tau.BookIV.Particles.instReprIronPeak :Repr IronPeak**
 
@@ -953,7 +953,7 @@ Equations
 
 ### `Tau.BookIV.Particles.iron_peak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L325-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L325-L325)
 **def
 Tau.BookIV.Particles.iron_peak :IronPeak**
 
@@ -965,7 +965,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.iron_at_56`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L327-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L327-L327)
 **theorem
 Tau.BookIV.Particles.iron_at_56 :iron_peak.peak_A = 56**
 
@@ -974,7 +974,7 @@ Tau.BookIV.Particles.iron_at_56 :iron_peak.peak_A = 56**
 
 ### `Tau.BookIV.Particles.nucleosynthesis_forward`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L333-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L333-L337)
 **def
 Tau.BookIV.Particles.nucleosynthesis_forward :String**
 
@@ -990,7 +990,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.alpha_decay_mode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L343-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L343-L347)
 **def
 Tau.BookIV.Particles.alpha_decay_mode :String**
 
@@ -1006,7 +1006,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.NeutronStabilityNuclear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L353-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L353-L363)
 **structure
 Tau.BookIV.Particles.NeutronStabilityNuclear :Type**
 
@@ -1030,7 +1030,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronStabilityNuclear.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L363-L363)
 **def
 Tau.BookIV.Particles.instReprNeutronStabilityNuclear.repr :NeutronStabilityNuclear → ℕ → Std.Format**
 
@@ -1042,7 +1042,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprNeutronStabilityNuclear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L363-L363)
 **instance
 Tau.BookIV.Particles.instReprNeutronStabilityNuclear :Repr NeutronStabilityNuclear**
 
@@ -1053,7 +1053,7 @@ Equations
 
 ### `Tau.BookIV.Particles.neutron_stability_nuclear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L365-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L365-L365)
 **def
 Tau.BookIV.Particles.neutron_stability_nuclear :NeutronStabilityNuclear**
 
@@ -1065,7 +1065,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.gamma_decay_mode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L371-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L371-L375)
 **def
 Tau.BookIV.Particles.gamma_decay_mode :String**
 
@@ -1081,7 +1081,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.DecayChannels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L381-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L381-L395)
 **structure
 Tau.BookIV.Particles.DecayChannels :Type**
 
@@ -1115,7 +1115,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprDecayChannels.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L395-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L395-L395)
 **def
 Tau.BookIV.Particles.instReprDecayChannels.repr :DecayChannels → ℕ → Std.Format**
 
@@ -1127,7 +1127,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprDecayChannels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L395-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L395-L395)
 **instance
 Tau.BookIV.Particles.instReprDecayChannels :Repr DecayChannels**
 
@@ -1138,7 +1138,7 @@ Equations
 
 ### `Tau.BookIV.Particles.decay_channels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L397-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L397-L397)
 **def
 Tau.BookIV.Particles.decay_channels :DecayChannels**
 
@@ -1150,7 +1150,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.three_decay_types`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L399-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L399-L399)
 **theorem
 Tau.BookIV.Particles.three_decay_types :decay_channels.types.length = 3**
 
@@ -1159,6 +1159,6 @@ Tau.BookIV.Particles.three_decay_types :decay_channels.types.length = 3**
 
 ### `Tau.BookIV.Particles.four_conservation_laws`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/HadronsNuclei.lean#L400-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/HadronsNuclei.lean#L400-L400)
 **theorem
 Tau.BookIV.Particles.four_conservation_laws :decay_channels.conservation_laws = 4**

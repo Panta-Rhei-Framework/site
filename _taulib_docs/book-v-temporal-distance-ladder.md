@@ -126,7 +126,7 @@ This is conjectural (explicit κ_R(n) deferred to Part V).
 
 ### `Tau.BookV.Temporal.DistanceReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L68-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L68-L91)
 **structure
 Tau.BookV.Temporal.DistanceReadout :Type**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprDistanceReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L91-L91)
 **instance
 Tau.BookV.Temporal.instReprDistanceReadout :Repr DistanceReadout**
 
@@ -182,7 +182,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprDistanceReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L91-L91)
 **def
 Tau.BookV.Temporal.instReprDistanceReadout.repr :DistanceReadout → ℕ → Std.Format**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.DistanceReadout.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L93-L95)
 **def
 Tau.BookV.Temporal.DistanceReadout.toFloat
 (d : DistanceReadout)
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.DistanceLadderRung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L101-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L101-L120)
 **inductive
 Tau.BookV.Temporal.DistanceLadderRung :Type**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprDistanceLadderRung.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **def
 Tau.BookV.Temporal.instReprDistanceLadderRung.repr :DistanceLadderRung → ℕ → Std.Format**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprDistanceLadderRung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **instance
 Tau.BookV.Temporal.instReprDistanceLadderRung :Repr DistanceLadderRung**
 
@@ -274,7 +274,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instDecidableEqDistanceLadderRung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **instance
 Tau.BookV.Temporal.instDecidableEqDistanceLadderRung :DecidableEq DistanceLadderRung**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instBEqDistanceLadderRung.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **def
 Tau.BookV.Temporal.instBEqDistanceLadderRung.beq :DistanceLadderRung → DistanceLadderRung → Bool**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instBEqDistanceLadderRung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **instance
 Tau.BookV.Temporal.instBEqDistanceLadderRung :BEq DistanceLadderRung**
 
@@ -308,7 +308,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instInhabitedDistanceLadderRung`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **instance
 Tau.BookV.Temporal.instInhabitedDistanceLadderRung :Inhabited DistanceLadderRung**
 
@@ -319,7 +319,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instInhabitedDistanceLadderRung.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L120-L120)
 **def
 Tau.BookV.Temporal.instInhabitedDistanceLadderRung.default :DistanceLadderRung**
 
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.DistanceLadderRung.log10_parsec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L122-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L122-L128)
 **def
 Tau.BookV.Temporal.DistanceLadderRung.log10_parsec :DistanceLadderRung → ℕ**
 
@@ -349,7 +349,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.CepheidCalibrator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L134-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L134-L151)
 **structure
 Tau.BookV.Temporal.CepheidCalibrator :Type**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprCepheidCalibrator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L151-L151)
 **instance
 Tau.BookV.Temporal.instReprCepheidCalibrator :Repr CepheidCalibrator**
 
@@ -393,7 +393,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprCepheidCalibrator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L151-L151)
 **def
 Tau.BookV.Temporal.instReprCepheidCalibrator.repr :CepheidCalibrator → ℕ → Std.Format**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.BAOStandardRuler`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L157-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L157-L175)
 **structure
 Tau.BookV.Temporal.BAOStandardRuler :Type**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprBAOStandardRuler`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L175-L175)
 **instance
 Tau.BookV.Temporal.instReprBAOStandardRuler :Repr BAOStandardRuler**
 
@@ -450,7 +450,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprBAOStandardRuler.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L175-L175)
 **def
 Tau.BookV.Temporal.instReprBAOStandardRuler.repr :BAOStandardRuler → ℕ → Std.Format**
 
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.ReadoutCurvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L181-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L181-L201)
 **structure
 Tau.BookV.Temporal.ReadoutCurvature :Type**
 
@@ -499,7 +499,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprReadoutCurvature.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L201-L201)
 **def
 Tau.BookV.Temporal.instReprReadoutCurvature.repr :ReadoutCurvature → ℕ → Std.Format**
 
@@ -511,7 +511,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprReadoutCurvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L201-L201)
 **instance
 Tau.BookV.Temporal.instReprReadoutCurvature :Repr ReadoutCurvature**
 
@@ -522,7 +522,7 @@ Equations
 
 ### `Tau.BookV.Temporal.ladder_rung_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L207-L210)
 **theorem
 Tau.BookV.Temporal.ladder_rung_count
 (r : DistanceLadderRung)
@@ -535,7 +535,7 @@ Tau.BookV.Temporal.ladder_rung_count
 
 ### `Tau.BookV.Temporal.distance_is_operational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L212-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L212-L216)
 **theorem
 Tau.BookV.Temporal.distance_is_operational
 (d : DistanceReadout)
@@ -550,7 +550,7 @@ independent of the orbit-depth context.
 
 ### `Tau.BookV.Temporal.gaia_calibrates_nearby`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L218-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L218-L221)
 **theorem
 Tau.BookV.Temporal.gaia_calibrates_nearby :DistanceLadderRung.Parallax.log10_parsec = 3**
 
@@ -562,7 +562,7 @@ kpc scale (log10_parsec = 3).
 
 ### `Tau.BookV.Temporal.H0_tension_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L223-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L223-L230)
 **theorem
 Tau.BookV.Temporal.H0_tension_structural :DistanceLadderRung.CMB.log10_parsec ≠ DistanceLadderRung.Cepheid.log10_parsec**
 
@@ -577,7 +577,7 @@ Structural fact: CMB and Cepheid operate at different scales.
 
 ### `Tau.BookV.Temporal.dark_energy_artifact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L232-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L232-L238)
 **theorem
 Tau.BookV.Temporal.dark_energy_artifact
 (κ : ReadoutCurvature)
@@ -596,7 +596,7 @@ yields apparent Λ without any energy component.
 
 ### `Tau.BookV.Temporal.dark_energy_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L240-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L240-L243)
 **theorem
 Tau.BookV.Temporal.dark_energy_scope
 (κ : ReadoutCurvature)
@@ -612,7 +612,7 @@ The default scope of ReadoutCurvature is "conjectural".
 
 ### `Tau.BookV.Temporal.scale_ordering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L245-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L245-L249)
 **theorem
 Tau.BookV.Temporal.scale_ordering :DistanceLadderRung.Parallax.log10_parsec < DistanceLadderRung.Cepheid.log10_parsec ∧ DistanceLadderRung.Cepheid.log10_parsec < DistanceLadderRung.SNIa.log10_parsec**
 
@@ -623,7 +623,7 @@ Scale ordering: Parallax < Cepheid < SNIa.
 
 ### `Tau.BookV.Temporal.bao_snia_same_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/DistanceLadder.lean#L251-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/DistanceLadder.lean#L251-L253)
 **theorem
 Tau.BookV.Temporal.bao_snia_same_scale :DistanceLadderRung.BAO.log10_parsec = DistanceLadderRung.SNIa.log10_parsec**
 

@@ -95,7 +95,7 @@ All five are determined by ι<sub>τ</sub> = 2/(π+e) via sector lift functors.
 
 ### `Tau.BookIV.Physics.PrimaryInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L47-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L47-L66)
 **inductive
 Tau.BookIV.Physics.PrimaryInvariant :Type**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPrimaryInvariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **def
 Tau.BookIV.Physics.instReprPrimaryInvariant.repr :PrimaryInvariant → ℕ → Std.Format**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPrimaryInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **instance
 Tau.BookIV.Physics.instReprPrimaryInvariant :Repr PrimaryInvariant**
 
@@ -153,7 +153,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqPrimaryInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **instance
 Tau.BookIV.Physics.instDecidableEqPrimaryInvariant :DecidableEq PrimaryInvariant**
 
@@ -164,7 +164,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqPrimaryInvariant.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **def
 Tau.BookIV.Physics.instBEqPrimaryInvariant.beq :PrimaryInvariant → PrimaryInvariant → Bool**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instBEqPrimaryInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **instance
 Tau.BookIV.Physics.instBEqPrimaryInvariant :BEq PrimaryInvariant**
 
@@ -187,7 +187,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedPrimaryInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **instance
 Tau.BookIV.Physics.instInhabitedPrimaryInvariant :Inhabited PrimaryInvariant**
 
@@ -198,7 +198,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedPrimaryInvariant.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L66-L66)
 **def
 Tau.BookIV.Physics.instInhabitedPrimaryInvariant.default :PrimaryInvariant**
 
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.CarrierType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L72-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L72-L81)
 **inductive
 Tau.BookIV.Physics.CarrierType :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprCarrierType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **def
 Tau.BookIV.Physics.instReprCarrierType.repr :CarrierType → ℕ → Std.Format**
 
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprCarrierType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **instance
 Tau.BookIV.Physics.instReprCarrierType :Repr CarrierType**
 
@@ -256,7 +256,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instDecidableEqCarrierType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **instance
 Tau.BookIV.Physics.instDecidableEqCarrierType :DecidableEq CarrierType**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqCarrierType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **instance
 Tau.BookIV.Physics.instBEqCarrierType :BEq CarrierType**
 
@@ -278,7 +278,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqCarrierType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **def
 Tau.BookIV.Physics.instBEqCarrierType.beq :CarrierType → CarrierType → Bool**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedCarrierType.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **def
 Tau.BookIV.Physics.instInhabitedCarrierType.default :CarrierType**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedCarrierType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L81-L81)
 **instance
 Tau.BookIV.Physics.instInhabitedCarrierType :Inhabited CarrierType**
 
@@ -313,7 +313,7 @@ Equations
 
 ### `Tau.BookIV.Physics.PhysicalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L87-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L87-L103)
 **structure
 Tau.BookIV.Physics.PhysicalQuantity :Type**
 
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprPhysicalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L103-L103)
 **instance
 Tau.BookIV.Physics.instReprPhysicalQuantity :Repr PhysicalQuantity**
 
@@ -357,7 +357,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprPhysicalQuantity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L103-L103)
 **def
 Tau.BookIV.Physics.instReprPhysicalQuantity.repr :PhysicalQuantity → ℕ → Std.Format**
 
@@ -369,7 +369,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.ParticleKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L109-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L109-L121)
 **inductive
 Tau.BookIV.Physics.ParticleKind :Type**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprParticleKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **instance
 Tau.BookIV.Physics.instReprParticleKind :Repr ParticleKind**
 
@@ -406,7 +406,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprParticleKind.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **def
 Tau.BookIV.Physics.instReprParticleKind.repr :ParticleKind → ℕ → Std.Format**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqParticleKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **instance
 Tau.BookIV.Physics.instDecidableEqParticleKind :DecidableEq ParticleKind**
 
@@ -429,7 +429,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqParticleKind.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **def
 Tau.BookIV.Physics.instBEqParticleKind.beq :ParticleKind → ParticleKind → Bool**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instBEqParticleKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **instance
 Tau.BookIV.Physics.instBEqParticleKind :BEq ParticleKind**
 
@@ -452,7 +452,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedParticleKind.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **def
 Tau.BookIV.Physics.instInhabitedParticleKind.default :ParticleKind**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedParticleKind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L121-L121)
 **instance
 Tau.BookIV.Physics.instInhabitedParticleKind :Inhabited ParticleKind**
 
@@ -475,7 +475,7 @@ Equations
 
 ### `Tau.BookIV.Physics.PrimaryInvariant.carrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L127-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L127-L133)
 **def
 Tau.BookIV.Physics.PrimaryInvariant.carrier :PrimaryInvariant → CarrierType**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.PrimaryInvariant.sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L135-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L135-L141)
 **def
 Tau.BookIV.Physics.PrimaryInvariant.sector :PrimaryInvariant → BookIII.Sectors.Sector**
 
@@ -511,7 +511,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.entropy_quantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L147-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L147-L154)
 **def
 Tau.BookIV.Physics.entropy_quantity :PhysicalQuantity**
 
@@ -525,7 +525,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.time_quantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L156-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L156-L163)
 **def
 Tau.BookIV.Physics.time_quantity :PhysicalQuantity**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.energy_quantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L165-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L165-L172)
 **def
 Tau.BookIV.Physics.energy_quantity :PhysicalQuantity**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.mass_quantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L174-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L174-L181)
 **def
 Tau.BookIV.Physics.mass_quantity :PhysicalQuantity**
 
@@ -567,7 +567,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.gravity_quantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L183-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L183-L190)
 **def
 Tau.BookIV.Physics.gravity_quantity :PhysicalQuantity**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_quantities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L192-L194)
 **def
 Tau.BookIV.Physics.all_quantities :List PhysicalQuantity**
 
@@ -595,7 +595,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.five_invariants_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L200-L203)
 **theorem
 Tau.BookIV.Physics.five_invariants_exhaust
 (p : PrimaryInvariant)
@@ -608,7 +608,7 @@ Exactly 5 primary invariants.
 
 ### `Tau.BookIV.Physics.three_carriers_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L205-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L205-L208)
 **theorem
 Tau.BookIV.Physics.three_carriers_exhaust
 (c : CarrierType)
@@ -621,7 +621,7 @@ Exactly 3 carrier types.
 
 ### `Tau.BookIV.Physics.three_particle_kinds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L210-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L210-L213)
 **theorem
 Tau.BookIV.Physics.three_particle_kinds
 (k : ParticleKind)
@@ -634,7 +634,7 @@ Exactly 3 particle kinds.
 
 ### `Tau.BookIV.Physics.gravity_unique_sigma_fixed_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L215-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L215-L221)
 **theorem
 Tau.BookIV.Physics.gravity_unique_sigma_fixed_base :gravity_quantity.carrier = CarrierType.Base ∧ gravity_quantity.is_sigma_fixed = true ∧ time_quantity.is_sigma_fixed = false**
 
@@ -646,7 +646,7 @@ among those with σ-fixed property.
 
 ### `Tau.BookIV.Physics.energy_mass_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L223-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L223-L226)
 **theorem
 Tau.BookIV.Physics.energy_mass_fiber :energy_quantity.carrier = CarrierType.Fiber ∧ mass_quantity.carrier = CarrierType.Fiber**
 
@@ -657,7 +657,7 @@ Energy and Mass both live on the fiber T².
 
 ### `Tau.BookIV.Physics.all_quantities_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L228-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L228-L240)
 **theorem
 Tau.BookIV.Physics.all_quantities_distinct :entropy_quantity.invariant ≠ time_quantity.invariant ∧ entropy_quantity.invariant ≠ energy_quantity.invariant ∧ entropy_quantity.invariant ≠ mass_quantity.invariant ∧ entropy_quantity.invariant ≠ gravity_quantity.invariant ∧ time_quantity.invariant ≠ energy_quantity.invariant ∧ time_quantity.invariant ≠ mass_quantity.invariant ∧ time_quantity.invariant ≠ gravity_quantity.invariant ∧ energy_quantity.invariant ≠ mass_quantity.invariant ∧ energy_quantity.invariant ≠ gravity_quantity.invariant ∧ mass_quantity.invariant ≠ gravity_quantity.invariant**
 
@@ -668,7 +668,7 @@ All 5 canonical quantities use distinct primary invariants.
 
 ### `Tau.BookIV.Physics.InternalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L256-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L256-L279)
 **structure
 Tau.BookIV.Physics.InternalQuantity :Type**
 
@@ -708,7 +708,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprInternalQuantity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L279-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L279-L279)
 **def
 Tau.BookIV.Physics.instReprInternalQuantity.repr :InternalQuantity → ℕ → Std.Format**
 
@@ -720,7 +720,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprInternalQuantity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L279-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L279-L279)
 **instance
 Tau.BookIV.Physics.instReprInternalQuantity :Repr InternalQuantity**
 
@@ -731,7 +731,7 @@ Equations
 
 ### `Tau.BookIV.Physics.time_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L281-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L281-L288)
 **def
 Tau.BookIV.Physics.time_internal :InternalQuantity**
 
@@ -745,7 +745,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.energy_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L290-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L290-L297)
 **def
 Tau.BookIV.Physics.energy_internal :InternalQuantity**
 
@@ -759,7 +759,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.mass_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L299-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L299-L306)
 **def
 Tau.BookIV.Physics.mass_internal :InternalQuantity**
 
@@ -773,7 +773,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.gravity_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L308-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L308-L315)
 **def
 Tau.BookIV.Physics.gravity_internal :InternalQuantity**
 
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.entropy_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L317-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L317-L324)
 **def
 Tau.BookIV.Physics.entropy_internal :InternalQuantity**
 
@@ -801,7 +801,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_internal_quantities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L326-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L326-L328)
 **def
 Tau.BookIV.Physics.all_internal_quantities :List InternalQuantity**
 
@@ -815,7 +815,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.categorical_consistent_with_metadata`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L330-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L330-L338)
 **theorem
 Tau.BookIV.Physics.categorical_consistent_with_metadata :time_internal.sector = time_quantity.sector ∧ energy_internal.sector = energy_quantity.sector ∧ mass_internal.sector = mass_quantity.sector ∧ gravity_internal.sector = gravity_quantity.sector ∧ entropy_internal.sector = entropy_quantity.sector**
 
@@ -827,7 +827,7 @@ same sector assignment for each invariant.
 
 ### `Tau.BookIV.Physics.internal_generators_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/QuantityFramework.lean#L340-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/QuantityFramework.lean#L340-L352)
 **theorem
 Tau.BookIV.Physics.internal_generators_distinct :time_internal.generator ≠ energy_internal.generator ∧ time_internal.generator ≠ mass_internal.generator ∧ time_internal.generator ≠ gravity_internal.generator ∧ time_internal.generator ≠ entropy_internal.generator ∧ energy_internal.generator ≠ mass_internal.generator ∧ energy_internal.generator ≠ gravity_internal.generator ∧ energy_internal.generator ≠ entropy_internal.generator ∧ mass_internal.generator ≠ gravity_internal.generator ∧ mass_internal.generator ≠ entropy_internal.generator ∧ gravity_internal.generator ≠ entropy_internal.generator**
 

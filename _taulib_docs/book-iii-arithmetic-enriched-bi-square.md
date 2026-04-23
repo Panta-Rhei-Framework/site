@@ -57,7 +57,7 @@ identical shape and structural maps as the algebraic and topological bi-squares.
 
 ### `Tau.BookIII.Arithmetic.finite_factorization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L41-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L41-L66)
 **def
 Tau.BookIII.Arithmetic.finite_factorization_check
 (bound db : Denotation.TauIdx)
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.finite_factorization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L47-L65)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L47-L65)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.finite_factorization_check.go
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enriched_bisquare_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L72-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L72-L100)
 **def
 Tau.BookIII.Arithmetic.enriched_bisquare_check
 (bound db : Denotation.TauIdx)
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enriched_bisquare_check.tower_sector_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L85-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L85-L99)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.enriched_bisquare_check.tower_sector_go
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bisquare_comparison_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L106-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L106-L135)
 **def
 Tau.BookIII.Arithmetic.bisquare_comparison_check
 (bound db : Denotation.TauIdx)
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.bisquare_comparison_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L113-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L113-L134)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.bisquare_comparison_check.go
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.enriched_bisquare_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L149-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L149-L150)
 **theorem
 Tau.BookIII.Arithmetic.enriched_bisquare_10_3 :enriched_bisquare_check 10 3 = true**
 
@@ -172,7 +172,7 @@ Tau.BookIII.Arithmetic.enriched_bisquare_10_3 :enriched_bisquare_check 10 3 = tr
 
 ### `Tau.BookIII.Arithmetic.finite_factorization_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L152-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L152-L153)
 **theorem
 Tau.BookIII.Arithmetic.finite_factorization_15_4 :finite_factorization_check 15 4 = true**
 
@@ -181,7 +181,7 @@ Tau.BookIII.Arithmetic.finite_factorization_15_4 :finite_factorization_check 15 
 
 ### `Tau.BookIII.Arithmetic.bisquare_comparison_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L155-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L155-L156)
 **theorem
 Tau.BookIII.Arithmetic.bisquare_comparison_15_4 :bisquare_comparison_check 15 4 = true**
 
@@ -190,7 +190,7 @@ Tau.BookIII.Arithmetic.bisquare_comparison_15_4 :bisquare_comparison_check 15 4 
 
 ### `Tau.BookIII.Arithmetic.enriched_bs_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L162-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L162-L164)
 **theorem
 Tau.BookIII.Arithmetic.enriched_bs_10_1 :enriched_bisquare_check 10 1 = true**
 
@@ -201,7 +201,7 @@ Tau.BookIII.Arithmetic.enriched_bs_10_1 :enriched_bisquare_check 10 1 = true**
 
 ### `Tau.BookIII.Arithmetic.factorization_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L166-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L166-L168)
 **theorem
 Tau.BookIII.Arithmetic.factorization_10_1 :finite_factorization_check 10 1 = true**
 
@@ -212,7 +212,7 @@ Tau.BookIII.Arithmetic.factorization_10_1 :finite_factorization_check 10 1 = tru
 
 ### `Tau.BookIII.Arithmetic.comparison_10_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L170-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/EnrichedBiSquare.lean#L170-L172)
 **theorem
 Tau.BookIII.Arithmetic.comparison_10_1 :bisquare_comparison_check 10 1 = true**
 

@@ -73,7 +73,7 @@ tensor-square density, not the other way around.
 
 ### `Tau.BookIV.Sectors.SpectralPage.tensorModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L49-L51)
 **def
 Tau.BookIV.Sectors.SpectralPage.tensorModes :List (ModeCensus.BoundaryMode × ModeCensus.BoundaryMode)**
 
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.SpectralPage.emTensorActive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L53-L55)
 **def
 Tau.BookIV.Sectors.SpectralPage.emTensorActive :List (ModeCensus.BoundaryMode × ModeCensus.BoundaryMode)**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.SpectralPage.emTensorSilent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L57-L59)
 **def
 Tau.BookIV.Sectors.SpectralPage.emTensorSilent :List (ModeCensus.BoundaryMode × ModeCensus.BoundaryMode)**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.SpectralPage.em_tensor_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L65-L66)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.em_tensor_total :tensorModes.length = 225**
 
@@ -126,7 +126,7 @@ Tau.BookIV.Sectors.SpectralPage.em_tensor_total :tensorModes.length = 225**
 
 ### `Tau.BookIV.Sectors.SpectralPage.em_tensor_active_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L68-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L68-L69)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.em_tensor_active_count :emTensorActive.length = 121**
 
@@ -137,7 +137,7 @@ Tau.BookIV.Sectors.SpectralPage.em_tensor_active_count :emTensorActive.length = 
 
 ### `Tau.BookIV.Sectors.SpectralPage.em_tensor_silent_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L71-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L71-L72)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.em_tensor_silent_count :emTensorSilent.length = 104**
 
@@ -148,7 +148,7 @@ Silent tensor modes = 104.
 
 ### `Tau.BookIV.Sectors.SpectralPage.tensor_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L74-L76)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.tensor_partition :emTensorActive.length + emTensorSilent.length = tensorModes.length**
 
@@ -159,7 +159,7 @@ Active + silent = total (consistency).
 
 ### `Tau.BookIV.Sectors.SpectralPage.density_is_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L82-L83)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.density_is_square :121 = 11 * 11 ∧ 225 = 15 * 15**
 
@@ -170,7 +170,7 @@ Tau.BookIV.Sectors.SpectralPage.density_is_square :121 = 11 * 11 ∧ 225 = 15 * 
 
 ### `Tau.BookIV.Sectors.SpectralPage.density_equals_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L85-L87)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.density_equals_square :121 * 15 * 15 = 11 * 11 * 225**
 
@@ -181,7 +181,7 @@ The density 121/225 = (11/15)². Cross-multiplied form.
 
 ### `Tau.BookIV.Sectors.SpectralPage.tensor_equals_sieve_times_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L89-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L89-L93)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.tensor_equals_sieve_times_correction :8 * 121 * 225 = 15 * 121 * 120**
 
@@ -194,7 +194,7 @@ Cross-multiplied: 8 · 121 · 225 = 15 · 121 · 120.
 
 ### `Tau.BookIV.Sectors.SpectralPage.correction_cross_mult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/SpectralPage.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/SpectralPage.lean#L95-L98)
 **theorem
 Tau.BookIV.Sectors.SpectralPage.correction_cross_mult :121 * 15 * 120 = 8 * 225 * 121**
 

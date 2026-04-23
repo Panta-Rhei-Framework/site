@@ -83,7 +83,7 @@ via cross-multiplied Nat inequalities.
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L55-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L55-L59)
 **def
 Tau.BookIII.Spectral.ModularForms.E4_numer :ℕ**
 
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L60-L60)
 **def
 Tau.BookIII.Spectral.ModularForms.E4_denom :ℕ**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L62-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L62-L63)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E4_denom_pos :E4_denom > 0**
 
@@ -123,7 +123,7 @@ E₄ denominator is positive.
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L65-L66)
 **def
 Tau.BookIII.Spectral.ModularForms.E4_float :Float**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_abs_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L72-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L72-L77)
 **def
 Tau.BookIII.Spectral.ModularForms.E6_abs_numer :ℕ**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_abs_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L78-L78)
 **def
 Tau.BookIII.Spectral.ModularForms.E6_abs_denom :ℕ**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_abs_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L80-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L80-L81)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E6_abs_denom_pos :E6_abs_denom > 0**
 
@@ -178,7 +178,7 @@ Tau.BookIII.Spectral.ModularForms.E6_abs_denom_pos :E6_abs_denom > 0**
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_abs_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L83-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L83-L84)
 **def
 Tau.BookIII.Spectral.ModularForms.E6_abs_float :Float**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.i4N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L90-L91)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L90-L91)@[reducible, inline]
 
 **abbrev
 Tau.BookIII.Spectral.ModularForms.i4N :ℕ**
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.i4D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L93-L94)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L93-L94)@[reducible, inline]
 
 **abbrev
 Tau.BookIII.Spectral.ModularForms.i4D :ℕ**
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.iota_sixth_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L96-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L96-L97)
 **def
 Tau.BookIII.Spectral.ModularForms.iota_sixth_numer :ℕ**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.iota_sixth_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L99-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L99-L100)
 **def
 Tau.BookIII.Spectral.ModularForms.iota_sixth_denom :ℕ**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L106-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L106-L111)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E4_in_range :E4_numer > 73 * E4_denom ∧ E4_numer < 74 * E4_denom**
 
@@ -263,7 +263,7 @@ Since E4_numer = 7369437 and E4_denom = 100000:
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L113-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L113-L121)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one_lower :E4_numer * i4N * 1000000 > 999990 * E4_denom * i4D**
 
@@ -280,7 +280,7 @@ and E4_numer · i4N · 1000000 < 1000010 · E4_denom · i4D
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one_upper`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L123-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L123-L124)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one_upper :E4_numer * i4N * 1000000 < 1000010 * E4_denom * i4D**
 
@@ -289,7 +289,7 @@ Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one_upper :E4_numer * i4N * 1000
 
 ### `Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L126-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L126-L131)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one :E4_numer * i4N * 1000000 > 999990 * E4_denom * i4D ∧ E4_numer * i4N * 1000000 < 1000010 * E4_denom * i4D**
 
@@ -301,7 +301,7 @@ Tau.BookIII.Spectral.ModularForms.E4_iota4_near_one :E4_numer * i4N * 1000000 > 
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_abs_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L137-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L137-L140)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E6_abs_in_range :E6_abs_numer > 632 * E6_abs_denom ∧ E6_abs_numer < 633 * E6_abs_denom**
 
@@ -312,7 +312,7 @@ Tau.BookIII.Spectral.ModularForms.E6_abs_in_range :E6_abs_numer > 632 * E6_abs_d
 
 ### `Tau.BookIII.Spectral.ModularForms.i6N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L142-L143)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L142-L143)@[reducible, inline]
 
 **abbrev
 Tau.BookIII.Spectral.ModularForms.i6N :ℕ**
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.i6D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L144-L144)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L144-L144)@[reducible, inline]
 
 **abbrev
 Tau.BookIII.Spectral.ModularForms.i6D :ℕ**
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_lower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L146-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L146-L147)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_lower :E6_abs_numer * i6N * 1000000 > 999990 * E6_abs_denom * i6D**
 
@@ -349,7 +349,7 @@ Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_lower :E6_abs_numer * i6N * 
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_upper`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L149-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L149-L150)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_upper :E6_abs_numer * i6N * 1000000 < 1000010 * E6_abs_denom * i6D**
 
@@ -358,7 +358,7 @@ Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one_upper :E6_abs_numer * i6N * 
 
 ### `Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L152-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L152-L157)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one :E6_abs_numer * i6N * 1000000 > 999990 * E6_abs_denom * i6D ∧ E6_abs_numer * i6N * 1000000 < 1000010 * E6_abs_denom * i6D**
 
@@ -370,7 +370,7 @@ Tau.BookIII.Spectral.ModularForms.E6_iota6_near_one :E6_abs_numer * i6N * 100000
 
 ### `Tau.BookIII.Spectral.ModularForms.alpha_E4_formula_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L163-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L163-L168)
 **theorem
 Tau.BookIII.Spectral.ModularForms.alpha_E4_formula_structure :121 * 225 = 225 * 121**
 
@@ -383,7 +383,7 @@ The residual (2.4 ppm) is the modular correction.
 
 ### `Tau.BookIII.Spectral.ModularForms.E8_follows_from_E4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/ModularForms.lean#L170-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/ModularForms.lean#L170-L176)
 **theorem
 Tau.BookIII.Spectral.ModularForms.E8_follows_from_E4 :True**
 

@@ -92,7 +92,7 @@ the full calibration cascade (Parts III–X).
 
 ### `Tau.BookIV.Calibration.WeinbergNearMatch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L45-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L45-L56)
 **structure
 Tau.BookIV.Calibration.WeinbergNearMatch :Type**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.weinberg_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L58-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L58-L61)
 **theorem
 Tau.BookIV.Calibration.weinberg_range :Sectors.kappa_AD.numer * 1000 > 224 * Sectors.kappa_AD.denom ∧ Sectors.kappa_AD.numer * 1000 < 226 * Sectors.kappa_AD.denom**
 
@@ -129,7 +129,7 @@ Tau.BookIV.Calibration.weinberg_range :Sectors.kappa_AD.numer * 1000 > 224 * Sec
 
 ### `Tau.BookIV.Calibration.weinberg_undershoots`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L63-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L63-L66)
 **theorem
 Tau.BookIV.Calibration.weinberg_undershoots :Sectors.kappa_AD.numer * si_weinberg_sin2.denom < si_weinberg_sin2.numer * Sectors.kappa_AD.denom**
 
@@ -140,7 +140,7 @@ Tau.BookIV.Calibration.weinberg_undershoots :Sectors.kappa_AD.numer * si_weinber
 
 ### `Tau.BookIV.Calibration.weinberg_deviation_lt_3pct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L68-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L68-L74)
 **theorem
 Tau.BookIV.Calibration.weinberg_deviation_lt_3pct :(si_weinberg_sin2.numer * Sectors.kappa_AD.denom - Sectors.kappa_AD.numer * si_weinberg_sin2.denom) * 100 < 3 * si_weinberg_sin2.numer * Sectors.kappa_AD.denom**
 
@@ -153,7 +153,7 @@ Cross-multiplied on Nat pairs.
 
 ### `Tau.BookIV.Calibration.StrongNearMatch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L80-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L80-L93)
 **structure
 Tau.BookIV.Calibration.StrongNearMatch :Type**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.strong_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L95-L98)
 **theorem
 Tau.BookIV.Calibration.strong_range :2 * Sectors.kappa_CC.numer * 1000 > 119 * Sectors.kappa_CC.denom ∧ 2 * Sectors.kappa_CC.numer * 1000 < 122 * Sectors.kappa_CC.denom**
 
@@ -193,7 +193,7 @@ Tau.BookIV.Calibration.strong_range :2 * Sectors.kappa_CC.numer * 1000 > 119 * S
 
 ### `Tau.BookIV.Calibration.strong_overshoots`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L100-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L100-L103)
 **theorem
 Tau.BookIV.Calibration.strong_overshoots :2 * Sectors.kappa_CC.numer * si_strong_coupling.denom > si_strong_coupling.numer * Sectors.kappa_CC.denom**
 
@@ -204,7 +204,7 @@ Tau.BookIV.Calibration.strong_overshoots :2 * Sectors.kappa_CC.numer * si_strong
 
 ### `Tau.BookIV.Calibration.strong_deviation_lt_3pct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L105-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L105-L111)
 **theorem
 Tau.BookIV.Calibration.strong_deviation_lt_3pct :(2 * Sectors.kappa_CC.numer * si_strong_coupling.denom - si_strong_coupling.numer * Sectors.kappa_CC.denom) * 100 < 3 * si_strong_coupling.numer * Sectors.kappa_CC.denom**
 
@@ -217,7 +217,7 @@ Cross-multiplied on Nat pairs.
 
 ### `Tau.BookIV.Calibration.alpha_spectral_overshoots`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L117-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L117-L122)
 **theorem
 Tau.BookIV.Calibration.alpha_spectral_overshoots :Sectors.alpha_spectral_denom * si_alpha_inverse.denom > si_alpha_inverse.numer * Sectors.alpha_spectral_numer**
 
@@ -230,7 +230,7 @@ Spectral: 1/α ≈ 137.9, Experimental: 1/α ≈ 137.036.
 
 ### `Tau.BookIV.Calibration.all_near_matches_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L128-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L128-L141)
 **theorem
 Tau.BookIV.Calibration.all_near_matches_in_range :(Sectors.alpha_spectral_denom > 137 * Sectors.alpha_spectral_numer ∧ Sectors.alpha_spectral_denom < 139 * Sectors.alpha_spectral_numer) ∧ (Sectors.kappa_AD.numer * 1000 > 224 * Sectors.kappa_AD.denom ∧ Sectors.kappa_AD.numer * 1000 < 226 * Sectors.kappa_AD.denom) ∧ 2 * Sectors.kappa_CC.numer * 1000 > 119 * Sectors.kappa_CC.denom ∧ 2 * Sectors.kappa_CC.numer * 1000 < 122 * Sectors.kappa_CC.denom**
 
@@ -243,7 +243,7 @@ NOT a proof of correctness — all three are CONJECTURAL.
 
 ### `Tau.BookIV.Calibration.NearMatchEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L147-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L147-L155)
 **structure
 Tau.BookIV.Calibration.NearMatchEntry :Type**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNearMatchEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L155-L155)
 **def
 Tau.BookIV.Calibration.instReprNearMatchEntry.repr :NearMatchEntry → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprNearMatchEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L155-L155)
 **instance
 Tau.BookIV.Calibration.instReprNearMatchEntry :Repr NearMatchEntry**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.near_match_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L157-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L157-L171)
 **def
 Tau.BookIV.Calibration.near_match_table :List NearMatchEntry**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.near_match_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L173-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessNearMatch.lean#L173-L174)
 **theorem
 Tau.BookIV.Calibration.near_match_count :near_match_table.length = 3**
 

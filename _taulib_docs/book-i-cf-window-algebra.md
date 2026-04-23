@@ -70,7 +70,7 @@ generators winding through the fiber T².
 
 ### `Tau.CF.cf_head`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L44-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L44-L47)
 **def
 Tau.CF.cf_head :List Nat**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.CF.cf_head_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L49-L49)
 **theorem
 Tau.CF.cf_head_length :cf_head.length = 14**
 
@@ -95,7 +95,7 @@ Tau.CF.cf_head_length :cf_head.length = 14**
 
 ### `Tau.CF.windowSum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L55-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L55-L59)
 **def
 Tau.CF.windowSum
 (cf : List Nat)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.CF.w3_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L65-L67)
 **theorem
 Tau.CF.w3_at_3 :windowSum cf_head 3 3 = 17**
 
@@ -126,7 +126,7 @@ The g_A NLO denominator: δ_A = (8/17)·ι².
 
 ### `Tau.CF.w3_at_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L69-L71)
 **theorem
 Tau.CF.w3_at_4 :windowSum cf_head 3 4 = 5**
 
@@ -138,7 +138,7 @@ The sin²θ_W NLO numerator.
 
 ### `Tau.CF.w3_at_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L73-L75)
 **theorem
 Tau.CF.w3_at_5 :windowSum cf_head 3 5 = 3**
 
@@ -150,7 +150,7 @@ Equals the cardinality of the solenoidal triple {π, γ, η}.
 
 ### `Tau.CF.w3_at_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L77-L78)
 **theorem
 Tau.CF.w3_at_1 :windowSum cf_head 3 1 = 16**
 
@@ -161,7 +161,7 @@ W₃(1) = a₁ + a₂ + a₃ = 2 + 1 + 13 = 16.
 
 ### `Tau.CF.w3_at_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L80-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L80-L81)
 **theorem
 Tau.CF.w3_at_2 :windowSum cf_head 3 2 = 17**
 
@@ -172,7 +172,7 @@ W₃(2) = a₂ + a₃ + a₄ = 1 + 13 + 3 = 17.
 
 ### `Tau.CF.symmetric_recipe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L87-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L87-L94)
 **theorem
 Tau.CF.symmetric_recipe :have w34 := windowSum cf_head 3 4;
 have denom := windowSum cf_head 3 3 - 2 * windowSum cf_head 3 4;
@@ -187,7 +187,7 @@ Both sides use the same W₃ window family.
 
 ### `Tau.CF.symmetric_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L96-L99)
 **theorem
 Tau.CF.symmetric_product :windowSum cf_head 3 4 * (windowSum cf_head 3 3 - 2 * windowSum cf_head 3 4) = 35**
 
@@ -198,7 +198,7 @@ The product 5 × 7 = 35 from the symmetric recipe.
 
 ### `Tau.CF.mw_window_quotient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L105-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L105-L109)
 **theorem
 Tau.CF.mw_window_quotient :windowSum cf_head 3 3 = 17 ∧ windowSum cf_head 3 4 = 5**
 
@@ -210,7 +210,7 @@ This is the coefficient in M_W/m_n = (17/5)·ι⁻³.
 
 ### `Tau.CF.window_width_is_solenoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L115-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L115-L121)
 **theorem
 Tau.CF.window_width_is_solenoidal :3 = Kernel.solenoidalGenerators.length**
 
@@ -224,7 +224,7 @@ through the three generators {π, γ, η} winding through T².
 
 ### `Tau.CF.w3_at_5_eq_solenoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L123-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L123-L126)
 **theorem
 Tau.CF.w3_at_5_eq_solenoidal :windowSum cf_head 3 5 = Kernel.solenoidalGenerators.length**
 
@@ -235,7 +235,7 @@ W₃(5) = 3 = |solenoidal|: the third window echoes the width itself.
 
 ### `Tau.CF.a3_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L132-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L132-L133)
 **theorem
 Tau.CF.a3_eq :cf_head.getD 3 0 = 13**
 
@@ -246,7 +246,7 @@ a₃ = 13 (the CF hub, anomalously large).
 
 ### `Tau.CF.a4_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L135-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L135-L136)
 **theorem
 Tau.CF.a4_eq :cf_head.getD 4 0 = 3**
 
@@ -257,7 +257,7 @@ a₄ = 3 = dim(τ³) = window width.
 
 ### `Tau.CF.a8_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L138-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L138-L139)
 **theorem
 Tau.CF.a8_eq :cf_head.getD 8 0 = 42**
 
@@ -268,7 +268,7 @@ a₈ = 42 (the "dark number", highest information content).
 
 ### `Tau.CF.EWCrossWeb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L145-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L145-L156)
 **structure
 Tau.CF.EWCrossWeb :Type**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.CF.ewCrossWeb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/CF/WindowAlgebra.lean#L158-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/CF/WindowAlgebra.lean#L158-L159)
 **def
 Tau.CF.ewCrossWeb :EWCrossWeb**
 

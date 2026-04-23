@@ -72,7 +72,7 @@ T₂₁(z=17) ≈ −209 mK (standard ΛCDM evaluated at τ parameters).
 
 ### `Tau.BookV.Cosmology.BrightnessTemp21cm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L41-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L41-L55)
 **structure
 Tau.BookV.Cosmology.BrightnessTemp21cm :Type**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.SpinTempCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L57-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L57-L68)
 **inductive
 Tau.BookV.Cosmology.SpinTempCoupling :Type**
 
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instDecidableEqSpinTempCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
 **instance
 Tau.BookV.Cosmology.instDecidableEqSpinTempCoupling :DecidableEq SpinTempCoupling**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprSpinTempCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
 **def
 Tau.BookV.Cosmology.instReprSpinTempCoupling.repr :SpinTempCoupling → ℕ → Std.Format**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSpinTempCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L68-L68)
 **instance
 Tau.BookV.Cosmology.instReprSpinTempCoupling :Repr SpinTempCoupling**
 
@@ -163,7 +163,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.absorption_trough_z17_mK`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L74-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L74-L77)
 **def
 Tau.BookV.Cosmology.absorption_trough_z17_mK :ℤ**
 
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.z_reion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L79-L81)
 **def
 Tau.BookV.Cosmology.z_reion :ℕ**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.z_reion_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L83-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L83-L84)
 **theorem
 Tau.BookV.Cosmology.z_reion_pos :z_reion > 0**
 
@@ -205,7 +205,7 @@ z_reion = 8 is positive.
 
 ### `Tau.BookV.Cosmology.trough_is_absorption`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/Reionization.lean#L86-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/Reionization.lean#L86-L87)
 **theorem
 Tau.BookV.Cosmology.trough_is_absorption :absorption_trough_z17_mK < 0**
 

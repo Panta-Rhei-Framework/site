@@ -54,7 +54,7 @@ ultrametric on the space of omega-tails.
 
 ### `Tau.Polarity.OmegaTail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L33-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L33-L40)
 **structure
 Tau.Polarity.OmegaTail :Type**
 
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.Polarity.instReprOmegaTail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L40-L40)
 **instance
 Tau.Polarity.instReprOmegaTail :Repr OmegaTail**
 
@@ -83,7 +83,7 @@ Equations
 
 ### `Tau.Polarity.instReprOmegaTail.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L40-L40)
 **def
 Tau.Polarity.instReprOmegaTail.repr :OmegaTail → Nat → Std.Format**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.Polarity.nat_to_tail_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L42-L47)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L42-L47)@[irreducible]
 
 **def
 Tau.Polarity.nat_to_tail_go
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.Polarity.nat_to_tail_components`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L49-L51)
 **def
 Tau.Polarity.nat_to_tail_components
 (n d : Denotation.TauIdx)
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Polarity.nat_to_tail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L53-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L53-L56)
 **def
 Tau.Polarity.nat_to_tail
 (n d : Denotation.TauIdx)
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.Polarity.OmegaTail.get`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L62-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L62-L64)
 **def
 Tau.Polarity.OmegaTail.get
 (t : OmegaTail)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.Polarity.compat_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L70-L78)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L70-L78)@[irreducible]
 
 **def
 Tau.Polarity.compat_inner
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.Polarity.compat_outer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L80-L85)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L80-L85)@[irreducible]
 
 **def
 Tau.Polarity.compat_outer
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Polarity.compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L87-L88)
 **def
 Tau.Polarity.compat_check
 (t : OmegaTail)
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.Polarity.Compatible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L94-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L94-L98)
 **def
 Tau.Polarity.Compatible
 (t : OmegaTail)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.Polarity.mk_omega_tail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L115-L117)
 **def
 Tau.Polarity.mk_omega_tail
 (n d : Denotation.TauIdx)
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.Polarity.mk_omega_tail_compat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L142-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L142-L154)
 **theorem
 Tau.Polarity.mk_omega_tail_compat
 (n d : Denotation.TauIdx)
@@ -268,7 +268,7 @@ This is the Prop-level soundness theorem for the canonical embedding.
 
 ### `Tau.Polarity.mk_omega_tail_getD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L156-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L156-L159)
 **theorem
 Tau.Polarity.mk_omega_tail_getD
 (n d i : Nat)
@@ -283,7 +283,7 @@ Component accessor for mk_omega_tail: the i-th component is reduce n (i+1).
 
 ### `Tau.Polarity.equiv_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L171-L179)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L171-L179)@[irreducible]
 
 **def
 Tau.Polarity.equiv_go
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.Polarity.tail_equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L181-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L181-L184)
 **def
 Tau.Polarity.tail_equiv
 (t1 t2 : OmegaTail)
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.Polarity.diverge_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L190-L199)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L190-L199)@[irreducible]
 
 **def
 Tau.Polarity.diverge_go
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.Polarity.divergence_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L201-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L201-L205)
 **def
 Tau.Polarity.divergence_depth
 (t1 t2 : OmegaTail)
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.Polarity.ultra_dist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L207-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L207-L208)
 **def
 Tau.Polarity.ultra_dist
 (t1 t2 : OmegaTail)
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.Polarity.ultra_symmetric`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L232-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L232-L238)
 **theorem
 Tau.Polarity.ultra_symmetric
 (t1 t2 : OmegaTail)
@@ -383,7 +383,7 @@ Ultrametric symmetry: d(t1,t2) = d(t2,t1).
 
 ### `Tau.Polarity.agree_at_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L240-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L240-L243)
 **theorem
 Tau.Polarity.agree_at_trans
 (c1 c2 c3 : List Denotation.TauIdx)
@@ -402,7 +402,7 @@ Agreement transitivity: if c1[i] = c2[i] and c2[i] = c3[i], then c1[i] = c3[i].
 
 ### `Tau.Polarity.ultra_symmetry_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L245-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L245-L247)
 **def
 Tau.Polarity.ultra_symmetry_check
 (t1 t2 : OmegaTail)
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.Polarity.ultra_triangle_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L249-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L249-L259)
 **def
 Tau.Polarity.ultra_triangle_check
 (t1 t2 t3 : OmegaTail)
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.Polarity.ultra_triangle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L340-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L340-L349)
 **theorem
 Tau.Polarity.ultra_triangle
 (t1 t2 t3 : OmegaTail)
@@ -458,7 +458,7 @@ d(t1,t3) = 0 or d(t1,t3) ≥ min(d(t1,t2), d(t2,t3)).
 
 ### `Tau.Polarity.ultra_triangle_mk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/OmegaGerms.lean#L351-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/OmegaGerms.lean#L351-L357)
 **theorem
 Tau.Polarity.ultra_triangle_mk
 (n1 n2 n3 d : Denotation.TauIdx)

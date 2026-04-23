@@ -63,7 +63,7 @@ Imports BookV.Gravity.BHTopoModes for QNM evaluator mechanism.
 
 ### `Tau.BookVI.BHSelfDesc.BHDecodeTarget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L36-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L36-L45)
 **structure
 Tau.BookVI.BHSelfDesc.BHDecodeTarget :Type**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHDecodeTarget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L45-L45)
 **def
 Tau.BookVI.BHSelfDesc.instReprBHDecodeTarget.repr :BHDecodeTarget → ℕ → Std.Format**
 
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHDecodeTarget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L45-L45)
 **instance
 Tau.BookVI.BHSelfDesc.instReprBHDecodeTarget :Repr BHDecodeTarget**
 
@@ -109,7 +109,7 @@ Equations
 
 ### `Tau.BookVI.BHSelfDesc.bh_target`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L47-L47)
 **def
 Tau.BookVI.BHSelfDesc.bh_target :BHDecodeTarget**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.BHDecodeHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L53-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L53-L62)
 **structure
 Tau.BookVI.BHSelfDesc.BHDecodeHorizon :Type**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHDecodeHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L62-L62)
 **def
 Tau.BookVI.BHSelfDesc.instReprBHDecodeHorizon.repr :BHDecodeHorizon → ℕ → Std.Format**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHDecodeHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L62-L62)
 **instance
 Tau.BookVI.BHSelfDesc.instReprBHDecodeHorizon :Repr BHDecodeHorizon**
 
@@ -167,7 +167,7 @@ Equations
 
 ### `Tau.BookVI.BHSelfDesc.bh_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L64-L64)
 **def
 Tau.BookVI.BHSelfDesc.bh_horizon :BHDecodeHorizon**
 
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.bh_uniqueness_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L70-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L70-L74)
 **theorem
 Tau.BookVI.BHSelfDesc.bh_uniqueness_lemma :bh_target.kerr_newman = true ∧ bh_target.selects_argmin = true**
 
@@ -191,7 +191,7 @@ Follows from Israel-Carter-Robinson (No-Hair) theorem.
 
 ### `Tau.BookVI.BHSelfDesc.bh_constancy_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L76-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L76-L80)
 **theorem
 Tau.BookVI.BHSelfDesc.bh_constancy_lemma :bh_horizon.constant_code = true ∧ bh_horizon.stabilization_depth = 1**
 
@@ -203,7 +203,7 @@ Code is independent of blueprint ball radius.
 
 ### `Tau.BookVI.BHSelfDesc.BHEvaluator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L86-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L86-L96)
 **structure
 Tau.BookVI.BHSelfDesc.BHEvaluator :Type**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHEvaluator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L96-L96)
 **instance
 Tau.BookVI.BHSelfDesc.instReprBHEvaluator :Repr BHEvaluator**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHEvaluator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L96-L96)
 **def
 Tau.BookVI.BHSelfDesc.instReprBHEvaluator.repr :BHEvaluator → ℕ → Std.Format**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.bh_evaluator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L98-L98)
 **def
 Tau.BookVI.BHSelfDesc.bh_evaluator :BHEvaluator**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.evaluator_modes_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L100-L102)
 **theorem
 Tau.BookVI.BHSelfDesc.evaluator_modes_consistent :bh_evaluator.mode_count = 3**
 
@@ -273,7 +273,7 @@ Evaluator mode count matches BookV authority.
 
 ### `Tau.BookVI.BHSelfDesc.BHSelfDescResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L108-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L108-L123)
 **structure
 Tau.BookVI.BHSelfDesc.BHSelfDescResult :Type**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHSelfDescResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L123-L123)
 **def
 Tau.BookVI.BHSelfDesc.instReprBHSelfDescResult.repr :BHSelfDescResult → ℕ → Std.Format**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.instReprBHSelfDescResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L123-L123)
 **instance
 Tau.BookVI.BHSelfDesc.instReprBHSelfDescResult :Repr BHSelfDescResult**
 
@@ -325,7 +325,7 @@ Equations
 
 ### `Tau.BookVI.BHSelfDesc.bh_sd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L125-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L125-L127)
 **def
 Tau.BookVI.BHSelfDesc.bh_sd :BHSelfDescResult**
 
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookVI.BHSelfDesc.bh_selfdesc_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L129-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L129-L136)
 **theorem
 Tau.BookVI.BHSelfDesc.bh_selfdesc_theorem :bh_sd.conditions_satisfied = 3 ∧ bh_sd.completeness = true ∧ bh_sd.internality = true ∧ bh_sd.refinement_coherence = true ∧ bh_sd.bh_alive = true**
 
@@ -348,7 +348,7 @@ Tau.BookVI.BHSelfDesc.bh_selfdesc_theorem :bh_sd.conditions_satisfied = 3 ∧ bh
 
 ### `Tau.BookVI.BHSelfDesc.selfdesc_uses_bookV_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L138-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHSelfDesc.lean#L138-L142)
 **theorem
 Tau.BookVI.BHSelfDesc.selfdesc_uses_bookV_modes :bh_evaluator.mode_count = 3 ∧ bh_evaluator.mechanism = "T2_QNM_ringdown"**
 

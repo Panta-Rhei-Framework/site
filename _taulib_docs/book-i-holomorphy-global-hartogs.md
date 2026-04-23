@@ -67,7 +67,7 @@ This uses ALL machinery from Parts IX-XII.
 
 ### `Tau.Holomorphy.HartogsData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L40-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L40-L54)
 **structure
 Tau.Holomorphy.HartogsData :Type**
 
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.Holomorphy.global_hartogs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L56-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L56-L69)
 **theorem
 Tau.Holomorphy.global_hartogs
 (hd : HartogsData)
@@ -114,7 +114,7 @@ which gives downward propagation of agreement via tower coherence.
 
 ### `Tau.Holomorphy.hartogs_unique_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L71-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L71-L74)
 **theorem
 Tau.Holomorphy.hartogs_unique_b
 (hd : HartogsData)
@@ -129,7 +129,7 @@ Hartogs uniqueness for B-sector: extension is unique.
 
 ### `Tau.Holomorphy.hartogs_unique_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L76-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L76-L79)
 **theorem
 Tau.Holomorphy.hartogs_unique_c
 (hd : HartogsData)
@@ -144,7 +144,7 @@ Hartogs uniqueness for C-sector: extension is unique.
 
 ### `Tau.Holomorphy.hartogs_ingredient_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L85-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L85-L90)
 **theorem
 Tau.Holomorphy.hartogs_ingredient_spectral
 (f₁ f₂ : StageFun)
@@ -157,7 +157,7 @@ Ingredient 1: Spectral coefficients determine the function (I.T29).
 
 ### `Tau.Holomorphy.hartogs_ingredient_crt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L92-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L92-L96)
 **theorem
 Tau.Holomorphy.hartogs_ingredient_crt
 (f : StageFun)
@@ -174,7 +174,7 @@ Ingredient 2: CRT extension constrains values via reduce (I.L08).
 
 ### `Tau.Holomorphy.hartogs_ingredient_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L98-L102)
 **theorem
 Tau.Holomorphy.hartogs_ingredient_coherence
 (f : StageFun)
@@ -193,7 +193,7 @@ Ingredient 3: Tower coherence gives downward propagation.
 
 ### `Tau.Holomorphy.hartogs_ingredient_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L104-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L104-L110)
 **theorem
 Tau.Holomorphy.hartogs_ingredient_identity
 (f₁ f₂ : StageFun)
@@ -209,7 +209,7 @@ Ingredient 4: Identity Theorem provides uniqueness (I.T21).
 
 ### `Tau.Holomorphy.hartogs_id_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L116-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/GlobalHartogs.lean#L116-L123)
 **def
 Tau.Holomorphy.hartogs_id_example :HartogsData**
 

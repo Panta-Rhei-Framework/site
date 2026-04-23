@@ -107,7 +107,7 @@ This is not a failure but a precise characterization of difficulty.
 
 ### `Tau.BookIII.Bridge.GapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L84-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L84-L89)
 **inductive
 Tau.BookIII.Bridge.GapType :Type**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprGapType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
 **def
 Tau.BookIII.Bridge.instReprGapType.repr :GapType → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
 **instance
 Tau.BookIII.Bridge.instReprGapType :Repr GapType**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
 **instance
 Tau.BookIII.Bridge.instDecidableEqGapType :DecidableEq GapType**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqGapType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
 **instance
 Tau.BookIII.Bridge.instBEqGapType :BEq GapType**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqGapType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L89-L89)
 **def
 Tau.BookIII.Bridge.instBEqGapType.beq :GapType → GapType → Bool**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.GapType.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L91-L95)
 **def
 Tau.BookIII.Bridge.GapType.toNat :GapType → ℕ**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.GapType.name`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L97-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L97-L101)
 **def
 Tau.BookIII.Bridge.GapType.name :GapType → String**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.AdditiveConjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L107-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L107-L112)
 **inductive
 Tau.BookIII.Bridge.AdditiveConjecture :Type**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprAdditiveConjecture.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
 **def
 Tau.BookIII.Bridge.instReprAdditiveConjecture.repr :AdditiveConjecture → ℕ → Std.Format**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instReprAdditiveConjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
 **instance
 Tau.BookIII.Bridge.instReprAdditiveConjecture :Repr AdditiveConjecture**
 
@@ -251,7 +251,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instDecidableEqAdditiveConjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
 **instance
 Tau.BookIII.Bridge.instDecidableEqAdditiveConjecture :DecidableEq AdditiveConjecture**
 
@@ -262,7 +262,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.instBEqAdditiveConjecture.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
 **def
 Tau.BookIII.Bridge.instBEqAdditiveConjecture.beq :AdditiveConjecture → AdditiveConjecture → Bool**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.instBEqAdditiveConjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L112-L112)
 **instance
 Tau.BookIII.Bridge.instBEqAdditiveConjecture :BEq AdditiveConjecture**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookIII.Bridge.all_conjectures`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L114-L116)
 **def
 Tau.BookIII.Bridge.all_conjectures :List AdditiveConjecture**
 
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.conjecture_gap_type`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L118-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L118-L122)
 **def
 Tau.BookIII.Bridge.conjecture_gap_type :AdditiveConjecture → GapType**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.gap_forbidden_move`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L128-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L128-L135)
 **def
 Tau.BookIII.Bridge.gap_forbidden_move :AdditiveConjecture → ForbiddenMove**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.gap_violated_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L137-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L137-L139)
 **def
 Tau.BookIII.Bridge.gap_violated_axiom
 (c : AdditiveConjecture)
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.conjecture_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L145-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L145-L149)
 **def
 Tau.BookIII.Bridge.conjecture_scope :AdditiveConjecture → ScopeLabel**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.full_conjecture_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L151-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L151-L155)
 **def
 Tau.BookIII.Bridge.full_conjecture_scope :AdditiveConjecture → ScopeLabel**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.scope_discipline_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L157-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L157-L162)
 **def
 Tau.BookIII.Bridge.scope_discipline_check :Bool**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.tower_decidable_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L168-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L168-L182)
 **def
 Tau.BookIII.Bridge.tower_decidable_check :Bool**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.bridge_necessary_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L188-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L188-L198)
 **def
 Tau.BookIII.Bridge.bridge_necessary_check :Bool**
 
@@ -433,7 +433,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.gap_taxonomy_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L200-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L200-L205)
 **def
 Tau.BookIII.Bridge.gap_taxonomy_complete :Bool**
 
@@ -447,7 +447,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.tower_finite_decidable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L211-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L211-L214)
 **theorem
 Tau.BookIII.Bridge.tower_finite_decidable :tower_decidable_check = true**
 
@@ -459,7 +459,7 @@ gap types, forbidden moves, and scope labels.
 
 ### `Tau.BookIII.Bridge.bridge_necessary_insufficient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L216-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L216-L218)
 **theorem
 Tau.BookIII.Bridge.bridge_necessary_insufficient :bridge_necessary_check = true**
 
@@ -470,7 +470,7 @@ Tau.BookIII.Bridge.bridge_necessary_insufficient :bridge_necessary_check = true*
 
 ### `Tau.BookIII.Bridge.gap_taxonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L220-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L220-L222)
 **theorem
 Tau.BookIII.Bridge.gap_taxonomy :gap_taxonomy_complete = true**
 
@@ -481,7 +481,7 @@ Tau.BookIII.Bridge.gap_taxonomy :gap_taxonomy_complete = true**
 
 ### `Tau.BookIII.Bridge.all_gaps_exponential`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L224-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L224-L228)
 **theorem
 Tau.BookIII.Bridge.all_gaps_exponential :(all_conjectures.all fun (c : AdditiveConjecture) => gap_forbidden_move c == ForbiddenMove.exponential_quantification) = true**
 
@@ -492,7 +492,7 @@ Tau.BookIII.Bridge.all_gaps_exponential :(all_conjectures.all fun (c : AdditiveC
 
 ### `Tau.BookIII.Bridge.scope_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L230-L232)
 **theorem
 Tau.BookIII.Bridge.scope_check :scope_discipline_check = true**
 
@@ -503,7 +503,7 @@ Scope discipline: finite τ-effective, infinite conjectural.
 
 ### `Tau.BookIII.Bridge.parity_ne_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L238-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L238-L240)
 **theorem
 Tau.BookIII.Bridge.parity_ne_density :GapType.parity.toNat ≠ GapType.density.toNat**
 
@@ -514,7 +514,7 @@ Tau.BookIII.Bridge.parity_ne_density :GapType.parity.toNat ≠ GapType.density.t
 
 ### `Tau.BookIII.Bridge.gap_indices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L242-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L242-L247)
 **theorem
 Tau.BookIII.Bridge.gap_indices :GapType.parity.toNat = 0 ∧ GapType.density.toNat = 1 ∧ GapType.structural.toNat = 2**
 
@@ -525,7 +525,7 @@ Tau.BookIII.Bridge.gap_indices :GapType.parity.toNat = 0 ∧ GapType.density.toN
 
 ### `Tau.BookIII.Bridge.goldbach_gap_parity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L249-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L249-L251)
 **theorem
 Tau.BookIII.Bridge.goldbach_gap_parity :conjecture_gap_type AdditiveConjecture.goldbach = GapType.parity**
 
@@ -536,7 +536,7 @@ Tau.BookIII.Bridge.goldbach_gap_parity :conjecture_gap_type AdditiveConjecture.g
 
 ### `Tau.BookIII.Bridge.twin_gap_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L253-L255)
 **theorem
 Tau.BookIII.Bridge.twin_gap_density :conjecture_gap_type AdditiveConjecture.twin_primes = GapType.density**
 
@@ -547,7 +547,7 @@ Tau.BookIII.Bridge.twin_gap_density :conjecture_gap_type AdditiveConjecture.twin
 
 ### `Tau.BookIII.Bridge.abc_gap_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L257-L259)
 **theorem
 Tau.BookIII.Bridge.abc_gap_structural :conjecture_gap_type AdditiveConjecture.abc = GapType.structural**
 
@@ -558,7 +558,7 @@ Tau.BookIII.Bridge.abc_gap_structural :conjecture_gap_type AdditiveConjecture.ab
 
 ### `Tau.BookIII.Bridge.all_gaps_K4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L261-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L261-L266)
 **theorem
 Tau.BookIII.Bridge.all_gaps_K4 :gap_violated_axiom AdditiveConjecture.goldbach = Hinge.ChainLink.K4 ∧ gap_violated_axiom AdditiveConjecture.twin_primes = Hinge.ChainLink.K4 ∧ gap_violated_axiom AdditiveConjecture.abc = Hinge.ChainLink.K4**
 
@@ -569,7 +569,7 @@ Tau.BookIII.Bridge.all_gaps_K4 :gap_violated_axiom AdditiveConjecture.goldbach =
 
 ### `Tau.BookIII.Bridge.exponential_damage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L268-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L268-L270)
 **theorem
 Tau.BookIII.Bridge.exponential_damage :bridge_damage ForbiddenMove.exponential_quantification = 3**
 
@@ -580,7 +580,7 @@ Tau.BookIII.Bridge.exponential_damage :bridge_damage ForbiddenMove.exponential_q
 
 ### `Tau.BookIII.Bridge.three_conjectures`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/ConjectureGaps.lean#L272-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/ConjectureGaps.lean#L272-L274)
 **theorem
 Tau.BookIII.Bridge.three_conjectures :all_conjectures.length = 3**
 

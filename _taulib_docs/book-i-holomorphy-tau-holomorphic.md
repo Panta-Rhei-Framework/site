@@ -74,7 +74,7 @@ individual CRT factor Z/p_iZ.
 
 ### `Tau.Holomorphy.StageFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L49-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L49-L57)
 **structure
 Tau.Holomorphy.StageFun :Type**
 
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.Holomorphy.TowerCoherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L63-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L63-L73)
 **def
 Tau.Holomorphy.TowerCoherent
 (f : StageFun)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.Holomorphy.tower_coherent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L75-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L75-L80)
 **def
 Tau.Holomorphy.tower_coherent_check
 (f : StageFun)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Holomorphy.GermTransformer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L86-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L86-L98)
 **structure
 Tau.Holomorphy.GermTransformer :Type**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.Holomorphy.GermTransformer.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L100-L102)
 **def
 Tau.Holomorphy.GermTransformer.eval
 (gt : GermTransformer)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.Holomorphy.HolFun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L108-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L108-L119)
 **structure
 Tau.Holomorphy.HolFun :Type**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.Holomorphy.HolMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L121-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L121-L128)
 **structure
 Tau.Holomorphy.HolMap :Type**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L134-L136)
 **def
 Tau.Holomorphy.chi_plus_stage :StageFun**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L138-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L138-L140)
 **def
 Tau.Holomorphy.chi_minus_stage :StageFun**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L142-L144)
 **def
 Tau.Holomorphy.id_stage :StageFun**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_gt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L146-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L146-L148)
 **def
 Tau.Holomorphy.chi_plus_gt
 (d : ℕ)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_gt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L150-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L150-L152)
 **def
 Tau.Holomorphy.chi_minus_gt
 (d : ℕ)
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_gt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L154-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L154-L156)
 **def
 Tau.Holomorphy.id_gt
 (d : ℕ)
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L171-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L171-L179)
 **theorem
 Tau.Holomorphy.chi_plus_coherent :TowerCoherent chi_plus_stage**
 
@@ -341,7 +341,7 @@ Tau.Holomorphy.chi_plus_coherent :TowerCoherent chi_plus_stage**
 
 ### `Tau.Holomorphy.chi_minus_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L181-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L181-L189)
 **theorem
 Tau.Holomorphy.chi_minus_coherent :TowerCoherent chi_minus_stage**
 
@@ -352,7 +352,7 @@ Tau.Holomorphy.chi_minus_coherent :TowerCoherent chi_minus_stage**
 
 ### `Tau.Holomorphy.id_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L191-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L191-L195)
 **theorem
 Tau.Holomorphy.id_coherent :TowerCoherent id_stage**
 
@@ -363,7 +363,7 @@ The identity is tower-coherent.
 
 ### `Tau.Holomorphy.chi_plus_holfun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L197-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L197-L199)
 **def
 Tau.Holomorphy.chi_plus_holfun
 (d : ℕ)
@@ -379,7 +379,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_minus_holfun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L201-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L201-L203)
 **def
 Tau.Holomorphy.chi_minus_holfun
 (d : ℕ)
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.Holomorphy.id_holfun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L205-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L205-L207)
 **def
 Tau.Holomorphy.id_holfun
 (d : ℕ)
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.Holomorphy.chi_plus_crt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L219-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L219-L223)
 **theorem
 Tau.Holomorphy.chi_plus_crt
 (n k : Denotation.TauIdx)
@@ -424,7 +424,7 @@ CRT coherence for χ₊: the B-sector output depends only on n mod M_k.
 
 ### `Tau.Holomorphy.chi_minus_crt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L225-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L225-L229)
 **theorem
 Tau.Holomorphy.chi_minus_crt
 (n k : Denotation.TauIdx)
@@ -437,7 +437,7 @@ CRT coherence for χ₋: the C-sector output depends only on n mod M_k.
 
 ### `Tau.Holomorphy.StageFun.comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L235-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L235-L241)
 **def
 Tau.Holomorphy.StageFun.comp
 (f₁ f₂ : StageFun)
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.Holomorphy.GermTransformer.comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L243-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/TauHolomorphic.lean#L243-L247)
 **def
 Tau.Holomorphy.GermTransformer.comp
 (gt₁ gt₂ : GermTransformer)

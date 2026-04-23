@@ -54,7 +54,7 @@ Failure modes: NoDist and NoSelfDesc. Virus, neutron, NS counterexamples.
 
 ### `Tau.BookVI.Absence.NoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L23-L27)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L23-L27)
 **structure
 Tau.BookVI.Absence.NoDist :Type**
 
@@ -69,7 +69,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprNoDist.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L27-L27)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L27-L27)
 **def
 Tau.BookVI.Absence.instReprNoDist.repr :NoDist → ℕ → Std.Format**
 
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprNoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L27-L27)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L27-L27)
 **instance
 Tau.BookVI.Absence.instReprNoDist :Repr NoDist**
 
@@ -92,7 +92,7 @@ Equations
 
 ### `Tau.BookVI.Absence.NoSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L29-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L29-L34)
 **structure
 Tau.BookVI.Absence.NoSelfDesc :Type**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprNoSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L34-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L34-L34)
 **instance
 Tau.BookVI.Absence.instReprNoSelfDesc :Repr NoSelfDesc**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookVI.Absence.instReprNoSelfDesc.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L34-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L34-L34)
 **def
 Tau.BookVI.Absence.instReprNoSelfDesc.repr :NoSelfDesc → ℕ → Std.Format**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.VirusNoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L36-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L36-L41)
 **structure
 Tau.BookVI.Absence.VirusNoDist :Type**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprVirusNoDist.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L41-L41)
 **def
 Tau.BookVI.Absence.instReprVirusNoDist.repr :VirusNoDist → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprVirusNoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L41-L41)
 **instance
 Tau.BookVI.Absence.instReprVirusNoDist :Repr VirusNoDist**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookVI.Absence.virus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L43-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L43-L45)
 **def
 Tau.BookVI.Absence.virus :VirusNoDist**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.virus_nodist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L47-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L47-L50)
 **theorem
 Tau.BookVI.Absence.virus_nodist :virus.conditions_failed = 3 ∧ virus.host_dependent = true**
 
@@ -191,7 +191,7 @@ Tau.BookVI.Absence.virus_nodist :virus.conditions_failed = 3 ∧ virus.host_depe
 
 ### `Tau.BookVI.Absence.NSNoSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L52-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L52-L57)
 **structure
 Tau.BookVI.Absence.NSNoSelfDesc :Type**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprNSNoSelfDesc.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L57-L57)
 **def
 Tau.BookVI.Absence.instReprNSNoSelfDesc.repr :NSNoSelfDesc → ℕ → Std.Format**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprNSNoSelfDesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L57-L57)
 **instance
 Tau.BookVI.Absence.instReprNSNoSelfDesc :Repr NSNoSelfDesc**
 
@@ -230,7 +230,7 @@ Equations
 
 ### `Tau.BookVI.Absence.ns_nosd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L59-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L59-L61)
 **def
 Tau.BookVI.Absence.ns_nosd :NSNoSelfDesc**
 
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.ns_noselfdesc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L63-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L63-L66)
 **theorem
 Tau.BookVI.Absence.ns_noselfdesc :ns_nosd.distinction_passed = 5 ∧ ns_nosd.selfdesc_fails = true**
 
@@ -251,7 +251,7 @@ Tau.BookVI.Absence.ns_noselfdesc :ns_nosd.distinction_passed = 5 ∧ ns_nosd.sel
 
 ### `Tau.BookVI.Absence.ConsumerBridgeE3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L68-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L68-L72)
 **structure
 Tau.BookVI.Absence.ConsumerBridgeE3 :Type**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprConsumerBridgeE3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L72-L72)
 **instance
 Tau.BookVI.Absence.instReprConsumerBridgeE3 :Repr ConsumerBridgeE3**
 
@@ -277,7 +277,7 @@ Equations
 
 ### `Tau.BookVI.Absence.instReprConsumerBridgeE3.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L72-L72)
 **def
 Tau.BookVI.Absence.instReprConsumerBridgeE3.repr :ConsumerBridgeE3 → ℕ → Std.Format**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.consumer_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L74-L74)
 **def
 Tau.BookVI.Absence.consumer_bridge :ConsumerBridgeE3**
 
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.consumer_bridge_e3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L76-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L76-L79)
 **theorem
 Tau.BookVI.Absence.consumer_bridge_e3 :consumer_bridge.has_eval_squared = true ∧ consumer_bridge.consumer_only = true**
 
@@ -310,7 +310,7 @@ Tau.BookVI.Absence.consumer_bridge_e3 :consumer_bridge.has_eval_squared = true �
 
 ### `Tau.BookVI.Absence.CircadianRotation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L81-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L81-L85)
 **structure
 Tau.BookVI.Absence.CircadianRotation :Type**
 
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprCircadianRotation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L85-L85)
 **def
 Tau.BookVI.Absence.instReprCircadianRotation.repr :CircadianRotation → ℕ → Std.Format**
 
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookVI.Absence.instReprCircadianRotation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L85-L85)
 **instance
 Tau.BookVI.Absence.instReprCircadianRotation :Repr CircadianRotation**
 
@@ -348,7 +348,7 @@ Equations
 
 ### `Tau.BookVI.Absence.circadian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L87-L87)
 **def
 Tau.BookVI.Absence.circadian :CircadianRotation**
 
@@ -360,6 +360,6 @@ Instances For
 
 ### `Tau.BookVI.Absence.circadian_rotation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/Absence.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/Absence.lean#L89-L92)
 **theorem
 Tau.BookVI.Absence.circadian_rotation :circadian.period_hours = 24 ∧ circadian.winding_number = 1**

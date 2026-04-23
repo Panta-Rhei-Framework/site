@@ -97,7 +97,7 @@ metaphorical (no analogies in Part I).
 
 ### `Tau.BookV.Temporal.APIScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L55-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L55-L59)
 **inductive
 Tau.BookV.Temporal.APIScope :Type**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprAPIScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
 **instance
 Tau.BookV.Temporal.instReprAPIScope :Repr APIScope**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprAPIScope.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
 **def
 Tau.BookV.Temporal.instReprAPIScope.repr :APIScope → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instDecidableEqAPIScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
 **instance
 Tau.BookV.Temporal.instDecidableEqAPIScope :DecidableEq APIScope**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instBEqAPIScope.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
 **def
 Tau.BookV.Temporal.instBEqAPIScope.beq :APIScope → APIScope → Bool**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instBEqAPIScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L59-L59)
 **instance
 Tau.BookV.Temporal.instBEqAPIScope :BEq APIScope**
 
@@ -169,7 +169,7 @@ Equations
 
 ### `Tau.BookV.Temporal.APIItem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L65-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L65-L73)
 **structure
 Tau.BookV.Temporal.APIItem :Type**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprAPIItem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L73-L73)
 **def
 Tau.BookV.Temporal.instReprAPIItem.repr :APIItem → ℕ → Std.Format**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprAPIItem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L73-L73)
 **instance
 Tau.BookV.Temporal.instReprAPIItem :Repr APIItem**
 
@@ -214,7 +214,7 @@ Equations
 
 ### `Tau.BookV.Temporal.cosmic_stack_api`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L79-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L79-L118)
 **def
 Tau.BookV.Temporal.cosmic_stack_api :List APIItem**
 
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.CosmicStackAPI`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L124-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L124-L135)
 **structure
 Tau.BookV.Temporal.CosmicStackAPI :Type**
 
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprCosmicStackAPI`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L135-L135)
 **instance
 Tau.BookV.Temporal.instReprCosmicStackAPI :Repr CosmicStackAPI**
 
@@ -283,7 +283,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprCosmicStackAPI.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L135-L135)
 **def
 Tau.BookV.Temporal.instReprCosmicStackAPI.repr :CosmicStackAPI → ℕ → Std.Format**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.cosmic_stack_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L137-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L137-L142)
 **def
 Tau.BookV.Temporal.cosmic_stack_summary :CosmicStackAPI**
 
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.api_item_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L148-L149)
 **theorem
 Tau.BookV.Temporal.api_item_count :cosmic_stack_api.length = 21**
 
@@ -321,7 +321,7 @@ Tau.BookV.Temporal.api_item_count :cosmic_stack_api.length = 21**
 
 ### `Tau.BookV.Temporal.api_scope_distribution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L151-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L151-L155)
 **theorem
 Tau.BookV.Temporal.api_scope_distribution :(List.filter (fun (x : APIItem) => x.scope == APIScope.TauEffective) cosmic_stack_api).length = 19 ∧ (List.filter (fun (x : APIItem) => x.scope == APIScope.Conjectural) cosmic_stack_api).length = 2**
 
@@ -332,7 +332,7 @@ Tau.BookV.Temporal.api_scope_distribution :(List.filter (fun (x : APIItem) => x.
 
 ### `Tau.BookV.Temporal.api_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L157-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L157-L162)
 **theorem
 Tau.BookV.Temporal.api_complete :cosmic_stack_summary.tau_effective_count + cosmic_stack_summary.conjectural_count = cosmic_stack_summary.total_count**
 
@@ -343,7 +343,7 @@ Tau.BookV.Temporal.api_complete :cosmic_stack_summary.tau_effective_count + cosm
 
 ### `Tau.BookV.Temporal.summary_matches_list`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L164-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L164-L166)
 **theorem
 Tau.BookV.Temporal.summary_matches_list :cosmic_stack_summary.total_count = cosmic_stack_api.length**
 
@@ -354,7 +354,7 @@ The summary matches the actual list length.
 
 ### `Tau.BookV.Temporal.all_items_have_ids`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L168-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L168-L170)
 **theorem
 Tau.BookV.Temporal.all_items_have_ids :(cosmic_stack_api.all fun (item : APIItem) => decide (item.id.length > 0)) = true**
 
@@ -365,7 +365,7 @@ All API items have non-empty IDs.
 
 ### `Tau.BookV.Temporal.all_items_have_names`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L172-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L172-L174)
 **theorem
 Tau.BookV.Temporal.all_items_have_names :(cosmic_stack_api.all fun (item : APIItem) => decide (item.name.length > 0)) = true**
 
@@ -376,7 +376,7 @@ All API items have non-empty names.
 
 ### `Tau.BookV.Temporal.conjectural_items_identified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L176-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L176-L179)
 **theorem
 Tau.BookV.Temporal.conjectural_items_identified :(List.filter (fun (x : APIItem) => x.scope == APIScope.Conjectural) cosmic_stack_api).length = 2**
 
@@ -387,7 +387,7 @@ The two conjectural items are readout curvature and dark energy.
 
 ### `Tau.BookV.Temporal.minimum_id_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/CosmicAPI.lean#L181-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/CosmicAPI.lean#L181-L183)
 **theorem
 Tau.BookV.Temporal.minimum_id_length :(cosmic_stack_api.all fun (item : APIItem) => decide (item.id.length ≥ 5)) = true**
 

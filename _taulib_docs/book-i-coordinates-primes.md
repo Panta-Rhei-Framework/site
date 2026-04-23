@@ -48,7 +48,7 @@ Primes, divisibility, GCD, Euclid's Lemma, and FTA on τ-Idx.
 
 ### `Tau.Coordinates.idx_divides`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L42-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L42-L43)
 **def
 Tau.Coordinates.idx_divides
 (a b : Denotation.TauIdx)
@@ -64,7 +64,7 @@ Instances For
 
 ### `Tau.Coordinates.idx_divides_iff_nat_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L45-L49)
 **theorem
 Tau.Coordinates.idx_divides_iff_nat_dvd
 (a b : Denotation.TauIdx)
@@ -77,7 +77,7 @@ Bridge: idx_divides ↔ Nat.dvd.
 
 ### `Tau.Coordinates.instDecidableIdxDivides`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L51-L52)
 **instance
 Tau.Coordinates.instDecidableIdxDivides
 (a b : Denotation.TauIdx)
@@ -90,7 +90,7 @@ Equations
 
 ### `Tau.Coordinates.idx_divides_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L58-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L58-L59)
 **theorem
 Tau.Coordinates.idx_divides_refl
 (a : Denotation.TauIdx)
@@ -101,7 +101,7 @@ Tau.Coordinates.idx_divides_refl
 
 ### `Tau.Coordinates.idx_divides_trans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L61-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L61-L65)
 **theorem
 Tau.Coordinates.idx_divides_trans
 {a b c : Denotation.TauIdx}
@@ -116,7 +116,7 @@ Tau.Coordinates.idx_divides_trans
 
 ### `Tau.Coordinates.idx_one_divides`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L67-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L67-L68)
 **theorem
 Tau.Coordinates.idx_one_divides
 (a : Denotation.TauIdx)
@@ -127,7 +127,7 @@ Tau.Coordinates.idx_one_divides
 
 ### `Tau.Coordinates.idx_divides_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L70-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L70-L71)
 **theorem
 Tau.Coordinates.idx_divides_zero
 (a : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Tau.Coordinates.idx_divides_zero
 
 ### `Tau.Coordinates.idx_divides_le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L73-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L73-L74)
 **theorem
 Tau.Coordinates.idx_divides_le
 {a b : Denotation.TauIdx}
@@ -153,7 +153,7 @@ Tau.Coordinates.idx_divides_le
 
 ### `Tau.Coordinates.idx_divides_antisymm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L76-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L76-L79)
 **theorem
 Tau.Coordinates.idx_divides_antisymm
 {a b : Denotation.TauIdx}
@@ -168,7 +168,7 @@ Tau.Coordinates.idx_divides_antisymm
 
 ### `Tau.Coordinates.idx_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L85-L87)
 **def
 Tau.Coordinates.idx_prime
 (p : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Coordinates.no_factor_below`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L89-L96)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L89-L96)@[irreducible]
 
 **def
 Tau.Coordinates.no_factor_below
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.Coordinates.is_prime_bool`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L98-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L98-L99)
 **def
 Tau.Coordinates.is_prime_bool
 (p : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.Coordinates.exists_prime_divisor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L105-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L105-L135)
 **theorem
 Tau.Coordinates.exists_prime_divisor
 (n : Denotation.TauIdx)
@@ -233,7 +233,7 @@ Every n ≥ 2 has a prime divisor. Proved by strong induction.
 
 ### `Tau.Coordinates.idx_gcd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L141-L141)
 **def
 Tau.Coordinates.idx_gcd
 (a b : Denotation.TauIdx)
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.Coordinates.idx_gcd_dvd_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L143-L143)
 **theorem
 Tau.Coordinates.idx_gcd_dvd_left
 (a b : Denotation.TauIdx)
@@ -258,7 +258,7 @@ Tau.Coordinates.idx_gcd_dvd_left
 
 ### `Tau.Coordinates.idx_gcd_dvd_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L144-L144)
 **theorem
 Tau.Coordinates.idx_gcd_dvd_right
 (a b : Denotation.TauIdx)
@@ -269,7 +269,7 @@ Tau.Coordinates.idx_gcd_dvd_right
 
 ### `Tau.Coordinates.idx_dvd_gcd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L146-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L146-L147)
 **theorem
 Tau.Coordinates.idx_dvd_gcd
 {c a b : Denotation.TauIdx}
@@ -284,7 +284,7 @@ Tau.Coordinates.idx_dvd_gcd
 
 ### `Tau.Coordinates.idx_coprime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L153-L153)
 **def
 Tau.Coordinates.idx_coprime
 (a b : Denotation.TauIdx)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_coprime_of_not_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L155-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L155-L161)
 **theorem
 Tau.Coordinates.prime_coprime_of_not_dvd
 {p a : Denotation.TauIdx}
@@ -313,7 +313,7 @@ Tau.Coordinates.prime_coprime_of_not_dvd
 
 ### `Tau.Coordinates.coprime_dvd_of_dvd_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L163-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L163-L167)
 **theorem
 Tau.Coordinates.coprime_dvd_of_dvd_mul
 {a b c : Denotation.TauIdx}
@@ -330,7 +330,7 @@ Gauss's lemma via Nat.Coprime.
 
 ### `Tau.Coordinates.euclid_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L169-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L169-L174)
 **theorem
 Tau.Coordinates.euclid_lemma
 {p a b : Denotation.TauIdx}
@@ -347,7 +347,7 @@ Euclid's Lemma: p prime, p ∣ a*b → p ∣ a ∨ p ∣ b.
 
 ### `Tau.Coordinates.idx_factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L180-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L180-L182)
 **def
 Tau.Coordinates.idx_factorial :Denotation.TauIdx → Denotation.TauIdx**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.Coordinates.idx_factorial_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L184-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L184-L187)
 **theorem
 Tau.Coordinates.idx_factorial_pos
 (n : Denotation.TauIdx)
@@ -371,7 +371,7 @@ Tau.Coordinates.idx_factorial_pos
 
 ### `Tau.Coordinates.prime_dvd_factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L189-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L189-L204)
 **theorem
 Tau.Coordinates.prime_dvd_factorial
 {p n : Denotation.TauIdx}
@@ -388,7 +388,7 @@ Every prime p ≤ n divides n!.
 
 ### `Tau.Coordinates.primes_infinite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L225-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L225-L232)
 **theorem
 Tau.Coordinates.primes_infinite
 (n : Denotation.TauIdx)
@@ -401,7 +401,7 @@ For every n, there exists a prime p > n.
 
 ### `Tau.Coordinates.list_prod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L238-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L238-L240)
 **def
 Tau.Coordinates.list_prod :List Denotation.TauIdx → Denotation.TauIdx**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_product_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L242-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L242-L273)
 **theorem
 Tau.Coordinates.prime_product_exists
 (n : Denotation.TauIdx)
@@ -429,7 +429,7 @@ Every n ≥ 2 is a product of primes.
 
 ### `Tau.Coordinates.prime_mem_of_dvd_prod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L304-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L304-L320)
 **theorem
 Tau.Coordinates.prime_mem_of_dvd_prod
 {p : Denotation.TauIdx}
@@ -450,7 +450,7 @@ If p is prime and p divides a product of primes, then p is in the list.
 
 ### `Tau.Coordinates.sorted_nd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L352-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L352-L355)
 **def
 Tau.Coordinates.sorted_nd :List Denotation.TauIdx → Prop**
 
@@ -465,7 +465,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_product_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L357-L407)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L357-L407)
 **theorem
 Tau.Coordinates.prime_product_unique
 (ps qs : List Denotation.TauIdx)
@@ -489,7 +489,7 @@ with the same product are identical.
 
 ### `Tau.Coordinates.p_adic_val`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L413-L424)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L413-L424)
 **def
 Tau.Coordinates.p_adic_val
 (p n : Denotation.TauIdx)
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.Coordinates.p_adic_val.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/Primes.lean#L419-L422)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/Primes.lean#L419-L422)@[irreducible]
 
 **def
 Tau.Coordinates.p_adic_val.go

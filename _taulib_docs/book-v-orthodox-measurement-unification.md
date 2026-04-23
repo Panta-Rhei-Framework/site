@@ -102,7 +102,7 @@ characters not in the system's address range.
 
 ### `Tau.BookV.Orthodox.ReadoutStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L65-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L65-L71)
 **inductive
 Tau.BookV.Orthodox.ReadoutStatus :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprReadoutStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
 **def
 Tau.BookV.Orthodox.instReprReadoutStatus.repr :ReadoutStatus → ℕ → Std.Format**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprReadoutStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
 **instance
 Tau.BookV.Orthodox.instReprReadoutStatus :Repr ReadoutStatus**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instDecidableEqReadoutStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
 **instance
 Tau.BookV.Orthodox.instDecidableEqReadoutStatus :DecidableEq ReadoutStatus**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqReadoutStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
 **instance
 Tau.BookV.Orthodox.instBEqReadoutStatus :BEq ReadoutStatus**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqReadoutStatus.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L71-L71)
 **def
 Tau.BookV.Orthodox.instBEqReadoutStatus.beq :ReadoutStatus → ReadoutStatus → Bool**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.VMQuantumState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L73-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L73-L92)
 **structure
 Tau.BookV.Orthodox.VMQuantumState :Type**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprVMQuantumState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L92-L92)
 **def
 Tau.BookV.Orthodox.instReprVMQuantumState.repr :VMQuantumState → ℕ → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprVMQuantumState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L92-L92)
 **instance
 Tau.BookV.Orthodox.instReprVMQuantumState :Repr VMQuantumState**
 
@@ -236,7 +236,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.VMQuantumState.is_resolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L94-L96)
 **def
 Tau.BookV.Orthodox.VMQuantumState.is_resolved
 (s : VMQuantumState)
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.VMQuantumState.is_superposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L98-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L98-L100)
 **def
 Tau.BookV.Orthodox.VMQuantumState.is_superposition
 (s : VMQuantumState)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.MeasurementDissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L106-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L106-L116)
 **structure
 Tau.BookV.Orthodox.MeasurementDissolution :Type**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprMeasurementDissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L116-L116)
 **instance
 Tau.BookV.Orthodox.instReprMeasurementDissolution :Repr MeasurementDissolution**
 
@@ -304,7 +304,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprMeasurementDissolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L116-L116)
 **def
 Tau.BookV.Orthodox.instReprMeasurementDissolution.repr :MeasurementDissolution → ℕ → Std.Format**
 
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.canonical_measurement_dissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L118-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L118-L132)
 **def
 Tau.BookV.Orthodox.canonical_measurement_dissolution :MeasurementDissolution**
 
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.measurement_dissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L134-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L134-L135)
 **theorem
 Tau.BookV.Orthodox.measurement_dissolution :canonical_measurement_dissolution.all_parts = true**
 
@@ -355,7 +355,7 @@ Tau.BookV.Orthodox.measurement_dissolution :canonical_measurement_dissolution.al
 
 ### `Tau.BookV.Orthodox.canonical_dissolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L137-L138)
 **def
 Tau.BookV.Orthodox.canonical_dissolution :MeasurementDissolution**
 
@@ -369,7 +369,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.unitary_is_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L140-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L140-L142)
 **theorem
 Tau.BookV.Orthodox.unitary_is_readout :canonical_dissolution.unitary_is_readout = true**
 
@@ -380,7 +380,7 @@ Unitary evolution is a readout.
 
 ### `Tau.BookV.Orthodox.collapse_is_address_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L144-L146)
 **theorem
 Tau.BookV.Orthodox.collapse_is_address_resolution :canonical_dissolution.collapse_is_address_resolution = true**
 
@@ -391,7 +391,7 @@ Collapse is address resolution.
 
 ### `Tau.BookV.Orthodox.BellInequality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L152-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L152-L177)
 **structure
 Tau.BookV.Orthodox.BellInequality :Type**
 
@@ -433,7 +433,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprBellInequality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L177-L177)
 **instance
 Tau.BookV.Orthodox.instReprBellInequality :Repr BellInequality**
 
@@ -444,7 +444,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprBellInequality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L177-L177)
 **def
 Tau.BookV.Orthodox.instReprBellInequality.repr :BellInequality → ℕ → Std.Format**
 
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.bell_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L179-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L179-L180)
 **def
 Tau.BookV.Orthodox.bell_data :BellInequality**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.bell_inequality_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L182-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L182-L186)
 **theorem
 Tau.BookV.Orthodox.bell_inequality_tau :bell_data.reproduces_tsirelson = true ∧ bell_data.no_hidden_variables = true**
 
@@ -481,7 +481,7 @@ tau reproduces the Tsirelson bound, not the classical bound.
 
 ### `Tau.BookV.Orthodox.tsirelson_exceeds_classical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L188-L191)
 **theorem
 Tau.BookV.Orthodox.tsirelson_exceeds_classical :bell_data.tsirelson_numer > bell_data.classical_bound * bell_data.tsirelson_denom**
 
@@ -492,7 +492,7 @@ The quantum bound exceeds the classical bound.
 
 ### `Tau.BookV.Orthodox.DecoherenceShadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L197-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L197-L221)
 **structure
 Tau.BookV.Orthodox.DecoherenceShadow :Type**
 
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprDecoherenceShadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L221-L221)
 **instance
 Tau.BookV.Orthodox.instReprDecoherenceShadow :Repr DecoherenceShadow**
 
@@ -547,7 +547,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprDecoherenceShadow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L221-L221)
 **def
 Tau.BookV.Orthodox.instReprDecoherenceShadow.repr :DecoherenceShadow → ℕ → Std.Format**
 
@@ -559,7 +559,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.decoherence_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L223-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L223-L228)
 **def
 Tau.BookV.Orthodox.decoherence_example :DecoherenceShadow**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.decoherence_shadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L230-L232)
 **theorem
 Tau.BookV.Orthodox.decoherence_shadow :decoherence_example.is_fundamental = false**
 
@@ -584,7 +584,7 @@ Decoherence is a VM shadow, not fundamental.
 
 ### `Tau.BookV.Orthodox.decoherence_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L234-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L234-L236)
 **theorem
 Tau.BookV.Orthodox.decoherence_total
 (d : DecoherenceShadow)
@@ -597,7 +597,7 @@ The total character count is the sum of system and environment.
 
 ### `Tau.BookV.Orthodox.QuantumClassicalTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L242-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L242-L258)
 **structure
 Tau.BookV.Orthodox.QuantumClassicalTransition :Type**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprQuantumClassicalTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L258-L258)
 **def
 Tau.BookV.Orthodox.instReprQuantumClassicalTransition.repr :QuantumClassicalTransition → ℕ → Std.Format**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprQuantumClassicalTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L258-L258)
 **instance
 Tau.BookV.Orthodox.instReprQuantumClassicalTransition :Repr QuantumClassicalTransition**
 
@@ -650,7 +650,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.canonical_qc_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L260-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L260-L262)
 **def
 Tau.BookV.Orthodox.canonical_qc_transition :QuantumClassicalTransition**
 
@@ -664,7 +664,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_heisenberg_cut`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L264-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L264-L266)
 **theorem
 Tau.BookV.Orthodox.no_heisenberg_cut :canonical_qc_transition.no_heisenberg_cut = true**
 
@@ -675,7 +675,7 @@ No Heisenberg cut in tau.
 
 ### `Tau.BookV.Orthodox.example_superposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L290-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L290-L296)
 **def
 Tau.BookV.Orthodox.example_superposition :VMQuantumState**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.example_resolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/MeasurementUnification.lean#L298-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/MeasurementUnification.lean#L298-L304)
 **def
 Tau.BookV.Orthodox.example_resolved :VMQuantumState**
 

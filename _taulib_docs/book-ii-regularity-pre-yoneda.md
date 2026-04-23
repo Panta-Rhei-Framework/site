@@ -69,7 +69,7 @@ characterizes holomorphy as naturality of the probe system.
 
 ### `Tau.BookII.Regularity.preyoneda_embed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L51-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L51-L60)
 **def
 Tau.BookII.Regularity.preyoneda_embed
 (f : Denotation.TauIdx → ℤ)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_embed_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L62-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L62-L64)
 **def
 Tau.BookII.Regularity.preyoneda_embed_nat
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L70-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L70-L96)
 **def
 Tau.BookII.Regularity.preyoneda_tower_check
 (bound db : Denotation.TauIdx)
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L83-L95)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L83-L95)@[irreducible]
 
 **def
 Tau.BookII.Regularity.preyoneda_tower_check.go
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L98-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L98-L110)
 **def
 Tau.BookII.Regularity.preyoneda_identity_check
 (bound db : Denotation.TauIdx)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L103-L109)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L103-L109)@[irreducible]
 
 **def
 Tau.BookII.Regularity.preyoneda_identity_check.go
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_composition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L112-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L112-L136)
 **def
 Tau.BookII.Regularity.preyoneda_composition_check
 (bound db : Denotation.TauIdx)
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_composition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L121-L135)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L121-L135)@[irreducible]
 
 **def
 Tau.BookII.Regularity.preyoneda_composition_check.go
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_bipolar_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L142-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L142-L171)
 **def
 Tau.BookII.Regularity.preyoneda_bipolar_check
 (bound db : Denotation.TauIdx)
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_bipolar_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L157-L170)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L157-L170)@[irreducible]
 
 **def
 Tau.BookII.Regularity.preyoneda_bipolar_check.go
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_abcd_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L173-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L173-L189)
 **def
 Tau.BookII.Regularity.preyoneda_abcd_check
 (bound db : Denotation.TauIdx)
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_abcd_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L179-L188)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L179-L188)@[irreducible]
 
 **def
 Tau.BookII.Regularity.preyoneda_abcd_check.go
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.probe_naturality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L195-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L195-L233)
 **def
 Tau.BookII.Regularity.probe_naturality_check
 (bound db : Denotation.TauIdx)
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.probe_naturality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L209-L232)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L209-L232)@[irreducible]
 
 **def
 Tau.BookII.Regularity.probe_naturality_check.go
@@ -352,7 +352,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.probe_implies_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L235-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L235-L252)
 **def
 Tau.BookII.Regularity.probe_implies_tower_check
 (bound db : Denotation.TauIdx)
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.probe_implies_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L243-L251)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L243-L251)@[irreducible]
 
 **def
 Tau.BookII.Regularity.probe_implies_tower_check.go
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.full_preyoneda_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L258-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L258-L268)
 **def
 Tau.BookII.Regularity.full_preyoneda_check
 (bound db : Denotation.TauIdx)
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.preyoneda_tower_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L313-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L313-L314)
 **theorem
 Tau.BookII.Regularity.preyoneda_tower_15_4 :preyoneda_tower_check 15 4 = true**
 
@@ -416,7 +416,7 @@ Tau.BookII.Regularity.preyoneda_tower_15_4 :preyoneda_tower_check 15 4 = true**
 
 ### `Tau.BookII.Regularity.preyoneda_tower_20_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L316-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L316-L317)
 **theorem
 Tau.BookII.Regularity.preyoneda_tower_20_3 :preyoneda_tower_check 20 3 = true**
 
@@ -425,7 +425,7 @@ Tau.BookII.Regularity.preyoneda_tower_20_3 :preyoneda_tower_check 20 3 = true**
 
 ### `Tau.BookII.Regularity.preyoneda_identity_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L320-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L320-L321)
 **theorem
 Tau.BookII.Regularity.preyoneda_identity_15_4 :preyoneda_identity_check 15 4 = true**
 
@@ -434,7 +434,7 @@ Tau.BookII.Regularity.preyoneda_identity_15_4 :preyoneda_identity_check 15 4 = t
 
 ### `Tau.BookII.Regularity.preyoneda_composition_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L324-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L324-L325)
 **theorem
 Tau.BookII.Regularity.preyoneda_composition_12_3 :preyoneda_composition_check 12 3 = true**
 
@@ -443,7 +443,7 @@ Tau.BookII.Regularity.preyoneda_composition_12_3 :preyoneda_composition_check 12
 
 ### `Tau.BookII.Regularity.preyoneda_bipolar_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L328-L329)
 **theorem
 Tau.BookII.Regularity.preyoneda_bipolar_12_3 :preyoneda_bipolar_check 12 3 = true**
 
@@ -452,7 +452,7 @@ Tau.BookII.Regularity.preyoneda_bipolar_12_3 :preyoneda_bipolar_check 12 3 = tru
 
 ### `Tau.BookII.Regularity.preyoneda_abcd_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L332-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L332-L333)
 **theorem
 Tau.BookII.Regularity.preyoneda_abcd_12_3 :preyoneda_abcd_check 12 3 = true**
 
@@ -461,7 +461,7 @@ Tau.BookII.Regularity.preyoneda_abcd_12_3 :preyoneda_abcd_check 12 3 = true**
 
 ### `Tau.BookII.Regularity.probe_nat_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L336-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L336-L337)
 **theorem
 Tau.BookII.Regularity.probe_nat_10_3 :probe_naturality_check 10 3 = true**
 
@@ -470,7 +470,7 @@ Tau.BookII.Regularity.probe_nat_10_3 :probe_naturality_check 10 3 = true**
 
 ### `Tau.BookII.Regularity.probe_tower_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L340-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L340-L341)
 **theorem
 Tau.BookII.Regularity.probe_tower_15_4 :probe_implies_tower_check 15 4 = true**
 
@@ -479,7 +479,7 @@ Tau.BookII.Regularity.probe_tower_15_4 :probe_implies_tower_check 15 4 = true**
 
 ### `Tau.BookII.Regularity.full_preyoneda_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L344-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L344-L345)
 **theorem
 Tau.BookII.Regularity.full_preyoneda_10_3 :full_preyoneda_check 10 3 = true**
 
@@ -488,7 +488,7 @@ Tau.BookII.Regularity.full_preyoneda_10_3 :full_preyoneda_check 10 3 = true**
 
 ### `Tau.BookII.Regularity.preyoneda_id_tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L351-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L351-L360)
 **theorem
 Tau.BookII.Regularity.preyoneda_id_tower_coherent
 (x : Denotation.TauIdx)
@@ -509,7 +509,7 @@ reduce(reduce(x, k+1), k) = reduce(x, k), which is reduction_compat.
 
 ### `Tau.BookII.Regularity.probe_naturality_is_tower_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/PreYoneda.lean#L362-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/PreYoneda.lean#L362-L367)
 **theorem
 Tau.BookII.Regularity.probe_naturality_is_tower_coherence
 (x : Denotation.TauIdx)

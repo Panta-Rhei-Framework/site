@@ -53,7 +53,7 @@ axioms while moving objects.
 
 ### `Tau.Orbit.TooMany.Gen6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L36-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L36-L44)
 **inductive
 Tau.Orbit.TooMany.Gen6 :Type**
 
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.instDecidableEqGen6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
 **instance
 Tau.Orbit.TooMany.instDecidableEqGen6 :DecidableEq Gen6**
 
@@ -83,7 +83,7 @@ Equations
 
 ### `Tau.Orbit.TooMany.instReprGen6.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
 **def
 Tau.Orbit.TooMany.instReprGen6.repr :Gen6 → Nat → Std.Format**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.instReprGen6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L44-L44)
 **instance
 Tau.Orbit.TooMany.instReprGen6 :Repr Gen6**
 
@@ -106,7 +106,7 @@ Equations
 
 ### `Tau.Orbit.TooMany.Gen6.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L48-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L48-L55)
 **def
 Tau.Orbit.TooMany.Gen6.toNat :Gen6 → Nat**
 
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.Obj6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L61-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L61-L65)
 **structure
 Tau.Orbit.TooMany.Obj6 :Type**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.instDecidableEqObj6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
 **instance
 Tau.Orbit.TooMany.instDecidableEqObj6 :DecidableEq Obj6**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.Orbit.TooMany.instDecidableEqObj6.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
 **def
 Tau.Orbit.TooMany.instDecidableEqObj6.decEq
 (x✝ x✝¹ : Obj6)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.instReprObj6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
 **instance
 Tau.Orbit.TooMany.instReprObj6 :Repr Obj6**
 
@@ -176,7 +176,7 @@ Equations
 
 ### `Tau.Orbit.TooMany.instReprObj6.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L65-L65)
 **def
 Tau.Orbit.TooMany.instReprObj6.repr :Obj6 → Nat → Std.Format**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.rho6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L67-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L67-L71)
 **def
 Tau.Orbit.TooMany.rho6
 (x : Obj6)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.K1_six`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L77-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L77-L83)
 **theorem
 Tau.Orbit.TooMany.K1_six :Gen6.alpha.toNat < Gen6.pi.toNat ∧ Gen6.pi.toNat < Gen6.gamma.toNat ∧ Gen6.gamma.toNat < Gen6.eta.toNat ∧ Gen6.eta.toNat < Gen6.zeta.toNat ∧ Gen6.zeta.toNat < Gen6.omega.toNat**
 
@@ -217,7 +217,7 @@ K1₆: The generators are strictly ordered.
 
 ### `Tau.Orbit.TooMany.K2_six`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L85-L87)
 **theorem
 Tau.Orbit.TooMany.K2_six
 (d : Nat)
@@ -230,7 +230,7 @@ K2₆: ω is the unique fixed point of ρ₆.
 
 ### `Tau.Orbit.TooMany.K4_six`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L89-L92)
 **theorem
 Tau.Orbit.TooMany.K4_six
 (g : Gen6)
@@ -247,7 +247,7 @@ K4₆: ρ₆ increments depth for non-ω generators.
 
 ### `Tau.Orbit.TooMany.swap_ez`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L98-L102)
 **def
 Tau.Orbit.TooMany.swap_ez :Gen6 → Gen6**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.swap6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L104-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L104-L105)
 **def
 Tau.Orbit.TooMany.swap6
 (x : Obj6)
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.swap_ez_invol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L107-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L107-L109)
 **theorem
 Tau.Orbit.TooMany.swap_ez_invol
 (g : Gen6)
@@ -292,7 +292,7 @@ swap_ez is an involution on generators.
 
 ### `Tau.Orbit.TooMany.swap6_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L111-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L111-L114)
 **theorem
 Tau.Orbit.TooMany.swap6_involution
 (x : Obj6)
@@ -305,7 +305,7 @@ swap6 is an involution on objects.
 
 ### `Tau.Orbit.TooMany.swap6_rho_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L116-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L116-L119)
 **theorem
 Tau.Orbit.TooMany.swap6_rho_comm
 (x : Obj6)
@@ -318,7 +318,7 @@ swap6 commutes with ρ₆.
 
 ### `Tau.Orbit.TooMany.swap6_ne_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L121-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L121-L123)
 **theorem
 Tau.Orbit.TooMany.swap6_ne_id :swap6 { seed := Gen6.eta, depth := 0 } ≠ { seed := Gen6.eta, depth := 0 }**
 
@@ -329,7 +329,7 @@ swap6 is NOT the identity: it moves ⟨η, 0⟩.
 
 ### `Tau.Orbit.TooMany.six_gen_rigidity_fails`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L129-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L129-L144)
 **theorem
 Tau.Orbit.TooMany.six_gen_rigidity_fails :∃ (f : Obj6 → Obj6), (∀ (x : Obj6), f (rho6 x) = rho6 (f x)) ∧ (∀ (x : Obj6), f (f x) = x) ∧ ¬∀ (x : Obj6), f x = x**
 
@@ -349,7 +349,7 @@ property Aut(τ) = {id} that holds for exactly 5 generators.
 
 ### `Tau.Orbit.TooMany.solenoidal6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L150-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L150-L153)
 **def
 Tau.Orbit.TooMany.solenoidal6 :List Gen6**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.Orbit.TooMany.solenoidal6_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L155-L155)
 **theorem
 Tau.Orbit.TooMany.solenoidal6_count :solenoidal6.length = 4**
 
@@ -374,7 +374,7 @@ Tau.Orbit.TooMany.solenoidal6_count :solenoidal6.length = 4**
 
 ### `Tau.Orbit.TooMany.solenoidal6_surplus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooMany.lean#L157-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooMany.lean#L157-L158)
 **theorem
 Tau.Orbit.TooMany.solenoidal6_surplus :solenoidal6.length > 3**
 

@@ -100,7 +100,7 @@ globally, the τ³ boundary-character structure replaces Minkowski space.
 
 ### `Tau.BookV.GravityField.NullIntertwinerField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L65-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L65-L86)
 **structure
 Tau.BookV.GravityField.NullIntertwinerField :Type**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNullIntertwinerField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L86-L86)
 **def
 Tau.BookV.GravityField.instReprNullIntertwinerField.repr :NullIntertwinerField → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNullIntertwinerField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L86-L86)
 **instance
 Tau.BookV.GravityField.instReprNullIntertwinerField :Repr NullIntertwinerField**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.GravityField.photon_field`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L88-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L88-L93)
 **def
 Tau.BookV.GravityField.photon_field :NullIntertwinerField**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.MetricSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L99-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L99-L106)
 **structure
 Tau.BookV.GravityField.MetricSignature :Type**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprMetricSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **instance
 Tau.BookV.GravityField.instReprMetricSignature :Repr MetricSignature**
 
@@ -211,7 +211,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprMetricSignature.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **def
 Tau.BookV.GravityField.instReprMetricSignature.repr :MetricSignature → ℕ → Std.Format**
 
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instDecidableEqMetricSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **instance
 Tau.BookV.GravityField.instDecidableEqMetricSignature :DecidableEq MetricSignature**
 
@@ -234,7 +234,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instDecidableEqMetricSignature.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **def
 Tau.BookV.GravityField.instDecidableEqMetricSignature.decEq
 (x✝ x✝¹ : MetricSignature)
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instBEqMetricSignature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **instance
 Tau.BookV.GravityField.instBEqMetricSignature :BEq MetricSignature**
 
@@ -259,7 +259,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instBEqMetricSignature.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L106-L106)
 **def
 Tau.BookV.GravityField.instBEqMetricSignature.beq :MetricSignature → MetricSignature → Bool**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.lorentzian_signature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L108-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L108-L111)
 **def
 Tau.BookV.GravityField.lorentzian_signature :MetricSignature**
 
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.LocalTau3Chart`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L113-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L113-L136)
 **structure
 Tau.BookV.GravityField.LocalTau3Chart :Type**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprLocalTau3Chart`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L136-L136)
 **instance
 Tau.BookV.GravityField.instReprLocalTau3Chart :Repr LocalTau3Chart**
 
@@ -345,7 +345,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprLocalTau3Chart.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L136-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L136-L136)
 **def
 Tau.BookV.GravityField.instReprLocalTau3Chart.repr :LocalTau3Chart → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_chart`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L138-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L138-L145)
 **def
 Tau.BookV.GravityField.example_chart :LocalTau3Chart**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.null_set_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L151-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L151-L159)
 **theorem
 Tau.BookV.GravityField.null_set_invariant :photon_field.speed_is_c = true**
 
@@ -388,7 +388,7 @@ null-intertwiner masslessness and readout-functor preservation.
 
 ### `Tau.BookV.GravityField.lorentz_from_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L165-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L165-L180)
 **theorem
 Tau.BookV.GravityField.lorentz_from_readout :lorentzian_signature.negative = 1 ∧ lorentzian_signature.positive = 3 ∧ lorentzian_signature.negative + lorentzian_signature.positive = 4**
 
@@ -414,7 +414,7 @@ group compatible with the null set and chart dimension.
 
 ### `Tau.BookV.GravityField.spacetime_dimension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L182-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L182-L185)
 **theorem
 Tau.BookV.GravityField.spacetime_dimension :lorentzian_signature.negative + lorentzian_signature.positive = 4**
 
@@ -425,7 +425,7 @@ The total spacetime dimension from the signature.
 
 ### `Tau.BookV.GravityField.minkowski_from_chart`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L191-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L191-L202)
 **theorem
 Tau.BookV.GravityField.minkowski_from_chart
 (c : LocalTau3Chart)
@@ -451,7 +451,7 @@ This theorem records that the chart signature determines Minkowski.
 
 ### `Tau.BookV.GravityField.null_is_readout_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L208-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L208-L218)
 **theorem
 Tau.BookV.GravityField.null_is_readout_invariant :photon_field.sector = BookIII.Sectors.Sector.B ∧ photon_field.massless = true ∧ photon_field.speed_is_c = true**
 
@@ -467,7 +467,7 @@ must preserve the null set. This is the structural content of
 
 ### `Tau.BookV.GravityField.massive_cannot_null`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L224-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/LorentzNoMinkowski.lean#L224-L232)
 **theorem
 Tau.BookV.GravityField.massive_cannot_null
 (n : NullIntertwinerField)

@@ -116,7 +116,7 @@ The 4 silent modes: 3 gravitational (α×{Lobe₊,Lobe₋,Crossing}) +
 
 ### `Tau.BookIV.Sectors.ModeCensus.Gen5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L44-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L44-L51)
 **inductive
 Tau.BookIV.Sectors.ModeCensus.Gen5 :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprGen5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instReprGen5 :Repr Gen5**
 
@@ -145,7 +145,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprGen5.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
 **def
 Tau.BookIV.Sectors.ModeCensus.instReprGen5.repr :Gen5 → Nat → Std.Format**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instDecidableEqGen5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instDecidableEqGen5 :DecidableEq Gen5**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqGen5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instBEqGen5 :BEq Gen5**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqGen5.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L51-L51)
 **def
 Tau.BookIV.Sectors.ModeCensus.instBEqGen5.beq :Gen5 → Gen5 → Bool**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.LobeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L53-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L53-L58)
 **inductive
 Tau.BookIV.Sectors.ModeCensus.LobeConfig :Type**
 
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprLobeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instReprLobeConfig :Repr LobeConfig**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprLobeConfig.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
 **def
 Tau.BookIV.Sectors.ModeCensus.instReprLobeConfig.repr :LobeConfig → Nat → Std.Format**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instDecidableEqLobeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instDecidableEqLobeConfig :DecidableEq LobeConfig**
 
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqLobeConfig.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
 **def
 Tau.BookIV.Sectors.ModeCensus.instBEqLobeConfig.beq :LobeConfig → LobeConfig → Bool**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqLobeConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L58-L58)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instBEqLobeConfig :BEq LobeConfig**
 
@@ -264,7 +264,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.BoundaryMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L60-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L60-L65)
 **structure
 Tau.BookIV.Sectors.ModeCensus.BoundaryMode :Type**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprBoundaryMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instReprBoundaryMode :Repr BoundaryMode**
 
@@ -291,7 +291,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instReprBoundaryMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **def
 Tau.BookIV.Sectors.ModeCensus.instReprBoundaryMode.repr :BoundaryMode → Nat → Std.Format**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instDecidableEqBoundaryMode.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **def
 Tau.BookIV.Sectors.ModeCensus.instDecidableEqBoundaryMode.decEq
 (x✝ x✝¹ : BoundaryMode)
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.instDecidableEqBoundaryMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instDecidableEqBoundaryMode :DecidableEq BoundaryMode**
 
@@ -328,7 +328,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqBoundaryMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **instance
 Tau.BookIV.Sectors.ModeCensus.instBEqBoundaryMode :BEq BoundaryMode**
 
@@ -339,7 +339,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.ModeCensus.instBEqBoundaryMode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L65-L65)
 **def
 Tau.BookIV.Sectors.ModeCensus.instBEqBoundaryMode.beq :BoundaryMode → BoundaryMode → Bool**
 
@@ -352,7 +352,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.BoundaryMode.emActive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L71-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L71-L86)
 **def
 Tau.BookIV.Sectors.ModeCensus.BoundaryMode.emActive :BoundaryMode → Bool**
 
@@ -387,7 +387,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.allModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L92-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L92-L98)
 **def
 Tau.BookIV.Sectors.ModeCensus.allModes :List BoundaryMode**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.activeModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L100-L101)
 **def
 Tau.BookIV.Sectors.ModeCensus.activeModes :List BoundaryMode**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.silentModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L103-L104)
 **def
 Tau.BookIV.Sectors.ModeCensus.silentModes :List BoundaryMode**
 
@@ -430,7 +430,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.ModeCensus.mode_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L110-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L110-L111)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.mode_total :allModes.length = 15**
 
@@ -441,7 +441,7 @@ Tau.BookIV.Sectors.ModeCensus.mode_total :allModes.length = 15**
 
 ### `Tau.BookIV.Sectors.ModeCensus.active_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L113-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L113-L114)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.active_count :activeModes.length = 11**
 
@@ -452,7 +452,7 @@ Tau.BookIV.Sectors.ModeCensus.active_count :activeModes.length = 11**
 
 ### `Tau.BookIV.Sectors.ModeCensus.silent_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L116-L117)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.silent_count :silentModes.length = 4**
 
@@ -463,7 +463,7 @@ Tau.BookIV.Sectors.ModeCensus.silent_count :silentModes.length = 4**
 
 ### `Tau.BookIV.Sectors.ModeCensus.active_plus_silent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L119-L121)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.active_plus_silent :activeModes.length + silentModes.length = allModes.length**
 
@@ -474,7 +474,7 @@ Active + silent = total (consistency).
 
 ### `Tau.BookIV.Sectors.ModeCensus.charge_fraction_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L127-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L127-L129)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.charge_fraction_square :11 * 11 = 121 ∧ 15 * 15 = 225**
 
@@ -486,7 +486,7 @@ This is the coefficient in the tower formula α = (121/225)·ι<sub>τ</sub>⁴.
 
 ### `Tau.BookIV.Sectors.ModeCensus.silent_modes_are_gravity_plus_Z0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L131-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L131-L137)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.silent_modes_are_gravity_plus_Z0 :{ gen := Gen5.alpha, config := LobeConfig.lobePos }.emActive = false ∧ { gen := Gen5.alpha, config := LobeConfig.lobeNeg }.emActive = false ∧ { gen := Gen5.alpha, config := LobeConfig.crossing }.emActive = false ∧ { gen := Gen5.pi_, config := LobeConfig.crossing }.emActive = false**
 
@@ -497,7 +497,7 @@ The 4 silent modes are exactly: α×3 configs + π×crossing.
 
 ### `Tau.BookIV.Sectors.ModeCensus.euler_sieve_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L143-L146)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.euler_sieve_identity :2 * 4 * 121 * 225 = 3 * 5 * 120 * 121**
 
@@ -509,7 +509,7 @@ Cross-multiplied: 2 · 4 · 121 · 225 = 3 · 5 · 120 · 121.
 
 ### `Tau.BookIV.Sectors.ModeCensus.s5_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L148-L149)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.s5_correction :121 = 120 + 1 ∧ 120 = 1 * 2 * 3 * 4 * 5**
 
@@ -520,7 +520,7 @@ The S₅ correction factor is 121/120 = 1 + 1/5!.
 
 ### `Tau.BookIV.Sectors.ModeCensus.mode_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/ModeCensus.lean#L151-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/ModeCensus.lean#L151-L152)
 **theorem
 Tau.BookIV.Sectors.ModeCensus.mode_product :5 * 3 = 15**
 

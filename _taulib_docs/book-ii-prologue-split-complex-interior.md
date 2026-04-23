@@ -56,7 +56,7 @@ H_τ ≅ A_τ⁺ × A_τ⁻ via sector decomposition.
 
 ### `Tau.BookII.Prologue.HTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L35-L46)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L35-L46)@[reducible, inline]
 
 **abbrev
 Tau.BookII.Prologue.HTau :Type**
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookII.Prologue.h_tau_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L48-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L48-L49)
 **def
 Tau.BookII.Prologue.h_tau_sectors
 (z : HTau)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Prologue.h_tau_b_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L51-L52)
 **def
 Tau.BookII.Prologue.h_tau_b_sector
 (z : HTau)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookII.Prologue.h_tau_c_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L54-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L54-L55)
 **def
 Tau.BookII.Prologue.h_tau_c_sector
 (z : HTau)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Prologue.h_tau_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L61-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L61-L64)
 **theorem
 Tau.BookII.Prologue.h_tau_mul_comm
 (z w : HTau)
@@ -148,7 +148,7 @@ H_τ multiplication is commutative (I.T10 consequence).
 
 ### `Tau.BookII.Prologue.h_tau_zero_divisors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L66-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L66-L70)
 **theorem
 Tau.BookII.Prologue.h_tau_zero_divisors :{ re := 1, im := 1 }.mul { re := 1, im := -1 } = { re := 0, im := 0 }**
 
@@ -160,7 +160,7 @@ This encodes bipolar sector orthogonality, not a pathology.
 
 ### `Tau.BookII.Prologue.h_tau_sector_faithful`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L72-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L72-L75)
 **theorem
 Tau.BookII.Prologue.h_tau_sector_faithful
 (z : HTau)
@@ -173,7 +173,7 @@ Sector decomposition is faithful: z recoverable from sectors.
 
 ### `Tau.BookII.Prologue.h_tau_e_plus_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L81-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L81-L84)
 **theorem
 Tau.BookII.Prologue.h_tau_e_plus_idem :Polarity.e_plus_sector.mul Polarity.e_plus_sector = Polarity.e_plus_sector**
 
@@ -184,7 +184,7 @@ e₊ is idempotent in sector coordinates (I.D21).
 
 ### `Tau.BookII.Prologue.h_tau_e_minus_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L86-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L86-L89)
 **theorem
 Tau.BookII.Prologue.h_tau_e_minus_idem :Polarity.e_minus_sector.mul Polarity.e_minus_sector = Polarity.e_minus_sector**
 
@@ -195,7 +195,7 @@ e₋ is idempotent in sector coordinates (I.D21).
 
 ### `Tau.BookII.Prologue.h_tau_e_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L91-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L91-L94)
 **theorem
 Tau.BookII.Prologue.h_tau_e_orthogonal :Polarity.e_plus_sector.mul Polarity.e_minus_sector = { b_sector := 0, c_sector := 0 }**
 
@@ -206,7 +206,7 @@ e₊ · e₋ = 0: sectors are orthogonal (I.D21).
 
 ### `Tau.BookII.Prologue.h_tau_e_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L96-L99)
 **theorem
 Tau.BookII.Prologue.h_tau_e_partition :Polarity.e_plus_sector.add Polarity.e_minus_sector = { b_sector := 1, c_sector := 1 }**
 
@@ -217,7 +217,7 @@ e₊ + e₋ = 1: sectors partition the whole algebra (I.D21).
 
 ### `Tau.BookII.Prologue.h_tau_nontrivial_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L105-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L105-L117)
 **theorem
 Tau.BookII.Prologue.h_tau_nontrivial_idempotent :Polarity.e_plus_sector.mul Polarity.e_plus_sector = Polarity.e_plus_sector ∧ Polarity.e_plus_sector ≠ { b_sector := 0, c_sector := 0 } ∧ Polarity.e_plus_sector ≠ { b_sector := 1, c_sector := 1 }**
 
@@ -229,7 +229,7 @@ Witness: e₊ = ⟨1, 0⟩ is idempotent, nontrivial (≠ 0 and ≠ 1).
 
 ### `Tau.BookII.Prologue.h_tau_no_elliptic_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Prologue/SplitComplexInterior.lean#L119-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Prologue/SplitComplexInterior.lean#L119-L124)
 **theorem
 Tau.BookII.Prologue.h_tau_no_elliptic_idempotent
 (z : Polarity.GaussInt)

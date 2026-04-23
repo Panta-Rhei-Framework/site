@@ -74,7 +74,7 @@ f = sum_v proj_coeff(f, k, p, v) * E_{k,p,v} recovers f on Z/P_kZ.
 
 ### `Tau.BookII.Hartogs.cylinder_gen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L48-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L48-L56)
 **def
 Tau.BookII.Hartogs.cylinder_gen
 (k prime_idx v : Denotation.TauIdx)
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.cylinder_gen_indicator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L58-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L58-L62)
 **def
 Tau.BookII.Hartogs.cylinder_gen_indicator
 (k prime_idx v x : Denotation.TauIdx)
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.ortho_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L68-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L68-L80)
 **def
 Tau.BookII.Hartogs.ortho_pair
 (k pi_idx v w : Denotation.TauIdx)
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.ortho_pair.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L73-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L73-L79)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.ortho_pair.go
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_orthogonality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L82-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L82-L100)
 **def
 Tau.BookII.Hartogs.basis_orthogonality_check
 (k_max bound : Denotation.TauIdx)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_orthogonality_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L88-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L88-L99)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.basis_orthogonality_check.go
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gen_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L106-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L106-L120)
 **def
 Tau.BookII.Hartogs.gen_sum
 (k pi_idx x : Denotation.TauIdx)
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.gen_sum.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L112-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L112-L119)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.gen_sum.go
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L122-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L122-L135)
 **def
 Tau.BookII.Hartogs.basis_completeness_check
 (k_max bound : Denotation.TauIdx)
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_completeness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L127-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L127-L134)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.basis_completeness_check.go
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.indep_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L141-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L141-L153)
 **def
 Tau.BookII.Hartogs.indep_witness
 (k pi1 pi2 : Denotation.TauIdx)
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.indep_witness.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L145-L152)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L145-L152)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.indep_witness.go
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_independence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L155-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L155-L167)
 **def
 Tau.BookII.Hartogs.basis_independence_check
 (k_max : Denotation.TauIdx)
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_independence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L160-L166)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L160-L166)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.basis_independence_check.go
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.canonical_basis_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L173-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L173-L178)
 **def
 Tau.BookII.Hartogs.canonical_basis_check
 (k_max bound : Denotation.TauIdx)
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.count_nonzero_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L184-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L184-L196)
 **def
 Tau.BookII.Hartogs.count_nonzero_generators
 (k _x : Denotation.TauIdx)
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.count_nonzero_generators.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L189-L195)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L189-L195)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.count_nonzero_generators.go
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.prime_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L198-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L198-L206)
 **def
 Tau.BookII.Hartogs.prime_sum
 (k : Denotation.TauIdx)
@@ -386,7 +386,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.prime_sum.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L202-L205)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L202-L205)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.prime_sum.go
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.finite_spectral_support_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L208-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L208-L222)
 **def
 Tau.BookII.Hartogs.finite_spectral_support_check
 (k_max bound : Denotation.TauIdx)
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.finite_spectral_support_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L214-L221)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L214-L221)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.finite_spectral_support_check.go
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.proj_coeff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L228-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L228-L239)
 **def
 Tau.BookII.Hartogs.proj_coeff
 (f : Denotation.TauIdx → ℤ)
@@ -458,7 +458,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.proj_coeff.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L233-L238)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L233-L238)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.proj_coeff.go
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.projection_delta_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L241-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L241-L259)
 **def
 Tau.BookII.Hartogs.projection_delta_check
 (k_max : Denotation.TauIdx)
@@ -496,7 +496,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.projection_delta_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L246-L258)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L246-L258)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.projection_delta_check.go
@@ -513,7 +513,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.projection_recovery_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L261-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L261-L279)
 **def
 Tau.BookII.Hartogs.projection_recovery_check
 (k_max : Denotation.TauIdx)
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.projection_recovery_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L266-L278)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L266-L278)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.projection_recovery_check.go
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_cylinder_gen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L285-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L285-L292)
 **def
 Tau.BookII.Hartogs.bipolar_cylinder_gen
 (_k prime_idx v : Denotation.TauIdx)
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_channel_orthogonality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L294-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L294-L309)
 **def
 Tau.BookII.Hartogs.bipolar_channel_orthogonality
 (bound : Denotation.TauIdx)
@@ -585,7 +585,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_channel_orthogonality.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L299-L308)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L299-L308)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.bipolar_channel_orthogonality.go
@@ -602,7 +602,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_canonical_basis_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L315-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L315-L322)
 **def
 Tau.BookII.Hartogs.full_canonical_basis_check
 (k_max bound : Denotation.TauIdx)
@@ -619,7 +619,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.basis_ortho_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L387-L388)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L387-L388)
 **theorem
 Tau.BookII.Hartogs.basis_ortho_3_30 :basis_orthogonality_check 3 30 = true**
 
@@ -628,7 +628,7 @@ Tau.BookII.Hartogs.basis_ortho_3_30 :basis_orthogonality_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.basis_complete_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L391-L392)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L391-L392)
 **theorem
 Tau.BookII.Hartogs.basis_complete_3_30 :basis_completeness_check 3 30 = true**
 
@@ -637,7 +637,7 @@ Tau.BookII.Hartogs.basis_complete_3_30 :basis_completeness_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.basis_indep_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L395-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L395-L396)
 **theorem
 Tau.BookII.Hartogs.basis_indep_4 :basis_independence_check 4 = true**
 
@@ -646,7 +646,7 @@ Tau.BookII.Hartogs.basis_indep_4 :basis_independence_check 4 = true**
 
 ### `Tau.BookII.Hartogs.basis_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L399-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L399-L400)
 **theorem
 Tau.BookII.Hartogs.basis_3_30 :canonical_basis_check 3 30 = true**
 
@@ -655,7 +655,7 @@ Tau.BookII.Hartogs.basis_3_30 :canonical_basis_check 3 30 = true**
 
 ### `Tau.BookII.Hartogs.spectral_support_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L403-L404)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L403-L404)
 **theorem
 Tau.BookII.Hartogs.spectral_support_3_30 :finite_spectral_support_check 3 30 = true**
 
@@ -664,7 +664,7 @@ Tau.BookII.Hartogs.spectral_support_3_30 :finite_spectral_support_check 3 30 = t
 
 ### `Tau.BookII.Hartogs.proj_delta_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L407-L408)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L407-L408)
 **theorem
 Tau.BookII.Hartogs.proj_delta_3 :projection_delta_check 3 = true**
 
@@ -673,7 +673,7 @@ Tau.BookII.Hartogs.proj_delta_3 :projection_delta_check 3 = true**
 
 ### `Tau.BookII.Hartogs.proj_recovery_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L411-L412)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L411-L412)
 **theorem
 Tau.BookII.Hartogs.proj_recovery_3 :projection_recovery_check 3 = true**
 
@@ -682,7 +682,7 @@ Tau.BookII.Hartogs.proj_recovery_3 :projection_recovery_check 3 = true**
 
 ### `Tau.BookII.Hartogs.bipolar_ortho_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L415-L416)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L415-L416)
 **theorem
 Tau.BookII.Hartogs.bipolar_ortho_20 :bipolar_channel_orthogonality 20 = true**
 
@@ -691,6 +691,6 @@ Tau.BookII.Hartogs.bipolar_ortho_20 :bipolar_channel_orthogonality 20 = true**
 
 ### `Tau.BookII.Hartogs.full_basis_3_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CanonicalBasis.lean#L419-L420)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CanonicalBasis.lean#L419-L420)
 **theorem
 Tau.BookII.Hartogs.full_basis_3_20 :full_canonical_basis_check 3 20 = true**

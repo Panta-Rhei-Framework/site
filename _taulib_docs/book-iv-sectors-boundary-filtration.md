@@ -100,7 +100,7 @@ The "S₅" label is a corollary: s·n = 120 = 5! only for (3,5).
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.GenCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L68-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L68-L73)
 **inductive
 Tau.BookIV.Sectors.BoundaryFiltration.GenCarrier :Type**
 
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.instReprGenCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
 **instance
 Tau.BookIV.Sectors.BoundaryFiltration.instReprGenCarrier :Repr GenCarrier**
 
@@ -127,7 +127,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.instReprGenCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.instReprGenCarrier.repr :GenCarrier → ℕ → Std.Format**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.instDecidableEqGenCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
 **instance
 Tau.BookIV.Sectors.BoundaryFiltration.instDecidableEqGenCarrier :DecidableEq GenCarrier**
 
@@ -150,7 +150,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.instBEqGenCarrier.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.instBEqGenCarrier.beq :GenCarrier → GenCarrier → Bool**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.instBEqGenCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L73-L73)
 **instance
 Tau.BookIV.Sectors.BoundaryFiltration.instBEqGenCarrier :BEq GenCarrier**
 
@@ -173,7 +173,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.genCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L75-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L75-L87)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.genCarrier :ModeCensus.Gen5 → GenCarrier**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.genPolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L93-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L93-L104)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.genPolarity :ModeCensus.Gen5 → PolaritySign**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.emActiveStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L110-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L110-L124)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.emActiveStructural :ModeCensus.BoundaryMode → Bool**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.activeModesStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L130-L132)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.activeModesStructural :List ModeCensus.BoundaryMode**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.silentModesStructural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L134-L136)
 **def
 Tau.BookIV.Sectors.BoundaryFiltration.silentModesStructural :List ModeCensus.BoundaryMode**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.structural_agrees_with_physics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L142-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L142-L152)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.structural_agrees_with_physics
 (m : ModeCensus.BoundaryMode)
@@ -303,7 +303,7 @@ reproduce the same census as Standard Model physics input.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.census_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L158-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L158-L160)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.census_structural :activeModesStructural.length = 11**
 
@@ -315,7 +315,7 @@ Derived without SM physics input.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.silent_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L162-L163)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.silent_structural :silentModesStructural.length = 4**
 
@@ -326,7 +326,7 @@ Structural census: 4 EM-silent modes.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.structural_census_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L165-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L165-L167)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.structural_census_consistent :activeModesStructural.length + silentModesStructural.length = 15**
 
@@ -337,7 +337,7 @@ Structural active + silent = 15 (consistency).
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.rule1_silences_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L173-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L173-L178)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.rule1_silences_alpha :emActiveStructural { gen := ModeCensus.Gen5.alpha, config := ModeCensus.LobeConfig.lobePos } = false ∧ emActiveStructural { gen := ModeCensus.Gen5.alpha, config := ModeCensus.LobeConfig.lobeNeg } = false ∧ emActiveStructural { gen := ModeCensus.Gen5.alpha, config := ModeCensus.LobeConfig.crossing } = false**
 
@@ -348,7 +348,7 @@ Rule 1 silences exactly the 3 alpha modes.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.rule2_silences_pi_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L180-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L180-L185)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.rule2_silences_pi_crossing :emActiveStructural { gen := ModeCensus.Gen5.pi_, config := ModeCensus.LobeConfig.crossing } = false ∧ emActiveStructural { gen := ModeCensus.Gen5.pi_, config := ModeCensus.LobeConfig.lobePos } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.pi_, config := ModeCensus.LobeConfig.lobeNeg } = true**
 
@@ -359,7 +359,7 @@ Rule 2 silences exactly the π/crossing mode.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.fiber_generators_fully_active`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L187-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L187-L198)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.fiber_generators_fully_active :emActiveStructural { gen := ModeCensus.Gen5.gamma, config := ModeCensus.LobeConfig.lobePos } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.gamma, config := ModeCensus.LobeConfig.lobeNeg } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.gamma, config := ModeCensus.LobeConfig.crossing } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.eta, config := ModeCensus.LobeConfig.lobePos } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.eta, config := ModeCensus.LobeConfig.lobeNeg } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.eta, config := ModeCensus.LobeConfig.crossing } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.omega, config := ModeCensus.LobeConfig.lobePos } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.omega, config := ModeCensus.LobeConfig.lobeNeg } = true ∧ emActiveStructural { gen := ModeCensus.Gen5.omega, config := ModeCensus.LobeConfig.crossing } = true**
 
@@ -370,7 +370,7 @@ All fiber generators are fully active (all 3 configs).
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L204-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L204-L220)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_residue :121 = 120 + 1 ∧ 120 = 1 * 2 * 3 * 4 * 5**
 
@@ -399,7 +399,7 @@ residue a² ≡ 1 (mod s·n), guaranteed by q = p + 2.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.sieve_correction_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L222-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L222-L226)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.sieve_correction_decomposition :11 * 11 * 15 * 120 = 8 * 15 * 15 * 121**
 
@@ -412,7 +412,7 @@ Cross-multiplied: 11² · 15 · 120 = 8 · 15² · 121.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_core_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L228-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L228-L232)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_core_identity :11 * 11 = 8 * 15 + 1**
 
@@ -425,7 +425,7 @@ This is the CORE identity behind 121/120.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_vanishing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L234-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L234-L237)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.twin_prime_vanishing :3 * 4 * (5 - 3 - 2) = 0**
 
@@ -437,7 +437,7 @@ a² - s·n = p(q-1)(q-p-2) + 1 = 3·4·0 + 1 = 1.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.active_count_unit_mod_sn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L239-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L239-L241)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.active_count_unit_mod_sn :11 * 11 % 120 = 1**
 
@@ -448,7 +448,7 @@ Tau.BookIV.Sectors.BoundaryFiltration.active_count_unit_mod_sn :11 * 11 % 120 = 
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.silent_count_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L243-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L243-L245)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.silent_count_structural :silentModesStructural.length = 3 + 1**
 
@@ -459,7 +459,7 @@ The silent count equals p + 1 = 4 (structural).
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.sn_equals_factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L247-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L247-L249)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.sn_equals_factorial :8 * 15 = 1 * 2 * 3 * 4 * 5**
 
@@ -470,6 +470,6 @@ s·n = q! (specific to (3,5)): 8·15 = 120 = 5!.
 
 ### `Tau.BookIV.Sectors.BoundaryFiltration.e1_page_arithmetic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L252-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/BoundaryFiltration.lean#L252-L254)
 **theorem
 Tau.BookIV.Sectors.BoundaryFiltration.e1_page_arithmetic :121 = 120 + 1 ∧ 120 = 1 * 2 * 3 * 4 * 5**

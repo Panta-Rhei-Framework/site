@@ -102,7 +102,7 @@ of future CMB-S4 experiments.
 
 ### `Tau.BookV.Cosmology.RegimeInvariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L66-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L66-L83)
 **structure
 Tau.BookV.Cosmology.RegimeInvariance :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRegimeInvariance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L83-L83)
 **def
 Tau.BookV.Cosmology.instReprRegimeInvariance.repr :RegimeInvariance → ℕ → Std.Format**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRegimeInvariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L83-L83)
 **instance
 Tau.BookV.Cosmology.instReprRegimeInvariance :Repr RegimeInvariance**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.regime_invariance_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L89-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L89-L96)
 **theorem
 Tau.BookV.Cosmology.regime_invariance_theorem
 (ri : RegimeInvariance)
@@ -179,7 +179,7 @@ The same κ_τ governs α₁ and α_{10^60}.
 
 ### `Tau.BookV.Cosmology.InflatonNoGo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L102-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L102-L118)
 **structure
 Tau.BookV.Cosmology.InflatonNoGo :Type**
 
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInflatonNoGo.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L118-L118)
 **def
 Tau.BookV.Cosmology.instReprInflatonNoGo.repr :InflatonNoGo → ℕ → Std.Format**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInflatonNoGo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L118-L118)
 **instance
 Tau.BookV.Cosmology.instReprInflatonNoGo :Repr InflatonNoGo**
 
@@ -233,7 +233,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.inflaton_nogo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L120-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L120-L121)
 **theorem
 Tau.BookV.Cosmology.inflaton_nogo :5 = 5**
 
@@ -244,7 +244,7 @@ Five sectors, no more.
 
 ### `Tau.BookV.Cosmology.InflationaryRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L127-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L127-L147)
 **structure
 Tau.BookV.Cosmology.InflationaryRegime :Type**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInflationaryRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L147-L147)
 **def
 Tau.BookV.Cosmology.instReprInflationaryRegime.repr :InflationaryRegime → ℕ → Std.Format**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprInflationaryRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L147-L147)
 **instance
 Tau.BookV.Cosmology.instReprInflationaryRegime :Repr InflationaryRegime**
 
@@ -304,7 +304,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.EFoldReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L153-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L153-L166)
 **structure
 Tau.BookV.Cosmology.EFoldReadout :Type**
 
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprEFoldReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L166-L166)
 **instance
 Tau.BookV.Cosmology.instReprEFoldReadout :Repr EFoldReadout**
 
@@ -341,7 +341,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprEFoldReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L166-L166)
 **def
 Tau.BookV.Cosmology.instReprEFoldReadout.repr :EFoldReadout → ℕ → Std.Format**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.canonical_efolds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L168-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L168-L171)
 **def
 Tau.BookV.Cosmology.canonical_efolds :EFoldReadout**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.efolds_sufficient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L173-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L173-L175)
 **theorem
 Tau.BookV.Cosmology.efolds_sufficient :canonical_efolds.efolds_times_10 ≥ 500**
 
@@ -378,7 +378,7 @@ The canonical readout gives at least 50 e-folds.
 
 ### `Tau.BookV.Cosmology.flatness_from_compactness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L181-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L181-L191)
 **theorem
 Tau.BookV.Cosmology.flatness_from_compactness :"Omega_k = 0: fiber T^2 is compact torus, zero Gaussian curvature" = "Omega_k = 0: fiber T^2 is compact torus, zero Gaussian curvature"**
 
@@ -396,7 +396,7 @@ In τ, Ω_k = 0 is automatic from the torus topology.
 
 ### `Tau.BookV.Cosmology.horizon_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L197-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L197-L205)
 **theorem
 Tau.BookV.Cosmology.horizon_resolution :"tau^1 compact => no horizon problem, all points in causal contact" = "tau^1 compact => no horizon problem, all points in causal contact"**
 
@@ -412,7 +412,7 @@ uniformity is expected, not surprising.
 
 ### `Tau.BookV.Cosmology.slow_roll_unnecessary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L211-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L211-L217)
 **def
 Tau.BookV.Cosmology.slow_roll_unnecessary :Prop**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.slow_roll_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L219-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L219-L219)
 **theorem
 Tau.BookV.Cosmology.slow_roll_holds :slow_roll_unnecessary**
 
@@ -438,7 +438,7 @@ Tau.BookV.Cosmology.slow_roll_holds :slow_roll_unnecessary**
 
 ### `Tau.BookV.Cosmology.TensorToScalarPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L225-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L225-L239)
 **structure
 Tau.BookV.Cosmology.TensorToScalarPrediction :Type**
 
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTensorToScalarPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L239-L239)
 **def
 Tau.BookV.Cosmology.instReprTensorToScalarPrediction.repr :TensorToScalarPrediction → ℕ → Std.Format**
 
@@ -478,7 +478,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprTensorToScalarPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L239-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L239-L239)
 **instance
 Tau.BookV.Cosmology.instReprTensorToScalarPrediction :Repr TensorToScalarPrediction**
 
@@ -489,7 +489,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.tau_r_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L241-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L241-L245)
 **def
 Tau.BookV.Cosmology.tau_r_prediction :TensorToScalarPrediction**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.FiberDimensionalSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L251-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L251-L281)
 **structure
 Tau.BookV.Cosmology.FiberDimensionalSuppression :Type**
 
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiberDimensionalSuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L281-L281)
 **instance
 Tau.BookV.Cosmology.instReprFiberDimensionalSuppression :Repr FiberDimensionalSuppression**
 
@@ -572,7 +572,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprFiberDimensionalSuppression.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L281-L281)
 **def
 Tau.BookV.Cosmology.instReprFiberDimensionalSuppression.repr :FiberDimensionalSuppression → ℕ → Std.Format**
 
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.fiber_suppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L283-L283)
 **def
 Tau.BookV.Cosmology.fiber_suppression :FiberDimensionalSuppression**
 
@@ -597,7 +597,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.r_exponent_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L285-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L285-L291)
 **theorem
 Tau.BookV.Cosmology.r_exponent_decomposition :4 = 2 * 2 ∧ fiber_suppression.total_exponent = 4 ∧ fiber_suppression.fiber_dim = 2 ∧ fiber_suppression.power_order = 2**
 
@@ -608,7 +608,7 @@ The exponent 4 = 2 × 2 = dim(T²) × lobes = power_order × fiber_dim.
 
 ### `Tau.BookV.Cosmology.r_not_slow_roll`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L293-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L293-L296)
 **theorem
 Tau.BookV.Cosmology.r_not_slow_roll :8 * 1000000 / 57 ≠ 13573**
 
@@ -620,7 +620,7 @@ Encoded: 8×10⁶/57 = 140350 ≠ 13573.
 
 ### `Tau.BookV.Cosmology.pt_exponent_decomp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/InflationRegime.lean#L298-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/InflationRegime.lean#L298-L301)
 **theorem
 Tau.BookV.Cosmology.pt_exponent_decomp :22 = 18 + 4 ∧ 18 + 4 = 22**
 

@@ -103,7 +103,7 @@ The 4+1 register decomposition, Enrichment functor chain, and E₃ layer
 
 ### `Tau.BookVII.Meta.Registers.RegisterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L53-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L53-L60)
 **inductive
 Tau.BookVII.Meta.Registers.RegisterType :Type**
 
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRegisterType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L60-L60)
 **def
 Tau.BookVII.Meta.Registers.instReprRegisterType.repr :RegisterType → ℕ → Std.Format**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRegisterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L60-L60)
 **instance
 Tau.BookVII.Meta.Registers.instReprRegisterType :Repr RegisterType**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instDecidableEqRegisterType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L60-L60)
 **instance
 Tau.BookVII.Meta.Registers.instDecidableEqRegisterType :DecidableEq RegisterType**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.EmpiricalRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L62-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L62-L71)
 **structure
 Tau.BookVII.Meta.Registers.EmpiricalRegister :Type**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprEmpiricalRegister.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L71-L71)
 **def
 Tau.BookVII.Meta.Registers.instReprEmpiricalRegister.repr :EmpiricalRegister → ℕ → Std.Format**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprEmpiricalRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L71-L71)
 **instance
 Tau.BookVII.Meta.Registers.instReprEmpiricalRegister :Repr EmpiricalRegister**
 
@@ -200,7 +200,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.PracticalRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L73-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L73-L82)
 **structure
 Tau.BookVII.Meta.Registers.PracticalRegister :Type**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprPracticalRegister.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L82-L82)
 **def
 Tau.BookVII.Meta.Registers.instReprPracticalRegister.repr :PracticalRegister → ℕ → Std.Format**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprPracticalRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L82-L82)
 **instance
 Tau.BookVII.Meta.Registers.instReprPracticalRegister :Repr PracticalRegister**
 
@@ -245,7 +245,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.DiagrammaticRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L84-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L84-L93)
 **structure
 Tau.BookVII.Meta.Registers.DiagrammaticRegister :Type**
 
@@ -267,7 +267,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprDiagrammaticRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L93-L93)
 **instance
 Tau.BookVII.Meta.Registers.instReprDiagrammaticRegister :Repr DiagrammaticRegister**
 
@@ -278,7 +278,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprDiagrammaticRegister.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L93-L93)
 **def
 Tau.BookVII.Meta.Registers.instReprDiagrammaticRegister.repr :DiagrammaticRegister → ℕ → Std.Format**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.CommitmentRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L95-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L95-L104)
 **structure
 Tau.BookVII.Meta.Registers.CommitmentRegister :Type**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprCommitmentRegister.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L104-L104)
 **def
 Tau.BookVII.Meta.Registers.instReprCommitmentRegister.repr :CommitmentRegister → ℕ → Std.Format**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprCommitmentRegister`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L104-L104)
 **instance
 Tau.BookVII.Meta.Registers.instReprCommitmentRegister :Repr CommitmentRegister**
 
@@ -335,7 +335,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.reg_E`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L107-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L107-L109)
 **def
 Tau.BookVII.Meta.Registers.reg_E :EmpiricalRegister**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.reg_P`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L111-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L111-L113)
 **def
 Tau.BookVII.Meta.Registers.reg_P :PracticalRegister**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.reg_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L115-L117)
 **def
 Tau.BookVII.Meta.Registers.reg_D :DiagrammaticRegister**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.reg_C`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L119-L121)
 **def
 Tau.BookVII.Meta.Registers.reg_C :CommitmentRegister**
 
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.RegisterDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L127-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L127-L141)
 **structure
 Tau.BookVII.Meta.Registers.RegisterDecomposition :Type**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRegisterDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L141-L141)
 **def
 Tau.BookVII.Meta.Registers.instReprRegisterDecomposition.repr :RegisterDecomposition → ℕ → Std.Format**
 
@@ -424,7 +424,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRegisterDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L141-L141)
 **instance
 Tau.BookVII.Meta.Registers.instReprRegisterDecomposition :Repr RegisterDecomposition**
 
@@ -435,7 +435,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.canonical_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L143-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L143-L150)
 **def
 Tau.BookVII.Meta.Registers.canonical_decomposition :RegisterDecomposition**
 
@@ -447,7 +447,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.RegisterPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L156-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L156-L160)
 **structure
 Tau.BookVII.Meta.Registers.RegisterPair :Type**
 
@@ -463,7 +463,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.pure_register_pair_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L162-L163)
 **def
 Tau.BookVII.Meta.Registers.pure_register_pair_count :ℕ**
 
@@ -477,7 +477,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.register_independence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L165-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L165-L183)
 **theorem
 Tau.BookVII.Meta.Registers.register_independence :pure_register_pair_count = 6 ∧ canonical_decomposition.pure_count = 4 ∧ reg_E.register_type ≠ reg_P.register_type ∧ reg_E.register_type ≠ reg_D.register_type ∧ reg_E.register_type ≠ reg_C.register_type ∧ reg_P.register_type ≠ reg_D.register_type ∧ reg_P.register_type ≠ reg_C.register_type ∧ reg_D.register_type ≠ reg_C.register_type**
 
@@ -496,7 +496,7 @@ codomain categories (4 codomains, C(4,2) = 6 pairs, all independent).
 
 ### `Tau.BookVII.Meta.Registers.register_orthogonality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L189-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L189-L198)
 **theorem
 Tau.BookVII.Meta.Registers.register_orthogonality :reg_E.falsifiable = true ∧ reg_P.action_guiding = true ∧ reg_D.proof_bearing = true ∧ reg_C.performative = true**
 
@@ -510,7 +510,7 @@ are structurally distinct.
 
 ### `Tau.BookVII.Meta.Registers.MetaDecodeOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L204-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L204-L215)
 **structure
 Tau.BookVII.Meta.Registers.MetaDecodeOperator :Type**
 
@@ -535,7 +535,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprMetaDecodeOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L215-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L215-L215)
 **instance
 Tau.BookVII.Meta.Registers.instReprMetaDecodeOperator :Repr MetaDecodeOperator**
 
@@ -546,7 +546,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprMetaDecodeOperator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L215-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L215-L215)
 **def
 Tau.BookVII.Meta.Registers.instReprMetaDecodeOperator.repr :MetaDecodeOperator → ℕ → Std.Format**
 
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.metadecode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L217-L217)
 **def
 Tau.BookVII.Meta.Registers.metadecode :MetaDecodeOperator**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.MetaphysicsLoopClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L223-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L223-L231)
 **structure
 Tau.BookVII.Meta.Registers.MetaphysicsLoopClass :Type**
 
@@ -591,7 +591,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprMetaphysicsLoopClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L231-L231)
 **instance
 Tau.BookVII.Meta.Registers.instReprMetaphysicsLoopClass :Repr MetaphysicsLoopClass**
 
@@ -602,7 +602,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprMetaphysicsLoopClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L231-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L231-L231)
 **def
 Tau.BookVII.Meta.Registers.instReprMetaphysicsLoopClass.repr :MetaphysicsLoopClass → ℕ → Std.Format**
 
@@ -614,7 +614,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.metaphysics_loops`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L233-L233)
 **def
 Tau.BookVII.Meta.Registers.metaphysics_loops :MetaphysicsLoopClass**
 
@@ -626,7 +626,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.BHBasinLawCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L239-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L239-L249)
 **structure
 Tau.BookVII.Meta.Registers.BHBasinLawCode :Type**
 
@@ -650,7 +650,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprBHBasinLawCode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L249-L249)
 **def
 Tau.BookVII.Meta.Registers.instReprBHBasinLawCode.repr :BHBasinLawCode → ℕ → Std.Format**
 
@@ -662,7 +662,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprBHBasinLawCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L249-L249)
 **instance
 Tau.BookVII.Meta.Registers.instReprBHBasinLawCode :Repr BHBasinLawCode**
 
@@ -673,7 +673,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.bh_basin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L251-L251)
 **def
 Tau.BookVII.Meta.Registers.bh_basin :BHBasinLawCode**
 
@@ -685,7 +685,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.bh_basin_law_code`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L253-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L253-L257)
 **theorem
 Tau.BookVII.Meta.Registers.bh_basin_law_code :bh_basin.selfdesc = true ∧ bh_basin.selfdesc_squared = true ∧ bh_basin.canonical = true**
 
@@ -694,7 +694,7 @@ Tau.BookVII.Meta.Registers.bh_basin_law_code :bh_basin.selfdesc = true ∧ bh_ba
 
 ### `Tau.BookVII.Meta.Registers.e3_non_emptiness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L263-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L263-L267)
 **theorem
 Tau.BookVII.Meta.Registers.e3_non_emptiness :bh_basin.selfdesc_squared = true**
 
@@ -706,7 +706,7 @@ BH basin law-code is constructive witness satisfying SelfDesc².
 
 ### `Tau.BookVII.Meta.Registers.SectorId`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L273-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L273-L280)
 **inductive
 Tau.BookVII.Meta.Registers.SectorId :Type**
 
@@ -724,7 +724,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorId.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L280-L280)
 **def
 Tau.BookVII.Meta.Registers.instReprSectorId.repr :SectorId → ℕ → Std.Format**
 
@@ -736,7 +736,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorId`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L280-L280)
 **instance
 Tau.BookVII.Meta.Registers.instReprSectorId :Repr SectorId**
 
@@ -747,7 +747,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instDecidableEqSectorId`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L280-L280)
 **instance
 Tau.BookVII.Meta.Registers.instDecidableEqSectorId :DecidableEq SectorId**
 
@@ -758,7 +758,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.PureSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L282-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L282-L289)
 **structure
 Tau.BookVII.Meta.Registers.PureSector :Type**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprPureSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L289-L289)
 **instance
 Tau.BookVII.Meta.Registers.instReprPureSector :Repr PureSector**
 
@@ -788,7 +788,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprPureSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L289-L289)
 **def
 Tau.BookVII.Meta.Registers.instReprPureSector.repr :PureSector → ℕ → Std.Format**
 
@@ -800,7 +800,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.LogosSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L291-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L291-L300)
 **structure
 Tau.BookVII.Meta.Registers.LogosSector :Type**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprLogosSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L300-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L300-L300)
 **instance
 Tau.BookVII.Meta.Registers.instReprLogosSector :Repr LogosSector**
 
@@ -833,7 +833,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprLogosSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L300-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L300-L300)
 **def
 Tau.BookVII.Meta.Registers.instReprLogosSector.repr :LogosSector → ℕ → Std.Format**
 
@@ -845,7 +845,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.sector_logos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L302-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L302-L304)
 **def
 Tau.BookVII.Meta.Registers.sector_logos :LogosSector**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.SectorDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L306-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L306-L320)
 **structure
 Tau.BookVII.Meta.Registers.SectorDecomposition :Type**
 
@@ -884,7 +884,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorDecomposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L320-L320)
 **def
 Tau.BookVII.Meta.Registers.instReprSectorDecomposition.repr :SectorDecomposition → ℕ → Std.Format**
 
@@ -896,7 +896,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L320-L320)
 **instance
 Tau.BookVII.Meta.Registers.instReprSectorDecomposition :Repr SectorDecomposition**
 
@@ -907,7 +907,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.canonical_sector_decomp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L322-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L322-L329)
 **def
 Tau.BookVII.Meta.Registers.canonical_sector_decomp :SectorDecomposition**
 
@@ -919,7 +919,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.sector_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L331-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L331-L335)
 **theorem
 Tau.BookVII.Meta.Registers.sector_decomposition :canonical_sector_decomp.sector_count = 5 ∧ canonical_sector_decomp.exhaustive = true ∧ canonical_sector_decomp.disjoint = true**
 
@@ -928,7 +928,7 @@ Tau.BookVII.Meta.Registers.sector_decomposition :canonical_sector_decomp.sector_
 
 ### `Tau.BookVII.Meta.Registers.sector_independence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L337-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L337-L346)
 **theorem
 Tau.BookVII.Meta.Registers.sector_independence :canonical_sector_decomp.pure_sector_count = 4 ∧ SectorId.se ≠ SectorId.sp ∧ SectorId.se ≠ SectorId.sd ∧ SectorId.se ≠ SectorId.sc ∧ SectorId.sp ≠ SectorId.sd ∧ SectorId.sp ≠ SectorId.sc ∧ SectorId.sd ≠ SectorId.sc**
 
@@ -939,7 +939,7 @@ Tau.BookVII.Meta.Registers.sector_independence :canonical_sector_decomp.pure_sec
 
 ### `Tau.BookVII.Meta.Registers.Verdict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L352-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L352-L357)
 **inductive
 Tau.BookVII.Meta.Registers.Verdict :Type**
 
@@ -955,7 +955,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprVerdict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L357-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L357-L357)
 **instance
 Tau.BookVII.Meta.Registers.instReprVerdict :Repr Verdict**
 
@@ -966,7 +966,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprVerdict.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L357-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L357-L357)
 **def
 Tau.BookVII.Meta.Registers.instReprVerdict.repr :Verdict → ℕ → Std.Format**
 
@@ -978,7 +978,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instDecidableEqVerdict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L357-L357)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L357-L357)
 **instance
 Tau.BookVII.Meta.Registers.instDecidableEqVerdict :DecidableEq Verdict**
 
@@ -989,7 +989,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.SectorWitnessBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L359-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L359-L367)
 **structure
 Tau.BookVII.Meta.Registers.SectorWitnessBundle :Type**
 
@@ -1010,7 +1010,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorWitnessBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L367-L367)
 **instance
 Tau.BookVII.Meta.Registers.instReprSectorWitnessBundle :Repr SectorWitnessBundle**
 
@@ -1021,7 +1021,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorWitnessBundle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L367-L367)
 **def
 Tau.BookVII.Meta.Registers.instReprSectorWitnessBundle.repr :SectorWitnessBundle → ℕ → Std.Format**
 
@@ -1033,7 +1033,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.SectorVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L369-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L369-L377)
 **structure
 Tau.BookVII.Meta.Registers.SectorVacuum :Type**
 
@@ -1054,7 +1054,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L377-L377)
 **instance
 Tau.BookVII.Meta.Registers.instReprSectorVacuum :Repr SectorVacuum**
 
@@ -1065,7 +1065,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorVacuum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L377-L377)
 **def
 Tau.BookVII.Meta.Registers.instReprSectorVacuum.repr :SectorVacuum → ℕ → Std.Format**
 
@@ -1077,7 +1077,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.SectorNormaliser`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L379-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L379-L389)
 **structure
 Tau.BookVII.Meta.Registers.SectorNormaliser :Type**
 
@@ -1101,7 +1101,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorNormaliser.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L389-L389)
 **def
 Tau.BookVII.Meta.Registers.instReprSectorNormaliser.repr :SectorNormaliser → ℕ → Std.Format**
 
@@ -1113,7 +1113,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSectorNormaliser`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L389-L389)
 **instance
 Tau.BookVII.Meta.Registers.instReprSectorNormaliser :Repr SectorNormaliser**
 
@@ -1124,7 +1124,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.shadow_soundness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L395-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L395-L400)
 **theorem
 Tau.BookVII.Meta.Registers.shadow_soundness
 (n : SectorNormaliser)
@@ -1139,7 +1139,7 @@ shadows are projective with no back-propagation.
 
 ### `Tau.BookVII.Meta.Registers.rigidity_corollary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L406-L413)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L406-L413)
 **theorem
 Tau.BookVII.Meta.Registers.rigidity_corollary :canonical_sector_decomp.sector_count = 5 ∧ sector_logos.dc_coincidence = true ∧ sector_logos.unique_mediator = true**
 
@@ -1152,7 +1152,7 @@ If c ∈ S_X \ S_L, then no w′ ∈ Wit_Y(c) with N_Y(c,w′) = accept for Y �
 
 ### `Tau.BookVII.Meta.Registers.EnrichLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L419-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L419-L425)
 **inductive
 Tau.BookVII.Meta.Registers.EnrichLayer :Type**
 
@@ -1169,7 +1169,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprEnrichLayer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L425-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L425-L425)
 **def
 Tau.BookVII.Meta.Registers.instReprEnrichLayer.repr :EnrichLayer → ℕ → Std.Format**
 
@@ -1181,7 +1181,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprEnrichLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L425-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L425-L425)
 **instance
 Tau.BookVII.Meta.Registers.instReprEnrichLayer :Repr EnrichLayer**
 
@@ -1192,7 +1192,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instDecidableEqEnrichLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L425-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L425-L425)
 **instance
 Tau.BookVII.Meta.Registers.instDecidableEqEnrichLayer :DecidableEq EnrichLayer**
 
@@ -1203,7 +1203,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.EnrichLayer.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L427-L432)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L427-L432)
 **def
 Tau.BookVII.Meta.Registers.EnrichLayer.toNat :EnrichLayer → ℕ**
 
@@ -1220,7 +1220,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.enrichment_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L434-L440)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L434-L440)
 **theorem
 Tau.BookVII.Meta.Registers.enrichment_monotone :EnrichLayer.e0.toNat ≤ EnrichLayer.e1.toNat ∧ EnrichLayer.e1.toNat ≤ EnrichLayer.e2.toNat ∧ EnrichLayer.e2.toNat ≤ EnrichLayer.e3.toNat**
 
@@ -1232,7 +1232,7 @@ Each layer contains all structure from previous layers.
 
 ### `Tau.BookVII.Meta.Registers.e3_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L446-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L446-L452)
 **theorem
 Tau.BookVII.Meta.Registers.e3_uniqueness :EnrichLayer.e3.toNat = 3 ∧ bh_basin.canonical = true**
 
@@ -1245,7 +1245,7 @@ system is structurally equivalent to the canonical one.
 
 ### `Tau.BookVII.Meta.Registers.register_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L458-L467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L458-L467)
 **theorem
 Tau.BookVII.Meta.Registers.register_completeness :canonical_decomposition.pure_count = 4 ∧ canonical_decomposition.total_count = 5 ∧ ⋯ = ⋯**
 
@@ -1260,7 +1260,7 @@ This is the register-level consequence of the Saturation Theorem.
 
 ### `Tau.BookVII.Meta.Registers.SynchronicityAsKernelInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L473-L485)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L473-L485)
 **structure
 Tau.BookVII.Meta.Registers.SynchronicityAsKernelInvariant :Type**
 
@@ -1286,7 +1286,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSynchronicityAsKernelInvariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L485-L485)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L485-L485)
 **def
 Tau.BookVII.Meta.Registers.instReprSynchronicityAsKernelInvariant.repr :SynchronicityAsKernelInvariant → ℕ → Std.Format**
 
@@ -1298,7 +1298,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprSynchronicityAsKernelInvariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L485-L485)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L485-L485)
 **instance
 Tau.BookVII.Meta.Registers.instReprSynchronicityAsKernelInvariant :Repr SynchronicityAsKernelInvariant**
 
@@ -1309,7 +1309,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.synchronicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L487-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L487-L487)
 **def
 Tau.BookVII.Meta.Registers.synchronicity :SynchronicityAsKernelInvariant**
 
@@ -1321,7 +1321,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.cross_register_correlation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L493-L502)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L493-L502)
 **theorem
 Tau.BookVII.Meta.Registers.cross_register_correlation :synchronicity.kernel_invariant = true ∧ synchronicity.cross_register = true ∧ synchronicity.non_causal = true**
 
@@ -1336,7 +1336,7 @@ from Reg_D alone.
 
 ### `Tau.BookVII.Meta.Registers.ReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L508-L520)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L508-L520)
 **structure
 Tau.BookVII.Meta.Registers.ReadoutFunctor :Type**
 
@@ -1363,7 +1363,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L520-L520)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L520-L520)
 **instance
 Tau.BookVII.Meta.Registers.instReprReadoutFunctor :Repr ReadoutFunctor**
 
@@ -1374,7 +1374,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprReadoutFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L520-L520)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L520-L520)
 **def
 Tau.BookVII.Meta.Registers.instReprReadoutFunctor.repr :ReadoutFunctor → ℕ → Std.Format**
 
@@ -1386,7 +1386,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.readout_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L522-L522)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L522-L522)
 **def
 Tau.BookVII.Meta.Registers.readout_functor :ReadoutFunctor**
 
@@ -1398,7 +1398,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.readout_functor_faithfulness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L528-L537)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L528-L537)
 **theorem
 Tau.BookVII.Meta.Registers.readout_functor_faithfulness :readout_functor.well_defined = true ∧ readout_functor.functorial = true ∧ readout_functor.typed_codomain = true ∧ readout_functor.readout_count = 4**
 
@@ -1412,7 +1412,7 @@ no structural information is lost within a single register.
 
 ### `Tau.BookVII.Meta.Registers.RelationalPrimacyPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L547-L558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L547-L558)
 **structure
 Tau.BookVII.Meta.Registers.RelationalPrimacyPrinciple :Type**
 
@@ -1437,7 +1437,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRelationalPrimacyPrinciple.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L558-L558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L558-L558)
 **def
 Tau.BookVII.Meta.Registers.instReprRelationalPrimacyPrinciple.repr :RelationalPrimacyPrinciple → ℕ → Std.Format**
 
@@ -1449,7 +1449,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprRelationalPrimacyPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L558-L558)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L558-L558)
 **instance
 Tau.BookVII.Meta.Registers.instReprRelationalPrimacyPrinciple :Repr RelationalPrimacyPrinciple**
 
@@ -1460,7 +1460,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.relational_primacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L560-L560)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L560-L560)
 **def
 Tau.BookVII.Meta.Registers.relational_primacy :RelationalPrimacyPrinciple**
 
@@ -1472,7 +1472,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.relational_primacy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L562-L566)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L562-L566)
 **theorem
 Tau.BookVII.Meta.Registers.relational_primacy_check :relational_primacy.morphisms_primary = true ∧ relational_primacy.yoneda_reconstruction = true ∧ relational_primacy.no_haecceity = true**
 
@@ -1481,7 +1481,7 @@ Tau.BookVII.Meta.Registers.relational_primacy_check :relational_primacy.morphism
 
 ### `Tau.BookVII.Meta.Registers.KernelPhilosophicalSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L572-L583)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L572-L583)
 **structure
 Tau.BookVII.Meta.Registers.KernelPhilosophicalSummary :Type**
 
@@ -1506,7 +1506,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprKernelPhilosophicalSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L583-L583)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L583-L583)
 **instance
 Tau.BookVII.Meta.Registers.instReprKernelPhilosophicalSummary :Repr KernelPhilosophicalSummary**
 
@@ -1517,7 +1517,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprKernelPhilosophicalSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L583-L583)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L583-L583)
 **def
 Tau.BookVII.Meta.Registers.instReprKernelPhilosophicalSummary.repr :KernelPhilosophicalSummary → ℕ → Std.Format**
 
@@ -1529,7 +1529,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.kernel_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L585-L585)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L585-L585)
 **def
 Tau.BookVII.Meta.Registers.kernel_summary :KernelPhilosophicalSummary**
 
@@ -1541,7 +1541,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.kernel_summary_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L587-L591)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L587-L591)
 **theorem
 Tau.BookVII.Meta.Registers.kernel_summary_check :kernel_summary.generator_count = 5 ∧ kernel_summary.axiom_count = 9 ∧ kernel_summary.self_sufficient = true**
 
@@ -1550,7 +1550,7 @@ Tau.BookVII.Meta.Registers.kernel_summary_check :kernel_summary.generator_count 
 
 ### `Tau.BookVII.Meta.Registers.InternalSetOntology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L597-L605)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L597-L605)
 **structure
 Tau.BookVII.Meta.Registers.InternalSetOntology :Type**
 
@@ -1571,7 +1571,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprInternalSetOntology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L605-L605)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L605-L605)
 **instance
 Tau.BookVII.Meta.Registers.instReprInternalSetOntology :Repr InternalSetOntology**
 
@@ -1582,7 +1582,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprInternalSetOntology.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L605-L605)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L605-L605)
 **def
 Tau.BookVII.Meta.Registers.instReprInternalSetOntology.repr :InternalSetOntology → ℕ → Std.Format**
 
@@ -1594,7 +1594,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.internal_set_ontology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L607-L607)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L607-L607)
 **def
 Tau.BookVII.Meta.Registers.internal_set_ontology :InternalSetOntology**
 
@@ -1606,7 +1606,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.OnticVirtualDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L613-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L613-L624)
 **structure
 Tau.BookVII.Meta.Registers.OnticVirtualDistinction :Type**
 
@@ -1631,7 +1631,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprOnticVirtualDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L624-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L624-L624)
 **def
 Tau.BookVII.Meta.Registers.instReprOnticVirtualDistinction.repr :OnticVirtualDistinction → ℕ → Std.Format**
 
@@ -1643,7 +1643,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprOnticVirtualDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L624-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L624-L624)
 **instance
 Tau.BookVII.Meta.Registers.instReprOnticVirtualDistinction :Repr OnticVirtualDistinction**
 
@@ -1654,7 +1654,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.ontic_virtual`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L626-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L626-L626)
 **def
 Tau.BookVII.Meta.Registers.ontic_virtual :OnticVirtualDistinction**
 
@@ -1666,7 +1666,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.ontic_virtual_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L628-L632)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L628-L632)
 **theorem
 Tau.BookVII.Meta.Registers.ontic_virtual_check :ontic_virtual.ontic_addressed = true ∧ ontic_virtual.virtual_unaddressed = true ∧ ontic_virtual.classification_exhaustive = true**
 
@@ -1675,7 +1675,7 @@ Tau.BookVII.Meta.Registers.ontic_virtual_check :ontic_virtual.ontic_addressed = 
 
 ### `Tau.BookVII.Meta.Registers.TruthMakerOntological`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L638-L654)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L638-L654)
 **structure
 Tau.BookVII.Meta.Registers.TruthMakerOntological :Type**
 
@@ -1707,7 +1707,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprTruthMakerOntological`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L654-L654)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L654-L654)
 **instance
 Tau.BookVII.Meta.Registers.instReprTruthMakerOntological :Repr TruthMakerOntological**
 
@@ -1718,7 +1718,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprTruthMakerOntological.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L654-L654)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L654-L654)
 **def
 Tau.BookVII.Meta.Registers.instReprTruthMakerOntological.repr :TruthMakerOntological → ℕ → Std.Format**
 
@@ -1730,7 +1730,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.truth_maker_ontological`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L656-L656)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L656-L656)
 **def
 Tau.BookVII.Meta.Registers.truth_maker_ontological :TruthMakerOntological**
 
@@ -1742,7 +1742,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.truth_maker_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L658-L664)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L658-L664)
 **theorem
 Tau.BookVII.Meta.Registers.truth_maker_check :truth_maker_ontological.tm_inclusion = true ∧ truth_maker_ontological.tm_section = true ∧ truth_maker_ontological.tm_diagram = true ∧ truth_maker_ontological.tm_invariant = true ∧ truth_maker_ontological.tm_count = 4**
 
@@ -1751,7 +1751,7 @@ Tau.BookVII.Meta.Registers.truth_maker_check :truth_maker_ontological.tm_inclusi
 
 ### `Tau.BookVII.Meta.Registers.coherence_correspondence_unification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L670-L679)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L670-L679)
 **theorem
 Tau.BookVII.Meta.Registers.coherence_correspondence_unification :truth_maker_ontological.tm_section = true ∧ truth_maker_ontological.tm_diagram = true ∧ truth_maker_ontological.tm_count = 4**
 
@@ -1770,7 +1770,7 @@ In τ, these are the same structural condition.
 
 ### `Tau.BookVII.Meta.Registers.DerivedGeometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L685-L693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L685-L693)
 **structure
 Tau.BookVII.Meta.Registers.DerivedGeometry :Type**
 
@@ -1791,7 +1791,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprDerivedGeometry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L693-L693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L693-L693)
 **def
 Tau.BookVII.Meta.Registers.instReprDerivedGeometry.repr :DerivedGeometry → ℕ → Std.Format**
 
@@ -1803,7 +1803,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprDerivedGeometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L693-L693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L693-L693)
 **instance
 Tau.BookVII.Meta.Registers.instReprDerivedGeometry :Repr DerivedGeometry**
 
@@ -1814,7 +1814,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.derived_geometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L695-L695)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L695-L695)
 **def
 Tau.BookVII.Meta.Registers.derived_geometry :DerivedGeometry**
 
@@ -1826,7 +1826,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.PhilosophicalFraming`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L701-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L701-L712)
 **structure
 Tau.BookVII.Meta.Registers.PhilosophicalFraming :Type**
 
@@ -1851,7 +1851,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprPhilosophicalFraming`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L712-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L712-L712)
 **instance
 Tau.BookVII.Meta.Registers.instReprPhilosophicalFraming :Repr PhilosophicalFraming**
 
@@ -1862,7 +1862,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprPhilosophicalFraming.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L712-L712)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L712-L712)
 **def
 Tau.BookVII.Meta.Registers.instReprPhilosophicalFraming.repr :PhilosophicalFraming → ℕ → Std.Format**
 
@@ -1874,7 +1874,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.tau3_framing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L714-L714)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L714-L714)
 **def
 Tau.BookVII.Meta.Registers.tau3_framing :PhilosophicalFraming**
 
@@ -1886,7 +1886,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.BulkBoundaryDuality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L720-L728)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L720-L728)
 **structure
 Tau.BookVII.Meta.Registers.BulkBoundaryDuality :Type**
 
@@ -1907,7 +1907,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprBulkBoundaryDuality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L728-L728)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L728-L728)
 **instance
 Tau.BookVII.Meta.Registers.instReprBulkBoundaryDuality :Repr BulkBoundaryDuality**
 
@@ -1918,7 +1918,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprBulkBoundaryDuality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L728-L728)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L728-L728)
 **def
 Tau.BookVII.Meta.Registers.instReprBulkBoundaryDuality.repr :BulkBoundaryDuality → ℕ → Std.Format**
 
@@ -1930,7 +1930,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.bulk_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L730-L730)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L730-L730)
 **def
 Tau.BookVII.Meta.Registers.bulk_boundary :BulkBoundaryDuality**
 
@@ -1942,7 +1942,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.LawAsAdmissibleContinuation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L736-L747)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L736-L747)
 **structure
 Tau.BookVII.Meta.Registers.LawAsAdmissibleContinuation :Type**
 
@@ -1967,7 +1967,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprLawAsAdmissibleContinuation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L747-L747)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L747-L747)
 **instance
 Tau.BookVII.Meta.Registers.instReprLawAsAdmissibleContinuation :Repr LawAsAdmissibleContinuation**
 
@@ -1978,7 +1978,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprLawAsAdmissibleContinuation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L747-L747)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L747-L747)
 **def
 Tau.BookVII.Meta.Registers.instReprLawAsAdmissibleContinuation.repr :LawAsAdmissibleContinuation → ℕ → Std.Format**
 
@@ -1990,7 +1990,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.law_continuation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L749-L749)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L749-L749)
 **def
 Tau.BookVII.Meta.Registers.law_continuation :LawAsAdmissibleContinuation**
 
@@ -2002,7 +2002,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.operator_realism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L755-L762)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L755-L762)
 **theorem
 Tau.BookVII.Meta.Registers.operator_realism :law_continuation.laws_as_continuation = true ∧ law_continuation.structure_preserving = true**
 
@@ -2016,7 +2016,7 @@ invented — because continuation operators are structurally forced.
 
 ### `Tau.BookVII.Meta.Registers.CausationAsConstrainedComposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L768-L777)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L768-L777)
 **structure
 Tau.BookVII.Meta.Registers.CausationAsConstrainedComposition :Type**
 
@@ -2038,7 +2038,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprCausationAsConstrainedComposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L777-L777)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L777-L777)
 **instance
 Tau.BookVII.Meta.Registers.instReprCausationAsConstrainedComposition :Repr CausationAsConstrainedComposition**
 
@@ -2049,7 +2049,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprCausationAsConstrainedComposition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L777-L777)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L777-L777)
 **def
 Tau.BookVII.Meta.Registers.instReprCausationAsConstrainedComposition.repr :CausationAsConstrainedComposition → ℕ → Std.Format**
 
@@ -2061,7 +2061,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.causation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L779-L779)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L779-L779)
 **def
 Tau.BookVII.Meta.Registers.causation :CausationAsConstrainedComposition**
 
@@ -2073,7 +2073,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.temporal_ordering_from_persistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L785-L792)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L785-L792)
 **theorem
 Tau.BookVII.Meta.Registers.temporal_ordering_from_persistence :causation.factorization = true ∧ causation.kernel_constrained = true**
 
@@ -2087,7 +2087,7 @@ induce a partial order = temporal sequence.
 
 ### `Tau.BookVII.Meta.Registers.TauModalOperators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L798-L810)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L798-L810)
 **structure
 Tau.BookVII.Meta.Registers.TauModalOperators :Type**
 
@@ -2113,7 +2113,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprTauModalOperators.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L810-L810)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L810-L810)
 **def
 Tau.BookVII.Meta.Registers.instReprTauModalOperators.repr :TauModalOperators → ℕ → Std.Format**
 
@@ -2125,7 +2125,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprTauModalOperators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L810-L810)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L810-L810)
 **instance
 Tau.BookVII.Meta.Registers.instReprTauModalOperators :Repr TauModalOperators**
 
@@ -2136,7 +2136,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.tau_modal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L812-L812)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L812-L812)
 **def
 Tau.BookVII.Meta.Registers.tau_modal :TauModalOperators**
 
@@ -2148,7 +2148,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.modal_logic_soundness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L818-L826)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L818-L826)
 **theorem
 Tau.BookVII.Meta.Registers.modal_logic_soundness :tau_modal.has_box = true ∧ tau_modal.has_diamond = true ∧ tau_modal.internal = true**
 
@@ -2162,7 +2162,7 @@ relation from admissible transformations.
 
 ### `Tau.BookVII.Meta.Registers.IdentityAsAddressPersistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L832-L840)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L832-L840)
 **structure
 Tau.BookVII.Meta.Registers.IdentityAsAddressPersistence :Type**
 
@@ -2183,7 +2183,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprIdentityAsAddressPersistence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L840-L840)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L840-L840)
 **def
 Tau.BookVII.Meta.Registers.instReprIdentityAsAddressPersistence.repr :IdentityAsAddressPersistence → ℕ → Std.Format**
 
@@ -2195,7 +2195,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprIdentityAsAddressPersistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L840-L840)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L840-L840)
 **instance
 Tau.BookVII.Meta.Registers.instReprIdentityAsAddressPersistence :Repr IdentityAsAddressPersistence**
 
@@ -2206,7 +2206,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.identity_persistence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L842-L842)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L842-L842)
 **def
 Tau.BookVII.Meta.Registers.identity_persistence :IdentityAsAddressPersistence**
 
@@ -2218,7 +2218,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.MereologicalCompositionAsColimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L848-L856)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L848-L856)
 **structure
 Tau.BookVII.Meta.Registers.MereologicalCompositionAsColimit :Type**
 
@@ -2239,7 +2239,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprMereologicalCompositionAsColimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L856-L856)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L856-L856)
 **instance
 Tau.BookVII.Meta.Registers.instReprMereologicalCompositionAsColimit :Repr MereologicalCompositionAsColimit**
 
@@ -2250,7 +2250,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.instReprMereologicalCompositionAsColimit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L856-L856)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L856-L856)
 **def
 Tau.BookVII.Meta.Registers.instReprMereologicalCompositionAsColimit.repr :MereologicalCompositionAsColimit → ℕ → Std.Format**
 
@@ -2262,7 +2262,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.mereological_colimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L858-L858)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L858-L858)
 **def
 Tau.BookVII.Meta.Registers.mereological_colimit :MereologicalCompositionAsColimit**
 
@@ -2274,7 +2274,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.special_composition_answer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L864-L871)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L864-L871)
 **theorem
 Tau.BookVII.Meta.Registers.special_composition_answer :mereological_colimit.composition_as_colimit = true ∧ mereological_colimit.universal_property = true**
 
@@ -2288,7 +2288,7 @@ Question: things compose when their diagram has a colimit.
 
 ### `Tau.BookVII.Meta.Registers.AbstractObjectAsStructuralPosition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L877-L886)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L877-L886)
 **structure
 Tau.BookVII.Meta.Registers.AbstractObjectAsStructuralPosition :Type**
 
@@ -2310,7 +2310,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprAbstractObjectAsStructuralPosition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L886-L886)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L886-L886)
 **def
 Tau.BookVII.Meta.Registers.instReprAbstractObjectAsStructuralPosition.repr :AbstractObjectAsStructuralPosition → ℕ → Std.Format**
 
@@ -2322,7 +2322,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprAbstractObjectAsStructuralPosition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L886-L886)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L886-L886)
 **instance
 Tau.BookVII.Meta.Registers.instReprAbstractObjectAsStructuralPosition :Repr AbstractObjectAsStructuralPosition**
 
@@ -2333,7 +2333,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.abstract_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L888-L888)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L888-L888)
 **def
 Tau.BookVII.Meta.Registers.abstract_structural :AbstractObjectAsStructuralPosition**
 
@@ -2345,7 +2345,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.ProblemMapClassificationScheme`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L894-L905)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L894-L905)
 **structure
 Tau.BookVII.Meta.Registers.ProblemMapClassificationScheme :Type**
 
@@ -2370,7 +2370,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprProblemMapClassificationScheme.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L905-L905)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L905-L905)
 **def
 Tau.BookVII.Meta.Registers.instReprProblemMapClassificationScheme.repr :ProblemMapClassificationScheme → ℕ → Std.Format**
 
@@ -2382,7 +2382,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprProblemMapClassificationScheme`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L905-L905)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L905-L905)
 **instance
 Tau.BookVII.Meta.Registers.instReprProblemMapClassificationScheme :Repr ProblemMapClassificationScheme**
 
@@ -2393,7 +2393,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.problem_map`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L907-L907)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L907-L907)
 **def
 Tau.BookVII.Meta.Registers.problem_map :ProblemMapClassificationScheme**
 
@@ -2405,7 +2405,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.problem_map_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L909-L913)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L909-L913)
 **theorem
 Tau.BookVII.Meta.Registers.problem_map_check :problem_map.problem_count = 17 ∧ problem_map.resolution_types = 3 ∧ problem_map.structural = true**
 
@@ -2414,7 +2414,7 @@ Tau.BookVII.Meta.Registers.problem_map_check :problem_map.problem_count = 17 ∧
 
 ### `Tau.BookVII.Meta.Registers.ThreeLayerSolipsismResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L919-L933)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L919-L933)
 **structure
 Tau.BookVII.Meta.Registers.ThreeLayerSolipsismResolution :Type**
 
@@ -2443,7 +2443,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprThreeLayerSolipsismResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L933-L933)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L933-L933)
 **def
 Tau.BookVII.Meta.Registers.instReprThreeLayerSolipsismResolution.repr :ThreeLayerSolipsismResolution → ℕ → Std.Format**
 
@@ -2455,7 +2455,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprThreeLayerSolipsismResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L933-L933)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L933-L933)
 **instance
 Tau.BookVII.Meta.Registers.instReprThreeLayerSolipsismResolution :Repr ThreeLayerSolipsismResolution**
 
@@ -2466,7 +2466,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.solipsism_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L935-L935)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L935-L935)
 **def
 Tau.BookVII.Meta.Registers.solipsism_resolution :ThreeLayerSolipsismResolution**
 
@@ -2478,7 +2478,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.bayesian_exclusion_of_solipsism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L941-L950)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L941-L950)
 **theorem
 Tau.BookVII.Meta.Registers.bayesian_exclusion_of_solipsism :solipsism_resolution.ontic_layer = true ∧ solipsism_resolution.epistemic_layer = true ∧ solipsism_resolution.bayesian_layer = true ∧ solipsism_resolution.layer_count = 3**
 
@@ -2492,7 +2492,7 @@ cross-register correlations to be coincidental.
 
 ### `Tau.BookVII.Meta.Registers.NonDualisticPlatonism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L956-L968)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L956-L968)
 **structure
 Tau.BookVII.Meta.Registers.NonDualisticPlatonism :Type**
 
@@ -2518,7 +2518,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprNonDualisticPlatonism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L968-L968)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L968-L968)
 **def
 Tau.BookVII.Meta.Registers.instReprNonDualisticPlatonism.repr :NonDualisticPlatonism → ℕ → Std.Format**
 
@@ -2530,7 +2530,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprNonDualisticPlatonism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L968-L968)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L968-L968)
 **instance
 Tau.BookVII.Meta.Registers.instReprNonDualisticPlatonism :Repr NonDualisticPlatonism**
 
@@ -2541,7 +2541,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.non_dualistic_platonism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L970-L970)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L970-L970)
 **def
 Tau.BookVII.Meta.Registers.non_dualistic_platonism :NonDualisticPlatonism**
 
@@ -2553,7 +2553,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.OmegaUniquenessPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L976-L987)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L976-L987)
 **structure
 Tau.BookVII.Meta.Registers.OmegaUniquenessPrinciple :Type**
 
@@ -2578,7 +2578,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprOmegaUniquenessPrinciple.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L987-L987)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L987-L987)
 **def
 Tau.BookVII.Meta.Registers.instReprOmegaUniquenessPrinciple.repr :OmegaUniquenessPrinciple → ℕ → Std.Format**
 
@@ -2590,7 +2590,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.instReprOmegaUniquenessPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L987-L987)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L987-L987)
 **instance
 Tau.BookVII.Meta.Registers.instReprOmegaUniquenessPrinciple :Repr OmegaUniquenessPrinciple**
 
@@ -2601,7 +2601,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Registers.omega_uniqueness_principle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L989-L989)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L989-L989)
 **def
 Tau.BookVII.Meta.Registers.omega_uniqueness_principle :OmegaUniquenessPrinciple**
 
@@ -2613,7 +2613,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Registers.omega_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Registers.lean#L995-L1002)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Registers.lean#L995-L1002)
 **theorem
 Tau.BookVII.Meta.Registers.omega_uniqueness :omega_uniqueness_principle.terminal = true ∧ omega_uniqueness_principle.unique_up_to_iso = true ∧ omega_uniqueness_principle.structurally_determined = true**
 

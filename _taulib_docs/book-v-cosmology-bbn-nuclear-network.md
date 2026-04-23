@@ -161,7 +161,7 @@ conj
 
 ### `Tau.BookV.Cosmology.DeuteriumBottleneck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L87-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L87-L95)
 **structure
 Tau.BookV.Cosmology.DeuteriumBottleneck :Type**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDeuteriumBottleneck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L95-L95)
 **instance
 Tau.BookV.Cosmology.instReprDeuteriumBottleneck :Repr DeuteriumBottleneck**
 
@@ -193,7 +193,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDeuteriumBottleneck.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L95-L95)
 **def
 Tau.BookV.Cosmology.instReprDeuteriumBottleneck.repr :DeuteriumBottleneck → ℕ → Std.Format**
 
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.deuterium_bottleneck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L97-L98)
 **def
 Tau.BookV.Cosmology.deuterium_bottleneck :DeuteriumBottleneck**
 
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BBNNucleus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L104-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L104-L114)
 **inductive
 Tau.BookV.Cosmology.BBNNucleus :Type**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBBNNucleus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
 **instance
 Tau.BookV.Cosmology.instReprBBNNucleus :Repr BBNNucleus**
 
@@ -251,7 +251,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBBNNucleus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
 **def
 Tau.BookV.Cosmology.instReprBBNNucleus.repr :BBNNucleus → ℕ → Std.Format**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instDecidableEqBBNNucleus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
 **instance
 Tau.BookV.Cosmology.instDecidableEqBBNNucleus :DecidableEq BBNNucleus**
 
@@ -274,7 +274,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqBBNNucleus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
 **instance
 Tau.BookV.Cosmology.instBEqBBNNucleus :BEq BBNNucleus**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqBBNNucleus.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L114-L114)
 **def
 Tau.BookV.Cosmology.instBEqBBNNucleus.beq :BBNNucleus → BBNNucleus → Bool**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BBNNucleus.massNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L116-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L116-L125)
 **def
 Tau.BookV.Cosmology.BBNNucleus.massNumber :BBNNucleus → ℕ**
 
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bbn_nucleus_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L127-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L127-L130)
 **theorem
 Tau.BookV.Cosmology.bbn_nucleus_count :[BBNNucleus.neutron, BBNNucleus.proton, BBNNucleus.deuterium, BBNNucleus.helium3, BBNNucleus.tritium, BBNNucleus.helium4, BBNNucleus.lithium7, BBNNucleus.beryllium7].length = 8**
 
@@ -329,7 +329,7 @@ There are exactly 8 BBN nuclei.
 
 ### `Tau.BookV.Cosmology.BBNReaction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L136-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L136-L150)
 **inductive
 Tau.BookV.Cosmology.BBNReaction :Type**
 
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBBNReaction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
 **def
 Tau.BookV.Cosmology.instReprBBNReaction.repr :BBNReaction → ℕ → Std.Format**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBBNReaction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
 **instance
 Tau.BookV.Cosmology.instReprBBNReaction :Repr BBNReaction**
 
@@ -377,7 +377,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqBBNReaction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
 **instance
 Tau.BookV.Cosmology.instDecidableEqBBNReaction :DecidableEq BBNReaction**
 
@@ -388,7 +388,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqBBNReaction.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
 **def
 Tau.BookV.Cosmology.instBEqBBNReaction.beq :BBNReaction → BBNReaction → Bool**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instBEqBBNReaction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L150-L150)
 **instance
 Tau.BookV.Cosmology.instBEqBBNReaction :BEq BBNReaction**
 
@@ -411,7 +411,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bbn_reactions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L152-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L152-L155)
 **def
 Tau.BookV.Cosmology.bbn_reactions :List BBNReaction**
 
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bbn_reaction_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L157-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L157-L158)
 **theorem
 Tau.BookV.Cosmology.bbn_reaction_count :bbn_reactions.length = 12**
 
@@ -436,7 +436,7 @@ Exactly 12 reactions.
 
 ### `Tau.BookV.Cosmology.BBNSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L164-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L164-L169)
 **inductive
 Tau.BookV.Cosmology.BBNSector :Type**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBBNSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
 **instance
 Tau.BookV.Cosmology.instReprBBNSector :Repr BBNSector**
 
@@ -463,7 +463,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBBNSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
 **def
 Tau.BookV.Cosmology.instReprBBNSector.repr :BBNSector → ℕ → Std.Format**
 
@@ -475,7 +475,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instDecidableEqBBNSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
 **instance
 Tau.BookV.Cosmology.instDecidableEqBBNSector :DecidableEq BBNSector**
 
@@ -486,7 +486,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqBBNSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
 **instance
 Tau.BookV.Cosmology.instBEqBBNSector :BEq BBNSector**
 
@@ -497,7 +497,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqBBNSector.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L169-L169)
 **def
 Tau.BookV.Cosmology.instBEqBBNSector.beq :BBNSector → BBNSector → Bool**
 
@@ -509,7 +509,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.reaction_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L171-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L171-L184)
 **def
 Tau.BookV.Cosmology.reaction_sector :BBNReaction → BBNSector**
 
@@ -534,7 +534,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L186-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L186-L188)
 **def
 Tau.BookV.Cosmology.sector_count
 (s : BBNSector)
@@ -551,7 +551,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.a_sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L191-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L191-L192)
 **theorem
 Tau.BookV.Cosmology.a_sector_count :sector_count BBNSector.A = 1**
 
@@ -562,7 +562,7 @@ A-sector count = 1.
 
 ### `Tau.BookV.Cosmology.b_sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L193-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L193-L194)
 **theorem
 Tau.BookV.Cosmology.b_sector_count :sector_count BBNSector.B = 4**
 
@@ -573,7 +573,7 @@ B-sector count = 4.
 
 ### `Tau.BookV.Cosmology.c_sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L195-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L195-L196)
 **theorem
 Tau.BookV.Cosmology.c_sector_count :sector_count BBNSector.C = 7**
 
@@ -584,7 +584,7 @@ C-sector count = 7.
 
 ### `Tau.BookV.Cosmology.sector_distribution_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L198-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L198-L201)
 **theorem
 Tau.BookV.Cosmology.sector_distribution_sum :sector_count BBNSector.A + sector_count BBNSector.B + sector_count BBNSector.C = 12**
 
@@ -595,7 +595,7 @@ Tau.BookV.Cosmology.sector_distribution_sum :sector_count BBNSector.A + sector_c
 
 ### `Tau.BookV.Cosmology.reaction_9_is_B_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L203-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L203-L205)
 **theorem
 Tau.BookV.Cosmology.reaction_9_is_B_sector :reaction_sector BBNReaction.R9 = BBNSector.B**
 
@@ -606,7 +606,7 @@ Reaction 9 is B-sector (EM capture).
 
 ### `Tau.BookV.Cosmology.FiberHolonomyCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L211-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L211-L223)
 **structure
 Tau.BookV.Cosmology.FiberHolonomyCorrection :Type**
 
@@ -633,7 +633,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiberHolonomyCorrection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L223-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L223-L223)
 **def
 Tau.BookV.Cosmology.instReprFiberHolonomyCorrection.repr :FiberHolonomyCorrection → ℕ → Std.Format**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFiberHolonomyCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L223-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L223-L223)
 **instance
 Tau.BookV.Cosmology.instReprFiberHolonomyCorrection :Repr FiberHolonomyCorrection**
 
@@ -656,7 +656,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.fiber_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L225-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L225-L227)
 **def
 Tau.BookV.Cosmology.fiber_holonomy :FiberHolonomyCorrection**
 
@@ -670,7 +670,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.Be7SuppressionFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L233-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L233-L245)
 **structure
 Tau.BookV.Cosmology.Be7SuppressionFactor :Type**
 
@@ -697,7 +697,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBe7SuppressionFactor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L245-L245)
 **def
 Tau.BookV.Cosmology.instReprBe7SuppressionFactor.repr :Be7SuppressionFactor → ℕ → Std.Format**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBe7SuppressionFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L245-L245)
 **instance
 Tau.BookV.Cosmology.instReprBe7SuppressionFactor :Repr Be7SuppressionFactor**
 
@@ -720,7 +720,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.be7_suppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L247-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L247-L250)
 **def
 Tau.BookV.Cosmology.be7_suppression :Be7SuppressionFactor**
 
@@ -734,7 +734,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.suppression_is_one_third`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L253-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L253-L256)
 **theorem
 Tau.BookV.Cosmology.suppression_is_one_third :be7_suppression.supp_num = 1 ∧ be7_suppression.supp_den = 3**
 
@@ -745,7 +745,7 @@ Tau.BookV.Cosmology.suppression_is_one_third :be7_suppression.supp_num = 1 ∧ b
 
 ### `Tau.BookV.Cosmology.suppression_den_matches_tau3_dim`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L258-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L258-L260)
 **theorem
 Tau.BookV.Cosmology.suppression_den_matches_tau3_dim :be7_suppression.supp_den = tau3_dim**
 
@@ -756,7 +756,7 @@ The suppression denominator equals dim(τ³) = 3 from HeliumFraction.
 
 ### `Tau.BookV.Cosmology.LithiumResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L266-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L266-L285)
 **structure
 Tau.BookV.Cosmology.LithiumResolution :Type**
 
@@ -793,7 +793,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprLithiumResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L285-L285)
 **def
 Tau.BookV.Cosmology.instReprLithiumResolution.repr :LithiumResolution → ℕ → Std.Format**
 
@@ -805,7 +805,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprLithiumResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L285-L285)
 **instance
 Tau.BookV.Cosmology.instReprLithiumResolution :Repr LithiumResolution**
 
@@ -816,7 +816,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.lithium_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L287-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L287-L290)
 **def
 Tau.BookV.Cosmology.lithium_resolution :LithiumResolution**
 
@@ -831,7 +831,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.lithium_within_1sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L292-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L292-L298)
 **theorem
 Tau.BookV.Cosmology.lithium_within_1sigma :lithium_resolution.tau_x1e12 > lithium_resolution.obs_x1e12 - lithium_resolution.obs_unc_x1e12 ∧ lithium_resolution.tau_x1e12 < lithium_resolution.obs_x1e12 + lithium_resolution.obs_unc_x1e12**
 
@@ -842,7 +842,7 @@ Tau.BookV.Cosmology.lithium_within_1sigma :lithium_resolution.tau_x1e12 > lithiu
 
 ### `Tau.BookV.Cosmology.DeuteriumPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L304-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L304-L316)
 **structure
 Tau.BookV.Cosmology.DeuteriumPrediction :Type**
 
@@ -869,7 +869,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDeuteriumPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L316-L316)
 **instance
 Tau.BookV.Cosmology.instReprDeuteriumPrediction :Repr DeuteriumPrediction**
 
@@ -880,7 +880,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprDeuteriumPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L316-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L316-L316)
 **def
 Tau.BookV.Cosmology.instReprDeuteriumPrediction.repr :DeuteriumPrediction → ℕ → Std.Format**
 
@@ -892,7 +892,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.deuterium_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L318-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L318-L319)
 **def
 Tau.BookV.Cosmology.deuterium_prediction :DeuteriumPrediction**
 
@@ -906,7 +906,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.dh_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L322-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L322-L328)
 **theorem
 Tau.BookV.Cosmology.dh_in_range :deuterium_prediction.dh_x1e7 ≥ deuterium_prediction.obs_x1e7 - 3 * deuterium_prediction.obs_unc_x1e7 ∧ deuterium_prediction.dh_x1e7 ≤ deuterium_prediction.obs_x1e7 + 3 * deuterium_prediction.obs_unc_x1e7**
 
@@ -917,7 +917,7 @@ Tau.BookV.Cosmology.dh_in_range :deuterium_prediction.dh_x1e7 ≥ deuterium_pred
 
 ### `Tau.BookV.Cosmology.He3Prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L334-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L334-L344)
 **structure
 Tau.BookV.Cosmology.He3Prediction :Type**
 
@@ -941,7 +941,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHe3Prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L344-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L344-L344)
 **instance
 Tau.BookV.Cosmology.instReprHe3Prediction :Repr He3Prediction**
 
@@ -952,7 +952,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprHe3Prediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L344-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L344-L344)
 **def
 Tau.BookV.Cosmology.instReprHe3Prediction.repr :He3Prediction → ℕ → Std.Format**
 
@@ -964,7 +964,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.he3_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L346-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L346-L347)
 **def
 Tau.BookV.Cosmology.he3_prediction :He3Prediction**
 
@@ -978,7 +978,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.he3_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L349-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L349-L355)
 **theorem
 Tau.BookV.Cosmology.he3_in_range :he3_prediction.he3_x1e7 ≥ he3_prediction.obs_x1e7 - 2 * he3_prediction.obs_unc_x1e7 ∧ he3_prediction.he3_x1e7 ≤ he3_prediction.obs_x1e7 + 2 * he3_prediction.obs_unc_x1e7**
 
@@ -989,7 +989,7 @@ Tau.BookV.Cosmology.he3_in_range :he3_prediction.he3_x1e7 ≥ he3_prediction.obs
 
 ### `Tau.BookV.Cosmology.yp_preserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L362-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L362-L372)
 **theorem
 Tau.BookV.Cosmology.yp_preserved :he_prediction.yp_num = 20 ∧ he_prediction.yp_den = 81 ∧ be7_suppression.supp_den = 3 ∧ he_prediction.yp_den ≠ be7_suppression.supp_den**
 
@@ -1001,7 +1001,7 @@ It derives from combinatorial voxel packing (8/27 × 5/6 = 20/81).
 
 ### `Tau.BookV.Cosmology.dh_preserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L375-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L375-L383)
 **theorem
 Tau.BookV.Cosmology.dh_preserved :BBNNucleus.deuterium.massNumber < he_packing.macro_side ∧ BBNNucleus.beryllium7.massNumber > he_packing.macro_side**
 
@@ -1014,7 +1014,7 @@ its abundance is set by the deuterium bottleneck, not ⁷Be.
 
 ### `Tau.BookV.Cosmology.selectivity_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L386-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L386-L400)
 **theorem
 Tau.BookV.Cosmology.selectivity_threshold :BBNNucleus.neutron.massNumber ≤ 4 ∧ BBNNucleus.proton.massNumber ≤ 4 ∧ BBNNucleus.deuterium.massNumber ≤ 4 ∧ BBNNucleus.helium3.massNumber ≤ 4 ∧ BBNNucleus.tritium.massNumber ≤ 4 ∧ BBNNucleus.helium4.massNumber ≤ 4 ∧ BBNNucleus.lithium7.massNumber > 4 ∧ BBNNucleus.beryllium7.massNumber > 4**
 
@@ -1026,7 +1026,7 @@ A ≤ 4 fit the macrocell; A = 5,6 don't appear in BBN.
 
 ### `Tau.BookV.Cosmology.CompleteBBNTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L406-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L406-L421)
 **structure
 Tau.BookV.Cosmology.CompleteBBNTable :Type**
 
@@ -1058,7 +1058,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCompleteBBNTable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L421-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L421-L421)
 **instance
 Tau.BookV.Cosmology.instReprCompleteBBNTable :Repr CompleteBBNTable**
 
@@ -1069,7 +1069,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCompleteBBNTable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L421-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L421-L421)
 **def
 Tau.BookV.Cosmology.instReprCompleteBBNTable.repr :CompleteBBNTable → ℕ → Std.Format**
 
@@ -1081,7 +1081,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.complete_bbn_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L423-L424)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L423-L424)
 **def
 Tau.BookV.Cosmology.complete_bbn_table :CompleteBBNTable**
 
@@ -1095,7 +1095,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bbn_table_all_within_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L427-L434)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L427-L434)
 **theorem
 Tau.BookV.Cosmology.bbn_table_all_within_range :complete_bbn_table.yp_ok = true ∧ complete_bbn_table.dh_ok = true ∧ complete_bbn_table.he3_ok = true ∧ complete_bbn_table.li7_ok = true ∧ complete_bbn_table.n_free_params = 0**
 
@@ -1106,7 +1106,7 @@ Tau.BookV.Cosmology.bbn_table_all_within_range :complete_bbn_table.yp_ok = true 
 
 ### `Tau.BookV.Cosmology.spite_plateau_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L437-L447)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L437-L447)
 **theorem
 Tau.BookV.Cosmology.spite_plateau_consistent :lithium_resolution.tau_x1e12 * 85 / 100 = 158 ∧ 158 ≥ lithium_resolution.obs_x1e12 - lithium_resolution.obs_unc_x1e12 ∧ 158 ≤ lithium_resolution.obs_x1e12 + lithium_resolution.obs_unc_x1e12**
 
@@ -1120,7 +1120,7 @@ Using ×10⁻¹² units: 187 × 85 / 100 = 158. Obs = 160 ± 30.
 
 ### `Tau.BookV.Cosmology.dim_tau3_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L453-L460)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L453-L460)
 **theorem
 Tau.BookV.Cosmology.dim_tau3_universality :be7_suppression.supp_den = 3 ∧ he_packing.macro_side = 3 ∧ tau3_dim = 3 ∧ 3 * 5 = 15**
 
@@ -1132,7 +1132,7 @@ generations (H₁=ℤ³), and baryogenesis exponent (15=3×5).
 
 ### `Tau.BookV.Cosmology.bbn_species_standard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L462-L463)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BBNNuclearNetwork.lean#L462-L463)
 **theorem
 Tau.BookV.Cosmology.bbn_species_standard :complete_bbn_table.n_species = 4**
 

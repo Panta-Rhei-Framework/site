@@ -62,7 +62,7 @@ depth indexing, and the irreversible arrow of time from the tower's directedness
 
 ### `Tau.BookIV.Arena.TowerLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L36-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L36-L43)
 **structure
 Tau.BookIV.Arena.TowerLevel :Type**
 
@@ -82,7 +82,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprTowerLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L43-L43)
 **instance
 Tau.BookIV.Arena.instReprTowerLevel :Repr TowerLevel**
 
@@ -93,7 +93,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instReprTowerLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L43-L43)
 **def
 Tau.BookIV.Arena.instReprTowerLevel.repr :TowerLevel → ℕ → Std.Format**
 
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.RefinementTower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L45-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L45-L51)
 **structure
 Tau.BookIV.Arena.RefinementTower :Type**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.canonical_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L53-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L53-L57)
 **def
 Tau.BookIV.Arena.canonical_tower :RefinementTower**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.ProfiniteLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L63-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L63-L72)
 **structure
 Tau.BookIV.Arena.ProfiniteLimit :Type**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.alpha_profinite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L74-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L74-L78)
 **def
 Tau.BookIV.Arena.alpha_profinite :ProfiniteLimit**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.subsystem_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L84-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L84-L87)
 **theorem
 Tau.BookIV.Arena.subsystem_horizon
 (B : ℕ)
@@ -195,7 +195,7 @@ Formalized as: for any finite bound B, there exist levels beyond B.
 
 ### `Tau.BookIV.Arena.ProtoTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L93-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L93-L101)
 **structure
 Tau.BookIV.Arena.ProtoTime :Type**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprProtoTime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
 **def
 Tau.BookIV.Arena.instReprProtoTime.repr :ProtoTime → ℕ → Std.Format**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instReprProtoTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
 **instance
 Tau.BookIV.Arena.instReprProtoTime :Repr ProtoTime**
 
@@ -239,7 +239,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instDecidableEqProtoTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
 **instance
 Tau.BookIV.Arena.instDecidableEqProtoTime :DecidableEq ProtoTime**
 
@@ -250,7 +250,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instDecidableEqProtoTime.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L101-L101)
 **def
 Tau.BookIV.Arena.instDecidableEqProtoTime.decEq
 (x✝ x✝¹ : ProtoTime)
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.instLTProtoTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L103-L105)
 **instance
 Tau.BookIV.Arena.instLTProtoTime :LT ProtoTime**
 
@@ -277,7 +277,7 @@ Equations
 
 ### `Tau.BookIV.Arena.instDecidableRelProtoTimeLt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L107-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L107-L108)
 **instance
 Tau.BookIV.Arena.instDecidableRelProtoTimeLt :DecidableRel fun (x1 x2 : ProtoTime) => x1 < x2**
 
@@ -288,7 +288,7 @@ Equations
 
 ### `Tau.BookIV.Arena.prototime_to_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L114-L116)
 **def
 Tau.BookIV.Arena.prototime_to_nat
 (t : ProtoTime)
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookIV.Arena.nno_from_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L118-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L118-L120)
 **theorem
 Tau.BookIV.Arena.nno_from_alpha
 (n : ℕ)
@@ -318,7 +318,7 @@ The map is surjective onto ℕ.
 
 ### `Tau.BookIV.Arena.structural_arrow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L126-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L126-L130)
 **theorem
 Tau.BookIV.Arena.structural_arrow
 (t1 t2 : ProtoTime)
@@ -335,7 +335,7 @@ irreversible arrow: once at depth n, you cannot "un-refine" to n-1.
 
 ### `Tau.BookIV.Arena.arrow_transitive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L132-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L132-L135)
 **theorem
 Tau.BookIV.Arena.arrow_transitive
 (t1 t2 t3 : ProtoTime)
@@ -352,7 +352,7 @@ Transitivity of the arrow.
 
 ### `Tau.BookIV.Arena.arrow_irreflexive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Arena/RefinementTower.lean#L137-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Arena/RefinementTower.lean#L137-L138)
 **theorem
 Tau.BookIV.Arena.arrow_irreflexive
 (t : ProtoTime)

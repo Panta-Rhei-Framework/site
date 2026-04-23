@@ -110,7 +110,7 @@ For initial defect count N:
 
 ### `Tau.BookV.Thermodynamics.FiniteInitialDefectCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L63-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L63-L78)
 **structure
 Tau.BookV.Thermodynamics.FiniteInitialDefectCount :Type**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprFiniteInitialDefectCount.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L78-L78)
 **def
 Tau.BookV.Thermodynamics.instReprFiniteInitialDefectCount.repr :FiniteInitialDefectCount → ℕ → Std.Format**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprFiniteInitialDefectCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L78-L78)
 **instance
 Tau.BookV.Thermodynamics.instReprFiniteInitialDefectCount :Repr FiniteInitialDefectCount**
 
@@ -162,7 +162,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.GlobalDefectBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L84-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L84-L101)
 **structure
 Tau.BookV.Thermodynamics.GlobalDefectBudget :Type**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGlobalDefectBudget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L101-L101)
 **def
 Tau.BookV.Thermodynamics.instReprGlobalDefectBudget.repr :GlobalDefectBudget → ℕ → Std.Format**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGlobalDefectBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L101-L101)
 **instance
 Tau.BookV.Thermodynamics.instReprGlobalDefectBudget :Repr GlobalDefectBudget**
 
@@ -217,7 +217,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.GlobalDefectBudget.boundFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L103-L105)
 **def
 Tau.BookV.Thermodynamics.GlobalDefectBudget.boundFloat
 (b : GlobalDefectBudget)
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.finite_defect_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L111-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L111-L120)
 **theorem
 Tau.BookV.Thermodynamics.finite_defect_budget :Boundary.iota_tau_numer > 0**
 
@@ -251,7 +251,7 @@ Key numerical check: iota_tau > 0, so the bound is finite.
 
 ### `Tau.BookV.Thermodynamics.IntegerThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L126-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L126-L140)
 **structure
 Tau.BookV.Thermodynamics.IntegerThreshold :Type**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprIntegerThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L140-L140)
 **instance
 Tau.BookV.Thermodynamics.instReprIntegerThreshold :Repr IntegerThreshold**
 
@@ -290,7 +290,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprIntegerThreshold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L140-L140)
 **def
 Tau.BookV.Thermodynamics.instReprIntegerThreshold.repr :IntegerThreshold → ℕ → Std.Format**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.threshold_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L142-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L142-L148)
 **def
 Tau.BookV.Thermodynamics.threshold_example :IntegerThreshold**
 
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.GlobalDefectExhaustionThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L154-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L154-L169)
 **structure
 Tau.BookV.Thermodynamics.GlobalDefectExhaustionThm :Type**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprGlobalDefectExhaustionThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L169-L169)
 **instance
 Tau.BookV.Thermodynamics.instReprGlobalDefectExhaustionThm :Repr GlobalDefectExhaustionThm**
 
@@ -359,7 +359,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprGlobalDefectExhaustionThm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L169-L169)
 **def
 Tau.BookV.Thermodynamics.instReprGlobalDefectExhaustionThm.repr :GlobalDefectExhaustionThm → ℕ → Std.Format**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.RefinedCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L175-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L175-L193)
 **structure
 Tau.BookV.Thermodynamics.RefinedCoherenceHorizon :Type**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprRefinedCoherenceHorizon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L193-L193)
 **def
 Tau.BookV.Thermodynamics.instReprRefinedCoherenceHorizon.repr :RefinedCoherenceHorizon → ℕ → Std.Format**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprRefinedCoherenceHorizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L193-L193)
 **instance
 Tau.BookV.Thermodynamics.instReprRefinedCoherenceHorizon :Repr RefinedCoherenceHorizon**
 
@@ -428,7 +428,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.MasterExhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L199-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L199-L218)
 **structure
 Tau.BookV.Thermodynamics.MasterExhaustion :Type**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprMasterExhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L218-L218)
 **instance
 Tau.BookV.Thermodynamics.instReprMasterExhaustion :Repr MasterExhaustion**
 
@@ -475,7 +475,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprMasterExhaustion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L218-L218)
 **def
 Tau.BookV.Thermodynamics.instReprMasterExhaustion.repr :MasterExhaustion → ℕ → Std.Format**
 
@@ -487,7 +487,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.master_exhaustion_controlled_by_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L220-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L220-L222)
 **theorem
 Tau.BookV.Thermodynamics.master_exhaustion_controlled_by_iota :Boundary.iota_tau_numer = 341304**
 
@@ -498,7 +498,7 @@ The master constant controlling all three bounds.
 
 ### `Tau.BookV.Thermodynamics.DefectHalfLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L228-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L228-L244)
 **structure
 Tau.BookV.Thermodynamics.DefectHalfLife :Type**
 
@@ -529,7 +529,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectHalfLife.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L244-L244)
 **def
 Tau.BookV.Thermodynamics.instReprDefectHalfLife.repr :DefectHalfLife → ℕ → Std.Format**
 
@@ -541,7 +541,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprDefectHalfLife`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L244-L244)
 **instance
 Tau.BookV.Thermodynamics.instReprDefectHalfLife :Repr DefectHalfLife**
 
@@ -552,7 +552,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.canonical_half_life`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L246-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L246-L250)
 **def
 Tau.BookV.Thermodynamics.canonical_half_life :DefectHalfLife**
 
@@ -566,7 +566,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.DefectHalfLife.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L252-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L252-L254)
 **def
 Tau.BookV.Thermodynamics.DefectHalfLife.toFloat
 (h : DefectHalfLife)
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.finite_irreversibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L260-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L260-L267)
 **theorem
 Tau.BookV.Thermodynamics.finite_irreversibility :"B_def finite: all irreversible processes draw from bounded budget" = "B_def finite: all irreversible processes draw from bounded budget"**
 
@@ -597,7 +597,7 @@ occur. Friction, dissipation, radioactive decay all terminate.
 
 ### `Tau.BookV.Thermodynamics.VacuumCirculation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L273-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L273-L290)
 **structure
 Tau.BookV.Thermodynamics.VacuumCirculation :Type**
 
@@ -630,7 +630,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprVacuumCirculation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L290-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L290-L290)
 **instance
 Tau.BookV.Thermodynamics.instReprVacuumCirculation :Repr VacuumCirculation**
 
@@ -641,7 +641,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprVacuumCirculation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L290-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L290-L290)
 **def
 Tau.BookV.Thermodynamics.instReprVacuumCirculation.repr :VacuumCirculation → ℕ → Std.Format**
 
@@ -653,7 +653,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.no_poincare_conflict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L296-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L296-L302)
 **theorem
 Tau.BookV.Thermodynamics.no_poincare_conflict :"Poincare recurrence only in post-horizon regime where S_def = 0" = "Poincare recurrence only in post-horizon regime where S_def = 0"**
 
@@ -667,7 +667,7 @@ breaks time-reversal symmetry, preventing recurrence.
 
 ### `Tau.BookV.Thermodynamics.arrow_has_endpoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L308-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L308-L317)
 **theorem
 Tau.BookV.Thermodynamics.arrow_has_endpoint :"Arrow lasts n_coh steps; time continues beyond, arrow does not" = "Arrow lasts n_coh steps; time continues beyond, arrow does not"**
 
@@ -684,7 +684,7 @@ the arrow does not (irreversibility is finite).
 
 ### `Tau.BookV.Thermodynamics.contrast_with_qft`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L326-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L326-L328)
 **theorem
 Tau.BookV.Thermodynamics.contrast_with_qft :"QFT: infinite modes -> divergence; tau: finite modes -> no divergence" = "QFT: infinite modes -> divergence; tau: finite modes -> no divergence"**
 
@@ -693,7 +693,7 @@ Tau.BookV.Thermodynamics.contrast_with_qft :"QFT: infinite modes -> divergence; 
 
 ### `Tau.BookV.Thermodynamics.OrbitStepsNotYears`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L331-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L331-L336)
 **structure
 Tau.BookV.Thermodynamics.OrbitStepsNotYears :Type**
 
@@ -710,7 +710,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.instReprOrbitStepsNotYears`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L336-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L336-L336)
 **instance
 Tau.BookV.Thermodynamics.instReprOrbitStepsNotYears :Repr OrbitStepsNotYears**
 
@@ -721,7 +721,7 @@ Equations
 
 ### `Tau.BookV.Thermodynamics.instReprOrbitStepsNotYears.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L336-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L336-L336)
 **def
 Tau.BookV.Thermodynamics.instReprOrbitStepsNotYears.repr :OrbitStepsNotYears → ℕ → Std.Format**
 
@@ -733,7 +733,7 @@ Instances For
 
 ### `Tau.BookV.Thermodynamics.universal_half_life`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L343-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L343-L344)
 **theorem
 Tau.BookV.Thermodynamics.universal_half_life :canonical_half_life.is_universal = true**
 
@@ -742,7 +742,7 @@ Tau.BookV.Thermodynamics.universal_half_life :canonical_half_life.is_universal =
 
 ### `Tau.BookV.Thermodynamics.example_budget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L357-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Thermodynamics/DefectExhaustion.lean#L357-L363)
 **def
 Tau.BookV.Thermodynamics.example_budget :GlobalDefectBudget**
 

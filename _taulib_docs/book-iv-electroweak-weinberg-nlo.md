@@ -72,7 +72,7 @@ expected perturbation channel for electroweak mixing corrections.
 
 ### `Tau.BookIV.Electroweak.WeinbergNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L46-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L46-L56)
 **structure
 Tau.BookIV.Electroweak.WeinbergNLO :Type**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weinbergNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L58-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L58-L60)
 **def
 Tau.BookIV.Electroweak.weinbergNLO :WeinbergNLO**
 
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nlo_from_windows`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L66-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L66-L73)
 **theorem
 Tau.BookIV.Electroweak.nlo_from_windows :weinbergNLO.nlo_num = 5 ∧ weinbergNLO.nlo_den = 7 ∧ weinbergNLO.nlo_num + weinbergNLO.nlo_den = 12**
 
@@ -126,7 +126,7 @@ width-3 windows on the CF head of ι<sub>τ</sub>.
 
 ### `Tau.BookIV.Electroweak.exponent_width_coincidence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L79-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L79-L88)
 **theorem
 Tau.BookIV.Electroweak.exponent_width_coincidence :weinbergNLO.nlo_exp = 3 ∧ Kernel.solenoidalGenerators.length = 3**
 
@@ -147,7 +147,7 @@ All four are the same number.
 
 ### `Tau.BookIV.Electroweak.mw_ratio_values`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L94-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L94-L98)
 **theorem
 Tau.BookIV.Electroweak.mw_ratio_values :CF.windowSum CF.cf_head 3 3 = 17 ∧ CF.windowSum CF.cf_head 3 4 = 5**
 
@@ -159,7 +159,7 @@ The ratio W₃(3)/W₃(4) = 17/5 = 3.4, giving M_W/m_n = (17/5)·ι⁻³.
 
 ### `Tau.BookIV.Electroweak.window_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L100-L102)
 **theorem
 Tau.BookIV.Electroweak.window_gap :CF.windowSum CF.cf_head 3 3 - CF.windowSum CF.cf_head 3 4 = 12**
 
@@ -170,7 +170,7 @@ Cross-check: 17 = 5 + 12, and 12 = 2·5 + 2, connecting the two windows.
 
 ### `Tau.BookIV.Electroweak.remark_scale_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L108-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L108-L112)
 **def
 Tau.BookIV.Electroweak.remark_scale_consistency :String**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.FermiFormIngredients`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L118-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L118-L138)
 **structure
 Tau.BookIV.Electroweak.FermiFormIngredients :Type**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.fermiForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L140-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L140-L147)
 **def
 Tau.BookIV.Electroweak.fermiForm :FermiFormIngredients**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.fermi_form_w_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L149-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L149-L159)
 **theorem
 Tau.BookIV.Electroweak.fermi_form_w_independent :fermiForm.g_fermi ≠ "w" ∧ fermiForm.m_neutron ≠ "w" ∧ fermiForm.v_ud ≠ "w" ∧ fermiForm.g_axial ≠ "w" ∧ fermiForm.phase_space ≠ "w" ∧ fermiForm.delta_r ≠ "w"**
 
@@ -251,7 +251,7 @@ G_F is measured directly from muon decay.
 
 ### `Tau.BookIV.Electroweak.mode_interpretation_17`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L165-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L165-L168)
 **theorem
 Tau.BookIV.Electroweak.mode_interpretation_17 :15 + 2 = 17**
 
@@ -264,7 +264,7 @@ Equivalently: 17 = "EW-augmented total" on A_spec(L).
 
 ### `Tau.BookIV.Electroweak.mode_interpretation_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L170-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L170-L172)
 **theorem
 Tau.BookIV.Electroweak.mode_interpretation_5 :3 + 2 = 5**
 
@@ -276,7 +276,7 @@ Tau.BookIV.Electroweak.mode_interpretation_5 :3 + 2 = 5**
 
 ### `Tau.BookIV.Electroweak.mode_interpretation_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L174-L176)
 **theorem
 Tau.BookIV.Electroweak.mode_interpretation_7 :15 - 5 - 3 = 7**
 
@@ -288,7 +288,7 @@ Mode interpretation of 7: n_total - n_B - n_A - n_C = 15 - 5 - 3 = 7.
 
 ### `Tau.BookIV.Electroweak.mode_cf_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L178-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L178-L183)
 **theorem
 Tau.BookIV.Electroweak.mode_cf_consistency :CF.windowSum CF.cf_head 3 3 = 15 + 2 ∧ CF.windowSum CF.cf_head 3 4 = 3 + 2**
 
@@ -300,7 +300,7 @@ W₃(3) = 17, W₃(4) = 5, W₃(3) − 2·W₃(4) = 7.
 
 ### `Tau.BookIV.Electroweak.remark_oq_a3_resolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L189-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L189-L197)
 **def
 Tau.BookIV.Electroweak.remark_oq_a3_resolved :String**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_oq_b2_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L199-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L199-L206)
 **def
 Tau.BookIV.Electroweak.remark_oq_b2_status :String**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nlo_from_ew_projection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L208-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L208-L214)
 **theorem
 Tau.BookIV.Electroweak.nlo_from_ew_projection :weinbergNLO.nlo_num = EWProjection.ewActiveModes.length ∧ weinbergNLO.nlo_den = EWProjection.ewComplement.length**
 
@@ -358,7 +358,7 @@ This connects WeinbergNLO to EWProjection structurally.
 
 ### `Tau.BookIV.Electroweak.weinberg_nnlo_coeffs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L220-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L220-L224)
 **def
 Tau.BookIV.Electroweak.weinberg_nnlo_coeffs :ℕ × ℕ × ℕ × ℕ**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nnlo_nlo_num_is_w3_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L226-L228)
 **theorem
 Tau.BookIV.Electroweak.nnlo_nlo_num_is_w3_4 :weinberg_nnlo_coeffs.1 = CF.windowSum CF.cf_head 3 4**
 
@@ -385,7 +385,7 @@ The NLO numerator 5 equals W₃(4).
 
 ### `Tau.BookIV.Electroweak.nnlo_nnlo_den_is_w4_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L230-L232)
 **theorem
 Tau.BookIV.Electroweak.nnlo_nnlo_den_is_w4_3 :weinberg_nnlo_coeffs.2.2.2 = CF.windowSum CF.cf_head 4 3**
 
@@ -396,7 +396,7 @@ The NNLO denominator 18 equals W₄(3).
 
 ### `Tau.BookIV.Electroweak.nnlo_window_extends_nlo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L234-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L234-L238)
 **theorem
 Tau.BookIV.Electroweak.nnlo_window_extends_nlo :CF.windowSum CF.cf_head 4 3 = CF.windowSum CF.cf_head 3 3 + CF.cf_head.getD 6 0**
 
@@ -408,7 +408,7 @@ W₄(3) = W₃(3) + a₆ = 17 + 1 = 18.
 
 ### `Tau.BookIV.Electroweak.mw_nlo_coefficient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L244-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L244-L248)
 **theorem
 Tau.BookIV.Electroweak.mw_nlo_coefficient :CF.windowSum CF.cf_head 3 4 = 5 ∧ CF.windowSum CF.cf_head 3 3 = 17**
 
@@ -419,7 +419,7 @@ Tau.BookIV.Electroweak.mw_nlo_coefficient :CF.windowSum CF.cf_head 3 4 = 5 ∧ C
 
 ### `Tau.BookIV.Electroweak.mw_nlo_numerator_equals_sin2w_nlo_numerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L250-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L250-L253)
 **theorem
 Tau.BookIV.Electroweak.mw_nlo_numerator_equals_sin2w_nlo_numerator :CF.windowSum CF.cf_head 3 4 = weinbergNLO.nlo_num**
 
@@ -430,7 +430,7 @@ The M_W NLO numerator 5=W₃(4) equals the sin²θ_W NLO numerator.
 
 ### `Tau.BookIV.Electroweak.alpha_s_nlo_denominator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L259-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L259-L263)
 **theorem
 Tau.BookIV.Electroweak.alpha_s_nlo_denominator :CF.windowSum CF.cf_head 3 4 = 5**
 
@@ -443,7 +443,7 @@ The SAME W₃(4) = 5 appears as denominator here (with negative sign).
 
 ### `Tau.BookIV.Electroweak.window_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L269-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L269-L277)
 **theorem
 Tau.BookIV.Electroweak.window_universality :CF.windowSum CF.cf_head 3 4 = 5 ∧ weinbergNLO.nlo_num = 5**
 
@@ -463,7 +463,7 @@ All three share the modulus W₃(4) = a₄+a₅+a₆ = 3+1+1 = 5.
 
 ### `Tau.BookIV.Electroweak.remark_nnlo_precision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L279-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L279-L284)
 **def
 Tau.BookIV.Electroweak.remark_nnlo_precision :String**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nnlo_window_strictly_larger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L286-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L286-L289)
 **theorem
 Tau.BookIV.Electroweak.nnlo_window_strictly_larger :CF.windowSum CF.cf_head 4 3 > CF.windowSum CF.cf_head 3 3**
 
@@ -491,7 +491,7 @@ extending by one CF digit a₆=1 grows the window by 1.
 
 ### `Tau.BookIV.Electroweak.consecutive_window_integers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L291-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/WeinbergNLO.lean#L291-L296)
 **theorem
 Tau.BookIV.Electroweak.consecutive_window_integers :CF.windowSum CF.cf_head 3 3 = 17 ∧ CF.windowSum CF.cf_head 4 3 = 18 ∧ CF.windowSum CF.cf_head 5 3 = 19**
 

@@ -44,7 +44,7 @@ The full universe Obj(τ) is countable: we construct an injection TauObj → Nat
 
 ### `Tau.Orbit.orbitEnumerate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L26-L28)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L26-L28)
 **def
 Tau.Orbit.orbitEnumerate
 (g : Kernel.Generator)
@@ -64,7 +64,7 @@ Instances For
 
 ### `Tau.Orbit.orbit_enumerate_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L30-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L30-L35)
 **theorem
 Tau.Orbit.orbit_enumerate_injective
 (g : Kernel.Generator)
@@ -83,7 +83,7 @@ Tau.Orbit.orbit_enumerate_injective
 
 ### `Tau.Orbit.orbit_enumerate_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L37-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L37-L43)
 **theorem
 Tau.Orbit.orbit_enumerate_surjective
 (g : Kernel.Generator)
@@ -102,7 +102,7 @@ Tau.Orbit.orbit_enumerate_surjective
 
 ### `Tau.Orbit.orbit_enumerate_in_ray`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L45-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L45-L48)
 **theorem
 Tau.Orbit.orbit_enumerate_in_ray
 (g : Kernel.Generator)
@@ -119,7 +119,7 @@ Orbit enumeration produces elements in the orbit ray.
 
 ### `Tau.Orbit.tauObj_encode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L54-L57)
 **def
 Tau.Orbit.tauObj_encode
 (x : Kernel.TauObj)
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.Orbit.tauObj_encode_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L59-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L59-L70)
 **theorem
 Tau.Orbit.tauObj_encode_injective
 (x y : Kernel.TauObj)
@@ -151,7 +151,7 @@ The encoding is injective: distinct TauObjs yield distinct codes.
 
 ### `Tau.Orbit.tauObj_countable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Countability.lean#L72-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Countability.lean#L72-L74)
 **theorem
 Tau.Orbit.tauObj_countable :∃ (f : Kernel.TauObj → Nat), Function.Injective f**
 

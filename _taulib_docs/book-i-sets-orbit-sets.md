@@ -84,7 +84,7 @@ All orbit indices are meaningful only for n ≥ 1 (ℕ⁺).
 
 ### `Tau.Sets.orbit_set_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L52-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L52-L58)
 **def
 Tau.Sets.orbit_set_alpha
 (n k : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.Sets.orbit_set_alpha_iff_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L60-L63)@[simp]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L60-L63)@[simp]
 
 **theorem
 Tau.Sets.orbit_set_alpha_iff_dvd
@@ -119,7 +119,7 @@ Simp lemma: orbit_set_alpha unfolds to Nat divisibility for proofs.
 
 ### `Tau.Sets.instDecidableOrbitSetAlpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L65-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L65-L66)
 **noncomputable instance
 Tau.Sets.instDecidableOrbitSetAlpha
 (n k : Denotation.TauIdx)
@@ -132,7 +132,7 @@ Equations
 
 ### `Tau.Sets.orbit_set_alpha_eq_tau_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L72-L78)
 **theorem
 Tau.Sets.orbit_set_alpha_eq_tau_mem
 (n k : Denotation.TauIdx)
@@ -148,7 +148,7 @@ five-orbit representation theory of Chapter 83 are one theory.
 
 ### `Tau.Sets.orbit_set_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L84-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L84-L88)
 **def
 Tau.Sets.orbit_set_pi
 (n k : Denotation.TauIdx)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.Sets.instDecidableOrbitSetPi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L90-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L90-L91)
 **noncomputable instance
 Tau.Sets.instDecidableOrbitSetPi
 (n k : Denotation.TauIdx)
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.Sets.orbit_set_gamma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L97-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L97-L101)
 **def
 Tau.Sets.orbit_set_gamma
 (n k : Denotation.TauIdx)
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.Sets.instDecidableOrbitSetGamma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L103-L104)
 **noncomputable instance
 Tau.Sets.instDecidableOrbitSetGamma
 (n k : Denotation.TauIdx)
@@ -210,7 +210,7 @@ Equations
 
 ### `Tau.Sets.orbit_set_eta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L110-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L110-L114)
 **def
 Tau.Sets.orbit_set_eta
 (n k : Denotation.TauIdx)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.Sets.instDecidableOrbitSetEta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L116-L117)
 **noncomputable instance
 Tau.Sets.instDecidableOrbitSetEta
 (n k : Denotation.TauIdx)
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.Sets.orbit_set_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L123-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L123-L131)
 **def
 Tau.Sets.orbit_set_omega
 (x : Kernel.TauObj)
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.Sets.instDecidableOrbitSetOmega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L133-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L133-L135)
 **instance
 Tau.Sets.instDecidableOrbitSetOmega
 (x : Kernel.TauObj)
@@ -276,7 +276,7 @@ Equations
 
 ### `Tau.Sets.self_containment_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L141-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L141-L144)
 **theorem
 Tau.Sets.self_containment_alpha
 (n : Denotation.TauIdx)
@@ -290,7 +290,7 @@ This is tau_mem_refl restated in orbit-set language.
 
 ### `Tau.Sets.self_containment_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L146-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L146-L149)
 **theorem
 Tau.Sets.self_containment_omega :orbit_set_omega { seed := Kernel.Generator.omega, depth := 0 }**
 
@@ -302,7 +302,7 @@ Proof: seed = omega and depth = 0.
 
 ### `Tau.Sets.not_self_containment_pi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L155-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L155-L164)
 **theorem
 Tau.Sets.not_self_containment_pi
 (n : Denotation.TauIdx)
@@ -321,7 +321,7 @@ type-level compartments.
 
 ### `Tau.Sets.orbit_set_order_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L170-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L170-L174)
 **theorem
 Tau.Sets.orbit_set_order_bound
 (n k : Denotation.TauIdx)
@@ -339,7 +339,7 @@ This is tau_mem_le restated in orbit-set language.
 
 ### `Tau.Sets.prime_atom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L180-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L180-L191)
 **theorem
 Tau.Sets.prime_atom
 (p : Denotation.TauIdx)
@@ -358,7 +358,7 @@ The only divisors of a prime are 1 and itself.
 
 ### `Tau.Sets.orbit_set_alpha_has_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L197-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L197-L200)
 **theorem
 Tau.Sets.orbit_set_alpha_has_one
 (n : Denotation.TauIdx)
@@ -372,7 +372,7 @@ This is tau_mem_one restated in orbit-set language.
 
 ### `Tau.Sets.orbit_set_alpha_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L206-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L206-L211)
 **theorem
 Tau.Sets.orbit_set_alpha_bounded
 (n : Denotation.TauIdx)
@@ -387,7 +387,7 @@ For nonzero n, n+1 is NOT in Set(α_n) (bounded by n).
 
 ### `Tau.Sets.alpha_orbit_set_not_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L213-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L213-L216)
 **theorem
 Tau.Sets.alpha_orbit_set_not_all
 (n : Denotation.TauIdx)
@@ -402,7 +402,7 @@ For nonzero n, no single Set(α_n) captures all natural numbers.
 
 ### `Tau.Sets.omega_orbit_set_exceeds_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L218-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L218-L222)
 **theorem
 Tau.Sets.omega_orbit_set_exceeds_alpha :orbit_set_omega { seed := Kernel.Generator.omega, depth := 0 } ∧ { seed := Kernel.Generator.omega, depth := 0 }.seed ≠ Kernel.Generator.alpha**
 
@@ -414,7 +414,7 @@ in the α-orbit. This is the TauObj-level witness that Set(ω) ≠ O_α.
 
 ### `Tau.Sets.nat_not_internal_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L224-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L224-L232)
 **theorem
 Tau.Sets.nat_not_internal_set :(∀ (n : Denotation.TauIdx), n ≠ 0 → ∃ (m : Denotation.TauIdx), ¬orbit_set_alpha n m) ∧ orbit_set_omega { seed := Kernel.Generator.omega, depth := 0 } ∧ { seed := Kernel.Generator.omega, depth := 0 }.seed ≠ Kernel.Generator.alpha**
 
@@ -429,7 +429,7 @@ a valid τ-internal set. The closest is Set(ω) = O_α ∪ {ω}.
 
 ### `Tau.Sets.gamma_eta_intersection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L238-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L238-L241)
 **theorem
 Tau.Sets.gamma_eta_intersection
 (n m : Denotation.TauIdx)
@@ -442,7 +442,7 @@ Tau.Sets.gamma_eta_intersection
 
 ### `Tau.Sets.orbit_set_pi_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L247-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L247-L252)
 **theorem
 Tau.Sets.orbit_set_pi_monotone
 (n k : Denotation.TauIdx)
@@ -457,7 +457,7 @@ Set(π_n) ⊆ Set(π_{n+1}): the π orbit-set grows monotonically.
 
 ### `Tau.Sets.orbit_set_gamma_has_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/OrbitSets.lean#L258-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/OrbitSets.lean#L258-L260)
 **theorem
 Tau.Sets.orbit_set_gamma_has_one
 (n : Denotation.TauIdx)

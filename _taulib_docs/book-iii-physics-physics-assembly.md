@@ -58,7 +58,7 @@ satisfied at each primorial level, confirming E₁ completeness.
 
 ### `Tau.BookIII.Physics.ns_component_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L38-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L38-L43)
 **def
 Tau.BookIII.Physics.ns_component_check
 (bound db : Denotation.TauIdx)
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.ym_component_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L45-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L45-L49)
 **def
 Tau.BookIII.Physics.ym_component_check
 (db : Denotation.TauIdx)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.hodge_component_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L51-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L51-L56)
 **def
 Tau.BookIII.Physics.hodge_component_check
 (bound db : Denotation.TauIdx)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.physics_assembly_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L58-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L58-L63)
 **def
 Tau.BookIII.Physics.physics_assembly_check
 (bound db : Denotation.TauIdx)
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.e1_completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L65-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L65-L83)
 **def
 Tau.BookIII.Physics.e1_completeness_check
 (db : Denotation.TauIdx)
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.e1_completeness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L71-L82)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L71-L82)@[irreducible]
 
 **def
 Tau.BookIII.Physics.e1_completeness_check.go
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.physics_is_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L85-L89)
 **def
 Tau.BookIII.Physics.physics_is_e1 :Bool**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.physics_in_part5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L91-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L91-L95)
 **def
 Tau.BookIII.Physics.physics_in_part5 :Bool**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookIII.Physics.ns_component_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L113-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L113-L114)
 **theorem
 Tau.BookIII.Physics.ns_component_15_4 :ns_component_check 15 4 = true**
 
@@ -197,7 +197,7 @@ Tau.BookIII.Physics.ns_component_15_4 :ns_component_check 15 4 = true**
 
 ### `Tau.BookIII.Physics.ym_component_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L116-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L116-L117)
 **theorem
 Tau.BookIII.Physics.ym_component_5 :ym_component_check 5 = true**
 
@@ -206,7 +206,7 @@ Tau.BookIII.Physics.ym_component_5 :ym_component_check 5 = true**
 
 ### `Tau.BookIII.Physics.hodge_component_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L119-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L119-L120)
 **theorem
 Tau.BookIII.Physics.hodge_component_15_3 :hodge_component_check 15 3 = true**
 
@@ -215,7 +215,7 @@ Tau.BookIII.Physics.hodge_component_15_3 :hodge_component_check 15 3 = true**
 
 ### `Tau.BookIII.Physics.physics_assembly_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L122-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L122-L123)
 **theorem
 Tau.BookIII.Physics.physics_assembly_15_3 :physics_assembly_check 15 3 = true**
 
@@ -224,7 +224,7 @@ Tau.BookIII.Physics.physics_assembly_15_3 :physics_assembly_check 15 3 = true**
 
 ### `Tau.BookIII.Physics.e1_completeness_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L125-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L125-L126)
 **theorem
 Tau.BookIII.Physics.e1_completeness_5 :e1_completeness_check 5 = true**
 
@@ -233,7 +233,7 @@ Tau.BookIII.Physics.e1_completeness_5 :e1_completeness_check 5 = true**
 
 ### `Tau.BookIII.Physics.physics_is_e1_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L128-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L128-L129)
 **theorem
 Tau.BookIII.Physics.physics_is_e1_thm :physics_is_e1 = true**
 
@@ -242,7 +242,7 @@ Tau.BookIII.Physics.physics_is_e1_thm :physics_is_e1 = true**
 
 ### `Tau.BookIII.Physics.physics_in_part5_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L131-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L131-L132)
 **theorem
 Tau.BookIII.Physics.physics_in_part5_thm :physics_in_part5 = true**
 
@@ -251,7 +251,7 @@ Tau.BookIII.Physics.physics_in_part5_thm :physics_in_part5 = true**
 
 ### `Tau.BookIII.Physics.ns_at_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L138-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L138-L139)
 **theorem
 Tau.BookIII.Physics.ns_at_e1 :Doors.problem_level Doors.MillenniumProblem.NS = Enrichment.EnrLevel.E1**
 
@@ -262,7 +262,7 @@ Tau.BookIII.Physics.ns_at_e1 :Doors.problem_level Doors.MillenniumProblem.NS = E
 
 ### `Tau.BookIII.Physics.ym_at_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L141-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L141-L142)
 **theorem
 Tau.BookIII.Physics.ym_at_e1 :Doors.problem_level Doors.MillenniumProblem.YM = Enrichment.EnrLevel.E1**
 
@@ -273,7 +273,7 @@ Tau.BookIII.Physics.ym_at_e1 :Doors.problem_level Doors.MillenniumProblem.YM = E
 
 ### `Tau.BookIII.Physics.hodge_at_e1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L144-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L144-L145)
 **theorem
 Tau.BookIII.Physics.hodge_at_e1 :Doors.problem_level Doors.MillenniumProblem.Hodge = Enrichment.EnrLevel.E1**
 
@@ -284,7 +284,7 @@ Tau.BookIII.Physics.hodge_at_e1 :Doors.problem_level Doors.MillenniumProblem.Hod
 
 ### `Tau.BookIII.Physics.ns_part5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L147-L148)
 **theorem
 Tau.BookIII.Physics.ns_part5 :Doors.problem_part Doors.MillenniumProblem.NS = 5**
 
@@ -295,7 +295,7 @@ Tau.BookIII.Physics.ns_part5 :Doors.problem_part Doors.MillenniumProblem.NS = 5*
 
 ### `Tau.BookIII.Physics.ym_part5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L149-L149)
 **theorem
 Tau.BookIII.Physics.ym_part5 :Doors.problem_part Doors.MillenniumProblem.YM = 5**
 
@@ -304,7 +304,7 @@ Tau.BookIII.Physics.ym_part5 :Doors.problem_part Doors.MillenniumProblem.YM = 5*
 
 ### `Tau.BookIII.Physics.hodge_part5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L150-L150)
 **theorem
 Tau.BookIII.Physics.hodge_part5 :Doors.problem_part Doors.MillenniumProblem.Hodge = 5**
 
@@ -313,7 +313,7 @@ Tau.BookIII.Physics.hodge_part5 :Doors.problem_part Doors.MillenniumProblem.Hodg
 
 ### `Tau.BookIII.Physics.three_e1_problems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Physics/PhysicsAssembly.lean#L152-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Physics/PhysicsAssembly.lean#L152-L155)
 **theorem
 Tau.BookIII.Physics.three_e1_problems :[Doors.problem_level Doors.MillenniumProblem.NS, Doors.problem_level Doors.MillenniumProblem.YM, Doors.problem_level Doors.MillenniumProblem.Hodge] = [Enrichment.EnrLevel.E1, Enrichment.EnrLevel.E1, Enrichment.EnrLevel.E1]**
 

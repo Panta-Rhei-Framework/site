@@ -83,7 +83,7 @@ deepest structural results in Book VII's foundational layer.
 
 ### `Tau.BookVII.Meta.Saturation.LayerWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L46-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L46-L52)
 **structure
 Tau.BookVII.Meta.Saturation.LayerWitness :Type**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprLayerWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L52-L52)
 **instance
 Tau.BookVII.Meta.Saturation.instReprLayerWitness :Repr LayerWitness**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprLayerWitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L52-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L52-L52)
 **def
 Tau.BookVII.Meta.Saturation.instReprLayerWitness.repr :LayerWitness → ℕ → Std.Format**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.layer_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L54-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L54-L63)
 **def
 Tau.BookVII.Meta.Saturation.layer_witnesses :List LayerWitness**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.non_emptiness_at_each_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L65-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L65-L68)
 **theorem
 Tau.BookVII.Meta.Saturation.non_emptiness_at_each_layer :layer_witnesses.length = 4 ∧ ((List.map (fun (x : LayerWitness) => x.inhabited) layer_witnesses).all fun (x : Bool) => x == true) = true**
 
@@ -157,7 +157,7 @@ Tau.BookVII.Meta.Saturation.non_emptiness_at_each_layer :layer_witnesses.length 
 
 ### `Tau.BookVII.Meta.Saturation.SeparationWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L74-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L74-L80)
 **structure
 Tau.BookVII.Meta.Saturation.SeparationWitness :Type**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSeparationWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L80-L80)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSeparationWitness :Repr SeparationWitness**
 
@@ -185,7 +185,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprSeparationWitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L80-L80)
 **def
 Tau.BookVII.Meta.Saturation.instReprSeparationWitness.repr :SeparationWitness → ℕ → Std.Format**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.separation_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L82-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L82-L90)
 **def
 Tau.BookVII.Meta.Saturation.separation_witnesses :List SeparationWitness**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.strictness_between_layers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L92-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L92-L95)
 **theorem
 Tau.BookVII.Meta.Saturation.strictness_between_layers :separation_witnesses.length = 3 ∧ ((List.map (fun (x : SeparationWitness) => x.strict) separation_witnesses).all fun (x : Bool) => x == true) = true**
 
@@ -229,7 +229,7 @@ Tau.BookVII.Meta.Saturation.strictness_between_layers :separation_witnesses.leng
 
 ### `Tau.BookVII.Meta.Saturation.CanonicalLadder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L101-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L101-L120)
 **structure
 Tau.BookVII.Meta.Saturation.CanonicalLadder :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprCanonicalLadder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L120-L120)
 **def
 Tau.BookVII.Meta.Saturation.instReprCanonicalLadder.repr :CanonicalLadder → ℕ → Std.Format**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprCanonicalLadder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L120-L120)
 **instance
 Tau.BookVII.Meta.Saturation.instReprCanonicalLadder :Repr CanonicalLadder**
 
@@ -291,7 +291,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.vii_canonical_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L122-L124)
 **def
 Tau.BookVII.Meta.Saturation.vii_canonical_ladder :CanonicalLadder**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.canonical_ladder_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L126-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L126-L132)
 **theorem
 Tau.BookVII.Meta.Saturation.canonical_ladder_theorem :vii_canonical_ladder.layer_count = 4 ∧ vii_canonical_ladder.non_empty = true ∧ vii_canonical_ladder.strict = true ∧ vii_canonical_ladder.saturating = true ∧ vii_canonical_ladder.canonical = true**
 
@@ -312,7 +312,7 @@ Tau.BookVII.Meta.Saturation.canonical_ladder_theorem :vii_canonical_ladder.layer
 
 ### `Tau.BookVII.Meta.Saturation.SevenBookPartition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L138-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L138-L156)
 **structure
 Tau.BookVII.Meta.Saturation.SevenBookPartition :Type**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSevenBookPartition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L156-L156)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSevenBookPartition :Repr SevenBookPartition**
 
@@ -352,7 +352,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprSevenBookPartition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L156-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L156-L156)
 **def
 Tau.BookVII.Meta.Saturation.instReprSevenBookPartition.repr :SevenBookPartition → ℕ → Std.Format**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.seven_book`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L158-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L158-L169)
 **def
 Tau.BookVII.Meta.Saturation.seven_book :SevenBookPartition**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.seven_book_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L171-L174)
 **theorem
 Tau.BookVII.Meta.Saturation.seven_book_partition :seven_book.total = 7 ∧ ⋯ = ⋯**
 
@@ -385,7 +385,7 @@ Tau.BookVII.Meta.Saturation.seven_book_partition :seven_book.total = 7 ∧ ⋯ =
 
 ### `Tau.BookVII.Meta.Saturation.Generator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L180-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L180-L187)
 **inductive
 Tau.BookVII.Meta.Saturation.Generator :Type**
 
@@ -403,7 +403,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
 **instance
 Tau.BookVII.Meta.Saturation.instReprGenerator :Repr Generator**
 
@@ -414,7 +414,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprGenerator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
 **def
 Tau.BookVII.Meta.Saturation.instReprGenerator.repr :Generator → ℕ → Std.Format**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instDecidableEqGenerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L187-L187)
 **instance
 Tau.BookVII.Meta.Saturation.instDecidableEqGenerator :DecidableEq Generator**
 
@@ -437,7 +437,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.Orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L189-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L189-L195)
 **inductive
 Tau.BookVII.Meta.Saturation.Orbit :Type**
 
@@ -454,7 +454,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprOrbit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
 **def
 Tau.BookVII.Meta.Saturation.instReprOrbit.repr :Orbit → ℕ → Std.Format**
 
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprOrbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
 **instance
 Tau.BookVII.Meta.Saturation.instReprOrbit :Repr Orbit**
 
@@ -477,7 +477,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instDecidableEqOrbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L195-L195)
 **instance
 Tau.BookVII.Meta.Saturation.instDecidableEqOrbit :DecidableEq Orbit**
 
@@ -488,7 +488,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.Generator.orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L197-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L197-L203)
 **def
 Tau.BookVII.Meta.Saturation.Generator.orbit :Generator → Orbit**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.no_new_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L205-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L205-L219)
 **theorem
 Tau.BookVII.Meta.Saturation.no_new_lobe :[Generator.alpha, Generator.pi, Generator.pi_prime, Generator.pi_dprime, Generator.omega].length = 5 ∧ [Orbit.identity, Orbit.lobes, Orbit.crossing, Orbit.closure].length = 4 ∧ Generator.alpha.orbit = Orbit.identity ∧ Generator.pi.orbit = Orbit.lobes ∧ Generator.pi_prime.orbit = Orbit.lobes ∧ Generator.pi_dprime.orbit = Orbit.crossing ∧ Generator.omega.orbit = Orbit.closure**
 
@@ -519,7 +519,7 @@ No sixth generator constructible; lemniscate topology exhausts topological featu
 
 ### `Tau.BookVII.Meta.Saturation.crossing_point_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L225-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L225-L236)
 **theorem
 Tau.BookVII.Meta.Saturation.crossing_point_uniqueness :Generator.pi_dprime.orbit = Orbit.crossing ∧ Generator.alpha.orbit ≠ Orbit.crossing ∧ Generator.pi.orbit ≠ Orbit.crossing ∧ Generator.pi_prime.orbit ≠ Orbit.crossing ∧ Generator.omega.orbit ≠ Orbit.crossing**
 
@@ -532,7 +532,7 @@ lobes meet. No additional crossing points constructible.
 
 ### `Tau.BookVII.Meta.Saturation.no_new_crossing_mediator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L242-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L242-L258)
 **theorem
 Tau.BookVII.Meta.Saturation.no_new_crossing_mediator :Registers.canonical_sector_decomp.mixed_sector_count = 1 ∧ Registers.sector_logos.dc_coincidence = true ∧ Registers.sector_logos.unique_mediator = true ∧ Registers.RegisterType.empirical ≠ Registers.RegisterType.practical ∧ Registers.RegisterType.empirical ≠ Registers.RegisterType.diagrammatic ∧ Registers.RegisterType.empirical ≠ Registers.RegisterType.commitment ∧ Registers.RegisterType.practical ≠ Registers.RegisterType.diagrammatic ∧ Registers.RegisterType.practical ≠ Registers.RegisterType.commitment**
 
@@ -546,7 +546,7 @@ Other five pairs have structurally distinct codomains.
 
 ### `Tau.BookVII.Meta.Saturation.SelfDescIteration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L264-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L264-L269)
 **structure
 Tau.BookVII.Meta.Saturation.SelfDescIteration :Type**
 
@@ -563,7 +563,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSelfDescIteration.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L269-L269)
 **def
 Tau.BookVII.Meta.Saturation.instReprSelfDescIteration.repr :SelfDescIteration → ℕ → Std.Format**
 
@@ -575,7 +575,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSelfDescIteration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L269-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L269-L269)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSelfDescIteration :Repr SelfDescIteration**
 
@@ -586,7 +586,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.carrier_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L271-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L271-L277)
 **theorem
 Tau.BookVII.Meta.Saturation.carrier_closure :have sd := { depth := 3 };
 sd.depth = 3 ∧ sd.idempotent_from = 2**
@@ -600,7 +600,7 @@ modelling capacity. M₃(X) = M₂(M₂(X)) ⊆ M₂(X).
 
 ### `Tau.BookVII.Meta.Saturation.carrier_exhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L283-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L283-L292)
 **theorem
 Tau.BookVII.Meta.Saturation.carrier_exhaustion :Registers.metadecode.self_referential = true ∧ Registers.metadecode.faithful = true ∧ Registers.metadecode.well_defined = true**
 
@@ -619,7 +619,7 @@ Further iteration does not produce new content:
 
 ### `Tau.BookVII.Meta.Saturation.SaturationResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L298-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L298-L315)
 **structure
 Tau.BookVII.Meta.Saturation.SaturationResult :Type**
 
@@ -654,7 +654,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSaturationResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L315-L315)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSaturationResult :Repr SaturationResult**
 
@@ -665,7 +665,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprSaturationResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L315-L315)
 **def
 Tau.BookVII.Meta.Saturation.instReprSaturationResult.repr :SaturationResult → ℕ → Std.Format**
 
@@ -677,7 +677,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.saturation_result`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L317-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L317-L319)
 **def
 Tau.BookVII.Meta.Saturation.saturation_result :SaturationResult**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.saturation_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L321-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L321-L327)
 **theorem
 Tau.BookVII.Meta.Saturation.saturation_theorem :saturation_result.terminal_layer = Registers.EnrichLayer.e3 ∧ saturation_result.no_new_lobe_blocked = true ∧ saturation_result.no_new_mediator_blocked = true ∧ saturation_result.no_new_carrier_blocked = true ∧ saturation_result.saturated = true**
 
@@ -698,7 +698,7 @@ Tau.BookVII.Meta.Saturation.saturation_theorem :saturation_result.terminal_layer
 
 ### `Tau.BookVII.Meta.Saturation.enrichment_stabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L333-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L333-L340)
 **theorem
 Tau.BookVII.Meta.Saturation.enrichment_stabilization :saturation_result.saturated = true ∧ vii_canonical_ladder.saturating = true ∧ vii_canonical_ladder.layer_count = 4**
 
@@ -711,7 +711,7 @@ This follows from the three blocking lemmas composing.
 
 ### `Tau.BookVII.Meta.Saturation.orbit_layer_correspondence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L346-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L346-L356)
 **def
 Tau.BookVII.Meta.Saturation.orbit_layer_correspondence :Orbit → Registers.EnrichLayer**
 
@@ -739,7 +739,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.four_orbit_four_layer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L358-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L358-L363)
 **theorem
 Tau.BookVII.Meta.Saturation.four_orbit_four_layer :orbit_layer_correspondence Orbit.identity = Registers.EnrichLayer.e0 ∧ orbit_layer_correspondence Orbit.lobes = Registers.EnrichLayer.e1 ∧ orbit_layer_correspondence Orbit.crossing = Registers.EnrichLayer.e2 ∧ orbit_layer_correspondence Orbit.closure = Registers.EnrichLayer.e3**
 
@@ -748,7 +748,7 @@ Tau.BookVII.Meta.Saturation.four_orbit_four_layer :orbit_layer_correspondence Or
 
 ### `Tau.BookVII.Meta.Saturation.BoundedWitnessForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L369-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L369-L379)
 **structure
 Tau.BookVII.Meta.Saturation.BoundedWitnessForm :Type**
 
@@ -772,7 +772,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprBoundedWitnessForm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L379-L379)
 **def
 Tau.BookVII.Meta.Saturation.instReprBoundedWitnessForm.repr :BoundedWitnessForm → ℕ → Std.Format**
 
@@ -784,7 +784,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprBoundedWitnessForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L379-L379)
 **instance
 Tau.BookVII.Meta.Saturation.instReprBoundedWitnessForm :Repr BoundedWitnessForm**
 
@@ -795,7 +795,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.bwf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L381-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L381-L381)
 **def
 Tau.BookVII.Meta.Saturation.bwf :BoundedWitnessForm**
 
@@ -807,7 +807,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.bounded_witness_form_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L383-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L383-L387)
 **theorem
 Tau.BookVII.Meta.Saturation.bounded_witness_form_check :bwf.tau_finite = true ∧ bwf.nf_addressed = true ∧ bwf.finitely_terminating = true**
 
@@ -816,7 +816,7 @@ Tau.BookVII.Meta.Saturation.bounded_witness_form_check :bwf.tau_finite = true �
 
 ### `Tau.BookVII.Meta.Saturation.AvoidanceMechanisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L393-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L393-L410)
 **structure
 Tau.BookVII.Meta.Saturation.AvoidanceMechanisms :Type**
 
@@ -850,7 +850,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprAvoidanceMechanisms.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L410-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L410-L410)
 **def
 Tau.BookVII.Meta.Saturation.instReprAvoidanceMechanisms.repr :AvoidanceMechanisms → ℕ → Std.Format**
 
@@ -862,7 +862,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprAvoidanceMechanisms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L410-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L410-L410)
 **instance
 Tau.BookVII.Meta.Saturation.instReprAvoidanceMechanisms :Repr AvoidanceMechanisms**
 
@@ -873,7 +873,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.avoidance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L412-L412)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L412-L412)
 **def
 Tau.BookVII.Meta.Saturation.avoidance :AvoidanceMechanisms**
 
@@ -885,7 +885,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.no_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L414-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L414-L418)
 **theorem
 Tau.BookVII.Meta.Saturation.no_diagonal :avoidance.no_contraction = true ∧ avoidance.no_diagonal = true ∧ avoidance.mechanism_count = 5**
 
@@ -894,7 +894,7 @@ Tau.BookVII.Meta.Saturation.no_diagonal :avoidance.no_contraction = true ∧ avo
 
 ### `Tau.BookVII.Meta.Saturation.godel_avoidance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L424-L438)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L424-L438)
 **theorem
 Tau.BookVII.Meta.Saturation.godel_avoidance :avoidance.no_contraction = true ∧ avoidance.no_diagonal = true ∧ avoidance.bounded_witness = true ∧ avoidance.nf_linearity = true ∧ avoidance.generation_not_presentation = true**
 
@@ -917,7 +917,7 @@ Consequence: incompleteness phenomenon does not arise in τ.
 
 ### `Tau.BookVII.Meta.Saturation.OnticRequirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L444-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L444-L452)
 **inductive
 Tau.BookVII.Meta.Saturation.OnticRequirement :Type**
 
@@ -936,7 +936,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprOnticRequirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
 **instance
 Tau.BookVII.Meta.Saturation.instReprOnticRequirement :Repr OnticRequirement**
 
@@ -947,7 +947,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprOnticRequirement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
 **def
 Tau.BookVII.Meta.Saturation.instReprOnticRequirement.repr :OnticRequirement → ℕ → Std.Format**
 
@@ -959,7 +959,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instDecidableEqOnticRequirement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L452-L452)
 **instance
 Tau.BookVII.Meta.Saturation.instDecidableEqOnticRequirement :DecidableEq OnticRequirement**
 
@@ -970,7 +970,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.SixOnticRequirements`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L454-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L454-L482)
 **structure
 Tau.BookVII.Meta.Saturation.SixOnticRequirements :Type**
 
@@ -1017,7 +1017,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSixOnticRequirements.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L482-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L482-L482)
 **def
 Tau.BookVII.Meta.Saturation.instReprSixOnticRequirements.repr :SixOnticRequirements → ℕ → Std.Format**
 
@@ -1029,7 +1029,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSixOnticRequirements`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L482-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L482-L482)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSixOnticRequirements :Repr SixOnticRequirements**
 
@@ -1040,7 +1040,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.six_requirements`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L484-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L484-L484)
 **def
 Tau.BookVII.Meta.Saturation.six_requirements :SixOnticRequirements**
 
@@ -1052,7 +1052,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.or12_narrowing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L490-L496)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L490-L496)
 **theorem
 Tau.BookVII.Meta.Saturation.or12_narrowing :six_requirements.or1_yoneda = true ∧ six_requirements.or2_finite = true**
 
@@ -1065,7 +1065,7 @@ This forces axiom candidates (finite axiom scheme over finite generators).
 
 ### `Tau.BookVII.Meta.Saturation.or34_narrowing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L498-L504)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L498-L504)
 **theorem
 Tau.BookVII.Meta.Saturation.or34_narrowing :six_requirements.or3_diagonal_free = true ∧ six_requirements.or4_nf_addressable = true**
 
@@ -1078,7 +1078,7 @@ axioms K0–K4 (the combinatorial axioms governing the address space).
 
 ### `Tau.BookVII.Meta.Saturation.or56_narrowing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L506-L513)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L506-L513)
 **theorem
 Tau.BookVII.Meta.Saturation.or56_narrowing :six_requirements.or5_holomorphic = true ∧ six_requirements.or6_spectral = true**
 
@@ -1092,7 +1092,7 @@ Central Theorem O(τ³) ≅ A_spec(𝕃).
 
 ### `Tau.BookVII.Meta.Saturation.InevitabilityResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L519-L548)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L519-L548)
 **structure
 Tau.BookVII.Meta.Saturation.InevitabilityResult :Type**
 
@@ -1144,7 +1144,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprInevitabilityResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L548-L548)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L548-L548)
 **instance
 Tau.BookVII.Meta.Saturation.instReprInevitabilityResult :Repr InevitabilityResult**
 
@@ -1155,7 +1155,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprInevitabilityResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L548-L548)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L548-L548)
 **def
 Tau.BookVII.Meta.Saturation.instReprInevitabilityResult.repr :InevitabilityResult → ℕ → Std.Format**
 
@@ -1167,7 +1167,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.inevitability_result`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L550-L550)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L550-L550)
 **def
 Tau.BookVII.Meta.Saturation.inevitability_result :InevitabilityResult**
 
@@ -1179,7 +1179,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.inevitability_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L552-L561)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L552-L561)
 **theorem
 Tau.BookVII.Meta.Saturation.inevitability_convergence :inevitability_result.all_requirements.tau_satisfies_all = true ∧ inevitability_result.pairwise_narrowing = true ∧ inevitability_result.entails_k0_k4 = true ∧ inevitability_result.entails_k5_k8 = true ∧ inevitability_result.entails_generators = true ∧ inevitability_result.entails_fibration = true ∧ inevitability_result.axiom_count = 9 ∧ inevitability_result.generator_count = 5**
 
@@ -1188,7 +1188,7 @@ Tau.BookVII.Meta.Saturation.inevitability_convergence :inevitability_result.all_
 
 ### `Tau.BookVII.Meta.Saturation.NecessityResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L567-L584)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L567-L584)
 **structure
 Tau.BookVII.Meta.Saturation.NecessityResult :Type**
 
@@ -1219,7 +1219,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprNecessityResult.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L584-L584)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L584-L584)
 **def
 Tau.BookVII.Meta.Saturation.instReprNecessityResult.repr :NecessityResult → ℕ → Std.Format**
 
@@ -1231,7 +1231,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprNecessityResult`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L584-L584)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L584-L584)
 **instance
 Tau.BookVII.Meta.Saturation.instReprNecessityResult :Repr NecessityResult**
 
@@ -1242,7 +1242,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.necessity_result`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L586-L586)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L586-L586)
 **def
 Tau.BookVII.Meta.Saturation.necessity_result :NecessityResult**
 
@@ -1254,7 +1254,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.each_requirement_necessary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L588-L593)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L588-L593)
 **theorem
 Tau.BookVII.Meta.Saturation.each_requirement_necessary :necessity_result.counterexample_count = 6 ∧ necessity_result.each_satisfies_five = true ∧ necessity_result.none_is_tau = true ∧ six_requirements.requirement_count = 6**
 
@@ -1263,7 +1263,7 @@ Tau.BookVII.Meta.Saturation.each_requirement_necessary :necessity_result.counter
 
 ### `Tau.BookVII.Meta.Saturation.LanguageAddsTemporalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L603-L614)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L603-L614)
 **structure
 Tau.BookVII.Meta.Saturation.LanguageAddsTemporalization :Type**
 
@@ -1288,7 +1288,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprLanguageAddsTemporalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L614-L614)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L614-L614)
 **instance
 Tau.BookVII.Meta.Saturation.instReprLanguageAddsTemporalization :Repr LanguageAddsTemporalization**
 
@@ -1299,7 +1299,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprLanguageAddsTemporalization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L614-L614)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L614-L614)
 **def
 Tau.BookVII.Meta.Saturation.instReprLanguageAddsTemporalization.repr :LanguageAddsTemporalization → ℕ → Std.Format**
 
@@ -1311,7 +1311,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.language_temporal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L616-L616)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L616-L616)
 **def
 Tau.BookVII.Meta.Saturation.language_temporal :LanguageAddsTemporalization**
 
@@ -1323,7 +1323,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.SubsymbolicLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L622-L633)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L622-L633)
 **structure
 Tau.BookVII.Meta.Saturation.SubsymbolicLayer :Type**
 
@@ -1348,7 +1348,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSubsymbolicLayer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L633-L633)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L633-L633)
 **def
 Tau.BookVII.Meta.Saturation.instReprSubsymbolicLayer.repr :SubsymbolicLayer → ℕ → Std.Format**
 
@@ -1360,7 +1360,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprSubsymbolicLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L633-L633)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L633-L633)
 **instance
 Tau.BookVII.Meta.Saturation.instReprSubsymbolicLayer :Repr SubsymbolicLayer**
 
@@ -1371,7 +1371,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.subsymbolic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L635-L635)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L635-L635)
 **def
 Tau.BookVII.Meta.Saturation.subsymbolic :SubsymbolicLayer**
 
@@ -1383,7 +1383,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.TemporalizationOperators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L641-L656)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L641-L656)
 **structure
 Tau.BookVII.Meta.Saturation.TemporalizationOperators :Type**
 
@@ -1413,7 +1413,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprTemporalizationOperators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L656-L656)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L656-L656)
 **instance
 Tau.BookVII.Meta.Saturation.instReprTemporalizationOperators :Repr TemporalizationOperators**
 
@@ -1424,7 +1424,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprTemporalizationOperators.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L656-L656)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L656-L656)
 **def
 Tau.BookVII.Meta.Saturation.instReprTemporalizationOperators.repr :TemporalizationOperators → ℕ → Std.Format**
 
@@ -1436,7 +1436,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.temporal_ops`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L658-L658)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L658-L658)
 **def
 Tau.BookVII.Meta.Saturation.temporal_ops :TemporalizationOperators**
 
@@ -1448,7 +1448,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.temporal_ops_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L660-L665)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L660-L665)
 **theorem
 Tau.BookVII.Meta.Saturation.temporal_ops_check :temporal_ops.has_past = true ∧ temporal_ops.has_present = true ∧ temporal_ops.has_future = true ∧ temporal_ops.operator_count = 3**
 
@@ -1457,7 +1457,7 @@ Tau.BookVII.Meta.Saturation.temporal_ops_check :temporal_ops.has_past = true ∧
 
 ### `Tau.BookVII.Meta.Saturation.language_as_self_enrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L671-L679)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L671-L679)
 **theorem
 Tau.BookVII.Meta.Saturation.language_as_self_enrichment :language_temporal.temporal_markers = true ∧ language_temporal.temporal_indexing = true ∧ subsymbolic.pre_symbolic = true**
 
@@ -1471,7 +1471,7 @@ the fact that it models itself. Language is the vehicle for SelfDesc².
 
 ### `Tau.BookVII.Meta.Saturation.syntax_semantics_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L685-L693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L685-L693)
 **theorem
 Tau.BookVII.Meta.Saturation.syntax_semantics_collapse :Registers.sector_logos.dc_coincidence = true ∧ language_temporal.temporal_markers = true**
 
@@ -1485,7 +1485,7 @@ structure IS the meaning.
 
 ### `Tau.BookVII.Meta.Saturation.universal_bridgeability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L699-L706)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L699-L706)
 **theorem
 Tau.BookVII.Meta.Saturation.universal_bridgeability :subsymbolic.pre_symbolic = true ∧ subsymbolic.pattern_recognition = true**
 
@@ -1499,7 +1499,7 @@ at E₂ and higher.
 
 ### `Tau.BookVII.Meta.Saturation.PragmaticUpdateOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L712-L721)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L712-L721)
 **structure
 Tau.BookVII.Meta.Saturation.PragmaticUpdateOperator :Type**
 
@@ -1521,7 +1521,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprPragmaticUpdateOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L721-L721)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L721-L721)
 **instance
 Tau.BookVII.Meta.Saturation.instReprPragmaticUpdateOperator :Repr PragmaticUpdateOperator**
 
@@ -1532,7 +1532,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprPragmaticUpdateOperator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L721-L721)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L721-L721)
 **def
 Tau.BookVII.Meta.Saturation.instReprPragmaticUpdateOperator.repr :PragmaticUpdateOperator → ℕ → Std.Format**
 
@@ -1544,7 +1544,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.pragmatic_update`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L723-L723)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L723-L723)
 **def
 Tau.BookVII.Meta.Saturation.pragmatic_update :PragmaticUpdateOperator**
 
@@ -1556,7 +1556,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.ParaMind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L729-L739)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L729-L739)
 **structure
 Tau.BookVII.Meta.Saturation.ParaMind :Type**
 
@@ -1580,7 +1580,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprParaMind.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L739-L739)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L739-L739)
 **def
 Tau.BookVII.Meta.Saturation.instReprParaMind.repr :ParaMind → ℕ → Std.Format**
 
@@ -1592,7 +1592,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprParaMind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L739-L739)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L739-L739)
 **instance
 Tau.BookVII.Meta.Saturation.instReprParaMind :Repr ParaMind**
 
@@ -1603,7 +1603,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.para_mind`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L741-L741)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L741-L741)
 **def
 Tau.BookVII.Meta.Saturation.para_mind :ParaMind**
 
@@ -1615,7 +1615,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.llm_subsymbolic_evidence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L747-L755)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L747-L755)
 **theorem
 Tau.BookVII.Meta.Saturation.llm_subsymbolic_evidence :para_mind.subsymbolic = true ∧ para_mind.e2_level = true ∧ para_mind.pattern_without_self_model = true**
 
@@ -1629,7 +1629,7 @@ without symbolic rule manipulation. This is empirical evidence
 
 ### `Tau.BookVII.Meta.Saturation.PrayerAsOmegaAddressedCommunication`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L761-L774)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L761-L774)
 **structure
 Tau.BookVII.Meta.Saturation.PrayerAsOmegaAddressedCommunication :Type**
 
@@ -1656,7 +1656,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.instReprPrayerAsOmegaAddressedCommunication`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L774-L774)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L774-L774)
 **instance
 Tau.BookVII.Meta.Saturation.instReprPrayerAsOmegaAddressedCommunication :Repr PrayerAsOmegaAddressedCommunication**
 
@@ -1667,7 +1667,7 @@ Equations
 
 ### `Tau.BookVII.Meta.Saturation.instReprPrayerAsOmegaAddressedCommunication.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L774-L774)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L774-L774)
 **def
 Tau.BookVII.Meta.Saturation.instReprPrayerAsOmegaAddressedCommunication.repr :PrayerAsOmegaAddressedCommunication → ℕ → Std.Format**
 
@@ -1679,7 +1679,7 @@ Instances For
 
 ### `Tau.BookVII.Meta.Saturation.prayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVII/Meta/Saturation.lean#L776-L776)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVII/Meta/Saturation.lean#L776-L776)
 **def
 Tau.BookVII.Meta.Saturation.prayer :PrayerAsOmegaAddressedCommunication**
 

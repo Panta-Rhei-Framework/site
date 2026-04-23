@@ -77,7 +77,7 @@ strict τ-members. This is the τ-analogue of the Foundation Axiom.
 
 ### `Tau.Sets.tau_idx_is_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L48-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L48-L49)
 **theorem
 Tau.Sets.tau_idx_is_nat :Denotation.TauIdx = ℕ**
 
@@ -88,7 +88,7 @@ The τ-index universe is Nat itself (by definition).
 
 ### `Tau.Sets.tau_idx_countable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L51-L54)
 **theorem
 Tau.Sets.tau_idx_countable :∃ (f : Denotation.TauIdx → ℕ), Function.Injective f**
 
@@ -100,7 +100,7 @@ is a bijection TauIdx → Nat.
 
 ### `Tau.Sets.tau_idx_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L56-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L56-L58)
 **theorem
 Tau.Sets.tau_idx_surjective
 (n : ℕ)
@@ -113,7 +113,7 @@ The identity surjects onto Nat (universe is exactly Nat).
 
 ### `Tau.Sets.no_russell_set`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L64-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L64-L76)
 **theorem
 Tau.Sets.no_russell_set :¬∃ (R : Denotation.TauIdx), ∀ (a : Denotation.TauIdx), tau_mem a R ↔ ¬tau_mem a R**
 
@@ -130,7 +130,7 @@ True ↔ False, a contradiction.
 
 ### `Tau.Sets.no_complement_of_self_mem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L78-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L78-L84)
 **theorem
 Tau.Sets.no_complement_of_self_mem :¬∃ (C : Denotation.TauIdx), ∀ (a : Denotation.TauIdx), tau_mem a C ↔ ¬tau_mem a a**
 
@@ -142,7 +142,7 @@ There is no τ-set C that contains exactly the non-self-members.
 
 ### `Tau.Sets.is_descending_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L90-L93)
 **def
 Tau.Sets.is_descending_chain
 (f : ℕ → Denotation.TauIdx)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.Sets.no_infinite_descent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L95-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L95-L128)
 **theorem
 Tau.Sets.no_infinite_descent :¬∃ (f : ℕ → Denotation.TauIdx), is_descending_chain f**
 
@@ -175,7 +175,7 @@ relation, since it would produce a sequence with no minimal element.
 
 ### `Tau.Sets.tau_mem_preorder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L134-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L134-L138)
 **theorem
 Tau.Sets.tau_mem_preorder :(∀ (a : Denotation.TauIdx), tau_mem a a) ∧ ∀ (a b c : Denotation.TauIdx), tau_mem a b → tau_mem b c → tau_mem a c**
 
@@ -186,7 +186,7 @@ The τ-universe is a preorder (reflexive + transitive membership).
 
 ### `Tau.Sets.tau_mem_partial_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Universe.lean#L140-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Universe.lean#L140-L145)
 **theorem
 Tau.Sets.tau_mem_partial_order :(∀ (a : Denotation.TauIdx), tau_mem a a) ∧ (∀ (a b : Denotation.TauIdx), tau_mem a b → tau_mem b a → a = b) ∧ ∀ (a b c : Denotation.TauIdx), tau_mem a b → tau_mem b c → tau_mem a c**
 

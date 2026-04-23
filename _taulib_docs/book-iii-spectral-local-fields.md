@@ -51,7 +51,7 @@ Hartogs restricted to the p-primary tower. No metric, no Cauchy sequences.
 
 ### `Tau.BookIII.Spectral.LocalFieldElt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L34-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L34-L40)
 **structure
 Tau.BookIII.Spectral.LocalFieldElt :Type**
 
@@ -68,7 +68,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprLocalFieldElt.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instReprLocalFieldElt.repr :LocalFieldElt → ℕ → Std.Format**
 
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprLocalFieldElt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instReprLocalFieldElt :Repr LocalFieldElt**
 
@@ -91,7 +91,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instDecidableEqLocalFieldElt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instDecidableEqLocalFieldElt :DecidableEq LocalFieldElt**
 
@@ -102,7 +102,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instDecidableEqLocalFieldElt.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instDecidableEqLocalFieldElt.decEq
 (x✝ x✝¹ : LocalFieldElt)
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqLocalFieldElt.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **def
 Tau.BookIII.Spectral.instBEqLocalFieldElt.beq :LocalFieldElt → LocalFieldElt → Bool**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqLocalFieldElt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L40-L40)
 **instance
 Tau.BookIII.Spectral.instBEqLocalFieldElt :BEq LocalFieldElt**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.to_local`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L42-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L42-L45)
 **def
 Tau.BookIII.Spectral.to_local
 (x p d : Denotation.TauIdx)
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.padic_val`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L47-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L47-L57)
 **def
 Tau.BookIII.Spectral.padic_val
 (x p : Denotation.TauIdx)
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.padic_val.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L53-L56)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L53-L56)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.padic_val.go
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_field_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L59-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L59-L80)
 **def
 Tau.BookIII.Spectral.local_field_check
 (bound depth : Denotation.TauIdx)
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_field_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L64-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L64-L79)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.local_field_check.go
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_ring_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L82-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L82-L105)
 **def
 Tau.BookIII.Spectral.local_ring_check
 (bound depth : Denotation.TauIdx)
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_ring_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L87-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L87-L104)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.local_ring_check.go
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L111-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L111-L139)
 **def
 Tau.BookIII.Spectral.completeness_check
 (bound depth : Denotation.TauIdx)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.completeness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L118-L128)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L118-L128)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.completeness_check.go
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.completeness_check.check_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L130-L138)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L130-L138)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.completeness_check.check_tower
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.limit_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L141-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L141-L168)
 **def
 Tau.BookIII.Spectral.limit_uniqueness_check
 (bound depth : Denotation.TauIdx)
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.limit_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L146-L158)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L146-L158)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.limit_uniqueness_check.go
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.limit_uniqueness_check.check_agreement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L160-L167)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L160-L167)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.limit_uniqueness_check.check_agreement
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.local_field_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L196-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L196-L197)
 **theorem
 Tau.BookIII.Spectral.local_field_15_4 :local_field_check 15 4 = true**
 
@@ -371,7 +371,7 @@ Tau.BookIII.Spectral.local_field_15_4 :local_field_check 15 4 = true**
 
 ### `Tau.BookIII.Spectral.local_ring_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L200-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L200-L201)
 **theorem
 Tau.BookIII.Spectral.local_ring_10_4 :local_ring_check 10 4 = true**
 
@@ -380,7 +380,7 @@ Tau.BookIII.Spectral.local_ring_10_4 :local_ring_check 10 4 = true**
 
 ### `Tau.BookIII.Spectral.completeness_20_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L204-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L204-L205)
 **theorem
 Tau.BookIII.Spectral.completeness_20_5 :completeness_check 20 5 = true**
 
@@ -389,7 +389,7 @@ Tau.BookIII.Spectral.completeness_20_5 :completeness_check 20 5 = true**
 
 ### `Tau.BookIII.Spectral.limit_unique_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L208-L209)
 **theorem
 Tau.BookIII.Spectral.limit_unique_10_4 :limit_uniqueness_check 10 4 = true**
 
@@ -398,7 +398,7 @@ Tau.BookIII.Spectral.limit_unique_10_4 :limit_uniqueness_check 10 4 = true**
 
 ### `Tau.BookIII.Spectral.val_p_is_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L215-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L215-L216)
 **theorem
 Tau.BookIII.Spectral.val_p_is_1 :padic_val 3 3 = 1**
 
@@ -409,7 +409,7 @@ Tau.BookIII.Spectral.val_p_is_1 :padic_val 3 3 = 1**
 
 ### `Tau.BookIII.Spectral.val_p_is_1'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L217-L217)
 **theorem
 Tau.BookIII.Spectral.val_p_is_1' :padic_val 5 5 = 1**
 
@@ -418,7 +418,7 @@ Tau.BookIII.Spectral.val_p_is_1' :padic_val 5 5 = 1**
 
 ### `Tau.BookIII.Spectral.val_p2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L219-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L219-L220)
 **theorem
 Tau.BookIII.Spectral.val_p2 :padic_val 9 3 = 2**
 
@@ -429,7 +429,7 @@ Tau.BookIII.Spectral.val_p2 :padic_val 9 3 = 2**
 
 ### `Tau.BookIII.Spectral.val_p3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L221-L221)
 **theorem
 Tau.BookIII.Spectral.val_p3 :padic_val 27 3 = 3**
 
@@ -438,7 +438,7 @@ Tau.BookIII.Spectral.val_p3 :padic_val 27 3 = 3**
 
 ### `Tau.BookIII.Spectral.val_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L223-L224)
 **theorem
 Tau.BookIII.Spectral.val_zero :padic_val 0 3 = 0**
 
@@ -449,7 +449,7 @@ Tau.BookIII.Spectral.val_zero :padic_val 0 3 = 0**
 
 ### `Tau.BookIII.Spectral.tower_42_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/LocalFields.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/LocalFields.lean#L226-L228)
 **theorem
 Tau.BookIII.Spectral.tower_42_3 :42 % 3 ^ 3 % 3 ^ 2 = 42 % 3 ^ 2**
 

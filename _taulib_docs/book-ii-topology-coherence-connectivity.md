@@ -59,7 +59,7 @@ the four independent canonical directions (A, B, C, D).
 
 ### `Tau.BookII.Topology.two_readout_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L41-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L41-L81)
 **def
 Tau.BookII.Topology.two_readout_check
 (bound db : Denotation.TauIdx)
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookII.Topology.two_readout_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L65-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L65-L71)@[irreducible]
 
 **def
 Tau.BookII.Topology.two_readout_check.go
@@ -106,7 +106,7 @@ Instances For
 
 ### `Tau.BookII.Topology.two_readout_check.go_yz`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L73-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L73-L80)@[irreducible]
 
 **def
 Tau.BookII.Topology.two_readout_check.go_yz
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Topology.spine_address_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L87-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L87-L105)
 **def
 Tau.BookII.Topology.spine_address_length
 (x : Denotation.TauIdx)
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookII.Topology.spine_address_length.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L98-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L98-L104)@[irreducible]
 
 **def
 Tau.BookII.Topology.spine_address_length.go
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookII.Topology.spine_address_path`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L107-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L107-L109)
 **def
 Tau.BookII.Topology.spine_address_path
 (x y : Denotation.TauIdx)
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookII.Topology.address_connectivity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L111-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L111-L131)
 **def
 Tau.BookII.Topology.address_connectivity_check
 (bound : Denotation.TauIdx)
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookII.Topology.address_connectivity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L117-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L117-L122)@[irreducible]
 
 **def
 Tau.BookII.Topology.address_connectivity_check.go
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookII.Topology.address_connectivity_check.go_y`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L124-L130)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L124-L130)@[irreducible]
 
 **def
 Tau.BookII.Topology.address_connectivity_check.go_y
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.BookII.Topology.alpha1_base_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L133-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L133-L139)
 **def
 Tau.BookII.Topology.alpha1_base_check :Bool**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookII.Topology.refinement_ray_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L145-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L145-L187)
 **def
 Tau.BookII.Topology.refinement_ray_check :Bool**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookII.Topology.two_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L206-L206)
 **theorem
 Tau.BookII.Topology.two_readout :two_readout_check 12 5 = true**
 
@@ -265,7 +265,7 @@ Tau.BookII.Topology.two_readout :two_readout_check 12 5 = true**
 
 ### `Tau.BookII.Topology.addr_conn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L207-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L207-L207)
 **theorem
 Tau.BookII.Topology.addr_conn :address_connectivity_check 30 = true**
 
@@ -274,7 +274,7 @@ Tau.BookII.Topology.addr_conn :address_connectivity_check 30 = true**
 
 ### `Tau.BookII.Topology.alpha1_base`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L208-L208)
 **theorem
 Tau.BookII.Topology.alpha1_base :alpha1_base_check = true**
 
@@ -283,6 +283,6 @@ Tau.BookII.Topology.alpha1_base :alpha1_base_check = true**
 
 ### `Tau.BookII.Topology.refine_ray`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Topology/CoherenceConnectivity.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Topology/CoherenceConnectivity.lean#L209-L209)
 **theorem
 Tau.BookII.Topology.refine_ray :refinement_ray_check = true**

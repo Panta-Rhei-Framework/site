@@ -100,7 +100,7 @@ velocity through the boundary character's large-r behavior.
 
 ### `Tau.BookV.Astrophysics.GalaxyMorphology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L61-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L61-L73)
 **inductive
 Tau.BookV.Astrophysics.GalaxyMorphology :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyMorphology.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
 **def
 Tau.BookV.Astrophysics.instReprGalaxyMorphology.repr :GalaxyMorphology → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyMorphology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
 **instance
 Tau.BookV.Astrophysics.instReprGalaxyMorphology :Repr GalaxyMorphology**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqGalaxyMorphology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqGalaxyMorphology :DecidableEq GalaxyMorphology**
 
@@ -162,7 +162,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqGalaxyMorphology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
 **instance
 Tau.BookV.Astrophysics.instBEqGalaxyMorphology :BEq GalaxyMorphology**
 
@@ -173,7 +173,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqGalaxyMorphology.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L73-L73)
 **def
 Tau.BookV.Astrophysics.instBEqGalaxyMorphology.beq :GalaxyMorphology → GalaxyMorphology → Bool**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GalacticDefectBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L75-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L75-L94)
 **structure
 Tau.BookV.Astrophysics.GalacticDefectBundle :Type**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalacticDefectBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L94-L94)
 **instance
 Tau.BookV.Astrophysics.instReprGalacticDefectBundle :Repr GalacticDefectBundle**
 
@@ -232,7 +232,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprGalacticDefectBundle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L94-L94)
 **def
 Tau.BookV.Astrophysics.instReprGalacticDefectBundle.repr :GalacticDefectBundle → ℕ → Std.Format**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.milky_way`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L96-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L96-L103)
 **def
 Tau.BookV.Astrophysics.milky_way :GalacticDefectBundle**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.morphology_from_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L109-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L109-L118)
 **theorem
 Tau.BookV.Astrophysics.morphology_from_topology :"Hubble sequence = boundary topology classification of defect bundles" = "Hubble sequence = boundary topology classification of defect bundles"**
 
@@ -275,7 +275,7 @@ Irregulars = non-equilibrium defect configurations
 
 ### `Tau.BookV.Astrophysics.spiral_arms_density_waves`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L124-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L124-L130)
 **theorem
 Tau.BookV.Astrophysics.spiral_arms_density_waves
 (g : GalacticDefectBundle)
@@ -294,7 +294,7 @@ material structure. Stars move through arms.
 
 ### `Tau.BookV.Astrophysics.RotationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L136-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L136-L144)
 **inductive
 Tau.BookV.Astrophysics.RotationRegime :Type**
 
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprRotationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
 **instance
 Tau.BookV.Astrophysics.instReprRotationRegime :Repr RotationRegime**
 
@@ -327,7 +327,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprRotationRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
 **def
 Tau.BookV.Astrophysics.instReprRotationRegime.repr :RotationRegime → ℕ → Std.Format**
 
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqRotationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqRotationRegime :DecidableEq RotationRegime**
 
@@ -350,7 +350,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqRotationRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
 **def
 Tau.BookV.Astrophysics.instBEqRotationRegime.beq :RotationRegime → RotationRegime → Bool**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqRotationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L144-L144)
 **instance
 Tau.BookV.Astrophysics.instBEqRotationRegime :BEq RotationRegime**
 
@@ -373,7 +373,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.GalacticRotationProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L146-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L146-L163)
 **structure
 Tau.BookV.Astrophysics.GalacticRotationProfile :Type**
 
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalacticRotationProfile.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L163-L163)
 **def
 Tau.BookV.Astrophysics.instReprGalacticRotationProfile.repr :GalacticRotationProfile → ℕ → Std.Format**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalacticRotationProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L163-L163)
 **instance
 Tau.BookV.Astrophysics.instReprGalacticRotationProfile :Repr GalacticRotationProfile**
 
@@ -429,7 +429,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.tully_fisher_scaling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L169-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L169-L178)
 **theorem
 Tau.BookV.Astrophysics.tully_fisher_scaling :"M_b proportional to v^4 = D-sector boundary scaling" = "M_b proportional to v^4 = D-sector boundary scaling"**
 
@@ -446,7 +446,7 @@ coupling constant κ(D;1) = 1−ι<sub>τ</sub>.
 
 ### `Tau.BookV.Astrophysics.GalaxyClusterData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L184-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L184-L200)
 **structure
 Tau.BookV.Astrophysics.GalaxyClusterData :Type**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyClusterData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L200-L200)
 **instance
 Tau.BookV.Astrophysics.instReprGalaxyClusterData :Repr GalaxyClusterData**
 
@@ -490,7 +490,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyClusterData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L200-L200)
 **def
 Tau.BookV.Astrophysics.instReprGalaxyClusterData.repr :GalaxyClusterData → ℕ → Std.Format**
 
@@ -502,7 +502,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.virial_discrepancy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L206-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L206-L211)
 **theorem
 Tau.BookV.Astrophysics.virial_discrepancy
 (c : GalaxyClusterData)
@@ -518,7 +518,7 @@ to the D-sector coupling at cluster scales.
 
 ### `Tau.BookV.Astrophysics.HighZAccelerationEnhancement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L252-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L252-L267)
 **structure
 Tau.BookV.Astrophysics.HighZAccelerationEnhancement :Type**
 
@@ -549,7 +549,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHighZAccelerationEnhancement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L267-L267)
 **instance
 Tau.BookV.Astrophysics.instReprHighZAccelerationEnhancement :Repr HighZAccelerationEnhancement**
 
@@ -560,7 +560,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprHighZAccelerationEnhancement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L267-L267)
 **def
 Tau.BookV.Astrophysics.instReprHighZAccelerationEnhancement.repr :HighZAccelerationEnhancement → ℕ → Std.Format**
 
@@ -572,7 +572,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.JWSTEnhancementTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L269-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L269-L285)
 **structure
 Tau.BookV.Astrophysics.JWSTEnhancementTheorem :Type**
 
@@ -605,7 +605,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprJWSTEnhancementTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L285-L285)
 **instance
 Tau.BookV.Astrophysics.instReprJWSTEnhancementTheorem :Repr JWSTEnhancementTheorem**
 
@@ -616,7 +616,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprJWSTEnhancementTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L285-L285)
 **def
 Tau.BookV.Astrophysics.instReprJWSTEnhancementTheorem.repr :JWSTEnhancementTheorem → ℕ → Std.Format**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.gnz11_enhancement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L287-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L287-L294)
 **def
 Tau.BookV.Astrophysics.gnz11_enhancement :JWSTEnhancementTheorem**
 
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.jades_z13_enhancement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L296-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L296-L303)
 **def
 Tau.BookV.Astrophysics.jades_z13_enhancement :JWSTEnhancementTheorem**
 
@@ -657,7 +657,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sfe_enhancement_at_z10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L305-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L305-L307)
 **theorem
 Tau.BookV.Astrophysics.sfe_enhancement_at_z10 :gnz11_enhancement.tau_sfe_pct = 47**
 
@@ -668,7 +668,7 @@ Tau.BookV.Astrophysics.sfe_enhancement_at_z10 :gnz11_enhancement.tau_sfe_pct = 4
 
 ### `Tau.BookV.Astrophysics.uv_lf_excess_jades`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L309-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/GalaxyRelational.lean#L309-L312)
 **theorem
 Tau.BookV.Astrophysics.uv_lf_excess_jades :jades_z13_enhancement.enhancement_x10 = 310**
 

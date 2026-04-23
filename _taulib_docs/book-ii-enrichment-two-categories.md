@@ -78,7 +78,7 @@ The interchange law verifies the 2-categorical axiom:
 
 ### `Tau.BookII.Enrichment.OneCell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L53-L55)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L53-L55)@[reducible, inline]
 
 **abbrev
 Tau.BookII.Enrichment.OneCell :Type**
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.TwoCell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L57-L60)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L57-L60)@[reducible, inline]
 
 **abbrev
 Tau.BookII.Enrichment.TwoCell :Type**
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.vert_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L62-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L62-L66)
 **def
 Tau.BookII.Enrichment.vert_comp
 (eta₂ eta₁ : TwoCell)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.horiz_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L68-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L68-L72)
 **def
 Tau.BookII.Enrichment.horiz_comp
 (eta mu : TwoCell)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.id_two_cell`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L74-L76)
 **def
 Tau.BookII.Enrichment.id_two_cell :TwoCell**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.TwoCat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L78-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L78-L84)
 **structure
 Tau.BookII.Enrichment.TwoCat :Type**
 
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.instReprTwoCat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L84-L84)
 **instance
 Tau.BookII.Enrichment.instReprTwoCat :Repr TwoCat**
 
@@ -192,7 +192,7 @@ Equations
 
 ### `Tau.BookII.Enrichment.instReprTwoCat.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L84-L84)
 **def
 Tau.BookII.Enrichment.instReprTwoCat.repr :TwoCat → ℕ → Std.Format**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.mk_two_cat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L86-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L86-L88)
 **def
 Tau.BookII.Enrichment.mk_two_cat
 (max_stage max_val : Denotation.TauIdx)
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.one_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L94-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L94-L95)
 **def
 Tau.BookII.Enrichment.one_id :OneCell**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.one_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L97-L98)
 **def
 Tau.BookII.Enrichment.one_sq :OneCell**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.one_dbl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L100-L101)
 **def
 Tau.BookII.Enrichment.one_dbl :OneCell**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.one_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L103-L104)
 **def
 Tau.BookII.Enrichment.one_zero :OneCell**
 
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L106-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L106-L109)
 **def
 Tau.BookII.Enrichment.two_sq :TwoCell**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_dbl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L111-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L111-L112)
 **def
 Tau.BookII.Enrichment.two_dbl :TwoCell**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_assoc_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L118-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L118-L137)
 **def
 Tau.BookII.Enrichment.two_cat_assoc_check
 (bound db : Denotation.TauIdx)
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_assoc_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L124-L136)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L124-L136)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.two_cat_assoc_check.go
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_unit_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L139-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L139-L156)
 **def
 Tau.BookII.Enrichment.two_cat_unit_check
 (bound db : Denotation.TauIdx)
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_unit_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L144-L155)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L144-L155)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.two_cat_unit_check.go
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_vert_assoc_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L158-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L158-L176)
 **def
 Tau.BookII.Enrichment.two_cat_vert_assoc_check
 (bound db : Denotation.TauIdx)
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_vert_assoc_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L164-L175)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L164-L175)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.two_cat_vert_assoc_check.go
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_morph_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L182-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L182-L201)
 **def
 Tau.BookII.Enrichment.two_morph_tower_check
 (bound db : Denotation.TauIdx)
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_morph_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L188-L200)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L188-L200)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.two_morph_tower_check.go
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_morphism_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L203-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L203-L219)
 **def
 Tau.BookII.Enrichment.two_morphism_check
 (bound db : Denotation.TauIdx)
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_morphism_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L210-L218)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L210-L218)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.two_morphism_check.go
@@ -481,7 +481,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_iteration_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L225-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L225-L253)
 **def
 Tau.BookII.Enrichment.enrichment_iteration_check
 (db : Denotation.TauIdx)
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_iteration_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L236-L244)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L236-L244)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.enrichment_iteration_check.go
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_iteration_check.check_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L246-L252)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L246-L252)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.enrichment_iteration_check.check_id
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_finite_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L255-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L255-L276)
 **def
 Tau.BookII.Enrichment.enrichment_finite_check
 (db : Denotation.TauIdx)
@@ -557,7 +557,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.enrichment_finite_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L264-L275)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L264-L275)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.enrichment_finite_check.go
@@ -574,7 +574,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.interchange_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L282-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L282-L316)
 **def
 Tau.BookII.Enrichment.interchange_check
 (bound db : Denotation.TauIdx)
@@ -605,7 +605,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.interchange_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L301-L315)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L301-L315)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.interchange_check.go
@@ -622,7 +622,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.full_two_cat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L322-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L322-L331)
 **def
 Tau.BookII.Enrichment.full_two_cat_check
 (bound db : Denotation.TauIdx)
@@ -638,7 +638,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.two_cat_assoc_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L386-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L386-L387)
 **theorem
 Tau.BookII.Enrichment.two_cat_assoc_10_3 :two_cat_assoc_check 10 3 = true**
 
@@ -647,7 +647,7 @@ Tau.BookII.Enrichment.two_cat_assoc_10_3 :two_cat_assoc_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.two_cat_unit_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L390-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L390-L391)
 **theorem
 Tau.BookII.Enrichment.two_cat_unit_10_3 :two_cat_unit_check 10 3 = true**
 
@@ -656,7 +656,7 @@ Tau.BookII.Enrichment.two_cat_unit_10_3 :two_cat_unit_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.two_cat_vert_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L394-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L394-L395)
 **theorem
 Tau.BookII.Enrichment.two_cat_vert_10_3 :two_cat_vert_assoc_check 10 3 = true**
 
@@ -665,7 +665,7 @@ Tau.BookII.Enrichment.two_cat_vert_10_3 :two_cat_vert_assoc_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.two_morph_tower_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L398-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L398-L399)
 **theorem
 Tau.BookII.Enrichment.two_morph_tower_8_3 :two_morph_tower_check 8 3 = true**
 
@@ -674,7 +674,7 @@ Tau.BookII.Enrichment.two_morph_tower_8_3 :two_morph_tower_check 8 3 = true**
 
 ### `Tau.BookII.Enrichment.two_morphism_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L402-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L402-L403)
 **theorem
 Tau.BookII.Enrichment.two_morphism_10_3 :two_morphism_check 10 3 = true**
 
@@ -683,7 +683,7 @@ Tau.BookII.Enrichment.two_morphism_10_3 :two_morphism_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.enrich_iter_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L406-L407)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L406-L407)
 **theorem
 Tau.BookII.Enrichment.enrich_iter_3 :enrichment_iteration_check 3 = true**
 
@@ -692,7 +692,7 @@ Tau.BookII.Enrichment.enrich_iter_3 :enrichment_iteration_check 3 = true**
 
 ### `Tau.BookII.Enrichment.enrich_finite_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L410-L411)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L410-L411)
 **theorem
 Tau.BookII.Enrichment.enrich_finite_5 :enrichment_finite_check 5 = true**
 
@@ -701,7 +701,7 @@ Tau.BookII.Enrichment.enrich_finite_5 :enrichment_finite_check 5 = true**
 
 ### `Tau.BookII.Enrichment.interchange_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L414-L415)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L414-L415)
 **theorem
 Tau.BookII.Enrichment.interchange_10_3 :interchange_check 10 3 = true**
 
@@ -710,7 +710,7 @@ Tau.BookII.Enrichment.interchange_10_3 :interchange_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.full_two_cat_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L418-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L418-L419)
 **theorem
 Tau.BookII.Enrichment.full_two_cat_8_3 :full_two_cat_check 8 3 = true**
 
@@ -719,7 +719,7 @@ Tau.BookII.Enrichment.full_two_cat_8_3 :full_two_cat_check 8 3 = true**
 
 ### `Tau.BookII.Enrichment.horiz_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L425-L431)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L425-L431)
 **theorem
 Tau.BookII.Enrichment.horiz_comp_assoc
 (f g h : TwoCell)
@@ -736,7 +736,7 @@ Both sides are fun n k => f(g(h(n, k), k), k).
 
 ### `Tau.BookII.Enrichment.vert_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L433-L439)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L433-L439)
 **theorem
 Tau.BookII.Enrichment.vert_comp_assoc
 (f g h : TwoCell)
@@ -753,7 +753,7 @@ Both sides are fun n k => f(g(h(n, k), k), k).
 
 ### `Tau.BookII.Enrichment.id_two_cell_tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L441-L447)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L441-L447)
 **theorem
 Tau.BookII.Enrichment.id_two_cell_tower_coherent
 (x : Denotation.TauIdx)
@@ -772,7 +772,7 @@ This is reduction_compat.
 
 ### `Tau.BookII.Enrichment.two_sq_mediates_at_reduce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L449-L457)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L449-L457)
 **theorem
 Tau.BookII.Enrichment.two_sq_mediates_at_reduce
 (x k : Denotation.TauIdx)
@@ -788,7 +788,7 @@ i.e., (x % P_k) * (x % P_k) % P_k = x * x % P_k.
 
 ### `Tau.BookII.Enrichment.primorial_pos_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/TwoCategories.lean#L459-L463)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/TwoCategories.lean#L459-L463)
 **theorem
 Tau.BookII.Enrichment.primorial_pos_check :((List.range 6).all fun (k : ℕ) => decide (Polarity.primorial k > 0)) = true**
 

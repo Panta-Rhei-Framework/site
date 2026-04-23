@@ -87,7 +87,7 @@ many addresses at each tower level, with no continuum regularization needed.
 
 ### `Tau.BookIV.Coda.TowerNaturalTransformation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L54-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L54-L74)
 **structure
 Tau.BookIV.Coda.TowerNaturalTransformation :Type**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprTowerNaturalTransformation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L74-L74)
 **def
 Tau.BookIV.Coda.instReprTowerNaturalTransformation.repr :TowerNaturalTransformation → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprTowerNaturalTransformation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L74-L74)
 **instance
 Tau.BookIV.Coda.instReprTowerNaturalTransformation :Repr TowerNaturalTransformation**
 
@@ -146,7 +146,7 @@ Equations
 
 ### `Tau.BookIV.Coda.tower_natural_transformation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L76-L76)
 **def
 Tau.BookIV.Coda.tower_natural_transformation :TowerNaturalTransformation**
 
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.tower_nat_commutes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L78-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L78-L79)
 **theorem
 Tau.BookIV.Coda.tower_nat_commutes :tower_natural_transformation.commutes_with_tower = true**
 
@@ -167,7 +167,7 @@ Tau.BookIV.Coda.tower_nat_commutes :tower_natural_transformation.commutes_with_t
 
 ### `Tau.BookIV.Coda.tower_nat_conservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L81-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L81-L82)
 **theorem
 Tau.BookIV.Coda.tower_nat_conservation :tower_natural_transformation.conservation_law = true**
 
@@ -176,7 +176,7 @@ Tau.BookIV.Coda.tower_nat_conservation :tower_natural_transformation.conservatio
 
 ### `Tau.BookIV.Coda.remark_noether_corollary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L88-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L88-L99)
 **def
 Tau.BookIV.Coda.remark_noether_corollary :String**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.ConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L101-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L101-L119)
 **inductive
 Tau.BookIV.Coda.ConservationLaw :Type**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
 **instance
 Tau.BookIV.Coda.instReprConservationLaw :Repr ConservationLaw**
 
@@ -250,7 +250,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprConservationLaw.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
 **def
 Tau.BookIV.Coda.instReprConservationLaw.repr :ConservationLaw → ℕ → Std.Format**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instDecidableEqConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
 **instance
 Tau.BookIV.Coda.instDecidableEqConservationLaw :DecidableEq ConservationLaw**
 
@@ -273,7 +273,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instBEqConservationLaw`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
 **instance
 Tau.BookIV.Coda.instBEqConservationLaw :BEq ConservationLaw**
 
@@ -284,7 +284,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instBEqConservationLaw.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L119-L119)
 **def
 Tau.BookIV.Coda.instBEqConservationLaw.beq :ConservationLaw → ConservationLaw → Bool**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.conservation_laws_exhaust`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L121-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L121-L126)
 **theorem
 Tau.BookIV.Coda.conservation_laws_exhaust
 (c : ConservationLaw)
@@ -309,7 +309,7 @@ All conservation laws are tower-natural.
 
 ### `Tau.BookIV.Coda.NoLargerGaugeGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L140-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L140-L150)
 **structure
 Tau.BookIV.Coda.NoLargerGaugeGroup :Type**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprNoLargerGaugeGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L150-L150)
 **instance
 Tau.BookIV.Coda.instReprNoLargerGaugeGroup :Repr NoLargerGaugeGroup**
 
@@ -345,7 +345,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprNoLargerGaugeGroup.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L150-L150)
 **def
 Tau.BookIV.Coda.instReprNoLargerGaugeGroup.repr :NoLargerGaugeGroup → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.no_larger_gauge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L152-L152)
 **def
 Tau.BookIV.Coda.no_larger_gauge :NoLargerGaugeGroup**
 
@@ -369,7 +369,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.five_generators_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L154-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L154-L155)
 **theorem
 Tau.BookIV.Coda.five_generators_fixed :no_larger_gauge.num_generators = 5**
 
@@ -378,7 +378,7 @@ Tau.BookIV.Coda.five_generators_fixed :no_larger_gauge.num_generators = 5**
 
 ### `Tau.BookIV.Coda.DiscreteSymmetryStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L167-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L167-L177)
 **structure
 Tau.BookIV.Coda.DiscreteSymmetryStatus :Type**
 
@@ -403,7 +403,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprDiscreteSymmetryStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L177-L177)
 **def
 Tau.BookIV.Coda.instReprDiscreteSymmetryStatus.repr :DiscreteSymmetryStatus → ℕ → Std.Format**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprDiscreteSymmetryStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L177-L177)
 **instance
 Tau.BookIV.Coda.instReprDiscreteSymmetryStatus :Repr DiscreteSymmetryStatus**
 
@@ -426,7 +426,7 @@ Equations
 
 ### `Tau.BookIV.Coda.discrete_symmetry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L179-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L179-L179)
 **def
 Tau.BookIV.Coda.discrete_symmetry :DiscreteSymmetryStatus**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.cpt_preserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L181-L182)
 **theorem
 Tau.BookIV.Coda.cpt_preserved :discrete_symmetry.cpt_preserved = true**
 
@@ -447,7 +447,7 @@ Tau.BookIV.Coda.cpt_preserved :discrete_symmetry.cpt_preserved = true**
 
 ### `Tau.BookIV.Coda.UVFiniteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L188-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L188-L210)
 **structure
 Tau.BookIV.Coda.UVFiniteness :Type**
 
@@ -486,7 +486,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprUVFiniteness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L210-L210)
 **def
 Tau.BookIV.Coda.instReprUVFiniteness.repr :UVFiniteness → ℕ → Std.Format**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprUVFiniteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L210-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L210-L210)
 **instance
 Tau.BookIV.Coda.instReprUVFiniteness :Repr UVFiniteness**
 
@@ -509,7 +509,7 @@ Equations
 
 ### `Tau.BookIV.Coda.uv_finiteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L212-L212)
 **def
 Tau.BookIV.Coda.uv_finiteness :UVFiniteness**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.uv_finite_at_each_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L214-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L214-L215)
 **theorem
 Tau.BookIV.Coda.uv_finite_at_each_level :uv_finiteness.finite_at_each_level = true**
 
@@ -530,7 +530,7 @@ Tau.BookIV.Coda.uv_finite_at_each_level :uv_finiteness.finite_at_each_level = tr
 
 ### `Tau.BookIV.Coda.no_regularization_needed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L217-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L217-L221)
 **theorem
 Tau.BookIV.Coda.no_regularization_needed :uv_finiteness.no_dim_reg = true ∧ uv_finiteness.no_pauli_villars = true ∧ uv_finiteness.no_zeta_reg = true**
 
@@ -539,7 +539,7 @@ Tau.BookIV.Coda.no_regularization_needed :uv_finiteness.no_dim_reg = true ∧ uv
 
 ### `Tau.BookIV.Coda.LawsAsStructureSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L232-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L232-L249)
 **structure
 Tau.BookIV.Coda.LawsAsStructureSummary :Type**
 
@@ -578,7 +578,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.instReprLawsAsStructureSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L249-L249)
 **instance
 Tau.BookIV.Coda.instReprLawsAsStructureSummary :Repr LawsAsStructureSummary**
 
@@ -589,7 +589,7 @@ Equations
 
 ### `Tau.BookIV.Coda.instReprLawsAsStructureSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L249-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L249-L249)
 **def
 Tau.BookIV.Coda.instReprLawsAsStructureSummary.repr :LawsAsStructureSummary → ℕ → Std.Format**
 
@@ -601,7 +601,7 @@ Instances For
 
 ### `Tau.BookIV.Coda.laws_as_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L251-L251)
 **def
 Tau.BookIV.Coda.laws_as_structure :LawsAsStructureSummary**
 
@@ -613,6 +613,6 @@ Instances For
 
 ### `Tau.BookIV.Coda.laws_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Coda/LawsAsStructure.lean#L253-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Coda/LawsAsStructure.lean#L253-L254)
 **theorem
 Tau.BookIV.Coda.laws_structural :laws_as_structure.structural = true**

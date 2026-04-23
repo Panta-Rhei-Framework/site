@@ -59,7 +59,7 @@ every TauReal is specified by an explicit sequence of TauRat values.
 
 ### `Tau.Boundary.taurat_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L40-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L40-L46)
 **theorem
 Tau.Boundary.taurat_add_assoc
 (a b c : TauRat)
@@ -72,7 +72,7 @@ Addition is associative up to equiv.
 
 ### `Tau.Boundary.taurat_zero_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L48-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L48-L54)
 **theorem
 Tau.Boundary.taurat_zero_add
 (a : TauRat)
@@ -85,7 +85,7 @@ Zero is a left identity for addition (up to equiv).
 
 ### `Tau.Boundary.taurat_negate_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L56-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L56-L62)
 **theorem
 Tau.Boundary.taurat_negate_add
 (a : TauRat)
@@ -98,7 +98,7 @@ Negation is a left inverse for addition (up to equiv).
 
 ### `Tau.Boundary.taurat_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L64-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L64-L70)
 **theorem
 Tau.Boundary.taurat_mul_assoc
 (a b c : TauRat)
@@ -111,7 +111,7 @@ Multiplication is associative up to equiv.
 
 ### `Tau.Boundary.taurat_one_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L72-L78)
 **theorem
 Tau.Boundary.taurat_one_mul
 (a : TauRat)
@@ -124,7 +124,7 @@ One is a left identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.taurat_left_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L80-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L80-L86)
 **theorem
 Tau.Boundary.taurat_left_distrib
 (a b c : TauRat)
@@ -137,7 +137,7 @@ Left distributivity: a * (b + c) = a*b + a*c (up to equiv).
 
 ### `Tau.Boundary.taurat_right_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L88-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L88-L94)
 **theorem
 Tau.Boundary.taurat_right_distrib
 (a b c : TauRat)
@@ -150,7 +150,7 @@ Right distributivity: (a + b) * c = a*c + b*c (up to equiv).
 
 ### `Tau.Boundary.taurat_zero_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L96-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L96-L102)
 **theorem
 Tau.Boundary.taurat_zero_mul
 (a : TauRat)
@@ -163,7 +163,7 @@ Multiplication by zero gives zero (up to equiv).
 
 ### `Tau.Boundary.TauReal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L108-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L108-L112)
 **structure
 Tau.Boundary.TauReal :Type**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L114-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L114-L115)
 **def
 Tau.Boundary.TauReal.zero :TauReal**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L117-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L117-L118)
 **def
 Tau.Boundary.TauReal.one :TauReal**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L120-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L120-L122)
 **def
 Tau.Boundary.TauReal.add
 (a b : TauReal)
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L124-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L124-L126)
 **def
 Tau.Boundary.TauReal.mul
 (a b : TauReal)
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L128-L130)
 **def
 Tau.Boundary.TauReal.negate
 (a : TauReal)
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.sub`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L132-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L132-L134)
 **def
 Tau.Boundary.TauReal.sub
 (a b : TauReal)
@@ -272,7 +272,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.fromTauRat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L136-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L136-L137)
 **def
 Tau.Boundary.TauReal.fromTauRat
 (q : TauRat)
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.fromNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L139-L141)
 **def
 Tau.Boundary.TauReal.fromNat
 (n : Denotation.TauIdx)
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L147-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L147-L150)
 **def
 Tau.Boundary.TauReal.equiv
 (a b : TauReal)
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.Boundary.TauReal.equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L152-L154)
 **theorem
 Tau.Boundary.TauReal.equiv_refl
 (a : TauReal)
@@ -334,7 +334,7 @@ TauReal equivalence is reflexive.
 
 ### `Tau.Boundary.TauReal.equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L156-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L156-L159)
 **theorem
 Tau.Boundary.TauReal.equiv_symm
 {a b : TauReal}
@@ -349,7 +349,7 @@ TauReal equivalence is symmetric.
 
 ### `Tau.Boundary.taureal_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L165-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L165-L168)
 **theorem
 Tau.Boundary.taureal_add_comm
 (a b : TauReal)
@@ -362,7 +362,7 @@ Addition is commutative up to equiv.
 
 ### `Tau.Boundary.taureal_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L170-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L170-L173)
 **theorem
 Tau.Boundary.taureal_add_assoc
 (a b c : TauReal)
@@ -375,7 +375,7 @@ Addition is associative up to equiv.
 
 ### `Tau.Boundary.taureal_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L175-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L175-L178)
 **theorem
 Tau.Boundary.taureal_add_zero
 (a : TauReal)
@@ -388,7 +388,7 @@ Zero is a right identity for addition (up to equiv).
 
 ### `Tau.Boundary.taureal_zero_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L180-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L180-L183)
 **theorem
 Tau.Boundary.taureal_zero_add
 (a : TauReal)
@@ -401,7 +401,7 @@ Zero is a left identity for addition (up to equiv).
 
 ### `Tau.Boundary.taureal_add_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L185-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L185-L188)
 **theorem
 Tau.Boundary.taureal_add_negate
 (a : TauReal)
@@ -414,7 +414,7 @@ Negation is a right inverse for addition (up to equiv).
 
 ### `Tau.Boundary.taureal_negate_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L190-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L190-L193)
 **theorem
 Tau.Boundary.taureal_negate_add
 (a : TauReal)
@@ -427,7 +427,7 @@ Negation is a left inverse for addition (up to equiv).
 
 ### `Tau.Boundary.taureal_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L195-L198)
 **theorem
 Tau.Boundary.taureal_mul_comm
 (a b : TauReal)
@@ -440,7 +440,7 @@ Multiplication is commutative up to equiv.
 
 ### `Tau.Boundary.taureal_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L200-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L200-L203)
 **theorem
 Tau.Boundary.taureal_mul_assoc
 (a b c : TauReal)
@@ -453,7 +453,7 @@ Multiplication is associative up to equiv.
 
 ### `Tau.Boundary.taureal_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L205-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L205-L208)
 **theorem
 Tau.Boundary.taureal_mul_one
 (a : TauReal)
@@ -466,7 +466,7 @@ One is a right identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.taureal_one_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L210-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L210-L213)
 **theorem
 Tau.Boundary.taureal_one_mul
 (a : TauReal)
@@ -479,7 +479,7 @@ One is a left identity for multiplication (up to equiv).
 
 ### `Tau.Boundary.taureal_left_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L215-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L215-L218)
 **theorem
 Tau.Boundary.taureal_left_distrib
 (a b c : TauReal)
@@ -492,7 +492,7 @@ Left distributivity: a * (b + c) = a*b + a*c (up to equiv).
 
 ### `Tau.Boundary.taureal_right_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L220-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L220-L223)
 **theorem
 Tau.Boundary.taureal_right_distrib
 (a b c : TauReal)
@@ -505,7 +505,7 @@ Right distributivity: (a + b) * c = a*c + b*c (up to equiv).
 
 ### `Tau.Boundary.taureal_zero_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L225-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L225-L228)
 **theorem
 Tau.Boundary.taureal_zero_mul
 (a : TauReal)
@@ -518,7 +518,7 @@ Multiplication by zero gives zero (up to equiv).
 
 ### `Tau.Boundary.taureal_ring_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L230-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L230-L241)
 **theorem
 Tau.Boundary.taureal_ring_axioms :(∀ (a b : TauReal), (a.add b).equiv (b.add a)) ∧ (∀ (a b c : TauReal), ((a.add b).add c).equiv (a.add (b.add c))) ∧ (∀ (a : TauReal), (a.add TauReal.zero).equiv a) ∧ (∀ (a : TauReal), (a.add a.negate).equiv TauReal.zero) ∧ (∀ (a b : TauReal), (a.mul b).equiv (b.mul a)) ∧ (∀ (a b c : TauReal), ((a.mul b).mul c).equiv (a.mul (b.mul c))) ∧ (∀ (a : TauReal), (a.mul TauReal.one).equiv a) ∧ ∀ (a b c : TauReal), (a.mul (b.add c)).equiv ((a.mul b).add (a.mul c))**
 
@@ -529,7 +529,7 @@ Full TauReal ring axiom collection.
 
 ### `Tau.Boundary.fromTauRat_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L247-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L247-L251)
 **theorem
 Tau.Boundary.fromTauRat_add
 (a b : TauRat)
@@ -542,7 +542,7 @@ The embedding from TauRat to TauReal preserves addition (up to equiv).
 
 ### `Tau.Boundary.fromTauRat_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L253-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L253-L257)
 **theorem
 Tau.Boundary.fromTauRat_mul
 (a b : TauRat)
@@ -555,7 +555,7 @@ The embedding from TauRat to TauReal preserves multiplication (up to equiv).
 
 ### `Tau.Boundary.taureal_archimedean_embedding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ConstructiveReals.lean#L263-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ConstructiveReals.lean#L263-L282)
 **theorem
 Tau.Boundary.taureal_archimedean_embedding
 (n m : Denotation.TauIdx)

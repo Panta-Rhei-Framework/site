@@ -69,7 +69,7 @@ and nontrivial. This is a shadow of Langlands duality at the spectral level.
 
 ### `Tau.BookIII.Spectral.is_prime_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L52-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L52-L62)
 **def
 Tau.BookIII.Spectral.is_prime_nat
 (n : ℕ)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_prime_nat.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L57-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L57-L61)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.is_prime_nat.go
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L68-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L68-L78)
 **def
 Tau.BookIII.Spectral.goldbach_pair
 (n : ℕ)
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_pair.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L73-L77)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L73-L77)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_pair.go
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L80-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L80-L91)
 **def
 Tau.BookIII.Spectral.goldbach_check
 (bound : ℕ)
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L85-L90)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L85-L90)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_check.go
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_partition_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L93-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L93-L105)
 **def
 Tau.BookIII.Spectral.goldbach_partition_count
 (n : ℕ)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_partition_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L99-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L99-L104)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_partition_count.go
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_twin_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L111-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L111-L113)
 **def
 Tau.BookIII.Spectral.is_twin_prime
 (p : ℕ)
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_prime_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L115-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L115-L125)
 **def
 Tau.BookIII.Spectral.twin_prime_count
 (bound : ℕ)
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_prime_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L119-L124)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L119-L124)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.twin_prime_count.go
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_prime_density_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L127-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L127-L140)
 **def
 Tau.BookIII.Spectral.twin_prime_density_check
 (db : ℕ)
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_prime_density_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L132-L139)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L132-L139)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.twin_prime_density_check.go
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_primorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L146-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L146-L158)
 **def
 Tau.BookIII.Spectral.goldbach_primorial_check
 (db : ℕ)
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_primorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L151-L157)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L151-L157)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.goldbach_primorial_check.go
@@ -307,7 +307,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.additive_multiplicative_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L164-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L164-L184)
 **def
 Tau.BookIII.Spectral.additive_multiplicative_check
 (db : ℕ)
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.additive_multiplicative_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L170-L183)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L170-L183)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.additive_multiplicative_check.go
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.goldbach_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L190-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L190-L192)
 **theorem
 Tau.BookIII.Spectral.goldbach_30 :goldbach_check 30 = true**
 
@@ -351,7 +351,7 @@ Tau.BookIII.Spectral.goldbach_30 :goldbach_check 30 = true**
 
 ### `Tau.BookIII.Spectral.goldbach_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L194-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L194-L196)
 **theorem
 Tau.BookIII.Spectral.goldbach_100 :goldbach_check 100 = true**
 
@@ -362,7 +362,7 @@ Tau.BookIII.Spectral.goldbach_100 :goldbach_check 100 = true**
 
 ### `Tau.BookIII.Spectral.twin_primes_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L198-L200)
 **theorem
 Tau.BookIII.Spectral.twin_primes_30 :twin_prime_count 30 ≥ 5**
 
@@ -373,7 +373,7 @@ Tau.BookIII.Spectral.twin_primes_30 :twin_prime_count 30 ≥ 5**
 
 ### `Tau.BookIII.Spectral.goldbach_primorial_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L202-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L202-L204)
 **theorem
 Tau.BookIII.Spectral.goldbach_primorial_3 :goldbach_primorial_check 3 = true**
 
@@ -384,7 +384,7 @@ Tau.BookIII.Spectral.goldbach_primorial_3 :goldbach_primorial_check 3 = true**
 
 ### `Tau.BookIII.Spectral.twin_prime_density_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L206-L208)
 **theorem
 Tau.BookIII.Spectral.twin_prime_density_3 :twin_prime_density_check 3 = true**
 
@@ -395,7 +395,7 @@ Tau.BookIII.Spectral.twin_prime_density_3 :twin_prime_density_check 3 = true**
 
 ### `Tau.BookIII.Spectral.additive_multiplicative_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L210-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/AdditiveConjectures.lean#L210-L212)
 **theorem
 Tau.BookIII.Spectral.additive_multiplicative_3 :additive_multiplicative_check 3 = true**
 

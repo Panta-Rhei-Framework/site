@@ -66,7 +66,7 @@ Genetic code: codon structure, central dogma morphism, error minimization.
 
 ### `Tau.BookVI.GeneticCode.BSDGeneticCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L34-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L34-L53)
 **structure
 Tau.BookVI.GeneticCode.BSDGeneticCode :Type**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprBSDGeneticCode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L53-L53)
 **instance
 Tau.BookVI.GeneticCode.instReprBSDGeneticCode :Repr BSDGeneticCode**
 
@@ -114,7 +114,7 @@ Equations
 
 ### `Tau.BookVI.GeneticCode.instReprBSDGeneticCode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L53-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L53-L53)
 **def
 Tau.BookVI.GeneticCode.instReprBSDGeneticCode.repr :BSDGeneticCode → ℕ → Std.Format**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.genetic_code`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L55-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L55-L61)
 **def
 Tau.BookVI.GeneticCode.genetic_code :BSDGeneticCode**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.genetic_code_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L63-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L63-L67)
 **theorem
 Tau.BookVI.GeneticCode.genetic_code_structure :genetic_code.amino_acids = 20 ∧ genetic_code.codons = 64 ∧ genetic_code.stop_codons = 3**
 
@@ -147,7 +147,7 @@ Tau.BookVI.GeneticCode.genetic_code_structure :genetic_code.amino_acids = 20 ∧
 
 ### `Tau.BookVI.GeneticCode.CodonErrorCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L73-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L73-L88)
 **structure
 Tau.BookVI.GeneticCode.CodonErrorCorrection :Type**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprCodonErrorCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L88-L88)
 **instance
 Tau.BookVI.GeneticCode.instReprCodonErrorCorrection :Repr CodonErrorCorrection**
 
@@ -189,7 +189,7 @@ Equations
 
 ### `Tau.BookVI.GeneticCode.instReprCodonErrorCorrection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L88-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L88-L88)
 **def
 Tau.BookVI.GeneticCode.instReprCodonErrorCorrection.repr :CodonErrorCorrection → ℕ → Std.Format**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.codon_err`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L90-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L90-L94)
 **def
 Tau.BookVI.GeneticCode.codon_err :CodonErrorCorrection**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.codon_error_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L96-L99)
 **theorem
 Tau.BookVI.GeneticCode.codon_error_correction :codon_err.percentile_rank_x100 = 9999 ∧ codon_err.redundancy_x100 = 168**
 
@@ -222,7 +222,7 @@ Tau.BookVI.GeneticCode.codon_error_correction :codon_err.percentile_rank_x100 = 
 
 ### `Tau.BookVI.GeneticCode.CentralDogmaMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L105-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L105-L120)
 **structure
 Tau.BookVI.GeneticCode.CentralDogmaMorphism :Type**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprCentralDogmaMorphism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L120-L120)
 **def
 Tau.BookVI.GeneticCode.instReprCentralDogmaMorphism.repr :CentralDogmaMorphism → ℕ → Std.Format**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprCentralDogmaMorphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L120-L120)
 **instance
 Tau.BookVI.GeneticCode.instReprCentralDogmaMorphism :Repr CentralDogmaMorphism**
 
@@ -276,7 +276,7 @@ Equations
 
 ### `Tau.BookVI.GeneticCode.central_dogma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L122-L124)
 **def
 Tau.BookVI.GeneticCode.central_dogma :CentralDogmaMorphism**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.central_dogma_morphism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L126-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L126-L130)
 **theorem
 Tau.BookVI.GeneticCode.central_dogma_morphism :central_dogma.steps = 2 ∧ central_dogma.source_factor = "tau1_DNA" ∧ central_dogma.target_factor = "T2_Protein"**
 
@@ -297,7 +297,7 @@ Tau.BookVI.GeneticCode.central_dogma_morphism :central_dogma.steps = 2 ∧ centr
 
 ### `Tau.BookVI.GeneticCode.TuringHodgeEigenmodes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L136-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L136-L149)
 **structure
 Tau.BookVI.GeneticCode.TuringHodgeEigenmodes :Type**
 
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprTuringHodgeEigenmodes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L149-L149)
 **instance
 Tau.BookVI.GeneticCode.instReprTuringHodgeEigenmodes :Repr TuringHodgeEigenmodes**
 
@@ -336,7 +336,7 @@ Equations
 
 ### `Tau.BookVI.GeneticCode.instReprTuringHodgeEigenmodes.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L149-L149)
 **def
 Tau.BookVI.GeneticCode.instReprTuringHodgeEigenmodes.repr :TuringHodgeEigenmodes → ℕ → Std.Format**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.turing_hodge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L151-L151)
 **def
 Tau.BookVI.GeneticCode.turing_hodge :TuringHodgeEigenmodes**
 
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.turing_hodge_eigenmodes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L153-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L153-L157)
 **theorem
 Tau.BookVI.GeneticCode.turing_hodge_eigenmodes :turing_hodge.hodge_laplacian = true ∧ turing_hodge.reaction_source = "tau1_base" ∧ turing_hodge.diffusion_domain = "T2_fiber"**
 
@@ -369,7 +369,7 @@ Tau.BookVI.GeneticCode.turing_hodge_eigenmodes :turing_hodge.hodge_laplacian = t
 
 ### `Tau.BookVI.GeneticCode.ReactionDiffusionTau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L163-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L163-L174)
 **structure
 Tau.BookVI.GeneticCode.ReactionDiffusionTau3 :Type**
 
@@ -394,7 +394,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.instReprReactionDiffusionTau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L174-L174)
 **instance
 Tau.BookVI.GeneticCode.instReprReactionDiffusionTau3 :Repr ReactionDiffusionTau3**
 
@@ -405,7 +405,7 @@ Equations
 
 ### `Tau.BookVI.GeneticCode.instReprReactionDiffusionTau3.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L174-L174)
 **def
 Tau.BookVI.GeneticCode.instReprReactionDiffusionTau3.repr :ReactionDiffusionTau3 → ℕ → Std.Format**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.rxn_diff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L176-L176)
 **def
 Tau.BookVI.GeneticCode.rxn_diff :ReactionDiffusionTau3**
 
@@ -429,6 +429,6 @@ Instances For
 
 ### `Tau.BookVI.GeneticCode.reaction_diffusion_tau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Source/GeneticCode.lean#L178-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Source/GeneticCode.lean#L178-L182)
 **theorem
 Tau.BookVI.GeneticCode.reaction_diffusion_tau3 :rxn_diff.reaction_is_base = true ∧ rxn_diff.diffusion_is_fiber = true ∧ rxn_diff.tau3_separated = true**

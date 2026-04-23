@@ -93,7 +93,7 @@ lightest excitation above the vacuum, with mass proportional to the gap.
 
 ### `Tau.BookIV.Strong.StrongConfigSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L54-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L54-L66)
 **structure
 Tau.BookIV.Strong.StrongConfigSpace :Type**
 
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongConfigSpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L66-L66)
 **def
 Tau.BookIV.Strong.instReprStrongConfigSpace.repr :StrongConfigSpace → ℕ → Std.Format**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongConfigSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L66-L66)
 **instance
 Tau.BookIV.Strong.instReprStrongConfigSpace :Repr StrongConfigSpace**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookIV.Strong.StrongConnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L72-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L72-L82)
 **structure
 Tau.BookIV.Strong.StrongConnection :Type**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongConnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L82-L82)
 **instance
 Tau.BookIV.Strong.instReprStrongConnection :Repr StrongConnection**
 
@@ -178,7 +178,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprStrongConnection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L82-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L82-L82)
 **def
 Tau.BookIV.Strong.instReprStrongConnection.repr :StrongConnection → ℕ → Std.Format**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.StrongCurvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L88-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L88-L99)
 **structure
 Tau.BookIV.Strong.StrongCurvature :Type**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongCurvature.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L99-L99)
 **def
 Tau.BookIV.Strong.instReprStrongCurvature.repr :StrongCurvature → ℕ → Std.Format**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongCurvature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L99-L99)
 **instance
 Tau.BookIV.Strong.instReprStrongCurvature :Repr StrongCurvature**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookIV.Strong.PlaquetteDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L105-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L105-L115)
 **structure
 Tau.BookIV.Strong.PlaquetteDefect :Type**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprPlaquetteDefect.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L115-L115)
 **def
 Tau.BookIV.Strong.instReprPlaquetteDefect.repr :PlaquetteDefect → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprPlaquetteDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L115-L115)
 **instance
 Tau.BookIV.Strong.instReprPlaquetteDefect :Repr PlaquetteDefect**
 
@@ -285,7 +285,7 @@ Equations
 
 ### `Tau.BookIV.Strong.DefectEquivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L117-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L117-L124)
 **structure
 Tau.BookIV.Strong.DefectEquivalence :Type**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprDefectEquivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L124-L124)
 **instance
 Tau.BookIV.Strong.instReprDefectEquivalence :Repr DefectEquivalence**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprDefectEquivalence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L124-L124)
 **def
 Tau.BookIV.Strong.instReprDefectEquivalence.repr :DefectEquivalence → ℕ → Std.Format**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.defect_equivalence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L126-L126)
 **def
 Tau.BookIV.Strong.defect_equivalence :DefectEquivalence**
 
@@ -340,7 +340,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.VacuumPlaquetteForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L132-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L132-L144)
 **structure
 Tau.BookIV.Strong.VacuumPlaquetteForm :Type**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprVacuumPlaquetteForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L144-L144)
 **instance
 Tau.BookIV.Strong.instReprVacuumPlaquetteForm :Repr VacuumPlaquetteForm**
 
@@ -378,7 +378,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprVacuumPlaquetteForm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L144-L144)
 **def
 Tau.BookIV.Strong.instReprVacuumPlaquetteForm.repr :VacuumPlaquetteForm → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.RefinementCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L146-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L146-L153)
 **structure
 Tau.BookIV.Strong.RefinementCoherence :Type**
 
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprRefinementCoherence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L153-L153)
 **def
 Tau.BookIV.Strong.instReprRefinementCoherence.repr :RefinementCoherence → ℕ → Std.Format**
 
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprRefinementCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L153-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L153-L153)
 **instance
 Tau.BookIV.Strong.instReprRefinementCoherence :Repr RefinementCoherence**
 
@@ -433,7 +433,7 @@ Equations
 
 ### `Tau.BookIV.Strong.refinement_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L155-L155)
 **def
 Tau.BookIV.Strong.refinement_coherence :RefinementCoherence**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.StrongQuadraticForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L161-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L161-L173)
 **structure
 Tau.BookIV.Strong.StrongQuadraticForm :Type**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongQuadraticForm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L173-L173)
 **def
 Tau.BookIV.Strong.instReprStrongQuadraticForm.repr :StrongQuadraticForm → ℕ → Std.Format**
 
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongQuadraticForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L173-L173)
 **instance
 Tau.BookIV.Strong.instReprStrongQuadraticForm :Repr StrongQuadraticForm**
 
@@ -495,7 +495,7 @@ Equations
 
 ### `Tau.BookIV.Strong.quadratic_form_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L175-L177)
 **def
 Tau.BookIV.Strong.quadratic_form_properties :StrongQuadraticForm**
 
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.SpectralGapStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L183-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L183-L193)
 **structure
 Tau.BookIV.Strong.SpectralGapStage :Type**
 
@@ -534,7 +534,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSpectralGapStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L193-L193)
 **instance
 Tau.BookIV.Strong.instReprSpectralGapStage :Repr SpectralGapStage**
 
@@ -545,7 +545,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprSpectralGapStage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L193-L193)
 **def
 Tau.BookIV.Strong.instReprSpectralGapStage.repr :SpectralGapStage → ℕ → Std.Format**
 
@@ -557,7 +557,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.YMSectorCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L199-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L199-L209)
 **structure
 Tau.BookIV.Strong.YMSectorCoupling :Type**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprYMSectorCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L209-L209)
 **instance
 Tau.BookIV.Strong.instReprYMSectorCoupling :Repr YMSectorCoupling**
 
@@ -592,7 +592,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprYMSectorCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L209-L209)
 **def
 Tau.BookIV.Strong.instReprYMSectorCoupling.repr :YMSectorCoupling → ℕ → Std.Format**
 
@@ -604,7 +604,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.GapModeCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L215-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L215-L224)
 **structure
 Tau.BookIV.Strong.GapModeCoherence :Type**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapModeCoherence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L224-L224)
 **def
 Tau.BookIV.Strong.instReprGapModeCoherence.repr :GapModeCoherence → ℕ → Std.Format**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapModeCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L224-L224)
 **instance
 Tau.BookIV.Strong.instReprGapModeCoherence :Repr GapModeCoherence**
 
@@ -650,7 +650,7 @@ Equations
 
 ### `Tau.BookIV.Strong.gap_mode_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L226-L226)
 **def
 Tau.BookIV.Strong.gap_mode_coherence :GapModeCoherence**
 
@@ -662,7 +662,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.GapQuantumDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L232-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L232-L242)
 **structure
 Tau.BookIV.Strong.GapQuantumDef :Type**
 
@@ -686,7 +686,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapQuantumDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L242-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L242-L242)
 **def
 Tau.BookIV.Strong.instReprGapQuantumDef.repr :GapQuantumDef → ℕ → Std.Format**
 
@@ -698,7 +698,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapQuantumDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L242-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L242-L242)
 **instance
 Tau.BookIV.Strong.instReprGapQuantumDef :Repr GapQuantumDef**
 
@@ -709,7 +709,7 @@ Equations
 
 ### `Tau.BookIV.Strong.gap_quantum_def`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L244-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L244-L244)
 **def
 Tau.BookIV.Strong.gap_quantum_def :GapQuantumDef**
 
@@ -721,7 +721,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.GapPositivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L250-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L250-L257)
 **structure
 Tau.BookIV.Strong.GapPositivity :Type**
 
@@ -741,7 +741,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapPositivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L257-L257)
 **instance
 Tau.BookIV.Strong.instReprGapPositivity :Repr GapPositivity**
 
@@ -752,7 +752,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprGapPositivity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L257-L257)
 **def
 Tau.BookIV.Strong.instReprGapPositivity.repr :GapPositivity → ℕ → Std.Format**
 
@@ -764,7 +764,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.gap_positivity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L259-L259)
 **def
 Tau.BookIV.Strong.gap_positivity :GapPositivity**
 
@@ -776,7 +776,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.TowerMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L261-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L261-L268)
 **structure
 Tau.BookIV.Strong.TowerMonotonicity :Type**
 
@@ -796,7 +796,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprTowerMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L268-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L268-L268)
 **instance
 Tau.BookIV.Strong.instReprTowerMonotonicity :Repr TowerMonotonicity**
 
@@ -807,7 +807,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprTowerMonotonicity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L268-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L268-L268)
 **def
 Tau.BookIV.Strong.instReprTowerMonotonicity.repr :TowerMonotonicity → ℕ → Std.Format**
 
@@ -819,7 +819,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.tower_monotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L270-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L270-L270)
 **def
 Tau.BookIV.Strong.tower_monotonicity :TowerMonotonicity**
 
@@ -831,7 +831,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ProfiniteSpectralPreservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L276-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L276-L287)
 **structure
 Tau.BookIV.Strong.ProfiniteSpectralPreservation :Type**
 
@@ -856,7 +856,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprProfiniteSpectralPreservation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L287-L287)
 **def
 Tau.BookIV.Strong.instReprProfiniteSpectralPreservation.repr :ProfiniteSpectralPreservation → ℕ → Std.Format**
 
@@ -868,7 +868,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprProfiniteSpectralPreservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L287-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L287-L287)
 **instance
 Tau.BookIV.Strong.instReprProfiniteSpectralPreservation :Repr ProfiniteSpectralPreservation**
 
@@ -879,7 +879,7 @@ Equations
 
 ### `Tau.BookIV.Strong.profinite_spectral_preservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L289-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L289-L289)
 **def
 Tau.BookIV.Strong.profinite_spectral_preservation :ProfiniteSpectralPreservation**
 
@@ -891,7 +891,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.YangMillsMassGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L295-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L295-L321)
 **structure
 Tau.BookIV.Strong.YangMillsMassGap :Type**
 
@@ -943,7 +943,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprYangMillsMassGap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L321-L321)
 **def
 Tau.BookIV.Strong.instReprYangMillsMassGap.repr :YangMillsMassGap → ℕ → Std.Format**
 
@@ -955,7 +955,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprYangMillsMassGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L321-L321)
 **instance
 Tau.BookIV.Strong.instReprYangMillsMassGap :Repr YangMillsMassGap**
 
@@ -966,7 +966,7 @@ Equations
 
 ### `Tau.BookIV.Strong.yang_mills_mass_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L323-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L323-L323)
 **def
 Tau.BookIV.Strong.yang_mills_mass_gap :YangMillsMassGap**
 
@@ -978,7 +978,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ym_gap_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L325-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L325-L326)
 **theorem
 Tau.BookIV.Strong.ym_gap_positive :yang_mills_mass_gap.gap_positive = true**
 
@@ -987,7 +987,7 @@ Tau.BookIV.Strong.ym_gap_positive :yang_mills_mass_gap.gap_positive = true**
 
 ### `Tau.BookIV.Strong.ym_four_steps`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L328-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L328-L329)
 **theorem
 Tau.BookIV.Strong.ym_four_steps :yang_mills_mass_gap.step_count = 4**
 
@@ -996,7 +996,7 @@ Tau.BookIV.Strong.ym_four_steps :yang_mills_mass_gap.step_count = 4**
 
 ### `Tau.BookIV.Strong.ReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L335-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L335-L350)
 **structure
 Tau.BookIV.Strong.ReadoutFunctor :Type**
 
@@ -1027,7 +1027,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L350-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L350-L350)
 **instance
 Tau.BookIV.Strong.instReprReadoutFunctor :Repr ReadoutFunctor**
 
@@ -1038,7 +1038,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprReadoutFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L350-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L350-L350)
 **def
 Tau.BookIV.Strong.instReprReadoutFunctor.repr :ReadoutFunctor → ℕ → Std.Format**
 
@@ -1050,7 +1050,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.readout_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L352-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L352-L352)
 **def
 Tau.BookIV.Strong.readout_functor :ReadoutFunctor**
 
@@ -1062,7 +1062,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.OrthodoxBridgeConj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L358-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L358-L376)
 **structure
 Tau.BookIV.Strong.OrthodoxBridgeConj :Type**
 
@@ -1096,7 +1096,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprOrthodoxBridgeConj.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L376-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L376-L376)
 **def
 Tau.BookIV.Strong.instReprOrthodoxBridgeConj.repr :OrthodoxBridgeConj → ℕ → Std.Format**
 
@@ -1108,7 +1108,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprOrthodoxBridgeConj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L376-L376)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L376-L376)
 **instance
 Tau.BookIV.Strong.instReprOrthodoxBridgeConj :Repr OrthodoxBridgeConj**
 
@@ -1119,7 +1119,7 @@ Equations
 
 ### `Tau.BookIV.Strong.orthodox_bridge_conjecture`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/YangMillsGap.lean#L378-L378)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/YangMillsGap.lean#L378-L378)
 **def
 Tau.BookIV.Strong.orthodox_bridge_conjecture :OrthodoxBridgeConj**
 

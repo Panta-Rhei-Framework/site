@@ -53,7 +53,7 @@ then they agree everywhere (via the Identity Theorem).
 
 ### `Tau.Holomorphy.count_in_K`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L33-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L33-L35)
 **def
 Tau.Holomorphy.count_in_K
 (inK : Denotation.TauIdx → Bool)
@@ -71,7 +71,7 @@ Instances For
 
 ### `Tau.Holomorphy.PrimoriallyThin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L37-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L37-L41)
 **def
 Tau.Holomorphy.PrimoriallyThin
 (inK : Denotation.TauIdx → Bool)
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.Holomorphy.primordially_thin_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L43-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L43-L45)
 **def
 Tau.Holomorphy.primordially_thin_check
 (inK : Denotation.TauIdx → Bool)
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.Holomorphy.GloballyThin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L47-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L47-L49)
 **def
 Tau.Holomorphy.GloballyThin
 (inK : Denotation.TauIdx → Bool)
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.Holomorphy.count_empty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L51-L53)
 **theorem
 Tau.Holomorphy.count_empty
 (k : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Empty set has 0 occupied directions.
 
 ### `Tau.Holomorphy.empty_thin_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L55-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L55-L60)
 **theorem
 Tau.Holomorphy.empty_thin_at
 (k : Denotation.TauIdx)
@@ -153,7 +153,7 @@ The empty set is thin at every stage ≥ 2.
 
 ### `Tau.Holomorphy.empty_globally_thin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L62-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L62-L64)
 **theorem
 Tau.Holomorphy.empty_globally_thin :GloballyThin fun (x : Denotation.TauIdx) => false**
 
@@ -164,7 +164,7 @@ The empty set is globally thin.
 
 ### `Tau.Holomorphy.crt_extension_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L82-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L82-L90)
 **theorem
 Tau.Holomorphy.crt_extension_b
 (f : StageFun)
@@ -187,7 +187,7 @@ For the B-sector: reduce(f.b_fun(n, l), k) = f.b_fun(n, k) for k ≤ l.
 
 ### `Tau.Holomorphy.crt_extension_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L92-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L92-L96)
 **theorem
 Tau.Holomorphy.crt_extension_c
 (f : StageFun)
@@ -206,7 +206,7 @@ CRT extension for C-sector.
 
 ### `Tau.Holomorphy.output_reduced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L98-L102)
 **theorem
 Tau.Holomorphy.output_reduced
 (f : StageFun)
@@ -223,7 +223,7 @@ Self-consistency: output at stage k is already reduced.
 
 ### `Tau.Holomorphy.removable_singularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L108-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L108-L119)
 **theorem
 Tau.Holomorphy.removable_singularity
 (f₁ f₂ : StageFun)
@@ -252,7 +252,7 @@ knowing f on a dense set of inputs at stage d₀ determines f everywhere
 
 ### `Tau.Holomorphy.extension_from_restriction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/Thinness.lean#L121-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/Thinness.lean#L121-L128)
 **theorem
 Tau.Holomorphy.extension_from_restriction
 (f₁ f₂ : StageFun)

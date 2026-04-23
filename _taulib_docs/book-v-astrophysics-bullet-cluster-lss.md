@@ -110,7 +110,7 @@ of the primordial defect-density oscillations.
 
 ### `Tau.BookV.Astrophysics.BulletClusterAnalysis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L66-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L66-L85)
 **structure
 Tau.BookV.Astrophysics.BulletClusterAnalysis :Type**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBulletClusterAnalysis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L85-L85)
 **instance
 Tau.BookV.Astrophysics.instReprBulletClusterAnalysis :Repr BulletClusterAnalysis**
 
@@ -156,7 +156,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprBulletClusterAnalysis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L85-L85)
 **def
 Tau.BookV.Astrophysics.instReprBulletClusterAnalysis.repr :BulletClusterAnalysis → ℕ → Std.Format**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.lensing_gas_offset`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L91-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L91-L103)
 **theorem
 Tau.BookV.Astrophysics.lensing_gas_offset :"Lensing-gas offset = boundary correction centered on stars, not gas" = "Lensing-gas offset = boundary correction centered on stars, not gas"**
 
@@ -194,7 +194,7 @@ During the cluster collision:
 
 ### `Tau.BookV.Astrophysics.collisionless_stellar`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L109-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L109-L119)
 **theorem
 Tau.BookV.Astrophysics.collisionless_stellar :"Bullet Cluster collisionless component = stars, not dark matter" = "Bullet Cluster collisionless component = stars, not dark matter"**
 
@@ -212,7 +212,7 @@ the virial discrepancy).
 
 ### `Tau.BookV.Astrophysics.LSSData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L125-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L125-L138)
 **structure
 Tau.BookV.Astrophysics.LSSData :Type**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLSSData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L138-L138)
 **def
 Tau.BookV.Astrophysics.instReprLSSData.repr :LSSData → ℕ → Std.Format**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLSSData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L138-L138)
 **instance
 Tau.BookV.Astrophysics.instReprLSSData :Repr LSSData**
 
@@ -264,7 +264,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.CosmicWebType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L144-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L144-L155)
 **inductive
 Tau.BookV.Astrophysics.CosmicWebType :Type**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCosmicWebType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
 **def
 Tau.BookV.Astrophysics.instReprCosmicWebType.repr :CosmicWebType → ℕ → Std.Format**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCosmicWebType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
 **instance
 Tau.BookV.Astrophysics.instReprCosmicWebType :Repr CosmicWebType**
 
@@ -313,7 +313,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqCosmicWebType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqCosmicWebType :DecidableEq CosmicWebType**
 
@@ -324,7 +324,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqCosmicWebType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
 **def
 Tau.BookV.Astrophysics.instBEqCosmicWebType.beq :CosmicWebType → CosmicWebType → Bool**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqCosmicWebType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L155-L155)
 **instance
 Tau.BookV.Astrophysics.instBEqCosmicWebType :BEq CosmicWebType**
 
@@ -347,7 +347,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.cosmic_web_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L157-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L157-L161)
 **theorem
 Tau.BookV.Astrophysics.cosmic_web_complete :[CosmicWebType.Cluster, CosmicWebType.Filament, CosmicWebType.Wall, CosmicWebType.Void].length = 4**
 
@@ -358,7 +358,7 @@ The four cosmic web types are complete.
 
 ### `Tau.BookV.Astrophysics.bao_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L167-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L167-L168)
 **def
 Tau.BookV.Astrophysics.bao_scale :ℕ**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.bao_from_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L170-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L170-L181)
 **theorem
 Tau.BookV.Astrophysics.bao_from_boundary :bao_scale = 150**
 
@@ -392,7 +392,7 @@ boundary-data surface.
 
 ### `Tau.BookV.Astrophysics.PowerSpectrumData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L187-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L187-L198)
 **structure
 Tau.BookV.Astrophysics.PowerSpectrumData :Type**
 
@@ -418,7 +418,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPowerSpectrumData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L198-L198)
 **instance
 Tau.BookV.Astrophysics.instReprPowerSpectrumData :Repr PowerSpectrumData**
 
@@ -429,7 +429,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprPowerSpectrumData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L198-L198)
 **def
 Tau.BookV.Astrophysics.instReprPowerSpectrumData.repr :PowerSpectrumData → ℕ → Std.Format**
 
@@ -441,7 +441,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.planck_power_spectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L200-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L200-L205)
 **def
 Tau.BookV.Astrophysics.planck_power_spectrum :PowerSpectrumData**
 
@@ -455,7 +455,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.lss_from_boundary_growth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L211-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L211-L220)
 **theorem
 Tau.BookV.Astrophysics.lss_from_boundary_growth :"LSS = D-sector amplification of primordial boundary perturbations" = "LSS = D-sector amplification of primordial boundary perturbations"**
 
@@ -472,7 +472,7 @@ wells needed for structure formation.
 
 ### `Tau.BookV.Astrophysics.bullet_cluster`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L242-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L242-L250)
 **def
 Tau.BookV.Astrophysics.bullet_cluster :BulletClusterAnalysis**
 
@@ -486,7 +486,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.WilsonLoopFlux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L260-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L260-L272)
 **structure
 Tau.BookV.Astrophysics.WilsonLoopFlux :Type**
 
@@ -513,7 +513,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprWilsonLoopFlux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L272-L272)
 **instance
 Tau.BookV.Astrophysics.instReprWilsonLoopFlux :Repr WilsonLoopFlux**
 
@@ -524,7 +524,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprWilsonLoopFlux.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L272-L272)
 **def
 Tau.BookV.Astrophysics.instReprWilsonLoopFlux.repr :WilsonLoopFlux → ℕ → Std.Format**
 
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.FilamentBFieldAlignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L274-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L274-L283)
 **structure
 Tau.BookV.Astrophysics.FilamentBFieldAlignment :Type**
 
@@ -559,7 +559,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprFilamentBFieldAlignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L283-L283)
 **instance
 Tau.BookV.Astrophysics.instReprFilamentBFieldAlignment :Repr FilamentBFieldAlignment**
 
@@ -570,7 +570,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprFilamentBFieldAlignment.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L283-L283)
 **def
 Tau.BookV.Astrophysics.instReprFilamentBFieldAlignment.repr :FilamentBFieldAlignment → ℕ → Std.Format**
 
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instInhabitedFilamentBFieldAlignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L285-L285)
 **instance
 Tau.BookV.Astrophysics.instInhabitedFilamentBFieldAlignment :Inhabited FilamentBFieldAlignment**
 
@@ -593,7 +593,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.filament_bfield_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L287-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L287-L292)
 **theorem
 Tau.BookV.Astrophysics.filament_bfield_theorem :"B_fil ~ 10-100 nG (topological), B_dynamo ~ 0.1-1 nG (random)" = "B_fil ~ 10-100 nG (topological), B_dynamo ~ 0.1-1 nG (random)"**
 
@@ -606,7 +606,7 @@ random dynamo prediction (0.1-1 nG) by 1-2 orders of magnitude.
 
 ### `Tau.BookV.Astrophysics.topo_exceeds_dynamo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L294-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L294-L295)
 **theorem
 Tau.BookV.Astrophysics.topo_exceeds_dynamo :10 > 1**
 
@@ -617,7 +617,7 @@ Topological B exceeds dynamo B by ~2 OOM at the lower bound.
 
 ### `Tau.BookV.Astrophysics.IGMFPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L297-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L297-L305)
 **structure
 Tau.BookV.Astrophysics.IGMFPrediction :Type**
 
@@ -639,7 +639,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprIGMFPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L305-L305)
 **instance
 Tau.BookV.Astrophysics.instReprIGMFPrediction :Repr IGMFPrediction**
 
@@ -650,7 +650,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprIGMFPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L305-L305)
 **def
 Tau.BookV.Astrophysics.instReprIGMFPrediction.repr :IGMFPrediction → ℕ → Std.Format**
 
@@ -662,7 +662,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.vernstrom_detection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L307-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L307-L309)
 **def
 Tau.BookV.Astrophysics.vernstrom_detection :IGMFPrediction**
 
@@ -676,7 +676,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.vernstrom_in_tau_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L311-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L311-L315)
 **theorem
 Tau.BookV.Astrophysics.vernstrom_in_tau_range :100 ≤ vernstrom_detection.b_fil_ng_x10 ∧ vernstrom_detection.b_fil_ng_x10 ≤ 1000**
 
@@ -687,7 +687,7 @@ Tau.BookV.Astrophysics.vernstrom_in_tau_range :100 ≤ vernstrom_detection.b_fil
 
 ### `Tau.BookV.Astrophysics.TauTransferFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L324-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L324-L338)
 **structure
 Tau.BookV.Astrophysics.TauTransferFunction :Type**
 
@@ -716,7 +716,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTauTransferFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L338-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L338-L338)
 **instance
 Tau.BookV.Astrophysics.instReprTauTransferFunction :Repr TauTransferFunction**
 
@@ -727,7 +727,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprTauTransferFunction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L338-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L338-L338)
 **def
 Tau.BookV.Astrophysics.instReprTauTransferFunction.repr :TauTransferFunction → ℕ → Std.Format**
 
@@ -739,7 +739,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.MatterPowerSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L340-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L340-L354)
 **structure
 Tau.BookV.Astrophysics.MatterPowerSpectrum :Type**
 
@@ -769,7 +769,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMatterPowerSpectrum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L354-L354)
 **def
 Tau.BookV.Astrophysics.instReprMatterPowerSpectrum.repr :MatterPowerSpectrum → ℕ → Std.Format**
 
@@ -781,7 +781,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMatterPowerSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L354-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L354-L354)
 **instance
 Tau.BookV.Astrophysics.instReprMatterPowerSpectrum :Repr MatterPowerSpectrum**
 
@@ -792,7 +792,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.tau_transfer_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L356-L361)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L356-L361)
 **def
 Tau.BookV.Astrophysics.tau_transfer_canonical :TauTransferFunction**
 
@@ -806,7 +806,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.power_spectrum_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L363-L368)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L363-L368)
 **def
 Tau.BookV.Astrophysics.power_spectrum_canonical :MatterPowerSpectrum**
 
@@ -820,7 +820,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.bao_scale_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L370-L373)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/BulletClusterLSS.lean#L370-L373)
 **theorem
 Tau.BookV.Astrophysics.bao_scale_consistent :power_spectrum_canonical.r_s_x10 ≥ power_spectrum_canonical.boss_r_s_x10**
 

@@ -120,7 +120,7 @@ We compute 341304⁴ step by step:
 
 ### `Tau.BookIV.Sectors.iota_fourth_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L84-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L84-L85)
 **def
 Tau.BookIV.Sectors.iota_fourth_numer :ℕ**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.iota_fourth_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L87-L88)
 **def
 Tau.BookIV.Sectors.iota_fourth_denom :ℕ**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_spectral_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L90-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L90-L91)
 **def
 Tau.BookIV.Sectors.alpha_spectral_numer :ℕ**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_spectral_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L93-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L93-L94)
 **def
 Tau.BookIV.Sectors.alpha_spectral_denom :ℕ**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_spectral_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L96-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L96-L98)
 **theorem
 Tau.BookIV.Sectors.alpha_spectral_denom_pos :alpha_spectral_denom > 0**
 
@@ -187,7 +187,7 @@ The denominator is positive.
 
 ### `Tau.BookIV.Sectors.alpha_spectral_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L104-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L104-L106)
 **def
 Tau.BookIV.Sectors.alpha_spectral_float :Float**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_inverse_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L108-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L108-L110)
 **def
 Tau.BookIV.Sectors.alpha_inverse_float :Float**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L116-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L116-L124)
 **theorem
 Tau.BookIV.Sectors.alpha_in_range :alpha_spectral_numer * 1000000 > 7200 * alpha_spectral_denom ∧ alpha_spectral_numer * 1000000 < 7400 * alpha_spectral_denom**
 
@@ -228,7 +228,7 @@ Spectral approximation: α ≈ 7247 / 10⁶ (within range).
 
 ### `Tau.BookIV.Sectors.alpha_inverse_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L126-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L126-L132)
 **theorem
 Tau.BookIV.Sectors.alpha_inverse_in_range :alpha_spectral_denom > 135 * alpha_spectral_numer ∧ alpha_spectral_denom < 139 * alpha_spectral_numer**
 
@@ -252,7 +252,7 @@ The 1st Edition reference sheet formula α = (ι<sub>τ</sub>/2)⁴ is INCORRECT
 
 ### `Tau.BookIV.Sectors.wrong_alpha_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L148-L149)
 **def
 Tau.BookIV.Sectors.wrong_alpha_numer :ℕ**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.wrong_alpha_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L151-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L151-L152)
 **def
 Tau.BookIV.Sectors.wrong_alpha_denom :ℕ**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.wrong_formula_refutation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L154-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L154-L163)
 **theorem
 Tau.BookIV.Sectors.wrong_formula_refutation :wrong_alpha_numer * 1000000 < 1000 * wrong_alpha_denom**
 
@@ -294,7 +294,7 @@ they differ by a factor of 128/15 ≈ 8.53).
 
 ### `Tau.BookIV.Sectors.correct_vs_wrong_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L165-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L165-L174)
 **theorem
 Tau.BookIV.Sectors.correct_vs_wrong_ratio :alpha_spectral_numer * wrong_alpha_denom * 15 = wrong_alpha_numer * alpha_spectral_denom * 128**
 
@@ -307,7 +307,7 @@ Cross-multiplied: correct_numer · wrong_denom · 15 = wrong_numer · correct_de
 
 ### `Tau.BookIV.Sectors.alpha_from_em_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L180-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L180-L195)
 **theorem
 Tau.BookIV.Sectors.alpha_from_em_coupling :alpha_spectral_numer = 8 * (kappa_BB.numer * kappa_BB.numer) ∧ alpha_spectral_denom = 15 * (kappa_BB.denom * kappa_BB.denom)**
 
@@ -323,7 +323,7 @@ Since κ(B;2) = ι<sub>τ</sub>², we have:
 
 ### `Tau.BookIV.Sectors.alpha_tower_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L201-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L201-L203)
 **def
 Tau.BookIV.Sectors.alpha_tower_numer :ℕ**
 
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_tower_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L205-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L205-L207)
 **def
 Tau.BookIV.Sectors.alpha_tower_denom :ℕ**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_tower_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L209-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L209-L211)
 **theorem
 Tau.BookIV.Sectors.alpha_tower_denom_pos :alpha_tower_denom > 0**
 
@@ -364,7 +364,7 @@ The tower denominator is positive.
 
 ### `Tau.BookIV.Sectors.alpha_tower_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L213-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L213-L215)
 **def
 Tau.BookIV.Sectors.alpha_tower_float :Float**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_tower_inverse_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L217-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L217-L219)
 **def
 Tau.BookIV.Sectors.alpha_tower_inverse_float :Float**
 
@@ -392,7 +392,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_tower_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L221-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L221-L229)
 **theorem
 Tau.BookIV.Sectors.alpha_tower_in_range :alpha_tower_numer * 1000000 > 7296 * alpha_tower_denom ∧ alpha_tower_numer * 1000000 < 7300 * alpha_tower_denom**
 
@@ -405,7 +405,7 @@ CODATA: α ≈ 7297.35 per million.
 
 ### `Tau.BookIV.Sectors.alpha_tower_inverse_tight`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L231-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L231-L238)
 **theorem
 Tau.BookIV.Sectors.alpha_tower_inverse_tight :1370 * alpha_tower_numer < 10 * alpha_tower_denom ∧ 10 * alpha_tower_denom < 1371 * alpha_tower_numer**
 
@@ -417,7 +417,7 @@ Cross-multiplied: 1370 · numer < 10 · denom < 1371 · numer.
 
 ### `Tau.BookIV.Sectors.tower_refines_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L240-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L240-L250)
 **theorem
 Tau.BookIV.Sectors.tower_refines_spectral :alpha_tower_numer * alpha_spectral_denom * 120 = alpha_spectral_numer * alpha_tower_denom * 121**
 
@@ -431,7 +431,7 @@ Cross-multiplied: tower_numer · spectral_denom · 120
 
 ### `Tau.BookIV.Sectors.tower_correction_is_s5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L252-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L252-L255)
 **theorem
 Tau.BookIV.Sectors.tower_correction_is_s5 :121 = 120 + 1 ∧ 120 = 1 * 2 * 3 * 4 * 5**
 
@@ -443,7 +443,7 @@ This is 1 + 1/5!, where 5 = η₁ from the iterated prime tower.
 
 ### `Tau.BookIV.Sectors.alpha_solenoidal_numerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L261-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L261-L269)
 **theorem
 Tau.BookIV.Sectors.alpha_solenoidal_numerator :(2 * 11) ^ 2 = 4 * 121**
 
@@ -460,7 +460,7 @@ This is the cross-multiplied identity.
 
 ### `Tau.BookIV.Sectors.alpha_solenoidal_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L271-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L271-L277)
 **theorem
 Tau.BookIV.Sectors.alpha_solenoidal_form :4 * alpha_tower_numer = (2 * 11) ^ 2 * iota_fourth_numer**
 
@@ -473,7 +473,7 @@ Cross-multiplied: 4 · α_tower_numer = (2 · 11)² · ι<sub>τ</sub>⁴.
 
 ### `Tau.BookIV.Sectors.HolonomyFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L283-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L283-L306)
 **structure
 Tau.BookIV.Sectors.HolonomyFormula :Type**
 
@@ -510,7 +510,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.holonomy_alpha`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L308-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L308-L309)
 **def
 Tau.BookIV.Sectors.holonomy_alpha :HolonomyFormula**
 
@@ -524,7 +524,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_is_fourth_power`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L315-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L315-L322)
 **theorem
 Tau.BookIV.Sectors.alpha_is_fourth_power :alpha_spectral_numer = 8 * iota_fourth_numer ∧ alpha_spectral_denom = 15 * iota_fourth_denom**
 
@@ -538,7 +538,7 @@ This is structural: electromagnetic coupling involves two τ² modes
 
 ### `Tau.BookIV.Sectors.alpha_exp_inverse_scaled`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L328-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L328-L331)
 **def
 Tau.BookIV.Sectors.alpha_exp_inverse_scaled :ℕ**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.alpha_inverse_correct_ballpark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L333-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L333-L340)
 **theorem
 Tau.BookIV.Sectors.alpha_inverse_correct_ballpark :137 * alpha_spectral_numer < alpha_spectral_denom ∧ alpha_spectral_denom < 139 * alpha_spectral_numer**
 
@@ -566,7 +566,7 @@ Specifically, the spectral 1/α is between 137 and 139.
 
 ### `Tau.BookIV.Sectors.primorial_factor_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/FineStructure.lean#L346-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/FineStructure.lean#L346-L351)
 **theorem
 Tau.BookIV.Sectors.primorial_factor_decomposition :8 = 2 * 2 * 2 ∧ 15 = 3 * 5**
 

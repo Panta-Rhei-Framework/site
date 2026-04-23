@@ -69,7 +69,7 @@ values presented as the Dimensionless Cascade.
 
 ### `Tau.BookIV.Calibration.grav_self_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L38-L40)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L38-L40)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.grav_self_coupling :Sectors.CouplingFormula**
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.grav_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L42-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L42-L46)
 **theorem
 Tau.BookIV.Calibration.grav_coupling_value :grav_self_coupling.numer * 1000 > 658 * grav_self_coupling.denom ∧ grav_self_coupling.numer * 1000 < 659 * grav_self_coupling.denom**
 
@@ -96,7 +96,7 @@ Tau.BookIV.Calibration.grav_coupling_value :grav_self_coupling.numer * 1000 > 65
 
 ### `Tau.BookIV.Calibration.weak_self_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L52-L54)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L52-L54)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.weak_self_coupling :Sectors.CouplingFormula**
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.weak_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L56-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L56-L60)
 **theorem
 Tau.BookIV.Calibration.weak_coupling_value :weak_self_coupling.numer * 1000 > 341 * weak_self_coupling.denom ∧ weak_self_coupling.numer * 1000 < 342 * weak_self_coupling.denom**
 
@@ -123,7 +123,7 @@ Tau.BookIV.Calibration.weak_coupling_value :weak_self_coupling.numer * 1000 > 34
 
 ### `Tau.BookIV.Calibration.em_self_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L66-L68)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L66-L68)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.em_self_coupling :Sectors.CouplingFormula**
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.em_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L70-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L70-L74)
 **theorem
 Tau.BookIV.Calibration.em_coupling_value :em_self_coupling.numer * 1000 > 116 * em_self_coupling.denom ∧ em_self_coupling.numer * 1000 < 117 * em_self_coupling.denom**
 
@@ -150,7 +150,7 @@ Tau.BookIV.Calibration.em_coupling_value :em_self_coupling.numer * 1000 > 116 * 
 
 ### `Tau.BookIV.Calibration.strong_self_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L80-L82)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L80-L82)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.strong_self_coupling :Sectors.CouplingFormula**
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.strong_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L84-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L84-L88)
 **theorem
 Tau.BookIV.Calibration.strong_coupling_value :strong_self_coupling.numer * 1000 > 60 * strong_self_coupling.denom ∧ strong_self_coupling.numer * 1000 < 61 * strong_self_coupling.denom**
 
@@ -177,7 +177,7 @@ Tau.BookIV.Calibration.strong_coupling_value :strong_self_coupling.numer * 1000 
 
 ### `Tau.BookIV.Calibration.omega_self_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L94-L96)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L94-L96)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.omega_self_coupling :Sectors.CouplingFormula**
@@ -193,7 +193,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.omega_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L98-L102)
 **theorem
 Tau.BookIV.Calibration.omega_coupling_value :omega_self_coupling.numer * 1000 > 29 * omega_self_coupling.denom ∧ omega_self_coupling.numer * 1000 < 30 * omega_self_coupling.denom**
 
@@ -204,7 +204,7 @@ Tau.BookIV.Calibration.omega_coupling_value :omega_self_coupling.numer * 1000 > 
 
 ### `Tau.BookIV.Calibration.weak_grav_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L116-L118)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/DimensionlessCouplings.lean#L116-L118)@[reducible, inline]
 
 **abbrev
 Tau.BookIV.Calibration.weak_grav_cross :Sectors.CouplingFormula**

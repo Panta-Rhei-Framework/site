@@ -86,7 +86,7 @@ exports a clean interface to Book V (base tau^1 = macrocosm).
 
 ### `Tau.BookIV.ManyBody.MeltingSequenceMobility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L54-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L54-L74)
 **structure
 Tau.BookIV.ManyBody.MeltingSequenceMobility :Type**
 
@@ -120,7 +120,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMeltingSequenceMobility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L74-L74)
 **instance
 Tau.BookIV.ManyBody.instReprMeltingSequenceMobility :Repr MeltingSequenceMobility**
 
@@ -131,7 +131,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprMeltingSequenceMobility.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L74-L74)
 **def
 Tau.BookIV.ManyBody.instReprMeltingSequenceMobility.repr :MeltingSequenceMobility → ℕ → Std.Format**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.melting_sequence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L76-L76)
 **def
 Tau.BookIV.ManyBody.melting_sequence :MeltingSequenceMobility**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.six_nontopo_regimes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L78-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L78-L79)
 **theorem
 Tau.BookIV.ManyBody.six_nontopo_regimes :melting_sequence.num_regimes = 6**
 
@@ -164,7 +164,7 @@ Tau.BookIV.ManyBody.six_nontopo_regimes :melting_sequence.num_regimes = 6**
 
 ### `Tau.BookIV.ManyBody.melting_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L81-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L81-L82)
 **theorem
 Tau.BookIV.ManyBody.melting_monotone :melting_sequence.monotone = true**
 
@@ -173,7 +173,7 @@ Tau.BookIV.ManyBody.melting_monotone :melting_sequence.monotone = true**
 
 ### `Tau.BookIV.ManyBody.melting_sequence_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L84-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L84-L85)
 **theorem
 Tau.BookIV.ManyBody.melting_sequence_count :melting_sequence.sequence.length = 6**
 
@@ -182,7 +182,7 @@ Tau.BookIV.ManyBody.melting_sequence_count :melting_sequence.sequence.length = 6
 
 ### `Tau.BookIV.ManyBody.TopologicalBranch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L91-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L91-L116)
 **structure
 Tau.BookIV.ManyBody.TopologicalBranch :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTopologicalBranch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L116-L116)
 **instance
 Tau.BookIV.ManyBody.instReprTopologicalBranch :Repr TopologicalBranch**
 
@@ -244,7 +244,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprTopologicalBranch.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L116-L116)
 **def
 Tau.BookIV.ManyBody.instReprTopologicalBranch.repr :TopologicalBranch → ℕ → Std.Format**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.topological_branch`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L118-L118)
 **def
 Tau.BookIV.ManyBody.topological_branch :TopologicalBranch**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.two_topological_regimes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L120-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L120-L121)
 **theorem
 Tau.BookIV.ManyBody.two_topological_regimes :topological_branch.num_regimes = 2**
 
@@ -277,7 +277,7 @@ Tau.BookIV.ManyBody.two_topological_regimes :topological_branch.num_regimes = 2*
 
 ### `Tau.BookIV.ManyBody.topological_distinguished_by_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L123-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L123-L124)
 **theorem
 Tau.BookIV.ManyBody.topological_distinguished_by_em :topological_branch.distinguished_by_em = true**
 
@@ -286,7 +286,7 @@ Tau.BookIV.ManyBody.topological_distinguished_by_em :topological_branch.distingu
 
 ### `Tau.BookIV.ManyBody.FiberBaseFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L130-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L130-L162)
 **structure
 Tau.BookIV.ManyBody.FiberBaseFactorization :Type**
 
@@ -346,7 +346,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiberBaseFactorization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L162-L162)
 **def
 Tau.BookIV.ManyBody.instReprFiberBaseFactorization.repr :FiberBaseFactorization → ℕ → Std.Format**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiberBaseFactorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L162-L162)
 **instance
 Tau.BookIV.ManyBody.instReprFiberBaseFactorization :Repr FiberBaseFactorization**
 
@@ -369,7 +369,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.fiber_base_factorization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L164-L164)
 **def
 Tau.BookIV.ManyBody.fiber_base_factorization :FiberBaseFactorization**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.factorization_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L166-L167)
 **theorem
 Tau.BookIV.ManyBody.factorization_exact :fiber_base_factorization.exact = true**
 
@@ -390,7 +390,7 @@ Tau.BookIV.ManyBody.factorization_exact :fiber_base_factorization.exact = true**
 
 ### `Tau.BookIV.ManyBody.coupling_through_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L169-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L169-L170)
 **theorem
 Tau.BookIV.ManyBody.coupling_through_omega :fiber_base_factorization.coupling_omega_only = true**
 
@@ -399,7 +399,7 @@ Tau.BookIV.ManyBody.coupling_through_omega :fiber_base_factorization.coupling_om
 
 ### `Tau.BookIV.ManyBody.FiberLevelComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L180-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L180-L203)
 **structure
 Tau.BookIV.ManyBody.FiberLevelComplete :Type**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiberLevelComplete.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L203-L203)
 **def
 Tau.BookIV.ManyBody.instReprFiberLevelComplete.repr :FiberLevelComplete → ℕ → Std.Format**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFiberLevelComplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L203-L203)
 **instance
 Tau.BookIV.ManyBody.instReprFiberLevelComplete :Repr FiberLevelComplete**
 
@@ -468,7 +468,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.fiber_level_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L205-L205)
 **def
 Tau.BookIV.ManyBody.fiber_level_complete :FiberLevelComplete**
 
@@ -480,7 +480,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.fiber_all_classified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L207-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L207-L208)
 **theorem
 Tau.BookIV.ManyBody.fiber_all_classified :fiber_level_complete.all_classified = true**
 
@@ -489,7 +489,7 @@ Tau.BookIV.ManyBody.fiber_all_classified :fiber_level_complete.all_classified = 
 
 ### `Tau.BookIV.ManyBody.fiber_five_parts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L210-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L210-L211)
 **theorem
 Tau.BookIV.ManyBody.fiber_five_parts :fiber_level_complete.num_parts = 5**
 
@@ -498,7 +498,7 @@ Tau.BookIV.ManyBody.fiber_five_parts :fiber_level_complete.num_parts = 5**
 
 ### `Tau.BookIV.ManyBody.fiber_parts_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L213-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L213-L214)
 **theorem
 Tau.BookIV.ManyBody.fiber_parts_count :fiber_level_complete.parts.length = 5**
 
@@ -507,7 +507,7 @@ Tau.BookIV.ManyBody.fiber_parts_count :fiber_level_complete.parts.length = 5**
 
 ### `Tau.BookIV.ManyBody.RegimeSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L225-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L225-L233)
 **structure
 Tau.BookIV.ManyBody.RegimeSummary :Type**
 
@@ -529,7 +529,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprRegimeSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L233-L233)
 **instance
 Tau.BookIV.ManyBody.instReprRegimeSummary :Repr RegimeSummary**
 
@@ -540,7 +540,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprRegimeSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L233-L233)
 **def
 Tau.BookIV.ManyBody.instReprRegimeSummary.repr :RegimeSummary → ℕ → Std.Format**
 
@@ -552,7 +552,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.regime_summary_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L235-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L235-L247)
 **def
 Tau.BookIV.ManyBody.regime_summary_table :List RegimeSummary**
 
@@ -566,6 +566,6 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.ten_regimes_total`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/CondensedMatter.lean#L249-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/CondensedMatter.lean#L249-L250)
 **theorem
 Tau.BookIV.ManyBody.ten_regimes_total :regime_summary_table.length = 10**

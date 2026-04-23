@@ -106,7 +106,7 @@ sector assignment (5 generators → 5 sectors), and EW mixing compatibility
 
 ### `Tau.BookIV.Electroweak.EWProjection.isEWActive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L59-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L59-L70)
 **def
 Tau.BookIV.Electroweak.EWProjection.isEWActive :Sectors.ModeCensus.BoundaryMode → Bool**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.isStrong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L72-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L72-L75)
 **def
 Tau.BookIV.Electroweak.EWProjection.isStrong :Sectors.ModeCensus.BoundaryMode → Bool**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.isEWComplement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L77-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L77-L79)
 **def
 Tau.BookIV.Electroweak.EWProjection.isEWComplement
 (m : Sectors.ModeCensus.BoundaryMode)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.ewActiveModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L85-L87)
 **def
 Tau.BookIV.Electroweak.EWProjection.ewActiveModes :List Sectors.ModeCensus.BoundaryMode**
 
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.strongModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L89-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L89-L91)
 **def
 Tau.BookIV.Electroweak.EWProjection.strongModes :List Sectors.ModeCensus.BoundaryMode**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.ewComplement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L93-L95)
 **def
 Tau.BookIV.Electroweak.EWProjection.ewComplement :List Sectors.ModeCensus.BoundaryMode**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWProjection.ew_active_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L101-L102)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.ew_active_count :ewActiveModes.length = 5**
 
@@ -220,7 +220,7 @@ EW-active count = 5 (γ×3 + π×{Lobe+, Lobe-}).
 
 ### `Tau.BookIV.Electroweak.EWProjection.strong_mode_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L104-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L104-L105)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.strong_mode_count :strongModes.length = 3**
 
@@ -231,7 +231,7 @@ Strong count = 3 (η×3).
 
 ### `Tau.BookIV.Electroweak.EWProjection.ew_complement_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L107-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L107-L108)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.ew_complement_count :ewComplement.length = 7**
 
@@ -242,7 +242,7 @@ EW complement count = 7 (α×3 + Z⁰ + ω×3).
 
 ### `Tau.BookIV.Electroweak.EWProjection.mode_partition_EW`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L114-L116)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.mode_partition_EW :5 + 3 + 7 = 15**
 
@@ -254,7 +254,7 @@ This is a structural partition: EW-active ⊔ strong ⊔ complement = all.
 
 ### `Tau.BookIV.Electroweak.EWProjection.partition_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L118-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L118-L121)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.partition_consistent :ewActiveModes.length + strongModes.length + ewComplement.length = Sectors.ModeCensus.allModes.length**
 
@@ -265,7 +265,7 @@ Census consistency: partition sums to total.
 
 ### `Tau.BookIV.Electroweak.EWProjection.partition_disjoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L123-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L123-L128)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.partition_disjoint :(List.filter (fun (m : Sectors.ModeCensus.BoundaryMode) => isEWActive m && isStrong m)
  Sectors.ModeCensus.allModes).length = 0 ∧ (List.filter (fun (m : Sectors.ModeCensus.BoundaryMode) => isEWActive m && isEWComplement m)
@@ -279,7 +279,7 @@ The partition is disjoint: no mode is in two subsets.
 
 ### `Tau.BookIV.Electroweak.EWProjection.ew_density_is_5_over_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L134-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L134-L138)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.ew_density_is_5_over_7 :ewActiveModes.length * 7 = ewComplement.length * 5**
 
@@ -292,7 +292,7 @@ where both equal 35.
 
 ### `Tau.BookIV.Electroweak.EWProjection.ew_complement_characterization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L144-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L144-L154)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.ew_complement_characterization :isEWComplement { gen := Sectors.ModeCensus.Gen5.alpha, config := Sectors.ModeCensus.LobeConfig.lobePos } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.alpha, config := Sectors.ModeCensus.LobeConfig.lobeNeg } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.alpha, config := Sectors.ModeCensus.LobeConfig.crossing } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.pi_, config := Sectors.ModeCensus.LobeConfig.crossing } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.omega, config := Sectors.ModeCensus.LobeConfig.lobePos } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.omega, config := Sectors.ModeCensus.LobeConfig.lobeNeg } = true ∧ isEWComplement { gen := Sectors.ModeCensus.Gen5.omega, config := Sectors.ModeCensus.LobeConfig.crossing } = true**
 
@@ -304,7 +304,7 @@ Physical interpretation: gravity (3) + neutral weak (1) + Higgs (3).
 
 ### `Tau.BookIV.Electroweak.EWProjection.complement_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L156-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L156-L158)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.complement_structure :3 + 1 + 3 = 7**
 
@@ -316,7 +316,7 @@ The complement has exactly 3 + 1 + 3 = 7 structure:
 
 ### `Tau.BookIV.Electroweak.EWProjection.ew_density_equals_window_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L164-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L164-L174)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.ew_density_equals_window_ratio :ewActiveModes.length = CF.windowSum CF.cf_head 3 4 ∧ ewComplement.length = CF.windowSum CF.cf_head 3 3 - 2 * CF.windowSum CF.cf_head 3 4**
 
@@ -329,7 +329,7 @@ This links the structural partition to the CF algebra of ι<sub>τ</sub>.
 
 ### `Tau.BookIV.Electroweak.EWProjection.strong_equals_solenoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L176-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L176-L178)
 **theorem
 Tau.BookIV.Electroweak.EWProjection.strong_equals_solenoidal :strongModes.length = Kernel.solenoidalGenerators.length**
 
@@ -340,7 +340,7 @@ The strong sector count also matches: 3 = |solenoidal|.
 
 ### `Tau.BookIV.Electroweak.EWProjection.remark_oq_b2_resolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWProjection.lean#L184-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWProjection.lean#L184-L197)
 **def
 Tau.BookIV.Electroweak.EWProjection.remark_oq_b2_resolved :String**
 

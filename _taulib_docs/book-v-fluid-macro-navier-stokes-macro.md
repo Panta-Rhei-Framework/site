@@ -105,7 +105,7 @@ corresponding region of τ³.
 
 ### `Tau.BookV.FluidMacro.MacroDefectTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L64-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L64-L83)
 **structure
 Tau.BookV.FluidMacro.MacroDefectTransport :Type**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroDefectTransport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **def
 Tau.BookV.FluidMacro.instReprMacroDefectTransport.repr :MacroDefectTransport → ℕ → Std.Format**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroDefectTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **instance
 Tau.BookV.FluidMacro.instReprMacroDefectTransport :Repr MacroDefectTransport**
 
@@ -165,7 +165,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMacroDefectTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqMacroDefectTransport :DecidableEq MacroDefectTransport**
 
@@ -176,7 +176,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMacroDefectTransport.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **def
 Tau.BookV.FluidMacro.instDecidableEqMacroDefectTransport.decEq
 (x✝ x✝¹ : MacroDefectTransport)
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqMacroDefectTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **instance
 Tau.BookV.FluidMacro.instBEqMacroDefectTransport :BEq MacroDefectTransport**
 
@@ -201,7 +201,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqMacroDefectTransport.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L83-L83)
 **def
 Tau.BookV.FluidMacro.instBEqMacroDefectTransport.beq :MacroDefectTransport → MacroDefectTransport → Bool**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MacroDefectTransport.totalBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L85-L87)
 **def
 Tau.BookV.FluidMacro.MacroDefectTransport.totalBudget
 (d : MacroDefectTransport)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MacroTauNSFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L93-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L93-L107)
 **structure
 Tau.BookV.FluidMacro.MacroTauNSFlow :Type**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroTauNSFlow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L107-L107)
 **instance
 Tau.BookV.FluidMacro.instReprMacroTauNSFlow :Repr MacroTauNSFlow**
 
@@ -270,7 +270,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroTauNSFlow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L107-L107)
 **def
 Tau.BookV.FluidMacro.instReprMacroTauNSFlow.repr :MacroTauNSFlow → ℕ → Std.Format**
 
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.Tau3Compactness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L113-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L113-L132)
 **structure
 Tau.BookV.FluidMacro.Tau3Compactness :Type**
 
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprTau3Compactness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L132-L132)
 **instance
 Tau.BookV.FluidMacro.instReprTau3Compactness :Repr Tau3Compactness**
 
@@ -332,7 +332,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprTau3Compactness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L132-L132)
 **def
 Tau.BookV.FluidMacro.instReprTau3Compactness.repr :Tau3Compactness → ℕ → Std.Format**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.tau3_compact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L134-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L134-L143)
 **theorem
 Tau.BookV.FluidMacro.tau3_compact
 (c : Tau3Compactness)
@@ -367,7 +367,7 @@ Compactness ensures all defect components are bounded.
 
 ### `Tau.BookV.FluidMacro.MacroRegCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L149-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L149-L157)
 **inductive
 Tau.BookV.FluidMacro.MacroRegCondition :Type**
 
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroRegCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
 **def
 Tau.BookV.FluidMacro.instReprMacroRegCondition.repr :MacroRegCondition → ℕ → Std.Format**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroRegCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
 **instance
 Tau.BookV.FluidMacro.instReprMacroRegCondition :Repr MacroRegCondition**
 
@@ -412,7 +412,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMacroRegCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqMacroRegCondition :DecidableEq MacroRegCondition**
 
@@ -423,7 +423,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqMacroRegCondition.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
 **def
 Tau.BookV.FluidMacro.instBEqMacroRegCondition.beq :MacroRegCondition → MacroRegCondition → Bool**
 
@@ -435,7 +435,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqMacroRegCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L157-L157)
 **instance
 Tau.BookV.FluidMacro.instBEqMacroRegCondition :BEq MacroRegCondition**
 
@@ -446,7 +446,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.MacroThreeConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L159-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L159-L169)
 **structure
 Tau.BookV.FluidMacro.MacroThreeConditions :Type**
 
@@ -470,7 +470,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroThreeConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L169-L169)
 **instance
 Tau.BookV.FluidMacro.instReprMacroThreeConditions :Repr MacroThreeConditions**
 
@@ -481,7 +481,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroThreeConditions.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L169-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L169-L169)
 **def
 Tau.BookV.FluidMacro.instReprMacroThreeConditions.repr :MacroThreeConditions → ℕ → Std.Format**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.macro_three_condition_sufficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L171-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L171-L177)
 **theorem
 Tau.BookV.FluidMacro.macro_three_condition_sufficiency
 (m : MacroThreeConditions)
@@ -512,7 +512,7 @@ All three conditions are satisfied.
 
 ### `Tau.BookV.FluidMacro.macro_tau_ns_regularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L183-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L183-L195)
 **theorem
 Tau.BookV.FluidMacro.macro_tau_ns_regularity
 (flow : MacroTauNSFlow)
@@ -542,7 +542,7 @@ sufficiency and compactness.
 
 ### `Tau.BookV.FluidMacro.no_temporal_blowup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L201-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L201-L209)
 **theorem
 Tau.BookV.FluidMacro.no_temporal_blowup
 (flow : MacroTauNSFlow)
@@ -562,7 +562,7 @@ in the primorial (temporal) direction.
 
 ### `Tau.BookV.FluidMacro.MacroReynoldsNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L215-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L215-L229)
 **structure
 Tau.BookV.FluidMacro.MacroReynoldsNumber :Type**
 
@@ -591,7 +591,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroReynoldsNumber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L229-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L229-L229)
 **instance
 Tau.BookV.FluidMacro.instReprMacroReynoldsNumber :Repr MacroReynoldsNumber**
 
@@ -602,7 +602,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroReynoldsNumber.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L229-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L229-L229)
 **def
 Tau.BookV.FluidMacro.instReprMacroReynoldsNumber.repr :MacroReynoldsNumber → ℕ → Std.Format**
 
@@ -614,7 +614,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MacroReynoldsNumber.ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L231-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L231-L233)
 **def
 Tau.BookV.FluidMacro.MacroReynoldsNumber.ratio
 (r : MacroReynoldsNumber)
@@ -630,7 +630,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.reynolds_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L235-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L235-L240)
 **theorem
 Tau.BookV.FluidMacro.reynolds_bounded
 (r : MacroReynoldsNumber)
@@ -647,7 +647,7 @@ Reynolds number is always finite (bounded above).
 
 ### `Tau.BookV.FluidMacro.enrichment_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L246-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L246-L254)
 **theorem
 Tau.BookV.FluidMacro.enrichment_independent
 (conds : MacroThreeConditions)
@@ -665,7 +665,7 @@ that does not create blow-up opportunities.
 
 ### `Tau.BookV.FluidMacro.convective_overshooting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L260-L265)
 **def
 Tau.BookV.FluidMacro.convective_overshooting :Prop**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.convective_overshooting_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L267-L269)
 **theorem
 Tau.BookV.FluidMacro.convective_overshooting_holds :convective_overshooting**
 
@@ -690,7 +690,7 @@ Tau.BookV.FluidMacro.convective_overshooting_holds :convective_overshooting**
 
 ### `Tau.BookV.FluidMacro.classical_ns_as_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L275-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L275-L284)
 **theorem
 Tau.BookV.FluidMacro.classical_ns_as_readout :"classical NS on U ⊂ ℝ³ = readout of macro tau-NS on τ³" = "classical NS on U ⊂ ℝ³ = readout of macro tau-NS on τ³"**
 
@@ -707,7 +707,7 @@ Structural recording.
 
 ### `Tau.BookV.FluidMacro.DecompactificationBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L290-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L290-L311)
 **structure
 Tau.BookV.FluidMacro.DecompactificationBound :Type**
 
@@ -745,7 +745,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDecompactificationBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L311-L311)
 **def
 Tau.BookV.FluidMacro.instReprDecompactificationBound.repr :DecompactificationBound → ℕ → Std.Format**
 
@@ -757,7 +757,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprDecompactificationBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L311-L311)
 **instance
 Tau.BookV.FluidMacro.instReprDecompactificationBound :Repr DecompactificationBound**
 
@@ -768,7 +768,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.decompact_depth3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L313-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L313-L320)
 **def
 Tau.BookV.FluidMacro.decompact_depth3 :DecompactificationBound**
 
@@ -782,7 +782,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.decompact_depth5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L322-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L322-L329)
 **def
 Tau.BookV.FluidMacro.decompact_depth5 :DecompactificationBound**
 
@@ -796,7 +796,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.AdmissibilityClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L335-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L335-L349)
 **structure
 Tau.BookV.FluidMacro.AdmissibilityClass :Type**
 
@@ -824,7 +824,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAdmissibilityClass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L349-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L349-L349)
 **instance
 Tau.BookV.FluidMacro.instReprAdmissibilityClass :Repr AdmissibilityClass**
 
@@ -835,7 +835,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprAdmissibilityClass.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L349-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L349-L349)
 **def
 Tau.BookV.FluidMacro.instReprAdmissibilityClass.repr :AdmissibilityClass → ℕ → Std.Format**
 
@@ -847,7 +847,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.admissibility_class`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L351-L352)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L351-L352)
 **def
 Tau.BookV.FluidMacro.admissibility_class :AdmissibilityClass**
 
@@ -861,7 +861,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.primorial_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L358-L366)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L358-L366)
 **theorem
 Tau.BookV.FluidMacro.primorial_convergence
 (d : DecompactificationBound)
@@ -881,7 +881,7 @@ faster than any geometric sequence.
 
 ### `Tau.BookV.FluidMacro.depth5_near_leray`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L368-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L368-L372)
 **theorem
 Tau.BookV.FluidMacro.depth5_near_leray :decompact_depth5.alpha_numer * 10000 ≥ decompact_depth5.alpha_denom * 9995**
 
@@ -892,7 +892,7 @@ At depth 5, α is within 0.05% of Leray value (1/2310 ≈ 0.043%).
 
 ### `Tau.BookV.FluidMacro.leray_limit_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L378-L384)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L378-L384)
 **theorem
 Tau.BookV.FluidMacro.leray_limit_recovery :"tau regularity exponent -> 1 as primorial depth -> infinity" = "tau regularity exponent -> 1 as primorial depth -> infinity"**
 
@@ -906,7 +906,7 @@ bound ||u||_∞ ≤ C · (ν/L²)¹. The gap vanishes super-exponentially.
 
 ### `Tau.BookV.FluidMacro.example_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L420-L426)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L420-L426)
 **def
 Tau.BookV.FluidMacro.example_transport :MacroDefectTransport**
 
@@ -920,7 +920,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_reynolds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L431-L436)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/NavierStokesMacro.lean#L431-L436)
 **def
 Tau.BookV.FluidMacro.example_reynolds :MacroReynoldsNumber**
 

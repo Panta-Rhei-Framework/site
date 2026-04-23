@@ -74,7 +74,7 @@ the tau-topos (to be developed in the Topos module).
 
 ### `Tau.Logic.forget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L46-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L46-L53)
 **def
 Tau.Logic.forget :Truth4 → Bool**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Logic.forget_preserves_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L59-L62)
 **theorem
 Tau.Logic.forget_preserves_meet
 (a b : Truth4)
@@ -106,7 +106,7 @@ forget preserves meet: forget(meet a b) = forget(a) && forget(b).
 
 ### `Tau.Logic.forget_preserves_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L64-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L64-L67)
 **theorem
 Tau.Logic.forget_preserves_join
 (a b : Truth4)
@@ -119,7 +119,7 @@ forget preserves join: forget(join a b) = forget(a) || forget(b).
 
 ### `Tau.Logic.forget_conflates_T_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L77-L78)
 **theorem
 Tau.Logic.forget_conflates_T_B :forget Truth4.T = forget Truth4.B**
 
@@ -130,7 +130,7 @@ forget conflates T and B: both map to true.
 
 ### `Tau.Logic.forget_conflates_F_N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L80-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L80-L81)
 **theorem
 Tau.Logic.forget_conflates_F_N :forget Truth4.F = forget Truth4.N**
 
@@ -141,7 +141,7 @@ forget conflates F and N: both map to false.
 
 ### `Tau.Logic.forget_not_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L83-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L83-L87)
 **theorem
 Tau.Logic.forget_not_injective :¬∀ (a b : Truth4), forget a = forget b → a = b**
 
@@ -152,7 +152,7 @@ forget is NOT injective: T <> B but forget T = forget B.
 
 ### `Tau.Logic.forget_preserves_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L89-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L89-L91)
 **theorem
 Tau.Logic.forget_preserves_neg
 (v : Truth4)
@@ -165,7 +165,7 @@ forget does preserve negation (for the optimistic projection).
 
 ### `Tau.Logic.forget_pessimistic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L97-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L97-L103)
 **def
 Tau.Logic.forget_pessimistic :Truth4 → Bool**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.Logic.forget_pessimistic_preserves_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L105-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L105-L109)
 **theorem
 Tau.Logic.forget_pessimistic_preserves_meet
 (a b : Truth4)
@@ -196,7 +196,7 @@ The pessimistic map also preserves meet.
 
 ### `Tau.Logic.forget_pessimistic_preserves_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L111-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L111-L115)
 **theorem
 Tau.Logic.forget_pessimistic_preserves_join
 (a b : Truth4)
@@ -209,7 +209,7 @@ The pessimistic map also preserves join.
 
 ### `Tau.Logic.forget_pessimistic_preserves_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L117-L120)
 **theorem
 Tau.Logic.forget_pessimistic_preserves_neg
 (v : Truth4)
@@ -222,7 +222,7 @@ The pessimistic map also preserves negation.
 
 ### `Tau.Logic.dual_forget_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L122-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L122-L127)
 **theorem
 Tau.Logic.dual_forget_injective
 (a b : Truth4)
@@ -240,7 +240,7 @@ uniquely determines v.
 
 ### `Tau.Logic.dual_forget_is_toBoolPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L129-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L129-L132)
 **theorem
 Tau.Logic.dual_forget_is_toBoolPair
 (v : Truth4)
@@ -253,7 +253,7 @@ The dual-forget map is exactly the toBoolPair isomorphism.
 
 ### `Tau.Logic.boolean_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L138-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L138-L145)
 **theorem
 Tau.Logic.boolean_recovery
 (v : Truth4)
@@ -270,7 +270,7 @@ For non-classical: forget B = true but forget_pessimistic B = false (sectors dis
 
 ### `Tau.Logic.forget_fiber_T_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L147-L148)
 **theorem
 Tau.Logic.forget_fiber_T_B :forget Truth4.T = forget Truth4.B**
 
@@ -281,7 +281,7 @@ The forget fiber has exactly 2 elements for each output value.
 
 ### `Tau.Logic.forget_fiber_F_N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L150-L150)
 **theorem
 Tau.Logic.forget_fiber_F_N :forget Truth4.F = forget Truth4.N**
 
@@ -290,7 +290,7 @@ Tau.Logic.forget_fiber_F_N :forget Truth4.F = forget Truth4.N**
 
 ### `Tau.Logic.forget_never_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L152-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L152-L159)
 **theorem
 Tau.Logic.forget_never_injective
 (v : Truth4)
@@ -303,7 +303,7 @@ No Truth4 value has a singleton forget-fiber: the projection always loses inform
 
 ### `Tau.Logic.forget_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L161-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L161-L167)
 **theorem
 Tau.Logic.forget_fiber
 (a b : Truth4)
@@ -317,7 +317,7 @@ Two values have the same forget image iff they agree on "B-sector truth".
 
 ### `Tau.Logic.Omega_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L173-L176)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L173-L176)@[reducible, inline]
 
 **abbrev
 Tau.Logic.Omega_tau :Type**
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.Logic.omega_true`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L178-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L178-L179)
 **def
 Tau.Logic.omega_true :Omega_tau**
 
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.Logic.omega_false`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L181-L182)
 **def
 Tau.Logic.omega_false :Omega_tau**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.Logic.omega_both`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L184-L185)
 **def
 Tau.Logic.omega_both :Omega_tau**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.Logic.omega_neither`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L187-L188)
 **def
 Tau.Logic.omega_neither :Omega_tau**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.heyting_impl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L194-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L194-L214)
 **def
 Tau.Logic.Truth4.heyting_impl :Truth4 → Truth4 → Truth4**
 
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.Logic.heyting_eq_material`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L216-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L216-L221)
 **theorem
 Tau.Logic.heyting_eq_material
 (a b : Truth4)
@@ -437,7 +437,7 @@ the Heyting implication equals a -> b = neg(a) v b.
 
 ### `Tau.Logic.heyting_adjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L223-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L223-L227)
 **theorem
 Tau.Logic.heyting_adjunction
 (a b : Truth4)
@@ -451,7 +451,7 @@ Verified via the le predicate.
 
 ### `Tau.Logic.heyting_maximality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L229-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L229-L234)
 **theorem
 Tau.Logic.heyting_maximality
 (a b c : Truth4)
@@ -466,7 +466,7 @@ Heyting adjunction (maximality): if meet(a, c) <= b then c <= a => b.
 
 ### `Tau.Logic.Truth4.heyting_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L236-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L236-L237)
 **def
 Tau.Logic.Truth4.heyting_neg
 (a : Truth4)
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.Logic.heyting_neg_eq_neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L239-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L239-L242)
 **theorem
 Tau.Logic.heyting_neg_eq_neg
 (a : Truth4)
@@ -495,7 +495,7 @@ Heyting negation coincides with bipolar negation on Truth4.
 
 ### `Tau.Logic.excluded_middle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L248-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L248-L251)
 **theorem
 Tau.Logic.excluded_middle
 (v : Truth4)
@@ -509,7 +509,7 @@ This confirms Truth4 is Boolean, not merely Heyting.
 
 ### `Tau.Logic.double_negation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L253-L255)
 **theorem
 Tau.Logic.double_negation
 (v : Truth4)
@@ -522,7 +522,7 @@ Double negation elimination: neg(neg v) = v. (Already proved as neg_involutive.)
 
 ### `Tau.Logic.non_contradiction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L257-L259)
 **theorem
 Tau.Logic.non_contradiction
 (v : Truth4)
@@ -535,7 +535,7 @@ Non-contradiction: meet v (neg v) = F for all v.
 
 ### `Tau.Logic.truth4_is_boolean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L265-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L265-L280)
 **theorem
 Tau.Logic.truth4_is_boolean :(∀ (a : Truth4), a.meet a.neg = Truth4.F) ∧ (∀ (a : Truth4), a.join a.neg = Truth4.T) ∧ (∀ (a b c : Truth4), a.meet (b.join c) = (a.meet b).join (a.meet c)) ∧ ∀ (a : Truth4), a.neg.neg = a**
 
@@ -550,7 +550,7 @@ not the lattice structure itself.
 
 ### `Tau.Logic.explosion_is_semantic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/BooleanRecovery.lean#L286-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/BooleanRecovery.lean#L286-L297)
 **theorem
 Tau.Logic.explosion_is_semantic :(∀ (a : Truth4), a.meet a.neg = Truth4.F) ∧ (∀ (a : Truth4), a.join a.neg = Truth4.T) ∧ Truth4.B.impl Truth4.F ≠ Truth4.T**
 

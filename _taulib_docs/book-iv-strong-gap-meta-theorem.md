@@ -93,7 +93,7 @@ and the spectral gap is strictly positive.
 
 ### `Tau.BookIV.Strong.HolonomySector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L54-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L54-L72)
 **structure
 Tau.BookIV.Strong.HolonomySector :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprHolonomySector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L72-L72)
 **def
 Tau.BookIV.Strong.instReprHolonomySector.repr :HolonomySector → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprHolonomySector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L72-L72)
 **instance
 Tau.BookIV.Strong.instReprHolonomySector :Repr HolonomySector**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookIV.Strong.CanonicalVacuumStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L78-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L78-L90)
 **structure
 Tau.BookIV.Strong.CanonicalVacuumStage :Type**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprCanonicalVacuumStage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L90-L90)
 **def
 Tau.BookIV.Strong.instReprCanonicalVacuumStage.repr :CanonicalVacuumStage → ℕ → Std.Format**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprCanonicalVacuumStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L90-L90)
 **instance
 Tau.BookIV.Strong.instReprCanonicalVacuumStage :Repr CanonicalVacuumStage**
 
@@ -201,7 +201,7 @@ Equations
 
 ### `Tau.BookIV.Strong.VacuumWellDefined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L92-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L92-L101)
 **structure
 Tau.BookIV.Strong.VacuumWellDefined :Type**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprVacuumWellDefined.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L101-L101)
 **def
 Tau.BookIV.Strong.instReprVacuumWellDefined.repr :VacuumWellDefined → ℕ → Std.Format**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprVacuumWellDefined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L101-L101)
 **instance
 Tau.BookIV.Strong.instReprVacuumWellDefined :Repr VacuumWellDefined**
 
@@ -247,7 +247,7 @@ Equations
 
 ### `Tau.BookIV.Strong.vacuum_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L103-L103)
 **def
 Tau.BookIV.Strong.vacuum_well_defined :VacuumWellDefined**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.LocalizedPerturbations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L109-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L109-L119)
 **structure
 Tau.BookIV.Strong.LocalizedPerturbations :Type**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLocalizedPerturbations.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L119-L119)
 **def
 Tau.BookIV.Strong.instReprLocalizedPerturbations.repr :LocalizedPerturbations → ℕ → Std.Format**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLocalizedPerturbations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L119-L119)
 **instance
 Tau.BookIV.Strong.instReprLocalizedPerturbations :Repr LocalizedPerturbations**
 
@@ -306,7 +306,7 @@ Equations
 
 ### `Tau.BookIV.Strong.FiniteDiffQuadForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L125-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L125-L135)
 **structure
 Tau.BookIV.Strong.FiniteDiffQuadForm :Type**
 
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprFiniteDiffQuadForm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L135-L135)
 **def
 Tau.BookIV.Strong.instReprFiniteDiffQuadForm.repr :FiniteDiffQuadForm → ℕ → Std.Format**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprFiniteDiffQuadForm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L135-L135)
 **instance
 Tau.BookIV.Strong.instReprFiniteDiffQuadForm :Repr FiniteDiffQuadForm**
 
@@ -353,7 +353,7 @@ Equations
 
 ### `Tau.BookIV.Strong.ExcitationCost`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L141-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L141-L150)
 **structure
 Tau.BookIV.Strong.ExcitationCost :Type**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprExcitationCost.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L150-L150)
 **def
 Tau.BookIV.Strong.instReprExcitationCost.repr :ExcitationCost → ℕ → Std.Format**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprExcitationCost`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L150-L150)
 **instance
 Tau.BookIV.Strong.instReprExcitationCost :Repr ExcitationCost**
 
@@ -399,7 +399,7 @@ Equations
 
 ### `Tau.BookIV.Strong.CanonicalSmallestExcitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L156-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L156-L165)
 **structure
 Tau.BookIV.Strong.CanonicalSmallestExcitation :Type**
 
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprCanonicalSmallestExcitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L165-L165)
 **instance
 Tau.BookIV.Strong.instReprCanonicalSmallestExcitation :Repr CanonicalSmallestExcitation**
 
@@ -433,7 +433,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprCanonicalSmallestExcitation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L165-L165)
 **def
 Tau.BookIV.Strong.instReprCanonicalSmallestExcitation.repr :CanonicalSmallestExcitation → ℕ → Std.Format**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ExcitationProperties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L167-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L167-L175)
 **structure
 Tau.BookIV.Strong.ExcitationProperties :Type**
 
@@ -467,7 +467,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprExcitationProperties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L175-L175)
 **instance
 Tau.BookIV.Strong.instReprExcitationProperties :Repr ExcitationProperties**
 
@@ -478,7 +478,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprExcitationProperties.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L175-L175)
 **def
 Tau.BookIV.Strong.instReprExcitationProperties.repr :ExcitationProperties → ℕ → Std.Format**
 
@@ -490,7 +490,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.excitation_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L177-L177)
 **def
 Tau.BookIV.Strong.excitation_properties :ExcitationProperties**
 
@@ -502,7 +502,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.KernelHypotheses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L183-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L183-L196)
 **structure
 Tau.BookIV.Strong.KernelHypotheses :Type**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprKernelHypotheses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L196-L196)
 **instance
 Tau.BookIV.Strong.instReprKernelHypotheses :Repr KernelHypotheses**
 
@@ -541,7 +541,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprKernelHypotheses.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L196-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L196-L196)
 **def
 Tau.BookIV.Strong.instReprKernelHypotheses.repr :KernelHypotheses → ℕ → Std.Format**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.GapMetaTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L202-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L202-L218)
 **structure
 Tau.BookIV.Strong.GapMetaTheorem :Type**
 
@@ -588,7 +588,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapMetaTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L218-L218)
 **def
 Tau.BookIV.Strong.instReprGapMetaTheorem.repr :GapMetaTheorem → ℕ → Std.Format**
 
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprGapMetaTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L218-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L218-L218)
 **instance
 Tau.BookIV.Strong.instReprGapMetaTheorem :Repr GapMetaTheorem**
 
@@ -611,7 +611,7 @@ Equations
 
 ### `Tau.BookIV.Strong.gap_meta_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L220-L220)
 **def
 Tau.BookIV.Strong.gap_meta_theorem :GapMetaTheorem**
 
@@ -623,7 +623,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.FiniteStageSpectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L226-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L226-L235)
 **structure
 Tau.BookIV.Strong.FiniteStageSpectral :Type**
 
@@ -646,7 +646,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprFiniteStageSpectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L235-L235)
 **instance
 Tau.BookIV.Strong.instReprFiniteStageSpectral :Repr FiniteStageSpectral**
 
@@ -657,7 +657,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprFiniteStageSpectral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L235-L235)
 **def
 Tau.BookIV.Strong.instReprFiniteStageSpectral.repr :FiniteStageSpectral → ℕ → Std.Format**
 
@@ -669,7 +669,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.finite_stage_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L237-L237)
 **def
 Tau.BookIV.Strong.finite_stage_spectral :FiniteStageSpectral**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.PositiveGapEachStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L239-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L239-L245)
 **structure
 Tau.BookIV.Strong.PositiveGapEachStage :Type**
 
@@ -700,7 +700,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprPositiveGapEachStage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L245-L245)
 **instance
 Tau.BookIV.Strong.instReprPositiveGapEachStage :Repr PositiveGapEachStage**
 
@@ -711,7 +711,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprPositiveGapEachStage.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L245-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L245-L245)
 **def
 Tau.BookIV.Strong.instReprPositiveGapEachStage.repr :PositiveGapEachStage → ℕ → Std.Format**
 
@@ -723,7 +723,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.positive_gap_each_stage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L247-L247)
 **def
 Tau.BookIV.Strong.positive_gap_each_stage :PositiveGapEachStage**
 
@@ -735,7 +735,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.VacuumCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L249-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L249-L255)
 **structure
 Tau.BookIV.Strong.VacuumCoherence :Type**
 
@@ -754,7 +754,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprVacuumCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L255-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L255-L255)
 **instance
 Tau.BookIV.Strong.instReprVacuumCoherence :Repr VacuumCoherence**
 
@@ -765,7 +765,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprVacuumCoherence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L255-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L255-L255)
 **def
 Tau.BookIV.Strong.instReprVacuumCoherence.repr :VacuumCoherence → ℕ → Std.Format**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.vacuum_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L257-L257)
 **def
 Tau.BookIV.Strong.vacuum_coherence :VacuumCoherence**
 
@@ -789,7 +789,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ExcitationCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L259-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L259-L265)
 **structure
 Tau.BookIV.Strong.ExcitationCoherence :Type**
 
@@ -808,7 +808,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprExcitationCoherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L265-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L265-L265)
 **instance
 Tau.BookIV.Strong.instReprExcitationCoherence :Repr ExcitationCoherence**
 
@@ -819,7 +819,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprExcitationCoherence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L265-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L265-L265)
 **def
 Tau.BookIV.Strong.instReprExcitationCoherence.repr :ExcitationCoherence → ℕ → Std.Format**
 
@@ -831,7 +831,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.excitation_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L267-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L267-L267)
 **def
 Tau.BookIV.Strong.excitation_coherence :ExcitationCoherence**
 
@@ -843,7 +843,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.higgs_as_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L273-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L273-L276)
 **def
 Tau.BookIV.Strong.higgs_as_holonomy :HolonomySector**
 
@@ -857,7 +857,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.higgs_satisfies_kh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L278-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L278-L281)
 **def
 Tau.BookIV.Strong.higgs_satisfies_kh :KernelHypotheses**
 
@@ -872,7 +872,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.strong_as_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L283-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L283-L286)
 **def
 Tau.BookIV.Strong.strong_as_holonomy :HolonomySector**
 
@@ -886,7 +886,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.strong_kernel_hypotheses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L288-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L288-L292)
 **def
 Tau.BookIV.Strong.strong_kernel_hypotheses :KernelHypotheses**
 
@@ -902,7 +902,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.higgs_before_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L298-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L298-L301)
 **theorem
 Tau.BookIV.Strong.higgs_before_strong :higgs_as_holonomy.activation_depth < strong_as_holonomy.activation_depth**
 
@@ -913,7 +913,7 @@ Higgs activates at depth 2, strong at depth 3.
 
 ### `Tau.BookIV.Strong.strong_stabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L303-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L303-L305)
 **theorem
 Tau.BookIV.Strong.strong_stabilization :strong_kernel_hypotheses.stabilization_horizon = 3**
 
@@ -924,7 +924,7 @@ Strong sector stabilizes at depth 3.
 
 ### `Tau.BookIV.Strong.higgs_stabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L307-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L307-L309)
 **theorem
 Tau.BookIV.Strong.higgs_stabilization :higgs_satisfies_kh.stabilization_horizon = 2**
 
@@ -935,7 +935,7 @@ Higgs sector stabilizes at depth 2.
 
 ### `Tau.BookIV.Strong.both_sectors_kh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/GapMetaTheorem.lean#L311-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/GapMetaTheorem.lean#L311-L319)
 **theorem
 Tau.BookIV.Strong.both_sectors_kh :strong_kernel_hypotheses.kh1_stationarity = true ∧ strong_kernel_hypotheses.kh2_monotonicity = true ∧ strong_kernel_hypotheses.kh3_positive_gap = true ∧ higgs_satisfies_kh.kh1_stationarity = true ∧ higgs_satisfies_kh.kh2_monotonicity = true ∧ higgs_satisfies_kh.kh3_positive_gap = true**
 

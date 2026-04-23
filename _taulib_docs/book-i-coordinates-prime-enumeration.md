@@ -68,7 +68,7 @@ This is the categorical τ version of the Sieve of Eratosthenes.
 
 ### `Tau.Coordinates.prime_count_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L43-L49)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L43-L49)@[irreducible]
 
 **def
 Tau.Coordinates.prime_count_go
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L51-L54)
 **def
 Tau.Coordinates.prime_count
 (n : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.Coordinates.nthPrime_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L60-L67)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L60-L67)@[irreducible]
 
 **def
 Tau.Coordinates.nthPrime_go
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Coordinates.nthPrime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L69-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L69-L74)
 **def
 Tau.Coordinates.nthPrime
 (k : Denotation.TauIdx)
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.Coordinates.prime_index`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L80-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L80-L84)
 **def
 Tau.Coordinates.prime_index
 (p : Denotation.TauIdx)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.Coordinates.pi_orbit_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L90-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L90-L96)
 **def
 Tau.Coordinates.pi_orbit_value
 (k : Denotation.TauIdx)
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.Coordinates.pi_projection_via_RT`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L98-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L98-L102)
 **theorem
 Tau.Coordinates.pi_projection_via_RT
 (k : Denotation.TauIdx)
@@ -194,7 +194,7 @@ RT_α(nthPrime(k)) is the α-orbit element corresponding to π_k.
 
 ### `Tau.Coordinates.alpha_to_pi_rank`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L104-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L104-L105)
 **def
 Tau.Coordinates.alpha_to_pi_rank
 (p : Denotation.TauIdx)
@@ -210,7 +210,7 @@ Instances For
 
 ### `Tau.Coordinates.sieve_earned_from_rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L131-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/PrimeEnumeration.lean#L131-L142)
 **theorem
 Tau.Coordinates.sieve_earned_from_rho :(∀ (k : Denotation.TauIdx), ∃ (p : Denotation.TauIdx), p = nthPrime k) ∧ (∀ (n : Denotation.TauIdx), ∃ (c : Denotation.TauIdx), c = prime_count n) ∧ ∀ (p : Denotation.TauIdx), ∃ (k : Denotation.TauIdx), k = prime_index p**
 

@@ -98,7 +98,7 @@ This is the τ-native analogue of the Hubble parameter during inflation.
 
 ### `Tau.BookV.Temporal.full_spectrum_at_ignition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L68-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L68-L79)
 **theorem
 Tau.BookV.Temporal.full_spectrum_at_ignition :BookIV.Arena.holonomy_generators.length = 5 ∧ (List.map (fun (x : BookIV.Arena.HolonomyGenerator) => x.sector) BookIV.Arena.holonomy_generators).length = 5**
 
@@ -114,7 +114,7 @@ full sector differentiation.
 
 ### `Tau.BookV.Temporal.MaximalCouplingCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L85-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L85-L103)
 **structure
 Tau.BookV.Temporal.MaximalCouplingCondition :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprMaximalCouplingCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L103-L103)
 **instance
 Tau.BookV.Temporal.instReprMaximalCouplingCondition :Repr MaximalCouplingCondition**
 
@@ -161,7 +161,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprMaximalCouplingCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L103-L103)
 **def
 Tau.BookV.Temporal.instReprMaximalCouplingCondition.repr :MaximalCouplingCondition → ℕ → Std.Format**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_maximal_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L105-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L105-L110)
 **def
 Tau.BookV.Temporal.canonical_maximal_coupling :MaximalCouplingCondition**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.OpeningRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L116-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L116-L133)
 **structure
 Tau.BookV.Temporal.OpeningRegime :Type**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprOpeningRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L133-L133)
 **instance
 Tau.BookV.Temporal.instReprOpeningRegime :Repr OpeningRegime**
 
@@ -237,7 +237,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprOpeningRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L133-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L133-L133)
 **def
 Tau.BookV.Temporal.instReprOpeningRegime.repr :OpeningRegime → ℕ → Std.Format**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.opening_regime_width`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L135-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L135-L138)
 **theorem
 Tau.BookV.Temporal.opening_regime_width
 (r : OpeningRegime)
@@ -262,7 +262,7 @@ Opening regime has positive width (at least 1 tick).
 
 ### `Tau.BookV.Temporal.opening_has_solution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L144-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L144-L158)
 **theorem
 Tau.BookV.Temporal.opening_has_solution
 (r : OpeningRegime)
@@ -283,7 +283,7 @@ The universe at each depth is uniquely determined by the τ-kernel.
 
 ### `Tau.BookV.Temporal.opening_all_depths_solved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L160-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L160-L163)
 **theorem
 Tau.BookV.Temporal.opening_all_depths_solved
 (r : OpeningRegime)
@@ -302,7 +302,7 @@ Every depth in the opening regime has the τ-Einstein unique solution.
 
 ### `Tau.BookV.Temporal.RefinementRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L169-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L169-L191)
 **structure
 Tau.BookV.Temporal.RefinementRate :Type**
 
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprRefinementRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L191-L191)
 **instance
 Tau.BookV.Temporal.instReprRefinementRate :Repr RefinementRate**
 
@@ -355,7 +355,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprRefinementRate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L191-L191)
 **def
 Tau.BookV.Temporal.instReprRefinementRate.repr :RefinementRate → ℕ → Std.Format**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.RefinementRate.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L193-L195)
 **def
 Tau.BookV.Temporal.RefinementRate.toFloat
 (h : RefinementRate)
@@ -383,7 +383,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.progression_is_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L197-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L197-L201)
 **theorem
 Tau.BookV.Temporal.progression_is_positive
 (h : RefinementRate)
@@ -398,7 +398,7 @@ Progression rate is always positive (tower never stops).
 
 ### `Tau.BookV.Temporal.InflationaryInterpretation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L207-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L207-L226)
 **structure
 Tau.BookV.Temporal.InflationaryInterpretation :Type**
 
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprInflationaryInterpretation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L226-L226)
 **def
 Tau.BookV.Temporal.instReprInflationaryInterpretation.repr :InflationaryInterpretation → ℕ → Std.Format**
 
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprInflationaryInterpretation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L226-L226)
 **instance
 Tau.BookV.Temporal.instReprInflationaryInterpretation :Repr InflationaryInterpretation**
 
@@ -460,7 +460,7 @@ Equations
 
 ### `Tau.BookV.Temporal.inflation_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L228-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L228-L231)
 **theorem
 Tau.BookV.Temporal.inflation_remark
 (inf : InflationaryInterpretation)
@@ -473,7 +473,7 @@ Inflation remark: the rate decreases from opening to temporal epoch.
 
 ### `Tau.BookV.Temporal.rate_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/HighEnergy.lean#L237-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/HighEnergy.lean#L237-L242)
 **theorem
 Tau.BookV.Temporal.rate_hierarchy :BookIV.Sectors.iotaD > BookIV.Sectors.iota**
 

@@ -53,7 +53,7 @@ slack that prevents any global projection from preserving distinctness.
 
 ### `Tau.MetaLogic.ReceptionCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L29-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L29-L35)
 **inductive
 Tau.MetaLogic.ReceptionCondition :Type**
 
@@ -70,7 +70,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqReceptionCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
 **instance
 Tau.MetaLogic.instDecidableEqReceptionCondition :DecidableEq ReceptionCondition**
 
@@ -81,7 +81,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprReceptionCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
 **def
 Tau.MetaLogic.instReprReceptionCondition.repr :ReceptionCondition → ℕ → Std.Format**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.MetaLogic.instReprReceptionCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L35-L35)
 **instance
 Tau.MetaLogic.instReprReceptionCondition :Repr ReceptionCondition**
 
@@ -104,7 +104,7 @@ Equations
 
 ### `Tau.MetaLogic.IdentityFaithfulReception`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L37-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L37-L45)
 **structure
 Tau.MetaLogic.IdentityFaithfulReception :Type**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.MetaLogic.allReceptionConditions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L47-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L47-L49)
 **def
 Tau.MetaLogic.allReceptionConditions :List ReceptionCondition**
 
@@ -141,7 +141,7 @@ Instances For
 
 ### `Tau.MetaLogic.reception_condition_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L51-L52)
 **theorem
 Tau.MetaLogic.reception_condition_count :allReceptionConditions.length = 3**
 
@@ -152,7 +152,7 @@ There are exactly 3 reception conditions.
 
 ### `Tau.MetaLogic.StructuralInstability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L58-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L58-L68)
 **structure
 Tau.MetaLogic.StructuralInstability :Type**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.MetaLogic.InstabilitySymptom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L70-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L70-L77)
 **inductive
 Tau.MetaLogic.InstabilitySymptom :Type**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqInstabilitySymptom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
 **instance
 Tau.MetaLogic.instDecidableEqInstabilitySymptom :DecidableEq InstabilitySymptom**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprInstabilitySymptom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
 **instance
 Tau.MetaLogic.instReprInstabilitySymptom :Repr InstabilitySymptom**
 
@@ -218,7 +218,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprInstabilitySymptom.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L77-L77)
 **def
 Tau.MetaLogic.instReprInstabilitySymptom.repr :InstabilitySymptom → ℕ → Std.Format**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.MetaLogic.allInstabilitySymptoms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L79-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L79-L81)
 **def
 Tau.MetaLogic.allInstabilitySymptoms :List InstabilitySymptom**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.MetaLogic.instability_symptom_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L83-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L83-L84)
 **theorem
 Tau.MetaLogic.instability_symptom_count :allInstabilitySymptoms.length = 5**
 
@@ -255,7 +255,7 @@ There are exactly 5 instability symptoms.
 
 ### `Tau.MetaLogic.orthodox_instability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L86-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L86-L89)
 **def
 Tau.MetaLogic.orthodox_instability
 (f : OrthodoxFoundation)
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_no_instability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L91-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L91-L97)
 **theorem
 Tau.MetaLogic.tau_no_instability :¬∃ (si : StructuralInstability), si.resonance = tau_resonance**
 
@@ -282,7 +282,7 @@ Tau.MetaLogic.tau_no_instability :¬∃ (si : StructuralInstability), si.resonan
 
 ### `Tau.MetaLogic.structural_instability_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L103-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L103-L115)
 **theorem
 Tau.MetaLogic.structural_instability_theorem
 (dr : DiagonalResonance)
@@ -300,7 +300,7 @@ If host has full resonance, reception conditions cannot be met.
 
 ### `Tau.MetaLogic.tau_self_reception`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L117-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L117-L123)
 **def
 Tau.MetaLogic.tau_self_reception :IdentityFaithfulReception**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.MetaLogic.orthodox_no_reception`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L125-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L125-L129)
 **theorem
 Tau.MetaLogic.orthodox_no_reception
 (f : OrthodoxFoundation)
@@ -328,7 +328,7 @@ No orthodox foundation can faithfully receive τ.
 
 ### `Tau.MetaLogic.AbsoluteMeaningImplication`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L135-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L135-L142)
 **structure
 Tau.MetaLogic.AbsoluteMeaningImplication :Type**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.MetaLogic.tau_absolute_meaning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L144-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L144-L148)
 **def
 Tau.MetaLogic.tau_absolute_meaning :AbsoluteMeaningImplication**
 
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.MetaLogic.ScopeDeclaration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L154-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L154-L160)
 **inductive
 Tau.MetaLogic.ScopeDeclaration :Type**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqScopeDeclaration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
 **instance
 Tau.MetaLogic.instDecidableEqScopeDeclaration :DecidableEq ScopeDeclaration**
 
@@ -392,7 +392,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprScopeDeclaration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
 **instance
 Tau.MetaLogic.instReprScopeDeclaration :Repr ScopeDeclaration**
 
@@ -403,7 +403,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprScopeDeclaration.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L160-L160)
 **def
 Tau.MetaLogic.instReprScopeDeclaration.repr :ScopeDeclaration → ℕ → Std.Format**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.MetaLogic.allScopeDeclarations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L162-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L162-L164)
 **def
 Tau.MetaLogic.allScopeDeclarations :List ScopeDeclaration**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.MetaLogic.scope_declaration_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L166-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L166-L167)
 **theorem
 Tau.MetaLogic.scope_declaration_count :allScopeDeclarations.length = 4**
 
@@ -440,7 +440,7 @@ There are exactly 4 scope declarations.
 
 ### `Tau.MetaLogic.TradeoffCost`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L169-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L169-L174)
 **inductive
 Tau.MetaLogic.TradeoffCost :Type**
 
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.MetaLogic.instDecidableEqTradeoffCost`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
 **instance
 Tau.MetaLogic.instDecidableEqTradeoffCost :DecidableEq TradeoffCost**
 
@@ -467,7 +467,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprTradeoffCost`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
 **instance
 Tau.MetaLogic.instReprTradeoffCost :Repr TradeoffCost**
 
@@ -478,7 +478,7 @@ Equations
 
 ### `Tau.MetaLogic.instReprTradeoffCost.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L174-L174)
 **def
 Tau.MetaLogic.instReprTradeoffCost.repr :TradeoffCost → ℕ → Std.Format**
 
@@ -490,7 +490,7 @@ Instances For
 
 ### `Tau.MetaLogic.allTradeoffCosts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L176-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L176-L178)
 **def
 Tau.MetaLogic.allTradeoffCosts :List TradeoffCost**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.MetaLogic.tradeoff_cost_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L180-L181)
 **theorem
 Tau.MetaLogic.tradeoff_cost_count :allTradeoffCosts.length = 3**
 
@@ -515,7 +515,7 @@ There are exactly 3 trade-off costs.
 
 ### `Tau.MetaLogic.tradeoff_resolution_book`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L183-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L183-L187)
 **def
 Tau.MetaLogic.tradeoff_resolution_book :TradeoffCost → ℕ**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.MetaLogic.tradeoff_resolved_by_book_three`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L189-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/MetaLogic/ReceptionCriterion.lean#L189-L192)
 **theorem
 Tau.MetaLogic.tradeoff_resolved_by_book_three
 (c : TradeoffCost)

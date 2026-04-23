@@ -110,7 +110,7 @@ Contrast: the strong force (fiber T²) is confined with area-law loops.
 
 ### `Tau.BookV.Cosmology.MergerNormalFormData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L70-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L70-L92)
 **structure
 Tau.BookV.Cosmology.MergerNormalFormData :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMergerNormalFormData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L92-L92)
 **def
 Tau.BookV.Cosmology.instReprMergerNormalFormData.repr :MergerNormalFormData → ℕ → Std.Format**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMergerNormalFormData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L92-L92)
 **instance
 Tau.BookV.Cosmology.instReprMergerNormalFormData :Repr MergerNormalFormData**
 
@@ -173,7 +173,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.merger_normal_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L94-L96)
 **theorem
 Tau.BookV.Cosmology.merger_normal_form
 (m : MergerNormalFormData)
@@ -186,7 +186,7 @@ Merger normal form: mass is conserved (modulo radiation).
 
 ### `Tau.BookV.Cosmology.RingdownMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L102-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L102-L121)
 **structure
 Tau.BookV.Cosmology.RingdownMode :Type**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRingdownMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L121-L121)
 **def
 Tau.BookV.Cosmology.instReprRingdownMode.repr :RingdownMode → ℕ → Std.Format**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRingdownMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L121-L121)
 **instance
 Tau.BookV.Cosmology.instReprRingdownMode :Repr RingdownMode**
 
@@ -245,7 +245,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.ringdown_damping_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L127-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L127-L130)
 **theorem
 Tau.BookV.Cosmology.ringdown_damping_structural
 (r : RingdownMode)
@@ -259,7 +259,7 @@ The ringdown terminates in finite time.
 
 ### `Tau.BookV.Cosmology.BHMassScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L136-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L136-L152)
 **structure
 Tau.BookV.Cosmology.BHMassScale :Type**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHMassScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L152-L152)
 **instance
 Tau.BookV.Cosmology.instReprBHMassScale :Repr BHMassScale**
 
@@ -302,7 +302,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBHMassScale.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L152-L152)
 **def
 Tau.BookV.Cosmology.instReprBHMassScale.repr :BHMassScale → ℕ → Std.Format**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.PrimorialMassGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L158-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L158-L175)
 **structure
 Tau.BookV.Cosmology.PrimorialMassGap :Type**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPrimorialMassGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L175-L175)
 **instance
 Tau.BookV.Cosmology.instReprPrimorialMassGap :Repr PrimorialMassGap**
 
@@ -358,7 +358,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprPrimorialMassGap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L175-L175)
 **def
 Tau.BookV.Cosmology.instReprPrimorialMassGap.repr :PrimorialMassGap → ℕ → Std.Format**
 
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.mass_gap_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L177-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L177-L179)
 **theorem
 Tau.BookV.Cosmology.mass_gap_primorial
 (g : PrimorialMassGap)
@@ -383,7 +383,7 @@ Mass gap is at least factor of 2.
 
 ### `Tau.BookV.Cosmology.scope_note_mass_spectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L185-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L185-L190)
 **def
 Tau.BookV.Cosmology.scope_note_mass_spectrum :Prop**
 
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.scope_note_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L192-L192)
 **theorem
 Tau.BookV.Cosmology.scope_note_holds :scope_note_mass_spectrum**
 
@@ -408,7 +408,7 @@ Tau.BookV.Cosmology.scope_note_holds :scope_note_mass_spectrum**
 
 ### `Tau.BookV.Cosmology.WilsonLawType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L198-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L198-L209)
 **inductive
 Tau.BookV.Cosmology.WilsonLawType :Type**
 
@@ -436,7 +436,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprWilsonLawType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
 **def
 Tau.BookV.Cosmology.instReprWilsonLawType.repr :WilsonLawType → ℕ → Std.Format**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprWilsonLawType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
 **instance
 Tau.BookV.Cosmology.instReprWilsonLawType :Repr WilsonLawType**
 
@@ -459,7 +459,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqWilsonLawType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
 **instance
 Tau.BookV.Cosmology.instDecidableEqWilsonLawType :DecidableEq WilsonLawType**
 
@@ -470,7 +470,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqWilsonLawType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
 **instance
 Tau.BookV.Cosmology.instBEqWilsonLawType :BEq WilsonLawType**
 
@@ -481,7 +481,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqWilsonLawType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L209-L209)
 **def
 Tau.BookV.Cosmology.instBEqWilsonLawType.beq :WilsonLawType → WilsonLawType → Bool**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BaseWilsonLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L211-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L211-L221)
 **structure
 Tau.BookV.Cosmology.BaseWilsonLoop :Type**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaseWilsonLoop.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L221-L221)
 **def
 Tau.BookV.Cosmology.instReprBaseWilsonLoop.repr :BaseWilsonLoop → ℕ → Std.Format**
 
@@ -530,7 +530,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBaseWilsonLoop`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L221-L221)
 **instance
 Tau.BookV.Cosmology.instReprBaseWilsonLoop :Repr BaseWilsonLoop**
 
@@ -541,7 +541,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.gravitational_deconfinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L227-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L227-L234)
 **theorem
 Tau.BookV.Cosmology.gravitational_deconfinement :"D-sector deconfined: perimeter law for base Wilson loops" = "D-sector deconfined: perimeter law for base Wilson loops"**
 
@@ -556,7 +556,7 @@ Gravity propagates freely at all distances (no confinement).
 
 ### `Tau.BookV.Cosmology.BHABPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L240-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L240-L252)
 **structure
 Tau.BookV.Cosmology.BHABPhase :Type**
 
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHABPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L252-L252)
 **instance
 Tau.BookV.Cosmology.instReprBHABPhase :Repr BHABPhase**
 
@@ -593,7 +593,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBHABPhase.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L252-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L252-L252)
 **def
 Tau.BookV.Cosmology.instReprBHABPhase.repr :BHABPhase → ℕ → Std.Format**
 
@@ -605,7 +605,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bh_ab_phase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L254-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L254-L256)
 **theorem
 Tau.BookV.Cosmology.bh_ab_phase
 (p : BHABPhase)
@@ -620,7 +620,7 @@ AB phase is proportional to mass.
 
 ### `Tau.BookV.Cosmology.RadiatedEnergyBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L262-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L262-L276)
 **structure
 Tau.BookV.Cosmology.RadiatedEnergyBound :Type**
 
@@ -649,7 +649,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRadiatedEnergyBound.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L276-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L276-L276)
 **def
 Tau.BookV.Cosmology.instReprRadiatedEnergyBound.repr :RadiatedEnergyBound → ℕ → Std.Format**
 
@@ -661,7 +661,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprRadiatedEnergyBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L276-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L276-L276)
 **instance
 Tau.BookV.Cosmology.instReprRadiatedEnergyBound :Repr RadiatedEnergyBound**
 
@@ -672,7 +672,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.canonical_energy_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L278-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L278-L283)
 **def
 Tau.BookV.Cosmology.canonical_energy_bound :RadiatedEnergyBound**
 
@@ -686,7 +686,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.radiated_energy_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L285-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L285-L289)
 **theorem
 Tau.BookV.Cosmology.radiated_energy_bound :canonical_energy_bound.bound_numer > 2900 ∧ canonical_energy_bound.bound_numer < 3000**
 
@@ -697,7 +697,7 @@ The bound is approximately 0.293.
 
 ### `Tau.BookV.Cosmology.the_sqrt2_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L295-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L295-L301)
 **def
 Tau.BookV.Cosmology.the_sqrt2_remark :Prop**
 
@@ -714,7 +714,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.sqrt2_remark_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L303-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L303-L303)
 **theorem
 Tau.BookV.Cosmology.sqrt2_remark_holds :the_sqrt2_remark**
 
@@ -723,7 +723,7 @@ Tau.BookV.Cosmology.sqrt2_remark_holds :the_sqrt2_remark**
 
 ### `Tau.BookV.Cosmology.example_merger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L329-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L329-L338)
 **def
 Tau.BookV.Cosmology.example_merger :MergerNormalFormData**
 
@@ -737,7 +737,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.mode1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L344-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L344-L351)
 **def
 Tau.BookV.Cosmology.mode1 :RingdownMode**
 
@@ -751,7 +751,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BlueprintFusionEnergy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L359-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L359-L370)
 **structure
 Tau.BookV.Cosmology.BlueprintFusionEnergy :Type**
 
@@ -773,7 +773,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlueprintFusionEnergy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L370-L370)
 **def
 Tau.BookV.Cosmology.instReprBlueprintFusionEnergy.repr :BlueprintFusionEnergy → ℕ → Std.Format**
 
@@ -785,7 +785,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlueprintFusionEnergy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L370-L370)
 **instance
 Tau.BookV.Cosmology.instReprBlueprintFusionEnergy :Repr BlueprintFusionEnergy**
 
@@ -796,7 +796,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.merger_energy_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L372-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L372-L377)
 **def
 Tau.BookV.Cosmology.merger_energy_formula :BlueprintFusionEnergy**
 
@@ -812,7 +812,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.equal_mass_eta_ppm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L379-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L379-L381)
 **def
 Tau.BookV.Cosmology.equal_mass_eta_ppm :ℕ**
 
@@ -827,7 +827,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.equal_mass_eta_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L383-L384)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L383-L384)
 **theorem
 Tau.BookV.Cosmology.equal_mass_eta_positive :equal_mass_eta_ppm > 0**
 
@@ -838,7 +838,7 @@ Equal-mass fraction is positive.
 
 ### `Tau.BookV.Cosmology.equal_mass_eta_below_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L386-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L386-L387)
 **theorem
 Tau.BookV.Cosmology.equal_mass_eta_below_bound :equal_mass_eta_ppm < 293000**
 
@@ -849,7 +849,7 @@ Equal-mass fraction is below upper bound (1−1/√2 ≈ 0.293).
 
 ### `Tau.BookV.Cosmology.iota_sq_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/MergerNormalForm.lean#L389-L390)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/MergerNormalForm.lean#L389-L390)
 **theorem
 Tau.BookV.Cosmology.iota_sq_canonical :merger_energy_formula.iota_sq_x10000 = 1165**
 

@@ -90,7 +90,7 @@ Through 60 chapters we earned:
 
 ### `Tau.Holomorphy.EarnedInteriorPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L53-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L53-L63)
 **structure
 Tau.Holomorphy.EarnedInteriorPoint :Type**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.Holomorphy.earned_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L65-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L65-L68)
 **def
 Tau.Holomorphy.earned_id :EarnedInteriorPoint**
 
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Holomorphy.earned_interior_reduced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L70-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L70-L73)
 **theorem
 Tau.Holomorphy.earned_interior_reduced
 (p : EarnedInteriorPoint)
@@ -138,7 +138,7 @@ Interior values are self-consistent: output at stage k is reduced.
 
 ### `Tau.Holomorphy.interior_from_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L79-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L79-L86)
 **theorem
 Tau.Holomorphy.interior_from_boundary
 (f₁ f₂ : StageFun)
@@ -163,7 +163,7 @@ Two tower-coherent functions with the same boundary data
 
 ### `Tau.Holomorphy.interior_from_boundary_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L88-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L88-L93)
 **theorem
 Tau.Holomorphy.interior_from_boundary_c
 (f₁ f₂ : StageFun)
@@ -186,7 +186,7 @@ The interior-boundary principle for C-sector.
 
 ### `Tau.Holomorphy.BookIExport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L99-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L99-L118)
 **structure
 Tau.Holomorphy.BookIExport :Type 1**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.Holomorphy.book_i_export`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L120-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L120-L125)
 **def
 Tau.Holomorphy.book_i_export :BookIExport**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.Holomorphy.five_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L131-L133)
 **theorem
 Tau.Holomorphy.five_generators :[Kernel.Generator.alpha, Kernel.Generator.pi, Kernel.Generator.gamma, Kernel.Generator.eta, Kernel.Generator.omega].length = 5**
 
@@ -240,7 +240,7 @@ Book I summary: 5 generators (α, π, γ, η, ω).
 
 ### `Tau.Holomorphy.monoid_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L135-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L135-L140)
 **theorem
 Tau.Holomorphy.monoid_assoc
 (f₁ f₂ f₃ : StageFun)
@@ -253,7 +253,7 @@ Book I summary: the program monoid is associative.
 
 ### `Tau.Holomorphy.non_boolean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/BoundaryInterior.lean#L142-L144)
 **theorem
 Tau.Holomorphy.non_boolean :Logic.Truth4.B.impl Logic.Truth4.F ≠ Logic.Truth4.T**
 

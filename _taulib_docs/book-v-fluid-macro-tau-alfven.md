@@ -112,7 +112,7 @@ constraint.
 
 ### `Tau.BookV.FluidMacro.MHDPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L66-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L66-L74)
 **inductive
 Tau.BookV.FluidMacro.MHDPolarization :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDPolarization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
 **def
 Tau.BookV.FluidMacro.instReprMHDPolarization.repr :MHDPolarization → ℕ → Std.Format**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMHDPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
 **instance
 Tau.BookV.FluidMacro.instReprMHDPolarization :Repr MHDPolarization**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMHDPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqMHDPolarization :DecidableEq MHDPolarization**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqMHDPolarization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
 **instance
 Tau.BookV.FluidMacro.instBEqMHDPolarization :BEq MHDPolarization**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqMHDPolarization.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L74-L74)
 **def
 Tau.BookV.FluidMacro.instBEqMHDPolarization.beq :MHDPolarization → MHDPolarization → Bool**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.AlfvenWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L76-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L76-L95)
 **structure
 Tau.BookV.FluidMacro.AlfvenWaveMode :Type**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenWaveMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L95-L95)
 **instance
 Tau.BookV.FluidMacro.instReprAlfvenWaveMode :Repr AlfvenWaveMode**
 
@@ -238,7 +238,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenWaveMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L95-L95)
 **def
 Tau.BookV.FluidMacro.instReprAlfvenWaveMode.repr :AlfvenWaveMode → ℕ → Std.Format**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.AlfvenWaveMode.speedFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L97-L99)
 **def
 Tau.BookV.FluidMacro.AlfvenWaveMode.speedFloat
 (a : AlfvenWaveMode)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.shear_is_incompressible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L101-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L101-L105)
 **theorem
 Tau.BookV.FluidMacro.shear_is_incompressible
 (a : AlfvenWaveMode)
@@ -283,7 +283,7 @@ Shear Alfven waves are incompressible.
 
 ### `Tau.BookV.FluidMacro.AlfvenDispersion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L111-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L111-L126)
 **structure
 Tau.BookV.FluidMacro.AlfvenDispersion :Type**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDispersion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L126-L126)
 **instance
 Tau.BookV.FluidMacro.instReprAlfvenDispersion :Repr AlfvenDispersion**
 
@@ -325,7 +325,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDispersion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L126-L126)
 **def
 Tau.BookV.FluidMacro.instReprAlfvenDispersion.repr :AlfvenDispersion → ℕ → Std.Format**
 
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.alfven_dispersion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L128-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L128-L138)
 **theorem
 Tau.BookV.FluidMacro.alfven_dispersion :"Shear: omega = v_A k cos(theta), Fast: v_phi > v_A, Slow: v_phi < v_A" = "Shear: omega = v_A k cos(theta), Fast: v_phi > v_A, Slow: v_phi < v_A"**
 
@@ -355,7 +355,7 @@ Structural recording.
 
 ### `Tau.BookV.FluidMacro.MagnetoacousticMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L144-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L144-L168)
 **structure
 Tau.BookV.FluidMacro.MagnetoacousticMode :Type**
 
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagnetoacousticMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L168-L168)
 **def
 Tau.BookV.FluidMacro.instReprMagnetoacousticMode.repr :MagnetoacousticMode → ℕ → Std.Format**
 
@@ -411,7 +411,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagnetoacousticMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L168-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L168-L168)
 **instance
 Tau.BookV.FluidMacro.instReprMagnetoacousticMode :Repr MagnetoacousticMode**
 
@@ -422,7 +422,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.fast_slow_opposite_phase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L170-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L170-L176)
 **theorem
 Tau.BookV.FluidMacro.fast_slow_opposite_phase
 (fast slow : MagnetoacousticMode)
@@ -439,7 +439,7 @@ Fast and slow modes have opposite phase relations.
 
 ### `Tau.BookV.FluidMacro.AlfvenDampingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L182-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L182-L192)
 **inductive
 Tau.BookV.FluidMacro.AlfvenDampingMechanism :Type**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDampingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
 **instance
 Tau.BookV.FluidMacro.instReprAlfvenDampingMechanism :Repr AlfvenDampingMechanism**
 
@@ -475,7 +475,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDampingMechanism.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
 **def
 Tau.BookV.FluidMacro.instReprAlfvenDampingMechanism.repr :AlfvenDampingMechanism → ℕ → Std.Format**
 
@@ -487,7 +487,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqAlfvenDampingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqAlfvenDampingMechanism :DecidableEq AlfvenDampingMechanism**
 
@@ -498,7 +498,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqAlfvenDampingMechanism`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
 **instance
 Tau.BookV.FluidMacro.instBEqAlfvenDampingMechanism :BEq AlfvenDampingMechanism**
 
@@ -509,7 +509,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqAlfvenDampingMechanism.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L192-L192)
 **def
 Tau.BookV.FluidMacro.instBEqAlfvenDampingMechanism.beq :AlfvenDampingMechanism → AlfvenDampingMechanism → Bool**
 
@@ -521,7 +521,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.AlfvenDamping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L194-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L194-L208)
 **structure
 Tau.BookV.FluidMacro.AlfvenDamping :Type**
 
@@ -550,7 +550,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDamping.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L208-L208)
 **def
 Tau.BookV.FluidMacro.instReprAlfvenDamping.repr :AlfvenDamping → ℕ → Std.Format**
 
@@ -562,7 +562,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDamping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L208-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L208-L208)
 **instance
 Tau.BookV.FluidMacro.instReprAlfvenDamping :Repr AlfvenDamping**
 
@@ -573,7 +573,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.alfven_damping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L210-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L210-L212)
 **theorem
 Tau.BookV.FluidMacro.alfven_damping
 (d : AlfvenDamping)
@@ -586,7 +586,7 @@ Damping is always bounded.
 
 ### `Tau.BookV.FluidMacro.MagnetoacousticSynthesis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L218-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L218-L233)
 **structure
 Tau.BookV.FluidMacro.MagnetoacousticSynthesis :Type**
 
@@ -616,7 +616,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagnetoacousticSynthesis.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L233-L233)
 **def
 Tau.BookV.FluidMacro.instReprMagnetoacousticSynthesis.repr :MagnetoacousticSynthesis → ℕ → Std.Format**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagnetoacousticSynthesis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L233-L233)
 **instance
 Tau.BookV.FluidMacro.instReprMagnetoacousticSynthesis :Repr MagnetoacousticSynthesis**
 
@@ -639,7 +639,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.MagnetoacousticSynthesis.totalEnergy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L235-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L235-L237)
 **def
 Tau.BookV.FluidMacro.MagnetoacousticSynthesis.totalEnergy
 (ms : MagnetoacousticSynthesis)
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.magnetoacoustic_synthesis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L239-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L239-L244)
 **theorem
 Tau.BookV.FluidMacro.magnetoacoustic_synthesis
 (ms : MagnetoacousticSynthesis)
@@ -670,7 +670,7 @@ Completeness: total energy is nonzero for nontrivial perturbation.
 
 ### `Tau.BookV.FluidMacro.AlfvenDampingRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L250-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L250-L263)
 **structure
 Tau.BookV.FluidMacro.AlfvenDampingRate :Type**
 
@@ -697,7 +697,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDampingRate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L263-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L263-L263)
 **def
 Tau.BookV.FluidMacro.instReprAlfvenDampingRate.repr :AlfvenDampingRate → ℕ → Std.Format**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprAlfvenDampingRate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L263-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L263-L263)
 **instance
 Tau.BookV.FluidMacro.instReprAlfvenDampingRate :Repr AlfvenDampingRate**
 
@@ -720,7 +720,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.alfven_damping_rate_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L265-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L265-L266)
 **def
 Tau.BookV.FluidMacro.alfven_damping_rate_tau :AlfvenDampingRate**
 
@@ -734,7 +734,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.CoronalHeatingFlux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L272-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L272-L288)
 **structure
 Tau.BookV.FluidMacro.CoronalHeatingFlux :Type**
 
@@ -765,7 +765,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCoronalHeatingFlux.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L288-L288)
 **def
 Tau.BookV.FluidMacro.instReprCoronalHeatingFlux.repr :CoronalHeatingFlux → ℕ → Std.Format**
 
@@ -777,7 +777,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCoronalHeatingFlux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L288-L288)
 **instance
 Tau.BookV.FluidMacro.instReprCoronalHeatingFlux :Repr CoronalHeatingFlux**
 
@@ -788,7 +788,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.coronal_heating_flux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L290-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L290-L291)
 **def
 Tau.BookV.FluidMacro.coronal_heating_flux :CoronalHeatingFlux**
 
@@ -802,7 +802,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.tau_alfven_damping_rate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L297-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L297-L306)
 **theorem
 Tau.BookV.FluidMacro.tau_alfven_damping_rate :alfven_damping_rate_tau.free_params = 0 ∧ alfven_damping_rate_tau.sector = 2**
 
@@ -818,7 +818,7 @@ Zero free parameters.
 
 ### `Tau.BookV.FluidMacro.CoronalFluxConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L312-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L312-L324)
 **structure
 Tau.BookV.FluidMacro.CoronalFluxConsistency :Type**
 
@@ -843,7 +843,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprCoronalFluxConsistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L324-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L324-L324)
 **instance
 Tau.BookV.FluidMacro.instReprCoronalFluxConsistency :Repr CoronalFluxConsistency**
 
@@ -854,7 +854,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprCoronalFluxConsistency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L324-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L324-L324)
 **def
 Tau.BookV.FluidMacro.instReprCoronalFluxConsistency.repr :CoronalFluxConsistency → ℕ → Std.Format**
 
@@ -866,7 +866,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.coronal_flux_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L326-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L326-L327)
 **def
 Tau.BookV.FluidMacro.coronal_flux_consistency :CoronalFluxConsistency**
 
@@ -880,7 +880,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_shear_alfven`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L342-L349)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L342-L349)
 **def
 Tau.BookV.FluidMacro.example_shear_alfven :AlfvenWaveMode**
 
@@ -894,7 +894,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_fast_mode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L354-L364)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L354-L364)
 **def
 Tau.BookV.FluidMacro.example_fast_mode :MagnetoacousticMode**
 
@@ -908,7 +908,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_synthesis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/TauAlfven.lean#L368-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/TauAlfven.lean#L368-L372)
 **def
 Tau.BookV.FluidMacro.example_synthesis :MagnetoacousticSynthesis**
 

@@ -63,7 +63,7 @@ at the infinity level.
 
 ### `Tau.BookII.Mirror.SignLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L44-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L44-L60)
 **inductive
 Tau.BookII.Mirror.SignLevel :Type**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqSignLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
 **instance
 Tau.BookII.Mirror.instDecidableEqSignLevel :DecidableEq SignLevel**
 
@@ -101,7 +101,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSignLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
 **instance
 Tau.BookII.Mirror.instReprSignLevel :Repr SignLevel**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprSignLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L60-L60)
 **def
 Tau.BookII.Mirror.instReprSignLevel.repr :SignLevel → ℕ → Std.Format**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.orthodox_property`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L68-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L68-L81)
 **def
 Tau.BookII.Mirror.orthodox_property :SignLevel → String**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_property`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L83-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L83-L96)
 **def
 Tau.BookII.Mirror.tau_property :SignLevel → String**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.allSignLevels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L102-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L102-L106)
 **def
 Tau.BookII.Mirror.allSignLevels :List SignLevel**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.sign_level_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L108-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L108-L109)
 **theorem
 Tau.BookII.Mirror.sign_level_count :allSignLevels.length = 12**
 
@@ -199,7 +199,7 @@ Tau.BookII.Mirror.sign_level_count :allSignLevels.length = 12**
 
 ### `Tau.BookII.Mirror.orthodox_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L111-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L111-L113)
 **def
 Tau.BookII.Mirror.orthodox_nonempty
 (sl : SignLevel)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L115-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L115-L117)
 **def
 Tau.BookII.Mirror.tau_nonempty
 (sl : SignLevel)
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_orthodox_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L119-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L119-L121)
 **theorem
 Tau.BookII.Mirror.all_orthodox_nonempty :allSignLevels.all orthodox_nonempty = true**
 
@@ -242,7 +242,7 @@ All orthodox descriptions are nonempty.
 
 ### `Tau.BookII.Mirror.all_tau_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L123-L125)
 **theorem
 Tau.BookII.Mirror.all_tau_nonempty :allSignLevels.all tau_nonempty = true**
 
@@ -253,7 +253,7 @@ All tau descriptions are nonempty.
 
 ### `Tau.BookII.Mirror.descriptions_differ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L127-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L127-L129)
 **def
 Tau.BookII.Mirror.descriptions_differ
 (sl : SignLevel)
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_descriptions_differ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L131-L133)
 **theorem
 Tau.BookII.Mirror.all_descriptions_differ :allSignLevels.all descriptions_differ = true**
 
@@ -280,7 +280,7 @@ Tau.BookII.Mirror.all_descriptions_differ :allSignLevels.all descriptions_differ
 
 ### `Tau.BookII.Mirror.InfinityTradeOff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L139-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L139-L151)
 **structure
 Tau.BookII.Mirror.InfinityTradeOff :Type**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqInfinityTradeOff.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
 **def
 Tau.BookII.Mirror.instDecidableEqInfinityTradeOff.decEq
 (x✝ x✝¹ : InfinityTradeOff)
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instDecidableEqInfinityTradeOff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
 **instance
 Tau.BookII.Mirror.instDecidableEqInfinityTradeOff :DecidableEq InfinityTradeOff**
 
@@ -333,7 +333,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprInfinityTradeOff.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
 **def
 Tau.BookII.Mirror.instReprInfinityTradeOff.repr :InfinityTradeOff → ℕ → Std.Format**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprInfinityTradeOff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L151-L151)
 **instance
 Tau.BookII.Mirror.instReprInfinityTradeOff :Repr InfinityTradeOff**
 
@@ -356,7 +356,7 @@ Equations
 
 ### `Tau.BookII.Mirror.orthodox_path`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L153-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L153-L159)
 **def
 Tau.BookII.Mirror.orthodox_path :InfinityTradeOff**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.tau_path`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L161-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L161-L167)
 **def
 Tau.BookII.Mirror.tau_path :InfinityTradeOff**
 
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.orthodox_path_no_unique_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L173-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L173-L175)
 **theorem
 Tau.BookII.Mirror.orthodox_path_no_unique_omega :orthodox_path.has_unique_omega = false**
 
@@ -399,7 +399,7 @@ Tau.BookII.Mirror.orthodox_path_no_unique_omega :orthodox_path.has_unique_omega 
 
 ### `Tau.BookII.Mirror.tau_path_no_archimedean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L177-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L177-L179)
 **theorem
 Tau.BookII.Mirror.tau_path_no_archimedean :tau_path.has_archimedean_density = false**
 
@@ -410,7 +410,7 @@ Tau.BookII.Mirror.tau_path_no_archimedean :tau_path.has_archimedean_density = fa
 
 ### `Tau.BookII.Mirror.orthodox_path_no_finite_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L181-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L181-L183)
 **theorem
 Tau.BookII.Mirror.orthodox_path_no_finite_witnesses :orthodox_path.has_finite_witnesses = false**
 
@@ -421,7 +421,7 @@ Tau.BookII.Mirror.orthodox_path_no_finite_witnesses :orthodox_path.has_finite_wi
 
 ### `Tau.BookII.Mirror.tau_path_no_epsilon_delta`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L185-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L185-L187)
 **theorem
 Tau.BookII.Mirror.tau_path_no_epsilon_delta :tau_path.has_epsilon_delta = false**
 
@@ -432,7 +432,7 @@ Tau.BookII.Mirror.tau_path_no_epsilon_delta :tau_path.has_epsilon_delta = false*
 
 ### `Tau.BookII.Mirror.structural_incompatibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L189-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L189-L194)
 **theorem
 Tau.BookII.Mirror.structural_incompatibility :orthodox_path.has_unique_omega = false ∧ tau_path.has_archimedean_density = false**
 
@@ -444,7 +444,7 @@ cannot both hold. Proved by case analysis on the two paths.
 
 ### `Tau.BookII.Mirror.paths_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L196-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L196-L200)
 **theorem
 Tau.BookII.Mirror.paths_distinct :orthodox_path ≠ tau_path**
 
@@ -455,7 +455,7 @@ Tau.BookII.Mirror.paths_distinct :orthodox_path ≠ tau_path**
 
 ### `Tau.BookII.Mirror.no_both_omega_and_archimedean_orthodox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L202-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L202-L209)
 **theorem
 Tau.BookII.Mirror.no_both_omega_and_archimedean_orthodox :orthodox_path.has_unique_omega = true → orthodox_path.has_archimedean_density = true → False**
 
@@ -467,7 +467,7 @@ if it agrees with one of the two canonical paths.
 
 ### `Tau.BookII.Mirror.no_both_omega_and_archimedean_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L211-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L211-L217)
 **theorem
 Tau.BookII.Mirror.no_both_omega_and_archimedean_tau :tau_path.has_unique_omega = true → tau_path.has_archimedean_density = true → False**
 
@@ -478,7 +478,7 @@ Tau.BookII.Mirror.no_both_omega_and_archimedean_tau :tau_path.has_unique_omega =
 
 ### `Tau.BookII.Mirror.sign_level_index`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L223-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L223-L236)
 **def
 Tau.BookII.Mirror.sign_level_index :SignLevel → ℕ**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.sign_indices_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L238-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L238-L241)
 **theorem
 Tau.BookII.Mirror.sign_indices_injective
 (a b : SignLevel)
@@ -516,7 +516,7 @@ All indices are distinct.
 
 ### `Tau.BookII.Mirror.sign_index_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L243-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L243-L246)
 **theorem
 Tau.BookII.Mirror.sign_index_bound
 (sl : SignLevel)
@@ -529,7 +529,7 @@ All indices are in [0, 12).
 
 ### `Tau.BookII.Mirror.sign_count_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L275-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L275-L276)
 **theorem
 Tau.BookII.Mirror.sign_count_12 :allSignLevels.length = 12**
 
@@ -538,7 +538,7 @@ Tau.BookII.Mirror.sign_count_12 :allSignLevels.length = 12**
 
 ### `Tau.BookII.Mirror.orthodox_all_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L279-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L279-L280)
 **theorem
 Tau.BookII.Mirror.orthodox_all_nonempty :allSignLevels.all orthodox_nonempty = true**
 
@@ -547,7 +547,7 @@ Tau.BookII.Mirror.orthodox_all_nonempty :allSignLevels.all orthodox_nonempty = t
 
 ### `Tau.BookII.Mirror.tau_all_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L282-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L282-L283)
 **theorem
 Tau.BookII.Mirror.tau_all_nonempty :allSignLevels.all tau_nonempty = true**
 
@@ -556,7 +556,7 @@ Tau.BookII.Mirror.tau_all_nonempty :allSignLevels.all tau_nonempty = true**
 
 ### `Tau.BookII.Mirror.all_differ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L285-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L285-L286)
 **theorem
 Tau.BookII.Mirror.all_differ :allSignLevels.all descriptions_differ = true**
 
@@ -565,7 +565,7 @@ Tau.BookII.Mirror.all_differ :allSignLevels.all descriptions_differ = true**
 
 ### `Tau.BookII.Mirror.orthodox_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L289-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L289-L290)
 **theorem
 Tau.BookII.Mirror.orthodox_omega :orthodox_path.has_unique_omega = false**
 
@@ -574,7 +574,7 @@ Tau.BookII.Mirror.orthodox_omega :orthodox_path.has_unique_omega = false**
 
 ### `Tau.BookII.Mirror.tau_archimedean`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L292-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L292-L293)
 **theorem
 Tau.BookII.Mirror.tau_archimedean :tau_path.has_archimedean_density = false**
 
@@ -583,7 +583,7 @@ Tau.BookII.Mirror.tau_archimedean :tau_path.has_archimedean_density = false**
 
 ### `Tau.BookII.Mirror.orthodox_epsilon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L295-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L295-L296)
 **theorem
 Tau.BookII.Mirror.orthodox_epsilon :orthodox_path.has_epsilon_delta = true**
 
@@ -592,7 +592,7 @@ Tau.BookII.Mirror.orthodox_epsilon :orthodox_path.has_epsilon_delta = true**
 
 ### `Tau.BookII.Mirror.tau_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L298-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L298-L299)
 **theorem
 Tau.BookII.Mirror.tau_witnesses :tau_path.has_finite_witnesses = true**
 
@@ -601,6 +601,6 @@ Tau.BookII.Mirror.tau_witnesses :tau_path.has_finite_witnesses = true**
 
 ### `Tau.BookII.Mirror.incompatibility_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/SignClassification.lean#L302-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/SignClassification.lean#L302-L305)
 **theorem
 Tau.BookII.Mirror.incompatibility_native :orthodox_path.has_unique_omega = false ∧ tau_path.has_archimedean_density = false**

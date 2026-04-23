@@ -63,7 +63,7 @@ Part XI summary statistics:
 
 ### `Tau.BookII.Mirror.RewiringRow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L38-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L38-L45)
 **structure
 Tau.BookII.Mirror.RewiringRow :Type**
 
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.instReprRewiringRow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L45-L45)
 **instance
 Tau.BookII.Mirror.instReprRewiringRow :Repr RewiringRow**
 
@@ -92,7 +92,7 @@ Equations
 
 ### `Tau.BookII.Mirror.instReprRewiringRow.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L45-L45)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L45-L45)
 **def
 Tau.BookII.Mirror.instReprRewiringRow.repr :RewiringRow → ℕ → Std.Format**
 
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.full_rewiring_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L47-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L47-L96)
 **def
 Tau.BookII.Mirror.full_rewiring_table :List RewiringRow**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.rewiring_table_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L102-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L102-L104)
 **theorem
 Tau.BookII.Mirror.rewiring_table_complete :full_rewiring_table.length = 12**
 
@@ -129,7 +129,7 @@ Tau.BookII.Mirror.rewiring_table_complete :full_rewiring_table.length = 12**
 
 ### `Tau.BookII.Mirror.row_orthodox_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L106-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L106-L108)
 **def
 Tau.BookII.Mirror.row_orthodox_nonempty
 (r : RewiringRow)
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.row_tau_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L110-L112)
 **def
 Tau.BookII.Mirror.row_tau_nonempty
 (r : RewiringRow)
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.row_tradeoff_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L114-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L114-L116)
 **def
 Tau.BookII.Mirror.row_tradeoff_nonempty
 (r : RewiringRow)
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.all_orthodox_rows_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L118-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L118-L120)
 **theorem
 Tau.BookII.Mirror.all_orthodox_rows_nonempty :full_rewiring_table.all row_orthodox_nonempty = true**
 
@@ -188,7 +188,7 @@ All orthodox descriptions are nonempty.
 
 ### `Tau.BookII.Mirror.all_tau_rows_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L122-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L122-L124)
 **theorem
 Tau.BookII.Mirror.all_tau_rows_nonempty :full_rewiring_table.all row_tau_nonempty = true**
 
@@ -199,7 +199,7 @@ All tau descriptions are nonempty.
 
 ### `Tau.BookII.Mirror.all_tradeoff_rows_nonempty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L126-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L126-L128)
 **theorem
 Tau.BookII.Mirror.all_tradeoff_rows_nonempty :full_rewiring_table.all row_tradeoff_nonempty = true**
 
@@ -210,7 +210,7 @@ All trade-off descriptions are nonempty.
 
 ### `Tau.BookII.Mirror.table_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L134-L136)
 **def
 Tau.BookII.Mirror.table_levels :List SignLevel**
 
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.table_levels_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L138-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L138-L140)
 **theorem
 Tau.BookII.Mirror.table_levels_match :table_levels = allSignLevels**
 
@@ -235,7 +235,7 @@ The table levels match the canonical sign level list.
 
 ### `Tau.BookII.Mirror.table_covers_all_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L142-L144)
 **theorem
 Tau.BookII.Mirror.table_covers_all_levels :table_levels.length = allSignLevels.length**
 
@@ -246,7 +246,7 @@ The table covers all sign levels (same length and same elements).
 
 ### `Tau.BookII.Mirror.part_xi_definitions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L150-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L150-L151)
 **def
 Tau.BookII.Mirror.part_xi_definitions :ℕ**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.part_xi_theorems`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L153-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L153-L154)
 **def
 Tau.BookII.Mirror.part_xi_theorems :ℕ**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.part_xi_total_entries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L156-L157)
 **def
 Tau.BookII.Mirror.part_xi_total_entries :ℕ**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.part_xi_entry_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L159-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L159-L161)
 **theorem
 Tau.BookII.Mirror.part_xi_entry_count :part_xi_total_entries = 11**
 
@@ -299,7 +299,7 @@ Part XI has 11 formal entries total.
 
 ### `Tau.BookII.Mirror.part_xi_modules`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L163-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L163-L164)
 **def
 Tau.BookII.Mirror.part_xi_modules :ℕ**
 
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookII.Mirror.part_xi_module_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L166-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L166-L168)
 **theorem
 Tau.BookII.Mirror.part_xi_module_count :part_xi_modules = 4**
 
@@ -324,7 +324,7 @@ Four modules in Part XI.
 
 ### `Tau.BookII.Mirror.table_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L195-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L195-L196)
 **theorem
 Tau.BookII.Mirror.table_12 :full_rewiring_table.length = 12**
 
@@ -333,7 +333,7 @@ Tau.BookII.Mirror.table_12 :full_rewiring_table.length = 12**
 
 ### `Tau.BookII.Mirror.rows_orthodox`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L199-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L199-L200)
 **theorem
 Tau.BookII.Mirror.rows_orthodox :full_rewiring_table.all row_orthodox_nonempty = true**
 
@@ -342,7 +342,7 @@ Tau.BookII.Mirror.rows_orthodox :full_rewiring_table.all row_orthodox_nonempty =
 
 ### `Tau.BookII.Mirror.rows_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L202-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L202-L203)
 **theorem
 Tau.BookII.Mirror.rows_tau :full_rewiring_table.all row_tau_nonempty = true**
 
@@ -351,7 +351,7 @@ Tau.BookII.Mirror.rows_tau :full_rewiring_table.all row_tau_nonempty = true**
 
 ### `Tau.BookII.Mirror.rows_tradeoff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L205-L206)
 **theorem
 Tau.BookII.Mirror.rows_tradeoff :full_rewiring_table.all row_tradeoff_nonempty = true**
 
@@ -360,6 +360,6 @@ Tau.BookII.Mirror.rows_tradeoff :full_rewiring_table.all row_tradeoff_nonempty =
 
 ### `Tau.BookII.Mirror.levels_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Mirror/Inventory.lean#L209-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Mirror/Inventory.lean#L209-L210)
 **theorem
 Tau.BookII.Mirror.levels_match :table_levels = allSignLevels**

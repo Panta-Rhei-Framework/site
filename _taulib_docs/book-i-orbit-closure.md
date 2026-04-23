@@ -57,7 +57,7 @@ impossible to create objects outside the orbit structure.
 
 ### `Tau.Orbit.ontic_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L34-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L34-L43)
 **theorem
 Tau.Orbit.ontic_closure
 (x : Kernel.TauObj)
@@ -71,7 +71,7 @@ or has seed omega.
 
 ### `Tau.Orbit.ontic_closure_five_way`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L45-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L45-L55)
 **theorem
 Tau.Orbit.ontic_closure_five_way
 (x : Kernel.TauObj)
@@ -84,7 +84,7 @@ Ontic closure: five-way decomposition.
 
 ### `Tau.Orbit.orbit_omega_disjoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L61-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L61-L65)
 **theorem
 Tau.Orbit.orbit_omega_disjoint
 (g : Kernel.Generator)
@@ -101,7 +101,7 @@ Orbit rays and the omega fiber are disjoint.
 
 ### `Tau.Orbit.universe_sealed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L71-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L71-L76)
 **theorem
 Tau.Orbit.universe_sealed
 (x : Kernel.TauObj)
@@ -115,7 +115,7 @@ This is K6, restated at the orbit level.
 
 ### `Tau.Orbit.universe_generated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L78-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L78-L82)
 **theorem
 Tau.Orbit.universe_generated
 (x : Kernel.TauObj)
@@ -130,7 +130,7 @@ Every non-omega TauObj is reached by iterated ρ from a generator.
 
 ### `Tau.Orbit.omega_fiber_rho_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L88-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L88-L91)
 **theorem
 Tau.Orbit.omega_fiber_rho_fixed
 (n : Nat)
@@ -143,7 +143,7 @@ All objects in the omega fiber are ρ-fixed.
 
 ### `Tau.Orbit.omega_obj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Closure.lean#L93-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Closure.lean#L93-L94)
 **def
 Tau.Orbit.omega_obj :Kernel.TauObj**
 

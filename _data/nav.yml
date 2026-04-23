@@ -223,6 +223,8 @@ publications_nav:
     url: "/publications/white-papers/"
   - title: "Companion Papers"
     url: "/publications/companion-papers/"
+  - title: "Errata"
+    url: "/publications/errata/"
   - title: "Archived · First Edition"
     url: "/publications/archived/first-edition/"
 

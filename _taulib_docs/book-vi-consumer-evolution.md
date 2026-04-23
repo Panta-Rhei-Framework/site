@@ -58,7 +58,7 @@ Evolution as PPAS optimization on fitness landscapes.
 
 ### `Tau.BookVI.Evolution.PPASFitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L30-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L30-L44)
 **structure
 Tau.BookVI.Evolution.PPASFitness :Type**
 
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.instReprPPASFitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L44-L44)
 **def
 Tau.BookVI.Evolution.instReprPPASFitness.repr :PPASFitness → ℕ → Std.Format**
 
@@ -99,7 +99,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.instReprPPASFitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L44-L44)
 **instance
 Tau.BookVI.Evolution.instReprPPASFitness :Repr PPASFitness**
 
@@ -110,7 +110,7 @@ Equations
 
 ### `Tau.BookVI.Evolution.ppas_fit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L46-L46)
 **def
 Tau.BookVI.Evolution.ppas_fit :PPASFitness**
 
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.EvolutionOptimization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L52-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L52-L71)
 **structure
 Tau.BookVI.Evolution.EvolutionOptimization :Type**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.instReprEvolutionOptimization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L71-L71)
 **def
 Tau.BookVI.Evolution.instReprEvolutionOptimization.repr :EvolutionOptimization → ℕ → Std.Format**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.instReprEvolutionOptimization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L71-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L71-L71)
 **instance
 Tau.BookVI.Evolution.instReprEvolutionOptimization :Repr EvolutionOptimization**
 
@@ -182,7 +182,7 @@ Equations
 
 ### `Tau.BookVI.Evolution.evo_opt`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L73-L75)
 **def
 Tau.BookVI.Evolution.evo_opt :EvolutionOptimization**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.evolution_is_ppas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L77-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L77-L81)
 **theorem
 Tau.BookVI.Evolution.evolution_is_ppas :evo_opt.force_count = 4 ∧ evo_opt.convergence = true ∧ ppas_fit.polynomial_converge = true**
 
@@ -203,7 +203,7 @@ Tau.BookVI.Evolution.evolution_is_ppas :evo_opt.force_count = 4 ∧ evo_opt.conv
 
 ### `Tau.BookVI.Evolution.ppas_polynomial_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L83-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L83-L86)
 **theorem
 Tau.BookVI.Evolution.ppas_polynomial_convergence :ppas_fit.landscape_np_hard = true ∧ ppas_fit.polynomial_converge = true**
 
@@ -212,7 +212,7 @@ Tau.BookVI.Evolution.ppas_polynomial_convergence :ppas_fit.landscape_np_hard = t
 
 ### `Tau.BookVI.Evolution.FitnessLandscapeTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L92-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L92-L103)
 **structure
 Tau.BookVI.Evolution.FitnessLandscapeTopology :Type**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.instReprFitnessLandscapeTopology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L103-L103)
 **instance
 Tau.BookVI.Evolution.instReprFitnessLandscapeTopology :Repr FitnessLandscapeTopology**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookVI.Evolution.instReprFitnessLandscapeTopology.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L103-L103)
 **def
 Tau.BookVI.Evolution.instReprFitnessLandscapeTopology.repr :FitnessLandscapeTopology → ℕ → Std.Format**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookVI.Evolution.fitness_topo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L105-L105)
 **def
 Tau.BookVI.Evolution.fitness_topo :FitnessLandscapeTopology**
 
@@ -272,6 +272,6 @@ Instances For
 
 ### `Tau.BookVI.Evolution.fitness_landscape_rugged`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Evolution.lean#L107-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Evolution.lean#L107-L111)
 **theorem
 Tau.BookVI.Evolution.fitness_landscape_rugged :fitness_topo.epistatic = true ∧ fitness_topo.nk_model = true ∧ fitness_topo.attractor_basins = true**

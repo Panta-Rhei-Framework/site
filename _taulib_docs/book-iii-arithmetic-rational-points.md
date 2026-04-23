@@ -56,7 +56,7 @@ generated at each primorial level; rank stabilizes at finite depth.
 
 ### `Tau.BookIII.Arithmetic.TauRationalPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L40-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L40-L44)
 **structure
 Tau.BookIII.Arithmetic.TauRationalPoint :Type**
 
@@ -71,7 +71,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instReprTauRationalPoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **def
 Tau.BookIII.Arithmetic.instReprTauRationalPoint.repr :TauRationalPoint → ℕ → Std.Format**
 
@@ -83,7 +83,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instReprTauRationalPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **instance
 Tau.BookIII.Arithmetic.instReprTauRationalPoint :Repr TauRationalPoint**
 
@@ -94,7 +94,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.instDecidableEqTauRationalPoint.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **def
 Tau.BookIII.Arithmetic.instDecidableEqTauRationalPoint.decEq
 (x✝ x✝¹ : TauRationalPoint)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.instDecidableEqTauRationalPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **instance
 Tau.BookIII.Arithmetic.instDecidableEqTauRationalPoint :DecidableEq TauRationalPoint**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.instBEqTauRationalPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **instance
 Tau.BookIII.Arithmetic.instBEqTauRationalPoint :BEq TauRationalPoint**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookIII.Arithmetic.instBEqTauRationalPoint.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L44-L44)
 **def
 Tau.BookIII.Arithmetic.instBEqTauRationalPoint.beq :TauRationalPoint → TauRationalPoint → Bool**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.is_rational_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L46-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L46-L60)
 **def
 Tau.BookIII.Arithmetic.is_rational_at
 (x k : Denotation.TauIdx)
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rational_point_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L62-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L62-L72)
 **def
 Tau.BookIII.Arithmetic.rational_point_check
 (bound db : Denotation.TauIdx)
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rational_point_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L66-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L66-L71)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.rational_point_check.go
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_as_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L78-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L78-L89)
 **def
 Tau.BookIII.Arithmetic.rank_as_depth
 (x db : Denotation.TauIdx)
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_as_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L83-L88)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L83-L88)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.rank_as_depth.go
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L91-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L91-L100)
 **def
 Tau.BookIII.Arithmetic.rank_check
 (bound db : Denotation.TauIdx)
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L95-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L95-L99)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.rank_check.go
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.mordell_weil_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L106-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L106-L128)
 **def
 Tau.BookIII.Arithmetic.mordell_weil_check
 (db : Denotation.TauIdx)
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.mordell_weil_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L112-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L112-L122)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.mordell_weil_check.go
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.mordell_weil_check.count_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L124-L128)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L124-L128)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.mordell_weil_check.count_rational
@@ -311,7 +311,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_stabilization_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L130-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L130-L143)
 **def
 Tau.BookIII.Arithmetic.rank_stabilization_check
 (bound db : Denotation.TauIdx)
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rank_stabilization_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L134-L142)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L134-L142)@[irreducible]
 
 **def
 Tau.BookIII.Arithmetic.rank_stabilization_check.go
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIII.Arithmetic.rational_point_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L159-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L159-L160)
 **theorem
 Tau.BookIII.Arithmetic.rational_point_15_4 :rational_point_check 15 4 = true**
 
@@ -353,7 +353,7 @@ Tau.BookIII.Arithmetic.rational_point_15_4 :rational_point_check 15 4 = true**
 
 ### `Tau.BookIII.Arithmetic.rank_15_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L162-L163)
 **theorem
 Tau.BookIII.Arithmetic.rank_15_5 :rank_check 15 5 = true**
 
@@ -362,7 +362,7 @@ Tau.BookIII.Arithmetic.rank_15_5 :rank_check 15 5 = true**
 
 ### `Tau.BookIII.Arithmetic.mordell_weil_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L165-L166)
 **theorem
 Tau.BookIII.Arithmetic.mordell_weil_4 :mordell_weil_check 4 = true**
 
@@ -371,7 +371,7 @@ Tau.BookIII.Arithmetic.mordell_weil_4 :mordell_weil_check 4 = true**
 
 ### `Tau.BookIII.Arithmetic.rank_stab_15_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L168-L169)
 **theorem
 Tau.BookIII.Arithmetic.rank_stab_15_5 :rank_stabilization_check 15 5 = true**
 
@@ -380,7 +380,7 @@ Tau.BookIII.Arithmetic.rank_stab_15_5 :rank_stabilization_check 15 5 = true**
 
 ### `Tau.BookIII.Arithmetic.zero_rational`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L175-L177)
 **theorem
 Tau.BookIII.Arithmetic.zero_rational :is_rational_at 0 3 = true**
 
@@ -391,7 +391,7 @@ Tau.BookIII.Arithmetic.zero_rational :is_rational_at 0 3 = true**
 
 ### `Tau.BookIII.Arithmetic.rank_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L179-L181)
 **theorem
 Tau.BookIII.Arithmetic.rank_bounded :rank_as_depth 42 5 ≤ 5**
 
@@ -402,7 +402,7 @@ Tau.BookIII.Arithmetic.rank_bounded :rank_as_depth 42 5 ≤ 5**
 
 ### `Tau.BookIII.Arithmetic.all_rational_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Arithmetic/RationalPoints.lean#L183-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Arithmetic/RationalPoints.lean#L183-L185)
 **theorem
 Tau.BookIII.Arithmetic.all_rational_1 :rational_point_check 10 1 = true**
 

@@ -62,7 +62,7 @@ via a coprime decomposition argument.
 
 ### `Tau.Sets.tau_union`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L38-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L38-L39)
 **def
 Tau.Sets.tau_union
 (a b : Denotation.TauIdx)
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Sets.tau_inter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L41-L42)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L41-L42)
 **def
 Tau.Sets.tau_inter
 (a b : Denotation.TauIdx)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Sets.tau_union_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L48-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L48-L49)
 **theorem
 Tau.Sets.tau_union_comm
 (a b : Denotation.TauIdx)
@@ -105,7 +105,7 @@ Tau.Sets.tau_union_comm
 
 ### `Tau.Sets.tau_inter_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L51-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L51-L52)
 **theorem
 Tau.Sets.tau_inter_comm
 (a b : Denotation.TauIdx)
@@ -116,7 +116,7 @@ Tau.Sets.tau_inter_comm
 
 ### `Tau.Sets.tau_union_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L58-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L58-L60)
 **theorem
 Tau.Sets.tau_union_assoc
 (a b c : Denotation.TauIdx)
@@ -127,7 +127,7 @@ Tau.Sets.tau_union_assoc
 
 ### `Tau.Sets.tau_inter_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L62-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L62-L64)
 **theorem
 Tau.Sets.tau_inter_assoc
 (a b c : Denotation.TauIdx)
@@ -138,7 +138,7 @@ Tau.Sets.tau_inter_assoc
 
 ### `Tau.Sets.tau_union_self`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L70-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L70-L75)
 **theorem
 Tau.Sets.tau_union_self
 (a : Denotation.TauIdx)
@@ -149,7 +149,7 @@ Tau.Sets.tau_union_self
 
 ### `Tau.Sets.tau_inter_self`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L77-L78)
 **theorem
 Tau.Sets.tau_inter_self
 (a : Denotation.TauIdx)
@@ -160,7 +160,7 @@ Tau.Sets.tau_inter_self
 
 ### `Tau.Sets.tau_union_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L84-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L84-L85)
 **theorem
 Tau.Sets.tau_union_one
 (a : Denotation.TauIdx)
@@ -171,7 +171,7 @@ Tau.Sets.tau_union_one
 
 ### `Tau.Sets.tau_inter_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L92-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L92-L93)
 **theorem
 Tau.Sets.tau_inter_zero
 (a : Denotation.TauIdx)
@@ -182,7 +182,7 @@ Tau.Sets.tau_inter_zero
 
 ### `Tau.Sets.tau_union_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L95-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L95-L96)
 **theorem
 Tau.Sets.tau_union_zero
 (a : Denotation.TauIdx)
@@ -193,7 +193,7 @@ Tau.Sets.tau_union_zero
 
 ### `Tau.Sets.tau_inter_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L98-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L98-L99)
 **theorem
 Tau.Sets.tau_inter_one
 (a : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Tau.Sets.tau_inter_one
 
 ### `Tau.Sets.tau_mem_union_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L105-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L105-L106)
 **theorem
 Tau.Sets.tau_mem_union_left
 (a b : Denotation.TauIdx)
@@ -215,7 +215,7 @@ Tau.Sets.tau_mem_union_left
 
 ### `Tau.Sets.tau_mem_union_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L108-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L108-L109)
 **theorem
 Tau.Sets.tau_mem_union_right
 (a b : Denotation.TauIdx)
@@ -226,7 +226,7 @@ Tau.Sets.tau_mem_union_right
 
 ### `Tau.Sets.tau_mem_inter_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L111-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L111-L112)
 **theorem
 Tau.Sets.tau_mem_inter_left
 (a b : Denotation.TauIdx)
@@ -237,7 +237,7 @@ Tau.Sets.tau_mem_inter_left
 
 ### `Tau.Sets.tau_mem_inter_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L114-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L114-L115)
 **theorem
 Tau.Sets.tau_mem_inter_right
 (a b : Denotation.TauIdx)
@@ -248,7 +248,7 @@ Tau.Sets.tau_mem_inter_right
 
 ### `Tau.Sets.tau_union_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L117-L120)
 **theorem
 Tau.Sets.tau_union_dvd
 {a b c : Denotation.TauIdx}
@@ -263,7 +263,7 @@ Tau.Sets.tau_union_dvd
 
 ### `Tau.Sets.tau_inter_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L122-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L122-L125)
 **theorem
 Tau.Sets.tau_inter_dvd
 {a b c : Denotation.TauIdx}
@@ -278,7 +278,7 @@ Tau.Sets.tau_inter_dvd
 
 ### `Tau.Sets.tau_union_inter_absorb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L131-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L131-L134)
 **theorem
 Tau.Sets.tau_union_inter_absorb
 (a b : Denotation.TauIdx)
@@ -289,7 +289,7 @@ Tau.Sets.tau_union_inter_absorb
 
 ### `Tau.Sets.tau_inter_union_absorb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L136-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L136-L139)
 **theorem
 Tau.Sets.tau_inter_union_absorb
 (a b : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Tau.Sets.tau_inter_union_absorb
 
 ### `Tau.Sets.tau_inter_distrib_union`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L287-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L287-L292)
 **theorem
 Tau.Sets.tau_inter_distrib_union
 (a b c : Denotation.TauIdx)
@@ -314,7 +314,7 @@ gcd(a, lcm(b,c)) = lcm(gcd(a,b), gcd(a,c)).
 
 ### `Tau.Sets.tau_union_distrib_inter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/Operations.lean#L298-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/Operations.lean#L298-L325)
 **theorem
 Tau.Sets.tau_union_distrib_inter
 (a b c : Denotation.TauIdx)

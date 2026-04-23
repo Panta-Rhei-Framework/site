@@ -64,7 +64,7 @@ The Yoneda lemma simplifies to: evaluation at X determines the presheaf.
 
 ### `Tau.Topos.TauFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L40-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L40-L47)
 **structure
 Tau.Topos.TauFunctor :Type**
 
@@ -84,7 +84,7 @@ Instances For
 
 ### `Tau.Topos.TauFunctor.id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L49-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L49-L50)
 **def
 Tau.Topos.TauFunctor.id :TauFunctor**
 
@@ -98,7 +98,7 @@ Instances For
 
 ### `Tau.Topos.TauFunctor.comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L52-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L52-L54)
 **def
 Tau.Topos.TauFunctor.comp
 (F G : TauFunctor)
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.Topos.functor_comp_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L56-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L56-L58)
 **theorem
 Tau.Topos.functor_comp_assoc
 (F G H : TauFunctor)
@@ -127,7 +127,7 @@ Functor composition is associative.
 
 ### `Tau.Topos.functor_id_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L60-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L60-L63)
 **theorem
 Tau.Topos.functor_id_comp
 (F : TauFunctor)
@@ -140,7 +140,7 @@ Identity is a left unit for functor composition.
 
 ### `Tau.Topos.functor_comp_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L65-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L65-L68)
 **theorem
 Tau.Topos.functor_comp_id
 (F : TauFunctor)
@@ -153,7 +153,7 @@ Identity is a right unit for functor composition.
 
 ### `Tau.Topos.NatTrans`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L74-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L74-L84)
 **structure
 Tau.Topos.NatTrans
 (F G : TauFunctor)
@@ -181,7 +181,7 @@ Instances For
 
 ### `Tau.Topos.NatTrans.id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L86-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L86-L88)
 **def
 Tau.Topos.NatTrans.id
 (F : TauFunctor)
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.Topos.naturality_automatic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L90-L93)
 **theorem
 Tau.Topos.naturality_automatic
 (F G : TauFunctor)
@@ -213,7 +213,7 @@ trivially satisfies the naturality condition.
 
 ### `Tau.Topos.forgetful_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L99-L101)
 **def
 Tau.Topos.forgetful_functor :TauFunctor**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.Topos.hom_predicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L103-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L103-L107)
 **def
 Tau.Topos.hom_predicate
 (target : Denotation.TauIdx)
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.Topos.Presheaf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L113-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L113-L119)
 **structure
 Tau.Topos.Presheaf :Type**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.Topos.yoneda`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L121-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L121-L124)
 **def
 Tau.Topos.yoneda
 (x : Denotation.TauIdx)
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.Topos.yoneda_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L126-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L126-L129)
 **theorem
 Tau.Topos.yoneda_constant
 (x y : Denotation.TauIdx)
@@ -296,7 +296,7 @@ in a thin category (both are the terminal presheaf).
 
 ### `Tau.Topos.yoneda_thin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L135-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L135-L148)
 **theorem
 Tau.Topos.yoneda_thin
 (P : Presheaf)
@@ -321,7 +321,7 @@ the transformation.
 
 ### `Tau.Topos.yoneda_faithful`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L150-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L150-L154)
 **theorem
 Tau.Topos.yoneda_faithful
 (F : TauFunctor)
@@ -339,7 +339,7 @@ Yoneda embedding is faithful: different objects give different arrows.
 
 ### `Tau.Topos.Presheaf.representable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L160-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L160-L162)
 **def
 Tau.Topos.Presheaf.representable
 (P : Presheaf)
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.Topos.representable_subterminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L164-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L164-L170)
 **theorem
 Tau.Topos.representable_subterminal
 (P : Presheaf)
@@ -373,7 +373,7 @@ their support is either always true or always false at each point.
 
 ### `Tau.Topos.double_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L176-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L176-L177)
 **def
 Tau.Topos.double_functor :TauFunctor**
 
@@ -387,7 +387,7 @@ Instances For
 
 ### `Tau.Topos.succ_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/Functors.lean#L179-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/Functors.lean#L179-L180)
 **def
 Tau.Topos.succ_functor :TauFunctor**
 

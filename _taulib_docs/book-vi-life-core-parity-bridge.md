@@ -56,7 +56,7 @@ parity asymmetry. Only the weak sector is nontrivial.
 
 ### `Tau.BookVI.ParityBridge.PolarityFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L25-L33)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L25-L33)
 **structure
 Tau.BookVI.ParityBridge.PolarityFunctional :Type**
 
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprPolarityFunctional.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L33-L33)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L33-L33)
 **def
 Tau.BookVI.ParityBridge.instReprPolarityFunctional.repr :PolarityFunctional → ℕ → Std.Format**
 
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprPolarityFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L33-L33)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L33-L33)
 **instance
 Tau.BookVI.ParityBridge.instReprPolarityFunctional :Repr PolarityFunctional**
 
@@ -98,7 +98,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.polarity_functional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L35-L39)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L35-L39)
 **def
 Tau.BookVI.ParityBridge.polarity_functional :PolarityFunctional**
 
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.TwoPointObject`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L41-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L41-L48)
 **structure
 Tau.BookVI.ParityBridge.TwoPointObject :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprTwoPointObject.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L48-L48)
 **def
 Tau.BookVI.ParityBridge.instReprTwoPointObject.repr :TwoPointObject → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprTwoPointObject`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L48-L48)
 **instance
 Tau.BookVI.ParityBridge.instReprTwoPointObject :Repr TwoPointObject**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.two_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L50-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L50-L52)
 **def
 Tau.BookVI.ParityBridge.two_point :TwoPointObject**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.ThreePolarityTerms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L54-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L54-L58)
 **structure
 Tau.BookVI.ParityBridge.ThreePolarityTerms :Type**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprThreePolarityTerms.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L58-L58)
 **def
 Tau.BookVI.ParityBridge.instReprThreePolarityTerms.repr :ThreePolarityTerms → ℕ → Std.Format**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprThreePolarityTerms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L58-L58)
 **instance
 Tau.BookVI.ParityBridge.instReprThreePolarityTerms :Repr ThreePolarityTerms**
 
@@ -201,7 +201,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.polarity_terms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L60-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L60-L62)
 **def
 Tau.BookVI.ParityBridge.polarity_terms :ThreePolarityTerms**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.weak_sector_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L64-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L64-L69)
 **theorem
 Tau.BookVI.ParityBridge.weak_sector_uniqueness :polarity_functional.nontrivial_count = 1 ∧ polarity_functional.sectors_tested = 4**
 
@@ -225,7 +225,7 @@ weak is the unique one with nontrivial polarity.
 
 ### `Tau.BookVI.ParityBridge.ParityBridgeTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L71-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L71-L79)
 **structure
 Tau.BookVI.ParityBridge.ParityBridgeTheorem :Type**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprParityBridgeTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L79-L79)
 **def
 Tau.BookVI.ParityBridge.instReprParityBridgeTheorem.repr :ParityBridgeTheorem → ℕ → Std.Format**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprParityBridgeTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L79-L79)
 **instance
 Tau.BookVI.ParityBridge.instReprParityBridgeTheorem :Repr ParityBridgeTheorem**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.parity_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L81-L83)
 **def
 Tau.BookVI.ParityBridge.parity_bridge :ParityBridgeTheorem**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.parity_bridge_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L85-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L85-L87)
 **theorem
 Tau.BookVI.ParityBridge.parity_bridge_theorem :parity_bridge.path_count = 1**
 
@@ -288,7 +288,7 @@ Tau.BookVI.ParityBridge.parity_bridge_theorem :parity_bridge.path_count = 1**
 
 ### `Tau.BookVI.ParityBridge.LowNoiseCarrierCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L89-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L89-L93)
 **structure
 Tau.BookVI.ParityBridge.LowNoiseCarrierCondition :Type**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprLowNoiseCarrierCondition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L93-L93)
 **instance
 Tau.BookVI.ParityBridge.instReprLowNoiseCarrierCondition :Repr LowNoiseCarrierCondition**
 
@@ -314,7 +314,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.instReprLowNoiseCarrierCondition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L93-L93)
 **def
 Tau.BookVI.ParityBridge.instReprLowNoiseCarrierCondition.repr :LowNoiseCarrierCondition → ℕ → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.low_noise`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L95-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L95-L97)
 **def
 Tau.BookVI.ParityBridge.low_noise :LowNoiseCarrierCondition**
 
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.low_noise_carrier_condition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L99-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L99-L100)
 **theorem
 Tau.BookVI.ParityBridge.low_noise_carrier_condition :low_noise.condition_count = 3**
 
@@ -347,7 +347,7 @@ Tau.BookVI.ParityBridge.low_noise_carrier_condition :low_noise.condition_count =
 
 ### `Tau.BookVI.ParityBridge.PolarityPropagation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L106-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L106-L121)
 **structure
 Tau.BookVI.ParityBridge.PolarityPropagation :Type**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprPolarityPropagation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L121-L121)
 **def
 Tau.BookVI.ParityBridge.instReprPolarityPropagation.repr :PolarityPropagation → ℕ → Std.Format**
 
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprPolarityPropagation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L121-L121)
 **instance
 Tau.BookVI.ParityBridge.instReprPolarityPropagation :Repr PolarityPropagation**
 
@@ -400,7 +400,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.polarity_propagation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L123-L125)
 **def
 Tau.BookVI.ParityBridge.polarity_propagation :PolarityPropagation**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.ChiralitySeed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L131-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L131-L143)
 **structure
 Tau.BookVI.ParityBridge.ChiralitySeed :Type**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.instReprChiralitySeed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L143-L143)
 **instance
 Tau.BookVI.ParityBridge.instReprChiralitySeed :Repr ChiralitySeed**
 
@@ -449,7 +449,7 @@ Equations
 
 ### `Tau.BookVI.ParityBridge.instReprChiralitySeed.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L143-L143)
 **def
 Tau.BookVI.ParityBridge.instReprChiralitySeed.repr :ChiralitySeed → ℕ → Std.Format**
 
@@ -461,7 +461,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.chirality_seed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L145-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L145-L147)
 **def
 Tau.BookVI.ParityBridge.chirality_seed :ChiralitySeed**
 
@@ -473,7 +473,7 @@ Instances For
 
 ### `Tau.BookVI.ParityBridge.propagation_preserves_chirality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L153-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L153-L163)
 **theorem
 Tau.BookVI.ParityBridge.propagation_preserves_chirality :polarity_propagation.sign_preserved = true ∧ polarity_propagation.bridge_path_count = 1 ∧ chirality_seed.va_coupling_pct = 100 ∧ chirality_seed.coherent = true**
 
@@ -488,7 +488,7 @@ Proof chain: weak-sector parity violation (ChiralitySeed, VI.D72)
 
 ### `Tau.BookVI.ParityBridge.propagation_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/LifeCore/ParityBridge.lean#L169-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/LifeCore/ParityBridge.lean#L169-L175)
 **theorem
 Tau.BookVI.ParityBridge.propagation_uniqueness :polarity_functional.nontrivial_count = 1 ∧ polarity_propagation.bridge_path_count = 1**
 

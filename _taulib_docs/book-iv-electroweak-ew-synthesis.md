@@ -87,7 +87,7 @@ splitting, and the gravitational closing identity.
 
 ### `Tau.BookIV.Electroweak.YukawaCouplingFull`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L55-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L55-L78)
 **structure
 Tau.BookIV.Electroweak.YukawaCouplingFull :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprYukawaCouplingFull`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L78-L78)
 **instance
 Tau.BookIV.Electroweak.instReprYukawaCouplingFull :Repr YukawaCouplingFull**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprYukawaCouplingFull.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L78-L78)
 **def
 Tau.BookIV.Electroweak.instReprYukawaCouplingFull.repr :YukawaCouplingFull → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.YukawaCouplingFull.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L80-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L80-L82)
 **def
 Tau.BookIV.Electroweak.YukawaCouplingFull.toFloat
 (y : YukawaCouplingFull)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.yukawa_full_top`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L84-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L84-L90)
 **def
 Tau.BookIV.Electroweak.yukawa_full_top :YukawaCouplingFull**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.yukawa_full_bottom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L92-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L92-L98)
 **def
 Tau.BookIV.Electroweak.yukawa_full_bottom :YukawaCouplingFull**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.yukawa_full_charm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L100-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L100-L106)
 **def
 Tau.BookIV.Electroweak.yukawa_full_charm :YukawaCouplingFull**
 
@@ -213,7 +213,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.yukawa_full_electron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L108-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L108-L114)
 **def
 Tau.BookIV.Electroweak.yukawa_full_electron :YukawaCouplingFull**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWSynthesisPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L120-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L120-L134)
 **structure
 Tau.BookIV.Electroweak.EWSynthesisPrediction :Type**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEWSynthesisPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L134-L134)
 **instance
 Tau.BookIV.Electroweak.instReprEWSynthesisPrediction :Repr EWSynthesisPrediction**
 
@@ -269,7 +269,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEWSynthesisPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L134-L134)
 **def
 Tau.BookIV.Electroweak.instReprEWSynthesisPrediction.repr :EWSynthesisPrediction → ℕ → Std.Format**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWSynthesisPrediction.tauFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L136-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L136-L138)
 **def
 Tau.BookIV.Electroweak.EWSynthesisPrediction.tauFloat
 (p : EWSynthesisPrediction)
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EWSynthesisPrediction.expFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L140-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L140-L142)
 **def
 Tau.BookIV.Electroweak.EWSynthesisPrediction.expFloat
 (p : EWSynthesisPrediction)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ew_prediction_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L144-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L144-L155)
 **def
 Tau.BookIV.Electroweak.ew_prediction_table :List EWSynthesisPrediction**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.nine_ew_quantities`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L157-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L157-L158)
 **theorem
 Tau.BookIV.Electroweak.nine_ew_quantities :ew_prediction_table.length = 9**
 
@@ -338,7 +338,7 @@ The table has exactly 9 entries.
 
 ### `Tau.BookIV.Electroweak.EWAxiomTrace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L164-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L164-L180)
 **structure
 Tau.BookIV.Electroweak.EWAxiomTrace :Type**
 
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEWAxiomTrace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L180-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L180-L180)
 **def
 Tau.BookIV.Electroweak.instReprEWAxiomTrace.repr :EWAxiomTrace → ℕ → Std.Format**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEWAxiomTrace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L180-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L180-L180)
 **instance
 Tau.BookIV.Electroweak.instReprEWAxiomTrace :Repr EWAxiomTrace**
 
@@ -395,7 +395,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.ew_traces_to_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L182-L182)
 **def
 Tau.BookIV.Electroweak.ew_traces_to_axioms :EWAxiomTrace**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ew_two_inputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L184-L185)
 **theorem
 Tau.BookIV.Electroweak.ew_two_inputs :ew_traces_to_axioms.input_count = 2**
 
@@ -416,7 +416,7 @@ Tau.BookIV.Electroweak.ew_two_inputs :ew_traces_to_axioms.input_count = 2**
 
 ### `Tau.BookIV.Electroweak.Sqrt3Triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L191-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L191-L213)
 **structure
 Tau.BookIV.Electroweak.Sqrt3Triad :Type**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSqrt3Triad.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L213-L213)
 **def
 Tau.BookIV.Electroweak.instReprSqrt3Triad.repr :Sqrt3Triad → ℕ → Std.Format**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSqrt3Triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L213-L213)
 **instance
 Tau.BookIV.Electroweak.instReprSqrt3Triad :Repr Sqrt3Triad**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.sqrt3_triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L215-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L215-L215)
 **def
 Tau.BookIV.Electroweak.sqrt3_triad :Sqrt3Triad**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sqrt3_triad_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L217-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L217-L218)
 **theorem
 Tau.BookIV.Electroweak.sqrt3_triad_count :sqrt3_triad.appearance_count = 3**
 
@@ -501,7 +501,7 @@ Tau.BookIV.Electroweak.sqrt3_triad_count :sqrt3_triad.appearance_count = 3**
 
 ### `Tau.BookIV.Electroweak.yukawa_ordering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L224-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L224-L237)
 **theorem
 Tau.BookIV.Electroweak.yukawa_ordering :yukawa_full_top.coupling_numer * yukawa_full_bottom.coupling_denom > yukawa_full_bottom.coupling_numer * yukawa_full_top.coupling_denom ∧ yukawa_full_bottom.coupling_numer * yukawa_full_charm.coupling_denom > yukawa_full_charm.coupling_numer * yukawa_full_bottom.coupling_denom ∧ yukawa_full_charm.coupling_numer * yukawa_full_electron.coupling_denom > yukawa_full_electron.coupling_numer * yukawa_full_charm.coupling_denom**
 
@@ -517,7 +517,7 @@ Each generation step down multiplies the coupling by approximately
 
 ### `Tau.BookIV.Electroweak.ZeroVsNineteen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L243-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L243-L258)
 **structure
 Tau.BookIV.Electroweak.ZeroVsNineteen :Type**
 
@@ -546,7 +546,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprZeroVsNineteen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L258-L258)
 **instance
 Tau.BookIV.Electroweak.instReprZeroVsNineteen :Repr ZeroVsNineteen**
 
@@ -557,7 +557,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprZeroVsNineteen.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L258-L258)
 **def
 Tau.BookIV.Electroweak.instReprZeroVsNineteen.repr :ZeroVsNineteen → ℕ → Std.Format**
 
@@ -569,7 +569,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.zero_vs_nineteen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L260-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L260-L260)
 **def
 Tau.BookIV.Electroweak.zero_vs_nineteen :ZeroVsNineteen**
 
@@ -581,7 +581,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.tau_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L262-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L262-L263)
 **theorem
 Tau.BookIV.Electroweak.tau_zero_params :zero_vs_nineteen.tau_params = 0**
 
@@ -590,7 +590,7 @@ Tau.BookIV.Electroweak.tau_zero_params :zero_vs_nineteen.tau_params = 0**
 
 ### `Tau.BookIV.Electroweak.sm_nineteen_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L265-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L265-L266)
 **theorem
 Tau.BookIV.Electroweak.sm_nineteen_params :zero_vs_nineteen.sm_params = 19**
 
@@ -599,7 +599,7 @@ Tau.BookIV.Electroweak.sm_nineteen_params :zero_vs_nineteen.sm_params = 19**
 
 ### `Tau.BookIV.Electroweak.LemniscateSupport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L272-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L272-L286)
 **structure
 Tau.BookIV.Electroweak.LemniscateSupport :Type**
 
@@ -631,7 +631,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprLemniscateSupport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L286-L286)
 **instance
 Tau.BookIV.Electroweak.instReprLemniscateSupport :Repr LemniscateSupport**
 
@@ -642,7 +642,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprLemniscateSupport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L286-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L286-L286)
 **def
 Tau.BookIV.Electroweak.instReprLemniscateSupport.repr :LemniscateSupport → ℕ → Std.Format**
 
@@ -654,7 +654,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.support_B_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L288-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L288-L291)
 **def
 Tau.BookIV.Electroweak.support_B_lobe :LemniscateSupport**
 
@@ -666,7 +666,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.support_C_lobe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L293-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L293-L296)
 **def
 Tau.BookIV.Electroweak.support_C_lobe :LemniscateSupport**
 
@@ -678,7 +678,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.support_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L298-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L298-L301)
 **def
 Tau.BookIV.Electroweak.support_crossing :LemniscateSupport**
 
@@ -690,7 +690,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.three_lemniscate_supports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L303-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L303-L305)
 **def
 Tau.BookIV.Electroweak.three_lemniscate_supports :List LemniscateSupport**
 
@@ -704,7 +704,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.three_supports_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L307-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L307-L308)
 **theorem
 Tau.BookIV.Electroweak.three_supports_count :three_lemniscate_supports.length = 3**
 
@@ -713,7 +713,7 @@ Tau.BookIV.Electroweak.three_supports_count :three_lemniscate_supports.length = 
 
 ### `Tau.BookIV.Electroweak.remark_ew_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L314-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L314-L317)
 **def
 Tau.BookIV.Electroweak.remark_ew_complete :String**
 
@@ -728,7 +728,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_no_bsm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L319-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L319-L323)
 **def
 Tau.BookIV.Electroweak.remark_no_bsm :String**
 
@@ -744,7 +744,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_test_program`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L325-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L325-L332)
 **def
 Tau.BookIV.Electroweak.remark_test_program :String**
 
@@ -769,7 +769,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_book_v_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWSynthesis.lean#L334-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWSynthesis.lean#L334-L339)
 **def
 Tau.BookIV.Electroweak.remark_book_v_connection :String**
 

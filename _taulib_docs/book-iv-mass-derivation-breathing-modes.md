@@ -69,7 +69,7 @@ connection to the Epstein zeta function and √3 spectral distance.
 
 ### `Tau.BookIV.MassDerivation.MassHierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L39-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L39-L48)
 **structure
 Tau.BookIV.MassDerivation.MassHierarchy :Type**
 
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprMassHierarchy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L48-L48)
 **def
 Tau.BookIV.MassDerivation.instReprMassHierarchy.repr :MassHierarchy → ℕ → Std.Format**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprMassHierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L48-L48)
 **instance
 Tau.BookIV.MassDerivation.instReprMassHierarchy :Repr MassHierarchy**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.mass_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L50-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L50-L52)
 **def
 Tau.BookIV.MassDerivation.mass_hierarchy :MassHierarchy**
 
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.BreathingOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L58-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L58-L64)
 **structure
 Tau.BookIV.MassDerivation.BreathingOperator :Type**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprBreathingOperator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L64-L64)
 **instance
 Tau.BookIV.MassDerivation.instReprBreathingOperator :Repr BreathingOperator**
 
@@ -153,7 +153,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.instReprBreathingOperator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L64-L64)
 **def
 Tau.BookIV.MassDerivation.instReprBreathingOperator.repr :BreathingOperator → ℕ → Std.Format**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.breathing_operator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L66-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L66-L69)
 **def
 Tau.BookIV.MassDerivation.breathing_operator :BreathingOperator**
 
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.breathing_is_inverse_iota_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L71-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L71-L74)
 **theorem
 Tau.BookIV.MassDerivation.breathing_is_inverse_iota_sq :breathing_operator.inv_coeff_numer = Sectors.iota_sq_denom ∧ breathing_operator.inv_coeff_denom = Sectors.iota_sq_numer**
 
@@ -186,7 +186,7 @@ Tau.BookIV.MassDerivation.breathing_is_inverse_iota_sq :breathing_operator.inv_c
 
 ### `Tau.BookIV.MassDerivation.BreathingSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L80-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L80-L87)
 **structure
 Tau.BookIV.MassDerivation.BreathingSpectrum :Type**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprBreathingSpectrum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L87-L87)
 **def
 Tau.BookIV.MassDerivation.instReprBreathingSpectrum.repr :BreathingSpectrum → ℕ → Std.Format**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprBreathingSpectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L87-L87)
 **instance
 Tau.BookIV.MassDerivation.instReprBreathingSpectrum :Repr BreathingSpectrum**
 
@@ -227,7 +227,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.breathing_spectrum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L89-L92)
 **def
 Tau.BookIV.MassDerivation.breathing_spectrum :BreathingSpectrum**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.breathing_spectrum_discrete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L94-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L94-L95)
 **theorem
 Tau.BookIV.MassDerivation.breathing_spectrum_discrete :breathing_spectrum.is_discrete = true**
 
@@ -248,7 +248,7 @@ Tau.BookIV.MassDerivation.breathing_spectrum_discrete :breathing_spectrum.is_dis
 
 ### `Tau.BookIV.MassDerivation.EpsteinZetaOnT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L101-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L101-L105)
 **structure
 Tau.BookIV.MassDerivation.EpsteinZetaOnT2 :Type**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprEpsteinZetaOnT2.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L105-L105)
 **def
 Tau.BookIV.MassDerivation.instReprEpsteinZetaOnT2.repr :EpsteinZetaOnT2 → ℕ → Std.Format**
 
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprEpsteinZetaOnT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L105-L105)
 **instance
 Tau.BookIV.MassDerivation.instReprEpsteinZetaOnT2 :Repr EpsteinZetaOnT2**
 
@@ -286,7 +286,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.epstein_on_T2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L107-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L107-L108)
 **def
 Tau.BookIV.MassDerivation.epstein_on_T2 :EpsteinZetaOnT2**
 
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.epstein_shape_is_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L110-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L110-L113)
 **theorem
 Tau.BookIV.MassDerivation.epstein_shape_is_iota :epstein_on_T2.zeta.shape_numer = Boundary.iota_tau_numer ∧ epstein_on_T2.zeta.shape_denom = Boundary.iota_tau_denom**
 
@@ -307,7 +307,7 @@ Tau.BookIV.MassDerivation.epstein_shape_is_iota :epstein_on_T2.zeta.shape_numer 
 
 ### `Tau.BookIV.MassDerivation.toroidal_dominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L119-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L119-L122)
 **theorem
 Tau.BookIV.MassDerivation.toroidal_dominance :Calibration.n_axis_dominant.dominance_lower_bound > 9900**
 
@@ -318,7 +318,7 @@ Tau.BookIV.MassDerivation.toroidal_dominance :Calibration.n_axis_dominant.domina
 
 ### `Tau.BookIV.MassDerivation.chowla_selberg_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L124-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L124-L125)
 **def
 Tau.BookIV.MassDerivation.chowla_selberg_data :Calibration.ChowlaSelbergTerms**
 
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.leading_exponent_seven`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L127-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L127-L130)
 **theorem
 Tau.BookIV.MassDerivation.leading_exponent_seven :Calibration.chowla_selberg_s4.leading_exp = -7**
 
@@ -343,7 +343,7 @@ Tau.BookIV.MassDerivation.leading_exponent_seven :Calibration.chowla_selberg_s4.
 
 ### `Tau.BookIV.MassDerivation.s4_forced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L132-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L132-L135)
 **theorem
 Tau.BookIV.MassDerivation.s4_forced
 (s : ℕ)
@@ -356,7 +356,7 @@ Tau.BookIV.MassDerivation.s4_forced
 
 ### `Tau.BookIV.MassDerivation.ThreeFoldLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L141-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L141-L147)
 **structure
 Tau.BookIV.MassDerivation.ThreeFoldLemniscate :Type**
 
@@ -373,7 +373,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprThreeFoldLemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L147-L147)
 **instance
 Tau.BookIV.MassDerivation.instReprThreeFoldLemniscate :Repr ThreeFoldLemniscate**
 
@@ -384,7 +384,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.instReprThreeFoldLemniscate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L147-L147)
 **def
 Tau.BookIV.MassDerivation.instReprThreeFoldLemniscate.repr :ThreeFoldLemniscate → ℕ → Std.Format**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.three_fold_lemniscate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L149-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L149-L150)
 **def
 Tau.BookIV.MassDerivation.three_fold_lemniscate :ThreeFoldLemniscate**
 
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.three_supports`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L152-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L152-L154)
 **theorem
 Tau.BookIV.MassDerivation.three_supports :three_fold_lemniscate.three_fold_data.supports.length = 3**
 
@@ -417,7 +417,7 @@ Tau.BookIV.MassDerivation.three_supports :three_fold_lemniscate.three_fold_data.
 
 ### `Tau.BookIV.MassDerivation.spectral_distance_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L156-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L156-L158)
 **theorem
 Tau.BookIV.MassDerivation.spectral_distance_sq :three_fold_lemniscate.three_fold_data.distance_sq = 3**
 
@@ -428,7 +428,7 @@ Tau.BookIV.MassDerivation.spectral_distance_sq :three_fold_lemniscate.three_fold
 
 ### `Tau.BookIV.MassDerivation.adjacent_distance_sq_is_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L160-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L160-L163)
 **theorem
 Tau.BookIV.MassDerivation.adjacent_distance_sq_is_3 :Physics.omega_real_sq + Physics.omega_imag_sq = 3 * Physics.omega_denom**
 
@@ -439,7 +439,7 @@ Tau.BookIV.MassDerivation.adjacent_distance_sq_is_3 :Physics.omega_real_sq + Phy
 
 ### `Tau.BookIV.MassDerivation.bulk_dominates_surface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L169-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L169-L171)
 **theorem
 Tau.BookIV.MassDerivation.bulk_dominates_surface :mass_hierarchy.bulk_approx > 100 * mass_hierarchy.surface_approx**
 
@@ -448,6 +448,6 @@ Tau.BookIV.MassDerivation.bulk_dominates_surface :mass_hierarchy.bulk_approx > 1
 
 ### `Tau.BookIV.MassDerivation.surface_dominates_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/BreathingModes.lean#L173-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/BreathingModes.lean#L173-L175)
 **theorem
 Tau.BookIV.MassDerivation.surface_dominates_coupling :mass_hierarchy.surface_approx > 100 * mass_hierarchy.coupling_approx**

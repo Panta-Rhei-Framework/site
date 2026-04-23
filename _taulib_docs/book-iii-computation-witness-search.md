@@ -57,7 +57,7 @@ Total search cost: O(∑ p_i) = O(k² log k) by PNT.
 
 ### `Tau.BookIII.Computation.WitnessAddress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L40-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L40-L48)
 **structure
 Tau.BookIII.Computation.WitnessAddress :Type**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instReprWitnessAddress.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instReprWitnessAddress.repr :WitnessAddress → ℕ → Std.Format**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instReprWitnessAddress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instReprWitnessAddress :Repr WitnessAddress**
 
@@ -99,7 +99,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instDecidableEqWitnessAddress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instDecidableEqWitnessAddress :DecidableEq WitnessAddress**
 
@@ -110,7 +110,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instDecidableEqWitnessAddress.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instDecidableEqWitnessAddress.decEq
 (x✝ x✝¹ : WitnessAddress)
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instBEqWitnessAddress.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **def
 Tau.BookIII.Computation.instBEqWitnessAddress.beq :WitnessAddress → WitnessAddress → Bool**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instBEqWitnessAddress`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L48-L48)
 **instance
 Tau.BookIII.Computation.instBEqWitnessAddress :BEq WitnessAddress**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookIII.Computation.make_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L50-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L50-L56)
 **def
 Tau.BookIII.Computation.make_witness
 (x k : Denotation.TauIdx)
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.witness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L58-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L58-L76)
 **def
 Tau.BookIII.Computation.witness_check
 (bound db : Denotation.TauIdx)
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.witness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L62-L75)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L62-L75)@[irreducible]
 
 **def
 Tau.BookIII.Computation.witness_check.go
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.crt_witness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L82-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L82-L103)
 **def
 Tau.BookIII.Computation.crt_witness_check
 (bound db : Denotation.TauIdx)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.crt_witness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L88-L102)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L88-L102)@[irreducible]
 
 **def
 Tau.BookIII.Computation.crt_witness_check.go
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.search_space_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L105-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L105-L124)
 **def
 Tau.BookIII.Computation.search_space_check
 (db : Denotation.TauIdx)
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.search_space_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L110-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L110-L119)@[irreducible]
 
 **def
 Tau.BookIII.Computation.search_space_check.go
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.search_space_check.sum_of_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L121-L123)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L121-L123)@[irreducible]
 
 **def
 Tau.BookIII.Computation.search_space_check.sum_of_primes
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.polynomial_refinement_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L130-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L130-L154)
 **def
 Tau.BookIII.Computation.polynomial_refinement_check
 (db : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.polynomial_refinement_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L136-L143)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L136-L143)@[irreducible]
 
 **def
 Tau.BookIII.Computation.polynomial_refinement_check.go
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.polynomial_refinement_check.check_per_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L145-L153)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L145-L153)@[irreducible]
 
 **def
 Tau.BookIII.Computation.polynomial_refinement_check.check_per_prime
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.complexity_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L156-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L156-L165)
 **def
 Tau.BookIII.Computation.complexity_comparison
 (k : Denotation.TauIdx)
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.complexity_comparison.sum_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L162-L164)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L162-L164)@[irreducible]
 
 **def
 Tau.BookIII.Computation.complexity_comparison.sum_primes
@@ -364,7 +364,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.witness_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L182-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L182-L183)
 **theorem
 Tau.BookIII.Computation.witness_15_4 :witness_check 15 4 = true**
 
@@ -373,7 +373,7 @@ Tau.BookIII.Computation.witness_15_4 :witness_check 15 4 = true**
 
 ### `Tau.BookIII.Computation.crt_witness_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L185-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L185-L186)
 **theorem
 Tau.BookIII.Computation.crt_witness_15_4 :crt_witness_check 15 4 = true**
 
@@ -382,7 +382,7 @@ Tau.BookIII.Computation.crt_witness_15_4 :crt_witness_check 15 4 = true**
 
 ### `Tau.BookIII.Computation.search_space_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L188-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L188-L189)
 **theorem
 Tau.BookIII.Computation.search_space_5 :search_space_check 5 = true**
 
@@ -391,7 +391,7 @@ Tau.BookIII.Computation.search_space_5 :search_space_check 5 = true**
 
 ### `Tau.BookIII.Computation.polynomial_refinement_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L191-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L191-L192)
 **theorem
 Tau.BookIII.Computation.polynomial_refinement_5 :polynomial_refinement_check 5 = true**
 
@@ -400,7 +400,7 @@ Tau.BookIII.Computation.polynomial_refinement_5 :polynomial_refinement_check 5 =
 
 ### `Tau.BookIII.Computation.witness_zero_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L198-L200)
 **theorem
 Tau.BookIII.Computation.witness_zero_3 :make_witness 0 3 = { value := 0, depth := 3, b_part := 0, c_part := 0, x_part := 0 }**
 
@@ -411,7 +411,7 @@ Tau.BookIII.Computation.witness_zero_3 :make_witness 0 3 = { value := 0, depth :
 
 ### `Tau.BookIII.Computation.crt_faithful_42_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L202-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L202-L205)
 **theorem
 Tau.BookIII.Computation.crt_faithful_42_3 :Polarity.crt_reconstruct (Polarity.crt_decompose 42 3) 3 = 42 % Polarity.primorial 3**
 
@@ -422,7 +422,7 @@ Tau.BookIII.Computation.crt_faithful_42_3 :Polarity.crt_reconstruct (Polarity.cr
 
 ### `Tau.BookIII.Computation.sum_less_prod_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/WitnessSearch.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/WitnessSearch.lean#L207-L210)
 **theorem
 Tau.BookIII.Computation.sum_less_prod_3 :(complexity_comparison 3).1 < (complexity_comparison 3).2**
 

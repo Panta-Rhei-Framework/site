@@ -68,7 +68,7 @@ energy duality, and the sharp/spread conjugate trade-off.
 
 ### `Tau.BookIV.QuantumMechanics.SpaceCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L39-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L39-L50)
 **structure
 Tau.BookIV.QuantumMechanics.SpaceCharacter :Type**
 
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSpaceCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L50-L50)
 **def
 Tau.BookIV.QuantumMechanics.instReprSpaceCharacter.repr :SpaceCharacter → ℕ → Std.Format**
 
@@ -105,7 +105,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprSpaceCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L50-L50)
 **instance
 Tau.BookIV.QuantumMechanics.instReprSpaceCharacter :Repr SpaceCharacter**
 
@@ -116,7 +116,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.characters_on_torus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L56-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L56-L61)
 **def
 Tau.BookIV.QuantumMechanics.characters_on_torus :SpaceCharacter**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.characters_determined_by_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L63-L65)
 **theorem
 Tau.BookIV.QuantumMechanics.characters_determined_by_pair :characters_on_torus.param_count = 2**
 
@@ -142,7 +142,7 @@ Characters on T^2 are determined by exactly 2 integers.
 
 ### `Tau.BookIV.QuantumMechanics.FiberCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L71-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L71-L81)
 **structure
 Tau.BookIV.QuantumMechanics.FiberCharacter :Type**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprFiberCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L83-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L83-L84)
 **instance
 Tau.BookIV.QuantumMechanics.instReprFiberCharacter :Repr FiberCharacter**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.CharacterVariety`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L86-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L86-L94)
 **structure
 Tau.BookIV.QuantumMechanics.CharacterVariety :Type**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterVariety`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L94-L94)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCharacterVariety :Repr CharacterVariety**
 
@@ -209,7 +209,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterVariety.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L94-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L94-L94)
 **def
 Tau.BookIV.QuantumMechanics.instReprCharacterVariety.repr :CharacterVariety → ℕ → Std.Format**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.char_variety`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L96-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L96-L101)
 **def
 Tau.BookIV.QuantumMechanics.char_variety :CharacterVariety**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.automatic_quantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L107-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L107-L111)
 **theorem
 Tau.BookIV.QuantumMechanics.automatic_quantization
 (fc : FiberCharacter)
@@ -251,7 +251,7 @@ is needed — it follows from CR-admissibility.
 
 ### `Tau.BookIV.QuantumMechanics.CharacterPrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L117-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L117-L131)
 **structure
 Tau.BookIV.QuantumMechanics.CharacterPrecision :Type**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterPrecision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L131-L131)
 **instance
 Tau.BookIV.QuantumMechanics.instReprCharacterPrecision :Repr CharacterPrecision**
 
@@ -292,7 +292,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprCharacterPrecision.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L131-L131)
 **def
 Tau.BookIV.QuantumMechanics.instReprCharacterPrecision.repr :CharacterPrecision → ℕ → Std.Format**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.GeometricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L137-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L137-L147)
 **structure
 Tau.BookIV.QuantumMechanics.GeometricCharge :Type**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprGeometricCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L147-L147)
 **instance
 Tau.BookIV.QuantumMechanics.instReprGeometricCharge :Repr GeometricCharge**
 
@@ -339,7 +339,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprGeometricCharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L147-L147)
 **def
 Tau.BookIV.QuantumMechanics.instReprGeometricCharge.repr :GeometricCharge → ℕ → Std.Format**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.unit_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L149-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L149-L153)
 **def
 Tau.BookIV.QuantumMechanics.unit_charge :GeometricCharge**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.charge_quantized`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L159-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L159-L165)
 **theorem
 Tau.BookIV.QuantumMechanics.charge_quantized
 (gc : GeometricCharge)
@@ -381,7 +381,7 @@ Formalized: charge is always an integer multiple of unit.
 
 ### `Tau.BookIV.QuantumMechanics.EnergyDuality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L176-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L176-L194)
 **structure
 Tau.BookIV.QuantumMechanics.EnergyDuality :Type**
 
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprEnergyDuality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L194-L194)
 **instance
 Tau.BookIV.QuantumMechanics.instReprEnergyDuality :Repr EnergyDuality**
 
@@ -427,7 +427,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instReprEnergyDuality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L194-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L194-L194)
 **def
 Tau.BookIV.QuantumMechanics.instReprEnergyDuality.repr :EnergyDuality → ℕ → Std.Format**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.energy_duality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L196-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L196-L199)
 **theorem
 Tau.BookIV.QuantumMechanics.energy_duality
 (ed : EnergyDuality)
@@ -452,7 +452,7 @@ Energy duality holds as a structural identity.
 
 ### `Tau.BookIV.QuantumMechanics.StateSharpness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L205-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L205-L212)
 **inductive
 Tau.BookIV.QuantumMechanics.StateSharpness :Type**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprStateSharpness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
 **def
 Tau.BookIV.QuantumMechanics.instReprStateSharpness.repr :StateSharpness → ℕ → Std.Format**
 
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instReprStateSharpness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
 **instance
 Tau.BookIV.QuantumMechanics.instReprStateSharpness :Repr StateSharpness**
 
@@ -495,7 +495,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instDecidableEqStateSharpness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
 **instance
 Tau.BookIV.QuantumMechanics.instDecidableEqStateSharpness :DecidableEq StateSharpness**
 
@@ -506,7 +506,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.instBEqStateSharpness.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
 **def
 Tau.BookIV.QuantumMechanics.instBEqStateSharpness.beq :StateSharpness → StateSharpness → Bool**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookIV.QuantumMechanics.instBEqStateSharpness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L212-L212)
 **instance
 Tau.BookIV.QuantumMechanics.instBEqStateSharpness :BEq StateSharpness**
 
@@ -529,7 +529,7 @@ Equations
 
 ### `Tau.BookIV.QuantumMechanics.conjugate_tradeoff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L218-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/QuantumMechanics/QuantumCharacters.lean#L218-L228)
 **theorem
 Tau.BookIV.QuantumMechanics.conjugate_tradeoff
 (p_gamma p_eta budget : ℕ)

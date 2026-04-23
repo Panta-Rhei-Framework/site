@@ -100,7 +100,7 @@ All claims: **tau-effective**.
 
 ### `Tau.BookIV.MassDerivation.TripleHolonomyH3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L62-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L62-L91)
 **structure
 Tau.BookIV.MassDerivation.TripleHolonomyH3 :Type**
 
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprTripleHolonomyH3.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L91-L91)
 **def
 Tau.BookIV.MassDerivation.instReprTripleHolonomyH3.repr :TripleHolonomyH3 → ℕ → Std.Format**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprTripleHolonomyH3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L91-L91)
 **instance
 Tau.BookIV.MassDerivation.instReprTripleHolonomyH3 :Repr TripleHolonomyH3**
 
@@ -177,7 +177,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.triple_holonomy_H3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L93-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L93-L103)
 **def
 Tau.BookIV.MassDerivation.triple_holonomy_H3 :TripleHolonomyH3**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.holonomy_three_circles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L105-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L105-L107)
 **theorem
 Tau.BookIV.MassDerivation.holonomy_three_circles :triple_holonomy_H3.circle_count = 3**
 
@@ -202,7 +202,7 @@ Three circles in the holonomy.
 
 ### `Tau.BookIV.MassDerivation.holonomy_three_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L109-L111)
 **theorem
 Tau.BookIV.MassDerivation.holonomy_three_generators :triple_holonomy_H3.generators.length = 3**
 
@@ -213,7 +213,7 @@ Three generators listed.
 
 ### `Tau.BookIV.MassDerivation.holonomy_pi_exponent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L113-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L113-L115)
 **theorem
 Tau.BookIV.MassDerivation.holonomy_pi_exponent :triple_holonomy_H3.pi_exponent = 3**
 
@@ -224,7 +224,7 @@ The π exponent is 3 (one per circle).
 
 ### `Tau.BookIV.MassDerivation.holonomy_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L121-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L121-L132)
 **theorem
 Tau.BookIV.MassDerivation.holonomy_in_range :Physics.holonomy_correction.numer * 1000 > Physics.holonomy_correction.denom ∧ Physics.holonomy_correction.numer * 1000 < 2 * Physics.holonomy_correction.denom**
 
@@ -246,7 +246,7 @@ perturbative hierarchy (π³α² << √3 by a factor of ~1050).
 
 ### `Tau.BookIV.MassDerivation.holonomy_perturbative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L134-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L134-L138)
 **theorem
 Tau.BookIV.MassDerivation.holonomy_perturbative :Physics.pi_cubed_numer * Physics.alpha_sq_numer * 1000 * 10000000 < 17320508 * Physics.pi_cubed_denom * Physics.alpha_sq_denom**
 
@@ -257,7 +257,7 @@ The holonomy correction is perturbatively small relative to √3.
 
 ### `Tau.BookIV.MassDerivation.HolonomyCorrectionDetail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L144-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L144-L170)
 **structure
 Tau.BookIV.MassDerivation.HolonomyCorrectionDetail :Type**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.instReprHolonomyCorrectionDetail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L170-L170)
 **instance
 Tau.BookIV.MassDerivation.instReprHolonomyCorrectionDetail :Repr HolonomyCorrectionDetail**
 
@@ -315,7 +315,7 @@ Equations
 
 ### `Tau.BookIV.MassDerivation.instReprHolonomyCorrectionDetail.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L170-L170)
 **def
 Tau.BookIV.MassDerivation.instReprHolonomyCorrectionDetail.repr :HolonomyCorrectionDetail → ℕ → Std.Format**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.holonomy_detail`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L172-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L172-L182)
 **def
 Tau.BookIV.MassDerivation.holonomy_detail :HolonomyCorrectionDetail**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.pi3_matches`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L184-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L184-L188)
 **theorem
 Tau.BookIV.MassDerivation.pi3_matches :holonomy_detail.pi3_numer = Physics.pi_cubed_numer ∧ holonomy_detail.pi3_denom = Physics.pi_cubed_denom**
 
@@ -352,7 +352,7 @@ Tau.BookIV.MassDerivation.pi3_matches :holonomy_detail.pi3_numer = Physics.pi_cu
 
 ### `Tau.BookIV.MassDerivation.alpha2_matches`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L190-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L190-L194)
 **theorem
 Tau.BookIV.MassDerivation.alpha2_matches :holonomy_detail.alpha2_numer = Physics.alpha_sq_numer ∧ holonomy_detail.alpha2_denom = Physics.alpha_sq_denom**
 
@@ -363,7 +363,7 @@ Tau.BookIV.MassDerivation.alpha2_matches :holonomy_detail.alpha2_numer = Physics
 
 ### `Tau.BookIV.MassDerivation.holonomy_correction_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L196-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L196-L201)
 **def
 Tau.BookIV.MassDerivation.holonomy_correction_float :Float**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.breathing_epstein_shape_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L207-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L207-L212)
 **theorem
 Tau.BookIV.MassDerivation.breathing_epstein_shape_match :breathing_spectrum.shape_numer = epstein_on_T2.zeta.shape_numer ∧ breathing_spectrum.shape_denom = epstein_on_T2.zeta.shape_denom**
 
@@ -388,7 +388,7 @@ The breathing operator and Epstein zeta share the same shape parameter.
 
 ### `Tau.BookIV.MassDerivation.charge_conjugation_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L214-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L214-L215)
 **def
 Tau.BookIV.MassDerivation.charge_conjugation_instance :Physics.ChargConjugation**
 
@@ -402,6 +402,6 @@ Instances For
 
 ### `Tau.BookIV.MassDerivation.charge_conjugation_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L217-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/MassDerivation/HolonomyDetail.lean#L217-L218)
 **theorem
 Tau.BookIV.MassDerivation.charge_conjugation_order :charge_conjugation_instance.surviving_order = 2**

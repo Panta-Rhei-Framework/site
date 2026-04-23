@@ -70,7 +70,7 @@ Infinitude requires equidistribution (Bombieri-Vinogradov or stronger).
 
 ### `Tau.BookIII.Spectral.twin_prime_sieve_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L49-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L49-L59)
 **def
 Tau.BookIII.Spectral.twin_prime_sieve_count
 (bound : ℕ)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_prime_sieve_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L53-L58)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L53-L58)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.twin_prime_sieve_count.go
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hl_twin_constant_approx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L65-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L65-L81)
 **def
 Tau.BookIII.Spectral.hl_twin_constant_approx
 (k : ℕ)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hl_twin_constant_approx.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L71-L80)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L71-L80)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hl_twin_constant_approx.go
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hl_constant_decreasing_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L83-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L83-L94)
 **def
 Tau.BookIII.Spectral.hl_constant_decreasing_check
 (lo hi : ℕ)
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.hl_constant_decreasing_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L87-L93)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L87-L93)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.hl_constant_decreasing_check.go
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_twin_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L100-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L100-L117)
 **def
 Tau.BookIII.Spectral.is_twin_admissible
 (r d : ℕ)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_twin_admissible.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L106-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L106-L116)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.is_twin_admissible.go
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_twin_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L119-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L119-L130)
 **def
 Tau.BookIII.Spectral.crt_twin_admissible
 (k : ℕ)
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_twin_admissible.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L124-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L124-L129)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_twin_admissible.go
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_admissible_positive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L132-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L132-L141)
 **def
 Tau.BookIII.Spectral.crt_admissible_positive_check
 (db : ℕ)
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.crt_admissible_positive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L136-L140)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L136-L140)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.crt_admissible_positive_check.go
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_density_primorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L147-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L147-L161)
 **def
 Tau.BookIII.Spectral.twin_density_primorial_check
 (db : ℕ)
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_density_primorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L153-L160)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L153-L160)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.twin_density_primorial_check.go
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.count_admissible_at_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L167-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L167-L177)
 **def
 Tau.BookIII.Spectral.count_admissible_at_prime
 (p : ℕ)
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.count_admissible_at_prime.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L171-L176)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L171-L176)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.count_admissible_at_prime.go
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_admissibility_fraction_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L179-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L179-L196)
 **def
 Tau.BookIII.Spectral.twin_admissibility_fraction_check
 (db : ℕ)
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_admissibility_fraction_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L187-L195)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L187-L195)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.twin_admissibility_fraction_check.go
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.twin_primes_500`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L202-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L202-L204)
 **theorem
 Tau.BookIII.Spectral.twin_primes_500 :twin_prime_sieve_count 500 ≥ 20**
 
@@ -370,7 +370,7 @@ Tau.BookIII.Spectral.twin_primes_500 :twin_prime_sieve_count 500 ≥ 20**
 
 ### `Tau.BookIII.Spectral.twin_density_primorial_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L206-L208)
 **theorem
 Tau.BookIII.Spectral.twin_density_primorial_5 :twin_density_primorial_check 5 = true**
 
@@ -381,7 +381,7 @@ Tau.BookIII.Spectral.twin_density_primorial_5 :twin_density_primorial_check 5 = 
 
 ### `Tau.BookIII.Spectral.hl_constant_decreasing_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L210-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L210-L212)
 **theorem
 Tau.BookIII.Spectral.hl_constant_decreasing_5 :hl_constant_decreasing_check 2 5 = true**
 
@@ -392,7 +392,7 @@ Tau.BookIII.Spectral.hl_constant_decreasing_5 :hl_constant_decreasing_check 2 5 
 
 ### `Tau.BookIII.Spectral.crt_admissible_positive_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L214-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L214-L216)
 **theorem
 Tau.BookIII.Spectral.crt_admissible_positive_4 :crt_admissible_positive_check 4 = true**
 
@@ -403,7 +403,7 @@ Tau.BookIII.Spectral.crt_admissible_positive_4 :crt_admissible_positive_check 4 
 
 ### `Tau.BookIII.Spectral.twin_admissibility_fraction_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L218-L220)
 **theorem
 Tau.BookIII.Spectral.twin_admissibility_fraction_5 :twin_admissibility_fraction_check 5 = true**
 
@@ -414,7 +414,7 @@ Tau.BookIII.Spectral.twin_admissibility_fraction_5 :twin_admissibility_fraction_
 
 ### `Tau.BookIII.Spectral.twin_count_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L226-L228)
 **theorem
 Tau.BookIII.Spectral.twin_count_100 :twin_prime_sieve_count 100 ≥ 8**
 
@@ -425,7 +425,7 @@ Tau.BookIII.Spectral.twin_count_100 :twin_prime_sieve_count 100 ≥ 8**
 
 ### `Tau.BookIII.Spectral.hl_depth_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L230-L232)
 **theorem
 Tau.BookIII.Spectral.hl_depth_2 :hl_twin_constant_approx 2 = (3, 4)**
 
@@ -436,7 +436,7 @@ Tau.BookIII.Spectral.hl_depth_2 :hl_twin_constant_approx 2 = (3, 4)**
 
 ### `Tau.BookIII.Spectral.twin_admissible_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L234-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L234-L236)
 **theorem
 Tau.BookIII.Spectral.twin_admissible_1 :crt_twin_admissible 1 = 1**
 
@@ -447,7 +447,7 @@ Tau.BookIII.Spectral.twin_admissible_1 :crt_twin_admissible 1 = 1**
 
 ### `Tau.BookIII.Spectral.twin_admissible_3_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L238-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L238-L240)
 **theorem
 Tau.BookIII.Spectral.twin_admissible_3_pos :crt_twin_admissible 3 > 0**
 
@@ -458,7 +458,7 @@ Tau.BookIII.Spectral.twin_admissible_3_pos :crt_twin_admissible 3 > 0**
 
 ### `Tau.BookIII.Spectral.admissible_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L242-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L242-L244)
 **theorem
 Tau.BookIII.Spectral.admissible_at_3 :count_admissible_at_prime 3 = 1**
 
@@ -469,7 +469,7 @@ Tau.BookIII.Spectral.admissible_at_3 :count_admissible_at_prime 3 = 1**
 
 ### `Tau.BookIII.Spectral.admissible_at_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L246-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L246-L248)
 **theorem
 Tau.BookIII.Spectral.admissible_at_5 :count_admissible_at_prime 5 = 3**
 
@@ -480,7 +480,7 @@ Tau.BookIII.Spectral.admissible_at_5 :count_admissible_at_prime 5 = 3**
 
 ### `Tau.BookIII.Spectral.admissible_at_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L250-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/TwinPrimeDeep.lean#L250-L252)
 **theorem
 Tau.BookIII.Spectral.admissible_at_7 :count_admissible_at_prime 7 = 5**
 

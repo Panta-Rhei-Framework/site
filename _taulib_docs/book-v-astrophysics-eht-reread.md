@@ -110,7 +110,7 @@ The τ-framework predicts:
 
 ### `Tau.BookV.Astrophysics.HorizonType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L66-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L66-L74)
 **inductive
 Tau.BookV.Astrophysics.HorizonType :Type**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHorizonType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
 **instance
 Tau.BookV.Astrophysics.instReprHorizonType :Repr HorizonType**
 
@@ -143,7 +143,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprHorizonType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
 **def
 Tau.BookV.Astrophysics.instReprHorizonType.repr :HorizonType → ℕ → Std.Format**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqHorizonType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqHorizonType :DecidableEq HorizonType**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqHorizonType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
 **def
 Tau.BookV.Astrophysics.instBEqHorizonType.beq :HorizonType → HorizonType → Bool**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqHorizonType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L74-L74)
 **instance
 Tau.BookV.Astrophysics.instBEqHorizonType :BEq HorizonType**
 
@@ -189,7 +189,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.TauHorizonDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L76-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L76-L97)
 **structure
 Tau.BookV.Astrophysics.TauHorizonDef :Type**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTauHorizonDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L97-L97)
 **def
 Tau.BookV.Astrophysics.instReprTauHorizonDef.repr :TauHorizonDef → ℕ → Std.Format**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTauHorizonDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L97-L97)
 **instance
 Tau.BookV.Astrophysics.instReprTauHorizonDef :Repr TauHorizonDef**
 
@@ -255,7 +255,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.m87_shadow_uas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L103-L104)
 **def
 Tau.BookV.Astrophysics.m87_shadow_uas :ℕ**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_shadow_uas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L105-L105)
 **def
 Tau.BookV.Astrophysics.sgra_shadow_uas :ℕ**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.shadow_size_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L107-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L107-L123)
 **theorem
 Tau.BookV.Astrophysics.shadow_size_prediction :"Shadow = 3*sqrt(3)*GM/(c^2*D), identical to GR at photon sphere" = "Shadow = 3*sqrt(3)*GM/(c^2*D), identical to GR at photon sphere"**
 
@@ -308,7 +308,7 @@ Sgr A*: 52 ± 1 μas (EHT 2022, consistent)
 
 ### `Tau.BookV.Astrophysics.photon_ring_holonomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L129-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L129-L138)
 **theorem
 Tau.BookV.Astrophysics.photon_ring_holonomy :"Photon ring = successive holonomy loops around T^2 torus vacuum" = "Photon ring = successive holonomy loops around T^2 torus vacuum"**
 
@@ -325,7 +325,7 @@ brightness and exponentially narrowing width.
 
 ### `Tau.BookV.Astrophysics.EHTObservableData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L144-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L144-L157)
 **structure
 Tau.BookV.Astrophysics.EHTObservableData :Type**
 
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprEHTObservableData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L157-L157)
 **instance
 Tau.BookV.Astrophysics.instReprEHTObservableData :Repr EHTObservableData**
 
@@ -365,7 +365,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprEHTObservableData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L157-L157)
 **def
 Tau.BookV.Astrophysics.instReprEHTObservableData.repr :EHTObservableData → ℕ → Std.Format**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_eht`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L159-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L159-L164)
 **def
 Tau.BookV.Astrophysics.m87_eht :EHTObservableData**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_eht`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L166-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L166-L171)
 **def
 Tau.BookV.Astrophysics.sgra_eht :EHTObservableData**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.shadow_circularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L177-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L177-L183)
 **theorem
 Tau.BookV.Astrophysics.shadow_circularity :"Non-spinning BH shadow is circular from T^2 axisymmetry" = "Non-spinning BH shadow is circular from T^2 axisymmetry"**
 
@@ -419,7 +419,7 @@ parameter and inclination angle.
 
 ### `Tau.BookV.Astrophysics.HorizonComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L189-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L189-L204)
 **structure
 Tau.BookV.Astrophysics.HorizonComparison :Type**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHorizonComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L204-L204)
 **instance
 Tau.BookV.Astrophysics.instReprHorizonComparison :Repr HorizonComparison**
 
@@ -462,7 +462,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprHorizonComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L204-L204)
 **def
 Tau.BookV.Astrophysics.instReprHorizonComparison.repr :HorizonComparison → ℕ → Std.Format**
 
@@ -474,7 +474,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.canonical_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L206-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L206-L207)
 **def
 Tau.BookV.Astrophysics.canonical_comparison :HorizonComparison**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.no_information_loss`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L213-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L213-L225)
 **theorem
 Tau.BookV.Astrophysics.no_information_loss :"tau-horizon preserves information, no singularity" = "tau-horizon preserves information, no singularity"**
 
@@ -512,7 +512,7 @@ of the readout discarding the T² internal structure.
 
 ### `Tau.BookV.Astrophysics.t2_shadow_correction_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L257-L259)
 **def
 Tau.BookV.Astrophysics.t2_shadow_correction_factor :Float**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.T2ShadowCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L261-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L261-L272)
 **structure
 Tau.BookV.Astrophysics.T2ShadowCorrection :Type**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprT2ShadowCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L272-L272)
 **instance
 Tau.BookV.Astrophysics.instReprT2ShadowCorrection :Repr T2ShadowCorrection**
 
@@ -564,7 +564,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprT2ShadowCorrection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L272-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L272-L272)
 **def
 Tau.BookV.Astrophysics.instReprT2ShadowCorrection.repr :T2ShadowCorrection → ℕ → Std.Format**
 
@@ -576,7 +576,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instInhabitedT2ShadowCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L274-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L274-L275)
 **instance
 Tau.BookV.Astrophysics.instInhabitedT2ShadowCorrection :Inhabited T2ShadowCorrection**
 
@@ -589,7 +589,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.t2_shadow_correction_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L277-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L277-L283)
 **theorem
 Tau.BookV.Astrophysics.t2_shadow_correction_conjunction :have d := { };
 d.quadrupole_order = 2 ∧ d.denominator = 4 ∧ d.enlargement_approx_3pct = true ∧ d.correction_positive = true**
@@ -601,7 +601,7 @@ All structural properties of the T² shadow correction hold.
 
 ### `Tau.BookV.Astrophysics.shadow_denominator_is_ell_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L285-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L285-L288)
 **theorem
 Tau.BookV.Astrophysics.shadow_denominator_is_ell_sq :have d := { };
 d.quadrupole_order * d.quadrupole_order = d.denominator**
@@ -613,7 +613,7 @@ Denominator equals quadrupole order squared: ℓ² = 4.
 
 ### `Tau.BookV.Astrophysics.eht_shadow_t2_pct_over_gr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L292-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L292-L294)
 **def
 Tau.BookV.Astrophysics.eht_shadow_t2_pct_over_gr :Float**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.EHTShadowT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L296-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L296-L307)
 **structure
 Tau.BookV.Astrophysics.EHTShadowT2 :Type**
 
@@ -654,7 +654,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprEHTShadowT2.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L307-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L307-L307)
 **def
 Tau.BookV.Astrophysics.instReprEHTShadowT2.repr :EHTShadowT2 → ℕ → Std.Format**
 
@@ -666,7 +666,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprEHTShadowT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L307-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L307-L307)
 **instance
 Tau.BookV.Astrophysics.instReprEHTShadowT2 :Repr EHTShadowT2**
 
@@ -677,7 +677,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instInhabitedEHTShadowT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L309-L310)
 **instance
 Tau.BookV.Astrophysics.instInhabitedEHTShadowT2 :Inhabited EHTShadowT2**
 
@@ -690,7 +690,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.eht_shadow_t2_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L312-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L312-L318)
 **theorem
 Tau.BookV.Astrophysics.eht_shadow_t2_conjunction :have d := { };
 d.correction_above_zero = true ∧ d.detectable_by_ngeht = true ∧ d.below_current_eht_precision = true ∧ d.m87_closer_to_eht = true**
@@ -702,7 +702,7 @@ All structural properties of the EHT shadow T² theorem hold.
 
 ### `Tau.BookV.Astrophysics.shadow_correction_gt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L320-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L320-L323)
 **theorem
 Tau.BookV.Astrophysics.shadow_correction_gt_one :t2_shadow_correction_factor > 1.0**
 
@@ -713,7 +713,7 @@ Shadow correction factor > 1 (T² shadow is larger than GR).
 
 ### `Tau.BookV.Astrophysics.BiRotationalDynamics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L342-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L342-L348)
 **structure
 Tau.BookV.Astrophysics.BiRotationalDynamics :Type**
 
@@ -730,7 +730,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBiRotationalDynamics`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L348-L348)
 **instance
 Tau.BookV.Astrophysics.instReprBiRotationalDynamics :Repr BiRotationalDynamics**
 
@@ -741,7 +741,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprBiRotationalDynamics.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L348-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L348-L348)
 **def
 Tau.BookV.Astrophysics.instReprBiRotationalDynamics.repr :BiRotationalDynamics → ℕ → Std.Format**
 
@@ -753,7 +753,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.SynchrotronFrequencyPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L350-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L350-L356)
 **structure
 Tau.BookV.Astrophysics.SynchrotronFrequencyPair :Type**
 
@@ -770,7 +770,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSynchrotronFrequencyPair.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L356-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L356-L356)
 **def
 Tau.BookV.Astrophysics.instReprSynchrotronFrequencyPair.repr :SynchrotronFrequencyPair → ℕ → Std.Format**
 
@@ -782,7 +782,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSynchrotronFrequencyPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L356-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L356-L356)
 **instance
 Tau.BookV.Astrophysics.instReprSynchrotronFrequencyPair :Repr SynchrotronFrequencyPair**
 
@@ -793,7 +793,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.birotational_synchrotron_ratio_x1000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L358-L359)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L358-L359)
 **def
 Tau.BookV.Astrophysics.birotational_synchrotron_ratio_x1000 :ℕ**
 
@@ -807,7 +807,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_synchrotron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L361-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L361-L363)
 **def
 Tau.BookV.Astrophysics.m87_synchrotron :SynchrotronFrequencyPair**
 
@@ -821,7 +821,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_synchrotron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L365-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L365-L367)
 **def
 Tau.BookV.Astrophysics.sgra_synchrotron :SynchrotronFrequencyPair**
 
@@ -835,7 +835,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.synchrotron_ratio_universal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L369-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L369-L372)
 **theorem
 Tau.BookV.Astrophysics.synchrotron_ratio_universal :m87_synchrotron.spectral_index_x100 = sgra_synchrotron.spectral_index_x100**
 
@@ -846,7 +846,7 @@ Frequency ratio is ι<sub>τ</sub>⁻¹ for both sources
 
 ### `Tau.BookV.Astrophysics.BrightnessHarmonicMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L378-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L378-L383)
 **structure
 Tau.BookV.Astrophysics.BrightnessHarmonicMode :Type**
 
@@ -862,7 +862,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBrightnessHarmonicMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L383-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L383-L383)
 **def
 Tau.BookV.Astrophysics.instReprBrightnessHarmonicMode.repr :BrightnessHarmonicMode → ℕ → Std.Format**
 
@@ -874,7 +874,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBrightnessHarmonicMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L383-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L383-L383)
 **instance
 Tau.BookV.Astrophysics.instReprBrightnessHarmonicMode :Repr BrightnessHarmonicMode**
 
@@ -885,7 +885,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.brightness_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L385-L393)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L385-L393)
 **def
 Tau.BookV.Astrophysics.brightness_modes :List BrightnessHarmonicMode**
 
@@ -899,7 +899,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.harmonic_frequency_ratio_x1000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L395-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L395-L397)
 **def
 Tau.BookV.Astrophysics.harmonic_frequency_ratio_x1000 :ℕ**
 
@@ -914,7 +914,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.SgrAVariability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L399-L405)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L399-L405)
 **structure
 Tau.BookV.Astrophysics.SgrAVariability :Type**
 
@@ -931,7 +931,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSgrAVariability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L405-L405)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L405-L405)
 **instance
 Tau.BookV.Astrophysics.instReprSgrAVariability :Repr SgrAVariability**
 
@@ -942,7 +942,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprSgrAVariability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L405-L405)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L405-L405)
 **def
 Tau.BookV.Astrophysics.instReprSgrAVariability.repr :SgrAVariability → ℕ → Std.Format**
 
@@ -954,7 +954,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_variability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L407-L407)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L407-L407)
 **def
 Tau.BookV.Astrophysics.sgra_variability :SgrAVariability**
 
@@ -966,7 +966,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.M87Variability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L409-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L409-L414)
 **structure
 Tau.BookV.Astrophysics.M87Variability :Type**
 
@@ -982,7 +982,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprM87Variability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L414-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L414-L414)
 **instance
 Tau.BookV.Astrophysics.instReprM87Variability :Repr M87Variability**
 
@@ -993,7 +993,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprM87Variability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L414-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L414-L414)
 **def
 Tau.BookV.Astrophysics.instReprM87Variability.repr :M87Variability → ℕ → Std.Format**
 
@@ -1005,7 +1005,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_variability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L416-L416)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L416-L416)
 **def
 Tau.BookV.Astrophysics.m87_variability :M87Variability**
 
@@ -1017,7 +1017,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.variability_ratio_matches_synchrotron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L418-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L418-L421)
 **theorem
 Tau.BookV.Astrophysics.variability_ratio_matches_synchrotron :sgra_variability.ratio_x1000 = birotational_synchrotron_ratio_x1000**
 
@@ -1028,7 +1028,7 @@ Variability ratio matches synchrotron ratio (both = ι<sub>τ</sub>⁻¹)
 
 ### `Tau.BookV.Astrophysics.brightness_eigenvalue_eq_qnm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L427-L439)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L427-L439)
 **theorem
 Tau.BookV.Astrophysics.brightness_eigenvalue_eq_qnm :harmonic_frequency_ratio_x1000 = birotational_synchrotron_ratio_x1000**
 
@@ -1048,7 +1048,7 @@ to V.T185 (τ-effective QNM frequency ratio discriminator).
 
 ### `Tau.BookV.Astrophysics.brightness_ratio_is_iota_inv_x1000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L441-L446)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L441-L446)
 **theorem
 Tau.BookV.Astrophysics.brightness_ratio_is_iota_inv_x1000 :harmonic_frequency_ratio_x1000 = 2930**
 
@@ -1062,7 +1062,7 @@ and QNM modes share the same spectral basis on T².
 
 ### `Tau.BookV.Astrophysics.birotation_ratio_eq_qnm_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L452-L457)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L452-L457)
 **theorem
 Tau.BookV.Astrophysics.birotation_ratio_eq_qnm_ratio :birotational_synchrotron_ratio_x1000 = harmonic_frequency_ratio_x1000**
 
@@ -1076,7 +1076,7 @@ boundary-character oscillations read through the B-sector (EM), not accretion dy
 
 ### `Tau.BookV.Astrophysics.all_ratios_unified`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L459-L465)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L459-L465)
 **theorem
 Tau.BookV.Astrophysics.all_ratios_unified :birotational_synchrotron_ratio_x1000 = 2930 ∧ harmonic_frequency_ratio_x1000 = 2930 ∧ sgra_variability.ratio_x1000 = 2930**
 
@@ -1088,7 +1088,7 @@ they are all ι<sub>τ</sub>⁻¹ × 1000 = 2930.
 
 ### `Tau.BookV.Astrophysics.SMBHPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L471-L479)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L471-L479)
 **structure
 Tau.BookV.Astrophysics.SMBHPrediction :Type**
 
@@ -1107,7 +1107,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSMBHPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L479-L479)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L479-L479)
 **instance
 Tau.BookV.Astrophysics.instReprSMBHPrediction :Repr SMBHPrediction**
 
@@ -1118,7 +1118,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprSMBHPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L479-L479)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L479-L479)
 **def
 Tau.BookV.Astrophysics.instReprSMBHPrediction.repr :SMBHPrediction → ℕ → Std.Format**
 
@@ -1130,7 +1130,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L481-L483)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L481-L483)
 **def
 Tau.BookV.Astrophysics.m87_prediction :SMBHPrediction**
 
@@ -1144,7 +1144,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L485-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L485-L487)
 **def
 Tau.BookV.Astrophysics.sgra_prediction :SMBHPrediction**
 
@@ -1159,7 +1159,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.smbh_universal_t2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L489-L493)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L489-L493)
 **theorem
 Tau.BookV.Astrophysics.smbh_universal_t2 :m87_prediction.t2_correction_ppm = sgra_prediction.t2_correction_ppm ∧ m87_prediction.qnm_ratio_x1000 = sgra_prediction.qnm_ratio_x1000**
 
@@ -1170,7 +1170,7 @@ Both sources share the same T² correction and QNM ratio
 
 ### `Tau.BookV.Astrophysics.m87_shadow_in_eht_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L495-L499)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L495-L499)
 **theorem
 Tau.BookV.Astrophysics.m87_shadow_in_eht_range :3900 ≤ m87_prediction.shadow_diameter_x100_uas ∧ m87_prediction.shadow_diameter_x100_uas ≤ 4500**
 
@@ -1181,7 +1181,7 @@ M87* shadow within EHT error bars (42 ± 3 μas = 3900-4500 in units of 0.01 μa
 
 ### `Tau.BookV.Astrophysics.sgra_shadow_in_eht_2sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L501-L505)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L501-L505)
 **theorem
 Tau.BookV.Astrophysics.sgra_shadow_in_eht_2sigma :4720 ≤ sgra_prediction.shadow_diameter_x100_uas ∧ sgra_prediction.shadow_diameter_x100_uas ≤ 5640**
 
@@ -1192,7 +1192,7 @@ Sgr A* shadow within 2σ of EHT (51.8 ± 2.3 μas → 4720-5640 in units of 0.01
 
 ### `Tau.BookV.Astrophysics.eht_comparison_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L507-L510)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L507-L510)
 **def
 Tau.BookV.Astrophysics.eht_comparison_remark :String**
 
@@ -1206,7 +1206,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ToroidalBFieldConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L516-L528)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L516-L528)
 **structure
 Tau.BookV.Astrophysics.ToroidalBFieldConfig :Type**
 
@@ -1233,7 +1233,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprToroidalBFieldConfig.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L528-L528)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L528-L528)
 **def
 Tau.BookV.Astrophysics.instReprToroidalBFieldConfig.repr :ToroidalBFieldConfig → ℕ → Std.Format**
 
@@ -1245,7 +1245,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprToroidalBFieldConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L528-L528)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L528-L528)
 **instance
 Tau.BookV.Astrophysics.instReprToroidalBFieldConfig :Repr ToroidalBFieldConfig**
 
@@ -1256,7 +1256,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instInhabitedToroidalBFieldConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L530-L531)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L530-L531)
 **instance
 Tau.BookV.Astrophysics.instInhabitedToroidalBFieldConfig :Inhabited ToroidalBFieldConfig**
 
@@ -1267,7 +1267,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.rm_winding_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L533-L538)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L533-L538)
 **theorem
 Tau.BookV.Astrophysics.rm_winding_theorem :"w_RM(T²) = 2, w_RM(S²) = 1" = "w_RM(T²) = 2, w_RM(S²) = 1"**
 
@@ -1280,7 +1280,7 @@ and 1 for S² (one sign change from radial/dipolar field).
 
 ### `Tau.BookV.Astrophysics.rm_winding_t2_is_double_s2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L540-L541)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L540-L541)
 **theorem
 Tau.BookV.Astrophysics.rm_winding_t2_is_double_s2 :2 = 2 * 1**
 
@@ -1291,7 +1291,7 @@ RM winding is twice that of S²: topological invariant from genus(T²) = 1.
 
 ### `Tau.BookV.Astrophysics.StokesParameterSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L547-L563)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L547-L563)
 **structure
 Tau.BookV.Astrophysics.StokesParameterSuite :Type**
 
@@ -1324,7 +1324,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprStokesParameterSuite.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L563-L563)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L563-L563)
 **def
 Tau.BookV.Astrophysics.instReprStokesParameterSuite.repr :StokesParameterSuite → ℕ → Std.Format**
 
@@ -1336,7 +1336,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprStokesParameterSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L563-L563)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L563-L563)
 **instance
 Tau.BookV.Astrophysics.instReprStokesParameterSuite :Repr StokesParameterSuite**
 
@@ -1347,7 +1347,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instInhabitedStokesParameterSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L565-L566)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L565-L566)
 **instance
 Tau.BookV.Astrophysics.instInhabitedStokesParameterSuite :Inhabited StokesParameterSuite**
 
@@ -1358,7 +1358,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.circular_winding_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L568-L571)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L568-L571)
 **theorem
 Tau.BookV.Astrophysics.circular_winding_theorem :"w_V(T²) = 2, w_V(S²) = 1" = "w_V(T²) = 2, w_V(S²) = 1"**
 
@@ -1369,7 +1369,7 @@ Tau.BookV.Astrophysics.circular_winding_theorem :"w_V(T²) = 2, w_V(S²) = 1" = 
 
 ### `Tau.BookV.Astrophysics.all_windings_equal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L573-L577)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L573-L577)
 **theorem
 Tau.BookV.Astrophysics.all_windings_equal :have s := default;
 s.w_evpa = 2 ∧ s.w_rm = 2 ∧ s.w_v = 2**
@@ -1381,7 +1381,7 @@ All three magnetic winding numbers are equal for T².
 
 ### `Tau.BookV.Astrophysics.NearHorizonBField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L583-L596)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L583-L596)
 **structure
 Tau.BookV.Astrophysics.NearHorizonBField :Type**
 
@@ -1410,7 +1410,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprNearHorizonBField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L596-L596)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L596-L596)
 **def
 Tau.BookV.Astrophysics.instReprNearHorizonBField.repr :NearHorizonBField → ℕ → Std.Format**
 
@@ -1422,7 +1422,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprNearHorizonBField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L596-L596)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L596-L596)
 **instance
 Tau.BookV.Astrophysics.instReprNearHorizonBField :Repr NearHorizonBField**
 
@@ -1433,7 +1433,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.magnetic_ratio_is_iota_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L598-L601)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L598-L601)
 **theorem
 Tau.BookV.Astrophysics.magnetic_ratio_is_iota_inv :"B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93 (mass-independent, zero-parameter)" = "B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93 (mass-independent, zero-parameter)"**
 
@@ -1444,7 +1444,7 @@ Tau.BookV.Astrophysics.magnetic_ratio_is_iota_inv :"B_tor/B_pol = ι<sub>τ</sub
 
 ### `Tau.BookV.Astrophysics.MagneticPredictionSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L603-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L603-L624)
 **structure
 Tau.BookV.Astrophysics.MagneticPredictionSuite :Type**
 
@@ -1485,7 +1485,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMagneticPredictionSuite.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L624-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L624-L624)
 **def
 Tau.BookV.Astrophysics.instReprMagneticPredictionSuite.repr :MagneticPredictionSuite → ℕ → Std.Format**
 
@@ -1497,7 +1497,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMagneticPredictionSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L624-L624)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L624-L624)
 **instance
 Tau.BookV.Astrophysics.instReprMagneticPredictionSuite :Repr MagneticPredictionSuite**
 
@@ -1508,7 +1508,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instInhabitedMagneticPredictionSuite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L626-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L626-L626)
 **instance
 Tau.BookV.Astrophysics.instInhabitedMagneticPredictionSuite :Inhabited MagneticPredictionSuite**
 
@@ -1519,7 +1519,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.magnetic_suite_winding_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L628-L632)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L628-L632)
 **theorem
 Tau.BookV.Astrophysics.magnetic_suite_winding_consistency :have s := default;
 s.w_evpa = s.w_rm ∧ s.w_rm = s.w_v ∧ s.w_v = 2**
@@ -1531,7 +1531,7 @@ All three winding numbers in the prediction suite equal 2.
 
 ### `Tau.BookV.Astrophysics.m87_bfield`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L634-L636)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L634-L636)
 **def
 Tau.BookV.Astrophysics.m87_bfield :NearHorizonBField**
 
@@ -1545,7 +1545,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sgra_bfield`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L638-L640)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L638-L640)
 **def
 Tau.BookV.Astrophysics.sgra_bfield :NearHorizonBField**
 
@@ -1559,7 +1559,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.m87_stokes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L642-L644)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/EHTReread.lean#L642-L644)
 **def
 Tau.BookV.Astrophysics.m87_stokes :StokesParameterSuite**
 

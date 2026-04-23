@@ -55,7 +55,7 @@ Cylinder-ball correspondence: C_k(x) = { y : δ(x,y) ≥ k }
 
 ### `Tau.BookII.Domains.disagree_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L34-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L34-L46)
 **def
 Tau.BookII.Domains.disagree_depth
 (x y bound : Denotation.TauIdx)
@@ -74,7 +74,7 @@ Instances For
 
 ### `Tau.BookII.Domains.disagree_depth.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L41-L45)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L41-L45)@[irreducible]
 
 **def
 Tau.BookII.Domains.disagree_depth.go
@@ -91,7 +91,7 @@ Instances For
 
 ### `Tau.BookII.Domains.ultra_dist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L52-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L52-L57)
 **def
 Tau.BookII.Domains.ultra_dist
 (x y bound : Denotation.TauIdx)
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookII.Domains.symmetry_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L59-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L59-L69)
 **def
 Tau.BookII.Domains.symmetry_check
 (bound : Denotation.TauIdx)
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookII.Domains.symmetry_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L63-L68)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L63-L68)@[irreducible]
 
 **def
 Tau.BookII.Domains.symmetry_check.go
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookII.Domains.nondegen_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L71-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L71-L82)
 **def
 Tau.BookII.Domains.nondegen_check
 (bound : Denotation.TauIdx)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookII.Domains.nondegen_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L75-L81)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L75-L81)@[irreducible]
 
 **def
 Tau.BookII.Domains.nondegen_check.go
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookII.Domains.triangle_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L88-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L88-L105)
 **def
 Tau.BookII.Domains.triangle_check
 (bound db : Denotation.TauIdx)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookII.Domains.triangle_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L95-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L95-L104)@[irreducible]
 
 **def
 Tau.BookII.Domains.triangle_check.go
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cyl_eq_ball_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L111-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L111-L123)
 **def
 Tau.BookII.Domains.cyl_eq_ball_check
 (k center bound db : Denotation.TauIdx)
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookII.Domains.cyl_eq_ball_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L116-L122)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L116-L122)@[irreducible]
 
 **def
 Tau.BookII.Domains.cyl_eq_ball_check.go
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookII.Domains.sym_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L142-L142)
 **theorem
 Tau.BookII.Domains.sym_15 :symmetry_check 15 = true**
 
@@ -255,7 +255,7 @@ Tau.BookII.Domains.sym_15 :symmetry_check 15 = true**
 
 ### `Tau.BookII.Domains.nondegen_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L143-L143)
 **theorem
 Tau.BookII.Domains.nondegen_15 :nondegen_check 15 = true**
 
@@ -264,7 +264,7 @@ Tau.BookII.Domains.nondegen_15 :nondegen_check 15 = true**
 
 ### `Tau.BookII.Domains.triangle_8_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L144-L144)
 **theorem
 Tau.BookII.Domains.triangle_8_5 :triangle_check 8 5 = true**
 
@@ -273,7 +273,7 @@ Tau.BookII.Domains.triangle_8_5 :triangle_check 8 5 = true**
 
 ### `Tau.BookII.Domains.cyl_ball_k1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L145-L145)
 **theorem
 Tau.BookII.Domains.cyl_ball_k1 :cyl_eq_ball_check 1 3 20 5 = true**
 
@@ -282,6 +282,6 @@ Tau.BookII.Domains.cyl_ball_k1 :cyl_eq_ball_check 1 3 20 5 = true**
 
 ### `Tau.BookII.Domains.cyl_ball_k2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Domains/Ultrametric.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Domains/Ultrametric.lean#L146-L146)
 **theorem
 Tau.BookII.Domains.cyl_ball_k2 :cyl_eq_ball_check 2 7 30 5 = true**

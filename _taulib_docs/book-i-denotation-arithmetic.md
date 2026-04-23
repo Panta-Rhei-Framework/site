@@ -76,7 +76,7 @@ The "bridge lemmas" prove each coincides with the Nat operation.
 
 ### `Tau.Denotation.idx_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L44-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L44-L47)
 **def
 Tau.Denotation.idx_add
 (n m : TauIdx)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Denotation.idx_add_eq_nat_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L49-L51)
 **theorem
 Tau.Denotation.idx_add_eq_nat_add
 (n m : TauIdx)
@@ -106,7 +106,7 @@ Bridge lemma: idx_add coincides with Nat.add.
 
 ### `Tau.Denotation.idx_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L57-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L57-L61)
 **def
 Tau.Denotation.idx_mul
 (n m : TauIdx)
@@ -123,7 +123,7 @@ Instances For
 
 ### `Tau.Denotation.idx_mul_eq_nat_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L63-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L63-L69)
 **theorem
 Tau.Denotation.idx_mul_eq_nat_mul
 (n m : TauIdx)
@@ -136,7 +136,7 @@ Bridge lemma: idx_mul coincides with Nat.mul.
 
 ### `Tau.Denotation.idx_exp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L75-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L75-L79)
 **def
 Tau.Denotation.idx_exp
 (n m : TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.Denotation.idx_exp_eq_nat_pow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L81-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L81-L87)
 **theorem
 Tau.Denotation.idx_exp_eq_nat_pow
 (n m : TauIdx)
@@ -166,7 +166,7 @@ Bridge lemma: idx_exp coincides with Nat.pow.
 
 ### `Tau.Denotation.idx_tetration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L93-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L93-L98)
 **def
 Tau.Denotation.idx_tetration
 (n m : TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Denotation.idx_tetration_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L100-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L100-L106)
 **theorem
 Tau.Denotation.idx_tetration_eq
 (n m : TauIdx)
@@ -197,7 +197,7 @@ Bridge lemma: idx_tetration matches the Nat tetration from Ladder.
 
 ### `Tau.Denotation.ladderOp_add_eq_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L112-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L112-L115)
 **theorem
 Tau.Denotation.ladderOp_add_eq_idx
 (n m : TauIdx)
@@ -210,7 +210,7 @@ ladderOp at add_level coincides with earned idx_add.
 
 ### `Tau.Denotation.ladderOp_mul_eq_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L117-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L117-L120)
 **theorem
 Tau.Denotation.ladderOp_mul_eq_idx
 (n m : TauIdx)
@@ -223,7 +223,7 @@ ladderOp at mul_level coincides with earned idx_mul.
 
 ### `Tau.Denotation.ladderOp_exp_eq_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L122-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L122-L125)
 **theorem
 Tau.Denotation.ladderOp_exp_eq_idx
 (n m : TauIdx)
@@ -236,7 +236,7 @@ ladderOp at exp_level coincides with earned idx_exp.
 
 ### `Tau.Denotation.ladderOp_tet_eq_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L127-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L127-L130)
 **theorem
 Tau.Denotation.ladderOp_tet_eq_idx
 (n m : TauIdx)
@@ -249,7 +249,7 @@ ladderOp at tet_level coincides with earned idx_tetration.
 
 ### `Tau.Denotation.fold_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L132-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L132-L140)
 **theorem
 Tau.Denotation.fold_chain :(∀ (n m : TauIdx), idx_add n m = (Orbit.iter_rho m (toAlphaOrbit n)).depth) ∧ (∀ (n m : TauIdx), idx_mul n (m + 1) = idx_add (idx_mul n m) n) ∧ (∀ (n m : TauIdx), idx_exp n (m + 1) = idx_mul (idx_exp n m) n) ∧ ∀ (n m : TauIdx), idx_tetration n (m + 1) = idx_exp n (idx_tetration n m)**
 
@@ -262,7 +262,7 @@ Ground truth: chunk_0060 (UR-ITER), chunk_0057 (counting = time).
 
 ### `Tau.Denotation.idx_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L146-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L146-L149)
 **theorem
 Tau.Denotation.idx_add_comm
 (n m : TauIdx)
@@ -275,7 +275,7 @@ Addition is commutative.
 
 ### `Tau.Denotation.idx_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L151-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L151-L155)
 **theorem
 Tau.Denotation.idx_add_assoc
 (a b c : TauIdx)
@@ -288,7 +288,7 @@ Addition is associative.
 
 ### `Tau.Denotation.idx_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L157-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L157-L159)
 **theorem
 Tau.Denotation.idx_add_zero
 (n : TauIdx)
@@ -301,7 +301,7 @@ Addition has identity 0.
 
 ### `Tau.Denotation.idx_zero_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L161-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L161-L163)
 **theorem
 Tau.Denotation.idx_zero_add
 (n : TauIdx)
@@ -314,7 +314,7 @@ Zero is a left identity for addition.
 
 ### `Tau.Denotation.idx_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L165-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L165-L167)
 **theorem
 Tau.Denotation.idx_mul_comm
 (n m : TauIdx)
@@ -327,7 +327,7 @@ Multiplication is commutative.
 
 ### `Tau.Denotation.idx_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L169-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L169-L172)
 **theorem
 Tau.Denotation.idx_mul_assoc
 (a b c : TauIdx)
@@ -340,7 +340,7 @@ Multiplication is associative.
 
 ### `Tau.Denotation.idx_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L174-L176)
 **theorem
 Tau.Denotation.idx_mul_one
 (n : TauIdx)
@@ -353,7 +353,7 @@ Multiplication has identity 1.
 
 ### `Tau.Denotation.idx_one_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L178-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L178-L180)
 **theorem
 Tau.Denotation.idx_one_mul
 (n : TauIdx)
@@ -366,7 +366,7 @@ One is a left identity for multiplication.
 
 ### `Tau.Denotation.idx_mul_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L182-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L182-L184)
 **theorem
 Tau.Denotation.idx_mul_zero
 (n : TauIdx)
@@ -379,7 +379,7 @@ Multiplication has absorbing element 0.
 
 ### `Tau.Denotation.idx_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L186-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L186-L190)
 **theorem
 Tau.Denotation.idx_distrib
 (a b c : TauIdx)
@@ -392,7 +392,7 @@ Distributivity: a × (b + c) = a × b + a × c.
 
 ### `Tau.Denotation.idx_add_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L196-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L196-L201)
 **theorem
 Tau.Denotation.idx_add_injective
 (n : TauIdx)
@@ -405,7 +405,7 @@ Tau.Denotation.idx_add_injective
 
 ### `Tau.Denotation.idx_mul_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L203-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L203-L208)
 **theorem
 Tau.Denotation.idx_mul_injective
 (n : TauIdx)
@@ -420,7 +420,7 @@ Multiplication by n > 0 is injective in the second argument.
 
 ### `Tau.Denotation.idx_exp_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L210-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L210-L215)
 **theorem
 Tau.Denotation.idx_exp_injective
 (n : TauIdx)
@@ -435,7 +435,7 @@ Exponentiation with base ≥ 2 is injective in the exponent.
 
 ### `Tau.Denotation.idx_exp_non_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/Arithmetic.lean#L217-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/Arithmetic.lean#L217-L223)
 **theorem
 Tau.Denotation.idx_exp_non_comm :¬∀ (n m : TauIdx), idx_exp n m = idx_exp m n**
 

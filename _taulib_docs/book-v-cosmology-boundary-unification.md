@@ -100,7 +100,7 @@ substrate.
 
 ### `Tau.BookV.Cosmology.PrimitiveSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L69-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L69-L79)
 **inductive
 Tau.BookV.Cosmology.PrimitiveSector :Type**
 
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPrimitiveSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
 **def
 Tau.BookV.Cosmology.instReprPrimitiveSector.repr :PrimitiveSector → ℕ → Std.Format**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPrimitiveSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
 **instance
 Tau.BookV.Cosmology.instReprPrimitiveSector :Repr PrimitiveSector**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqPrimitiveSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
 **instance
 Tau.BookV.Cosmology.instDecidableEqPrimitiveSector :DecidableEq PrimitiveSector**
 
@@ -159,7 +159,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqPrimitiveSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
 **instance
 Tau.BookV.Cosmology.instBEqPrimitiveSector :BEq PrimitiveSector**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqPrimitiveSector.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L79-L79)
 **def
 Tau.BookV.Cosmology.instBEqPrimitiveSector.beq :PrimitiveSector → PrimitiveSector → Bool**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.SectorPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L81-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L81-L89)
 **structure
 Tau.BookV.Cosmology.SectorPair :Type**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSectorPair.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L89-L89)
 **def
 Tau.BookV.Cosmology.instReprSectorPair.repr :SectorPair → ℕ → Std.Format**
 
@@ -216,7 +216,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprSectorPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L89-L89)
 **instance
 Tau.BookV.Cosmology.instReprSectorPair :Repr SectorPair**
 
@@ -227,7 +227,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.all_sector_pairs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L91-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L91-L98)
 **def
 Tau.BookV.Cosmology.all_sector_pairs :List SectorPair**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.six_pairs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L100-L101)
 **theorem
 Tau.BookV.Cosmology.six_pairs :all_sector_pairs.length = 6**
 
@@ -252,7 +252,7 @@ There are exactly 6 pairs.
 
 ### `Tau.BookV.Cosmology.four_choose_two`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L103-L104)
 **theorem
 Tau.BookV.Cosmology.four_choose_two :4 * 3 / 2 = 6**
 
@@ -263,7 +263,7 @@ C(4,2) = 6.
 
 ### `Tau.BookV.Cosmology.BoundaryCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L110-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L110-L128)
 **structure
 Tau.BookV.Cosmology.BoundaryCompleteness :Type**
 
@@ -296,7 +296,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBoundaryCompleteness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L128-L128)
 **def
 Tau.BookV.Cosmology.instReprBoundaryCompleteness.repr :BoundaryCompleteness → ℕ → Std.Format**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBoundaryCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L128-L128)
 **instance
 Tau.BookV.Cosmology.instReprBoundaryCompleteness :Repr BoundaryCompleteness**
 
@@ -319,7 +319,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.boundary_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L130-L132)
 **theorem
 Tau.BookV.Cosmology.boundary_completeness :all_sector_pairs.length = 6**
 
@@ -330,7 +330,7 @@ Boundary completeness: 6 pairs, all commuting.
 
 ### `Tau.BookV.Cosmology.CrossCouplingNaturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L138-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L138-L155)
 **structure
 Tau.BookV.Cosmology.CrossCouplingNaturality :Type**
 
@@ -363,7 +363,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCrossCouplingNaturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L155-L155)
 **instance
 Tau.BookV.Cosmology.instReprCrossCouplingNaturality :Repr CrossCouplingNaturality**
 
@@ -374,7 +374,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprCrossCouplingNaturality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L155-L155)
 **def
 Tau.BookV.Cosmology.instReprCrossCouplingNaturality.repr :CrossCouplingNaturality → ℕ → Std.Format**
 
@@ -386,7 +386,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.cross_coupling_naturality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L157-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L157-L160)
 **theorem
 Tau.BookV.Cosmology.cross_coupling_naturality
 (c : CrossCouplingNaturality)
@@ -401,7 +401,7 @@ Cross-coupling is natural.
 
 ### `Tau.BookV.Cosmology.naturality_replaces_gauge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L166-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L166-L174)
 **def
 Tau.BookV.Cosmology.naturality_replaces_gauge :Prop**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.naturality_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L176-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L176-L176)
 **theorem
 Tau.BookV.Cosmology.naturality_holds :naturality_replaces_gauge**
 
@@ -429,7 +429,7 @@ Tau.BookV.Cosmology.naturality_holds :naturality_replaces_gauge**
 
 ### `Tau.BookV.Cosmology.CouplingType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L182-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L182-L188)
 **inductive
 Tau.BookV.Cosmology.CouplingType :Type**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCouplingType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
 **def
 Tau.BookV.Cosmology.instReprCouplingType.repr :CouplingType → ℕ → Std.Format**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCouplingType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
 **instance
 Tau.BookV.Cosmology.instReprCouplingType :Repr CouplingType**
 
@@ -471,7 +471,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instDecidableEqCouplingType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
 **instance
 Tau.BookV.Cosmology.instDecidableEqCouplingType :DecidableEq CouplingType**
 
@@ -482,7 +482,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqCouplingType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
 **instance
 Tau.BookV.Cosmology.instBEqCouplingType :BEq CouplingType**
 
@@ -493,7 +493,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instBEqCouplingType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L188-L188)
 **def
 Tau.BookV.Cosmology.instBEqCouplingType.beq :CouplingType → CouplingType → Bool**
 
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.CouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L190-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L190-L198)
 **structure
 Tau.BookV.Cosmology.CouplingEntry :Type**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCouplingEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L198-L198)
 **def
 Tau.BookV.Cosmology.instReprCouplingEntry.repr :CouplingEntry → ℕ → Std.Format**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprCouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L198-L198)
 **instance
 Tau.BookV.Cosmology.instReprCouplingEntry :Repr CouplingEntry**
 
@@ -550,7 +550,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.all_couplings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L200-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L200-L217)
 **def
 Tau.BookV.Cosmology.all_couplings :List CouplingEntry**
 
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.iota_mediates_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L219-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L219-L221)
 **theorem
 Tau.BookV.Cosmology.iota_mediates_all :all_couplings.length = 10**
 
@@ -579,7 +579,7 @@ Tau.BookV.Cosmology.iota_mediates_all :all_couplings.length = 10**
 
 ### `Tau.BookV.Cosmology.self_coupling_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L223-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L223-L226)
 **theorem
 Tau.BookV.Cosmology.self_coupling_count :(List.filter (fun (c : CouplingEntry) => c.kind == CouplingType.SelfCoupling) all_couplings).length = 4**
 
@@ -590,7 +590,7 @@ Tau.BookV.Cosmology.self_coupling_count :(List.filter (fun (c : CouplingEntry) =
 
 ### `Tau.BookV.Cosmology.cross_coupling_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L228-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L228-L231)
 **theorem
 Tau.BookV.Cosmology.cross_coupling_count :(List.filter (fun (c : CouplingEntry) => c.kind == CouplingType.CrossCoupling) all_couplings).length = 6**
 
@@ -601,7 +601,7 @@ Tau.BookV.Cosmology.cross_coupling_count :(List.filter (fun (c : CouplingEntry) 
 
 ### `Tau.BookV.Cosmology.BoundaryUnificationSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L237-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L237-L251)
 **structure
 Tau.BookV.Cosmology.BoundaryUnificationSummary :Type**
 
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBoundaryUnificationSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L251-L251)
 **instance
 Tau.BookV.Cosmology.instReprBoundaryUnificationSummary :Repr BoundaryUnificationSummary**
 
@@ -643,7 +643,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBoundaryUnificationSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L251-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L251-L251)
 **def
 Tau.BookV.Cosmology.instReprBoundaryUnificationSummary.repr :BoundaryUnificationSummary → ℕ → Std.Format**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.unification_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BoundaryUnification.lean#L253-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BoundaryUnification.lean#L253-L254)
 **def
 Tau.BookV.Cosmology.unification_summary :BoundaryUnificationSummary**
 

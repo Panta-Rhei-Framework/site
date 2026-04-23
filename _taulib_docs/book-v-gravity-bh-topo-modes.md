@@ -73,7 +73,7 @@ QNM frequency ratio ι<sub>τ</sub>⁻¹ ≈ 2.9299, distinct from Schwarzschild
 
 ### `Tau.BookV.Gravity.TorusMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L52-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L52-L62)
 **structure
 Tau.BookV.Gravity.TorusMode :Type**
 
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTorusMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L62-L62)
 **def
 Tau.BookV.Gravity.instReprTorusMode.repr :TorusMode → ℕ → Std.Format**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTorusMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L62-L62)
 **instance
 Tau.BookV.Gravity.instReprTorusMode :Repr TorusMode**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookV.Gravity.primitiveTorusModes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L64-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L64-L68)
 **def
 Tau.BookV.Gravity.primitiveTorusModes :List TorusMode**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.torusEigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L70-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L70-L75)
 **def
 Tau.BookV.Gravity.torusEigenvalue
 (mode : TorusMode)
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.torusQnmFreq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L77-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L77-L79)
 **def
 Tau.BookV.Gravity.torusQnmFreq
 (mode : TorusMode)
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.qnm_ratio_is_iota_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L85-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L85-L95)
 **theorem
 Tau.BookV.Gravity.qnm_ratio_is_iota_inv :Boundary.iota_tau_numer < Boundary.iota_tau_denom**
 
@@ -184,7 +184,7 @@ iota_tau_numer < iota_tau_denom (equivalently, ι<sub>τ</sub> < 1).
 
 ### `Tau.BookV.Gravity.qnm_frequency_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L97-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L97-L98)
 **def
 Tau.BookV.Gravity.qnm_frequency_ratio :Float**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.schwarzschild_overtone_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L100-L101)
 **def
 Tau.BookV.Gravity.schwarzschild_overtone_ratio :Float**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.G_Newton`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L107-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L107-L108)
 **def
 Tau.BookV.Gravity.G_Newton :Float**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.c_light`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L110-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L110-L111)
 **def
 Tau.BookV.Gravity.c_light :Float**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.M_sun`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L113-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L113-L114)
 **def
 Tau.BookV.Gravity.M_sun :Float**
 
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_time_outer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L120-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L120-L123)
 **def
 Tau.BookV.Gravity.echo_time_outer
 (M_kg : Float)
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_time_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L125-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L125-L128)
 **def
 Tau.BookV.Gravity.echo_time_inner
 (M_kg : Float)
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_separation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L130-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L130-L133)
 **def
 Tau.BookV.Gravity.echo_separation
 (M_kg : Float)
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_separation_ms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L135-L137)
 **def
 Tau.BookV.Gravity.echo_separation_ms
 (M_solar : Float)
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.m87_shadow_tau_outer_uas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L143-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L143-L151)
 **def
 Tau.BookV.Gravity.m87_shadow_tau_outer_uas :Float**
 
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.m87_shadow_gr_uas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L153-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L153-L159)
 **def
 Tau.BookV.Gravity.m87_shadow_gr_uas :Float**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.torus_entropy_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L165-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L165-L170)
 **def
 Tau.BookV.Gravity.torus_entropy_ratio :Float**
 
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.no_hawking_argument`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L176-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L176-L183)
 **def
 Tau.BookV.Gravity.no_hawking_argument :String**
 
@@ -386,7 +386,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.three_primitive_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L189-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L189-L191)
 **theorem
 Tau.BookV.Gravity.three_primitive_modes :primitiveTorusModes.length = 3**
 
@@ -397,7 +397,7 @@ There are exactly 3 primitive torus modes.
 
 ### `Tau.BookV.Gravity.outer_mode_has_zero_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L193-L195)
 **theorem
 Tau.BookV.Gravity.outer_mode_has_zero_inner :(primitiveTorusModes.get ⟨0, ⋯⟩).m = 0**
 
@@ -408,7 +408,7 @@ The outer mode has zero inner winding.
 
 ### `Tau.BookV.Gravity.inner_mode_has_zero_outer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L197-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L197-L199)
 **theorem
 Tau.BookV.Gravity.inner_mode_has_zero_outer :(primitiveTorusModes.get ⟨1, ⋯⟩).n = 0**
 
@@ -419,7 +419,7 @@ The inner mode has zero outer winding.
 
 ### `Tau.BookV.Gravity.qnm_ratio_gt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L201-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L201-L206)
 **theorem
 Tau.BookV.Gravity.qnm_ratio_gt_one :qnm_frequency_ratio > 1.0**
 
@@ -431,7 +431,7 @@ This holds because ι<sub>τ</sub> < 1, so ι<sub>τ</sub>⁻¹ > 1.
 
 ### `Tau.BookV.Gravity.torus_entropy_ratio_gt_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L208-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L208-L212)
 **theorem
 Tau.BookV.Gravity.torus_entropy_ratio_gt_one :torus_entropy_ratio > 1.0**
 
@@ -442,7 +442,7 @@ Entropy ratio exceeds 1 (T² has more entropy than S²).
 
 ### `Tau.BookV.Gravity.outer_echo_longer_than_inner`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L214-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L214-L220)
 **theorem
 Tau.BookV.Gravity.outer_echo_longer_than_inner :Boundary.iota_tau_denom * Boundary.iota_tau_denom > Boundary.iota_tau_numer * Boundary.iota_tau_numer**
 
@@ -456,7 +456,7 @@ Nat-level proof: iota_tau_denom² > iota_tau_numer²
 
 ### `Tau.BookV.Gravity.echo_separation_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L222-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L222-L227)
 **theorem
 Tau.BookV.Gravity.echo_separation_pos :Boundary.iota_tau_denom > Boundary.iota_tau_numer**
 
@@ -469,7 +469,7 @@ Nat-level proof: iota_tau_denom > iota_tau_numer (i.e., ι<sub>τ</sub> < 1).
 
 ### `Tau.BookV.Gravity.t2_qnm_eigenvalue_structure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L266-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L266-L271)
 **def
 Tau.BookV.Gravity.t2_qnm_eigenvalue_structure :String**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.T2QNMEigenvalues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L273-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L273-L285)
 **structure
 Tau.BookV.Gravity.T2QNMEigenvalues :Type**
 
@@ -512,7 +512,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprT2QNMEigenvalues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L285-L285)
 **instance
 Tau.BookV.Gravity.instReprT2QNMEigenvalues :Repr T2QNMEigenvalues**
 
@@ -523,7 +523,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprT2QNMEigenvalues.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L285-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L285-L285)
 **def
 Tau.BookV.Gravity.instReprT2QNMEigenvalues.repr :T2QNMEigenvalues → ℕ → Std.Format**
 
@@ -535,7 +535,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedT2QNMEigenvalues`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L287-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L287-L288)
 **instance
 Tau.BookV.Gravity.instInhabitedT2QNMEigenvalues :Inhabited T2QNMEigenvalues**
 
@@ -548,7 +548,7 @@ Equations
 
 ### `Tau.BookV.Gravity.t2_qnm_eigenvalues_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L290-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L290-L295)
 **theorem
 Tau.BookV.Gravity.t2_qnm_eigenvalues_conjunction :have d := { };
 d.n_primitive_modes = 3 ∧ d.outer_winding = 1 ∧ d.inner_winding = 1 ∧ d.n_independent_frequencies = 2**
@@ -560,7 +560,7 @@ All structural properties of T² QNM eigenvalues hold.
 
 ### `Tau.BookV.Gravity.t2_qnm_modes_eq_list`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L297-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L297-L299)
 **theorem
 Tau.BookV.Gravity.t2_qnm_modes_eq_list :default.n_primitive_modes = primitiveTorusModes.length**
 
@@ -571,7 +571,7 @@ The number of primitive modes equals the length of primitiveTorusModes.
 
 ### `Tau.BookV.Gravity.t2_echo_time_formulas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L303-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L303-L307)
 **def
 Tau.BookV.Gravity.t2_echo_time_formulas :String**
 
@@ -586,7 +586,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.T2EchoFormulas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L309-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L309-L321)
 **structure
 Tau.BookV.Gravity.T2EchoFormulas :Type**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprT2EchoFormulas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L321-L321)
 **instance
 Tau.BookV.Gravity.instReprT2EchoFormulas :Repr T2EchoFormulas**
 
@@ -624,7 +624,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprT2EchoFormulas.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L321-L321)
 **def
 Tau.BookV.Gravity.instReprT2EchoFormulas.repr :T2EchoFormulas → ℕ → Std.Format**
 
@@ -636,7 +636,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.t2_echo_formulas_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L323-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L323-L325)
 **def
 Tau.BookV.Gravity.t2_echo_formulas_data :T2EchoFormulas**
 
@@ -650,7 +650,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedT2EchoFormulas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L327-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L327-L327)
 **instance
 Tau.BookV.Gravity.instInhabitedT2EchoFormulas :Inhabited T2EchoFormulas**
 
@@ -661,7 +661,7 @@ Equations
 
 ### `Tau.BookV.Gravity.t2_echo_formulas_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L329-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L329-L334)
 **theorem
 Tau.BookV.Gravity.t2_echo_formulas_conjunction :t2_echo_formulas_data.ratio_x1000 = 8585 ∧ t2_echo_formulas_data.n_ligo_band = 2 ∧ t2_echo_formulas_data.n_reference_events = 1**
 
@@ -672,7 +672,7 @@ All structural properties of the T² echo formulas hold.
 
 ### `Tau.BookV.Gravity.echo_ratio_approx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L336-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L336-L338)
 **theorem
 Tau.BookV.Gravity.echo_ratio_approx :t2_echo_formulas_data.ratio_x1000 = 8585**
 
@@ -683,7 +683,7 @@ Echo time ratio ×1000 = 8585.
 
 ### `Tau.BookV.Gravity.qnm_frequency_ratio_discriminator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L342-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L342-L347)
 **def
 Tau.BookV.Gravity.qnm_frequency_ratio_discriminator :String**
 
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.QNMDiscriminator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L349-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L349-L367)
 **structure
 Tau.BookV.Gravity.QNMDiscriminator :Type**
 
@@ -735,7 +735,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprQNMDiscriminator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L367-L367)
 **instance
 Tau.BookV.Gravity.instReprQNMDiscriminator :Repr QNMDiscriminator**
 
@@ -746,7 +746,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprQNMDiscriminator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L367-L367)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L367-L367)
 **def
 Tau.BookV.Gravity.instReprQNMDiscriminator.repr :QNMDiscriminator → ℕ → Std.Format**
 
@@ -758,7 +758,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.qnm_discriminator_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L369-L371)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L369-L371)
 **def
 Tau.BookV.Gravity.qnm_discriminator_data :QNMDiscriminator**
 
@@ -772,7 +772,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedQNMDiscriminator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L373-L373)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L373-L373)
 **instance
 Tau.BookV.Gravity.instInhabitedQNMDiscriminator :Inhabited QNMDiscriminator**
 
@@ -783,7 +783,7 @@ Equations
 
 ### `Tau.BookV.Gravity.qnm_discriminator_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L375-L381)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L375-L381)
 **theorem
 Tau.BookV.Gravity.qnm_discriminator_conjunction :qnm_discriminator_data.t2_lower_x10 = 25 ∧ qnm_discriminator_data.s2_lower_x10 = 8 ∧ qnm_discriminator_data.range_gap_x10 = 14 ∧ qnm_discriminator_data.free_parameters = 0**
 
@@ -794,7 +794,7 @@ All structural properties of the QNM discriminator hold.
 
 ### `Tau.BookV.Gravity.qnm_ranges_separated`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L383-L386)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L383-L386)
 **theorem
 Tau.BookV.Gravity.qnm_ranges_separated :qnm_discriminator_data.t2_lower_x10 > qnm_discriminator_data.s2_upper_x10**
 
@@ -805,7 +805,7 @@ T² lower bound exceeds S² upper bound → ranges are separated.
 
 ### `Tau.BookV.Gravity.bh_t2_falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L398-L406)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L398-L406)
 **def
 Tau.BookV.Gravity.bh_t2_falsification :String**
 
@@ -821,7 +821,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.BHT2Falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L408-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L408-L418)
 **structure
 Tau.BookV.Gravity.BHT2Falsification :Type**
 
@@ -846,7 +846,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprBHT2Falsification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L418-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L418-L418)
 **def
 Tau.BookV.Gravity.instReprBHT2Falsification.repr :BHT2Falsification → ℕ → Std.Format**
 
@@ -858,7 +858,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprBHT2Falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L418-L418)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L418-L418)
 **instance
 Tau.BookV.Gravity.instReprBHT2Falsification :Repr BHT2Falsification**
 
@@ -869,7 +869,7 @@ Equations
 
 ### `Tau.BookV.Gravity.bh_t2_falsification_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L420-L422)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L420-L422)
 **def
 Tau.BookV.Gravity.bh_t2_falsification_data :BHT2Falsification**
 
@@ -883,7 +883,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedBHT2Falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L424-L424)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L424-L424)
 **instance
 Tau.BookV.Gravity.instInhabitedBHT2Falsification :Inhabited BHT2Falsification**
 
@@ -894,7 +894,7 @@ Equations
 
 ### `Tau.BookV.Gravity.bh_t2_falsification_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L426-L431)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L426-L431)
 **theorem
 Tau.BookV.Gravity.bh_t2_falsification_conjunction :bh_t2_falsification_data.n_predictions = 3 ∧ bh_t2_falsification_data.n_channels = 3 ∧ bh_t2_falsification_data.free_parameters = 0**
 
@@ -905,7 +905,7 @@ All structural properties of BH T² falsification hold.
 
 ### `Tau.BookV.Gravity.bh_predictions_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L433-L435)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L433-L435)
 **theorem
 Tau.BookV.Gravity.bh_predictions_count :bh_t2_falsification_data.n_predictions = 3**
 
@@ -916,7 +916,7 @@ There are exactly 3 falsifiable predictions.
 
 ### `Tau.BookV.Gravity.vop5_sprint7e_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L444-L450)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L444-L450)
 **def
 Tau.BookV.Gravity.vop5_sprint7e_status :String**
 
@@ -932,7 +932,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.VOP5Status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L452-L462)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L452-L462)
 **structure
 Tau.BookV.Gravity.VOP5Status :Type**
 
@@ -957,7 +957,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprVOP5Status.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L462-L462)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L462-L462)
 **def
 Tau.BookV.Gravity.instReprVOP5Status.repr :VOP5Status → ℕ → Std.Format**
 
@@ -969,7 +969,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprVOP5Status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L462-L462)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L462-L462)
 **instance
 Tau.BookV.Gravity.instReprVOP5Status :Repr VOP5Status**
 
@@ -980,7 +980,7 @@ Equations
 
 ### `Tau.BookV.Gravity.vop5_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L464-L465)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L464-L465)
 **def
 Tau.BookV.Gravity.vop5_data :VOP5Status**
 
@@ -994,7 +994,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedVOP5Status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L467-L467)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L467-L467)
 **instance
 Tau.BookV.Gravity.instInhabitedVOP5Status :Inhabited VOP5Status**
 
@@ -1005,7 +1005,7 @@ Equations
 
 ### `Tau.BookV.Gravity.vop5_status_conjunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L469-L475)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L469-L475)
 **theorem
 Tau.BookV.Gravity.vop5_status_conjunction :vop5_data.n_observational_channels = 3 ∧ vop5_data.n_input_constants = 1 ∧ vop5_data.n_cross_checks = 1 ∧ vop5_data.free_parameters = 0**
 
@@ -1016,7 +1016,7 @@ All structural properties of V.OP5 status hold.
 
 ### `Tau.BookV.Gravity.vop5_channels_eq_predictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L477-L480)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L477-L480)
 **theorem
 Tau.BookV.Gravity.vop5_channels_eq_predictions :vop5_data.n_observational_channels = bh_t2_falsification_data.n_predictions**
 
@@ -1027,7 +1027,7 @@ V.OP5 channels = BH T² falsification predictions.
 
 ### `Tau.BookV.Gravity.BHEntropyCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L489-L496)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L489-L496)
 **structure
 Tau.BookV.Gravity.BHEntropyCatalog :Type**
 
@@ -1045,7 +1045,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprBHEntropyCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L496-L496)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L496-L496)
 **instance
 Tau.BookV.Gravity.instReprBHEntropyCatalog :Repr BHEntropyCatalog**
 
@@ -1056,7 +1056,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprBHEntropyCatalog.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L496-L496)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L496-L496)
 **def
 Tau.BookV.Gravity.instReprBHEntropyCatalog.repr :BHEntropyCatalog → ℕ → Std.Format**
 
@@ -1068,7 +1068,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.t2_entropy_excess_x10000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L498-L499)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L498-L499)
 **def
 Tau.BookV.Gravity.t2_entropy_excess_x10000 :ℕ**
 
@@ -1082,7 +1082,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.bh_entropy_catalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L501-L508)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L501-L508)
 **def
 Tau.BookV.Gravity.bh_entropy_catalog :List BHEntropyCatalog**
 
@@ -1096,7 +1096,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.entropy_catalog_uniform_excess`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L510-L513)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L510-L513)
 **theorem
 Tau.BookV.Gravity.entropy_catalog_uniform_excess
 (e : BHEntropyCatalog)
@@ -1109,7 +1109,7 @@ All catalog entries share the same T² excess factor
 
 ### `Tau.BookV.Gravity.entropy_catalog_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L515-L518)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L515-L518)
 **def
 Tau.BookV.Gravity.entropy_catalog_remark :String**
 
@@ -1123,7 +1123,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.ReadoutGibbsState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L524-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L524-L533)
 **structure
 Tau.BookV.Gravity.ReadoutGibbsState :Type**
 
@@ -1143,7 +1143,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprReadoutGibbsState`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L533-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L533-L533)
 **instance
 Tau.BookV.Gravity.instReprReadoutGibbsState :Repr ReadoutGibbsState**
 
@@ -1154,7 +1154,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprReadoutGibbsState.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L533-L533)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L533-L533)
 **def
 Tau.BookV.Gravity.instReprReadoutGibbsState.repr :ReadoutGibbsState → ℕ → Std.Format**
 
@@ -1166,7 +1166,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.canonical_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L535-L537)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L535-L537)
 **def
 Tau.BookV.Gravity.canonical_readout :ReadoutGibbsState**
 
@@ -1181,7 +1181,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.readout_no_mass_loss`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L539-L540)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L539-L540)
 **theorem
 Tau.BookV.Gravity.readout_no_mass_loss :canonical_readout.implies_mass_loss = 0**
 
@@ -1192,7 +1192,7 @@ Readout does NOT imply mass loss — V.T217
 
 ### `Tau.BookV.Gravity.readout_is_planckian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L542-L543)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L542-L543)
 **theorem
 Tau.BookV.Gravity.readout_is_planckian :canonical_readout.is_planckian = 1**
 
@@ -1203,7 +1203,7 @@ Readout IS Planckian — V.P148
 
 ### `Tau.BookV.Gravity.readout_planckian_gt_mass_loss`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L545-L548)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L545-L548)
 **theorem
 Tau.BookV.Gravity.readout_planckian_gt_mass_loss :canonical_readout.is_planckian > canonical_readout.implies_mass_loss**
 
@@ -1214,7 +1214,7 @@ Planckian flag exceeds mass-loss flag (1 > 0): spectrum exists but no evaporatio
 
 ### `Tau.BookV.Gravity.ReadoutTemperatureCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L550-L555)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L550-L555)
 **structure
 Tau.BookV.Gravity.ReadoutTemperatureCatalog :Type**
 
@@ -1230,7 +1230,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprReadoutTemperatureCatalog.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L555-L555)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L555-L555)
 **def
 Tau.BookV.Gravity.instReprReadoutTemperatureCatalog.repr :ReadoutTemperatureCatalog → ℕ → Std.Format**
 
@@ -1242,7 +1242,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprReadoutTemperatureCatalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L555-L555)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L555-L555)
 **instance
 Tau.BookV.Gravity.instReprReadoutTemperatureCatalog :Repr ReadoutTemperatureCatalog**
 
@@ -1253,7 +1253,7 @@ Equations
 
 ### `Tau.BookV.Gravity.readout_temp_catalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L557-L564)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L557-L564)
 **def
 Tau.BookV.Gravity.readout_temp_catalog :List ReadoutTemperatureCatalog**
 
@@ -1267,7 +1267,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.readout_catalog_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L566-L568)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L566-L568)
 **theorem
 Tau.BookV.Gravity.readout_catalog_length :readout_temp_catalog.length = 5**
 
@@ -1278,7 +1278,7 @@ Catalog has exactly 5 entries
 
 ### `Tau.BookV.Gravity.readout_temps_all_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L570-L573)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L570-L573)
 **theorem
 Tau.BookV.Gravity.readout_temps_all_positive
 (e : ReadoutTemperatureCatalog)
@@ -1291,7 +1291,7 @@ All catalog entries have positive temperature exponent
 
 ### `Tau.BookV.Gravity.KMSReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L579-L598)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L579-L598)
 **structure
 Tau.BookV.Gravity.KMSReadout :Type**
 
@@ -1330,7 +1330,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprKMSReadout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L598-L598)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L598-L598)
 **instance
 Tau.BookV.Gravity.instReprKMSReadout :Repr KMSReadout**
 
@@ -1341,7 +1341,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprKMSReadout.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L598-L598)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L598-L598)
 **def
 Tau.BookV.Gravity.instReprKMSReadout.repr :KMSReadout → ℕ → Std.Format**
 
@@ -1353,7 +1353,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kms_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L600-L601)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L600-L601)
 **def
 Tau.BookV.Gravity.kms_readout :KMSReadout**
 
@@ -1367,7 +1367,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.kms_implies_planckian`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L603-L609)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L603-L609)
 **theorem
 Tau.BookV.Gravity.kms_implies_planckian :kms_readout.boundary_algebra_bosonic = 1 ∧ kms_readout.kms_condition_satisfied = 1 → kms_readout.is_planckian = 1**
 
@@ -1379,7 +1379,7 @@ the spectrum is uniquely Planckian.
 
 ### `Tau.BookV.Gravity.kms_no_bogoliubov`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L611-L613)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L611-L613)
 **theorem
 Tau.BookV.Gravity.kms_no_bogoliubov :kms_readout.no_bogoliubov = 1**
 
@@ -1390,7 +1390,7 @@ The KMS derivation does not use Bogoliubov transformations.
 
 ### `Tau.BookV.Gravity.kms_consistent_with_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L615-L617)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L615-L617)
 **theorem
 Tau.BookV.Gravity.kms_consistent_with_readout :kms_readout.is_planckian = canonical_readout.is_planckian**
 
@@ -1401,7 +1401,7 @@ KMS readout is consistent with the existing V.P148 readout_is_planckian.
 
 ### `Tau.BookV.Gravity.EchoSearchEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L630-L638)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L630-L638)
 **structure
 Tau.BookV.Gravity.EchoSearchEvent :Type**
 
@@ -1420,7 +1420,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprEchoSearchEvent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L638-L638)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L638-L638)
 **instance
 Tau.BookV.Gravity.instReprEchoSearchEvent :Repr EchoSearchEvent**
 
@@ -1431,7 +1431,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprEchoSearchEvent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L638-L638)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L638-L638)
 **def
 Tau.BookV.Gravity.instReprEchoSearchEvent.repr :EchoSearchEvent → ℕ → Std.Format**
 
@@ -1443,7 +1443,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_search_catalog`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L640-L652)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L640-L652)
 **def
 Tau.BookV.Gravity.echo_search_catalog :List EchoSearchEvent**
 
@@ -1457,7 +1457,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_damping_10mode_x10000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L654-L655)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L654-L655)
 **def
 Tau.BookV.Gravity.echo_damping_10mode_x10000 :ℕ**
 
@@ -1471,7 +1471,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_detection_snr_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L657-L658)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L657-L658)
 **def
 Tau.BookV.Gravity.echo_detection_snr_threshold :ℕ**
 
@@ -1485,7 +1485,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.stacked_echo_snr_x10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L660-L661)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L660-L661)
 **def
 Tau.BookV.Gravity.stacked_echo_snr_x10 :ℕ**
 
@@ -1499,7 +1499,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.events_needed_3sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L663-L664)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L663-L664)
 **def
 Tau.BookV.Gravity.events_needed_3sigma :ℕ**
 
@@ -1513,7 +1513,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.et_sensitivity_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L666-L667)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L666-L667)
 **def
 Tau.BookV.Gravity.et_sensitivity_factor :ℕ**
 
@@ -1527,7 +1527,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.et_single_echo_snr_x10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L669-L670)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L669-L670)
 **def
 Tau.BookV.Gravity.et_single_echo_snr_x10 :ℕ**
 
@@ -1541,7 +1541,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.echo_catalog_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L672-L674)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L672-L674)
 **theorem
 Tau.BookV.Gravity.echo_catalog_length :echo_search_catalog.length = 10**
 
@@ -1552,7 +1552,7 @@ Catalog has 10 events
 
 ### `Tau.BookV.Gravity.et_single_event_detectable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L676-L679)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L676-L679)
 **theorem
 Tau.BookV.Gravity.et_single_event_detectable :et_single_echo_snr_x10 > echo_detection_snr_threshold * 10**
 
@@ -1563,7 +1563,7 @@ ET single-event SNR exceeds detection threshold
 
 ### `Tau.BookV.Gravity.o1o3_stack_below_threshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L681-L684)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L681-L684)
 **theorem
 Tau.BookV.Gravity.o1o3_stack_below_threshold :stacked_echo_snr_x10 < echo_detection_snr_threshold * 10**
 
@@ -1574,7 +1574,7 @@ O1-O3 stacked SNR is below 3σ threshold
 
 ### `Tau.BookV.Gravity.echo_search_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L686-L690)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L686-L690)
 **def
 Tau.BookV.Gravity.echo_search_remark :String**
 
@@ -1588,7 +1588,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.t2_lyapunov_correction_x10000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L696-L699)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L696-L699)
 **def
 Tau.BookV.Gravity.t2_lyapunov_correction_x10000 :ℕ**
 
@@ -1604,7 +1604,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.s2_lyapunov_x10000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L701-L702)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L701-L702)
 **def
 Tau.BookV.Gravity.s2_lyapunov_x10000 :ℕ**
 
@@ -1618,7 +1618,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.t2_lyapunov_exceeds_s2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L704-L706)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L704-L706)
 **theorem
 Tau.BookV.Gravity.t2_lyapunov_exceeds_s2 :t2_lyapunov_correction_x10000 > 10000**
 
@@ -1629,7 +1629,7 @@ T² Lyapunov exceeds S² (tighter bound on echo amplitude).
 
 ### `Tau.BookV.Gravity.echo_damping_t2_bound_x10000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L708-L710)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L708-L710)
 **def
 Tau.BookV.Gravity.echo_damping_t2_bound_x10000 :ℕ**
 
@@ -1644,7 +1644,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.t2_echo_bound_tighter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L712-L714)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L712-L714)
 **theorem
 Tau.BookV.Gravity.t2_echo_bound_tighter :echo_damping_t2_bound_x10000 < echo_damping_10mode_x10000**
 
@@ -1655,7 +1655,7 @@ T² echo bound is tighter than S² estimate.
 
 ### `Tau.BookV.Gravity.t2_echo_reduction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/BHTopoModes.lean#L716-L718)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/BHTopoModes.lean#L716-L718)
 **theorem
 Tau.BookV.Gravity.t2_echo_reduction :echo_damping_10mode_x10000 - echo_damping_t2_bound_x10000 = 71**
 

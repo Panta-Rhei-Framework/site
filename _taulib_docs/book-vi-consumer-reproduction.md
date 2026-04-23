@@ -54,7 +54,7 @@ Sexual reproduction: recombination functor and the second distinction.
 
 ### `Tau.BookVI.Reproduction.RecombinationFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L30-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L30-L47)
 **structure
 Tau.BookVI.Reproduction.RecombinationFunctor :Type**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.instReprRecombinationFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L47-L47)
 **instance
 Tau.BookVI.Reproduction.instReprRecombinationFunctor :Repr RecombinationFunctor**
 
@@ -99,7 +99,7 @@ Equations
 
 ### `Tau.BookVI.Reproduction.instReprRecombinationFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L47-L47)
 **def
 Tau.BookVI.Reproduction.instReprRecombinationFunctor.repr :RecombinationFunctor → ℕ → Std.Format**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.recomb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L49-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L49-L53)
 **def
 Tau.BookVI.Reproduction.recomb :RecombinationFunctor**
 
@@ -124,7 +124,7 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.recombination_is_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L55-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L55-L60)
 **theorem
 Tau.BookVI.Reproduction.recombination_is_functor :recomb.input_arity = 2 ∧ recomb.haploid_fusion = true ∧ recomb.stochastic = true ∧ recomb.channels = 2**
 
@@ -133,7 +133,7 @@ Tau.BookVI.Reproduction.recombination_is_functor :recomb.input_arity = 2 ∧ rec
 
 ### `Tau.BookVI.Reproduction.SecondDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L66-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L66-L79)
 **structure
 Tau.BookVI.Reproduction.SecondDistinction :Type**
 
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.instReprSecondDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L79-L79)
 **instance
 Tau.BookVI.Reproduction.instReprSecondDistinction :Repr SecondDistinction**
 
@@ -172,7 +172,7 @@ Equations
 
 ### `Tau.BookVI.Reproduction.instReprSecondDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L79-L79)
 **def
 Tau.BookVI.Reproduction.instReprSecondDistinction.repr :SecondDistinction → ℕ → Std.Format**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.second_dist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L81-L83)
 **def
 Tau.BookVI.Reproduction.second_dist :SecondDistinction**
 
@@ -196,6 +196,6 @@ Instances For
 
 ### `Tau.BookVI.Reproduction.sex_is_second_distinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Consumer/Reproduction.lean#L85-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Consumer/Reproduction.lean#L85-L89)
 **theorem
 Tau.BookVI.Reproduction.sex_is_second_distinction :second_dist.refinement_level = 1 ∧ second_dist.first = "self_nonself" ∧ second_dist.second = "self_otherself"**

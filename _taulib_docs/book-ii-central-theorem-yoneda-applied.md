@@ -63,7 +63,7 @@ transformer, and conversely.
 
 ### `Tau.BookII.CentralTheorem.yoneda_application_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L46-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L46-L76)
 **def
 Tau.BookII.CentralTheorem.yoneda_application_check
 (bound db : Denotation.TauIdx)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.yoneda_application_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L61-L75)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L61-L75)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.yoneda_application_check.go
@@ -110,7 +110,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.yoneda_hom_identification_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L78-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L78-L115)
 **def
 Tau.BookII.CentralTheorem.yoneda_hom_identification_check
 (bound db : Denotation.TauIdx)
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.yoneda_hom_identification_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L92-L114)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L92-L114)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.yoneda_hom_identification_check.go
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.omega_germs_holomorphic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L121-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L121-L162)
 **def
 Tau.BookII.CentralTheorem.omega_germs_holomorphic_check
 (bound db : Denotation.TauIdx)
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.omega_germs_holomorphic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L135-L161)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L135-L161)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.omega_germs_holomorphic_check.go
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.holomorphic_classification_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L164-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L164-L198)
 **def
 Tau.BookII.CentralTheorem.holomorphic_classification_check
 (bound db : Denotation.TauIdx)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.holomorphic_classification_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L176-L197)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L176-L197)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.holomorphic_classification_check.go
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.germ_to_holomorphic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L200-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L200-L228)
 **def
 Tau.BookII.CentralTheorem.germ_to_holomorphic_check
 (bound db : Denotation.TauIdx)
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.germ_to_holomorphic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L213-L227)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L213-L227)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.germ_to_holomorphic_check.go
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_yoneda_applied_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L234-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L234-L244)
 **def
 Tau.BookII.CentralTheorem.full_yoneda_applied_check
 (bound db : Denotation.TauIdx)
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.yoneda_app_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L278-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L278-L279)
 **theorem
 Tau.BookII.CentralTheorem.yoneda_app_12_3 :yoneda_application_check 12 3 = true**
 
@@ -337,7 +337,7 @@ Tau.BookII.CentralTheorem.yoneda_app_12_3 :yoneda_application_check 12 3 = true*
 
 ### `Tau.BookII.CentralTheorem.yoneda_hom_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L282-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L282-L283)
 **theorem
 Tau.BookII.CentralTheorem.yoneda_hom_12_3 :yoneda_hom_identification_check 12 3 = true**
 
@@ -346,7 +346,7 @@ Tau.BookII.CentralTheorem.yoneda_hom_12_3 :yoneda_hom_identification_check 12 3 
 
 ### `Tau.BookII.CentralTheorem.omega_germs_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L286-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L286-L287)
 **theorem
 Tau.BookII.CentralTheorem.omega_germs_12_3 :omega_germs_holomorphic_check 12 3 = true**
 
@@ -355,7 +355,7 @@ Tau.BookII.CentralTheorem.omega_germs_12_3 :omega_germs_holomorphic_check 12 3 =
 
 ### `Tau.BookII.CentralTheorem.hol_class_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L290-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L290-L291)
 **theorem
 Tau.BookII.CentralTheorem.hol_class_12_3 :holomorphic_classification_check 12 3 = true**
 
@@ -364,7 +364,7 @@ Tau.BookII.CentralTheorem.hol_class_12_3 :holomorphic_classification_check 12 3 
 
 ### `Tau.BookII.CentralTheorem.germ_hol_12_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L294-L295)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L294-L295)
 **theorem
 Tau.BookII.CentralTheorem.germ_hol_12_3 :germ_to_holomorphic_check 12 3 = true**
 
@@ -373,7 +373,7 @@ Tau.BookII.CentralTheorem.germ_hol_12_3 :germ_to_holomorphic_check 12 3 = true**
 
 ### `Tau.BookII.CentralTheorem.full_yoneda_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L298-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L298-L299)
 **theorem
 Tau.BookII.CentralTheorem.full_yoneda_10_3 :full_yoneda_applied_check 10 3 = true**
 
@@ -382,7 +382,7 @@ Tau.BookII.CentralTheorem.full_yoneda_10_3 :full_yoneda_applied_check 10 3 = tru
 
 ### `Tau.BookII.CentralTheorem.yoneda_code_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L305-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L305-L313)
 **theorem
 Tau.BookII.CentralTheorem.yoneda_code_roundtrip
 (x k : Denotation.TauIdx)
@@ -398,7 +398,7 @@ Both sides equal reduce(x, k).
 
 ### `Tau.BookII.CentralTheorem.omega_germ_tower_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L315-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L315-L322)
 **theorem
 Tau.BookII.CentralTheorem.omega_germ_tower_coherent
 (x : Denotation.TauIdx)
@@ -417,7 +417,7 @@ This is reduction_compat in disguise.
 
 ### `Tau.BookII.CentralTheorem.germ_reconstructs_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L324-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L324-L329)
 **theorem
 Tau.BookII.CentralTheorem.germ_reconstructs_identity
 (x k : Denotation.TauIdx)
@@ -432,7 +432,7 @@ This is the germ-to-holomorphic direction.
 
 ### `Tau.BookII.CentralTheorem.germ_idempotent_supported`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L331-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/YonedaApplied.lean#L331-L339)
 **theorem
 Tau.BookII.CentralTheorem.germ_idempotent_supported
 (p : Interior.TauAdmissiblePoint)

@@ -51,7 +51,7 @@ All results are universal (∀ depth, ∀ inputs), parameterized by `CRTHyp k`.
 
 ### `Tau.Polarity.coprime_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L29-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L29-L59)
 **theorem
 Tau.Polarity.coprime_product
 {a b c : ℕ}
@@ -69,7 +69,7 @@ Proof by prime factor contradiction using euclid_lemma.
 
 ### `Tau.Polarity.coprime_product_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L61-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L61-L65)
 **theorem
 Tau.Polarity.coprime_product_right
 {a b c : ℕ}
@@ -86,7 +86,7 @@ Symmetric form: coprime(c,a) ∧ coprime(c,b) → coprime(c,a*b).
 
 ### `Tau.Polarity.prime_coprime_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L88-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L88-L95)
 **theorem
 Tau.Polarity.prime_coprime_primorial
 {k : Denotation.TauIdx}
@@ -101,7 +101,7 @@ The (k+1)-th prime is coprime to the k-th primorial.
 
 ### `Tau.Polarity.cofactor_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L101-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L101-L104)
 **theorem
 Tau.Polarity.cofactor_exact
 {k i : Denotation.TauIdx}
@@ -116,7 +116,7 @@ Exact division: cofactor * p_{i+1} = M_k.
 
 ### `Tau.Polarity.cofactor_coprime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L106-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L106-L134)
 **theorem
 Tau.Polarity.cofactor_coprime
 {k i : Denotation.TauIdx}
@@ -129,7 +129,7 @@ Key induction: the primorial cofactor M_k/p_{i+1} is coprime to p_{i+1}.
 
 ### `Tau.Polarity.other_prime_dvd_cofactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L140-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L140-L157)
 **theorem
 Tau.Polarity.other_prime_dvd_cofactor
 {k i j : Denotation.TauIdx}
@@ -150,7 +150,7 @@ p_{j+1} divides the cofactor M_k/p_{i+1} when j ≠ i (both < k).
 
 ### `Tau.Polarity.crt_basis_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L169-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L169-L180)
 **theorem
 Tau.Polarity.crt_basis_diagonal
 {k i : Denotation.TauIdx}
@@ -167,7 +167,7 @@ e_i ≡ 1 (mod p_{i+1}): diagonal case of CRT basis orthogonality.
 
 ### `Tau.Polarity.crt_basis_off_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L182-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L182-L191)
 **theorem
 Tau.Polarity.crt_basis_off_diagonal
 {k i j : Denotation.TauIdx}
@@ -188,7 +188,7 @@ e_i ≡ 0 (mod p_{j+1}) for j ≠ i: off-diagonal case.
 
 ### `Tau.Polarity.coprime_mul_dvd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L226-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L226-L232)
 **theorem
 Tau.Polarity.coprime_mul_dvd
 {p q n : ℕ}
@@ -207,7 +207,7 @@ Coprime divisibility product: gcd(p,q)=1, p∣n, q∣n → p*q∣n.
 
 ### `Tau.Polarity.crt_unique_mod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L278-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L278-L296)
 **theorem
 Tau.Polarity.crt_unique_mod
 {k : Denotation.TauIdx}
@@ -224,7 +224,7 @@ modulo the primorial.
 
 ### `Tau.Polarity.crt_roundtrip_formal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L430-L450)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L430-L450)
 **theorem
 Tau.Polarity.crt_roundtrip_formal
 {x k : Denotation.TauIdx}
@@ -239,7 +239,7 @@ CRT round-trip: reconstruct ∘ decompose = id (mod M_k).
 
 ### `Tau.Polarity.crt_reconstruct_mod_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/CRTBasis.lean#L464-L473)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/CRTBasis.lean#L464-L473)
 **theorem
 Tau.Polarity.crt_reconstruct_mod_prime
 {k l : Denotation.TauIdx}

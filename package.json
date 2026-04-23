@@ -1,0 +1,11 @@
+{
+  "name": "panta-rhei-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pagefind": "pagefind --site _site --output-subdir pagefind"
+  },
+  "devDependencies": {
+    "pagefind": "1.5.2"
+  }
+}

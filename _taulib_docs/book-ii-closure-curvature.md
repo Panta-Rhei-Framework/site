@@ -68,7 +68,7 @@ the fiber T².
 
 ### `Tau.BookII.Closure.curvature_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L49-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L49-L72)
 **def
 Tau.BookII.Closure.curvature_check
 (conn : TauConnection)
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookII.Closure.curvature_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L55-L58)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L55-L58)@[irreducible]
 
 **def
 Tau.BookII.Closure.curvature_check.go
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Closure.curvature_check.go_v`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L60-L63)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L60-L63)@[irreducible]
 
 **def
 Tau.BookII.Closure.curvature_check.go_v
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Closure.curvature_check.go_w`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L65-L71)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L65-L71)@[irreducible]
 
 **def
 Tau.BookII.Closure.curvature_check.go_w
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookII.Closure.cyclic_distance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L78-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L78-L83)
 **def
 Tau.BookII.Closure.cyclic_distance
 (x y k : ℕ)
@@ -154,7 +154,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_direction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L85-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L85-L90)
 **def
 Tau.BookII.Closure.geodesic_direction
 (x y k : ℕ)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L92-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L92-L109)
 **def
 Tau.BookII.Closure.geodesic_check
 (k : ℕ)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L97-L100)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L97-L100)@[irreducible]
 
 **def
 Tau.BookII.Closure.geodesic_check.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_check.go_y`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L102-L108)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L102-L108)@[irreducible]
 
 **def
 Tau.BookII.Closure.geodesic_check.go_y
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L115-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L115-L134)
 **def
 Tau.BookII.Closure.geodesic_completeness_check
 (k : ℕ)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_completeness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L121-L126)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L121-L126)@[irreducible]
 
 **def
 Tau.BookII.Closure.geodesic_completeness_check.go
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookII.Closure.geodesic_completeness_check.go_v`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L128-L133)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L128-L133)@[irreducible]
 
 **def
 Tau.BookII.Closure.geodesic_completeness_check.go_v
@@ -264,7 +264,7 @@ Instances For
 
 ### `Tau.BookII.Closure.lemniscate_holonomy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L140-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L140-L158)
 **def
 Tau.BookII.Closure.lemniscate_holonomy_check
 (k : ℕ)
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookII.Closure.lemniscate_holonomy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L152-L157)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L152-L157)@[irreducible]
 
 **def
 Tau.BookII.Closure.lemniscate_holonomy_check.go
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookII.Closure.flat_curvature_vanishes_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L164-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L164-L166)
 **theorem
 Tau.BookII.Closure.flat_curvature_vanishes_1 :curvature_check flat_connection 1 = true**
 
@@ -310,7 +310,7 @@ Tau.BookII.Closure.flat_curvature_vanishes_1 :curvature_check flat_connection 1 
 
 ### `Tau.BookII.Closure.flat_curvature_vanishes_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L168-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L168-L170)
 **theorem
 Tau.BookII.Closure.flat_curvature_vanishes_2 :curvature_check flat_connection 2 = true**
 
@@ -321,7 +321,7 @@ Tau.BookII.Closure.flat_curvature_vanishes_2 :curvature_check flat_connection 2 
 
 ### `Tau.BookII.Closure.geodesic_correct_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L172-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L172-L174)
 **theorem
 Tau.BookII.Closure.geodesic_correct_1 :geodesic_check 1 = true**
 
@@ -332,7 +332,7 @@ Tau.BookII.Closure.geodesic_correct_1 :geodesic_check 1 = true**
 
 ### `Tau.BookII.Closure.geodesic_correct_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L176-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L176-L178)
 **theorem
 Tau.BookII.Closure.geodesic_correct_2 :geodesic_check 2 = true**
 
@@ -343,7 +343,7 @@ Tau.BookII.Closure.geodesic_correct_2 :geodesic_check 2 = true**
 
 ### `Tau.BookII.Closure.geodesic_complete_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L180-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L180-L182)
 **theorem
 Tau.BookII.Closure.geodesic_complete_1 :geodesic_completeness_check 1 = true**
 
@@ -354,7 +354,7 @@ Tau.BookII.Closure.geodesic_complete_1 :geodesic_completeness_check 1 = true**
 
 ### `Tau.BookII.Closure.geodesic_complete_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L184-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L184-L186)
 **theorem
 Tau.BookII.Closure.geodesic_complete_2 :geodesic_completeness_check 2 = true**
 
@@ -365,7 +365,7 @@ Tau.BookII.Closure.geodesic_complete_2 :geodesic_completeness_check 2 = true**
 
 ### `Tau.BookII.Closure.lemniscate_holonomy_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L188-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L188-L190)
 **theorem
 Tau.BookII.Closure.lemniscate_holonomy_1 :lemniscate_holonomy_check 1 = true**
 
@@ -376,7 +376,7 @@ Tau.BookII.Closure.lemniscate_holonomy_1 :lemniscate_holonomy_check 1 = true**
 
 ### `Tau.BookII.Closure.lemniscate_holonomy_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/Curvature.lean#L192-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/Curvature.lean#L192-L194)
 **theorem
 Tau.BookII.Closure.lemniscate_holonomy_2 :lemniscate_holonomy_check 2 = true**
 

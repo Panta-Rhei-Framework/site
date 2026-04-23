@@ -67,7 +67,7 @@ M_min sets the lower boundary of the mature BH population.
 
 ### `Tau.BookV.GravityField.SingleScaleDOF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L43-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L43-L67)
 **structure
 Tau.BookV.GravityField.SingleScaleDOF :Type**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprSingleScaleDOF.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L67-L67)
 **def
 Tau.BookV.GravityField.instReprSingleScaleDOF.repr :SingleScaleDOF → ℕ → Std.Format**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprSingleScaleDOF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L67-L67)
 **instance
 Tau.BookV.GravityField.instReprSingleScaleDOF :Repr SingleScaleDOF**
 
@@ -137,7 +137,7 @@ Equations
 
 ### `Tau.BookV.GravityField.single_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L69-L72)
 **def
 Tau.BookV.GravityField.single_scale :SingleScaleDOF**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.single_scale_dof`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L74-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L74-L79)
 **theorem
 Tau.BookV.GravityField.single_scale_dof :single_scale.free_params = 1 ∧ single_scale.shape_fixed = true ∧ single_scale.all_determined = true**
 
@@ -162,7 +162,7 @@ Tau.BookV.GravityField.single_scale_dof :single_scale.free_params = 1 ∧ single
 
 ### `Tau.BookV.GravityField.single_scale_reduction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L81-L83)
 **theorem
 Tau.BookV.GravityField.single_scale_reduction :2 - 1 = 1**
 
@@ -173,7 +173,7 @@ Two torus params minus one shape constraint = 1 free parameter.
 
 ### `Tau.BookV.GravityField.free_is_torus_minus_constraint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L85-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L85-L88)
 **theorem
 Tau.BookV.GravityField.free_is_torus_minus_constraint :single_scale.torus_params - single_scale.shape_constraints = single_scale.free_params**
 
@@ -184,7 +184,7 @@ The free parameter count equals torus params minus shape constraints.
 
 ### `Tau.BookV.GravityField.MinimalMatureBH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L94-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L94-L115)
 **structure
 Tau.BookV.GravityField.MinimalMatureBH :Type**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprMinimalMatureBH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L115-L115)
 **instance
 Tau.BookV.GravityField.instReprMinimalMatureBH :Repr MinimalMatureBH**
 
@@ -236,7 +236,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprMinimalMatureBH.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L115-L115)
 **def
 Tau.BookV.GravityField.instReprMinimalMatureBH.repr :MinimalMatureBH → ℕ → Std.Format**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.minimal_bh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L117-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L117-L118)
 **def
 Tau.BookV.GravityField.minimal_bh :MinimalMatureBH**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.minimal_mature_bh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L120-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L120-L126)
 **theorem
 Tau.BookV.GravityField.minimal_mature_bh :minimal_bh.threshold_exists = true ∧ minimal_bh.below_unstable = true ∧ minimal_bh.above_stable = true ∧ minimal_bh.population_bounded = true**
 
@@ -273,7 +273,7 @@ Minimal mature BH threshold exists and bounds population.
 
 ### `Tau.BookV.GravityField.relaxation_plus_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschildScale.lean#L128-L130)
 **theorem
 Tau.BookV.GravityField.relaxation_plus_stability :2 + 3 = 5**
 

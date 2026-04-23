@@ -70,7 +70,7 @@ no 5th orbit channel to associate with pentation. Since there are only
 
 ### `Tau.Orbit.LadderLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L41-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L41-L49)
 **inductive
 Tau.Orbit.LadderLevel :Type**
 
@@ -89,7 +89,7 @@ Instances For
 
 ### `Tau.Orbit.instDecidableEqLadderLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
 **instance
 Tau.Orbit.instDecidableEqLadderLevel :DecidableEq LadderLevel**
 
@@ -100,7 +100,7 @@ Equations
 
 ### `Tau.Orbit.instReprLadderLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
 **def
 Tau.Orbit.instReprLadderLevel.repr :LadderLevel → Nat → Std.Format**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.Orbit.instReprLadderLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L49-L49)
 **instance
 Tau.Orbit.instReprLadderLevel :Repr LadderLevel**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.Orbit.tetration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L51-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L51-L54)
 **def
 Tau.Orbit.tetration :Nat → Nat → Nat**
 
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.Orbit.ladderOp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L56-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L56-L62)
 **def
 Tau.Orbit.ladderOp :LadderLevel → Nat → Nat → Nat**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.Orbit.ladderChannel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L64-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L64-L72)
 **def
 Tau.Orbit.ladderChannel :LadderLevel → Option Kernel.Generator**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.Orbit.add_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L78-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L78-L82)
 **theorem
 Tau.Orbit.add_injective
 (n : Nat)
@@ -189,7 +189,7 @@ Addition is injective in the second argument (for any fixed first).
 
 ### `Tau.Orbit.mul_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L84-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L84-L103)
 **theorem
 Tau.Orbit.mul_injective
 (n : Nat)
@@ -204,7 +204,7 @@ Multiplication by n > 0 is injective in the second argument.
 
 ### `Tau.Orbit.exp_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L105-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L105-L117)
 **theorem
 Tau.Orbit.exp_injective
 (n : Nat)
@@ -219,7 +219,7 @@ Exponentiation with base n ≥ 2 is injective in the exponent.
 
 ### `Tau.Orbit.available_channels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L123-L125)
 **theorem
 Tau.Orbit.available_channels :Kernel.solenoidalGenerators.length = 3**
 
@@ -230,7 +230,7 @@ The number of available orbit channels for rewiring.
 
 ### `Tau.Orbit.pentation_channel_exhaustion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L127-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L127-L134)
 **theorem
 Tau.Orbit.pentation_channel_exhaustion :ladderChannel LadderLevel.tet_level = none**
 
@@ -245,7 +245,7 @@ This is the channel-exhaustion form of the saturation argument.
 
 ### `Tau.Orbit.ladder_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L136-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L136-L144)
 **theorem
 Tau.Orbit.ladder_saturation :Kernel.solenoidalGenerators.length = 3 ∧ ladderChannel LadderLevel.tet_level = none**
 
@@ -261,7 +261,7 @@ The 4th rewiring level (pentation/level 4) has no channel.
 
 ### `Tau.Orbit.ladder_channels_assigned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L146-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L146-L151)
 **theorem
 Tau.Orbit.ladder_channels_assigned :ladderChannel LadderLevel.add_level = some Kernel.Generator.pi ∧ ladderChannel LadderLevel.mul_level = some Kernel.Generator.gamma ∧ ladderChannel LadderLevel.exp_level = some Kernel.Generator.eta**
 
@@ -272,7 +272,7 @@ Each of the first 3 rewiring levels has an assigned channel.
 
 ### `Tau.Orbit.ladder_channels_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/Ladder.lean#L153-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/Ladder.lean#L153-L156)
 **theorem
 Tau.Orbit.ladder_channels_distinct :Kernel.Generator.pi ≠ Kernel.Generator.gamma ∧ Kernel.Generator.pi ≠ Kernel.Generator.eta ∧ Kernel.Generator.gamma ≠ Kernel.Generator.eta**
 

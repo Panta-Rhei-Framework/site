@@ -63,7 +63,7 @@ increasing, saturating at E₃, and unique.
 
 ### `Tau.BookIII.Enrichment.non_emptiness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L41-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L41-L47)
 **def
 Tau.BookIII.Enrichment.non_emptiness_check
 (bound db : Denotation.TauIdx)
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.non_emptiness_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L49-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L49-L57)
 **def
 Tau.BookIII.Enrichment.non_emptiness_witnesses
 (bound db : Denotation.TauIdx)
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e1_strictness_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L63-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L63-L89)
 **def
 Tau.BookIII.Enrichment.e1_strictness_witness
 (bound db : Denotation.TauIdx)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.e1_strictness_witness.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L72-L88)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L72-L88)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.e1_strictness_witness.go
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.strictness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L95-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L95-L103)
 **def
 Tau.BookIII.Enrichment.strictness_check
 (bound db : Denotation.TauIdx)
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.functor_collapse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L109-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L109-L122)
 **def
 Tau.BookIII.Enrichment.functor_collapse_check
 (bound db : Denotation.TauIdx)
@@ -186,7 +186,7 @@ See audit DASHBOARD.md §E3 Collapse.
 
 ### `Tau.BookIII.Enrichment.saturation_e3_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L134-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L134-L164)
 **def
 Tau.BookIII.Enrichment.saturation_e3_check
 (bound db : Denotation.TauIdx)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.saturation_e3_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L144-L151)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L144-L151)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.saturation_e3_check.go
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.saturation_e3_check.check_coverage`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L153-L163)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L153-L163)@[irreducible]
 
 **def
 Tau.BookIII.Enrichment.saturation_e3_check.check_coverage
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.canonical_ladder_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L170-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L170-L187)
 **def
 Tau.BookIII.Enrichment.canonical_ladder_check
 (bound db : Denotation.TauIdx)
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.full_canonical_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L189-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L189-L192)
 **def
 Tau.BookIII.Enrichment.full_canonical_ladder
 (bound db : Denotation.TauIdx)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIII.Enrichment.non_emptiness_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L223-L224)
 **theorem
 Tau.BookIII.Enrichment.non_emptiness_8_3 :non_emptiness_check 8 3 = true**
 
@@ -286,7 +286,7 @@ Tau.BookIII.Enrichment.non_emptiness_8_3 :non_emptiness_check 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.e1_strictness_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L227-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L227-L228)
 **theorem
 Tau.BookIII.Enrichment.e1_strictness_8_3 :e1_strictness_witness 8 3 = true**
 
@@ -295,7 +295,7 @@ Tau.BookIII.Enrichment.e1_strictness_8_3 :e1_strictness_witness 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.strictness_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L231-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L231-L232)
 **theorem
 Tau.BookIII.Enrichment.strictness_8_3 :strictness_check 8 3 = true**
 
@@ -304,7 +304,7 @@ Tau.BookIII.Enrichment.strictness_8_3 :strictness_check 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.functor_collapse_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L235-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L235-L236)
 **theorem
 Tau.BookIII.Enrichment.functor_collapse_8_3 :functor_collapse_check 8 3 = true**
 
@@ -313,7 +313,7 @@ Tau.BookIII.Enrichment.functor_collapse_8_3 :functor_collapse_check 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.saturation_e3_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L239-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L239-L240)
 **theorem
 Tau.BookIII.Enrichment.saturation_e3_8_3 :saturation_e3_check 8 3 = true**
 
@@ -322,7 +322,7 @@ Tau.BookIII.Enrichment.saturation_e3_8_3 :saturation_e3_check 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.canonical_ladder_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L243-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L243-L244)
 **theorem
 Tau.BookIII.Enrichment.canonical_ladder_8_3 :canonical_ladder_check 8 3 = true**
 
@@ -331,7 +331,7 @@ Tau.BookIII.Enrichment.canonical_ladder_8_3 :canonical_ladder_check 8 3 = true**
 
 ### `Tau.BookIII.Enrichment.full_canonical_ladder_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L247-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L247-L248)
 **theorem
 Tau.BookIII.Enrichment.full_canonical_ladder_8_3 :full_canonical_ladder 8 3 = true**
 
@@ -340,7 +340,7 @@ Tau.BookIII.Enrichment.full_canonical_ladder_8_3 :full_canonical_ladder 8 3 = tr
 
 ### `Tau.BookIII.Enrichment.zero_in_carrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L254-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L254-L258)
 **theorem
 Tau.BookIII.Enrichment.zero_in_carrier
 (k : Denotation.TauIdx)
@@ -354,7 +354,7 @@ a witness at every stage. Zero is always in the carrier.
 
 ### `Tau.BookIII.Enrichment.hom_stage_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L260-L265)
 **theorem
 Tau.BookIII.Enrichment.hom_stage_stable
 (a b k : Denotation.TauIdx)
@@ -368,7 +368,7 @@ is reduce-stable, witnessing genuine E₁ structure.
 
 ### `Tau.BookIII.Enrichment.structural_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L267-L269)
 **theorem
 Tau.BookIII.Enrichment.structural_saturation :EnrLevel.E3.succ = EnrLevel.E3**
 
@@ -380,7 +380,7 @@ The enrichment functor is idempotent at E₃.
 
 ### `Tau.BookIII.Enrichment.ladder_has_four_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L271-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L271-L274)
 **theorem
 Tau.BookIII.Enrichment.ladder_has_four_levels :[EnrLevel.E0, EnrLevel.E1, EnrLevel.E2, EnrLevel.E3].length = 4**
 
@@ -392,7 +392,7 @@ any starting level reach E₃. The ladder has exactly 4 levels.
 
 ### `Tau.BookIII.Enrichment.canonical_ordering`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L276-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Enrichment/CanonicalLadder.lean#L276-L281)
 **theorem
 Tau.BookIII.Enrichment.canonical_ordering :EnrLevel.E0.toNat < EnrLevel.E1.toNat ∧ EnrLevel.E1.toNat < EnrLevel.E2.toNat ∧ EnrLevel.E2.toNat < EnrLevel.E3.toNat**
 

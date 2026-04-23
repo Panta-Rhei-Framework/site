@@ -66,7 +66,7 @@ cross-multiplication, then to Int equality via equiv_iff_toInt_eq.
 
 ### `Tau.Boundary.TauComplex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L44-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L44-L50)
 **structure
 Tau.Boundary.TauComplex :Type**
 
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.equiv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L56-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L56-L59)
 **def
 Tau.Boundary.TauComplex.equiv
 (a b : TauComplex)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.equiv_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L61-L63)
 **theorem
 Tau.Boundary.TauComplex.equiv_refl
 (a : TauComplex)
@@ -116,7 +116,7 @@ TauComplex equivalence is reflexive.
 
 ### `Tau.Boundary.TauComplex.equiv_symm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L65-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L65-L68)
 **theorem
 Tau.Boundary.TauComplex.equiv_symm
 {a b : TauComplex}
@@ -131,7 +131,7 @@ TauComplex equivalence is symmetric.
 
 ### `Tau.Boundary.TauComplex.zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L74-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L74-L75)
 **def
 Tau.Boundary.TauComplex.zero :TauComplex**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L77-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L77-L78)
 **def
 Tau.Boundary.TauComplex.one :TauComplex**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.i_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L80-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L80-L81)
 **def
 Tau.Boundary.TauComplex.i_unit :TauComplex**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L83-L85)
 **def
 Tau.Boundary.TauComplex.add
 (a b : TauComplex)
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L87-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L87-L91)
 **def
 Tau.Boundary.TauComplex.mul
 (a b : TauComplex)
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L93-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L93-L95)
 **def
 Tau.Boundary.TauComplex.negate
 (a : TauComplex)
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.Boundary.TauComplex.conj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L97-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L97-L99)
 **def
 Tau.Boundary.TauComplex.conj
 (a : TauComplex)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.Boundary.taucomplex_i_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L105-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L105-L126)
 **theorem
 Tau.Boundary.taucomplex_i_squared :(TauComplex.i_unit.mul TauComplex.i_unit).equiv TauComplex.one.negate**
 
@@ -250,7 +250,7 @@ mul(0,1)(0,1) = (0*0 - 1*1, 0*1 + 1*0) = (-1, 0) = negate(1, 0).
 
 ### `Tau.Boundary.taucomplex_add_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L132-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L132-L135)
 **theorem
 Tau.Boundary.taucomplex_add_comm
 (a b : TauComplex)
@@ -263,7 +263,7 @@ Addition is commutative.
 
 ### `Tau.Boundary.taucomplex_add_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L137-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L137-L141)
 **theorem
 Tau.Boundary.taucomplex_add_assoc
 (a b c : TauComplex)
@@ -276,7 +276,7 @@ Addition is associative.
 
 ### `Tau.Boundary.taucomplex_add_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L143-L146)
 **theorem
 Tau.Boundary.taucomplex_add_zero
 (a : TauComplex)
@@ -289,7 +289,7 @@ Zero is a right identity for addition.
 
 ### `Tau.Boundary.taucomplex_add_negate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L148-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L148-L151)
 **theorem
 Tau.Boundary.taucomplex_add_negate
 (a : TauComplex)
@@ -302,7 +302,7 @@ Negation is a right inverse for addition.
 
 ### `Tau.Boundary.taucomplex_mul_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L153-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L153-L171)
 **theorem
 Tau.Boundary.taucomplex_mul_comm
 (a b : TauComplex)
@@ -316,7 +316,7 @@ Re: ac - bd = ca - db. Im: ad + bc = cb + da.
 
 ### `Tau.Boundary.taucomplex_mul_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L173-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L173-L192)
 **theorem
 Tau.Boundary.taucomplex_mul_assoc
 (a b c : TauComplex)
@@ -330,7 +330,7 @@ Multiplication is associative.
 
 ### `Tau.Boundary.taucomplex_mul_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L194-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L194-L214)
 **theorem
 Tau.Boundary.taucomplex_mul_one
 (a : TauComplex)
@@ -343,7 +343,7 @@ One is a right identity for multiplication: z * 1 = z.
 
 ### `Tau.Boundary.taucomplex_left_distrib`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L216-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L216-L236)
 **theorem
 Tau.Boundary.taucomplex_left_distrib
 (a b c : TauComplex)
@@ -356,7 +356,7 @@ Left distributivity: a * (b + c) = a*b + a*c.
 
 ### `Tau.Boundary.taucomplex_ring_axioms`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L238-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L238-L250)
 **theorem
 Tau.Boundary.taucomplex_ring_axioms :(∀ (a b : TauComplex), (a.add b).equiv (b.add a)) ∧ (∀ (a b c : TauComplex), ((a.add b).add c).equiv (a.add (b.add c))) ∧ (∀ (a : TauComplex), (a.add TauComplex.zero).equiv a) ∧ (∀ (a : TauComplex), (a.add a.negate).equiv TauComplex.zero) ∧ (∀ (a b : TauComplex), (a.mul b).equiv (b.mul a)) ∧ (∀ (a b c : TauComplex), ((a.mul b).mul c).equiv (a.mul (b.mul c))) ∧ (∀ (a : TauComplex), (a.mul TauComplex.one).equiv a) ∧ ∀ (a b c : TauComplex), (a.mul (b.add c)).equiv ((a.mul b).add (a.mul c))**
 
@@ -367,7 +367,7 @@ Full TauComplex ring axiom collection.
 
 ### `Tau.Boundary.sc_j_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L256-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L256-L266)
 **theorem
 Tau.Boundary.sc_j_squared :{ re := 0, im := 1 }.mul { re := 0, im := 1 } = Polarity.SplitComplex.one**
 
@@ -393,7 +393,7 @@ We witness the dichotomy by showing:
 
 ### `Tau.Boundary.elliptic_hyperbolic_dichotomy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L268-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L268-L277)
 **theorem
 Tau.Boundary.elliptic_hyperbolic_dichotomy :(TauComplex.i_unit.mul TauComplex.i_unit).equiv TauComplex.one.negate ∧ { re := 0, im := 1 }.mul { re := 0, im := 1 } = Polarity.SplitComplex.one ∧ { re := 1, im := 1 }.mul { re := 1, im := -1 } = Polarity.SplitComplex.zero**
 
@@ -404,7 +404,7 @@ The dichotomy: i² = -1 AND j² = +1 AND SplitComplex has zero divisors.
 
 ### `Tau.Boundary.TauComplex.fromTauReal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L283-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L283-L285)
 **def
 Tau.Boundary.TauComplex.fromTauReal
 (r : TauReal)
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.Boundary.fromTauReal_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L287-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L287-L291)
 **theorem
 Tau.Boundary.fromTauReal_add
 (a b : TauReal)
@@ -433,7 +433,7 @@ The embedding preserves addition (up to equiv).
 
 ### `Tau.Boundary.taucomplex_conj_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L297-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L297-L308)
 **theorem
 Tau.Boundary.taucomplex_conj_involution
 (a : TauComplex)
@@ -446,7 +446,7 @@ Conjugation is an involution: conj(conj(z)) ≡ z.
 
 ### `Tau.Boundary.taucomplex_conj_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/ComplexField.lean#L310-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/ComplexField.lean#L310-L322)
 **theorem
 Tau.Boundary.taucomplex_conj_add
 (a b : TauComplex)

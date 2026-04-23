@@ -124,7 +124,7 @@ QFT vacuum energy and the observed Λ.
 
 ### `Tau.BookV.Astrophysics.H0Method`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L73-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L73-L87)
 **inductive
 Tau.BookV.Astrophysics.H0Method :Type**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprH0Method`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
 **instance
 Tau.BookV.Astrophysics.instReprH0Method :Repr H0Method**
 
@@ -166,7 +166,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprH0Method.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
 **def
 Tau.BookV.Astrophysics.instReprH0Method.repr :H0Method → ℕ → Std.Format**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqH0Method`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqH0Method :DecidableEq H0Method**
 
@@ -189,7 +189,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqH0Method.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
 **def
 Tau.BookV.Astrophysics.instBEqH0Method.beq :H0Method → H0Method → Bool**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqH0Method`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L87-L87)
 **instance
 Tau.BookV.Astrophysics.instBEqH0Method :BEq H0Method**
 
@@ -212,7 +212,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.H0Method.isEarlyTime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L89-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L89-L93)
 **def
 Tau.BookV.Astrophysics.H0Method.isEarlyTime :H0Method → Bool**
 
@@ -228,7 +228,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.H0MeasurementData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L95-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L95-L108)
 **structure
 Tau.BookV.Astrophysics.H0MeasurementData :Type**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprH0MeasurementData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L108-L108)
 **def
 Tau.BookV.Astrophysics.instReprH0MeasurementData.repr :H0MeasurementData → ℕ → Std.Format**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprH0MeasurementData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L108-L108)
 **instance
 Tau.BookV.Astrophysics.instReprH0MeasurementData :Repr H0MeasurementData**
 
@@ -280,7 +280,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.planck_h0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L110-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L110-L116)
 **def
 Tau.BookV.Astrophysics.planck_h0 :H0MeasurementData**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.shoes_h0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L118-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L118-L124)
 **def
 Tau.BookV.Astrophysics.shoes_h0 :H0MeasurementData**
 
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.H0TensionType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L130-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L130-L140)
 **inductive
 Tau.BookV.Astrophysics.H0TensionType :Type**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprH0TensionType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
 **instance
 Tau.BookV.Astrophysics.instReprH0TensionType :Repr H0TensionType**
 
@@ -345,7 +345,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprH0TensionType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
 **def
 Tau.BookV.Astrophysics.instReprH0TensionType.repr :H0TensionType → ℕ → Std.Format**
 
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqH0TensionType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqH0TensionType :DecidableEq H0TensionType**
 
@@ -368,7 +368,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqH0TensionType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
 **instance
 Tau.BookV.Astrophysics.instBEqH0TensionType :BEq H0TensionType**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqH0TensionType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L140-L140)
 **def
 Tau.BookV.Astrophysics.instBEqH0TensionType.beq :H0TensionType → H0TensionType → Bool**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.h0_tension_magnitude`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L146-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L146-L147)
 **def
 Tau.BookV.Astrophysics.h0_tension_magnitude :ℕ**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.h0_tension_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L149-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L149-L151)
 **theorem
 Tau.BookV.Astrophysics.h0_tension_positive :h0_tension_magnitude > 0**
 
@@ -416,7 +416,7 @@ The tension is positive.
 
 ### `Tau.BookV.Astrophysics.h0_tension_artifact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L153-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L153-L165)
 **theorem
 Tau.BookV.Astrophysics.h0_tension_artifact :"H0 tension = different readout depths probe different boundary corrections" = "H0 tension = different readout depths probe different boundary corrections"**
 
@@ -436,7 +436,7 @@ boundary holonomy correction between these two scales.
 
 ### `Tau.BookV.Astrophysics.early_late_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L171-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L171-L180)
 **theorem
 Tau.BookV.Astrophysics.early_late_depth :planck_h0.h0_scaled < shoes_h0.h0_scaled**
 
@@ -453,7 +453,7 @@ H₀(CMB) ≠ H₀(Cepheid) is EXPECTED, not anomalous.
 
 ### `Tau.BookV.Astrophysics.LCDMLimitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L186-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L186-L201)
 **inductive
 Tau.BookV.Astrophysics.LCDMLimitation :Type**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLCDMLimitation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
 **def
 Tau.BookV.Astrophysics.instReprLCDMLimitation.repr :LCDMLimitation → ℕ → Std.Format**
 
@@ -497,7 +497,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLCDMLimitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
 **instance
 Tau.BookV.Astrophysics.instReprLCDMLimitation :Repr LCDMLimitation**
 
@@ -508,7 +508,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqLCDMLimitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqLCDMLimitation :DecidableEq LCDMLimitation**
 
@@ -519,7 +519,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqLCDMLimitation.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
 **def
 Tau.BookV.Astrophysics.instBEqLCDMLimitation.beq :LCDMLimitation → LCDMLimitation → Bool**
 
@@ -531,7 +531,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqLCDMLimitation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L201-L201)
 **instance
 Tau.BookV.Astrophysics.instBEqLCDMLimitation :BEq LCDMLimitation**
 
@@ -542,7 +542,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.lcdm_limitations_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L203-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L203-L208)
 **theorem
 Tau.BookV.Astrophysics.lcdm_limitations_complete :[LCDMLimitation.DarkMatterMissing, LCDMLimitation.DarkEnergyFinetuning, LCDMLimitation.H0Tension, LCDMLimitation.Sigma8Tension, LCDMLimitation.InflationAdHoc, LCDMLimitation.BaryonAsymmetry].length = 6**
 
@@ -553,7 +553,7 @@ All 6 limitations cataloged.
 
 ### `Tau.BookV.Astrophysics.TauResolutionData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L214-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L214-L223)
 **structure
 Tau.BookV.Astrophysics.TauResolutionData :Type**
 
@@ -576,7 +576,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTauResolutionData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L223-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L223-L223)
 **instance
 Tau.BookV.Astrophysics.instReprTauResolutionData :Repr TauResolutionData**
 
@@ -587,7 +587,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprTauResolutionData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L223-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L223-L223)
 **def
 Tau.BookV.Astrophysics.instReprTauResolutionData.repr :TauResolutionData → ℕ → Std.Format**
 
@@ -599,7 +599,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.h0_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L225-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L225-L229)
 **def
 Tau.BookV.Astrophysics.h0_resolution :TauResolutionData**
 
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.de_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L231-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L231-L235)
 **def
 Tau.BookV.Astrophysics.de_resolution :TauResolutionData**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.cosmo_const_boundary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L241-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L241-L250)
 **theorem
 Tau.BookV.Astrophysics.cosmo_const_boundary :"Lambda = boundary character constant term, not vacuum energy" = "Lambda = boundary character constant term, not vacuum energy"**
 
@@ -644,7 +644,7 @@ a boundary character readout at a completely different scale.
 
 ### `Tau.BookV.Astrophysics.no_lambda_fine_tuning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L256-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L256-L267)
 **theorem
 Tau.BookV.Astrophysics.no_lambda_fine_tuning :"No 10^122 fine-tuning: Lambda is boundary readout, not vacuum energy" = "No 10^122 fine-tuning: Lambda is boundary readout, not vacuum energy"**
 
@@ -663,7 +663,7 @@ geometry, naturally at the observed scale. No cancellation needed.
 
 ### `Tau.BookV.Astrophysics.CPLMapping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L308-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L308-L327)
 **structure
 Tau.BookV.Astrophysics.CPLMapping :Type**
 
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprCPLMapping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L327-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L327-L327)
 **instance
 Tau.BookV.Astrophysics.instReprCPLMapping :Repr CPLMapping**
 
@@ -710,7 +710,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprCPLMapping.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L327-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L327-L327)
 **def
 Tau.BookV.Astrophysics.instReprCPLMapping.repr :CPLMapping → ℕ → Std.Format**
 
@@ -722,7 +722,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.NoPhantomCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L329-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L329-L339)
 **structure
 Tau.BookV.Astrophysics.NoPhantomCrossing :Type**
 
@@ -746,7 +746,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprNoPhantomCrossing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L339-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L339-L339)
 **def
 Tau.BookV.Astrophysics.instReprNoPhantomCrossing.repr :NoPhantomCrossing → ℕ → Std.Format**
 
@@ -758,7 +758,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprNoPhantomCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L339-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L339-L339)
 **instance
 Tau.BookV.Astrophysics.instReprNoPhantomCrossing :Repr NoPhantomCrossing**
 
@@ -769,7 +769,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.cpl_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L341-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L341-L345)
 **def
 Tau.BookV.Astrophysics.cpl_canonical :CPLMapping**
 
@@ -783,7 +783,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.no_phantom_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L347-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L347-L351)
 **def
 Tau.BookV.Astrophysics.no_phantom_canonical :NoPhantomCrossing**
 
@@ -797,7 +797,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.no_phantom_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L353-L355)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L353-L355)
 **theorem
 Tau.BookV.Astrophysics.no_phantom_crossing :no_phantom_canonical.no_crossing = true**
 
@@ -808,7 +808,7 @@ No phantom crossing proven.
 
 ### `Tau.BookV.Astrophysics.tau_closer_to_desi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L357-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L357-L360)
 **theorem
 Tau.BookV.Astrophysics.tau_closer_to_desi :cpl_canonical.w0_offset_x1000 < cpl_canonical.desi_w0_offset_x1000**
 
@@ -819,7 +819,7 @@ Tau.BookV.Astrophysics.tau_closer_to_desi :cpl_canonical.w0_offset_x1000 < cpl_c
 
 ### `Tau.BookV.Astrophysics.HolonomySuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L369-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L369-L379)
 **structure
 Tau.BookV.Astrophysics.HolonomySuppression :Type**
 
@@ -843,7 +843,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHolonomySuppression`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L379-L379)
 **instance
 Tau.BookV.Astrophysics.instReprHolonomySuppression :Repr HolonomySuppression**
 
@@ -854,7 +854,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprHolonomySuppression.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L379-L379)
 **def
 Tau.BookV.Astrophysics.instReprHolonomySuppression.repr :HolonomySuppression → ℕ → Std.Format**
 
@@ -866,7 +866,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.Sigma8TauNative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L381-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L381-L397)
 **structure
 Tau.BookV.Astrophysics.Sigma8TauNative :Type**
 
@@ -899,7 +899,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSigma8TauNative.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L397-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L397-L397)
 **def
 Tau.BookV.Astrophysics.instReprSigma8TauNative.repr :Sigma8TauNative → ℕ → Std.Format**
 
@@ -911,7 +911,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSigma8TauNative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L397-L397)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L397-L397)
 **instance
 Tau.BookV.Astrophysics.instReprSigma8TauNative :Repr Sigma8TauNative**
 
@@ -922,7 +922,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.holonomy_supp_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L399-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L399-L403)
 **def
 Tau.BookV.Astrophysics.holonomy_supp_canonical :HolonomySuppression**
 
@@ -936,7 +936,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sigma8_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L405-L409)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L405-L409)
 **def
 Tau.BookV.Astrophysics.sigma8_canonical :Sigma8TauNative**
 
@@ -950,7 +950,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sigma8_suppression_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L411-L414)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L411-L414)
 **theorem
 Tau.BookV.Astrophysics.sigma8_suppression_theorem :sigma8_canonical.sigma8_tau_x1000 < sigma8_canonical.sigma8_cmb_x1000**
 
@@ -961,7 +961,7 @@ Tau.BookV.Astrophysics.sigma8_suppression_theorem :sigma8_canonical.sigma8_tau_x
 
 ### `Tau.BookV.Astrophysics.s8_wl_aligned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L416-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L416-L419)
 **theorem
 Tau.BookV.Astrophysics.s8_wl_aligned :sigma8_canonical.s8_tau_x1000 < sigma8_canonical.s8_planck_x1000**
 
@@ -972,7 +972,7 @@ Tau.BookV.Astrophysics.s8_wl_aligned :sigma8_canonical.s8_tau_x1000 < sigma8_can
 
 ### `Tau.BookV.Astrophysics.TauGrowthFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L428-L444)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L428-L444)
 **structure
 Tau.BookV.Astrophysics.TauGrowthFactor :Type**
 
@@ -1005,7 +1005,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprTauGrowthFactor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L444-L444)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L444-L444)
 **instance
 Tau.BookV.Astrophysics.instReprTauGrowthFactor :Repr TauGrowthFactor**
 
@@ -1016,7 +1016,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprTauGrowthFactor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L444-L444)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L444-L444)
 **def
 Tau.BookV.Astrophysics.instReprTauGrowthFactor.repr :TauGrowthFactor → ℕ → Std.Format**
 
@@ -1028,7 +1028,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GrowthIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L446-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L446-L454)
 **structure
 Tau.BookV.Astrophysics.GrowthIndex :Type**
 
@@ -1050,7 +1050,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGrowthIndex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L454-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L454-L454)
 **def
 Tau.BookV.Astrophysics.instReprGrowthIndex.repr :GrowthIndex → ℕ → Std.Format**
 
@@ -1062,7 +1062,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGrowthIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L454-L454)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L454-L454)
 **instance
 Tau.BookV.Astrophysics.instReprGrowthIndex :Repr GrowthIndex**
 
@@ -1073,7 +1073,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.growth_z03`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L456-L463)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L456-L463)
 **def
 Tau.BookV.Astrophysics.growth_z03 :TauGrowthFactor**
 
@@ -1088,7 +1088,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.growth_z10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L465-L472)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L465-L472)
 **def
 Tau.BookV.Astrophysics.growth_z10 :TauGrowthFactor**
 
@@ -1103,7 +1103,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.growth_index_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L474-L477)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L474-L477)
 **def
 Tau.BookV.Astrophysics.growth_index_canonical :GrowthIndex**
 
@@ -1117,7 +1117,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.growth_below_lcdm_z03`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L479-L482)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L479-L482)
 **theorem
 Tau.BookV.Astrophysics.growth_below_lcdm_z03 :growth_z03.fsigma8_tau_x1000 < growth_z03.fsigma8_lcdm_x1000**
 
@@ -1128,7 +1128,7 @@ Tau.BookV.Astrophysics.growth_below_lcdm_z03 :growth_z03.fsigma8_tau_x1000 < gro
 
 ### `Tau.BookV.Astrophysics.growth_index_departure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L484-L487)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L484-L487)
 **theorem
 Tau.BookV.Astrophysics.growth_index_departure :growth_index_canonical.gamma_tau_x1000 > growth_index_canonical.gamma_lcdm_x1000**
 
@@ -1139,7 +1139,7 @@ Tau.BookV.Astrophysics.growth_index_departure :growth_index_canonical.gamma_tau_
 
 ### `Tau.BookV.Astrophysics.DESISigma8Falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L502-L514)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L502-L514)
 **structure
 Tau.BookV.Astrophysics.DESISigma8Falsification :Type**
 
@@ -1166,7 +1166,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprDESISigma8Falsification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L514-L514)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L514-L514)
 **def
 Tau.BookV.Astrophysics.instReprDESISigma8Falsification.repr :DESISigma8Falsification → ℕ → Std.Format**
 
@@ -1178,7 +1178,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprDESISigma8Falsification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L514-L514)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L514-L514)
 **instance
 Tau.BookV.Astrophysics.instReprDESISigma8Falsification :Repr DESISigma8Falsification**
 
@@ -1189,7 +1189,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.desi_sigma8_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L516-L516)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L516-L516)
 **def
 Tau.BookV.Astrophysics.desi_sigma8_data :DESISigma8Falsification**
 
@@ -1201,7 +1201,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.desi_sigma8_detectable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L518-L522)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L518-L522)
 **theorem
 Tau.BookV.Astrophysics.desi_sigma8_detectable :1000 - desi_sigma8_data.tau_lcdm_ratio_x1000 > desi_sigma8_data.desi_precision_pct_x1000**
 
@@ -1212,7 +1212,7 @@ Tau.BookV.Astrophysics.desi_sigma8_detectable :1000 - desi_sigma8_data.tau_lcdm_
 
 ### `Tau.BookV.Astrophysics.HubbleDerivationChain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L532-L553)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L532-L553)
 **structure
 Tau.BookV.Astrophysics.HubbleDerivationChain :Type**
 
@@ -1252,7 +1252,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHubbleDerivationChain.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L553-L553)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L553-L553)
 **def
 Tau.BookV.Astrophysics.instReprHubbleDerivationChain.repr :HubbleDerivationChain → ℕ → Std.Format**
 
@@ -1264,7 +1264,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprHubbleDerivationChain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L553-L553)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L553-L553)
 **instance
 Tau.BookV.Astrophysics.instReprHubbleDerivationChain :Repr HubbleDerivationChain**
 
@@ -1275,7 +1275,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.hubble_derivation_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L555-L555)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L555-L555)
 **def
 Tau.BookV.Astrophysics.hubble_derivation_data :HubbleDerivationChain**
 
@@ -1287,7 +1287,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.hubble_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L557-L561)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L557-L561)
 **theorem
 Tau.BookV.Astrophysics.hubble_uniqueness :hubble_derivation_data.free_params = 0 ∧ hubble_derivation_data.derivation_steps = 2**
 
@@ -1298,7 +1298,7 @@ Tau.BookV.Astrophysics.hubble_uniqueness :hubble_derivation_data.free_params = 0
 
 ### `Tau.BookV.Astrophysics.hubble_self_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L563-L569)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L563-L569)
 **theorem
 Tau.BookV.Astrophysics.hubble_self_consistency :hubble_derivation_data.h_x100000 = 67352 ∧ hubble_derivation_data.w3_3 = 17**
 
@@ -1311,7 +1311,7 @@ This should match ω_m(NLO) × 10000 = 14964.
 
 ### `Tau.BookV.Astrophysics.hubble_sub_permille`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L571-L574)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L571-L574)
 **theorem
 Tau.BookV.Astrophysics.hubble_sub_permille :hubble_derivation_data.deviation_ppm < 1000**
 
@@ -1322,7 +1322,7 @@ Deviation is sub-permille.
 
 ### `Tau.BookV.Astrophysics.S8TensionResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L585-L612)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L585-L612)
 **structure
 Tau.BookV.Astrophysics.S8TensionResolution :Type**
 
@@ -1371,7 +1371,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprS8TensionResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L612-L612)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L612-L612)
 **def
 Tau.BookV.Astrophysics.instReprS8TensionResolution.repr :S8TensionResolution → ℕ → Std.Format**
 
@@ -1383,7 +1383,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprS8TensionResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L612-L612)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L612-L612)
 **instance
 Tau.BookV.Astrophysics.instReprS8TensionResolution :Repr S8TensionResolution**
 
@@ -1394,7 +1394,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.s8_resolution_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L614-L614)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L614-L614)
 **def
 Tau.BookV.Astrophysics.s8_resolution_data :S8TensionResolution**
 
@@ -1406,7 +1406,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.s8_between_cmb_and_wl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L616-L620)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L616-L620)
 **theorem
 Tau.BookV.Astrophysics.s8_between_cmb_and_wl :s8_resolution_data.s8_desy3_x1000 < s8_resolution_data.s8_nlo_x10000 / 10 ∧ s8_resolution_data.s8_nlo_x10000 / 10 < s8_resolution_data.s8_planck_x1000**
 
@@ -1417,7 +1417,7 @@ Tau.BookV.Astrophysics.s8_between_cmb_and_wl :s8_resolution_data.s8_desy3_x1000 
 
 ### `Tau.BookV.Astrophysics.s8_within_1sigma_deskids`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L622-L626)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L622-L626)
 **theorem
 Tau.BookV.Astrophysics.s8_within_1sigma_deskids :s8_resolution_data.s8_nlo_x10000 / 10 ≥ s8_resolution_data.s8_deskids_x1000 - 14 ∧ s8_resolution_data.s8_nlo_x10000 / 10 ≤ s8_resolution_data.s8_deskids_x1000 + 14**
 
@@ -1428,7 +1428,7 @@ Tau.BookV.Astrophysics.s8_within_1sigma_deskids :s8_resolution_data.s8_nlo_x1000
 
 ### `Tau.BookV.Astrophysics.s8_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L628-L631)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L628-L631)
 **theorem
 Tau.BookV.Astrophysics.s8_zero_params :s8_resolution_data.free_params = 0**
 
@@ -1439,7 +1439,7 @@ Zero free parameters.
 
 ### `Tau.BookV.Astrophysics.S8NNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L642-L672)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L642-L672)
 **structure
 Tau.BookV.Astrophysics.S8NNLO :Type**
 
@@ -1492,7 +1492,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprS8NNLO`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L672-L672)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L672-L672)
 **instance
 Tau.BookV.Astrophysics.instReprS8NNLO :Repr S8NNLO**
 
@@ -1503,7 +1503,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprS8NNLO.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L672-L672)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L672-L672)
 **def
 Tau.BookV.Astrophysics.instReprS8NNLO.repr :S8NNLO → ℕ → Std.Format**
 
@@ -1515,7 +1515,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.s8_nnlo_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L674-L674)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L674-L674)
 **def
 Tau.BookV.Astrophysics.s8_nnlo_data :S8NNLO**
 
@@ -1527,7 +1527,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.s8_nnlo_within_kids`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L676-L681)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L676-L681)
 **theorem
 Tau.BookV.Astrophysics.s8_nnlo_within_kids :s8_nnlo_data.s8_nnlo_x10000 / 10 ≥ s8_nnlo_data.s8_kids_x1000 - s8_nnlo_data.s8_kids_sigma_x1000 ∧ s8_nnlo_data.s8_nnlo_x10000 / 10 ≤ s8_nnlo_data.s8_kids_x1000 + s8_nnlo_data.s8_kids_sigma_x1000**
 
@@ -1539,7 +1539,7 @@ Tau.BookV.Astrophysics.s8_nnlo_within_kids :s8_nnlo_data.s8_nnlo_x10000 / 10 ≥
 
 ### `Tau.BookV.Astrophysics.s8_nnlo_within_hsc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L683-L688)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L683-L688)
 **theorem
 Tau.BookV.Astrophysics.s8_nnlo_within_hsc :s8_nnlo_data.s8_nnlo_x10000 / 10 ≥ s8_nnlo_data.s8_hsc_x1000 - s8_nnlo_data.s8_hsc_sigma_x1000 ∧ s8_nnlo_data.s8_nnlo_x10000 / 10 ≤ s8_nnlo_data.s8_hsc_x1000 + s8_nnlo_data.s8_hsc_sigma_x1000**
 
@@ -1551,7 +1551,7 @@ Tau.BookV.Astrophysics.s8_nnlo_within_hsc :s8_nnlo_data.s8_nnlo_x10000 / 10 ≥ 
 
 ### `Tau.BookV.Astrophysics.s8_nnlo_below_nlo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L690-L693)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L690-L693)
 **theorem
 Tau.BookV.Astrophysics.s8_nnlo_below_nlo :s8_nnlo_data.s8_nnlo_x10000 < s8_resolution_data.s8_nlo_x10000**
 
@@ -1562,7 +1562,7 @@ Tau.BookV.Astrophysics.s8_nnlo_below_nlo :s8_nnlo_data.s8_nnlo_x10000 < s8_resol
 
 ### `Tau.BookV.Astrophysics.s8_nnlo_zero_params`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L695-L698)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/H0TensionLCDM.lean#L695-L698)
 **theorem
 Tau.BookV.Astrophysics.s8_nnlo_zero_params :s8_nnlo_data.free_params = 0**
 

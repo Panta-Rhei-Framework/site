@@ -62,7 +62,7 @@ expansion in terms of B-sector and C-sector harmonics.
 
 ### `Tau.Boundary.crossing_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L39-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L39-L41)
 **def
 Tau.Boundary.crossing_point :Polarity.SectorPair**
 
@@ -77,7 +77,7 @@ Instances For
 
 ### `Tau.Boundary.is_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L43-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L43-L44)
 **def
 Tau.Boundary.is_crossing
 (s : Polarity.SectorPair)
@@ -93,7 +93,7 @@ Instances For
 
 ### `Tau.Boundary.instDecidableIs_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L46-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L46-L47)
 **instance
 Tau.Boundary.instDecidableIs_crossing
 (s : Polarity.SectorPair)
@@ -106,7 +106,7 @@ Equations
 
 ### `Tau.Boundary.crossing_iff_real`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L49-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L49-L56)
 **theorem
 Tau.Boundary.crossing_iff_real
 (z : Polarity.SplitComplex)
@@ -120,7 +120,7 @@ iff z is real (im = 0). Proof: b_sector = c_sector iff re+im = re-im iff im = 0.
 
 ### `Tau.Boundary.crossing_iff_chi_equal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L58-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L58-L63)
 **theorem
 Tau.Boundary.crossing_iff_chi_equal
 (z : Polarity.SplitComplex)
@@ -134,7 +134,7 @@ z is at the crossing iff χ₊(z) = χ₋(z).
 
 ### `Tau.Boundary.one_is_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L65-L67)
 **theorem
 Tau.Boundary.one_is_crossing :is_crossing (spectral Polarity.SplitComplex.one)**
 
@@ -145,7 +145,7 @@ The multiplicative identity is at the crossing.
 
 ### `Tau.Boundary.j_not_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L69-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L69-L71)
 **theorem
 Tau.Boundary.j_not_crossing :¬is_crossing (spectral Polarity.SplitComplex.j)**
 
@@ -156,7 +156,7 @@ The split-complex unit j is NOT at the crossing (sectors differ).
 
 ### `Tau.Boundary.in_b_ideal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L77-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L77-L80)
 **def
 Tau.Boundary.in_b_ideal
 (z : Polarity.SplitComplex)
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.Boundary.in_c_ideal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L82-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L82-L85)
 **def
 Tau.Boundary.in_c_ideal
 (z : Polarity.SplitComplex)
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.Boundary.instDecidableIn_b_ideal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L87-L88)
 **instance
 Tau.Boundary.instDecidableIn_b_ideal
 (z : Polarity.SplitComplex)
@@ -203,7 +203,7 @@ Equations
 
 ### `Tau.Boundary.instDecidableIn_c_ideal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L90-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L90-L91)
 **instance
 Tau.Boundary.instDecidableIn_c_ideal
 (z : Polarity.SplitComplex)
@@ -216,7 +216,7 @@ Equations
 
 ### `Tau.Boundary.b_ideal_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L93-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L93-L97)
 **theorem
 Tau.Boundary.b_ideal_iff
 (z : Polarity.SplitComplex)
@@ -229,7 +229,7 @@ B-ideal characterization: z is in the B-ideal iff z.re = z.im.
 
 ### `Tau.Boundary.c_ideal_iff`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L99-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L99-L102)
 **theorem
 Tau.Boundary.c_ideal_iff
 (z : Polarity.SplitComplex)
@@ -242,7 +242,7 @@ C-ideal characterization: z is in the C-ideal iff z.re + z.im = 0.
 
 ### `Tau.Boundary.b_times_c_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L104-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L104-L113)
 **theorem
 Tau.Boundary.b_times_c_zero
 (z w : Polarity.SplitComplex)
@@ -260,7 +260,7 @@ If z ∈ ker(χ₋) and w ∈ ker(χ₊), then z·w = 0 in sector coordinates.
 
 ### `Tau.Boundary.b_ideal_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L115-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L115-L120)
 **theorem
 Tau.Boundary.b_ideal_add
 (z w : Polarity.SplitComplex)
@@ -277,7 +277,7 @@ The B-ideal is closed under addition.
 
 ### `Tau.Boundary.c_ideal_add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L122-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L122-L127)
 **theorem
 Tau.Boundary.c_ideal_add
 (z w : Polarity.SplitComplex)
@@ -294,7 +294,7 @@ The C-ideal is closed under addition.
 
 ### `Tau.Boundary.b_ideal_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L129-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L129-L134)
 **theorem
 Tau.Boundary.b_ideal_mul
 (z w : Polarity.SplitComplex)
@@ -309,7 +309,7 @@ The B-ideal is closed under multiplication.
 
 ### `Tau.Boundary.c_ideal_mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L136-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L136-L141)
 **theorem
 Tau.Boundary.c_ideal_mul
 (z w : Polarity.SplitComplex)
@@ -324,7 +324,7 @@ The C-ideal is closed under multiplication.
 
 ### `Tau.Boundary.fourier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L147-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L147-L149)
 **def
 Tau.Boundary.fourier
 (z : Polarity.SplitComplex)
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.Boundary.fourier_e_plus_sc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L151-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L151-L154)
 **theorem
 Tau.Boundary.fourier_e_plus_sc :fourier { re := 1, im := 1 } = { b_sector := 2, c_sector := 0 }**
 
@@ -352,7 +352,7 @@ Fourier transform of e₊ = (1,1) in split-complex: maps to pure B-sector.
 
 ### `Tau.Boundary.fourier_e_minus_sc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L156-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L156-L159)
 **theorem
 Tau.Boundary.fourier_e_minus_sc :fourier { re := 1, im := -1 } = { b_sector := 0, c_sector := 2 }**
 
@@ -363,7 +363,7 @@ Fourier transform of e₋ = (1,-1) in split-complex: maps to pure C-sector.
 
 ### `Tau.Boundary.fourier_e_plus_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L161-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L161-L164)
 **theorem
 Tau.Boundary.fourier_e_plus_sector
 (z : Polarity.SplitComplex)
@@ -376,7 +376,7 @@ Fourier of the sector idempotent e₊: pure B-sector.
 
 ### `Tau.Boundary.fourier_e_minus_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L166-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L166-L169)
 **theorem
 Tau.Boundary.fourier_e_minus_sector
 (z : Polarity.SplitComplex)
@@ -389,7 +389,7 @@ Fourier of the sector idempotent e₋: pure C-sector.
 
 ### `Tau.Boundary.fourier_invertible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L175-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L175-L178)
 **theorem
 Tau.Boundary.fourier_invertible
 (z : Polarity.SplitComplex)
@@ -402,7 +402,7 @@ Fourier inversion: the spectral transform can be inverted via from_sectors.
 
 ### `Tau.Boundary.fourier_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L180-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L180-L183)
 **theorem
 Tau.Boundary.fourier_injective
 (a b : Polarity.SplitComplex)
@@ -417,7 +417,7 @@ The Fourier transform is injective.
 
 ### `Tau.Boundary.fourier_sigma_swap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L189-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L189-L193)
 **theorem
 Tau.Boundary.fourier_sigma_swap
 (z : Polarity.SplitComplex)
@@ -430,7 +430,7 @@ Tau.Boundary.fourier_sigma_swap
 
 ### `Tau.Boundary.sigma_fixed_iff_real`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L195-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L195-L206)
 **theorem
 Tau.Boundary.sigma_fixed_iff_real
 (z : Polarity.SplitComplex)
@@ -443,7 +443,7 @@ Fourier-space characterization of fixed points of σ: z is σ-fixed iff z is rea
 
 ### `Tau.Boundary.sigma_anti_fixed_iff_imaginary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L208-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L208-L217)
 **theorem
 Tau.Boundary.sigma_anti_fixed_iff_imaginary
 (z : Polarity.SplitComplex)
@@ -456,7 +456,7 @@ Fourier-space characterization of anti-fixed points: polarity_inv z = -z iff z i
 
 ### `Tau.Boundary.fourier_parseval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Boundary/Fourier.lean#L223-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Boundary/Fourier.lean#L223-L226)
 **theorem
 Tau.Boundary.fourier_parseval
 (z : Polarity.SplitComplex)

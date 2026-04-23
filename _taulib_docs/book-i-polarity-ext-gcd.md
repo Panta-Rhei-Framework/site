@@ -42,7 +42,7 @@ Extended GCD algorithm, Bézout identity, and modular inverse existence.
 
 ### `Tau.Polarity.ext_gcd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ExtGCD.lean#L25-L33)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ExtGCD.lean#L25-L33)@[irreducible]
 
 **def
 Tau.Polarity.ext_gcd
@@ -62,7 +62,7 @@ Instances For
 
 ### `Tau.Polarity.ext_gcd_fst`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ExtGCD.lean#L39-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ExtGCD.lean#L39-L53)
 **theorem
 Tau.Polarity.ext_gcd_fst
 (a b : ℕ)
@@ -75,7 +75,7 @@ ext_gcd computes the GCD.
 
 ### `Tau.Polarity.ext_gcd_bezout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ExtGCD.lean#L55-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ExtGCD.lean#L55-L78)
 **theorem
 Tau.Polarity.ext_gcd_bezout
 (a b : ℕ)
@@ -88,7 +88,7 @@ Bézout identity: ↑a * s + ↑b * t = ↑(ext_gcd a b).1.
 
 ### `Tau.Polarity.ext_gcd_spec`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ExtGCD.lean#L80-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ExtGCD.lean#L80-L84)
 **theorem
 Tau.Polarity.ext_gcd_spec
 (a b : ℕ)
@@ -101,7 +101,7 @@ Combined: ext_gcd gives Bézout coefficients for gcd.
 
 ### `Tau.Polarity.mod_inv_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ExtGCD.lean#L90-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ExtGCD.lean#L90-L130)
 **theorem
 Tau.Polarity.mod_inv_exists
 (a m : ℕ)

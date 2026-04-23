@@ -112,7 +112,7 @@ are partially verified numerically but not yet formally derived)
 
 ### `Tau.BookIV.Physics.LemniscateSupport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L68-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L68-L73)
 **inductive
 Tau.BookIV.Physics.LemniscateSupport :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprLemniscateSupport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
 **instance
 Tau.BookIV.Physics.instReprLemniscateSupport :Repr LemniscateSupport**
 
@@ -139,7 +139,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprLemniscateSupport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
 **def
 Tau.BookIV.Physics.instReprLemniscateSupport.repr :LemniscateSupport → ℕ → Std.Format**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqLemniscateSupport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L73-L73)
 **instance
 Tau.BookIV.Physics.instDecidableEqLemniscateSupport :DecidableEq LemniscateSupport**
 
@@ -162,7 +162,7 @@ Equations
 
 ### `Tau.BookIV.Physics.LemniscateThreeFold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L75-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L75-L83)
 **structure
 Tau.BookIV.Physics.LemniscateThreeFold :Type**
 
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprLemniscateThreeFold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L83-L83)
 **def
 Tau.BookIV.Physics.instReprLemniscateThreeFold.repr :LemniscateThreeFold → ℕ → Std.Format**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprLemniscateThreeFold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L83-L83)
 **instance
 Tau.BookIV.Physics.instReprLemniscateThreeFold :Repr LemniscateThreeFold**
 
@@ -207,7 +207,7 @@ Equations
 
 ### `Tau.BookIV.Physics.three_fold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L85-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L85-L88)
 **def
 Tau.BookIV.Physics.three_fold :LemniscateThreeFold**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.supports_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L90-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L90-L95)
 **theorem
 Tau.BookIV.Physics.supports_distinct :LemniscateSupport.Lobe1 ≠ LemniscateSupport.Lobe2 ∧ LemniscateSupport.Lobe2 ≠ LemniscateSupport.Crossing ∧ LemniscateSupport.Lobe1 ≠ LemniscateSupport.Crossing**
 
@@ -242,7 +242,7 @@ All three support types are distinct.
 
 ### `Tau.BookIV.Physics.omega_real_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L108-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L108-L109)
 **def
 Tau.BookIV.Physics.omega_real_sq :ℕ**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.omega_imag_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L111-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L111-L112)
 **def
 Tau.BookIV.Physics.omega_imag_sq :ℕ**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.omega_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L114-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L114-L115)
 **def
 Tau.BookIV.Physics.omega_denom :ℕ**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.threefold_distance_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L117-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L117-L129)
 **theorem
 Tau.BookIV.Physics.threefold_distance_sq :omega_real_sq + omega_imag_sq = 3 * omega_denom**
 
@@ -309,7 +309,7 @@ This is the origin of √3 in the mass ratio formula.
 
 ### `Tau.BookIV.Physics.distance_numerator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L131-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L131-L134)
 **theorem
 Tau.BookIV.Physics.distance_numerator :omega_real_sq + omega_imag_sq = 12**
 
@@ -320,7 +320,7 @@ The numerator sum is 12.
 
 ### `Tau.BookIV.Physics.distance_denominator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L136-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L136-L138)
 **theorem
 Tau.BookIV.Physics.distance_denominator :omega_denom = 4**
 
@@ -331,7 +331,7 @@ The denominator is 4.
 
 ### `Tau.BookIV.Physics.sqrt3_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L144-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L144-L150)
 **def
 Tau.BookIV.Physics.sqrt3_numer :ℕ**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.sqrt3_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L151-L151)
 **def
 Tau.BookIV.Physics.sqrt3_denom :ℕ**
 
@@ -362,7 +362,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.sqrt3_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L153-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L153-L155)
 **theorem
 Tau.BookIV.Physics.sqrt3_denom_pos :sqrt3_denom > 0**
 
@@ -373,7 +373,7 @@ Tau.BookIV.Physics.sqrt3_denom_pos :sqrt3_denom > 0**
 
 ### `Tau.BookIV.Physics.sqrt3_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L157-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L157-L159)
 **def
 Tau.BookIV.Physics.sqrt3_float :Float**
 
@@ -387,7 +387,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.sqrt3_approx_undershoots`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L161-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L161-L164)
 **theorem
 Tau.BookIV.Physics.sqrt3_approx_undershoots :sqrt3_numer * sqrt3_numer < 3 * sqrt3_denom * sqrt3_denom**
 
@@ -399,7 +399,7 @@ Tau.BookIV.Physics.sqrt3_approx_undershoots :sqrt3_numer * sqrt3_numer < 3 * sqr
 
 ### `Tau.BookIV.Physics.sqrt3_approx_quality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L166-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L166-L169)
 **theorem
 Tau.BookIV.Physics.sqrt3_approx_quality :sqrt3_numer * sqrt3_numer * 100000 > 299999 * sqrt3_denom * sqrt3_denom**
 
@@ -411,7 +411,7 @@ The √3 approximation is close: (√3_approx)² > 2.99999.
 
 ### `Tau.BookIV.Physics.sqrt3_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L171-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L171-L176)
 **theorem
 Tau.BookIV.Physics.sqrt3_in_range :173 * sqrt3_denom < 100 * sqrt3_numer ∧ 100 * sqrt3_numer < 174 * sqrt3_denom**
 
@@ -423,7 +423,7 @@ Tau.BookIV.Physics.sqrt3_in_range :173 * sqrt3_denom < 100 * sqrt3_numer ∧ 100
 
 ### `Tau.BookIV.Physics.Sqrt3Triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L182-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L182-L198)
 **structure
 Tau.BookIV.Physics.Sqrt3Triad :Type**
 
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprSqrt3Triad.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L198-L198)
 **def
 Tau.BookIV.Physics.instReprSqrt3Triad.repr :Sqrt3Triad → ℕ → Std.Format**
 
@@ -468,7 +468,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprSqrt3Triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L198-L198)
 **instance
 Tau.BookIV.Physics.instReprSqrt3Triad :Repr Sqrt3Triad**
 
@@ -479,7 +479,7 @@ Equations
 
 ### `Tau.BookIV.Physics.sqrt3_triad`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L200-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L200-L205)
 **def
 Tau.BookIV.Physics.sqrt3_triad :List Sqrt3Triad**
 
@@ -493,7 +493,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.triad_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L207-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L207-L208)
 **theorem
 Tau.BookIV.Physics.triad_count :sqrt3_triad.length = 3**
 
@@ -504,7 +504,7 @@ Three triad members.
 
 ### `Tau.BookIV.Physics.CapacityIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L214-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L214-L228)
 **structure
 Tau.BookIV.Physics.CapacityIdentity :Type**
 
@@ -532,7 +532,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprCapacityIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L228-L228)
 **instance
 Tau.BookIV.Physics.instReprCapacityIdentity :Repr CapacityIdentity**
 
@@ -543,7 +543,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprCapacityIdentity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/LemniscateCapacity.lean#L228-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/LemniscateCapacity.lean#L228-L228)
 **def
 Tau.BookIV.Physics.instReprCapacityIdentity.repr :CapacityIdentity → ℕ → Std.Format**
 

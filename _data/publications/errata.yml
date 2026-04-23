@@ -1,0 +1,40 @@
+- id: "ERRATUM-001"
+  issued: "2026-04-20"
+  status: "Active"
+  severity: "High"
+  affected: "Book I, Chapter 27; Definition I.D19a; Theorem I.T05"
+  registry_ids:
+    - "I.D19a"
+    - "I.T05"
+  summary: "Corrects the published prime-polarity definition. The original growth-comparison clauses do not partition the primes; the corrected classifier uses the Legendre symbol (2/p), aligning Book I with the Book III bipolar classifier."
+  replacement: "Replace Definition I.D19a and the proof of I.T05 with the Legendre-symbol polarity definition and the corresponding partition theorem. Treat the former growth-rate discussion as heuristic motivation, not as the theorem's classifier."
+
+- id: "ERRATUM-002"
+  issued: "2026-04-20"
+  status: "Active"
+  severity: "Medium"
+  affected: "Book III, Chapter 18; Definition III.D23; Theorem III.T13"
+  registry_ids:
+    - "III.D23"
+    - "III.T13"
+  summary: "Corrects the Jacobi-symbol convention used in the internal bipolar classifier derivation. Under the classical Jacobi convention, zero factors do not reduce to a single Legendre factor."
+  replacement: "Introduce an explicit spectral Legendre convention for the CRT-local readout. The classifier and label-convergence conclusion remain unchanged; the derivation is reformulated."
+
+- id: "ERRATUM-003"
+  issued: "2026-04-20"
+  status: "Active"
+  severity: "Medium"
+  affected: "Book I, Chapter 24; Theorem I.T04"
+  registry_ids:
+    - "I.T04"
+  summary: "Tightens the Hyperfactorization Theorem statement. Conditions (i)-(iii) alone do not uniquely specify the ABCD tuple; maximal tetration height must be part of the admissibility condition."
+  replacement: "Add the maximality clause already used by the greedy-peel construction and uniqueness proof. The theorem's intended canonical decomposition remains unchanged."
+
+- id: "ERRATUM-004"
+  issued: "2026-04-22"
+  status: "Active"
+  severity: "Medium"
+  affected: "Panta Rhei Conspectus v1.1 PDF; TauLib trust-budget disclosure"
+  registry_ids: []
+  summary: "Corrects the Conspectus PDF's pre-refactor TauLib trust-budget language. The downloadable v1.1 PDF still describes the interim peer-review state; the pinned public TauLib release has since landed the refactor."
+  replacement: "Read the current trust budget as 3 custom axioms and 0 sorry at the pinned TauLib release, with the former Book VII methodological markers represented as inspectable Commitment definitions. The Release Manifest is authoritative for current machine-checkable counts."

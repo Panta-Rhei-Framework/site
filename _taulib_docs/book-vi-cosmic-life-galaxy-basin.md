@@ -52,7 +52,7 @@ Galaxy basins: galaxies as Life basins anchored by SMBHs.
 
 ### `Tau.BookVI.GalaxyBasin.LifeBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L26-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L26-L38)
 **structure
 Tau.BookVI.GalaxyBasin.LifeBasin :Type**
 
@@ -79,7 +79,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprLifeBasin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L38-L38)
 **instance
 Tau.BookVI.GalaxyBasin.instReprLifeBasin :Repr LifeBasin**
 
@@ -90,7 +90,7 @@ Equations
 
 ### `Tau.BookVI.GalaxyBasin.instReprLifeBasin.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L38-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L38-L38)
 **def
 Tau.BookVI.GalaxyBasin.instReprLifeBasin.repr :LifeBasin → ℕ → Std.Format**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.galaxy_basin`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L40-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L40-L40)
 **def
 Tau.BookVI.GalaxyBasin.galaxy_basin :LifeBasin**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.CarrierLadder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L46-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L46-L57)
 **structure
 Tau.BookVI.GalaxyBasin.CarrierLadder :Type**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprCarrierLadder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L57-L57)
 **instance
 Tau.BookVI.GalaxyBasin.instReprCarrierLadder :Repr CarrierLadder**
 
@@ -150,7 +150,7 @@ Equations
 
 ### `Tau.BookVI.GalaxyBasin.instReprCarrierLadder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L57-L57)
 **def
 Tau.BookVI.GalaxyBasin.instReprCarrierLadder.repr :CarrierLadder → ℕ → Std.Format**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.carrier_ladder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L59-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L59-L61)
 **def
 Tau.BookVI.GalaxyBasin.carrier_ladder :CarrierLadder**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.ladder_level_names`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L63-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L63-L66)
 **def
 Tau.BookVI.GalaxyBasin.ladder_level_names :List String**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.ladder_has_7_levels`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L68-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L68-L71)
 **theorem
 Tau.BookVI.GalaxyBasin.ladder_has_7_levels :carrier_ladder.level_count = 7 ∧ ladder_level_names.length = 7**
 
@@ -197,7 +197,7 @@ Tau.BookVI.GalaxyBasin.ladder_has_7_levels :carrier_ladder.level_count = 7 ∧ l
 
 ### `Tau.BookVI.GalaxyBasin.BasinPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L77-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L77-L93)
 **structure
 Tau.BookVI.GalaxyBasin.BasinPredicate :Type**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprBasinPredicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L93-L93)
 **instance
 Tau.BookVI.GalaxyBasin.instReprBasinPredicate :Repr BasinPredicate**
 
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.BookVI.GalaxyBasin.instReprBasinPredicate.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L93-L93)
 **def
 Tau.BookVI.GalaxyBasin.instReprBasinPredicate.repr :BasinPredicate → ℕ → Std.Format**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.basin_pred`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L95-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L95-L97)
 **def
 Tau.BookVI.GalaxyBasin.basin_pred :BasinPredicate**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.AnchorLemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L103-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L103-L116)
 **structure
 Tau.BookVI.GalaxyBasin.AnchorLemma :Type**
 
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprAnchorLemma.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L116-L116)
 **def
 Tau.BookVI.GalaxyBasin.instReprAnchorLemma.repr :AnchorLemma → ℕ → Std.Format**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprAnchorLemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L116-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L116-L116)
 **instance
 Tau.BookVI.GalaxyBasin.instReprAnchorLemma :Repr AnchorLemma**
 
@@ -316,7 +316,7 @@ Equations
 
 ### `Tau.BookVI.GalaxyBasin.anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L118-L118)
 **def
 Tau.BookVI.GalaxyBasin.anchor :AnchorLemma**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.anchor_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L120-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L120-L124)
 **theorem
 Tau.BookVI.GalaxyBasin.anchor_lemma :anchor.code_factorizes = true ∧ anchor.code_determines_basin = true ∧ anchor.eval_decomposes = true**
 
@@ -337,7 +337,7 @@ Tau.BookVI.GalaxyBasin.anchor_lemma :anchor.code_factorizes = true ∧ anchor.co
 
 ### `Tau.BookVI.GalaxyBasin.BasinFusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L130-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L130-L144)
 **structure
 Tau.BookVI.GalaxyBasin.BasinFusion :Type**
 
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.instReprBasinFusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L144-L144)
 **instance
 Tau.BookVI.GalaxyBasin.instReprBasinFusion :Repr BasinFusion**
 
@@ -377,7 +377,7 @@ Equations
 
 ### `Tau.BookVI.GalaxyBasin.instReprBasinFusion.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L144-L144)
 **def
 Tau.BookVI.GalaxyBasin.instReprBasinFusion.repr :BasinFusion → ℕ → Std.Format**
 
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.basin_fusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L146-L146)
 **def
 Tau.BookVI.GalaxyBasin.basin_fusion :BasinFusion**
 
@@ -401,6 +401,6 @@ Instances For
 
 ### `Tau.BookVI.GalaxyBasin.basin_fusion_lemma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L148-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/GalaxyBasin.lean#L148-L153)
 **theorem
 Tau.BookVI.GalaxyBasin.basin_fusion_lemma :basin_fusion.anchor_merges = true ∧ basin_fusion.code_fuses = true ∧ basin_fusion.carrier_union = true ∧ basin_fusion.ladder_restructured = true**

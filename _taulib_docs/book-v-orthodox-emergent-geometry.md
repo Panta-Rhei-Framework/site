@@ -120,7 +120,7 @@ physics of tau^3. The encoding is isomorphic, not approximate.
 
 ### `Tau.BookV.Orthodox.ChartShadowProperties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L78-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L78-L90)
 **structure
 Tau.BookV.Orthodox.ChartShadowProperties :Type**
 
@@ -148,7 +148,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprChartShadowProperties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L90-L90)
 **instance
 Tau.BookV.Orthodox.instReprChartShadowProperties :Repr ChartShadowProperties**
 
@@ -159,7 +159,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprChartShadowProperties.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L90-L90)
 **def
 Tau.BookV.Orthodox.instReprChartShadowProperties.repr :ChartShadowProperties → ℕ → Std.Format**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.gr_as_chart_shadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L92-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L92-L102)
 **theorem
 Tau.BookV.Orthodox.gr_as_chart_shadow :"pr_chart(R^H = kappa_tau * T) = G_mu_nu = (8piG/c^4) T_mu_nu" = "pr_chart(R^H = kappa_tau * T) = G_mu_nu = (8piG/c^4) T_mu_nu"**
 
@@ -189,7 +189,7 @@ in the classical regime.
 
 ### `Tau.BookV.Orthodox.gr_chart_shadow`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L104-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L104-L105)
 **def
 Tau.BookV.Orthodox.gr_chart_shadow :ChartShadowProperties**
 
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.QuantizationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L111-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L111-L129)
 **structure
 Tau.BookV.Orthodox.QuantizationObstruction :Type**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprQuantizationObstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L129-L129)
 **instance
 Tau.BookV.Orthodox.instReprQuantizationObstruction :Repr QuantizationObstruction**
 
@@ -247,7 +247,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprQuantizationObstruction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L129-L129)
 **def
 Tau.BookV.Orthodox.instReprQuantizationObstruction.repr :QuantizationObstruction → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.quantization_obstruction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L131-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L131-L134)
 **def
 Tau.BookV.Orthodox.quantization_obstruction :QuantizationObstruction**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.double_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L136-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L136-L139)
 **theorem
 Tau.BookV.Orthodox.double_readout :quantization_obstruction.readout_depth = 2**
 
@@ -284,7 +284,7 @@ Quantization of a readout is a double readout.
 
 ### `Tau.BookV.Orthodox.NoSingularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L145-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L145-L164)
 **structure
 Tau.BookV.Orthodox.NoSingularity :Type**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprNoSingularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L164-L164)
 **instance
 Tau.BookV.Orthodox.instReprNoSingularity :Repr NoSingularity**
 
@@ -333,7 +333,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprNoSingularity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L164-L164)
 **def
 Tau.BookV.Orthodox.instReprNoSingularity.repr :NoSingularity → ℕ → Std.Format**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_singularity_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L166-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L166-L170)
 **def
 Tau.BookV.Orthodox.no_singularity_instance :NoSingularity**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.no_singularity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L172-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L172-L173)
 **theorem
 Tau.BookV.Orthodox.no_singularity :no_singularity_instance.all_conditions = true**
 
@@ -368,7 +368,7 @@ Tau.BookV.Orthodox.no_singularity :no_singularity_instance.all_conditions = true
 
 ### `Tau.BookV.Orthodox.sector_exhaustion_no_dark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L179-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L179-L187)
 **theorem
 Tau.BookV.Orthodox.sector_exhaustion_no_dark :"5 generators -> 5 sectors -> budget saturated -> no dark sector" = "5 generators -> 5 sectors -> budget saturated -> no dark sector"**
 
@@ -384,7 +384,7 @@ similarly exhausted by B, C, and Omega sectors.
 
 ### `Tau.BookV.Orthodox.sector_count_five`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L189-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L189-L191)
 **theorem
 Tau.BookV.Orthodox.sector_count_five :5 = 5**
 
@@ -395,7 +395,7 @@ The sector count is exactly 5 (no room for a sixth).
 
 ### `Tau.BookV.Orthodox.landscape_collapse`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L197-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L197-L206)
 **theorem
 Tau.BookV.Orthodox.landscape_collapse :"Coherence kernel -> unique ground state -> no landscape, no anthropics" = "Coherence kernel -> unique ground state -> no landscape, no anthropics"**
 
@@ -412,7 +412,7 @@ H_partial[omega] is fully determined.
 
 ### `Tau.BookV.Orthodox.NativeHolography`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L212-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L212-L232)
 **structure
 Tau.BookV.Orthodox.NativeHolography :Type**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprNativeHolography`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L232-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L232-L232)
 **instance
 Tau.BookV.Orthodox.instReprNativeHolography :Repr NativeHolography**
 
@@ -462,7 +462,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprNativeHolography.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L232-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L232-L232)
 **def
 Tau.BookV.Orthodox.instReprNativeHolography.repr :NativeHolography → ℕ → Std.Format**
 
@@ -474,7 +474,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.native_holography`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L234-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L234-L235)
 **def
 Tau.BookV.Orthodox.native_holography :NativeHolography**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.native_holography_iso`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L237-L239)
 **theorem
 Tau.BookV.Orthodox.native_holography_iso :native_holography.is_isomorphic = true**
 
@@ -499,7 +499,7 @@ Native holography is isomorphic.
 
 ### `Tau.BookV.Orthodox.native_holography_no_ads`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L241-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L241-L243)
 **theorem
 Tau.BookV.Orthodox.native_holography_no_ads :native_holography.requires_negative_lambda = false**
 
@@ -510,7 +510,7 @@ Native holography does NOT require negative Lambda.
 
 ### `Tau.BookV.Orthodox.gr_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L249-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L249-L254)
 **theorem
 Tau.BookV.Orthodox.gr_scope :"GR: one equation, lab scale to Hubble radius" = "GR: one equation, lab scale to Hubble radius"**
 
@@ -523,7 +523,7 @@ all gravitational phenomena from lab to Hubble radius.
 
 ### `Tau.BookV.Orthodox.ads_cft_echo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L256-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L256-L262)
 **theorem
 Tau.BookV.Orthodox.ads_cft_echo :"AdS/CFT = partial echo: needs Lambda < 0, SUSY, large N; tau needs none" = "AdS/CFT = partial echo: needs Lambda < 0, SUSY, large N; tau needs none"**
 
@@ -537,7 +537,7 @@ tau's holography needs none of these.
 
 ### `Tau.BookV.Orthodox.iota_tau_mathematical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L264-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L264-L268)
 **theorem
 Tau.BookV.Orthodox.iota_tau_mathematical :"iota_tau = 2/(pi + e): mathematical constant, not measured parameter" = "iota_tau = 2/(pi + e): mathematical constant, not measured parameter"**
 
@@ -549,7 +549,7 @@ It is not a measured parameter. Its value is determined by the axioms.
 
 ### `Tau.BookV.Orthodox.susy_not_found`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L270-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L270-L275)
 **theorem
 Tau.BookV.Orthodox.susy_not_found :"No SUSY: 5 sectors have no superpartner structure" = "No SUSY: 5 sectors have no superpartner structure"**
 
@@ -562,7 +562,7 @@ boson-fermion symmetry at the ontic level.
 
 ### `Tau.BookV.Orthodox.library_parable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/EmergentGeometry.lean#L277-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/EmergentGeometry.lean#L277-L283)
 **theorem
 Tau.BookV.Orthodox.library_parable :"Orthodox physics = card catalog of H_partial[omega]" = "Orthodox physics = card catalog of H_partial[omega]"**
 

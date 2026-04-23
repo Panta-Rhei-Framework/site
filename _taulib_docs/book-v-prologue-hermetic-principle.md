@@ -79,7 +79,7 @@ No coupling "leaks" between base and fiber — the partition is hermetic.
 
 ### `Tau.BookV.Prologue.FiberCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L54-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L54-L73)
 **structure
 Tau.BookV.Prologue.FiberCompleteness :Type**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprFiberCompleteness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L73-L73)
 **def
 Tau.BookV.Prologue.instReprFiberCompleteness.repr :FiberCompleteness → ℕ → Std.Format**
 
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.instReprFiberCompleteness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L73-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L73-L73)
 **instance
 Tau.BookV.Prologue.instReprFiberCompleteness :Repr FiberCompleteness**
 
@@ -137,7 +137,7 @@ Equations
 
 ### `Tau.BookV.Prologue.canonical_fiber_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L75-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L75-L81)
 **def
 Tau.BookV.Prologue.canonical_fiber_completeness :FiberCompleteness**
 
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookV.Prologue.fiber_completeness_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L83-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L83-L85)
 **theorem
 Tau.BookV.Prologue.fiber_completeness_count :canonical_fiber_completeness.fiber_sectors.length = 3**
 
@@ -162,7 +162,7 @@ Tau.BookV.Prologue.fiber_completeness_count :canonical_fiber_completeness.fiber_
 
 ### `Tau.BookV.Prologue.base_completeness_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L87-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L87-L89)
 **theorem
 Tau.BookV.Prologue.base_completeness_count :canonical_fiber_completeness.base_sectors.length = 2**
 
@@ -173,7 +173,7 @@ Base completeness: exactly 2 base sectors exist on τ¹.
 
 ### `Tau.BookV.Prologue.fiber_covers_nongrav`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L95-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L95-L112)
 **theorem
 Tau.BookV.Prologue.fiber_covers_nongrav :BookIV.Sectors.em_sector.generator = Kernel.Generator.gamma ∧ BookIV.Sectors.strong_sector.generator = Kernel.Generator.eta ∧ BookIV.Sectors.higgs_sector.generator = Kernel.Generator.omega ∧ BookIV.Sectors.em_sector.depth ≥ 2 ∧ BookIV.Sectors.strong_sector.depth ≥ 2 ∧ BookIV.Sectors.higgs_sector.depth ≥ 2**
 
@@ -197,7 +197,7 @@ The fiber carrier type assignment agrees with sector physics.
 
 ### `Tau.BookV.Prologue.temporal_complement_recap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L118-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L118-L127)
 **theorem
 Tau.BookV.Prologue.temporal_complement_recap :BookIV.Sectors.kappa_AA.numer + BookIV.Sectors.kappa_DD.numer = BookIV.Sectors.kappa_AA.denom**
 
@@ -214,7 +214,7 @@ Wraps Tau.BookIV.Arena.temporal_complement.
 
 ### `Tau.BookV.Prologue.hermetic_base_fiber`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L133-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L133-L138)
 **theorem
 Tau.BookV.Prologue.hermetic_base_fiber :canonical_fiber_completeness.fiber_sectors.length + canonical_fiber_completeness.base_sectors.length = 5**
 
@@ -226,7 +226,7 @@ This partition is exact — every sector lives on exactly one carrier.
 
 ### `Tau.BookV.Prologue.holonomy_covers_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Prologue/HermeticPrinciple.lean#L140-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Prologue/HermeticPrinciple.lean#L140-L143)
 **theorem
 Tau.BookV.Prologue.holonomy_covers_all :BookIV.Arena.holonomy_generators.length = 5**
 

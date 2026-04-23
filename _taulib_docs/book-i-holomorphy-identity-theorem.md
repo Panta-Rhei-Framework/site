@@ -66,7 +66,7 @@ primorial stages to finer ones.
 
 ### `Tau.Holomorphy.agree_at`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L46-L49)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L46-L49)
 **def
 Tau.Holomorphy.agree_at
 (f₁ f₂ : StageFun)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.Holomorphy.agree_at_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L51-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L51-L53)
 **def
 Tau.Holomorphy.agree_at_check
 (f₁ f₂ : StageFun)
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.Holomorphy.agree_up_to`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L55-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L55-L58)
 **def
 Tau.Holomorphy.agree_up_to
 (f₁ f₂ : StageFun)
@@ -122,7 +122,7 @@ Instances For
 
 ### `Tau.Holomorphy.agree_all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L60-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L60-L62)
 **def
 Tau.Holomorphy.agree_all
 (f₁ f₂ : StageFun)
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.Holomorphy.tail_agree_downward`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L68-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L68-L95)
 **theorem
 Tau.Holomorphy.tail_agree_downward
 (f₁ f₂ : StageFun)
@@ -171,7 +171,7 @@ If f₁(n, d₀) = f₂(n, d₀), then reducing both sides gives f₁(n, k) = f�
 
 ### `Tau.Holomorphy.tail_agree_propagation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L97-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L97-L105)
 **theorem
 Tau.Holomorphy.tail_agree_propagation
 (f₁ f₂ : StageFun)
@@ -196,7 +196,7 @@ then they agree at all stages k ≤ d₀ for all inputs.
 
 ### `Tau.Holomorphy.tau_identity_reduce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L111-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L111-L125)
 **theorem
 Tau.Holomorphy.tau_identity_reduce
 (f₁ f₂ : StageFun)
@@ -225,7 +225,7 @@ Tower coherence + reduce form = complete determination.
 
 ### `Tau.Holomorphy.tau_identity_nat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L127-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L127-L138)
 **theorem
 Tau.Holomorphy.tau_identity_nat
 (f₁ f₂ : StageFun)
@@ -254,7 +254,7 @@ primorial stage forces global agreement.
 
 ### `Tau.Holomorphy.tau_identity_finite_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L140-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L140-L183)
 **theorem
 Tau.Holomorphy.tau_identity_finite_witness
 (f₁ f₂ : StageFun)
@@ -291,7 +291,7 @@ the function at all coarser stages.
 
 ### `Tau.Holomorphy.HolL`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L189-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L189-L194)
 **structure
 Tau.Holomorphy.HolL :Type**
 
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.Holomorphy.hol_L_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L198-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L198-L206)
 **theorem
 Tau.Holomorphy.hol_L_identity
 (h₁ h₂ : HolL)
@@ -329,7 +329,7 @@ agree at all stages ≤ d₀ (Identity Theorem for Hol(L)).
 
 ### `Tau.Holomorphy.chi_plus_self_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L216-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L216-L219)
 **theorem
 Tau.Holomorphy.chi_plus_self_agree
 (n k : Denotation.TauIdx)
@@ -342,7 +342,7 @@ Verification: χ₊ agrees with itself at all stages.
 
 ### `Tau.Holomorphy.id_eq_chi_sum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L221-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L221-L226)
 **theorem
 Tau.Holomorphy.id_eq_chi_sum
 (n k : Denotation.TauIdx)
@@ -357,7 +357,7 @@ chi_plus + chi_minus gives (reduce n k, 0) + (0, reduce n k) = (reduce n k, redu
 
 ### `Tau.Holomorphy.id_eq_chi_sum_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L228-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Holomorphy/IdentityTheorem.lean#L228-L230)
 **theorem
 Tau.Holomorphy.id_eq_chi_sum_c
 (n k : Denotation.TauIdx)

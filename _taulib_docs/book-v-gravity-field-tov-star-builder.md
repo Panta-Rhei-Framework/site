@@ -111,7 +111,7 @@ is the critical mass above which degeneracy pressure cannot support the star.
 
 ### `Tau.BookV.GravityField.SphericalCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L67-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L67-L80)
 **structure
 Tau.BookV.GravityField.SphericalCarrier :Type**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprSphericalCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L80-L80)
 **instance
 Tau.BookV.GravityField.instReprSphericalCarrier :Repr SphericalCarrier**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprSphericalCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L80-L80)
 **def
 Tau.BookV.GravityField.instReprSphericalCarrier.repr :SphericalCarrier → ℕ → Std.Format**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.SphericalCarrier.radiusFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L82-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L82-L84)
 **def
 Tau.BookV.GravityField.SphericalCarrier.radiusFloat
 (c : SphericalCarrier)
@@ -179,7 +179,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.EquilibriumCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L90-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L90-L99)
 **structure
 Tau.BookV.GravityField.EquilibriumCarrier :Type**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprEquilibriumCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L99-L99)
 **instance
 Tau.BookV.GravityField.instReprEquilibriumCarrier :Repr EquilibriumCarrier**
 
@@ -213,7 +213,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprEquilibriumCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L99-L99)
 **def
 Tau.BookV.GravityField.instReprEquilibriumCarrier.repr :EquilibriumCarrier → ℕ → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GRTensionFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L105-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L105-L121)
 **structure
 Tau.BookV.GravityField.GRTensionFunctional :Type**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGRTensionFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L121-L121)
 **instance
 Tau.BookV.GravityField.instReprGRTensionFunctional :Repr GRTensionFunctional**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprGRTensionFunctional.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L121-L121)
 **def
 Tau.BookV.GravityField.instReprGRTensionFunctional.repr :GRTensionFunctional → ℕ → Std.Format**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GRTensionFunctional.tensionFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L123-L125)
 **def
 Tau.BookV.GravityField.GRTensionFunctional.tensionFloat
 (t : GRTensionFunctional)
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TensionProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L131-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L131-L144)
 **structure
 Tau.BookV.GravityField.TensionProfile :Type**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTensionProfile`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L144-L144)
 **instance
 Tau.BookV.GravityField.instReprTensionProfile :Repr TensionProfile**
 
@@ -335,7 +335,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprTensionProfile.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L144-L144)
 **def
 Tau.BookV.GravityField.instReprTensionProfile.repr :TensionProfile → ℕ → Std.Format**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.StarBuilder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L150-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L150-L185)
 **structure
 Tau.BookV.GravityField.StarBuilder :Type**
 
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprStarBuilder.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L185-L185)
 **def
 Tau.BookV.GravityField.instReprStarBuilder.repr :StarBuilder → ℕ → Std.Format**
 
@@ -424,7 +424,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprStarBuilder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L185-L185)
 **instance
 Tau.BookV.GravityField.instReprStarBuilder :Repr StarBuilder**
 
@@ -435,7 +435,7 @@ Equations
 
 ### `Tau.BookV.GravityField.NeutronNode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L191-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L191-L200)
 **structure
 Tau.BookV.GravityField.NeutronNode :Type**
 
@@ -458,7 +458,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNeutronNode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L200-L200)
 **instance
 Tau.BookV.GravityField.instReprNeutronNode :Repr NeutronNode**
 
@@ -469,7 +469,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprNeutronNode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L200-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L200-L200)
 **def
 Tau.BookV.GravityField.instReprNeutronNode.repr :NeutronNode → ℕ → Std.Format**
 
@@ -481,7 +481,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.NodeDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L206-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L206-L214)
 **structure
 Tau.BookV.GravityField.NodeDensity :Type**
 
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprNodeDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L214-L214)
 **instance
 Tau.BookV.GravityField.instReprNodeDensity :Repr NodeDensity**
 
@@ -514,7 +514,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprNodeDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L214-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L214-L214)
 **def
 Tau.BookV.GravityField.instReprNodeDensity.repr :NodeDensity → ℕ → Std.Format**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.NodeDensity.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L216-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L216-L218)
 **def
 Tau.BookV.GravityField.NodeDensity.toFloat
 (d : NodeDensity)
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.EWStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L224-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L224-L241)
 **structure
 Tau.BookV.GravityField.EWStability :Type**
 
@@ -575,7 +575,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprEWStability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L241-L241)
 **def
 Tau.BookV.GravityField.instReprEWStability.repr :EWStability → ℕ → Std.Format**
 
@@ -587,7 +587,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprEWStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L241-L241)
 **instance
 Tau.BookV.GravityField.instReprEWStability :Repr EWStability**
 
@@ -598,7 +598,7 @@ Equations
 
 ### `Tau.BookV.GravityField.ChandrasekharThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L247-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L247-L265)
 **structure
 Tau.BookV.GravityField.ChandrasekharThreshold :Type**
 
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprChandrasekharThreshold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L265-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L265-L265)
 **instance
 Tau.BookV.GravityField.instReprChandrasekharThreshold :Repr ChandrasekharThreshold**
 
@@ -643,7 +643,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprChandrasekharThreshold.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L265-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L265-L265)
 **def
 Tau.BookV.GravityField.instReprChandrasekharThreshold.repr :ChandrasekharThreshold → ℕ → Std.Format**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.ChandrasekharThreshold.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L267-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L267-L269)
 **def
 Tau.BookV.GravityField.ChandrasekharThreshold.toFloat
 (c : ChandrasekharThreshold)
@@ -671,7 +671,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.chandrasekhar_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L271-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L271-L276)
 **def
 Tau.BookV.GravityField.chandrasekhar_canonical :ChandrasekharThreshold**
 
@@ -685,7 +685,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.star_builder_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L282-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L282-L284)
 **theorem
 Tau.BookV.GravityField.star_builder_coherent
 (sb : StarBuilder)
@@ -700,7 +700,7 @@ Tau.BookV.GravityField.star_builder_coherent
 
 ### `Tau.BookV.GravityField.interior_ew_stable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L286-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L286-L288)
 **theorem
 Tau.BookV.GravityField.interior_ew_stable
 (ew : EWStability)
@@ -713,7 +713,7 @@ Tau.BookV.GravityField.interior_ew_stable
 
 ### `Tau.BookV.GravityField.chandrasekhar_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L290-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L290-L292)
 **theorem
 Tau.BookV.GravityField.chandrasekhar_positive
 (c : ChandrasekharThreshold)
@@ -726,7 +726,7 @@ Tau.BookV.GravityField.chandrasekhar_positive
 
 ### `Tau.BookV.GravityField.chandrasekhar_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L294-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L294-L298)
 **theorem
 Tau.BookV.GravityField.chandrasekhar_in_range :13 * chandrasekhar_canonical.mass_denom < 10 * chandrasekhar_canonical.mass_numer ∧ 10 * chandrasekhar_canonical.mass_numer < 15 * chandrasekhar_canonical.mass_denom**
 
@@ -737,7 +737,7 @@ Chandrasekhar canonical is in range (1.3, 1.5) solar masses.
 
 ### `Tau.BookV.GravityField.tension_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L300-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L300-L303)
 **theorem
 Tau.BookV.GravityField.tension_bounded
 (t : GRTensionFunctional)
@@ -753,7 +753,7 @@ has a finite value (no divergence).
 
 ### `Tau.BookV.GravityField.tov_balance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L305-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L305-L308)
 **theorem
 Tau.BookV.GravityField.tov_balance :"dP/dr = -(rho + P)(M + 4piPr^3) / (r(r - 2GM))" = "dP/dr = -(rho + P)(M + 4piPr^3) / (r(r - 2GM))"**
 
@@ -764,7 +764,7 @@ Tau.BookV.GravityField.tov_balance :"dP/dr = -(rho + P)(M + 4piPr^3) / (r(r - 2G
 
 ### `Tau.BookV.GravityField.truncation_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L310-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L310-L313)
 **theorem
 Tau.BookV.GravityField.truncation_coherent
 (tp : TensionProfile)
@@ -780,7 +780,7 @@ surface (P = 0) gives a consistent interior.
 
 ### `Tau.BookV.GravityField.example_node`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L336-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L336-L340)
 **def
 Tau.BookV.GravityField.example_node :NeutronNode**
 
@@ -794,7 +794,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TOVStarBuilder.lean#L346-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TOVStarBuilder.lean#L346-L350)
 **def
 Tau.BookV.GravityField.example_density :NodeDensity**
 

@@ -68,7 +68,7 @@ to a valid theorem about modular arithmetic in ℤ.
 
 ### `Tau.BookIII.Bridge.arith_translate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L53-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L53-L55)
 **def
 Tau.BookIII.Bridge.arith_translate
 (x k : ℕ)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_translation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L57-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L57-L76)
 **def
 Tau.BookIII.Bridge.arith_translation_check
 (bound db : ℕ)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_translation_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L62-L75)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L62-L75)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.arith_translation_check.go
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_residue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L82-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L82-L85)
 **def
 Tau.BookIII.Bridge.crt_residue
 (x i : ℕ)
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_residues_match`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L87-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L87-L98)
 **def
 Tau.BookIII.Bridge.crt_residues_match
 (x y k : ℕ)
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_residues_match.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L92-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L92-L97)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.crt_residues_match.go
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_reconstruct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L100-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L100-L112)
 **def
 Tau.BookIII.Bridge.crt_reconstruct
 (x k : ℕ)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_reconstruct.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L108-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L108-L111)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.crt_reconstruct.go
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_integer_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L114-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L114-L130)
 **def
 Tau.BookIII.Bridge.crt_integer_check
 (bound db : ℕ)
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.crt_integer_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L119-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L119-L129)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.crt_integer_check.go
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_add_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L136-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L136-L156)
 **def
 Tau.BookIII.Bridge.arith_add_check
 (bound db : ℕ)
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_add_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L140-L155)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L140-L155)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.arith_add_check.go
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_mul_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L158-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L158-L178)
 **def
 Tau.BookIII.Bridge.arith_mul_check
 (bound db : ℕ)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_mul_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L162-L177)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L162-L177)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.arith_mul_check.go
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_faithful_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L180-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L180-L184)
 **def
 Tau.BookIII.Bridge.arith_faithful_check
 (bound db : ℕ)
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_gcd_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L190-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L190-L210)
 **def
 Tau.BookIII.Bridge.arith_gcd_check
 (bound db : ℕ)
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_gcd_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L194-L209)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L194-L209)@[irreducible]
 
 **def
 Tau.BookIII.Bridge.arith_gcd_check.go
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_preserves_ops_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L212-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L212-L214)
 **def
 Tau.BookIII.Bridge.arith_preserves_ops_check
 (bound db : ℕ)
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookIII.Bridge.arith_translation_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L220-L222)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L220-L222)
 **theorem
 Tau.BookIII.Bridge.arith_translation_10_3 :arith_translation_check 10 3 = true**
 
@@ -366,7 +366,7 @@ Tau.BookIII.Bridge.arith_translation_10_3 :arith_translation_check 10 3 = true**
 
 ### `Tau.BookIII.Bridge.crt_integer_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L224-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L224-L226)
 **theorem
 Tau.BookIII.Bridge.crt_integer_8_3 :crt_integer_check 8 3 = true**
 
@@ -377,7 +377,7 @@ Tau.BookIII.Bridge.crt_integer_8_3 :crt_integer_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.arith_faithful_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L228-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L228-L230)
 **theorem
 Tau.BookIII.Bridge.arith_faithful_8_3 :arith_faithful_check 8 3 = true**
 
@@ -388,7 +388,7 @@ Tau.BookIII.Bridge.arith_faithful_8_3 :arith_faithful_check 8 3 = true**
 
 ### `Tau.BookIII.Bridge.arith_preserves_6_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Bridge/TranslationArith.lean#L232-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Bridge/TranslationArith.lean#L232-L234)
 **theorem
 Tau.BookIII.Bridge.arith_preserves_6_3 :arith_preserves_ops_check 6 3 = true**
 

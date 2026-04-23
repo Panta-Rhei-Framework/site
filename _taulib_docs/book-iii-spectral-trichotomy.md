@@ -56,7 +56,7 @@ subrings exists. Growth-rate asymmetry creates inescapable coherence obstruction
 
 ### `Tau.BookIII.Spectral.trichotomy_decompose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L38-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L38-L55)
 **def
 Tau.BookIII.Spectral.trichotomy_decompose
 (residues : List Denotation.TauIdx)
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_decompose.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L45-L55)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L45-L55)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_decompose.go
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L57-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L57-L90)
 **def
 Tau.BookIII.Spectral.trichotomy_check
 (bound db : Denotation.TauIdx)
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L62-L73)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L62-L73)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_check.go
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_check.check_exact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L75-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L75-L83)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_check.check_exact
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_check.check_ortho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L84-L90)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L84-L90)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_check.check_ortho
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_functorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L92-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L92-L115)
 **def
 Tau.BookIII.Spectral.trichotomy_functorial_check
 (bound db : Denotation.TauIdx)
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_functorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L97-L110)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L97-L110)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_functorial_check.go
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_functorial_check.check_prefix`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L112-L115)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L112-L115)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.trichotomy_functorial_check.check_prefix
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.BoundaryNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L121-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L121-L129)
 **structure
 Tau.BookIII.Spectral.BoundaryNF :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprBoundaryNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **instance
 Tau.BookIII.Spectral.instReprBoundaryNF :Repr BoundaryNF**
 
@@ -244,7 +244,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instReprBoundaryNF.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **def
 Tau.BookIII.Spectral.instReprBoundaryNF.repr :BoundaryNF → ℕ → Std.Format**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instDecidableEqBoundaryNF.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **def
 Tau.BookIII.Spectral.instDecidableEqBoundaryNF.decEq
 (x✝ x✝¹ : BoundaryNF)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instDecidableEqBoundaryNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **instance
 Tau.BookIII.Spectral.instDecidableEqBoundaryNF :DecidableEq BoundaryNF**
 
@@ -281,7 +281,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instBEqBoundaryNF.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **def
 Tau.BookIII.Spectral.instBEqBoundaryNF.beq :BoundaryNF → BoundaryNF → Bool**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqBoundaryNF`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L129-L129)
 **instance
 Tau.BookIII.Spectral.instBEqBoundaryNF :BEq BoundaryNF**
 
@@ -305,7 +305,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.boundary_normal_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L131-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L131-L138)
 **def
 Tau.BookIII.Spectral.boundary_normal_form
 (x k : Denotation.TauIdx)
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bnf_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L140-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L140-L158)
 **def
 Tau.BookIII.Spectral.bnf_check
 (bound db : Denotation.TauIdx)
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bnf_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L145-L157)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L145-L157)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.bnf_check.go
@@ -355,7 +355,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bnf_uniqueness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L160-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L160-L183)
 **def
 Tau.BookIII.Spectral.bnf_uniqueness_check
 (bound db : Denotation.TauIdx)
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bnf_uniqueness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L164-L182)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L164-L182)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.bnf_uniqueness_check.go
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.compute_label_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L189-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L189-L201)
 **def
 Tau.BookIII.Spectral.compute_label_product
 (label : PrimeLabel)
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.compute_label_product.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L193-L200)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L193-L200)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.compute_label_product.go
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bc_non_collapse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L203-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L203-L223)
 **def
 Tau.BookIII.Spectral.bc_non_collapse_check
 (_bound db : Denotation.TauIdx)
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bc_non_collapse_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L211-L222)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L211-L222)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.bc_non_collapse_check.go
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bc_coprime_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L225-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L225-L240)
 **def
 Tau.BookIII.Spectral.bc_coprime_check
 (db : Denotation.TauIdx)
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bc_coprime_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L230-L239)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L230-L239)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.bc_coprime_check.go
@@ -496,7 +496,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.trichotomy_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L271-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L271-L272)
 **theorem
 Tau.BookIII.Spectral.trichotomy_15_4 :trichotomy_check 15 4 = true**
 
@@ -505,7 +505,7 @@ Tau.BookIII.Spectral.trichotomy_15_4 :trichotomy_check 15 4 = true**
 
 ### `Tau.BookIII.Spectral.trichotomy_func_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L275-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L275-L276)
 **theorem
 Tau.BookIII.Spectral.trichotomy_func_15_3 :trichotomy_functorial_check 15 3 = true**
 
@@ -514,7 +514,7 @@ Tau.BookIII.Spectral.trichotomy_func_15_3 :trichotomy_functorial_check 15 3 = tr
 
 ### `Tau.BookIII.Spectral.bnf_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L279-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L279-L280)
 **theorem
 Tau.BookIII.Spectral.bnf_15_4 :bnf_check 15 4 = true**
 
@@ -523,7 +523,7 @@ Tau.BookIII.Spectral.bnf_15_4 :bnf_check 15 4 = true**
 
 ### `Tau.BookIII.Spectral.bnf_unique_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L283-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L283-L284)
 **theorem
 Tau.BookIII.Spectral.bnf_unique_10_3 :bnf_uniqueness_check 10 3 = true**
 
@@ -532,7 +532,7 @@ Tau.BookIII.Spectral.bnf_unique_10_3 :bnf_uniqueness_check 10 3 = true**
 
 ### `Tau.BookIII.Spectral.bc_non_collapse_10_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L287-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L287-L288)
 **theorem
 Tau.BookIII.Spectral.bc_non_collapse_10_5 :bc_non_collapse_check 10 5 = true**
 
@@ -541,7 +541,7 @@ Tau.BookIII.Spectral.bc_non_collapse_10_5 :bc_non_collapse_check 10 5 = true**
 
 ### `Tau.BookIII.Spectral.bc_coprime_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L291-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L291-L292)
 **theorem
 Tau.BookIII.Spectral.bc_coprime_5 :bc_coprime_check 5 = true**
 
@@ -550,7 +550,7 @@ Tau.BookIII.Spectral.bc_coprime_5 :bc_coprime_check 5 = true**
 
 ### `Tau.BookIII.Spectral.trichotomy_depth_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L298-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L298-L301)
 **theorem
 Tau.BookIII.Spectral.trichotomy_depth_1 :(trichotomy_decompose [1] 1).1 = [0]**
 
@@ -562,7 +562,7 @@ Tau.BookIII.Spectral.trichotomy_depth_1 :(trichotomy_decompose [1] 1).1 = [0]**
 
 ### `Tau.BookIII.Spectral.bnf_zero_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L303-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L303-L307)
 **theorem
 Tau.BookIII.Spectral.bnf_zero_3 :(boundary_normal_form 0 3).b_part = 0 ∧ (boundary_normal_form 0 3).c_part = 0 ∧ (boundary_normal_form 0 3).x_part = 0**
 
@@ -573,7 +573,7 @@ Tau.BookIII.Spectral.bnf_zero_3 :(boundary_normal_form 0 3).b_part = 0 ∧ (boun
 
 ### `Tau.BookIII.Spectral.bc_coprime_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L309-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L309-L313)
 **theorem
 Tau.BookIII.Spectral.bc_coprime_at_3 :Nat.gcd (compute_label_product PrimeLabel.B 3) (compute_label_product PrimeLabel.C 3) = 1**
 
@@ -585,7 +585,7 @@ coprime (they share no prime factors).
 
 ### `Tau.BookIII.Spectral.bc_distinct_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/Trichotomy.lean#L315-L317)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/Trichotomy.lean#L315-L317)
 **theorem
 Tau.BookIII.Spectral.bc_distinct_3 :compute_label_product PrimeLabel.B 3 ≠ compute_label_product PrimeLabel.C 3**
 

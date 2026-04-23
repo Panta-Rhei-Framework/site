@@ -61,7 +61,7 @@ all classical tautologies when evaluated at B or N.
 
 ### `Tau.Logic.Truth4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L36-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L36-L46)
 **inductive
 Tau.Logic.Truth4 :Type**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.Logic.instDecidableEqTruth4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L46-L46)
 **instance
 Tau.Logic.instDecidableEqTruth4 :DecidableEq Truth4**
 
@@ -99,7 +99,7 @@ Equations
 
 ### `Tau.Logic.instReprTruth4.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L46-L46)
 **def
 Tau.Logic.instReprTruth4.repr :Truth4 → ℕ → Std.Format**
 
@@ -114,7 +114,7 @@ Instances For
 
 ### `Tau.Logic.instReprTruth4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L46-L46)
 **instance
 Tau.Logic.instReprTruth4 :Repr Truth4**
 
@@ -125,7 +125,7 @@ Equations
 
 ### `Tau.Logic.instInhabitedTruth4.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L46-L46)
 **def
 Tau.Logic.instInhabitedTruth4.default :Truth4**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.Logic.instInhabitedTruth4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L46-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L46-L46)
 **instance
 Tau.Logic.instInhabitedTruth4 :Inhabited Truth4**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.Logic.Truth4.le`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L54-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L54-L61)
 **def
 Tau.Logic.Truth4.le :Truth4 → Truth4 → Bool**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L67-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L67-L76)
 **def
 Tau.Logic.Truth4.meet :Truth4 → Truth4 → Truth4**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L82-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L82-L91)
 **def
 Tau.Logic.Truth4.join :Truth4 → Truth4 → Truth4**
 
@@ -209,7 +209,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.neg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L97-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L97-L103)
 **def
 Tau.Logic.Truth4.neg :Truth4 → Truth4**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.impl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L109-L111)
 **def
 Tau.Logic.Truth4.impl
 (a b : Truth4)
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.toBoolPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L117-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L117-L122)
 **def
 Tau.Logic.Truth4.toBoolPair :Truth4 → Bool × Bool**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.fromBoolPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L124-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L124-L129)
 **def
 Tau.Logic.Truth4.fromBoolPair :Bool × Bool → Truth4**
 
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.meet_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L135-L137)
 **theorem
 Tau.Logic.Truth4.meet_comm
 (a b : Truth4)
@@ -291,7 +291,7 @@ Meet is commutative.
 
 ### `Tau.Logic.Truth4.join_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L139-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L139-L141)
 **theorem
 Tau.Logic.Truth4.join_comm
 (a b : Truth4)
@@ -304,7 +304,7 @@ Join is commutative.
 
 ### `Tau.Logic.Truth4.meet_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L143-L146)
 **theorem
 Tau.Logic.Truth4.meet_assoc
 (a b c : Truth4)
@@ -317,7 +317,7 @@ Meet is associative.
 
 ### `Tau.Logic.Truth4.join_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L148-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L148-L151)
 **theorem
 Tau.Logic.Truth4.join_assoc
 (a b c : Truth4)
@@ -330,7 +330,7 @@ Join is associative.
 
 ### `Tau.Logic.Truth4.meet_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L153-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L153-L155)
 **theorem
 Tau.Logic.Truth4.meet_idem
 (a : Truth4)
@@ -343,7 +343,7 @@ Meet is idempotent.
 
 ### `Tau.Logic.Truth4.join_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L157-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L157-L159)
 **theorem
 Tau.Logic.Truth4.join_idem
 (a : Truth4)
@@ -356,7 +356,7 @@ Join is idempotent.
 
 ### `Tau.Logic.Truth4.absorption_meet_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L161-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L161-L164)
 **theorem
 Tau.Logic.Truth4.absorption_meet_join
 (a b : Truth4)
@@ -369,7 +369,7 @@ Absorption law: meet a (join a b) = a.
 
 ### `Tau.Logic.Truth4.absorption_join_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L166-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L166-L169)
 **theorem
 Tau.Logic.Truth4.absorption_join_meet
 (a b : Truth4)
@@ -382,7 +382,7 @@ Absorption law: join a (meet a b) = a.
 
 ### `Tau.Logic.Truth4.meet_distrib_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L171-L174)
 **theorem
 Tau.Logic.Truth4.meet_distrib_join
 (a b c : Truth4)
@@ -395,7 +395,7 @@ Meet distributes over join.
 
 ### `Tau.Logic.Truth4.join_distrib_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L176-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L176-L179)
 **theorem
 Tau.Logic.Truth4.join_distrib_meet
 (a b c : Truth4)
@@ -408,7 +408,7 @@ Join distributes over meet.
 
 ### `Tau.Logic.Truth4.meet_F`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L181-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L181-L183)
 **theorem
 Tau.Logic.Truth4.meet_F
 (a : Truth4)
@@ -421,7 +421,7 @@ F is the bottom element for meet.
 
 ### `Tau.Logic.Truth4.join_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L185-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L185-L187)
 **theorem
 Tau.Logic.Truth4.join_T
 (a : Truth4)
@@ -434,7 +434,7 @@ T is the top element for join.
 
 ### `Tau.Logic.Truth4.meet_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L189-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L189-L191)
 **theorem
 Tau.Logic.Truth4.meet_T
 (a : Truth4)
@@ -447,7 +447,7 @@ T is the identity for meet.
 
 ### `Tau.Logic.Truth4.join_F`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L193-L195)
 **theorem
 Tau.Logic.Truth4.join_F
 (a : Truth4)
@@ -460,7 +460,7 @@ F is the identity for join.
 
 ### `Tau.Logic.Truth4.neg_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L201-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L201-L203)
 **theorem
 Tau.Logic.Truth4.neg_involutive
 (v : Truth4)
@@ -473,7 +473,7 @@ Negation is involutive: neg (neg v) = v.
 
 ### `Tau.Logic.Truth4.neg_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L205-L206)
 **theorem
 Tau.Logic.Truth4.neg_T :T.neg = F**
 
@@ -484,7 +484,7 @@ neg T = F.
 
 ### `Tau.Logic.Truth4.neg_F`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L208-L209)
 **theorem
 Tau.Logic.Truth4.neg_F :F.neg = T**
 
@@ -495,7 +495,7 @@ neg F = T.
 
 ### `Tau.Logic.Truth4.neg_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L211-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L211-L212)
 **theorem
 Tau.Logic.Truth4.neg_B :B.neg = N**
 
@@ -506,7 +506,7 @@ neg B = N.
 
 ### `Tau.Logic.Truth4.neg_N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L214-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L214-L215)
 **theorem
 Tau.Logic.Truth4.neg_N :N.neg = B**
 
@@ -517,7 +517,7 @@ neg N = B.
 
 ### `Tau.Logic.Truth4.complement_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L221-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L221-L223)
 **theorem
 Tau.Logic.Truth4.complement_meet
 (a : Truth4)
@@ -530,7 +530,7 @@ Complement law: meet a (neg a) = F for all a.
 
 ### `Tau.Logic.Truth4.complement_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L225-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L225-L227)
 **theorem
 Tau.Logic.Truth4.complement_join
 (a : Truth4)
@@ -543,7 +543,7 @@ Complement law: join a (neg a) = T for all a.
 
 ### `Tau.Logic.Truth4.de_morgan_meet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L233-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L233-L236)
 **theorem
 Tau.Logic.Truth4.de_morgan_meet
 (a b : Truth4)
@@ -556,7 +556,7 @@ De Morgan: neg (meet a b) = join (neg a) (neg b).
 
 ### `Tau.Logic.Truth4.de_morgan_join`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L238-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L238-L241)
 **theorem
 Tau.Logic.Truth4.de_morgan_join
 (a b : Truth4)
@@ -569,7 +569,7 @@ De Morgan: neg (join a b) = meet (neg a) (neg b).
 
 ### `Tau.Logic.Truth4.toBoolPair_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L247-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L247-L250)
 **theorem
 Tau.Logic.Truth4.toBoolPair_injective
 (a b : Truth4)
@@ -584,7 +584,7 @@ toBoolPair is injective: distinct truth values map to distinct pairs.
 
 ### `Tau.Logic.Truth4.fromBoolPair_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L252-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L252-L255)
 **theorem
 Tau.Logic.Truth4.fromBoolPair_roundtrip
 (v : Truth4)
@@ -597,7 +597,7 @@ Round-trip: fromBoolPair (toBoolPair v) = v.
 
 ### `Tau.Logic.Truth4.toBoolPair_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L257-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L257-L261)
 **theorem
 Tau.Logic.Truth4.toBoolPair_roundtrip
 (p : Bool × Bool)
@@ -610,7 +610,7 @@ Round-trip: toBoolPair (fromBoolPair p) = p for valid pairs.
 
 ### `Tau.Logic.Truth4.toSectorPair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L267-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L267-L273)
 **def
 Tau.Logic.Truth4.toSectorPair :Truth4 → Polarity.SectorPair**
 
@@ -628,7 +628,7 @@ Instances For
 
 ### `Tau.Logic.Truth4.B_is_e_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L275-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L275-L277)
 **theorem
 Tau.Logic.Truth4.B_is_e_plus :B.toSectorPair = Polarity.e_plus_sector**
 
@@ -639,7 +639,7 @@ B maps to the B-sector idempotent e+.
 
 ### `Tau.Logic.Truth4.N_is_e_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L279-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L279-L281)
 **theorem
 Tau.Logic.Truth4.N_is_e_minus :N.toSectorPair = Polarity.e_minus_sector**
 
@@ -650,7 +650,7 @@ N maps to the C-sector idempotent e-.
 
 ### `Tau.Logic.Truth4.B_meet_N_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L283-L285)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L283-L285)
 **theorem
 Tau.Logic.Truth4.B_meet_N_spectral :B.meet N = F**
 
@@ -661,7 +661,7 @@ Spectral bridge: meet of B and N gives F, mirroring e+ * e- = 0.
 
 ### `Tau.Logic.Truth4.le_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L291-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L291-L293)
 **theorem
 Tau.Logic.Truth4.le_refl
 (a : Truth4)
@@ -674,7 +674,7 @@ le is reflexive.
 
 ### `Tau.Logic.Truth4.le_F`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L295-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L295-L297)
 **theorem
 Tau.Logic.Truth4.le_F
 (a : Truth4)
@@ -687,7 +687,7 @@ F is the bottom element.
 
 ### `Tau.Logic.Truth4.le_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L299-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L299-L301)
 **theorem
 Tau.Logic.Truth4.le_T
 (a : Truth4)
@@ -700,7 +700,7 @@ T is the top element.
 
 ### `Tau.Logic.Truth4.B_not_le_N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L303-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L303-L304)
 **theorem
 Tau.Logic.Truth4.B_not_le_N :B.le N = false**
 
@@ -711,7 +711,7 @@ B and N are incomparable (B not le N).
 
 ### `Tau.Logic.Truth4.N_not_le_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Truth4.lean#L306-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Truth4.lean#L306-L307)
 **theorem
 Tau.Logic.Truth4.N_not_le_B :N.le B = false**
 

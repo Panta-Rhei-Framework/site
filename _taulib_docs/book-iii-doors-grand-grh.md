@@ -57,7 +57,7 @@ determinants of the universal operator at finite cutoff.
 
 ### `Tau.BookIII.Doors.grand_grh_finite_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L40-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L40-L62)
 **def
 Tau.BookIII.Doors.grand_grh_finite_check
 (db : Denotation.TauIdx)
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.grand_grh_finite_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L46-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L46-L61)@[irreducible]
 
 **def
 Tau.BookIII.Doors.grand_grh_finite_check.go
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.grand_grh_adelic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L64-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L64-L68)
 **axiom
 Tau.BookIII.Doors.grand_grh_adelic
 (k : ℕ)
@@ -107,7 +107,7 @@ All finite checks pass; the axiom asserts the infinite/adelic limit.
 
 ### `Tau.BookIII.Doors.prime_polarity_scaling_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L74-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L74-L100)
 **def
 Tau.BookIII.Doors.prime_polarity_scaling_check
 (db : Denotation.TauIdx)
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.prime_polarity_scaling_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L80-L99)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L80-L99)@[irreducible]
 
 **def
 Tau.BookIII.Doors.prime_polarity_scaling_check.go
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.sector_growth_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L102-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L102-L117)
 **def
 Tau.BookIII.Doors.sector_growth_check
 (db : Denotation.TauIdx)
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.sector_growth_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L107-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L107-L116)@[irreducible]
 
 **def
 Tau.BookIII.Doors.sector_growth_check.go
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.l_function_spectral_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L123-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L123-L146)
 **def
 Tau.BookIII.Doors.l_function_spectral_check
 (db : Denotation.TauIdx)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.l_function_spectral_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L130-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L130-L145)@[irreducible]
 
 **def
 Tau.BookIII.Doors.l_function_spectral_check.go
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.grand_grh_finite_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L161-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L161-L162)
 **theorem
 Tau.BookIII.Doors.grand_grh_finite_5 :grand_grh_finite_check 5 = true**
 
@@ -221,7 +221,7 @@ Tau.BookIII.Doors.grand_grh_finite_5 :grand_grh_finite_check 5 = true**
 
 ### `Tau.BookIII.Doors.prime_polarity_scaling_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L164-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L164-L165)
 **theorem
 Tau.BookIII.Doors.prime_polarity_scaling_5 :prime_polarity_scaling_check 5 = true**
 
@@ -230,7 +230,7 @@ Tau.BookIII.Doors.prime_polarity_scaling_5 :prime_polarity_scaling_check 5 = tru
 
 ### `Tau.BookIII.Doors.sector_growth_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L167-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L167-L168)
 **theorem
 Tau.BookIII.Doors.sector_growth_5 :sector_growth_check 5 = true**
 
@@ -239,7 +239,7 @@ Tau.BookIII.Doors.sector_growth_5 :sector_growth_check 5 = true**
 
 ### `Tau.BookIII.Doors.l_function_spectral_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L170-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L170-L171)
 **theorem
 Tau.BookIII.Doors.l_function_spectral_5 :l_function_spectral_check 5 = true**
 
@@ -248,7 +248,7 @@ Tau.BookIII.Doors.l_function_spectral_5 :l_function_spectral_check 5 = true**
 
 ### `Tau.BookIII.Doors.grand_grh_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L177-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L177-L179)
 **theorem
 Tau.BookIII.Doors.grand_grh_3 :grand_grh_finite_check 3 = true**
 
@@ -259,7 +259,7 @@ Tau.BookIII.Doors.grand_grh_3 :grand_grh_finite_check 3 = true**
 
 ### `Tau.BookIII.Doors.label_5_is_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L181-L182)
 **theorem
 Tau.BookIII.Doors.label_5_is_B :Spectral.label_direct 5 = Spectral.PrimeLabel.B**
 
@@ -270,7 +270,7 @@ Tau.BookIII.Doors.label_5_is_B :Spectral.label_direct 5 = Spectral.PrimeLabel.B*
 
 ### `Tau.BookIII.Doors.label_3_is_C`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L183-L184)
 **theorem
 Tau.BookIII.Doors.label_3_is_C :Spectral.label_direct 3 = Spectral.PrimeLabel.C**
 
@@ -281,7 +281,7 @@ Tau.BookIII.Doors.label_3_is_C :Spectral.label_direct 3 = Spectral.PrimeLabel.C*
 
 ### `Tau.BookIII.Doors.l_function_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L186-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L186-L189)
 **theorem
 Tau.BookIII.Doors.l_function_3 :split_zeta_b 3 * split_zeta_c 3 * split_zeta_x 3 = Polarity.primorial 3**
 
@@ -292,7 +292,7 @@ Tau.BookIII.Doors.l_function_3 :split_zeta_b 3 * split_zeta_c 3 * split_zeta_x 3
 
 ### `Tau.BookIII.Doors.grand_grh_from_axiom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/GrandGRH.lean#L191-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/GrandGRH.lean#L191-L194)
 **theorem
 Tau.BookIII.Doors.grand_grh_from_axiom
 (k : ℕ)

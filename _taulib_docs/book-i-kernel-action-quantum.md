@@ -86,7 +86,7 @@ All identities are proved using Nat cross-multiplication (no ℚ required).
 
 ### `Tau.Kernel.Generator.all`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L54-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L54-L55)
 **def
 Tau.Kernel.Generator.all :List Generator**
 
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.Kernel.generator_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L57-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L57-L58)
 **theorem
 Tau.Kernel.generator_count :Generator.all.length = 5**
 
@@ -111,7 +111,7 @@ Generator.all has exactly 5 elements.
 
 ### `Tau.Kernel.independent_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L60-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L60-L62)
 **theorem
 Tau.Kernel.independent_generators :5 - 1 = 4**
 
@@ -123,7 +123,7 @@ The independent set is {α, π, γ, η}.
 
 ### `Tau.Kernel.hbar_tau_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L64-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L64-L65)
 **def
 Tau.Kernel.hbar_tau_numer :Nat**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.Kernel.hbar_tau_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L66-L66)
 **def
 Tau.Kernel.hbar_tau_denom :Nat**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.Kernel.hbar_tau_from_generators`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L68-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L68-L70)
 **theorem
 Tau.Kernel.hbar_tau_from_generators :hbar_tau_denom = Generator.all.length - 1**
 
@@ -160,7 +160,7 @@ Tau.Kernel.hbar_tau_from_generators :hbar_tau_denom = Generator.all.length - 1**
 
 ### `Tau.Kernel.Generator.independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L76-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L76-L77)
 **def
 Tau.Kernel.Generator.independent :List Generator**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.Kernel.independent_generator_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L79-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L79-L80)
 **theorem
 Tau.Kernel.independent_generator_count :Generator.independent.length = 4**
 
@@ -185,7 +185,7 @@ There are exactly 4 independent generators.
 
 ### `Tau.Kernel.omega_unique_dependent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L82-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L82-L91)
 **theorem
 Tau.Kernel.omega_unique_dependent :¬Generator.omega ∈ Generator.independent ∧ Generator.alpha ∈ Generator.independent ∧ Generator.pi ∈ Generator.independent ∧ Generator.gamma ∈ Generator.independent ∧ Generator.eta ∈ Generator.independent**
 
@@ -198,7 +198,7 @@ not in the independent set.
 
 ### `Tau.Kernel.hbar_tau_rigorous`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L93-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L93-L99)
 **theorem
 Tau.Kernel.hbar_tau_rigorous :hbar_tau_denom = Generator.independent.length ∧ hbar_tau_numer = 1**
 
@@ -211,7 +211,7 @@ so |independent| = |all| - 1 = 5 - 1 = 4.
 
 ### `Tau.Kernel.euler_sieve_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L105-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L105-L110)
 **theorem
 Tau.Kernel.euler_sieve_cross :2 * 4 * 121 * 225 = 3 * 5 * 120 * 121**
 
@@ -225,7 +225,7 @@ Cross-multiplied: 2 · 4 · 121 · 225 = 3 · 5 · 120 · 121.
 
 ### `Tau.Kernel.euler_sieve_factor_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L112-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L112-L115)
 **theorem
 Tau.Kernel.euler_sieve_factor_cross :2 * 4 * 15 = 3 * 5 * 8**
 
@@ -237,7 +237,7 @@ Cross-multiplied: 2 · 4 · 15 = 3 · 5 · 8.
 
 ### `Tau.Kernel.s5_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L117-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L117-L118)
 **theorem
 Tau.Kernel.s5_correction :121 = 120 + 1**
 
@@ -248,7 +248,7 @@ The S₅ correction factor is 121/120 = 1 + 1/5!.
 
 ### `Tau.Kernel.factorial_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L120-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L120-L121)
 **theorem
 Tau.Kernel.factorial_5 :1 * 2 * 3 * 4 * 5 = 120**
 
@@ -259,7 +259,7 @@ Tau.Kernel.factorial_5 :1 * 2 * 3 * 4 * 5 = 120**
 
 ### `Tau.Kernel.numerator_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L127-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L127-L128)
 **theorem
 Tau.Kernel.numerator_square :121 = 11 * 11**
 
@@ -270,7 +270,7 @@ Tau.Kernel.numerator_square :121 = 11 * 11**
 
 ### `Tau.Kernel.denominator_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L130-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L130-L131)
 **theorem
 Tau.Kernel.denominator_square :225 = 15 * 15**
 
@@ -281,7 +281,7 @@ Tau.Kernel.denominator_square :225 = 15 * 15**
 
 ### `Tau.Kernel.charge_fraction_square`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L133-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L133-L136)
 **theorem
 Tau.Kernel.charge_fraction_square :11 * 11 * 225 = 15 * 15 * 121**
 
@@ -293,7 +293,7 @@ Cross-multiplied: 11² · 225 = 15² · 121.
 
 ### `Tau.Kernel.sieve_times_correction_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L138-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L138-L142)
 **theorem
 Tau.Kernel.sieve_times_correction_cross :8 * 121 * 225 = 15 * 120 * 121**
 
@@ -306,7 +306,7 @@ Simplifying: 8 · 225 = 15 · 120 = 1800.
 
 ### `Tau.Kernel.eight_is_two_cubed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L148-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L148-L149)
 **theorem
 Tau.Kernel.eight_is_two_cubed :8 = 2 * 2 * 2**
 
@@ -317,7 +317,7 @@ Tau.Kernel.eight_is_two_cubed :8 = 2 * 2 * 2**
 
 ### `Tau.Kernel.fifteen_is_three_times_five`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L151-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L151-L152)
 **theorem
 Tau.Kernel.fifteen_is_three_times_five :15 = 3 * 5**
 
@@ -328,7 +328,7 @@ Tau.Kernel.fifteen_is_three_times_five :15 = 3 * 5**
 
 ### `Tau.Kernel.alpha_from_charge_cross`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/ActionQuantum.lean#L154-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/ActionQuantum.lean#L154-L158)
 **theorem
 Tau.Kernel.alpha_from_charge_cross :11 * 11 = 121 ∧ 15 * 15 = 225**
 

@@ -89,7 +89,7 @@ contributes only through confined composites.
 
 ### `Tau.BookV.FluidMacro.ChargeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L57-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L57-L65)
 **inductive
 Tau.BookV.FluidMacro.ChargeSector :Type**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprChargeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
 **instance
 Tau.BookV.FluidMacro.instReprChargeSector :Repr ChargeSector**
 
@@ -122,7 +122,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprChargeSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
 **def
 Tau.BookV.FluidMacro.instReprChargeSector.repr :ChargeSector → ℕ → Std.Format**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqChargeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqChargeSector :DecidableEq ChargeSector**
 
@@ -145,7 +145,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqChargeSector.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
 **def
 Tau.BookV.FluidMacro.instBEqChargeSector.beq :ChargeSector → ChargeSector → Bool**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqChargeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L65-L65)
 **instance
 Tau.BookV.FluidMacro.instBEqChargeSector :BEq ChargeSector**
 
@@ -168,7 +168,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.MacroCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L67-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L67-L79)
 **structure
 Tau.BookV.FluidMacro.MacroCharge :Type**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **instance
 Tau.BookV.FluidMacro.instReprMacroCharge :Repr MacroCharge**
 
@@ -205,7 +205,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroCharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **def
 Tau.BookV.FluidMacro.instReprMacroCharge.repr :MacroCharge → ℕ → Std.Format**
 
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMacroCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqMacroCharge :DecidableEq MacroCharge**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqMacroCharge.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **def
 Tau.BookV.FluidMacro.instDecidableEqMacroCharge.decEq
 (x✝ x✝¹ : MacroCharge)
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqMacroCharge.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **def
 Tau.BookV.FluidMacro.instBEqMacroCharge.beq :MacroCharge → MacroCharge → Bool**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instBEqMacroCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L79-L79)
 **instance
 Tau.BookV.FluidMacro.instBEqMacroCharge :BEq MacroCharge**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.MacroCharge.isGloballyNeutral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L81-L83)
 **def
 Tau.BookV.FluidMacro.MacroCharge.isGloballyNeutral
 (charges : List MacroCharge)
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.NoIsolatedChargesThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L89-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L89-L103)
 **structure
 Tau.BookV.FluidMacro.NoIsolatedChargesThm :Type**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprNoIsolatedChargesThm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L103-L103)
 **instance
 Tau.BookV.FluidMacro.instReprNoIsolatedChargesThm :Repr NoIsolatedChargesThm**
 
@@ -323,7 +323,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprNoIsolatedChargesThm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L103-L103)
 **def
 Tau.BookV.FluidMacro.instReprNoIsolatedChargesThm.repr :NoIsolatedChargesThm → ℕ → Std.Format**
 
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.no_isolated_charges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L105-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L105-L107)
 **theorem
 Tau.BookV.FluidMacro.no_isolated_charges
 (t : NoIsolatedChargesThm)
@@ -348,7 +348,7 @@ Charge balance implies global neutrality (net charge = 0).
 
 ### `Tau.BookV.FluidMacro.ChargeQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L113-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L113-L121)
 **structure
 Tau.BookV.FluidMacro.ChargeQuantum :Type**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprChargeQuantum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **def
 Tau.BookV.FluidMacro.instReprChargeQuantum.repr :ChargeQuantum → ℕ → Std.Format**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprChargeQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **instance
 Tau.BookV.FluidMacro.instReprChargeQuantum :Repr ChargeQuantum**
 
@@ -391,7 +391,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqChargeQuantum.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **def
 Tau.BookV.FluidMacro.instDecidableEqChargeQuantum.decEq
 (x✝ x✝¹ : ChargeQuantum)
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instDecidableEqChargeQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqChargeQuantum :DecidableEq ChargeQuantum**
 
@@ -416,7 +416,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqChargeQuantum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **instance
 Tau.BookV.FluidMacro.instBEqChargeQuantum :BEq ChargeQuantum**
 
@@ -427,7 +427,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqChargeQuantum.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L121-L121)
 **def
 Tau.BookV.FluidMacro.instBEqChargeQuantum.beq :ChargeQuantum → ChargeQuantum → Bool**
 
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.charge_quantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L123-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L123-L124)
 **def
 Tau.BookV.FluidMacro.charge_quantization :ChargeQuantum → ℤ**
 
@@ -454,7 +454,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.sourceless_macro_flux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L130-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L130-L138)
 **theorem
 Tau.BookV.FluidMacro.sourceless_macro_flux
 (t : NoIsolatedChargesThm)
@@ -473,7 +473,7 @@ encloses zero net charge.
 
 ### `Tau.BookV.FluidMacro.MagneticCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L144-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L144-L150)
 **structure
 Tau.BookV.FluidMacro.MagneticCharge :Type**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagneticCharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L150-L150)
 **def
 Tau.BookV.FluidMacro.instReprMagneticCharge.repr :MagneticCharge → ℕ → Std.Format**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMagneticCharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L150-L150)
 **instance
 Tau.BookV.FluidMacro.instReprMagneticCharge :Repr MagneticCharge**
 
@@ -515,7 +515,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.no_magnetic_monopoles`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L152-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L152-L158)
 **theorem
 Tau.BookV.FluidMacro.no_magnetic_monopoles
 (m : MagneticCharge)
@@ -532,7 +532,7 @@ is trivial by the same boundary structure forcing electric neutrality.
 
 ### `Tau.BookV.FluidMacro.MacroEMField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L164-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L164-L177)
 **structure
 Tau.BookV.FluidMacro.MacroEMField :Type**
 
@@ -559,7 +559,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroEMField`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L177-L177)
 **instance
 Tau.BookV.FluidMacro.instReprMacroEMField :Repr MacroEMField**
 
@@ -570,7 +570,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroEMField.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L177-L177)
 **def
 Tau.BookV.FluidMacro.instReprMacroEMField.repr :MacroEMField → ℕ → Std.Format**
 
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MacroEMField.standard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L179-L181)
 **def
 Tau.BookV.FluidMacro.MacroEMField.standard :MacroEMField**
 
@@ -596,7 +596,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.ConfinementLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L187-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L187-L195)
 **inductive
 Tau.BookV.FluidMacro.ConfinementLevel :Type**
 
@@ -618,7 +618,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprConfinementLevel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
 **def
 Tau.BookV.FluidMacro.instReprConfinementLevel.repr :ConfinementLevel → ℕ → Std.Format**
 
@@ -630,7 +630,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprConfinementLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
 **instance
 Tau.BookV.FluidMacro.instReprConfinementLevel :Repr ConfinementLevel**
 
@@ -641,7 +641,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instDecidableEqConfinementLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
 **instance
 Tau.BookV.FluidMacro.instDecidableEqConfinementLevel :DecidableEq ConfinementLevel**
 
@@ -652,7 +652,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqConfinementLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
 **instance
 Tau.BookV.FluidMacro.instBEqConfinementLevel :BEq ConfinementLevel**
 
@@ -663,7 +663,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instBEqConfinementLevel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L195-L195)
 **def
 Tau.BookV.FluidMacro.instBEqConfinementLevel.beq :ConfinementLevel → ConfinementLevel → Bool**
 
@@ -675,7 +675,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.MacroColorConfinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L197-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L197-L211)
 **structure
 Tau.BookV.FluidMacro.MacroColorConfinement :Type**
 
@@ -703,7 +703,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroColorConfinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L211-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L211-L211)
 **instance
 Tau.BookV.FluidMacro.instReprMacroColorConfinement :Repr MacroColorConfinement**
 
@@ -714,7 +714,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroColorConfinement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L211-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L211-L211)
 **def
 Tau.BookV.FluidMacro.instReprMacroColorConfinement.repr :MacroColorConfinement → ℕ → Std.Format**
 
@@ -726,7 +726,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.macro_color_confinement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L213-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L213-L216)
 **theorem
 Tau.BookV.FluidMacro.macro_color_confinement
 (c : MacroColorConfinement)
@@ -741,7 +741,7 @@ Color confinement holds at all scales.
 
 ### `Tau.BookV.FluidMacro.MacroCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L222-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L222-L233)
 **structure
 Tau.BookV.FluidMacro.MacroCurrent :Type**
 
@@ -766,7 +766,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.instReprMacroCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L233-L233)
 **instance
 Tau.BookV.FluidMacro.instReprMacroCurrent :Repr MacroCurrent**
 
@@ -777,7 +777,7 @@ Equations
 
 ### `Tau.BookV.FluidMacro.instReprMacroCurrent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L233-L233)
 **def
 Tau.BookV.FluidMacro.instReprMacroCurrent.repr :MacroCurrent → ℕ → Std.Format**
 
@@ -789,7 +789,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.current_conservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L235-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L235-L237)
 **theorem
 Tau.BookV.FluidMacro.current_conservation
 (j : MacroCurrent)
@@ -804,7 +804,7 @@ Current conservation as structural property.
 
 ### `Tau.BookV.FluidMacro.electron_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L255-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L255-L256)
 **def
 Tau.BookV.FluidMacro.electron_charge :MacroCharge**
 
@@ -818,7 +818,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.proton_charge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L257-L257)
 **def
 Tau.BookV.FluidMacro.proton_charge :MacroCharge**
 
@@ -830,7 +830,7 @@ Instances For
 
 ### `Tau.BookV.FluidMacro.example_balance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L259-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/FluidMacro/ChargeObstruction.lean#L259-L263)
 **def
 Tau.BookV.FluidMacro.example_balance :NoIsolatedChargesThm**
 

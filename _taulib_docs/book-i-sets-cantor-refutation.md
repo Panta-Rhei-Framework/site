@@ -77,7 +77,7 @@ is inapplicable, and |R_tau| = aleph_0 is irrefutable.
 
 ### `Tau.Sets.DecimalDiagonalExtractor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L45-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L45-L59)
 **structure
 Tau.Sets.DecimalDiagonalExtractor :Type**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.Sets.no_unearned_decimal_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L61-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L61-L72)
 **theorem
 Tau.Sets.no_unearned_decimal_diagonal :¬∃ (E : DecimalDiagonalExtractor), ∀ (n : Denotation.TauIdx), E.diagonal n ≠ E.extract n n**
 
@@ -125,7 +125,7 @@ blocks it by making diagonal extraction self-referential.
 
 ### `Tau.Sets.ComprehensionSep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L78-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L78-L79)
 **def
 Tau.Sets.ComprehensionSep :Type**
 
@@ -139,7 +139,7 @@ Instances For
 
 ### `Tau.Sets.no_comprehension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L81-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L81-L95)
 **theorem
 Tau.Sets.no_comprehension :¬∃ (Sep : ComprehensionSep), ∀ (P : Denotation.TauIdx → Prop) (a : Denotation.TauIdx), tau_mem a (Sep P) ↔ P a**
 
@@ -155,7 +155,7 @@ At a = R: R in_tau R iff not(R in_tau R). But R in_tau R holds by reflexivity
 
 ### `Tau.Sets.no_free_cartesian_diagonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L101-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L101-L121)
 **theorem
 Tau.Sets.no_free_cartesian_diagonal :¬∃ (pair : Denotation.TauIdx → Denotation.TauIdx), Function.Injective pair ∧ (∀ (n : Denotation.TauIdx), pair n ≠ n) ∧ ∀ (n : Denotation.TauIdx), n ∣ pair n**
 
@@ -174,7 +174,7 @@ fails at n = 0, since 0 | k implies k = 0.
 
 ### `Tau.Sets.self_pairing_trivial_or_blocked`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L123-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L123-L134)
 **theorem
 Tau.Sets.self_pairing_trivial_or_blocked
 (pair : Denotation.TauIdx → Denotation.TauIdx)
@@ -190,7 +190,7 @@ for all n is the identity, which is trivial (doesn't help the argument).
 
 ### `Tau.Sets.CantorDiagonalApparatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L140-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L140-L151)
 **structure
 Tau.Sets.CantorDiagonalApparatus :Type**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.Sets.cantor_inapplicable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L153-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L153-L166)
 **theorem
 Tau.Sets.cantor_inapplicable :¬∃ (x : CantorDiagonalApparatus), True**
 
@@ -247,7 +247,7 @@ and each individually blocks the diagonal argument.
 
 ### `Tau.Sets.cantor_blocked_three_ways`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L168-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L168-L182)
 **theorem
 Tau.Sets.cantor_blocked_three_ways :(¬∃ (E : DecimalDiagonalExtractor), ∀ (n : Denotation.TauIdx), E.diagonal n ≠ E.extract n n) ∧ (¬∃ (Sep : ComprehensionSep), ∀ (P : Denotation.TauIdx → Prop) (a : Denotation.TauIdx), tau_mem a (Sep P) ↔ P a) ∧ ¬∃ (pair : Denotation.TauIdx → Denotation.TauIdx), Function.Injective pair ∧ (∀ (n : Denotation.TauIdx), pair n ≠ n) ∧ ∀ (n : Denotation.TauIdx), n ∣ pair n**
 
@@ -258,7 +258,7 @@ The three failures are individually sufficient.
 
 ### `Tau.Sets.R_tau_countable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L188-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L188-L197)
 **theorem
 Tau.Sets.R_tau_countable :∃ (embed : Denotation.TauIdx → Denotation.TauIdx), Function.Injective embed**
 
@@ -275,7 +275,7 @@ that the tau-real line is at most countable.
 
 ### `Tau.Sets.R_tau_countable_irrefutable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Sets/CantorRefutation.lean#L199-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Sets/CantorRefutation.lean#L199-L212)
 **theorem
 Tau.Sets.R_tau_countable_irrefutable :(∃ (f : Denotation.TauIdx → ℕ), Function.Injective f) ∧ (∃ (g : ℕ → Denotation.TauIdx), Function.Injective g) ∧ ¬∃ (x : CantorDiagonalApparatus), True**
 

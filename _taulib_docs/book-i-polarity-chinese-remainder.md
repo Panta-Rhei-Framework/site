@@ -60,7 +60,7 @@ All constructions are computable. Correctness is verified by extensive native_de
 
 ### `Tau.Polarity.mod_inv_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L38-L44)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L38-L44)@[irreducible]
 
 **def
 Tau.Polarity.mod_inv_go
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Polarity.mod_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L46-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L46-L47)
 **def
 Tau.Polarity.mod_inv
 (a m : ℕ)
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Polarity.mod_inv_go_correct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L53-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L53-L71)
 **theorem
 Tau.Polarity.mod_inv_go_correct
 (a m x fuel : ℕ)
@@ -109,7 +109,7 @@ mod_inv_go finds a valid inverse when one exists in range.
 
 ### `Tau.Polarity.mod_inv_correct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L73-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L73-L84)
 **theorem
 Tau.Polarity.mod_inv_correct
 (a m : ℕ)
@@ -126,7 +126,7 @@ mod_inv is correct for coprime inputs with m > 1.
 
 ### `Tau.Polarity.crt_decompose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L90-L93)
 **def
 Tau.Polarity.crt_decompose
 (x k : Denotation.TauIdx)
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.Polarity.crt_basis`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L99-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L99-L106)
 **def
 Tau.Polarity.crt_basis
 (k i : Denotation.TauIdx)
@@ -161,7 +161,7 @@ Instances For
 
 ### `Tau.Polarity.crt_reconstruct_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L112-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L112-L121)@[irreducible]
 
 **def
 Tau.Polarity.crt_reconstruct_go
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.Polarity.crt_reconstruct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L123-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L123-L125)
 **def
 Tau.Polarity.crt_reconstruct
 (residues : List Denotation.TauIdx)
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.Polarity.crt_basis_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L131-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L131-L133)
 **def
 Tau.Polarity.crt_basis_check
 (k i j : Denotation.TauIdx)
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.Polarity.crt_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L135-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L135-L137)
 **def
 Tau.Polarity.crt_roundtrip_check
 (x k : Denotation.TauIdx)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.Polarity.crt_coherence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L139-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L139-L143)
 **def
 Tau.Polarity.crt_coherence_check
 (x k l : Denotation.TauIdx)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.Polarity.crt_exhaustive_check_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L145-L150)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L145-L150)@[irreducible]
 
 **def
 Tau.Polarity.crt_exhaustive_check_go
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.Polarity.crt_exhaustive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L152-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L152-L153)
 **def
 Tau.Polarity.crt_exhaustive_check
 (k : Denotation.TauIdx)
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.Polarity.crt_idempotent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L159-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L159-L163)
 **def
 Tau.Polarity.crt_idempotent_check
 (k i : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.Polarity.crt_orthogonal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L165-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L165-L167)
 **def
 Tau.Polarity.crt_orthogonal_check
 (k i j : Denotation.TauIdx)
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.Polarity.crt_partition_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L169-L174)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L169-L174)@[irreducible]
 
 **def
 Tau.Polarity.crt_partition_go
@@ -337,7 +337,7 @@ Instances For
 
 ### `Tau.Polarity.crt_partition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L176-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L176-L177)
 **def
 Tau.Polarity.crt_partition_check
 (k : Denotation.TauIdx)
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.Polarity.crt_add_hom_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L301-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L301-L307)
 **def
 Tau.Polarity.crt_add_hom_check
 (a b k : Denotation.TauIdx)
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.Polarity.crt_mul_hom_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Polarity/ChineseRemainder.lean#L309-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Polarity/ChineseRemainder.lean#L309-L315)
 **def
 Tau.Polarity.crt_mul_hom_check
 (a b k : Denotation.TauIdx)

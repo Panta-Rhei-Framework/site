@@ -51,7 +51,7 @@ escape required. D applied to C produces another valid code. The E₂ level is
 
 ### `Tau.BookIII.Computation.E2Agent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L35-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L35-L41)
 **structure
 Tau.BookIII.Computation.E2Agent :Type**
 
@@ -68,7 +68,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instReprE2Agent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **def
 Tau.BookIII.Computation.instReprE2Agent.repr :E2Agent → ℕ → Std.Format**
 
@@ -80,7 +80,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instReprE2Agent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **instance
 Tau.BookIII.Computation.instReprE2Agent :Repr E2Agent**
 
@@ -91,7 +91,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instDecidableEqE2Agent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **instance
 Tau.BookIII.Computation.instDecidableEqE2Agent :DecidableEq E2Agent**
 
@@ -102,7 +102,7 @@ Equations
 
 ### `Tau.BookIII.Computation.instDecidableEqE2Agent.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **def
 Tau.BookIII.Computation.instDecidableEqE2Agent.decEq
 (x✝ x✝¹ : E2Agent)
@@ -116,7 +116,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instBEqE2Agent.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **def
 Tau.BookIII.Computation.instBEqE2Agent.beq :E2Agent → E2Agent → Bool**
 
@@ -130,7 +130,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.instBEqE2Agent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L41-L41)
 **instance
 Tau.BookIII.Computation.instBEqE2Agent :BEq E2Agent**
 
@@ -141,7 +141,7 @@ Equations
 
 ### `Tau.BookIII.Computation.agent_step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L43-L48)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L43-L48)
 **def
 Tau.BookIII.Computation.agent_step
 (a : E2Agent)
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.agent_iterate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L50-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L50-L60)
 **def
 Tau.BookIII.Computation.agent_iterate
 (a : E2Agent)
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.agent_iterate.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L54-L59)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L54-L59)@[irreducible]
 
 **def
 Tau.BookIII.Computation.agent_iterate.go
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_agent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L62-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L62-L85)
 **def
 Tau.BookIII.Computation.e2_agent_check
 (bound db : Denotation.TauIdx)
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_agent_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L67-L84)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L67-L84)@[irreducible]
 
 **def
 Tau.BookIII.Computation.e2_agent_check.go
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.operational_closure_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L91-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L91-L117)
 **def
 Tau.BookIII.Computation.operational_closure_check
 (bound db : Denotation.TauIdx)
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.operational_closure_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L96-L116)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L96-L116)@[irreducible]
 
 **def
 Tau.BookIII.Computation.operational_closure_check.go
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.cycle_detection_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L119-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L119-L138)
 **def
 Tau.BookIII.Computation.cycle_detection_check
 (bound db : Denotation.TauIdx)
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.cycle_detection_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L124-L137)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L124-L137)@[irreducible]
 
 **def
 Tau.BookIII.Computation.cycle_detection_check.go
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIII.Computation.e2_agent_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L154-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L154-L155)
 **theorem
 Tau.BookIII.Computation.e2_agent_5_3 :e2_agent_check 5 3 = true**
 
@@ -302,7 +302,7 @@ Tau.BookIII.Computation.e2_agent_5_3 :e2_agent_check 5 3 = true**
 
 ### `Tau.BookIII.Computation.operational_closure_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L157-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L157-L158)
 **theorem
 Tau.BookIII.Computation.operational_closure_5_3 :operational_closure_check 5 3 = true**
 
@@ -311,7 +311,7 @@ Tau.BookIII.Computation.operational_closure_5_3 :operational_closure_check 5 3 =
 
 ### `Tau.BookIII.Computation.cycle_detection_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L160-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L160-L161)
 **theorem
 Tau.BookIII.Computation.cycle_detection_5_3 :cycle_detection_check 5 3 = true**
 
@@ -320,7 +320,7 @@ Tau.BookIII.Computation.cycle_detection_5_3 :cycle_detection_check 5 3 = true**
 
 ### `Tau.BookIII.Computation.agent_step_depth_0`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L167-L169)
 **theorem
 Tau.BookIII.Computation.agent_step_depth_0 :agent_step { code := 42, decoder := 7, depth := 0 } = 0**
 
@@ -331,7 +331,7 @@ Tau.BookIII.Computation.agent_step_depth_0 :agent_step { code := 42, decoder := 
 
 ### `Tau.BookIII.Computation.agent_step_mod`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L171-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L171-L173)
 **theorem
 Tau.BookIII.Computation.agent_step_mod :agent_step { code := 7, decoder := 3, depth := 3 } = 10**
 
@@ -342,7 +342,7 @@ Tau.BookIII.Computation.agent_step_mod :agent_step { code := 7, decoder := 3, de
 
 ### `Tau.BookIII.Computation.identity_decoder`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Computation/E2Agent.lean#L175-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Computation/E2Agent.lean#L175-L177)
 **theorem
 Tau.BookIII.Computation.identity_decoder :agent_step { code := 7, decoder := 0, depth := 3 } = 7**
 

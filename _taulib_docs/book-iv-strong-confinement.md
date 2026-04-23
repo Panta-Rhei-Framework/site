@@ -75,7 +75,7 @@ total eta-winding mod 3, implying absolute proton stability.
 
 ### `Tau.BookIV.Strong.FractionalCRSublattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L45-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L45-L56)
 **structure
 Tau.BookIV.Strong.FractionalCRSublattice :Type**
 
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprFractionalCRSublattice.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L56-L56)
 **def
 Tau.BookIV.Strong.instReprFractionalCRSublattice.repr :FractionalCRSublattice → ℕ → Std.Format**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprFractionalCRSublattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L56-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L56-L56)
 **instance
 Tau.BookIV.Strong.instReprFractionalCRSublattice :Repr FractionalCRSublattice**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookIV.Strong.fractional_cr_sublattice`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L58-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L58-L58)
 **def
 Tau.BookIV.Strong.fractional_cr_sublattice :FractionalCRSublattice**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.sublattice_factor_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L60-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L60-L61)
 **theorem
 Tau.BookIV.Strong.sublattice_factor_3 :fractional_cr_sublattice.refinement_factor = 3**
 
@@ -144,7 +144,7 @@ Tau.BookIV.Strong.sublattice_factor_3 :fractional_cr_sublattice.refinement_facto
 
 ### `Tau.BookIV.Strong.ColorConfinedMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L67-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L67-L78)
 **structure
 Tau.BookIV.Strong.ColorConfinedMode :Type**
 
@@ -172,7 +172,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorConfinedMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L78-L78)
 **instance
 Tau.BookIV.Strong.instReprColorConfinedMode :Repr ColorConfinedMode**
 
@@ -183,7 +183,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprColorConfinedMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L78-L78)
 **def
 Tau.BookIV.Strong.instReprColorConfinedMode.repr :ColorConfinedMode → ℕ → Std.Format**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.is_confined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L80-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L80-L81)
 **def
 Tau.BookIV.Strong.is_confined
 (n : ℕ)
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.winding_1_confined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L83-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L83-L83)
 **theorem
 Tau.BookIV.Strong.winding_1_confined :is_confined 1 = true**
 
@@ -220,7 +220,7 @@ Tau.BookIV.Strong.winding_1_confined :is_confined 1 = true**
 
 ### `Tau.BookIV.Strong.winding_2_confined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L84-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L84-L84)
 **theorem
 Tau.BookIV.Strong.winding_2_confined :is_confined 2 = true**
 
@@ -229,7 +229,7 @@ Tau.BookIV.Strong.winding_2_confined :is_confined 2 = true**
 
 ### `Tau.BookIV.Strong.winding_3_free`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L85-L85)
 **theorem
 Tau.BookIV.Strong.winding_3_free :is_confined 3 = false**
 
@@ -238,7 +238,7 @@ Tau.BookIV.Strong.winding_3_free :is_confined 3 = false**
 
 ### `Tau.BookIV.Strong.winding_0_free`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L86-L86)
 **theorem
 Tau.BookIV.Strong.winding_0_free :is_confined 0 = false**
 
@@ -247,7 +247,7 @@ Tau.BookIV.Strong.winding_0_free :is_confined 0 = false**
 
 ### `Tau.BookIV.Strong.ConfinementTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L92-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L92-L110)
 **structure
 Tau.BookIV.Strong.ConfinementTheorem :Type**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprConfinementTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L110-L110)
 **def
 Tau.BookIV.Strong.instReprConfinementTheorem.repr :ConfinementTheorem → ℕ → Std.Format**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprConfinementTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L110-L110)
 **instance
 Tau.BookIV.Strong.instReprConfinementTheorem :Repr ConfinementTheorem**
 
@@ -303,7 +303,7 @@ Equations
 
 ### `Tau.BookIV.Strong.confinement_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L112-L112)
 **def
 Tau.BookIV.Strong.confinement_theorem :ConfinementTheorem**
 
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ColorSingletDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L118-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L118-L125)
 **structure
 Tau.BookIV.Strong.ColorSingletDef :Type**
 
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprColorSingletDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L125-L125)
 **instance
 Tau.BookIV.Strong.instReprColorSingletDef :Repr ColorSingletDef**
 
@@ -346,7 +346,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprColorSingletDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L125-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L125-L125)
 **def
 Tau.BookIV.Strong.instReprColorSingletDef.repr :ColorSingletDef → ℕ → Std.Format**
 
@@ -358,7 +358,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.SingletStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L131-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L131-L141)
 **structure
 Tau.BookIV.Strong.SingletStability :Type**
 
@@ -382,7 +382,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSingletStability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L141-L141)
 **instance
 Tau.BookIV.Strong.instReprSingletStability :Repr SingletStability**
 
@@ -393,7 +393,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprSingletStability.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L141-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L141-L141)
 **def
 Tau.BookIV.Strong.instReprSingletStability.repr :SingletStability → ℕ → Std.Format**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.singlet_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L143-L143)
 **def
 Tau.BookIV.Strong.singlet_stability :SingletStability**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.HadronType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L149-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L149-L157)
 **inductive
 Tau.BookIV.Strong.HadronType :Type**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprHadronType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
 **def
 Tau.BookIV.Strong.instReprHadronType.repr :HadronType → ℕ → Std.Format**
 
@@ -451,7 +451,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprHadronType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
 **instance
 Tau.BookIV.Strong.instReprHadronType :Repr HadronType**
 
@@ -462,7 +462,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instDecidableEqHadronType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
 **instance
 Tau.BookIV.Strong.instDecidableEqHadronType :DecidableEq HadronType**
 
@@ -473,7 +473,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqHadronType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
 **def
 Tau.BookIV.Strong.instBEqHadronType.beq :HadronType → HadronType → Bool**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instBEqHadronType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L157-L157)
 **instance
 Tau.BookIV.Strong.instBEqHadronType :BEq HadronType**
 
@@ -496,7 +496,7 @@ Equations
 
 ### `Tau.BookIV.Strong.SingletClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L159-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L159-L171)
 **structure
 Tau.BookIV.Strong.SingletClassification :Type**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSingletClassification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L171-L171)
 **instance
 Tau.BookIV.Strong.instReprSingletClassification :Repr SingletClassification**
 
@@ -538,7 +538,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprSingletClassification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L171-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L171-L171)
 **def
 Tau.BookIV.Strong.instReprSingletClassification.repr :SingletClassification → ℕ → Std.Format**
 
@@ -550,7 +550,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.singlet_classification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L173-L173)
 **def
 Tau.BookIV.Strong.singlet_classification :SingletClassification**
 
@@ -562,7 +562,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.baryon_is_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L175-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L175-L176)
 **theorem
 Tau.BookIV.Strong.baryon_is_singlet :is_color_singlet [0, 1, 2] = true**
 
@@ -573,7 +573,7 @@ Baryon winding pattern {0,1,2} is a singlet.
 
 ### `Tau.BookIV.Strong.meson_is_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L178-L179)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L178-L179)
 **theorem
 Tau.BookIV.Strong.meson_is_singlet :is_color_singlet [1, 2] = true**
 
@@ -584,7 +584,7 @@ Meson winding pattern {1,2} is a singlet (1+2=3, 3 mod 3 = 0).
 
 ### `Tau.BookIV.Strong.single_quark_not_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L181-L182)
 **theorem
 Tau.BookIV.Strong.single_quark_not_singlet :is_color_singlet [1] = false**
 
@@ -595,7 +595,7 @@ A single quark {1} is NOT a singlet.
 
 ### `Tau.BookIV.Strong.single_quark_2_not_singlet`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L184-L185)
 **theorem
 Tau.BookIV.Strong.single_quark_2_not_singlet :is_color_singlet [2] = false**
 
@@ -606,7 +606,7 @@ A single quark {2} is NOT a singlet.
 
 ### `Tau.BookIV.Strong.LinearConfinementPotential`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L191-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L191-L204)
 **structure
 Tau.BookIV.Strong.LinearConfinementPotential :Type**
 
@@ -633,7 +633,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLinearConfinementPotential.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L204-L204)
 **def
 Tau.BookIV.Strong.instReprLinearConfinementPotential.repr :LinearConfinementPotential → ℕ → Std.Format**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLinearConfinementPotential`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L204-L204)
 **instance
 Tau.BookIV.Strong.instReprLinearConfinementPotential :Repr LinearConfinementPotential**
 
@@ -656,7 +656,7 @@ Equations
 
 ### `Tau.BookIV.Strong.linear_potential`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L206-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L206-L206)
 **def
 Tau.BookIV.Strong.linear_potential :LinearConfinementPotential**
 
@@ -668,7 +668,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.BaryonNumberDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L212-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L212-L220)
 **structure
 Tau.BookIV.Strong.BaryonNumberDef :Type**
 
@@ -689,7 +689,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprBaryonNumberDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L220-L220)
 **def
 Tau.BookIV.Strong.instReprBaryonNumberDef.repr :BaryonNumberDef → ℕ → Std.Format**
 
@@ -701,7 +701,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprBaryonNumberDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L220-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L220-L220)
 **instance
 Tau.BookIV.Strong.instReprBaryonNumberDef :Repr BaryonNumberDef**
 
@@ -712,7 +712,7 @@ Equations
 
 ### `Tau.BookIV.Strong.compute_baryon_number`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L222-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L222-L226)
 **def
 Tau.BookIV.Strong.compute_baryon_number
 (windings : List ℕ)
@@ -729,7 +729,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.proton_baryon_number`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L228-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L228-L229)
 **theorem
 Tau.BookIV.Strong.proton_baryon_number :(compute_baryon_number [0, 1, 2]).2 = 1**
 
@@ -738,7 +738,7 @@ Tau.BookIV.Strong.proton_baryon_number :(compute_baryon_number [0, 1, 2]).2 = 1*
 
 ### `Tau.BookIV.Strong.meson_baryon_number`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L231-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L231-L232)
 **theorem
 Tau.BookIV.Strong.meson_baryon_number :(compute_baryon_number [1, 2]).2 = 1**
 
@@ -747,7 +747,7 @@ Tau.BookIV.Strong.meson_baryon_number :(compute_baryon_number [1, 2]).2 = 1**
 
 ### `Tau.BookIV.Strong.WindingPreservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L238-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L238-L248)
 **structure
 Tau.BookIV.Strong.WindingPreservation :Type**
 
@@ -771,7 +771,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprWindingPreservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L248-L248)
 **instance
 Tau.BookIV.Strong.instReprWindingPreservation :Repr WindingPreservation**
 
@@ -782,7 +782,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprWindingPreservation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L248-L248)
 **def
 Tau.BookIV.Strong.instReprWindingPreservation.repr :WindingPreservation → ℕ → Std.Format**
 
@@ -794,7 +794,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.winding_preservation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L250-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L250-L250)
 **def
 Tau.BookIV.Strong.winding_preservation :WindingPreservation**
 
@@ -806,7 +806,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.ProtonStabilityTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L256-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L256-L278)
 **structure
 Tau.BookIV.Strong.ProtonStabilityTheorem :Type**
 
@@ -844,7 +844,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprProtonStabilityTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L278-L278)
 **instance
 Tau.BookIV.Strong.instReprProtonStabilityTheorem :Repr ProtonStabilityTheorem**
 
@@ -855,7 +855,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprProtonStabilityTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L278-L278)
 **def
 Tau.BookIV.Strong.instReprProtonStabilityTheorem.repr :ProtonStabilityTheorem → ℕ → Std.Format**
 
@@ -867,7 +867,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.proton_stability`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/Confinement.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/Confinement.lean#L280-L280)
 **def
 Tau.BookIV.Strong.proton_stability :ProtonStabilityTheorem**
 

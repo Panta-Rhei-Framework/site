@@ -108,7 +108,7 @@ projecting the fixed ontic value onto different measurement scales.
 
 ### `Tau.BookIV.Physics.EntropySplitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L67-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L67-L89)
 **structure
 Tau.BookIV.Physics.EntropySplitting :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprEntropySplitting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L89-L89)
 **instance
 Tau.BookIV.Physics.instReprEntropySplitting :Repr EntropySplitting**
 
@@ -161,7 +161,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprEntropySplitting.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L89-L89)
 **def
 Tau.BookIV.Physics.instReprEntropySplitting.repr :EntropySplitting → ℕ → Std.Format**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.EntropySplitting.totalFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L91-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L91-L94)
 **def
 Tau.BookIV.Physics.EntropySplitting.totalFloat
 (e : EntropySplitting)
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.EntropySplitting.sDefFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L96-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L96-L98)
 **def
 Tau.BookIV.Physics.EntropySplitting.sDefFloat
 (e : EntropySplitting)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.EntropySplitting.sRefFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L100-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L100-L102)
 **def
 Tau.BookIV.Physics.EntropySplitting.sRefFloat
 (e : EntropySplitting)
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.DefectBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L108-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L108-L124)
 **structure
 Tau.BookIV.Physics.DefectBudget :Type**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprDefectBudget.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L124-L124)
 **def
 Tau.BookIV.Physics.instReprDefectBudget.repr :DefectBudget → ℕ → Std.Format**
 
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprDefectBudget`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L124-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L124-L124)
 **instance
 Tau.BookIV.Physics.instReprDefectBudget :Repr DefectBudget**
 
@@ -273,7 +273,7 @@ Equations
 
 ### `Tau.BookIV.Physics.NoRunningPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L130-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L130-L151)
 **structure
 Tau.BookIV.Physics.NoRunningPrinciple :Type**
 
@@ -314,7 +314,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprNoRunningPrinciple.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L151-L151)
 **def
 Tau.BookIV.Physics.instReprNoRunningPrinciple.repr :NoRunningPrinciple → ℕ → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprNoRunningPrinciple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L151-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L151-L151)
 **instance
 Tau.BookIV.Physics.instReprNoRunningPrinciple :Repr NoRunningPrinciple**
 
@@ -337,7 +337,7 @@ Equations
 
 ### `Tau.BookIV.Physics.no_running_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L157-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L157-L162)
 **def
 Tau.BookIV.Physics.no_running_em :NoRunningPrinciple**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.no_running_weak`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L164-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L164-L169)
 **def
 Tau.BookIV.Physics.no_running_weak :NoRunningPrinciple**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.no_running_strong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L171-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L171-L176)
 **def
 Tau.BookIV.Physics.no_running_strong :NoRunningPrinciple**
 
@@ -379,7 +379,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.no_running_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L178-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L178-L183)
 **def
 Tau.BookIV.Physics.no_running_gravity :NoRunningPrinciple**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.no_running_higgs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L185-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L185-L190)
 **def
 Tau.BookIV.Physics.no_running_higgs :NoRunningPrinciple**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.all_no_running`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L192-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L192-L195)
 **def
 Tau.BookIV.Physics.all_no_running :List NoRunningPrinciple**
 
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.euler_budget_conserved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L201-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L201-L205)
 **theorem
 Tau.BookIV.Physics.euler_budget_conserved
 (b : DefectBudget)
@@ -435,7 +435,7 @@ is well-defined (equals sum of components).
 
 ### `Tau.BookIV.Physics.no_running_all_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L207-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L207-L208)
 **theorem
 Tau.BookIV.Physics.no_running_all_sectors :all_no_running.length = 5**
 
@@ -446,7 +446,7 @@ All 5 sectors have no-running entries.
 
 ### `Tau.BookIV.Physics.all_regime_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L210-L214)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L210-L214)
 **theorem
 Tau.BookIV.Physics.all_regime_independent :((List.map NoRunningPrinciple.regime_independent all_no_running).all fun (x : Bool) => x == true) = true**
 
@@ -457,7 +457,7 @@ All no-running entries are regime-independent.
 
 ### `Tau.BookIV.Physics.s_def_zero_at_horizon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L216-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L216-L219)
 **theorem
 Tau.BookIV.Physics.s_def_zero_at_horizon
 (e : EntropySplitting)
@@ -473,7 +473,7 @@ the defect entropy numerator vanishes.
 
 ### `Tau.BookIV.Physics.budget_nonneg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/Thermodynamics.lean#L221-L223)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/Thermodynamics.lean#L221-L223)
 **theorem
 Tau.BookIV.Physics.budget_nonneg
 (b : DefectBudget)

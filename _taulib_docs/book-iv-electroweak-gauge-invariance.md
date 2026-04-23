@@ -99,7 +99,7 @@ It is physically observable (interference experiments) even when F = 0 locally.
 
 ### `Tau.BookIV.Electroweak.EMPrincipalBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L61-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L61-L76)
 **structure
 Tau.BookIV.Electroweak.EMPrincipalBundle :Type**
 
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMPrincipalBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L76-L76)
 **instance
 Tau.BookIV.Electroweak.instReprEMPrincipalBundle :Repr EMPrincipalBundle**
 
@@ -140,7 +140,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMPrincipalBundle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L76-L76)
 **def
 Tau.BookIV.Electroweak.instReprEMPrincipalBundle.repr :EMPrincipalBundle → ℕ → Std.Format**
 
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.em_bundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L78-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L78-L87)
 **def
 Tau.BookIV.Electroweak.em_bundle :EMPrincipalBundle**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.LocalTrivialization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L93-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L93-L100)
 **structure
 Tau.BookIV.Electroweak.LocalTrivialization :Type**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprLocalTrivialization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L100-L100)
 **def
 Tau.BookIV.Electroweak.instReprLocalTrivialization.repr :LocalTrivialization → ℕ → Std.Format**
 
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprLocalTrivialization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L100-L100)
 **instance
 Tau.BookIV.Electroweak.instReprLocalTrivialization :Repr LocalTrivialization**
 
@@ -209,7 +209,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.TransitionFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L106-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L106-L118)
 **structure
 Tau.BookIV.Electroweak.TransitionFunction :Type**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprTransitionFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L118-L118)
 **instance
 Tau.BookIV.Electroweak.instReprTransitionFunction :Repr TransitionFunction**
 
@@ -247,7 +247,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprTransitionFunction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L118-L118)
 **def
 Tau.BookIV.Electroweak.instReprTransitionFunction.repr :TransitionFunction → ℕ → Std.Format**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.TransitionFunction.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L120-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L120-L125)
 **def
 Tau.BookIV.Electroweak.TransitionFunction.compose
 (g₁ g₂ : TransitionFunction)
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.BundleSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L131-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L131-L138)
 **structure
 Tau.BookIV.Electroweak.BundleSection :Type**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprBundleSection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L138-L138)
 **def
 Tau.BookIV.Electroweak.instReprBundleSection.repr :BundleSection → ℕ → Std.Format**
 
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprBundleSection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L138-L138)
 **instance
 Tau.BookIV.Electroweak.instReprBundleSection :Repr BundleSection**
 
@@ -320,7 +320,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.global_section_chern`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L140-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L140-L143)
 **theorem
 Tau.BookIV.Electroweak.global_section_chern
 (s : BundleSection)
@@ -337,7 +337,7 @@ Global section requires zero Chern class.
 
 ### `Tau.BookIV.Electroweak.EMConnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L149-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L149-L158)
 **structure
 Tau.BookIV.Electroweak.EMConnection :Type**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMConnection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L158-L158)
 **def
 Tau.BookIV.Electroweak.instReprEMConnection.repr :EMConnection → ℕ → Std.Format**
 
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMConnection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L158-L158)
 **instance
 Tau.BookIV.Electroweak.instReprEMConnection :Repr EMConnection**
 
@@ -382,7 +382,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.em_connection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L160-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L160-L163)
 **def
 Tau.BookIV.Electroweak.em_connection :EMConnection**
 
@@ -396,7 +396,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.CovariantDerivative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L169-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L169-L177)
 **structure
 Tau.BookIV.Electroweak.CovariantDerivative :Type**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCovariantDerivative.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L177-L177)
 **def
 Tau.BookIV.Electroweak.instReprCovariantDerivative.repr :CovariantDerivative → ℕ → Std.Format**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCovariantDerivative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L177-L177)
 **instance
 Tau.BookIV.Electroweak.instReprCovariantDerivative :Repr CovariantDerivative**
 
@@ -440,7 +440,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.ParallelTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L183-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L183-L192)
 **structure
 Tau.BookIV.Electroweak.ParallelTransport :Type**
 
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprParallelTransport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L192-L192)
 **instance
 Tau.BookIV.Electroweak.instReprParallelTransport :Repr ParallelTransport**
 
@@ -473,7 +473,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprParallelTransport.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L192-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L192-L192)
 **def
 Tau.BookIV.Electroweak.instReprParallelTransport.repr :ParallelTransport → ℕ → Std.Format**
 
@@ -485,7 +485,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ParallelTransport.compose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L194-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L194-L199)
 **def
 Tau.BookIV.Electroweak.ParallelTransport.compose
 (t₁ t₂ : ParallelTransport)
@@ -501,7 +501,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.FieldStrengthTensor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L205-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L205-L217)
 **structure
 Tau.BookIV.Electroweak.FieldStrengthTensor :Type**
 
@@ -527,7 +527,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprFieldStrengthTensor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L217-L217)
 **def
 Tau.BookIV.Electroweak.instReprFieldStrengthTensor.repr :FieldStrengthTensor → ℕ → Std.Format**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprFieldStrengthTensor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L217-L217)
 **instance
 Tau.BookIV.Electroweak.instReprFieldStrengthTensor :Repr FieldStrengthTensor**
 
@@ -550,7 +550,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.field_strength`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L219-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L219-L224)
 **def
 Tau.BookIV.Electroweak.field_strength :FieldStrengthTensor**
 
@@ -564,7 +564,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.AharonovBohmPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L230-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L230-L241)
 **structure
 Tau.BookIV.Electroweak.AharonovBohmPhase :Type**
 
@@ -588,7 +588,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAharonovBohmPhase.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L241-L241)
 **def
 Tau.BookIV.Electroweak.instReprAharonovBohmPhase.repr :AharonovBohmPhase → ℕ → Std.Format**
 
@@ -600,7 +600,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprAharonovBohmPhase`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L241-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L241-L241)
 **instance
 Tau.BookIV.Electroweak.instReprAharonovBohmPhase :Repr AharonovBohmPhase**
 
@@ -611,7 +611,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.EMLoopSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L247-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L247-L256)
 **structure
 Tau.BookIV.Electroweak.EMLoopSpace :Type**
 
@@ -633,7 +633,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMLoopSpace`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L256-L256)
 **instance
 Tau.BookIV.Electroweak.instReprEMLoopSpace :Repr EMLoopSpace**
 
@@ -644,7 +644,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMLoopSpace.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L256-L256)
 **def
 Tau.BookIV.Electroweak.instReprEMLoopSpace.repr :EMLoopSpace → ℕ → Std.Format**
 
@@ -656,7 +656,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.SigmaEquivariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L262-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L262-L271)
 **structure
 Tau.BookIV.Electroweak.SigmaEquivariant :Type**
 
@@ -678,7 +678,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaEquivariant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L271-L271)
 **def
 Tau.BookIV.Electroweak.instReprSigmaEquivariant.repr :SigmaEquivariant → ℕ → Std.Format**
 
@@ -690,7 +690,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSigmaEquivariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L271-L271)
 **instance
 Tau.BookIV.Electroweak.instReprSigmaEquivariant :Repr SigmaEquivariant**
 
@@ -701,7 +701,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.gauge_invariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L277-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L277-L281)
 **theorem
 Tau.BookIV.Electroweak.gauge_invariance
 (s : SigmaEquivariant)
@@ -718,7 +718,7 @@ All physical observables are σ-equivariant functionals.
 
 ### `Tau.BookIV.Electroweak.field_strength_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L287-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L287-L289)
 **theorem
 Tau.BookIV.Electroweak.field_strength_invariant :field_strength.gauge_invariant = true**
 
@@ -730,7 +730,7 @@ the substitution A → A + dΛ gives F → F + d²Λ = F.
 
 ### `Tau.BookIV.Electroweak.ChernClassifier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L295-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L295-L302)
 **structure
 Tau.BookIV.Electroweak.ChernClassifier :Type**
 
@@ -750,7 +750,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprChernClassifier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L302-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L302-L302)
 **instance
 Tau.BookIV.Electroweak.instReprChernClassifier :Repr ChernClassifier**
 
@@ -761,7 +761,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprChernClassifier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L302-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L302-L302)
 **def
 Tau.BookIV.Electroweak.instReprChernClassifier.repr :ChernClassifier → ℕ → Std.Format**
 
@@ -773,7 +773,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.chern_class_classifier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L304-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L304-L306)
 **theorem
 Tau.BookIV.Electroweak.chern_class_classifier
 (c : ChernClassifier)
@@ -786,7 +786,7 @@ Tau.BookIV.Electroweak.chern_class_classifier
 
 ### `Tau.BookIV.Electroweak.TransportCovariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L312-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L312-L320)
 **structure
 Tau.BookIV.Electroweak.TransportCovariance :Type**
 
@@ -807,7 +807,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprTransportCovariance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L320-L320)
 **def
 Tau.BookIV.Electroweak.instReprTransportCovariance.repr :TransportCovariance → ℕ → Std.Format**
 
@@ -819,7 +819,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprTransportCovariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L320-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L320-L320)
 **instance
 Tau.BookIV.Electroweak.instReprTransportCovariance :Repr TransportCovariance**
 
@@ -830,7 +830,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.parallel_transport_covariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L322-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L322-L324)
 **theorem
 Tau.BookIV.Electroweak.parallel_transport_covariance
 (tc : TransportCovariance)
@@ -843,7 +843,7 @@ Tau.BookIV.Electroweak.parallel_transport_covariance
 
 ### `Tau.BookIV.Electroweak.FFromCommutator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L330-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L330-L337)
 **structure
 Tau.BookIV.Electroweak.FFromCommutator :Type**
 
@@ -863,7 +863,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprFFromCommutator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L337-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L337-L337)
 **instance
 Tau.BookIV.Electroweak.instReprFFromCommutator :Repr FFromCommutator**
 
@@ -874,7 +874,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprFFromCommutator.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L337-L337)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L337-L337)
 **def
 Tau.BookIV.Electroweak.instReprFFromCommutator.repr :FFromCommutator → ℕ → Std.Format**
 
@@ -886,7 +886,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.f_from_commutator`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L339-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L339-L341)
 **theorem
 Tau.BookIV.Electroweak.f_from_commutator
 (fc : FFromCommutator)
@@ -901,7 +901,7 @@ Tau.BookIV.Electroweak.f_from_commutator
 
 ### `Tau.BookIV.Electroweak.example_triv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L353-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L353-L353)
 **def
 Tau.BookIV.Electroweak.example_triv :LocalTrivialization**
 
@@ -913,7 +913,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.example_transport`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L355-L356)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L355-L356)
 **def
 Tau.BookIV.Electroweak.example_transport :ParallelTransport**
 
@@ -926,7 +926,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.example_ab`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L358-L359)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/GaugeInvariance.lean#L358-L359)
 **def
 Tau.BookIV.Electroweak.example_ab :AharonovBohmPhase**
 

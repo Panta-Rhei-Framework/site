@@ -82,7 +82,7 @@ running of alpha_s in QCD without any actual change in the ontic coupling.
 
 ### `Tau.BookIV.Strong.LiftAtStageN`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L49-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L49-L61)
 **structure
 Tau.BookIV.Strong.LiftAtStageN :Type**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLiftAtStageN`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L61-L61)
 **instance
 Tau.BookIV.Strong.instReprLiftAtStageN :Repr LiftAtStageN**
 
@@ -120,7 +120,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprLiftAtStageN.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L61-L61)
 **def
 Tau.BookIV.Strong.instReprLiftAtStageN.repr :LiftAtStageN → ℕ → Std.Format**
 
@@ -132,7 +132,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.LiftLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L67-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L67-L78)
 **structure
 Tau.BookIV.Strong.LiftLimit :Type**
 
@@ -157,7 +157,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLiftLimit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L78-L78)
 **def
 Tau.BookIV.Strong.instReprLiftLimit.repr :LiftLimit → ℕ → Std.Format**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprLiftLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L78-L78)
 **instance
 Tau.BookIV.Strong.instReprLiftLimit :Repr LiftLimit**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookIV.Strong.lift_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L80-L80)
 **def
 Tau.BookIV.Strong.lift_limit :LiftLimit**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.StrongCouplingConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L86-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L86-L103)
 **structure
 Tau.BookIV.Strong.StrongCouplingConstant :Type**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongCouplingConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L103-L103)
 **def
 Tau.BookIV.Strong.instReprStrongCouplingConstant.repr :StrongCouplingConstant → ℕ → Std.Format**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprStrongCouplingConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L103-L103)
 **instance
 Tau.BookIV.Strong.instReprStrongCouplingConstant :Repr StrongCouplingConstant**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookIV.Strong.strong_coupling_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L105-L105)
 **def
 Tau.BookIV.Strong.strong_coupling_constant :StrongCouplingConstant**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.alpha_s_matches_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L107-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L107-L111)
 **theorem
 Tau.BookIV.Strong.alpha_s_matches_sector :strong_coupling_constant.coupling_numer = Sectors.strong_sector.coupling_numer ∧ strong_coupling_constant.coupling_denom = Sectors.strong_sector.coupling_denom**
 
@@ -271,7 +271,7 @@ alpha_s^* matches strong_sector coupling.
 
 ### `Tau.BookIV.Strong.alpha_s_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L113-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L113-L116)
 **def
 Tau.BookIV.Strong.alpha_s_float :Float**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.UniquenessStrongCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L122-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L122-L135)
 **structure
 Tau.BookIV.Strong.UniquenessStrongCoupling :Type**
 
@@ -312,7 +312,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprUniquenessStrongCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L135-L135)
 **def
 Tau.BookIV.Strong.instReprUniquenessStrongCoupling.repr :UniquenessStrongCoupling → ℕ → Std.Format**
 
@@ -324,7 +324,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprUniquenessStrongCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L135-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L135-L135)
 **instance
 Tau.BookIV.Strong.instReprUniquenessStrongCoupling :Repr UniquenessStrongCoupling**
 
@@ -335,7 +335,7 @@ Equations
 
 ### `Tau.BookIV.Strong.uniqueness_strong_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L137-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L137-L137)
 **def
 Tau.BookIV.Strong.uniqueness_strong_coupling :UniquenessStrongCoupling**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.NoPrimitiveMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L143-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L143-L155)
 **structure
 Tau.BookIV.Strong.NoPrimitiveMixing :Type**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprNoPrimitiveMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L155-L155)
 **instance
 Tau.BookIV.Strong.instReprNoPrimitiveMixing :Repr NoPrimitiveMixing**
 
@@ -385,7 +385,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprNoPrimitiveMixing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L155-L155)
 **def
 Tau.BookIV.Strong.instReprNoPrimitiveMixing.repr :NoPrimitiveMixing → ℕ → Std.Format**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.no_primitive_mixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L157-L157)
 **def
 Tau.BookIV.Strong.no_primitive_mixing :NoPrimitiveMixing**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.SupportPenalty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L163-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L163-L175)
 **structure
 Tau.BookIV.Strong.SupportPenalty :Type**
 
@@ -436,7 +436,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSupportPenalty.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L175-L175)
 **def
 Tau.BookIV.Strong.instReprSupportPenalty.repr :SupportPenalty → ℕ → Std.Format**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprSupportPenalty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L175-L175)
 **instance
 Tau.BookIV.Strong.instReprSupportPenalty :Repr SupportPenalty**
 
@@ -459,7 +459,7 @@ Equations
 
 ### `Tau.BookIV.Strong.ArgminIsLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L177-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L177-L184)
 **structure
 Tau.BookIV.Strong.ArgminIsLift :Type**
 
@@ -479,7 +479,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprArgminIsLift.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L184-L184)
 **def
 Tau.BookIV.Strong.instReprArgminIsLift.repr :ArgminIsLift → ℕ → Std.Format**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprArgminIsLift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L184-L184)
 **instance
 Tau.BookIV.Strong.instReprArgminIsLift :Repr ArgminIsLift**
 
@@ -502,7 +502,7 @@ Equations
 
 ### `Tau.BookIV.Strong.argmin_is_lift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L186-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L186-L186)
 **def
 Tau.BookIV.Strong.argmin_is_lift :ArgminIsLift**
 
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.QCDReadoutSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L192-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L192-L203)
 **structure
 Tau.BookIV.Strong.QCDReadoutSaturation :Type**
 
@@ -539,7 +539,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprQCDReadoutSaturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L203-L203)
 **instance
 Tau.BookIV.Strong.instReprQCDReadoutSaturation :Repr QCDReadoutSaturation**
 
@@ -550,7 +550,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprQCDReadoutSaturation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L203-L203)
 **def
 Tau.BookIV.Strong.instReprQCDReadoutSaturation.repr :QCDReadoutSaturation → ℕ → Std.Format**
 
@@ -562,7 +562,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.qcd_readout_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L205-L205)
 **def
 Tau.BookIV.Strong.qcd_readout_saturation :QCDReadoutSaturation**
 
@@ -574,7 +574,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.OnticCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L211-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L211-L226)
 **structure
 Tau.BookIV.Strong.OnticCoupling :Type**
 
@@ -605,7 +605,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprOnticCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L226-L226)
 **def
 Tau.BookIV.Strong.instReprOnticCoupling.repr :OnticCoupling → ℕ → Std.Format**
 
@@ -617,7 +617,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprOnticCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L226-L226)
 **instance
 Tau.BookIV.Strong.instReprOnticCoupling :Repr OnticCoupling**
 
@@ -628,7 +628,7 @@ Equations
 
 ### `Tau.BookIV.Strong.RegimeSelector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L232-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L232-L243)
 **structure
 Tau.BookIV.Strong.RegimeSelector :Type**
 
@@ -654,7 +654,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprRegimeSelector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L243-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L243-L243)
 **instance
 Tau.BookIV.Strong.instReprRegimeSelector :Repr RegimeSelector**
 
@@ -665,7 +665,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprRegimeSelector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L243-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L243-L243)
 **def
 Tau.BookIV.Strong.instReprRegimeSelector.repr :RegimeSelector → ℕ → Std.Format**
 
@@ -677,7 +677,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.RegimeReadoutMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L249-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L249-L258)
 **structure
 Tau.BookIV.Strong.RegimeReadoutMap :Type**
 
@@ -700,7 +700,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprRegimeReadoutMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L258-L258)
 **instance
 Tau.BookIV.Strong.instReprRegimeReadoutMap :Repr RegimeReadoutMap**
 
@@ -711,7 +711,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprRegimeReadoutMap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L258-L258)
 **def
 Tau.BookIV.Strong.instReprRegimeReadoutMap.repr :RegimeReadoutMap → ℕ → Std.Format**
 
@@ -723,7 +723,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.NoOnticRunning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L264-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L264-L281)
 **structure
 Tau.BookIV.Strong.NoOnticRunning :Type**
 
@@ -755,7 +755,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprNoOnticRunning`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L281-L281)
 **instance
 Tau.BookIV.Strong.instReprNoOnticRunning :Repr NoOnticRunning**
 
@@ -766,7 +766,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprNoOnticRunning.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L281-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L281-L281)
 **def
 Tau.BookIV.Strong.instReprNoOnticRunning.repr :NoOnticRunning → ℕ → Std.Format**
 
@@ -778,7 +778,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.no_ontic_running`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L283-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L283-L283)
 **def
 Tau.BookIV.Strong.no_ontic_running :NoOnticRunning**
 
@@ -790,7 +790,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.AsymptoticFreedomSpectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L289-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L289-L310)
 **structure
 Tau.BookIV.Strong.AsymptoticFreedomSpectral :Type**
 
@@ -828,7 +828,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprAsymptoticFreedomSpectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L310-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L310-L310)
 **instance
 Tau.BookIV.Strong.instReprAsymptoticFreedomSpectral :Repr AsymptoticFreedomSpectral**
 
@@ -839,7 +839,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprAsymptoticFreedomSpectral.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L310-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L310-L310)
 **def
 Tau.BookIV.Strong.instReprAsymptoticFreedomSpectral.repr :AsymptoticFreedomSpectral → ℕ → Std.Format**
 
@@ -851,7 +851,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.asymptotic_freedom_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L312-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L312-L312)
 **def
 Tau.BookIV.Strong.asymptotic_freedom_spectral :AsymptoticFreedomSpectral**
 
@@ -863,7 +863,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.asymptotic_freedom_condition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L314-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L314-L318)
 **theorem
 Tau.BookIV.Strong.asymptotic_freedom_condition :11 * asymptotic_freedom_spectral.num_colors > 2 * asymptotic_freedom_spectral.num_flavors**
 
@@ -874,7 +874,7 @@ Tau.BookIV.Strong.asymptotic_freedom_condition :11 * asymptotic_freedom_spectral
 
 ### `Tau.BookIV.Strong.beta_numerator_correct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/StrongCoupling.lean#L320-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/StrongCoupling.lean#L320-L325)
 **theorem
 Tau.BookIV.Strong.beta_numerator_correct :11 * asymptotic_freedom_spectral.num_colors - 2 * asymptotic_freedom_spectral.num_flavors = asymptotic_freedom_spectral.beta_numerator**
 

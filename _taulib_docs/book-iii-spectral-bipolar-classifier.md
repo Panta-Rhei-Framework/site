@@ -56,7 +56,7 @@ to e₊-dominant spectral coefficients, C-type to e₋-dominant.
 
 ### `Tau.BookIII.Spectral.PrimeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L38-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L38-L44)
 **inductive
 Tau.BookIII.Spectral.PrimeLabel :Type**
 
@@ -73,7 +73,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprPrimeLabel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **def
 Tau.BookIII.Spectral.instReprPrimeLabel.repr :PrimeLabel → ℕ → Std.Format**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instReprPrimeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **instance
 Tau.BookIII.Spectral.instReprPrimeLabel :Repr PrimeLabel**
 
@@ -96,7 +96,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instDecidableEqPrimeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **instance
 Tau.BookIII.Spectral.instDecidableEqPrimeLabel :DecidableEq PrimeLabel**
 
@@ -107,7 +107,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instBEqPrimeLabel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **def
 Tau.BookIII.Spectral.instBEqPrimeLabel.beq :PrimeLabel → PrimeLabel → Bool**
 
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instBEqPrimeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **instance
 Tau.BookIII.Spectral.instBEqPrimeLabel :BEq PrimeLabel**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.instInhabitedPrimeLabel.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **def
 Tau.BookIII.Spectral.instInhabitedPrimeLabel.default :PrimeLabel**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.instInhabitedPrimeLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L44-L44)
 **instance
 Tau.BookIII.Spectral.instInhabitedPrimeLabel :Inhabited PrimeLabel**
 
@@ -153,7 +153,7 @@ Equations
 
 ### `Tau.BookIII.Spectral.label_at_depth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L46-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L46-L70)
 **def
 Tau.BookIII.Spectral.label_at_depth
 (p_idx n : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_direct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L72-L78)
 **def
 Tau.BookIII.Spectral.label_direct
 (p : Denotation.TauIdx)
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_counts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L80-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L80-L93)
 **def
 Tau.BookIII.Spectral.label_counts
 (k : Denotation.TauIdx)
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_counts.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L84-L92)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L84-L92)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.label_counts.go
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.classifier_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L95-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L95-L112)
 **def
 Tau.BookIII.Spectral.classifier_check
 (bound : Denotation.TauIdx)
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.classifier_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L100-L111)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L100-L111)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.classifier_check.go
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_convergence_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L118-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L118-L141)
 **def
 Tau.BookIII.Spectral.label_convergence_check
 (bound : Denotation.TauIdx)
@@ -286,7 +286,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_convergence_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L126-L140)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L126-L140)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.label_convergence_check.go
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.bc_balance_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L143-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L143-L147)
 **def
 Tau.BookIII.Spectral.bc_balance_check
 (bound : Denotation.TauIdx)
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_idem_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L153-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L153-L181)
 **def
 Tau.BookIII.Spectral.label_idem_check
 (bound db : Denotation.TauIdx)
@@ -339,7 +339,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.label_idem_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L159-L180)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L159-L180)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.label_idem_check.go
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.split_complex_label_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L183-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L183-L207)
 **def
 Tau.BookIII.Spectral.split_complex_label_check
 (bound db : Denotation.TauIdx)
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.split_complex_label_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L189-L206)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L189-L206)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.split_complex_label_check.go
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.classifier_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L235-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L235-L236)
 **theorem
 Tau.BookIII.Spectral.classifier_20 :classifier_check 20 = true**
 
@@ -400,7 +400,7 @@ Tau.BookIII.Spectral.classifier_20 :classifier_check 20 = true**
 
 ### `Tau.BookIII.Spectral.label_conv_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L239-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L239-L240)
 **theorem
 Tau.BookIII.Spectral.label_conv_20 :label_convergence_check 20 = true**
 
@@ -409,7 +409,7 @@ Tau.BookIII.Spectral.label_conv_20 :label_convergence_check 20 = true**
 
 ### `Tau.BookIII.Spectral.bc_balance_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L243-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L243-L244)
 **theorem
 Tau.BookIII.Spectral.bc_balance_5 :bc_balance_check 5 = true**
 
@@ -418,7 +418,7 @@ Tau.BookIII.Spectral.bc_balance_5 :bc_balance_check 5 = true**
 
 ### `Tau.BookIII.Spectral.label_idem_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L247-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L247-L248)
 **theorem
 Tau.BookIII.Spectral.label_idem_10_4 :label_idem_check 10 4 = true**
 
@@ -427,7 +427,7 @@ Tau.BookIII.Spectral.label_idem_10_4 :label_idem_check 10 4 = true**
 
 ### `Tau.BookIII.Spectral.split_label_10_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L251-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L251-L252)
 **theorem
 Tau.BookIII.Spectral.split_label_10_4 :split_complex_label_check 10 4 = true**
 
@@ -436,7 +436,7 @@ Tau.BookIII.Spectral.split_label_10_4 :split_complex_label_check 10 4 = true**
 
 ### `Tau.BookIII.Spectral.two_is_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L258-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L258-L259)
 **theorem
 Tau.BookIII.Spectral.two_is_x :label_direct 2 = PrimeLabel.X**
 
@@ -447,7 +447,7 @@ Tau.BookIII.Spectral.two_is_x :label_direct 2 = PrimeLabel.X**
 
 ### `Tau.BookIII.Spectral.five_is_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L261-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L261-L262)
 **theorem
 Tau.BookIII.Spectral.five_is_b :label_direct 5 = PrimeLabel.B**
 
@@ -458,7 +458,7 @@ Tau.BookIII.Spectral.five_is_b :label_direct 5 = PrimeLabel.B**
 
 ### `Tau.BookIII.Spectral.three_is_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L264-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L264-L265)
 **theorem
 Tau.BookIII.Spectral.three_is_c :label_direct 3 = PrimeLabel.C**
 
@@ -469,7 +469,7 @@ Tau.BookIII.Spectral.three_is_c :label_direct 3 = PrimeLabel.C**
 
 ### `Tau.BookIII.Spectral.bc_exist_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/BipolarClassifier.lean#L267-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/BipolarClassifier.lean#L267-L268)
 **theorem
 Tau.BookIII.Spectral.bc_exist_3 :bc_balance_check 3 = true**
 

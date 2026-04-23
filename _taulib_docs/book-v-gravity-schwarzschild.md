@@ -118,7 +118,7 @@ can be refinement-invariantly realized = minimal maturity scale.
 
 ### `Tau.BookV.Gravity.BHMassIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L72-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L72-L92)
 **structure
 Tau.BookV.Gravity.BHMassIndex :Type**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprBHMassIndex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L92-L92)
 **instance
 Tau.BookV.Gravity.instReprBHMassIndex :Repr BHMassIndex**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprBHMassIndex.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L92-L92)
 **def
 Tau.BookV.Gravity.instReprBHMassIndex.repr :BHMassIndex → ℕ → Std.Format**
 
@@ -182,7 +182,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.BHMassIndex.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L94-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L94-L96)
 **def
 Tau.BookV.Gravity.BHMassIndex.toFloat
 (m : BHMassIndex)
@@ -198,7 +198,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.SchwarzschildRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L102-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L102-L128)
 **structure
 Tau.BookV.Gravity.SchwarzschildRelation :Type**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprSchwarzschildRelation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L128-L128)
 **def
 Tau.BookV.Gravity.instReprSchwarzschildRelation.repr :SchwarzschildRelation → ℕ → Std.Format**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprSchwarzschildRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L128-L128)
 **instance
 Tau.BookV.Gravity.instReprSchwarzschildRelation :Repr SchwarzschildRelation**
 
@@ -262,7 +262,7 @@ Equations
 
 ### `Tau.BookV.Gravity.SchwarzschildRelation.radiusFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L130-L132)
 **def
 Tau.BookV.Gravity.SchwarzschildRelation.radiusFloat
 (s : SchwarzschildRelation)
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.NoShrinkProperty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L138-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L138-L152)
 **structure
 Tau.BookV.Gravity.NoShrinkProperty :Type**
 
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprNoShrinkProperty.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L152-L152)
 **def
 Tau.BookV.Gravity.instReprNoShrinkProperty.repr :NoShrinkProperty → ℕ → Std.Format**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprNoShrinkProperty`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L152-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L152-L152)
 **instance
 Tau.BookV.Gravity.instReprNoShrinkProperty :Repr NoShrinkProperty**
 
@@ -333,7 +333,7 @@ Equations
 
 ### `Tau.BookV.Gravity.BHEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L158-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L158-L177)
 **inductive
 Tau.BookV.Gravity.BHEvolutionMode :Type**
 
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprBHEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **instance
 Tau.BookV.Gravity.instReprBHEvolutionMode :Repr BHEvolutionMode**
 
@@ -381,7 +381,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instReprBHEvolutionMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **def
 Tau.BookV.Gravity.instReprBHEvolutionMode.repr :BHEvolutionMode → ℕ → Std.Format**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instDecidableEqBHEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **instance
 Tau.BookV.Gravity.instDecidableEqBHEvolutionMode :DecidableEq BHEvolutionMode**
 
@@ -404,7 +404,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instBEqBHEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **instance
 Tau.BookV.Gravity.instBEqBHEvolutionMode :BEq BHEvolutionMode**
 
@@ -415,7 +415,7 @@ Equations
 
 ### `Tau.BookV.Gravity.instBEqBHEvolutionMode.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **def
 Tau.BookV.Gravity.instBEqBHEvolutionMode.beq :BHEvolutionMode → BHEvolutionMode → Bool**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedBHEvolutionMode.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **def
 Tau.BookV.Gravity.instInhabitedBHEvolutionMode.default :BHEvolutionMode**
 
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instInhabitedBHEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L177-L177)
 **instance
 Tau.BookV.Gravity.instInhabitedBHEvolutionMode :Inhabited BHEvolutionMode**
 
@@ -450,7 +450,7 @@ Equations
 
 ### `Tau.BookV.Gravity.BHEvolutionMode.preserves_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L183-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L183-L187)
 **def
 Tau.BookV.Gravity.BHEvolutionMode.preserves_mass :BHEvolutionMode → Bool**
 
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.BHEvolutionMode.is_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L189-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L189-L193)
 **def
 Tau.BookV.Gravity.BHEvolutionMode.is_internal :BHEvolutionMode → Bool**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.ChandrasekharLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L199-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L199-L217)
 **structure
 Tau.BookV.Gravity.ChandrasekharLimit :Type**
 
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprChandrasekharLimit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L217-L217)
 **def
 Tau.BookV.Gravity.instReprChandrasekharLimit.repr :ChandrasekharLimit → ℕ → Std.Format**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprChandrasekharLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L217-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L217-L217)
 **instance
 Tau.BookV.Gravity.instReprChandrasekharLimit :Repr ChandrasekharLimit**
 
@@ -537,7 +537,7 @@ Equations
 
 ### `Tau.BookV.Gravity.three_evolution_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L223-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L223-L226)
 **theorem
 Tau.BookV.Gravity.three_evolution_modes
 (m : BHEvolutionMode)
@@ -550,7 +550,7 @@ Exactly 3 BH evolution modes.
 
 ### `Tau.BookV.Gravity.fusion_increases_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L228-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L228-L230)
 **theorem
 Tau.BookV.Gravity.fusion_increases_mass :BHEvolutionMode.Fusion.preserves_mass = false**
 
@@ -561,7 +561,7 @@ Fusion increases mass (does not preserve).
 
 ### `Tau.BookV.Gravity.ringdown_preserves_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L232-L234)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L232-L234)
 **theorem
 Tau.BookV.Gravity.ringdown_preserves_mass :BHEvolutionMode.Ringdown.preserves_mass = true**
 
@@ -572,7 +572,7 @@ Ringdown preserves mass.
 
 ### `Tau.BookV.Gravity.transport_preserves_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L236-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L236-L238)
 **theorem
 Tau.BookV.Gravity.transport_preserves_mass :BHEvolutionMode.Transport.preserves_mass = true**
 
@@ -583,7 +583,7 @@ Transport preserves mass.
 
 ### `Tau.BookV.Gravity.ringdown_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L240-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L240-L242)
 **theorem
 Tau.BookV.Gravity.ringdown_internal :BHEvolutionMode.Ringdown.is_internal = true**
 
@@ -594,7 +594,7 @@ Ringdown is internal.
 
 ### `Tau.BookV.Gravity.no_shrink_requires_maturity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L244-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L244-L246)
 **theorem
 Tau.BookV.Gravity.no_shrink_requires_maturity
 (p : NoShrinkProperty)
@@ -607,7 +607,7 @@ No-Shrink requires maturity.
 
 ### `Tau.BookV.Gravity.schwarzschild_linear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/Schwarzschild.lean#L248-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/Schwarzschild.lean#L248-L253)
 **theorem
 Tau.BookV.Gravity.schwarzschild_linear
 (s : SchwarzschildRelation)

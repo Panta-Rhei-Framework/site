@@ -115,7 +115,7 @@ Phi : tau-observables -> orthodox observables is:
 
 ### `Tau.BookV.Orthodox.ArtifactStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L69-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L69-L77)
 **inductive
 Tau.BookV.Orthodox.ArtifactStatus :Type**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprArtifactStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
 **instance
 Tau.BookV.Orthodox.instReprArtifactStatus :Repr ArtifactStatus**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprArtifactStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
 **def
 Tau.BookV.Orthodox.instReprArtifactStatus.repr :ArtifactStatus → ℕ → Std.Format**
 
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instDecidableEqArtifactStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
 **instance
 Tau.BookV.Orthodox.instDecidableEqArtifactStatus :DecidableEq ArtifactStatus**
 
@@ -171,7 +171,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqArtifactStatus.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
 **def
 Tau.BookV.Orthodox.instBEqArtifactStatus.beq :ArtifactStatus → ArtifactStatus → Bool**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instBEqArtifactStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L77-L77)
 **instance
 Tau.BookV.Orthodox.instBEqArtifactStatus :BEq ArtifactStatus**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.StructuralArtifact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L79-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L79-L100)
 **structure
 Tau.BookV.Orthodox.StructuralArtifact :Type**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprStructuralArtifact`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L100-L100)
 **instance
 Tau.BookV.Orthodox.instReprStructuralArtifact :Repr StructuralArtifact**
 
@@ -248,7 +248,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprStructuralArtifact.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L100-L100)
 **def
 Tau.BookV.Orthodox.instReprStructuralArtifact.repr :StructuralArtifact → ℕ → Std.Format**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.canonical_artifacts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L102-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L102-L128)
 **def
 Tau.BookV.Orthodox.canonical_artifacts :List StructuralArtifact**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.canonical_artifact_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L130-L132)
 **theorem
 Tau.BookV.Orthodox.canonical_artifact_count :canonical_artifacts.length = 5**
 
@@ -285,7 +285,7 @@ There are exactly 5 canonical artifacts.
 
 ### `Tau.BookV.Orthodox.OntologicalLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L138-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L138-L144)
 **inductive
 Tau.BookV.Orthodox.OntologicalLayer :Type**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprOntologicalLayer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
 **def
 Tau.BookV.Orthodox.instReprOntologicalLayer.repr :OntologicalLayer → ℕ → Std.Format**
 
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprOntologicalLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
 **instance
 Tau.BookV.Orthodox.instReprOntologicalLayer :Repr OntologicalLayer**
 
@@ -327,7 +327,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instDecidableEqOntologicalLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
 **instance
 Tau.BookV.Orthodox.instDecidableEqOntologicalLayer :DecidableEq OntologicalLayer**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqOntologicalLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
 **instance
 Tau.BookV.Orthodox.instBEqOntologicalLayer :BEq OntologicalLayer**
 
@@ -349,7 +349,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqOntologicalLayer.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L144-L144)
 **def
 Tau.BookV.Orthodox.instBEqOntologicalLayer.beq :OntologicalLayer → OntologicalLayer → Bool**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.OnticReadoutLayers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L146-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L146-L162)
 **structure
 Tau.BookV.Orthodox.OnticReadoutLayers :Type**
 
@@ -392,7 +392,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprOnticReadoutLayers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L162-L162)
 **instance
 Tau.BookV.Orthodox.instReprOnticReadoutLayers :Repr OnticReadoutLayers**
 
@@ -403,7 +403,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprOnticReadoutLayers.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L162-L162)
 **def
 Tau.BookV.Orthodox.instReprOnticReadoutLayers.repr :OnticReadoutLayers → ℕ → Std.Format**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.two_layers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L164-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L164-L167)
 **def
 Tau.BookV.Orthodox.two_layers :OnticReadoutLayers**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.ReadoutProtocol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L173-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L173-L191)
 **structure
 Tau.BookV.Orthodox.ReadoutProtocol :Type**
 
@@ -467,7 +467,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprReadoutProtocol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L191-L191)
 **instance
 Tau.BookV.Orthodox.instReprReadoutProtocol :Repr ReadoutProtocol**
 
@@ -478,7 +478,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprReadoutProtocol.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L191-L191)
 **def
 Tau.BookV.Orthodox.instReprReadoutProtocol.repr :ReadoutProtocol → ℕ → Std.Format**
 
@@ -490,7 +490,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.canonical_protocol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L193-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L193-L196)
 **def
 Tau.BookV.Orthodox.canonical_protocol :ReadoutProtocol**
 
@@ -504,7 +504,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.CorrespondenceFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L202-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L202-L225)
 **structure
 Tau.BookV.Orthodox.CorrespondenceFunctor :Type**
 
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprCorrespondenceFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L225-L225)
 **def
 Tau.BookV.Orthodox.instReprCorrespondenceFunctor.repr :CorrespondenceFunctor → ℕ → Std.Format**
 
@@ -559,7 +559,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprCorrespondenceFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L225-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L225-L225)
 **instance
 Tau.BookV.Orthodox.instReprCorrespondenceFunctor :Repr CorrespondenceFunctor**
 
@@ -570,7 +570,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.correspondence_functor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L227-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L227-L228)
 **def
 Tau.BookV.Orthodox.correspondence_functor :CorrespondenceFunctor**
 
@@ -584,7 +584,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.correspondence_functor_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L230-L232)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L230-L232)
 **theorem
 Tau.BookV.Orthodox.correspondence_functor_well_defined :correspondence_functor.well_defined = true**
 
@@ -595,7 +595,7 @@ Phi is well-defined.
 
 ### `Tau.BookV.Orthodox.correspondence_functor_functorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L234-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L234-L236)
 **theorem
 Tau.BookV.Orthodox.correspondence_functor_functorial :correspondence_functor.functorial = true**
 
@@ -606,7 +606,7 @@ Phi is functorial.
 
 ### `Tau.BookV.Orthodox.correspondence_functor_not_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L238-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L238-L240)
 **theorem
 Tau.BookV.Orthodox.correspondence_functor_not_surjective :correspondence_functor.surjective = false**
 
@@ -617,7 +617,7 @@ Phi is NOT surjective (artifacts have no preimage).
 
 ### `Tau.BookV.Orthodox.correspondence_functor_not_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L242-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L242-L244)
 **theorem
 Tau.BookV.Orthodox.correspondence_functor_not_injective :correspondence_functor.injective = false**
 
@@ -628,7 +628,7 @@ Phi is NOT injective on objects (chart projection loses information).
 
 ### `Tau.BookV.Orthodox.correspondence_functor_props`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L246-L252)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L246-L252)
 **theorem
 Tau.BookV.Orthodox.correspondence_functor_props :correspondence_functor.well_defined = true ∧ correspondence_functor.functorial = true ∧ correspondence_functor.surjective = false ∧ correspondence_functor.injective = false**
 
@@ -639,7 +639,7 @@ Tau.BookV.Orthodox.correspondence_functor_props :correspondence_functor.well_def
 
 ### `Tau.BookV.Orthodox.no_counterpart_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L258-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L258-L263)
 **theorem
 Tau.BookV.Orthodox.no_counterpart_count :2 = 2**
 
@@ -653,7 +653,7 @@ derive and no generative structure from which all symmetries emerge.
 
 ### `Tau.BookV.Orthodox.orthodox_not_wrong`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L265-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L265-L270)
 **theorem
 Tau.BookV.Orthodox.orthodox_not_wrong :"Orthodox physics = accurate readout where Phi is defined" = "Orthodox physics = accurate readout where Phi is defined"**
 
@@ -666,7 +666,7 @@ predictions. Where Phi is defined, it agrees with experiment.
 
 ### `Tau.BookV.Orthodox.vacuum_catastrophe_diagnostic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L272-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/CorrespondenceMap.lean#L272-L277)
 **theorem
 Tau.BookV.Orthodox.vacuum_catastrophe_diagnostic :"rho_vac^QFT / rho_vac^tau ~ 10^120, diagnostic of readout artifact" = "rho_vac^QFT / rho_vac^tau ~ 10^120, diagnostic of readout artifact"**
 

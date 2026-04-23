@@ -64,7 +64,7 @@ These axioms operate on the `TauObj` type, which represents all objects of τ
 
 ### `Tau.Kernel.TauObj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L37-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L37-L54)
 **structure
 Tau.Kernel.TauObj :Type**
 
@@ -94,7 +94,7 @@ Instances For
 
 ### `Tau.Kernel.instDecidableEqTauObj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
 **instance
 Tau.Kernel.instDecidableEqTauObj :DecidableEq TauObj**
 
@@ -105,7 +105,7 @@ Equations
 
 ### `Tau.Kernel.instDecidableEqTauObj.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
 **def
 Tau.Kernel.instDecidableEqTauObj.decEq
 (x✝ x✝¹ : TauObj)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.Kernel.instReprTauObj.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
 **def
 Tau.Kernel.instReprTauObj.repr :TauObj → Nat → Std.Format**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Kernel.instReprTauObj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L54-L54)
 **instance
 Tau.Kernel.instReprTauObj :Repr TauObj**
 
@@ -142,7 +142,7 @@ Equations
 
 ### `Tau.Kernel.TauObj.ofGen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L56-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L56-L57)
 **def
 Tau.Kernel.TauObj.ofGen
 (g : Generator)
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.Kernel.rho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L59-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L59-L64)
 **def
 Tau.Kernel.rho
 (x : TauObj)
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.Kernel.K1_strict_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L71-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L71-L80)
 **theorem
 Tau.Kernel.K1_strict_order :Generator.alpha.toNat < Generator.pi.toNat ∧ Generator.pi.toNat < Generator.gamma.toNat ∧ Generator.gamma.toNat < Generator.eta.toNat ∧ Generator.eta.toNat < Generator.omega.toNat**
 
@@ -191,7 +191,7 @@ In our representation, this holds definitionally via `Generator.toNat`.
 
 ### `Tau.Kernel.K2_omega_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L82-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L82-L87)
 **theorem
 Tau.Kernel.K2_omega_fixed
 (n : Nat)
@@ -206,7 +206,7 @@ This holds definitionally from our `rho` definition.
 
 ### `Tau.Kernel.inOrbitRay`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L89-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L89-L94)
 **def
 Tau.Kernel.inOrbitRay
 (g : Generator)
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.Kernel.K3_orbit_seeded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L96-L99)
 **theorem
 Tau.Kernel.K3_orbit_seeded
 (g : Generator)
@@ -242,7 +242,7 @@ Tau.Kernel.K3_orbit_seeded
 
 ### `Tau.Kernel.K4_no_jump`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L101-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L101-L105)
 **theorem
 Tau.Kernel.K4_no_jump
 (g : Generator)
@@ -260,7 +260,7 @@ Tau.Kernel.K4_no_jump
 
 ### `Tau.Kernel.K5_beacon_non_succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L107-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L107-L111)
 **theorem
 Tau.Kernel.K5_beacon_non_succ
 (g : Generator)
@@ -278,7 +278,7 @@ to any orbit ray. No finite iteration of ρ on a non-omega generator reaches ω.
 
 ### `Tau.Kernel.K5_omega_unreachable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L113-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L113-L121)
 **theorem
 Tau.Kernel.K5_omega_unreachable
 (g : Generator)
@@ -296,7 +296,7 @@ Tau.Kernel.K5_omega_unreachable
 
 ### `Tau.Kernel.K6_object_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L123-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L123-L135)
 **theorem
 Tau.Kernel.K6_object_closure
 (x : TauObj)
@@ -313,7 +313,7 @@ from a `Generator` seed, and `Generator` has exactly 5 constructors.
 
 ### `Tau.Kernel.gen_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L141-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L141-L146)
 **theorem
 Tau.Kernel.gen_distinct
 (a b : Generator)
@@ -326,7 +326,7 @@ Tau.Kernel.gen_distinct
 
 ### `Tau.Kernel.rho_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Kernel/Axioms.lean#L148-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Kernel/Axioms.lean#L148-L156)
 **theorem
 Tau.Kernel.rho_injective
 (g : Generator)

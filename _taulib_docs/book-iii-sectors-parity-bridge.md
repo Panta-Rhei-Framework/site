@@ -54,7 +54,7 @@ couplings: 4 self-couplings + 6 cross-couplings.
 
 ### `Tau.BookIII.Sectors.parity_bridge_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L36-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L36-L46)
 **def
 Tau.BookIII.Sectors.parity_bridge_check
 (bound db : Denotation.TauIdx)
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.CouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L52-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L52-L57)
 **structure
 Tau.BookIII.Sectors.CouplingEntry :Type**
 
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instReprCouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **instance
 Tau.BookIII.Sectors.instReprCouplingEntry :Repr CouplingEntry**
 
@@ -99,7 +99,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instReprCouplingEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **def
 Tau.BookIII.Sectors.instReprCouplingEntry.repr :CouplingEntry → ℕ → Std.Format**
 
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instDecidableEqCouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **instance
 Tau.BookIII.Sectors.instDecidableEqCouplingEntry :DecidableEq CouplingEntry**
 
@@ -122,7 +122,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.instDecidableEqCouplingEntry.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **def
 Tau.BookIII.Sectors.instDecidableEqCouplingEntry.decEq
 (x✝ x✝¹ : CouplingEntry)
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instBEqCouplingEntry.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **def
 Tau.BookIII.Sectors.instBEqCouplingEntry.beq :CouplingEntry → CouplingEntry → Bool**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.instBEqCouplingEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L57-L57)
 **instance
 Tau.BookIII.Sectors.instBEqCouplingEntry :BEq CouplingEntry**
 
@@ -161,7 +161,7 @@ Equations
 
 ### `Tau.BookIII.Sectors.sector_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L59-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L59-L84)
 **def
 Tau.BookIII.Sectors.sector_coupling
 (si sj : Sector)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.sector_coupling.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L67-L83)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L67-L83)@[irreducible]
 
 **def
 Tau.BookIII.Sectors.sector_coupling.go
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.coupling_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L86-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L86-L107)
 **def
 Tau.BookIII.Sectors.coupling_ledger
 (bound : Denotation.TauIdx)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.coupling_ledger.go_i`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L92-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L92-L98)
 **def
 Tau.BookIII.Sectors.coupling_ledger.go_i
 (si_list sj_full : List Sector)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.coupling_ledger.go_j`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L99-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L99-L107)
 **def
 Tau.BookIII.Sectors.coupling_ledger.go_j
 (si : Sector)
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.coupling_ledger_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L109-L111)
 **def
 Tau.BookIII.Sectors.coupling_ledger_check
 (bound : Denotation.TauIdx)
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.no_knobs_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L117-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L117-L126)
 **def
 Tau.BookIII.Sectors.no_knobs_check
 (bound db : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookIII.Sectors.parity_bridge_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L152-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L152-L153)
 **theorem
 Tau.BookIII.Sectors.parity_bridge_5_3 :parity_bridge_check 5 3 = true**
 
@@ -309,7 +309,7 @@ Tau.BookIII.Sectors.parity_bridge_5_3 :parity_bridge_check 5 3 = true**
 
 ### `Tau.BookIII.Sectors.coupling_ledger_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L156-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L156-L157)
 **theorem
 Tau.BookIII.Sectors.coupling_ledger_3 :coupling_ledger_check 3 = true**
 
@@ -318,7 +318,7 @@ Tau.BookIII.Sectors.coupling_ledger_3 :coupling_ledger_check 3 = true**
 
 ### `Tau.BookIII.Sectors.no_knobs_5_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L160-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L160-L161)
 **theorem
 Tau.BookIII.Sectors.no_knobs_5_3 :no_knobs_check 5 3 = true**
 
@@ -327,7 +327,7 @@ Tau.BookIII.Sectors.no_knobs_5_3 :no_knobs_check 5 3 = true**
 
 ### `Tau.BookIII.Sectors.a_is_balanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L167-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L167-L168)
 **theorem
 Tau.BookIII.Sectors.a_is_balanced :sector_of { m_index := 1, n_index := 1 } = Sector.A**
 
@@ -338,7 +338,7 @@ Tau.BookIII.Sectors.a_is_balanced :sector_of { m_index := 1, n_index := 1 } = Se
 
 ### `Tau.BookIII.Sectors.b_not_a`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L170-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L170-L171)
 **theorem
 Tau.BookIII.Sectors.b_not_a :sector_of { m_index := 2, n_index := 0 } = Sector.B**
 
@@ -349,7 +349,7 @@ Tau.BookIII.Sectors.b_not_a :sector_of { m_index := 2, n_index := 0 } = Sector.B
 
 ### `Tau.BookIII.Sectors.c_not_a`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L172-L172)
 **theorem
 Tau.BookIII.Sectors.c_not_a :sector_of { m_index := 0, n_index := 2 } = Sector.C**
 
@@ -358,7 +358,7 @@ Tau.BookIII.Sectors.c_not_a :sector_of { m_index := 0, n_index := 2 } = Sector.C
 
 ### `Tau.BookIII.Sectors.d_self_coupling_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L174-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L174-L177)
 **theorem
 Tau.BookIII.Sectors.d_self_coupling_1 :sector_coupling Sector.D Sector.D 5 = 1**
 
@@ -370,7 +370,7 @@ Tau.BookIII.Sectors.d_self_coupling_1 :sector_coupling Sector.D Sector.D 5 = 1**
 
 ### `Tau.BookIII.Sectors.coupling_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Sectors/ParityBridge.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Sectors/ParityBridge.lean#L179-L181)
 **theorem
 Tau.BookIII.Sectors.coupling_count :4 * (4 + 1) / 2 = 10**
 

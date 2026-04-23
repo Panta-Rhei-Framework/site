@@ -27,25 +27,25 @@ sections:
         updated: "April 2026"
     ---
   '__preamble__': |
-    
+
     This page is the **single authoritative snapshot** of the current release. Everything that is pinned, every count that is claimed, every known drift between surfaces is stated here in one view. If the registry, the per-book dashboards, and the TauLib docs appear to disagree on a number, this page explains why and which number is load-bearing for which purpose.
-    
+
   'Release identity': |
     ## Release identity
-    
+
     {% assign build = site.data.verify.build %}
-    
+
     | Source | Revision | Reference |
     |--------|----------|-----------|
     | **TauLib** ({{ build.taulib.repo }}) | [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}) &middot; {{ build.taulib.commit_date }} | Apache&nbsp;2.0 &middot; [LICENSE]({{ build.taulib.license_url }}) |
     | **Lean** | `{{ build.lean.version }}` | [lean-lang.org]({{ build.lean.url }}) |
     | **Mathlib** | [`{{ build.mathlib.commit_short }}`]({{ build.mathlib.url }}/commit/{{ build.mathlib.commit_sha }}) | {{ build.mathlib.policy }} |
-    
+
     The 445 API-doc pages under `/verify/taulib/docs/` were generated from TauLib commit `{{ build.taulib.commit_short }}` via `scripts/import_taulib_docs.py` + `scripts/convert_taulib_html_to_md.py`. To reproduce locally, clone the TauLib repo at that commit and run `lake build`.
-    
+
   'Build status — summary': |
     ## Build status — summary
-    
+
     | Metric | Value |
     |--------|------:|
     | Total modules | **445** |
@@ -57,13 +57,15 @@ sections:
     | Custom `axiom` declarations | **3** (all in Book III — spectral / number-theoretic bridges) |
     | `sorry` (incomplete proofs) | **0** (across all 7 books) |
 
-    The 3 custom axioms sit outside Mathlib's trusted base and are specific to the τ-framework's internal construction; they are named and documented in the per-module API docs. The prior v1 release pinned at commit `181a59e` shipped a fourth axiom `central_theorem_physical : True` in Book IV which was retired in `peer-review-fixes-v1` (2026-04-19) as a no-op — an axiom of type `True` is inhabited by `trivial` and added nothing to the theory. Pre-peer-review-fixes-v1, Book VII shipped three `theorem X : True := sorry` declarations encoding methodological commitments. These were identified as performative and retired in favor of inspectable `def : Commitment` values carrying `statement`/`warrant`/`registry_id` string data. TauLib now contains **zero sorry across all seven books**.
-    
+    The 3 custom axioms sit outside Mathlib's trusted base and are specific to the τ-framework's internal construction; they are named and documented in the per-module API docs. The prior v1 release pinned at commit `181a59e` shipped a fourth axiom `central_theorem_physical : True` in Book IV which was retired in `peer-review-fixes-v1` (2026-04-19) as a no-op — an axiom of type `True` is inhabited by `trivial` and added nothing to the theory.
+
+    Pre-peer-review-fixes-v1, Book VII shipped three `theorem X : True := sorry` declarations encoding methodological commitments. These were identified as performative (True is provable by `trivial`) and were retired in favor of inspectable `def : Commitment` values carrying `statement`/`warrant`/`registry_id` string data. TauLib now contains **zero sorry across all seven books**. See `TauLib/BookVII/Meta/Commitment.lean` and the three commitment defs in `BookVII/Logos/Sector.lean` and `BookVII/Final/Boundary.lean`.
+
   'Per-book reconciliation': |
     ## Per-book reconciliation
-    
+
     This is the table Assessment #3 asked for. It shows, for each book, what each of the three public surfaces claims — and where they differ. Registry objects and Lean modules are **different units of counting** (a single module hosts many definitions, theorems, and propositions, each of which is a registry object), so some spread is expected; the drift within the same unit (registry root vs per-book dashboard) is what the honest reader should track.
-    
+
     | Book | Registry root | Dashboard total | Dashboard formalized | TauLib modules | Sorry |
     |------|-------------:|-----------------:|---------------------:|---------------:|------:|
     | I — Foundations | 254 | 254 | 221 | 94 | 0 |
@@ -75,66 +77,78 @@ sections:
     | VII — Metaphysics | 274 | 273 | 182 | 7 | 0 |
     | Tour modules | — | — | — | 8 | 0 |
     | **Total** | **4,547** | **3,548** | **2,675** | **445** | **0** |
-    
-    Sources: registry root totals from `/registry/`; dashboard totals and formalization counts generated on **2026-03-10** from `_data/registry/objects.json` and visible at `/registry/dashboards/book-{i..vii}/`; TauLib module counts from the pinned commit `{{ build.taulib.commit_short }}`.
-    
-  'Known drift between surfaces': |
-    ## Known drift between surfaces
-    
-    The registry root totals and per-book dashboard totals **do not agree** for four of the seven books. The differences (registry root minus dashboard) are:
-    
-    | Book | Drift | Plausible cause |
-    |------|------:|-----------------|
-    | II | +11 | Registry includes entries the dashboard filters (remarks, obsolete) |
-    | IV | +572 | Registry counts all objects; dashboard counts live non-deprecated |
+
+    Each column applies a specific **filter rule** to the same canonical source. The filter rules are documented on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}) and summarized here:
+
+    | Column | Filter rule | What it counts |
+    |--------|-------------|----------------|
+    | Registry root | `registry_total` | All object types including axioms, constructions, corollaries (every entry in `book*_registry.jsonl`) |
+    | Dashboard total | `dashboard_display` | Display-filtered to 5 types (definition, lemma, proposition, remark, theorem) — the types that appear in dashboard enumeration |
+    | Dashboard formalized | `formalized_count` | `dashboard_display` restricted to `formalization_status == formalized` |
+    | TauLib modules | `taulib_modules` | Lean 4 module count — **different unit from registry objects** (one module hosts many objects) |
+    | Sorry | (direct count) | `sorry` declarations in pinned Lean source |
+
+    Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
+
+  'How to read apparent "drift"': |
+    ## How to read apparent "drift"
+
+    The `Registry root` and `Dashboard total` columns disagree for four of seven books (II +11, IV +572, V +166, VI +49). This is **not a data-integrity bug** — it is two different filter rules applied to the same authoritative source:
+
+    | Book | Difference | What it is |
+    |------|-----------:|-----------|
+    | II | +11 | 11 entries of type other than D/L/P/R/T (e.g., axioms, constructions) that `dashboard_display` omits |
+    | IV | +572 | Large number of Book IV corollaries/remarks/axioms that are tracked in the registry but not shown in dashboard enumeration |
     | V | +166 | Same as IV |
     | VI | +49 | Same as IV |
-    
-    This drift is **flagged honestly** rather than hidden. It reflects a data-generation seam: the registry root enumerates every object that has ever been assigned an ID, while the per-book dashboards filter to currently-live, non-deprecated, formalization-tracked objects. The dashboards are the load-bearing source for formalization-coverage claims; the registry root is the load-bearing source for claim-ID stability across releases.
-    
-    A dedicated sprint to consolidate these counts into a single source of truth (eliminating drift rather than documenting it) is on the engineering backlog. Until that ships, this page is the reconciliation artifact.
-    
+
+    **Reconciliation protocol:** if a reader sees two different numbers for the same book on different pages, (1) identify which `filter_rule` each surface applies (visible on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }})), (2) confirm both numbers match the `current_totals` table on that page. If they do, the apparent drift is the legitimate difference between two filters of the same canonical data. If either surface does NOT match the manifest, that IS a bug — `registry_verify.py` catches such regressions.
+
+    **Why this is acceptable:** a dashboard rendering every remark and axiom would be 2x longer and harder to scan. A registry that silently dropped "ancillary" object types would lose claim-ID stability. Two filter rules, documented explicitly and cross-checked, give both clarity and completeness.
+
+    A follow-up sprint to consolidate the generation pipeline end-to-end (one script, idempotent, with the prose-preservation safeguards already scaffolded) remains on the engineering backlog — but is no longer load-bearing for the drift narrative.
+
   'What this release does NOT claim': |
     ## What this release does NOT claim
-    
+
     - **Book VII is formalized at methodological depth.** The Lean corpus for Book VII contains 7 modules that include three `def : Commitment` values carrying structural-commitment data (statement, warrant, registry_id). Zero `sorry`. The Book VII formalization is scaffolded; the monograph's prose content is the primary substance.
     - **The physics bridge is not proof-assistant-verified.** TauLib verifies the internal τ-framework mathematics; it does not verify that τ-internal statements correspond to the external physics they are interpreted as describing. The 67 predictions in the [Physics Ledger](/results/predictions/browse/) are derived from the framework's algebraic structure; their agreement with experiment is empirical, not machine-checked.
     - **Millennium resolutions are not Clay-valid formulations.** Only the Poincaré conjecture aligns with the Clay statement as solved (via Perelman's proof, re-read in τ-language). The other six Millennium claims are τ-internal formulations with explicit bridge-conjecture gaps; see the [Millennium & Langlands briefing]({{ '/results/fields/millennium-langlands/' | relative_url }}).
-    
+
   'Reproduction instructions': |
     ## Reproduction instructions
-    
+
     ```bash
     # Clone at the pinned commit
     git clone https://github.com/{{ build.taulib.repo }}
     cd taulib
     git checkout {{ build.taulib.commit_sha }}
-    
+
     # Expected pins (already in lake-manifest.json / lean-toolchain)
     # Lean: {{ build.lean.version }}
     # Mathlib: {{ build.mathlib.commit_short }}
-    
+
     lake build          # Expect: 0 errors, ~8–12 min on 8-core laptop
-    rg "sorry" TauLib   # Expect: 3 matches, all in TauLib/Book7/
+    rg "sorry" TauLib   # Expect: 0 matches across all 7 books
     ```
-    
+
     Continuous integration runs on every push and pull request and reports file count, line count, `sorry` count, and `axiom` count to the CI log. A failed build or a regression in `sorry` count is a merge blocker on `main`.
-    
+
   'Next release targets': |
     ## Next release targets
-    
+
     - **Drift consolidation** — one source-of-truth for registry totals across all surfaces.
     - **Book VI formalization uplift** — currently 0 of 168 dashboard objects formalized; Book VI ch22 (Three Domains) and ch31 (Ecosystems) have solid internal theorem structure and are the priority targets.
     - **Book VII methodological `sorry` replacement with commitment tags — DONE** (landed in `peer-review-fixes-v1`, 2026-04-19). The three `theorem X : True := sorry` declarations were replaced with inspectable `def : Commitment` values in `TauLib/BookVII/Meta/Commitment.lean`.
-    
+
 
 sha256_checksums:
   '__frontmatter__': 'b69517fac1a47a9f'
   '__preamble__': '077bd63d09631831'
   'Release identity': 'e387571b57d58c6a'
-  'Build status — summary': '332e2c69c494c716'
-  'Per-book reconciliation': '23a268d18ee35e52'
-  'Known drift between surfaces': 'a5276a0963808c2b'
-  'What this release does NOT claim': '4552c1f5b7f1d005'
-  'Reproduction instructions': '543b743f76b9315f'
-  'Next release targets': 'b1ba74b2560dab81'
+  'Build status — summary': '2f1ad3d6feb7680f'
+  'Per-book reconciliation': '49c659e16c08f23c'
+  'How to read apparent "drift"': '8aa7ff8b50e9bef3'
+  'What this release does NOT claim': '76f59b1dee56685b'
+  'Reproduction instructions': '256f798f95614a33'
+  'Next release targets': 'a03f32a9ced92312'

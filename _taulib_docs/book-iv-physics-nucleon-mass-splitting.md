@@ -92,7 +92,7 @@ Range proofs via native_decide on Nat. Exact ppm values require 50-digit mpmath
 
 ### `Tau.BookIV.Physics.NucleonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L57-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L57-L62)
 **inductive
 Tau.BookIV.Physics.NucleonMode :Type**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqNucleonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
 **instance
 Tau.BookIV.Physics.instDecidableEqNucleonMode :DecidableEq NucleonMode**
 
@@ -119,7 +119,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprNucleonMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
 **instance
 Tau.BookIV.Physics.instReprNucleonMode :Repr NucleonMode**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprNucleonMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L62-L62)
 **def
 Tau.BookIV.Physics.instReprNucleonMode.repr :NucleonMode → ℕ → Std.Format**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.neutronIsChiMinus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L64-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L64-L65)
 **def
 Tau.BookIV.Physics.neutronIsChiMinus :NucleonMode**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.protonIsChiPlus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L67-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L67-L68)
 **def
 Tau.BookIV.Physics.protonIsChiPlus :NucleonMode**
 
@@ -170,7 +170,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.nucleon_modes_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L70-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L70-L72)
 **theorem
 Tau.BookIV.Physics.nucleon_modes_distinct :NucleonMode.Proton ≠ NucleonMode.Neutron**
 
@@ -196,7 +196,7 @@ and MassRatioFormula.lean.
 
 ### `Tau.BookIV.Physics.iota5_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L92-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L92-L92)
 **def
 Tau.BookIV.Physics.iota5_numer :ℕ**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota5_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L93-L93)
 **def
 Tau.BookIV.Physics.iota5_denom :ℕ**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota2_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L96-L96)
 **def
 Tau.BookIV.Physics.iota2_numer :ℕ**
 
@@ -232,7 +232,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota2_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L97-L97)
 **def
 Tau.BookIV.Physics.iota2_denom :ℕ**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota6_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L100-L100)
 **def
 Tau.BookIV.Physics.iota6_numer :ℕ**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota6_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L101-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L101-L101)
 **def
 Tau.BookIV.Physics.iota6_denom :ℕ**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota11_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L104-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L104-L104)
 **def
 Tau.BookIV.Physics.iota11_numer :ℕ**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota11_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L105-L105)
 **def
 Tau.BookIV.Physics.iota11_denom :ℕ**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.iota5_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L108-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L108-L108)
 **theorem
 Tau.BookIV.Physics.iota5_denom_pos :iota5_denom > 0**
 
@@ -301,7 +301,7 @@ Tau.BookIV.Physics.iota5_denom_pos :iota5_denom > 0**
 
 ### `Tau.BookIV.Physics.iota2_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L109-L109)
 **theorem
 Tau.BookIV.Physics.iota2_denom_pos :iota2_denom > 0**
 
@@ -310,7 +310,7 @@ Tau.BookIV.Physics.iota2_denom_pos :iota2_denom > 0**
 
 ### `Tau.BookIV.Physics.iota6_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L110-L110)
 **theorem
 Tau.BookIV.Physics.iota6_denom_pos :iota6_denom > 0**
 
@@ -331,7 +331,7 @@ Python lab confirms: ≈ 1.50408 × 10⁻³ in units of m_n
 
 ### `Tau.BookIV.Physics.qcd_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L126-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L126-L127)
 **def
 Tau.BookIV.Physics.qcd_numer :ℕ**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.qcd_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L129-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L129-L130)
 **def
 Tau.BookIV.Physics.qcd_denom :ℕ**
 
@@ -359,7 +359,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.qcd_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L132-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L132-L134)
 **theorem
 Tau.BookIV.Physics.qcd_denom_pos :qcd_denom > 0**
 
@@ -370,7 +370,7 @@ QCD denominator is positive.
 
 ### `Tau.BookIV.Physics.qcd_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L136-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L136-L138)
 **def
 Tau.BookIV.Physics.qcd_float :Float**
 
@@ -384,7 +384,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.qcd_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L147-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L147-L154)
 **theorem
 Tau.BookIV.Physics.qcd_in_range :qcd_numer * 1000000 > 1490 * qcd_denom ∧ qcd_numer * 1000000 < 1510 * qcd_denom**
 
@@ -413,7 +413,7 @@ Python lab confirms: ≈ 1.27510 × 10⁻⁴ in units of m_n
 
 ### `Tau.BookIV.Physics.em_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L174-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L174-L176)
 **def
 Tau.BookIV.Physics.em_numer :ℕ**
 
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.em_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L178-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L178-L180)
 **def
 Tau.BookIV.Physics.em_denom :ℕ**
 
@@ -443,7 +443,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.em_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L182-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L182-L184)
 **theorem
 Tau.BookIV.Physics.em_denom_pos :em_denom > 0**
 
@@ -454,7 +454,7 @@ EM denominator is positive.
 
 ### `Tau.BookIV.Physics.em_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L186-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L186-L188)
 **def
 Tau.BookIV.Physics.em_float :Float**
 
@@ -468,7 +468,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.em_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L195-L202)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L195-L202)
 **theorem
 Tau.BookIV.Physics.em_in_range :em_numer * 10000000 > 1260 * em_denom ∧ em_numer * 10000000 < 1290 * em_denom**
 
@@ -492,7 +492,7 @@ Python lab: −5516 ppm (conjectural scope)
 
 ### `Tau.BookIV.Physics.tree_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L217-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L217-L218)
 **def
 Tau.BookIV.Physics.tree_numer :ℕ**
 
@@ -506,7 +506,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.tree_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L220-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L220-L221)
 **def
 Tau.BookIV.Physics.tree_denom :ℕ**
 
@@ -520,7 +520,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.tree_denom_pos`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L223-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L223-L225)
 **theorem
 Tau.BookIV.Physics.tree_denom_pos :tree_denom > 0**
 
@@ -531,7 +531,7 @@ Tree denominator is positive.
 
 ### `Tau.BookIV.Physics.deltaMassTree_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L232-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L232-L239)
 **theorem
 Tau.BookIV.Physics.deltaMassTree_range :tree_numer * 1000000 > 1350 * tree_denom ∧ tree_numer * 1000000 < 1400 * tree_denom**
 
@@ -561,7 +561,7 @@ Python lab: 1.37657 × 10⁻³ = +33.39 ppm from PDG (τ-effective)
 
 ### `Tau.BookIV.Physics.pn_sign_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L260-L265)
 **theorem
 Tau.BookIV.Physics.pn_sign_positive :qcd_numer * em_denom > em_numer * qcd_denom**
 
@@ -574,7 +574,7 @@ Numerically: QCD ≈ 1.504e-3 > EM ≈ 1.275e-4.
 
 ### `Tau.BookIV.Physics.deltaMassTwoSector_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L267-L276)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L267-L276)
 **theorem
 Tau.BookIV.Physics.deltaMassTwoSector_range :1370 * (qcd_denom * em_denom) < (qcd_numer * em_denom - em_numer * qcd_denom) * 1000000 ∧ (qcd_numer * em_denom - em_numer * qcd_denom) * 1000000 < 1380 * (qcd_denom * em_denom)**
 
@@ -587,7 +587,7 @@ The range (1.37e-3, 1.38e-3) contains 1.37657e-3.
 
 ### `Tau.BookIV.Physics.nlo_factor_65_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L282-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L282-L284)
 **theorem
 Tau.BookIV.Physics.nlo_factor_65_numer :6 = 2 * 3**
 
@@ -599,7 +599,7 @@ Tau.BookIV.Physics.nlo_factor_65_numer :6 = 2 * 3**
 
 ### `Tau.BookIV.Physics.nlo_factor_65_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L286-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L286-L287)
 **theorem
 Tau.BookIV.Physics.nlo_factor_65_denom :5 = 5**
 
@@ -610,7 +610,7 @@ Tau.BookIV.Physics.nlo_factor_65_denom :5 = 5**
 
 ### `Tau.BookIV.Physics.nlo_lobe_color_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L289-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L289-L290)
 **theorem
 Tau.BookIV.Physics.nlo_lobe_color_product :2 * 3 = 6**
 
@@ -621,7 +621,7 @@ The NLO lobe-color product: N_ell × N_c = 2 × 3 = 6.
 
 ### `Tau.BookIV.Physics.nlo_generator_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L292-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L292-L293)
 **theorem
 Tau.BookIV.Physics.nlo_generator_count :5 = 5**
 
@@ -632,7 +632,7 @@ The NLO generator count: 5 generators.
 
 ### `Tau.BookIV.Physics.nlo_factor_65`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L295-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L295-L296)
 **theorem
 Tau.BookIV.Physics.nlo_factor_65 :6 = 2 * 3 ∧ 5 = 5**
 
@@ -643,7 +643,7 @@ Combined NLO interpretation: 6/5 = (lobes × colors) / generators.
 
 ### `Tau.BookIV.Physics.quarkColors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L302-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L302-L304)
 **def
 Tau.BookIV.Physics.quarkColors :ℕ**
 
@@ -658,7 +658,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.qcd_has_color_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L306-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L306-L308)
 **theorem
 Tau.BookIV.Physics.qcd_has_color_factor :3 ∣ qcd_numer**
 
@@ -669,7 +669,7 @@ QCD numerator factor includes N_c = 3. Structural: qcd_numer = 3 * sqrt3_numer *
 
 ### `Tau.BookIV.Physics.em_has_color_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L310-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L310-L312)
 **theorem
 Tau.BookIV.Physics.em_has_color_factor :3 ∣ em_numer**
 
@@ -680,7 +680,7 @@ EM numerator factor includes N_c = 3. Structural: em_numer = 363 * ... = 3 * 121
 
 ### `Tau.BookIV.Physics.qcd_denominator_channel_counting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L318-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L318-L322)
 **theorem
 Tau.BookIV.Physics.qcd_denominator_channel_counting :2 * 2 * 2 * 2 = 16**
 
@@ -693,7 +693,7 @@ Each factor of 2 comes from a binary degree of freedom on L = S¹ ∨ S¹.
 
 ### `Tau.BookIV.Physics.qcd_denom_is_2_pow_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L324-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L324-L325)
 **theorem
 Tau.BookIV.Physics.qcd_denom_is_2_pow_4 :16 = 2 ^ 4**
 
@@ -704,7 +704,7 @@ The QCD denominator 16 is 2⁴.
 
 ### `Tau.BookIV.Physics.em_denominator_channel_counting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L327-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L327-L331)
 **theorem
 Tau.BookIV.Physics.em_denominator_channel_counting :4 * 5 = 20**
 
@@ -717,7 +717,7 @@ is the Window universality modulus governing NLO corrections.
 
 ### `Tau.BookIV.Physics.em_denom_decomp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L333-L335)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L333-L335)
 **theorem
 Tau.BookIV.Physics.em_denom_decomp :20 = 4 * 5 ∧ 4 = 5 - 1**
 
@@ -728,7 +728,7 @@ The EM denominator 20 decomposes as |non-ω generators| × W₃(4).
 
 ### `Tau.BookIV.Physics.both_coefficients_share_Nc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L337-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L337-L341)
 **theorem
 Tau.BookIV.Physics.both_coefficients_share_Nc :3 ∣ 3 ∧ 3 ∣ 363**
 
@@ -740,7 +740,7 @@ quark color factor from confinement (SU(3) refinement).
 
 ### `Tau.BookIV.Physics.em_numer_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L343-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L343-L345)
 **theorem
 Tau.BookIV.Physics.em_numer_factor :363 = 3 * 121 ∧ 121 = 11 * 11**
 
@@ -752,7 +752,7 @@ the fine structure coefficient (11/15)² = 121/225.
 
 ### `Tau.BookIV.Physics.em_denom_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L347-L348)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L347-L348)
 **theorem
 Tau.BookIV.Physics.em_denom_factor :4500 = 20 * 225 ∧ 225 = 15 * 15**
 
@@ -763,7 +763,7 @@ Tau.BookIV.Physics.em_denom_factor :4500 = 20 * 225 ∧ 225 = 15 * 15**
 
 ### `Tau.BookIV.Physics.remark_cottingham_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L354-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/NucleonMassSplitting.lean#L354-L375)
 **def
 Tau.BookIV.Physics.remark_cottingham_comparison :String**
 

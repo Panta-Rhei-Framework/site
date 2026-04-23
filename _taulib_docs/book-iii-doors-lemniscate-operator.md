@@ -56,7 +56,7 @@ Compact resolvent from L being a compact metric graph.
 
 ### `Tau.BookIII.Doors.lemniscate_eigenvalue`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L39-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L39-L43)
 **def
 Tau.BookIII.Doors.lemniscate_eigenvalue
 (n : Denotation.TauIdx)
@@ -75,7 +75,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.kirchhoff_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L45-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L45-L58)
 **def
 Tau.BookIII.Doors.kirchhoff_check
 (bound : Denotation.TauIdx)
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.kirchhoff_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L50-L57)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L50-L57)@[irreducible]
 
 **def
 Tau.BookIII.Doors.kirchhoff_check.go
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.lobe_agreement_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L60-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L60-L75)
 **def
 Tau.BookIII.Doors.lobe_agreement_check
 (bound : Denotation.TauIdx)
@@ -126,7 +126,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.lobe_agreement_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L65-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L65-L74)@[irreducible]
 
 **def
 Tau.BookIII.Doors.lobe_agreement_check.go
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.self_adjoint_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L81-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L81-L95)
 **def
 Tau.BookIII.Doors.self_adjoint_check
 (bound : Denotation.TauIdx)
@@ -160,7 +160,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.self_adjoint_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L86-L94)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L86-L94)@[irreducible]
 
 **def
 Tau.BookIII.Doors.self_adjoint_check.go
@@ -177,7 +177,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.k5_diagonal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L97-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L97-L113)
 **def
 Tau.BookIII.Doors.k5_diagonal_check
 (bound : Denotation.TauIdx)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.k5_diagonal_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L103-L112)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L103-L112)@[irreducible]
 
 **def
 Tau.BookIII.Doors.k5_diagonal_check.go
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.discrete_spectrum_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L119-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L119-L131)
 **def
 Tau.BookIII.Doors.discrete_spectrum_check
 (bound : Denotation.TauIdx)
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.discrete_spectrum_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L124-L130)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L124-L130)@[irreducible]
 
 **def
 Tau.BookIII.Doors.discrete_spectrum_check.go
@@ -246,7 +246,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.spectral_gap_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L133-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L133-L135)
 **def
 Tau.BookIII.Doors.spectral_gap_check :Bool**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.weyl_law_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L137-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L137-L149)
 **def
 Tau.BookIII.Doors.weyl_law_check
 (bound : Denotation.TauIdx)
@@ -276,7 +276,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.weyl_law_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L141-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L141-L148)@[irreducible]
 
 **def
 Tau.BookIII.Doors.weyl_law_check.go
@@ -293,7 +293,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.kirchhoff_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L170-L171)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L170-L171)
 **theorem
 Tau.BookIII.Doors.kirchhoff_20 :kirchhoff_check 20 = true**
 
@@ -302,7 +302,7 @@ Tau.BookIII.Doors.kirchhoff_20 :kirchhoff_check 20 = true**
 
 ### `Tau.BookIII.Doors.lobe_agreement_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L173-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L173-L174)
 **theorem
 Tau.BookIII.Doors.lobe_agreement_20 :lobe_agreement_check 20 = true**
 
@@ -311,7 +311,7 @@ Tau.BookIII.Doors.lobe_agreement_20 :lobe_agreement_check 20 = true**
 
 ### `Tau.BookIII.Doors.self_adjoint_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L176-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L176-L177)
 **theorem
 Tau.BookIII.Doors.self_adjoint_20 :self_adjoint_check 20 = true**
 
@@ -320,7 +320,7 @@ Tau.BookIII.Doors.self_adjoint_20 :self_adjoint_check 20 = true**
 
 ### `Tau.BookIII.Doors.k5_diagonal_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L179-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L179-L180)
 **theorem
 Tau.BookIII.Doors.k5_diagonal_20 :k5_diagonal_check 20 = true**
 
@@ -329,7 +329,7 @@ Tau.BookIII.Doors.k5_diagonal_20 :k5_diagonal_check 20 = true**
 
 ### `Tau.BookIII.Doors.discrete_spectrum_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L182-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L182-L183)
 **theorem
 Tau.BookIII.Doors.discrete_spectrum_20 :discrete_spectrum_check 20 = true**
 
@@ -338,7 +338,7 @@ Tau.BookIII.Doors.discrete_spectrum_20 :discrete_spectrum_check 20 = true**
 
 ### `Tau.BookIII.Doors.spectral_gap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L185-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L185-L186)
 **theorem
 Tau.BookIII.Doors.spectral_gap :spectral_gap_check = true**
 
@@ -347,7 +347,7 @@ Tau.BookIII.Doors.spectral_gap :spectral_gap_check = true**
 
 ### `Tau.BookIII.Doors.weyl_law_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L188-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L188-L189)
 **theorem
 Tau.BookIII.Doors.weyl_law_20 :weyl_law_check 20 = true**
 
@@ -356,7 +356,7 @@ Tau.BookIII.Doors.weyl_law_20 :weyl_law_check 20 = true**
 
 ### `Tau.BookIII.Doors.eigenvalue_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L195-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L195-L196)
 **theorem
 Tau.BookIII.Doors.eigenvalue_zero :lemniscate_eigenvalue 0 = 0**
 
@@ -367,7 +367,7 @@ Tau.BookIII.Doors.eigenvalue_zero :lemniscate_eigenvalue 0 = 0**
 
 ### `Tau.BookIII.Doors.eigenvalue_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L198-L200)
 **theorem
 Tau.BookIII.Doors.eigenvalue_formula
 (n : ℕ)
@@ -380,7 +380,7 @@ Tau.BookIII.Doors.eigenvalue_formula
 
 ### `Tau.BookIII.Doors.eigenvalue_nonneg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L202-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L202-L204)
 **theorem
 Tau.BookIII.Doors.eigenvalue_nonneg
 (n : ℕ)
@@ -393,7 +393,7 @@ Tau.BookIII.Doors.eigenvalue_nonneg
 
 ### `Tau.BookIII.Doors.spectral_gap_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/LemniscateOperator.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/LemniscateOperator.lean#L206-L208)
 **theorem
 Tau.BookIII.Doors.spectral_gap_value :lemniscate_eigenvalue 1 = 1**
 

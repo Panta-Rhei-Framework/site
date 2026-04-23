@@ -63,7 +63,7 @@ with the register+port model specified in [I.D69].
 
 ### `Tau.Spectrum.Register`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L41-L42)@[reducible, inline]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L41-L42)@[reducible, inline]
 
 **abbrev
 Tau.Spectrum.Register :Type**
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.Spectrum.TTMOp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L48-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L48-L65)
 **inductive
 Tau.Spectrum.TTMOp :Type**
 
@@ -113,7 +113,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqTTMOp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
 **instance
 Tau.Spectrum.instDecidableEqTTMOp :DecidableEq TTMOp**
 
@@ -124,7 +124,7 @@ Equations
 
 ### `Tau.Spectrum.instDecidableEqTTMOp.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
 **def
 Tau.Spectrum.instDecidableEqTTMOp.decEq
 (x✝ x✝¹ : TTMOp)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMOp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
 **instance
 Tau.Spectrum.instReprTTMOp :Repr TTMOp**
 
@@ -194,7 +194,7 @@ Equations
 
 ### `Tau.Spectrum.instReprTTMOp.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L65-L65)
 **def
 Tau.Spectrum.instReprTTMOp.repr :TTMOp → Nat → Std.Format**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.Spectrum.TTMGuard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L71-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L71-L79)
 **inductive
 Tau.Spectrum.TTMGuard :Type**
 
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqTTMGuard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
 **instance
 Tau.Spectrum.instDecidableEqTTMGuard :DecidableEq TTMGuard**
 
@@ -241,7 +241,7 @@ Equations
 
 ### `Tau.Spectrum.instDecidableEqTTMGuard.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
 **def
 Tau.Spectrum.instDecidableEqTTMGuard.decEq
 (x✝ x✝¹ : TTMGuard)
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMGuard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
 **instance
 Tau.Spectrum.instReprTTMGuard :Repr TTMGuard**
 
@@ -273,7 +273,7 @@ Equations
 
 ### `Tau.Spectrum.instReprTTMGuard.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L79-L79)
 **def
 Tau.Spectrum.instReprTTMGuard.repr :TTMGuard → Nat → Std.Format**
 
@@ -285,7 +285,7 @@ Instances For
 
 ### `Tau.Spectrum.TTMRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L85-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L85-L95)
 **structure
 Tau.Spectrum.TTMRule :Type**
 
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqTTMRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
 **instance
 Tau.Spectrum.instDecidableEqTTMRule :DecidableEq TTMRule**
 
@@ -321,7 +321,7 @@ Equations
 
 ### `Tau.Spectrum.instDecidableEqTTMRule.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
 **def
 Tau.Spectrum.instDecidableEqTTMRule.decEq
 (x✝ x✝¹ : TTMRule)
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMRule.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
 **def
 Tau.Spectrum.instReprTTMRule.repr :TTMRule → Nat → Std.Format**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L95-L95)
 **instance
 Tau.Spectrum.instReprTTMRule :Repr TTMRule**
 
@@ -358,7 +358,7 @@ Equations
 
 ### `Tau.Spectrum.TTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L101-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L101-L109)
 **structure
 Tau.Spectrum.TTMConfig :Type**
 
@@ -380,7 +380,7 @@ Instances For
 
 ### `Tau.Spectrum.instDecidableEqTTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
 **instance
 Tau.Spectrum.instDecidableEqTTMConfig :DecidableEq TTMConfig**
 
@@ -391,7 +391,7 @@ Equations
 
 ### `Tau.Spectrum.instDecidableEqTTMConfig.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
 **def
 Tau.Spectrum.instDecidableEqTTMConfig.decEq
 (x✝ x✝¹ : TTMConfig)
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMConfig.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
 **def
 Tau.Spectrum.instReprTTMConfig.repr :TTMConfig → Nat → Std.Format**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTMConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L109-L109)
 **instance
 Tau.Spectrum.instReprTTMConfig :Repr TTMConfig**
 
@@ -428,7 +428,7 @@ Equations
 
 ### `Tau.Spectrum.TTM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L115-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L115-L128)
 **structure
 Tau.Spectrum.TTM :Type**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTM.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L128-L128)
 **def
 Tau.Spectrum.instReprTTM.repr :TTM → Nat → Std.Format**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.Spectrum.instReprTTM`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L128-L128)
 **instance
 Tau.Spectrum.instReprTTM :Repr TTM**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.Spectrum.TTM.initConfig`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L134-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L134-L140)
 **def
 Tau.Spectrum.TTM.initConfig
 (m : TTM)
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.Spectrum.TTM.isAccepting`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L146-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L146-L148)
 **def
 Tau.Spectrum.TTM.isAccepting
 (m : TTM)
@@ -516,7 +516,7 @@ Instances For
 
 ### `Tau.Spectrum.TTM.isHalted`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L150-L152)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L150-L152)
 **def
 Tau.Spectrum.TTM.isHalted
 (m : TTM)
@@ -534,7 +534,7 @@ Instances For
 
 ### `Tau.Spectrum.readReg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L158-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L158-L160)
 **def
 Tau.Spectrum.readReg
 (regs : List Register)
@@ -552,7 +552,7 @@ Instances For
 
 ### `Tau.Spectrum.writeReg`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L162-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L162-L164)
 **def
 Tau.Spectrum.writeReg
 (regs : List Register)
@@ -572,7 +572,7 @@ Instances For
 
 ### `Tau.Spectrum.execOp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L170-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L170-L197)
 **def
 Tau.Spectrum.execOp
 (c : TTMConfig)
@@ -599,7 +599,7 @@ Instances For
 
 ### `Tau.Spectrum.execOps`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L199-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L199-L201)
 **def
 Tau.Spectrum.execOps
 (c : TTMConfig)
@@ -617,7 +617,7 @@ Instances For
 
 ### `Tau.Spectrum.evalGuard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L207-L218)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L207-L218)
 **def
 Tau.Spectrum.evalGuard
 (c : TTMConfig)
@@ -637,7 +637,7 @@ Instances For
 
 ### `Tau.Spectrum.TTM.findRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L224-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L224-L226)
 **def
 Tau.Spectrum.TTM.findRule
 (m : TTM)
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.Spectrum.TTM.step`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L228-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L228-L235)
 **def
 Tau.Spectrum.TTM.step
 (m : TTM)
@@ -678,7 +678,7 @@ Instances For
 
 ### `Tau.Spectrum.TTM.run`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L237-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L237-L243)
 **def
 Tau.Spectrum.TTM.run
 (m : TTM)
@@ -699,7 +699,7 @@ Instances For
 
 ### `Tau.Spectrum.TauComputable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L249-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L249-L256)
 **def
 Tau.Spectrum.TauComputable
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -717,7 +717,7 @@ Instances For
 
 ### `Tau.Spectrum.generator_symbols_distinct`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L262-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L262-L275)
 **theorem
 Tau.Spectrum.generator_symbols_distinct :Kernel.Generator.alpha ≠ Kernel.Generator.pi ∧ Kernel.Generator.alpha ≠ Kernel.Generator.gamma ∧ Kernel.Generator.alpha ≠ Kernel.Generator.eta ∧ Kernel.Generator.alpha ≠ Kernel.Generator.omega ∧ Kernel.Generator.pi ≠ Kernel.Generator.gamma ∧ Kernel.Generator.pi ≠ Kernel.Generator.eta ∧ Kernel.Generator.pi ≠ Kernel.Generator.omega ∧ Kernel.Generator.gamma ≠ Kernel.Generator.eta ∧ Kernel.Generator.gamma ≠ Kernel.Generator.omega ∧ Kernel.Generator.eta ≠ Kernel.Generator.omega**
 
@@ -728,7 +728,7 @@ The 5 generators are pairwise distinct.
 
 ### `Tau.Spectrum.ttm_tau_native`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L277-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L277-L282)
 **theorem
 Tau.Spectrum.ttm_tau_native
 (n : Denotation.TauIdx)
@@ -742,7 +742,7 @@ one of the 5 generators under mod-5 orbit assignment.
 
 ### `Tau.Spectrum.ttm_register_bounded`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L284-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L284-L287)
 **theorem
 Tau.Spectrum.ttm_register_bounded
 (m : TTM)
@@ -756,7 +756,7 @@ storage cells is exactly the sum of registers and ports.
 
 ### `Tau.Spectrum.trivial_ttm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L293-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L293-L294)
 **def
 Tau.Spectrum.trivial_ttm :TTM**
 
@@ -770,7 +770,7 @@ Instances For
 
 ### `Tau.Spectrum.trivial_accepts`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L296-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L296-L299)
 **theorem
 Tau.Spectrum.trivial_accepts :trivial_ttm.isAccepting (trivial_ttm.initConfig 0) = true**
 
@@ -781,7 +781,7 @@ The trivial TTM immediately accepts from its initial state.
 
 ### `Tau.Spectrum.trivial_halted`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L301-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L301-L304)
 **theorem
 Tau.Spectrum.trivial_halted :trivial_ttm.isHalted (trivial_ttm.initConfig 0) = true**
 
@@ -792,7 +792,7 @@ The trivial TTM is halted from its initial state.
 
 ### `Tau.Spectrum.trivial_halted_any`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L306-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L306-L309)
 **theorem
 Tau.Spectrum.trivial_halted_any
 (n : Denotation.TauIdx)
@@ -805,7 +805,7 @@ The trivial TTM is halted from any initial input.
 
 ### `Tau.Spectrum.trivial_run`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectrum/TTM.lean#L311-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectrum/TTM.lean#L311-L319)
 **theorem
 Tau.Spectrum.trivial_run
 (n : Denotation.TauIdx)

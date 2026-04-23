@@ -108,7 +108,7 @@ Note: 71 = p₂₀ (20th prime).
 
 ### `Tau.BookV.Cosmology.HePacking`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L64-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L64-L81)
 **structure
 Tau.BookV.Cosmology.HePacking :Type**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHePacking`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L81-L81)
 **instance
 Tau.BookV.Cosmology.instReprHePacking :Repr HePacking**
 
@@ -154,7 +154,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprHePacking.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L81-L81)
 **def
 Tau.BookV.Cosmology.instReprHePacking.repr :HePacking → ℕ → Std.Format**
 
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.he_packing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L83-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L83-L87)
 **def
 Tau.BookV.Cosmology.he_packing :HePacking**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.packing_is_8_27`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L89-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L89-L92)
 **theorem
 Tau.BookV.Cosmology.packing_is_8_27 :he_packing.pack_num = 8 ∧ he_packing.pack_den = 27**
 
@@ -191,7 +191,7 @@ Tau.BookV.Cosmology.packing_is_8_27 :he_packing.pack_num = 8 ∧ he_packing.pack
 
 ### `Tau.BookV.Cosmology.FaceConflict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L98-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L98-L112)
 **structure
 Tau.BookV.Cosmology.FaceConflict :Type**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFaceConflict.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L112-L112)
 **def
 Tau.BookV.Cosmology.instReprFaceConflict.repr :FaceConflict → ℕ → Std.Format**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprFaceConflict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L112-L112)
 **instance
 Tau.BookV.Cosmology.instReprFaceConflict :Repr FaceConflict**
 
@@ -244,7 +244,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.face_conflict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L114-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L114-L117)
 **def
 Tau.BookV.Cosmology.face_conflict :FaceConflict**
 
@@ -259,7 +259,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.face_conflict_is_1_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L119-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L119-L122)
 **theorem
 Tau.BookV.Cosmology.face_conflict_is_1_3 :face_conflict.conflict_count * 3 = face_conflict.total_pairs**
 
@@ -270,7 +270,7 @@ Tau.BookV.Cosmology.face_conflict_is_1_3 :face_conflict.conflict_count * 3 = fac
 
 ### `Tau.BookV.Cosmology.DomainCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L128-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L128-L143)
 **structure
 Tau.BookV.Cosmology.DomainCorrection :Type**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDomainCorrection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L143-L143)
 **def
 Tau.BookV.Cosmology.instReprDomainCorrection.repr :DomainCorrection → ℕ → Std.Format**
 
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprDomainCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L143-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L143-L143)
 **instance
 Tau.BookV.Cosmology.instReprDomainCorrection :Repr DomainCorrection**
 
@@ -328,7 +328,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.domain_correction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L145-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L145-L147)
 **def
 Tau.BookV.Cosmology.domain_correction :DomainCorrection**
 
@@ -342,7 +342,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.five_sixths_decomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L149-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L149-L153)
 **theorem
 Tau.BookV.Cosmology.five_sixths_decomposition :domain_correction.corr_den - 1 = domain_correction.corr_num**
 
@@ -354,7 +354,7 @@ The 5/6 decomposition: 1 − (1/2)(1/3) = 5/6, encoded as
 
 ### `Tau.BookV.Cosmology.HeliumPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L159-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L159-L175)
 **structure
 Tau.BookV.Cosmology.HeliumPrediction :Type**
 
@@ -387,7 +387,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprHeliumPrediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L175-L175)
 **instance
 Tau.BookV.Cosmology.instReprHeliumPrediction :Repr HeliumPrediction**
 
@@ -398,7 +398,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprHeliumPrediction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L175-L175)
 **def
 Tau.BookV.Cosmology.instReprHeliumPrediction.repr :HeliumPrediction → ℕ → Std.Format**
 
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.he_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L177-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L177-L180)
 **def
 Tau.BookV.Cosmology.he_prediction :HeliumPrediction**
 
@@ -425,7 +425,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.three_routes_agree`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L183-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L183-L191)
 **theorem
 Tau.BookV.Cosmology.three_routes_agree :8 * 5 * 81 = 20 * 27 * 6 ∧ 4 * 5 = 20 ∧ 3 ^ 4 = 81 ∧ 1 * 80 * 81 = 20 * 4 * 81**
 
@@ -436,7 +436,7 @@ All three routes give 20/81 (checked as cross-multiplication identities).
 
 ### `Tau.BookV.Cosmology.yp_is_20_81`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L194-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L194-L198)
 **theorem
 Tau.BookV.Cosmology.yp_is_20_81 :he_packing.pack_num * domain_correction.corr_num * he_prediction.yp_den = he_prediction.yp_num * he_packing.pack_den * domain_correction.corr_den**
 
@@ -447,7 +447,7 @@ Y_p = (8/27) × (5/6) = 20/81, verified as 8 × 5 × 81 = 20 × 27 × 6.
 
 ### `Tau.BookV.Cosmology.yp_times_1000`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L204-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L204-L206)
 **def
 Tau.BookV.Cosmology.yp_times_1000 :ℕ**
 
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.yp_times_1000_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L208-L209)
 **theorem
 Tau.BookV.Cosmology.yp_times_1000_eq :yp_times_1000 = 246**
 
@@ -473,7 +473,7 @@ Y_p × 1000 = 246 (floor of 246.913...).
 
 ### `Tau.BookV.Cosmology.yp_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L211-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L211-L213)
 **theorem
 Tau.BookV.Cosmology.yp_in_range :yp_times_1000 > 240 ∧ yp_times_1000 < 260**
 
@@ -484,7 +484,7 @@ The derived Y_p is in the observational range (240, 260).
 
 ### `Tau.BookV.Cosmology.NeutronProtonRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L219-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L219-L227)
 **structure
 Tau.BookV.Cosmology.NeutronProtonRatio :Type**
 
@@ -505,7 +505,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNeutronProtonRatio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L227-L227)
 **instance
 Tau.BookV.Cosmology.instReprNeutronProtonRatio :Repr NeutronProtonRatio**
 
@@ -516,7 +516,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprNeutronProtonRatio.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L227-L227)
 **def
 Tau.BookV.Cosmology.instReprNeutronProtonRatio.repr :NeutronProtonRatio → ℕ → Std.Format**
 
@@ -528,7 +528,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.np_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L229-L230)
 **def
 Tau.BookV.Cosmology.np_ratio :NeutronProtonRatio**
 
@@ -542,7 +542,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.np_from_yp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L233-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L233-L238)
 **theorem
 Tau.BookV.Cosmology.np_from_yp :2 * np_ratio.np_num * he_prediction.yp_den = he_prediction.yp_num * (np_ratio.np_num + np_ratio.np_den)**
 
@@ -554,7 +554,7 @@ Verification: 2 × 10 × 81 = 20 × (10 + 71) = 20 × 81.
 
 ### `Tau.BookV.Cosmology.yp_in_observational_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/HeliumFraction.lean#L241-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/HeliumFraction.lean#L241-L245)
 **theorem
 Tau.BookV.Cosmology.yp_in_observational_range :yp_times_1000 ≥ 244 ∧ yp_times_1000 ≤ 250**
 

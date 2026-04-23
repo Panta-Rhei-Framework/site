@@ -76,7 +76,7 @@ sieves via CRT.
 
 ### `Tau.BookIII.Spectral.eratosthenes_sieve`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L73-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L73-L75)
 **def
 Tau.BookIII.Spectral.eratosthenes_sieve
 (n : ℕ)
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L77-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L77-L87)
 **def
 Tau.BookIII.Spectral.sieve_primes
 (bound : ℕ)
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_primes.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L81-L86)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L81-L86)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.sieve_primes.go
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_prime_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L93-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L93-L103)
 **def
 Tau.BookIII.Spectral.sieve_prime_count
 (n : ℕ)
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_prime_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L97-L102)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L97-L102)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.sieve_prime_count.go
@@ -158,7 +158,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_coprime_to_small_primes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L109-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L109-L121)
 **def
 Tau.BookIII.Spectral.is_coprime_to_small_primes
 (k d : ℕ)
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.is_coprime_to_small_primes.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L113-L120)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L113-L120)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.is_coprime_to_small_primes.go
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.divisible_by_small_prime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L123-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L123-L134)
 **def
 Tau.BookIII.Spectral.divisible_by_small_prime
 (n d : ℕ)
@@ -205,7 +205,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.divisible_by_small_prime.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L127-L133)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L127-L133)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.divisible_by_small_prime.go
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.brun_sieve_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L136-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L136-L149)
 **def
 Tau.BookIII.Spectral.brun_sieve_count
 (n d : ℕ)
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.brun_sieve_count.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L142-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L142-L148)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.brun_sieve_count.go
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.brun_sieve_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L151-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L151-L154)
 **def
 Tau.BookIII.Spectral.brun_sieve_density
 (n d : ℕ)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_agrees_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L160-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L160-L170)
 **def
 Tau.BookIII.Spectral.sieve_agrees_check
 (bound : ℕ)
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_agrees_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L165-L169)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L165-L169)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.sieve_agrees_check.go
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_count_known_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L172-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L172-L178)
 **def
 Tau.BookIII.Spectral.sieve_count_known_check :Bool**
 
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.check_prime_factors_of_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L184-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L184-L195)
 **def
 Tau.BookIII.Spectral.check_prime_factors_of_primorial
 (k : ℕ)
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.check_prime_factors_of_primorial.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L188-L194)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L188-L194)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.check_prime_factors_of_primorial.go
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_tower_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L197-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L197-L213)
 **def
 Tau.BookIII.Spectral.sieve_tower_compat_check
 (db : ℕ)
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_tower_compat_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L204-L212)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L204-L212)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.sieve_tower_compat_check.go
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.euler_phi_primorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L215-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L215-L225)
 **def
 Tau.BookIII.Spectral.euler_phi_primorial
 (k : ℕ)
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.euler_phi_primorial.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L219-L224)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L219-L224)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.euler_phi_primorial.go
@@ -412,7 +412,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.brun_euler_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L227-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L227-L239)
 **def
 Tau.BookIII.Spectral.brun_euler_check
 (db : ℕ)
@@ -428,7 +428,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.brun_euler_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L231-L238)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L231-L238)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.brun_euler_check.go
@@ -443,7 +443,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_crt_compat_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L245-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L245-L259)
 **def
 Tau.BookIII.Spectral.sieve_crt_compat_check
 (bound db : ℕ)
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_crt_compat_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L250-L258)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L250-L258)@[irreducible]
 
 **def
 Tau.BookIII.Spectral.sieve_crt_compat_check.go
@@ -475,7 +475,7 @@ Instances For
 
 ### `Tau.BookIII.Spectral.sieve_correct_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L265-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L265-L267)
 **theorem
 Tau.BookIII.Spectral.sieve_correct_50 :sieve_agrees_check 50 = true**
 
@@ -486,7 +486,7 @@ Tau.BookIII.Spectral.sieve_correct_50 :sieve_agrees_check 50 = true**
 
 ### `Tau.BookIII.Spectral.sieve_correct_200`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L269-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L269-L271)
 **theorem
 Tau.BookIII.Spectral.sieve_correct_200 :sieve_agrees_check 200 = true**
 
@@ -497,7 +497,7 @@ Tau.BookIII.Spectral.sieve_correct_200 :sieve_agrees_check 200 = true**
 
 ### `Tau.BookIII.Spectral.sieve_count_known`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L273-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L273-L275)
 **theorem
 Tau.BookIII.Spectral.sieve_count_known :sieve_count_known_check = true**
 
@@ -508,7 +508,7 @@ Tau.BookIII.Spectral.sieve_count_known :sieve_count_known_check = true**
 
 ### `Tau.BookIII.Spectral.sieve_tower_compat_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L277-L279)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L277-L279)
 **theorem
 Tau.BookIII.Spectral.sieve_tower_compat_3 :sieve_tower_compat_check 3 = true**
 
@@ -519,7 +519,7 @@ Tau.BookIII.Spectral.sieve_tower_compat_3 :sieve_tower_compat_check 3 = true**
 
 ### `Tau.BookIII.Spectral.brun_euler_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L281-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L281-L283)
 **theorem
 Tau.BookIII.Spectral.brun_euler_4 :brun_euler_check 4 = true**
 
@@ -530,7 +530,7 @@ Tau.BookIII.Spectral.brun_euler_4 :brun_euler_check 4 = true**
 
 ### `Tau.BookIII.Spectral.sieve_crt_compat_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L285-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L285-L287)
 **theorem
 Tau.BookIII.Spectral.sieve_crt_compat_3 :sieve_crt_compat_check 30 3 = true**
 
@@ -541,7 +541,7 @@ Tau.BookIII.Spectral.sieve_crt_compat_3 :sieve_crt_compat_check 30 3 = true**
 
 ### `Tau.BookIII.Spectral.pi_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L293-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L293-L294)
 **theorem
 Tau.BookIII.Spectral.pi_10 :sieve_prime_count 10 = 4**
 
@@ -552,7 +552,7 @@ Tau.BookIII.Spectral.pi_10 :sieve_prime_count 10 = 4**
 
 ### `Tau.BookIII.Spectral.pi_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L296-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L296-L297)
 **theorem
 Tau.BookIII.Spectral.pi_30 :sieve_prime_count 30 = 10**
 
@@ -563,7 +563,7 @@ Tau.BookIII.Spectral.pi_30 :sieve_prime_count 30 = 10**
 
 ### `Tau.BookIII.Spectral.pi_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L299-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L299-L300)
 **theorem
 Tau.BookIII.Spectral.pi_100 :sieve_prime_count 100 = 25**
 
@@ -574,7 +574,7 @@ Tau.BookIII.Spectral.pi_100 :sieve_prime_count 100 = 25**
 
 ### `Tau.BookIII.Spectral.brun_30_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L302-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L302-L304)
 **theorem
 Tau.BookIII.Spectral.brun_30_3 :brun_sieve_count 30 3 = 8**
 
@@ -586,7 +586,7 @@ to {2,3,5}. These are: 1, 7, 11, 13, 17, 19, 23, 29.
 
 ### `Tau.BookIII.Spectral.euler_phi_primorial_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L306-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L306-L308)
 **theorem
 Tau.BookIII.Spectral.euler_phi_primorial_3 :euler_phi_primorial 3 = 8**
 
@@ -597,7 +597,7 @@ Tau.BookIII.Spectral.euler_phi_primorial_3 :euler_phi_primorial 3 = 8**
 
 ### `Tau.BookIII.Spectral.euler_phi_primorial_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L310-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Spectral/SieveInfrastructure.lean#L310-L312)
 **theorem
 Tau.BookIII.Spectral.euler_phi_primorial_4 :euler_phi_primorial 4 = 48**
 

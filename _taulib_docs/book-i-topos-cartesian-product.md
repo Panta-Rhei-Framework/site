@@ -50,7 +50,7 @@ uniquely through the product.
 
 ### `Tau.Topos.cat_product`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L30-L33)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L30-L33)
 **def
 Tau.Topos.cat_product
 (P Q : Presheaf)
@@ -67,7 +67,7 @@ Instances For
 
 ### `Tau.Topos.cat_proj1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L35-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L35-L38)
 **theorem
 Tau.Topos.cat_proj1
 (P Q : Presheaf)
@@ -84,7 +84,7 @@ First projection: product → first factor.
 
 ### `Tau.Topos.cat_proj2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L40-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L40-L43)
 **theorem
 Tau.Topos.cat_proj2
 (P Q : Presheaf)
@@ -101,7 +101,7 @@ Second projection: product → second factor.
 
 ### `Tau.Topos.product_universal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L49-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L49-L57)
 **theorem
 Tau.Topos.product_universal
 (P Q R : Presheaf)
@@ -121,7 +121,7 @@ then R maps to P × Q.
 
 ### `Tau.Topos.product_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L59-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L59-L62)
 **theorem
 Tau.Topos.product_comm
 (P Q : Presheaf)
@@ -134,7 +134,7 @@ Product is commutative up to support equality.
 
 ### `Tau.Topos.product_assoc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L64-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L64-L68)
 **theorem
 Tau.Topos.product_assoc
 (P Q R : Presheaf)
@@ -147,7 +147,7 @@ Product is associative up to support equality.
 
 ### `Tau.Topos.product_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L70-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L70-L73)
 **theorem
 Tau.Topos.product_terminal
 (P : Presheaf)
@@ -160,7 +160,7 @@ Product with terminal is identity.
 
 ### `Tau.Topos.CartesianMonoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L79-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L79-L85)
 **structure
 Tau.Topos.CartesianMonoidal :Type**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.Topos.cartesian_monoidal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L87-L88)
 **def
 Tau.Topos.cartesian_monoidal :CartesianMonoidal**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.Topos.monoidal_left_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L90-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L90-L93)
 **theorem
 Tau.Topos.monoidal_left_unit
 (P : Presheaf)
@@ -203,7 +203,7 @@ Left unit law.
 
 ### `Tau.Topos.monoidal_right_unit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L95-L98)
 **theorem
 Tau.Topos.monoidal_right_unit
 (P : Presheaf)
@@ -216,7 +216,7 @@ Right unit law.
 
 ### `Tau.Topos.cantor_product_encoding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Topos/CartesianProduct.lean#L104-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Topos/CartesianProduct.lean#L104-L106)
 **theorem
 Tau.Topos.cantor_product_encoding
 (a b : Denotation.TauIdx)

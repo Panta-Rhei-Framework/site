@@ -71,7 +71,7 @@ The calibration triangle (G, κ_n, α_G) closes exactly.
 
 ### `Tau.BookV.Coda.MassDerivationLayer2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L40-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L40-L64)
 **structure
 Tau.BookV.Coda.MassDerivationLayer2 :Type**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprMassDerivationLayer2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L64-L64)
 **instance
 Tau.BookV.Coda.instReprMassDerivationLayer2 :Repr MassDerivationLayer2**
 
@@ -128,7 +128,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprMassDerivationLayer2.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L64-L64)
 **def
 Tau.BookV.Coda.instReprMassDerivationLayer2.repr :MassDerivationLayer2 → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookV.Coda.mass_derivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L66-L71)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L66-L71)
 **def
 Tau.BookV.Coda.mass_derivation :MassDerivationLayer2**
 
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookV.Coda.mass_derivation_layer2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L73-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L73-L79)
 **theorem
 Tau.BookV.Coda.mass_derivation_layer2 :mass_derivation.n_derived = 3 ∧ mass_derivation.n_layers = 3 ∧ mass_derivation.single_anchor = true ∧ mass_derivation.zero_additional_params = true**
 
@@ -166,7 +166,7 @@ Layer 2 derives 3 masses from 3 layers with single anchor.
 
 ### `Tau.BookV.Coda.derived_masses_match_layers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L81-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L81-L84)
 **theorem
 Tau.BookV.Coda.derived_masses_match_layers :mass_derivation.n_derived = mass_derivation.n_layers**
 
@@ -177,7 +177,7 @@ Derived mass count equals layer count: one mass per layer.
 
 ### `Tau.BookV.Coda.CalibrationSufficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L90-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L90-L115)
 **structure
 Tau.BookV.Coda.CalibrationSufficiency :Type**
 
@@ -226,7 +226,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprCalibrationSufficiency.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L115-L115)
 **def
 Tau.BookV.Coda.instReprCalibrationSufficiency.repr :CalibrationSufficiency → ℕ → Std.Format**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprCalibrationSufficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L115-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L115-L115)
 **instance
 Tau.BookV.Coda.instReprCalibrationSufficiency :Repr CalibrationSufficiency**
 
@@ -249,7 +249,7 @@ Equations
 
 ### `Tau.BookV.Coda.calibration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L117-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L117-L124)
 **def
 Tau.BookV.Coda.calibration :CalibrationSufficiency**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookV.Coda.calibration_sufficiency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L126-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L126-L132)
 **theorem
 Tau.BookV.Coda.calibration_sufficiency :calibration.n_dimensionless = 1 ∧ calibration.n_anchors = 1 ∧ calibration.n_free_params = 0 ∧ calibration.triangle_closes = true**
 
@@ -274,7 +274,7 @@ Calibration is sufficient: 1 dimensionless + 1 anchor + 0 free params.
 
 ### `Tau.BookV.Coda.total_inputs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L134-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L134-L137)
 **theorem
 Tau.BookV.Coda.total_inputs :calibration.n_dimensionless + calibration.n_anchors = 2**
 
@@ -285,7 +285,7 @@ Total input count: 1 + 1 = 2 (ι<sub>τ</sub> + m_n).
 
 ### `Tau.BookV.Coda.iota_tau_anchor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/CalibrationChain.lean#L139-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/CalibrationChain.lean#L139-L140)
 **def
 Tau.BookV.Coda.iota_tau_anchor :Float**
 

@@ -59,7 +59,7 @@ there is no same-role pair to swap. This highlights the tradeoff:
 
 ### `Tau.Orbit.TooFew.Gen4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L37-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L37-L43)
 **inductive
 Tau.Orbit.TooFew.Gen4 :Type**
 
@@ -76,7 +76,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instDecidableEqGen4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
 **instance
 Tau.Orbit.TooFew.instDecidableEqGen4 :DecidableEq Gen4**
 
@@ -87,7 +87,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.instReprGen4.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
 **def
 Tau.Orbit.TooFew.instReprGen4.repr :Gen4 → Nat → Std.Format**
 
@@ -101,7 +101,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instReprGen4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L43-L43)
 **instance
 Tau.Orbit.TooFew.instReprGen4 :Repr Gen4**
 
@@ -112,7 +112,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.Gen4.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L47-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L47-L52)
 **def
 Tau.Orbit.TooFew.Gen4.toNat :Gen4 → Nat**
 
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.solenoidal4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L58-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L58-L59)
 **def
 Tau.Orbit.TooFew.solenoidal4 :List Gen4**
 
@@ -143,7 +143,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.solenoidal4_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L61-L62)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L61-L62)
 **theorem
 Tau.Orbit.TooFew.solenoidal4_count :solenoidal4.length = 2**
 
@@ -154,7 +154,7 @@ Only 2 solenoidal generators in Gen4.
 
 ### `Tau.Orbit.TooFew.Ladder4Level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L64-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L64-L70)
 **inductive
 Tau.Orbit.TooFew.Ladder4Level :Type**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instDecidableEqLadder4Level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
 **instance
 Tau.Orbit.TooFew.instDecidableEqLadder4Level :DecidableEq Ladder4Level**
 
@@ -182,7 +182,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.instReprLadder4Level.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
 **def
 Tau.Orbit.TooFew.instReprLadder4Level.repr :Ladder4Level → Nat → Std.Format**
 
@@ -194,7 +194,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instReprLadder4Level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L70-L70)
 **instance
 Tau.Orbit.TooFew.instReprLadder4Level :Repr Ladder4Level**
 
@@ -205,7 +205,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.ladder4Channel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L72-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L72-L78)
 **def
 Tau.Orbit.TooFew.ladder4Channel :Ladder4Level → Option Gen4**
 
@@ -223,7 +223,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.four_gen_exp_no_channel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L84-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L84-L85)
 **theorem
 Tau.Orbit.TooFew.four_gen_exp_no_channel :ladder4Channel Ladder4Level.exp_level = none**
 
@@ -234,7 +234,7 @@ Exponentiation has no canonical channel in Gen4.
 
 ### `Tau.Orbit.TooFew.solenoidal4_deficit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L87-L88)
 **theorem
 Tau.Orbit.TooFew.solenoidal4_deficit :solenoidal4.length < 3**
 
@@ -245,7 +245,7 @@ The deficit: 2 solenoidal generators for 3 rewiring levels needed.
 
 ### `Tau.Orbit.TooFew.four_gen_ladder_incomplete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L90-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L90-L100)
 **theorem
 Tau.Orbit.TooFew.four_gen_ladder_incomplete :ladder4Channel Ladder4Level.exp_level = none ∧ solenoidal4.length < 3**
 
@@ -263,7 +263,7 @@ ladder completeness — 5 generators is *necessary*.
 
 ### `Tau.Orbit.TooFew.Obj4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L106-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L106-L110)
 **structure
 Tau.Orbit.TooFew.Obj4 :Type**
 
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instDecidableEqObj4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
 **instance
 Tau.Orbit.TooFew.instDecidableEqObj4 :DecidableEq Obj4**
 
@@ -289,7 +289,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.instDecidableEqObj4.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
 **def
 Tau.Orbit.TooFew.instDecidableEqObj4.decEq
 (x✝ x✝¹ : Obj4)
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.instReprObj4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
 **instance
 Tau.Orbit.TooFew.instReprObj4 :Repr Obj4**
 
@@ -314,7 +314,7 @@ Equations
 
 ### `Tau.Orbit.TooFew.instReprObj4.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L110-L110)
 **def
 Tau.Orbit.TooFew.instReprObj4.repr :Obj4 → Nat → Std.Format**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.rho4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L112-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L112-L116)
 **def
 Tau.Orbit.TooFew.rho4
 (x : Obj4)
@@ -344,7 +344,7 @@ Instances For
 
 ### `Tau.Orbit.TooFew.four_gen_order_rigid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L118-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L118-L162)
 **theorem
 Tau.Orbit.TooFew.four_gen_order_rigid
 (f : Gen4 → Gen4)
@@ -368,7 +368,7 @@ bijection must be the identity.
 
 ### `Tau.Orbit.TooFew.four_gen_rigidity_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Orbit/TooFew.lean#L164-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Orbit/TooFew.lean#L164-L178)
 **theorem
 Tau.Orbit.TooFew.four_gen_rigidity_holds
 (f : Gen4 → Gen4)

@@ -74,7 +74,7 @@ where mul and add are both componentwise.
 
 ### `Tau.BookII.Regularity.idempotent_decompose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L45-L55)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L45-L55)
 **def
 Tau.BookII.Regularity.idempotent_decompose
 (bp : Polarity.SectorPair)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.proj_plus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L57-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L57-L59)
 **def
 Tau.BookII.Regularity.proj_plus
 (bp : Polarity.SectorPair)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.proj_minus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L61-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L61-L63)
 **def
 Tau.BookII.Regularity.proj_minus
 (bp : Polarity.SectorPair)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.proj_plus_kills_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L69-L72)
 **theorem
 Tau.BookII.Regularity.proj_plus_kills_c
 (bp : Polarity.SectorPair)
@@ -147,7 +147,7 @@ proj_plus kills the C-channel: the C-sector of e₊ · bp is always 0.
 
 ### `Tau.BookII.Regularity.proj_minus_kills_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L74-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L74-L77)
 **theorem
 Tau.BookII.Regularity.proj_minus_kills_b
 (bp : Polarity.SectorPair)
@@ -160,7 +160,7 @@ proj_minus kills the B-channel: the B-sector of e₋ · bp is always 0.
 
 ### `Tau.BookII.Regularity.proj_plus_preserves_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L79-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L79-L82)
 **theorem
 Tau.BookII.Regularity.proj_plus_preserves_b
 (bp : Polarity.SectorPair)
@@ -173,7 +173,7 @@ proj_plus preserves the B-channel: the B-sector of e₊ · bp equals bp.b.
 
 ### `Tau.BookII.Regularity.proj_minus_preserves_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L84-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L84-L87)
 **theorem
 Tau.BookII.Regularity.proj_minus_preserves_c
 (bp : Polarity.SectorPair)
@@ -186,7 +186,7 @@ proj_minus preserves the C-channel: the C-sector of e₋ · bp equals bp.c.
 
 ### `Tau.BookII.Regularity.decompose_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L93-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L93-L102)
 **theorem
 Tau.BookII.Regularity.decompose_recovery
 (bp : Polarity.SectorPair)
@@ -204,7 +204,7 @@ and C-channel components, and the sum recovers the original.
 
 ### `Tau.BookII.Regularity.proj_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L104-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L104-L108)
 **theorem
 Tau.BookII.Regularity.proj_orthogonal
 (bp : Polarity.SectorPair)
@@ -218,7 +218,7 @@ The B-channel and C-channel carry independent information.
 
 ### `Tau.BookII.Regularity.proj_plus_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L110-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L110-L113)
 **theorem
 Tau.BookII.Regularity.proj_plus_idem
 (bp : Polarity.SectorPair)
@@ -231,7 +231,7 @@ Idempotency of proj_plus: projecting twice is the same as projecting once.
 
 ### `Tau.BookII.Regularity.proj_minus_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L115-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L115-L118)
 **theorem
 Tau.BookII.Regularity.proj_minus_idem
 (bp : Polarity.SectorPair)
@@ -244,7 +244,7 @@ Idempotency of proj_minus: projecting twice is the same as projecting once.
 
 ### `Tau.BookII.Regularity.decompose_recovery_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L124-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L124-L146)
 **def
 Tau.BookII.Regularity.decompose_recovery_check
 (bound : Denotation.TauIdx)
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decompose_recovery_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L129-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L129-L145)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decompose_recovery_check.go
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.stagefun_decompose`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L152-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L152-L162)
 **def
 Tau.BookII.Regularity.stagefun_decompose
 (sf : Holomorphy.StageFun)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.stagefun_decompose_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L164-L186)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L164-L186)
 **def
 Tau.BookII.Regularity.stagefun_decompose_check
 (bound db : Denotation.TauIdx)
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.stagefun_decompose_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L170-L185)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L170-L185)@[irreducible]
 
 **def
 Tau.BookII.Regularity.stagefun_decompose_check.go
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decompose_functorial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L192-L225)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L192-L225)
 **def
 Tau.BookII.Regularity.decompose_functorial_check
 (bound db : Denotation.TauIdx)
@@ -357,7 +357,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decompose_functorial_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L204-L224)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L204-L224)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decompose_functorial_check.go
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decompose_functorial_extended`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L227-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L227-L255)
 **def
 Tau.BookII.Regularity.decompose_functorial_extended
 (bound db : Denotation.TauIdx)
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.decompose_functorial_extended.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L231-L254)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L231-L254)@[irreducible]
 
 **def
 Tau.BookII.Regularity.decompose_functorial_extended.go
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.full_idempotent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L261-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L261-L266)
 **def
 Tau.BookII.Regularity.full_idempotent_check
 (bound db : Denotation.TauIdx)
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookII.Regularity.recovery_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L309-L310)
 **theorem
 Tau.BookII.Regularity.recovery_30 :decompose_recovery_check 30 = true**
 
@@ -432,7 +432,7 @@ Tau.BookII.Regularity.recovery_30 :decompose_recovery_check 30 = true**
 
 ### `Tau.BookII.Regularity.stagefun_decompose_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L313-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L313-L314)
 **theorem
 Tau.BookII.Regularity.stagefun_decompose_12_4 :stagefun_decompose_check 12 4 = true**
 
@@ -441,7 +441,7 @@ Tau.BookII.Regularity.stagefun_decompose_12_4 :stagefun_decompose_check 12 4 = t
 
 ### `Tau.BookII.Regularity.functorial_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L317-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L317-L318)
 **theorem
 Tau.BookII.Regularity.functorial_12_4 :decompose_functorial_check 12 4 = true**
 
@@ -450,7 +450,7 @@ Tau.BookII.Regularity.functorial_12_4 :decompose_functorial_check 12 4 = true**
 
 ### `Tau.BookII.Regularity.functorial_ext_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L320-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L320-L321)
 **theorem
 Tau.BookII.Regularity.functorial_ext_12_4 :decompose_functorial_extended 12 4 = true**
 
@@ -459,6 +459,6 @@ Tau.BookII.Regularity.functorial_ext_12_4 :decompose_functorial_extended 12 4 = 
 
 ### `Tau.BookII.Regularity.full_idempotent_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L324-L325)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Regularity/IdempotentDecomposition.lean#L324-L325)
 **theorem
 Tau.BookII.Regularity.full_idempotent_12_4 :full_idempotent_check 12 4 = true**

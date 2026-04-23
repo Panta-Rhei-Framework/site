@@ -109,7 +109,7 @@ Source-free Lorenz gauge: □A_μ = 0 (wave equation for photons).
 
 ### `Tau.BookIV.Electroweak.EMGaugeBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L69-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L69-L81)
 **structure
 Tau.BookIV.Electroweak.EMGaugeBundle :Type**
 
@@ -136,7 +136,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMGaugeBundle`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L81-L81)
 **instance
 Tau.BookIV.Electroweak.instReprEMGaugeBundle :Repr EMGaugeBundle**
 
@@ -147,7 +147,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMGaugeBundle.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L81-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L81-L81)
 **def
 Tau.BookIV.Electroweak.instReprEMGaugeBundle.repr :EMGaugeBundle → ℕ → Std.Format**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.em_gauge_trivial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L83-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L83-L87)
 **def
 Tau.BookIV.Electroweak.em_gauge_trivial :EMGaugeBundle**
 
@@ -173,7 +173,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EMConnectionA`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L93-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L93-L105)
 **structure
 Tau.BookIV.Electroweak.EMConnectionA :Type**
 
@@ -199,7 +199,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMConnectionA`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L105-L105)
 **instance
 Tau.BookIV.Electroweak.instReprEMConnectionA :Repr EMConnectionA**
 
@@ -210,7 +210,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMConnectionA.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L105-L105)
 **def
 Tau.BookIV.Electroweak.instReprEMConnectionA.repr :EMConnectionA → ℕ → Std.Format**
 
@@ -222,7 +222,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.em_connection_a`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L107-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L107-L112)
 **def
 Tau.BookIV.Electroweak.em_connection_a :EMConnectionA**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EMFieldTensor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L118-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L118-L132)
 **structure
 Tau.BookIV.Electroweak.EMFieldTensor :Type**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMFieldTensor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L132-L132)
 **instance
 Tau.BookIV.Electroweak.instReprEMFieldTensor :Repr EMFieldTensor**
 
@@ -276,7 +276,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEMFieldTensor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L132-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L132-L132)
 **def
 Tau.BookIV.Electroweak.instReprEMFieldTensor.repr :EMFieldTensor → ℕ → Std.Format**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.faraday_tensor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L134-L139)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L134-L139)
 **def
 Tau.BookIV.Electroweak.faraday_tensor :EMFieldTensor**
 
@@ -303,7 +303,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EBFields`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L145-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L145-L158)
 **structure
 Tau.BookIV.Electroweak.EBFields :Type**
 
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEBFields`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L158-L158)
 **instance
 Tau.BookIV.Electroweak.instReprEBFields :Repr EBFields**
 
@@ -341,7 +341,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprEBFields.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L158-L158)
 **def
 Tau.BookIV.Electroweak.instReprEBFields.repr :EBFields → ℕ → Std.Format**
 
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.eb_fields`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L160-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L160-L167)
 **def
 Tau.BookIV.Electroweak.eb_fields :EBFields**
 
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.eb_total_eq_f`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L169-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L169-L170)
 **theorem
 Tau.BookIV.Electroweak.eb_total_eq_f :eb_fields.total = faraday_tensor.components**
 
@@ -378,7 +378,7 @@ Total E+B components equals F components.
 
 ### `Tau.BookIV.Electroweak.HodgeDual`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L176-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L176-L185)
 **structure
 Tau.BookIV.Electroweak.HodgeDual :Type**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHodgeDual`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L185-L185)
 **instance
 Tau.BookIV.Electroweak.instReprHodgeDual :Repr HodgeDual**
 
@@ -412,7 +412,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprHodgeDual.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L185-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L185-L185)
 **def
 Tau.BookIV.Electroweak.instReprHodgeDual.repr :HodgeDual → ℕ → Std.Format**
 
@@ -424,7 +424,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.EMCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L191-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L191-L203)
 **structure
 Tau.BookIV.Electroweak.EMCurrent :Type**
 
@@ -450,7 +450,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMCurrent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L203-L203)
 **def
 Tau.BookIV.Electroweak.instReprEMCurrent.repr :EMCurrent → ℕ → Std.Format**
 
@@ -462,7 +462,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L203-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L203-L203)
 **instance
 Tau.BookIV.Electroweak.instReprEMCurrent :Repr EMCurrent**
 
@@ -473,7 +473,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.em_current`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L205-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L205-L210)
 **def
 Tau.BookIV.Electroweak.em_current :EMCurrent**
 
@@ -487,7 +487,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.BianchiIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L216-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L216-L227)
 **structure
 Tau.BookIV.Electroweak.BianchiIdentity :Type**
 
@@ -512,7 +512,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprBianchiIdentity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L227-L227)
 **def
 Tau.BookIV.Electroweak.instReprBianchiIdentity.repr :BianchiIdentity → ℕ → Std.Format**
 
@@ -524,7 +524,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprBianchiIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L227-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L227-L227)
 **instance
 Tau.BookIV.Electroweak.instReprBianchiIdentity :Repr BianchiIdentity**
 
@@ -535,7 +535,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.bianchi_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L229-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L229-L231)
 **def
 Tau.BookIV.Electroweak.bianchi_instance :BianchiIdentity**
 
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.bianchi_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L233-L233)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L233-L233)
 **theorem
 Tau.BookIV.Electroweak.bianchi_identity :bianchi_instance.df_zero = true**
 
@@ -556,7 +556,7 @@ Tau.BookIV.Electroweak.bianchi_identity :bianchi_instance.df_zero = true**
 
 ### `Tau.BookIV.Electroweak.SourceEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L239-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L239-L247)
 **structure
 Tau.BookIV.Electroweak.SourceEquation :Type**
 
@@ -577,7 +577,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSourceEquation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L247-L247)
 **def
 Tau.BookIV.Electroweak.instReprSourceEquation.repr :SourceEquation → ℕ → Std.Format**
 
@@ -589,7 +589,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprSourceEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L247-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L247-L247)
 **instance
 Tau.BookIV.Electroweak.instReprSourceEquation :Repr SourceEquation**
 
@@ -600,7 +600,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.source_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L249-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L249-L251)
 **def
 Tau.BookIV.Electroweak.source_instance :SourceEquation**
 
@@ -612,7 +612,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.source_equation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L253-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L253-L253)
 **theorem
 Tau.BookIV.Electroweak.source_equation :source_instance.source_eq = true**
 
@@ -621,7 +621,7 @@ Tau.BookIV.Electroweak.source_equation :source_instance.source_eq = true**
 
 ### `Tau.BookIV.Electroweak.MaxwellEquations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L259-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L259-L271)
 **structure
 Tau.BookIV.Electroweak.MaxwellEquations :Type**
 
@@ -647,7 +647,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMaxwellEquations.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L271-L271)
 **def
 Tau.BookIV.Electroweak.instReprMaxwellEquations.repr :MaxwellEquations → ℕ → Std.Format**
 
@@ -659,7 +659,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMaxwellEquations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L271-L271)
 **instance
 Tau.BookIV.Electroweak.instReprMaxwellEquations :Repr MaxwellEquations**
 
@@ -670,7 +670,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.maxwell_eqs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L273-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L273-L278)
 **def
 Tau.BookIV.Electroweak.maxwell_eqs :MaxwellEquations**
 
@@ -684,7 +684,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.maxwell_equations`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L280-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L280-L280)
 **theorem
 Tau.BookIV.Electroweak.maxwell_equations :maxwell_eqs.total_count = 4**
 
@@ -693,7 +693,7 @@ Tau.BookIV.Electroweak.maxwell_equations :maxwell_eqs.total_count = 4**
 
 ### `Tau.BookIV.Electroweak.DefectSources`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L286-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L286-L294)
 **structure
 Tau.BookIV.Electroweak.DefectSources :Type**
 
@@ -714,7 +714,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprDefectSources`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L294-L294)
 **instance
 Tau.BookIV.Electroweak.instReprDefectSources :Repr DefectSources**
 
@@ -725,7 +725,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprDefectSources.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L294-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L294-L294)
 **def
 Tau.BookIV.Electroweak.instReprDefectSources.repr :DefectSources → ℕ → Std.Format**
 
@@ -737,7 +737,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.defect_sources_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L296-L296)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L296-L296)
 **def
 Tau.BookIV.Electroweak.defect_sources_instance :DefectSources**
 
@@ -749,7 +749,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.defect_sources`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L298-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L298-L299)
 **theorem
 Tau.BookIV.Electroweak.defect_sources :defect_sources_instance.charge_is_winding = true**
 
@@ -758,7 +758,7 @@ Tau.BookIV.Electroweak.defect_sources :defect_sources_instance.charge_is_winding
 
 ### `Tau.BookIV.Electroweak.CoulombLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L305-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L305-L315)
 **structure
 Tau.BookIV.Electroweak.CoulombLimit :Type**
 
@@ -781,7 +781,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCoulombLimit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L315-L315)
 **def
 Tau.BookIV.Electroweak.instReprCoulombLimit.repr :CoulombLimit → ℕ → Std.Format**
 
@@ -793,7 +793,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCoulombLimit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L315-L315)
 **instance
 Tau.BookIV.Electroweak.instReprCoulombLimit :Repr CoulombLimit**
 
@@ -804,7 +804,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.coulomb_3d`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L317-L322)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L317-L322)
 **def
 Tau.BookIV.Electroweak.coulomb_3d :CoulombLimit**
 
@@ -818,7 +818,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.coulomb_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L324-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L324-L324)
 **theorem
 Tau.BookIV.Electroweak.coulomb_limit :coulomb_3d.force_exponent = 2**
 
@@ -827,7 +827,7 @@ Tau.BookIV.Electroweak.coulomb_limit :coulomb_3d.force_exponent = 2**
 
 ### `Tau.BookIV.Electroweak.WaveEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L330-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L330-L339)
 **structure
 Tau.BookIV.Electroweak.WaveEquation :Type**
 
@@ -850,7 +850,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWaveEquation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L339-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L339-L339)
 **def
 Tau.BookIV.Electroweak.instReprWaveEquation.repr :WaveEquation → ℕ → Std.Format**
 
@@ -862,7 +862,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprWaveEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L339-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L339-L339)
 **instance
 Tau.BookIV.Electroweak.instReprWaveEquation :Repr WaveEquation**
 
@@ -873,7 +873,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.wave_equation_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L341-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L341-L341)
 **def
 Tau.BookIV.Electroweak.wave_equation_instance :WaveEquation**
 
@@ -885,7 +885,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.wave_equation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L343-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L343-L344)
 **theorem
 Tau.BookIV.Electroweak.wave_equation :wave_equation_instance.is_wave_eq = true**
 
@@ -894,7 +894,7 @@ Tau.BookIV.Electroweak.wave_equation :wave_equation_instance.is_wave_eq = true**
 
 ### `Tau.BookIV.Electroweak.ContinuityEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L350-L358)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L350-L358)
 **structure
 Tau.BookIV.Electroweak.ContinuityEquation :Type**
 
@@ -915,7 +915,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprContinuityEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L358-L358)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L358-L358)
 **instance
 Tau.BookIV.Electroweak.instReprContinuityEquation :Repr ContinuityEquation**
 
@@ -926,7 +926,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprContinuityEquation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L358-L358)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L358-L358)
 **def
 Tau.BookIV.Electroweak.instReprContinuityEquation.repr :ContinuityEquation → ℕ → Std.Format**
 
@@ -938,7 +938,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.continuity_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L360-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L360-L360)
 **def
 Tau.BookIV.Electroweak.continuity_instance :ContinuityEquation**
 
@@ -950,7 +950,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.continuity_equation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L362-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L362-L363)
 **theorem
 Tau.BookIV.Electroweak.continuity_equation :continuity_instance.is_charge_conservation = true**
 
@@ -959,7 +959,7 @@ Tau.BookIV.Electroweak.continuity_equation :continuity_instance.is_charge_conser
 
 ### `Tau.BookIV.Electroweak.ChargeDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L369-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L369-L377)
 **structure
 Tau.BookIV.Electroweak.ChargeDensity :Type**
 
@@ -980,7 +980,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprChargeDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L377-L377)
 **def
 Tau.BookIV.Electroweak.instReprChargeDensity.repr :ChargeDensity → ℕ → Std.Format**
 
@@ -992,7 +992,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprChargeDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L377-L377)
 **instance
 Tau.BookIV.Electroweak.instReprChargeDensity :Repr ChargeDensity**
 
@@ -1003,7 +1003,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.charge_density_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L379-L379)
 **def
 Tau.BookIV.Electroweak.charge_density_instance :ChargeDensity**
 
@@ -1015,7 +1015,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charge_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L381-L382)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L381-L382)
 **theorem
 Tau.BookIV.Electroweak.charge_density :charge_density_instance.is_winding_count = true**
 
@@ -1024,7 +1024,7 @@ Tau.BookIV.Electroweak.charge_density :charge_density_instance.is_winding_count 
 
 ### `Tau.BookIV.Electroweak.CurrentDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L388-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L388-L396)
 **structure
 Tau.BookIV.Electroweak.CurrentDensity :Type**
 
@@ -1045,7 +1045,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCurrentDensity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L396-L396)
 **def
 Tau.BookIV.Electroweak.instReprCurrentDensity.repr :CurrentDensity → ℕ → Std.Format**
 
@@ -1057,7 +1057,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprCurrentDensity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L396-L396)
 **instance
 Tau.BookIV.Electroweak.instReprCurrentDensity :Repr CurrentDensity**
 
@@ -1068,7 +1068,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.current_density_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L398-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L398-L400)
 **def
 Tau.BookIV.Electroweak.current_density_instance :CurrentDensity**
 
@@ -1080,7 +1080,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.current_density`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L402-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L402-L403)
 **theorem
 Tau.BookIV.Electroweak.current_density :current_density_instance.is_defect_transport = true**
 
@@ -1089,7 +1089,7 @@ Tau.BookIV.Electroweak.current_density :current_density_instance.is_defect_trans
 
 ### `Tau.BookIV.Electroweak.PhotonEMWave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L409-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L409-L419)
 **structure
 Tau.BookIV.Electroweak.PhotonEMWave :Type**
 
@@ -1113,7 +1113,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonEMWave.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L419-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L419-L419)
 **def
 Tau.BookIV.Electroweak.instReprPhotonEMWave.repr :PhotonEMWave → ℕ → Std.Format**
 
@@ -1125,7 +1125,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPhotonEMWave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L419-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L419-L419)
 **instance
 Tau.BookIV.Electroweak.instReprPhotonEMWave :Repr PhotonEMWave**
 
@@ -1136,7 +1136,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.photon_em_wave_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L421-L421)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L421-L421)
 **def
 Tau.BookIV.Electroweak.photon_em_wave_instance :PhotonEMWave**
 
@@ -1148,7 +1148,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.photon_is_em_wave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L423-L424)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L423-L424)
 **theorem
 Tau.BookIV.Electroweak.photon_is_em_wave :photon_em_wave_instance.same_object = true**
 
@@ -1157,7 +1157,7 @@ Tau.BookIV.Electroweak.photon_is_em_wave :photon_em_wave_instance.same_object = 
 
 ### `Tau.BookIV.Electroweak.MagneticForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L430-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L430-L437)
 **structure
 Tau.BookIV.Electroweak.MagneticForce :Type**
 
@@ -1177,7 +1177,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMagneticForce.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L437-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L437-L437)
 **def
 Tau.BookIV.Electroweak.instReprMagneticForce.repr :MagneticForce → ℕ → Std.Format**
 
@@ -1189,7 +1189,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMagneticForce`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L437-L437)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L437-L437)
 **instance
 Tau.BookIV.Electroweak.instReprMagneticForce :Repr MagneticForce**
 
@@ -1200,7 +1200,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.magnetic_force_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L439-L439)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L439-L439)
 **def
 Tau.BookIV.Electroweak.magnetic_force_instance :MagneticForce**
 
@@ -1212,7 +1212,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.magnetic_force_perpendicular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L441-L443)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L441-L443)
 **theorem
 Tau.BookIV.Electroweak.magnetic_force_perpendicular :magnetic_force_instance.perpendicular = true ∧ magnetic_force_instance.no_work = true**
 
@@ -1221,7 +1221,7 @@ Tau.BookIV.Electroweak.magnetic_force_perpendicular :magnetic_force_instance.per
 
 ### `Tau.BookIV.Electroweak.QEDCorrections`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L449-L461)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L449-L461)
 **structure
 Tau.BookIV.Electroweak.QEDCorrections :Type**
 
@@ -1247,7 +1247,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprQEDCorrections`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L461-L461)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L461-L461)
 **instance
 Tau.BookIV.Electroweak.instReprQEDCorrections :Repr QEDCorrections**
 
@@ -1258,7 +1258,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprQEDCorrections.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L461-L461)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L461-L461)
 **def
 Tau.BookIV.Electroweak.instReprQEDCorrections.repr :QEDCorrections → ℕ → Std.Format**
 
@@ -1270,7 +1270,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.qed_standard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L463-L468)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L463-L468)
 **def
 Tau.BookIV.Electroweak.qed_standard :QEDCorrections**
 
@@ -1284,7 +1284,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.qed_corrections`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L470-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L470-L470)
 **theorem
 Tau.BookIV.Electroweak.qed_corrections :qed_standard.alpha_inverse_approx = 137**
 
@@ -1293,7 +1293,7 @@ Tau.BookIV.Electroweak.qed_corrections :qed_standard.alpha_inverse_approx = 137*
 
 ### `Tau.BookIV.Electroweak.example_hodge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L484-L484)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L484-L484)
 **def
 Tau.BookIV.Electroweak.example_hodge :HodgeDual**
 
@@ -1305,7 +1305,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.example_wave`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/TauMaxwell.lean#L486-L486)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/TauMaxwell.lean#L486-L486)
 **def
 Tau.BookIV.Electroweak.example_wave :WaveEquation**
 

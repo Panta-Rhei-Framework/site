@@ -71,7 +71,7 @@ self-model (idempotence of self-awareness).
 
 ### `Tau.BookIII.Mirror.e3_predicate`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L55-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L55-L68)
 **def
 Tau.BookIII.Mirror.e3_predicate
 (x k : ℕ)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.count_e3_fixed_points`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L70-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L70-L80)
 **def
 Tau.BookIII.Mirror.count_e3_fixed_points
 (k : ℕ)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.count_e3_fixed_points.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L75-L79)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L75-L79)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.count_e3_fixed_points.go
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.fixed_point_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L82-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L82-L91)
 **def
 Tau.BookIII.Mirror.fixed_point_check
 (db : ℕ)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.fixed_point_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L86-L90)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L86-L90)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.fixed_point_check.go
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.e3_density_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L93-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L93-L99)
 **def
 Tau.BookIII.Mirror.e3_density_check
 (k : ℕ)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.ParadoxWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L105-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L105-L111)
 **inductive
 Tau.BookIII.Mirror.ParadoxWitness :Type**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.instReprParadoxWitness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
 **def
 Tau.BookIII.Mirror.instReprParadoxWitness.repr :ParadoxWitness → ℕ → Std.Format**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.instReprParadoxWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
 **instance
 Tau.BookIII.Mirror.instReprParadoxWitness :Repr ParadoxWitness**
 
@@ -206,7 +206,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instDecidableEqParadoxWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
 **instance
 Tau.BookIII.Mirror.instDecidableEqParadoxWitness :DecidableEq ParadoxWitness**
 
@@ -217,7 +217,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instBEqParadoxWitness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
 **instance
 Tau.BookIII.Mirror.instBEqParadoxWitness :BEq ParadoxWitness**
 
@@ -228,7 +228,7 @@ Equations
 
 ### `Tau.BookIII.Mirror.instBEqParadoxWitness.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L111-L111)
 **def
 Tau.BookIII.Mirror.instBEqParadoxWitness.beq :ParadoxWitness → ParadoxWitness → Bool**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.paradox_construction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L113-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L113-L122)
 **def
 Tau.BookIII.Mirror.paradox_construction
 (p : ParadoxWitness)
@@ -262,7 +262,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.paradox_absorbed_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L124-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L124-L146)
 **def
 Tau.BookIII.Mirror.paradox_absorbed_check
 (db : ℕ)
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.paradox_absorbed_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L129-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L129-L134)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.paradox_absorbed_check.go
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.paradox_absorbed_check.go_p`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L136-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L136-L145)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.paradox_absorbed_check.go_p
@@ -309,7 +309,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.e3_self_model_complete_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L152-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L152-L173)
 **def
 Tau.BookIII.Mirror.e3_self_model_complete_check
 (db : ℕ)
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.e3_self_model_complete_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L157-L162)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L157-L162)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.e3_self_model_complete_check.go
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.e3_self_model_complete_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L164-L172)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L164-L172)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.e3_self_model_complete_check.go_x
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.saturation_semantic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L179-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L179-L205)
 **def
 Tau.BookIII.Mirror.saturation_semantic_check
 (db : ℕ)
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.saturation_semantic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L186-L191)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L186-L191)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.saturation_semantic_check.go
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.saturation_semantic_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L193-L204)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L193-L204)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.saturation_semantic_check.go_x
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_idempotent_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L207-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L207-L227)
 **def
 Tau.BookIII.Mirror.self_model_idempotent_check
 (db : ℕ)
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_idempotent_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L212-L217)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L212-L217)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.self_model_idempotent_check.go
@@ -437,7 +437,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.self_model_idempotent_check.go_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L219-L226)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L219-L226)@[irreducible]
 
 **def
 Tau.BookIII.Mirror.self_model_idempotent_check.go_x
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookIII.Mirror.fixed_point_check_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L233-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L233-L235)
 **theorem
 Tau.BookIII.Mirror.fixed_point_check_3 :fixed_point_check 3 = true**
 
@@ -463,7 +463,7 @@ Tau.BookIII.Mirror.fixed_point_check_3 :fixed_point_check 3 = true**
 
 ### `Tau.BookIII.Mirror.e3_density_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L237-L239)
 **theorem
 Tau.BookIII.Mirror.e3_density_2 :e3_density_check 2 = true**
 
@@ -474,7 +474,7 @@ Tau.BookIII.Mirror.e3_density_2 :e3_density_check 2 = true**
 
 ### `Tau.BookIII.Mirror.paradox_absorbed_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L241-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L241-L243)
 **theorem
 Tau.BookIII.Mirror.paradox_absorbed_3 :paradox_absorbed_check 3 = true**
 
@@ -485,7 +485,7 @@ Tau.BookIII.Mirror.paradox_absorbed_3 :paradox_absorbed_check 3 = true**
 
 ### `Tau.BookIII.Mirror.self_model_complete_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L245-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L245-L247)
 **theorem
 Tau.BookIII.Mirror.self_model_complete_3 :e3_self_model_complete_check 3 = true**
 
@@ -496,7 +496,7 @@ Tau.BookIII.Mirror.self_model_complete_3 :e3_self_model_complete_check 3 = true*
 
 ### `Tau.BookIII.Mirror.saturation_semantic_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L249-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L249-L251)
 **theorem
 Tau.BookIII.Mirror.saturation_semantic_3 :saturation_semantic_check 3 = true**
 
@@ -507,7 +507,7 @@ Tau.BookIII.Mirror.saturation_semantic_3 :saturation_semantic_check 3 = true**
 
 ### `Tau.BookIII.Mirror.self_model_idempotent_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Mirror/E3Witness.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Mirror/E3Witness.lean#L253-L255)
 **theorem
 Tau.BookIII.Mirror.self_model_idempotent_3 :self_model_idempotent_check 3 = true**
 

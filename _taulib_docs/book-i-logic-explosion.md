@@ -67,7 +67,7 @@ than propagating.
 
 ### `Tau.Logic.explosion_barrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L45-L52)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L45-L52)
 **theorem
 Tau.Logic.explosion_barrier :Truth4.B.impl Truth4.F ≠ Truth4.T**
 
@@ -83,7 +83,7 @@ Since N <> T, the implication B -> F is not "true".
 
 ### `Tau.Logic.explosion_exists_counterexample`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L54-L57)
 **theorem
 Tau.Logic.explosion_exists_counterexample :∃ (Q : Truth4), Truth4.B.impl Q ≠ Truth4.T**
 
@@ -94,7 +94,7 @@ Existential form: there exists a target Q such that impl B Q <> T.
 
 ### `Tau.Logic.impl_B_not_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L59-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L59-L65)
 **theorem
 Tau.Logic.impl_B_not_constant :¬∀ (Q : Truth4), Truth4.B.impl Q = Truth4.T**
 
@@ -106,7 +106,7 @@ impl B T = T, impl B F = N, impl B B = T, impl B N = T.
 
 ### `Tau.Logic.classical_explosion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L71-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L71-L74)
 **theorem
 Tau.Logic.classical_explosion
 (Q : Truth4)
@@ -120,7 +120,7 @@ impl F Q = join (neg F) Q = join T Q = T.
 
 ### `Tau.Logic.classical_chain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L76-L81)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L76-L81)
 **theorem
 Tau.Logic.classical_chain
 (a Q : Truth4)
@@ -135,7 +135,7 @@ still works. The explosion barrier blocks the ONE-STEP path at B.
 
 ### `Tau.Logic.B_meet_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L87-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L87-L88)
 **theorem
 Tau.Logic.B_meet_B :Truth4.B.meet Truth4.B = Truth4.B**
 
@@ -146,7 +146,7 @@ B is idempotent under meet.
 
 ### `Tau.Logic.B_join_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L90-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L90-L91)
 **theorem
 Tau.Logic.B_join_B :Truth4.B.join Truth4.B = Truth4.B**
 
@@ -157,7 +157,7 @@ B is idempotent under join.
 
 ### `Tau.Logic.neg_B_eq_N`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L93-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L93-L94)
 **theorem
 Tau.Logic.neg_B_eq_N :Truth4.B.neg = Truth4.N**
 
@@ -168,7 +168,7 @@ neg B = N.
 
 ### `Tau.Logic.neg_N_eq_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L96-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L96-L97)
 **theorem
 Tau.Logic.neg_N_eq_B :Truth4.N.neg = Truth4.B**
 
@@ -179,7 +179,7 @@ neg N = B.
 
 ### `Tau.Logic.B_impl_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L99-L101)
 **theorem
 Tau.Logic.B_impl_B :Truth4.B.impl Truth4.B = Truth4.T**
 
@@ -190,7 +190,7 @@ B implies itself: impl B B = T.
 
 ### `Tau.Logic.B_meet_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L103-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L103-L104)
 **theorem
 Tau.Logic.B_meet_T :Truth4.B.meet Truth4.T = Truth4.B**
 
@@ -201,7 +201,7 @@ B infects conjunction with T: meet B T = B.
 
 ### `Tau.Logic.B_join_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L106-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L106-L107)
 **theorem
 Tau.Logic.B_join_T :Truth4.B.join Truth4.T = Truth4.T**
 
@@ -212,7 +212,7 @@ B absorbed by disjunction with T: join B T = T.
 
 ### `Tau.Logic.N_explosion_barrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L109-L111)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L109-L111)
 **theorem
 Tau.Logic.N_explosion_barrier :Truth4.N.impl Truth4.F ≠ Truth4.T**
 
@@ -223,7 +223,7 @@ Symmetrically, N propagation: impl N F = B, not T.
 
 ### `Tau.Logic.impl_T`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L117-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L117-L119)
 **theorem
 Tau.Logic.impl_T
 (a : Truth4)
@@ -236,7 +236,7 @@ impl T a = a (modus ponens compatible).
 
 ### `Tau.Logic.impl_T_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L121-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L121-L123)
 **theorem
 Tau.Logic.impl_T_right
 (a : Truth4)
@@ -249,7 +249,7 @@ impl a T = T (T is always implied).
 
 ### `Tau.Logic.impl_refl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L125-L127)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L125-L127)
 **theorem
 Tau.Logic.impl_refl
 (a : Truth4)
@@ -262,7 +262,7 @@ impl a a = join(neg a, a) = T for all a (reflexivity of implication).
 
 ### `Tau.Logic.impl_table_T_row`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L129-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L129-L132)
 **theorem
 Tau.Logic.impl_table_T_row :Truth4.T.impl Truth4.T = Truth4.T ∧ Truth4.T.impl Truth4.F = Truth4.F ∧ Truth4.T.impl Truth4.B = Truth4.B ∧ Truth4.T.impl Truth4.N = Truth4.N**
 
@@ -273,7 +273,7 @@ The full impl table as a computable function, verified against the definition.
 
 ### `Tau.Logic.impl_table_F_row`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L134-L136)
 **theorem
 Tau.Logic.impl_table_F_row :Truth4.F.impl Truth4.T = Truth4.T ∧ Truth4.F.impl Truth4.F = Truth4.T ∧ Truth4.F.impl Truth4.B = Truth4.T ∧ Truth4.F.impl Truth4.N = Truth4.T**
 
@@ -282,7 +282,7 @@ Tau.Logic.impl_table_F_row :Truth4.F.impl Truth4.T = Truth4.T ∧ Truth4.F.impl 
 
 ### `Tau.Logic.impl_table_B_row`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L138-L140)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L138-L140)
 **theorem
 Tau.Logic.impl_table_B_row :Truth4.B.impl Truth4.T = Truth4.T ∧ Truth4.B.impl Truth4.F = Truth4.N ∧ Truth4.B.impl Truth4.B = Truth4.T ∧ Truth4.B.impl Truth4.N = Truth4.N**
 
@@ -291,7 +291,7 @@ Tau.Logic.impl_table_B_row :Truth4.B.impl Truth4.T = Truth4.T ∧ Truth4.B.impl 
 
 ### `Tau.Logic.impl_table_N_row`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L142-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L142-L144)
 **theorem
 Tau.Logic.impl_table_N_row :Truth4.N.impl Truth4.T = Truth4.T ∧ Truth4.N.impl Truth4.F = Truth4.B ∧ Truth4.N.impl Truth4.B = Truth4.B ∧ Truth4.N.impl Truth4.N = Truth4.T**
 
@@ -300,7 +300,7 @@ Tau.Logic.impl_table_N_row :Truth4.N.impl Truth4.T = Truth4.T ∧ Truth4.N.impl 
 
 ### `Tau.Logic.spectral_bridge_orthogonality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L150-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L150-L165)
 **theorem
 Tau.Logic.spectral_bridge_orthogonality :Truth4.B.toSectorPair.mul Truth4.N.toSectorPair = { b_sector := 0, c_sector := 0 }**
 
@@ -320,7 +320,7 @@ B and its negation N live in orthogonal spectral sectors that cannot
 
 ### `Tau.Logic.spectral_bridge_B_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L167-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L167-L173)
 **theorem
 Tau.Logic.spectral_bridge_B_idem :Truth4.B.toSectorPair.mul Truth4.B.toSectorPair = Truth4.B.toSectorPair**
 
@@ -331,7 +331,7 @@ The sector product of B with itself is B (idempotent), matching e+^2 = e+.
 
 ### `Tau.Logic.spectral_bridge_N_idem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L175-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L175-L181)
 **theorem
 Tau.Logic.spectral_bridge_N_idem :Truth4.N.toSectorPair.mul Truth4.N.toSectorPair = Truth4.N.toSectorPair**
 
@@ -342,7 +342,7 @@ The sector product of N with itself is N (idempotent), matching e-^2 = e-.
 
 ### `Tau.Logic.spectral_bridge_partition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L183-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L183-L189)
 **theorem
 Tau.Logic.spectral_bridge_partition :Truth4.B.toSectorPair.add Truth4.N.toSectorPair = Truth4.T.toSectorPair**
 
@@ -353,7 +353,7 @@ Sector partition of unity: e+ + e- = (1,1) = T.
 
 ### `Tau.Logic.contraposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L195-L198)
 **theorem
 Tau.Logic.contraposition
 (a b : Truth4)
@@ -366,7 +366,7 @@ Contraposition holds: impl a b = impl (neg b) (neg a).
 
 ### `Tau.Logic.modus_ponens`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Logic/Explosion.lean#L200-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Logic/Explosion.lean#L200-L205)
 **theorem
 Tau.Logic.modus_ponens
 (a b : Truth4)

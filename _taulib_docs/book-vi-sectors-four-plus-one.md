@@ -50,7 +50,7 @@ The 4+1 life sector classification: 4 primitive + 1 mixed = 5 total.
 
 ### `Tau.BookVI.FourPlusOne.LifeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L21-L26)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L21-L26)
 **structure
 Tau.BookVI.FourPlusOne.LifeSector :Type**
 
@@ -66,7 +66,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.instReprLifeSector.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L26-L26)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L26-L26)
 **def
 Tau.BookVI.FourPlusOne.instReprLifeSector.repr :LifeSector → ℕ → Std.Format**
 
@@ -78,7 +78,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.instReprLifeSector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L26-L26)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L26-L26)
 **instance
 Tau.BookVI.FourPlusOne.instReprLifeSector :Repr LifeSector**
 
@@ -89,7 +89,7 @@ Equations
 
 ### `Tau.BookVI.FourPlusOne.persistence_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L28-L32)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L28-L32)
 **def
 Tau.BookVI.FourPlusOne.persistence_sector :LifeSector**
 
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.agency_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L34-L38)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L34-L38)
 **def
 Tau.BookVI.FourPlusOne.agency_sector :LifeSector**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.source_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L40-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L40-L44)
 **def
 Tau.BookVI.FourPlusOne.source_sector :LifeSector**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.closure_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L46-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L46-L50)
 **def
 Tau.BookVI.FourPlusOne.closure_sector :LifeSector**
 
@@ -145,7 +145,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.consumer_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L52-L56)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L52-L56)
 **def
 Tau.BookVI.FourPlusOne.consumer_sector :LifeSector**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.all_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L58-L59)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L58-L59)
 **def
 Tau.BookVI.FourPlusOne.all_sectors :List LifeSector**
 
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.sector_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L61-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L61-L61)
 **theorem
 Tau.BookVI.FourPlusOne.sector_count :all_sectors.length = 5**
 
@@ -180,7 +180,7 @@ Tau.BookVI.FourPlusOne.sector_count :all_sectors.length = 5**
 
 ### `Tau.BookVI.FourPlusOne.primitive_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L63-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L63-L64)
 **def
 Tau.BookVI.FourPlusOne.primitive_sectors :List LifeSector**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.primitive_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L66-L66)
 **theorem
 Tau.BookVI.FourPlusOne.primitive_count :primitive_sectors.length = 4**
 
@@ -201,7 +201,7 @@ Tau.BookVI.FourPlusOne.primitive_count :primitive_sectors.length = 4**
 
 ### `Tau.BookVI.FourPlusOne.GeneratorAdequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L68-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L68-L74)
 **structure
 Tau.BookVI.FourPlusOne.GeneratorAdequacy :Type**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.instReprGeneratorAdequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L74-L74)
 **instance
 Tau.BookVI.FourPlusOne.instReprGeneratorAdequacy :Repr GeneratorAdequacy**
 
@@ -229,7 +229,7 @@ Equations
 
 ### `Tau.BookVI.FourPlusOne.instReprGeneratorAdequacy.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L74-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L74-L74)
 **def
 Tau.BookVI.FourPlusOne.instReprGeneratorAdequacy.repr :GeneratorAdequacy → ℕ → Std.Format**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.gen_adequacy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L76-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L76-L78)
 **def
 Tau.BookVI.FourPlusOne.gen_adequacy :GeneratorAdequacy**
 
@@ -253,7 +253,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.generator_adequacy_e2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L80-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L80-L84)
 **theorem
 Tau.BookVI.FourPlusOne.generator_adequacy_e2 :gen_adequacy.total_sectors = 5 ∧ gen_adequacy.disjoint = true ∧ gen_adequacy.exhaustive = true**
 
@@ -262,7 +262,7 @@ Tau.BookVI.FourPlusOne.generator_adequacy_e2 :gen_adequacy.total_sectors = 5 ∧
 
 ### `Tau.BookVI.FourPlusOne.NeutronNoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L86-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L86-L90)
 **structure
 Tau.BookVI.FourPlusOne.NeutronNoDist :Type**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.instReprNeutronNoDist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L90-L90)
 **instance
 Tau.BookVI.FourPlusOne.instReprNeutronNoDist :Repr NeutronNoDist**
 
@@ -288,7 +288,7 @@ Equations
 
 ### `Tau.BookVI.FourPlusOne.instReprNeutronNoDist.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L90-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L90-L90)
 **def
 Tau.BookVI.FourPlusOne.instReprNeutronNoDist.repr :NeutronNoDist → ℕ → Std.Format**
 
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.neutron_nd`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L92-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L92-L94)
 **def
 Tau.BookVI.FourPlusOne.neutron_nd :NeutronNoDist**
 
@@ -312,6 +312,6 @@ Instances For
 
 ### `Tau.BookVI.FourPlusOne.neutron_nodist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/Sectors/FourPlusOne.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/Sectors/FourPlusOne.lean#L96-L96)
 **theorem
 Tau.BookVI.FourPlusOne.neutron_nodist :neutron_nd.conditions_failed = 3**

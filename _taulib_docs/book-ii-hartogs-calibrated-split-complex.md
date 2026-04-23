@@ -70,7 +70,7 @@ Transcendentals modules, avoiding Float entirely.
 
 ### `Tau.BookII.Hartogs.SCALE`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L45-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L45-L47)
 **def
 Tau.BookII.Hartogs.SCALE :ℕ**
 
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.CalibratedHTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L53-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L53-L68)
 **structure
 Tau.BookII.Hartogs.CalibratedHTau :Type**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.instReprCalibratedHTau.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
 **def
 Tau.BookII.Hartogs.instReprCalibratedHTau.repr :CalibratedHTau → ℕ → Std.Format**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.instReprCalibratedHTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
 **instance
 Tau.BookII.Hartogs.instReprCalibratedHTau :Repr CalibratedHTau**
 
@@ -138,7 +138,7 @@ Equations
 
 ### `Tau.BookII.Hartogs.instDecidableEqCalibratedHTau.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
 **def
 Tau.BookII.Hartogs.instDecidableEqCalibratedHTau.decEq
 (x✝ x✝¹ : CalibratedHTau)
@@ -152,7 +152,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.instDecidableEqCalibratedHTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L68-L68)
 **instance
 Tau.BookII.Hartogs.instDecidableEqCalibratedHTau :DecidableEq CalibratedHTau**
 
@@ -163,7 +163,7 @@ Equations
 
 ### `Tau.BookII.Hartogs.calibrated_htau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L70-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L70-L77)
 **def
 Tau.BookII.Hartogs.calibrated_htau :CalibratedHTau**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.pi_cal_range_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L83-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L83-L86)
 **def
 Tau.BookII.Hartogs.pi_cal_range_check :Bool**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.e_cal_range_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L88-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L88-L91)
 **def
 Tau.BookII.Hartogs.e_cal_range_check :Bool**
 
@@ -206,7 +206,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.iota_cal_range_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L93-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L93-L96)
 **def
 Tau.BookII.Hartogs.iota_cal_range_check :Bool**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.j_squared_calibration_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L102-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L102-L107)
 **def
 Tau.BookII.Hartogs.j_squared_calibration_check :Bool**
 
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.orthogonality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L113-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L113-L116)
 **def
 Tau.BookII.Hartogs.orthogonality_check :Bool**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L118-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L118-L121)
 **def
 Tau.BookII.Hartogs.completeness_check :Bool**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.idempotency_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L123-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L123-L126)
 **def
 Tau.BookII.Hartogs.idempotency_check :Bool**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.coupling_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L132-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L132-L146)
 **def
 Tau.BookII.Hartogs.coupling_check :Bool**
 
@@ -297,7 +297,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.geometric_meaning_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L152-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L152-L187)
 **def
 Tau.BookII.Hartogs.geometric_meaning_check
 (bound : Denotation.TauIdx)
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.geometric_meaning_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L169-L186)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L169-L186)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.geometric_meaning_check.go
@@ -353,7 +353,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.b_channel_pi_calibration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L189-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L189-L211)
 **def
 Tau.BookII.Hartogs.b_channel_pi_calibration
 (stages : Denotation.TauIdx)
@@ -372,7 +372,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.b_channel_pi_calibration.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L197-L210)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L197-L210)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.b_channel_pi_calibration.go
@@ -389,7 +389,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.c_channel_e_calibration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L213-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L213-L230)
 **def
 Tau.BookII.Hartogs.c_channel_e_calibration
 (stages : Denotation.TauIdx)
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.c_channel_e_calibration.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L221-L229)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L221-L229)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.c_channel_e_calibration.go
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.calibration_consistency_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L236-L253)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L236-L253)
 **def
 Tau.BookII.Hartogs.calibration_consistency_check :Bool**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_calibration_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L255-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L255-L259)
 **def
 Tau.BookII.Hartogs.full_calibration_check :Bool**
 
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.pi_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L303-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L303-L303)
 **theorem
 Tau.BookII.Hartogs.pi_range :pi_cal_range_check = true**
 
@@ -475,7 +475,7 @@ Tau.BookII.Hartogs.pi_range :pi_cal_range_check = true**
 
 ### `Tau.BookII.Hartogs.e_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L304-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L304-L304)
 **theorem
 Tau.BookII.Hartogs.e_range :e_cal_range_check = true**
 
@@ -484,7 +484,7 @@ Tau.BookII.Hartogs.e_range :e_cal_range_check = true**
 
 ### `Tau.BookII.Hartogs.iota_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L305-L305)
 **theorem
 Tau.BookII.Hartogs.iota_range :iota_cal_range_check = true**
 
@@ -493,7 +493,7 @@ Tau.BookII.Hartogs.iota_range :iota_cal_range_check = true**
 
 ### `Tau.BookII.Hartogs.j_sq_cal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L306-L306)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L306-L306)
 **theorem
 Tau.BookII.Hartogs.j_sq_cal :j_squared_calibration_check = true**
 
@@ -502,7 +502,7 @@ Tau.BookII.Hartogs.j_sq_cal :j_squared_calibration_check = true**
 
 ### `Tau.BookII.Hartogs.ortho`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L307-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L307-L307)
 **theorem
 Tau.BookII.Hartogs.ortho :orthogonality_check = true**
 
@@ -511,7 +511,7 @@ Tau.BookII.Hartogs.ortho :orthogonality_check = true**
 
 ### `Tau.BookII.Hartogs.compl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L308-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L308-L308)
 **theorem
 Tau.BookII.Hartogs.compl :completeness_check = true**
 
@@ -520,7 +520,7 @@ Tau.BookII.Hartogs.compl :completeness_check = true**
 
 ### `Tau.BookII.Hartogs.idemp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L309-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L309-L309)
 **theorem
 Tau.BookII.Hartogs.idemp :idempotency_check = true**
 
@@ -529,7 +529,7 @@ Tau.BookII.Hartogs.idemp :idempotency_check = true**
 
 ### `Tau.BookII.Hartogs.coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L310-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L310-L310)
 **theorem
 Tau.BookII.Hartogs.coupling :coupling_check = true**
 
@@ -538,7 +538,7 @@ Tau.BookII.Hartogs.coupling :coupling_check = true**
 
 ### `Tau.BookII.Hartogs.geo_meaning_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L311-L311)
 **theorem
 Tau.BookII.Hartogs.geo_meaning_30 :geometric_meaning_check 30 = true**
 
@@ -547,7 +547,7 @@ Tau.BookII.Hartogs.geo_meaning_30 :geometric_meaning_check 30 = true**
 
 ### `Tau.BookII.Hartogs.b_pi_cal_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L312-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L312-L312)
 **theorem
 Tau.BookII.Hartogs.b_pi_cal_5 :b_channel_pi_calibration 5 = true**
 
@@ -556,7 +556,7 @@ Tau.BookII.Hartogs.b_pi_cal_5 :b_channel_pi_calibration 5 = true**
 
 ### `Tau.BookII.Hartogs.c_e_cal_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L313-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L313-L313)
 **theorem
 Tau.BookII.Hartogs.c_e_cal_5 :c_channel_e_calibration 5 = true**
 
@@ -565,7 +565,7 @@ Tau.BookII.Hartogs.c_e_cal_5 :c_channel_e_calibration 5 = true**
 
 ### `Tau.BookII.Hartogs.cal_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L314-L314)
 **theorem
 Tau.BookII.Hartogs.cal_consistency :calibration_consistency_check = true**
 
@@ -574,6 +574,6 @@ Tau.BookII.Hartogs.cal_consistency :calibration_consistency_check = true**
 
 ### `Tau.BookII.Hartogs.full_cal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L315-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CalibratedSplitComplex.lean#L315-L315)
 **theorem
 Tau.BookII.Hartogs.full_cal :full_calibration_check = true**

@@ -68,7 +68,7 @@ is well-defined.
 
 ### `Tau.BookII.Closure.atlas_chart_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L50-L61)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L50-L61)@[irreducible]
 
 **def
 Tau.BookII.Closure.atlas_chart_roundtrip
@@ -87,7 +87,7 @@ Instances For
 
 ### `Tau.BookII.Closure.atlas_chart_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L63-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L63-L75)
 **def
 Tau.BookII.Closure.atlas_chart_check
 (db : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookII.Closure.atlas_chart_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L68-L74)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L68-L74)@[irreducible]
 
 **def
 Tau.BookII.Closure.atlas_chart_check.go
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.Closure.atlas_transition_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L77-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L77-L102)
 **def
 Tau.BookII.Closure.atlas_transition_check
 (db bound : Denotation.TauIdx)
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Closure.atlas_transition_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L91-L101)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L91-L101)@[irreducible]
 
 **def
 Tau.BookII.Closure.atlas_transition_check.go
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookII.Closure.tau_exterior_derivative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L108-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L108-L112)
 **def
 Tau.BookII.Closure.tau_exterior_derivative
 (f : Denotation.TauIdx → Denotation.TauIdx → ℤ)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Closure.sum_exterior_deriv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L114-L121)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L114-L121)@[irreducible]
 
 **def
 Tau.BookII.Closure.sum_exterior_deriv
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_squared_zero_const_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L123-L135)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L123-L135)
 **def
 Tau.BookII.Closure.d_squared_zero_const_check
 (db bound : Denotation.TauIdx)
@@ -219,7 +219,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_squared_zero_const_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L127-L134)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L127-L134)@[irreducible]
 
 **def
 Tau.BookII.Closure.d_squared_zero_const_check.go
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_tau_const_is_zero_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L137-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L137-L149)
 **def
 Tau.BookII.Closure.d_tau_const_is_zero_check
 (db bound : Denotation.TauIdx)
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_tau_const_is_zero_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L141-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L141-L148)@[irreducible]
 
 **def
 Tau.BookII.Closure.d_tau_const_is_zero_check.go
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_squared_zero_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L151-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L151-L170)
 **def
 Tau.BookII.Closure.d_squared_zero_tower_check
 (db bound : Denotation.TauIdx)
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookII.Closure.d_squared_zero_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L159-L169)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L159-L169)@[irreducible]
 
 **def
 Tau.BookII.Closure.d_squared_zero_tower_check.go
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookII.Closure.TauManifoldData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L176-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L176-L182)
 **structure
 Tau.BookII.Closure.TauManifoldData :Type**
 
@@ -323,7 +323,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprTauManifoldData.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
 **def
 Tau.BookII.Closure.instReprTauManifoldData.repr :TauManifoldData → ℕ → Std.Format**
 
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instReprTauManifoldData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
 **instance
 Tau.BookII.Closure.instReprTauManifoldData :Repr TauManifoldData**
 
@@ -346,7 +346,7 @@ Equations
 
 ### `Tau.BookII.Closure.instDecidableEqTauManifoldData.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
 **def
 Tau.BookII.Closure.instDecidableEqTauManifoldData.decEq
 (x✝ x✝¹ : TauManifoldData)
@@ -360,7 +360,7 @@ Instances For
 
 ### `Tau.BookII.Closure.instDecidableEqTauManifoldData`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L182-L182)
 **instance
 Tau.BookII.Closure.instDecidableEqTauManifoldData :DecidableEq TauManifoldData**
 
@@ -371,7 +371,7 @@ Equations
 
 ### `Tau.BookII.Closure.compute_tau_manifold`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L184-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L184-L193)
 **def
 Tau.BookII.Closure.compute_tau_manifold
 (db bound : Denotation.TauIdx)
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookII.Closure.tau_manifold_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L195-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L195-L198)
 **def
 Tau.BookII.Closure.tau_manifold_check
 (db bound : Denotation.TauIdx)
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookII.Closure.tau3_is_manifold_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L204-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L204-L213)
 **def
 Tau.BookII.Closure.tau3_is_manifold_check
 (db bound : Denotation.TauIdx)
@@ -422,7 +422,7 @@ Instances For
 
 ### `Tau.BookII.Closure.atlas_chart_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L254-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L254-L255)
 **theorem
 Tau.BookII.Closure.atlas_chart_3 :atlas_chart_check 3 = true**
 
@@ -431,7 +431,7 @@ Tau.BookII.Closure.atlas_chart_3 :atlas_chart_check 3 = true**
 
 ### `Tau.BookII.Closure.atlas_transition_3_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L258-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L258-L259)
 **theorem
 Tau.BookII.Closure.atlas_transition_3_30 :atlas_transition_check 3 30 = true**
 
@@ -440,7 +440,7 @@ Tau.BookII.Closure.atlas_transition_3_30 :atlas_transition_check 3 30 = true**
 
 ### `Tau.BookII.Closure.d_const_zero_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L262-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L262-L263)
 **theorem
 Tau.BookII.Closure.d_const_zero_3_15 :d_squared_zero_const_check 3 15 = true**
 
@@ -449,7 +449,7 @@ Tau.BookII.Closure.d_const_zero_3_15 :d_squared_zero_const_check 3 15 = true**
 
 ### `Tau.BookII.Closure.d_tau_const_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L265-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L265-L266)
 **theorem
 Tau.BookII.Closure.d_tau_const_3_15 :d_tau_const_is_zero_check 3 15 = true**
 
@@ -458,7 +458,7 @@ Tau.BookII.Closure.d_tau_const_3_15 :d_tau_const_is_zero_check 3 15 = true**
 
 ### `Tau.BookII.Closure.d_sq_tower_3_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L269-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L269-L270)
 **theorem
 Tau.BookII.Closure.d_sq_tower_3_10 :d_squared_zero_tower_check 3 10 = true**
 
@@ -467,7 +467,7 @@ Tau.BookII.Closure.d_sq_tower_3_10 :d_squared_zero_tower_check 3 10 = true**
 
 ### `Tau.BookII.Closure.tau_manifold_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L273-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L273-L274)
 **theorem
 Tau.BookII.Closure.tau_manifold_3_15 :tau_manifold_check 3 15 = true**
 
@@ -476,7 +476,7 @@ Tau.BookII.Closure.tau_manifold_3_15 :tau_manifold_check 3 15 = true**
 
 ### `Tau.BookII.Closure.tau3_manifold_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L277-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L277-L278)
 **theorem
 Tau.BookII.Closure.tau3_manifold_3_15 :tau3_is_manifold_check 3 15 = true**
 
@@ -485,7 +485,7 @@ Tau.BookII.Closure.tau3_manifold_3_15 :tau3_is_manifold_check 3 15 = true**
 
 ### `Tau.BookII.Closure.abcd_atlas_roundtrip_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L284-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L284-L287)
 **theorem
 Tau.BookII.Closure.abcd_atlas_roundtrip_7 :Interior.to_tau_idx (Interior.from_tau_idx 7) = 7**
 
@@ -497,7 +497,7 @@ to_tau_idx(from_tau_idx(x)) = x. Verified computationally.
 
 ### `Tau.BookII.Closure.abcd_atlas_roundtrip_30`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L289-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L289-L290)
 **theorem
 Tau.BookII.Closure.abcd_atlas_roundtrip_30 :Interior.to_tau_idx (Interior.from_tau_idx 30) = 30**
 
@@ -506,7 +506,7 @@ Tau.BookII.Closure.abcd_atlas_roundtrip_30 :Interior.to_tau_idx (Interior.from_t
 
 ### `Tau.BookII.Closure.abcd_atlas_roundtrip_100`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L292-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L292-L293)
 **theorem
 Tau.BookII.Closure.abcd_atlas_roundtrip_100 :Interior.to_tau_idx (Interior.from_tau_idx 100) = 100**
 
@@ -515,7 +515,7 @@ Tau.BookII.Closure.abcd_atlas_roundtrip_100 :Interior.to_tau_idx (Interior.from_
 
 ### `Tau.BookII.Closure.chart_transition_7_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L295-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L295-L299)
 **theorem
 Tau.BookII.Closure.chart_transition_7_2 :Polarity.reduce (Interior.to_tau_idx (Interior.from_tau_idx 7)) 2 = Polarity.reduce 7 2**
 
@@ -528,7 +528,7 @@ Verified for specific instances.
 
 ### `Tau.BookII.Closure.chart_transition_30_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L301-L302)
 **theorem
 Tau.BookII.Closure.chart_transition_30_3 :Polarity.reduce (Interior.to_tau_idx (Interior.from_tau_idx 30)) 3 = Polarity.reduce 30 3**
 
@@ -537,7 +537,7 @@ Tau.BookII.Closure.chart_transition_30_3 :Polarity.reduce (Interior.to_tau_idx (
 
 ### `Tau.BookII.Closure.d_tau_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L304-L308)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L304-L308)
 **theorem
 Tau.BookII.Closure.d_tau_constant
 (c : ℤ)
@@ -553,7 +553,7 @@ tau_exterior_derivative(const_c, x, k) = c - c = 0.
 
 ### `Tau.BookII.Closure.d_tau_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L310-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L310-L313)
 **theorem
 Tau.BookII.Closure.d_tau_zero
 (x k : Denotation.TauIdx)
@@ -566,7 +566,7 @@ Tau.BookII.Closure.d_tau_zero
 
 ### `Tau.BookII.Closure.manifold_reduce_idempotent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L315-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L315-L318)
 **theorem
 Tau.BookII.Closure.manifold_reduce_idempotent
 (x k : Denotation.TauIdx)
@@ -579,7 +579,7 @@ Tau.BookII.Closure.manifold_reduce_idempotent
 
 ### `Tau.BookII.Closure.manifold_tower_coherence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Closure/TauManifold.lean#L320-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Closure/TauManifold.lean#L320-L324)
 **theorem
 Tau.BookII.Closure.manifold_tower_coherence
 (x : Denotation.TauIdx)

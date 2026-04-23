@@ -90,7 +90,7 @@ The monoid is non-invertible (mergers are irreversible).
 
 ### `Tau.BookV.Cosmology.BHBipolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L56-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L56-L70)
 **structure
 Tau.BookV.Cosmology.BHBipolarity :Type**
 
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHBipolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L70-L70)
 **instance
 Tau.BookV.Cosmology.instReprBHBipolarity :Repr BHBipolarity**
 
@@ -130,7 +130,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBHBipolarity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L70-L70)
 **def
 Tau.BookV.Cosmology.instReprBHBipolarity.repr :BHBipolarity → ℕ → Std.Format**
 
@@ -142,7 +142,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.necessary_bipolarity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L76-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L76-L83)
 **theorem
 Tau.BookV.Cosmology.necessary_bipolarity
 (bp : BHBipolarity)
@@ -160,7 +160,7 @@ necessarily nonzero.
 
 ### `Tau.BookV.Cosmology.PolarityImbalance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L89-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L89-L103)
 **structure
 Tau.BookV.Cosmology.PolarityImbalance :Type**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPolarityImbalance.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L103-L103)
 **def
 Tau.BookV.Cosmology.instReprPolarityImbalance.repr :PolarityImbalance → ℕ → Std.Format**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPolarityImbalance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L103-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L103-L103)
 **instance
 Tau.BookV.Cosmology.instReprPolarityImbalance :Repr PolarityImbalance**
 
@@ -211,7 +211,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.BHBipolarity.imbalance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L105-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L105-L109)
 **def
 Tau.BookV.Cosmology.BHBipolarity.imbalance
 (bp : BHBipolarity)
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.PolarityFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L115-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L115-L131)
 **structure
 Tau.BookV.Cosmology.PolarityFixedPoint :Type**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPolarityFixedPoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L131-L131)
 **def
 Tau.BookV.Cosmology.instReprPolarityFixedPoint.repr :PolarityFixedPoint → ℕ → Std.Format**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPolarityFixedPoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L131-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L131-L131)
 **instance
 Tau.BookV.Cosmology.instReprPolarityFixedPoint :Repr PolarityFixedPoint**
 
@@ -281,7 +281,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.polarity_fixed_point`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L133-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L133-L138)
 **def
 Tau.BookV.Cosmology.polarity_fixed_point :PolarityFixedPoint**
 
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.polarity_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L140-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L140-L144)
 **theorem
 Tau.BookV.Cosmology.polarity_convergence :polarity_fixed_point.fp_numer > 0 ∧ polarity_fixed_point.fp_numer < polarity_fixed_point.fp_denom**
 
@@ -306,7 +306,7 @@ Fixed point is in (0, 1).
 
 ### `Tau.BookV.Cosmology.BHBlueprint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L150-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L150-L161)
 **structure
 Tau.BookV.Cosmology.BHBlueprint :Type**
 
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHBlueprint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L161-L161)
 **instance
 Tau.BookV.Cosmology.instReprBHBlueprint :Repr BHBlueprint**
 
@@ -342,7 +342,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprBHBlueprint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L161-L161)
 **def
 Tau.BookV.Cosmology.instReprBHBlueprint.repr :BHBlueprint → ℕ → Std.Format**
 
@@ -354,7 +354,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BlueprintFusion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L167-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L167-L181)
 **def
 Tau.BookV.Cosmology.BlueprintFusion
 (b1 b2 : BHBlueprint)
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BlueprintMonoid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L187-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L187-L201)
 **structure
 Tau.BookV.Cosmology.BlueprintMonoid :Type**
 
@@ -408,7 +408,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlueprintMonoid.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L201-L201)
 **def
 Tau.BookV.Cosmology.instReprBlueprintMonoid.repr :BlueprintMonoid → ℕ → Std.Format**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBlueprintMonoid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L201-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L201-L201)
 **instance
 Tau.BookV.Cosmology.instReprBlueprintMonoid :Repr BlueprintMonoid**
 
@@ -431,7 +431,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.blueprint_monoid_closure`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L207-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L207-L217)
 **theorem
 Tau.BookV.Cosmology.blueprint_monoid_closure
 (b1 b2 : BHBlueprint)
@@ -448,7 +448,7 @@ Closure proof: fusion of two blueprints yields a blueprint
 
 ### `Tau.BookV.Cosmology.fusion_mass_additive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L219-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L219-L221)
 **theorem
 Tau.BookV.Cosmology.fusion_mass_additive
 (b1 b2 : BHBlueprint)
@@ -461,7 +461,7 @@ Fusion mass is sum of input masses.
 
 ### `Tau.BookV.Cosmology.BHEntropyRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L227-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L227-L240)
 **structure
 Tau.BookV.Cosmology.BHEntropyRemark :Type**
 
@@ -489,7 +489,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHEntropyRemark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L240-L240)
 **def
 Tau.BookV.Cosmology.instReprBHEntropyRemark.repr :BHEntropyRemark → ℕ → Std.Format**
 
@@ -501,7 +501,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHEntropyRemark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L240-L240)
 **instance
 Tau.BookV.Cosmology.instReprBHEntropyRemark :Repr BHEntropyRemark**
 
@@ -512,7 +512,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bh_entropy_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L242-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L242-L247)
 **def
 Tau.BookV.Cosmology.bh_entropy_data :BHEntropyRemark**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bh1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L266-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L266-L271)
 **def
 Tau.BookV.Cosmology.bh1 :BHBlueprint**
 
@@ -540,7 +540,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bh2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L273-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L273-L278)
 **def
 Tau.BookV.Cosmology.bh2 :BHBlueprint**
 
@@ -554,7 +554,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bh_fused`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L280-L281)
 **def
 Tau.BookV.Cosmology.bh_fused :BHBlueprint**
 
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.PolarityContractionMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L292-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L292-L321)
 **structure
 Tau.BookV.Cosmology.PolarityContractionMap :Type**
 
@@ -619,7 +619,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPolarityContractionMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L321-L321)
 **instance
 Tau.BookV.Cosmology.instReprPolarityContractionMap :Repr PolarityContractionMap**
 
@@ -630,7 +630,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprPolarityContractionMap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L321-L321)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L321-L321)
 **def
 Tau.BookV.Cosmology.instReprPolarityContractionMap.repr :PolarityContractionMap → ℕ → Std.Format**
 
@@ -642,7 +642,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.polarity_contraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L323-L323)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L323-L323)
 **def
 Tau.BookV.Cosmology.polarity_contraction :PolarityContractionMap**
 
@@ -654,7 +654,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.polarity_contraction_strict`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L325-L329)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L325-L329)
 **theorem
 Tau.BookV.Cosmology.polarity_contraction_strict :polarity_contraction.contraction_strict = true ∧ polarity_contraction.contraction_factor_is_kappa_D = true**
 
@@ -665,7 +665,7 @@ Polarity evolution is a contraction: κ_D = 1−ι<sub>τ</sub> < 1.
 
 ### `Tau.BookV.Cosmology.polarity_fixed_point_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L331-L336)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L331-L336)
 **theorem
 Tau.BookV.Cosmology.polarity_fixed_point_unique :polarity_contraction.fixed_point_unique = true ∧ polarity_contraction.banach_applies = true ∧ polarity_contraction.fixed_point_is_1_minus_2iota = true**
 
@@ -676,7 +676,7 @@ Fixed point 1−2ι<sub>τ</sub> is unique by Banach theorem.
 
 ### `Tau.BookV.Cosmology.polarity_fixed_point_consistent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L338-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/BHBipolarFusion.lean#L338-L343)
 **theorem
 Tau.BookV.Cosmology.polarity_fixed_point_consistent :polarity_fixed_point.fp_numer = 317082 ∧ polarity_fixed_point.fp_denom = 1000000**
 

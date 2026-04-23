@@ -119,7 +119,7 @@ catalog of known astrophysical phenomena.
 
 ### `Tau.BookV.Astrophysics.AstroPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L69-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L69-L96)
 **inductive
 Tau.BookV.Astrophysics.AstroPhenomenon :Type**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAstroPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
 **instance
 Tau.BookV.Astrophysics.instReprAstroPhenomenon :Repr AstroPhenomenon**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprAstroPhenomenon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
 **def
 Tau.BookV.Astrophysics.instReprAstroPhenomenon.repr :AstroPhenomenon → ℕ → Std.Format**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqAstroPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqAstroPhenomenon :DecidableEq AstroPhenomenon**
 
@@ -203,7 +203,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqAstroPhenomenon.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
 **def
 Tau.BookV.Astrophysics.instBEqAstroPhenomenon.beq :AstroPhenomenon → AstroPhenomenon → Bool**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqAstroPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L96-L96)
 **instance
 Tau.BookV.Astrophysics.instBEqAstroPhenomenon :BEq AstroPhenomenon**
 
@@ -226,7 +226,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.SectorLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L102-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L102-L109)
 **inductive
 Tau.BookV.Astrophysics.SectorLabel :Type**
 
@@ -244,7 +244,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorLabel.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
 **def
 Tau.BookV.Astrophysics.instReprSectorLabel.repr :SectorLabel → ℕ → Std.Format**
 
@@ -256,7 +256,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
 **instance
 Tau.BookV.Astrophysics.instReprSectorLabel :Repr SectorLabel**
 
@@ -267,7 +267,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instDecidableEqSectorLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqSectorLabel :DecidableEq SectorLabel**
 
@@ -278,7 +278,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqSectorLabel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
 **instance
 Tau.BookV.Astrophysics.instBEqSectorLabel :BEq SectorLabel**
 
@@ -289,7 +289,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqSectorLabel.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L109-L109)
 **def
 Tau.BookV.Astrophysics.instBEqSectorLabel.beq :SectorLabel → SectorLabel → Bool**
 
@@ -301,7 +301,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.primarySectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L111-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L111-L124)
 **def
 Tau.BookV.Astrophysics.primarySectors :AstroPhenomenon → List SectorLabel**
 
@@ -326,7 +326,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.sector_assignment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L126-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L126-L129)
 **theorem
 Tau.BookV.Astrophysics.sector_assignment
 (p : AstroPhenomenon)
@@ -339,7 +339,7 @@ Tau.BookV.Astrophysics.sector_assignment
 
 ### `Tau.BookV.Astrophysics.SectorExhaustionMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L135-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L135-L146)
 **structure
 Tau.BookV.Astrophysics.SectorExhaustionMap :Type**
 
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorExhaustionMap.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L146-L146)
 **def
 Tau.BookV.Astrophysics.instReprSectorExhaustionMap.repr :SectorExhaustionMap → ℕ → Std.Format**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorExhaustionMap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L146-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L146-L146)
 **instance
 Tau.BookV.Astrophysics.instReprSectorExhaustionMap :Repr SectorExhaustionMap**
 
@@ -388,7 +388,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.exhaustion_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L152-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L152-L160)
 **theorem
 Tau.BookV.Astrophysics.exhaustion_theorem
 (p : AstroPhenomenon)
@@ -406,7 +406,7 @@ is unassigned ("orphan").
 
 ### `Tau.BookV.Astrophysics.no_orphan_phenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L166-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L166-L173)
 **theorem
 Tau.BookV.Astrophysics.no_orphan_phenomenon :"No astrophysical phenomenon outside 5-sector coverage" = "No astrophysical phenomenon outside 5-sector coverage"**
 
@@ -421,7 +421,7 @@ were orphaned, it would require physics beyond Category τ.
 
 ### `Tau.BookV.Astrophysics.d_covers_gravity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L179-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L179-L182)
 **theorem
 Tau.BookV.Astrophysics.d_covers_gravity :SectorLabel.D ∈ primarySectors AstroPhenomenon.GravitationalDynamics**
 
@@ -432,7 +432,7 @@ Tau.BookV.Astrophysics.d_covers_gravity :SectorLabel.D ∈ primarySectors AstroP
 
 ### `Tau.BookV.Astrophysics.b_covers_em`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L184-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L184-L187)
 **theorem
 Tau.BookV.Astrophysics.b_covers_em :SectorLabel.B ∈ primarySectors AstroPhenomenon.EMRadiation**
 
@@ -443,7 +443,7 @@ Tau.BookV.Astrophysics.b_covers_em :SectorLabel.B ∈ primarySectors AstroPhenom
 
 ### `Tau.BookV.Astrophysics.c_covers_nuclear`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L189-L192)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L189-L192)
 **theorem
 Tau.BookV.Astrophysics.c_covers_nuclear :SectorLabel.C ∈ primarySectors AstroPhenomenon.NuclearReactions**
 
@@ -454,7 +454,7 @@ Tau.BookV.Astrophysics.c_covers_nuclear :SectorLabel.C ∈ primarySectors AstroP
 
 ### `Tau.BookV.Astrophysics.MultiSectorPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L198-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L198-L205)
 **structure
 Tau.BookV.Astrophysics.MultiSectorPhenomenon :Type**
 
@@ -474,7 +474,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprMultiSectorPhenomenon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L205-L205)
 **instance
 Tau.BookV.Astrophysics.instReprMultiSectorPhenomenon :Repr MultiSectorPhenomenon**
 
@@ -485,7 +485,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprMultiSectorPhenomenon.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L205-L205)
 **def
 Tau.BookV.Astrophysics.instReprMultiSectorPhenomenon.repr :MultiSectorPhenomenon → ℕ → Std.Format**
 
@@ -497,7 +497,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.stellar_multi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L207-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L207-L210)
 **def
 Tau.BookV.Astrophysics.stellar_multi :MultiSectorPhenomenon**
 
@@ -512,7 +512,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.bbn_multi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L212-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L212-L215)
 **def
 Tau.BookV.Astrophysics.bbn_multi :MultiSectorPhenomenon**
 
@@ -526,7 +526,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.SectorCoverageSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L221-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L221-L236)
 **structure
 Tau.BookV.Astrophysics.SectorCoverageSummary :Type**
 
@@ -558,7 +558,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorCoverageSummary.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L236-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L236-L236)
 **def
 Tau.BookV.Astrophysics.instReprSectorCoverageSummary.repr :SectorCoverageSummary → ℕ → Std.Format**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprSectorCoverageSummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L236-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L236-L236)
 **instance
 Tau.BookV.Astrophysics.instReprSectorCoverageSummary :Repr SectorCoverageSummary**
 
@@ -581,7 +581,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.coverage_summary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L238-L245)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L238-L245)
 **def
 Tau.BookV.Astrophysics.coverage_summary :SectorCoverageSummary**
 
@@ -595,7 +595,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.no_bsm_astro`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L251-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/SectorExhaustion.lean#L251-L261)
 **theorem
 Tau.BookV.Astrophysics.no_bsm_astro :"5-sector completeness implies no BSM astrophysical physics needed" = "5-sector completeness implies no BSM astrophysical physics needed"**
 

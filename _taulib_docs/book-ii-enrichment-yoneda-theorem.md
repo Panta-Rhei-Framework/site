@@ -69,7 +69,7 @@ holomorphic functions ARE the objects of the enriched topos.
 
 ### `Tau.BookII.Enrichment.is_probe_natural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L48-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L48-L53)
 **def
 Tau.BookII.Enrichment.is_probe_natural
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.is_yoneda_representable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L55-L60)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L55-L60)
 **def
 Tau.BookII.Enrichment.is_yoneda_representable
 (f : Denotation.TauIdx → Denotation.TauIdx)
@@ -111,7 +111,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.probe_yoneda_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L62-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L62-L90)
 **def
 Tau.BookII.Enrichment.probe_yoneda_check
 (bound db : Denotation.TauIdx)
@@ -129,7 +129,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.probe_yoneda_check.go_fn`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L69-L76)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L69-L76)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.probe_yoneda_check.go_fn
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.probe_yoneda_check.go_xk`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L78-L89)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L78-L89)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.probe_yoneda_check.go_xk
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_faithful_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L96-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L96-L120)
 **def
 Tau.BookII.Enrichment.yoneda_faithful_check
 (bound db : Denotation.TauIdx)
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_faithful_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L106-L119)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L106-L119)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.yoneda_faithful_check.go
@@ -203,7 +203,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_full_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L126-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L126-L149)
 **def
 Tau.BookII.Enrichment.yoneda_full_check
 (bound db : Denotation.TauIdx)
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_full_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L136-L148)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L136-L148)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.yoneda_full_check.go
@@ -242,7 +242,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_b_channel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L151-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L151-L154)
 **def
 Tau.BookII.Enrichment.hom_b_channel
 (x k : Denotation.TauIdx)
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.hom_c_channel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L156-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L156-L159)
 **def
 Tau.BookII.Enrichment.hom_c_channel
 (x k : Denotation.TauIdx)
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_bipolar_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L165-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L165-L204)
 **def
 Tau.BookII.Enrichment.yoneda_bipolar_check
 (bound db : Denotation.TauIdx)
@@ -300,7 +300,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_bipolar_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L179-L203)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L179-L203)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.yoneda_bipolar_check.go
@@ -317,7 +317,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L210-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L210-L229)
 **def
 Tau.BookII.Enrichment.yoneda_roundtrip_check
 (bound db : Denotation.TauIdx)
@@ -335,7 +335,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.yoneda_roundtrip_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L216-L228)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L216-L228)@[irreducible]
 
 **def
 Tau.BookII.Enrichment.yoneda_roundtrip_check.go
@@ -352,7 +352,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.full_yoneda_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L235-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L235-L243)
 **def
 Tau.BookII.Enrichment.full_yoneda_check
 (bound db : Denotation.TauIdx)
@@ -370,7 +370,7 @@ Instances For
 
 ### `Tau.BookII.Enrichment.probe_yoneda_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L281-L282)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L281-L282)
 **theorem
 Tau.BookII.Enrichment.probe_yoneda_10_3 :probe_yoneda_check 10 3 = true**
 
@@ -379,7 +379,7 @@ Tau.BookII.Enrichment.probe_yoneda_10_3 :probe_yoneda_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.yoneda_faithful_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L285-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L285-L286)
 **theorem
 Tau.BookII.Enrichment.yoneda_faithful_10_3 :yoneda_faithful_check 10 3 = true**
 
@@ -388,7 +388,7 @@ Tau.BookII.Enrichment.yoneda_faithful_10_3 :yoneda_faithful_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.yoneda_full_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L289-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L289-L290)
 **theorem
 Tau.BookII.Enrichment.yoneda_full_10_3 :yoneda_full_check 10 3 = true**
 
@@ -397,7 +397,7 @@ Tau.BookII.Enrichment.yoneda_full_10_3 :yoneda_full_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.yoneda_bipolar_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L293-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L293-L294)
 **theorem
 Tau.BookII.Enrichment.yoneda_bipolar_10_3 :yoneda_bipolar_check 10 3 = true**
 
@@ -406,7 +406,7 @@ Tau.BookII.Enrichment.yoneda_bipolar_10_3 :yoneda_bipolar_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.yoneda_roundtrip_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L297-L298)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L297-L298)
 **theorem
 Tau.BookII.Enrichment.yoneda_roundtrip_10_3 :yoneda_roundtrip_check 10 3 = true**
 
@@ -415,7 +415,7 @@ Tau.BookII.Enrichment.yoneda_roundtrip_10_3 :yoneda_roundtrip_check 10 3 = true*
 
 ### `Tau.BookII.Enrichment.full_yoneda_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L301-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L301-L302)
 **theorem
 Tau.BookII.Enrichment.full_yoneda_10_3 :full_yoneda_check 10 3 = true**
 
@@ -424,7 +424,7 @@ Tau.BookII.Enrichment.full_yoneda_10_3 :full_yoneda_check 10 3 = true**
 
 ### `Tau.BookII.Enrichment.yoneda_faithful_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L308-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L308-L324)
 **theorem
 Tau.BookII.Enrichment.yoneda_faithful_id
 (x k : Denotation.TauIdx)
@@ -447,7 +447,7 @@ collapses to reduce(x, k) by triple application of mod idempotence.
 
 ### `Tau.BookII.Enrichment.yoneda_full_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L326-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L326-L334)
 **theorem
 Tau.BookII.Enrichment.yoneda_full_id
 (x k : Denotation.TauIdx)
@@ -464,7 +464,7 @@ preyoneda(reduce(·, k), x, k) = reduce(reduce(x, k), k) = reduce(x, k).
 
 ### `Tau.BookII.Enrichment.probe_naturality_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Enrichment/YonedaTheorem.lean#L336-L341)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Enrichment/YonedaTheorem.lean#L336-L341)
 **theorem
 Tau.BookII.Enrichment.probe_naturality_structural
 (x : Denotation.TauIdx)

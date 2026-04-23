@@ -70,7 +70,7 @@ distinct coordinates may coincide). Three complexity metrics satisfy
 
 ### `Tau.Coordinates.abcd_chart`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L40-L41)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L40-L41)
 **def
 Tau.Coordinates.abcd_chart
 (x : Denotation.TauIdx)
@@ -86,7 +86,7 @@ Instances For
 
 ### `Tau.Coordinates.coord_A`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L43-L44)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L43-L44)
 **def
 Tau.Coordinates.coord_A
 (x : Denotation.TauIdx)
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.Coordinates.coord_B`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L46-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L46-L47)
 **def
 Tau.Coordinates.coord_B
 (x : Denotation.TauIdx)
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.Coordinates.coord_C`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L49-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L49-L50)
 **def
 Tau.Coordinates.coord_C
 (x : Denotation.TauIdx)
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.Coordinates.coord_D`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L52-L53)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L52-L53)
 **def
 Tau.Coordinates.coord_D
 (x : Denotation.TauIdx)
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.Coordinates.chart_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L55-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L55-L57)
 **def
 Tau.Coordinates.chart_value
 (x : Denotation.TauIdx)
@@ -166,7 +166,7 @@ Instances For
 
 ### `Tau.Coordinates.dag_indices_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L63-L78)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L63-L78)@[irreducible]
 
 **def
 Tau.Coordinates.dag_indices_go
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.Coordinates.dag_indices`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L80-L80)
 **def
 Tau.Coordinates.dag_indices
 (x : Denotation.TauIdx)
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.Coordinates.dag_size`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L82-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L82-L83)
 **def
 Tau.Coordinates.dag_size
 (x : Denotation.TauIdx)
@@ -217,7 +217,7 @@ Instances For
 
 ### `Tau.Coordinates.occ_size_go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L89-L100)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L89-L100)@[irreducible]
 
 **def
 Tau.Coordinates.occ_size_go
@@ -236,7 +236,7 @@ Instances For
 
 ### `Tau.Coordinates.occ_size`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L102-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L102-L104)
 **def
 Tau.Coordinates.occ_size
 (x : Denotation.TauIdx)
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.Coordinates.metric_inequality_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L110-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L110-L112)
 **def
 Tau.Coordinates.metric_inequality_check
 (x : Denotation.TauIdx)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.Coordinates.dim_tau_witnesses`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L118-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L118-L126)
 **def
 Tau.Coordinates.dim_tau_witnesses :List (Denotation.TauIdx × Denotation.TauIdx × Denotation.TauIdx × Denotation.TauIdx × Denotation.TauIdx)**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.Coordinates.dim_tau_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/ABCD.lean#L128-L131)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/ABCD.lean#L128-L131)
 **def
 Tau.Coordinates.dim_tau_check :Bool**
 

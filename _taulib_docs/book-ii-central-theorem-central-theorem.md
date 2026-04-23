@@ -74,7 +74,7 @@ is lost, nothing is added.
 
 ### `Tau.BookII.CentralTheorem.SpectralAlgebraElement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L51-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L51-L65)
 **structure
 Tau.BookII.CentralTheorem.SpectralAlgebraElement :Type**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.SpectralAlgebraElement.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L67-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L67-L70)
 **def
 Tau.BookII.CentralTheorem.SpectralAlgebraElement.eval
 (sa : SpectralAlgebraElement)
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_algebra_stage_ring_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L72-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L72-L98)
 **def
 Tau.BookII.CentralTheorem.spectral_algebra_stage_ring_check
 (k_max bound : Denotation.TauIdx)
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_algebra_stage_ring_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L80-L97)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L80-L97)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.spectral_algebra_stage_ring_check.go
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_algebra_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L100-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L100-L129)
 **def
 Tau.BookII.CentralTheorem.spectral_algebra_tower_check
 (db bound : Denotation.TauIdx)
@@ -187,7 +187,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_algebra_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L112-L128)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L112-L128)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.spectral_algebra_tower_check.go
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_forward_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L135-L168)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L135-L168)
 **def
 Tau.BookII.CentralTheorem.central_theorem_forward_check
 (db bound : Denotation.TauIdx)
@@ -230,7 +230,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_forward_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L149-L167)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L149-L167)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.central_theorem_forward_check.go
@@ -247,7 +247,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_inverse_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L170-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L170-L204)
 **def
 Tau.BookII.CentralTheorem.central_theorem_inverse_check
 (db bound : Denotation.TauIdx)
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_inverse_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L184-L203)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L184-L203)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.central_theorem_inverse_check.go
@@ -295,7 +295,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_to_hol`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L206-L208)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L206-L208)
 **def
 Tau.BookII.CentralTheorem.spectral_to_hol
 (b_fn c_fn : Denotation.TauIdx → ℤ)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.hol_to_spectral`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L210-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L210-L212)
 **def
 Tau.BookII.CentralTheorem.hol_to_spectral
 (sf : Holomorphy.StageFun)
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_roundtrip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L214-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L214-L260)
 **def
 Tau.BookII.CentralTheorem.central_theorem_roundtrip_check
 (db bound : Denotation.TauIdx)
@@ -371,7 +371,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_roundtrip_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L232-L259)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L232-L259)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.central_theorem_roundtrip_check.go
@@ -388,7 +388,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.central_theorem_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L262-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L262-L280)
 **def
 Tau.BookII.CentralTheorem.central_theorem_check
 (db bound : Denotation.TauIdx)
@@ -416,7 +416,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.holographic_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L286-L326)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L286-L326)
 **def
 Tau.BookII.CentralTheorem.holographic_check
 (db bound : Denotation.TauIdx)
@@ -449,7 +449,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.holographic_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L301-L325)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L301-L325)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.holographic_check.go
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_central_theorem_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L328-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L328-L332)
 **def
 Tau.BookII.CentralTheorem.full_central_theorem_check
 (db bound : Denotation.TauIdx)
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.spectral_ring_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L371-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L371-L372)
 **theorem
 Tau.BookII.CentralTheorem.spectral_ring_3_15 :spectral_algebra_stage_ring_check 3 15 = true**
 
@@ -492,7 +492,7 @@ Tau.BookII.CentralTheorem.spectral_ring_3_15 :spectral_algebra_stage_ring_check 
 
 ### `Tau.BookII.CentralTheorem.spectral_tower_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L374-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L374-L375)
 **theorem
 Tau.BookII.CentralTheorem.spectral_tower_3_15 :spectral_algebra_tower_check 3 15 = true**
 
@@ -501,7 +501,7 @@ Tau.BookII.CentralTheorem.spectral_tower_3_15 :spectral_algebra_tower_check 3 15
 
 ### `Tau.BookII.CentralTheorem.central_fwd_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L378-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L378-L379)
 **theorem
 Tau.BookII.CentralTheorem.central_fwd_3_15 :central_theorem_forward_check 3 15 = true**
 
@@ -510,7 +510,7 @@ Tau.BookII.CentralTheorem.central_fwd_3_15 :central_theorem_forward_check 3 15 =
 
 ### `Tau.BookII.CentralTheorem.central_inv_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L382-L383)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L382-L383)
 **theorem
 Tau.BookII.CentralTheorem.central_inv_3_15 :central_theorem_inverse_check 3 15 = true**
 
@@ -519,7 +519,7 @@ Tau.BookII.CentralTheorem.central_inv_3_15 :central_theorem_inverse_check 3 15 =
 
 ### `Tau.BookII.CentralTheorem.central_rt_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L386-L387)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L386-L387)
 **theorem
 Tau.BookII.CentralTheorem.central_rt_3_15 :central_theorem_roundtrip_check 3 15 = true**
 
@@ -528,7 +528,7 @@ Tau.BookII.CentralTheorem.central_rt_3_15 :central_theorem_roundtrip_check 3 15 
 
 ### `Tau.BookII.CentralTheorem.central_theorem_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L390-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L390-L391)
 **theorem
 Tau.BookII.CentralTheorem.central_theorem_3_15 :central_theorem_check 3 15 = true**
 
@@ -537,7 +537,7 @@ Tau.BookII.CentralTheorem.central_theorem_3_15 :central_theorem_check 3 15 = tru
 
 ### `Tau.BookII.CentralTheorem.holographic_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L394-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L394-L395)
 **theorem
 Tau.BookII.CentralTheorem.holographic_3_15 :holographic_check 3 15 = true**
 
@@ -546,7 +546,7 @@ Tau.BookII.CentralTheorem.holographic_3_15 :holographic_check 3 15 = true**
 
 ### `Tau.BookII.CentralTheorem.full_central_3_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L398-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L398-L399)
 **theorem
 Tau.BookII.CentralTheorem.full_central_3_15 :full_central_theorem_check 3 15 = true**
 
@@ -555,7 +555,7 @@ Tau.BookII.CentralTheorem.full_central_3_15 :full_central_theorem_check 3 15 = t
 
 ### `Tau.BookII.CentralTheorem.spectral_periodic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L405-L409)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L405-L409)
 **theorem
 Tau.BookII.CentralTheorem.spectral_periodic
 (sa : SpectralAlgebraElement)
@@ -571,7 +571,7 @@ with period P_k. This follows from reduce(x + P_k, k) = reduce(x, k).
 
 ### `Tau.BookII.CentralTheorem.spectral_idempotent_supported`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L411-L419)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L411-L419)
 **theorem
 Tau.BookII.CentralTheorem.spectral_idempotent_supported
 (sa : SpectralAlgebraElement)
@@ -588,7 +588,7 @@ This is decompose_recovery applied pointwise.
 
 ### `Tau.BookII.CentralTheorem.central_forward_coherent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L421-L427)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L421-L427)
 **theorem
 Tau.BookII.CentralTheorem.central_forward_coherent
 (x : Denotation.TauIdx)
@@ -608,7 +608,7 @@ when b_fn and c_fn are the identity (both sides reduce to reduce(x, k)).
 
 ### `Tau.BookII.CentralTheorem.central_inverse_periodic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L429-L434)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L429-L434)
 **theorem
 Tau.BookII.CentralTheorem.central_inverse_periodic
 (x k : Denotation.TauIdx)
@@ -623,7 +623,7 @@ is well-defined on Z/P_kZ.
 
 ### `Tau.BookII.CentralTheorem.central_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L436-L444)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L436-L444)
 **theorem
 Tau.BookII.CentralTheorem.central_roundtrip
 (x k : Denotation.TauIdx)
@@ -640,7 +640,7 @@ These are equal.
 
 ### `Tau.BookII.CentralTheorem.holographic_roundtrip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L446-L452)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/CentralTheorem.lean#L446-L452)
 **theorem
 Tau.BookII.CentralTheorem.holographic_roundtrip
 (x k : Denotation.TauIdx)

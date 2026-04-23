@@ -89,7 +89,7 @@ repulsion: k mode pairs maximize angular separation.
 
 ### `Tau.BookIV.Particles.AtomDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L53-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L53-L70)
 **structure
 Tau.BookIV.Particles.AtomDef :Type**
 
@@ -125,7 +125,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAtomDef.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L70-L70)
 **def
 Tau.BookIV.Particles.instReprAtomDef.repr :AtomDef → ℕ → Std.Format**
 
@@ -137,7 +137,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprAtomDef`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L70-L70)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L70-L70)
 **instance
 Tau.BookIV.Particles.instReprAtomDef :Repr AtomDef**
 
@@ -148,7 +148,7 @@ Equations
 
 ### `Tau.BookIV.Particles.hydrogen`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L72-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L72-L74)
 **def
 Tau.BookIV.Particles.hydrogen :AtomDef**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.helium`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L76-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L76-L78)
 **def
 Tau.BookIV.Particles.helium :AtomDef**
 
@@ -176,7 +176,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.carbon`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L80-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L80-L82)
 **def
 Tau.BookIV.Particles.carbon :AtomDef**
 
@@ -190,7 +190,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.iron`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L84-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L84-L86)
 **def
 Tau.BookIV.Particles.iron :AtomDef**
 
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.ElectronQuantumNumbers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L92-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L92-L113)
 **structure
 Tau.BookIV.Particles.ElectronQuantumNumbers :Type**
 
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprElectronQuantumNumbers`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L113-L113)
 **instance
 Tau.BookIV.Particles.instReprElectronQuantumNumbers :Repr ElectronQuantumNumbers**
 
@@ -259,7 +259,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprElectronQuantumNumbers.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L113-L113)
 **def
 Tau.BookIV.Particles.instReprElectronQuantumNumbers.repr :ElectronQuantumNumbers → ℕ → Std.Format**
 
@@ -271,7 +271,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.shell_capacity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L115-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L115-L116)
 **def
 Tau.BookIV.Particles.shell_capacity
 (n : ℕ)
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.shell_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L118-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L118-L118)
 **theorem
 Tau.BookIV.Particles.shell_1 :shell_capacity 1 = 2**
 
@@ -296,7 +296,7 @@ Tau.BookIV.Particles.shell_1 :shell_capacity 1 = 2**
 
 ### `Tau.BookIV.Particles.shell_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L119-L119)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L119-L119)
 **theorem
 Tau.BookIV.Particles.shell_2 :shell_capacity 2 = 8**
 
@@ -305,7 +305,7 @@ Tau.BookIV.Particles.shell_2 :shell_capacity 2 = 8**
 
 ### `Tau.BookIV.Particles.shell_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L120-L120)
 **theorem
 Tau.BookIV.Particles.shell_3 :shell_capacity 3 = 18**
 
@@ -314,7 +314,7 @@ Tau.BookIV.Particles.shell_3 :shell_capacity 3 = 18**
 
 ### `Tau.BookIV.Particles.shell_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L121-L121)
 **theorem
 Tau.BookIV.Particles.shell_4 :shell_capacity 4 = 32**
 
@@ -323,7 +323,7 @@ Tau.BookIV.Particles.shell_4 :shell_capacity 4 = 32**
 
 ### `Tau.BookIV.Particles.MadelungRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L127-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L127-L145)
 **structure
 Tau.BookIV.Particles.MadelungRule :Type**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprMadelungRule.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L145-L145)
 **def
 Tau.BookIV.Particles.instReprMadelungRule.repr :MadelungRule → ℕ → Std.Format**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprMadelungRule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L145-L145)
 **instance
 Tau.BookIV.Particles.instReprMadelungRule :Repr MadelungRule**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookIV.Particles.madelung_rule`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L147-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L147-L147)
 **def
 Tau.BookIV.Particles.madelung_rule :MadelungRule**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.madelung_tau_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L149-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L149-L149)
 **theorem
 Tau.BookIV.Particles.madelung_tau_derived :madelung_rule.tau_derived = true**
 
@@ -400,7 +400,7 @@ Tau.BookIV.Particles.madelung_tau_derived :madelung_rule.tau_derived = true**
 
 ### `Tau.BookIV.Particles.PeriodLengthSequence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L155-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L155-L173)
 **structure
 Tau.BookIV.Particles.PeriodLengthSequence :Type**
 
@@ -433,7 +433,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprPeriodLengthSequence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L173-L173)
 **def
 Tau.BookIV.Particles.instReprPeriodLengthSequence.repr :PeriodLengthSequence → ℕ → Std.Format**
 
@@ -445,7 +445,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprPeriodLengthSequence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L173-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L173-L173)
 **instance
 Tau.BookIV.Particles.instReprPeriodLengthSequence :Repr PeriodLengthSequence**
 
@@ -456,7 +456,7 @@ Equations
 
 ### `Tau.BookIV.Particles.period_length_sequence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L175-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L175-L175)
 **def
 Tau.BookIV.Particles.period_length_sequence :PeriodLengthSequence**
 
@@ -468,7 +468,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.seven_periods`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L177-L177)
 **theorem
 Tau.BookIV.Particles.seven_periods :period_length_sequence.lengths.length = 7**
 
@@ -477,7 +477,7 @@ Tau.BookIV.Particles.seven_periods :period_length_sequence.lengths.length = 7**
 
 ### `Tau.BookIV.Particles.noble_gas_z`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L179-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L179-L180)
 **def
 Tau.BookIV.Particles.noble_gas_z :List ℕ**
 
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.seven_noble_gases`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L182-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L182-L182)
 **theorem
 Tau.BookIV.Particles.seven_noble_gases :noble_gas_z.length = 7**
 
@@ -500,7 +500,7 @@ Tau.BookIV.Particles.seven_noble_gases :noble_gas_z.length = 7**
 
 ### `Tau.BookIV.Particles.first_noble_gas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L184-L185)
 **theorem
 Tau.BookIV.Particles.first_noble_gas :noble_gas_z.head? = some 2**
 
@@ -511,7 +511,7 @@ Cumulative sum of period lengths gives noble gas Z values.
 
 ### `Tau.BookIV.Particles.period_2_is_2x1sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L187-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L187-L188)
 **theorem
 Tau.BookIV.Particles.period_2_is_2x1sq :2 = 2 * 1 * 1**
 
@@ -522,7 +522,7 @@ Period lengths are all twice perfect squares.
 
 ### `Tau.BookIV.Particles.period_8_is_2x2sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L189-L189)
 **theorem
 Tau.BookIV.Particles.period_8_is_2x2sq :8 = 2 * 2 * 2**
 
@@ -531,7 +531,7 @@ Tau.BookIV.Particles.period_8_is_2x2sq :8 = 2 * 2 * 2**
 
 ### `Tau.BookIV.Particles.period_18_is_2x3sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L190-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L190-L190)
 **theorem
 Tau.BookIV.Particles.period_18_is_2x3sq :18 = 2 * 3 * 3**
 
@@ -540,7 +540,7 @@ Tau.BookIV.Particles.period_18_is_2x3sq :18 = 2 * 3 * 3**
 
 ### `Tau.BookIV.Particles.period_32_is_2x4sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L191-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L191-L191)
 **theorem
 Tau.BookIV.Particles.period_32_is_2x4sq :32 = 2 * 4 * 4**
 
@@ -549,7 +549,7 @@ Tau.BookIV.Particles.period_32_is_2x4sq :32 = 2 * 4 * 4**
 
 ### `Tau.BookIV.Particles.topological_not_accidental`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L197-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L197-L201)
 **def
 Tau.BookIV.Particles.topological_not_accidental :String**
 
@@ -565,7 +565,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.CovalentBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L207-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L207-L221)
 **structure
 Tau.BookIV.Particles.CovalentBond :Type**
 
@@ -598,7 +598,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprCovalentBond.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L221-L221)
 **def
 Tau.BookIV.Particles.instReprCovalentBond.repr :CovalentBond → ℕ → Std.Format**
 
@@ -610,7 +610,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprCovalentBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L221-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L221-L221)
 **instance
 Tau.BookIV.Particles.instReprCovalentBond :Repr CovalentBond**
 
@@ -621,7 +621,7 @@ Equations
 
 ### `Tau.BookIV.Particles.single_bond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L223-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L223-L224)
 **def
 Tau.BookIV.Particles.single_bond :CovalentBond**
 
@@ -633,7 +633,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.double_bond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L226-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L226-L227)
 **def
 Tau.BookIV.Particles.double_bond :CovalentBond**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.triple_bond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L229-L230)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L229-L230)
 **def
 Tau.BookIV.Particles.triple_bond :CovalentBond**
 
@@ -657,7 +657,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.IonicBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L236-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L236-L246)
 **structure
 Tau.BookIV.Particles.IonicBond :Type**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIonicBond.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L246-L246)
 **def
 Tau.BookIV.Particles.instReprIonicBond.repr :IonicBond → ℕ → Std.Format**
 
@@ -693,7 +693,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprIonicBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L246-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L246-L246)
 **instance
 Tau.BookIV.Particles.instReprIonicBond :Repr IonicBond**
 
@@ -704,7 +704,7 @@ Equations
 
 ### `Tau.BookIV.Particles.ionic_bond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L248-L248)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L248-L248)
 **def
 Tau.BookIV.Particles.ionic_bond :IonicBond**
 
@@ -716,7 +716,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.MetallicBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L254-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L254-L264)
 **structure
 Tau.BookIV.Particles.MetallicBond :Type**
 
@@ -740,7 +740,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprMetallicBond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L264-L264)
 **instance
 Tau.BookIV.Particles.instReprMetallicBond :Repr MetallicBond**
 
@@ -751,7 +751,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprMetallicBond.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L264-L264)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L264-L264)
 **def
 Tau.BookIV.Particles.instReprMetallicBond.repr :MetallicBond → ℕ → Std.Format**
 
@@ -763,7 +763,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.metallic_bond`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L266-L266)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L266-L266)
 **def
 Tau.BookIV.Particles.metallic_bond :MetallicBond**
 
@@ -775,7 +775,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.three_metallic_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L268-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L268-L268)
 **theorem
 Tau.BookIV.Particles.three_metallic_properties :metallic_bond.properties.length = 3**
 
@@ -784,7 +784,7 @@ Tau.BookIV.Particles.three_metallic_properties :metallic_bond.properties.length 
 
 ### `Tau.BookIV.Particles.ModeRepulsionEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L274-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L274-L293)
 **structure
 Tau.BookIV.Particles.ModeRepulsionEntry :Type**
 
@@ -840,7 +840,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprModeRepulsionEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L293-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L293-L293)
 **instance
 Tau.BookIV.Particles.instReprModeRepulsionEntry :Repr ModeRepulsionEntry**
 
@@ -851,7 +851,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprModeRepulsionEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L293-L293)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L293-L293)
 **def
 Tau.BookIV.Particles.instReprModeRepulsionEntry.repr :ModeRepulsionEntry → ℕ → Std.Format**
 
@@ -863,7 +863,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.mode_repulsion_table`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L295-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L295-L301)
 **def
 Tau.BookIV.Particles.mode_repulsion_table :List ModeRepulsionEntry**
 
@@ -875,7 +875,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.mode_repulsion_geometry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L303-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L303-L303)
 **def
 Tau.BookIV.Particles.mode_repulsion_geometry :List ModeRepulsionEntry**
 
@@ -887,7 +887,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.five_geometries`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L305-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L305-L305)
 **theorem
 Tau.BookIV.Particles.five_geometries :mode_repulsion_table.length = 5**
 
@@ -896,7 +896,7 @@ Tau.BookIV.Particles.five_geometries :mode_repulsion_table.length = 5**
 
 ### `Tau.BookIV.Particles.HybridizationType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L311-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L311-L319)
 **inductive
 Tau.BookIV.Particles.HybridizationType :Type**
 
@@ -918,7 +918,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprHybridizationType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
 **instance
 Tau.BookIV.Particles.instReprHybridizationType :Repr HybridizationType**
 
@@ -929,7 +929,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprHybridizationType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
 **def
 Tau.BookIV.Particles.instReprHybridizationType.repr :HybridizationType → ℕ → Std.Format**
 
@@ -941,7 +941,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instDecidableEqHybridizationType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
 **instance
 Tau.BookIV.Particles.instDecidableEqHybridizationType :DecidableEq HybridizationType**
 
@@ -952,7 +952,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instBEqHybridizationType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
 **def
 Tau.BookIV.Particles.instBEqHybridizationType.beq :HybridizationType → HybridizationType → Bool**
 
@@ -964,7 +964,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instBEqHybridizationType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L319-L319)
 **instance
 Tau.BookIV.Particles.instBEqHybridizationType :BEq HybridizationType**
 
@@ -975,7 +975,7 @@ Equations
 
 ### `Tau.BookIV.Particles.HybridMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L321-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L321-L332)
 **structure
 Tau.BookIV.Particles.HybridMode :Type**
 
@@ -1001,7 +1001,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprHybridMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L332-L332)
 **instance
 Tau.BookIV.Particles.instReprHybridMode :Repr HybridMode**
 
@@ -1012,7 +1012,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprHybridMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L332-L332)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L332-L332)
 **def
 Tau.BookIV.Particles.instReprHybridMode.repr :HybridMode → ℕ → Std.Format**
 
@@ -1024,7 +1024,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sp3_hybrid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L334-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L334-L338)
 **def
 Tau.BookIV.Particles.sp3_hybrid :HybridMode**
 
@@ -1037,7 +1037,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sp2_hybrid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L340-L344)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L340-L344)
 **def
 Tau.BookIV.Particles.sp2_hybrid :HybridMode**
 
@@ -1050,7 +1050,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.sp_hybrid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L346-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L346-L350)
 **def
 Tau.BookIV.Particles.sp_hybrid :HybridMode**
 
@@ -1063,7 +1063,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.OrthodoxComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L356-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L356-L370)
 **structure
 Tau.BookIV.Particles.OrthodoxComparison :Type**
 
@@ -1092,7 +1092,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.instReprOrthodoxComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L370-L370)
 **instance
 Tau.BookIV.Particles.instReprOrthodoxComparison :Repr OrthodoxComparison**
 
@@ -1103,7 +1103,7 @@ Equations
 
 ### `Tau.BookIV.Particles.instReprOrthodoxComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L370-L370)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L370-L370)
 **def
 Tau.BookIV.Particles.instReprOrthodoxComparison.repr :OrthodoxComparison → ℕ → Std.Format**
 
@@ -1115,7 +1115,7 @@ Instances For
 
 ### `Tau.BookIV.Particles.orthodox_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L372-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L372-L372)
 **def
 Tau.BookIV.Particles.orthodox_comparison :OrthodoxComparison**
 
@@ -1127,6 +1127,6 @@ Instances For
 
 ### `Tau.BookIV.Particles.five_orthodox_disciplines`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Particles/PeriodicTable.lean#L374-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Particles/PeriodicTable.lean#L374-L375)
 **theorem
 Tau.BookIV.Particles.five_orthodox_disciplines :orthodox_comparison.orthodox_disciplines = 5**

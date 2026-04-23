@@ -55,7 +55,7 @@ CRT decomposition at each primorial level recovers the partial products.
 
 ### `Tau.BookIII.Doors.split_zeta_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L38-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L38-L40)
 **def
 Tau.BookIII.Doors.split_zeta_b
 (k : Denotation.TauIdx)
@@ -72,7 +72,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.split_zeta_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L42-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L42-L43)
 **def
 Tau.BookIII.Doors.split_zeta_c
 (k : Denotation.TauIdx)
@@ -88,7 +88,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.split_zeta_x`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L45-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L45-L46)
 **def
 Tau.BookIII.Doors.split_zeta_x
 (k : Denotation.TauIdx)
@@ -104,7 +104,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.split_zeta_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L48-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L48-L63)
 **def
 Tau.BookIII.Doors.split_zeta_check
 (db : Denotation.TauIdx)
@@ -121,7 +121,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.split_zeta_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L53-L62)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L53-L62)@[irreducible]
 
 **def
 Tau.BookIII.Doors.split_zeta_check.go
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.fe_involution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L69-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L69-L72)
 **def
 Tau.BookIII.Doors.fe_involution
 (nf : Spectral.BoundaryNF)
@@ -155,7 +155,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.fe_involution_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L74-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L74-L89)
 **def
 Tau.BookIII.Doors.fe_involution_check
 (bound db : Denotation.TauIdx)
@@ -171,7 +171,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.fe_involution_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L78-L88)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L78-L88)@[irreducible]
 
 **def
 Tau.BookIII.Doors.fe_involution_check.go
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.fe_swap_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L91-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L91-L105)
 **def
 Tau.BookIII.Doors.fe_swap_check
 (bound db : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.fe_swap_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L95-L104)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L95-L104)@[irreducible]
 
 **def
 Tau.BookIII.Doors.fe_swap_check.go
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.bipolar_euler_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L111-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L111-L126)
 **def
 Tau.BookIII.Doors.bipolar_euler_check
 (db : Denotation.TauIdx)
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.bipolar_euler_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L115-L125)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L115-L125)@[irreducible]
 
 **def
 Tau.BookIII.Doors.bipolar_euler_check.go
@@ -254,7 +254,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.euler_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L128-L143)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L128-L143)
 **def
 Tau.BookIII.Doors.euler_tower_check
 (db : Denotation.TauIdx)
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.euler_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L132-L142)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L132-L142)@[irreducible]
 
 **def
 Tau.BookIII.Doors.euler_tower_check.go
@@ -287,7 +287,7 @@ Instances For
 
 ### `Tau.BookIII.Doors.split_zeta_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L162-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L162-L163)
 **theorem
 Tau.BookIII.Doors.split_zeta_5 :split_zeta_check 5 = true**
 
@@ -296,7 +296,7 @@ Tau.BookIII.Doors.split_zeta_5 :split_zeta_check 5 = true**
 
 ### `Tau.BookIII.Doors.fe_involution_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L165-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L165-L166)
 **theorem
 Tau.BookIII.Doors.fe_involution_15_4 :fe_involution_check 15 4 = true**
 
@@ -305,7 +305,7 @@ Tau.BookIII.Doors.fe_involution_15_4 :fe_involution_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.fe_swap_15_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L168-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L168-L169)
 **theorem
 Tau.BookIII.Doors.fe_swap_15_4 :fe_swap_check 15 4 = true**
 
@@ -314,7 +314,7 @@ Tau.BookIII.Doors.fe_swap_15_4 :fe_swap_check 15 4 = true**
 
 ### `Tau.BookIII.Doors.bipolar_euler_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L171-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L171-L172)
 **theorem
 Tau.BookIII.Doors.bipolar_euler_5 :bipolar_euler_check 5 = true**
 
@@ -323,7 +323,7 @@ Tau.BookIII.Doors.bipolar_euler_5 :bipolar_euler_check 5 = true**
 
 ### `Tau.BookIII.Doors.euler_tower_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L174-L175)
 **theorem
 Tau.BookIII.Doors.euler_tower_4 :euler_tower_check 4 = true**
 
@@ -332,7 +332,7 @@ Tau.BookIII.Doors.euler_tower_4 :euler_tower_check 4 = true**
 
 ### `Tau.BookIII.Doors.b_zeta_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L181-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L181-L182)
 **theorem
 Tau.BookIII.Doors.b_zeta_3 :split_zeta_b 3 = 5**
 
@@ -343,7 +343,7 @@ Tau.BookIII.Doors.b_zeta_3 :split_zeta_b 3 = 5**
 
 ### `Tau.BookIII.Doors.c_zeta_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L184-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L184-L185)
 **theorem
 Tau.BookIII.Doors.c_zeta_3 :split_zeta_c 3 = 3**
 
@@ -354,7 +354,7 @@ Tau.BookIII.Doors.c_zeta_3 :split_zeta_c 3 = 3**
 
 ### `Tau.BookIII.Doors.fe_involution_involutive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L187-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L187-L190)
 **theorem
 Tau.BookIII.Doors.fe_involution_involutive
 (nf : Spectral.BoundaryNF)
@@ -367,7 +367,7 @@ Tau.BookIII.Doors.fe_involution_involutive
 
 ### `Tau.BookIII.Doors.euler_product_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Doors/SplitComplexZeta.lean#L192-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Doors/SplitComplexZeta.lean#L192-L195)
 **theorem
 Tau.BookIII.Doors.euler_product_3 :split_zeta_b 3 * split_zeta_c 3 * split_zeta_x 3 = Polarity.primorial 3**
 

@@ -69,7 +69,7 @@ The point set τ³ := τ³_fin ∪ τ³_lim is well-defined:
 
 ### `Tau.BookII.Interior.constraint_C1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L38-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L38-L40)
 **def
 Tau.BookII.Interior.constraint_C1
 (a : Denotation.TauIdx)
@@ -85,7 +85,7 @@ Instances For
 
 ### `Tau.BookII.Interior.largest_prime_factor_aux`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L42-L52)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L42-L52)@[irreducible]
 
 **def
 Tau.BookII.Interior.largest_prime_factor_aux
@@ -103,7 +103,7 @@ Instances For
 
 ### `Tau.BookII.Interior.largest_prime_factor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L54-L57)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L54-L57)
 **def
 Tau.BookII.Interior.largest_prime_factor
 (n : Denotation.TauIdx)
@@ -119,7 +119,7 @@ Instances For
 
 ### `Tau.BookII.Interior.constraint_C3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L59-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L59-L61)
 **def
 Tau.BookII.Interior.constraint_C3
 (d a : Denotation.TauIdx)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Interior.constraint_C4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L63-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L63-L65)
 **def
 Tau.BookII.Interior.constraint_C4
 (a b c : Denotation.TauIdx)
@@ -151,7 +151,7 @@ Instances For
 
 ### `Tau.BookII.Interior.constraint_C5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L67-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L67-L73)
 **def
 Tau.BookII.Interior.constraint_C5
 (a b c d : Denotation.TauIdx)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookII.Interior.is_tau_admissible`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L75-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L75-L77)
 **def
 Tau.BookII.Interior.is_tau_admissible
 (a b c d : Denotation.TauIdx)
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookII.Interior.TauAdmissiblePoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L83-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L83-L91)
 **structure
 Tau.BookII.Interior.TauAdmissiblePoint :Type**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprTauAdmissiblePoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
 **instance
 Tau.BookII.Interior.instReprTauAdmissiblePoint :Repr TauAdmissiblePoint**
 
@@ -213,7 +213,7 @@ Equations
 
 ### `Tau.BookII.Interior.instReprTauAdmissiblePoint.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
 **def
 Tau.BookII.Interior.instReprTauAdmissiblePoint.repr :TauAdmissiblePoint → Nat → Std.Format**
 
@@ -225,7 +225,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instDecidableEqTauAdmissiblePoint.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
 **def
 Tau.BookII.Interior.instDecidableEqTauAdmissiblePoint.decEq
 (x✝ x✝¹ : TauAdmissiblePoint)
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instDecidableEqTauAdmissiblePoint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L91-L91)
 **instance
 Tau.BookII.Interior.instDecidableEqTauAdmissiblePoint :DecidableEq TauAdmissiblePoint**
 
@@ -250,7 +250,7 @@ Equations
 
 ### `Tau.BookII.Interior.from_tau_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L93-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L93-L96)
 **def
 Tau.BookII.Interior.from_tau_idx
 (x : Denotation.TauIdx)
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookII.Interior.to_tau_idx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L98-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L98-L100)
 **def
 Tau.BookII.Interior.to_tau_idx
 (p : TauAdmissiblePoint)
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookII.Interior.TauAdmissiblePoint.valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L102-L104)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L102-L104)
 **def
 Tau.BookII.Interior.TauAdmissiblePoint.valid
 (p : TauAdmissiblePoint)
@@ -298,7 +298,7 @@ Instances For
 
 ### `Tau.BookII.Interior.round_trip_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L110-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L110-L113)
 **def
 Tau.BookII.Interior.round_trip_check
 (x : Denotation.TauIdx)
@@ -315,7 +315,7 @@ Instances For
 
 ### `Tau.BookII.Interior.admissible_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L115-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L115-L118)
 **def
 Tau.BookII.Interior.admissible_check
 (x : Denotation.TauIdx)
@@ -332,7 +332,7 @@ Instances For
 
 ### `Tau.BookII.Interior.batch_verify`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L120-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L120-L128)
 **def
 Tau.BookII.Interior.batch_verify
 (bound : Denotation.TauIdx)
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookII.Interior.batch_verify.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L124-L127)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L124-L127)@[irreducible]
 
 **def
 Tau.BookII.Interior.batch_verify.go
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_witness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L134-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L134-L141)
 **def
 Tau.BookII.Interior.primorial_witness :List (Denotation.TauIdx × TauAdmissiblePoint)**
 
@@ -379,7 +379,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_b_eq_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L143-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L143-L145)
 **def
 Tau.BookII.Interior.primorial_b_eq_one :Bool**
 
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_c_eq_one`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L147-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L147-L148)
 **def
 Tau.BookII.Interior.primorial_c_eq_one :Bool**
 
@@ -405,7 +405,7 @@ Instances For
 
 ### `Tau.BookII.Interior.primorial_a_increasing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L150-L153)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L150-L153)
 **def
 Tau.BookII.Interior.primorial_a_increasing :Bool**
 
@@ -419,6 +419,6 @@ Instances For
 
 ### `Tau.BookII.Interior.admissible_2_to_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/TauAdmissible.lean#L198-L198)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/TauAdmissible.lean#L198-L198)
 **theorem
 Tau.BookII.Interior.admissible_2_to_20 :batch_verify 20 = true**

@@ -96,7 +96,7 @@ the unique site for electroweak mixing.
 
 ### `Tau.BookIV.Electroweak.Hypercharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L60-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L60-L76)
 **structure
 Tau.BookIV.Electroweak.Hypercharge :Type**
 
@@ -127,7 +127,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprHypercharge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L76-L76)
 **instance
 Tau.BookIV.Electroweak.instReprHypercharge :Repr Hypercharge**
 
@@ -138,7 +138,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprHypercharge.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L76-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L76-L76)
 **def
 Tau.BookIV.Electroweak.instReprHypercharge.repr :Hypercharge → ℕ → Std.Format**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.hypercharge_eL`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L78-L82)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L78-L82)
 **def
 Tau.BookIV.Electroweak.hypercharge_eL :Hypercharge**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.hypercharge_eR`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L84-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L84-L88)
 **def
 Tau.BookIV.Electroweak.hypercharge_eR :Hypercharge**
 
@@ -178,7 +178,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.hypercharge_qL`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L90-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L90-L94)
 **def
 Tau.BookIV.Electroweak.hypercharge_qL :Hypercharge**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.PreMixingEWGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L100-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L100-L113)
 **structure
 Tau.BookIV.Electroweak.PreMixingEWGroup :Type**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprPreMixingEWGroup`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L113-L113)
 **instance
 Tau.BookIV.Electroweak.instReprPreMixingEWGroup :Repr PreMixingEWGroup**
 
@@ -231,7 +231,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprPreMixingEWGroup.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L113-L113)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L113-L113)
 **def
 Tau.BookIV.Electroweak.instReprPreMixingEWGroup.repr :PreMixingEWGroup → ℕ → Std.Format**
 
@@ -243,7 +243,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ew_group`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L115-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L115-L120)
 **def
 Tau.BookIV.Electroweak.ew_group :PreMixingEWGroup**
 
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.ChargedCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L126-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L126-L134)
 **inductive
 Tau.BookIV.Electroweak.ChargedCurrent :Type**
 
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprChargedCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
 **instance
 Tau.BookIV.Electroweak.instReprChargedCurrent :Repr ChargedCurrent**
 
@@ -290,7 +290,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprChargedCurrent.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
 **def
 Tau.BookIV.Electroweak.instReprChargedCurrent.repr :ChargedCurrent → ℕ → Std.Format**
 
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instDecidableEqChargedCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
 **instance
 Tau.BookIV.Electroweak.instDecidableEqChargedCurrent :DecidableEq ChargedCurrent**
 
@@ -313,7 +313,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqChargedCurrent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
 **instance
 Tau.BookIV.Electroweak.instBEqChargedCurrent :BEq ChargedCurrent**
 
@@ -324,7 +324,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instBEqChargedCurrent.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L134-L134)
 **def
 Tau.BookIV.Electroweak.instBEqChargedCurrent.beq :ChargedCurrent → ChargedCurrent → Bool**
 
@@ -336,7 +336,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.charged_current_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L136-L137)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L136-L137)
 **def
 Tau.BookIV.Electroweak.charged_current_sector :ChargedCurrent → BookIII.Sectors.Sector**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.WeinbergAngleTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L143-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L143-L158)
 **structure
 Tau.BookIV.Electroweak.WeinbergAngleTau :Type**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weinberg_angle_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L160-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L160-L165)
 **def
 Tau.BookIV.Electroweak.weinberg_angle_tau :WeinbergAngleTau**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.weinberg_float`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L167-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L167-L169)
 **def
 Tau.BookIV.Electroweak.weinberg_float :Float**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.MixingCompatibility`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L175-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L175-L190)
 **structure
 Tau.BookIV.Electroweak.MixingCompatibility :Type**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.mixing_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L192-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L192-L197)
 **def
 Tau.BookIV.Electroweak.mixing_pair :MixingCompatibility**
 
@@ -459,7 +459,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.MaximalMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L203-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L203-L213)
 **structure
 Tau.BookIV.Electroweak.MaximalMixing :Type**
 
@@ -482,7 +482,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMaximalMixing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L213-L213)
 **def
 Tau.BookIV.Electroweak.instReprMaximalMixing.repr :MaximalMixing → ℕ → Std.Format**
 
@@ -494,7 +494,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprMaximalMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L213-L213)
 **instance
 Tau.BookIV.Electroweak.instReprMaximalMixing :Repr MaximalMixing**
 
@@ -505,7 +505,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.maximal_mixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L215-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L215-L216)
 **def
 Tau.BookIV.Electroweak.maximal_mixing :MaximalMixing**
 
@@ -517,7 +517,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.OmegaResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L222-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L222-L237)
 **structure
 Tau.BookIV.Electroweak.OmegaResolution :Type**
 
@@ -547,7 +547,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprOmegaResolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L237-L237)
 **instance
 Tau.BookIV.Electroweak.instReprOmegaResolution :Repr OmegaResolution**
 
@@ -558,7 +558,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprOmegaResolution.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L237-L237)
 **def
 Tau.BookIV.Electroweak.instReprOmegaResolution.repr :OmegaResolution → ℕ → Std.Format**
 
@@ -570,7 +570,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.omega_resolution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L239-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L239-L244)
 **def
 Tau.BookIV.Electroweak.omega_resolution :OmegaResolution**
 
@@ -582,7 +582,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.NeutralBosonMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L250-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L250-L271)
 **structure
 Tau.BookIV.Electroweak.NeutralBosonMixing :Type**
 
@@ -620,7 +620,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutralBosonMixing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L271-L271)
 **def
 Tau.BookIV.Electroweak.instReprNeutralBosonMixing.repr :NeutralBosonMixing → ℕ → Std.Format**
 
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNeutralBosonMixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L271-L271)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L271-L271)
 **instance
 Tau.BookIV.Electroweak.instReprNeutralBosonMixing :Repr NeutralBosonMixing**
 
@@ -643,7 +643,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.neutral_boson_mixing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L273-L273)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L273-L273)
 **def
 Tau.BookIV.Electroweak.neutral_boson_mixing :NeutralBosonMixing**
 
@@ -655,7 +655,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.mixing_orthogonal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L275-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L275-L277)
 **theorem
 Tau.BookIV.Electroweak.mixing_orthogonal :neutral_boson_mixing.orthogonal = true**
 
@@ -666,7 +666,7 @@ Tau.BookIV.Electroweak.mixing_orthogonal :neutral_boson_mixing.orthogonal = true
 
 ### `Tau.BookIV.Electroweak.mixing_conserves_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L279-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L279-L281)
 **theorem
 Tau.BookIV.Electroweak.mixing_conserves_count :neutral_boson_mixing.in_out_match = true**
 
@@ -677,7 +677,7 @@ Two inputs yield exactly two outputs.
 
 ### `Tau.BookIV.Electroweak.weinberg_equals_kappaAD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L287-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L287-L297)
 **theorem
 Tau.BookIV.Electroweak.weinberg_equals_kappaAD :weinberg_angle_tau.sin2_numer = Sectors.kappa_AD.numer ∧ weinberg_angle_tau.sin2_denom = Sectors.kappa_AD.denom**
 
@@ -694,7 +694,7 @@ coupling budget (κ_A + κ_D = 1), so their cross-coupling
 
 ### `Tau.BookIV.Electroweak.weinberg_in_range`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L299-L303)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L299-L303)
 **theorem
 Tau.BookIV.Electroweak.weinberg_in_range :weinberg_angle_tau.sin2_numer * 100 > 22 * weinberg_angle_tau.sin2_denom ∧ weinberg_angle_tau.sin2_numer * 100 < 23 * weinberg_angle_tau.sin2_denom**
 
@@ -705,7 +705,7 @@ The τ-value of sin²(θ_W) is strictly between 0.22 and 0.23.
 
 ### `Tau.BookIV.Electroweak.unique_mixing_pair`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L309-L320)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L309-L320)
 **theorem
 Tau.BookIV.Electroweak.unique_mixing_pair :mixing_pair.balanced = BookIII.Sectors.Sector.A ∧ mixing_pair.chi_plus_fiber = BookIII.Sectors.Sector.B**
 
@@ -732,7 +732,7 @@ Proof sketch:
 
 ### `Tau.BookIV.Electroweak.A_unique_balanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L322-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L322-L328)
 **theorem
 Tau.BookIV.Electroweak.A_unique_balanced :Sectors.weak_sector.polarity = Sectors.PolaritySign.Balanced ∧ Sectors.gravity_sector.polarity ≠ Sectors.PolaritySign.Balanced ∧ Sectors.em_sector.polarity ≠ Sectors.PolaritySign.Balanced ∧ Sectors.strong_sector.polarity ≠ Sectors.PolaritySign.Balanced**
 
@@ -743,7 +743,7 @@ No other primitive sector has balanced polarity.
 
 ### `Tau.BookIV.Electroweak.EMCouplingRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L334-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L334-L351)
 **structure
 Tau.BookIV.Electroweak.EMCouplingRelation :Type**
 
@@ -775,7 +775,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMCouplingRelation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L351-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L351-L351)
 **def
 Tau.BookIV.Electroweak.instReprEMCouplingRelation.repr :EMCouplingRelation → ℕ → Std.Format**
 
@@ -787,7 +787,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprEMCouplingRelation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L351-L351)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L351-L351)
 **instance
 Tau.BookIV.Electroweak.instReprEMCouplingRelation :Repr EMCouplingRelation**
 
@@ -798,7 +798,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.em_coupling_relation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L353-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L353-L353)
 **def
 Tau.BookIV.Electroweak.em_coupling_relation :EMCouplingRelation**
 
@@ -810,7 +810,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sin2_exp_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L359-L360)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L359-L360)
 **def
 Tau.BookIV.Electroweak.sin2_exp_numer :ℕ**
 
@@ -824,7 +824,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.sin2_exp_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L361-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L361-L362)
 **def
 Tau.BookIV.Electroweak.sin2_exp_denom :ℕ**
 
@@ -838,7 +838,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.tree_level_deviation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L364-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L364-L375)
 **theorem
 Tau.BookIV.Electroweak.tree_level_deviation :sin2_exp_numer * weinberg_angle_tau.sin2_denom > weinberg_angle_tau.sin2_numer * sin2_exp_denom ∧ (sin2_exp_numer * weinberg_angle_tau.sin2_denom - weinberg_angle_tau.sin2_numer * sin2_exp_denom) * 100 < 4 * sin2_exp_numer * weinberg_angle_tau.sin2_denom**
 
@@ -853,7 +853,7 @@ close the gap, analogous to running coupling constants in QFT.
 
 ### `Tau.BookIV.Electroweak.NoHigherUnification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L381-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L381-L398)
 **structure
 Tau.BookIV.Electroweak.NoHigherUnification :Type**
 
@@ -884,7 +884,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNoHigherUnification.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L398-L398)
 **def
 Tau.BookIV.Electroweak.instReprNoHigherUnification.repr :NoHigherUnification → ℕ → Std.Format**
 
@@ -896,7 +896,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprNoHigherUnification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L398-L398)
 **instance
 Tau.BookIV.Electroweak.instReprNoHigherUnification :Repr NoHigherUnification**
 
@@ -907,7 +907,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.no_higher_unification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L400-L400)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L400-L400)
 **def
 Tau.BookIV.Electroweak.no_higher_unification :NoHigherUnification**
 
@@ -919,7 +919,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.DualRoleBalanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L406-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L406-L425)
 **structure
 Tau.BookIV.Electroweak.DualRoleBalanced :Type**
 
@@ -956,7 +956,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.instReprDualRoleBalanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L425-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L425-L425)
 **instance
 Tau.BookIV.Electroweak.instReprDualRoleBalanced :Repr DualRoleBalanced**
 
@@ -967,7 +967,7 @@ Equations
 
 ### `Tau.BookIV.Electroweak.instReprDualRoleBalanced.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L425-L425)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L425-L425)
 **def
 Tau.BookIV.Electroweak.instReprDualRoleBalanced.repr :DualRoleBalanced → ℕ → Std.Format**
 
@@ -979,7 +979,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.dual_role_balanced`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L427-L427)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L427-L427)
 **def
 Tau.BookIV.Electroweak.dual_role_balanced :DualRoleBalanced**
 
@@ -991,7 +991,7 @@ Instances For
 
 ### `Tau.BookIV.Electroweak.remark_gap_scope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Electroweak/EWMixing.lean#L433-L442)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Electroweak/EWMixing.lean#L433-L442)
 **def
 Tau.BookIV.Electroweak.remark_gap_scope :String**
 

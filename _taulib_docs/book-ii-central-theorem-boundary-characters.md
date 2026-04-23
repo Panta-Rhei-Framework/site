@@ -65,7 +65,7 @@ closed under componentwise addition and multiplication.
 
 ### `Tau.BookII.CentralTheorem.IdempotentCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L48-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L48-L63)
 **structure
 Tau.BookII.CentralTheorem.IdempotentCharacter :Type**
 
@@ -97,7 +97,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.instInhabitedIdempotentCharacter.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L63-L63)
 **def
 Tau.BookII.CentralTheorem.instInhabitedIdempotentCharacter.default :IdempotentCharacter**
 
@@ -109,7 +109,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.instInhabitedIdempotentCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L63-L63)
 **instance
 Tau.BookII.CentralTheorem.instInhabitedIdempotentCharacter :Inhabited IdempotentCharacter**
 
@@ -120,7 +120,7 @@ Equations
 
 ### `Tau.BookII.CentralTheorem.IdempotentCharacter.eval`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L65-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L65-L67)
 **def
 Tau.BookII.CentralTheorem.IdempotentCharacter.eval
 (chi : IdempotentCharacter)
@@ -138,7 +138,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.canonical_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L69-L73)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L69-L73)
 **def
 Tau.BookII.CentralTheorem.canonical_character :IdempotentCharacter**
 
@@ -153,7 +153,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.chi_plus_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L75-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L75-L78)
 **def
 Tau.BookII.CentralTheorem.chi_plus_character :IdempotentCharacter**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.chi_minus_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L80-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L80-L83)
 **def
 Tau.BookII.CentralTheorem.chi_minus_character :IdempotentCharacter**
 
@@ -183,7 +183,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.idemp_character_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L89-L115)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L89-L115)
 **def
 Tau.BookII.CentralTheorem.idemp_character_check
 (bound db : Denotation.TauIdx)
@@ -204,7 +204,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.idemp_character_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L98-L114)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L98-L114)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.idemp_character_check.go
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L121-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L121-L146)
 **def
 Tau.BookII.CentralTheorem.character_tower_check
 (bound db : Denotation.TauIdx)
@@ -248,7 +248,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_tower_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L132-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L132-L145)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_tower_check.go
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.IdempotentCharacter.add`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L152-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L152-L155)
 **def
 Tau.BookII.CentralTheorem.IdempotentCharacter.add
 (chi1 chi2 : IdempotentCharacter)
@@ -282,7 +282,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_add_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L157-L182)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L157-L182)
 **def
 Tau.BookII.CentralTheorem.character_add_check
 (bound db : Denotation.TauIdx)
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_add_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L167-L181)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L167-L181)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_add_check.go
@@ -321,7 +321,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.IdempotentCharacter.mul`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L188-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L188-L191)
 **def
 Tau.BookII.CentralTheorem.IdempotentCharacter.mul
 (chi1 chi2 : IdempotentCharacter)
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_mul_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L193-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L193-L219)
 **def
 Tau.BookII.CentralTheorem.character_mul_check
 (bound db : Denotation.TauIdx)
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_mul_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L204-L218)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L204-L218)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_mul_check.go
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.zero_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L225-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L225-L227)
 **def
 Tau.BookII.CentralTheorem.zero_character :IdempotentCharacter**
 
@@ -392,7 +392,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.unit_character`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L229-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L229-L231)
 **def
 Tau.BookII.CentralTheorem.unit_character :IdempotentCharacter**
 
@@ -406,7 +406,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_add_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L233-L246)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L233-L246)
 **def
 Tau.BookII.CentralTheorem.character_add_identity_check
 (bound db : Denotation.TauIdx)
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_add_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L238-L245)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L238-L245)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_add_identity_check.go
@@ -440,7 +440,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_mul_identity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L248-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L248-L261)
 **def
 Tau.BookII.CentralTheorem.character_mul_identity_check
 (bound db : Denotation.TauIdx)
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_mul_identity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L253-L260)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L253-L260)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_mul_identity_check.go
@@ -474,7 +474,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_distributive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L263-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L263-L283)
 **def
 Tau.BookII.CentralTheorem.character_distributive_check
 (bound db : Denotation.TauIdx)
@@ -491,7 +491,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.character_distributive_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L268-L282)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L268-L282)@[irreducible]
 
 **def
 Tau.BookII.CentralTheorem.character_distributive_check.go
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.full_boundary_characters_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L289-L302)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L289-L302)
 **def
 Tau.BookII.CentralTheorem.full_boundary_characters_check
 (bound db : Denotation.TauIdx)
@@ -536,7 +536,7 @@ Instances For
 
 ### `Tau.BookII.CentralTheorem.idemp_decomp_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L308-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L308-L314)
 **theorem
 Tau.BookII.CentralTheorem.idemp_decomp_recovery
 (sp : Polarity.SectorPair)
@@ -551,7 +551,7 @@ This is the algebraic core of idempotent support.
 
 ### `Tau.BookII.CentralTheorem.b_channel_kills_c`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L316-L319)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L316-L319)
 **theorem
 Tau.BookII.CentralTheorem.b_channel_kills_c
 (sp : Polarity.SectorPair)
@@ -564,7 +564,7 @@ Tau.BookII.CentralTheorem.b_channel_kills_c
 
 ### `Tau.BookII.CentralTheorem.c_channel_kills_b`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L321-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L321-L324)
 **theorem
 Tau.BookII.CentralTheorem.c_channel_kills_b
 (sp : Polarity.SectorPair)
@@ -577,7 +577,7 @@ Tau.BookII.CentralTheorem.c_channel_kills_b
 
 ### `Tau.BookII.CentralTheorem.character_tower_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L326-L331)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L326-L331)
 **theorem
 Tau.BookII.CentralTheorem.character_tower_structural
 (x : Denotation.TauIdx)
@@ -594,7 +594,7 @@ reduce(reduce(x, k+1), k) = reduce(x, k).
 
 ### `Tau.BookII.CentralTheorem.character_add_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L333-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L333-L339)
 **theorem
 Tau.BookII.CentralTheorem.character_add_structural
 (sp1 sp2 : Polarity.SectorPair)
@@ -608,7 +608,7 @@ for any sp1 sp2, the sum sp1 + sp2 satisfies the decomposition.
 
 ### `Tau.BookII.CentralTheorem.character_mul_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L341-L347)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L341-L347)
 **theorem
 Tau.BookII.CentralTheorem.character_mul_structural
 (sp1 sp2 : Polarity.SectorPair)
@@ -622,7 +622,7 @@ for any sp1 sp2, the product sp1 * sp2 satisfies the decomposition.
 
 ### `Tau.BookII.CentralTheorem.sector_distributive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L349-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L349-L354)
 **theorem
 Tau.BookII.CentralTheorem.sector_distributive
 (a b c : Polarity.SectorPair)
@@ -635,7 +635,7 @@ Tau.BookII.CentralTheorem.sector_distributive
 
 ### `Tau.BookII.CentralTheorem.idemp_char_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L390-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L390-L391)
 **theorem
 Tau.BookII.CentralTheorem.idemp_char_20_4 :idemp_character_check 20 4 = true**
 
@@ -644,7 +644,7 @@ Tau.BookII.CentralTheorem.idemp_char_20_4 :idemp_character_check 20 4 = true**
 
 ### `Tau.BookII.CentralTheorem.char_tower_20_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L394-L395)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L394-L395)
 **theorem
 Tau.BookII.CentralTheorem.char_tower_20_4 :character_tower_check 20 4 = true**
 
@@ -653,7 +653,7 @@ Tau.BookII.CentralTheorem.char_tower_20_4 :character_tower_check 20 4 = true**
 
 ### `Tau.BookII.CentralTheorem.char_add_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L398-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L398-L399)
 **theorem
 Tau.BookII.CentralTheorem.char_add_15_3 :character_add_check 15 3 = true**
 
@@ -662,7 +662,7 @@ Tau.BookII.CentralTheorem.char_add_15_3 :character_add_check 15 3 = true**
 
 ### `Tau.BookII.CentralTheorem.char_mul_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L402-L403)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L402-L403)
 **theorem
 Tau.BookII.CentralTheorem.char_mul_15_3 :character_mul_check 15 3 = true**
 
@@ -671,7 +671,7 @@ Tau.BookII.CentralTheorem.char_mul_15_3 :character_mul_check 15 3 = true**
 
 ### `Tau.BookII.CentralTheorem.char_add_id_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L406-L407)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L406-L407)
 **theorem
 Tau.BookII.CentralTheorem.char_add_id_15_3 :character_add_identity_check 15 3 = true**
 
@@ -680,7 +680,7 @@ Tau.BookII.CentralTheorem.char_add_id_15_3 :character_add_identity_check 15 3 = 
 
 ### `Tau.BookII.CentralTheorem.char_mul_id_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L409-L410)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L409-L410)
 **theorem
 Tau.BookII.CentralTheorem.char_mul_id_15_3 :character_mul_identity_check 15 3 = true**
 
@@ -689,7 +689,7 @@ Tau.BookII.CentralTheorem.char_mul_id_15_3 :character_mul_identity_check 15 3 = 
 
 ### `Tau.BookII.CentralTheorem.char_distrib_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L412-L413)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L412-L413)
 **theorem
 Tau.BookII.CentralTheorem.char_distrib_15_3 :character_distributive_check 15 3 = true**
 
@@ -698,6 +698,6 @@ Tau.BookII.CentralTheorem.char_distrib_15_3 :character_distributive_check 15 3 =
 
 ### `Tau.BookII.CentralTheorem.full_bnd_char_15_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L416-L417)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/CentralTheorem/BoundaryCharacters.lean#L416-L417)
 **theorem
 Tau.BookII.CentralTheorem.full_bnd_char_15_3 :full_boundary_characters_check 15 3 = true**

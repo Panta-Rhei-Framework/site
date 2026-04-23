@@ -1,7 +1,12 @@
-# Cache-Control headers for Cloudflare Pages / Netlify
-# GitHub Pages ignores this file; activate by:
-#   (a) migrating to Cloudflare Pages, OR
-#   (b) proxying through Cloudflare CDN (free plan, change NS to Cloudflare)
+# Cache-Control headers for Cloudflare Pages / Netlify.
+#
+# Current production hosting is GitHub Pages behind Cloudflare DNS/proxy.
+# GitHub Pages ignores this file, and Cloudflare's reverse proxy does not read
+# a repository _headers file from a GitHub Pages origin. To activate these
+# headers, either:
+#   (a) migrate this repo's Pages artifact to Cloudflare Pages / Netlify, OR
+#   (b) recreate the rules below as Cloudflare Response Header / Cache Rules
+#       or in a Cloudflare Worker.
 #
 # Pagefind + main CSS use build-time cache-bust query strings (?v=epoch),
 # so 1-year max-age is safe — the URL changes on every deploy.

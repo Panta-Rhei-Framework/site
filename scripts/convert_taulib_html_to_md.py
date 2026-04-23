@@ -11,6 +11,11 @@ from html.parser import HTMLParser
 
 SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COLLECTION_DIR = os.path.join(SITE_DIR, "_taulib_docs")
+PINNED_TAULIB_COMMIT = "2261c049119c8dd9a4e891457f196745178c02b3"
+LEGACY_SOURCE_PREFIX_RE = re.compile(
+    r"https://github\.com/ThorFuchs/PantaRhei-2ndEd/blob/"
+    r"[0-9a-f]+/lean4/TauLib/TauLib/"
+)
 
 
 class HTML2Markdown(HTMLParser):
@@ -211,7 +216,11 @@ def convert_file(html_path):
         clean = re.sub(r'\s+', ' ', clean).strip()
         md = clean[:2000]
 
-    return frontmatter + "\n\n" + md + "\n"
+    result = frontmatter + "\n\n" + md + "\n"
+    return LEGACY_SOURCE_PREFIX_RE.sub(
+        f"https://github.com/Panta-Rhei-Research/taulib/blob/{PINNED_TAULIB_COMMIT}/TauLib/",
+        result,
+    )
 
 
 def main():

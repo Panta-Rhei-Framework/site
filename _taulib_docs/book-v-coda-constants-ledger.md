@@ -147,7 +147,7 @@ tau-effective
 
 ### `Tau.BookV.Coda.LedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L69-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L69-L77)
 **inductive
 Tau.BookV.Coda.LedgerScope :Type**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
 **instance
 Tau.BookV.Coda.instReprLedgerScope :Repr LedgerScope**
 
@@ -180,7 +180,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprLedgerScope.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
 **def
 Tau.BookV.Coda.instReprLedgerScope.repr :LedgerScope → ℕ → Std.Format**
 
@@ -192,7 +192,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instDecidableEqLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
 **instance
 Tau.BookV.Coda.instDecidableEqLedgerScope :DecidableEq LedgerScope**
 
@@ -203,7 +203,7 @@ Equations
 
 ### `Tau.BookV.Coda.instBEqLedgerScope.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
 **def
 Tau.BookV.Coda.instBEqLedgerScope.beq :LedgerScope → LedgerScope → Bool**
 
@@ -215,7 +215,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instBEqLedgerScope`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L77-L77)
 **instance
 Tau.BookV.Coda.instBEqLedgerScope :BEq LedgerScope**
 
@@ -226,7 +226,7 @@ Equations
 
 ### `Tau.BookV.Coda.LedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L79-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L79-L89)
 **structure
 Tau.BookV.Coda.LedgerEntry :Type**
 
@@ -251,7 +251,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprLedgerEntry`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L89-L89)
 **instance
 Tau.BookV.Coda.instReprLedgerEntry :Repr LedgerEntry**
 
@@ -262,7 +262,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprLedgerEntry.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L89-L89)
 **def
 Tau.BookV.Coda.instReprLedgerEntry.repr :LedgerEntry → ℕ → Std.Format**
 
@@ -274,7 +274,7 @@ Instances For
 
 ### `Tau.BookV.Coda.constants_ledger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L91-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L91-L132)
 **def
 Tau.BookV.Coda.constants_ledger :List LedgerEntry**
 
@@ -288,7 +288,7 @@ Instances For
 
 ### `Tau.BookV.Coda.ledger_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L134-L136)
 **theorem
 Tau.BookV.Coda.ledger_count :constants_ledger.length = 10**
 
@@ -299,7 +299,7 @@ The ledger has 10 entries.
 
 ### `Tau.BookV.Coda.tau_effective_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L138-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L138-L141)
 **theorem
 Tau.BookV.Coda.tau_effective_count :(List.filter (fun (e : LedgerEntry) => e.scope == LedgerScope.TauEffective) constants_ledger).length = 8**
 
@@ -310,7 +310,7 @@ Count of tau-effective entries.
 
 ### `Tau.BookV.Coda.conjectural_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L143-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L143-L146)
 **theorem
 Tau.BookV.Coda.conjectural_count :(List.filter (fun (e : LedgerEntry) => e.scope == LedgerScope.Conjectural) constants_ledger).length = 2**
 
@@ -321,7 +321,7 @@ Count of conjectural entries.
 
 ### `Tau.BookV.Coda.no_shrink_restatement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L152-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L152-L163)
 **theorem
 Tau.BookV.Coda.no_shrink_restatement :"BH boundary-character amplitude non-decreasing; no evaporation" = "BH boundary-character amplitude non-decreasing; no evaporation"**
 
@@ -340,7 +340,7 @@ boundary algebra's non-thermal character evolution.
 
 ### `Tau.BookV.Coda.E1Complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L169-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L169-L189)
 **structure
 Tau.BookV.Coda.E1Complete :Type**
 
@@ -377,7 +377,7 @@ Instances For
 
 ### `Tau.BookV.Coda.instReprE1Complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L189-L189)
 **instance
 Tau.BookV.Coda.instReprE1Complete :Repr E1Complete**
 
@@ -388,7 +388,7 @@ Equations
 
 ### `Tau.BookV.Coda.instReprE1Complete.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L189-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L189-L189)
 **def
 Tau.BookV.Coda.instReprE1Complete.repr :E1Complete → ℕ → Std.Format**
 
@@ -400,7 +400,7 @@ Instances For
 
 ### `Tau.BookV.Coda.e1_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L191-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L191-L194)
 **def
 Tau.BookV.Coda.e1_complete :E1Complete**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookV.Coda.elayer1_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L196-L201)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L196-L201)
 **theorem
 Tau.BookV.Coda.elayer1_complete :e1_complete.forces_assigned = true ∧ e1_complete.constants_derived = true ∧ e1_complete.single_anchor = true**
 
@@ -425,7 +425,7 @@ E1 is complete.
 
 ### `Tau.BookV.Coda.topology_test_timeline`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L207-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L207-L213)
 **theorem
 Tau.BookV.Coda.topology_test_timeline :"CMB topology test: 5-10 years (CMB-S4, LiteBIRD)" = "CMB topology test: 5-10 years (CMB-S4, LiteBIRD)"**
 
@@ -439,7 +439,7 @@ L = S^1 v S^1 predicts specific topology signatures in the CMB
 
 ### `Tau.BookV.Coda.lambda_zero_subtlety`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L215-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L215-L220)
 **theorem
 Tau.BookV.Coda.lambda_zero_subtlety :"Lambda = 0 but acceleration real: different cause (S_def transition)" = "Lambda = 0 but acceleration real: different cause (S_def transition)"**
 
@@ -452,7 +452,7 @@ The resolution: acceleration is real, Lambda is not its cause.
 
 ### `Tau.BookV.Coda.neutrino_precision`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L222-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L222-L228)
 **theorem
 Tau.BookV.Coda.neutrino_precision :"m_3(nu) ~ 50.7 meV (exponent 15 conjectural); expt 49-62 meV" = "m_3(nu) ~ 50.7 meV (exponent 15 conjectural); expt 49-62 meV"**
 
@@ -466,7 +466,7 @@ but the exponent 15 is conjectural.
 
 ### `Tau.BookV.Coda.vindicate_inflation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L230-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L230-L236)
 **theorem
 Tau.BookV.Coda.vindicate_inflation :"Primordial GW (r > 0) -> opening regime, no separate inflaton" = "Primordial GW (r > 0) -> opening regime, no separate inflaton"**
 
@@ -480,7 +480,7 @@ the role of inflation without a separate inflaton field.
 
 ### `Tau.BookV.Coda.info_paradox_diagnostic`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L238-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L238-L244)
 **theorem
 Tau.BookV.Coda.info_paradox_diagnostic :"No evaporation (No Shrink) -> no information paradox" = "No evaporation (No Shrink) -> no information paradox"**
 
@@ -494,7 +494,7 @@ paradox does not arise. Information is preserved on L.
 
 ### `Tau.BookV.Coda.fifth_vs_sixth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L246-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L246-L251)
 **theorem
 Tau.BookV.Coda.fifth_vs_sixth :"5 sectors final; confirmed 5th force -> tau falsified" = "5 sectors final; confirmed 5th force -> tau falsified"**
 
@@ -510,7 +510,7 @@ interaction would falsify the 5-sector theorem.
 
 ### `Tau.BookV.Coda.would_not_falsify`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L253-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L253-L260)
 **theorem
 Tau.BookV.Coda.would_not_falsify :"Missing computation does not falsify; structural prediction failure does" = "Missing computation does not falsify; structural prediction failure does"**
 
@@ -525,7 +525,7 @@ no singularities) to fail, not a computational deadline.
 
 ### `Tau.BookV.Coda.one_anchor_not_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L262-L267)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L262-L267)
 **theorem
 Tau.BookV.Coda.one_anchor_not_zero :"0 free parameters, 1 anchor (m_n); iota_tau determines all ratios" = "0 free parameters, 1 anchor (m_n); iota_tau determines all ratios"**
 
@@ -538,7 +538,7 @@ sets the scale. iota_tau determines every ratio.
 
 ### `Tau.BookV.Coda.sqrt3_remark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L269-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L269-L275)
 **theorem
 Tau.BookV.Coda.sqrt3_remark :"sqrt(3) triad: R correction, delta_A, alpha_G -- same |1 - omega|" = "sqrt(3) triad: R correction, delta_A, alpha_G -- same |1 - omega|"**
 
@@ -552,7 +552,7 @@ spectral distance between adjacent lemniscate sectors.
 
 ### `Tau.BookV.Coda.comparison_sm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Coda/ConstantsLedger.lean#L277-L283)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Coda/ConstantsLedger.lean#L277-L283)
 **theorem
 Tau.BookV.Coda.comparison_sm :"SM: ~19 free params; tau: 0 free params + 1 anchor (m_n)" = "SM: ~19 free params; tau: 0 free params + 1 anchor (m_n)"**
 

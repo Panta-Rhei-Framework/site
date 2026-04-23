@@ -93,7 +93,7 @@ Cross-level shift: η_n = γ_{π_n} for all n.
 
 ### `Tau.Coordinates.factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L58-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L58-L61)
 **def
 Tau.Coordinates.factorial :Nat → Nat**
 
@@ -108,7 +108,7 @@ Instances For
 
 ### `Tau.Coordinates.iteratedPrime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L67-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L67-L78)
 **def
 Tau.Coordinates.iteratedPrime :Nat → Nat → Nat**
 
@@ -131,7 +131,7 @@ Instances For
 
 ### `Tau.Coordinates.towerVal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L115-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L115-L122)
 **def
 Tau.Coordinates.towerVal :Nat → Nat → Nat**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.Coordinates.gamma_1_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L174-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L174-L175)
 **theorem
 Tau.Coordinates.gamma_1_eq :towerVal 2 1 = 3**
 
@@ -161,7 +161,7 @@ Tau.Coordinates.gamma_1_eq :towerVal 2 1 = 3**
 
 ### `Tau.Coordinates.gamma_2_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L177-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L177-L178)
 **theorem
 Tau.Coordinates.gamma_2_eq :towerVal 2 2 = 5**
 
@@ -172,7 +172,7 @@ Tau.Coordinates.gamma_2_eq :towerVal 2 2 = 5**
 
 ### `Tau.Coordinates.gamma_3_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L180-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L180-L181)
 **theorem
 Tau.Coordinates.gamma_3_eq :towerVal 2 3 = 11**
 
@@ -183,7 +183,7 @@ Tau.Coordinates.gamma_3_eq :towerVal 2 3 = 11**
 
 ### `Tau.Coordinates.eta_1_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L183-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L183-L184)
 **theorem
 Tau.Coordinates.eta_1_eq :towerVal 3 1 = 5**
 
@@ -194,7 +194,7 @@ Tau.Coordinates.eta_1_eq :towerVal 3 1 = 5**
 
 ### `Tau.Coordinates.eta_2_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L186-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L186-L187)
 **theorem
 Tau.Coordinates.eta_2_eq :towerVal 3 2 = 11**
 
@@ -205,7 +205,7 @@ Tau.Coordinates.eta_2_eq :towerVal 3 2 = 11**
 
 ### `Tau.Coordinates.eta_3_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L189-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L189-L190)
 **theorem
 Tau.Coordinates.eta_3_eq :towerVal 3 3 = 31**
 
@@ -216,7 +216,7 @@ Tau.Coordinates.eta_3_eq :towerVal 3 3 = 31**
 
 ### `Tau.Coordinates.omega_1_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L192-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L192-L193)
 **theorem
 Tau.Coordinates.omega_1_eq :towerVal 4 1 = 11**
 
@@ -227,7 +227,7 @@ Tau.Coordinates.omega_1_eq :towerVal 4 1 = 11**
 
 ### `Tau.Coordinates.omega_2_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L195-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L195-L196)
 **theorem
 Tau.Coordinates.omega_2_eq :towerVal 4 2 = 31**
 
@@ -238,7 +238,7 @@ Tau.Coordinates.omega_2_eq :towerVal 4 2 = 31**
 
 ### `Tau.Coordinates.omega_3_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L198-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L198-L199)
 **theorem
 Tau.Coordinates.omega_3_eq :towerVal 4 3 = 127**
 
@@ -249,7 +249,7 @@ Tau.Coordinates.omega_3_eq :towerVal 4 3 = 127**
 
 ### `Tau.Coordinates.gamma_product_15`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L205-L207)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L205-L207)
 **theorem
 Tau.Coordinates.gamma_product_15 :towerVal 2 1 * towerVal 2 2 = 15**
 
@@ -260,7 +260,7 @@ Tau.Coordinates.gamma_product_15 :towerVal 2 1 * towerVal 2 2 = 15**
 
 ### `Tau.Coordinates.omega_1_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L209-L211)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L209-L211)
 **theorem
 Tau.Coordinates.omega_1_squared :towerVal 4 1 * towerVal 4 1 = 121**
 
@@ -271,7 +271,7 @@ Tau.Coordinates.omega_1_squared :towerVal 4 1 * towerVal 4 1 = 121**
 
 ### `Tau.Coordinates.tower_ratio_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L213-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L213-L216)
 **theorem
 Tau.Coordinates.tower_ratio_identity :towerVal 4 1 * 15 = 11 * (towerVal 2 1 * towerVal 2 2)**
 
@@ -283,7 +283,7 @@ Tau.Coordinates.tower_ratio_identity :towerVal 4 1 * 15 = 11 * (towerVal 2 1 * t
 
 ### `Tau.Coordinates.tower_alpha_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L218-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L218-L221)
 **theorem
 Tau.Coordinates.tower_alpha_ratio :towerVal 4 1 ^ 2 * 225 = 121 * (towerVal 2 1 * towerVal 2 2) ^ 2**
 
@@ -295,7 +295,7 @@ Tau.Coordinates.tower_alpha_ratio :towerVal 4 1 ^ 2 * 225 = 121 * (towerVal 2 1 
 
 ### `Tau.Coordinates.euler_sieve_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L227-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L227-L231)
 **theorem
 Tau.Coordinates.euler_sieve_tower :(towerVal 2 1 - 1) * (towerVal 3 1 - 1) * 15 = 8 * towerVal 2 1 * towerVal 3 1**
 
@@ -307,7 +307,7 @@ Cross-multiplied: (γ₁ - 1)(η₁ - 1) · 15 = 8 · γ₁ · η₁.
 
 ### `Tau.Coordinates.eta_1_is_generator_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L237-L238)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L237-L238)
 **theorem
 Tau.Coordinates.eta_1_is_generator_count :towerVal 3 1 = 5**
 
@@ -318,7 +318,7 @@ Tau.Coordinates.eta_1_is_generator_count :towerVal 3 1 = 5**
 
 ### `Tau.Coordinates.eta_1_factorial`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L240-L241)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L240-L241)
 **theorem
 Tau.Coordinates.eta_1_factorial :factorial (towerVal 3 1) = 120**
 
@@ -329,7 +329,7 @@ Tau.Coordinates.eta_1_factorial :factorial (towerVal 3 1) = 120**
 
 ### `Tau.Coordinates.s5_correction_yields_tower`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L243-L247)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L243-L247)
 **theorem
 Tau.Coordinates.s5_correction_yields_tower :8 * (factorial (towerVal 3 1) + 1) * 225 = 121 * 15 * factorial (towerVal 3 1)**
 
@@ -341,7 +341,7 @@ Cross-multiplied: 8 · (η₁! + 1) · 225 = 121 · 15 · η₁!.
 
 ### `Tau.Coordinates.cross_level_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L253-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L253-L255)
 **theorem
 Tau.Coordinates.cross_level_1 :towerVal 3 1 = towerVal 2 (towerVal 1 1)**
 
@@ -353,7 +353,7 @@ towerVal 3 n = towerVal 2 (towerVal 1 n).
 
 ### `Tau.Coordinates.cross_level_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L256-L256)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L256-L256)
 **theorem
 Tau.Coordinates.cross_level_2 :towerVal 3 2 = towerVal 2 (towerVal 1 2)**
 
@@ -362,7 +362,7 @@ Tau.Coordinates.cross_level_2 :towerVal 3 2 = towerVal 2 (towerVal 1 2)**
 
 ### `Tau.Coordinates.cross_level_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L257-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L257-L257)
 **theorem
 Tau.Coordinates.cross_level_3 :towerVal 3 3 = towerVal 2 (towerVal 1 3)**
 
@@ -371,7 +371,7 @@ Tau.Coordinates.cross_level_3 :towerVal 3 3 = towerVal 2 (towerVal 1 3)**
 
 ### `Tau.Coordinates.cross_level_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L258-L258)
 **theorem
 Tau.Coordinates.cross_level_4 :towerVal 3 4 = towerVal 2 (towerVal 1 4)**
 
@@ -380,7 +380,7 @@ Tau.Coordinates.cross_level_4 :towerVal 3 4 = towerVal 2 (towerVal 1 4)**
 
 ### `Tau.Coordinates.cross_level_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L259-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L259-L259)
 **theorem
 Tau.Coordinates.cross_level_5 :towerVal 3 5 = towerVal 2 (towerVal 1 5)**
 
@@ -389,7 +389,7 @@ Tau.Coordinates.cross_level_5 :towerVal 3 5 = towerVal 2 (towerVal 1 5)**
 
 ### `Tau.Coordinates.omega_3_mersenne`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L261-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L261-L262)
 **theorem
 Tau.Coordinates.omega_3_mersenne :towerVal 4 3 = 2 ^ 7 - 1**
 
@@ -400,7 +400,7 @@ Tau.Coordinates.omega_3_mersenne :towerVal 4 3 = 2 ^ 7 - 1**
 
 ### `Tau.Coordinates.factorial_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L268-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L268-L269)
 **theorem
 Tau.Coordinates.factorial_5 :factorial 5 = 120**
 
@@ -411,7 +411,7 @@ factorial 5 = 120.
 
 ### `Tau.Coordinates.factorial_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L271-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L271-L272)
 **theorem
 Tau.Coordinates.factorial_3 :factorial 3 = 6**
 
@@ -422,7 +422,7 @@ factorial 3 = 6.
 
 ### `Tau.Coordinates.factorial_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L274-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L274-L275)
 **theorem
 Tau.Coordinates.factorial_4 :factorial 4 = 24**
 
@@ -433,7 +433,7 @@ factorial 4 = 24.
 
 ### `Tau.Coordinates.factorial_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L277-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L277-L278)
 **theorem
 Tau.Coordinates.factorial_6 :factorial 6 = 720**
 
@@ -444,7 +444,7 @@ factorial 6 = 720.
 
 ### `Tau.Coordinates.factorial_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L280-L281)
 **theorem
 Tau.Coordinates.factorial_7 :factorial 7 = 5040**
 
@@ -455,7 +455,7 @@ factorial 7 = 5040.
 
 ### `Tau.Coordinates.perfect_square_at_5`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L283-L289)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L283-L289)
 **theorem
 Tau.Coordinates.perfect_square_at_5 :8 * (120 + 1) = 121 * 8 ∧ 15 * 120 = 225 * 8 ∧ 121 = 11 * 11 ∧ 225 = 15 * 15**
 
@@ -467,7 +467,7 @@ We verify: 8·121 = 968, 15·120 = 1800, gcd = 8, giving 121/225.
 
 ### `Tau.Coordinates.not_perfect_square_at_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L291-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L291-L294)
 **theorem
 Tau.Coordinates.not_perfect_square_at_3 :((List.range 8).all fun (m : Nat) => m * m != 56) = true**
 
@@ -479,7 +479,7 @@ Verified: no m ∈ {0,...,7} satisfies m² = 56 (and m ≥ 8 ⟹ m² ≥ 64 > 56
 
 ### `Tau.Coordinates.not_perfect_square_at_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L296-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L296-L299)
 **theorem
 Tau.Coordinates.not_perfect_square_at_4 :((List.range 15).all fun (m : Nat) => m * m != 200) = true**
 
@@ -491,7 +491,7 @@ Verified: no m ∈ {0,...,14} satisfies m² = 200 (and m ≥ 15 ⟹ m² ≥ 225 
 
 ### `Tau.Coordinates.not_perfect_square_at_6`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L301-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L301-L304)
 **theorem
 Tau.Coordinates.not_perfect_square_at_6 :((List.range 76).all fun (m : Nat) => m * m != 5768) = true**
 
@@ -503,7 +503,7 @@ Verified: no m ∈ {0,...,75} satisfies m² = 5768 (and m ≥ 76 ⟹ m² ≥ 577
 
 ### `Tau.Coordinates.denom_not_square_at_7`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L306-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L306-L309)
 **theorem
 Tau.Coordinates.denom_not_square_at_7 :((List.range 275).all fun (m : Nat) => m * m != 75600) = true**
 
@@ -515,7 +515,7 @@ Verified: no m ∈ {0,...,274} satisfies m² = 75600 (and m ≥ 275 ⟹ m² ≥ 
 
 ### `Tau.Coordinates.pi_1_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L327-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L327-L328)
 **theorem
 Tau.Coordinates.pi_1_eq :towerVal 1 1 = 2**
 
@@ -526,7 +526,7 @@ Tau.Coordinates.pi_1_eq :towerVal 1 1 = 2**
 
 ### `Tau.Coordinates.solenoidal_balance_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L330-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L330-L334)
 **theorem
 Tau.Coordinates.solenoidal_balance_identity :towerVal 1 1 * towerVal 3 2 = 2 * towerVal 4 1**
 
@@ -539,7 +539,7 @@ the first ω-value, connecting all three solenoidal generators to ω.
 
 ### `Tau.Coordinates.solenoidal_half_normalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L336-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L336-L339)
 **theorem
 Tau.Coordinates.solenoidal_half_normalization :towerVal 1 1 * towerVal 3 2 / 2 = towerVal 4 1**
 
@@ -551,7 +551,7 @@ This is the Nat division form: 22 / 2 = 11.
 
 ### `Tau.Coordinates.solenoidal_alpha_form`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L341-L346)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L341-L346)
 **theorem
 Tau.Coordinates.solenoidal_alpha_form :(towerVal 1 1 * towerVal 3 2) ^ 2 * 225 = 4 * 121 * (towerVal 2 1 * towerVal 2 2) ^ 2**
 
@@ -564,7 +564,7 @@ Cross-multiplied identity encoding
 
 ### `Tau.Coordinates.geometric_mean_departure_1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L356-L358)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L356-L358)
 **theorem
 Tau.Coordinates.geometric_mean_departure_1 :towerVal 1 1 * towerVal 3 1 = 10**
 
@@ -575,7 +575,7 @@ Geometric mean departure at n=1: π₁ · η₁ = 2 · 5 = 10 (vs γ₁² = 9).
 
 ### `Tau.Coordinates.geometric_mean_departure_2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L360-L362)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L360-L362)
 **theorem
 Tau.Coordinates.geometric_mean_departure_2 :towerVal 1 2 * towerVal 3 2 = 33**
 
@@ -586,7 +586,7 @@ Geometric mean departure at n=2: π₂ · η₂ = 3 · 11 = 33 (vs γ₂² = 25)
 
 ### `Tau.Coordinates.geometric_mean_departure_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L364-L366)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L364-L366)
 **theorem
 Tau.Coordinates.geometric_mean_departure_3 :towerVal 1 3 * towerVal 3 3 = 155**
 
@@ -597,7 +597,7 @@ Geometric mean departure at n=3: π₃ · η₃ = 5 · 31 = 155 (vs γ₃² = 12
 
 ### `Tau.Coordinates.gamma_1_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L368-L369)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L368-L369)
 **theorem
 Tau.Coordinates.gamma_1_squared :towerVal 2 1 ^ 2 = 9**
 
@@ -608,7 +608,7 @@ Tau.Coordinates.gamma_1_squared :towerVal 2 1 ^ 2 = 9**
 
 ### `Tau.Coordinates.gamma_2_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L371-L372)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L371-L372)
 **theorem
 Tau.Coordinates.gamma_2_squared :towerVal 2 2 ^ 2 = 25**
 
@@ -619,7 +619,7 @@ Tau.Coordinates.gamma_2_squared :towerVal 2 2 ^ 2 = 25**
 
 ### `Tau.Coordinates.gamma_3_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Coordinates/IteratedPrime.lean#L374-L375)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Coordinates/IteratedPrime.lean#L374-L375)
 **theorem
 Tau.Coordinates.gamma_3_squared :towerVal 2 3 ^ 2 = 121**
 

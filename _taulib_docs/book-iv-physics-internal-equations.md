@@ -87,7 +87,7 @@ Every equation has a definite layer:
 
 ### `Tau.BookIV.Physics.EquationLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L53-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L53-L69)
 **inductive
 Tau.BookIV.Physics.EquationLayer :Type**
 
@@ -117,7 +117,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprEquationLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **instance
 Tau.BookIV.Physics.instReprEquationLayer :Repr EquationLayer**
 
@@ -128,7 +128,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprEquationLayer.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **def
 Tau.BookIV.Physics.instReprEquationLayer.repr :EquationLayer → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instDecidableEqEquationLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **instance
 Tau.BookIV.Physics.instDecidableEqEquationLayer :DecidableEq EquationLayer**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqEquationLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **instance
 Tau.BookIV.Physics.instBEqEquationLayer :BEq EquationLayer**
 
@@ -162,7 +162,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instBEqEquationLayer.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **def
 Tau.BookIV.Physics.instBEqEquationLayer.beq :EquationLayer → EquationLayer → Bool**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instInhabitedEquationLayer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **instance
 Tau.BookIV.Physics.instInhabitedEquationLayer :Inhabited EquationLayer**
 
@@ -185,7 +185,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instInhabitedEquationLayer.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L69-L69)
 **def
 Tau.BookIV.Physics.instInhabitedEquationLayer.default :EquationLayer**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.InternalIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L75-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L75-L95)
 **structure
 Tau.BookIV.Physics.InternalIdentity :Type**
 
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.instReprInternalIdentity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L95-L95)
 **instance
 Tau.BookIV.Physics.instReprInternalIdentity :Repr InternalIdentity**
 
@@ -245,7 +245,7 @@ Equations
 
 ### `Tau.BookIV.Physics.instReprInternalIdentity.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L95-L95)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L95-L95)
 **def
 Tau.BookIV.Physics.instReprInternalIdentity.repr :InternalIdentity → ℕ → Std.Format**
 
@@ -257,7 +257,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.mass_ratio_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L101-L110)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L101-L110)
 **def
 Tau.BookIV.Physics.mass_ratio_identity :InternalIdentity**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.alpha_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L112-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L112-L121)
 **def
 Tau.BookIV.Physics.alpha_identity :InternalIdentity**
 
@@ -289,7 +289,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.gravity_coupling_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L123-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L123-L133)
 **def
 Tau.BookIV.Physics.gravity_coupling_identity :InternalIdentity**
 
@@ -306,7 +306,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.temporal_complement_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L135-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L135-L144)
 **def
 Tau.BookIV.Physics.temporal_complement_identity :InternalIdentity**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.confinement_identity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L146-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L146-L155)
 **def
 Tau.BookIV.Physics.confinement_identity :InternalIdentity**
 
@@ -338,7 +338,7 @@ Instances For
 
 ### `Tau.BookIV.Physics.internal_identity_dimensionless`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L161-L169)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L161-L169)
 **theorem
 Tau.BookIV.Physics.internal_identity_dimensionless :mass_ratio_identity.is_dimensionless = true ∧ alpha_identity.is_dimensionless = true ∧ gravity_coupling_identity.is_dimensionless = true ∧ temporal_complement_identity.is_dimensionless = true ∧ confinement_identity.is_dimensionless = true**
 
@@ -350,7 +350,7 @@ Tau.BookIV.Physics.internal_identity_dimensionless :mass_ratio_identity.is_dimen
 
 ### `Tau.BookIV.Physics.mass_ratio_internal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L171-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L171-L174)
 **theorem
 Tau.BookIV.Physics.mass_ratio_internal :mass_ratio_identity.layer = EquationLayer.InternalPhysics**
 
@@ -362,7 +362,7 @@ not Layer 0 (math) or Layer 2 (SI bridge).
 
 ### `Tau.BookIV.Physics.all_from_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L176-L183)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L176-L183)
 **theorem
 Tau.BookIV.Physics.all_from_iota :mass_ratio_identity.from_iota_alone = true ∧ alpha_identity.from_iota_alone = true ∧ gravity_coupling_identity.from_iota_alone = true ∧ temporal_complement_identity.from_iota_alone = true ∧ confinement_identity.from_iota_alone = true**
 
@@ -373,7 +373,7 @@ All canonical internal identities are derivable from ι<sub>τ</sub> alone.
 
 ### `Tau.BookIV.Physics.mass_ratio_strong_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L185-L189)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L185-L189)
 **theorem
 Tau.BookIV.Physics.mass_ratio_strong_sector :mass_ratio_identity.source_sector = BookIII.Sectors.Sector.C ∧ mass_ratio_identity.target_sector = BookIII.Sectors.Sector.C**
 
@@ -384,7 +384,7 @@ The mass ratio is a C-sector (strong) internal identity.
 
 ### `Tau.BookIV.Physics.alpha_em_sector`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Physics/InternalEquations.lean#L191-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Physics/InternalEquations.lean#L191-L195)
 **theorem
 Tau.BookIV.Physics.alpha_em_sector :alpha_identity.source_sector = BookIII.Sectors.Sector.B ∧ alpha_identity.target_sector = BookIII.Sectors.Sector.B**
 

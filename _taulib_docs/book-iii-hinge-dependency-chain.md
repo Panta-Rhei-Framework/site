@@ -60,7 +60,7 @@ After E3+, the chain saturates (E4 = E3).
 
 ### `Tau.BookIII.Hinge.ChainLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L44-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L44-L63)
 **inductive
 Tau.BookIII.Hinge.ChainLink :Type**
 
@@ -90,7 +90,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.instReprChainLink.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **def
 Tau.BookIII.Hinge.instReprChainLink.repr :ChainLink → ℕ → Std.Format**
 
@@ -102,7 +102,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.instReprChainLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **instance
 Tau.BookIII.Hinge.instReprChainLink :Repr ChainLink**
 
@@ -113,7 +113,7 @@ Equations
 
 ### `Tau.BookIII.Hinge.instDecidableEqChainLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **instance
 Tau.BookIII.Hinge.instDecidableEqChainLink :DecidableEq ChainLink**
 
@@ -124,7 +124,7 @@ Equations
 
 ### `Tau.BookIII.Hinge.instBEqChainLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **instance
 Tau.BookIII.Hinge.instBEqChainLink :BEq ChainLink**
 
@@ -135,7 +135,7 @@ Equations
 
 ### `Tau.BookIII.Hinge.instBEqChainLink.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **def
 Tau.BookIII.Hinge.instBEqChainLink.beq :ChainLink → ChainLink → Bool**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.instInhabitedChainLink.default`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **def
 Tau.BookIII.Hinge.instInhabitedChainLink.default :ChainLink**
 
@@ -159,7 +159,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.instInhabitedChainLink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L63-L63)
 **instance
 Tau.BookIII.Hinge.instInhabitedChainLink :Inhabited ChainLink**
 
@@ -170,7 +170,7 @@ Equations
 
 ### `Tau.BookIII.Hinge.ChainLink.toNat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L65-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L65-L80)
 **def
 Tau.BookIII.Hinge.ChainLink.toNat :ChainLink → ℕ**
 
@@ -197,7 +197,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_links`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L82-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L82-L85)
 **def
 Tau.BookIII.Hinge.chain_links :List ChainLink**
 
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.ChainLink.toEnrLevel`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L87-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L87-L92)
 **def
 Tau.BookIII.Hinge.ChainLink.toEnrLevel :ChainLink → Enrichment.EnrLevel**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.ChainLink.succ`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L94-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L94-L109)
 **def
 Tau.BookIII.Hinge.ChainLink.succ :ChainLink → ChainLink**
 
@@ -265,7 +265,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_strict_order_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L115-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L115-L125)
 **def
 Tau.BookIII.Hinge.chain_strict_order_check :Bool**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_strict_order_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L120-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L120-L125)
 **def
 Tau.BookIII.Hinge.chain_strict_order_check.go :List ChainLink → Bool**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_layer_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L127-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L127-L141)
 **def
 Tau.BookIII.Hinge.chain_layer_check
 (bound db : Denotation.TauIdx)
@@ -313,7 +313,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_layer_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L133-L140)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L133-L140)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.chain_layer_check.go
@@ -331,7 +331,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_tower_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L143-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L143-L149)
 **def
 Tau.BookIII.Hinge.chain_tower_check
 (bound db : Denotation.TauIdx)
@@ -348,7 +348,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.dependency_chain_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L151-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L151-L156)
 **def
 Tau.BookIII.Hinge.dependency_chain_check
 (bound db : Denotation.TauIdx)
@@ -365,7 +365,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_linearity_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L162-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L162-L177)
 **def
 Tau.BookIII.Hinge.chain_linearity_check :Bool**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_linearity_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L168-L176)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L168-L176)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.chain_linearity_check.go
@@ -399,7 +399,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_no_duplicates_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L179-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L179-L191)
 **def
 Tau.BookIII.Hinge.chain_no_duplicates_check :Bool**
 
@@ -414,7 +414,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_no_duplicates_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L183-L190)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L183-L190)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.chain_no_duplicates_check.go
@@ -434,7 +434,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_linearity_full_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L193-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L193-L195)
 **def
 Tau.BookIII.Hinge.chain_linearity_full_check :Bool**
 
@@ -448,7 +448,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.terminal_completeness_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L201-L217)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L201-L217)
 **def
 Tau.BookIII.Hinge.terminal_completeness_check :Bool**
 
@@ -464,7 +464,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.terminal_completeness_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L206-L216)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L206-L216)@[irreducible]
 
 **def
 Tau.BookIII.Hinge.terminal_completeness_check.go
@@ -484,7 +484,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_length_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L219-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L219-L221)
 **def
 Tau.BookIII.Hinge.chain_length_check :Bool**
 
@@ -498,7 +498,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_terminal_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L223-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L223-L227)
 **def
 Tau.BookIII.Hinge.chain_terminal_check :Bool**
 
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.chain_saturation_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L229-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L229-L231)
 **def
 Tau.BookIII.Hinge.chain_saturation_check :Bool**
 
@@ -528,7 +528,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.terminal_completeness_full_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L233-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L233-L239)
 **def
 Tau.BookIII.Hinge.terminal_completeness_full_check :Bool**
 
@@ -546,7 +546,7 @@ Instances For
 
 ### `Tau.BookIII.Hinge.dependency_chain_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L280-L281)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L280-L281)
 **theorem
 Tau.BookIII.Hinge.dependency_chain_8_3 :dependency_chain_check 8 3 = true**
 
@@ -555,7 +555,7 @@ Tau.BookIII.Hinge.dependency_chain_8_3 :dependency_chain_check 8 3 = true**
 
 ### `Tau.BookIII.Hinge.chain_strict_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L283-L284)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L283-L284)
 **theorem
 Tau.BookIII.Hinge.chain_strict_order :chain_strict_order_check = true**
 
@@ -564,7 +564,7 @@ Tau.BookIII.Hinge.chain_strict_order :chain_strict_order_check = true**
 
 ### `Tau.BookIII.Hinge.chain_layer_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L286-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L286-L287)
 **theorem
 Tau.BookIII.Hinge.chain_layer_8_3 :chain_layer_check 8 3 = true**
 
@@ -573,7 +573,7 @@ Tau.BookIII.Hinge.chain_layer_8_3 :chain_layer_check 8 3 = true**
 
 ### `Tau.BookIII.Hinge.chain_tower_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L289-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L289-L290)
 **theorem
 Tau.BookIII.Hinge.chain_tower_10_3 :chain_tower_check 10 3 = true**
 
@@ -582,7 +582,7 @@ Tau.BookIII.Hinge.chain_tower_10_3 :chain_tower_check 10 3 = true**
 
 ### `Tau.BookIII.Hinge.chain_linearity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L293-L294)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L293-L294)
 **theorem
 Tau.BookIII.Hinge.chain_linearity :chain_linearity_check = true**
 
@@ -591,7 +591,7 @@ Tau.BookIII.Hinge.chain_linearity :chain_linearity_check = true**
 
 ### `Tau.BookIII.Hinge.chain_no_duplicates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L296-L297)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L296-L297)
 **theorem
 Tau.BookIII.Hinge.chain_no_duplicates :chain_no_duplicates_check = true**
 
@@ -600,7 +600,7 @@ Tau.BookIII.Hinge.chain_no_duplicates :chain_no_duplicates_check = true**
 
 ### `Tau.BookIII.Hinge.chain_linearity_full`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L299-L300)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L299-L300)
 **theorem
 Tau.BookIII.Hinge.chain_linearity_full :chain_linearity_full_check = true**
 
@@ -609,7 +609,7 @@ Tau.BookIII.Hinge.chain_linearity_full :chain_linearity_full_check = true**
 
 ### `Tau.BookIII.Hinge.terminal_completeness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L303-L304)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L303-L304)
 **theorem
 Tau.BookIII.Hinge.terminal_completeness :terminal_completeness_check = true**
 
@@ -618,7 +618,7 @@ Tau.BookIII.Hinge.terminal_completeness :terminal_completeness_check = true**
 
 ### `Tau.BookIII.Hinge.chain_length`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L306-L307)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L306-L307)
 **theorem
 Tau.BookIII.Hinge.chain_length :chain_length_check = true**
 
@@ -627,7 +627,7 @@ Tau.BookIII.Hinge.chain_length :chain_length_check = true**
 
 ### `Tau.BookIII.Hinge.chain_terminal`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L309-L310)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L309-L310)
 **theorem
 Tau.BookIII.Hinge.chain_terminal :chain_terminal_check = true**
 
@@ -636,7 +636,7 @@ Tau.BookIII.Hinge.chain_terminal :chain_terminal_check = true**
 
 ### `Tau.BookIII.Hinge.chain_saturation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L312-L313)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L312-L313)
 **theorem
 Tau.BookIII.Hinge.chain_saturation :chain_saturation_check = true**
 
@@ -645,7 +645,7 @@ Tau.BookIII.Hinge.chain_saturation :chain_saturation_check = true**
 
 ### `Tau.BookIII.Hinge.terminal_completeness_full`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L315-L316)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L315-L316)
 **theorem
 Tau.BookIII.Hinge.terminal_completeness_full :terminal_completeness_full_check = true**
 
@@ -654,7 +654,7 @@ Tau.BookIII.Hinge.terminal_completeness_full :terminal_completeness_full_check =
 
 ### `Tau.BookIII.Hinge.chain_has_14_links`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L322-L324)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L322-L324)
 **theorem
 Tau.BookIII.Hinge.chain_has_14_links :chain_links.length = 14**
 
@@ -665,7 +665,7 @@ Tau.BookIII.Hinge.chain_has_14_links :chain_links.length = 14**
 
 ### `Tau.BookIII.Hinge.k0_is_first`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L326-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L326-L327)
 **theorem
 Tau.BookIII.Hinge.k0_is_first :ChainLink.K0.toNat = 0**
 
@@ -676,7 +676,7 @@ Tau.BookIII.Hinge.k0_is_first :ChainLink.K0.toNat = 0**
 
 ### `Tau.BookIII.Hinge.e3p_is_last`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L329-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L329-L330)
 **theorem
 Tau.BookIII.Hinge.e3p_is_last :ChainLink.E3p.toNat = 13**
 
@@ -687,7 +687,7 @@ Tau.BookIII.Hinge.e3p_is_last :ChainLink.E3p.toNat = 13**
 
 ### `Tau.BookIII.Hinge.axiom_to_enrichment`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L332-L334)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L332-L334)
 **theorem
 Tau.BookIII.Hinge.axiom_to_enrichment :ChainLink.K6.succ = ChainLink.E0**
 
@@ -698,7 +698,7 @@ Tau.BookIII.Hinge.axiom_to_enrichment :ChainLink.K6.succ = ChainLink.E0**
 
 ### `Tau.BookIII.Hinge.succ_monotone`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L336-L339)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L336-L339)
 **theorem
 Tau.BookIII.Hinge.succ_monotone
 (link : ChainLink)
@@ -711,7 +711,7 @@ Tau.BookIII.Hinge.succ_monotone
 
 ### `Tau.BookIII.Hinge.e3p_saturates`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L341-L342)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L341-L342)
 **theorem
 Tau.BookIII.Hinge.e3p_saturates :ChainLink.E3p.succ = ChainLink.E3p**
 
@@ -722,7 +722,7 @@ Tau.BookIII.Hinge.e3p_saturates :ChainLink.E3p.succ = ChainLink.E3p**
 
 ### `Tau.BookIII.Hinge.all_links_have_level`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L344-L350)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L344-L350)
 **theorem
 Tau.BookIII.Hinge.all_links_have_level
 (link : ChainLink)
@@ -735,7 +735,7 @@ Tau.BookIII.Hinge.all_links_have_level
 
 ### `Tau.BookIII.Hinge.seven_plus_seven`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIII/Hinge/DependencyChain.lean#L352-L354)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIII/Hinge/DependencyChain.lean#L352-L354)
 **theorem
 Tau.BookIII.Hinge.seven_plus_seven :(List.filter (fun (l : ChainLink) => decide (l.toNat < 7)) chain_links).length = 7**
 

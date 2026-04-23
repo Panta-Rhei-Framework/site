@@ -107,7 +107,7 @@ encodes H_partial[omega] at an earlier, higher-energy orbit depth.
 
 ### `Tau.BookV.Temporal.RecombinationDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L65-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L65-L79)
 **structure
 Tau.BookV.Temporal.RecombinationDepth :Type**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprRecombinationDepth.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L79-L79)
 **def
 Tau.BookV.Temporal.instReprRecombinationDepth.repr :RecombinationDepth → ℕ → Std.Format**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprRecombinationDepth`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L79-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L79-L79)
 **instance
 Tau.BookV.Temporal.instReprRecombinationDepth :Repr RecombinationDepth**
 
@@ -158,7 +158,7 @@ Equations
 
 ### `Tau.BookV.Temporal.CMBSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L85-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L85-L105)
 **structure
 Tau.BookV.Temporal.CMBSurface :Type**
 
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprCMBSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L105-L105)
 **instance
 Tau.BookV.Temporal.instReprCMBSurface :Repr CMBSurface**
 
@@ -206,7 +206,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprCMBSurface.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L105-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L105-L105)
 **def
 Tau.BookV.Temporal.instReprCMBSurface.repr :CMBSurface → ℕ → Std.Format**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.CMBSurface.tempFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L107-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L107-L109)
 **def
 Tau.BookV.Temporal.CMBSurface.tempFloat
 (s : CMBSurface)
@@ -234,7 +234,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.NeutrinoDecoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L115-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L115-L128)
 **structure
 Tau.BookV.Temporal.NeutrinoDecoupling :Type**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNeutrinoDecoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L128-L128)
 **def
 Tau.BookV.Temporal.instReprNeutrinoDecoupling.repr :NeutrinoDecoupling → ℕ → Std.Format**
 
@@ -273,7 +273,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprNeutrinoDecoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L128-L128)
 **instance
 Tau.BookV.Temporal.instReprNeutrinoDecoupling :Repr NeutrinoDecoupling**
 
@@ -284,7 +284,7 @@ Equations
 
 ### `Tau.BookV.Temporal.CnuBSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L134-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L134-L155)
 **structure
 Tau.BookV.Temporal.CnuBSurface :Type**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.instReprCnuBSurface`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L155-L155)
 **instance
 Tau.BookV.Temporal.instReprCnuBSurface :Repr CnuBSurface**
 
@@ -338,7 +338,7 @@ Equations
 
 ### `Tau.BookV.Temporal.instReprCnuBSurface.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L155-L155)
 **def
 Tau.BookV.Temporal.instReprCnuBSurface.repr :CnuBSurface → ℕ → Std.Format**
 
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.CnuBSurface.tempFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L157-L159)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L157-L159)
 **def
 Tau.BookV.Temporal.CnuBSurface.tempFloat
 (s : CnuBSurface)
@@ -366,7 +366,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_cmb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L165-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L165-L170)
 **def
 Tau.BookV.Temporal.canonical_cmb :CMBSurface**
 
@@ -381,7 +381,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_cnub`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L172-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L172-L175)
 **def
 Tau.BookV.Temporal.canonical_cnub :CnuBSurface**
 
@@ -395,7 +395,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_recomb`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L177-L180)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L177-L180)
 **def
 Tau.BookV.Temporal.canonical_recomb :RecombinationDepth**
 
@@ -409,7 +409,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.canonical_nu_decoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L182-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L182-L185)
 **def
 Tau.BookV.Temporal.canonical_nu_decoupling :NeutrinoDecoupling**
 
@@ -423,7 +423,7 @@ Instances For
 
 ### `Tau.BookV.Temporal.recomb_is_physical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L191-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L191-L193)
 **theorem
 Tau.BookV.Temporal.recomb_is_physical
 (r : RecombinationDepth)
@@ -436,7 +436,7 @@ Recombination depth is positive (physical event in the temporal epoch).
 
 ### `Tau.BookV.Temporal.cmb_is_boundary_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L195-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L195-L199)
 **theorem
 Tau.BookV.Temporal.cmb_is_boundary_data
 (s : CMBSurface)
@@ -451,7 +451,7 @@ decomposition contains information.
 
 ### `Tau.BookV.Temporal.cmb_standard_temperature`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L201-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L201-L204)
 **theorem
 Tau.BookV.Temporal.cmb_standard_temperature :canonical_cmb.mean_temp_numer = 2725**
 
@@ -463,7 +463,7 @@ The canonical mean temperature is 2725 (representing 2.725 K).
 
 ### `Tau.BookV.Temporal.blackbody_maximizes_entropy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L206-L210)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L206-L210)
 **theorem
 Tau.BookV.Temporal.blackbody_maximizes_entropy :canonical_cmb.mean_temp_denom = 1000**
 
@@ -476,7 +476,7 @@ equilibrium temperature.
 
 ### `Tau.BookV.Temporal.cnub_temperature_standard`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L212-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L212-L216)
 **theorem
 Tau.BookV.Temporal.cnub_temperature_standard :canonical_cnub.temp_numer = 1950 ∧ canonical_cnub.temp_denom = 1000**
 
@@ -487,7 +487,7 @@ Tau.BookV.Temporal.cnub_temperature_standard :canonical_cnub.temp_numer = 1950 �
 
 ### `Tau.BookV.Temporal.cnub_three_species`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L218-L220)
 **theorem
 Tau.BookV.Temporal.cnub_three_species :canonical_cnub.species = 3**
 
@@ -498,7 +498,7 @@ CnuB has exactly 3 neutrino species (from A-sector structure).
 
 ### `Tau.BookV.Temporal.cnub_mass_constraint`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L222-L227)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L222-L227)
 **theorem
 Tau.BookV.Temporal.cnub_mass_constraint :canonical_cnub.total_mass_meV < 120**
 
@@ -511,7 +511,7 @@ cosmological bounds (< 120 meV).
 
 ### `Tau.BookV.Temporal.cnub_mass_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L229-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L229-L231)
 **theorem
 Tau.BookV.Temporal.cnub_mass_value :canonical_cnub.total_mass_meV = 58**
 
@@ -522,7 +522,7 @@ Canonical CnuB mass prediction is 58 meV.
 
 ### `Tau.BookV.Temporal.recomb_after_nu`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L233-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L233-L236)
 **theorem
 Tau.BookV.Temporal.recomb_after_nu :canonical_nu_decoupling.depth < canonical_recomb.depth**
 
@@ -533,7 +533,7 @@ Neutrino decoupling precedes recombination: n_nu < n_rec.
 
 ### `Tau.BookV.Temporal.cmb_multipole_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L238-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L238-L240)
 **theorem
 Tau.BookV.Temporal.cmb_multipole_count :canonical_cmb.multipole_count = 2500**
 
@@ -544,7 +544,7 @@ Canonical CMB has 2500 multipole modes.
 
 ### `Tau.BookV.Temporal.recomb_redshift`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Temporal/BoundaryData.lean#L242-L244)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Temporal/BoundaryData.lean#L242-L244)
 **theorem
 Tau.BookV.Temporal.recomb_redshift :canonical_recomb.redshift = 1100**
 

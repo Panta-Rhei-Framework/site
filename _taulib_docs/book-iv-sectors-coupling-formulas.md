@@ -139,7 +139,7 @@ Strong-Gravity (mass curves time)
 
 ### `Tau.BookIV.Sectors.CouplingFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L59-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L59-L72)
 **structure
 Tau.BookIV.Sectors.CouplingFormula :Type**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.instReprCouplingFormula.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L72-L72)
 **def
 Tau.BookIV.Sectors.instReprCouplingFormula.repr :CouplingFormula → ℕ → Std.Format**
 
@@ -180,7 +180,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.instReprCouplingFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L72-L72)
 **instance
 Tau.BookIV.Sectors.instReprCouplingFormula :Repr CouplingFormula**
 
@@ -191,7 +191,7 @@ Equations
 
 ### `Tau.BookIV.Sectors.CouplingFormula.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L74-L76)
 **def
 Tau.BookIV.Sectors.CouplingFormula.toFloat
 (c : CouplingFormula)
@@ -207,7 +207,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_DD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L103-L109)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L103-L109)
 **def
 Tau.BookIV.Sectors.kappa_DD :CouplingFormula**
 
@@ -221,7 +221,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_AA`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L111-L117)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L111-L117)
 **def
 Tau.BookIV.Sectors.kappa_AA :CouplingFormula**
 
@@ -235,7 +235,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_BB`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L119-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L119-L125)
 **def
 Tau.BookIV.Sectors.kappa_BB :CouplingFormula**
 
@@ -249,7 +249,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_CC`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L127-L133)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L127-L133)
 **def
 Tau.BookIV.Sectors.kappa_CC :CouplingFormula**
 
@@ -263,7 +263,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_AB`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L135-L141)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L135-L141)
 **def
 Tau.BookIV.Sectors.kappa_AB :CouplingFormula**
 
@@ -277,7 +277,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_AC`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L143-L149)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L143-L149)
 **def
 Tau.BookIV.Sectors.kappa_AC :CouplingFormula**
 
@@ -291,7 +291,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_AD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L151-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L151-L157)
 **def
 Tau.BookIV.Sectors.kappa_AD :CouplingFormula**
 
@@ -305,7 +305,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_BC`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L159-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L159-L165)
 **def
 Tau.BookIV.Sectors.kappa_BC :CouplingFormula**
 
@@ -319,7 +319,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_BD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L167-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L167-L173)
 **def
 Tau.BookIV.Sectors.kappa_BD :CouplingFormula**
 
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.kappa_CD`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L175-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L175-L181)
 **def
 Tau.BookIV.Sectors.kappa_CD :CouplingFormula**
 
@@ -347,7 +347,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.all_coupling_formulas`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L183-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L183-L187)
 **def
 Tau.BookIV.Sectors.all_coupling_formulas :List CouplingFormula**
 
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.temporal_complement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L193-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L193-L200)
 **theorem
 Tau.BookIV.Sectors.temporal_complement :kappa_AA.numer + kappa_DD.numer = kappa_AA.denom**
 
@@ -375,7 +375,7 @@ Proof: ι + (D − ι) = D, so ι/D + (D−ι)/D = 1.
 
 ### `Tau.BookIV.Sectors.temporal_complement_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L202-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L202-L205)
 **theorem
 Tau.BookIV.Sectors.temporal_complement_denom :kappa_AA.denom = kappa_DD.denom**
 
@@ -386,7 +386,7 @@ The shared denominator confirms they sum to exactly 1.
 
 ### `Tau.BookIV.Sectors.temporal_multiplicative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L211-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L211-L220)
 **theorem
 Tau.BookIV.Sectors.temporal_multiplicative :kappa_AD.numer * (kappa_AA.denom * kappa_DD.denom) = kappa_AA.numer * kappa_DD.numer * kappa_AD.denom**
 
@@ -401,7 +401,7 @@ Proof: ι(D−ι)/D² = (ι/D)·((D−ι)/D).
 
 ### `Tau.BookIV.Sectors.em_is_weak_squared`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L226-L231)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L226-L231)
 **theorem
 Tau.BookIV.Sectors.em_is_weak_squared :kappa_BB.numer * (kappa_AA.denom * kappa_AA.denom) = kappa_AA.numer * kappa_AA.numer * kappa_BB.denom**
 
@@ -413,7 +413,7 @@ Proof: ι²/D² = (ι/D)².
 
 ### `Tau.BookIV.Sectors.weak_strong_is_multiplicative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L233-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L233-L239)
 **theorem
 Tau.BookIV.Sectors.weak_strong_is_multiplicative :kappa_AC.numer * (kappa_AA.denom * kappa_CC.denom) = kappa_AA.numer * kappa_CC.numer * kappa_AC.denom**
 
@@ -425,7 +425,7 @@ Proof: (ι⁴·D)/(D⁴·(D−ι)) = (ι/D) · (ι³·D/(D³·(D−ι))).
 
 ### `Tau.BookIV.Sectors.all_formulas_positive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L245-L257)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L245-L257)
 **theorem
 Tau.BookIV.Sectors.all_formulas_positive :kappa_DD.numer > 0 ∧ kappa_AA.numer > 0 ∧ kappa_BB.numer > 0 ∧ kappa_CC.numer > 0 ∧ kappa_AB.numer > 0 ∧ kappa_AC.numer > 0 ∧ kappa_AD.numer > 0 ∧ kappa_BC.numer > 0 ∧ kappa_BD.numer > 0 ∧ kappa_CD.numer > 0**
 
@@ -438,7 +438,7 @@ all coupling values are strictly positive.
 
 ### `Tau.BookIV.Sectors.coupling_ledger_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L259-L261)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L259-L261)
 **theorem
 Tau.BookIV.Sectors.coupling_ledger_count :all_coupling_formulas.length = 10**
 
@@ -449,7 +449,7 @@ The ledger has exactly 10 entries.
 
 ### `Tau.BookIV.Sectors.coupling_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L267-L287)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L267-L287)
 **def
 Tau.BookIV.Sectors.coupling_formula
 (si sj : BookIII.Sectors.Sector)
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookIV.Sectors.self_coupling_order`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Sectors/CouplingFormulas.lean#L293-L301)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Sectors/CouplingFormulas.lean#L293-L301)
 **theorem
 Tau.BookIV.Sectors.self_coupling_order :kappa_CC.toFloat < kappa_BB.toFloat ∧ kappa_BB.toFloat < kappa_AA.toFloat ∧ kappa_AA.toFloat < kappa_DD.toFloat**
 

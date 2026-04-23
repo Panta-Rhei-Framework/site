@@ -102,7 +102,7 @@ via the chart readout homomorphism.
 
 ### `Tau.BookV.GravityField.FieldTorusVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L60-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L60-L72)
 **structure
 Tau.BookV.GravityField.FieldTorusVacuum :Type**
 
@@ -128,7 +128,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFieldTorusVacuum.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L72-L72)
 **def
 Tau.BookV.GravityField.instReprFieldTorusVacuum.repr :FieldTorusVacuum → ℕ → Std.Format**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFieldTorusVacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L72-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L72-L72)
 **instance
 Tau.BookV.GravityField.instReprFieldTorusVacuum :Repr FieldTorusVacuum**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookV.GravityField.vacuum_is_regular`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L74-L76)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L74-L76)
 **def
 Tau.BookV.GravityField.vacuum_is_regular
 (v : FieldTorusVacuum)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.FieldGravConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L82-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L82-L91)
 **structure
 Tau.BookV.GravityField.FieldGravConstant :Type**
 
@@ -189,7 +189,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFieldGravConstant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L91-L91)
 **instance
 Tau.BookV.GravityField.instReprFieldGravConstant :Repr FieldGravConstant**
 
@@ -200,7 +200,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprFieldGravConstant.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L91-L91)
 **def
 Tau.BookV.GravityField.instReprFieldGravConstant.repr :FieldGravConstant → ℕ → Std.Format**
 
@@ -212,7 +212,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.field_g_tau_well_defined`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L93-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L93-L96)
 **theorem
 Tau.BookV.GravityField.field_g_tau_well_defined
 (fg : FieldGravConstant)
@@ -225,7 +225,7 @@ Tau.BookV.GravityField.field_g_tau_well_defined
 
 ### `Tau.BookV.GravityField.GeometricRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L102-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L102-L120)
 **structure
 Tau.BookV.GravityField.GeometricRelaxation :Type**
 
@@ -260,7 +260,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprGeometricRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L120-L120)
 **instance
 Tau.BookV.GravityField.instReprGeometricRelaxation :Repr GeometricRelaxation**
 
@@ -271,7 +271,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprGeometricRelaxation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L120-L120)
 **def
 Tau.BookV.GravityField.instReprGeometricRelaxation.repr :GeometricRelaxation → ℕ → Std.Format**
 
@@ -283,7 +283,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.GeometricRelaxation.bindingFractionFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L122-L125)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L122-L125)
 **def
 Tau.BookV.GravityField.GeometricRelaxation.bindingFractionFloat
 (g : GeometricRelaxation)
@@ -299,7 +299,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.TopologicalRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L131-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L131-L144)
 **structure
 Tau.BookV.GravityField.TopologicalRelaxation :Type**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprTopologicalRelaxation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L144-L144)
 **instance
 Tau.BookV.GravityField.instReprTopologicalRelaxation :Repr TopologicalRelaxation**
 
@@ -339,7 +339,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprTopologicalRelaxation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L144-L144)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L144-L144)
 **def
 Tau.BookV.GravityField.instReprTopologicalRelaxation.repr :TopologicalRelaxation → ℕ → Std.Format**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.FieldEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L150-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L150-L161)
 **inductive
 Tau.BookV.GravityField.FieldEvolutionMode :Type**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.instReprFieldEvolutionMode`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L161-L161)
 **instance
 Tau.BookV.GravityField.instReprFieldEvolutionMode :Repr FieldEvolutionMode**
 
@@ -389,7 +389,7 @@ Equations
 
 ### `Tau.BookV.GravityField.instReprFieldEvolutionMode.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L161-L161)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L161-L161)
 **def
 Tau.BookV.GravityField.instReprFieldEvolutionMode.repr :FieldEvolutionMode → ℕ → Std.Format**
 
@@ -401,7 +401,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.FieldEvolutionMode.changes_mass`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L163-L167)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L163-L167)
 **def
 Tau.BookV.GravityField.FieldEvolutionMode.changes_mass :FieldEvolutionMode → Bool**
 
@@ -417,7 +417,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.five_field_modes`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L169-L175)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L169-L175)
 **theorem
 Tau.BookV.GravityField.five_field_modes :[FieldEvolutionMode.GeometricRelax, FieldEvolutionMode.TopologicalRelax, FieldEvolutionMode.MatureEvolution Gravity.BHEvolutionMode.Ringdown, FieldEvolutionMode.MatureEvolution Gravity.BHEvolutionMode.Transport, FieldEvolutionMode.MatureEvolution Gravity.BHEvolutionMode.Fusion].length = 5**
 
@@ -428,7 +428,7 @@ Exactly 5 total field evolution modes (2 pre-maturity + 3 mature).
 
 ### `Tau.BookV.GravityField.field_vacuum_shape_ratio`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L181-L185)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L181-L185)
 **theorem
 Tau.BookV.GravityField.field_vacuum_shape_ratio
 (fv : FieldTorusVacuum)
@@ -441,7 +441,7 @@ Tau.BookV.GravityField.field_vacuum_shape_ratio
 
 ### `Tau.BookV.GravityField.chart_readout_schwarzschild`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L187-L190)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L187-L190)
 **theorem
 Tau.BookV.GravityField.chart_readout_schwarzschild :"chart_readout(tau_einstein) = schwarzschild_metric" = "chart_readout(tau_einstein) = schwarzschild_metric"**
 
@@ -452,7 +452,7 @@ Tau.BookV.GravityField.chart_readout_schwarzschild :"chart_readout(tau_einstein)
 
 ### `Tau.BookV.GravityField.field_schwarzschild_relation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L192-L196)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L192-L196)
 **theorem
 Tau.BookV.GravityField.field_schwarzschild_relation
 (s : Gravity.SchwarzschildRelation)
@@ -465,7 +465,7 @@ Tau.BookV.GravityField.field_schwarzschild_relation
 
 ### `Tau.BookV.GravityField.field_no_shrink`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L198-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L198-L200)
 **theorem
 Tau.BookV.GravityField.field_no_shrink
 (p : Gravity.NoShrinkProperty)
@@ -478,7 +478,7 @@ Tau.BookV.GravityField.field_no_shrink
 
 ### `Tau.BookV.GravityField.example_field_vacuum`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L215-L219)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L215-L219)
 **def
 Tau.BookV.GravityField.example_field_vacuum :FieldTorusVacuum**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookV.GravityField.example_field_g`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/GravityField/TauSchwarzschild.lean#L221-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/GravityField/TauSchwarzschild.lean#L221-L228)
 **def
 Tau.BookV.GravityField.example_field_g :FieldGravConstant**
 

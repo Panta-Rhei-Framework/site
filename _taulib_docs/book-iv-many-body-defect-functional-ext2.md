@@ -104,7 +104,7 @@ crossings in the defect tuple.
 
 ### `Tau.BookIV.ManyBody.EulerFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L60-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L60-L75)
 **structure
 Tau.BookIV.ManyBody.EulerFluidRegime :Type**
 
@@ -134,7 +134,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprEulerFluidRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L75-L75)
 **def
 Tau.BookIV.ManyBody.instReprEulerFluidRegime.repr :EulerFluidRegime → ℕ → Std.Format**
 
@@ -146,7 +146,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprEulerFluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L75-L75)
 **instance
 Tau.BookIV.ManyBody.instReprEulerFluidRegime :Repr EulerFluidRegime**
 
@@ -157,7 +157,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.euler_fluid_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L77-L77)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L77-L77)
 **def
 Tau.BookIV.ManyBody.euler_fluid_regime :EulerFluidRegime**
 
@@ -169,7 +169,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.TauEulerEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L83-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L83-L96)
 **structure
 Tau.BookIV.ManyBody.TauEulerEquation :Type**
 
@@ -196,7 +196,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauEulerEquation.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L96-L96)
 **def
 Tau.BookIV.ManyBody.instReprTauEulerEquation.repr :TauEulerEquation → ℕ → Std.Format**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTauEulerEquation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L96-L96)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L96-L96)
 **instance
 Tau.BookIV.ManyBody.instReprTauEulerEquation :Repr TauEulerEquation**
 
@@ -219,7 +219,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.tau_euler_equation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L98-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L98-L98)
 **def
 Tau.BookIV.ManyBody.tau_euler_equation :TauEulerEquation**
 
@@ -231,7 +231,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.euler_theta_invariant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L100-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L100-L101)
 **theorem
 Tau.BookIV.ManyBody.euler_theta_invariant :tau_euler_equation.theta_derivative_zero = true**
 
@@ -240,7 +240,7 @@ Tau.BookIV.ManyBody.euler_theta_invariant :tau_euler_equation.theta_derivative_z
 
 ### `Tau.BookIV.ManyBody.NavierStokesRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L107-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L107-L121)
 **structure
 Tau.BookIV.ManyBody.NavierStokesRegime :Type**
 
@@ -269,7 +269,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprNavierStokesRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L121-L121)
 **instance
 Tau.BookIV.ManyBody.instReprNavierStokesRegime :Repr NavierStokesRegime**
 
@@ -280,7 +280,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprNavierStokesRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L121-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L121-L121)
 **def
 Tau.BookIV.ManyBody.instReprNavierStokesRegime.repr :NavierStokesRegime → ℕ → Std.Format**
 
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.ns_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L123-L123)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L123-L123)
 **def
 Tau.BookIV.ManyBody.ns_regime :NavierStokesRegime**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.MHDRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L134-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L134-L148)
 **structure
 Tau.BookIV.ManyBody.MHDRegime :Type**
 
@@ -333,7 +333,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMHDRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L148-L148)
 **def
 Tau.BookIV.ManyBody.instReprMHDRegime.repr :MHDRegime → ℕ → Std.Format**
 
@@ -345,7 +345,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprMHDRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L148-L148)
 **instance
 Tau.BookIV.ManyBody.instReprMHDRegime :Repr MHDRegime**
 
@@ -356,7 +356,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.mhd_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L150-L150)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L150-L150)
 **def
 Tau.BookIV.ManyBody.mhd_regime :MHDRegime**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.PlasmaRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L160-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L160-L170)
 **structure
 Tau.BookIV.ManyBody.PlasmaRegime :Type**
 
@@ -392,7 +392,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprPlasmaRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L170-L170)
 **def
 Tau.BookIV.ManyBody.instReprPlasmaRegime.repr :PlasmaRegime → ℕ → Std.Format**
 
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprPlasmaRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L170-L170)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L170-L170)
 **instance
 Tau.BookIV.ManyBody.instReprPlasmaRegime :Repr PlasmaRegime**
 
@@ -415,7 +415,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.plasma_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L172-L172)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L172-L172)
 **def
 Tau.BookIV.ManyBody.plasma_regime :PlasmaRegime**
 
@@ -427,7 +427,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SuperfluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L178-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L178-L193)
 **structure
 Tau.BookIV.ManyBody.SuperfluidRegime :Type**
 
@@ -457,7 +457,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L193-L193)
 **def
 Tau.BookIV.ManyBody.instReprSuperfluidRegime.repr :SuperfluidRegime → ℕ → Std.Format**
 
@@ -469,7 +469,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L193-L193)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L193-L193)
 **instance
 Tau.BookIV.ManyBody.instReprSuperfluidRegime :Repr SuperfluidRegime**
 
@@ -480,7 +480,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.superfluid_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L195-L195)
 **def
 Tau.BookIV.ManyBody.superfluid_regime :SuperfluidRegime**
 
@@ -492,7 +492,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SuperfluidVortexQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L201-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L201-L213)
 **structure
 Tau.BookIV.ManyBody.SuperfluidVortexQuantization :Type**
 
@@ -518,7 +518,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidVortexQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L213-L213)
 **instance
 Tau.BookIV.ManyBody.instReprSuperfluidVortexQuantization :Repr SuperfluidVortexQuantization**
 
@@ -529,7 +529,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprSuperfluidVortexQuantization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L213-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L213-L213)
 **def
 Tau.BookIV.ManyBody.instReprSuperfluidVortexQuantization.repr :SuperfluidVortexQuantization → ℕ → Std.Format**
 
@@ -541,7 +541,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.superfluid_vortex_quant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L215-L215)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L215-L215)
 **def
 Tau.BookIV.ManyBody.superfluid_vortex_quant :SuperfluidVortexQuantization**
 
@@ -553,7 +553,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.remark_helium4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L217-L221)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L217-L221)
 **def
 Tau.BookIV.ManyBody.remark_helium4 :String**
 
@@ -569,7 +569,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SuperconductorRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L227-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L227-L240)
 **structure
 Tau.BookIV.ManyBody.SuperconductorRegime :Type**
 
@@ -597,7 +597,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSuperconductorRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L240-L240)
 **instance
 Tau.BookIV.ManyBody.instReprSuperconductorRegime :Repr SuperconductorRegime**
 
@@ -608,7 +608,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprSuperconductorRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L240-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L240-L240)
 **def
 Tau.BookIV.ManyBody.instReprSuperconductorRegime.repr :SuperconductorRegime → ℕ → Std.Format**
 
@@ -620,7 +620,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.superconductor_regime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L242-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L242-L242)
 **def
 Tau.BookIV.ManyBody.superconductor_regime :SuperconductorRegime**
 
@@ -632,7 +632,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.FluxQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L248-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L248-L260)
 **structure
 Tau.BookIV.ManyBody.FluxQuantization :Type**
 
@@ -658,7 +658,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFluxQuantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L260-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L260-L260)
 **instance
 Tau.BookIV.ManyBody.instReprFluxQuantization :Repr FluxQuantization**
 
@@ -669,7 +669,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprFluxQuantization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L260-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L260-L260)
 **def
 Tau.BookIV.ManyBody.instReprFluxQuantization.repr :FluxQuantization → ℕ → Std.Format**
 
@@ -681,7 +681,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.flux_quantization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L262-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L262-L262)
 **def
 Tau.BookIV.ManyBody.flux_quantization :FluxQuantization**
 
@@ -693,7 +693,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.remark_cooper_pairing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L264-L268)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L264-L268)
 **def
 Tau.BookIV.ManyBody.remark_cooper_pairing :String**
 
@@ -709,7 +709,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.TemperatureAsDefectGradient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L278-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L278-L288)
 **structure
 Tau.BookIV.ManyBody.TemperatureAsDefectGradient :Type**
 
@@ -733,7 +733,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprTemperatureAsDefectGradient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L288-L288)
 **instance
 Tau.BookIV.ManyBody.instReprTemperatureAsDefectGradient :Repr TemperatureAsDefectGradient**
 
@@ -744,7 +744,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprTemperatureAsDefectGradient.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L288-L288)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L288-L288)
 **def
 Tau.BookIV.ManyBody.instReprTemperatureAsDefectGradient.repr :TemperatureAsDefectGradient → ℕ → Std.Format**
 
@@ -756,7 +756,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.temperature_defect_gradient`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L290-L290)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L290-L290)
 **def
 Tau.BookIV.ManyBody.temperature_defect_gradient :TemperatureAsDefectGradient**
 
@@ -768,7 +768,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.BoltzmannConstantStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L299-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L299-L309)
 **structure
 Tau.BookIV.ManyBody.BoltzmannConstantStatus :Type**
 
@@ -792,7 +792,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprBoltzmannConstantStatus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L309-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L309-L309)
 **instance
 Tau.BookIV.ManyBody.instReprBoltzmannConstantStatus :Repr BoltzmannConstantStatus**
 
@@ -803,7 +803,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.instReprBoltzmannConstantStatus.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L309-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L309-L309)
 **def
 Tau.BookIV.ManyBody.instReprBoltzmannConstantStatus.repr :BoltzmannConstantStatus → ℕ → Std.Format**
 
@@ -815,7 +815,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.boltzmann_status`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L311-L311)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L311-L311)
 **def
 Tau.BookIV.ManyBody.boltzmann_status :BoltzmannConstantStatus**
 
@@ -827,7 +827,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.boltzmann_is_conversion`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L313-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L313-L314)
 **theorem
 Tau.BookIV.ManyBody.boltzmann_is_conversion :boltzmann_status.is_conversion_factor = true**
 
@@ -836,7 +836,7 @@ Tau.BookIV.ManyBody.boltzmann_is_conversion :boltzmann_status.is_conversion_fact
 
 ### `Tau.BookIV.ManyBody.SecondLawViaDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L323-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L323-L338)
 **structure
 Tau.BookIV.ManyBody.SecondLawViaDefect :Type**
 
@@ -866,7 +866,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondLawViaDefect.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L338-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L338-L338)
 **def
 Tau.BookIV.ManyBody.instReprSecondLawViaDefect.repr :SecondLawViaDefect → ℕ → Std.Format**
 
@@ -878,7 +878,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondLawViaDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L338-L338)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L338-L338)
 **instance
 Tau.BookIV.ManyBody.instReprSecondLawViaDefect :Repr SecondLawViaDefect**
 
@@ -889,7 +889,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.second_law_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L340-L340)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L340-L340)
 **def
 Tau.BookIV.ManyBody.second_law_defect :SecondLawViaDefect**
 
@@ -901,7 +901,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.second_law_total_nondecreasing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L342-L343)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L342-L343)
 **theorem
 Tau.BookIV.ManyBody.second_law_total_nondecreasing :second_law_defect.s_total_nondecreasing = true**
 
@@ -910,7 +910,7 @@ Tau.BookIV.ManyBody.second_law_total_nondecreasing :second_law_defect.s_total_no
 
 ### `Tau.BookIV.ManyBody.FirstOrderTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L352-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L352-L363)
 **structure
 Tau.BookIV.ManyBody.FirstOrderTransition :Type**
 
@@ -935,7 +935,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFirstOrderTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L363-L363)
 **def
 Tau.BookIV.ManyBody.instReprFirstOrderTransition.repr :FirstOrderTransition → ℕ → Std.Format**
 
@@ -947,7 +947,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprFirstOrderTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L363-L363)
 **instance
 Tau.BookIV.ManyBody.instReprFirstOrderTransition :Repr FirstOrderTransition**
 
@@ -958,7 +958,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.first_order_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L365-L365)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L365-L365)
 **def
 Tau.BookIV.ManyBody.first_order_transition :FirstOrderTransition**
 
@@ -970,7 +970,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.SecondOrderTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L367-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L367-L377)
 **structure
 Tau.BookIV.ManyBody.SecondOrderTransition :Type**
 
@@ -994,7 +994,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondOrderTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L377-L377)
 **def
 Tau.BookIV.ManyBody.instReprSecondOrderTransition.repr :SecondOrderTransition → ℕ → Std.Format**
 
@@ -1006,7 +1006,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprSecondOrderTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L377-L377)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L377-L377)
 **instance
 Tau.BookIV.ManyBody.instReprSecondOrderTransition :Repr SecondOrderTransition**
 
@@ -1017,7 +1017,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.second_order_transition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L379-L379)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L379-L379)
 **def
 Tau.BookIV.ManyBody.second_order_transition :SecondOrderTransition**
 
@@ -1029,7 +1029,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.PhaseTransitionRegimeCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L381-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L381-L396)
 **structure
 Tau.BookIV.ManyBody.PhaseTransitionRegimeCrossing :Type**
 
@@ -1059,7 +1059,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprPhaseTransitionRegimeCrossing.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L396-L396)
 **def
 Tau.BookIV.ManyBody.instReprPhaseTransitionRegimeCrossing.repr :PhaseTransitionRegimeCrossing → ℕ → Std.Format**
 
@@ -1071,7 +1071,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.instReprPhaseTransitionRegimeCrossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L396-L396)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L396-L396)
 **instance
 Tau.BookIV.ManyBody.instReprPhaseTransitionRegimeCrossing :Repr PhaseTransitionRegimeCrossing**
 
@@ -1082,7 +1082,7 @@ Equations
 
 ### `Tau.BookIV.ManyBody.phase_transition_crossing`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L398-L398)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L398-L398)
 **def
 Tau.BookIV.ManyBody.phase_transition_crossing :PhaseTransitionRegimeCrossing**
 
@@ -1094,7 +1094,7 @@ Instances For
 
 ### `Tau.BookIV.ManyBody.all_transitions_are_crossings`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L400-L401)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L400-L401)
 **theorem
 Tau.BookIV.ManyBody.all_transitions_are_crossings :phase_transition_crossing.all_are_regime_crossings = true**
 
@@ -1103,7 +1103,7 @@ Tau.BookIV.ManyBody.all_transitions_are_crossings :phase_transition_crossing.all
 
 ### `Tau.BookIV.ManyBody.remark_universality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L403-L409)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/ManyBody/DefectFunctionalExt2.lean#L403-L409)
 **def
 Tau.BookIV.ManyBody.remark_universality :String**
 

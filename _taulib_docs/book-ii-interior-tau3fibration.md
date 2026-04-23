@@ -75,7 +75,7 @@ Fibration structure (II.T03):
 
 ### `Tau.BookII.Interior.BaseTau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L41-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L41-L47)
 **structure
 Tau.BookII.Interior.BaseTau1 :Type**
 
@@ -92,7 +92,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprBaseTau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
 **instance
 Tau.BookII.Interior.instReprBaseTau1 :Repr BaseTau1**
 
@@ -103,7 +103,7 @@ Equations
 
 ### `Tau.BookII.Interior.instReprBaseTau1.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
 **def
 Tau.BookII.Interior.instReprBaseTau1.repr :BaseTau1 → Nat → Std.Format**
 
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instDecidableEqBaseTau1`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
 **instance
 Tau.BookII.Interior.instDecidableEqBaseTau1 :DecidableEq BaseTau1**
 
@@ -126,7 +126,7 @@ Equations
 
 ### `Tau.BookII.Interior.instDecidableEqBaseTau1.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L47-L47)
 **def
 Tau.BookII.Interior.instDecidableEqBaseTau1.decEq
 (x✝ x✝¹ : BaseTau1)
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookII.Interior.BaseTau1.valid`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L49-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L49-L51)
 **def
 Tau.BookII.Interior.BaseTau1.valid
 (b : BaseTau1)
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookII.Interior.FiberT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L57-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L57-L64)
 **structure
 Tau.BookII.Interior.FiberT2 :Type**
 
@@ -174,7 +174,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprFiberT2.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
 **def
 Tau.BookII.Interior.instReprFiberT2.repr :FiberT2 → Nat → Std.Format**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprFiberT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
 **instance
 Tau.BookII.Interior.instReprFiberT2 :Repr FiberT2**
 
@@ -197,7 +197,7 @@ Equations
 
 ### `Tau.BookII.Interior.instDecidableEqFiberT2.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
 **def
 Tau.BookII.Interior.instDecidableEqFiberT2.decEq
 (x✝ x✝¹ : FiberT2)
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instDecidableEqFiberT2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L64-L64)
 **instance
 Tau.BookII.Interior.instDecidableEqFiberT2 :DecidableEq FiberT2**
 
@@ -222,7 +222,7 @@ Equations
 
 ### `Tau.BookII.Interior.Tau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L70-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L70-L75)
 **structure
 Tau.BookII.Interior.Tau3 :Type**
 
@@ -238,7 +238,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprTau3.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
 **def
 Tau.BookII.Interior.instReprTau3.repr :Tau3 → Nat → Std.Format**
 
@@ -250,7 +250,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instReprTau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
 **instance
 Tau.BookII.Interior.instReprTau3 :Repr Tau3**
 
@@ -261,7 +261,7 @@ Equations
 
 ### `Tau.BookII.Interior.instDecidableEqTau3.decEq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
 **def
 Tau.BookII.Interior.instDecidableEqTau3.decEq
 (x✝ x✝¹ : Tau3)
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookII.Interior.instDecidableEqTau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L75-L75)
 **instance
 Tau.BookII.Interior.instDecidableEqTau3 :DecidableEq Tau3**
 
@@ -286,7 +286,7 @@ Equations
 
 ### `Tau.BookII.Interior.to_tau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L77-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L77-L79)
 **def
 Tau.BookII.Interior.to_tau3
 (p : TauAdmissiblePoint)
@@ -302,7 +302,7 @@ Instances For
 
 ### `Tau.BookII.Interior.from_tau3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L81-L83)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L81-L83)
 **def
 Tau.BookII.Interior.from_tau3
 (t : Tau3)
@@ -318,7 +318,7 @@ Instances For
 
 ### `Tau.BookII.Interior.tau3_proj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L85-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L85-L86)
 **def
 Tau.BookII.Interior.tau3_proj
 (t : Tau3)
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookII.Interior.tau3_fiber_proj`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L88-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L88-L89)
 **def
 Tau.BookII.Interior.tau3_fiber_proj
 (t : Tau3)
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Interior.tau3_round_trip`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L95-L98)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L95-L98)
 **theorem
 Tau.BookII.Interior.tau3_round_trip
 (p : TauAdmissiblePoint)
@@ -363,7 +363,7 @@ from_tau3 ∘ to_tau3 = id.
 
 ### `Tau.BookII.Interior.tau3_round_trip'`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L100-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L100-L103)
 **theorem
 Tau.BookII.Interior.tau3_round_trip'
 (t : Tau3)
@@ -376,7 +376,7 @@ to_tau3 ∘ from_tau3 = id.
 
 ### `Tau.BookII.Interior.proj_surjective_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L109-L121)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L109-L121)
 **def
 Tau.BookII.Interior.proj_surjective_check
 (bound : Denotation.TauIdx)
@@ -393,7 +393,7 @@ Instances For
 
 ### `Tau.BookII.Interior.proj_surjective_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L114-L120)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L114-L120)@[irreducible]
 
 **def
 Tau.BookII.Interior.proj_surjective_check.go
@@ -410,7 +410,7 @@ Instances For
 
 ### `Tau.BookII.Interior.non_trivial_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L123-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L123-L142)
 **def
 Tau.BookII.Interior.non_trivial_check :Bool**
 
@@ -430,7 +430,7 @@ Instances For
 
 ### `Tau.BookII.Interior.faithful_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L144-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L144-L156)
 **def
 Tau.BookII.Interior.faithful_check
 (bound : Denotation.TauIdx)
@@ -447,7 +447,7 @@ Instances For
 
 ### `Tau.BookII.Interior.faithful_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L149-L155)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L149-L155)@[irreducible]
 
 **def
 Tau.BookII.Interior.faithful_check.go
@@ -466,7 +466,7 @@ Instances For
 
 ### `Tau.BookII.Interior.surjective_2_to_20`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L177-L177)
 **theorem
 Tau.BookII.Interior.surjective_2_to_20 :proj_surjective_check 20 = true**
 
@@ -475,6 +475,6 @@ Tau.BookII.Interior.surjective_2_to_20 :proj_surjective_check 20 = true**
 
 ### `Tau.BookII.Interior.faithful_2_to_50`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Interior/Tau3Fibration.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Interior/Tau3Fibration.lean#L178-L178)
 **theorem
 Tau.BookII.Interior.faithful_2_to_50 :faithful_check 50 = true**

@@ -101,7 +101,7 @@ is no information-losing process to reconcile with unitarity.
 
 ### `Tau.BookV.Cosmology.MatureBlackHole`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L64-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L64-L89)
 **structure
 Tau.BookV.Cosmology.MatureBlackHole :Type**
 
@@ -150,7 +150,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMatureBlackHole.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L89-L89)
 **def
 Tau.BookV.Cosmology.instReprMatureBlackHole.repr :MatureBlackHole → ℕ → Std.Format**
 
@@ -162,7 +162,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprMatureBlackHole`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L89-L89)
 **instance
 Tau.BookV.Cosmology.instReprMatureBlackHole :Repr MatureBlackHole**
 
@@ -173,7 +173,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.defect_mass_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L95-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L95-L103)
 **theorem
 Tau.BookV.Cosmology.defect_mass_coupling
 (mbh : MatureBlackHole)
@@ -193,7 +193,7 @@ moves away from it.
 
 ### `Tau.BookV.Cosmology.NoShrinkStatement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L109-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L109-L128)
 **structure
 Tau.BookV.Cosmology.NoShrinkStatement :Type**
 
@@ -227,7 +227,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNoShrinkStatement.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L128-L128)
 **def
 Tau.BookV.Cosmology.instReprNoShrinkStatement.repr :NoShrinkStatement → ℕ → Std.Format**
 
@@ -239,7 +239,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprNoShrinkStatement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L128-L128)
 **instance
 Tau.BookV.Cosmology.instReprNoShrinkStatement :Repr NoShrinkStatement**
 
@@ -250,7 +250,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.no_shrink_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L130-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L130-L132)
 **theorem
 Tau.BookV.Cosmology.no_shrink_theorem
 (s : NoShrinkStatement)
@@ -263,7 +263,7 @@ No-shrink holds for any mature BH.
 
 ### `Tau.BookV.Cosmology.hawking_readout`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L138-L151)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L138-L151)
 **theorem
 Tau.BookV.Cosmology.hawking_readout :"Hawking radiation = boundary character readout, not mass transport" = "Hawking radiation = boundary character readout, not mass transport"**
 
@@ -293,7 +293,7 @@ It IS:
 
 ### `Tau.BookV.Cosmology.no_bh_evaporation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L157-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L157-L163)
 **theorem
 Tau.BookV.Cosmology.no_bh_evaporation :"No BH evaporates: M(n+1) >= M(n) for all n >= n_maturity" = "No BH evaporates: M(n+1) >= M(n) for all n >= n_maturity"**
 
@@ -307,7 +307,7 @@ Follows from V.T114 (no-shrink) and V.P95 (Hawking is readout).
 
 ### `Tau.BookV.Cosmology.information_paradox_dissolved`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L169-L176)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L169-L176)
 **def
 Tau.BookV.Cosmology.information_paradox_dissolved :Prop**
 
@@ -325,7 +325,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.info_paradox_holds`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L178-L178)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L178-L178)
 **theorem
 Tau.BookV.Cosmology.info_paradox_holds :information_paradox_dissolved**
 
@@ -334,7 +334,7 @@ Tau.BookV.Cosmology.info_paradox_holds :information_paradox_dissolved**
 
 ### `Tau.BookV.Cosmology.PermanenceHallmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L184-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L184-L204)
 **structure
 Tau.BookV.Cosmology.PermanenceHallmark :Type**
 
@@ -374,7 +374,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprPermanenceHallmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L204-L204)
 **instance
 Tau.BookV.Cosmology.instReprPermanenceHallmark :Repr PermanenceHallmark**
 
@@ -385,7 +385,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.instReprPermanenceHallmark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L204-L204)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L204-L204)
 **def
 Tau.BookV.Cosmology.instReprPermanenceHallmark.repr :PermanenceHallmark → ℕ → Std.Format**
 
@@ -397,7 +397,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.BHEntropyFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L210-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L210-L224)
 **structure
 Tau.BookV.Cosmology.BHEntropyFormula :Type**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHEntropyFormula.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L224-L224)
 **def
 Tau.BookV.Cosmology.instReprBHEntropyFormula.repr :BHEntropyFormula → ℕ → Std.Format**
 
@@ -438,7 +438,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.instReprBHEntropyFormula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L224-L224)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L224-L224)
 **instance
 Tau.BookV.Cosmology.instReprBHEntropyFormula :Repr BHEntropyFormula**
 
@@ -449,7 +449,7 @@ Equations
 
 ### `Tau.BookV.Cosmology.bh_entropy_formula`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L226-L228)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L226-L228)
 **theorem
 Tau.BookV.Cosmology.bh_entropy_formula :2 * 2 = 4**
 
@@ -460,7 +460,7 @@ The entropy formula prefactor denominator is 2 × 2 = 4.
 
 ### `Tau.BookV.Cosmology.mature_bh_example`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L243-L250)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L243-L250)
 **def
 Tau.BookV.Cosmology.mature_bh_example :MatureBlackHole**
 
@@ -474,7 +474,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.bh_permanence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L257-L260)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L257-L260)
 **def
 Tau.BookV.Cosmology.bh_permanence :PermanenceHallmark**
 
@@ -488,7 +488,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.ReadoutEntropyBound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L269-L280)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L269-L280)
 **structure
 Tau.BookV.Cosmology.ReadoutEntropyBound :Type**
 
@@ -514,7 +514,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.OnticEntropyMonotonicity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L282-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L282-L292)
 **structure
 Tau.BookV.Cosmology.OnticEntropyMonotonicity :Type**
 
@@ -541,7 +541,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.stellar_bh_readout_bound`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L294-L299)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L294-L299)
 **def
 Tau.BookV.Cosmology.stellar_bh_readout_bound :ReadoutEntropyBound**
 
@@ -556,7 +556,7 @@ Instances For
 
 ### `Tau.BookV.Cosmology.constant_entropy_mono`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L301-L305)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Cosmology/NoShrinkExtended.lean#L301-L305)
 **def
 Tau.BookV.Cosmology.constant_entropy_mono :OnticEntropyMonotonicity**
 

@@ -77,7 +77,7 @@ UNEARNED (assigned infinite cardinality a priori).
 
 ### `Tau.BookIV.Strong.BoundaryFirstNorm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L47-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L47-L63)
 **structure
 Tau.BookIV.Strong.BoundaryFirstNorm :Type**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprBoundaryFirstNorm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L63-L63)
 **instance
 Tau.BookIV.Strong.instReprBoundaryFirstNorm :Repr BoundaryFirstNorm**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprBoundaryFirstNorm.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L63-L63)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L63-L63)
 **def
 Tau.BookIV.Strong.instReprBoundaryFirstNorm.repr :BoundaryFirstNorm → ℕ → Std.Format**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.boundary_first_norm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L65-L65)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L65-L65)
 **def
 Tau.BookIV.Strong.boundary_first_norm :BoundaryFirstNorm**
 
@@ -147,7 +147,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.NoUncountable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L71-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L71-L89)
 **structure
 Tau.BookIV.Strong.NoUncountable :Type**
 
@@ -185,7 +185,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprNoUncountable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L89-L89)
 **instance
 Tau.BookIV.Strong.instReprNoUncountable :Repr NoUncountable**
 
@@ -196,7 +196,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprNoUncountable.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L89-L89)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L89-L89)
 **def
 Tau.BookIV.Strong.instReprNoUncountable.repr :NoUncountable → ℕ → Std.Format**
 
@@ -208,7 +208,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.no_uncountable`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L91-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L91-L91)
 **def
 Tau.BookIV.Strong.no_uncountable :NoUncountable**
 
@@ -220,7 +220,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.CanonicalVacuumUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L97-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L97-L112)
 **structure
 Tau.BookIV.Strong.CanonicalVacuumUniqueness :Type**
 
@@ -255,7 +255,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprCanonicalVacuumUniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L112-L112)
 **instance
 Tau.BookIV.Strong.instReprCanonicalVacuumUniqueness :Repr CanonicalVacuumUniqueness**
 
@@ -266,7 +266,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprCanonicalVacuumUniqueness.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L112-L112)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L112-L112)
 **def
 Tau.BookIV.Strong.instReprCanonicalVacuumUniqueness.repr :CanonicalVacuumUniqueness → ℕ → Std.Format**
 
@@ -278,7 +278,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.canonical_vacuum_uniqueness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L114-L114)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L114-L114)
 **def
 Tau.BookIV.Strong.canonical_vacuum_uniqueness :CanonicalVacuumUniqueness**
 
@@ -290,7 +290,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.four_sector_vacua`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L116-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L116-L118)
 **theorem
 Tau.BookIV.Strong.four_sector_vacua :canonical_vacuum_uniqueness.num_vacua = 4**
 
@@ -301,7 +301,7 @@ Four sector vacua (B, A, C, D).
 
 ### `Tau.BookIV.Strong.ModeCountType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L124-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L124-L138)
 **inductive
 Tau.BookIV.Strong.ModeCountType :Type**
 
@@ -328,7 +328,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprModeCountType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
 **instance
 Tau.BookIV.Strong.instReprModeCountType :Repr ModeCountType**
 
@@ -339,7 +339,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprModeCountType.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
 **def
 Tau.BookIV.Strong.instReprModeCountType.repr :ModeCountType → ℕ → Std.Format**
 
@@ -351,7 +351,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instDecidableEqModeCountType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
 **instance
 Tau.BookIV.Strong.instDecidableEqModeCountType :DecidableEq ModeCountType**
 
@@ -362,7 +362,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqModeCountType`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
 **instance
 Tau.BookIV.Strong.instBEqModeCountType :BEq ModeCountType**
 
@@ -373,7 +373,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instBEqModeCountType.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L138-L138)
 **def
 Tau.BookIV.Strong.instBEqModeCountType.beq :ModeCountType → ModeCountType → Bool**
 
@@ -385,7 +385,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.EarnedModeCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L140-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L140-L148)
 **structure
 Tau.BookIV.Strong.EarnedModeCount :Type**
 
@@ -407,7 +407,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprEarnedModeCount.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L148-L148)
 **def
 Tau.BookIV.Strong.instReprEarnedModeCount.repr :EarnedModeCount → ℕ → Std.Format**
 
@@ -419,7 +419,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprEarnedModeCount`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L148-L148)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L148-L148)
 **instance
 Tau.BookIV.Strong.instReprEarnedModeCount :Repr EarnedModeCount**
 
@@ -430,7 +430,7 @@ Equations
 
 ### `Tau.BookIV.Strong.tau_mode_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L150-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L150-L154)
 **def
 Tau.BookIV.Strong.tau_mode_count :EarnedModeCount**
 
@@ -444,7 +444,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.orthodox_mode_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L156-L160)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L156-L160)
 **def
 Tau.BookIV.Strong.orthodox_mode_count :EarnedModeCount**
 
@@ -458,7 +458,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.tau_is_earned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L162-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L162-L162)
 **theorem
 Tau.BookIV.Strong.tau_is_earned :tau_mode_count.count_type = ModeCountType.earned**
 
@@ -467,7 +467,7 @@ Tau.BookIV.Strong.tau_is_earned :tau_mode_count.count_type = ModeCountType.earne
 
 ### `Tau.BookIV.Strong.orthodox_is_unearned`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L163-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L163-L163)
 **theorem
 Tau.BookIV.Strong.orthodox_is_unearned :orthodox_mode_count.count_type = ModeCountType.unearned**
 
@@ -476,7 +476,7 @@ Tau.BookIV.Strong.orthodox_is_unearned :orthodox_mode_count.count_type = ModeCou
 
 ### `Tau.BookIV.Strong.earned_does_not_diverge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L165-L165)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L165-L165)
 **theorem
 Tau.BookIV.Strong.earned_does_not_diverge :tau_mode_count.leads_to_divergence = false**
 
@@ -485,7 +485,7 @@ Tau.BookIV.Strong.earned_does_not_diverge :tau_mode_count.leads_to_divergence = 
 
 ### `Tau.BookIV.Strong.unearned_diverges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L166-L166)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L166-L166)
 **theorem
 Tau.BookIV.Strong.unearned_diverges :orthodox_mode_count.leads_to_divergence = true**
 
@@ -494,7 +494,7 @@ Tau.BookIV.Strong.unearned_diverges :orthodox_mode_count.leads_to_divergence = t
 
 ### `Tau.BookIV.Strong.NoVacuumCatastrophe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L172-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L172-L195)
 **structure
 Tau.BookIV.Strong.NoVacuumCatastrophe :Type**
 
@@ -538,7 +538,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprNoVacuumCatastrophe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L195-L195)
 **instance
 Tau.BookIV.Strong.instReprNoVacuumCatastrophe :Repr NoVacuumCatastrophe**
 
@@ -549,7 +549,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprNoVacuumCatastrophe.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L195-L195)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L195-L195)
 **def
 Tau.BookIV.Strong.instReprNoVacuumCatastrophe.repr :NoVacuumCatastrophe → ℕ → Std.Format**
 
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.no_vacuum_catastrophe`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L197-L197)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L197-L197)
 **def
 Tau.BookIV.Strong.no_vacuum_catastrophe :NoVacuumCatastrophe**
 
@@ -573,7 +573,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.vacuum_is_finite`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L199-L200)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L199-L200)
 **theorem
 Tau.BookIV.Strong.vacuum_is_finite :no_vacuum_catastrophe.finite = true**
 
@@ -582,7 +582,7 @@ Tau.BookIV.Strong.vacuum_is_finite :no_vacuum_catastrophe.finite = true**
 
 ### `Tau.BookIV.Strong.vacuum_parameter_free`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L202-L203)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L202-L203)
 **theorem
 Tau.BookIV.Strong.vacuum_parameter_free :no_vacuum_catastrophe.parameter_free = true**
 
@@ -591,7 +591,7 @@ Tau.BookIV.Strong.vacuum_parameter_free :no_vacuum_catastrophe.parameter_free = 
 
 ### `Tau.BookIV.Strong.vacuum_scale_independent`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L205-L206)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L205-L206)
 **theorem
 Tau.BookIV.Strong.vacuum_scale_independent :no_vacuum_catastrophe.scale_independent = true**
 
@@ -600,7 +600,7 @@ Tau.BookIV.Strong.vacuum_scale_independent :no_vacuum_catastrophe.scale_independ
 
 ### `Tau.BookIV.Strong.four_sectors_summed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L208-L209)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L208-L209)
 **theorem
 Tau.BookIV.Strong.four_sectors_summed :no_vacuum_catastrophe.num_sectors_summed = 4**
 
@@ -609,7 +609,7 @@ Tau.BookIV.Strong.four_sectors_summed :no_vacuum_catastrophe.num_sectors_summed 
 
 ### `Tau.BookIV.Strong.TailStabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L215-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L215-L235)
 **structure
 Tau.BookIV.Strong.TailStabilization :Type**
 
@@ -645,7 +645,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprTailStabilization.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L235-L235)
 **def
 Tau.BookIV.Strong.instReprTailStabilization.repr :TailStabilization → ℕ → Std.Format**
 
@@ -657,7 +657,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprTailStabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L235-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L235-L235)
 **instance
 Tau.BookIV.Strong.instReprTailStabilization :Repr TailStabilization**
 
@@ -668,7 +668,7 @@ Equations
 
 ### `Tau.BookIV.Strong.tail_stabilization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L237-L237)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L237-L237)
 **def
 Tau.BookIV.Strong.tail_stabilization :TailStabilization**
 
@@ -680,7 +680,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.stabilization_exists`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L239-L240)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L239-L240)
 **theorem
 Tau.BookIV.Strong.stabilization_exists :tail_stabilization.horizon_exists = true**
 
@@ -689,7 +689,7 @@ Tau.BookIV.Strong.stabilization_exists :tail_stabilization.horizon_exists = true
 
 ### `Tau.BookIV.Strong.VacuumEnergyComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L246-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L246-L258)
 **structure
 Tau.BookIV.Strong.VacuumEnergyComparison :Type**
 
@@ -717,7 +717,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.instReprVacuumEnergyComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L258-L258)
 **instance
 Tau.BookIV.Strong.instReprVacuumEnergyComparison :Repr VacuumEnergyComparison**
 
@@ -728,7 +728,7 @@ Equations
 
 ### `Tau.BookIV.Strong.instReprVacuumEnergyComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L258-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L258-L258)
 **def
 Tau.BookIV.Strong.instReprVacuumEnergyComparison.repr :VacuumEnergyComparison → ℕ → Std.Format**
 
@@ -740,7 +740,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.tau_vacuum_energy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L260-L265)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L260-L265)
 **def
 Tau.BookIV.Strong.tau_vacuum_energy :VacuumEnergyComparison**
 
@@ -753,7 +753,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.orthodox_vacuum_energy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L267-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L267-L272)
 **def
 Tau.BookIV.Strong.orthodox_vacuum_energy :VacuumEnergyComparison**
 
@@ -765,7 +765,7 @@ Instances For
 
 ### `Tau.BookIV.Strong.tau_no_cc_problem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L274-L274)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L274-L274)
 **theorem
 Tau.BookIV.Strong.tau_no_cc_problem :tau_vacuum_energy.cc_problem = false**
 
@@ -774,7 +774,7 @@ Tau.BookIV.Strong.tau_no_cc_problem :tau_vacuum_energy.cc_problem = false**
 
 ### `Tau.BookIV.Strong.orthodox_has_cc_problem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L275-L275)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L275-L275)
 **theorem
 Tau.BookIV.Strong.orthodox_has_cc_problem :orthodox_vacuum_energy.cc_problem = true**
 
@@ -783,7 +783,7 @@ Tau.BookIV.Strong.orthodox_has_cc_problem :orthodox_vacuum_energy.cc_problem = t
 
 ### `Tau.BookIV.Strong.tau_no_divergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L277-L277)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L277-L277)
 **theorem
 Tau.BookIV.Strong.tau_no_divergence :tau_vacuum_energy.divergent = false**
 
@@ -792,6 +792,6 @@ Tau.BookIV.Strong.tau_no_divergence :tau_vacuum_energy.divergent = false**
 
 ### `Tau.BookIV.Strong.orthodox_diverges`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L278-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Strong/VacuumCatastrophe.lean#L278-L278)
 **theorem
 Tau.BookIV.Strong.orthodox_diverges :orthodox_vacuum_energy.divergent = true**

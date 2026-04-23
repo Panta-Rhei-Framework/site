@@ -70,7 +70,7 @@ fusion convergence, and universal BH.
 
 ### `Tau.BookVI.CrossLimit.OmegaRepresentative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L40-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L40-L54)
 **structure
 Tau.BookVI.CrossLimit.OmegaRepresentative :Type**
 
@@ -100,7 +100,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprOmegaRepresentative.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L54-L54)
 **def
 Tau.BookVI.CrossLimit.instReprOmegaRepresentative.repr :OmegaRepresentative → ℕ → Std.Format**
 
@@ -112,7 +112,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprOmegaRepresentative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L54-L54)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L54-L54)
 **instance
 Tau.BookVI.CrossLimit.instReprOmegaRepresentative :Repr OmegaRepresentative**
 
@@ -123,7 +123,7 @@ Equations
 
 ### `Tau.BookVI.CrossLimit.omega_rep`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L56-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L56-L58)
 **def
 Tau.BookVI.CrossLimit.omega_rep :OmegaRepresentative**
 
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.LiftOmegaConstructor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L64-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L64-L78)
 **structure
 Tau.BookVI.CrossLimit.LiftOmegaConstructor :Type**
 
@@ -165,7 +165,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprLiftOmegaConstructor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L78-L78)
 **instance
 Tau.BookVI.CrossLimit.instReprLiftOmegaConstructor :Repr LiftOmegaConstructor**
 
@@ -176,7 +176,7 @@ Equations
 
 ### `Tau.BookVI.CrossLimit.instReprLiftOmegaConstructor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L78-L78)
 **def
 Tau.BookVI.CrossLimit.instReprLiftOmegaConstructor.repr :LiftOmegaConstructor → ℕ → Std.Format**
 
@@ -188,7 +188,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.lift_omega`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L80-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L80-L80)
 **def
 Tau.BookVI.CrossLimit.lift_omega :LiftOmegaConstructor**
 
@@ -200,7 +200,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.primorial_approx`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L82-L88)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L82-L88)
 **def
 Tau.BookVI.CrossLimit.primorial_approx :List (ℕ × ℕ)**
 
@@ -218,7 +218,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.primorial_stage4_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L90-L92)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L90-L92)
 **theorem
 Tau.BookVI.CrossLimit.primorial_stage4_numer :primorial_approx[4]!.1 = 789**
 
@@ -230,7 +230,7 @@ Primorial approximation at stage 4 (c₄=789, P₄=2310).
 
 ### `Tau.BookVI.CrossLimit.primorial_stage4_denom`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L93-L93)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L93-L93)
 **theorem
 Tau.BookVI.CrossLimit.primorial_stage4_denom :primorial_approx[4]!.2 = 2310**
 
@@ -239,7 +239,7 @@ Tau.BookVI.CrossLimit.primorial_stage4_denom :primorial_approx[4]!.2 = 2310**
 
 ### `Tau.BookVI.CrossLimit.primorial_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L99-L106)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L99-L106)
 **theorem
 Tau.BookVI.CrossLimit.primorial_convergence :lift_omega.superexponential = true ∧ lift_omega.converges_to_iota = true ∧ lift_omega.iota_irrational = true**
 
@@ -252,7 +252,7 @@ Coherence: c_{k+1} ≡ c_k (mod P_k) for all k.
 
 ### `Tau.BookVI.CrossLimit.FusionConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L112-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L112-L126)
 **structure
 Tau.BookVI.CrossLimit.FusionConvergence :Type**
 
@@ -281,7 +281,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprFusionConvergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L126-L126)
 **instance
 Tau.BookVI.CrossLimit.instReprFusionConvergence :Repr FusionConvergence**
 
@@ -292,7 +292,7 @@ Equations
 
 ### `Tau.BookVI.CrossLimit.instReprFusionConvergence.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L126-L126)
 **def
 Tau.BookVI.CrossLimit.instReprFusionConvergence.repr :FusionConvergence → ℕ → Std.Format**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.fusion_conv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L128-L128)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L128-L128)
 **def
 Tau.BookVI.CrossLimit.fusion_conv :FusionConvergence**
 
@@ -316,7 +316,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.fusion_convergence`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L130-L134)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L130-L134)
 **theorem
 Tau.BookVI.CrossLimit.fusion_convergence :fusion_conv.monotone = true ∧ fusion_conv.strict_improvement = true ∧ fusion_conv.converges_to_iota = true**
 
@@ -325,7 +325,7 @@ Tau.BookVI.CrossLimit.fusion_convergence :fusion_conv.monotone = true ∧ fusion
 
 ### `Tau.BookVI.CrossLimit.CrossingLimitTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L140-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L140-L155)
 **structure
 Tau.BookVI.CrossLimit.CrossingLimitTheorem :Type**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprCrossingLimitTheorem.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L155-L155)
 **def
 Tau.BookVI.CrossLimit.instReprCrossingLimitTheorem.repr :CrossingLimitTheorem → ℕ → Std.Format**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprCrossingLimitTheorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L155-L155)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L155-L155)
 **instance
 Tau.BookVI.CrossLimit.instReprCrossingLimitTheorem :Repr CrossingLimitTheorem**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookVI.CrossLimit.crossing_limit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L157-L157)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L157-L157)
 **def
 Tau.BookVI.CrossLimit.crossing_limit :CrossingLimitTheorem**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.crossing_limit_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L159-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L159-L164)
 **theorem
 Tau.BookVI.CrossLimit.crossing_limit_theorem :crossing_limit.monotone_fusion = true ∧ crossing_limit.strictly_contracting = true ∧ crossing_limit.maximal_aliveness = true ∧ crossing_limit.cofinal_from_bookV = true**
 
@@ -400,7 +400,7 @@ Tau.BookVI.CrossLimit.crossing_limit_theorem :crossing_limit.monotone_fusion = t
 
 ### `Tau.BookVI.CrossLimit.UniversalBH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L170-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L170-L184)
 **structure
 Tau.BookVI.CrossLimit.UniversalBH :Type**
 
@@ -429,7 +429,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.instReprUniversalBH`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L184-L184)
 **instance
 Tau.BookVI.CrossLimit.instReprUniversalBH :Repr UniversalBH**
 
@@ -440,7 +440,7 @@ Equations
 
 ### `Tau.BookVI.CrossLimit.instReprUniversalBH.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L184-L184)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L184-L184)
 **def
 Tau.BookVI.CrossLimit.instReprUniversalBH.repr :UniversalBH → ℕ → Std.Format**
 
@@ -452,7 +452,7 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.universal_bh`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L186-L188)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L186-L188)
 **def
 Tau.BookVI.CrossLimit.universal_bh :UniversalBH**
 
@@ -464,6 +464,6 @@ Instances For
 
 ### `Tau.BookVI.CrossLimit.universal_bh_alive`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/CrossLimit.lean#L190-L194)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/CrossLimit.lean#L190-L194)
 **theorem
 Tau.BookVI.CrossLimit.universal_bh_alive :universal_bh.code_is_iota = true ∧ universal_bh.all_defects_zero = true ∧ universal_bh.hallmark_count = 7**

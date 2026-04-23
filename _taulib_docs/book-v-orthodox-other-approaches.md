@@ -110,7 +110,7 @@ The boundary algebra determines a canonical spectral triple
 
 ### `Tau.BookV.Orthodox.QGApproach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L70-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L70-L86)
 **inductive
 Tau.BookV.Orthodox.QGApproach :Type**
 
@@ -144,7 +144,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprQGApproach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instReprQGApproach :Repr QGApproach**
 
@@ -155,7 +155,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instReprQGApproach.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
 **def
 Tau.BookV.Orthodox.instReprQGApproach.repr :QGApproach → ℕ → Std.Format**
 
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instDecidableEqQGApproach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instDecidableEqQGApproach :DecidableEq QGApproach**
 
@@ -178,7 +178,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqQGApproach`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
 **instance
 Tau.BookV.Orthodox.instBEqQGApproach :BEq QGApproach**
 
@@ -189,7 +189,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.instBEqQGApproach.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L86-L86)
 **def
 Tau.BookV.Orthodox.instBEqQGApproach.beq :QGApproach → QGApproach → Bool**
 
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.ApproachComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L88-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L88-L100)
 **structure
 Tau.BookV.Orthodox.ApproachComparison :Type**
 
@@ -229,7 +229,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprApproachComparison.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L100-L100)
 **def
 Tau.BookV.Orthodox.instReprApproachComparison.repr :ApproachComparison → ℕ → Std.Format**
 
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprApproachComparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L100-L100)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L100-L100)
 **instance
 Tau.BookV.Orthodox.instReprApproachComparison :Repr ApproachComparison**
 
@@ -252,7 +252,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.string_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L102-L108)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L102-L108)
 **def
 Tau.BookV.Orthodox.string_comparison :ApproachComparison**
 
@@ -266,7 +266,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.lqg_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L110-L116)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L110-L116)
 **def
 Tau.BookV.Orthodox.lqg_comparison :ApproachComparison**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.cdt_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L118-L124)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L118-L124)
 **def
 Tau.BookV.Orthodox.cdt_comparison :ApproachComparison**
 
@@ -294,7 +294,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.causal_set_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L126-L132)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L126-L132)
 **def
 Tau.BookV.Orthodox.causal_set_comparison :ApproachComparison**
 
@@ -308,7 +308,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.approach_count`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L134-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L134-L136)
 **theorem
 Tau.BookV.Orthodox.approach_count :[string_comparison, lqg_comparison, cdt_comparison, causal_set_comparison].length = 4**
 
@@ -319,7 +319,7 @@ Total number of approaches compared.
 
 ### `Tau.BookV.Orthodox.no_knobs_in_tau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L142-L154)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L142-L154)
 **theorem
 Tau.BookV.Orthodox.no_knobs_in_tau :"Coherence kernel: 0 continuous deformations, 0 free parameters" = "Coherence kernel: 0 continuous deformations, 0 free parameters"**
 
@@ -346,7 +346,7 @@ Contrast:
 
 ### `Tau.BookV.Orthodox.TwistorEmbedding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L160-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L160-L177)
 **structure
 Tau.BookV.Orthodox.TwistorEmbedding :Type**
 
@@ -378,7 +378,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprTwistorEmbedding.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L177-L177)
 **def
 Tau.BookV.Orthodox.instReprTwistorEmbedding.repr :TwistorEmbedding → ℕ → Std.Format**
 
@@ -390,7 +390,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprTwistorEmbedding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L177-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L177-L177)
 **instance
 Tau.BookV.Orthodox.instReprTwistorEmbedding :Repr TwistorEmbedding**
 
@@ -401,7 +401,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.twistor_embedding_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L179-L181)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L179-L181)
 **def
 Tau.BookV.Orthodox.twistor_embedding_instance :TwistorEmbedding**
 
@@ -415,7 +415,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.twistor_embedding`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L183-L187)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L183-L187)
 **theorem
 Tau.BookV.Orthodox.twistor_embedding :twistor_embedding_instance.massless_defined = true ∧ twistor_embedding_instance.massive_defined = false**
 
@@ -426,7 +426,7 @@ The twistor embedding is partial (massless only).
 
 ### `Tau.BookV.Orthodox.NCGSpectralTriple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L193-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L193-L212)
 **structure
 Tau.BookV.Orthodox.NCGSpectralTriple :Type**
 
@@ -460,7 +460,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprNCGSpectralTriple.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L212-L212)
 **def
 Tau.BookV.Orthodox.instReprNCGSpectralTriple.repr :NCGSpectralTriple → ℕ → Std.Format**
 
@@ -472,7 +472,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.instReprNCGSpectralTriple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L212-L212)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L212-L212)
 **instance
 Tau.BookV.Orthodox.instReprNCGSpectralTriple :Repr NCGSpectralTriple**
 
@@ -483,7 +483,7 @@ Equations
 
 ### `Tau.BookV.Orthodox.ncg_spectral_triple_instance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L214-L216)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L214-L216)
 **def
 Tau.BookV.Orthodox.ncg_spectral_triple_instance :NCGSpectralTriple**
 
@@ -497,7 +497,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.ncg_spectral_triple`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L218-L220)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L218-L220)
 **theorem
 Tau.BookV.Orthodox.ncg_spectral_triple :ncg_spectral_triple_instance.uniquely_determined = true**
 
@@ -508,7 +508,7 @@ The NCG spectral triple is uniquely determined.
 
 ### `Tau.BookV.Orthodox.gravity_no_renormalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L226-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L226-L235)
 **theorem
 Tau.BookV.Orthodox.gravity_no_renormalization :"GR = readout -> no UV divergence -> no renormalization needed" = "GR = readout -> no UV divergence -> no renormalization needed"**
 
@@ -525,7 +525,7 @@ bypasses this entirely.
 
 ### `Tau.BookV.Orthodox.boundary_algebra_complete`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L241-L251)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L241-L251)
 **theorem
 Tau.BookV.Orthodox.boundary_algebra_complete :"Sub-algebra closed under sectors + nontrivial in all 5 = full algebra" = "Sub-algebra closed under sectors + nontrivial in all 5 = full algebra"**
 
@@ -543,7 +543,7 @@ The five sectors form an indivisible whole.
 
 ### `Tau.BookV.Orthodox.cdt_echo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L257-L263)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L257-L263)
 **theorem
 Tau.BookV.Orthodox.cdt_echo :"CDT: emergent 4D from simplices = echo of tau emergent metric" = "CDT: emergent 4D from simplices = echo of tau emergent metric"**
 
@@ -557,7 +557,7 @@ completely different method (Monte Carlo path integral).
 
 ### `Tau.BookV.Orthodox.sorkin_lambda`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L265-L270)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L265-L270)
 **theorem
 Tau.BookV.Orthodox.sorkin_lambda :"Sorkin: Lambda ~ 1/sqrt(N); tau: Lambda = 0, w varies with z" = "Sorkin: Lambda ~ 1/sqrt(N); tau: Lambda = 0, w varies with z"**
 
@@ -570,7 +570,7 @@ but the effective w varies with redshift (V.R136).
 
 ### `Tau.BookV.Orthodox.no_hierarchy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L272-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L272-L278)
 **theorem
 Tau.BookV.Orthodox.no_hierarchy :"No hierarchy: each approach captures genuine boundary structure" = "No hierarchy: each approach captures genuine boundary structure"**
 
@@ -584,7 +584,7 @@ respect and translation, not competition.
 
 ### `Tau.BookV.Orthodox.twistor_ex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L314-L314)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L314-L314)
 **def
 Tau.BookV.Orthodox.twistor_ex :TwistorEmbedding**
 
@@ -596,7 +596,7 @@ Instances For
 
 ### `Tau.BookV.Orthodox.ncg_ex`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Orthodox/OtherApproaches.lean#L318-L318)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Orthodox/OtherApproaches.lean#L318-L318)
 **def
 Tau.BookV.Orthodox.ncg_ex :NCGSpectralTriple**
 

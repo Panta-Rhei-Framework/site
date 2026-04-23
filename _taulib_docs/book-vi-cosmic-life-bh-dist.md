@@ -65,7 +65,7 @@ Imports BookV.Gravity.BHTopoModes for T² horizon topology authority.
 
 ### `Tau.BookVI.BHDist.horizon_topology`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L37-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L37-L40)
 **def
 Tau.BookVI.BHDist.horizon_topology :ℕ**
 
@@ -81,7 +81,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.bh_carrier_is_torus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L42-L43)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L42-L43)
 **theorem
 Tau.BookVI.BHDist.bh_carrier_is_torus :horizon_topology = 2**
 
@@ -92,7 +92,7 @@ The horizon is toroidal: dimension matches T² fiber of τ³.
 
 ### `Tau.BookVI.BHDist.torus_modes_from_bookV`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L45-L47)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L45-L47)
 **theorem
 Tau.BookVI.BHDist.torus_modes_from_bookV :BookV.Gravity.primitiveTorusModes.length = 3**
 
@@ -103,7 +103,7 @@ Connection to BookV: the primitive torus modes exist and number 3.
 
 ### `Tau.BookVI.BHDist.MacroTorusCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L53-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L53-L67)
 **structure
 Tau.BookVI.BHDist.MacroTorusCarrier :Type**
 
@@ -133,7 +133,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprMacroTorusCarrier`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L67-L67)
 **instance
 Tau.BookVI.BHDist.instReprMacroTorusCarrier :Repr MacroTorusCarrier**
 
@@ -144,7 +144,7 @@ Equations
 
 ### `Tau.BookVI.BHDist.instReprMacroTorusCarrier.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L67-L67)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L67-L67)
 **def
 Tau.BookVI.BHDist.instReprMacroTorusCarrier.repr :MacroTorusCarrier → ℕ → Std.Format**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.macro_torus`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L69-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L69-L69)
 **def
 Tau.BookVI.BHDist.macro_torus :MacroTorusCarrier**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.macro_torus_is_t2`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L71-L72)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L71-L72)
 **theorem
 Tau.BookVI.BHDist.macro_torus_is_t2 :macro_torus.horizon_dim = 2**
 
@@ -179,7 +179,7 @@ The macro-torus carrier has T² boundary.
 
 ### `Tau.BookVI.BHDist.LexDefectFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L78-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L78-L87)
 **structure
 Tau.BookVI.BHDist.LexDefectFunctional :Type**
 
@@ -202,7 +202,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprLexDefectFunctional.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L87-L87)
 **def
 Tau.BookVI.BHDist.instReprLexDefectFunctional.repr :LexDefectFunctional → ℕ → Std.Format**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprLexDefectFunctional`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L87-L87)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L87-L87)
 **instance
 Tau.BookVI.BHDist.instReprLexDefectFunctional :Repr LexDefectFunctional**
 
@@ -225,7 +225,7 @@ Equations
 
 ### `Tau.BookVI.BHDist.lex_defect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L89-L91)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L89-L91)
 **def
 Tau.BookVI.BHDist.lex_defect :LexDefectFunctional**
 
@@ -237,7 +237,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.FrameClosureDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L97-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L97-L107)
 **structure
 Tau.BookVI.BHDist.FrameClosureDefect :Type**
 
@@ -261,7 +261,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprFrameClosureDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L107-L107)
 **instance
 Tau.BookVI.BHDist.instReprFrameClosureDefect :Repr FrameClosureDefect**
 
@@ -272,7 +272,7 @@ Equations
 
 ### `Tau.BookVI.BHDist.instReprFrameClosureDefect.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L107-L107)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L107-L107)
 **def
 Tau.BookVI.BHDist.instReprFrameClosureDefect.repr :FrameClosureDefect → ℕ → Std.Format**
 
@@ -284,7 +284,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.StrongSaturationDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L113-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L113-L120)
 **structure
 Tau.BookVI.BHDist.StrongSaturationDefect :Type**
 
@@ -304,7 +304,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprStrongSaturationDefect`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L120-L120)
 **instance
 Tau.BookVI.BHDist.instReprStrongSaturationDefect :Repr StrongSaturationDefect**
 
@@ -315,7 +315,7 @@ Equations
 
 ### `Tau.BookVI.BHDist.instReprStrongSaturationDefect.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L120-L120)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L120-L120)
 **def
 Tau.BookVI.BHDist.instReprStrongSaturationDefect.repr :StrongSaturationDefect → ℕ → Std.Format**
 
@@ -327,7 +327,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.BHDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L126-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L126-L142)
 **structure
 Tau.BookVI.BHDist.BHDistinction :Type**
 
@@ -356,7 +356,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprBHDistinction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L142-L142)
 **def
 Tau.BookVI.BHDist.instReprBHDistinction.repr :BHDistinction → ℕ → Std.Format**
 
@@ -368,7 +368,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.instReprBHDistinction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L142-L142)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L142-L142)
 **instance
 Tau.BookVI.BHDist.instReprBHDistinction :Repr BHDistinction**
 
@@ -379,7 +379,7 @@ Equations
 
 ### `Tau.BookVI.BHDist.bh_dist`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L144-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L144-L146)
 **def
 Tau.BookVI.BHDist.bh_dist :BHDistinction**
 
@@ -391,7 +391,7 @@ Instances For
 
 ### `Tau.BookVI.BHDist.bh_distinction_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L148-L156)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L148-L156)
 **theorem
 Tau.BookVI.BHDist.bh_distinction_theorem :bh_dist.conditions_satisfied = 5 ∧ bh_dist.clopen = true ∧ bh_dist.refinement_coherent = true ∧ bh_dist.eventually_stable = true ∧ bh_dist.law_stable = true ∧ bh_dist.equivariant = true**
 
@@ -402,7 +402,7 @@ Tau.BookVI.BHDist.bh_distinction_theorem :bh_dist.conditions_satisfied = 5 ∧ b
 
 ### `Tau.BookVI.BHDist.horizon_consistency`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookVI/CosmicLife/BHDist.lean#L158-L163)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookVI/CosmicLife/BHDist.lean#L158-L163)
 **theorem
 Tau.BookVI.BHDist.horizon_consistency :macro_torus.horizon_dim = 2 ∧ horizon_topology = 2 ∧ BookV.Gravity.primitiveTorusModes.length = 3**
 

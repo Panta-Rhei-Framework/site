@@ -48,7 +48,7 @@ any operation on TauIdx can be "transferred" to any orbit ray.
 
 ### `Tau.Denotation.RT`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L30-L31)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L30-L31)
 **def
 Tau.Denotation.RT
 (g : Kernel.Generator)
@@ -66,7 +66,7 @@ Instances For
 
 ### `Tau.Denotation.RT_inv`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L33-L34)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L33-L34)
 **def
 Tau.Denotation.RT_inv
 (x : Kernel.TauObj)
@@ -82,7 +82,7 @@ Instances For
 
 ### `Tau.Denotation.RT_injective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L36-L40)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L36-L40)
 **theorem
 Tau.Denotation.RT_injective
 (g : Kernel.Generator)
@@ -99,7 +99,7 @@ RT is injective.
 
 ### `Tau.Denotation.RT_surjective`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L42-L46)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L42-L46)
 **theorem
 Tau.Denotation.RT_surjective
 (g : Kernel.Generator)
@@ -118,7 +118,7 @@ RT hits every orbit ray element.
 
 ### `Tau.Denotation.RT_inv_left`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L48-L51)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L48-L51)
 **theorem
 Tau.Denotation.RT_inv_left
 (g : Kernel.Generator)
@@ -133,7 +133,7 @@ Round-trip: RT_inv ∘ RT = id.
 
 ### `Tau.Denotation.RT_inv_right`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L53-L58)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L53-L58)
 **theorem
 Tau.Denotation.RT_inv_right
 (g : Kernel.Generator)
@@ -150,7 +150,7 @@ Round-trip: RT ∘ RT_inv = id (on orbit ray elements).
 
 ### `Tau.Denotation.RT_rho_comm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L60-L64)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L60-L64)
 **theorem
 Tau.Denotation.RT_rho_comm
 (g : Kernel.Generator)
@@ -167,7 +167,7 @@ RT commutes with ρ: RT_g(n+1) = ρ(RT_g(n)) for g ≠ ω.
 
 ### `Tau.Denotation.RT_in_orbit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L66-L69)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L66-L69)
 **theorem
 Tau.Denotation.RT_in_orbit
 (g : Kernel.Generator)
@@ -184,7 +184,7 @@ RT lands in the orbit ray.
 
 ### `Tau.Denotation.RT_alpha_eq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L71-L74)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L71-L74)
 **theorem
 Tau.Denotation.RT_alpha_eq
 (n : TauIdx)
@@ -197,7 +197,7 @@ RT for alpha is the same as toAlphaOrbit.
 
 ### `Tau.Denotation.RT_sigma`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookI/Denotation/RankTransfer.lean#L76-L79)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookI/Denotation/RankTransfer.lean#L76-L79)
 **theorem
 Tau.Denotation.RT_sigma
 (g h : Kernel.Generator)

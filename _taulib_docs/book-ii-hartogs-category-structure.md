@@ -71,7 +71,7 @@ inverse system, capturing all holomorphic self-maps of the tower.
 
 ### `Tau.BookII.Hartogs.hol_comp`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L51-L61)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L51-L61)
 **def
 Tau.BookII.Hartogs.hol_comp
 (f g : Denotation.TauIdx → Denotation.TauIdx → Denotation.TauIdx)
@@ -96,7 +96,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_comp_sf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L63-L68)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L63-L68)
 **def
 Tau.BookII.Hartogs.hol_comp_sf
 (f g : Holomorphy.StageFun)
@@ -115,7 +115,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_id`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L74-L80)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L74-L80)
 **def
 Tau.BookII.Hartogs.hol_id
 (n k : Denotation.TauIdx)
@@ -135,7 +135,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_id_sf`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L82-L84)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L82-L84)
 **def
 Tau.BookII.Hartogs.hol_id_sf :Holomorphy.StageFun**
 
@@ -149,7 +149,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_sq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L90-L94)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L90-L94)
 **def
 Tau.BookII.Hartogs.hol_sq
 (n k : Denotation.TauIdx)
@@ -167,7 +167,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_dbl`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L96-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L96-L99)
 **def
 Tau.BookII.Hartogs.hol_dbl
 (n k : Denotation.TauIdx)
@@ -184,7 +184,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_zero`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L101-L103)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L101-L103)
 **def
 Tau.BookII.Hartogs.hol_zero
 (_n _k : Denotation.TauIdx)
@@ -201,7 +201,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L109-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L109-L130)
 **def
 Tau.BookII.Hartogs.hol_assoc_check
 (bound db : Denotation.TauIdx)
@@ -224,7 +224,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L120-L129)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L120-L129)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_check.go
@@ -241,7 +241,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_triple_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L132-L146)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L132-L146)
 **def
 Tau.BookII.Hartogs.hol_assoc_triple_check
 (bound db : Denotation.TauIdx)
@@ -258,7 +258,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_triple_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L137-L145)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L137-L145)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_triple_check.go
@@ -275,7 +275,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_exhaustive_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L148-L199)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L148-L199)
 **def
 Tau.BookII.Hartogs.hol_assoc_exhaustive_check
 (bound db : Denotation.TauIdx)
@@ -292,7 +292,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_f`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L154-L163)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L154-L163)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_f
@@ -310,7 +310,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_g`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L165-L175)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L165-L175)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_g
@@ -330,7 +330,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_h`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L177-L187)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L177-L187)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_exhaustive_check.go_h
@@ -350,7 +350,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_exhaustive_check.verify`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L189-L198)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L189-L198)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.hol_assoc_exhaustive_check.verify
@@ -367,7 +367,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.hol_assoc_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L205-L213)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L205-L213)
 **theorem
 Tau.BookII.Hartogs.hol_assoc_thm
 (f g h : Denotation.TauIdx → Denotation.TauIdx → Denotation.TauIdx)
@@ -387,7 +387,7 @@ both sides expand to f(g(h(n, k), k), k).
 
 ### `Tau.BookII.Hartogs.right_unit_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L219-L236)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L219-L236)
 **def
 Tau.BookII.Hartogs.right_unit_check
 (bound db : Denotation.TauIdx)
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.right_unit_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L224-L235)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L224-L235)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.right_unit_check.go
@@ -421,7 +421,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.left_unit_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L238-L254)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L238-L254)
 **def
 Tau.BookII.Hartogs.left_unit_check
 (bound db : Denotation.TauIdx)
@@ -439,7 +439,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.left_unit_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L244-L253)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L244-L253)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.left_unit_check.go
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.left_unit_id_thm`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L256-L262)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L256-L262)
 **theorem
 Tau.BookII.Hartogs.left_unit_id_thm
 (n k : Denotation.TauIdx)
@@ -471,7 +471,7 @@ hol_comp hol_id hol_id n k = hol_id n k
 
 ### `Tau.BookII.Hartogs.stagefun_id_comp_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L264-L269)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L264-L269)
 **theorem
 Tau.BookII.Hartogs.stagefun_id_comp_check
 (n k : Denotation.TauIdx)
@@ -485,7 +485,7 @@ tower-coherent result equal to id_stage evaluation.
 
 ### `Tau.BookII.Hartogs.tower_coherent_comp_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L275-L291)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L275-L291)
 **def
 Tau.BookII.Hartogs.tower_coherent_comp_check
 (bound db : Denotation.TauIdx)
@@ -503,7 +503,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.tower_coherent_comp_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L281-L290)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L281-L290)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.tower_coherent_comp_check.go
@@ -520,7 +520,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.HolEndCat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L297-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L297-L309)
 **structure
 Tau.BookII.Hartogs.HolEndCat :Type**
 
@@ -549,7 +549,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.instReprHolEndCat.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L309-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L309-L309)
 **def
 Tau.BookII.Hartogs.instReprHolEndCat.repr :HolEndCat → ℕ → Std.Format**
 
@@ -561,7 +561,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.instReprHolEndCat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L309-L309)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L309-L309)
 **instance
 Tau.BookII.Hartogs.instReprHolEndCat :Repr HolEndCat**
 
@@ -572,7 +572,7 @@ Equations
 
 ### `Tau.BookII.Hartogs.mk_holend`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L311-L315)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L311-L315)
 **def
 Tau.BookII.Hartogs.mk_holend
 (max_stage max_val : Denotation.TauIdx)
@@ -588,7 +588,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.holend_axioms_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L317-L327)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L317-L327)
 **def
 Tau.BookII.Hartogs.holend_axioms_check
 (cat : HolEndCat)
@@ -613,7 +613,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.holend_4_12`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L329-L330)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L329-L330)
 **def
 Tau.BookII.Hartogs.holend_4_12 :HolEndCat**
 
@@ -627,7 +627,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.holend_3_10`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L332-L333)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L332-L333)
 **def
 Tau.BookII.Hartogs.holend_3_10 :HolEndCat**
 
@@ -641,7 +641,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.composition_closure_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L339-L353)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L339-L353)
 **def
 Tau.BookII.Hartogs.composition_closure_check
 (bound db : Denotation.TauIdx)
@@ -658,7 +658,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.composition_closure_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L344-L352)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L344-L352)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.composition_closure_check.go
@@ -675,7 +675,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_comp_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L359-L380)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L359-L380)
 **def
 Tau.BookII.Hartogs.bipolar_comp_check
 (bound db : Denotation.TauIdx)
@@ -694,7 +694,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.bipolar_comp_check.go`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L366-L379)@[irreducible]
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L366-L379)@[irreducible]
 
 **def
 Tau.BookII.Hartogs.bipolar_comp_check.go
@@ -711,7 +711,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.full_category_check`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L386-L391)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L386-L391)
 **def
 Tau.BookII.Hartogs.full_category_check
 (bound db : Denotation.TauIdx)
@@ -728,7 +728,7 @@ Instances For
 
 ### `Tau.BookII.Hartogs.assoc_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L444-L445)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L444-L445)
 **theorem
 Tau.BookII.Hartogs.assoc_12_4 :hol_assoc_check 12 4 = true**
 
@@ -737,7 +737,7 @@ Tau.BookII.Hartogs.assoc_12_4 :hol_assoc_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.assoc_triple_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L447-L448)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L447-L448)
 **theorem
 Tau.BookII.Hartogs.assoc_triple_12_4 :hol_assoc_triple_check 12 4 = true**
 
@@ -746,7 +746,7 @@ Tau.BookII.Hartogs.assoc_triple_12_4 :hol_assoc_triple_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.assoc_exhaustive_8_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L450-L451)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L450-L451)
 **theorem
 Tau.BookII.Hartogs.assoc_exhaustive_8_3 :hol_assoc_exhaustive_check 8 3 = true**
 
@@ -755,7 +755,7 @@ Tau.BookII.Hartogs.assoc_exhaustive_8_3 :hol_assoc_exhaustive_check 8 3 = true**
 
 ### `Tau.BookII.Hartogs.left_unit_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L454-L455)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L454-L455)
 **theorem
 Tau.BookII.Hartogs.left_unit_12_4 :left_unit_check 12 4 = true**
 
@@ -764,7 +764,7 @@ Tau.BookII.Hartogs.left_unit_12_4 :left_unit_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.right_unit_12_4`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L457-L458)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L457-L458)
 **theorem
 Tau.BookII.Hartogs.right_unit_12_4 :right_unit_check 12 4 = true**
 
@@ -773,7 +773,7 @@ Tau.BookII.Hartogs.right_unit_12_4 :right_unit_check 12 4 = true**
 
 ### `Tau.BookII.Hartogs.tower_comp_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L461-L462)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L461-L462)
 **theorem
 Tau.BookII.Hartogs.tower_comp_10_3 :tower_coherent_comp_check 10 3 = true**
 
@@ -782,7 +782,7 @@ Tau.BookII.Hartogs.tower_comp_10_3 :tower_coherent_comp_check 10 3 = true**
 
 ### `Tau.BookII.Hartogs.holend_3_10_ok`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L465-L466)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L465-L466)
 **theorem
 Tau.BookII.Hartogs.holend_3_10_ok :holend_axioms_check holend_3_10 = true**
 
@@ -791,7 +791,7 @@ Tau.BookII.Hartogs.holend_3_10_ok :holend_axioms_check holend_3_10 = true**
 
 ### `Tau.BookII.Hartogs.comp_closure_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L469-L470)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L469-L470)
 **theorem
 Tau.BookII.Hartogs.comp_closure_10_3 :composition_closure_check 10 3 = true**
 
@@ -800,7 +800,7 @@ Tau.BookII.Hartogs.comp_closure_10_3 :composition_closure_check 10 3 = true**
 
 ### `Tau.BookII.Hartogs.bipolar_comp_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L473-L474)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L473-L474)
 **theorem
 Tau.BookII.Hartogs.bipolar_comp_10_3 :bipolar_comp_check 10 3 = true**
 
@@ -809,6 +809,6 @@ Tau.BookII.Hartogs.bipolar_comp_10_3 :bipolar_comp_check 10 3 = true**
 
 ### `Tau.BookII.Hartogs.full_cat_10_3`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookII/Hartogs/CategoryStructure.lean#L477-L478)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookII/Hartogs/CategoryStructure.lean#L477-L478)
 **theorem
 Tau.BookII.Hartogs.full_cat_10_3 :full_category_check 10 3 = true**

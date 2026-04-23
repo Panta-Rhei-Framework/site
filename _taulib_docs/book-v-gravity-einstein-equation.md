@@ -121,7 +121,7 @@ Geometry is never "bent" — holonomy defects and admissibility change, not metr
 
 ### `Tau.BookV.Gravity.MatterCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L78-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L78-L97)
 **structure
 Tau.BookV.Gravity.MatterCharacter :Type**
 
@@ -156,7 +156,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprMatterCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L97-L97)
 **def
 Tau.BookV.Gravity.instReprMatterCharacter.repr :MatterCharacter → ℕ → Std.Format**
 
@@ -168,7 +168,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprMatterCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L97-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L97-L97)
 **instance
 Tau.BookV.Gravity.instReprMatterCharacter :Repr MatterCharacter**
 
@@ -179,7 +179,7 @@ Equations
 
 ### `Tau.BookV.Gravity.MatterCharacter.total_numer`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L99-L101)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L99-L101)
 **def
 Tau.BookV.Gravity.MatterCharacter.total_numer
 (m : MatterCharacter)
@@ -195,7 +195,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.MatterCharacter.totalFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L103-L105)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L103-L105)
 **def
 Tau.BookV.Gravity.MatterCharacter.totalFloat
 (m : MatterCharacter)
@@ -211,7 +211,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.CurvatureCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L111-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L111-L126)
 **structure
 Tau.BookV.Gravity.CurvatureCharacter :Type**
 
@@ -240,7 +240,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprCurvatureCharacter.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L126-L126)
 **def
 Tau.BookV.Gravity.instReprCurvatureCharacter.repr :CurvatureCharacter → ℕ → Std.Format**
 
@@ -252,7 +252,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprCurvatureCharacter`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L126-L126)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L126-L126)
 **instance
 Tau.BookV.Gravity.instReprCurvatureCharacter :Repr CurvatureCharacter**
 
@@ -263,7 +263,7 @@ Equations
 
 ### `Tau.BookV.Gravity.CurvatureCharacter.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L128-L130)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L128-L130)
 **def
 Tau.BookV.Gravity.CurvatureCharacter.toFloat
 (c : CurvatureCharacter)
@@ -279,7 +279,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.GRCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L136-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L136-L158)
 **structure
 Tau.BookV.Gravity.GRCoupling :Type**
 
@@ -322,7 +322,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprGRCoupling.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L158-L158)
 **def
 Tau.BookV.Gravity.instReprGRCoupling.repr :GRCoupling → ℕ → Std.Format**
 
@@ -334,7 +334,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprGRCoupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L158-L158)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L158-L158)
 **instance
 Tau.BookV.Gravity.instReprGRCoupling :Repr GRCoupling**
 
@@ -345,7 +345,7 @@ Equations
 
 ### `Tau.BookV.Gravity.GRCoupling.toFloat`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L160-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L160-L162)
 **def
 Tau.BookV.Gravity.GRCoupling.toFloat
 (g : GRCoupling)
@@ -361,7 +361,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.canonical_gr_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L168-L173)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L168-L173)
 **def
 Tau.BookV.Gravity.canonical_gr_coupling :GRCoupling**
 
@@ -376,7 +376,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.TauEinstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L179-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L179-L205)
 **structure
 Tau.BookV.Gravity.TauEinstein :Type**
 
@@ -420,7 +420,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTauEinstein.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L205-L205)
 **def
 Tau.BookV.Gravity.instReprTauEinstein.repr :TauEinstein → ℕ → Std.Format**
 
@@ -432,7 +432,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTauEinstein`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L205-L205)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L205-L205)
 **instance
 Tau.BookV.Gravity.instReprTauEinstein :Repr TauEinstein**
 
@@ -443,7 +443,7 @@ Equations
 
 ### `Tau.BookV.Gravity.TauBianchi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L211-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L211-L226)
 **structure
 Tau.BookV.Gravity.TauBianchi :Type**
 
@@ -471,7 +471,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTauBianchi.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L226-L226)
 **def
 Tau.BookV.Gravity.instReprTauBianchi.repr :TauBianchi → ℕ → Std.Format**
 
@@ -483,7 +483,7 @@ Instances For
 
 ### `Tau.BookV.Gravity.instReprTauBianchi`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L226-L226)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L226-L226)
 **instance
 Tau.BookV.Gravity.instReprTauBianchi :Repr TauBianchi**
 
@@ -494,7 +494,7 @@ Equations
 
 ### `Tau.BookV.Gravity.kappa_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L232-L235)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L232-L235)
 **theorem
 Tau.BookV.Gravity.kappa_unique
 (g : GRCoupling)
@@ -510,7 +510,7 @@ Any GRCoupling with is_unique = true satisfies uniqueness.
 
 ### `Tau.BookV.Gravity.kappa_sigma_fixed`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L237-L239)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L237-L239)
 **theorem
 Tau.BookV.Gravity.kappa_sigma_fixed :canonical_gr_coupling.sigma_fixed = true**
 
@@ -521,7 +521,7 @@ Tau.BookV.Gravity.kappa_sigma_fixed :canonical_gr_coupling.sigma_fixed = true**
 
 ### `Tau.BookV.Gravity.kappa_is_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L241-L243)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L241-L243)
 **theorem
 Tau.BookV.Gravity.kappa_is_unique :canonical_gr_coupling.is_unique = true**
 
@@ -532,7 +532,7 @@ Tau.BookV.Gravity.kappa_is_unique :canonical_gr_coupling.is_unique = true**
 
 ### `Tau.BookV.Gravity.matter_three_sectors`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L245-L249)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L245-L249)
 **theorem
 Tau.BookV.Gravity.matter_three_sectors
 (m : MatterCharacter)
@@ -547,7 +547,7 @@ on the curvature side.
 
 ### `Tau.BookV.Gravity.canonical_coupling_value`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L251-L255)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L251-L255)
 **theorem
 Tau.BookV.Gravity.canonical_coupling_value :canonical_gr_coupling.kappa_numer = BookIV.Sectors.iotaD - BookIV.Sectors.iota ∧ canonical_gr_coupling.kappa_denom = BookIV.Sectors.iotaD**
 
@@ -558,7 +558,7 @@ The canonical GR coupling uses the gravity self-coupling value.
 
 ### `Tau.BookV.Gravity.bianchi_is_derived`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Gravity/EinsteinEquation.lean#L257-L259)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Gravity/EinsteinEquation.lean#L257-L259)
 **theorem
 Tau.BookV.Gravity.bianchi_is_derived
 (b : TauBianchi)

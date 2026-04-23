@@ -69,7 +69,7 @@ at scale, regime transitions, and the readout landscape.
 
 ### `Tau.BookIV.Calibration.BetaFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L38-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L38-L50)
 **structure
 Tau.BookIV.Calibration.BetaFunction :Type**
 
@@ -95,7 +95,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprBetaFunction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L50-L50)
 **instance
 Tau.BookIV.Calibration.instReprBetaFunction :Repr BetaFunction**
 
@@ -106,7 +106,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprBetaFunction.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L50-L50)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L50-L50)
 **def
 Tau.BookIV.Calibration.instReprBetaFunction.repr :BetaFunction → ℕ → Std.Format**
 
@@ -118,7 +118,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ObservableLedger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L56-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L56-L66)
 **structure
 Tau.BookIV.Calibration.ObservableLedger :Type**
 
@@ -141,7 +141,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprObservableLedger`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L66-L66)
 **instance
 Tau.BookIV.Calibration.instReprObservableLedger :Repr ObservableLedger**
 
@@ -152,7 +152,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprObservableLedger.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L66-L66)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L66-L66)
 **def
 Tau.BookIV.Calibration.instReprObservableLedger.repr :ObservableLedger → ℕ → Std.Format**
 
@@ -164,7 +164,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.ReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L72-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L72-L85)
 **structure
 Tau.BookIV.Calibration.ReadoutFunctor :Type**
 
@@ -191,7 +191,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprReadoutFunctor`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L85-L85)
 **instance
 Tau.BookIV.Calibration.instReprReadoutFunctor :Repr ReadoutFunctor**
 
@@ -202,7 +202,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.instReprReadoutFunctor.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L85-L85)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L85-L85)
 **def
 Tau.BookIV.Calibration.instReprReadoutFunctor.repr :ReadoutFunctor → ℕ → Std.Format**
 
@@ -214,7 +214,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.readout_properties`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L87-L90)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L87-L90)
 **theorem
 Tau.BookIV.Calibration.readout_properties :{ source_count := 10, source_eq := ⋯, target_count := 10, target_eq := ⋯, order_preserving := true,
  order_true := ⋯ }.order_preserving = true**
@@ -226,7 +226,7 @@ Tau.BookIV.Calibration.readout_properties :{ source_count := 10, source_eq := �
 
 ### `Tau.BookIV.Calibration.beta_as_derivative`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L92-L97)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L92-L97)
 **theorem
 Tau.BookIV.Calibration.beta_as_derivative :{ sector := BookIII.Sectors.Sector.D, ontic_beta_zero := true, ontic_true := ⋯,
  apparent_nonzero := true }.ontic_beta_zero = true**
@@ -240,7 +240,7 @@ Since κ(X;d) is constant, all "running" resides in R_μ.
 
 ### `Tau.BookIV.Calibration.EntropyAtScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L109-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L109-L122)
 **structure
 Tau.BookIV.Calibration.EntropyAtScale :Type**
 
@@ -268,7 +268,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprEntropyAtScale.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L122-L122)
 **def
 Tau.BookIV.Calibration.instReprEntropyAtScale.repr :EntropyAtScale → ℕ → Std.Format**
 
@@ -280,7 +280,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprEntropyAtScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L122-L122)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L122-L122)
 **instance
 Tau.BookIV.Calibration.instReprEntropyAtScale :Repr EntropyAtScale**
 
@@ -291,7 +291,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.entropy_invariance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L124-L129)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L124-L129)
 **theorem
 Tau.BookIV.Calibration.entropy_invariance
 (e : EntropyAtScale)
@@ -305,7 +305,7 @@ dS_vis/dμ = −dS_hid/dμ for each sector.
 
 ### `Tau.BookIV.Calibration.RegimeTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L135-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L135-L145)
 **structure
 Tau.BookIV.Calibration.RegimeTransition :Type**
 
@@ -329,7 +329,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRegimeTransition.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L145-L145)
 **def
 Tau.BookIV.Calibration.instReprRegimeTransition.repr :RegimeTransition → ℕ → Std.Format**
 
@@ -341,7 +341,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprRegimeTransition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L145-L145)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L145-L145)
 **instance
 Tau.BookIV.Calibration.instReprRegimeTransition :Repr RegimeTransition**
 
@@ -352,7 +352,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.ReadoutLandscape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L154-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L154-L164)
 **structure
 Tau.BookIV.Calibration.ReadoutLandscape :Type**
 
@@ -375,7 +375,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprReadoutLandscape.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L164-L164)
 **def
 Tau.BookIV.Calibration.instReprReadoutLandscape.repr :ReadoutLandscape → ℕ → Std.Format**
 
@@ -387,7 +387,7 @@ Instances For
 
 ### `Tau.BookIV.Calibration.instReprReadoutLandscape`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L164-L164)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L164-L164)
 **instance
 Tau.BookIV.Calibration.instReprReadoutLandscape :Repr ReadoutLandscape**
 
@@ -398,7 +398,7 @@ Equations
 
 ### `Tau.BookIV.Calibration.readout_landscape_unique`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookIV/Calibration/RunningRegime.lean#L170-L174)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookIV/Calibration/RunningRegime.lean#L170-L174)
 **theorem
 Tau.BookIV.Calibration.readout_landscape_unique :{ factor_count := 5, factor_eq := ⋯, determined := true, determined_true := ⋯ }.determined = true**
 

@@ -118,7 +118,7 @@ with boundary corrections — not from a tuned dark matter profile.
 
 ### `Tau.BookV.Astrophysics.AccelerationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L70-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L70-L78)
 **inductive
 Tau.BookV.Astrophysics.AccelerationRegime :Type**
 
@@ -140,7 +140,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAccelerationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instReprAccelerationRegime :Repr AccelerationRegime**
 
@@ -151,7 +151,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprAccelerationRegime.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
 **def
 Tau.BookV.Astrophysics.instReprAccelerationRegime.repr :AccelerationRegime → ℕ → Std.Format**
 
@@ -163,7 +163,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqAccelerationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqAccelerationRegime :DecidableEq AccelerationRegime**
 
@@ -174,7 +174,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqAccelerationRegime.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
 **def
 Tau.BookV.Astrophysics.instBEqAccelerationRegime.beq :AccelerationRegime → AccelerationRegime → Bool**
 
@@ -186,7 +186,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instBEqAccelerationRegime`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L78-L78)
 **instance
 Tau.BookV.Astrophysics.instBEqAccelerationRegime :BEq AccelerationRegime**
 
@@ -197,7 +197,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.BoundaryHolonomyCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L80-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L80-L99)
 **structure
 Tau.BookV.Astrophysics.BoundaryHolonomyCorrection :Type**
 
@@ -233,7 +233,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBoundaryHolonomyCorrection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L99-L99)
 **def
 Tau.BookV.Astrophysics.instReprBoundaryHolonomyCorrection.repr :BoundaryHolonomyCorrection → ℕ → Std.Format**
 
@@ -245,7 +245,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprBoundaryHolonomyCorrection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L99-L99)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L99-L99)
 **instance
 Tau.BookV.Astrophysics.instReprBoundaryHolonomyCorrection :Repr BoundaryHolonomyCorrection**
 
@@ -256,7 +256,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.a0_canonical`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L101-L102)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L101-L102)
 **def
 Tau.BookV.Astrophysics.a0_canonical :ℕ**
 
@@ -270,7 +270,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.flat_rotation_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L108-L118)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L108-L118)
 **theorem
 Tau.BookV.Astrophysics.flat_rotation_theorem :"v_flat = (G*M*a0)^(1/4), independent of r in deep MOND regime" = "v_flat = (G*M*a0)^(1/4), independent of r in deep MOND regime"**
 
@@ -291,7 +291,7 @@ without invoking dark matter.
 
 ### `Tau.BookV.Astrophysics.mond_scale_from_iota`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L124-L136)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L124-L136)
 **theorem
 Tau.BookV.Astrophysics.mond_scale_from_iota :"a0 derives from iota_tau via a0 ~ c*H0*f(iota_tau), not a free parameter" = "a0 derives from iota_tau via a0 ~ c*H0*f(iota_tau), not a free parameter"**
 
@@ -311,7 +311,7 @@ the τ-framework.
 
 ### `Tau.BookV.Astrophysics.newtonian_recovery`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L142-L147)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L142-L147)
 **theorem
 Tau.BookV.Astrophysics.newtonian_recovery
 (bhc : BoundaryHolonomyCorrection)
@@ -328,7 +328,7 @@ gravity is recovered exactly.
 
 ### `Tau.BookV.Astrophysics.rar_from_single_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L153-L162)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L153-L162)
 **theorem
 Tau.BookV.Astrophysics.rar_from_single_coupling :"RAR g_obs = F(g_bar) from single D-sector coupling, no DM profile" = "RAR g_obs = F(g_bar) from single D-sector coupling, no DM profile"**
 
@@ -345,7 +345,7 @@ ONE coupling function, not two (baryonic + dark).
 
 ### `Tau.BookV.Astrophysics.dwarf_galaxy_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L168-L177)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L168-L177)
 **theorem
 Tau.BookV.Astrophysics.dwarf_galaxy_prediction :"Dwarf galaxies: deepest MOND regime, tightest RAR adherence" = "Dwarf galaxies: deepest MOND regime, tightest RAR adherence"**
 
@@ -362,7 +362,7 @@ This is confirmed observationally.
 
 ### `Tau.BookV.Astrophysics.no_dark_halo`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L183-L191)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L183-L191)
 **theorem
 Tau.BookV.Astrophysics.no_dark_halo :"All galactic anomalies = boundary holonomy correction, no DM halo" = "All galactic anomalies = boundary holonomy correction, no DM halo"**
 
@@ -378,7 +378,7 @@ The τ-prediction: no dark matter particle will be found.
 
 ### `Tau.BookV.Astrophysics.milgromConstantTau`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L218-L229)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L218-L229)
 **def
 Tau.BookV.Astrophysics.milgromConstantTau :String**
 
@@ -404,7 +404,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.a0_h0_tension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L231-L242)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L231-L242)
 **def
 Tau.BookV.Astrophysics.a0_h0_tension :String**
 
@@ -426,7 +426,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.btfr_normalization`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L244-L258)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L244-L258)
 **def
 Tau.BookV.Astrophysics.btfr_normalization :String**
 
@@ -456,7 +456,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ngc3198_velocity`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L260-L272)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L260-L272)
 **def
 Tau.BookV.Astrophysics.ngc3198_velocity :String**
 
@@ -480,7 +480,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.remark_h0_tension`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L274-L278)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L274-L278)
 **def
 Tau.BookV.Astrophysics.remark_h0_tension :String**
 
@@ -494,7 +494,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.remark_mond_comparison`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L280-L286)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L280-L286)
 **def
 Tau.BookV.Astrophysics.remark_mond_comparison :String**
 
@@ -508,7 +508,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.milgrom_uses_master_constant`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L288-L292)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L288-L292)
 **theorem
 Tau.BookV.Astrophysics.milgrom_uses_master_constant :True**
 
@@ -521,7 +521,7 @@ determined by the same master constant that fixes α, κ_D, and all couplings.
 
 ### `Tau.BookV.Astrophysics.holonomy_ratio_acceleration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L298-L312)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L298-L312)
 **theorem
 Tau.BookV.Astrophysics.holonomy_ratio_acceleration :"a0_T85/a0_D232 = sqrt(kappa_D/kappa_B) = sqrt((1-iota)/iota^2) = 2.378" = "a0_T85/a0_D232 = sqrt(kappa_D/kappa_B) = sqrt((1-iota)/iota^2) = 2.378"**
 
@@ -547,7 +547,7 @@ The same ratio governs:
 
 ### `Tau.BookV.Astrophysics.bareVsDressedAcceleration`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L318-L328)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L318-L328)
 **def
 Tau.BookV.Astrophysics.bareVsDressedAcceleration :String**
 
@@ -568,7 +568,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.btfr_bridge`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L334-L345)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L334-L345)
 **def
 Tau.BookV.Astrophysics.btfr_bridge :String**
 
@@ -590,7 +590,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GalaxyCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L351-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L351-L363)
 **inductive
 Tau.BookV.Astrophysics.GalaxyCategory :Type**
 
@@ -618,7 +618,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
 **instance
 Tau.BookV.Astrophysics.instReprGalaxyCategory :Repr GalaxyCategory**
 
@@ -629,7 +629,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyCategory.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
 **def
 Tau.BookV.Astrophysics.instReprGalaxyCategory.repr :GalaxyCategory → ℕ → Std.Format**
 
@@ -641,7 +641,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instDecidableEqGalaxyCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
 **instance
 Tau.BookV.Astrophysics.instDecidableEqGalaxyCategory :DecidableEq GalaxyCategory**
 
@@ -652,7 +652,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqGalaxyCategory`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
 **instance
 Tau.BookV.Astrophysics.instBEqGalaxyCategory :BEq GalaxyCategory**
 
@@ -663,7 +663,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instBEqGalaxyCategory.beq`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L363-L363)
 **def
 Tau.BookV.Astrophysics.instBEqGalaxyCategory.beq :GalaxyCategory → GalaxyCategory → Bool**
 
@@ -675,7 +675,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.GalaxyBenchmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L365-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L365-L389)
 **structure
 Tau.BookV.Astrophysics.GalaxyBenchmark :Type**
 
@@ -723,7 +723,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyBenchmark`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L389-L389)
 **instance
 Tau.BookV.Astrophysics.instReprGalaxyBenchmark :Repr GalaxyBenchmark**
 
@@ -734,7 +734,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprGalaxyBenchmark.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L389-L389)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L389-L389)
 **def
 Tau.BookV.Astrophysics.instReprGalaxyBenchmark.repr :GalaxyBenchmark → ℕ → Std.Format**
 
@@ -746,7 +746,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.benchmark_T85_planck`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L391-L399)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L391-L399)
 **def
 Tau.BookV.Astrophysics.benchmark_T85_planck :GalaxyBenchmark**
 
@@ -760,7 +760,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.multiGalaxySummary`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L405-L417)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L405-L417)
 **def
 Tau.BookV.Astrophysics.multiGalaxySummary :String**
 
@@ -782,7 +782,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.capacity_equation_solution`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L423-L436)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L423-L436)
 **theorem
 Tau.BookV.Astrophysics.capacity_equation_solution :"Linearized: v_screen = sqrt(GM/(2*ell_tau)) ~ 0.07 km/s, 4 OOM below obs" = "Linearized: v_screen = sqrt(GM/(2*ell_tau)) ~ 0.07 km/s, 4 OOM below obs"**
 
@@ -803,7 +803,7 @@ u(r) = (GM/(c²r))·exp(−r/ℓ_τ), giving v_cap = v_N/√2 (Keplerian).
 
 ### `Tau.BookV.Astrophysics.linearizedCapacityGap`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L442-L451)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L442-L451)
 **def
 Tau.BookV.Astrophysics.linearizedCapacityGap :String**
 
@@ -822,7 +822,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.tau_interpolation_function`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L457-L471)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L457-L471)
 **theorem
 Tau.BookV.Astrophysics.tau_interpolation_function :"mu_tau(x) = x/sqrt(1+x^2), derived from capacity gradient profile" = "mu_tau(x) = x/sqrt(1+x^2), derived from capacity gradient profile"**
 
@@ -848,7 +848,7 @@ function satisfying both limits with the capacity profile.
 
 ### `Tau.BookV.Astrophysics.rar_quantitative_prediction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L477-L489)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L477-L489)
 **theorem
 Tau.BookV.Astrophysics.rar_quantitative_prediction :"RAR from mu_tau = x/sqrt(1+x^2): single a_0, zero free halo params" = "RAR from mu_tau = x/sqrt(1+x^2): single a_0, zero free halo params"**
 
@@ -875,7 +875,7 @@ Key results (12-galaxy sample, 6 radii each = 72 data points):
 
 ### `Tau.BookV.Astrophysics.cluster_capacity_discrepancy`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L495-L510)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L495-L510)
 **theorem
 Tau.BookV.Astrophysics.cluster_capacity_discrepancy :"Cluster D_tau ~ 2-4 vs D_obs ~ 5-7: comparable to MOND cluster problem" = "Cluster D_tau ~ 2-4 vs D_obs ~ 5-7: comparable to MOND cluster problem"**
 
@@ -898,7 +898,7 @@ full nonlinear capacity effects from the τ-Einstein equation.
 
 ### `Tau.BookV.Astrophysics.clusterScreeningEnhancement`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L516-L532)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L516-L532)
 **def
 Tau.BookV.Astrophysics.clusterScreeningEnhancement :String**
 
@@ -924,7 +924,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.redshift_acceleration_scale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L538-L557)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L538-L557)
 **theorem
 Tau.BookV.Astrophysics.redshift_acceleration_scale :"a_0(z) = c*H(z)*iota/2 evolves with redshift, unique to tau framework" = "a_0(z) = c*H(z)*iota/2 evolves with redshift, unique to tau framework"**
 
@@ -956,7 +956,7 @@ Distinguishing predictions:
 
 ### `Tau.BookV.Astrophysics.jwst_rotation_predictions`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L563-L578)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L563-L578)
 **theorem
 Tau.BookV.Astrophysics.jwst_rotation_predictions :"JWST: v_flat(z=2) ~ 32% above v_flat(z=0) for same M_b" = "JWST: v_flat(z=2) ~ 32% above v_flat(z=0) for same M_b"**
 
@@ -979,7 +979,7 @@ The τ-scale length ℓ_τ(z) = c/(H(z)·√κ_D) also shrinks.
 
 ### `Tau.BookV.Astrophysics.c2_cancellation_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L584-L606)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L584-L606)
 **theorem
 Tau.BookV.Astrophysics.c2_cancellation_theorem :"v_cap^2 = GM*f(r/Rd, r/ell)/r, independent of c; " ++ "c^2 in V.T85 NOT accessible by linearization" = "v_cap^2 = GM*f(r/Rd, r/ell)/r, independent of c; " ++ "c^2 in V.T85 NOT accessible by linearization"**
 
@@ -1007,7 +1007,7 @@ which exactly cancels the c⁻².
 
 ### `Tau.BookV.Astrophysics.linearizedVelocityScale`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L612-L625)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L612-L625)
 **def
 Tau.BookV.Astrophysics.linearizedVelocityScale :String**
 
@@ -1031,7 +1031,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.metric_capacity_coupling`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L631-L653)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L631-L653)
 **theorem
 Tau.BookV.Astrophysics.metric_capacity_coupling :"a_0 = c^2/(2*ell_tau) = c*H0*sqrt(kD)/2 is METRIC coupling, " ++ "not accessible from scalar capacity PDE (V.T205)" = "a_0 = c^2/(2*ell_tau) = c*H0*sqrt(kD)/2 is METRIC coupling, " ++ "not accessible from scalar capacity PDE (V.T205)"**
 
@@ -1059,7 +1059,7 @@ relativistic connection between c, ℓ_τ, and gravitational dynamics.
 
 ### `Tau.BookV.Astrophysics.metricVsCapacitySource`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L659-L674)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L659-L674)
 **def
 Tau.BookV.Astrophysics.metricVsCapacitySource :String**
 
@@ -1084,7 +1084,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.cocycleDefectAmplification`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L680-L698)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L680-L698)
 **def
 Tau.BookV.Astrophysics.cocycleDefectAmplification :String**
 
@@ -1112,7 +1112,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.nonlinear_amplification_pathway`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L704-L722)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L704-L722)
 **theorem
 Tau.BookV.Astrophysics.nonlinear_amplification_pathway :"Full nonlinear tau-Einstein should yield V.T85 amplitude; " ++ "conjectural pending numerical solution" = "Full nonlinear tau-Einstein should yield V.T85 amplitude; " ++ "conjectural pending numerical solution"**
 
@@ -1140,7 +1140,7 @@ without requiring this PDE solution.
 
 ### `Tau.BookV.Astrophysics.algebraic_resolution_theorem`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L728-L748)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L728-L748)
 **theorem
 Tau.BookV.Astrophysics.algebraic_resolution_theorem :"V.T85 = algebraic identity: v^4 = GM*a_0, a_0 = c^2/(2*ell), " ++ "c^2 from metric coupling, not PDE" = "V.T85 = algebraic identity: v^4 = GM*a_0, a_0 = c^2/(2*ell), " ++ "c^2 from metric coupling, not PDE"**
 
@@ -1166,7 +1166,7 @@ RMS = 0.067 dex across 20 galaxies (V.D258).
 
 ### `Tau.BookV.Astrophysics.algebraicDerivationChain`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L754-L768)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L754-L768)
 **def
 Tau.BookV.Astrophysics.algebraicDerivationChain :String**
 
@@ -1191,7 +1191,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.twoChannelDecomposition`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L808-L818)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L808-L818)
 **def
 Tau.BookV.Astrophysics.twoChannelDecomposition :String**
 
@@ -1212,7 +1212,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.channelFraction`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L824-L831)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L824-L831)
 **def
 Tau.BookV.Astrophysics.channelFraction :String**
 
@@ -1230,7 +1230,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.transitionRadius`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L837-L844)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L837-L844)
 **def
 Tau.BookV.Astrophysics.transitionRadius :String**
 
@@ -1248,7 +1248,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.two_channel_interpolation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L850-L861)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L850-L861)
 **theorem
 Tau.BookV.Astrophysics.two_channel_interpolation :"nu_2ch(y) = sqrt(1 + 1/y), y = g_N/a_0. " ++ "Deep: v^4 = GM*a_0 (BTFR). Newtonian: g -> g_N." = "nu_2ch(y) = sqrt(1 + 1/y), y = g_N/a_0. " ++ "Deep: v^4 = GM*a_0 (BTFR). Newtonian: g -> g_N."**
 
@@ -1265,7 +1265,7 @@ Both asymptotics agree with standard μ_τ interpolation.
 
 ### `Tau.BookV.Astrophysics.algebraic_distinctness`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L867-L877)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L867-L877)
 **theorem
 Tau.BookV.Astrophysics.algebraic_distinctness :"nu_2ch != nu_std: +12% at y=1-2. " ++ "Quadratic g^2-g_N^2-g_N*a_0=0 vs quartic." = "nu_2ch != nu_std: +12% at y=1-2. " ++ "Quadratic g^2-g_N^2-g_N*a_0=0 vs quartic."**
 
@@ -1281,7 +1281,7 @@ quadratic; standard satisfies quartic.
 
 ### `Tau.BookV.Astrophysics.lie_algebra_cross_term`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L883-L896)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L883-L896)
 **theorem
 Tau.BookV.Astrophysics.lie_algebra_cross_term :"g_fiber = r*|w_base|*|w_fiber| = sqrt(g_N*a_0). " ++ "w_fiber = sqrt(a_0/r) derived from V.P56 + V.T207." = "g_fiber = r*|w_base|*|w_fiber| = sqrt(g_N*a_0). " ++ "w_fiber = sqrt(a_0/r) derived from V.P56 + V.T207."**
 
@@ -1305,7 +1305,7 @@ Uniqueness: only mass-independent ω consistent with V.T85.
 
 ### `Tau.BookV.Astrophysics.fiberAngularVelocityDerivation`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L898-L909)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L898-L909)
 **def
 Tau.BookV.Astrophysics.fiberAngularVelocityDerivation :String**
 
@@ -1333,7 +1333,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.aqual_as_projection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L915-L929)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L915-L929)
 **theorem
 Tau.BookV.Astrophysics.aqual_as_projection :"AQUAL = projection of linear tau^3 geodesic to base tau^1. " ++ "Circular/spherical: mu_2ch(x) = sqrt(x/(1+x)) from two-channel." = "AQUAL = projection of linear tau^3 geodesic to base tau^1. " ++ "Circular/spherical: mu_2ch(x) = sqrt(x/(1+x)) from two-channel."**
 
@@ -1353,7 +1353,7 @@ General non-spherical PDE form remains open.
 
 ### `Tau.BookV.Astrophysics.gemMapping`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L935-L942)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L935-L942)
 **def
 Tau.BookV.Astrophysics.gemMapping :String**
 
@@ -1371,7 +1371,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.channelDominance`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L948-L955)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L948-L955)
 **def
 Tau.BookV.Astrophysics.channelDominance :String**
 
@@ -1389,7 +1389,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.solar_neighborhood_bhc`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L964-L971)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L964-L971)
 **def
 Tau.BookV.Astrophysics.solar_neighborhood_bhc :BoundaryHolonomyCorrection**
 
@@ -1403,7 +1403,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.PhotonCapacityDeflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L981-L999)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L981-L999)
 **structure
 Tau.BookV.Astrophysics.PhotonCapacityDeflection :Type**
 
@@ -1436,7 +1436,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPhotonCapacityDeflection.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L999-L999)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L999-L999)
 **def
 Tau.BookV.Astrophysics.instReprPhotonCapacityDeflection.repr :PhotonCapacityDeflection → ℕ → Std.Format**
 
@@ -1448,7 +1448,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprPhotonCapacityDeflection`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L999-L999)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L999-L999)
 **instance
 Tau.BookV.Astrophysics.instReprPhotonCapacityDeflection :Repr PhotonCapacityDeflection**
 
@@ -1459,7 +1459,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.photon_capacity_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1001-L1001)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1001-L1001)
 **def
 Tau.BookV.Astrophysics.photon_capacity_data :PhotonCapacityDeflection**
 
@@ -1471,7 +1471,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.photon_capacity_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1003-L1008)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1003-L1008)
 **theorem
 Tau.BookV.Astrophysics.photon_capacity_structural :photon_capacity_data.mass_ratio_x1000 = 6650 ∧ photon_capacity_data.is_metric_theory = 1 ∧ photon_capacity_data.photon_massive_same = 1 ∧ photon_capacity_data.no_additional_fields = 1**
 
@@ -1480,7 +1480,7 @@ Tau.BookV.Astrophysics.photon_capacity_structural :photon_capacity_data.mass_rat
 
 ### `Tau.BookV.Astrophysics.LensingDynamicalEquality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1010-L1020)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1010-L1020)
 **structure
 Tau.BookV.Astrophysics.LensingDynamicalEquality :Type**
 
@@ -1504,7 +1504,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLensingDynamicalEquality.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1020-L1020)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1020-L1020)
 **def
 Tau.BookV.Astrophysics.instReprLensingDynamicalEquality.repr :LensingDynamicalEquality → ℕ → Std.Format**
 
@@ -1516,7 +1516,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprLensingDynamicalEquality`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1020-L1020)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1020-L1020)
 **instance
 Tau.BookV.Astrophysics.instReprLensingDynamicalEquality :Repr LensingDynamicalEquality**
 
@@ -1527,7 +1527,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.lensing_dynamical_data`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1022-L1022)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1022-L1022)
 **def
 Tau.BookV.Astrophysics.lensing_dynamical_data :LensingDynamicalEquality**
 
@@ -1539,7 +1539,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.lensing_dynamical_structural`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1024-L1028)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1024-L1028)
 **theorem
 Tau.BookV.Astrophysics.lensing_dynamical_structural :lensing_dynamical_data.same_metric = 1 ∧ lensing_dynamical_data.mond_needs_teves = 1 ∧ lensing_dynamical_data.teves_fields = 3**
 
@@ -1548,7 +1548,7 @@ Tau.BookV.Astrophysics.lensing_dynamical_structural :lensing_dynamical_data.same
 
 ### `Tau.BookV.Astrophysics.AlgebraicPDESplit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1034-L1057)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1034-L1057)
 **structure
 Tau.BookV.Astrophysics.AlgebraicPDESplit :Type**
 
@@ -1596,7 +1596,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAlgebraicPDESplit.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1057-L1057)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1057-L1057)
 **def
 Tau.BookV.Astrophysics.instReprAlgebraicPDESplit.repr :AlgebraicPDESplit → ℕ → Std.Format**
 
@@ -1608,7 +1608,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprAlgebraicPDESplit`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1057-L1057)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1057-L1057)
 **instance
 Tau.BookV.Astrophysics.instReprAlgebraicPDESplit :Repr AlgebraicPDESplit**
 
@@ -1619,7 +1619,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.algebraic_pde_split`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1059-L1059)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1059-L1059)
 **def
 Tau.BookV.Astrophysics.algebraic_pde_split :AlgebraicPDESplit**
 
@@ -1631,7 +1631,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.ExternalComputationReqs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1061-L1071)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1061-L1071)
 **structure
 Tau.BookV.Astrophysics.ExternalComputationReqs :Type**
 
@@ -1656,7 +1656,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.instReprExternalComputationReqs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1071-L1071)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1071-L1071)
 **instance
 Tau.BookV.Astrophysics.instReprExternalComputationReqs :Repr ExternalComputationReqs**
 
@@ -1667,7 +1667,7 @@ Equations
 
 ### `Tau.BookV.Astrophysics.instReprExternalComputationReqs.repr`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1071-L1071)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1071-L1071)
 **def
 Tau.BookV.Astrophysics.instReprExternalComputationReqs.repr :ExternalComputationReqs → ℕ → Std.Format**
 
@@ -1679,7 +1679,7 @@ Instances For
 
 ### `Tau.BookV.Astrophysics.external_computation_reqs`
 
-[source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/RotationCurves.lean#L1073-L1073)
+[source](https://github.com/Panta-Rhei-Research/taulib/blob/2261c049119c8dd9a4e891457f196745178c02b3/TauLib/BookV/Astrophysics/RotationCurves.lean#L1073-L1073)
 **def
 Tau.BookV.Astrophysics.external_computation_reqs :ExternalComputationReqs**
 
