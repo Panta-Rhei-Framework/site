@@ -13,13 +13,13 @@ summary_cards:
   - title: "Stewardship"
     body: "The program's books, website, TauLib, and review pathways are currently stewarded directly by its founders."
   - title: "Correspondence"
-    body: "Media, institutional, and technical correspondence routes are provided through the site's Media & Contact page."
+    body: "Media, institutional, and technical correspondence routes are provided through the site's Contact page."
 right_rail:
   related:
     - title: "About the Program"
       url: /program/about/
-    - title: "Media & Contact"
-      url: /engage/media-and-contact/
+    - title: "Contact"
+      url: /engage/contact/
     - title: "Historical Context"
       url: /program/research-agenda/historical-context/
   meta:
@@ -68,7 +68,7 @@ The current public form of the program — its books, website, formalization sur
 
 ## Correspondence
 
-For media, institutional, technical, or general correspondence regarding the Panta Rhei Research Program, please use the topic-specific routes on the site's [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }}) page.
+For media, institutional, technical, or general correspondence regarding the Panta Rhei Research Program, please use the topic-specific routes on the site's [Contact]({{ '/engage/contact/' | relative_url }}) page.
 
 For a direct line to both founders — reserved for high-signal, low-volume inquiries:
 

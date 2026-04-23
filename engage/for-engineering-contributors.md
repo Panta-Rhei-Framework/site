@@ -2,6 +2,9 @@
 layout: program-doc
 title: "For Engineering Contributors"
 lane: engage
+v2_lane: engage
+type: "Contribute"
+status: "Open"
 permalink: /engage/for-engineering-contributors/
 summary_short: "Lean 4, CI, docstring hygiene, registry bookkeeping — the project accepts small PRs liberally and opens the door to the Lean community."
 summary_cards:
@@ -17,8 +20,10 @@ right_rail:
       url: /engage/
     - title: "Verify Lane"
       url: /verify/
-    - title: "Media & Contact"
-      url: /engage/media-and-contact/
+    - title: "Collaborate"
+      url: /engage/collaborate/
+    - title: "Contact"
+      url: /engage/contact/
     - title: "About the Framework"
       url: /framework/about/
   artifacts:

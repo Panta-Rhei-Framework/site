@@ -106,7 +106,7 @@ A positive audit in one zone does not settle the framework's priority claim — 
 
 ## What to escalate
 
-Your feedback is the single most valuable kind of input the program can receive. Specific technical overlap findings — "τ-Distinction is equivalent to autopoiesis's organizational closure under the following translation..." or "the τ spectral operator is Berry-Keating's x·p under the following change of variables..." — would force substantive revisions. [Contact]({{ '/engage/media-and-contact/' | relative_url }}) with the specific zone and the specific translation.
+Your feedback is the single most valuable kind of input the program can receive. Specific technical overlap findings — "τ-Distinction is equivalent to autopoiesis's organizational closure under the following translation..." or "the τ spectral operator is Berry-Keating's x·p under the following change of variables..." — would force substantive revisions. [Contact]({{ '/engage/contact/' | relative_url }}) with the specific zone and the specific translation.
 
 ## Cross-links
 

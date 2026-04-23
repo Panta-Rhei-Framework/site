@@ -100,7 +100,7 @@ A positive physics audit means the framework has earned its empirical-track revi
 
 ## What to escalate
 
-If you identify a specific disagreement (e.g., "the derivation for Higgs self-coupling on page 87 uses a branch of a multi-valued function that is not justified"), [contact the program]({{ '/engage/media-and-contact/' | relative_url }}) with the specific reference. This kind of technical objection is the most valuable feedback possible.
+If you identify a specific disagreement (e.g., "the derivation for Higgs self-coupling on page 87 uses a branch of a multi-valued function that is not justified"), [contact the program]({{ '/engage/contact/' | relative_url }}) with the specific reference. This kind of technical objection is the most valuable feedback possible.
 
 If the audit is positive and you want to go deeper, the next route depends on interest: [Mathematician route]({{ '/verify/how-to-audit/mathematician/' | relative_url }}) for the derivation-machinery foundations, or [Prior-Art Specialist route]({{ '/verify/how-to-audit/prior-art-specialist/' | relative_url }}) for the no-dark-sectors / three-generation comparison.
 

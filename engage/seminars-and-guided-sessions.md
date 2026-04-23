@@ -2,6 +2,9 @@
 layout: program-doc
 title: "Seminars & Guided Sessions"
 lane: engage
+v2_lane: engage
+type: "Seminars"
+status: "In planning"
 permalink: /engage/seminars-and-guided-sessions/
 summary_short: "Future seminars, guided reading sessions, and structured engagement opportunities — currently in planning."
 summary_cards:
@@ -17,6 +20,8 @@ right_rail:
       url: /engage/
     - title: "Verify"
       url: /verify/
+    - title: "Collaborate"
+      url: /engage/collaborate/
   meta:
     type: "Seminars"
     status: "In planning"

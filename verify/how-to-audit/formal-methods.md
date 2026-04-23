@@ -114,7 +114,7 @@ If your audit is positive, the next domain-specific routes are:
 - For claims in Books VI–VII: [Philosopher route]({{ '/verify/how-to-audit/philosopher/' | relative_url }})
 - For specialist-level claims: [Mathematician route]({{ '/verify/how-to-audit/mathematician/' | relative_url }}) and [Prior-Art Specialist route]({{ '/verify/how-to-audit/prior-art-specialist/' | relative_url }})
 
-If your audit is negative, [contact the program]({{ '/engage/media-and-contact/' | relative_url }}) with the specific check that failed — this is the single most valuable feedback the project can receive.
+If your audit is negative, [contact the program]({{ '/engage/contact/' | relative_url }}) with the specific check that failed — this is the single most valuable feedback the project can receive.
 
 ## Cross-links
 

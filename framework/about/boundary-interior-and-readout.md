@@ -19,7 +19,7 @@ right_rail:
     url: /framework/mathematics/
   - title: TauLib — Book II docs
     url: https://taulib.site/docs/
-  - title: Claims
+  - title: Results
     url: /results/
   - title: Self-Enrichment and the Four Layers
     url: /framework/about/self-enrichment-and-the-four-layers/

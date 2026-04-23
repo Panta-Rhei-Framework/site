@@ -70,7 +70,7 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 1. [Verify]({{ '/verify/' | relative_url }})
 2. [TauLib repository](https://github.com/Panta-Rhei-Research/taulib) — clone and run `lake build`
 3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
-{% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
+{% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/corpus/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
 
 ## Suggested Starter Packet
 

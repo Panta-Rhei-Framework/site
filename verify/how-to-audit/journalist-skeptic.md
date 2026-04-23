@@ -66,7 +66,7 @@ A program willing to stake its cosmology on one future measurement is behaving l
 
 ### Step 4 — Glance at the claim surface (~2 min)
 
-Open [Browse All Claims]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed claims across four domains. Pay attention to the status codes:
+Open [Browse All Results]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed results across four domains. Pay attention to the status codes:
 
 - **R (Resolved)** — full τ-internal theorem
 - **P (Partial)** — theorem with conjectural bridge to orthodox formulation
@@ -98,7 +98,7 @@ If the 15-minute scan is positive and you want to go deeper:
 
 - **If you have a specific technical background,** take the corresponding route: [formal methods]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}), [mathematician]({{ '/verify/how-to-audit/mathematician/' | relative_url }}), [physicist]({{ '/verify/how-to-audit/physicist/' | relative_url }}), [philosopher]({{ '/verify/how-to-audit/philosopher/' | relative_url }}), or [prior-art specialist]({{ '/verify/how-to-audit/prior-art-specialist/' | relative_url }}).
 - **If you're writing about the program,** the [Media Kit]({{ '/media/' | relative_url }}) has structured assets, and the [Review Kit]({{ '/media/review-kit/' | relative_url }}) includes reviewer-ready materials.
-- **If you want to find a specialist,** [contact the program]({{ '/engage/media-and-contact/' | relative_url }}) — the authors can help connect you with a domain reviewer they have engaged with.
+- **If you want to find a specialist,** [contact the program]({{ '/engage/contact/' | relative_url }}) — the authors can help connect you with a domain reviewer they have engaged with.
 
 ## The honest framing
 

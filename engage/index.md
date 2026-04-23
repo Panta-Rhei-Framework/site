@@ -3,24 +3,34 @@ layout: program-doc
 title: "Engage"
 lane: engage
 permalink: /engage/
-summary_short: "Follow, support, and contact the Panta Rhei Research Program — calm participation surfaces for readers, researchers, and institutions."
+type: "Lane Root"
+status: "Active"
+summary_short: "How to engage with the Panta Rhei Research Program: read, inspect, critique, collaborate, communicate, or contact the program."
 summary_cards:
-  - title: "Follow"
-    body: "Receive research updates and companion publication news as the program develops."
-  - title: "Support"
-    body: "Support the continuation of the research — books first, follow second, direct support third."
-  - title: "Contact"
-    body: "Typed contact routes for media, technical inquiry, institutions, and general correspondence."
-  - title: "Engineering contributors"
-    body: "Lean 4, CI, docstring hygiene, registry bookkeeping — the TauLib formalization is now open to external PRs under a published CONTRIBUTING guide."
+  - title: "Read"
+    body: "Start with Discover, Publications, Guided Tours, and the World Readout."
+  - title: "Inspect"
+    body: "Use Corpus, Results, Verify, TauLib, and assessment protocols to inspect the work."
+  - title: "Challenge"
+    body: "Use falsification paths, red-team questions, and structured critique routes."
+  - title: "Collaborate"
+    body: "Route research dialogue, engineering contributions, media, institutional, and direct contact cleanly."
+hero_ctas:
+  - label: "Start Exploring"
+    url: /engage/read-explore/
+    primary: true
+  - label: "Inspect the Work"
+    url: /engage/inspect-verify/
+  - label: "Contact Us"
+    url: /engage/contact/
 right_rail:
   related:
-    - title: "About the Research"
-      url: /program/about/
-    - title: "Publications"
-      url: /publications/
-    - title: "Verify"
-      url: /verify/
+    - title: "How to Engage"
+      url: /engage/how-to-engage/
+    - title: "Research Notes"
+      url: /publications/research-notes/
+    - title: "Contact"
+      url: /engage/contact/
   meta:
     type: "Lane Root"
     scope: "Participation"
@@ -28,34 +38,50 @@ right_rail:
     updated: "April 2026"
 ---
 
-## Participation and Continuity
+## Core Idea
 
-The Engage lane is not a sales funnel. It is the research program's calm participation layer — enabling readers to follow the work, support its continuation, and route inquiries to the right place. For deeper context on the program's claims and methods, see the [Research Notes]({{ '/publications/research-notes/' | relative_url }}).
+This program invites engagement, not passive consumption. Different readers can enter at different levels: reading, inspection, critique, collaboration, communication, contribution, or direct contact.
 
-Supporting the research does not mean endorsing the framework. It means valuing the attempt and wanting it to continue under public scrutiny.
+Engagement does not require agreement. The most useful stance is structured attention: understand what is being claimed, trace it to the right public surfaces, and test it at the right level.
 
-## How to Engage
+## Engagement Paths
 
-### [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }})
+<div class="v2-grid">
+  <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
+    <h3>Read & Explore</h3>
+    <p>Start with Discover, Books, Guided Tours, and the World Readout.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
+    <h3>Inspect & Verify</h3>
+    <p>Follow claims through Results, Corpus, Verify, TauLib, and assessment protocols.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/critique-challenge/' | relative_url }}">
+    <h3>Critique & Challenge</h3>
+    <p>Use structural critique, derivation checks, falsification paths, and red-team routes.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/collaborate/' | relative_url }}">
+    <h3>Collaborate</h3>
+    <p>Explore academic exchange, engineering contribution, institutional dialogue, and selective partnerships.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/media/' | relative_url }}">
+    <h3>Media</h3>
+    <p>Find public communication materials, concise artifacts, and media routing.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/contact/' | relative_url }}">
+    <h3>Contact</h3>
+    <p>Use typed contact routes for technical, review, media, institutional, correction, and general inquiries.</p>
+  </a>
+</div>
 
-Receive research updates, companion publication news, and notices about new [verification surfaces]({{ '/verify/' | relative_url }}) as the program develops.
+## Ongoing Channels
 
-### [Support the Research]({{ '/engage/support-the-research/' | relative_url }})
+- [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for Research Notes by email.
+- [Support the Research]({{ '/engage/support-the-research/' | relative_url }}) for non-endorsement support routes.
+- [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }}) for TauLib and verification-infrastructure contribution.
+- [Seminars & Guided Sessions]({{ '/engage/seminars-and-guided-sessions/' | relative_url }}) for planned structured sessions.
 
-The most direct way to support the research is to **read the [books]({{ '/publications/' | relative_url }})**. Beyond that: follow the program, share it with domain experts, or contribute to the continuation of the work.
+## Important Note
 
-### [Seminars & Guided Sessions]({{ '/engage/seminars-and-guided-sessions/' | relative_url }})
+This program does not require agreement. It invites structured engagement and scrutiny. For deeper context on claims and methods, see [Research Notes]({{ '/publications/research-notes/' | relative_url }}), [Results]({{ '/results/' | relative_url }}), and [Verify]({{ '/verify/' | relative_url }}).
 
-Future seminars, guided reading sessions, and structured engagement opportunities. Currently in planning.
-
-### [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }})
-
-Typed contact routes for media inquiries, technical questions, institutional correspondence, and general contact.
-
-### [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }})
-
-The [TauLib](https://github.com/Panta-Rhei-Research/taulib) Lean 4 formalization is now open to external pull requests under a published [CONTRIBUTING guide](https://github.com/Panta-Rhei-Research/taulib/blob/main/CONTRIBUTING.md). Small PRs (typos, docstring corrections, tactic simplifications, registry bookkeeping) are merged liberally; medium and large changes open an issue or discussion first. CI enforces `axioms=3, sorry=0`, a tactics-only-Mathlib policy, and docstring hygiene. The contributor page lays out the three contribution paths, what not to PR, maintainer responsiveness commitments, licensing (Apache-2.0 for code, CC BY 4.0 for prose, DCO sign-off, no CLA), and a concrete starter list of good first contributions.
-
----
-
-*The right first question is not "should I already believe this?" — it is "is this a serious research program that has earned structured engagement?"*
+*The right first question is not "should I already believe this?" It is "where can this be inspected, and what would count against it?"*

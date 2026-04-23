@@ -9,8 +9,8 @@ right_rail:
   related:
   - title: Datenschutz
     url: /datenschutz/
-  - title: Media & Contact
-    url: /engage/media-and-contact/
+  - title: Contact
+    url: /engage/contact/
   meta:
     type: "Legal"
     status: "Active"

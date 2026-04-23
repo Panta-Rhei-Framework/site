@@ -2,6 +2,9 @@
 layout: program-doc
 title: "Support the Research"
 lane: engage
+v2_lane: engage
+type: "Support"
+status: "Active"
 permalink: /engage/support-the-research/
 summary_short: "Support the continuation of the research — books first, follow second, direct support third."
 summary_cards:
@@ -17,8 +20,12 @@ right_rail:
       url: /publications/
     - title: "The Seven Books"
       url: /publications/books/
-    - title: "Engage Overview"
+    - title: "Engage"
       url: /engage/
+    - title: "Collaborate"
+      url: /engage/collaborate/
+    - title: "Contact"
+      url: /engage/contact/
   meta:
     type: "Support"
     status: "Active"
@@ -44,7 +51,7 @@ Available as hardcover, paperback, and Kindle on Amazon KDP.
 Stay connected to the program's development:
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for email updates
 - Watch the <a href="https://github.com/Panta-Rhei-Research/taulib" target="_blank" rel="noopener">TauLib repository</a> on GitHub
-- Bookmark this Atlas for new content
+- Bookmark this site for new content
 
 ## 3. Share with Domain Experts
 

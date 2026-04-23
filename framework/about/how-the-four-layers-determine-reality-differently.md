@@ -18,7 +18,7 @@ right_rail:
   related:
   - title: Framework Overview
     url: /framework/
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
   - title: Verify Lane
     url: /verify/

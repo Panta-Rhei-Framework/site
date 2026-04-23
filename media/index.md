@@ -19,8 +19,10 @@ right_rail:
     url: /brand/
   - title: About the Research
     url: /program/about/
-  - title: Media & Contact
-    url: /engage/media-and-contact/
+  - title: Media
+    url: /engage/media/
+  - title: Contact
+    url: /engage/contact/
   - title: White Papers
     url: /publications/white-papers/
   meta:
@@ -120,7 +122,7 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ### For general-audience journalists
 1. [About the Research]({{ '/program/about/' | relative_url }})
-2. [Claims overview]({{ '/results/' | relative_url }}) — {{ result_count }} results with typed status
+2. [Results overview]({{ '/results/' | relative_url }}) — {{ result_count }} results with typed status
 3. [Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
 
 ### For science/mathematics journalists
@@ -130,7 +132,7 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ### For podcast hosts
 1. Start with the [About the Research]({{ '/program/about/' | relative_url }}) page
-2. Choose 2–3 results from [Claims]({{ '/results/' | relative_url }}) relevant to your audience
+2. Choose 2–3 results from [Results]({{ '/results/' | relative_url }}) relevant to your audience
 3. The [Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }}) page explains the program's epistemic discipline
 
 ## Contact
@@ -145,4 +147,4 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 **Errata & corrections**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
 
-See also: [Review Kit]({{ '/media/review-kit/' | relative_url }}) for reviewer-specific entry paths, and [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }}) for the full list of topic-specific routes.
+See also: [Review Kit]({{ '/media/review-kit/' | relative_url }}) for reviewer-specific entry paths, [Media]({{ '/engage/media/' | relative_url }}) for press and public-communication context, and [Contact]({{ '/engage/contact/' | relative_url }}) for the full list of topic-specific routes.
