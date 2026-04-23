@@ -6,7 +6,7 @@ v2_lane: verify
 type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/formal-verification-stack/
-summary_short: "How TauLib, release manifests, filter rules, and audit pages fit together as the formal verification surface of the site."
+summary_short: "The layered structure by which the formal core of the program is checked."
 summary_cards:
   - title: "Lean layer"
     body: "TauLib is the machine-checkable formalization surface."
@@ -32,7 +32,7 @@ right_rail:
 
 ## Stack Overview
 
-The formal verification stack is the route from public claim to checkable artifact. It is deliberately static and reproducible: a reader can inspect the website, the release manifest, and TauLib without depending on hidden services.
+Formal verification in this program has multiple levels. They must not be collapsed into one confidence label.
 
 <div class="v2-system-strip" aria-label="Formal verification stack">
   <a class="v2-system-node" href="{{ '/publications/books/' | relative_url }}">Publications</a>
@@ -42,7 +42,25 @@ The formal verification stack is the route from public claim to checkable artifa
   <a class="v2-system-node" href="{{ '/verify/how-to-audit/' | relative_url }}">Independent Audit</a>
 </div>
 
-## What Each Layer Does
+## Level 1 — Kernel Integrity Verification
+
+This asks whether the formal kernel holds together internally as a coherent formal system. It includes Lean modules compiling, proof chains closing, theorem dependencies connecting, and the public registry aligning with the corresponding formal objects where such alignment is claimed.
+
+**Result:** formal certification relative to the Lean kernel and the stated formalization scope.
+
+## Level 2 — Standard-Foundation Verification
+
+This asks whether selected hinge theorems can also be re-established in standard foundations. The purpose is to reduce dependence on a custom system for especially load-bearing claims and to build overlap with standard formal mathematics.
+
+**Result:** independent re-establishment of selected key theorems where such parallel work exists.
+
+## Level 3 — Bridge Verification
+
+This asks whether bridge constructions from the kernel into standard mathematics genuinely support the transfer claims being made. Internal analogues are not enough; the bridge must be adequate for the transfer burden.
+
+**Result:** bridge-verified recovery and transfer claims where established.
+
+## Current Surfaces
 
 - **Publications** provide the narrative and mathematical exposition.
 - **Corpus Registry** gives the structured spine: IDs, types, dependencies, and source locations.
@@ -50,6 +68,6 @@ The formal verification stack is the route from public claim to checkable artifa
 - **Release Manifest** pins the inspected public state so counts and provenance can be reconciled.
 - **Audit Pages** explain the remaining trust budget, bridge assumptions, and reviewer routes.
 
-## Boundary
+## Meta-Verification Boundary
 
-The formal stack checks internal derivations where the formalization reaches. It does not automatically settle empirical adequacy, interpretive bridge claims, or downstream public-good consequences. Those remain routed through Results, Verify, and Impact.
+The formal stack checks internal derivations where the formalization reaches. It does not automatically settle empirical adequacy, interpretive bridge claims, or the residual externality of the verifier itself. That last issue is treated in the [Meta-Verification Frontier]({{ '/verify/meta-verification-frontier/' | relative_url }}).

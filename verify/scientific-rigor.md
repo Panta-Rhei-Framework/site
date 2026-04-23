@@ -6,7 +6,7 @@ v2_lane: verify
 type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/scientific-rigor/
-summary_short: "A concise map of how the program separates formal proof, empirical prediction, scope labels, and public scrutiny."
+summary_short: "The standards by which the program holds itself accountable as a serious, inspectable research program."
 summary_cards:
   - title: "Typed claims"
     body: "Mathematical, physical, life, and metaphysical claims are not granted the same epistemic status."
@@ -18,19 +18,30 @@ right_rail:
   related:
     - title: "Verify"
       url: /verify/
-    - title: "Release Manifest"
-      url: /verify/release-manifest/
-    - title: "How to Audit"
-      url: /verify/how-to-audit/
+    - title: "Verification Framework"
+      url: /verify/verification-framework/
+    - title: "Assessment Protocols"
+      url: /verify/assessment-protocols/
   meta:
     type: "Verification Surface"
     status: "Canonical"
     updated: "April 2026"
 ---
 
-## What Rigor Means Here
+## Core Question
 
-The program treats rigor as a layered obligation. A proof assistant can check a formal derivation, but it cannot by itself establish that a bridge to physics, life, or metaphysics is true. The public website therefore separates several kinds of scrutiny instead of blending them into a single confidence signal.
+Before asking whether a specific result is true, a reviewer can ask whether the program operates in a way that qualifies as serious, inspectable research. This page verifies the research form, not the truth of the framework.
+
+## Rigor Criteria
+
+- **Explicit scope:** the site distinguishes formal, empirical, bridge, and interpretive burdens.
+- **Explicit burden of proof:** each result should make clear what would have to be checked.
+- **Public inspectability:** release surfaces, registry pages, TauLib, and assessment routes are exposed.
+- **Structured artifacts:** books, corpus objects, generated docs, manifests, and pages are versioned.
+- **Stable release surfaces:** snapshots and manifests make drift visible.
+- **Openness to scrutiny:** the site names how to challenge the work rather than asking for deference.
+- **Explicit refusals and constraints:** the Program lane names what the research program refuses to do.
+- **Failure modes:** predictions, falsification paths, contradicted statuses, and open bridge issues stay visible.
 
 ## The Four Checks
 
@@ -47,7 +58,7 @@ The program treats rigor as a layered obligation. A proof assistant can check a 
     <h3>Result status</h3>
     <p>Results are typed by their current strength: resolved, partial, qualitative, contradicted, open, or deferred.</p>
   </a>
-  <a class="v2-tile" href="{{ '/verify/how-to-audit/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/verify/how-to-verify/' | relative_url }}">
     <h3>Independent audit</h3>
     <p>Reviewers can enter through domain-specific audit routes and assessment protocols instead of relying on summaries.</p>
   </a>

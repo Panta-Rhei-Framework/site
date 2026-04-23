@@ -60,7 +60,7 @@ Technical documents: falsification pack (220+ predictions), Lean verification re
 
 Public changelog for substantial corrections to the 2nd Edition books, verification surfaces, registry entries, and associated publications. Errata are append-only and citeable by ID.
 
-### [Assessment Protocols]({{ '/verify/assessments/' | relative_url }})
+### [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }})
 
 AI-assisted first-pass assessment protocol with three-gate rubric, prompt templates, and structured dossier output. Now part of the [Verify lane]({{ '/verify/' | relative_url }}).
 

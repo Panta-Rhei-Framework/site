@@ -105,6 +105,24 @@ Home::/|Program::/program/|Research Agenda::{{ page.url }}
   {%- else -%}
 Home::/|Program::/program/|Research Agenda::/program/research-agenda/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
   {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/domain-verification/' -%}
+  {%- if page.url == '/verify/domain-verification/' -%}
+Home::/|Verify::/verify/|Domain Verification::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Domain Verification::/verify/domain-verification/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/predictions-and-falsification/' -%}
+  {%- if page.url == '/verify/predictions-and-falsification/' -%}
+Home::/|Verify::/verify/|Predictions & Falsification::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Predictions & Falsification::/verify/predictions-and-falsification/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/assessment-protocols/' -%}
+  {%- if page.url == '/verify/assessment-protocols/' -%}
+Home::/|Verify::/verify/|Assessment Protocols::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Assessment Protocols::/verify/assessment-protocols/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
 {%- elsif page.section contains ' · ' -%}
   {%- assign section_parts = page.section | split: ' · ' -%}
   {%- assign cluster_label = section_parts[1] | strip -%}
