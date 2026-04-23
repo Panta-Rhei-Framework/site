@@ -1,0 +1,21 @@
+scopes:
+  - label: All
+    value: all
+  - label: Discover
+    value: discover
+  - label: Program
+    value: program
+  - label: Corpus
+    value: corpus
+  - label: Results
+    value: results
+  - label: Verify
+    value: verify
+  - label: Publications
+    value: publications
+  - label: Impact
+    value: impact
+  - label: Engage
+    value: engage
+  - label: Support
+    value: support

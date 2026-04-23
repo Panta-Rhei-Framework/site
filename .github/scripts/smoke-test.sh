@@ -9,7 +9,7 @@
 #
 # Catches:
 #   · missing assets referenced from head.html
-#   · missing core pages (lane roots, publications)
+#   · missing core pages (v2 lane roots, publications)
 #   · duplicate <title> / meta regressions
 #   · accent-color drift, deprecated-org refs, local-path leaks
 #   · empty / stubbed sitemap
@@ -98,13 +98,18 @@ echo ""
 echo "── Every expected file exists in _site/ ──────────────────"
 for f in \
   "/index.html" \
-  "/framework/about/index.html" \
+  "/discover/index.html" \
+  "/program/index.html" \
+  "/corpus/index.html" \
+  "/corpus/registry/index.html" \
   "/results/index.html" \
   "/verify/index.html" \
-  "/publications/books/index.html" \
-  "/research-program/about/index.html" \
+  "/publications/index.html" \
   "/impact/index.html" \
-  "/engage/follow-the-research/index.html" \
+  "/engage/index.html" \
+  "/research-program/index.html" \
+  "/registry/index.html" \
+  "/research-notes/index.html" \
   "/robots.txt" \
   "/sitemap.xml" \
   "/assets/og-image.png" \
@@ -130,8 +135,10 @@ file_contains "/index.html" "#163e64"                                           
 file_contains "/index.html" "orcid.org/0009-0007-0718-1042"                        "Thorsten ORCID in JSON-LD"
 file_contains "/index.html" "orcid.org/0009-0007-3495-7416"                        "Anna-Sophie ORCID in JSON-LD"
 file_contains "/index.html" "https://panta-rhei.site/assets/og-image.png"          "og:image absolute URL"
-file_contains "/index.html" "Get the Books"                                        "primary CTA 'Get the Books' present"
-file_contains "/index.html" "Explore the Lean Code"                                "Lean CTA present"
+file_contains "/index.html" "Start with Discover"                                  "v2 Discover CTA present"
+file_contains "/index.html" "Explore the Corpus"                                   "v2 Corpus CTA present"
+file_contains "/index.html" "See the Results"                                      "v2 Results CTA present"
+file_contains "/index.html" "Verify It Yourself"                                   "v2 Verify CTA present"
 file_contains "/index.html" "taulib.site"                                          "reciprocal link to taulib.site"
 
 echo ""

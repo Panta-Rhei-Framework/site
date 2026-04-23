@@ -43,6 +43,13 @@
   &::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.12); border-radius: 4px; }
 }
 
+.search-overlay-hint {
+  padding: 0 20px 14px;
+  color: $text-muted;
+  font-size: 0.82rem;
+  border-bottom: 1px solid $divider;
+}
+
 .search-overlay-header {
   display: flex;
   align-items: center;
@@ -144,6 +151,14 @@
     font-size: 0.95rem;
     font-weight: 580;
     color: $text;
+  }
+
+  .pagefind-ui__filter-panel {
+    margin-top: 12px;
+    border: 1px solid $divider;
+    border-radius: $radius-xs;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.42);
   }
 
   // Message area

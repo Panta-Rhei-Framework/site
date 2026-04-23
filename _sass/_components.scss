@@ -71,6 +71,100 @@
   margin-top: 18px;
 }
 
+.v2-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 18px 0;
+}
+
+.v2-tile {
+  display: block;
+  min-height: 132px;
+  padding: 18px;
+  border: 1px solid $divider;
+  border-radius: $radius-xs;
+  background: rgba(255, 255, 255, 0.48);
+  color: $text;
+  text-decoration: none;
+  transition: transform $transition, border-color $transition, background $transition;
+
+  &:hover {
+    transform: translateY(-2px);
+    background: rgba(255, 255, 255, 0.68);
+    border-color: rgba(22, 62, 100, 0.24);
+  }
+
+  h3 {
+    margin-top: 0;
+    color: $text;
+  }
+
+  p {
+    margin-bottom: 0;
+    font-size: 0.9rem;
+  }
+}
+
+.v2-kicker {
+  font-family: $font-ui;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: $accent;
+}
+
+.v2-badge-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 2px;
+}
+
+.v2-badge {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 3px 9px;
+  border-radius: $radius-xs;
+  border: 1px solid rgba(22, 62, 100, 0.16);
+  background: rgba(22, 62, 100, 0.07);
+  color: $accent;
+  font-family: $font-ui;
+  font-size: 0.78rem;
+  font-weight: 650;
+}
+
+.homepage-v2-flow .content-card {
+  margin-top: 18px;
+}
+
+.v2-system-strip {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin: 18px 0;
+
+  @media (max-width: $bp-stack) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.v2-system-node {
+  min-height: 84px;
+  padding: 14px;
+  border-radius: $radius-xs;
+  border: 1px solid $divider;
+  background: rgba(255, 255, 255, 0.5);
+  font-family: $font-ui;
+  font-size: 0.86rem;
+
+  strong {
+    display: block;
+    margin-bottom: 4px;
+  }
+}
+
 // Supporting line under a hero btn-group — subtle, one-line technical note
 .hero-supporting-line {
   margin-top: 12px;

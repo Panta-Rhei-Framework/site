@@ -55,10 +55,10 @@ Home::/|Registry::/registry/|Dashboard::{{ page.url }}
 Home::/|Bibliography::/bibliography/|{{ page.domain_group | default: 'References' | replace: '|', ' ' }}::/bibliography/|{{ page.title_plain | default: page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'research-note' -%}
-Home::/|Engage::/engage/|Research Notes::/research-notes/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Publications::/publications/|Research Notes::/publications/research-notes/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'research-notes-index' -%}
-Home::/|Engage::/engage/|Research Notes::{{ page.url }}
+Home::/|Publications::/publications/|Research Notes::{{ page.url }}
 
 {%- when 'taulib-doc' -%}
 Home::/|Verify::/verify/|TauLib::/verify/taulib/|API Docs::/verify/taulib/docs/|{% if page.book %}Book {{ page.book }}::/verify/taulib/docs/|{% endif %}{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
@@ -83,10 +83,15 @@ Home::/|Bibliography::{{ page.url }}
 {%- assign lane_url = '/' -%}
 {%- case page.lane -%}
   {%- when 'results' -%}{%- assign lane_label = 'Claims' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'discover' -%}{%- assign lane_label = 'Discover' -%}{%- assign lane_url = '/discover/' -%}
+  {%- when 'program' -%}{%- assign lane_label = 'Program' -%}{%- assign lane_url = '/program/' -%}
+  {%- when 'corpus' -%}{%- assign lane_label = 'Corpus' -%}{%- assign lane_url = '/corpus/' -%}
   {%- when 'framework' -%}{%- assign lane_label = 'Framework' -%}{%- assign lane_url = '/framework/about/' -%}
   {%- when 'impact' -%}{%- assign lane_label = 'Impact' -%}{%- assign lane_url = '/impact/' -%}
   {%- when 'verify' -%}{%- assign lane_label = 'Verify' -%}{%- assign lane_url = '/verify/' -%}
   {%- when 'registry' -%}{%- assign lane_label = 'Registry' -%}{%- assign lane_url = '/registry/' -%}
+  {%- when 'publications' -%}{%- assign lane_label = 'Publications' -%}{%- assign lane_url = '/publications/' -%}
+  {%- when 'engage' -%}{%- assign lane_label = 'Engage' -%}{%- assign lane_url = '/engage/' -%}
 {%- endcase -%}
 {%- if page.section contains ' · ' -%}
   {%- assign section_parts = page.section | split: ' · ' -%}

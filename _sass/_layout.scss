@@ -27,6 +27,12 @@
   }
 }
 
+.page-grid-home {
+  grid-template-columns: minmax(0, 1120px);
+  max-width: 1164px;
+  justify-content: center;
+}
+
 // Left rail
 .left-rail {
   position: sticky;

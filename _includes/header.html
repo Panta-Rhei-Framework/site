@@ -46,7 +46,14 @@
   <!-- Navigation drawer (desktop: inline links / mobile: slide-out mega-menu) -->
   <nav class="header-nav" id="mobile-nav" aria-label="Main">
     {% for item in site.data.nav.header %}
-    <a href="{{ item.url | relative_url }}" class="header-nav-link{% if page.url contains item.match %} active{% endif %}">{{ item.title }}</a>
+    {% assign nav_active = false %}
+    {% assign item_key = item.title | downcase %}
+    {% assign active_lane = page.v2_lane | default: page.lane | default: "" %}
+    {% if active_lane == "research-program" %}{% assign active_lane = "program" %}{% endif %}
+    {% if active_lane == "registry" or active_lane == "framework" %}{% assign active_lane = "corpus" %}{% endif %}
+    {% if page.url contains item.match %}{% assign nav_active = true %}{% endif %}
+    {% if active_lane == item_key %}{% assign nav_active = true %}{% endif %}
+    <a href="{{ item.url | relative_url }}" class="header-nav-link{% if nav_active %} active{% endif %}">{{ item.title }}</a>
     {% endfor %}
 
     <!-- Mega-menu section navigation (populated by JS on mobile) -->

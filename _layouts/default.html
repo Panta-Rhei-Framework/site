@@ -10,14 +10,26 @@
   {% include header.html %}
   <div class="drawer-backdrop" id="drawer-backdrop"></div>
 
-  <div class="page-grid">
+  <div class="page-grid{% if page.shell == 'home' %} page-grid-home{% endif %}">
+    {% unless page.shell == 'home' %}
     {% include left-rail.html %}
+    {% endunless %}
 
     <main class="main-content" id="main-content" data-pagefind-body>
+      {% assign search_lane = page.v2_lane | default: page.lane | default: "support" %}
+      {% if search_lane == "research-program" %}{% assign search_lane = "program" %}{% endif %}
+      {% if search_lane == "registry" or search_lane == "framework" %}{% assign search_lane = "corpus" %}{% endif %}
+      {% if search_lane == "bibliography" or search_lane == "utility" %}{% assign search_lane = "support" %}{% endif %}
+      <span class="sr-only" data-pagefind-filter="lane">{{ search_lane | capitalize }}</span>
+      {% if page.type %}<span class="sr-only" data-pagefind-filter="type">{{ page.type }}</span>{% endif %}
+      {% if page.status %}<span class="sr-only" data-pagefind-meta="status">{{ page.status }}</span>{% endif %}
+      {% if page.summary_short %}<span class="sr-only" data-pagefind-meta="summary">{{ page.summary_short | strip_html }}</span>{% endif %}
       {{ content }}
     </main>
 
+    {% unless page.shell == 'home' %}
     {% include right-rail.html %}
+    {% endunless %}
   </div>
 
   {% include footer.html %}
@@ -30,6 +42,7 @@
         <span class="search-overlay-title">Search the Atlas</span>
         <button class="search-overlay-close" onclick="closeSearch()" aria-label="Close search">&times;</button>
       </div>
+      <p class="search-overlay-hint">Try Hubble, prime polarity, Book V, ring axioms, consciousness, or climate.</p>
       <div id="search-container"></div>
     </div>
   </div>
@@ -42,6 +55,8 @@
           element: "#search-container",
           showSubResults: true,
           showImages: false,
+          showEmptyFilters: true,
+          openFilters: ["lane", "type"],
         });
       } else {
         document.getElementById('search-container').innerHTML =
