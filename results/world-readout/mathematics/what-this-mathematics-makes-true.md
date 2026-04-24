@@ -138,11 +138,11 @@ But this prologue page has a simpler task: to make explicit the collective mathe
 
 ## Why this matters for the Results lane
 
-This page also changes how the reader should understand the [result atlas]({{ '/results/browse/' | relative_url }}).
+This page also changes how the reader should understand the [result catalogue]({{ '/results/browse/' | relative_url }}).
 
-The atlas is not just a pile of disconnected problem pages. It is a detailed unpacking of what follows from a mathematical world that, on the program's own reading, already yields an unusually strong and coherent cluster of major truths.
+The catalogue is not just a pile of disconnected problem pages. It is a detailed unpacking of what follows from a mathematical world that, on the program's own reading, already yields an unusually strong and coherent cluster of major truths.
 
-That is why the atlas can be large without being arbitrary. The result corpus is not meant to be a marketing accumulation of impressive nouns. It is meant to be the indexed consequence layer of a single built framework.
+That is why the catalogue can be large without being arbitrary. The result corpus is not meant to be a marketing accumulation of impressive nouns. It is meant to be the indexed consequence layer of a single built framework.
 
 ## A disciplined conclusion
 

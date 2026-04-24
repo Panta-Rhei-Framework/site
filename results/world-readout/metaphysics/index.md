@@ -23,9 +23,9 @@ right_rail:
     updated: April 2026
 ---
 
-This is the **E₃ (Metaphysics)** layer — the terminal stage of the enrichment ladder, following the [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), and [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) world readouts. After this cluster, readers enter the [detailed result atlas]({{ '/results/browse/' | relative_url }}).
+This is the **E₃ (Metaphysics)** layer — the terminal stage of the enrichment ladder, following the [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), and [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) world readouts. After this cluster, readers enter the [detailed result catalogue]({{ '/results/browse/' | relative_url }}).
 
-The pages collected here do not function as the detailed atlas of all metaphysics-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
+The pages collected here do not function as the detailed catalogue of all metaphysics-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
 The central question is not yet which individual philosophical problem is resolved or how one specific claim about consciousness, ethics, language, or Logos should be read. The central question is more prior:
 
@@ -47,7 +47,7 @@ Fifth, it explains **mind and consciousness**: selfhood, intentionality, free wi
 
 Sixth, it explains **Logos and the final boundary**: why the final layer of the system is also the point where proof meets its own limit and where commitment begins.
 
-Read in order, these pages form the conceptual entrance into the metaphysics-related claims of the program. The larger result atlas remains indispensable, but it becomes much easier to use once the reader has first understood the reflective world that Tau proposes.
+Read in order, these pages form the conceptual entrance into the metaphysics-related claims of the program. The larger result catalogue remains indispensable, but it becomes much easier to use once the reader has first understood the reflective world that Tau proposes.
 
 ## Cluster map
 

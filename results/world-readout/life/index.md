@@ -25,7 +25,7 @@ right_rail:
 
 This is the **E₂ (Life)** layer of the enrichment ladder — following the [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀) and [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁) world readouts, and preceding the [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readout.
 
-The pages collected here do not function as the detailed atlas of all life-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
+The pages collected here do not function as the detailed catalogue of all life-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
 The central question is not yet which individual biological problem is resolved or how one specific life-related result should be interpreted. The central question is more prior:
 
@@ -45,7 +45,7 @@ Fourth, it explains **how life unfolds morphologically** through the four plus o
 
 Fifth, it explains **how E2 sits on E1**: life is fully grounded in physics, but not reducible without remainder to the native relations of E1 alone.
 
-Read in order, these pages form the conceptual entrance into the life-related claims of the program. The larger result atlas remains indispensable, but it becomes much easier to use once the reader has first understood the form of life that Tau proposes.
+Read in order, these pages form the conceptual entrance into the life-related claims of the program. The larger result catalogue remains indispensable, but it becomes much easier to use once the reader has first understood the form of life that Tau proposes.
 
 ## Cluster map
 

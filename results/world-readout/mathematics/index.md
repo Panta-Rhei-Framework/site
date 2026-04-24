@@ -25,7 +25,7 @@ right_rail:
 
 This is the **E₀ (Mathematics)** layer of the enrichment ladder — following the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and preceding the [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), and [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readouts.
 
-The pages collected here do not function as the detailed result atlas of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
+The pages collected here do not function as the detailed result catalogue of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
 The central question is not yet which individual mathematical result is proved. The central question is more prior:
 

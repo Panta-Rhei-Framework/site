@@ -112,7 +112,7 @@
   color: $text;
   margin: 0 0 6px;
   text-transform: none;
-  letter-spacing: normal;
+  letter-spacing: 0;
 
   // Clamp to 3 lines so long titles don't distort card heights
   display: -webkit-box;

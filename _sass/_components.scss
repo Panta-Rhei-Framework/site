@@ -244,7 +244,7 @@
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.04em;
+    letter-spacing: 0;
     color: $text-muted;
   }
 
@@ -456,7 +456,7 @@
   font-size: 0.72rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   padding: 2px 8px;
   border-radius: $radius-pill;
   white-space: nowrap;
@@ -500,7 +500,7 @@
   font-size: 0.78rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   color: $text-muted;
 }
 
@@ -565,7 +565,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0;
   color: $accent;
   margin-bottom: 10px;
 }

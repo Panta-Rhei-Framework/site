@@ -96,7 +96,7 @@ The fifth principle is **formal inspectability**.
 The program should be built in a way that allows public structured inspection:
 - through [books]({{ '/publications/books/' | relative_url }})
 - through [guided tours]({{ '/publications/guided-tours/' | relative_url }})
-- through the [registry]({{ '/registry/' | relative_url }})
+- through the [registry]({{ '/corpus/registry/' | relative_url }})
 - through dashboards
 - through [TauLib]({{ '/verify/taulib/' | relative_url }})
 - through verification companions

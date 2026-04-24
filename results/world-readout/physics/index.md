@@ -25,7 +25,7 @@ right_rail:
 
 This is the **E₁ (Physics)** layer of the enrichment ladder — following the [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), and followed by the [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) and [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readouts.
 
-The pages collected here do not function as the detailed result atlas of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
+The pages collected here do not function as the detailed result catalogue of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
 The central question is not yet which individual problem is solved, or which quantitative prediction can be read off. The central question is more prior:
 
@@ -62,7 +62,7 @@ The sequence is ordered so that each page answers a different class of question:
 11. What does this physics make true?
 12. How can readers move from Tau to the world they inhabit?
 
-Read in order, these pages form the conceptual entrance into the physical claims of the program. The more detailed result atlas remains indispensable, but it becomes much easier to use once the reader has first understood the kind of world from which those result pages are being read out.
+Read in order, these pages form the conceptual entrance into the physical claims of the program. The more detailed result catalogue remains indispensable, but it becomes much easier to use once the reader has first understood the kind of world from which those result pages are being read out.
 
 ## Cluster map
 

@@ -25,14 +25,14 @@ right_rail:
 
 This prompt evaluates the Panta Rhei framework from the standpoint of a particular scientific or philosophical discipline. Use it when you want a specialist's-eye-view dossier --- for example, what a category theorist, particle physicist, or philosopher of mind would see when inspecting the public materials.
 
-Choose a domain from the suggested list below (or specify your own), fill in the relevant Atlas lane URLs, and copy the completed prompt into any frontier AI model --- Claude, GPT-4, Gemini, or equivalent.
+Choose a domain from the suggested list below (or specify your own), fill in the relevant site lane URLs, and copy the completed prompt into any frontier AI model --- Claude, GPT-4, Gemini, or equivalent.
 
 
 ## Suggested Domains
 
-The framework makes claims across several disciplines. The following domains are natural entry points for expert-domain assessment, listed with the most relevant Atlas lanes and books.
+The framework makes claims across several disciplines. The following domains are natural entry points for expert-domain assessment, listed with the most relevant site lanes and books.
 
-| Domain | Primary Atlas Lane | Books |
+| Domain | Primary Site Lane | Books |
 |--------|-------------------|-------|
 | Pure mathematics | [Mathematics Layer](https://panta-rhei.site/framework/mathematics/) | I, II |
 | Category theory / topos theory | [Mathematics Layer](https://panta-rhei.site/framework/mathematics/) | I, II, III |
@@ -68,7 +68,7 @@ Examples:
 - metaphysics
 
 ## Materials
-- Domain-relevant Atlas lane: {{DOMAIN_ATLAS_URL}}
+- Domain-relevant site lane: {{DOMAIN_SITE_URL}}
 - Relevant Guided Tour(s): {{DOMAIN_GUIDED_TOURS}}
 - Relevant Lean companion(s): {{DOMAIN_LEAN_COMPANIONS}}
 - TauLib repository: https://github.com/Panta-Rhei-Research/taulib
@@ -128,7 +128,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Category theory
 
 - `{{DOMAIN}}`: category theory / topos theory
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/framework/mathematics/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/framework/mathematics/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Books I, II, III)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Books I, II, III)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -136,7 +136,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Particle physics
 
 - `{{DOMAIN}}`: particle physics
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/framework/physics/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/framework/physics/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book IV)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book IV)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -144,7 +144,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Cosmology
 
 - `{{DOMAIN}}`: cosmology
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/framework/physics/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/framework/physics/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book V)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book V)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/registry/
@@ -152,7 +152,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Philosophy of mind
 
 - `{{DOMAIN}}`: philosophy of mind
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/framework/metaphysics/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/framework/metaphysics/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (Book VII)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/ (Book VII)
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/
@@ -160,7 +160,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Philosophy of science
 
 - `{{DOMAIN}}`: philosophy of science
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/framework/about/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/framework/about/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (all books)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://panta-rhei.site/results/, https://panta-rhei.site/verify/
@@ -168,7 +168,7 @@ Below are two worked examples showing how to fill in the template variables for 
 ### Formal methods
 
 - `{{DOMAIN}}`: formal methods / theorem proving
-- `{{DOMAIN_ATLAS_URL}}`: https://panta-rhei.site/verify/taulib/
+- `{{DOMAIN_SITE_URL}}`: https://panta-rhei.site/verify/taulib/
 - `{{DOMAIN_GUIDED_TOURS}}`: https://panta-rhei.site/publications/guided-tours/ (all books)
 - `{{DOMAIN_LEAN_COMPANIONS}}`: https://panta-rhei.site/verify/taulib/docs/
 - `{{OPTIONAL_PUBLIC_URLS}}`: https://github.com/Panta-Rhei-Research/taulib, https://panta-rhei.site/verify/taulib/architecture/

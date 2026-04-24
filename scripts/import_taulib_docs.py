@@ -3,7 +3,7 @@
 import_taulib_docs.py — Import doc-gen4 output into Jekyll collection.
 
 Reads 454 HTML files from TauLib docbuild, extracts <main> content,
-creates Jekyll collection pages with Atlas-compatible frontmatter.
+creates Jekyll collection pages with site-compatible frontmatter.
 """
 
 import os
@@ -12,16 +12,17 @@ import json
 from html.parser import HTMLParser
 
 SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOC_DIR = os.path.join(
-    os.path.expanduser("~"),
-    "Books/PantaRhei-2ndEd/lean4/TauLib/docbuild/.lake/build/doc",
+ORG_ROOT = os.path.dirname(SITE_DIR)
+DOC_DIR = os.environ.get(
+    "TAULIB_DOCBUILD_DIR",
+    os.path.join(ORG_ROOT, "taulib", "docbuild", ".lake", "build", "doc"),
 )
 COLLECTION_DIR = os.path.join(SITE_DIR, "_taulib_docs")
 ASSETS_DIR = os.path.join(SITE_DIR, "assets", "taulib")
 PINNED_TAULIB_COMMIT = "2261c049119c8dd9a4e891457f196745178c02b3"
 LEGACY_SOURCE_PREFIX_RE = re.compile(
-    r"https://github\.com/ThorFuchs/PantaRhei-2ndEd/blob/"
-    r"[0-9a-f]+/lean4/TauLib/TauLib/"
+    r"https://github\.com/[^/]+/[^/]+/blob/[0-9a-f]+/"
+    r"(?:lean4/TauLib/)?TauLib/"
 )
 
 BOOK_LABELS = {

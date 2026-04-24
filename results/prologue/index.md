@@ -31,7 +31,7 @@ The short answer — the one the rest of the lane unpacks — is this. The frame
 
 That is the shape of the architectural spine. But before the spine carries any numerical weight, something else must first exist.
 
-The site contains two very different but related layers. One layer is the **Result Atlas**: the large and growing collection of [individual result pages]({{ '/results/browse/' | relative_url }}), each tied to recognized problems, internal theorem clusters, or consequence-level readouts. The other layer is prior to the atlas — it asks why the [framework]({{ '/framework/about/' | relative_url }}) itself qualifies as a legitimate result-bearing object.
+The site contains two very different but related layers. One layer is the **Result Catalogue**: the large and growing collection of [individual result pages]({{ '/results/browse/' | relative_url }}), each tied to recognized problems, internal theorem clusters, or consequence-level readouts. The other layer is prior to the catalogue: it asks why the [framework]({{ '/framework/about/' | relative_url }}) itself qualifies as a legitimate result-bearing object.
 
 This introduction answers that prior question. It explains **how the framework first exists**: not yet as a public theory of reality, but as a materialized formal system implemented over Lean 4 and the Calculus of Inductive Constructions. This is the first epistemic stance of the program and the first admissible inspection layer — the precondition for the cascade having anything real to compile.
 
@@ -42,7 +42,7 @@ Once that stance is established, the four **world-readout clusters** describe wh
 - [**Life World Readout**]({{ '/results/world-readout/life/' | relative_url }}) (E₂) — life as self-decoding distinction
 - [**Metaphysics World Readout**]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) — the terminal reflective layer
 
-After the world readouts, the [detailed result atlas]({{ '/results/browse/' | relative_url }}) presents 234 individual claims with typed epistemic status.
+After the world readouts, the [detailed result catalogue]({{ '/results/browse/' | relative_url }}) presents 234 individual claims with typed epistemic status.
 
 ## This cluster
 

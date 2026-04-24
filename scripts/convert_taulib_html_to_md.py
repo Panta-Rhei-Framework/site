@@ -13,8 +13,8 @@ SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COLLECTION_DIR = os.path.join(SITE_DIR, "_taulib_docs")
 PINNED_TAULIB_COMMIT = "2261c049119c8dd9a4e891457f196745178c02b3"
 LEGACY_SOURCE_PREFIX_RE = re.compile(
-    r"https://github\.com/ThorFuchs/PantaRhei-2ndEd/blob/"
-    r"[0-9a-f]+/lean4/TauLib/TauLib/"
+    r"https://github\.com/[^/]+/[^/]+/blob/[0-9a-f]+/"
+    r"(?:lean4/TauLib/)?TauLib/"
 )
 
 

@@ -78,7 +78,7 @@ Denotational classes are where physical thingness first appears, but they also s
 
 ## Why this page matters
 
-Tau's later physical results depend on this move. Without it, there would be no principled route from the substrate to the physical entities later discussed in the result atlas. With it, there is a rigorous sequence:
+Tau's later physical results depend on this move. Without it, there would be no principled route from the substrate to the physical entities later discussed in the result catalogue. With it, there is a rigorous sequence:
 
 - substrate,
 - geometry,

@@ -108,4 +108,4 @@ The detailed processes of life remain physical, but the structures that make tho
 
 ---
 
-*Previous: [Morphological Grammar of Life]({{ '/results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*
+*Previous: [Morphological Grammar of Life]({{ '/results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/' | relative_url }}) | Continue to the [Result Catalogue]({{ '/results/browse/' | relative_url }})*

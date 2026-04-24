@@ -88,7 +88,7 @@ If you are new to the protocol, work through these in order:
 
 When running the protocol, provide the model with the relevant public sources. Suggested URLs:
 
-- **Atlas (main site):** [https://panta-rhei.site](https://panta-rhei.site)
+- **Main site:** [https://panta-rhei.site](https://panta-rhei.site)
 - **TauLib (Lean 4 library):** [https://github.com/Panta-Rhei-Research/taulib](https://github.com/Panta-Rhei-Research/taulib)
 - **Guided Tours:** [Guided Tours]({{ '/publications/guided-tours/' | relative_url }})
 - **Books:** [Books]({{ '/publications/books/' | relative_url }})

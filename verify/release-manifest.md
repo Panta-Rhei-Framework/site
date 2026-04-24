@@ -13,7 +13,7 @@ right_rail:
   - title: Architecture
     url: /verify/taulib/architecture/
   - title: Registry
-    url: /registry/
+    url: /corpus/registry/
   meta:
     type: "Release Snapshot"
     status: "Canonical"
@@ -77,7 +77,7 @@ Each column applies a specific **filter rule** to the same canonical source. The
 | TauLib modules | `taulib_modules` | Lean 4 module count — **different unit from registry objects** (one module hosts many objects) |
 | Sorry | (direct count) | `sorry` declarations in pinned Lean source |
 
-Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
+Sources: counts sourced from the canonical registry JSONL source, `book{1..7}_registry.jsonl`, and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
 
 ## How to read apparent "drift"
 

@@ -89,7 +89,7 @@ A serious outsider is already able to inspect the program through multiple publi
 - [guided tours]({{ '/publications/guided-tours/' | relative_url }})
 - public verification companions
 - [TauLib]({{ '/verify/taulib/' | relative_url }})
-- the [registry]({{ '/registry/' | relative_url }}) and dashboard surfaces
+- the [registry]({{ '/corpus/registry/' | relative_url }}) and dashboard surfaces
 - public assessment protocols
 
 This means the work is not waiting in total opacity for later institutional validation. It is already visible and answerable in public.

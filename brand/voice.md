@@ -25,7 +25,7 @@ right_rail:
     updated: "April 2026"
 ---
 
-> **Internal note.** This page documents the canonical voice and the paste-ready copy for every platform surface. It is publicly visible (there's no downside — transparency about your own brand guidelines reads as confident, not secretive), but its primary audience is you, Anna-Sophie, and any future collaborator who needs to write in program voice.
+> **Editorial note.** This page documents the canonical voice and paste-ready copy for external platform surfaces. It is published for transparency and for future collaborators who need to write in program voice.
 
 ## The three voices
 

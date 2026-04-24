@@ -63,7 +63,7 @@
   font-size: 0.82rem;
   font-weight: 650;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   color: $text-muted;
 }
 
@@ -88,7 +88,7 @@
 }
 
 // ---- Pagefind UI overrides ----
-// Style Pagefind's default elements to match Atlas design
+// Style Pagefind's default elements to match the site design
 
 #search-container {
   padding: 12px 20px 20px;
@@ -185,6 +185,24 @@
     &:hover {
       background: $accent-soft;
     }
+  }
+}
+
+.search-overlay-actions {
+  padding: 0 20px 20px;
+}
+
+.search-google-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  font-family: $font-ui;
+  font-size: 0.82rem;
+  font-weight: 580;
+  color: $accent;
+
+  &:hover {
+    text-decoration: underline;
   }
 }
 

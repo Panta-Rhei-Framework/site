@@ -57,11 +57,14 @@
     <div class="search-overlay-backdrop" onclick="closeSearch()"></div>
     <div class="search-overlay-panel glass">
       <div class="search-overlay-header">
-        <span class="search-overlay-title">Search the Atlas</span>
+        <span class="search-overlay-title">Search the Site</span>
         <button class="search-overlay-close" onclick="closeSearch()" aria-label="Close search">&times;</button>
       </div>
       <p class="search-overlay-hint">Try Hubble, prime polarity, Book V, ring axioms, consciousness, or climate.</p>
       <div id="search-container"></div>
+      <div class="search-overlay-actions">
+        <a id="search-google-link" class="search-google-link" href="https://www.google.com/search?q=site%3Apanta-rhei.site" target="_blank" rel="noopener">Broader site search with Google</a>
+      </div>
     </div>
   </div>
 
@@ -80,9 +83,18 @@
         document.getElementById('search-container').innerHTML =
           '<p style="padding:16px;color:#5b6772;font-size:0.88rem;">Search will be available once the site is deployed.</p>';
       }
+      syncGoogleSearchLink();
     });
 
     var _searchPreviousFocus = null;
+    function syncGoogleSearchLink() {
+      var link = document.getElementById('search-google-link');
+      if (!link) return;
+      var input = document.querySelector('#search-container input');
+      var term = input && input.value ? input.value.trim() : '';
+      var query = 'site:panta-rhei.site' + (term ? ' ' + term : '');
+      link.href = 'https://www.google.com/search?q=' + encodeURIComponent(query);
+    }
     function openSearch() {
       _searchPreviousFocus = document.activeElement;
       // Close other mobile surfaces
@@ -93,6 +105,7 @@
       setTimeout(function() {
         var input = document.querySelector('#search-container input');
         if (input) input.focus();
+        syncGoogleSearchLink();
       }, 100);
     }
     function closeSearch() {
@@ -109,6 +122,11 @@
       if ((e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) && !e.target.matches('input, textarea')) {
         e.preventDefault();
         openSearch();
+      }
+    });
+    document.addEventListener('input', function(e) {
+      if (e.target && e.target.closest && e.target.closest('#search-container')) {
+        syncGoogleSearchLink();
       }
     });
   </script>

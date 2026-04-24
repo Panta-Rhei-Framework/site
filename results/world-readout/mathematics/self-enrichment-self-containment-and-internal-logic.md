@@ -24,7 +24,7 @@ right_rail:
     url: /framework/about/self-hosting-and-internal-semantic-closure/
   - title: Verify Lane
     url: /verify/
-  - title: Browse the Result Atlas
+  - title: Browse the Result Catalogue
     url: /results/browse/
   meta:
     type: Prologue · Self-Enrichment
@@ -160,4 +160,4 @@ Tau is not only a different mathematics. It is a different kind of mathematical 
 
 ---
 
-*Previous: [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*
+*Previous: [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Result Catalogue]({{ '/results/browse/' | relative_url }})*

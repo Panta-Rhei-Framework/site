@@ -13,7 +13,7 @@ right_rail:
     - title: "Custom Axiom Inventory"
       url: /verify/custom-axioms/
     - title: "Registry"
-      url: /registry/
+      url: /corpus/registry/
   meta:
     type: "Filter-Rule Manifest"
     scope: "All count claims across the site"
@@ -24,11 +24,11 @@ right_rail:
 {% assign rules = site.data.registry.filter_rules.filter_rules %}
 {% assign manifest = site.data.registry.filter_rules %}
 
-A reader looking at three surfaces — the [Registry]({{ '/registry/' | relative_url }}), the per-book [Dashboards]({{ '/registry/dashboards/book-vi/' | relative_url }}), and the [TauLib Status]({{ '/verify/taulib/status/' | relative_url }}) — may see three different numbers for the same book. Book VI, for example, appears as **217**, **168**, and **30** across these three places.
+A reader looking at three surfaces — the [Registry]({{ '/corpus/registry/' | relative_url }}), the per-book [Dashboards]({{ '/registry/dashboards/book-vi/' | relative_url }}), and the [TauLib Status]({{ '/verify/taulib/status/' | relative_url }}) — may see three different numbers for the same book. Book VI, for example, appears as **217**, **168**, and **30** across these three places.
 
 This is not a data-integrity bug. It is three different **filter rules** applied to the same canonical source. This page names each rule, specifies what it includes, and pins down the current counts so a reader can always reconcile.
 
-**Canonical source of truth.** All counts derive from `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` — one JSONL line per registry object. Every number on this site descends from that file via one of the filter rules below.
+**Canonical source of truth.** All counts derive from the canonical registry JSONL source, `book{1..7}_registry.jsonl` — one JSONL line per registry object. Every number on this site descends from that source via one of the filter rules below.
 
 ## The five filter rules
 
@@ -147,7 +147,7 @@ A violation of any invariant is a merge blocker on `main`. See [`scripts/registr
 ## What this page is NOT
 
 - **Not a dashboard.** For per-book enumerations, see the [dashboards]({{ '/registry/dashboards/book-i/' | relative_url }}).
-- **Not a registry browser.** For navigation to individual objects, see the [registry index]({{ '/registry/' | relative_url }}).
+- **Not a registry browser.** For navigation to individual objects, see the [registry index]({{ '/corpus/registry/' | relative_url }}).
 - **Not a TauLib map.** For Lean module architecture, see [Formalization Status]({{ '/verify/taulib/status/' | relative_url }}) and [Architecture]({{ '/verify/taulib/architecture/' | relative_url }}).
 
 This page's single job is to make the filter rules legible and to let a reader reconcile any two count claims on the site without leaving the public surface.
