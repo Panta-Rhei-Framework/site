@@ -36,7 +36,7 @@ The following ten rules govern the responsible use of the AI-assisted first-pass
 
 Do not upload confidential manuscripts, reviewer correspondence, private drafts, or any other non-public documents into general-purpose AI systems.
 
-The protocol is designed to work entirely from public materials --- the Atlas site, Guided Tours, Lean companions, TauLib source, and published books. This constraint is deliberate: it ensures that any outsider can reproduce the assessment from the same sources, and it protects the integrity of unpublished work.
+The protocol is designed to work entirely from public materials --- the main site, Guided Tours, Lean companions, TauLib source, and published books. This constraint is deliberate: it ensures that any outsider can reproduce the assessment from the same sources, and it protects the integrity of unpublished work.
 
 
 ### Rule 2 --- AI Is a Dossier Engine, Not a Verdict Engine

@@ -1,9 +1,12 @@
 ---
 layout: program-doc
-title: "The Seven Books"
+title: "Books"
 lane: publications
 permalink: /publications/books/
-summary_short: "The canonical monograph series — seven books tracing the enrichment ladder from mathematical kernel to the terminal boundary."
+type: "Publication Family"
+publication_type: "Books"
+status: "Published"
+summary_short: "The canonical monograph series: seven Second Edition books tracing the enrichment ladder from mathematical kernel to terminal reflective boundary."
 summary_cards:
   - title: "Proof-order"
     body: "The books are organized sequentially, each earning its content from what came before. No hidden forward dependencies."
@@ -15,8 +18,8 @@ right_rail:
   related:
     - title: "Publications Overview"
       url: /publications/
-    - title: "Framework Overview"
-      url: /framework/about/
+    - title: "Corpus Registry"
+      url: /corpus/registry/
     - title: "Verify"
       url: /verify/
   meta:
@@ -26,7 +29,13 @@ right_rail:
     updated: "April 2026"
 ---
 
-## The Canonical Monograph Series
+## The Seven-Book Spine
+
+The books are the citation-bearing spine of the program. Other publication families help readers inspect, test, summarize, or apply the work, but the seven books carry the canonical argument in order. Read them as one derivation chain:
+
+**Book I-II** earn the mathematical substrate. **Book III** opens the self-enrichment ladder and the hinge into physics. **Book IV-V** develop microphysics and cosmology. **Book VI** gives the life layer. **Book VII** carries the terminal reflective and metaphysical layer.
+
+## Current Edition
 
 {% for book in site.data.publications.books %}
 {%- assign amz = nil -%}
@@ -50,8 +59,12 @@ right_rail:
 </div>
 {% endfor %}
 
-## Series Spine
+## How to Use the Books
 
-*How Mathematics Is Earned* → *Finite Readouts of Infinity* → *Where Physics Lives* → *The Self-Describing Universe* → *The Biography of the Universe* → *Life as Self-Decoding Distinctions* → *The Final Self-Enrichment*
+For orientation, start with the [Conspectus]({{ '/publications/conspectus/' | relative_url }}) or the [Discover reading routes]({{ '/discover/what-to-read-first/' | relative_url }}). For source-object inspection, move from a book chapter to the [Corpus registry]({{ '/corpus/registry/' | relative_url }}). For theorem and artifact checks, use [Verify]({{ '/verify/' | relative_url }}). For problem-oriented reading, enter through [Results]({{ '/results/' | relative_url }}) and follow the result back to its book context.
+
+## Edition Status
+
+The Second Edition is the active canon for reading, citation, and verification. The [First Edition archive]({{ '/publications/archived/first-edition/' | relative_url }}) is preserved for provenance and comparison.
 
 **One coherence kernel. Four layers. Seven books.**

@@ -18,7 +18,7 @@ summary_cards:
 right_rail:
   related:
   - title: Foundational Discipline
-    url: /research-program/about/foundational-discipline/
+    url: /program/research-agenda/foundational-discipline/
   - title: Book I
     url: /publications/books/book-i/
   - title: Guided Tours
@@ -44,7 +44,7 @@ The first important thing to understand is that the framework does **not** begin
 
 That is why the framework often feels unusual when first encountered. Its ambitions are large, but its starting point is deliberately austere.
 
-The second important thing to understand is that the framework is not only intended to be expressive. It is intended to be **inspectable**. [The books]({{ '/publications/books/' | relative_url }}), the formal [registry]({{ '/registry/' | relative_url }}), the guided tours, and the public [Lean formalization]({{ '/verify/taulib/' | relative_url }}) all exist because the program is trying to avoid a familiar failure mode of foundational speculation: grandeur without public checkability. The Tau framework is therefore presented simultaneously as:
+The second important thing to understand is that the framework is not only intended to be expressive. It is intended to be **inspectable**. [The books]({{ '/publications/books/' | relative_url }}), the formal [registry]({{ '/corpus/registry/' | relative_url }}), the guided tours, and the public [Lean formalization]({{ '/verify/taulib/' | relative_url }}) all exist because the program is trying to avoid a familiar failure mode of foundational speculation: grandeur without public checkability. The Tau framework is therefore presented simultaneously as:
 - a formal object under construction,
 - a conceptual architecture,
 - and a public target for scrutiny.

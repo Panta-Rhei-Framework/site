@@ -20,7 +20,7 @@ right_rail:
   - title: Book I
     url: /publications/books/book-i/
   - title: Registry
-    url: /registry/
+    url: /corpus/registry/
   - title: TauLib — Book I docs
     url: https://taulib.site/docs/
   - title: From Mathematical Structure to Category and Logic
@@ -58,7 +58,7 @@ First, it makes the framework's later claims more intelligible. If a reader does
 
 Second, it gives the program its foundational seriousness. The point is not simply that arithmetic or ordering appear somehow. The point is that they appear **as consequences of the [kernel's]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) discipline**, rather than as imported background furniture.
 
-This is also where the framework's distinctive attitude toward "objects" begins to appear. Objects are not simply there from the start as primitive units waiting to be indexed. They become stabilized through lawful construction and addressability. That is already a sign of the program's larger orientation: reality is not assumed as a stock of disconnected givens, but as a structure whose intelligibility must be made explicit. The formal details of this construction are carried in [Book I]({{ '/publications/books/book-i/' | relative_url }}) and tracked in the [registry]({{ '/registry/' | relative_url }}).
+This is also where the framework's distinctive attitude toward "objects" begins to appear. Objects are not simply there from the start as primitive units waiting to be indexed. They become stabilized through lawful construction and addressability. That is already a sign of the program's larger orientation: reality is not assumed as a stock of disconnected givens, but as a structure whose intelligibility must be made explicit. The formal details of this construction are carried in [Book I]({{ '/publications/books/book-i/' | relative_url }}) and tracked in the [registry]({{ '/corpus/registry/' | relative_url }}).
 
 By the end of this stage, the reader should feel that the framework has crossed an important threshold. It is still not yet in the full world of category theory, topology, or geometry. But it has become more than a symbolic game. It now carries enough internal structure that one can reasonably ask how much further it can be pushed.
 

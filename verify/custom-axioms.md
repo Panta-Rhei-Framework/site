@@ -13,7 +13,7 @@ right_rail:
     - title: "Formal Methods Audit"
       url: /verify/how-to-audit/formal-methods/
     - title: "Red-team FAQ"
-      url: /research-program/about/red-team-faq/
+      url: /program/about/red-team-faq/
   meta:
     type: "Axiom Transparency"
     scope: "TauLib custom axioms"
@@ -149,5 +149,5 @@ Any finding that violates (1)–(5) should be reported to the program — this w
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — headline axiom and `sorry` counts at pinned commit
 - [Formalization Status]({{ '/verify/taulib/status/' | relative_url }}) — per-book formalization dashboard
 - [Formal Methods Audit Route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) — step-by-step verification protocol
-- [Red-team FAQ #3]({{ '/research-program/about/red-team-faq/' | relative_url }}#does-taulib-introduce-custom-axiom-declarations-beyond-mathlibs-trusted-base) — short-form answer
+- [Red-team FAQ #3]({{ '/program/about/red-team-faq/' | relative_url }}#does-taulib-introduce-custom-axiom-declarations-beyond-mathlibs-trusted-base) — short-form answer
 - [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}) — the 4-tier scope discipline that propagates through axiom dependencies

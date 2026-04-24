@@ -17,7 +17,7 @@ summary_cards:
     or guaranteed success.
 right_rail:
   related:
-  - title: Claims
+  - title: Results
     url: /results/
   - title: Impact
     url: /impact/
@@ -51,7 +51,7 @@ It makes possible a new relation between science and the humanities—not by col
 It makes possible public inspection at multiple levels:
 - monograph
 - guided tour
-- [registry]({{ '/registry/' | relative_url }})
+- [registry]({{ '/corpus/registry/' | relative_url }})
 - [formalization]({{ '/verify/taulib/' | relative_url }})
 - [verification]({{ '/verify/' | relative_url }}) path
 - first-pass assessment protocol

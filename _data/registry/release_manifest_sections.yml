@@ -20,7 +20,7 @@ sections:
       - title: Architecture
         url: /verify/taulib/architecture/
       - title: Registry
-        url: /registry/
+        url: /corpus/registry/
       meta:
         type: "Release Snapshot"
         status: "Canonical"
@@ -88,7 +88,7 @@ sections:
     | TauLib modules | `taulib_modules` | Lean 4 module count — **different unit from registry objects** (one module hosts many objects) |
     | Sorry | (direct count) | `sorry` declarations in pinned Lean source |
 
-    Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
+    Sources: counts sourced from the canonical registry JSONL source, `book{1..7}_registry.jsonl`, and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
 
   'How to read apparent "drift"': |
     ## How to read apparent "drift"
@@ -143,11 +143,11 @@ sections:
 
 
 sha256_checksums:
-  '__frontmatter__': 'b69517fac1a47a9f'
+  '__frontmatter__': '2c800eab66fd109e'
   '__preamble__': '077bd63d09631831'
   'Release identity': 'e387571b57d58c6a'
   'Build status — summary': '2f1ad3d6feb7680f'
-  'Per-book reconciliation': '49c659e16c08f23c'
+  'Per-book reconciliation': 'b147766a74b70e90'
   'How to read apparent "drift"': '8aa7ff8b50e9bef3'
   'What this release does NOT claim': '76f59b1dee56685b'
   'Reproduction instructions': '256f798f95614a33'

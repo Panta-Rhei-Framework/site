@@ -21,18 +21,34 @@ layout: default
 {% assign notes = site.research_notes | sort: "date" | reverse %}
 {% for note in notes %}
 <div class="content-card note-list-item">
-  <div class="note-list-date">{{ note.date | date: "%d %B %Y" }}</div>
+  <div class="note-list-date">
+    {{ note.date | date: "%d %B %Y" }}
+    {% if note.note_type %} · {{ note.note_type }}{% endif %}
+    {% if note.domain %} · {{ note.domain }}{% endif %}
+  </div>
   <h2 class="note-list-title"><a href="{{ note.url | relative_url }}">{{ note.title }}</a></h2>
-  {% if note.summary_medium %}
+  {% if note.abstract %}
+  <p class="note-list-summary">{{ note.abstract }}</p>
+  {% elsif note.summary_medium %}
   <p class="note-list-summary">{{ note.summary_medium }}</p>
   {% elsif note.summary_short %}
   <p class="note-list-summary">{{ note.summary_short }}</p>
   {% endif %}
-  {% if note.topics %}
+  {% if note.pdf_url %}
+  <p><a class="btn-ghost" href="{{ note.pdf_url | relative_url }}">PDF artifact</a></p>
+  {% endif %}
+  {% if note.topics or note.keywords %}
   <div class="chip-row" style="margin-top: 6px;">
+    {% if note.topics %}
     {% for topic in note.topics %}
     <span class="chip" style="height: 22px; font-size: 0.72rem;">{{ topic }}</span>
     {% endfor %}
+    {% endif %}
+    {% if note.keywords %}
+    {% for keyword in note.keywords %}
+    <span class="chip" style="height: 22px; font-size: 0.72rem;">{{ keyword }}</span>
+    {% endfor %}
+    {% endif %}
   </div>
   {% endif %}
 </div>

@@ -1,0 +1,10 @@
+name = "panta-rhei-site-edge-headers"
+main = "workers/site-edge-headers.js"
+compatibility_date = "2026-04-24"
+workers_dev = false
+
+routes = [
+  { pattern = "panta-rhei.site/*", zone_name = "panta-rhei.site" },
+  { pattern = "www.panta-rhei.site/*", zone_name = "panta-rhei.site" }
+]
+

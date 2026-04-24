@@ -850,10 +850,9 @@ a:hover {
      Shadows:   soft diffuse, paper inset, accent glow
      Motion:    cubic-bezier(.22, 1, .36, 1)
 
-   Approach: The main website is immersive and cinematic (dark void
-   background, glassmorphism, orb animations). The docs are clean
-   and focused — a "paper" reading surface with the same type, color
-   tokens, and micro-interactions, but stripped of spectacle.
+   Approach: The docs are clean and focused — a "paper" reading
+   surface with the same type, color tokens, and micro-interactions,
+   but stripped of spectacle.
 
    ================================================================ */
 
@@ -1057,14 +1056,14 @@ body {
   font-family: 'Manrope', system-ui, -apple-system, "Segoe UI", sans-serif;
   font-size: 16px;
   line-height: 1.6;
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Manrope', system-ui, -apple-system, "Segoe UI", sans-serif;
-  letter-spacing: -0.03em;
+  letter-spacing: 0;
   font-weight: 700;
 }
 
@@ -1103,7 +1102,7 @@ header h1 {
   font-family: 'Manrope', system-ui, sans-serif;
   font-weight: 800;
   font-size: 1.3em;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -1124,10 +1123,9 @@ header .header_filename {
 }
 
 /* ----------------------------------------------------------------
-   Spectral accent bar under header
+   Accent bar under header
    ----------------------------------------------------------------
-   A 2px gradient line using the website's spectral gradient,
-   providing the signature Panta Rhei visual identity.
+   A 2px line provides a quiet Panta Rhei identity cue.
    ---------------------------------------------------------------- */
 header::after {
   content: "";
@@ -1136,7 +1134,7 @@ header::after {
   left: 0;
   right: 0;
   height: 2px;
-  background: var(--pr-spectral);
+  background: var(--pr-accent);
   opacity: 0.7;
 }
 
@@ -1150,7 +1148,7 @@ header::after {
 
 .nav summary {
   font-weight: 600;
-  letter-spacing: -0.01em;
+  letter-spacing: 0;
   transition: color var(--pr-transition);
   border-radius: 4px;
   padding: 2px 4px;
@@ -1313,7 +1311,7 @@ a:hover {
   padding: 2px 10px;
   font-size: 12px;
   font-weight: 600;
-  letter-spacing: 0.02em;
+  letter-spacing: 0;
   border-color: var(--tags-border-color);
   transition: background var(--pr-transition);
 }

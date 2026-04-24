@@ -3,14 +3,14 @@ layout: program-doc
 title: "Foundations, Logic, Formal Systems & Computer Science"
 permalink: /results/fields/foundations-logic/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 5
 summary_short: "The most consequential claims the τ framework makes within mathematical foundations, Gödel avoidance, topos theory, and computation."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Mathematics World Readout
     url: /results/world-readout/mathematics/
@@ -46,6 +46,6 @@ The τ framework is built on a foundational substrate that differs from ZFC in i
 ## Where to go deeper
 
 - [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) — the full world-picture
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in mathematics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics) — Wikipedia's canonical list of recognized open problems
 - [Unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science) — Wikipedia's list of open problems in complexity, algorithms, and programming-language theory

@@ -14,10 +14,9 @@ import glob
 from typing import Optional
 
 SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SEED_PATH = os.path.join(
-    os.path.expanduser("~"),
-    "Books/PantaRhei-2ndEd/website/specs/full-hot-topics-results-seed-pack-v2",
-    "02-cross-program-key-results-seed.json",
+SEED_PATH = os.environ.get(
+    "RESULTS_SEED_PATH",
+    os.path.join(SITE_DIR, "_sources", "results", "02-cross-program-key-results-seed.json"),
 )
 
 STATUS_MAP = {"R": "resolved", "P": "partial", "Q": "qualitative", "C": "contradicted", "N": "not-addressed"}

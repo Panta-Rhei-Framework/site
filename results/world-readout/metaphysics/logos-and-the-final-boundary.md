@@ -3,7 +3,7 @@ layout: program-doc
 title: "Logos and the Final Boundary"
 permalink: /results/world-readout/metaphysics/logos-and-the-final-boundary/
 lane: results
-section: "Claims · Metaphysics World Readout"
+section: "Results · Metaphysics World Readout"
 nav_order: 7
 summary_short: "How the E3 layer ends at the boundary where proof gives way to commitment."
 key_registry:
@@ -83,7 +83,7 @@ That is why the metaphysics cluster must end here.
 
 ## Conclusion
 
-Logos is the final boundary of the Tau world-readout. It is the place where meaning, proof, world-order, and commitment come nearest to one another without collapsing into one. In that sense, it is not only the end of Book VII. It is the final edge of the whole result-prologue arc before the detailed atlas begins.
+Logos is the final boundary of the Tau world-readout. It is the place where meaning, proof, world-order, and commitment come nearest to one another without collapsing into one. In that sense, it is not only the end of Book VII. It is the final edge of the whole result-prologue arc before the detailed catalogue begins.
 
 
 ## Canonical References
@@ -98,4 +98,4 @@ Logos is the final boundary of the Tau world-readout. It is the place where mean
 
 ---
 
-*Previous: [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*
+*Previous: [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) | Continue to the [Result Catalogue]({{ '/results/browse/' | relative_url }})*

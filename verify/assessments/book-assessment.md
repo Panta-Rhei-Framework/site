@@ -32,7 +32,7 @@ Before running the prompt, choose the book you wish to assess and fill in the te
 
 Use this table to fill in the template variables for the book you are assessing.
 
-| Book | Title | Subtitle | Layer | Atlas URL |
+| Book | Title | Subtitle | Layer | Site URL |
 |------|-------|----------|-------|-----------|
 | I | Categorical Foundations | How Mathematics Is Earned | E&#x2080; Mathematics | [Book I](https://panta-rhei.site/publications/books/book-i/) |
 | II | Categorical Holomorphy | Finite Readouts of Infinity | E&#x2080; Mathematics | [Book II](https://panta-rhei.site/publications/books/book-ii/) |
@@ -69,7 +69,7 @@ Your job is to produce a book-level dossier on:
 - Subtitle: {{BOOK_SUBTITLE}}
 - Guided Tour URL/PDF: {{GUIDED_TOUR_URL}}
 - Lean companion URL/file: {{LEAN_COMPANION_URL}}
-- Atlas/book page: {{BOOK_PAGE_URL}}
+- Site/book page: {{BOOK_PAGE_URL}}
 - Optional related public materials: {{OPTIONAL_BOOK_URLS}}
 
 ## Required method

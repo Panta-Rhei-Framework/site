@@ -22,7 +22,7 @@
     text-decoration: none;
 
     &:hover {
-      color: $accent;
+      color: var(--lane-current);
     }
   }
 }
@@ -51,8 +51,8 @@
   font-size: 0.88rem;
   line-height: 1.65;
   padding: 14px 16px;
-  background: rgba(255, 255, 255, 0.42);
-  border: 1px solid $panel-border;
+  background: var(--surface-plate);
+  border: var(--border-default);
   border-radius: $radius-sm;
 
   p { margin: 0; }
@@ -79,10 +79,10 @@
 
 .cited-in-item {
   padding: 14px 16px;
-  background: rgba(255, 255, 255, 0.42);
-  border: 1px solid $panel-border;
+  background: var(--surface-plate);
+  border: var(--border-default);
   border-radius: $radius-sm;
-  border-left: 3px solid var(--accent, #163e64);
+  border-left: 3px solid var(--lane-current);
 }
 
 .cited-in-head {
@@ -112,8 +112,8 @@
   font-size: 0.85rem;
   font-style: italic;
   color: $text;
-  background: rgba(255, 255, 255, 0.56);
-  border-left: 2px solid $panel-border;
+  background: var(--surface-meta);
+  border-left: 2px solid var(--color-line-default);
   border-radius: 6px;
   line-height: 1.55;
 }
@@ -133,4 +133,3 @@
 .bibliography-article h1 math mn {
   font-family: inherit;
 }
-

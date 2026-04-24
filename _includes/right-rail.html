@@ -53,4 +53,22 @@
     </div>
   </div>
   {% endif %}
+
+  {% assign has_frontmatter_meta = false %}
+  {% if page.type or page.status or page.domain or page.publication_type or page.note_type or page.updated %}
+    {% assign has_frontmatter_meta = true %}
+  {% endif %}
+  {% if has_frontmatter_meta and page.right_rail.meta == nil %}
+  <div class="rail-section">
+    <div class="rail-section-title">Page metadata</div>
+    <div class="meta-list">
+      {% if page.type %}<div class="meta-item"><span>Type</span><span class="meta-value">{{ page.type }}</span></div>{% endif %}
+      {% if page.status %}<div class="meta-item"><span>Status</span><span class="meta-value">{{ page.status }}</span></div>{% endif %}
+      {% if page.domain %}<div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain }}</span></div>{% endif %}
+      {% if page.publication_type %}<div class="meta-item"><span>Publication</span><span class="meta-value">{{ page.publication_type }}</span></div>{% endif %}
+      {% if page.note_type %}<div class="meta-item"><span>Note type</span><span class="meta-value">{{ page.note_type }}</span></div>{% endif %}
+      {% if page.updated %}<div class="meta-item"><span>Updated</span><span class="meta-value">{{ page.updated }}</span></div>{% endif %}
+    </div>
+  </div>
+  {% endif %}
 </aside>

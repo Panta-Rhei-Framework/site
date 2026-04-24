@@ -18,7 +18,7 @@ right_rail:
   - title: The Seven Books
     url: /publications/books/
   - title: About the Research
-    url: /research-program/about/
+    url: /program/about/
   meta:
     type: "Citation"
     status: "Canonical"

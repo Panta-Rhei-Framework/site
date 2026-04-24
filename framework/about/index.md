@@ -15,7 +15,7 @@ summary_cards:
 right_rail:
   related:
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
     - title: "What the Tau Framework Is"
       url: /framework/about/what-the-tau-framework-is/
     - title: "Mathematics Layer"

@@ -2,6 +2,9 @@
 layout: program-doc
 title: "Follow the Research"
 lane: engage
+v2_lane: engage
+type: "Follow"
+status: "Active"
 permalink: /engage/follow-the-research/
 summary_short: "Receive Research Notes and program updates by email as the research develops."
 summary_cards:
@@ -12,11 +15,13 @@ summary_cards:
 right_rail:
   related:
     - title: "Research Notes"
-      url: /research-notes/
+      url: /publications/research-notes/
     - title: "Engage Overview"
       url: /engage/
+    - title: "Read & Explore"
+      url: /engage/read-explore/
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
   meta:
     type: "Follow"
     status: "Active"
@@ -44,8 +49,8 @@ Notes are published irregularly and only when there is something substantial to 
 
 **GitHub**: Watch the <a href="https://github.com/Panta-Rhei-Research/taulib" target="_blank" rel="noopener">TauLib repository</a> for formalization updates.
 
-**Research Notes**: Browse all published notes at [/research-notes/]({{ '/research-notes/' | relative_url }}).
+**Research Notes**: Browse all published notes at [/publications/research-notes/]({{ '/publications/research-notes/' | relative_url }}).
 
-**Website**: Bookmark this Atlas — new content lanes and verification surfaces are added as they are ready.
+**Website**: Bookmark this site — new content lanes and verification surfaces are added as they are ready.
 
 **Say hello**: Warm, first-time-reader introductions are welcome at [hello@panta-rhei.site](mailto:hello@panta-rhei.site). For feedback on specific books or results: [feedback@panta-rhei.site](mailto:feedback@panta-rhei.site).

@@ -60,7 +60,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  {%- if page.url contains '/engage/media-and-contact' -%}
+  {%- if page.url contains '/engage/contact' or page.url contains '/engage/media-and-contact' -%}
   "@type": "ContactPage",
   "name": {{ json_title | jsonify }},
   "description": {{ json_description | jsonify }},
@@ -91,7 +91,7 @@
         "name": "Thorsten Fuchs",
         "jobTitle": "Co-Founder & Research Lead",
         "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
-        "url": "{{ '/research-program/founders/' | absolute_url }}",
+        "url": "{{ '/program/about/founders/' | absolute_url }}",
         "sameAs": "https://orcid.org/0009-0007-0718-1042"
       },
       {
@@ -99,7 +99,7 @@
         "name": "Anna-Sophie Fuchs",
         "jobTitle": "Co-Founder",
         "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
-        "url": "{{ '/research-program/founders/' | absolute_url }}",
+        "url": "{{ '/program/about/founders/' | absolute_url }}",
         "sameAs": "https://orcid.org/0009-0007-3495-7416"
       }
     ]
@@ -372,7 +372,7 @@
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "Panta Rhei Registry",
-    "url": "{{ '/registry/' | absolute_url }}"
+    "url": "{{ '/corpus/registry/' | absolute_url }}"
   }{% if page.object_type %},
   "additionalType": {{ page.object_type | jsonify }}{% endif %}{% if page.book %},
   "isPartOf": {

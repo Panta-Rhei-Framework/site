@@ -3,73 +3,93 @@ layout: program-doc
 title: "Publications"
 lane: publications
 permalink: /publications/
-summary_short: "The canonical publication surfaces of the Panta Rhei Research Program — books, guided tours, white papers, protocols, and companion papers."
+summary_short: "The public release catalogue of the Panta Rhei Research Program: books, white papers, guided tours, companion papers, Research Notes, archives, and special artifacts."
 summary_cards:
-  - title: "Conspectus (synoptic)"
-    body: "A self-contained, single-sitting reading of the complete seven-book arc (~27 pp, 35–45 min). Kernel → cascade → commitments → Lean trust budget."
-  - title: "Seven books (canonical)"
-    body: "The canonical monograph series (2nd Edition, 2026) — 79 parts, 535 chapters, ~3,430 pages across mathematics, physics, life, and metaphysics."
-  - title: "Ledger, tours, protocols"
-    body: "209-page Physics Ledger (numerical audit trail), 7 guided-tour companions, falsification pack, reviewer's dossier, seminar abstracts, assessment protocols."
+  - title: "Canonical series"
+    body: "The seven Second Edition books are the proof-order monograph series: 79 parts, 535 chapters, and about 3,430 pages."
+  - title: "Open artifacts"
+    body: "White papers, guided tours, companion papers, Research Notes, the Physics Ledger, Categorical Genesis, errata, and archives are freely browsable from this lane."
+  - title: "Inspection routes"
+    body: "Each publication family points outward to the Corpus, Results, Verify, and Impact lanes when readers need source objects, claims, checks, or applications."
 right_rail:
   related:
-    - title: "About the Research"
-      url: /research-program/about/
-    - title: "Framework Overview"
-      url: /framework/about/
+    - title: "Books"
+      url: /publications/books/
+    - title: "Research Notes"
+      url: /publications/research-notes/
     - title: "Verify"
       url: /verify/
   meta:
     type: "Lane Root"
-    scope: "All publications"
+    scope: "Released artifacts"
     status: "Canonical"
     updated: "April 2026"
 ---
 
-## Publication Ontology
+## What Belongs Here
 
-The Panta Rhei Research Program publishes through complementary surfaces rather than a single monolithic release. This is deliberate: a research program that claims to bridge mathematics, physics, biology, and metaphysics needs multiple entry points — the canonical proof-order argument (the books), the structured falsification surface (the white papers), the machine-checked [verification layer]({{ '/verify/' | relative_url }}), and the domain-specific guided tours that lower the threshold for expert engagement. Each surface serves a different kind of reader and a different depth of scrutiny. Publications are not marketing — they are the canonical articulation of the research, designed so that the [framework's claims]({{ '/framework/about/' | relative_url }}) can be inspected from any angle.
+Publications is the public shelf of released research artifacts. It is not the whole site and not a marketing layer. It holds stable things readers can cite, inspect, download, read in order, or compare across editions.
 
-## Publication Families
+The lane is deliberately plural. The books carry the canonical proof-order argument. The white papers isolate technical audit surfaces. The guided tours lower the entry cost for specific audiences. Companion papers explore conditional public-good consequences. Research Notes carry dated, article-like research writing as the program develops. The archive preserves superseded public releases without treating them as current canon.
 
-### [The Panta Rhei Conspectus]({{ '/publications/conspectus/' | relative_url }})
+## Canonical Reading Order
 
-A self-contained, **single-sitting reading** of the complete seven-book programme — approximately **27 pages, 35–45 minutes**. Walks the full arc from the 7-axiom kernel and master constant ι<sub>τ</sub>, through the L0→L4 calibration cascade and 67 zero-parameter predictions, to the 30-entry Falsification Pack and the Lean trust budget. Designed to be read cover-to-cover on a single flight or afternoon; sits between the 23-page *Series Prospectus* and the 209-page *Physics Ledger*.
+### [Books]({{ '/publications/books/' | relative_url }})
 
-### [The Seven Books]({{ '/publications/books/' | relative_url }})
+The seven Second Edition books are the canonical monograph series. They are organized in proof order from mathematical kernel to physics, life, and metaphysics.
 
-The canonical monograph series — organized in proof-order, 79 parts, 535 chapters, ~3,430 pages. Each book earns its content from what came before.
+### [Conspectus]({{ '/publications/conspectus/' | relative_url }})
 
-{% for book in site.data.publications.books %}
-- **Book {{ book.roman }}**: [{{ book.title }}]({{ book.url | relative_url }}) — *{{ book.subtitle }}* ({{ book.pages }} pages)
-{% endfor %}
+A single-sitting synoptic reading of the full seven-book arc. Use it when you want the whole shape before opening individual volumes.
+
+### [Research Notes]({{ '/publications/research-notes/' | relative_url }})
+
+Dated, article-like research artifacts for substantial public-facing updates, explanatory essays, and bridge texts. Research Notes are publication objects, while [Engage]({{ '/engage/follow-the-research/' | relative_url }}) handles email delivery and following.
+
+## Technical Surfaces
 
 ### [Guided Tours]({{ '/publications/guided-tours/' | relative_url }})
 
-Structural falsification whitepapers (56 pages, 49 hinges), Lean verification companions, and 8 interactive TauLib tours for different audiences.
+Audience-specific entry routes and Lean companions for readers who want to attack structural hinges directly.
 
 ### [White Papers]({{ '/publications/white-papers/' | relative_url }})
 
-Technical documents: falsification pack (220+ predictions), Lean verification report, reviewer's dossier, reader's guide, series prospectus, and seminar abstracts.
+Technical audit documents including the falsification pack, Lean verification report, reviewer's dossier, reader's guide, series prospectus, seminar abstracts, and one-page orientation artifacts.
 
 ### [Companion Papers]({{ '/publications/companion-papers/' | relative_url }})
 
-44 public-good deployment papers across 11 impact portfolios — conditional scenario analyses. Full text available in the [Impact lane]({{ '/impact/' | relative_url }}).
+Conditional public-good deployment papers organized by impact portfolio. They do not replace the [Impact lane]({{ '/impact/' | relative_url }}); they are the publication index for those papers.
 
 ### [Errata]({{ '/publications/errata/' | relative_url }})
 
-Public changelog for substantial corrections to the 2nd Edition books, verification surfaces, registry entries, and associated publications. Errata are append-only and citeable by ID.
+Append-only correction and clarification surface for substantial changes to released public artifacts.
 
-### [Assessment Protocols]({{ '/verify/assessments/' | relative_url }})
+## Special Artifacts
 
-AI-assisted first-pass assessment protocol with three-gate rubric, prompt templates, and structured dossier output. Now part of the [Verify lane]({{ '/verify/' | relative_url }}).
+### [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }})
 
-### [Archived Releases — First Edition]({{ '/publications/archived/first-edition/' | relative_url }})
+The 209-page numerical scorecard for the physics layer, including the calibration cascade, prediction inventory, and falsification targets.
 
-The First Edition (December 2025) is preserved as an archived historical release. It documents an earlier public state of the work before the current canonical Second Edition. It remains available for reference and comparison, but it is no longer the active research canon.
+### [Categorical Genesis]({{ '/publications/categorical-genesis/' | relative_url }})
 
-## How Publications Relate to the Site
+A self-contained companion to Book VII that applies the framework's structural apparatus to Genesis 1-3 under explicit scope and override rules.
 
-The books carry the canonical argument in proof-order — each chapter depends on what came before, and the seven volumes form a single derivation chain from [kernel]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) to [metaphysics]({{ '/publications/books/book-vii/' | relative_url }}). The Atlas (this site) provides navigable access in understanding-order — readers can enter through any lane and follow the path that matches their questions. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
+### [Bibliography]({{ '/publications/bibliography/' | relative_url }})
 
-These are not separate projects. They are different public surfaces of the same research program. The [Results lane]({{ '/results/' | relative_url }}) provides the claims; the books provide the proofs; the [bibliography]({{ '/bibliography/' | relative_url }}) provides the scholarly context; and the [verification surfaces]({{ '/verify/' | relative_url }}) provide the routes for inspection.
+The publication-facing bibliography home. It routes to the searchable reference corpus, browse surface, and BibTeX artifact.
+
+## Archived Releases
+
+### [Archived Releases]({{ '/publications/archived/' | relative_url }})
+
+Historical public releases remain available for provenance and comparison. They are not the active citation target unless a reader is explicitly studying the program's development history.
+
+{% for book in site.data.publications.books %}
+- **Book {{ book.roman }}**: [{{ book.title }}]({{ book.url | relative_url }}) - *{{ book.subtitle }}* ({{ book.pages }} pages)
+{% endfor %}
+
+## How Publications Connect
+
+The books and publication artifacts give the stable prose. The [Corpus]({{ '/corpus/' | relative_url }}) gives the registered source objects. The [Results]({{ '/results/' | relative_url }}) lane gives the problem-and-result mirror. The [Verify]({{ '/verify/' | relative_url }}) lane gives machine-checking, empirical falsification routes, and assessment protocols. The [Impact]({{ '/impact/' | relative_url }}) lane gives public-good deployment scenarios.
+
+These surfaces are different public projections of one research program. Publications is where the released artifacts live; the surrounding lanes make them inspectable.

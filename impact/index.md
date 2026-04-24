@@ -1,46 +1,102 @@
 ---
 layout: program-doc
-title: Potential Impact
+title: Impact
 permalink: /impact/
 lane: impact
-summary_short: If the framework holds, what could change? 11 public-good portfolios
-  with 44 companion papers.
+type: "Lane Root"
+status: "Conditional"
+summary_short: "If the framework holds, what could change? Conditional consequence surfaces across foundational science, applied research, education, orientation, societal coherence, and public-good deployment."
 summary_cards:
-- title: Assumption-led
-  body: Every portfolio states explicitly what must hold true before consequences
-    follow.
-- title: 11 portfolios
-  body: Climate, energy, agriculture, ocean, one-health, water, weather, disaster,
-    biodiversity, pollution, solar.
-- title: Not triumphalist
-  body: Conditional scenarios, not promises. Always downstream of framework validation.
+  - title: "Impact is conditional"
+    body: "The word if is load-bearing. Impact claims remain downstream of Results, Verify, and explicit translation assumptions."
+  - title: "Six strata"
+    body: "Foundational science, applied research, global education, existential orientation, societal coherence, and global public-good deployment."
+  - title: "11 portfolios"
+    body: "Global Public Good gathers 11 public-good portfolios and 44 companion papers."
+hero_ctas:
+  - label: "Impact Framework"
+    url: /impact/impact-framework/
+    primary: true
+  - label: "Global Public Good"
+    url: /impact/global-public-good/
+  - label: "Foundational Science"
+    url: /impact/foundational-science/
 right_rail:
   related:
-  - title: Claims
+  - title: "Results"
     url: /results/
-  - title: Framework
-    url: /framework/about/
+  - title: "Verify"
+    url: /verify/
+  - title: "Companion Papers"
+    url: /publications/companion-papers/
   meta:
-    type: Lane Root
-    status: Conditional
-    updated: April 2026
+    type: "Lane Root"
+    scope: "Conditional consequences"
+    status: "Conditional"
+    updated: "April 2026"
 ---
 
-## Public-Good Deployment Portfolios
+## Core Statement
 
-The Impact lane translates [framework claims]({{ '/framework/about/' | relative_url }}) into conditional consequence portfolios. Each portfolio asks: **if the framework holds, what could change in this domain?**
+Impact is conditional. This lane does not present promises, triumphalist claims, or productized certainty. It presents consequence structures that become relevant **if** the framework's [Results]({{ '/results/' | relative_url }}) hold and survive [Verify]({{ '/verify/' | relative_url }}).
 
-The word *if* is load-bearing. The framework's [key results]({{ '/results/' | relative_url }}) carry explicit epistemic status labels — resolved, partial, qualitative, or contradicted — and only results that survive the [verification surfaces]({{ '/verify/' | relative_url }}) earn the right to generate downstream consequences. A conditional portfolio does not promise that a consequence will materialize. It maps what *would* follow if the underlying framework claims hold, so that domain experts can evaluate the conditional chain independently.
+The impact discipline is simple: a result does not automatically become a social consequence. It must survive scrutiny, pass through an explicit translation layer, meet domain uptake conditions, and remain honest about what is assumed.
 
-This is the structure of honest public-good reasoning from an independent research program: trace the chain from [kernel]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) to consequence, type the assumptions at every step, and let the evidence decide.
+## Why This Lane Exists
 
-Every portfolio is:
-- **Assumption-led** — states what must hold before consequences follow
-- **Downstream** — always traces back to Framework, Results, and Verify lanes
-- **Public-good oriented** — framed around societal benefit, not commercial value
-- **Conditional** — never triumphalist, always explicit about preconditions
+A framework of this scope would not affect only one layer of discourse if it were valid. Its consequences would appear at several levels:
 
-## Portfolios
+- foundational science
+- applied research and scientific toolchains
+- education and public understanding
+- existential orientation
+- societal coherence
+- global public-good deployment
+
+These are not equal-strength claims. They are impact strata, each with its own assumptions, traceability requirements, and limits.
+
+## Impact Pipeline
+
+<div class="v2-system-row" aria-label="Impact pipeline">
+  <a class="v2-system-node" href="{{ '/results/' | relative_url }}"><strong>Results</strong>What the framework claims follows.</a>
+  <span class="v2-system-arrow">→</span>
+  <a class="v2-system-node" href="{{ '/verify/' | relative_url }}"><strong>Verify</strong>What survives formal, empirical, and review pressure.</a>
+  <span class="v2-system-arrow">→</span>
+  <a class="v2-system-node" href="{{ '/impact/impact-framework/' | relative_url }}"><strong>Impact Framework</strong>How surviving results become conditional consequences.</a>
+  <span class="v2-system-arrow">→</span>
+  <a class="v2-system-node" href="{{ '/impact/global-public-good/' | relative_url }}"><strong>Public Good</strong>Where domain-specific deployment scenarios are organized.</a>
+</div>
+
+## Impact Strata
+
+<div class="v2-grid">
+  <a class="v2-tile" href="{{ '/impact/foundational-science/' | relative_url }}">
+    <h3>Foundational Science</h3>
+    <p>How the framework could alter foundations, unification standards, and the comparison of scientific world-pictures.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/impact/applied-science-and-research/' | relative_url }}">
+    <h3>Applied Science & Research</h3>
+    <p>How surviving results could generate downstream research agendas, modeling pathways, and formal toolchains.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/impact/global-education/' | relative_url }}">
+    <h3>Global Education</h3>
+    <p>How the program could make difficult cross-domain science more teachable if the core structure holds.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/impact/existential-orientation/' | relative_url }}">
+    <h3>Existential Orientation</h3>
+    <p>How humans might orient themselves differently in relation to life, mind, meaning, and reality.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/impact/societal-coherence/' | relative_url }}">
+    <h3>Societal Coherence</h3>
+    <p>How a coherent framework could affect public tensions across scientific, philosophical, and existential registers.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/impact/global-public-good/' | relative_url }}">
+    <h3>Global Public Good</h3>
+    <p>11 assumption-led public-good portfolios with 44 companion papers.</p>
+  </a>
+</div>
+
+## Global Public-Good Portfolios
 
 <div class="portfolio-grid">
 {% for p in site.data.impact.portfolios %}
@@ -77,3 +133,7 @@ Every portfolio is:
   </a>
 {% endfor %}
 </div>
+
+## Important Note
+
+The word **if** is load-bearing. Impact remains downstream of explicit assumptions, translation layers, and survival under scrutiny. For the publication index of these papers, see [Companion Papers]({{ '/publications/companion-papers/' | relative_url }}).

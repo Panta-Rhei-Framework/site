@@ -44,7 +44,7 @@ The choice of mode determines which prompt template to use and which materials t
 
 Assemble the materials the model will analyse. All sources must be publicly available. Suitable materials include:
 
-- The Atlas (main website pages)
+- The main website pages
 - Guided Tours
 - Lean companions and TauLib repository
 - Public talks, clarifications, and errata

@@ -14,7 +14,7 @@ summary_cards:
 right_rail:
   related:
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
     - title: "Cite the Books"
       url: /cite/
     - title: "Publications"

@@ -1,23 +1,54 @@
+{% assign search_lane = page.v2_lane | default: page.lane | default: "" %}
+{% if search_lane == "" %}
+  {% if page.url contains "/discover/" %}{% assign search_lane = "discover" %}
+  {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign search_lane = "program" %}
+  {% elsif page.url contains "/corpus/" or page.url contains "/registry/" or page.url contains "/framework/" %}{% assign search_lane = "corpus" %}
+  {% elsif page.url contains "/results/" %}{% assign search_lane = "results" %}
+  {% elsif page.url contains "/verify/" %}{% assign search_lane = "verify" %}
+  {% elsif page.url contains "/publications/" %}{% assign search_lane = "publications" %}
+  {% elsif page.url contains "/impact/" %}{% assign search_lane = "impact" %}
+  {% elsif page.url contains "/engage/" %}{% assign search_lane = "engage" %}
+  {% else %}{% assign search_lane = "support" %}
+  {% endif %}
+{% endif %}
+{% if search_lane == "research-program" %}{% assign search_lane = "program" %}{% endif %}
+{% if search_lane == "registry" or search_lane == "framework" %}{% assign search_lane = "corpus" %}{% endif %}
+{% if search_lane == "bibliography" or search_lane == "utility" %}{% assign search_lane = "support" %}{% endif %}
+{% assign shell_class = page.shell | default: "standard" %}
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en' }}">
 <head>
   {% include head.html %}
 </head>
-<body>
+<body class="site-body lane-{{ search_lane }} shell-{{ shell_class }}">
 
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
   {% include header.html %}
   <div class="drawer-backdrop" id="drawer-backdrop"></div>
 
-  <div class="page-grid">
+  <div class="page-grid{% if page.shell == 'home' %} page-grid-home{% endif %}">
+    {% unless page.shell == 'home' %}
     {% include left-rail.html %}
+    {% endunless %}
 
-    <main class="main-content" id="main-content" data-pagefind-body>
+    <main class="main-content" id="main-content" data-lane="{{ search_lane }}" data-pagefind-body>
+      <span class="sr-only" data-pagefind-filter="lane">{{ search_lane | capitalize }}</span>
+      {% if page.type %}<span class="sr-only" data-pagefind-filter="type">{{ page.type }}</span>{% endif %}
+      {% if page.status %}<span class="sr-only" data-pagefind-meta="status">{{ page.status }}</span>{% endif %}
+      {% if page.domain %}<span class="sr-only" data-pagefind-meta="domain">{{ page.domain }}</span>{% endif %}
+      {% if page.publication_type %}<span class="sr-only" data-pagefind-meta="publication_type">{{ page.publication_type }}</span>{% endif %}
+      {% if page.note_type %}<span class="sr-only" data-pagefind-meta="note_type">{{ page.note_type }}</span>{% endif %}
+      {% if page.date %}<span class="sr-only" data-pagefind-meta="date">{{ page.date | date_to_xmlschema }}</span>{% endif %}
+      {% if page.tags %}<span class="sr-only" data-pagefind-meta="tags">{{ page.tags | join: ', ' }}</span>{% endif %}
+      {% if page.topics %}<span class="sr-only" data-pagefind-meta="topics">{{ page.topics | join: ', ' }}</span>{% endif %}
+      {% if page.summary_short %}<span class="sr-only" data-pagefind-meta="summary">{{ page.summary_short | strip_html }}</span>{% endif %}
       {{ content }}
     </main>
 
+    {% unless page.shell == 'home' %}
     {% include right-rail.html %}
+    {% endunless %}
   </div>
 
   {% include footer.html %}
@@ -27,10 +58,14 @@
     <div class="search-overlay-backdrop" onclick="closeSearch()"></div>
     <div class="search-overlay-panel glass">
       <div class="search-overlay-header">
-        <span class="search-overlay-title">Search the Atlas</span>
+        <span class="search-overlay-title">Search the Site</span>
         <button class="search-overlay-close" onclick="closeSearch()" aria-label="Close search">&times;</button>
       </div>
+      <p class="search-overlay-hint">Try Hubble, prime polarity, Book V, ring axioms, consciousness, or climate.</p>
       <div id="search-container"></div>
+      <div class="search-overlay-actions">
+        <a id="search-google-link" class="search-google-link" href="https://www.google.com/search?q=site%3Apanta-rhei.site" target="_blank" rel="noopener">Broader site search with Google</a>
+      </div>
     </div>
   </div>
 
@@ -42,14 +77,25 @@
           element: "#search-container",
           showSubResults: true,
           showImages: false,
+          showEmptyFilters: true,
+          openFilters: ["lane", "type"],
         });
       } else {
         document.getElementById('search-container').innerHTML =
           '<p style="padding:16px;color:#5b6772;font-size:0.88rem;">Search will be available once the site is deployed.</p>';
       }
+      syncGoogleSearchLink();
     });
 
     var _searchPreviousFocus = null;
+    function syncGoogleSearchLink() {
+      var link = document.getElementById('search-google-link');
+      if (!link) return;
+      var input = document.querySelector('#search-container input');
+      var term = input && input.value ? input.value.trim() : '';
+      var query = 'site:panta-rhei.site' + (term ? ' ' + term : '');
+      link.href = 'https://www.google.com/search?q=' + encodeURIComponent(query);
+    }
     function openSearch() {
       _searchPreviousFocus = document.activeElement;
       // Close other mobile surfaces
@@ -60,6 +106,7 @@
       setTimeout(function() {
         var input = document.querySelector('#search-container input');
         if (input) input.focus();
+        syncGoogleSearchLink();
       }, 100);
     }
     function closeSearch() {
@@ -76,6 +123,11 @@
       if ((e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) && !e.target.matches('input, textarea')) {
         e.preventDefault();
         openSearch();
+      }
+    });
+    document.addEventListener('input', function(e) {
+      if (e.target && e.target.closest && e.target.closest('#search-container')) {
+        syncGoogleSearchLink();
       }
     });
   </script>

@@ -9,7 +9,7 @@ right_rail:
     - title: "How to Audit (Hub)"
       url: /verify/how-to-audit/
     - title: "Red-team FAQ"
-      url: /research-program/about/red-team-faq/
+      url: /program/about/red-team-faq/
     - title: "Release Manifest"
       url: /verify/release-manifest/
     - title: "Media Kit"
@@ -29,7 +29,7 @@ Being skeptical of ambitious theoretical programs is the right default. The fram
 
 ### Step 1 — Read the Red-team FAQ (~5 min)
 
-Open the [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}). These are the ten hardest first-contact skeptical questions, synthesized from three independent frontier-LLM first-pass assessments. Each is answered with honest reference to load-bearing evidence.
+Open the [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}). These are the ten hardest first-contact skeptical questions, synthesized from three independent frontier-LLM first-pass assessments. Each is answered with honest reference to load-bearing evidence.
 
 **What to check as you read:**
 - Are the questions themselves the right questions? A framework's FAQ that answers easy questions is a marketing document; a framework's FAQ that answers hard questions is a research document.
@@ -66,7 +66,7 @@ A program willing to stake its cosmology on one future measurement is behaving l
 
 ### Step 4 — Glance at the claim surface (~2 min)
 
-Open [Browse All Claims]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed claims across four domains. Pay attention to the status codes:
+Open [Browse All Results]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed results across four domains. Pay attention to the status codes:
 
 - **R (Resolved)** — full τ-internal theorem
 - **P (Partial)** — theorem with conjectural bridge to orthodox formulation
@@ -98,7 +98,7 @@ If the 15-minute scan is positive and you want to go deeper:
 
 - **If you have a specific technical background,** take the corresponding route: [formal methods]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}), [mathematician]({{ '/verify/how-to-audit/mathematician/' | relative_url }}), [physicist]({{ '/verify/how-to-audit/physicist/' | relative_url }}), [philosopher]({{ '/verify/how-to-audit/philosopher/' | relative_url }}), or [prior-art specialist]({{ '/verify/how-to-audit/prior-art-specialist/' | relative_url }}).
 - **If you're writing about the program,** the [Media Kit]({{ '/media/' | relative_url }}) has structured assets, and the [Review Kit]({{ '/media/review-kit/' | relative_url }}) includes reviewer-ready materials.
-- **If you want to find a specialist,** [contact the program]({{ '/engage/media-and-contact/' | relative_url }}) — the authors can help connect you with a domain reviewer they have engaged with.
+- **If you want to find a specialist,** [contact the program]({{ '/engage/contact/' | relative_url }}) — the authors can help connect you with a domain reviewer they have engaged with.
 
 ## The honest framing
 
@@ -112,7 +112,7 @@ This framework, on the scan above, does all four. What to conclude from that is 
 
 ## Cross-links
 
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions, answered
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions, answered
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit snapshot with honest drift reconciliation
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
 - [Media Kit]({{ '/media/' | relative_url }}) — press and review resources

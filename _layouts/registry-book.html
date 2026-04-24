@@ -6,7 +6,7 @@ layout: default
 {% assign book_file = page.book_slug | append: ".json" %}
 
 <div class="hero-card">
-  <span class="eyebrow">Registry · Book {{ page.book }}</span>
+  <span class="eyebrow">Corpus · Registry · Book {{ page.book }}</span>
   <h1>{{ page.title }}</h1>
   <p>{{ page.object_count }} registry objects — theorems, definitions, propositions, and more.</p>
   <div class="chip-row">
@@ -14,6 +14,7 @@ layout: default
     <span class="chip">{{ page.object_count }} objects</span>
   </div>
   <div class="btn-group">
+    <a href="{{ '/corpus/registry/' | relative_url }}" class="btn-secondary">Registry Overview</a>
     <a href="{{ '/registry/dashboards/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary">View Dashboard</a>
   </div>
 </div>

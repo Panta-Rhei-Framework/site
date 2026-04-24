@@ -1,9 +1,12 @@
 ---
 layout: program-doc
-title: "Archived Releases — First Edition"
+title: "First Edition Archive"
 lane: publications
 permalink: /publications/archived/first-edition/
 section: "archived releases"
+type: "Publication Archive"
+publication_type: "First Edition"
+status: "Archived"
 summary_short: "The First Edition is preserved as an archived historical release of the Panta Rhei Research Program. It documents an earlier public state of the work before the current canonical Second Edition."
 summary_cards:
   - title: "Edition"
@@ -14,12 +17,14 @@ summary_cards:
     body: "7 books, 71 parts, 532 chapters"
 right_rail:
   related:
+    - title: "Archived Releases"
+      url: /publications/archived/
     - title: "Publications"
       url: /publications/
     - title: "The Seven Books (2nd Edition)"
       url: /publications/books/
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
   meta:
     type: "Archive Root"
     scope: "First Edition"
@@ -32,6 +37,8 @@ right_rail:
 The First Edition is preserved as an archived historical release of the Panta Rhei Research Program. It documents an earlier public state of the work before the current canonical Second Edition. It remains available for reference and comparison, but it is no longer the active research canon.
 
 The Second Edition (March 2026) substantially rewrites all seven volumes, consolidating the foundation into the Coherence Kernel (7 axioms, 5 generators, 1 operator), correcting the master constant, and adding full Lean 4 machine-checked verification.
+
+For a compact account of the transition, read [From First to Second Edition: What Changed and Why]({{ '/publications/research-notes/from-first-to-second-edition/' | relative_url }}).
 
 ## Archived Volumes
 

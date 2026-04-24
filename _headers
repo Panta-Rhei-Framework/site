@@ -1,12 +1,10 @@
 # Cache-Control headers for Cloudflare Pages / Netlify.
 #
-# Current production hosting is GitHub Pages behind Cloudflare DNS/proxy.
-# GitHub Pages ignores this file, and Cloudflare's reverse proxy does not read
-# a repository _headers file from a GitHub Pages origin. To activate these
-# headers, either:
-#   (a) migrate this repo's Pages artifact to Cloudflare Pages / Netlify, OR
-#   (b) recreate the rules below as Cloudflare Response Header / Cache Rules
-#       or in a Cloudflare Worker.
+# Current production hosting is GitHub Pages behind Cloudflare DNS/proxy. GitHub
+# Pages ignores this file, and Cloudflare's reverse proxy does not read a
+# repository _headers file from a GitHub Pages origin. The executable edge
+# implementation for the current setup lives in workers/site-edge-headers.js.
+# Keep the two policies aligned if either file changes.
 #
 # Pagefind + main CSS use build-time cache-bust query strings (?v=epoch),
 # so 1-year max-age is safe — the URL changes on every deploy.
@@ -42,12 +40,12 @@
 #   - sitemap     → /sitemap.xml
 #   - license     → CC BY 4.0 (site content license)
 #   - service-doc → /verify/taulib/docs/ (TauLib Lean 4 API reference, human-readable)
-#   - help        → /verify/assessments/ (AI-assisted assessment protocols & usage rules)
-#   - author      → /research-program/founders/ (research program authors)
-#   - describedby → /research-program/about/ (canonical program description)
+#   - help        → /verify/assessment-protocols/ (assessment protocols & usage rules)
+#   - author      → /program/about/founders/ (research program authors)
+#   - describedby → /program/about/ (canonical program description)
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Link: </sitemap.xml>; rel="sitemap"; type="application/xml", <https://creativecommons.org/licenses/by/4.0/>; rel="license"; title="CC BY 4.0", </verify/taulib/docs/>; rel="service-doc"; type="text/html"; title="TauLib API reference", </verify/assessments/>; rel="help"; type="text/html"; title="Assessment protocols", </research-program/founders/>; rel="author"; type="text/html"; title="Founders", </research-program/about/>; rel="describedby"; type="text/html"; title="About the research program"
+  Link: </sitemap.xml>; rel="sitemap"; type="application/xml", <https://creativecommons.org/licenses/by/4.0/>; rel="license"; title="CC BY 4.0", </verify/taulib/docs/>; rel="service-doc"; type="text/html"; title="TauLib API reference", </verify/assessment-protocols/>; rel="help"; type="text/html"; title="Assessment protocols", </program/about/founders/>; rel="author"; type="text/html"; title="Founders", </program/about/>; rel="describedby"; type="text/html"; title="About the research program"

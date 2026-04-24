@@ -25,7 +25,7 @@ right_rail:
 
 This is the primary assessment mode. It evaluates the entire seven-book Panta Rhei research architecture across three gates: research-form legitimacy, novelty and relevance, and impact and salvage value.
 
-The prompt below is pre-filled with the actual public URLs for the Panta Rhei Atlas, Guided Tours, Lean companions, TauLib repository, and book index. Copy it into any frontier AI model --- Claude, GPT-4, Gemini, or equivalent --- and the model will produce a typed dossier structured by the [Three-Gate Rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}).
+The prompt below is pre-filled with the actual public URLs for the Panta Rhei site, Guided Tours, Lean companions, TauLib repository, and book index. Copy it into any frontier AI model --- Claude, GPT-4, Gemini, or equivalent --- and the model will produce a typed dossier structured by the [Three-Gate Rubric]({{ '/verify/assessments/three-gate-rubric/' | relative_url }}).
 
 The protocol works with public materials only. No confidential or unpublished material is required.
 
@@ -55,7 +55,7 @@ Your job is to produce a typed dossier answering three bounded questions:
 ## Materials to use
 
 Use only the following public materials:
-- Series overview / Atlas / website: https://panta-rhei.site
+- Series overview / website: https://panta-rhei.site
 - Guided Tours index: https://panta-rhei.site/publications/guided-tours/
 - Lean companions index: https://panta-rhei.site/verify/taulib/docs/
 - TauLib public repository: https://github.com/Panta-Rhei-Research/taulib

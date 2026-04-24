@@ -8,12 +8,12 @@
   gap: 14px;
   padding: 18px 20px;
   margin-bottom: 24px;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--surface-card);
   backdrop-filter: blur(10px) saturate(140%);
   -webkit-backdrop-filter: blur(10px) saturate(140%);
-  border: 1px solid rgba(255, 255, 255, 0.55);
+  border: var(--border-default);
   border-radius: $radius-lg;
-  box-shadow: 0 4px 20px rgba(22, 29, 37, 0.05);
+  box-shadow: var(--shadow-card);
 }
 
 // ---------- Prediction grid + cards ----------
@@ -34,8 +34,8 @@
 .prediction-card,
 .falsification-card {
   display: block;
-  background: rgba(255, 255, 255, 0.75);
-  border: 1px solid rgba(22, 29, 37, 0.08);
+  background: var(--surface-card);
+  border: var(--border-default);
   border-radius: $radius-lg;
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
   content-visibility: auto;
@@ -43,8 +43,8 @@
 
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(22, 29, 37, 0.08);
-    border-color: rgba(22, 62, 100, 0.2);
+    box-shadow: var(--shadow-card);
+    border-color: var(--lane-current);
   }
 
   &[hidden] { display: none; }
@@ -97,7 +97,7 @@
   margin-bottom: 10px;
 }
 
-.prediction-card-tau { color: $accent; font-weight: 600; }
+.prediction-card-tau { color: var(--lane-current); font-weight: 600; }
 .prediction-card-dev { font-weight: 600; }
 
 .prediction-card-bottom,
@@ -116,7 +116,7 @@
 }
 
 .falsification-experiment { font-weight: 500; }
-.falsification-timeline { color: lighten($text-muted, 10%); }
+.falsification-timeline { color: var(--color-ink-500); }
 
 // ---------- Precision tier chips ----------
 .chip-precision-sub-10-ppm,
@@ -172,7 +172,7 @@
   .chip-status-testable.is-active { background: #a66d00; border-color: #a66d00; color: #fff; }
 }
 
-.chip-fals-id { background: rgba(22, 62, 100, 0.12); border-color: rgba(22, 62, 100, 0.25); color: $accent; font-weight: 700; font-family: $font-mono; }
+.chip-fals-id { background: var(--color-brand-50); border-color: rgba(22, 62, 100, 0.25); color: var(--color-brand-800); font-weight: 700; font-family: $font-mono; }
 .chip-seam { background: rgba(139, 69, 19, 0.1); border-color: rgba(139, 69, 19, 0.3); color: #8b4513; }
 
 // ---------- Empty state ----------
@@ -180,7 +180,7 @@
 .falsifications-browse-empty {
   padding: 40px 20px;
   text-align: center;
-  background: rgba(255, 255, 255, 0.5);
+  background: var(--surface-meta);
   border: 1px dashed rgba(22, 29, 37, 0.15);
   border-radius: $radius-lg;
   margin-bottom: 20px;
@@ -226,7 +226,7 @@
     color: $text;
   }
 
-  .prediction-value-tau { color: $accent; }
+  .prediction-value-tau { color: var(--lane-current); }
   .prediction-deviation { color: #1e7e34; }
 }
 

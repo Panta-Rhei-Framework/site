@@ -1,8 +1,8 @@
 ---
-title: "Panta Rhei Atlas — initial public launch"
+title: "Panta Rhei site — initial public launch"
 date: 2026-04-08
 change_type: "site-release"
-summary_short: "Initial public launch of the Panta Rhei Research Program site (the Atlas) with all seven core lanes."
+summary_short: "Initial public launch of the Panta Rhei Research Program site with all seven core lanes."
 affected_lanes:
   - research-program
   - framework
@@ -17,7 +17,7 @@ right_rail:
     - title: "Changelog"
       url: /changelog/
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
   meta:
     type: "Changelog Entry"
     status: "Published"

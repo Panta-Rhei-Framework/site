@@ -12,7 +12,7 @@ right_rail:
   - title: Prediction Timing Ledger
     url: /results/predictions/timing/
   - title: Red-team FAQ
-    url: /research-program/about/red-team-faq/
+    url: /program/about/red-team-faq/
   meta:
     type: "Physics Ledger Appendix"
     status: "Canonical"
@@ -151,5 +151,5 @@ This is a statistics PhD thesis worth of work, not a first-pass dossier item. Th
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue, including the Tier A / B / C taxonomy
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
 - [Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — see Ch 58a "The Calibration Cascade" for the two-input + four-layer architectural proof
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit — Physicist Route]({{ '/verify/how-to-audit/physicist/' | relative_url }}) — concrete inspection path for a physics reviewer

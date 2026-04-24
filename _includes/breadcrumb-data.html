@@ -26,7 +26,7 @@ Home::/|Publications::/publications/|Books::/publications/books/|Book {{ page.bo
 Home::/|Publications::/publications/|Books::/publications/books/|Book {{ page.book_id }}::{{ page.url }}
 
 {%- when 'publication-archive-book' -%}
-Home::/|Publications::/publications/|Archived Editions::/publications/archived/first-edition/|Book {{ page.book_id }} (1st Ed.)::{{ page.url }}
+Home::/|Publications::/publications/|Archived Releases::/publications/archived/|First Edition::/publications/archived/first-edition/|Book {{ page.book_id }} (1st Ed.)::{{ page.url }}
 
 {%- when 'framework-module' -%}
 {%- assign layer_name = 'Framework' -%}
@@ -40,34 +40,35 @@ Home::/|Publications::/publications/|Archived Editions::/publications/archived/f
 Home::/|Framework::/framework/about/|{{ layer_name }}::{{ layer_url }}|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'result-page' -%}
-Home::/|Claims::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'registry-object' -%}
-Home::/|Registry::/registry/|Book {{ page.book }}::/registry/books/book-{{ page.book | downcase }}/|{{ page.registry_id | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Corpus::/corpus/|Registry::/corpus/registry/|Book {{ page.book }}::/registry/books/book-{{ page.book | downcase }}/|{{ page.registry_id | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'registry-book' -%}
-Home::/|Registry::/registry/|Book {{ page.book_id | default: page.title }}::{{ page.url }}
+Home::/|Corpus::/corpus/|Registry::/corpus/registry/|Book {{ page.book_id | default: page.title }}::{{ page.url }}
 
 {%- when 'registry-dashboard' -%}
-Home::/|Registry::/registry/|Dashboard::{{ page.url }}
+Home::/|Corpus::/corpus/|Registry::/corpus/registry/|Dashboard::{{ page.url }}
 
 {%- when 'bibliography-entry' -%}
 Home::/|Bibliography::/bibliography/|{{ page.domain_group | default: 'References' | replace: '|', ' ' }}::/bibliography/|{{ page.title_plain | default: page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'research-note' -%}
-Home::/|Engage::/engage/|Research Notes::/research-notes/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Publications::/publications/|Research Notes::/publications/research-notes/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'research-notes-index' -%}
-Home::/|Engage::/engage/|Research Notes::{{ page.url }}
+Home::/|Publications::/publications/|Research Notes::{{ page.url }}
 
 {%- when 'taulib-doc' -%}
 Home::/|Verify::/verify/|TauLib::/verify/taulib/|API Docs::/verify/taulib/docs/|{% if page.book %}Book {{ page.book }}::/verify/taulib/docs/|{% endif %}{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'impact-paper' -%}
-Home::/|Impact::/impact/|Portfolios::/impact/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
+{%- assign pf_slug = page.portfolio_id | default: '' | replace: 'impact-', '' -%}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ pf_slug | replace: '-', ' ' | capitalize }}::/impact/global-public-good/{{ pf_slug }}/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'impact-portfolio' -%}
-Home::/|Impact::/impact/|Portfolios::/impact/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'changelog-entry' -%}
 Home::/|Changelog::/changelog/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
@@ -82,17 +83,70 @@ Home::/|Bibliography::{{ page.url }}
 {%- assign lane_label = page.lane | default: '' | capitalize -%}
 {%- assign lane_url = '/' -%}
 {%- case page.lane -%}
-  {%- when 'results' -%}{%- assign lane_label = 'Claims' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'results' -%}{%- assign lane_label = 'Results' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'discover' -%}{%- assign lane_label = 'Discover' -%}{%- assign lane_url = '/discover/' -%}
+  {%- when 'program' -%}{%- assign lane_label = 'Program' -%}{%- assign lane_url = '/program/' -%}
+  {%- when 'corpus' -%}{%- assign lane_label = 'Corpus' -%}{%- assign lane_url = '/corpus/' -%}
   {%- when 'framework' -%}{%- assign lane_label = 'Framework' -%}{%- assign lane_url = '/framework/about/' -%}
   {%- when 'impact' -%}{%- assign lane_label = 'Impact' -%}{%- assign lane_url = '/impact/' -%}
   {%- when 'verify' -%}{%- assign lane_label = 'Verify' -%}{%- assign lane_url = '/verify/' -%}
-  {%- when 'registry' -%}{%- assign lane_label = 'Registry' -%}{%- assign lane_url = '/registry/' -%}
+  {%- when 'registry' -%}{%- assign lane_label = 'Registry' -%}{%- assign lane_url = '/corpus/registry/' -%}
+  {%- when 'publications' -%}{%- assign lane_label = 'Publications' -%}{%- assign lane_url = '/publications/' -%}
+  {%- when 'engage' -%}{%- assign lane_label = 'Engage' -%}{%- assign lane_url = '/engage/' -%}
 {%- endcase -%}
-{%- if page.section contains ' · ' -%}
+{%- if page.lane == 'program' and page.section == 'about-the-program' -%}
+  {%- if page.url == '/program/about/' -%}
+Home::/|Program::/program/|About the Program::{{ page.url }}
+  {%- else -%}
+Home::/|Program::/program/|About the Program::/program/about/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'program' and page.section == 'research-agenda' -%}
+  {%- if page.url == '/program/research-agenda/' -%}
+Home::/|Program::/program/|Research Agenda::{{ page.url }}
+  {%- else -%}
+Home::/|Program::/program/|Research Agenda::/program/research-agenda/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/domain-verification/' -%}
+  {%- if page.url == '/verify/domain-verification/' -%}
+Home::/|Verify::/verify/|Domain Verification::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Domain Verification::/verify/domain-verification/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/predictions-and-falsification/' -%}
+  {%- if page.url == '/verify/predictions-and-falsification/' -%}
+Home::/|Verify::/verify/|Predictions & Falsification::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Predictions & Falsification::/verify/predictions-and-falsification/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'verify' and page.url contains '/verify/assessment-protocols/' -%}
+  {%- if page.url == '/verify/assessment-protocols/' -%}
+Home::/|Verify::/verify/|Assessment Protocols::{{ page.url }}
+  {%- else -%}
+Home::/|Verify::/verify/|Assessment Protocols::/verify/assessment-protocols/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'publications' and page.url contains '/publications/archived/' -%}
+  {%- if page.url == '/publications/archived/' -%}
+Home::/|Publications::/publications/|Archived Releases::{{ page.url }}
+  {%- elsif page.url == '/publications/archived/first-edition/' -%}
+Home::/|Publications::/publications/|Archived Releases::/publications/archived/|First Edition::{{ page.url }}
+  {%- else -%}
+Home::/|Publications::/publications/|Archived Releases::/publications/archived/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.lane == 'publications' and page.url == '/publications/bibliography/' -%}
+Home::/|Publications::/publications/|Bibliography::{{ page.url }}
+{%- elsif page.lane == 'impact' and page.url contains '/impact/global-public-good/' -%}
+  {%- if page.url == '/impact/global-public-good/' -%}
+Home::/|Impact::/impact/|Global Public Good::{{ page.url }}
+  {%- else -%}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- elsif page.section contains ' · ' -%}
   {%- assign section_parts = page.section | split: ' · ' -%}
   {%- assign cluster_label = section_parts[1] | strip -%}
   {%- if cluster_label == 'Prologue' -%}
 Home::/|{{ lane_label }}::{{ lane_url }}|Prologue::/results/prologue/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- elsif cluster_label == 'Mathematics World Readout' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Mathematics World Readout::/results/world-readout/mathematics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
   {%- elsif cluster_label == 'Physics World Readout' -%}
 Home::/|{{ lane_label }}::{{ lane_url }}|Physics World Readout::/results/world-readout/physics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
   {%- elsif cluster_label == 'Life World Readout' -%}
@@ -107,19 +161,19 @@ Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{
 {%- endif -%}
 
 {%- when 'results-browse' -%}
-Home::/|Claims::/results/|Browse All Claims::{{ page.url }}
+Home::/|Results::/results/|Browse All Results::{{ page.url }}
 
 {%- when 'predictions-browse' -%}
-Home::/|Claims::/results/|Physics Predictions::{{ page.url }}
+Home::/|Results::/results/|Physics Predictions::{{ page.url }}
 
 {%- when 'falsifications-browse' -%}
-Home::/|Claims::/results/|Falsification Pack::{{ page.url }}
+Home::/|Results::/results/|Falsification Pack::{{ page.url }}
 
 {%- when 'prediction-page' -%}
-Home::/|Claims::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'falsification-page' -%}
-Home::/|Claims::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'bibliography-browse' -%}
 Home::/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}

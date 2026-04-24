@@ -3,7 +3,12 @@ layout: program-doc
 title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
-section: "Publications · Companion"
+section: "special artifacts"
+type: "Special Artifact"
+publication_type: "Physics Ledger"
+domain: "Physics"
+status: "Canonical"
+updated: "April 2026"
 summary_short: "The complete numerical scorecard — from one algebraic posit (ι<sub>τ</sub> = 2/(π+e)) plus one SI measurement (neutron mass m<sub>n</sub>) through a four-layer calibration cascade to every observable value. Three τ-structural pillars, 30-item falsification pack, zero free continuous parameters. Free PDF download."
 right_rail:
   related:

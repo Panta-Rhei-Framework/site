@@ -39,7 +39,7 @@ right_rail:
 
 ## Overview
 
-Standard mathematics builds arithmetic *from* sets: ZFC provides the universe, and the natural numbers are constructed inside it. Category <math><mi>&tau;</mi></math> inverts this order. [Arithmetic is earned first]({{ '/framework/mathematics-earning-arithmetic/' | relative_url }}) from the kernel, and then *sets are derived from arithmetic* via a single interpretive move: divisibility becomes membership. This inversion is not a stylistic preference -- it is forced by the kernel's [foundational discipline]({{ '/research-program/about/foundational-discipline/' | relative_url }}), which refuses to assume any structure that has not been earned. The result is a complete internal set theory without a single ZFC axiom -- and without Cantor's diagonal.
+Standard mathematics builds arithmetic *from* sets: ZFC provides the universe, and the natural numbers are constructed inside it. Category <math><mi>&tau;</mi></math> inverts this order. [Arithmetic is earned first]({{ '/framework/mathematics-earning-arithmetic/' | relative_url }}) from the kernel, and then *sets are derived from arithmetic* via a single interpretive move: divisibility becomes membership. This inversion is not a stylistic preference -- it is forced by the kernel's [foundational discipline]({{ '/program/research-agenda/foundational-discipline/' | relative_url }}), which refuses to assume any structure that has not been earned. The result is a complete internal set theory without a single ZFC axiom -- and without Cantor's diagonal.
 
 ## The Core Idea
 

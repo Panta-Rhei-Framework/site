@@ -27,6 +27,26 @@ bundle exec jekyll serve
 
 Requires Ruby 3.3+ and Bundler. The full deploy runs on GitHub Pages via `.github/workflows/jekyll.yml`.
 
+## Edge headers
+
+GitHub Pages does not interpret repository `_headers` files. The `_headers`
+file remains the portable declaration for Cloudflare Pages / Netlify-style
+hosts, while the current GitHub Pages + Cloudflare proxy setup uses the
+Cloudflare Worker in `workers/site-edge-headers.js`.
+
+```bash
+npm run headers:test
+npm run headers:dry-run
+# after the Worker is deployed at the Cloudflare edge:
+npm run headers:live
+```
+
+Deploy the Worker with Wrangler from the repository root:
+
+```bash
+npm run headers:deploy
+```
+
 ## Content license
 
 All original site content — prose, diagrams, mathematics, registry objects, and results — is released under [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/). TauLib is separately licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).

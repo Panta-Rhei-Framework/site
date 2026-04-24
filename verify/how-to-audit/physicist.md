@@ -31,7 +31,7 @@ Contains the full derivation chains for all 67 zero-parameter numerical predicti
 
 **Load-bearing questions to ask while reading:**
 
-- Is ι<sub>τ</sub> genuinely forced by the kernel axioms, or is its value effectively chosen to match a calibration target (e.g., the electron mass)? See the explicit answer at [Is ι<sub>τ</sub> forced or fitted?]({{ '/research-program/about/red-team-faq/#is-iota-tau-fitted-or-forced' | relative_url }}).
+- Is ι<sub>τ</sub> genuinely forced by the kernel axioms, or is its value effectively chosen to match a calibration target (e.g., the electron mass)? See the explicit answer at [Is ι<sub>τ</sub> forced or fitted?]({{ '/program/about/red-team-faq/#is-iota-tau-fitted-or-forced' | relative_url }}).
 - Does any prediction's derivation smuggle in an auxiliary numerical choice (e.g., an integer selected post-hoc, a branch of a multi-valued function)? This is the first place specialist attention should focus.
 - For ratios and dimensionless quantities (α, sin²θ_W, Koide Q, etc.), the comparisons are unambiguous. For dimensionful quantities (masses, coupling constants with units), what mass scale / normalization convention is being used?
 
@@ -100,7 +100,7 @@ A positive physics audit means the framework has earned its empirical-track revi
 
 ## What to escalate
 
-If you identify a specific disagreement (e.g., "the derivation for Higgs self-coupling on page 87 uses a branch of a multi-valued function that is not justified"), [contact the program]({{ '/engage/media-and-contact/' | relative_url }}) with the specific reference. This kind of technical objection is the most valuable feedback possible.
+If you identify a specific disagreement (e.g., "the derivation for Higgs self-coupling on page 87 uses a branch of a multi-valued function that is not justified"), [contact the program]({{ '/engage/contact/' | relative_url }}) with the specific reference. This kind of technical objection is the most valuable feedback possible.
 
 If the audit is positive and you want to go deeper, the next route depends on interest: [Mathematician route]({{ '/verify/how-to-audit/mathematician/' | relative_url }}) for the derivation-machinery foundations, or [Prior-Art Specialist route]({{ '/verify/how-to-audit/prior-art-specialist/' | relative_url }}) for the no-dark-sectors / three-generation comparison.
 
@@ -111,5 +111,5 @@ If the audit is positive and you want to go deeper, the next route depends on in
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — a-priori vs post-diction breakdown
 - [Cosmology briefing]({{ '/results/fields/cosmology-astrophysics/' | relative_url }}) — the highest-stakes physics claim set
 - [Particle Physics briefing]({{ '/results/fields/particle-physics/' | relative_url }}) — SM-sector claim set
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit (Hub)]({{ '/verify/how-to-audit/' | relative_url }}) — all six reviewer routes

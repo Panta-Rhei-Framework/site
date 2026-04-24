@@ -91,7 +91,7 @@ right_rail:
     - title: "Bibliography"
       url: /bibliography/
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
   artifacts:
     - title: "Download references.bib"
       url: /assets/bibliography/references.bib

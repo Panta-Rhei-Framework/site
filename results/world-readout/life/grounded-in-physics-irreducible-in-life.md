@@ -3,7 +3,7 @@ layout: program-doc
 title: "Grounded in Physics, Irreducible in Life"
 permalink: /results/world-readout/life/grounded-in-physics-irreducible-in-life/
 lane: results
-section: "Claims · Life World Readout"
+section: "Results · Life World Readout"
 nav_order: 6
 summary_short: "How E2 sits on E1 without collapsing into it."
 key_registry:
@@ -108,4 +108,4 @@ The detailed processes of life remain physical, but the structures that make tho
 
 ---
 
-*Previous: [Morphological Grammar of Life]({{ '/results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*
+*Previous: [Morphological Grammar of Life]({{ '/results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/' | relative_url }}) | Continue to the [Result Catalogue]({{ '/results/browse/' | relative_url }})*

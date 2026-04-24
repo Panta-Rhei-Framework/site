@@ -13,6 +13,9 @@ layout: default
   {% endif %}
   <div class="chip-row" style="margin-top: 10px;">
     <span class="chip"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time></span>
+    {% if page.note_type %}<span class="chip">{{ page.note_type }}</span>{% endif %}
+    {% if page.domain %}<span class="chip">{{ page.domain }}</span>{% endif %}
+    {% if page.status %}<span class="chip">{{ page.status }}</span>{% endif %}
     {% if page.topics %}
     {% for topic in page.topics %}
     <span class="chip">{{ topic }}</span>
@@ -21,6 +24,36 @@ layout: default
   </div>
 </header>
 
+{% if page.abstract or page.pdf_url or page.keywords or page.updated %}
+<section class="content-card">
+  <h2>Publication Metadata</h2>
+  <div class="meta-list">
+    {% if page.note_type %}<div class="meta-item"><span>Note type</span><span class="meta-value">{{ page.note_type }}</span></div>{% endif %}
+    {% if page.domain %}<div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain }}</span></div>{% endif %}
+    {% if page.date %}<div class="meta-item"><span>Date</span><span class="meta-value">{{ page.date | date: "%d %B %Y" }}</span></div>{% endif %}
+    {% if page.updated %}<div class="meta-item"><span>Updated</span><span class="meta-value">{{ page.updated }}</span></div>{% endif %}
+  </div>
+  {% if page.abstract %}
+  <div class="prose" style="margin-top: 18px;">
+    <h3>Abstract</h3>
+    <p>{{ page.abstract }}</p>
+  </div>
+  {% endif %}
+  {% if page.keywords %}
+  <div class="chip-row" style="margin-top: 10px;">
+    {% for keyword in page.keywords %}
+    <span class="chip">{{ keyword }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if page.pdf_url %}
+  <div class="btn-group" style="margin-top: 16px;">
+    <a class="btn-secondary" href="{{ page.pdf_url | relative_url }}">PDF artifact</a>
+  </div>
+  {% endif %}
+</section>
+{% endif %}
+
 <section class="content-card">
   <div class="prose">
     {{ content }}
@@ -28,7 +61,7 @@ layout: default
 </section>
 </article>
 
-{% if page.related_results or page.related_framework_modules or page.related_publications %}
+{% if page.related_results or page.related_framework_modules or page.related_publications or page.related_verify %}
 <div class="content-card">
   <h2>Related</h2>
   <div class="dep-list">
@@ -48,8 +81,17 @@ layout: default
     {% endif %}
     {% if page.related_publications %}
     {% for p in page.related_publications %}
+    {% assign p_label = p | replace: '/', ' ' | strip | replace: '-', ' ' | capitalize %}
     <a href="{{ p | relative_url }}" class="dep-link">
-      <span class="dep-title">{{ p | split: '/' | last | replace: '-', ' ' | capitalize }}</span>
+      <span class="dep-title">{{ p_label }}</span>
+    </a>
+    {% endfor %}
+    {% endif %}
+    {% if page.related_verify %}
+    {% for v in page.related_verify %}
+    {% assign v_label = v | replace: '/', ' ' | strip | replace: '-', ' ' | capitalize %}
+    <a href="{{ v | relative_url }}" class="dep-link">
+      <span class="dep-title">{{ v_label }}</span>
     </a>
     {% endfor %}
     {% endif %}

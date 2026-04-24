@@ -1,21 +1,37 @@
 ---
 title: "What Machine-Checked Verification Means for This Program"
 date: 2026-04-08
+type: "Research Note"
+publication_type: "Research Note"
+status: "Published"
+note_type: "Verification Note"
+domain: "Formal Verification"
 summary_short: "Why TauLib exists and what 4,332 machine-checked theorems actually prove."
 summary_medium: "The Lean 4 formalization of Category &tau; is not an afterthought. This note explains what TauLib verifies, what it cannot verify, and why the distinction matters for how the program should be read."
+abstract: "TauLib verifies internal derivation discipline, not empirical truth. This note explains what machine-checked verification establishes, what it leaves open, and why the program keeps logical coherence and observational adequacy as separate tests."
 topics:
   - verification
   - foundations
   - methodology
+keywords:
+  - Lean 4
+  - TauLib
+  - machine checking
+  - verification scope
 related_results: []
 related_framework_modules: []
-related_publications: []
+related_publications:
+  - /publications/white-papers/
+related_verify:
+  - /verify/taulib/
+  - /verify/formal-verification-stack/
+  - /verify/release-manifest/
 newsletter_ready: true
 featured: true
 right_rail:
   related:
     - title: "Research Notes"
-      url: /research-notes/
+      url: /publications/research-notes/
     - title: "TauLib"
       url: /verify/taulib/
     - title: "Verify"

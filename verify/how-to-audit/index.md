@@ -11,7 +11,7 @@ right_rail:
     - title: "Release Manifest"
       url: /verify/release-manifest/
     - title: "Red-team FAQ"
-      url: /research-program/about/red-team-faq/
+      url: /program/about/red-team-faq/
     - title: "Prior-Art Comparisons"
       url: /framework/prior-art/
   meta:
@@ -75,6 +75,6 @@ The six routes correspond to the five specialist roles plus the generalist role 
 
 - [Verify Overview]({{ '/verify/' | relative_url }}) — the verify lane's top-level entry
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit, build status, drift reconciliation (every route should start here)
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [Prior-Art Comparisons]({{ '/framework/prior-art/' | relative_url }}) — specialist-level comparisons across five zones
-- [Scope, Status & Scrutiny]({{ '/research-program/about/scope-status-and-scrutiny/' | relative_url }}) — the program's own methodological self-description
+- [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) — the program's own methodological self-description

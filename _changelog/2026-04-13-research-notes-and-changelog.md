@@ -12,7 +12,7 @@ right_rail:
     - title: "Changelog"
       url: /changelog/
     - title: "Research Notes"
-      url: /research-notes/
+      url: /publications/research-notes/
   meta:
     type: "Changelog Entry"
     status: "Published"
@@ -21,6 +21,6 @@ right_rail:
 
 ## Changes
 
-- **Research Notes**: New subscribable lane at `/research-notes/` for substantial outward-facing program writing. Seeded with 3 initial notes.
+- **Research Notes**: New subscribable publication stream for substantial outward-facing program writing. Seeded with 3 initial notes and now canonically housed at `/publications/research-notes/`.
 - **Changelog**: New operational ledger at `/changelog/` recording site and program changes. Footer-linked via utility shell.
 - **Navigation**: Research Notes integrated into Engage lane. Changelog added to footer and utility nav.

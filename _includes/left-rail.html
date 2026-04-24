@@ -6,7 +6,47 @@
   </summary>
   <div class="rail-collapse-body">
 
-  {% if page.lane == "framework" %}
+  {% assign v2_lane_key = page.v2_lane | default: page.lane | default: "" %}
+  {% if v2_lane_key == "" %}
+    {% if page.url contains "/discover/" %}{% assign v2_lane_key = "discover" %}
+    {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign v2_lane_key = "program" %}
+    {% elsif page.url contains "/corpus/" or page.url contains "/registry/" or page.url contains "/framework/" %}{% assign v2_lane_key = "corpus" %}
+    {% elsif page.url contains "/results/" %}{% assign v2_lane_key = "results" %}
+    {% elsif page.url contains "/verify/" %}{% assign v2_lane_key = "verify" %}
+    {% elsif page.url contains "/publications/" %}{% assign v2_lane_key = "publications" %}
+    {% elsif page.url contains "/impact/" %}{% assign v2_lane_key = "impact" %}
+    {% elsif page.url contains "/engage/" %}{% assign v2_lane_key = "engage" %}
+    {% else %}{% assign v2_lane_key = "program" %}
+    {% endif %}
+  {% endif %}
+  {% if v2_lane_key == "research-program" %}{% assign v2_lane_key = "program" %}{% endif %}
+  {% if v2_lane_key == "registry" or v2_lane_key == "framework" %}{% assign v2_lane_key = "corpus" %}{% endif %}
+  {% if v2_lane_key == "bibliography" or v2_lane_key == "utility" %}{% assign v2_lane_key = "support" %}{% endif %}
+  {% assign v2_lane_nav = site.data.nav.lane_nav[v2_lane_key] %}
+
+  {% if v2_lane_nav %}
+  <div class="rail-title">{{ v2_lane_nav.title }}</div>
+  {% for section in v2_lane_nav.sections %}
+  <div class="nav-section">
+    {% if section.title %}
+    <div class="nav-section-title">{{ section.title }}</div>
+    {% endif %}
+    {% for link in section.links %}
+    {% assign link_active = false %}
+    {% if page.url == link.url %}{% assign link_active = true %}{% endif %}
+    <a href="{{ link.url | relative_url }}" class="nav-link{% if link_active %} active{% endif %}">{{ link.title }}</a>
+    {% if link.children and page.url contains link.url %}
+    <div class="subnav">
+      {% for child in link.children %}
+      <a href="{{ child.url | relative_url }}" class="nav-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+  {% elsif page.lane == "framework" %}
   <!-- Framework lane navigation -->
   <div class="rail-title">Framework</div>
 
@@ -54,7 +94,7 @@
 
   {% elsif page.lane == "results" %}
   <!-- Results lane navigation -->
-  <div class="rail-title">Claims</div>
+  <div class="rail-title">Results</div>
   {% for item in site.data.nav.results_nav %}
   {% if item.url %}
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
@@ -188,15 +228,15 @@
   <div class="rail-status">
     <div class="status-item">
       <span>Release</span>
-      <span class="status-value">2nd Edition</span>
+      <span class="status-value">{{ page.release | default: "2nd Edition" }}</span>
     </div>
     <div class="status-item">
       <span>Status</span>
-      <span class="status-value">Canonical</span>
+      <span class="status-value">{{ page.status | default: "Canonical" }}</span>
     </div>
     <div class="status-item">
       <span>Updated</span>
-      <span class="status-value">April 2026</span>
+      <span class="status-value">{{ page.updated | default: "April 2026" }}</span>
     </div>
   </div>
 

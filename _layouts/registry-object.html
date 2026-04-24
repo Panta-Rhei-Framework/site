@@ -7,7 +7,7 @@ layout: default
 <article class="registry-article">
 <header class="hero-card">
   <div class="module-eyebrow-row">
-    <span class="eyebrow">Registry · {{ page.object_type | capitalize }}</span>
+    <span class="eyebrow">Corpus · Registry · {{ page.object_type | capitalize }}</span>
     <span class="eyebrow module-id-badge">{{ page.registry_id }}</span>
     {% if page.scope %}
     <span class="chip">{{ page.scope }}</span>
@@ -21,6 +21,7 @@ layout: default
   <p>{{ page.summary }}</p>
   {% endif %}
   <div class="chip-row">
+    <a href="{{ '/corpus/registry/' | relative_url }}" class="chip chip-link">Registry</a>
     <a href="{{ '/publications/books/' | append: page.book_slug | append: '/' | relative_url }}" class="chip chip-link">Book {{ page.book }}</a>
     {% if page.part %}<span class="chip">Part {{ page.part }}</span>{% endif %}
     {% if page.chapter %}<span class="chip">Ch. {{ page.chapter }}</span>{% endif %}
@@ -34,6 +35,13 @@ layout: default
   </div>
 </section>
 </article>
+
+<section class="content-card" aria-labelledby="registry-corpus-heading">
+  <h2 id="registry-corpus-heading">Corpus Position</h2>
+  <div class="prose">
+    <p>This object is part of the versioned public corpus. Read it together with the <a href="{{ '/corpus/types/' | relative_url }}">type grammar</a>, the <a href="{{ '/corpus/how-to-read/' | relative_url }}">corpus reading guide</a>, and the <a href="{{ '/corpus/versioning/' | relative_url }}">versioning model</a>.</p>
+  </div>
+</section>
 
 {% if page.depends_on.size > 0 or page.depended_by.size > 0 %}
 <section class="content-card" aria-labelledby="registry-dep-heading">

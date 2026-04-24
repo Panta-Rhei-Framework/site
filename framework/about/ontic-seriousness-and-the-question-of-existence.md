@@ -16,7 +16,7 @@ summary_cards:
 right_rail:
   related:
   - title: Research Aim And Desiderata
-    url: /research-program/about/research-aim-and-desiderata/
+    url: /program/research-agenda/research-aim-and-desiderata/
   - title: Book I
     url: /publications/books/book-i/
   - title: Book VII

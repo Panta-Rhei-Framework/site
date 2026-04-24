@@ -72,7 +72,7 @@ Every numerical prediction in the Physics Ledger carries a Tier label:
 
 A Tier-A prediction with Status **Resolved** is a prediction that is both extremely sharp and confirmed by current data. A Tier-C prediction with Status **Resolved** is confirmed only at the ~1% level. A Tier-A prediction with Status **Contradicted** would be a severe problem for the framework — the kind of decisive falsification the 30-item falsification pack is designed to surface.
 
-Precision tiers also depend on the cascade layer (see the [Claims overview]({{ '/results/' | relative_url }}#the-calibration-cascade--the-logical-spine-of-the-claims-lane) for the L0 → L4 architecture and the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a) Ch 58a for the Calibration Sufficiency Theorem). L1 dimensionless results tend to sit at the sharpest end of the tier distribution; L3 SI-anchored results carry whatever the anchor (m<sub>n</sub>) uncertainty allows.
+Precision tiers also depend on the cascade layer (see [From Ratio to Measurement]({{ '/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/' | relative_url }}) for the L0 → L4 architecture and the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a) Ch 58a for the Calibration Sufficiency Theorem). L1 dimensionless results tend to sit at the sharpest end of the tier distribution; L3 SI-anchored results carry whatever the anchor (m<sub>n</sub>) uncertainty allows.
 
 ## Why Typed Honesty Matters
 

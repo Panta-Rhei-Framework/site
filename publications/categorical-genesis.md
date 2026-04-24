@@ -3,7 +3,12 @@ layout: program-doc
 title: "Categorical Genesis"
 permalink: /publications/categorical-genesis/
 lane: publications
-section: "Publications · Companion"
+section: "special artifacts"
+type: "Special Artifact"
+publication_type: "Categorical Genesis"
+domain: "Metaphysics"
+status: "Canonical"
+updated: "April 2026"
 summary_short: "A structural exegesis of Genesis 1–3 using the formal apparatus of Category τ. Companion to Book VII (Categorical Metaphysics), Part XI. Free PDF download."
 right_rail:
   related:

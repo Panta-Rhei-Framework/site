@@ -68,4 +68,4 @@ The bibliography is built from hand-curated BibTeX entries with per-entry editor
 
 ---
 
-If you notice a missing attribution or a licensing error, please [get in touch]({{ '/engage/media-and-contact/' | relative_url }}) — we'll correct it promptly.
+If you notice a missing attribution or a licensing error, please [get in touch]({{ '/engage/contact/' | relative_url }}) — we'll correct it promptly.

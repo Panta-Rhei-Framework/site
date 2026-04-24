@@ -20,7 +20,7 @@ right_rail:
   - title: Book VII
     url: /publications/books/book-vii/
   - title: Foundational Discipline
-    url: /research-program/about/foundational-discipline/
+    url: /program/research-agenda/foundational-discipline/
   - title: Ontic Seriousness and the Question of Existence
     url: /framework/about/ontic-seriousness-and-the-question-of-existence/
   - title: From Self-Enrichment to Physical Legibility

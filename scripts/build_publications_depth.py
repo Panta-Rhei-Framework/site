@@ -25,9 +25,9 @@ from typing import Optional
 # ---------------------------------------------------------------------------
 
 SITE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUTLINE_DIR = os.path.join(
-    os.path.expanduser("~"),
-    "Books/PantaRhei-2ndEd/dnb/20260404-1325/outline",
+OUTLINE_DIR = os.environ.get(
+    "PUBLICATIONS_OUTLINE_DIR",
+    os.path.join(SITE_DIR, "_sources", "publication-outlines"),
 )
 
 ROMAN_TO_INT = {

@@ -18,7 +18,7 @@ right_rail:
   - title: "Framework Overview"
     url: /framework/about/
   - title: "About the Research"
-    url: /research-program/about/
+    url: /program/about/
   meta:
     type: "Shell Page"
     scope: "Results Lane"

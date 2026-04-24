@@ -3,7 +3,7 @@ layout: program-doc
 title: How the Framework First Exists
 permalink: /results/prologue/how-the-framework-first-exists/
 lane: results
-section: "Claims · Introduction"
+section: "Results · Introduction"
 nav_order: 2
 summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of claimhood."
 key_registry:
@@ -106,7 +106,7 @@ It realizes:
 - a finite signature ([I.D01]({{ '/registry/object/I.D01/' | relative_url }}), Five Generators),
 - a disciplined operator structure ([I.D02]({{ '/registry/object/I.D02/' | relative_url }}), Progression Operator),
 - theorem-bearing constructions,
-- a [registry]({{ '/registry/' | relative_url }}) of definitions and dependencies,
+- a [registry]({{ '/corpus/registry/' | relative_url }}) of definitions and dependencies,
 - and a proof-bearing formal surface through [TauLib]({{ '/verify/' | relative_url }}).
 
 The first thing the Results lane must therefore say is very simple:
@@ -129,7 +129,7 @@ The cascade says: once the kernel is materialized, the framework consumes exactl
 
 This is formalized as the **Calibration Sufficiency Theorem** (Chapter 58a of the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a)): ι<sub>τ</sub> together with m<sub>n</sub> suffices to determine every entry in the ledger, with zero additional free parameters.
 
-For the Results lane, this matters for a specific epistemic reason. The formal-system stance establishes that the kernel *exists*. The cascade stance establishes that the kernel *commits*. Every numerical claim in the lane inherits its sharpness from exactly one tiny input surface — two numbers — and a reader who wants to challenge the framework can focus all scrutiny there. The atlas of claims is not an assemblage of independent guesses; it is one compiled object with a two-number input.
+For the Results lane, this matters for a specific epistemic reason. The formal-system stance establishes that the kernel *exists*. The cascade stance establishes that the kernel *commits*. Every numerical claim in the lane inherits its sharpness from exactly one tiny input surface — two numbers — and a reader who wants to challenge the framework can focus all scrutiny there. The result catalogue is not an assemblage of independent guesses; it is one compiled object with a two-number input.
 
 ## What this page does not claim
 

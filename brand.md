@@ -20,7 +20,7 @@ right_rail:
     - title: "Review Kit"
       url: /media/review-kit/
     - title: "Founders"
-      url: /research-program/founders/
+      url: /program/about/founders/
   meta:
     type: "Brand"
     status: "v1"

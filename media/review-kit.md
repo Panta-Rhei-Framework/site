@@ -18,7 +18,7 @@ right_rail:
   - title: Verify
     url: /verify/
   - title: About the Research
-    url: /research-program/about/
+    url: /program/about/
   artifacts:
   - title: TauLib (contributor)
     url: https://github.com/Panta-Rhei-Research/taulib
@@ -41,7 +41,7 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 ## Recommended Review Paths
 
 ### General orientation
-1. [About the Research]({{ '/research-program/about/' | relative_url }})
+1. [About the Research]({{ '/program/about/' | relative_url }})
 2. [The Tau Framework]({{ '/framework/about/' | relative_url }})
 3. [Key Results]({{ '/results/' | relative_url }})
 4. [How to Read a Result Page]({{ '/results/how-to-read-a-result-page/' | relative_url }})
@@ -70,13 +70,13 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 1. [Verify]({{ '/verify/' | relative_url }})
 2. [TauLib repository](https://github.com/Panta-Rhei-Research/taulib) — clone and run `lake build`
 3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
-{% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
+{% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/corpus/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
 
 ## Suggested Starter Packet
 
 For a reviewer who wants to form a first impression in 30-60 minutes:
 
-1. **[About the Research]({{ '/research-program/about/' | relative_url }})** — what the program is (5 min)
+1. **[About the Research]({{ '/program/about/' | relative_url }})** — what the program is (5 min)
 2. **[Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})** — how constraint enables breadth (5 min)
 3. **[Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }})** — how claims are typed (5 min)
 4. **Pick 3 results** from [Key Results]({{ '/results/' | relative_url }}) in your domain (15 min)

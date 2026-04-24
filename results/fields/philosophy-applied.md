@@ -3,14 +3,14 @@ layout: program-doc
 title: "Applied Philosophy: Ethics, Aesthetics, Language & Mind"
 permalink: /results/fields/philosophy-applied/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 10
 summary_short: "The most consequential claims the τ framework makes within ethics, aesthetics, political philosophy, philosophy of language, and the philosophy of mind (complementing the Neuroscience briefing)."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Metaphysics World Readout
     url: /results/world-readout/metaphysics/
@@ -48,5 +48,5 @@ Applied philosophy in τ is not a loose collection of topics but a coherent prog
 - [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) — the full world-picture
 - [Foundational Philosophy briefing]({{ '/results/fields/philosophy-foundational/' | relative_url }}) — ontology, epistemology, meta-inquiry
 - [Neuroscience & Consciousness briefing]({{ '/results/fields/neuroscience/' | relative_url }}) — hard problem, binding, machine mind
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in philosophy](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy) — Wikipedia's canonical list of recognized open problems

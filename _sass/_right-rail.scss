@@ -7,7 +7,7 @@
   font-size: 0.76rem;
   font-weight: 650;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0;
   color: $text-muted;
   margin-bottom: 10px;
 }
@@ -24,13 +24,15 @@
   text-decoration: none;
 
   &:hover {
-    color: $accent;
-    background: $accent-soft;
+    color: var(--lane-current);
+    background: var(--lane-current-soft);
   }
 
   &.active {
-    color: $accent;
+    color: var(--lane-current);
     font-weight: 580;
+    background: var(--lane-current-soft);
+    box-shadow: inset 3px 0 0 var(--lane-current);
   }
 }
 
@@ -44,7 +46,7 @@
   font-size: 0.76rem;
   font-weight: 650;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0;
   color: $text-muted;
   margin-bottom: 8px;
 }
@@ -59,8 +61,8 @@
   text-decoration: none;
 
   &:hover {
-    color: $accent;
-    background: $accent-soft;
+    color: var(--lane-current);
+    background: var(--lane-current-soft);
   }
 }
 
@@ -79,7 +81,7 @@
 
   .meta-value {
     font-weight: 600;
-    color: $text;
+    color: var(--color-ink-900);
   }
 }
 
@@ -150,8 +152,8 @@
   transition: all $transition;
 
   &:hover {
-    color: $accent;
-    background: $accent-soft;
+    color: var(--lane-current);
+    background: var(--lane-current-soft);
   }
 }
 

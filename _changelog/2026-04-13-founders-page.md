@@ -11,7 +11,7 @@ right_rail:
     - title: "Changelog"
       url: /changelog/
     - title: "Founders"
-      url: /research-program/founders/
+      url: /program/about/founders/
   meta:
     type: "Changelog Entry"
     status: "Published"
@@ -20,5 +20,5 @@ right_rail:
 
 ## Changes
 
-- **New page**: `/research-program/founders/` introducing Anna-Sophie Fuchs and Thorsten Fuchs as the founders and current stewards of the Panta Rhei Research Program
+- **New page**: `/program/about/founders/` introducing Anna-Sophie Fuchs and Thorsten Fuchs as the founders and current stewards of the Panta Rhei Research Program
 - **Navigation**: Added to Research Program left-rail under "About the Research" and to the footer

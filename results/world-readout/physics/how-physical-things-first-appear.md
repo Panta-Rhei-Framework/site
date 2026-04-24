@@ -3,7 +3,7 @@ layout: program-doc
 title: "How Physical Things First Appear"
 permalink: /results/world-readout/physics/how-physical-things-first-appear/
 lane: results
-section: "Claims · Physics World Readout"
+section: "Results · Physics World Readout"
 nav_order: 6
 summary_short: "How stable denotational patterns in E1 become admissible as physical things."
 key_registry:
@@ -78,7 +78,7 @@ Denotational classes are where physical thingness first appears, but they also s
 
 ## Why this page matters
 
-Tau's later physical results depend on this move. Without it, there would be no principled route from the substrate to the physical entities later discussed in the result atlas. With it, there is a rigorous sequence:
+Tau's later physical results depend on this move. Without it, there would be no principled route from the substrate to the physical entities later discussed in the result catalogue. With it, there is a rigorous sequence:
 
 - substrate,
 - geometry,

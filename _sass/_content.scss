@@ -3,15 +3,19 @@
 // ================================================================
 
 .content-card {
-  @include glass;
+  @include glass-subtle;
   padding: 24px;
   margin-bottom: $shell-gap;
+  background: var(--surface-card);
 }
 
 .hero-card {
   @include glass;
   padding: 32px 30px;
   margin-bottom: $shell-gap;
+  background: var(--surface-hero);
+  border-top: 4px solid var(--lane-current);
+  border-radius: $radius-2xl;
 }
 
 .eyebrow {
@@ -20,10 +24,10 @@
   font-size: 0.76rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: $text-muted;
-  background: $chip-bg;
-  border: 1px solid $chip-border;
+  letter-spacing: 0;
+  color: var(--lane-current);
+  background: var(--lane-current-soft);
+  border: 1px solid rgba(21, 23, 28, 0.06);
   border-radius: $radius-pill;
   padding: 4px 12px;
   margin-bottom: 16px;
@@ -37,7 +41,7 @@
 }
 
 .summary-card {
-  @include glass-subtle;
+  @include plate-surface;
   padding: 18px 16px;
 
   .summary-card-title {
@@ -64,7 +68,7 @@
   font-family: $font-ui;
   font-size: 0.79rem;
   font-weight: 500;
-  color: $text-muted;
+  color: var(--color-ink-600);
   background: $chip-bg;
   border: 1px solid $chip-border;
   border-radius: $radius-pill;
@@ -74,12 +78,12 @@
 
 a.chip-link, a.chip.chip-link {
   text-decoration: none;
-  color: $text-muted;
+  color: var(--color-ink-600);
   transition: color 150ms ease, border-color 150ms ease;
   cursor: pointer;
   &:hover {
-    color: $accent;
-    border-color: rgba($accent, 0.35);
+    color: var(--lane-current);
+    border-color: var(--lane-current);
   }
 }
 
@@ -88,17 +92,17 @@ a.chip-link, a.chip.chip-link {
   font-weight: 600;
   font-size: 0.74rem;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0;
 }
-.chip-status-r { background: rgba(52, 168, 83, 0.14); color: #1e7e34; border-color: rgba(52, 168, 83, 0.22); }
-.chip-status-p { background: rgba(66, 133, 244, 0.12); color: #1a5bc4; border-color: rgba(66, 133, 244, 0.22); }
-.chip-status-q { background: rgba(251, 188, 4, 0.14); color: #a66d00; border-color: rgba(251, 188, 4, 0.22); }
-.chip-status-c { background: rgba(234, 67, 53, 0.12); color: #c5221f; border-color: rgba(234, 67, 53, 0.22); }
-.chip-status-n { background: rgba(0, 0, 0, 0.06); color: $text-muted; }
+.chip-status-r { background: var(--semantic-success-soft); color: var(--semantic-success); border-color: rgba(47, 111, 78, 0.22); }
+.chip-status-p { background: var(--semantic-info-soft); color: var(--semantic-info); border-color: rgba(45, 110, 159, 0.22); }
+.chip-status-q { background: var(--semantic-warning-soft); color: var(--semantic-warning); border-color: rgba(168, 121, 42, 0.24); }
+.chip-status-c { background: var(--semantic-danger-soft); color: var(--semantic-danger); border-color: rgba(154, 59, 53, 0.24); }
+.chip-status-n { background: var(--lane-support-soft); color: var(--color-ink-600); }
 
 .chip-kind {
   font-weight: 600;
-  color: $accent;
+  color: var(--lane-current);
 }
 
 .chip-importance {
@@ -116,8 +120,8 @@ a.chip-link, a.chip.chip-link {
 .portfolio-card {
   display: block;
   padding: 22px 24px 18px;
-  background: rgba(255, 255, 255, 0.75);
-  border: 1px solid rgba(22, 29, 37, 0.08);
+  background: var(--surface-card);
+  border: var(--border-default);
   border-radius: $radius-lg;
   text-decoration: none;
   color: inherit;
@@ -125,8 +129,8 @@ a.chip-link, a.chip.chip-link {
 
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(22, 29, 37, 0.08);
-    border-color: rgba(22, 62, 100, 0.2);
+    box-shadow: var(--shadow-card);
+    border-color: var(--lane-current);
     text-decoration: none;
   }
 }
@@ -134,7 +138,7 @@ a.chip-link, a.chip.chip-link {
 .portfolio-card-icon {
   width: 32px;
   height: 32px;
-  color: $accent;
+  color: var(--lane-current);
   margin-bottom: 12px;
 
   svg {
@@ -150,7 +154,7 @@ a.chip-link, a.chip.chip-link {
   line-height: 1.3;
   color: $text;
   text-transform: none;
-  letter-spacing: normal;
+  letter-spacing: 0;
   margin: 0 0 8px;
 }
 
@@ -178,7 +182,7 @@ a.chip-link, a.chip.chip-link {
 }
 
 .lane-card {
-  @include glass-subtle;
+  @include plate-surface;
   padding: 20px;
 
   h3 {
@@ -216,7 +220,7 @@ a.part-card {
     font-family: $font-ui;
     font-size: 0.7rem;
     font-weight: 650;
-    letter-spacing: 0.08em;
+    letter-spacing: 0;
     text-transform: uppercase;
     color: $text-muted;
     margin-bottom: 6px;
@@ -239,18 +243,18 @@ a.part-card {
   }
 
   .chip {
-    background: rgba(22, 62, 100, 0.08);
-    border-color: rgba(22, 62, 100, 0.14);
-    color: $accent;
+    background: var(--lane-current-soft);
+    border-color: rgba(21, 23, 28, 0.06);
+    color: var(--lane-current);
     font-weight: 550;
   }
 
   &:hover {
     transform: translateY(-1px);
-    border-color: rgba(22, 62, 100, 0.25);
+    border-color: var(--lane-current);
 
     h3 {
-      color: $accent;
+      color: var(--lane-current);
     }
   }
 }
@@ -266,8 +270,8 @@ a.part-card {
   font-size: 1.1rem;
   font-style: italic;
   color: $text;
-  background: rgba(255, 255, 255, 0.25);
-  border-left: 3px solid $accent;
+  background: var(--surface-plate);
+  border-left: 3px solid var(--lane-current);
   border-radius: 4px;
 }
 
@@ -283,7 +287,7 @@ a.part-card {
 .module-id-badge {
   font-family: $font-mono;
   font-size: 0.72rem;
-  letter-spacing: 0.02em;
+  letter-spacing: 0;
 }
 
 .chip-row {
@@ -306,19 +310,19 @@ a.part-card {
   gap: 10px;
   padding: 8px 12px;
   border-radius: $radius-sm;
-  border: 1px solid $divider;
+  border: var(--border-default);
   text-decoration: none;
   transition: all $transition;
 
   &:hover {
-    background: $accent-soft;
-    border-color: rgba(22, 62, 100, 0.12);
+    background: var(--lane-current-soft);
+    border-color: var(--lane-current);
   }
 
   .dep-id {
     font-family: $font-mono;
     font-size: 0.76rem;
-    color: $accent;
+    color: var(--lane-current);
     font-weight: 600;
     min-width: 60px;
   }
@@ -347,11 +351,11 @@ a.part-card {
 
 // Homepage sections
 .homepage-hero {
-  h1 { font-size: 1.6rem; }
+  h1 { font-size: 2.75rem; }
   .hero-subtitle {
     font-family: $font-display;
-    font-size: 1.1rem;
-    color: $accent;
+    font-size: 1.24rem;
+    color: var(--color-brand-800);
     margin-bottom: 8px;
   }
 }
@@ -388,7 +392,7 @@ a.part-card {
   right: 20px;
   width: 28px;
   height: 28px;
-  color: $accent;
+  color: var(--lane-current);
   opacity: 0.25;
   pointer-events: none;
 }
@@ -403,18 +407,18 @@ a.part-card {
   font-family: $font-ui;
   font-size: 0.82rem;
   font-weight: 520;
-  color: $text-muted;
+  color: var(--color-ink-600);
   text-decoration: none;
   border-radius: $radius-pill;
-  background: rgba(0, 0, 0, 0.03);
-  border: 1px solid rgba(0, 0, 0, 0.06);
+  background: transparent;
+  border: var(--border-default);
   transition: all $transition;
   cursor: pointer;
 
   &:hover {
-    color: $accent;
-    background: rgba($accent, 0.06);
-    border-color: rgba($accent, 0.15);
+    color: var(--lane-current);
+    background: var(--lane-current-soft);
+    border-color: var(--lane-current);
     transform: translateY(-1px);
   }
 }
@@ -427,8 +431,8 @@ a.part-card {
   gap: 12px;
   padding: 10px 14px;
   margin-top: 20px;
-  background: rgba(22, 62, 100, 0.04);
-  border: 1px solid rgba(22, 62, 100, 0.1);
+  background: var(--color-brand-50);
+  border: var(--border-default);
   border-bottom: none;
   border-radius: $radius-sm $radius-sm 0 0;
   font-size: 0.78rem;
@@ -449,23 +453,23 @@ a.part-card {
   font-family: $font-ui;
   font-size: 0.76rem;
   font-weight: 580;
-  color: $accent;
-  background: rgba(255, 255, 255, 0.7);
-  border: 1px solid rgba(22, 62, 100, 0.15);
+  color: var(--color-brand-800);
+  background: var(--surface-card);
+  border: var(--border-default);
   border-radius: $radius-pill;
   cursor: pointer;
   transition: all $transition;
   flex-shrink: 0;
 
   &:hover {
-    background: rgba(22, 62, 100, 0.08);
-    border-color: rgba(22, 62, 100, 0.25);
+    background: var(--color-brand-100);
+    border-color: var(--color-brand-800);
   }
 
   &.copied {
-    color: #1e7e34;
+    color: var(--semantic-success);
     border-color: rgba(52, 168, 83, 0.3);
-    background: rgba(52, 168, 83, 0.08);
+    background: var(--semantic-success-soft);
   }
 
   svg { flex-shrink: 0; }
@@ -498,7 +502,7 @@ a.part-card {
   }
 
   pre {
-    background: rgba(0, 0, 0, 0.03);
+    background: var(--color-paper-50);
     padding: 12px 14px;
     border-radius: $radius-sm;
     overflow-x: auto;
@@ -508,9 +512,9 @@ a.part-card {
     font-family: $font-mono;
     font-size: 0.86rem;
     font-weight: 600;
-    color: $accent;
+    color: var(--color-brand-800);
     padding: 8px 12px;
-    background: rgba(22, 62, 100, 0.06);
+    background: var(--color-brand-50);
     border-radius: $radius-sm;
     margin-bottom: 8px;
     overflow-x: auto;
@@ -571,7 +575,7 @@ a.part-card {
 .taulib-build-pin {
   margin-top: 24px;
   padding: 10px 16px;
-  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  border-top: var(--border-default);
   font-size: 0.74rem;
   color: $text-muted;
   display: flex;
@@ -582,8 +586,8 @@ a.part-card {
   .taulib-build-label { font-weight: 600; }
   .taulib-build-sep   { opacity: 0.45; user-select: none; }
 
-  a { color: $text-muted; &:hover { color: $accent; } }
-  code { font-size: 0.72rem; background: rgba(0, 0, 0, 0.04); padding: 1px 5px; border-radius: 3px; }
+  a { color: $text-muted; &:hover { color: var(--color-brand-800); } }
+  code { font-size: 0.72rem; background: var(--color-paper-200); padding: 1px 5px; border-radius: 3px; }
 }
 
 // Prose content
@@ -593,7 +597,7 @@ a.part-card {
   p + h2 { margin-top: 2.2em; }
 
   blockquote {
-    border-left: 3px solid $accent;
+    border-left: 3px solid var(--lane-current);
     padding-left: 16px;
     margin: 1.5em 0;
     color: $text;
@@ -610,7 +614,7 @@ a.part-card {
   font-size: 0.78rem;
   color: $text-muted;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   margin-bottom: 4px;
 }
 
@@ -623,7 +627,7 @@ a.part-card {
   a {
     color: $text;
     text-decoration: none;
-    &:hover { color: $accent; }
+    &:hover { color: var(--lane-current); }
   }
 }
 
@@ -635,7 +639,7 @@ a.part-card {
 }
 
 .note-subscribe-card {
-  border-top: 2px solid rgba($accent, 0.12);
+  border-top: 2px solid var(--lane-current);
 }
 
 // ================================================================
@@ -647,7 +651,7 @@ a.part-card {
   font-size: 0.78rem;
   color: $text-muted;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   margin-bottom: 4px;
 }
 
@@ -660,7 +664,7 @@ a.part-card {
   a {
     color: $text;
     text-decoration: none;
-    &:hover { color: $accent; }
+    &:hover { color: var(--lane-current); }
   }
 }
 
@@ -676,7 +680,7 @@ a.part-card {
 // ================================================================
 
 .bd-subscribe {
-  border-top: 2px solid rgba($accent, 0.12);
+  border-top: 2px solid var(--lane-current);
   padding-top: 4px;
 }
 
@@ -712,14 +716,14 @@ a.part-card {
   font-family: $font-ui;
   font-size: 0.88rem;
   color: $text;
-  background: rgba(255, 255, 255, 0.58);
-  border: 1px solid rgba(24, 32, 39, 0.14);
+  background: var(--surface-card);
+  border: var(--border-default);
   border-radius: $radius-sm;
   outline: none;
   transition: border-color $transition;
 
   &:focus {
-    border-color: $accent;
+    border-color: var(--lane-current);
   }
 
   &::placeholder {
@@ -739,7 +743,7 @@ a.part-card {
   color: $text-muted;
 
   a {
-    color: $accent;
+    color: var(--lane-current);
     text-decoration: none;
     &:hover { text-decoration: underline; }
   }

@@ -3,14 +3,14 @@ layout: program-doc
 title: "Neuroscience & Consciousness"
 permalink: /results/fields/neuroscience/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 8
 summary_short: "The most consequential claims the τ framework makes within the hard problem of consciousness, the binding problem, free will, and machine consciousness."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Metaphysics World Readout
     url: /results/world-readout/metaphysics/
@@ -45,5 +45,5 @@ The τ framework addresses consciousness not as a bolt-on mystery but as a struc
 ## Where to go deeper
 
 - [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) — the full world-picture
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in neuroscience](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience) — Wikipedia's canonical list of recognized open problems

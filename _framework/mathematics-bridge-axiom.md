@@ -56,7 +56,7 @@ The Bridge Axiom also formalizes the **export contracts** (III.D72) to downstrea
 
 ## Why This Matters
 
-Without the Bridge Axiom, the framework would be a closed formal system with no way to test its claims against observation. With it, the framework has a principled interface to external mathematics and empirical science. The scope discipline is what makes the program's [trust language]({{ '/research-program/about/scope-status-and-scrutiny/' | relative_url }}) genuine rather than performative -- every claim is typed, and the typing is part of the formal system.
+Without the Bridge Axiom, the framework would be a closed formal system with no way to test its claims against observation. With it, the framework has a principled interface to external mathematics and empirical science. The scope discipline is what makes the program's [trust language]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) genuine rather than performative -- every claim is typed, and the typing is part of the formal system.
 
 ## Key Claims
 

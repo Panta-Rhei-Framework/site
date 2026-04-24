@@ -42,7 +42,7 @@ collections:
     permalink: /bibliography/:name/
   research_notes:
     output: true
-    permalink: /research-notes/:name/
+    permalink: /publications/research-notes/:name/
     sort_by: date
   changelog:
     output: true
@@ -101,7 +101,8 @@ defaults:
       type: "research_notes"
     values:
       layout: "research-note"
-      lane: "engage"
+      lane: "publications"
+      v2_lane: "publications"
   - scope:
       type: "changelog"
     values:

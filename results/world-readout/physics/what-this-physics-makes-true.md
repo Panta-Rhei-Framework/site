@@ -3,7 +3,7 @@ layout: program-doc
 title: "What This Physics Makes True"
 permalink: /results/world-readout/physics/what-this-physics-makes-true/
 lane: results
-section: "Claims · Physics World Readout"
+section: "Results · Physics World Readout"
 nav_order: 12
 summary_short: "A summary page of the strongest physical consequences that become true within Tau."
 key_registry:
@@ -30,7 +30,7 @@ The preceding pages have described the shape of physical reality in Tau. This pa
 
 **once this physical world is in place, a large family of strong physical statements becomes true within it.**
 
-This page does not replace the detailed result atlas. It prepares the reader for it.
+This page does not replace the detailed result catalogue. It prepares the reader for it.
 
 ## The right way to read this page
 
@@ -62,7 +62,7 @@ A master calibration hierarchy arises through `ι<sub>τ</sub>`, with **two inpu
 ### 6. Major frontier problems become structurally accessible
 Because the world is already coherent and closed, frontier problems in quantum theory, gravitation, cosmology, and particle physics can be approached as consequences rather than as disconnected anomalies.
 
-## The result atlas begins here
+## The result catalogue begins here
 
 From this point onward, the site can move into the detailed result pages. The bullets below carry a scope status in parentheses — **Resolved** means an orthodox-measurable consequence the program claims as a quantitative hit, **Partial** means a τ-effective claim with partial empirical alignment, **Qualitative** means a structural reading not yet sharpened to a number, and **Contradicted** means a τ-prediction that currently runs against the orthodox default. Full claim-typing lives in the status-and-claim-typing page.
 
@@ -79,7 +79,7 @@ Quantitative claims additionally sort into three precision tiers inherited from 
 - [arrow of time]({{ '/results/problem/arrow-of-time-orbit/' | relative_url }}) *(Qualitative, τ-effective)*
 - and many more
 
-Those result pages matter enormously. But they are most useful when read as the detailed atlas of a world already described.
+Those result pages matter enormously. But they are most useful when read as the detailed catalogue of a world already described.
 
 ## Why this matters
 
@@ -87,7 +87,7 @@ The force of Tau-physics does not lie only in a handful of isolated solutions. I
 
 ## Conclusion
 
-The specific results of Tau-physics are not the first thing to understand. The first thing to understand is the world from which they follow. Once that world has been described, the detailed result atlas can be read in its proper place: as the many consequences of one coherent physical reality.
+The specific results of Tau-physics are not the first thing to understand. The first thing to understand is the world from which they follow. Once that world has been described, the detailed result catalogue can be read in its proper place: as the many consequences of one coherent physical reality.
 
 
 ## Canonical References

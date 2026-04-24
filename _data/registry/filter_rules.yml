@@ -13,7 +13,7 @@
 
 version: "1.0"
 updated: "2026-04-18"
-canonical_source: "PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl"
+canonical_source: "canonical registry JSONL source (book{1..7}_registry.jsonl)"
 
 filter_rules:
 
@@ -174,7 +174,7 @@ reconciliation_protocol: >
 # How to update this manifest
 update_protocol: >
   This manifest is CANONICAL for per-book counts as displayed on the site.
-  After any change to the upstream PantaRhei-2ndEd/registry/book*_registry.jsonl,
+  After any change to the canonical registry JSONL source (book*_registry.jsonl),
   run scripts/registry_verify.py to detect divergence between this manifest
   and the site data files; update current_totals here to match the new
   canonical counts; then regenerate the Release Manifest table.

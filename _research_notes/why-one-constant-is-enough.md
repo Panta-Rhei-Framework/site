@@ -1,21 +1,39 @@
 ---
 title: "Why One Constant Is Enough"
 date: 2026-04-10
+type: "Research Note"
+publication_type: "Research Note"
+status: "Published"
+note_type: "Conceptual Note"
+domain: "Physics"
 summary_short: "How the master constant bridges mathematical structure and physical observation without free parameters."
 summary_medium: "The Panta Rhei framework derives all physical constants from a single master constant. This note explains why this is structurally forced rather than merely desirable, and what it means for the program's falsifiability posture."
+abstract: "The master constant is the framework's sharpest no-knobs commitment. This note explains why a single structural constant controls the quantitative cascade, why that matters for falsifiability, and how the program exposes the resulting predictions to observational pressure."
 topics:
   - physics
   - foundations
   - falsification
+keywords:
+  - master constant
+  - no free parameters
+  - calibration cascade
+  - CMB-S4
 related_results:
   - "problem/hubble-tension-resolved-h-formula"
   - "problem/fine-structure-constant-alpha-inverse-137"
+  - "problem/tensor-to-scalar-ratio"
+related_publications:
+  - /publications/physics-ledger/
+  - /publications/white-papers/
+related_verify:
+  - /verify/predictions-and-falsification/
+  - /verify/predictions-and-falsification/predictions/
 newsletter_ready: true
 featured: true
 right_rail:
   related:
     - title: "Research Notes"
-      url: /research-notes/
+      url: /publications/research-notes/
     - title: "Framework Overview"
       url: /framework/about/
     - title: "Key Results"
@@ -42,7 +60,7 @@ The key insight is that the master constant is not a *choice*. It is the unique 
 
 If &iota;<sub>&tau;</sub> governs all quantitative predictions, then any single prediction that deviates from observation by more than the framework's stated precision tolerance falsifies the entire chain. This is not a weakness. It is the strongest possible falsifiability posture: one constant, one chance to be wrong.
 
-The decisive near-term test is the CMB-S4 measurement of the [tensor-to-scalar ratio]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) *r*. The framework predicts *r* from &iota;<sub>&tau;</sub><sup>4</sup>. If CMB-S4 reports a value inconsistent with this prediction, the cosmological sector of the framework fails.
+The decisive near-term test is the CMB-S4 measurement of the [tensor-to-scalar ratio]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) *r*. The framework predicts *r* from &iota;<sub>&tau;</sub><sup>4</sup>. If CMB-S4 reports a value inconsistent with this prediction, the cosmological sector of the framework fails.
 
 ## The philosophical consequence
 

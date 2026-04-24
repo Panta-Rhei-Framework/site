@@ -36,9 +36,8 @@ The derivation chain (V.T54) runs: K0–K6 → generators {α, π, γ, η, ω} �
 
 The 0.025 ppm precision makes this the framework's most precise mass prediction, equal to the neutron-to-electron mass ratio (V.T07/IV.T110, also 0.025 ppm) and the Rydberg constant (IV.T86, 0.026 ppm). Together these three predictions constitute the sub-1 ppm precision core of the framework.
 
-Noting that the Book IV reference lists the electron mass as IV.R184 with 'conjectural scope' because the calibration identification (identifying the formula output with the physical electron mass) is unproved, while V.T54 is the full Book V statement. For Atlas purposes V.T54 is used as the primary registry ID.
+Noting that the Book IV reference lists the electron mass as IV.R184 with 'conjectural scope' because the calibration identification (identifying the formula output with the physical electron mass) is unproved, while V.T54 is the full Book V statement. For catalogue purposes V.T54 is used as the primary registry ID.
 
 ## Result Statement
 
 V.T54: Electron mass m_e = 0.510998937 MeV at 0.025 ppm (CODATA 0.510998950 MeV). 10-link derivation chain from K0–K6 via ι<sub>τ</sub>, couplings, mass ratio R. Single calibration anchor: m_n.
-

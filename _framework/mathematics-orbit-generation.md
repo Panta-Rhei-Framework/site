@@ -70,7 +70,7 @@ Finally, the **Rigidity Theorem** (I.T07) proves Aut(τ) = {id}: the automorphis
 
 ## Why This Matters
 
-Ontic closure means the framework can never introduce new objects by fiat. Every mathematical construction in the later modules — real numbers, geometric points, sheaves, physical states — must be *named* from the objects already present, not created ex nihilo. This is the structural foundation of the program's [earnedness discipline]({{ '/research-program/about/foundational-discipline/' | relative_url }}).
+Ontic closure means the framework can never introduce new objects by fiat. Every mathematical construction in the later modules — real numbers, geometric points, sheaves, physical states — must be *named* from the objects already present, not created ex nihilo. This is the structural foundation of the program's [earnedness discipline]({{ '/program/research-agenda/foundational-discipline/' | relative_url }}).
 
 Rigidity and categoricity mean there are no hidden choices. The specification determines everything. Two independent implementations of the kernel will produce the same universe, with the same objects in the same positions. This is confirmed by the [TauLib formalization]({{ '/verify/taulib/' | relative_url }}), which compiles all results in this module with 0 sorry.
 

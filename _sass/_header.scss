@@ -15,38 +15,20 @@
   align-items: center;
   justify-content: space-between;
   @include glass;
-  border: none; // replaced by spectral ::after border
-  border-radius: 18px;
-  transition: background $transition;
+  border: var(--border-default);
+  border-radius: var(--radius-lg);
+  transition: background $transition, border-color $transition, box-shadow $transition;
 
-  // Spectral border — thin rainbow rim wrapping entire navbar
-  // Uses mask-composite to punch out the interior, leaving only the 1px rim
   &::after {
     content: '';
     position: absolute;
-    inset: 0;
-    border-radius: 18px;
-    padding: 1px;
-    background: conic-gradient(
-      from 180deg at 50% 50%,
-      #8fb6ff 0deg,      // Book I — top-center start
-      #b08cff 51deg,     // Book II
-      #86efff 103deg,    // Book III
-      #95f3a1 154deg,    // Book IV
-      #ffb24d 206deg,    // Book V
-      #ff6156 257deg,    // Book VI
-      #c8d4e8 309deg,    // Book VII
-      #8fb6ff 360deg     // close the loop
-    );
-    -webkit-mask:
-      linear-gradient(#fff 0 0) content-box,
-      linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask:
-      linear-gradient(#fff 0 0) content-box,
-      linear-gradient(#fff 0 0);
-    mask-composite: exclude;
-    opacity: 0.55;
+    left: 22px;
+    right: 22px;
+    bottom: -1px;
+    height: 2px;
+    border-radius: var(--radius-pill);
+    background: var(--lane-current);
+    opacity: 0.42;
     pointer-events: none;
   }
 
@@ -79,9 +61,9 @@
     flex-shrink: 0;
     // Source Serif 4 first (matches canonical brand mark); Palatino/Iowan as fallback
     font-family: 'Source Serif 4', 'Source Serif Pro', #{$font-display};
-    color: $accent;
+    color: var(--color-brand-800);
     line-height: 1;
-    letter-spacing: -0.01em; // subtle interlock between π and ρ
+    letter-spacing: 0;
     // Align top with brand-title, bottom with brand-sub
     align-self: stretch;
 
@@ -116,7 +98,7 @@
     font-family: $font-ui;
     font-weight: 700;
     font-size: 0.82rem;
-    letter-spacing: 0.02em;
+    letter-spacing: 0;
     color: $text;
   }
 
@@ -125,7 +107,7 @@
     font-size: 0.68rem;
     font-weight: 380;
     color: $text-muted;
-    letter-spacing: 0.01em;
+    letter-spacing: 0;
 
     @media (max-width: $bp-stack) {
       display: none;
@@ -173,22 +155,22 @@
   width: 44px;
   height: 44px;
   padding: 0;
-  border: 1px solid $divider;
+  border: var(--border-default);
   border-radius: $radius-sm;
-  background: transparent;
+  background: var(--surface-card);
   color: $text-muted;
   cursor: pointer;
   transition: all $transition;
 
   &:hover {
-    background: $accent-soft;
-    color: $accent;
-    border-color: rgba(22, 62, 100, 0.2);
+    background: var(--lane-current-soft);
+    color: var(--lane-current);
+    border-color: var(--lane-current);
   }
 
   &[aria-expanded="true"] {
-    background: $accent-soft;
-    color: $accent;
+    background: var(--lane-current-soft);
+    color: var(--lane-current);
 
     .header-toc-chevron { transform: rotate(180deg); }
   }
@@ -207,13 +189,12 @@
   max-height: 60vh;
   overflow-y: auto;
   padding: 6px;
-  background: rgba(246, 247, 243, 0.96);
-  border: 1px solid rgba(255, 255, 255, 0.72);
+  background: var(--surface-shell);
+  border: var(--border-default);
   border-radius: $radius-lg;
   backdrop-filter: blur(24px) saturate(140%);
   -webkit-backdrop-filter: blur(24px) saturate(140%);
-  box-shadow: 0 12px 40px rgba(22, 29, 37, 0.18),
-              0 0 0 1px rgba(0, 0, 0, 0.04);
+  box-shadow: var(--shadow-popover);
   z-index: $z-drawer + 3;
 
   scrollbar-width: thin;
@@ -232,11 +213,10 @@
     right: 10px;
     width: auto;
     max-height: calc(100dvh - #{$header-h} - 24px);
-    background: rgba(246, 247, 243, 0.96);
+    background: var(--surface-shell);
     border-radius: $radius-lg;
     padding: 8px;
-    box-shadow: 0 16px 48px rgba(22, 29, 37, 0.22),
-                0 0 0 1px rgba(0, 0, 0, 0.04);
+    box-shadow: var(--shadow-popover);
   }
 
   .toc-dropdown-link {
@@ -252,13 +232,13 @@
     transition: all $transition;
 
     &:hover {
-      color: $accent;
-      background: $accent-soft;
+      color: var(--lane-current);
+      background: var(--lane-current-soft);
       text-decoration: none;
     }
 
     &.active {
-      color: $accent;
+      color: var(--lane-current);
       font-weight: 580;
     }
 
@@ -281,9 +261,9 @@
     width: 44px;
     height: 44px;
     padding: 0;
-    border: 1px solid $divider;
+    border: var(--border-default);
     border-radius: $radius-sm;
-    background: transparent;
+    background: var(--surface-card);
     cursor: pointer;
     flex-direction: column;
     gap: 5px;
@@ -292,8 +272,8 @@
     z-index: $z-drawer + 2;
 
     &:hover {
-      background: $accent-soft;
-      border-color: rgba(22, 62, 100, 0.2);
+      background: var(--lane-current-soft);
+      border-color: var(--lane-current);
     }
   }
 }
@@ -340,13 +320,12 @@
     align-items: stretch;
     gap: 0;
     padding: 8px;
-    background: rgba(246, 247, 243, 0.96);
-    border: 1px solid rgba(255, 255, 255, 0.72);
+    background: var(--surface-shell);
+    border: var(--border-default);
     backdrop-filter: blur(24px) saturate(140%);
     -webkit-backdrop-filter: blur(24px) saturate(140%);
     border-radius: $radius-lg;
-    box-shadow: 0 16px 48px rgba(22, 29, 37, 0.22),
-                0 0 0 1px rgba(0, 0, 0, 0.04);
+    box-shadow: var(--shadow-popover);
     z-index: $z-drawer;
     visibility: hidden;
     opacity: 0;
@@ -364,6 +343,9 @@
 }
 
 .header-nav-link {
+  --nav-lane: var(--lane-current);
+  --nav-lane-soft: var(--lane-current-soft);
+  position: relative;
   font-size: 0.82rem;
   font-weight: 520;
   color: $text-muted;
@@ -373,13 +355,26 @@
   transition: all $transition;
 
   &:hover {
-    color: $accent;
-    background: $accent-soft;
+    color: var(--nav-lane);
+    background: var(--nav-lane-soft);
   }
 
   &.active {
-    color: $accent;
+    color: var(--nav-lane);
     font-weight: 600;
+    background: var(--surface-card);
+  }
+
+  &.active::after {
+    content: "";
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 3px;
+    height: 2px;
+    border-radius: var(--radius-pill);
+    background: var(--nav-lane);
+    opacity: 0.72;
   }
 
   @media (max-width: $bp-stack) {
@@ -393,15 +388,33 @@
     white-space: normal;
 
     &:hover {
-      background: rgba(22, 62, 100, 0.06);
+      background: var(--nav-lane-soft);
     }
 
     &.active {
       font-weight: 580;
-      background: rgba(22, 62, 100, 0.06);
+      background: var(--nav-lane-soft);
+    }
+
+    &.active::after {
+      left: 0;
+      right: auto;
+      top: 12px;
+      bottom: 12px;
+      width: 3px;
+      height: auto;
     }
   }
 }
+
+.header-nav-link-discover { --nav-lane: var(--lane-discover); --nav-lane-soft: var(--lane-discover-soft); }
+.header-nav-link-program { --nav-lane: var(--lane-program); --nav-lane-soft: var(--lane-program-soft); }
+.header-nav-link-corpus { --nav-lane: var(--lane-corpus); --nav-lane-soft: var(--lane-corpus-soft); }
+.header-nav-link-results { --nav-lane: var(--lane-results); --nav-lane-soft: var(--lane-results-soft); }
+.header-nav-link-verify { --nav-lane: var(--lane-verify); --nav-lane-soft: var(--lane-verify-soft); }
+.header-nav-link-publications { --nav-lane: var(--lane-publications); --nav-lane-soft: var(--lane-publications-soft); }
+.header-nav-link-impact { --nav-lane: var(--lane-impact); --nav-lane-soft: var(--lane-impact-soft); }
+.header-nav-link-engage { --nav-lane: var(--lane-engage); --nav-lane-soft: var(--lane-engage-soft); }
 
 // Social icons in mobile drawer
 .drawer-social {
@@ -425,16 +438,16 @@
   width: 36px;
   height: 36px;
   border-radius: $radius-pill;
-  border: 1px solid $divider;
-  background: transparent;
+  border: var(--border-default);
+  background: var(--surface-card);
   color: $text-muted;
   cursor: pointer;
   transition: all $transition;
 
   &:hover {
-    background: $accent-soft;
-    color: $accent;
-    border-color: rgba(22, 62, 100, 0.2);
+    background: var(--lane-current-soft);
+    color: var(--lane-current);
+    border-color: var(--lane-current);
   }
 
   svg { width: 16px; height: 16px; }
@@ -461,7 +474,7 @@
       font-size: 0.72rem;
       font-weight: 650;
       text-transform: uppercase;
-      letter-spacing: 0.05em;
+      letter-spacing: 0;
       color: $text-muted;
     }
 

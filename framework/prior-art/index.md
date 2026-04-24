@@ -10,7 +10,7 @@ right_rail:
     - title: "Framework Overview"
       url: /framework/about/
     - title: "Red-team FAQ"
-      url: /research-program/about/red-team-faq/
+      url: /program/about/red-team-faq/
     - title: "Release Manifest"
       url: /verify/release-manifest/
   meta:
@@ -72,7 +72,7 @@ The τ-cosmological claim that dark matter and dark energy are structural readou
 
 ## Cross-lane anchors
 
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — the ten hardest first-contact questions
-- [Scope, Status & Scrutiny]({{ '/research-program/about/scope-status-and-scrutiny/' | relative_url }}) — the program's own methodological self-description
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the ten hardest first-contact questions
+- [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) — the program's own methodological self-description
 - [How to Inspect the Framework]({{ '/framework/about/how-to-inspect-the-framework/' | relative_url }}) — inspection routes by audience
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned commit, build status, and honest drift reconciliation

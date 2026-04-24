@@ -1,25 +1,41 @@
 ---
 title: "From First to Second Edition: What Changed and Why"
 date: 2026-04-13
+type: "Research Note"
+publication_type: "Research Note"
+status: "Published"
+note_type: "Edition Note"
+domain: "Program History"
 summary_short: "The transition from 9 axioms to 7, and what the Coherence Kernel consolidation means."
 summary_medium: "The Second Edition is not a minor revision. It is a structural consolidation. This note explains the main transition from the First Edition's nine-axiom formulation to the Second Edition's Coherence Kernel, and what drove the change."
+abstract: "The Second Edition is a structural consolidation rather than a cosmetic revision. This note explains the transition from the First Edition's nine-axiom formulation to the Second Edition's Coherence Kernel, the corrected master constant, and the stronger formal verification posture."
 topics:
   - foundations
   - program-history
   - coherence-kernel
+keywords:
+  - editions
+  - coherence kernel
+  - master constant
+  - TauLib
 related_results: []
 related_framework_modules: []
-related_publications: []
+related_publications:
+  - /publications/books/
+  - /publications/archived/first-edition/
+related_verify:
+  - /verify/taulib/
+  - /verify/release-manifest/
 newsletter_ready: true
 featured: true
 right_rail:
   related:
     - title: "Research Notes"
-      url: /research-notes/
+      url: /publications/research-notes/
     - title: "First Edition Archive"
       url: /publications/archived/first-edition/
     - title: "About the Research"
-      url: /research-program/about/
+      url: /program/about/
   meta:
     type: "Research Note"
     status: "Published"

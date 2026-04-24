@@ -10,7 +10,7 @@ summary_cards:
   - title: "Three gates"
     body: "Research-form legitimacy, novelty and relevance, impact and salvage value. Each gate is scored independently; no global truth score is produced."
   - title: "Public materials only"
-    body: "The protocol runs on public Atlas materials, Guided Tours, Lean companions, TauLib source, and published books. No confidential documents are used."
+    body: "The protocol runs on public site materials, Guided Tours, Lean companions, TauLib source, and published books. No confidential documents are used."
 right_rail:
   related:
     - title: "Assessment Protocols"
@@ -146,7 +146,7 @@ The protocol is designed for journalists, critics, policymakers, investors, and 
 
 The protocol is intended to be run exclusively on public materials:
 
-- Public Atlas materials at [panta-rhei.site](https://panta-rhei.site)
+- Public site materials at [panta-rhei.site](https://panta-rhei.site)
 - Public Guided Tours
 - Public Lean companions and TauLib source
 - Published books

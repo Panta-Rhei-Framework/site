@@ -37,7 +37,7 @@ The key timing consequence: **Tier A predictions are already testable at the fra
 
 Two distinct readings of "a priori" operate in physics:
 
-1. **Structural a priori** — a prediction is structurally a priori if it is *forced* by the framework's kernel without any free parameter tuned to the target observation. In this reading, all 67 predictions in the Physics Ledger are a priori: they flow algebraically from the single constant ι<sub>τ</sub> = 2/(π+e), which is itself structurally fixed by the seven kernel axioms (see [Is ι_τ forced or fitted?]({{ '/research-program/about/red-team-faq/' | relative_url }}#is-iota-tau-fitted-or-forced)), not chosen to match any experiment.
+1. **Structural a priori** — a prediction is structurally a priori if it is *forced* by the framework's kernel without any free parameter tuned to the target observation. In this reading, all 67 predictions in the Physics Ledger are a priori: they flow algebraically from the single constant ι<sub>τ</sub> = 2/(π+e), which is itself structurally fixed by the seven kernel axioms (see [Is ι_τ forced or fitted?]({{ '/program/about/red-team-faq/' | relative_url }}#is-iota-tau-fitted-or-forced)), not chosen to match any experiment.
 
 2. **Historical a priori** — a prediction is historically a priori if it was published *before* the experimental value was known. In this reading, the 67 predictions fall into three genuinely different categories depending on whether the target measurement pre-existed the derivation or post-dates it.
 
@@ -128,5 +128,5 @@ Until those land, this ledger is the honest framework-level statement.
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue with filters
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 sharpest predictions against named experiments on explicit timelines
 - [Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — complete typeset document with derivations
-- [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — common skeptical questions answered honestly
+- [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — common skeptical questions answered honestly
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned release state and build verification
