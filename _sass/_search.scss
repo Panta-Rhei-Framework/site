@@ -19,6 +19,7 @@
 .search-overlay-backdrop {
   position: absolute;
   inset: 0;
+  z-index: 0;
   background: rgba(21, 23, 28, 0.42);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
@@ -26,6 +27,7 @@
 
 .search-overlay-panel {
   position: relative;
+  z-index: 1;
   width: 90%;
   max-width: 640px;
   max-height: 70vh;

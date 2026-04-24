@@ -1,21 +1,26 @@
 ---
 layout: changelog-index
 title: "Changelog"
-lane: utility
+lane: support
+type: support_page
+support_type: changelog
+status: canonical
+updated: "April 2026"
 permalink: /changelog/
+summary: "Operational ledger for the Panta Rhei Research Program site."
 summary_short: "Operational ledger for the Panta Rhei Research Program site — new lanes, content expansions, publication updates, and structural changes."
 right_rail:
   related:
-    - title: "About the Research"
-      url: /program/about/
+    - title: "Program"
+      url: /program/
     - title: "Research Notes"
       url: /publications/research-notes/
     - title: "Publications"
       url: /publications/
   meta:
-    type: "Changelog"
-    scope: "Program-wide"
-    status: "Active"
+    type: "Support page"
+    scope: "Changelog"
+    status: "Canonical"
     updated: "April 2026"
 ---
 

@@ -2,8 +2,13 @@
 layout: bibliography-browse
 title: Browse Bibliography
 permalink: /bibliography/browse/
-lane: bibliography
+lane: support
+type: support_page
+support_type: bibliography
+status: canonical
+updated: "April 2026"
 section: "Bibliography · Browse"
+summary: "Interactive browse and filter surface for the public bibliography."
 summary_short: "All 1,125 references in the research corpus — filter by domain, role, type, citation status, book, and decade."
 right_rail:
   related:
@@ -11,14 +16,14 @@ right_rail:
     url: /bibliography/
   - title: Results Browse
     url: /results/browse/
-  - title: The Tau Framework
-    url: /framework/about/
+  - title: Corpus
+    url: /corpus/
   artifacts:
   - title: "Download references.bib"
     url: /assets/bibliography/references.bib
   meta:
-    type: Browse Surface
-    scope: All 1,125 references
+    type: Support page
+    scope: Bibliography browse
     status: Canonical
     updated: April 2026
 ---

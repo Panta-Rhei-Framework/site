@@ -74,10 +74,10 @@ Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ page
 Home::/|Changelog::/changelog/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'changelog-index' -%}
-Home::/|Changelog::{{ page.url }}
+Home::/|Support::/cite/|Changelog::{{ page.url }}
 
 {%- when 'bibliography-index' -%}
-Home::/|Bibliography::{{ page.url }}
+Home::/|Support::/cite/|Bibliography::{{ page.url }}
 
 {%- when 'program-doc' -%}
 {%- assign lane_label = page.lane | default: '' | capitalize -%}
@@ -93,6 +93,7 @@ Home::/|Bibliography::{{ page.url }}
   {%- when 'registry' -%}{%- assign lane_label = 'Registry' -%}{%- assign lane_url = '/corpus/registry/' -%}
   {%- when 'publications' -%}{%- assign lane_label = 'Publications' -%}{%- assign lane_url = '/publications/' -%}
   {%- when 'engage' -%}{%- assign lane_label = 'Engage' -%}{%- assign lane_url = '/engage/' -%}
+  {%- when 'support' -%}{%- assign lane_label = 'Support' -%}{%- assign lane_url = '/cite/' -%}
 {%- endcase -%}
 {%- if page.lane == 'program' and page.section == 'about-the-program' -%}
   {%- if page.url == '/program/about/' -%}
@@ -176,7 +177,7 @@ Home::/|Results::/results/|Predictions::/results/predictions/browse/|{{ page.tit
 Home::/|Results::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'bibliography-browse' -%}
-Home::/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}
+Home::/|Support::/cite/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}
 
 {%- endcase -%}
 {%- endcapture -%}

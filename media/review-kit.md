@@ -2,11 +2,16 @@
 layout: program-doc
 title: "Review Kit"
 permalink: /media/review-kit/
-lane: utility
+lane: support
+type: support_page
+support_type: review_kit
+status: canonical
+updated: "April 2026"
+summary: "A structured entry point for reviewers who want to inspect, challenge, or assess the Panta Rhei Research Program."
 summary_short: "Structured entry paths for reviewers, domain experts, and institutional readers."
 summary_cards:
 - title: "For reviewers"
-  body: "Five domain-specific review paths with recommended reading order and verification routes."
+  body: "Recommended routes into Program, Corpus, Results, Verify, Publications, and Assessment Protocols."
 - title: "For institutions"
   body: "Prospectus, reviewer's dossier, formalization overview, and contact routes."
 - title: "What this is not"
@@ -17,8 +22,12 @@ right_rail:
     url: /media/
   - title: Verify
     url: /verify/
-  - title: About the Research
-    url: /program/about/
+  - title: Assessment Protocols
+    url: /verify/assessment-protocols/
+  - title: Program
+    url: /program/
+  - title: Problem Ledger
+    url: /results/problem-ledger/
   artifacts:
   - title: TauLib (contributor)
     url: https://github.com/Panta-Rhei-Research/taulib
@@ -27,24 +36,54 @@ right_rail:
     url: https://github.com/Panta-Rhei-Research/formalization
     external: true
   meta:
-    type: "Review Kit"
-    status: "Active"
+    type: "Support page"
+    scope: "Review kit"
+    status: "Canonical"
     updated: "April 2026"
 ---
 
-## What Kind of Object This Is
+## Recommended review paths
 
 The Panta Rhei Research Program is an **independent open research program** — not a journal submission, not a textbook, not a software project. It is a seven-book monograph series accompanied by a Lean 4 formalization library, a public research website, and structured verification surfaces.
 
 The [books]({{ '/publications/books/' | relative_url }}) are the canonical monograph release. The site provides navigable access in understanding-order. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
 
-## Recommended Review Paths
+## Research-form legitimacy
 
-### General orientation
-1. [About the Research]({{ '/program/about/' | relative_url }})
-2. [The Tau Framework]({{ '/framework/about/' | relative_url }})
-3. [Key Results]({{ '/results/' | relative_url }})
-4. [How to Read a Result Page]({{ '/results/how-to-read-a-result-page/' | relative_url }})
+Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) and the [Research Agenda]({{ '/program/research-agenda/' | relative_url }}). These pages state what kind of research object this is, what it refuses, and how its claims should be challenged.
+
+## Corpus and registry inspection
+
+Use [Corpus]({{ '/corpus/' | relative_url }}) for the public research body and [Corpus > Registry]({{ '/corpus/registry/' | relative_url }}) for the current registry projection. The registry is the inspection route for definitions, theorem objects, and dependency contexts.
+
+## Results and problem ledger
+
+Use [Results]({{ '/results/' | relative_url }}) for typed answer surfaces and [Results > Problem Ledger]({{ '/results/problem-ledger/' | relative_url }}) for the problem-facing map. Pick one result page and follow its linked Corpus and Verify routes before generalizing.
+
+## Verification and TauLib
+
+Use [Verify > Scientific Rigor]({{ '/verify/scientific-rigor/' | relative_url }}), [Verify > Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }}), and [TauLib]({{ '/verify/taulib/' | relative_url }}) for the formal verification surface. Lean compilation checks internal formal claims; empirical claims still require empirical testing.
+
+## Falsification and predictions
+
+Use [Verify > Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}) for prediction and falsification ownership. Results links these surfaces where relevant, but Verify is the canonical lane for assessment and challenge.
+
+## Assessment protocols
+
+Use [Verify > Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) for structured critique. These protocols are the first place to route formal-methods review, domain review, prior-art review, and LLM-assisted review workflows.
+
+## Suggested first-pass reviewer workflow
+
+1. Start with [Program > Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}).
+2. Read [Program > Research Agenda]({{ '/program/research-agenda/' | relative_url }}).
+3. Inspect [Corpus > Registry]({{ '/corpus/registry/' | relative_url }}).
+4. Choose one [Results]({{ '/results/' | relative_url }}) page.
+5. Follow supporting Corpus links.
+6. Check [Verify > Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }}).
+7. Review relevant [TauLib]({{ '/verify/taulib/' | relative_url }}) and proof surfaces.
+8. Use [Assessment Protocols]({{ '/verify/assessment-protocols/' | relative_url }}) for structured critique.
+
+## Domain-oriented paths
 
 ### Mathematics-first path
 1. [Book I: Categorical Foundations]({{ '/publications/books/book-i/' | relative_url }})
@@ -72,14 +111,14 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
 {% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/corpus/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
 
-## Suggested Starter Packet
+## Suggested starter packet
 
 For a reviewer who wants to form a first impression in 30-60 minutes:
 
-1. **[About the Research]({{ '/program/about/' | relative_url }})** — what the program is (5 min)
+1. **[Program > About the Program]({{ '/program/about/' | relative_url }})** — what the program is (5 min)
 2. **[Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})** — how constraint enables breadth (5 min)
 3. **[Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }})** — how claims are typed (5 min)
-4. **Pick 3 results** from [Key Results]({{ '/results/' | relative_url }}) in your domain (15 min)
+4. **Pick 3 results** from [Results]({{ '/results/' | relative_url }}) in your domain (15 min)
 5. **[Verify]({{ '/verify/' | relative_url }})** — how to inspect further (5 min)
 6. **One guided tour** from [Guided Tours]({{ '/publications/guided-tours/' | relative_url }}) (15 min)
 

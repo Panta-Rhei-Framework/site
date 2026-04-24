@@ -1,9 +1,14 @@
 ---
 layout: program-doc
 title: "Impressum"
-lane: utility
+lane: support
+type: support_page
+support_type: legal
+status: canonical
+updated: "April 2026"
 lang: de
 permalink: /impressum/
+summary: "Anbieterkennzeichnung gemäß § 5 DDG."
 summary_short: "Anbieterkennzeichnung gemäß § 5 DDG."
 right_rail:
   related:
@@ -12,8 +17,9 @@ right_rail:
   - title: Contact
     url: /engage/contact/
   meta:
-    type: "Legal"
-    status: "Active"
+    type: "Support page"
+    scope: "Legal"
+    status: "Canonical"
     updated: "April 2026"
 ---
 

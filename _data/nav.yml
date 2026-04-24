@@ -336,12 +336,28 @@ lane_nav:
             url: "/cite/"
           - title: "Bibliography"
             url: "/bibliography/"
+          - title: "Browse Bibliography"
+            url: "/bibliography/browse/"
+          - title: "Sitemap"
+            url: "/sitemap/"
+      - title: "Media & Review"
+        links:
           - title: "Media Kit"
             url: "/media/"
+          - title: "Review Kit"
+            url: "/media/review-kit/"
+          - title: "Engage"
+            url: "/engage/"
+      - title: "Operations & Legal"
+        links:
           - title: "Changelog"
             url: "/changelog/"
+          - title: "Credits"
+            url: "/credits/"
           - title: "Legal"
             url: "/impressum/"
+          - title: "Datenschutz"
+            url: "/datenschutz/"
 
 framework_nav:
   - title: "Overview"

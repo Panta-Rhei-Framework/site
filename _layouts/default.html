@@ -54,9 +54,9 @@
   {% include footer.html %}
 
   <!-- Search overlay -->
-  <div id="search-overlay" class="search-overlay" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title" hidden>
+  <div id="search-overlay" class="search-overlay" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title" onclick="if (event.target === this) closeSearch()" hidden>
     <div class="search-overlay-backdrop" onclick="closeSearch()"></div>
-    <div class="search-overlay-panel glass" tabindex="-1">
+    <div class="search-overlay-panel glass" tabindex="-1" onclick="event.stopPropagation()">
       <div class="search-overlay-header">
         <span class="search-overlay-title" id="search-overlay-title">Search the Site</span>
         <button class="search-overlay-close" onclick="closeSearch()" aria-label="Close search">&times;</button>
@@ -106,7 +106,7 @@
       focusSearchInput(10);
     }
     function focusSearchInput(attemptsRemaining) {
-      var input = document.querySelector('#search-container input');
+      var input = document.querySelector('#search-container .pagefind-ui__search-input, #search-container input[type="search"], #search-container input[type="text"]');
       var panel = document.querySelector('.search-overlay-panel');
       if (input) {
         input.focus();

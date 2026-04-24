@@ -1,8 +1,13 @@
 ---
 layout: program-doc
 title: "Credits & Attributions"
-lane: utility
+lane: support
+type: support_page
+support_type: credits
+status: canonical
+updated: "April 2026"
 permalink: /credits/
+summary: "Third-party assets, open-source libraries, tooling, and license notes for panta-rhei.site."
 summary_short: "Third-party assets, open-source libraries, and tooling that power panta-rhei.site — with licenses named explicitly."
 right_rail:
   related:
@@ -15,8 +20,9 @@ right_rail:
   - title: Cite
     url: /cite/
   meta:
-    type: "Legal / Attribution"
-    status: "Active"
+    type: "Support page"
+    scope: "Credits"
+    status: "Canonical"
     updated: "April 2026"
 ---
 

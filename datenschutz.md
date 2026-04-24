@@ -1,9 +1,14 @@
 ---
 layout: program-doc
 title: "Datenschutzerklärung"
-lane: utility
+lane: support
+type: support_page
+support_type: legal
+status: canonical
+updated: "April 2026"
 lang: de
 permalink: /datenschutz/
+summary: "Datenschutzhinweise gemäß DSGVO für die Website des Panta Rhei Research Program."
 summary_short: "Datenschutzhinweise gemäß DSGVO für die Website des Panta Rhei Research Program."
 right_rail:
   related:
@@ -12,8 +17,9 @@ right_rail:
   - title: Contact
     url: /engage/contact/
   meta:
-    type: "Legal"
-    status: "Active"
+    type: "Support page"
+    scope: "Privacy"
+    status: "Canonical"
     updated: "April 2026"
 ---
 

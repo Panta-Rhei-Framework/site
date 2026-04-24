@@ -8,6 +8,8 @@
     "headers:dry-run": "wrangler deploy --dry-run",
     "headers:deploy": "wrangler deploy",
     "headers:live": "node scripts/check_live_headers.mjs",
+    "qa:v2-shell": "node scripts/check_v2_shell.mjs",
+    "qa:round2-browser": "node scripts/qa_day1_round2_browser.mjs",
     "visual:qa": "node scripts/visual_qa.mjs"
   },
   "devDependencies": {

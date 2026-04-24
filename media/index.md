@@ -2,7 +2,12 @@
 layout: program-doc
 title: "Media Kit"
 permalink: /media/
-lane: utility
+lane: support
+type: support_page
+support_type: media
+status: canonical
+updated: "April 2026"
+summary: "Resources for journalists, public communicators, and external readers covering the Panta Rhei Research Program."
 summary_short: "Press, podcast, and review resources for the Panta Rhei Research Program."
 summary_cards:
 - title: "What this is"
@@ -15,10 +20,10 @@ right_rail:
   related:
   - title: Review Kit
     url: /media/review-kit/
-  - title: Brand Assets
-    url: /brand/
-  - title: About the Research
-    url: /program/about/
+  - title: Program
+    url: /program/
+  - title: Discover
+    url: /discover/
   - title: Media
     url: /engage/media/
   - title: Contact
@@ -26,14 +31,19 @@ right_rail:
   - title: White Papers
     url: /publications/white-papers/
   meta:
-    type: "Media Kit"
-    status: "Active"
+    type: "Support page"
+    scope: "Media kit"
+    status: "Canonical"
     updated: "April 2026"
 ---
 
-## About the Program
+## Short description
 
 The Panta Rhei Research Program is an independent open research program developing **Category τ** — a categorical framework built from five generators, seven axioms, and one operator that derives results across mathematics, physics, biology, and philosophy from a single coherence kernel.
+
+## What this is
+
+This page gathers public materials for journalists, podcast hosts, public communicators, reviewers, and institutional readers. It is an entry surface into the v2 site, not a replacement for the canonical lanes.
 
 {% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign chapter_count = site.data.publications.chapters | size %}The program's canonical release (April 2026) includes:
 - A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
@@ -41,10 +51,14 @@ The Panta Rhei Research Program is an independent open research program developi
 - This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
 
+## What this is not
+
+This media kit is not a peer-review certificate, not a claim that every result is settled, and not a shortcut around the verification surfaces. Use it for orientation, then follow the relevant Program, Corpus, Results, Verify, and Publications routes.
+
 ## Quick Facts
 
 - **Authors**: Dr. Thorsten Fuchs & Anna-Sophie Fuchs
-- **Framework**: 5 generators, 7 axioms (K0–K6), 1 operator (ρ)
+- **Corpus kernel**: 5 generators, 7 axioms (K0–K6), 1 operator (ρ)
 - **Master constant**: ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
 - **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters
 - **Results**: {{ result_count }} key results across 4 domains
@@ -88,7 +102,22 @@ The Panta Rhei Research Program is an independent open research program developi
 
 ---
 
-## Press Kit
+## Suggested starting points
+
+- [Homepage]({{ '/' | relative_url }}) — high-level orientation.
+- [Discover]({{ '/discover/' | relative_url }}) — guided entry routes.
+- [Program]({{ '/program/' | relative_url }}) — identity, purpose, and research agenda.
+- [Corpus]({{ '/corpus/' | relative_url }}) — central research artifact and registry projection.
+- [Results]({{ '/results/' | relative_url }}) — typed answer surfaces and world readouts.
+- [Verify]({{ '/verify/' | relative_url }}) — formalization, falsification, and assessment protocols.
+- [Publications]({{ '/publications/' | relative_url }}) — books, white papers, companion papers, and Research Notes.
+- [Engage]({{ '/engage/' | relative_url }}) — contact, media, critique, and participation routes.
+
+## Key public surfaces
+
+Use these lanes when describing the public site: Program for identity and agenda, Corpus for the central research body, Results for current answer surfaces, Verify for inspection and challenge, Publications for citable artifacts, and Engage for contact.
+
+## Press kit
 
 ### Program Boilerplate (copy-paste ready)
 
@@ -118,22 +147,9 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ---
 
-## Recommended Starting Points
+## Images and attribution
 
-### For general-audience journalists
-1. [About the Research]({{ '/program/about/' | relative_url }})
-2. [Results overview]({{ '/results/' | relative_url }}) — {{ result_count }} results with typed status
-3. [Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
-
-### For science/mathematics journalists
-1. [The Tau Framework]({{ '/framework/about/' | relative_url }})
-2. [Results by Domain]({{ '/results/by-domain/' | relative_url }})
-3. [Verify]({{ '/verify/' | relative_url }}) — how to inspect the claims
-
-### For podcast hosts
-1. Start with the [About the Research]({{ '/program/about/' | relative_url }}) page
-2. Choose 2–3 results from [Results]({{ '/results/' | relative_url }}) relevant to your audience
-3. The [Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }}) page explains the program's epistemic discipline
+Brand assets, diagrams, and public figures should be reused with attribution to the Panta Rhei Research Program unless a specific asset states otherwise. See [Credits & Attributions]({{ '/credits/' | relative_url }}) for licensing and third-party notices.
 
 ## Contact
 
