@@ -86,5 +86,5 @@ and no fine-tuning problem.
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
 

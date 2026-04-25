@@ -66,5 +66,5 @@ Stellar BH | 10 | 0.067 | 0.577 | 0.510 GW150914 remnant | 62 | 0.417 | 3.580 | 
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
 

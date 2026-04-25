@@ -62,5 +62,5 @@ $0.8768\,fm$) by selecting the muonic hydrogen value as correct.
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 47 — hyperfine-structure), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 47 — hyperfine-structure), Books IV–V of *Panta Rhei*.
 

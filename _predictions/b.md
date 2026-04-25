@@ -65,5 +65,5 @@ The charm-to-strange mass ratio from the $τ$-chain:
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
 

@@ -365,8 +365,8 @@ lane_nav:
                 url: "/publications/archived/first-edition/"
       - title: "Special Artifacts"
         links:
-          - title: "Physics Ledger"
-            url: "/publications/physics-ledger/"
+          - title: "Numerical Physics Ledger"
+            url: "/publications/numerical-physics-ledger/"
           - title: "Categorical Genesis"
             url: "/publications/categorical-genesis/"
           - title: "Bibliography"
@@ -580,7 +580,7 @@ results_nav:
       - title: "Applied Philosophy"
         url: "/results/fields/philosophy-applied/"
 
-  - title: "Physics Ledger"
+  - title: "Numerical Physics Ledger"
     children:
       - title: "Predictions (67)"
         url: "/results/predictions/browse/"
@@ -674,8 +674,8 @@ publications_nav:
     url: "/publications/errata/"
   - title: "Archived Releases"
     url: "/publications/archived/"
-  - title: "Physics Ledger"
-    url: "/publications/physics-ledger/"
+  - title: "Numerical Physics Ledger"
+    url: "/publications/numerical-physics-ledger/"
   - title: "Categorical Genesis"
     url: "/publications/categorical-genesis/"
   - title: "Bibliography"

@@ -71,5 +71,5 @@ $a_3$. Equivalently, $m_b/m_n = (17/20)\,ι<sub>τ</sub>^-20/13
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
 

@@ -65,5 +65,5 @@ geometry resolution for $η$), not incremental NLO engineering.
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 35 — three-generations), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 35 — three-generations), Books IV–V of *Panta Rhei*.
 

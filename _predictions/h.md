@@ -95,5 +95,5 @@ matching Planck at $+269$ ppm
 
 ## Source
 
-This prediction is derived in the Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
+This prediction is derived in the Numerical Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
 

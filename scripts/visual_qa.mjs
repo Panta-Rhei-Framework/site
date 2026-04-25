@@ -29,7 +29,7 @@ const pages = [
   { name: "engage", url: "/engage/", expect: ["Engage"] },
   { name: "result-hubble", url: "/results/problem/hubble-tension/", expect: ["Hubble"] },
   { name: "registry-object", url: "/registry/object/VII.T16/", expect: ["VII.T16"] },
-  { name: "publication-ledger", url: "/publications/physics-ledger/", expect: ["Physics Ledger"] },
+  { name: "publication-ledger", url: "/publications/numerical-physics-ledger/", expect: ["Numerical Physics Ledger"] },
 ];
 
 const mimeTypes = new Map([

@@ -51,7 +51,7 @@ The electron mass is the program's highest-precision prediction, derived in Book
 
 The neutron emerges as the minimal quasi-stable defect bundle on T² — the simplest configuration whose breathing amplitude is nonzero and whose bi-rotation is locked by ι<sub>τ</sub> = 2/(π+e). The electron mass is then derived as m_e = m_n / R, where R is the ratio determined by a 10-link chain of spectral exponents on the lemniscate boundary. Each link in the chain corresponds to a step in the refinement tower, with the exponents governed by the sector coupling hierarchy κ(A), κ(B), κ(C), κ(D).
 
-The resulting value m_e = 0.510999 MeV matches the CODATA value to 0.025 ppm — the sharpest numerical prediction in the entire Physics Ledger. This precision is not a fit: it follows from the 10-link chain structure with zero adjustable parameters. The same chain, extended to different winding classes, yields the muon and tau lepton masses (the Koide relation Q = 2/3, IV.T143).
+The resulting value m_e = 0.510999 MeV matches the CODATA value to 0.025 ppm — the sharpest numerical prediction in the entire Numerical Physics Ledger. This precision is not a fit: it follows from the 10-link chain structure with zero adjustable parameters. The same chain, extended to different winding classes, yields the muon and tau lepton masses (the Koide relation Q = 2/3, IV.T143).
 
 ## Source
 

@@ -29,7 +29,7 @@ right_rail:
     updated: "April 2026"
 ---
 
-{% assign steps = site.data.construction_spine["construction-spine"] %}
+{% assign steps = site.data.construction_spine["construction-spine-data"] %}
 
 # Verify the Construction Spine
 
@@ -45,29 +45,88 @@ Obligation -> Construction -> Consequence -> Inspection
 
 ## Step-by-step verification table
 
-| Step | Construction step | Primary verification modes |
-| --- | --- | --- |
-{% for step in steps %}
-| {{ step.sequence }} | [{{ step.title }}]({{ step.corpus_path | relative_url }}) | {{ step.verification.primary_modes | join: ", " }} |
-{% endfor %}
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Step</th>
+        <th scope="col">Construction step</th>
+        <th scope="col">Primary verification modes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for step in steps %}
+      {% assign primary_modes = step.verification.primary_modes | default: empty %}
+      <tr>
+        <td>{{ step.sequence }}</td>
+        <td><a href="{{ step.corpus_path | relative_url }}">{{ step.title }}</a></td>
+        <td>
+          {% if primary_modes.size > 0 %}
+            {{ primary_modes | join: ", " }}
+          {% else %}
+            <span class="muted">Pending population</span>
+          {% endif %}
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
 
 ## Verification modes by step
 
 {% for step in steps %}
-### {{ step.sequence }}. {{ step.title }} {#step-{{ step.sequence | prepend: '0' | slice: -2, 2 }}}
+{% assign step_anchor = step.sequence | prepend: '0' | slice: -2, 2 %}
+{% assign build_status_label = step.build_status_label | default: step.build_status | replace: "_", " " | capitalize %}
+{% assign primary_modes = step.verification.primary_modes | default: empty %}
+{% assign bridge_checks = step.verification.bridge_checks | default: empty %}
+{% assign empirical_checks = step.verification.empirical_checks | default: empty %}
+{% assign unresolved_frontiers = step.verification.unresolved_frontiers | default: empty %}
+{% assign related_verify_pages = step.verification.related_verify_pages | default: empty %}
+<h3 id="step-{{ step_anchor }}">{{ step.sequence }}. {{ step.title }}</h3>
 
-- Construction page: [{{ step.title }}]({{ step.corpus_path | relative_url }})
-- Current build status: **{{ step.build_status_label }}**
-- Primary verification modes: {{ step.verification.primary_modes | join: ", " }}
-- Bridge checks: {% if step.verification.bridge_checks.size > 0 %}{{ step.verification.bridge_checks | join: "; " }}{% else %}No dedicated bridge check declared yet.{% endif %}
-- Empirical checks: {% if step.verification.empirical_checks.size > 0 %}{{ step.verification.empirical_checks | join: "; " }}{% else %}No empirical check declared at this step.{% endif %}
-- Unresolved frontiers: {% if step.verification.unresolved_frontiers.size > 0 %}{{ step.verification.unresolved_frontiers | join: "; " }}{% else %}No unresolved frontier declared yet.{% endif %}
+<ul>
+  <li>Construction page: <a href="{{ step.corpus_path | relative_url }}">{{ step.title }}</a></li>
+  <li>Current build status: <strong>{{ build_status_label }}</strong></li>
+  <li>
+    Primary verification modes:
+    {% if primary_modes.size > 0 %}
+      {{ primary_modes | join: ", " }}
+    {% else %}
+      Pending population.
+    {% endif %}
+  </li>
+  <li>
+    Bridge checks:
+    {% if bridge_checks.size > 0 %}
+      {{ bridge_checks | join: "; " }}
+    {% else %}
+      No dedicated bridge check declared yet.
+    {% endif %}
+  </li>
+  <li>
+    Empirical checks:
+    {% if empirical_checks.size > 0 %}
+      {{ empirical_checks | join: "; " }}
+    {% else %}
+      No empirical check declared at this step.
+    {% endif %}
+  </li>
+  <li>
+    Unresolved frontiers:
+    {% if unresolved_frontiers.size > 0 %}
+      {{ unresolved_frontiers | join: "; " }}
+    {% else %}
+      No unresolved frontier declared yet.
+    {% endif %}
+  </li>
+</ul>
 
-{% if step.verification.related_verify_pages.size > 0 %}
+{% if related_verify_pages.size > 0 %}
 Related Verify pages:
 
 <div class="dep-list">
-{% for related in step.verification.related_verify_pages %}
+{% for related in related_verify_pages %}
   {% if related.url %}
   <a class="dep-link" href="{{ related.url | relative_url }}">
     <span class="dep-id">Verify</span>

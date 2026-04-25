@@ -35,7 +35,7 @@ right_rail:
     updated: "April 2026"
 ---
 
-{% assign steps = site.data.construction_spine["construction-spine"] %}
+{% assign steps = site.data.construction_spine["construction-spine-data"] %}
 
 ## This is not a timeline
 

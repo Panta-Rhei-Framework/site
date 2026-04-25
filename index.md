@@ -130,7 +130,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
 <section class="content-card homepage-section">
   <p class="v2-kicker">Artifacts and continuation</p>
   <h2>Read, inspect, follow, and engage</h2>
-  <p>The public release surface is not only the books. It includes the Conspectus, Physics Ledger, guided tours, companion papers, research notes, TauLib, assessment protocols, and errata. The v2 site makes those surfaces easier to find without turning the homepage into a catalogue.</p>
+  <p>The public release surface is not only the books. It includes the Conspectus, Numerical Physics Ledger, guided tours, companion papers, research notes, TauLib, assessment protocols, and errata. The v2 site makes those surfaces easier to find without turning the homepage into a catalogue.</p>
   <div class="btn-group section-ctas">
     <a class="btn-secondary" href="{{ '/publications/' | relative_url }}">Publications</a>
     <a class="btn-secondary" href="{{ '/impact/' | relative_url }}">Impact</a>

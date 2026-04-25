@@ -446,6 +446,10 @@ def main() -> int:
         source = CORPUS_EXPORTS / filename
         copy_file(source, SITE_ROOT / "_data" / "construction_spine" / filename)
         copy_file(source, SITE_ROOT / "assets" / "data" / "construction-spine" / filename)
+    copy_file(
+        CORPUS_EXPORTS / "construction-spine.json",
+        SITE_ROOT / "_data" / "construction_spine" / "construction-spine-data.json",
+    )
 
     source = CORPUS_EXPORTS / "agenda-progress.json"
     copy_file(source, SITE_ROOT / "_data" / "agenda_progress" / "agenda-progress.json")
