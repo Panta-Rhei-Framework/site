@@ -11,20 +11,20 @@ summary_short: "The explicit burden of proof accepted by the Panta Rhei Research
 summary_cards:
   - title: "Aim"
     body: "Investigate whether one coherence-first framework can support a full-stack model of reality."
-  - title: "Discipline"
-    body: "State the constraints, desiderata, refusals, and inspection criteria before asking for trust."
-  - title: "Mirror"
-    body: "This lane states the burden; the Results lane records the current answers."
+  - title: "Ledgers"
+    body: "Problem Ledger and Recovery Requirements record the public stress tests and baseline structures."
+  - title: "Kernel Burden"
+    body: "Kernel, Model & Reality states what would be required for ontic seriousness rather than mere model usefulness."
 hero_ctas:
   - label: "Problem Ledger"
     url: /program/research-agenda/problem-ledger/
     primary: true
   - label: "Recovery Requirements"
     url: /program/research-agenda/recovery-requirements/
+  - label: "Kernel, Model & Reality"
+    url: /program/research-agenda/kernel-model-reality/
   - label: "Result Criteria"
     url: /program/research-agenda/result-criteria/
-  - label: "Roadmap"
-    url: /program/research-agenda/roadmap/
 right_rail:
   related:
     - title: "Research Aim & Desiderata"
@@ -35,6 +35,8 @@ right_rail:
       url: /program/research-agenda/problem-ledger-source-policy/
     - title: "Recovery Requirements"
       url: /program/research-agenda/recovery-requirements/
+    - title: "Kernel, Model & Reality"
+      url: /program/research-agenda/kernel-model-reality/
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
   meta:
@@ -73,6 +75,18 @@ The Recovery Requirements Ledger asks a different question. It records the known
 
 Both ledgers belong to the same burden of proof. They should not be collapsed into one another.
 
+## Kernel, Model & Reality
+
+The ledgers name what the program must face. Kernel, Model & Reality names the deeper burden behind that confrontation: what would make a kernel more than a useful organizing model?
+
+This section treats ontic status as a burden, not a premise. It takes the phenomena/noumena boundary seriously, distinguishes pointing access from diagrammatic access, and applies a strict no-externalities rule: no hidden runtime, substrate, bridge, semantic load, or residual boundary may be treated as solved by silence.
+
+In practical terms, this gives the agenda a third major surface:
+
+- the [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) asks what open questions the program accepts as stress tests
+- the [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ask what known structures the kernel must recover
+- [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) asks what shape of answer could earn ontic seriousness
+
 ## Agenda pillars
 
 <div class="v2-grid">
@@ -104,6 +118,10 @@ Both ledgers belong to the same burden of proof. They should not be collapsed in
     <strong>Recovery Requirements</strong>
     <span>Known structures the kernel must recover without treating them as open-problem stress tests.</span>
   </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">
+    <strong>Kernel, Model & Reality</strong>
+    <span>The ontic-status burden, no-externalities rule, diagrammatic access mode, and required answer-shapes.</span>
+  </a>
   <a class="v2-tile" href="{{ '/program/research-agenda/result-criteria/' | relative_url }}">
     <strong>Result Criteria</strong>
     <span>How claims are classified, constrained, and routed toward verification.</span>
@@ -116,6 +134,8 @@ Both ledgers belong to the same burden of proof. They should not be collapsed in
   <a href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Question</a>
   <span>-></span>
   <a href="{{ '/program/research-agenda/foundational-discipline/' | relative_url }}">Constraint</a>
+  <span>-></span>
+  <a href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">Ontic burden</a>
   <span>-></span>
   <a href="{{ '/corpus/' | relative_url }}">Construction</a>
   <span>-></span>
