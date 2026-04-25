@@ -13,8 +13,8 @@ summary_cards:
     body: "Investigate whether one coherence-first framework can support a full-stack model of reality."
   - title: "Ledgers"
     body: "Problem Ledger and Recovery Requirements record the public stress tests and baseline structures."
-  - title: "Kernel Burden"
-    body: "Kernel, Model & Reality states what would be required for ontic seriousness rather than mere model usefulness."
+  - title: "Construction"
+    body: "Construction Roadmap turns those burdens into a logical build-order."
 hero_ctas:
   - label: "Problem Ledger"
     url: /program/research-agenda/problem-ledger/
@@ -23,6 +23,8 @@ hero_ctas:
     url: /program/research-agenda/recovery-requirements/
   - label: "Kernel, Model & Reality"
     url: /program/research-agenda/kernel-model-reality/
+  - label: "Construction Roadmap"
+    url: /program/research-agenda/construction-roadmap/
   - label: "Result Criteria"
     url: /program/research-agenda/result-criteria/
 right_rail:
@@ -37,6 +39,8 @@ right_rail:
       url: /program/research-agenda/recovery-requirements/
     - title: "Kernel, Model & Reality"
       url: /program/research-agenda/kernel-model-reality/
+    - title: "Construction Roadmap"
+      url: /program/research-agenda/construction-roadmap/
     - title: "Progress Against Agenda"
       url: /results/progress-against-agenda/
   meta:
@@ -112,6 +116,12 @@ In practical terms, this gives the agenda a third major surface:
 - the [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ask what known structures the kernel must recover
 - [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) asks what shape of answer could earn ontic seriousness
 
+## Construction Roadmap
+
+The first three surfaces state the burden. The [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) states the logical build-order required by that burden.
+
+It is not a project timeline. It explains why the program must define the kernel, recover mathematics, internalize logic, locate the physical carrier, recover internal physical grammar, build empirical bridges, recover life, recover reflective structure, self-host formal systems, and only then test universal closure and ontic status.
+
 ## Agenda pillars
 
 <div class="v2-grid">
@@ -147,6 +157,10 @@ In practical terms, this gives the agenda a third major surface:
     <strong>Kernel, Model & Reality</strong>
     <span>The ontic-status burden, no-externalities rule, diagrammatic access mode, and required answer-shapes.</span>
   </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">
+    <strong>Construction Roadmap</strong>
+    <span>The logical build-order that follows from the Research Agenda's own obligations.</span>
+  </a>
   <a class="v2-tile" href="{{ '/program/research-agenda/result-criteria/' | relative_url }}">
     <strong>Result Criteria</strong>
     <span>How claims are classified, constrained, and routed toward verification.</span>
@@ -162,7 +176,9 @@ In practical terms, this gives the agenda a third major surface:
   <span>-></span>
   <a href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">Ontic burden</a>
   <span>-></span>
-  <a href="{{ '/corpus/' | relative_url }}">Construction</a>
+  <a href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">Build order</a>
+  <span>-></span>
+  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Construction</a>
   <span>-></span>
   <a href="{{ '/results/' | relative_url }}">Derivation</a>
   <span>-></span>

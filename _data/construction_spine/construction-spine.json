@@ -1,0 +1,759 @@
+[
+  {
+    "id": "CS-01",
+    "sequence": 1,
+    "title": "Define the Kernel",
+    "short_title": "Kernel",
+    "slug": "define-the-kernel",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#define-the-kernel",
+    "corpus_path": "/corpus/construction-spine/define-the-kernel/",
+    "results_path": "/results/progress-against-agenda/",
+    "summary": "Defines the minimal formal core from which the rest of the Corpus is built.",
+    "required_to_do": "The program must define a kernel precise enough to build from without importing mathematics, physics, life, or metaphysics as finished inputs.",
+    "what_built": "The Corpus presents the five generators, progression operator, K0-K6 axioms, boundary behavior, and diagonal/resource discipline of the tau-kernel.",
+    "build_status": "internally_addressed",
+    "build_status_label": "Internally addressed; formalization partial",
+    "related_recovery_requirements": [
+      "MREC-M0",
+      "MREC-M1",
+      "MREF-R3",
+      "MREF-R4"
+    ],
+    "related_problem_items": [
+      "math-riemann-hypothesis",
+      "math-poincare-conjecture"
+    ],
+    "related_registry_items": [
+      "I.K0",
+      "I.D01",
+      "I.D02",
+      "I.K1",
+      "I.K2",
+      "I.K3",
+      "I.K4",
+      "I.K5",
+      "I.K6",
+      "I.P01"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Kernel.Signature",
+      "TauLib.BookI.Kernel.Axioms"
+    ],
+    "related_books": [
+      "Book I, kernel foundations and early axioms"
+    ],
+    "related_results": [
+      {
+        "title": "Tau Kernel Coherence",
+        "url": "/results/problem/tau-kernel-coherence/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Formal Verification Stack",
+        "url": "/verify/formal-verification-stack/"
+      },
+      {
+        "title": "TauLib",
+        "url": "/verify/taulib/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Book I",
+        "url": "/publications/books/book-i/"
+      }
+    ],
+    "what_not_establish": "This step defines the formal kernel. It does not yet recover mathematics, identify physics, or establish ontic status.",
+    "next_step_id": "CS-02",
+    "tags": [
+      "construction-spine",
+      "kernel",
+      "axioms",
+      "generators",
+      "taulib"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-02",
+    "sequence": 2,
+    "title": "Recover Core Mathematics",
+    "short_title": "Core Mathematics",
+    "slug": "recover-core-mathematics",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#recover-core-mathematics",
+    "corpus_path": "/corpus/construction-spine/recover-core-mathematics/",
+    "results_path": "/results/world-readout/mathematics/",
+    "summary": "Recovers the mathematical substrate needed for proof, calculation, geometry, and later domain construction.",
+    "required_to_do": "The program must recover enough mathematics for later layers without silently importing unrestricted classical externalities.",
+    "what_built": "The Corpus builds finite syntax, proof objects, arithmetic, algebraic usability, geometry, controlled boundary behavior, and bridge criteria into standard mathematics.",
+    "build_status": "partially_built",
+    "build_status_label": "Partially built; bridge verification continuing",
+    "related_recovery_requirements": [
+      "MREC-M0",
+      "MREC-M1",
+      "MREC-M2",
+      "MREC-M3",
+      "MREC-M5",
+      "MREF-R0",
+      "MREF-R1",
+      "MREF-R4"
+    ],
+    "related_problem_items": [
+      "math-riemann-hypothesis",
+      "math-poincare-conjecture",
+      "math-langlands-program"
+    ],
+    "related_registry_items": [
+      "I.D07",
+      "I.D10",
+      "I.D11",
+      "I.D12",
+      "I.D35",
+      "I.D36",
+      "I.P06",
+      "I.P07",
+      "I.P13"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Arithmetic",
+      "TauLib.BookI.Geometry"
+    ],
+    "related_books": [
+      "Book I, arithmetic and geometry development"
+    ],
+    "related_results": [
+      {
+        "title": "Mathematics World Readout",
+        "url": "/results/world-readout/mathematics/"
+      },
+      {
+        "title": "Number Tower",
+        "url": "/results/problem/number-tower-n-z-q-r-c/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Domain Verification: Mathematics",
+        "url": "/verify/domain-verification/mathematics/"
+      },
+      {
+        "title": "Bridge Verification",
+        "url": "/verify/verification-framework/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Book I",
+        "url": "/publications/books/book-i/"
+      }
+    ],
+    "what_not_establish": "This step does not claim that unrestricted classical mathematics is simply recovered as-is. It recovers mathematical capacity under kernel discipline.",
+    "next_step_id": "CS-03",
+    "tags": [
+      "construction-spine",
+      "mathematics",
+      "arithmetic",
+      "geometry",
+      "proof"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-03",
+    "sequence": 3,
+    "title": "Internalize Logic and Categorical Self-Structure",
+    "short_title": "Internal Logic",
+    "slug": "internalize-logic",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#internalize-logic-and-categorical-self-structure",
+    "corpus_path": "/corpus/construction-spine/internalize-logic/",
+    "results_path": "/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/",
+    "summary": "Moves from external description toward internal logic, categorical organization, representation, and first self-containment structures.",
+    "required_to_do": "The program must recover enough internal logic and categorical self-structure for the kernel to become self-expressive rather than merely externally described.",
+    "what_built": "The Corpus presents categorical organization, internal truth structures, Yoneda-style representation, and early self-enrichment machinery.",
+    "build_status": "partially_built",
+    "build_status_label": "Partially built; meta-verification frontier remains open",
+    "related_recovery_requirements": [
+      "MREC-M0",
+      "MREC-M5",
+      "METH-R7",
+      "METH-R9"
+    ],
+    "related_problem_items": [
+      "math-langlands-program",
+      "meta-why-something-rather-than-nothing"
+    ],
+    "related_registry_items": [
+      "I.D51",
+      "I.D52",
+      "I.D53",
+      "I.D54",
+      "I.D55",
+      "I.D56",
+      "I.D57",
+      "I.D58",
+      "I.D59",
+      "I.P26",
+      "I.P28"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Category",
+      "TauLib.BookI.Topos"
+    ],
+    "related_books": [
+      "Book I, categorical and internal-logic development"
+    ],
+    "related_results": [
+      {
+        "title": "Self-Enrichment, Self-Containment, and Internal Logic",
+        "url": "/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/"
+      },
+      {
+        "title": "Earned Topos",
+        "url": "/results/problem/earned-topos/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Meta-Verification Frontier",
+        "url": "/verify/meta-verification-frontier/"
+      },
+      {
+        "title": "Formal Verification Stack",
+        "url": "/verify/formal-verification-stack/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Book I",
+        "url": "/publications/books/book-i/"
+      }
+    ],
+    "what_not_establish": "This step begins self-containment. It does not yet self-host formal systems or test final ontic closure.",
+    "next_step_id": "CS-04",
+    "tags": [
+      "construction-spine",
+      "category",
+      "internal-logic",
+      "self-enrichment",
+      "topos"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-04",
+    "sequence": 4,
+    "title": "Identify the Physical Carrier",
+    "short_title": "Physical Carrier",
+    "slug": "identify-physical-carrier",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#identify-the-physical-carrier",
+    "corpus_path": "/corpus/construction-spine/identify-physical-carrier/",
+    "results_path": "/results/world-readout/physics/how-physical-things-first-appear/",
+    "summary": "Identifies where physics can live inside the kernel before empirical physics is claimed.",
+    "required_to_do": "The program must locate a structure inside the kernel capable of carrying physical semantics: locality, globality, entities, observables, interactions, dynamics, and lawfulness.",
+    "what_built": "The Corpus identifies the physical-carrier problem through the relevant self-enrichment and unitary construction layer.",
+    "build_status": "framed",
+    "build_status_label": "Framed; detailed bridge work continuing",
+    "related_recovery_requirements": [
+      "PREC-P0",
+      "PREC-P1",
+      "PREC-P2",
+      "PREC-P6"
+    ],
+    "related_problem_items": [
+      "phys-dark-matter"
+    ],
+    "related_registry_items": [
+      "I.P28",
+      "I.D80",
+      "I.D82"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Category"
+    ],
+    "related_books": [
+      "Book II and physics-facing construction materials"
+    ],
+    "related_results": [
+      {
+        "title": "How Physical Things First Appear",
+        "url": "/results/world-readout/physics/how-physical-things-first-appear/"
+      },
+      {
+        "title": "Physical Reality as a Semantic Reading",
+        "url": "/results/problem/physical-reality-as-a-semantic-reading-of-e1/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Domain Verification: Physics",
+        "url": "/verify/domain-verification/physics/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Physics-facing publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge.",
+    "next_step_id": "CS-05",
+    "tags": [
+      "construction-spine",
+      "physics",
+      "physical-carrier",
+      "self-enrichment",
+      "locality"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-05",
+    "sequence": 5,
+    "title": "Recover Internal Physical Grammar",
+    "short_title": "Internal Physics",
+    "slug": "recover-internal-physical-grammar",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#recover-internal-physical-grammar",
+    "corpus_path": "/corpus/construction-spine/recover-internal-physical-grammar/",
+    "results_path": "/results/world-readout/physics/",
+    "summary": "Builds internally meaningful physical semantics before empirical calibration.",
+    "required_to_do": "The program must recover tau-time, tau-space, tau-mass, tau-energy, fields, observables, dynamical laws, and physical regimes as internal structures.",
+    "what_built": "The Corpus organizes internal physics as a semantic grammar carried by the kernel, distinct from measurement bridge and external empirical validation.",
+    "build_status": "partially_built",
+    "build_status_label": "Partially built; empirical bridge pending",
+    "related_recovery_requirements": [
+      "PREC-P0",
+      "PREC-P1",
+      "PREC-P2",
+      "PREC-P3",
+      "PREC-P6"
+    ],
+    "related_problem_items": [
+      "phys-dark-matter"
+    ],
+    "related_registry_items": [
+      "I.D34",
+      "I.D95",
+      "I.D99"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Measure"
+    ],
+    "related_books": [
+      "Physics-facing books and world-readout materials"
+    ],
+    "related_results": [
+      {
+        "title": "Physics World Readout",
+        "url": "/results/world-readout/physics/"
+      },
+      {
+        "title": "The Fabric of Physical Reality in Tau",
+        "url": "/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Predictions and Falsification",
+        "url": "/verify/predictions-and-falsification/"
+      },
+      {
+        "title": "Domain Verification: Physics",
+        "url": "/verify/domain-verification/physics/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Physics-facing publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "Internal tau-physics is not yet empirical adequacy. Measurement, calibration, and falsification belong to Step 6.",
+    "next_step_id": "CS-06",
+    "tags": [
+      "construction-spine",
+      "physics",
+      "internal-physics",
+      "fields",
+      "observables"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-06",
+    "sequence": 6,
+    "title": "Build Measurement, Prediction, and Empirical Bridges",
+    "short_title": "Empirical Bridges",
+    "slug": "measurement-empirical-bridges",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#build-measurement-prediction-and-empirical-bridges",
+    "corpus_path": "/corpus/construction-spine/measurement-empirical-bridges/",
+    "results_path": "/results/predictions/browse/",
+    "summary": "Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths.",
+    "required_to_do": "The program must distinguish what is calibrated, what is predicted, what is dimensionful, what is dimensionless, and what would falsify or pressure the framework.",
+    "what_built": "The Corpus and Verify surfaces expose unit bridge, calibration, constants, dimensionless ratios, predictions, falsification paths, and observational comparison.",
+    "build_status": "bridge_pending",
+    "build_status_label": "Bridge pending; prediction surfaces visible",
+    "related_recovery_requirements": [
+      "PREC-P3",
+      "PREC-P4",
+      "PREC-P5",
+      "PREC-P7"
+    ],
+    "related_problem_items": [
+      "phys-dark-matter"
+    ],
+    "related_registry_items": [
+      "I.D34",
+      "I.D95",
+      "I.D99"
+    ],
+    "related_taulib_modules": [],
+    "related_books": [
+      "Physics ledger and falsification-facing materials"
+    ],
+    "related_results": [
+      {
+        "title": "Predictions",
+        "url": "/results/predictions/browse/"
+      },
+      {
+        "title": "Falsification Paths",
+        "url": "/results/falsifications/browse/"
+      },
+      {
+        "title": "From Ratio to Measurement",
+        "url": "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Predictions and Falsification",
+        "url": "/verify/predictions-and-falsification/"
+      },
+      {
+        "title": "Falsification Packs",
+        "url": "/verify/predictions-and-falsification/falsification-packs/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step does not treat internal coherence as empirical success. It makes empirical pressure explicit.",
+    "next_step_id": "CS-07",
+    "tags": [
+      "construction-spine",
+      "measurement",
+      "prediction",
+      "falsification",
+      "physics"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-07",
+    "sequence": 7,
+    "title": "Recover Life as a Structural Class",
+    "short_title": "Life",
+    "slug": "recover-life",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#recover-life-as-a-structural-class",
+    "corpus_path": "/corpus/construction-spine/recover-life/",
+    "results_path": "/results/world-readout/life/",
+    "summary": "Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances.",
+    "required_to_do": "The program must recover boundary, individuality, metabolism, encoding, heredity, reproduction, variation, evolution, morphogenesis, classification, and ecology as structural capacities.",
+    "what_built": "The Corpus frames life as a recoverable structural layer, with Earth life serving as calibration case rather than definition.",
+    "build_status": "framed",
+    "build_status_label": "Framed; life verification pending",
+    "related_recovery_requirements": [
+      "LREC-L0",
+      "LREC-L1",
+      "LREC-L2",
+      "LREC-L3",
+      "LREC-L4",
+      "LREC-L5",
+      "LREC-L6",
+      "LREC-L7",
+      "LREC-L8"
+    ],
+    "related_problem_items": [
+      "life-origin-of-life",
+      "life-consciousness"
+    ],
+    "related_registry_items": [],
+    "related_taulib_modules": [],
+    "related_books": [
+      "Life-facing manuscripts and world-readout materials"
+    ],
+    "related_results": [
+      {
+        "title": "Life World Readout",
+        "url": "/results/world-readout/life/"
+      },
+      {
+        "title": "Why Life Is Structurally Favored in Tau",
+        "url": "/results/world-readout/life/why-life-is-structurally-favored-in-tau/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Domain Verification: Life",
+        "url": "/verify/domain-verification/life/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step does not claim to solve consciousness or all biological open problems. It recovers the structural layer where life becomes addressable.",
+    "next_step_id": "CS-08",
+    "tags": [
+      "construction-spine",
+      "life",
+      "biology",
+      "evolution",
+      "morphogenesis"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-08",
+    "sequence": 8,
+    "title": "Recover Reflective Structure",
+    "short_title": "Reflection",
+    "slug": "recover-reflective-structure",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#recover-reflective-structure",
+    "corpus_path": "/corpus/construction-spine/recover-reflective-structure/",
+    "results_path": "/results/world-readout/metaphysics/",
+    "summary": "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity.",
+    "required_to_do": "The program must recover the structures through which life becomes reflective, symbolic, and meaning-bearing.",
+    "what_built": "The Corpus frames the life-to-reflection transition as the place where mind, language, truth, value, and normativity become addressable.",
+    "build_status": "framed",
+    "build_status_label": "Framed; metaphysics verification pending",
+    "related_recovery_requirements": [
+      "LREC-L9",
+      "METH-R4",
+      "METH-R8",
+      "METH-R9",
+      "METH-R10"
+    ],
+    "related_problem_items": [
+      "life-consciousness",
+      "meta-why-something-rather-than-nothing"
+    ],
+    "related_registry_items": [],
+    "related_taulib_modules": [],
+    "related_books": [
+      "Metaphysics and reflective-structure materials"
+    ],
+    "related_results": [
+      {
+        "title": "Metaphysics World Readout",
+        "url": "/results/world-readout/metaphysics/"
+      },
+      {
+        "title": "Mind, Consciousness, and the Self-Model",
+        "url": "/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Domain Verification: Metaphysics",
+        "url": "/verify/domain-verification/metaphysics/"
+      },
+      {
+        "title": "Meta-Verification Frontier",
+        "url": "/verify/meta-verification-frontier/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable.",
+    "next_step_id": "CS-09",
+    "tags": [
+      "construction-spine",
+      "reflection",
+      "mind",
+      "language",
+      "meaning"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-09",
+    "sequence": 9,
+    "title": "Self-Host Formal Systems and the Kernel Itself",
+    "short_title": "Self-Hosting",
+    "slug": "self-host-formal-systems",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#self-host-formal-systems-and-the-kernel-itself",
+    "corpus_path": "/corpus/construction-spine/self-host-formal-systems/",
+    "results_path": "/results/world-readout/metaphysics/pattern-language-and-proof/",
+    "summary": "Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects.",
+    "required_to_do": "The program must recover the ability to host ZFC-like systems, Lean-like proof kernels, and the tau-kernel itself as internal objects after reflective symbolic structure exists.",
+    "what_built": "The Corpus frames formal systems as hostable object theories only after reflective symbolic structure has been recovered.",
+    "build_status": "framed",
+    "build_status_label": "Framed; self-hosting remains frontier work",
+    "related_recovery_requirements": [
+      "MREC-M0",
+      "MREC-M4",
+      "METH-R8",
+      "METH-R9"
+    ],
+    "related_problem_items": [
+      "meta-why-something-rather-than-nothing"
+    ],
+    "related_registry_items": [
+      "I.D77",
+      "I.D80",
+      "I.D82"
+    ],
+    "related_taulib_modules": [
+      "TauLib.BookI.Kernel.Signature"
+    ],
+    "related_books": [
+      "Self-hosting and meta-language materials"
+    ],
+    "related_results": [
+      {
+        "title": "Pattern, Language, and Proof",
+        "url": "/results/world-readout/metaphysics/pattern-language-and-proof/"
+      },
+      {
+        "title": "Translation Functor Tau-ZFC",
+        "url": "/results/problem/translation-functor-tau-zfc/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Formal Verification Stack",
+        "url": "/verify/formal-verification-stack/"
+      },
+      {
+        "title": "Meta-Verification Frontier",
+        "url": "/verify/meta-verification-frontier/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step must not imply that ZFC is canonical in the raw kernel. ZFC becomes hostable only once reflective symbolic structure exists.",
+    "next_step_id": "CS-10",
+    "tags": [
+      "construction-spine",
+      "self-hosting",
+      "formal-systems",
+      "zfc",
+      "proof"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  },
+  {
+    "id": "CS-10",
+    "sequence": 10,
+    "title": "Test Universal Closure and Ontic Status",
+    "short_title": "Ontic Closure",
+    "slug": "test-ontic-closure",
+    "agenda_path": "/program/research-agenda/construction-roadmap/#test-universal-closure-and-ontic-status",
+    "corpus_path": "/corpus/construction-spine/test-ontic-closure/",
+    "results_path": "/program/research-agenda/kernel-model-reality/ontic-status-burden/",
+    "summary": "Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden.",
+    "required_to_do": "The program must test whether the kernel can earn ontic seriousness after mathematics, physics, life, reflection, and self-hosting have been built.",
+    "what_built": "The Corpus exposes the closure question as the final evaluation point, not as a premise asserted at the beginning.",
+    "build_status": "framed",
+    "build_status_label": "Framed; ontic closure not externally established",
+    "related_recovery_requirements": [
+      "METH-R0",
+      "METH-R1",
+      "METH-R7",
+      "METH-R11"
+    ],
+    "related_problem_items": [
+      "meta-why-something-rather-than-nothing"
+    ],
+    "related_registry_items": [
+      "I.K0",
+      "I.D77",
+      "I.D80"
+    ],
+    "related_taulib_modules": [],
+    "related_books": [
+      "Metaphysics and closure-facing materials"
+    ],
+    "related_results": [
+      {
+        "title": "Logos and the Final Boundary",
+        "url": "/results/world-readout/metaphysics/logos-and-the-final-boundary/"
+      },
+      {
+        "title": "The Final Self-Enrichment",
+        "url": "/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/"
+      }
+    ],
+    "related_verify": [
+      {
+        "title": "Meta-Verification Frontier",
+        "url": "/verify/meta-verification-frontier/"
+      },
+      {
+        "title": "Kernel, Model & Reality",
+        "url": "/program/research-agenda/kernel-model-reality/"
+      }
+    ],
+    "related_publications": [
+      {
+        "title": "Publications",
+        "url": "/publications/"
+      }
+    ],
+    "what_not_establish": "This step does not say the kernel has proven final ontic status. It is where the strongest ontic-status claim can be evaluated.",
+    "next_step_id": "",
+    "tags": [
+      "construction-spine",
+      "ontic-status",
+      "closure",
+      "no-externalities",
+      "metaphysics"
+    ],
+    "generated_from": "corpus/construction-spine",
+    "projection_version": "v0.1",
+    "canonical_source": "corpus/construction-spine",
+    "do_not_edit": true
+  }
+]

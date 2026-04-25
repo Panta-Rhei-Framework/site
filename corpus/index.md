@@ -10,20 +10,22 @@ summary_short: "The living, versioned research corpus of the program."
 summary_cards:
   - title: "Research body"
     body: "Definitions, lemmas, theorems, structures, and dependency relations."
-  - title: "Registry spine"
-    body: "The current public registry exposes 4,547 objects across seven books."
+  - title: "Construction spine"
+    body: "The public build-order narrative traces the Corpus through ten canonical construction steps."
   - title: "Public projections"
     body: "Results, publications, verification, and TauLib are projections of the corpus."
 hero_ctas:
+  - label: "Follow the Construction Spine"
+    url: /corpus/construction-spine/
+    primary: true
   - label: "Browse the Registry"
     url: /corpus/registry/
-    primary: true
   - label: "How to Read"
     url: /corpus/how-to-read/
-  - label: "Corpus Graph"
-    url: /corpus/graph/
 right_rail:
   related:
+    - title: "Construction Spine"
+      url: /corpus/construction-spine/
     - title: "Registry"
       url: /corpus/registry/
     - title: "Types"
@@ -49,9 +51,13 @@ It is not a summary, not a set of claims, and not a collection of papers. It is 
 
 ## Current state
 
-The current registry is the public v2 projection of the corpus spine; future updates will deepen item-level statements, proofs, source mappings, and Lean correspondence metadata.
+The current registry is the public atomic projection of the corpus. In v2.1, the primary human-readable route into the Corpus is the [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}): the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure.
 
 <div class="v2-grid">
+  <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
+    <strong>10 construction steps</strong>
+    <span>The public build narrative that aligns Agenda obligations, Corpus construction, and Results status.</span>
+  </a>
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>{{ registry_objects | size }} registry objects</strong>
     <span>The current public spine across all seven books.</span>
@@ -75,6 +81,7 @@ The current registry is the public v2 projection of the corpus spine; future upd
 
 The corpus is expressed in multiple public forms:
 
+- [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) — human-readable build narrative
 - [Registry]({{ '/corpus/registry/' | relative_url }}) — human-readable formal spine
 - [Publications]({{ '/publications/' | relative_url }}) — narrative crystallizations
 - [Results]({{ '/results/' | relative_url }}) — answer surfaces
@@ -83,6 +90,8 @@ The corpus is expressed in multiple public forms:
 ## Structure
 
 <div class="v2-system-strip" aria-label="Corpus structure">
+  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Construction steps</a>
+  <span>-></span>
   <a href="{{ '/corpus/registry/' | relative_url }}">Atomic items</a>
   <span>-></span>
   <a href="{{ '/corpus/graph/' | relative_url }}">Dependencies</a>

@@ -1,0 +1,11 @@
+id,sequence,title,slug,build_status,corpus_path
+CS-01,1,Define the Kernel,define-the-kernel,internally_addressed,/corpus/construction-spine/define-the-kernel/
+CS-02,2,Recover Core Mathematics,recover-core-mathematics,partially_built,/corpus/construction-spine/recover-core-mathematics/
+CS-03,3,Internalize Logic and Categorical Self-Structure,internalize-logic,partially_built,/corpus/construction-spine/internalize-logic/
+CS-04,4,Identify the Physical Carrier,identify-physical-carrier,framed,/corpus/construction-spine/identify-physical-carrier/
+CS-05,5,Recover Internal Physical Grammar,recover-internal-physical-grammar,partially_built,/corpus/construction-spine/recover-internal-physical-grammar/
+CS-06,6,"Build Measurement, Prediction, and Empirical Bridges",measurement-empirical-bridges,bridge_pending,/corpus/construction-spine/measurement-empirical-bridges/
+CS-07,7,Recover Life as a Structural Class,recover-life,framed,/corpus/construction-spine/recover-life/
+CS-08,8,Recover Reflective Structure,recover-reflective-structure,framed,/corpus/construction-spine/recover-reflective-structure/
+CS-09,9,Self-Host Formal Systems and the Kernel Itself,self-host-formal-systems,framed,/corpus/construction-spine/self-host-formal-systems/
+CS-10,10,Test Universal Closure and Ontic Status,test-ontic-closure,framed,/corpus/construction-spine/test-ontic-closure/

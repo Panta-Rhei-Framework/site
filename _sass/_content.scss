@@ -84,6 +84,13 @@
   background: var(--color-brand-50);
 }
 
+.prose p,
+.prose li,
+.prose a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 // Chips
 .chip {
   display: inline-flex;

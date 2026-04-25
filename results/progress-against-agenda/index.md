@@ -9,17 +9,17 @@ status: "Canonical"
 summary_short: "How the program's result surfaces map back to the research agenda."
 summary_cards:
   - title: "Agenda mirror"
-    body: "Maps result surfaces back to the declared burden of proof."
-  - title: "Status blocks"
-    body: "Separates established, partial, open, and pending-formalization work."
-  - title: "Forward route"
-    body: "Points readers into Corpus, Results, and Verify for inspection."
+    body: "Aggregates public Problem Ledger and Recovery Requirement status."
+  - title: "52 public records"
+    body: "Seven Problem seed items and forty-five Recovery/Refusal items."
+  - title: "Status discipline"
+    body: "Internal progress is separated from verification and external acceptance."
 right_rail:
   related:
     - title: "Research Agenda"
       url: /program/research-agenda/
     - title: "Problem Ledger"
-      url: /results/problem-ledger/
+      url: /results/problem-ledger-answers/
     - title: "Verify"
       url: /verify/
   meta:
@@ -29,43 +29,62 @@ right_rail:
     updated: "April 2026"
 ---
 
-## Agenda mirror
+{% assign progress = site.data.agenda_progress["agenda-progress"] %}
+{% assign problem_records = progress | where: "item_kind", "problem" %}
+{% assign recovery_records = progress | where_exp: "item", "item.item_kind != 'problem'" %}
+{% assign domain_groups = progress | group_by: "domain" | sort: "name" %}
+{% assign status_groups = progress | group_by: "display_status" | sort: "name" %}
 
-This page is the v2 bridge between the Program lane and the Results lane. It asks where the research agenda has produced public answer surfaces and where work remains open, partial, or deferred.
+## Status disclaimer
 
-## Current anchors
+Status indicates the current internal state of the research program. Proposed answer, partial recovery, or internally addressed status does not mean external verification, scientific acceptance, or final settlement.
 
-- [Browse all results]({{ '/results/browse/' | relative_url }})
-- [Problem ledger]({{ '/results/problem-ledger/' | relative_url }})
-- [World readout]({{ '/results/world-readout/' | relative_url }})
-- [Predictions]({{ '/results/predictions/browse/' | relative_url }})
-- [Falsifications]({{ '/results/falsifications/browse/' | relative_url }})
-
-## Agenda pillars mirrored
+## Summary metrics
 
 <div class="v2-grid">
-  <a class="v2-tile" href="{{ '/program/research-agenda/research-aim-and-desiderata/' | relative_url }}">
-    <strong>Research Aim & Desiderata</strong>
-    <span>Status: substantially developed. The result catalogue exposes the four-domain answer surface.</span>
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
+    <strong>{{ problem_records | size }} Problem Ledger item(s)</strong>
+    <span>Current public answer mirror for selected stress-test problems.</span>
   </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/foundational-discipline/' | relative_url }}">
-    <strong>Foundational Discipline</strong>
-    <span>Status: established in the public kernel; formalization coverage remains a continuing priority.</span>
+  <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
+    <strong>{{ recovery_records | size }} Recovery/Refusal item(s)</strong>
+    <span>Current public recovery-status mirror for declared requirements.</span>
   </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/core-design-principles/' | relative_url }}">
-    <strong>Core Design Principles</strong>
-    <span>Status: visible across result typing, registry anchors, and the no-knobs claims.</span>
+  <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
+    <strong>10 construction steps</strong>
+    <span>The Corpus build narrative that anchors future progress mappings.</span>
   </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}">
-    <strong>What the Program Refuses</strong>
-    <span>Status: tested most sharply through falsification, fit-space, and status labels.</span>
+</div>
+
+## Filter by domain
+
+<div class="v2-grid">
+{% for group in domain_groups %}
+  <div class="v2-tile">
+    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
+    <span>{{ group.items | size }} public agenda record(s).</span>
+  </div>
+{% endfor %}
+</div>
+
+## Filter by status
+
+<div class="v2-grid">
+{% for group in status_groups %}
+  <div class="v2-tile">
+    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
+    <span>{{ group.items | size }} record(s).</span>
+  </div>
+{% endfor %}
+</div>
+
+## Public records
+
+<div class="v2-grid">
+{% for item in progress %}
+  <a class="v2-tile" href="{{ item.canonical_program_url | relative_url }}">
+    <strong>{{ item.title }}</strong>
+    <span>{{ item.item_kind | replace: "_", " " | capitalize }} · {{ item.display_domain }} · {{ item.display_status | replace: "_", " " }}</span>
   </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">
-    <strong>Problem Ledger</strong>
-    <span>Status: mirrored here through the Results problem ledger and browse catalogue.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/result-criteria/' | relative_url }}">
-    <strong>Result Criteria</strong>
-    <span>Status: normalized through result classifications and per-page status metadata.</span>
-  </a>
+{% endfor %}
 </div>

@@ -1,12 +1,12 @@
 ---
 layout: program-doc
-title: "Problem Ledger"
+title: "Problem Ledger Results Mirror"
 lane: results
 v2_lane: results
 permalink: /results/problem-ledger/
 type: "Result Index"
 status: "Canonical"
-summary_short: "A structured entry point into the program's problem-facing result claims."
+summary_short: "Compatibility bridge to the v2.1 Problem Ledger Answers surface."
 summary_cards:
   - title: "Question first"
     body: "Each entry is read as an answer to a named problem or burden."
@@ -15,8 +15,8 @@ summary_cards:
   - title: "Mirror surface"
     body: "This page mirrors generated Corpus Problem Ledger items where result links already exist."
 hero_ctas:
-  - label: "Browse All Results"
-    url: /results/browse/
+  - label: "Problem Ledger Answers"
+    url: /results/problem-ledger-answers/
     primary: true
   - label: "Agenda Ledger"
     url: /program/research-agenda/problem-ledger/
@@ -41,9 +41,11 @@ right_rail:
 {% assign problem_items = site.problem_ledger | sort: "title" %}
 {% assign status_groups = results | group_by: "status_code" | sort: "name" %}
 
-## What the mirror does
+## v2.1 route
 
-The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. This Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
+This page is retained as a compatibility bridge. The v2.1 Results-side mirror now lives at [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}).
+
+The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. The Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
 
 The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page narrows the view to Problem Ledger seed items and their linked Result pages.
 
