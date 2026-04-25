@@ -47,7 +47,7 @@ Consciousness
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+[Life Domain Verification](/verify/domain-verification/life/)
 
 ## What remains open
 

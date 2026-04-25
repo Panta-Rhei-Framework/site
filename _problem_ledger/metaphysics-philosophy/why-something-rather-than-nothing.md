@@ -79,10 +79,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "metaphysics"
@@ -104,51 +105,14 @@ results_mirror:
   result_url: "/results/problem/why-something-rather-than-nothing/"
 verify_links:
   exists: true
-  verification_mode: "/verify/meta-verification-frontier/"
-  verify_url: ""
+  verification_mode: "Meta Verification Frontier"
+  verify_url: "/verify/meta-verification-frontier/"
 ---
 
 ## Problem Statement
 
 This entry is included from the philosophical problems master ledger.
 
-## Source
-
-Source: Wikipedia — List of philosophical problems. Import rule: `wholesale_pinned_revision`. Pinned revision: `1338262080`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Metaphysics / Philosophy. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `kernel_critical`
-- Agenda role: `expressibility_test`
-- Expressibility status: `requires_translation`
-- Result status: `partially_addressed`
-
-## Current Program Stance
-
-The current program stance is `partially_addressed`.
-
-## Related Results
-
-- `result-219`
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- /verify/meta-verification-frontier/
-
-## Related Recovery Requirements
-
-- `METH-R0`
-- `METH-R1`
-- `METH-R11`
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

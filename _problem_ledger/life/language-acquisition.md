@@ -70,10 +70,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "life"
@@ -112,41 +113,6 @@ Source questions retained from the pinned source:
 - Animals and language: How much human language can animals be taught to use? How much of animal communication can be said to have the same properties as human language (e.g. compositionality of bird calls as syntax)?
 - What role does linguistic intuition play, how is it formed and how does it function? Is it closely linked to exposure to a unique set of different experiences and their contexts throughout one's personal life?
 
-## Source
-
-Source: Wikipedia — List of unsolved problems in neuroscience. Import rule: `wholesale_pinned_revision`. Pinned revision: `1330874647`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Life. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility status: `unknown`
-- Result status: `not_yet_classified`
-
-## Current Program Stance
-
-No dedicated Result page yet. This item remains visible as an open or not-yet-classified agenda obligation.
-
-## Related Results
-
-- No dedicated Result page yet.
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- Verify route not yet mapped beyond the domain-level inspection surfaces.
-
-## Related Recovery Requirements
-
-- No Recovery Requirement mapping yet.
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

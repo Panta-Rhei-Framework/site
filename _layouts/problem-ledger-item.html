@@ -7,20 +7,20 @@ layout: default
 <article class="result-article problem-ledger-article">
 <header class="hero-card">
   <div class="module-eyebrow-row">
-    <span class="eyebrow">Program · Problem Ledger</span>
+    <span class="eyebrow">Problem Ledger Item</span>
     <span class="chip">{{ page.display_domain }}</span>
-    <span class="chip">{{ page.program.tier | replace: "_", " " | capitalize }}</span>
-    <span class="chip">{{ page.program.result_status | replace: "_", " " | capitalize }}</span>
-    <span class="chip">{{ page.projection_version | default: "v1.0" }}</span>
+    <span class="chip">{{ page.source.source_class | replace: "_", " " | capitalize }}</span>
+    <span class="chip">{{ page.projection_version | default: "v1.0" }} Projection</span>
   </div>
   <h1>{{ page.title }}</h1>
   {% if page.summary_short %}
   <p>{{ page.summary_short }}</p>
   {% endif %}
   <div class="chip-row">
-    <span class="chip">{{ page.source.source_class | replace: "_", " " | capitalize }}</span>
+    <span class="chip">Status: {{ page.status | replace: "_", " " | capitalize }}</span>
     <span class="chip">{{ page.source.import_rule | replace: "_", " " | capitalize }}</span>
-    <span class="chip">{{ page.program.agenda_role | replace: "_", " " | capitalize }}</span>
+    <span class="chip">Result: {{ page.program.result_status | replace: "_", " " | capitalize }}</span>
+    <span class="chip">Updated {{ page.version.last_modified | date: "%-d %B %Y" }}</span>
   </div>
 </header>
 
@@ -35,12 +35,24 @@ layout: default
       This item is sourced from
       <a href="{{ page.source.source_page }}" target="_blank" rel="noopener">{{ page.source.source_name | replace: "_", " " }}</a>.
       Import rule is {{ page.source.import_rule | replace: "_", " " }}.
-      Revision capture is {{ page.source.source_revision_id }} and retrieval is {{ page.source.source_retrieved_at }}.
+      {% if page.source.source_revision_id == "not_applicable" %}
+      This source has no wiki-style revision ID.
+      {% else %}
+      Revision capture is {{ page.source.source_revision_id }}.
+      {% endif %}
+      Retrieved {{ page.source.source_retrieved_at | date: "%-d %B %Y" }}.
       {% if page.source.source_permalink %}
       The pinned source revision is available at
       <a href="{{ page.source.source_permalink }}" target="_blank" rel="noopener">the source permalink</a>.
       {% endif %}
     </p>
+
+    <h2>Source Context</h2>
+    <div class="dep-list">
+      <div class="dep-link"><span class="dep-id">Source section</span><span class="dep-title">{% if page.source.source_section and page.source.source_section.size > 0 %}{{ page.source.source_section | join: " / " }}{% else %}Section metadata pending{% endif %}</span></div>
+      <div class="dep-link"><span class="dep-id">Source title</span><span class="dep-title">{{ page.title }}</span></div>
+      <div class="dep-link"><span class="dep-id">Source entry</span><span class="dep-title">{{ page.source.source_entry_ids | join: ", " }}</span></div>
+    </div>
 
     <h2>Program Classification</h2>
     <div class="dep-list">
@@ -54,6 +66,15 @@ layout: default
     </div>
     {% if page.program.notes %}
     <p>{{ page.program.notes }}</p>
+    {% endif %}
+
+    <h2>Current Program Stance</h2>
+    {% if page.canonical_problem_id == "math-poincare-conjecture" %}
+    <p>Included because it is one of the seven Clay Millennium Problems; solved in standard mathematics, but retained as a kernel-regrounding target.</p>
+    {% elsif page.program.result_status == "not_yet_classified" %}
+    <p>No dedicated Result page yet. This item remains visible as a not-yet-classified agenda obligation.</p>
+    {% else %}
+    <p>The current program stance is <strong>{{ page.program.result_status | replace: "_", " " }}</strong>.</p>
     {% endif %}
 
     <h2>Results Mirror Readiness</h2>
@@ -118,14 +139,69 @@ layout: default
     <p>No dedicated Result page yet.</p>
     {% endif %}
 
-    <h2>Related Corpus, Verify, Publications</h2>
+    {% if page.cross_domain_relations and page.cross_domain_relations.size > 0 %}
+    <h2>Related Problem Items</h2>
+    <div class="dep-list">
+      {% for relation in page.cross_domain_relations %}
+      {% assign related_problem = site.problem_ledger | where: "canonical_problem_id", relation.problem_id | first %}
+      {% if related_problem %}
+      <a class="dep-link" href="{{ related_problem.url | relative_url }}">
+        <span class="dep-id">{{ relation.relation_type | replace: "_", " " }}</span>
+        <span class="dep-title">{{ related_problem.title }} — {{ relation.rationale }}</span>
+      </a>
+      {% else %}
+      <div class="dep-link"><span class="dep-id">{{ relation.relation_type | replace: "_", " " }}</span><span class="dep-title">{{ relation.problem_id }} — {{ relation.rationale }}</span></div>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    <h2>Related Corpus Items</h2>
     <div class="dep-list">
       <div class="dep-link"><span class="dep-id">Corpus</span><span class="dep-title">{% if page.related.corpus_items.size > 0 %}{{ page.related.corpus_items | join: ", " }}{% else %}No direct Corpus item mapped yet{% endif %}</span></div>
-      <div class="dep-link"><span class="dep-id">Verify</span><span class="dep-title">{% if page.related.verify.size > 0 %}{{ page.related.verify | join: ", " }}{% else %}No Verify surface mapped yet{% endif %}</span></div>
-      <div class="dep-link"><span class="dep-id">Publications</span><span class="dep-title">{% if page.related.publications.size > 0 %}{{ page.related.publications | join: ", " }}{% else %}No publication mapped yet{% endif %}</span></div>
     </div>
 
-    <h2>Revision Metadata</h2>
+    <h2>Related Verify Surfaces</h2>
+    <div class="dep-list">
+      {% if page.related.verify.size > 0 %}
+      {% for verify_url in page.related.verify %}
+      {% assign verify_label = verify_url %}
+      {% case verify_url %}
+      {% when "/verify/predictions-and-falsification/" %}{% assign verify_label = "Predictions & Falsification" %}
+      {% when "/verify/predictions-and-falsification/predictions/" %}{% assign verify_label = "Predictions" %}
+      {% when "/verify/predictions-and-falsification/falsification-paths/" %}{% assign verify_label = "Falsification Paths" %}
+      {% when "/verify/bridge-verification/" %}{% assign verify_label = "Bridge Verification" %}
+      {% when "/verify/formal-verification-stack/" %}{% assign verify_label = "Formal Verification Stack" %}
+      {% when "/verify/domain-verification/physics/" %}{% assign verify_label = "Physics Domain Verification" %}
+      {% when "/verify/domain-verification/life/" %}{% assign verify_label = "Life Domain Verification" %}
+      {% when "/verify/domain-verification/metaphysics/" %}{% assign verify_label = "Metaphysics Domain Verification" %}
+      {% when "/verify/taulib/" %}{% assign verify_label = "TauLib" %}
+      {% when "/verify/meta-verification-frontier/" %}{% assign verify_label = "Meta Verification Frontier" %}
+      {% when "/publications/numerical-physics-ledger/" %}{% assign verify_label = "Numerical Physics Ledger" %}
+      {% endcase %}
+      {% if verify_url contains "/" %}
+      <a class="dep-link" href="{{ verify_url | relative_url }}"><span class="dep-id">Verify</span><span class="dep-title">{{ verify_label }}</span></a>
+      {% else %}
+      <div class="dep-link"><span class="dep-id">Verify</span><span class="dep-title">{{ verify_label | replace: "_", " " | replace: "-", " " | capitalize }}</span></div>
+      {% endif %}
+      {% endfor %}
+      {% else %}
+      <div class="dep-link"><span class="dep-id">Verify</span><span class="dep-title">No Verify surface mapped yet</span></div>
+      {% endif %}
+    </div>
+
+    <h2>Related Recovery Requirements</h2>
+    <div class="dep-list">
+      {% if page.related.recovery_requirements.size > 0 %}
+      {% for recovery_id in page.related.recovery_requirements %}
+      <div class="dep-link"><span class="dep-id">Recovery</span><span class="dep-title">{{ recovery_id }}</span></div>
+      {% endfor %}
+      {% else %}
+      <div class="dep-link"><span class="dep-id">Recovery</span><span class="dep-title">No Recovery Requirement mapping yet</span></div>
+      {% endif %}
+    </div>
+
+    <h2>Projection Metadata</h2>
     <div class="dep-list">
       <div class="dep-link"><span class="dep-id">Problem ID</span><span class="dep-title">{{ page.canonical_problem_id }}</span></div>
       <div class="dep-link"><span class="dep-id">Item version</span><span class="dep-title">{{ page.version.item_version }}</span></div>

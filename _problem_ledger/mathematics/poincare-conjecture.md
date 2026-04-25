@@ -68,10 +68,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "mathematics"
@@ -93,8 +94,8 @@ results_mirror:
   result_url: "/results/problem/poincar-conjecture-reinterpretation/"
 verify_links:
   exists: true
-  verification_mode: "/verify/bridge-verification/"
-  verify_url: ""
+  verification_mode: "Bridge Verification"
+  verify_url: "/verify/bridge-verification/"
 ---
 
 ## Problem Statement
@@ -102,42 +103,6 @@ verify_links:
 The Poincare Conjecture is included because it belongs to the Clay Millennium
 Problem family, even though it is solved in standard mathematics.
 
-## Source
-
-Source: Clay Mathematics Institute — Millennium Prize Problems. Import rule: `selected_foundational`. Pinned revision: `not_applicable`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Mathematics. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `kernel_near`
-- Agenda role: `regrounding_test`
-- Expressibility status: `not_yet_expressed`
-- Result status: `partially_addressed`
-
-## Current Program Stance
-
-Included because it is one of the seven Clay Millennium Problems; solved in standard mathematics, but retained as a kernel-regrounding target.
-
-## Related Results
-
-- `result-228`
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- /verify/bridge-verification/
-- /verify/formal-verification-stack/
-
-## Related Recovery Requirements
-
-- `MREC-M5`
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

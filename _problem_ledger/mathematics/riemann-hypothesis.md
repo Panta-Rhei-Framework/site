@@ -69,10 +69,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "mathematics"
@@ -93,51 +94,14 @@ results_mirror:
   result_url: "/results/problem/riemann-hypothesis/"
 verify_links:
   exists: true
-  verification_mode: "/verify/bridge-verification/"
-  verify_url: ""
+  verification_mode: "Bridge Verification"
+  verify_url: "/verify/bridge-verification/"
 ---
 
 ## Problem Statement
 
 The Riemann Hypothesis is included as one of the seven Clay Millennium Problems.
 
-## Source
-
-Source: Clay Mathematics Institute — Millennium Prize Problems. Import rule: `selected_foundational`. Pinned revision: `not_applicable`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Mathematics. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `kernel_critical`
-- Agenda role: `stress_test`
-- Expressibility status: `requires_translation`
-- Result status: `partially_addressed`
-
-## Current Program Stance
-
-The current program stance is `partially_addressed`.
-
-## Related Results
-
-- `result-091`
-- `result-073`
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- /verify/bridge-verification/
-- /verify/formal-verification-stack/
-
-## Related Recovery Requirements
-
-- `MREC-M5`
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

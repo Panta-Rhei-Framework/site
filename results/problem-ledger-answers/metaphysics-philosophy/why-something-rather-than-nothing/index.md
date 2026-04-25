@@ -45,7 +45,7 @@ Something Rather Than Nothing
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+[Meta Verification Frontier](/verify/meta-verification-frontier/)
 
 ## What remains open
 

@@ -70,10 +70,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "metaphysics_philosophy"
@@ -106,41 +107,6 @@ Source questions retained from the pinned source:
 
 - A prominent question in meta-philosophy is that of whether or not philosophical progress occurs and more so, whether such progress in philosophy is even possible. It has even been disputed, most notably by Ludwig Wittgenstein, whether genuine philosophical problems actually exist. The opposite has also been claimed, for example by Karl Popper, who held that such problems do exist, that they are solvable, and that he had actually found definite solutions to some of them. David Chalmers divides inquiry into philosophical progress in meta-philosophy into three questions. The Existence Question: is there progress in philosophy? The Comparison Question: is there as much progress in philosophy as in science? The Explanation Question: why isn't there more progress in philosophy?
 
-## Source
-
-Source: Wikipedia — List of philosophical problems. Import rule: `wholesale_pinned_revision`. Pinned revision: `1338262080`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Metaphysics / Philosophy. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility status: `unknown`
-- Result status: `not_yet_classified`
-
-## Current Program Stance
-
-No dedicated Result page yet. This item remains visible as an open or not-yet-classified agenda obligation.
-
-## Related Results
-
-- No dedicated Result page yet.
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- Verify route not yet mapped beyond the domain-level inspection surfaces.
-
-## Related Recovery Requirements
-
-- No Recovery Requirement mapping yet.
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

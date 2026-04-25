@@ -30,9 +30,24 @@ Physics uses the full pinned Wikipedia list of unsolved problems in physics as t
 
 ## Import Coverage
 
+This domain is part of Problem Ledger v1.0. Every declared source entry for this domain has been mapped to a promoted public problem item or to an explicit merged record.
+
+Physics uses the full pinned Wikipedia physics open-problem ledger.
+
 <table>
-  <thead><tr><th scope="col">Source scope</th><th scope="col">Public items</th><th scope="col">Merged</th><th scope="col">Excluded</th><th scope="col">Deferred</th></tr></thead>
-  <tbody><tr><td>102</td><td>102</td><td>0</td><td>0</td><td>0</td></tr></tbody>
+  <thead>
+    <tr>
+      <th scope="col">Domain</th>
+      <th scope="col">Source scope</th>
+      <th scope="col">Public items</th>
+      <th scope="col">Merged</th>
+      <th scope="col">Excluded</th>
+      <th scope="col">Deferred</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Physics</th><td>102</td><td>102</td><td>0</td><td>0</td><td>0</td></tr>
+  </tbody>
 </table>
 
 ## Public Problem Items

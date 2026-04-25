@@ -30,9 +30,24 @@ Mathematics uses selected foundational stress tests, not a wholesale open-math i
 
 ## Import Coverage
 
+This domain is part of Problem Ledger v1.0. Every declared source entry for this domain has been mapped to a promoted public problem item or to an explicit merged record.
+
+Mathematics uses a selected foundational stress-test ledger: Clay 7 + Langlands.
+
 <table>
-  <thead><tr><th scope="col">Source scope</th><th scope="col">Public items</th><th scope="col">Merged</th><th scope="col">Excluded</th><th scope="col">Deferred</th></tr></thead>
-  <tbody><tr><td>8</td><td>8</td><td>0</td><td>0</td><td>0</td></tr></tbody>
+  <thead>
+    <tr>
+      <th scope="col">Domain</th>
+      <th scope="col">Source scope</th>
+      <th scope="col">Public items</th>
+      <th scope="col">Merged</th>
+      <th scope="col">Excluded</th>
+      <th scope="col">Deferred</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Mathematics</th><td>8</td><td>8</td><td>0</td><td>0</td><td>0</td></tr>
+  </tbody>
 </table>
 
 ## Public Problem Items

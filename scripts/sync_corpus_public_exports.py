@@ -90,6 +90,14 @@ def result_status_label(value: str) -> str:
     return value.replace("_", " ").replace("-", " ").title() if value else "Pending"
 
 
+def domain_counts(items: list[dict[str, Any]]) -> dict[str, int]:
+    counts = {"mathematics": 0, "physics": 0, "life": 0, "metaphysics-philosophy": 0}
+    for item in items:
+        domain = item.get("domain_slug", "")
+        counts[domain] = counts.get(domain, 0) + 1
+    return counts
+
+
 def title_from_url(url: str) -> str:
     stripped = url.strip("/")
     if not stripped:
@@ -139,8 +147,9 @@ def generate_problem_answer_pages() -> None:
     results = {item.get("id"): item for item in read_json(SITE_ROOT / "_data" / "results" / "results.json") if item.get("id")}
     root = SITE_ROOT / "results" / "problem-ledger-answers"
     domains = sorted({item["domain_slug"] for item in problems})
+    counts = domain_counts(problems)
 
-    root_body = """## Answer Mirror
+    root_body = f"""## Answer Mirror
 
 > Current program stances against the open and foundational problems accepted in the Research Agenda.
 
@@ -148,16 +157,27 @@ This is the Results-side answer mirror of the Program-side Problem Ledger. It re
 
 <div class="notice note"><strong>Status note.</strong> A program stance is not the same as external acceptance, scientific settlement, or final verification.</div>
 
-## Browse by domain
+## Browse by Domain
+
+The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain page reports the current program stance against the imported or selected problem obligations.
 
 <div class="v2-grid">
-{% assign problem_domain_groups = site.data.problem_ledger["problem-ledger"] | group_by: "domain_slug" %}
-{% for item in problem_domain_groups %}
-  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | append: item.name | append: '/' | relative_url }}">
-    <strong>{{ item.name | replace: '-', ' ' | capitalize }}</strong>
-    <span>{{ item.items | size }} public problem item(s).</span>
+  <a class="v2-tile" href="{{{{ '/results/problem-ledger-answers/mathematics/' | relative_url }}}}">
+    <strong>Mathematics</strong>
+    <span>{counts.get('mathematics', 0)} public problem items.</span>
   </a>
-{% endfor %}
+  <a class="v2-tile" href="{{{{ '/results/problem-ledger-answers/physics/' | relative_url }}}}">
+    <strong>Physics</strong>
+    <span>{counts.get('physics', 0)} public problem items.</span>
+  </a>
+  <a class="v2-tile" href="{{{{ '/results/problem-ledger-answers/life/' | relative_url }}}}">
+    <strong>Life</strong>
+    <span>{counts.get('life', 0)} public problem items.</span>
+  </a>
+  <a class="v2-tile" href="{{{{ '/results/problem-ledger-answers/metaphysics-philosophy/' | relative_url }}}}">
+    <strong>Metaphysics / Philosophy</strong>
+    <span>{counts.get('metaphysics-philosophy', 0)} public problem items.</span>
+  </a>
 </div>
 
 ## Source policy

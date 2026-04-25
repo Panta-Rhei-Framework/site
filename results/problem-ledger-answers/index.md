@@ -17,16 +17,27 @@ This is the Results-side answer mirror of the Program-side Problem Ledger. It re
 
 <div class="notice note"><strong>Status note.</strong> A program stance is not the same as external acceptance, scientific settlement, or final verification.</div>
 
-## Browse by domain
+## Browse by Domain
+
+The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain page reports the current program stance against the imported or selected problem obligations.
 
 <div class="v2-grid">
-{% assign problem_domain_groups = site.data.problem_ledger["problem-ledger"] | group_by: "domain_slug" %}
-{% for item in problem_domain_groups %}
-  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | append: item.name | append: '/' | relative_url }}">
-    <strong>{{ item.name | replace: '-', ' ' | capitalize }}</strong>
-    <span>{{ item.items | size }} public problem item(s).</span>
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/mathematics/' | relative_url }}">
+    <strong>Mathematics</strong>
+    <span>8 public problem items.</span>
   </a>
-{% endfor %}
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/physics/' | relative_url }}">
+    <strong>Physics</strong>
+    <span>102 public problem items.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/life/' | relative_url }}">
+    <strong>Life</strong>
+    <span>102 public problem items.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/metaphysics-philosophy/' | relative_url }}">
+    <strong>Metaphysics / Philosophy</strong>
+    <span>27 public problem items.</span>
+  </a>
 </div>
 
 ## Source policy

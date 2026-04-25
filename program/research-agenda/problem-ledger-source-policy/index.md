@@ -50,7 +50,20 @@ Mathematics uses selected foundational stress tests: the seven Clay Millennium P
 
 ## Wholesale import vs supplemental selection
 
+In Problem Ledger v1.0, declared source entries have been promoted, merged, excluded, or deferred through the Corpus import workflow. Future source updates will go through the same review process before promotion.
+
 Master ledgers are imported wholesale from pinned revisions. Supplemental items may be added later only with explicit inclusion rationale.
+
+## v1.0 Import Status
+
+Problem Ledger v1.0 has promoted the declared source ledgers into the public site projection. Each declared source entry is now accounted for as one of:
+
+- promoted public problem item;
+- merged into another canonical problem item;
+- excluded with rationale;
+- deferred with reason.
+
+Current v1.0 coverage is summarized on the [Problem Ledger root]({{ '/program/research-agenda/problem-ledger/' | relative_url }}).
 
 ## Revision pinning and source metadata
 

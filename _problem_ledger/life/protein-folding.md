@@ -71,10 +71,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "life"
@@ -112,41 +113,6 @@ Source questions retained from the pinned source:
 - The success of prediction and design methods still skip over how proteins end up in the final shape (folding mechanism and kinetics; protein dynamics). Wet lab methods of the 2020s allow for microsecond-level changes to be observed and quantified. 2020s molecular dynamics techniques can be used to simulate the folding behavior at the atomic level to this same timescale, though a specialized computer is needed for the simulation to finish in a reasonable amount of time. See also Folding@home
 - The study of intrinsically disordered proteins is also not as advanced as the study of globular proteins: some sequences do not fold into a fixed shape yet still have a function
 
-## Source
-
-Source: Wikipedia — List of unsolved problems in biology. Import rule: `wholesale_pinned_revision`. Pinned revision: `1350634388`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Life. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility status: `unknown`
-- Result status: `not_yet_classified`
-
-## Current Program Stance
-
-No dedicated Result page yet. This item remains visible as an open or not-yet-classified agenda obligation.
-
-## Related Results
-
-- No dedicated Result page yet.
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- Verify route not yet mapped beyond the domain-level inspection surfaces.
-
-## Related Recovery Requirements
-
-- No Recovery Requirement mapping yet.
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

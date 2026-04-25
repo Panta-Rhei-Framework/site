@@ -30,9 +30,24 @@ Metaphysics / Philosophy uses Wikipedia's list of philosophical problems. The si
 
 ## Import Coverage
 
+This domain is part of Problem Ledger v1.0. Every declared source entry for this domain has been mapped to a promoted public problem item or to an explicit merged record.
+
+This domain uses Wikipedia's List of philosophical problems. It is not titled or treated as an "unsolved problems in philosophy" list.
+
 <table>
-  <thead><tr><th scope="col">Source scope</th><th scope="col">Public items</th><th scope="col">Merged</th><th scope="col">Excluded</th><th scope="col">Deferred</th></tr></thead>
-  <tbody><tr><td>27</td><td>27</td><td>0</td><td>0</td><td>0</td></tr></tbody>
+  <thead>
+    <tr>
+      <th scope="col">Domain</th>
+      <th scope="col">Source scope</th>
+      <th scope="col">Public items</th>
+      <th scope="col">Merged</th>
+      <th scope="col">Excluded</th>
+      <th scope="col">Deferred</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Metaphysics / Philosophy</th><td>27</td><td>27</td><td>0</td><td>0</td><td>0</td></tr>
+  </tbody>
 </table>
 
 ## Public Problem Items

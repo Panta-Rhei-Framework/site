@@ -30,9 +30,24 @@ Life uses the pinned biology and neuroscience master ledgers. Medicine is exclud
 
 ## Import Coverage
 
+This domain is part of Problem Ledger v1.0. Every declared source entry for this domain has been mapped to a promoted public problem item or to an explicit merged record.
+
+Life uses the full pinned biology and neuroscience ledgers. Medicine is excluded from the v1.0 master ledger policy.
+
 <table>
-  <thead><tr><th scope="col">Source scope</th><th scope="col">Public items</th><th scope="col">Merged</th><th scope="col">Excluded</th><th scope="col">Deferred</th></tr></thead>
-  <tbody><tr><td>112</td><td>102</td><td>10</td><td>0</td><td>0</td></tr></tbody>
+  <thead>
+    <tr>
+      <th scope="col">Domain</th>
+      <th scope="col">Source scope</th>
+      <th scope="col">Public items</th>
+      <th scope="col">Merged</th>
+      <th scope="col">Excluded</th>
+      <th scope="col">Deferred</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Life</th><td>112</td><td>102</td><td>10</td><td>0</td><td>0</td></tr>
+  </tbody>
 </table>
 
 ## Public Problem Items

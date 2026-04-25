@@ -46,7 +46,7 @@ Dark Matter
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+[Predictions & Falsification](/verify/predictions-and-falsification/)
 
 ## What remains open
 

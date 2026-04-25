@@ -70,10 +70,11 @@ mapping:
   merged_source_entries: []
   excluded_source_entries: []
   mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
+cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-25"
+  last_modified: "2026-04-26"
   change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
 tags:
   - "metaphysics_philosophy"
@@ -107,41 +108,6 @@ Source questions retained from the pinned source:
 - Also known as the ship of Theseus, this is a classical paradox on the first branch of metaphysics, ontology (philosophy of existence and identity). The paradox runs thus: There used to be the great ship of Theseus which was made out of, say, 100 parts. Each part has a single corresponding replacement part in the ship's port. Over the centuries, each part is replaced individually as it breaks, and eventually, not a single original part of the ship remains. Is this new ship the ship of Theseus or not?
 - If yes, consider this: the broken original parts are repaired and re-assembled. Is this the ship of Theseus or not? If not, let us name the new ship "The Argo". At what point did the crew of the Theseus become the crew of the Argo? And what ship is sailing when 50 of the parts have been replaced? If both the ships trade a single piece, are they still the same ships?
 
-## Source
-
-Source: Wikipedia — List of philosophical problems. Import rule: `wholesale_pinned_revision`. Pinned revision: `1338262080`.
-
 ## Why This Problem Is in Scope
 
 This item is included because it belongs to the declared Problem Ledger source scope for Metaphysics / Philosophy. Import means visibility and accountable classification, not endorsement, solution, priority, or external acceptance.
-
-## Program Classification
-
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility status: `unknown`
-- Result status: `not_yet_classified`
-
-## Current Program Stance
-
-No dedicated Result page yet. This item remains visible as an open or not-yet-classified agenda obligation.
-
-## Related Results
-
-- No dedicated Result page yet.
-
-## Related Corpus Items
-
-- No direct Corpus item mapped yet.
-
-## Related Verify Surfaces
-
-- Verify route not yet mapped beyond the domain-level inspection surfaces.
-
-## Related Recovery Requirements
-
-- No Recovery Requirement mapping yet.
-
-## Projection Metadata
-
-Generated from `corpus/problem-ledger` as the v1.0 public projection. Update the Corpus source item and regenerate the projection rather than editing the public site copy directly.

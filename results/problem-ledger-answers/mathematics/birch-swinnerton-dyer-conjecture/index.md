@@ -45,7 +45,7 @@ Birch and Swinnerton-Dyer
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+[Bridge Verification](/verify/bridge-verification/)
 
 ## What remains open
 
