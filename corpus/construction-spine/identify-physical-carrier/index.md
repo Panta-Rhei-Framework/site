@@ -51,6 +51,28 @@ related_publications:
   -
     title: "Physics-facing publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "carrier identification"
+    - "semantic adequacy"
+    - "bridge plausibility"
+  taulib_modules:
+    - "TauLib.BookI.Category"
+  bridge_checks:
+    - "Check that the identified carrier is exposed through explicit dependency chains rather than ontological hand-waving."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Carrier identification is not yet empirical bridge success or quantitative prediction."
+  related_verify_pages:
+    -
+      title: "Domain Verification: Physics"
+      url: "/verify/domain-verification/physics/"
+    -
+      title: "Verification Framework"
+      url: "/verify/verification-framework/"
+    -
+      title: "How to Verify"
+      url: "/verify/how-to-verify/"
 what_not_establish: "This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge."
 next_step_id: "CS-05"
 tags:
@@ -114,9 +136,25 @@ Physics cannot be assumed as a finished external domain. The Corpus must first e
 - [How Physical Things First Appear](/results/world-readout/physics/how-physical-things-first-appear/)
 - [Physical Reality as a Semantic Reading](/results/problem/physical-reality-as-a-semantic-reading-of-e1/)
 
+## Verification Modes
+
+- carrier identification
+- semantic adequacy
+- bridge plausibility
+
+## Bridge Checks
+
+- Check that the identified carrier is exposed through explicit dependency chains rather than ontological hand-waving.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Domain Verification: Physics](/verify/domain-verification/physics/)
+- [Verification Framework](/verify/verification-framework/)
+- [How to Verify](/verify/how-to-verify/)
 
 ## Publication projection
 
@@ -129,6 +167,10 @@ Physics cannot be assumed as a finished external domain. The Corpus must first e
 ## What this step does not yet establish
 
 This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge.
+
+## Unresolved Frontiers
+
+- Carrier identification is not yet empirical bridge success or quantitative prediction.
 
 ## Next step in the spine
 

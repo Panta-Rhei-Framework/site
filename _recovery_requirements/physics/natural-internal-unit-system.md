@@ -45,6 +45,17 @@ tags:
   - "recovery-requirements"
   - "prec-p2"
 url: "/program/research-agenda/recovery-requirements/physics/natural-internal-unit-system/"
+verification:
+  status: "pending_physics_verification"
+  mode: "internal_unit_architecture"
+  related_results:
+    - "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/identify-physical-carrier/"
+    - "/corpus/construction-spine/recover-internal-physical-grammar/"
+  related_verify_pages:
+    - "/verify/domain-verification/physics/"
+    - "/verify/construction-spine-verification/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

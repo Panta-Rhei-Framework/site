@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P6"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Physical Regime Bridges
@@ -23,6 +29,7 @@ Physical Regime Bridges
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P6](/program/research-agenda/recovery-requirements/physics/physical-regime-bridges/)
+- Verification mode: `regime_bridge_review`
 
 ## Result Summary
 
@@ -30,15 +37,18 @@ Detailed result summary pending.
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [World Readout: Physics](/results/world-readout/physics/)
+- [Progress Against Agenda](/results/progress-against-agenda/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Identify Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)
+- [Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Domain Verification: Physics](/verify/domain-verification/physics/)
+- [Construction Spine Verification](/verify/construction-spine-verification/)
 
 ## What This Status Does Not Yet Establish
 

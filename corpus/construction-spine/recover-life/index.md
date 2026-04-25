@@ -53,6 +53,28 @@ related_publications:
   -
     title: "Publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "life-recovery checks"
+    - "structural biology mapping"
+    - "scope discipline"
+  taulib_modules: []
+  bridge_checks:
+    - "Check that biological recovery claims distinguish structural recovery from complete empirical biology."
+  empirical_checks:
+    - "Check whether life-facing claims are routed to explicit biological examples, constraints, and open residuals."
+  unresolved_frontiers:
+    - "Life recovery does not by itself settle consciousness, subjectivity, or every biology-side open problem."
+  related_verify_pages:
+    -
+      title: "Domain Verification: Life"
+      url: "/verify/domain-verification/life/"
+    -
+      title: "Assessment Protocols"
+      url: "/verify/assessment-protocols/"
+    -
+      title: "How to Verify"
+      url: "/verify/how-to-verify/"
 what_not_establish: "This step does not claim to solve consciousness or all biological open problems. It recovers the structural layer where life becomes addressable."
 next_step_id: "CS-08"
 tags:
@@ -115,9 +137,25 @@ _Mapping pending._
 - [Life World Readout](/results/world-readout/life/)
 - [Why Life Is Structurally Favored in Tau](/results/world-readout/life/why-life-is-structurally-favored-in-tau/)
 
+## Verification Modes
+
+- `life-recovery checks`
+- structural biology mapping
+- scope discipline
+
+## Bridge Checks
+
+- Check that biological recovery claims distinguish structural recovery from complete empirical biology.
+
+## Empirical Checks
+
+- Check whether life-facing claims are routed to explicit biological examples, constraints, and open residuals.
+
 ## Related Verify surfaces
 
 - [Domain Verification: Life](/verify/domain-verification/life/)
+- [Assessment Protocols](/verify/assessment-protocols/)
+- [How to Verify](/verify/how-to-verify/)
 
 ## Publication projection
 
@@ -130,6 +168,10 @@ _Mapping pending._
 ## What this step does not yet establish
 
 This step does not claim to solve consciousness or all biological open problems. It recovers the structural layer where life becomes addressable.
+
+## Unresolved Frontiers
+
+- Life recovery does not by itself settle consciousness, subjectivity, or every biology-side open problem.
 
 ## Next step in the spine
 

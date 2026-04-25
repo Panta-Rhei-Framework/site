@@ -45,7 +45,7 @@ If you work in category theory, model theory, analytic number theory, operator t
 
 ### [Physicist]({{ '/verify/how-to-audit/physicist/' | relative_url }})
 
-If you work in particle physics, cosmology, quantum foundations, or general relativity, the empirical track of the framework lives in the 67-prediction Physics Ledger and in the 30-item Falsification Pack. The load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the single-constant derivation chains survive independent checking.
+If you work in particle physics, cosmology, quantum foundations, or general relativity, the empirical track of the framework lives in the 67-prediction Numerical Physics Ledger and in the 30-item Falsification Pack. The load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the single-constant derivation chains survive independent checking.
 
 ### [Philosopher (of science, mind, or metaphysics)]({{ '/verify/how-to-audit/philosopher/' | relative_url }})
 

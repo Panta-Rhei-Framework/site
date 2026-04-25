@@ -7,6 +7,13 @@ permalink: /discover/start-here/
 type: "Onboarding"
 status: "Canonical"
 summary_short: "The fastest way to understand what this site is and where to go next."
+tags:
+  - discover
+  - start-here
+  - research-agenda
+  - construction-spine
+  - results
+  - verify
 hero_ctas:
   - label: "Entry Routes"
     url: /discover/entry-routes/
@@ -36,21 +43,23 @@ If you are new to the program, start with these four questions.
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/program/' | relative_url }}">
     <h3>1. What is this?</h3>
-    <p>Begin with Program for the aim, scope, and burden of proof.</p>
+    <p>Begin with Program and Research Agenda for the aim, scope, and burden of proof.</p>
   </a>
-  <a class="v2-tile" href="{{ '/corpus/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
     <h3>2. What is being built?</h3>
-    <p>Move to Corpus to inspect the living research body.</p>
+    <p>Move to Corpus and Construction Spine to inspect the living research body.</p>
   </a>
   <a class="v2-tile" href="{{ '/discover/key-results/' | relative_url }}">
-    <h3>3. What does it claim?</h3>
-    <p>Use Key Results for a curated first pass before the full Results lane.</p>
+    <h3>3. What follows from the build?</h3>
+    <p>Use Key Results, Landmark Results, and World Readout for a curated first pass into Results.</p>
   </a>
   <a class="v2-tile" href="{{ '/verify/' | relative_url }}">
     <h3>4. How can it be checked?</h3>
     <p>Use Verify for formalization, audit routes, and falsification surfaces.</p>
   </a>
 </div>
+
+For the deepest route, follow [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) -> [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) -> [Results]({{ '/results/' | relative_url }}) -> [Verify]({{ '/verify/' | relative_url }}).
 
 ## Optional Fifth Step
 

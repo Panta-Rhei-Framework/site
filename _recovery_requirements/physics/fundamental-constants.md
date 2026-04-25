@@ -45,6 +45,17 @@ tags:
   - "recovery-requirements"
   - "prec-p4"
 url: "/program/research-agenda/recovery-requirements/physics/fundamental-constants/"
+verification:
+  status: "pending_physics_verification"
+  mode: "constants_and_calibration_review"
+  related_results:
+    - "/results/predictions/browse/"
+    - "/publications/numerical-physics-ledger/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/measurement-empirical-bridges/"
+  related_verify_pages:
+    - "/verify/predictions-and-falsification/"
+    - "/verify/predictions-and-falsification/predictions/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

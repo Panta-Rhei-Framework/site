@@ -45,6 +45,18 @@ tags:
   - "recovery-requirements"
   - "prec-p5"
 url: "/program/research-agenda/recovery-requirements/physics/core-dynamical-laws/"
+verification:
+  status: "pending_physics_verification"
+  mode: "law_family_recovery"
+  related_results:
+    - "/results/world-readout/physics/"
+    - "/publications/numerical-physics-ledger/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/recover-internal-physical-grammar/"
+    - "/corpus/construction-spine/measurement-empirical-bridges/"
+  related_verify_pages:
+    - "/verify/domain-verification/physics/"
+    - "/verify/predictions-and-falsification/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

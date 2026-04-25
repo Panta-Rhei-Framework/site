@@ -45,6 +45,13 @@ tags:
   - "recovery-requirements"
   - "lrec-l2"
 url: "/program/research-agenda/recovery-requirements/life/metabolism-and-energy-throughput/"
+verification:
+  status: "pending_life_verification"
+  mode: "life_structural_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-domain-life"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

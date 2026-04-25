@@ -60,6 +60,29 @@ related_publications:
   -
     title: "Book I"
     url: "/publications/books/book-i/"
+verification:
+  primary_modes:
+    - "formal proof checking"
+    - "axiom inventory"
+    - "TCB disclosure"
+    - "kernel consistency"
+  taulib_modules:
+    - "TauLib.BookI.Kernel.Signature"
+    - "TauLib.BookI.Kernel.Axioms"
+  bridge_checks: []
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens."
+  related_verify_pages:
+    -
+      title: "Formal Verification Stack"
+      url: "/verify/formal-verification-stack/"
+    -
+      title: "TauLib"
+      url: "/verify/taulib/"
+    -
+      title: "TCB Disclosure"
+      url: "/verify/tcb/"
 what_not_establish: "This step defines the formal kernel. It does not yet recover mathematics, identify physics, or establish ontic status."
 next_step_id: "CS-02"
 tags:
@@ -131,10 +154,26 @@ The program cannot begin by assuming a finished mathematical or physical backgro
 
 - [Tau Kernel Coherence](/results/problem/tau-kernel-coherence/)
 
+## Verification Modes
+
+- formal proof checking
+- axiom inventory
+- TCB disclosure
+- kernel consistency
+
+## Bridge Checks
+
+_Mapping pending._
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Formal Verification Stack](/verify/formal-verification-stack/)
 - [TauLib](/verify/taulib/)
+- [TCB Disclosure](/verify/tcb/)
 
 ## Publication projection
 
@@ -147,6 +186,10 @@ The program cannot begin by assuming a finished mathematical or physical backgro
 ## What this step does not yet establish
 
 This step defines the formal kernel. It does not yet recover mathematics, identify physics, or establish ontic status.
+
+## Unresolved Frontiers
+
+- Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens.
 
 ## Next step in the spine
 

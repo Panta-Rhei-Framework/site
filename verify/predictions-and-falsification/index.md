@@ -33,6 +33,12 @@ right_rail:
 
 Predictions and falsification are not merely outputs of the program. They are accountability structures for Results.
 
+Predictions and falsification are Verify-owned accountability surfaces.
+
+The Results lane provides world-facing interpretation and result-family context. Verify owns the accountability grammar: prediction IDs, target results, failure conditions, timing assumptions, falsification paths, and pack structure.
+
+Publication artifacts such as the Numerical Physics Ledger may package these surfaces for reading and review.
+
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/verify/predictions-and-falsification/predictions/' | relative_url }}">
     <strong>Predictions</strong>

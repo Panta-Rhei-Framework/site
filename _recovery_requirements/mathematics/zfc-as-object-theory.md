@@ -46,6 +46,14 @@ tags:
   - "recovery-requirements"
   - "mrec-m4"
 url: "/program/research-agenda/recovery-requirements/mathematics/zfc-as-object-theory/"
+verification:
+  status: "pending_bridge_verification"
+  mode: "foundational_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-bridge-verification"
+    - "verify-meta-verification-frontier"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P3"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 SI / Empirical Calibration Bridge
@@ -23,6 +29,7 @@ SI / Empirical Calibration Bridge
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P3](/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/)
+- Verification mode: `si_bridge_and_calibration`
 
 ## Result Summary
 
@@ -30,15 +37,17 @@ Detailed result summary pending.
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [Predictions](/results/predictions/browse/)
+- [From Ratio To Measurement Iota Tau And The Calibration Of Physics](/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Measurement Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Predictions And Falsification](/verify/predictions-and-falsification/)
+- [Construction Spine Verification](/verify/construction-spine-verification/)
 
 ## What This Status Does Not Yet Establish
 

@@ -56,6 +56,32 @@ related_publications:
   -
     title: "Publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "bridge verification"
+    - "empirical verification"
+    - "prediction timing"
+    - "falsification"
+  taulib_modules: []
+  bridge_checks:
+    - "Check the SI bridge, calibration cascade, and the distinction between dimensionless structure and SI-anchored outputs."
+  empirical_checks:
+    - "Check numerical predictions against current measurements and named falsification targets."
+  unresolved_frontiers:
+    - "Prediction visibility is not the same as experimental confirmation or external acceptance."
+  related_verify_pages:
+    -
+      title: "Predictions and Falsification"
+      url: "/verify/predictions-and-falsification/"
+    -
+      title: "Predictions"
+      url: "/verify/predictions-and-falsification/predictions/"
+    -
+      title: "Falsification Paths"
+      url: "/verify/predictions-and-falsification/falsification-paths/"
+    -
+      title: "Falsification Packs"
+      url: "/verify/predictions-and-falsification/falsification-packs/"
 what_not_establish: "This step does not treat internal coherence as empirical success. It makes empirical pressure explicit."
 next_step_id: "CS-07"
 tags:
@@ -121,9 +147,26 @@ _Mapping pending._
 - [Falsification Paths](/results/falsifications/browse/)
 - [From Ratio to Measurement](/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/)
 
+## Verification Modes
+
+- bridge verification
+- empirical verification
+- prediction timing
+- falsification
+
+## Bridge Checks
+
+- Check the SI bridge, calibration cascade, and the distinction between dimensionless structure and SI-anchored outputs.
+
+## Empirical Checks
+
+- Check numerical predictions against current measurements and named falsification targets.
+
 ## Related Verify surfaces
 
 - [Predictions and Falsification](/verify/predictions-and-falsification/)
+- [Predictions](/verify/predictions-and-falsification/predictions/)
+- [Falsification Paths](/verify/predictions-and-falsification/falsification-paths/)
 - [Falsification Packs](/verify/predictions-and-falsification/falsification-packs/)
 
 ## Publication projection
@@ -137,6 +180,10 @@ _Mapping pending._
 ## What this step does not yet establish
 
 This step does not treat internal coherence as empirical success. It makes empirical pressure explicit.
+
+## Unresolved Frontiers
+
+- Prediction visibility is not the same as experimental confirmation or external acceptance.
 
 ## Next step in the spine
 

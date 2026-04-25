@@ -14,6 +14,12 @@ canonical_problem_id: "life-consciousness"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal stance: **Partially Addressed**
+- Verification route: **Pending**
+- External status: **Not externally reviewed**
+
 ## Problem
 
 Consciousness
@@ -30,6 +36,10 @@ Consciousness
 - Tier: `kernel_critical`
 - Agenda role: `bridge_problem`
 - Expressibility: `requires_translation`
+
+## Related Construction Steps
+
+- Construction Spine mapping pending.
 
 ## Related Results
 

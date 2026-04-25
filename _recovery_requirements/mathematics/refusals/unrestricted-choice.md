@@ -49,6 +49,13 @@ tags:
   - "mathematical-refusals"
   - "mref-r3"
 url: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/"
+verification:
+  status: "not_yet_verified"
+  mode: "coherence_constraint"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-formal-verification-stack"
 expanded_rationale: "The refusal is not an anti-mathematical slogan. It protects the distinction between what the kernel constructs, what it treats as an object theory, and what it may borrow under an explicit bridge. Unrestricted choice becomes dangerous only when it silently moves from external mathematics into primitive machinery."
 public_summary: "Choice-like principles may be studied and bridged, but they cannot enter the kernel as untyped ambient permission."
 what_this_requires:

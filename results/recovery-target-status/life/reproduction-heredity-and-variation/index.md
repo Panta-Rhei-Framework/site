@@ -14,6 +14,12 @@ canonical_recovery_id: "LREC-L4"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Life Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Reproduction, Heredity, and Variation
@@ -23,6 +29,7 @@ Reproduction, Heredity, and Variation
 - Recovery status: **Partial**
 - Verification status: **Pending Life Verification**
 - Program ledger item: [LREC-L4](/program/research-agenda/recovery-requirements/life/reproduction-heredity-and-variation/)
+- Verification mode: `life_structural_recovery_target`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-domain-life`
+- verify-domain-life
 
 ## What This Status Does Not Yet Establish
 

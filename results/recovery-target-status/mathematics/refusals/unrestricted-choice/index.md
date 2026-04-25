@@ -14,6 +14,12 @@ canonical_recovery_id: "MREF-R3"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Not Applicable**
+- Verification state: **Not Yet Verified**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Choice-like principles may be studied and bridged, but they cannot enter the kernel as untyped ambient permission.
@@ -23,6 +29,7 @@ Choice-like principles may be studied and bridged, but they cannot enter the ker
 - Recovery status: **Not Applicable**
 - Verification status: **Not Yet Verified**
 - Program ledger item: [MREF-R3](/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/)
+- Verification mode: `coherence_constraint`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ The refusal is not an anti-mathematical slogan. It protects the distinction betw
 
 ## Related Verify Surfaces
 
-- `verify-formal-verification-stack`
+- verify-formal-verification-stack
 
 ## What This Status Does Not Yet Establish
 

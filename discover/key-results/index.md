@@ -7,14 +7,22 @@ permalink: /discover/key-results/
 type: "Result Gateway"
 status: "Canonical"
 summary_short: "A curated flagship-result entry surface for readers who want substance before the full ledger."
+tags:
+  - discover
+  - landmark-results
+  - world-readout
+  - progress-against-agenda
+  - results
 hero_ctas:
   - label: "Results Lane"
     url: /results/
     primary: true
-  - label: "Problem Ledger"
-    url: /results/problem-ledger/
+  - label: "Landmark Results"
+    url: /results/landmark-results/
   - label: "World Readout"
     url: /results/world-readout/
+  - label: "Progress Against Agenda"
+    url: /results/progress-against-agenda/
 right_rail:
   related:
     - title: "Results"
@@ -31,7 +39,9 @@ right_rail:
 
 ## Curated First Set
 
-This is not the full Results lane. It is a small, high-signal entry surface for readers who want to see what the program claims before entering the complete problem ledger.
+This page is the Discover entry into the Results lane's Landmark Results surface.
+
+This is not the full Results lane. It is a small, high-signal entry surface for readers who want to see landmark consequences before entering the full Results structure: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
 
 <div class="v2-grid v2-grid-2">
   <a class="v2-tile" href="{{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}">

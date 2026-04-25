@@ -45,6 +45,17 @@ tags:
   - "recovery-requirements"
   - "prec-p3"
 url: "/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/"
+verification:
+  status: "pending_physics_verification"
+  mode: "si_bridge_and_calibration"
+  related_results:
+    - "/results/predictions/browse/"
+    - "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/measurement-empirical-bridges/"
+  related_verify_pages:
+    - "/verify/predictions-and-falsification/"
+    - "/verify/construction-spine-verification/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P0"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Physical recovery begins with typed quantities: time, length, energy, charge, temperature, count, and luminosity cannot be treated as interchangeable labels.
@@ -23,6 +29,7 @@ Physical recovery begins with typed quantities: time, length, energy, charge, te
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P0](/program/research-agenda/recovery-requirements/physics/physical-quantity-types/)
+- Verification mode: `quantity_type_recovery`
 
 ## Result Summary
 
@@ -30,15 +37,17 @@ A physics-facing kernel must explain why physical quantities have stable roles b
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [World Readout: Physics](/results/world-readout/physics/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Identify Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)
+- [Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Domain Verification: Physics](/verify/domain-verification/physics/)
+- [Construction Spine Verification](/verify/construction-spine-verification/)
 
 ## What This Status Does Not Yet Establish
 

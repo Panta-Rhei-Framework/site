@@ -45,6 +45,18 @@ tags:
   - "recovery-requirements"
   - "prec-p6"
 url: "/program/research-agenda/recovery-requirements/physics/physical-regime-bridges/"
+verification:
+  status: "pending_physics_verification"
+  mode: "regime_bridge_review"
+  related_results:
+    - "/results/world-readout/physics/"
+    - "/results/progress-against-agenda/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/identify-physical-carrier/"
+    - "/corpus/construction-spine/recover-internal-physical-grammar/"
+  related_verify_pages:
+    - "/verify/domain-verification/physics/"
+    - "/verify/construction-spine-verification/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

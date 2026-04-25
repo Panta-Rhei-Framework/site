@@ -45,6 +45,17 @@ tags:
   - "recovery-requirements"
   - "prec-p0"
 url: "/program/research-agenda/recovery-requirements/physics/physical-quantity-types/"
+verification:
+  status: "pending_physics_verification"
+  mode: "quantity_type_recovery"
+  related_results:
+    - "/results/world-readout/physics/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/identify-physical-carrier/"
+    - "/corpus/construction-spine/recover-internal-physical-grammar/"
+  related_verify_pages:
+    - "/verify/domain-verification/physics/"
+    - "/verify/construction-spine-verification/"
 expanded_rationale: "A physics-facing kernel must explain why physical quantities have stable roles before it can claim to recover laws, constants, or measurements. This item therefore tests whether the framework carries a typed measurement grammar rather than an untyped numerical fit."
 public_summary: "Physical recovery begins with typed quantities: time, length, energy, charge, temperature, count, and luminosity cannot be treated as interchangeable labels."
 what_this_requires:

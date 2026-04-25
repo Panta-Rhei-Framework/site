@@ -127,7 +127,7 @@ The cascade says: once the kernel is materialized, the framework consumes exactl
 - **L3** — SI-anchored quantities (m<sub>e</sub>, G, m<sub>P</sub>, ℏ, k<sub>B</sub>, ε<sub>0</sub>) produced by the rescaling functor M<sub>SI</sub> = R<sub>M</sub>[M<sub>τ</sub>].
 - **L4** — verification: atomic spectroscopy, cosmology, and a 30-item falsification pack (tagged by precision **Tier A** ~0.025 ppm, **Tier B** ~3 ppm, **Tier C** ~0.8%).
 
-This is formalized as the **Calibration Sufficiency Theorem** (Chapter 58a of the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a)): ι<sub>τ</sub> together with m<sub>n</sub> suffices to determine every entry in the ledger, with zero additional free parameters.
+This is formalized as the **Calibration Sufficiency Theorem** (Chapter 58a of the [Numerical Physics Ledger]({{ '/publications/numerical-physics-ledger/' | relative_url }}#ch-58a)): ι<sub>τ</sub> together with m<sub>n</sub> suffices to determine every entry in the ledger, with zero additional free parameters.
 
 For the Results lane, this matters for a specific epistemic reason. The formal-system stance establishes that the kernel *exists*. The cascade stance establishes that the kernel *commits*. Every numerical claim in the lane inherits its sharpness from exactly one tiny input surface — two numbers — and a reader who wants to challenge the framework can focus all scrutiny there. The result catalogue is not an assemblage of independent guesses; it is one compiled object with a two-number input.
 

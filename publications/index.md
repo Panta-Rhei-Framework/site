@@ -11,7 +11,7 @@ summary_cards:
   - title: "Canonical series"
     body: "The seven Second Edition books are the proof-order monograph series: 79 parts, 535 chapters, and about 3,430 pages."
   - title: "Open artifacts"
-    body: "White papers, guided tours, companion papers, Research Notes, the Physics Ledger, Categorical Genesis, errata, and archives are freely browsable from this lane."
+    body: "White papers, guided tours, companion papers, Research Notes, the Numerical Physics Ledger, Categorical Genesis, errata, and archives are freely browsable from this lane."
   - title: "Inspection routes"
     body: "Each publication family points outward to the Corpus, Results, Verify, and Impact lanes when readers need source objects, claims, checks, or applications."
 right_rail:
@@ -69,7 +69,7 @@ Append-only correction and clarification surface for substantial changes to rele
 
 ## Special Artifacts
 
-### [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }})
+### [Numerical Physics Ledger]({{ '/publications/numerical-physics-ledger/' | relative_url }})
 
 The 209-page numerical scorecard for the physics layer, including the calibration cascade, prediction inventory, and falsification targets.
 

@@ -6,7 +6,7 @@ layout: default
 
 <div class="hero-card">
   <div class="module-eyebrow-row">
-    <span class="eyebrow">Physics Ledger · Falsification {{ page.falsification_id }}</span>
+    <span class="eyebrow">Numerical Physics Ledger · Falsification {{ page.falsification_id }}</span>
     <span class="chip">{{ page.domain_display }}</span>
     <span class="chip chip-status-{{ page.current_status }}">{{ page.current_status | capitalize }}</span>
     {% if page.seam %}<span class="chip chip-seam" title="Falsifiable seam — τ vs orthodox, structurally incompatible claim">Seam · {{ site.data.seams[page.seam] | default: page.seam }}</span>{% endif %}

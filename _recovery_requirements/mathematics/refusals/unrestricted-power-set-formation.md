@@ -49,6 +49,13 @@ tags:
   - "mathematical-refusals"
   - "mref-r1"
 url: "/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-power-set-formation/"
+verification:
+  status: "not_yet_verified"
+  mode: "coherence_constraint"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-formal-verification-stack"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

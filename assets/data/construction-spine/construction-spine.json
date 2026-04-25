@@ -64,6 +64,37 @@
         "url": "/publications/books/book-i/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "formal proof checking",
+        "axiom inventory",
+        "TCB disclosure",
+        "kernel consistency"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Kernel.Signature",
+        "TauLib.BookI.Kernel.Axioms"
+      ],
+      "bridge_checks": [],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Formal Verification Stack",
+          "url": "/verify/formal-verification-stack/"
+        },
+        {
+          "title": "TauLib",
+          "url": "/verify/taulib/"
+        },
+        {
+          "title": "TCB Disclosure",
+          "url": "/verify/tcb/"
+        }
+      ]
+    },
     "what_not_establish": "This step defines the formal kernel. It does not yet recover mathematics, identify physics, or establish ontic status.",
     "next_step_id": "CS-02",
     "tags": [
@@ -151,6 +182,38 @@
         "url": "/publications/books/book-i/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "formal proof checking",
+        "mathematical bridge verification",
+        "refusal discipline"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Arithmetic",
+        "TauLib.BookI.Geometry"
+      ],
+      "bridge_checks": [
+        "Check that recovered mathematics is explicit about what transfers to standard mathematics and what remains refused or qualified."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Bridge adequacy to unrestricted standard mathematics remains a separate burden from internal formal success."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Domain Verification: Mathematics",
+          "url": "/verify/domain-verification/mathematics/"
+        },
+        {
+          "title": "Formal Verification Stack",
+          "url": "/verify/formal-verification-stack/"
+        },
+        {
+          "title": "Verification Framework",
+          "url": "/verify/verification-framework/"
+        }
+      ]
+    },
     "what_not_establish": "This step does not claim that unrestricted classical mathematics is simply recovered as-is. It recovers mathematical capacity under kernel discipline.",
     "next_step_id": "CS-03",
     "tags": [
@@ -235,6 +298,38 @@
         "url": "/publications/books/book-i/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "internal-logic checks",
+        "categorical consistency",
+        "semantic correspondence"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Category",
+        "TauLib.BookI.Topos"
+      ],
+      "bridge_checks": [
+        "Check that internal logical operations remain faithful to the kernel discipline and do not silently import external proof power."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Internalization of logic does not yet self-host object theories or settle semantic bridge adequacy."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Meta-Verification Frontier",
+          "url": "/verify/meta-verification-frontier/"
+        },
+        {
+          "title": "Formal Verification Stack",
+          "url": "/verify/formal-verification-stack/"
+        },
+        {
+          "title": "Verification Framework",
+          "url": "/verify/verification-framework/"
+        }
+      ]
+    },
     "what_not_establish": "This step begins self-containment. It does not yet self-host formal systems or test final ontic closure.",
     "next_step_id": "CS-04",
     "tags": [
@@ -305,6 +400,37 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "carrier identification",
+        "semantic adequacy",
+        "bridge plausibility"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Category"
+      ],
+      "bridge_checks": [
+        "Check that the identified carrier is exposed through explicit dependency chains rather than ontological hand-waving."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Carrier identification is not yet empirical bridge success or quantitative prediction."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Domain Verification: Physics",
+          "url": "/verify/domain-verification/physics/"
+        },
+        {
+          "title": "Verification Framework",
+          "url": "/verify/verification-framework/"
+        },
+        {
+          "title": "How to Verify",
+          "url": "/verify/how-to-verify/"
+        }
+      ]
+    },
     "what_not_establish": "This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge.",
     "next_step_id": "CS-05",
     "tags": [
@@ -380,6 +506,37 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "internal law-structure checks",
+        "dimensional consistency",
+        "physics bridge preparation"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Measure"
+      ],
+      "bridge_checks": [
+        "Check that internal physical grammar exposes unit structure, lawfulness, and sector closure before empirical calibration begins."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Internal tau-physics remains distinct from observation-facing accountability until measurement bridges are explicit."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Domain Verification: Physics",
+          "url": "/verify/domain-verification/physics/"
+        },
+        {
+          "title": "Predictions and Falsification",
+          "url": "/verify/predictions-and-falsification/"
+        },
+        {
+          "title": "Verification Framework",
+          "url": "/verify/verification-framework/"
+        }
+      ]
+    },
     "what_not_establish": "Internal tau-physics is not yet empirical adequacy. Measurement, calibration, and falsification belong to Step 6.",
     "next_step_id": "CS-06",
     "tags": [
@@ -456,6 +613,42 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "bridge verification",
+        "empirical verification",
+        "prediction timing",
+        "falsification"
+      ],
+      "taulib_modules": [],
+      "bridge_checks": [
+        "Check the SI bridge, calibration cascade, and the distinction between dimensionless structure and SI-anchored outputs."
+      ],
+      "empirical_checks": [
+        "Check numerical predictions against current measurements and named falsification targets."
+      ],
+      "unresolved_frontiers": [
+        "Prediction visibility is not the same as experimental confirmation or external acceptance."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Predictions and Falsification",
+          "url": "/verify/predictions-and-falsification/"
+        },
+        {
+          "title": "Predictions",
+          "url": "/verify/predictions-and-falsification/predictions/"
+        },
+        {
+          "title": "Falsification Paths",
+          "url": "/verify/predictions-and-falsification/falsification-paths/"
+        },
+        {
+          "title": "Falsification Packs",
+          "url": "/verify/predictions-and-falsification/falsification-packs/"
+        }
+      ]
+    },
     "what_not_establish": "This step does not treat internal coherence as empirical success. It makes empirical pressure explicit.",
     "next_step_id": "CS-07",
     "tags": [
@@ -526,6 +719,37 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "life-recovery checks",
+        "structural biology mapping",
+        "scope discipline"
+      ],
+      "taulib_modules": [],
+      "bridge_checks": [
+        "Check that biological recovery claims distinguish structural recovery from complete empirical biology."
+      ],
+      "empirical_checks": [
+        "Check whether life-facing claims are routed to explicit biological examples, constraints, and open residuals."
+      ],
+      "unresolved_frontiers": [
+        "Life recovery does not by itself settle consciousness, subjectivity, or every biology-side open problem."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Domain Verification: Life",
+          "url": "/verify/domain-verification/life/"
+        },
+        {
+          "title": "Assessment Protocols",
+          "url": "/verify/assessment-protocols/"
+        },
+        {
+          "title": "How to Verify",
+          "url": "/verify/how-to-verify/"
+        }
+      ]
+    },
     "what_not_establish": "This step does not claim to solve consciousness or all biological open problems. It recovers the structural layer where life becomes addressable.",
     "next_step_id": "CS-08",
     "tags": [
@@ -596,6 +820,35 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "answer-shape checks",
+        "conceptual consistency",
+        "life-metaphysics bridge verification"
+      ],
+      "taulib_modules": [],
+      "bridge_checks": [
+        "Check that reflective-structure claims expose their dependence on earlier life and logic construction rather than bypassing them."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Reflective structure does not by itself settle external acceptance, phenomenological adequacy, or ontic closure."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Domain Verification: Metaphysics",
+          "url": "/verify/domain-verification/metaphysics/"
+        },
+        {
+          "title": "Meta-Verification Frontier",
+          "url": "/verify/meta-verification-frontier/"
+        },
+        {
+          "title": "Answer-Shape Requirements",
+          "url": "/program/research-agenda/kernel-model-reality/answer-shape-requirements/"
+        }
+      ]
+    },
     "what_not_establish": "This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable.",
     "next_step_id": "CS-09",
     "tags": [
@@ -670,6 +923,37 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "meta-verification",
+        "object-theory hosting checks",
+        "proof-as-act analysis"
+      ],
+      "taulib_modules": [
+        "TauLib.BookI.Kernel.Signature"
+      ],
+      "bridge_checks": [
+        "Check that self-hosted formal systems are represented as constructed objects rather than silently adopted primitives."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Self-hosting does not by itself imply final closure or universal bridge adequacy."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Formal Verification Stack",
+          "url": "/verify/formal-verification-stack/"
+        },
+        {
+          "title": "Meta-Verification Frontier",
+          "url": "/verify/meta-verification-frontier/"
+        },
+        {
+          "title": "Verification Framework",
+          "url": "/verify/verification-framework/"
+        }
+      ]
+    },
     "what_not_establish": "This step must not imply that ZFC is canonical in the raw kernel. ZFC becomes hostable only once reflective symbolic structure exists.",
     "next_step_id": "CS-10",
     "tags": [
@@ -742,6 +1026,36 @@
         "url": "/publications/"
       }
     ],
+    "verification": {
+      "primary_modes": [
+        "no-externalities audit",
+        "substrate non-deferral",
+        "residual-boundary disclosure",
+        "ontic-status burden"
+      ],
+      "taulib_modules": [],
+      "bridge_checks": [
+        "Check whether every remaining externality, substrate deferral, or unexplained boundary is explicitly named."
+      ],
+      "empirical_checks": [],
+      "unresolved_frontiers": [
+        "Ontic closure remains the strongest evaluative burden, not a theorem the site should present as already settled."
+      ],
+      "related_verify_pages": [
+        {
+          "title": "Meta-Verification Frontier",
+          "url": "/verify/meta-verification-frontier/"
+        },
+        {
+          "title": "Kernel, Model & Reality",
+          "url": "/program/research-agenda/kernel-model-reality/"
+        },
+        {
+          "title": "How to Verify",
+          "url": "/verify/how-to-verify/"
+        }
+      ]
+    },
     "what_not_establish": "This step does not say the kernel has proven final ontic status. It is where the strongest ontic-status claim can be evaluated.",
     "next_step_id": "",
     "tags": [

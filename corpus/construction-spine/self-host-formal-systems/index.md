@@ -54,6 +54,28 @@ related_publications:
   -
     title: "Publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "meta-verification"
+    - "object-theory hosting checks"
+    - "proof-as-act analysis"
+  taulib_modules:
+    - "TauLib.BookI.Kernel.Signature"
+  bridge_checks:
+    - "Check that self-hosted formal systems are represented as constructed objects rather than silently adopted primitives."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Self-hosting does not by itself imply final closure or universal bridge adequacy."
+  related_verify_pages:
+    -
+      title: "Formal Verification Stack"
+      url: "/verify/formal-verification-stack/"
+    -
+      title: "Meta-Verification Frontier"
+      url: "/verify/meta-verification-frontier/"
+    -
+      title: "Verification Framework"
+      url: "/verify/verification-framework/"
 what_not_establish: "This step must not imply that ZFC is canonical in the raw kernel. ZFC becomes hostable only once reflective symbolic structure exists."
 next_step_id: "CS-10"
 tags:
@@ -118,10 +140,25 @@ The program begins with a formal kernel, but self-hosting is not available at th
 - [Pattern, Language, and Proof](/results/world-readout/metaphysics/pattern-language-and-proof/)
 - [Translation Functor Tau-ZFC](/results/problem/translation-functor-tau-zfc/)
 
+## Verification Modes
+
+- `meta-verification`
+- object-theory hosting checks
+- proof-as-act analysis
+
+## Bridge Checks
+
+- Check that self-hosted formal systems are represented as constructed objects rather than silently adopted primitives.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Formal Verification Stack](/verify/formal-verification-stack/)
 - [Meta-Verification Frontier](/verify/meta-verification-frontier/)
+- [Verification Framework](/verify/verification-framework/)
 
 ## Publication projection
 
@@ -134,6 +171,10 @@ The program begins with a formal kernel, but self-hosting is not available at th
 ## What this step does not yet establish
 
 This step must not imply that ZFC is canonical in the raw kernel. ZFC becomes hostable only once reflective symbolic structure exists.
+
+## Unresolved Frontiers
+
+- Self-hosting does not by itself imply final closure or universal bridge adequacy.
 
 ## Next step in the spine
 

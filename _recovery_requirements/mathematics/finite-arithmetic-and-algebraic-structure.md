@@ -45,6 +45,13 @@ tags:
   - "recovery-requirements"
   - "mrec-m2"
 url: "/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/"
+verification:
+  status: "pending_bridge_verification"
+  mode: "foundational_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-bridge-verification"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

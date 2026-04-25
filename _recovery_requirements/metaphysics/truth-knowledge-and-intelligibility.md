@@ -46,6 +46,14 @@ tags:
   - "recovery-requirements"
   - "meth-r7"
 url: "/program/research-agenda/recovery-requirements/metaphysics/truth-knowledge-and-intelligibility/"
+verification:
+  status: "pending_metaphysics_verification"
+  mode: "metaphysical_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-verification-framework"
+    - "verify-formal-verification-stack"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

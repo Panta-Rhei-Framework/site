@@ -11,6 +11,8 @@ hero_ctas:
   - label: "Scientific Rigor"
     url: /verify/scientific-rigor/
     primary: true
+  - label: "Verify the Construction Spine"
+    url: /verify/construction-spine-verification/
   - label: "Formal Verification Stack"
     url: /verify/formal-verification-stack/
   - label: "How to Verify"
@@ -22,13 +24,19 @@ summary_cards:
   - title: "What verification does not settle"
     body: "Compilation proves internal consistency, not truth about the physical world. Bridge claims remain conjectural until independently validated."
   - title: "How to start"
-    body: "Clone TauLib, run lake build, and step through the guided tours. Or read the falsification pack for the decisive empirical tests."
+    body: "Start from an obligation, a construction step, or a result. Then trace it to Corpus support, Verify surfaces, and any available formalization."
 right_rail:
   related:
+    - title: "Verify the Construction Spine"
+      url: /verify/construction-spine-verification/
     - title: "Verification Framework"
       url: /verify/verification-framework/
     - title: "Domain Verification"
       url: /verify/domain-verification/
+    - title: "Construction Roadmap"
+      url: /program/research-agenda/construction-roadmap/
+    - title: "Corpus Construction Spine"
+      url: /corpus/construction-spine/
     - title: "Results"
       url: /results/
     - title: "Corpus Registry"
@@ -63,7 +71,9 @@ right_rail:
 
 ## What Verify Means Here
 
-Verification in this program is not one thing. It includes research-form legitimacy, formal proof checking, bridge adequacy, domain-specific validation, prediction and falsification surfaces, and structured external assessment.
+> Verify is where every obligation, construction step, and result becomes inspectable.
+
+Verification in this program is not one thing. It includes research-form legitimacy, source-policy inspection, construction-step verification, formal proof checking, semantic correspondence, bridge adequacy, domain-specific validation, prediction and falsification surfaces, and structured external assessment.
 
 **Metrics context:** [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) · [Filter Rules]({{ '/verify/filter-rules/' | relative_url }}) · [Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relative_url }}) · [TCB Disclosure]({{ '/verify/tcb/' | relative_url }})
 
@@ -71,6 +81,8 @@ Verification in this program is not one thing. It includes research-form legitim
   <a href="{{ '/verify/scientific-rigor/' | relative_url }}">Scientific Rigor</a>
   <span>-></span>
   <a href="{{ '/verify/verification-framework/' | relative_url }}">Verification Framework</a>
+  <span>-></span>
+  <a href="{{ '/verify/construction-spine-verification/' | relative_url }}">Construction Verification</a>
   <span>-></span>
   <a href="{{ '/verify/formal-verification-stack/' | relative_url }}">Formal Stack</a>
   <span>-></span>
@@ -89,6 +101,10 @@ Verification in this program is not one thing. It includes research-form legitim
   <a class="v2-tile" href="{{ '/verify/verification-framework/' | relative_url }}">
     <strong>Verification Framework</strong>
     <span>The shared standards: explicitness, traceability, derivability, and domain-appropriate validation.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/verify/construction-spine-verification/' | relative_url }}">
+    <strong>Verify the Construction Spine</strong>
+    <span>How each of the ten construction steps can be inspected, checked, or challenged.</span>
   </a>
   <a class="v2-tile" href="{{ '/verify/formal-verification-stack/' | relative_url }}">
     <strong>Formal Verification Stack</strong>
@@ -120,7 +136,7 @@ Verification in this program is not one thing. It includes research-form legitim
 
 The right first question is not "should I already believe this?" The right first question is: **is this a serious research program that has earned structured engagement?**
 
-Start by checking the research form, then choose a result, trace its Corpus support, inspect the available formalization, and test its domain-specific accountability route.
+Start by checking the research form, then choose an obligation, a construction step, or a result, trace its Corpus support, inspect the available formalization, identify bridge assumptions, and test its domain-specific accountability route.
 
 ## Report Corrections
 

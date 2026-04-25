@@ -14,6 +14,12 @@ canonical_recovery_id: "METH-R10"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Metaphysics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Value, Normativity, and Ethics
@@ -23,6 +29,7 @@ Value, Normativity, and Ethics
 - Recovery status: **Partial**
 - Verification status: **Pending Metaphysics Verification**
 - Program ledger item: [METH-R10](/program/research-agenda/recovery-requirements/metaphysics/value-normativity-and-ethics/)
+- Verification mode: `metaphysical_recovery_target`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-domain-metaphysics`
+- verify-domain-metaphysics
 
 ## What This Status Does Not Yet Establish
 

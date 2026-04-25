@@ -45,6 +45,13 @@ tags:
   - "recovery-requirements"
   - "mrec-m5"
 url: "/program/research-agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/"
+verification:
+  status: "pending_bridge_verification"
+  mode: "foundational_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-bridge-verification"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

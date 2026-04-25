@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P1"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Dimensional Algebra
@@ -23,6 +29,7 @@ Dimensional Algebra
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P1](/program/research-agenda/recovery-requirements/physics/dimensional-algebra/)
+- Verification mode: `dimensional_consistency`
 
 ## Result Summary
 
@@ -30,15 +37,17 @@ Detailed result summary pending.
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [World Readout: Physics](/results/world-readout/physics/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
+- [Measurement Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Domain Verification: Physics](/verify/domain-verification/physics/)
+- [Predictions And Falsification](/verify/predictions-and-falsification/)
 
 ## What This Status Does Not Yet Establish
 

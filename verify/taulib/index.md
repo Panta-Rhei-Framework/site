@@ -10,15 +10,25 @@ summary_cards:
 - title: "4,332 theorems"
   body: "Machine-checked in Lean 4 with 3,721 computational evaluations."
 - title: "0 sorry"
-  body: "Zero across all 7 books of TauLib Lean source. The three prior Book VII methodological markers were retired in peer-review-fixes-v1 in favor of inspectable `def : Commitment` values. Book VI is registry-planned, not yet Lean-formalized — see [filter rules](/verify/filter-rules/)."
+  body: "Zero across all 7 books of TauLib Lean source. The three prior Book VII methodological markers were retired in peer-review-fixes-v1 in favor of inspectable `def : Commitment` values. Book VI is registry-planned, not yet Lean-formalized — see <a href=\"/verify/filter-rules/\">Filter Rules</a>."
 right_rail:
   related:
   - title: Verify Overview
     url: /verify/
+  - title: Verify the Construction Spine
+    url: /verify/construction-spine-verification/
   - title: Architecture
     url: /verify/taulib/architecture/
   - title: Formalization Status
     url: /verify/taulib/status/
+  - title: Formal Verification Stack
+    url: /verify/formal-verification-stack/
+  - title: Meta-Verification Frontier
+    url: /verify/meta-verification-frontier/
+  - title: Corpus Construction Spine
+    url: /corpus/construction-spine/
+  - title: Corpus Registry
+    url: /corpus/registry/
   artifacts:
   - title: TauLib (contributor)
     url: https://github.com/Panta-Rhei-Research/taulib
@@ -51,6 +61,19 @@ Lean compilation verifies **internal consistency**: every theorem follows from t
 **What Lean checks**: The mathematical derivation chain from K0-K6 through to every claimed theorem.
 
 **What Lean does not check**: Whether the framework's physical predictions match experiment. That requires empirical testing.
+
+## TauLib in the v2.1 Verification Matrix
+
+TauLib verifies formal proof obligations where they have been formalized. It does not by itself verify empirical claims, bridge adequacy, semantic correspondence, life recovery, metaphysical interpretation, or external acceptance.
+
+Use TauLib together with:
+
+- [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }})
+- [Corpus Registry]({{ '/corpus/registry/' | relative_url }})
+- [Formal Verification Stack]({{ '/verify/formal-verification-stack/' | relative_url }})
+- [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }})
+- [Meta-Verification Frontier]({{ '/verify/meta-verification-frontier/' | relative_url }})
+- [Release Manifest]({{ '/verify/release-manifest/' | relative_url }})
 
 ## How TauLib Relates to the Books
 

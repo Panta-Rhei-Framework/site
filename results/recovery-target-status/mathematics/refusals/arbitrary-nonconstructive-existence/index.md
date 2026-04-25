@@ -14,6 +14,12 @@ canonical_recovery_id: "MREF-R4"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Not Applicable**
+- Verification state: **Not Yet Verified**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Arbitrary Nonconstructive Existence
@@ -23,6 +29,7 @@ Arbitrary Nonconstructive Existence
 - Recovery status: **Not Applicable**
 - Verification status: **Not Yet Verified**
 - Program ledger item: [MREF-R4](/program/research-agenda/recovery-requirements/mathematics/refusals/arbitrary-nonconstructive-existence/)
+- Verification mode: `coherence_constraint`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-formal-verification-stack`
+- verify-formal-verification-stack
 
 ## What This Status Does Not Yet Establish
 

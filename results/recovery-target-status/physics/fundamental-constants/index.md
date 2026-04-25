@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P4"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Fundamental Constants
@@ -23,6 +29,7 @@ Fundamental Constants
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P4](/program/research-agenda/recovery-requirements/physics/fundamental-constants/)
+- Verification mode: `constants_and_calibration_review`
 
 ## Result Summary
 
@@ -30,15 +37,17 @@ Detailed result summary pending.
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [Predictions](/results/predictions/browse/)
+- [Numerical Physics Ledger](/publications/numerical-physics-ledger/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Measurement Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Predictions And Falsification](/verify/predictions-and-falsification/)
+- [Predictions](/verify/predictions-and-falsification/predictions/)
 
 ## What This Status Does Not Yet Establish
 

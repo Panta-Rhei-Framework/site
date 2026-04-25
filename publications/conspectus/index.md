@@ -7,8 +7,8 @@ section: "Publications · Synoptic Overview"
 summary_short: "A self-contained, single-sitting reading of the seven-book Panta Rhei series. Walks the full arc — from the 7-axiom kernel and master constant ι<sub>τ</sub>, through the L0→L4 calibration cascade and 67 zero-parameter predictions, to the 30-entry Falsification Pack and the Lean formalization's trust budget. ~30 pages, 35–45 minutes. Free PDF download."
 right_rail:
   related:
-  - title: Physics Ledger (209 pp companion)
-    url: /publications/physics-ledger/
+  - title: Numerical Physics Ledger (209 pp companion)
+    url: /publications/numerical-physics-ledger/
   - title: The Seven Books
     url: /publications/books/
   - title: Results Overview
@@ -39,7 +39,7 @@ The **Panta Rhei Conspectus** is a self-contained, single-sitting reading of the
 
 > **Trust-budget note.** The downloadable v1.1 PDF still contains the pre-refactor TauLib trust-budget disclosure. The current pinned TauLib release state is **3 custom axioms, 0 sorry**, with Book VII methodological commitments represented as inspectable `def : Commitment` values. The [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) is authoritative for current machine-checkable counts.
 
-The name comes from Latin *conspicere*, "to survey with the eyes, to take in at a glance" — a scholarly genre for giving a comprehensive view-of-the-whole of a body of work. The Conspectus is distinct from the brief *Series Prospectus* (23 pp, marketing-facing) and the deep *Physics Ledger* (209 pp, numerical audit trail): it sits between, as the canonical narrative synthesis.
+The name comes from Latin *conspicere*, "to survey with the eyes, to take in at a glance" — a scholarly genre for giving a comprehensive view-of-the-whole of a body of work. The Conspectus is distinct from the brief *Series Prospectus* (23 pp, marketing-facing) and the deep *Numerical Physics Ledger* (209 pp, numerical audit trail): it sits between, as the canonical narrative synthesis.
 
 ## What the Conspectus covers
 
@@ -59,13 +59,13 @@ Five parts, seventeen sections, one integrated argument:
 
 **Part III — What the Programme Commits To.** The three commitment documents together:
 
-- **The Physics Ledger at a glance.** 67 zero-parameter dimensionless predictions; precision tiers (A ~0.025 ppm, B ~3 ppm, C ~0.8%); the Calibration Sufficiency Theorem.
+- **The Numerical Physics Ledger at a glance.** 67 zero-parameter dimensionless predictions; precision tiers (A ~0.025 ppm, B ~3 ppm, C ~0.8%); the Calibration Sufficiency Theorem.
 - **The Falsification Pack N1–N30.** 30 named experiments on a 2025–2035 timeline; 4 confirmed, 26 consistent-and-testable; three framework-terminal scenarios named. Flagship: N9 at CMB-S4 (~14σ on the 2028–2032 window).
 - **TauLib — the formal trust budget.** ~4,332 theorems across 445 modules, 3 conjecture-axioms, **0 sorry**. CI enforces tactics-only Mathlib and the axiom/sorry counts. `native_decide` TCB extensions are disclosed on the [TCB page]({{ '/verify/tcb/' | relative_url }}).
 
 **Part IV — The Programme in a Single Image.** A master-cascade diagram (L0 → L4 horizontal × E₀ → E₃ vertical, with the Omega Point dashed loop) and a single master table comparing τ-predicted vs CODATA 2018 / PDG measured for every major dimensionless constant and every structural binary prediction.
 
-**Part V — How to Verify and How to Engage.** Four verification routes: read the Physics Ledger, clone and build TauLib, browse the registry, work the falsification checklist. Engagement ladder from Series Prospectus through the seven books to the Lean formalization.
+**Part V — How to Verify and How to Engage.** Four verification routes: read the Numerical Physics Ledger, clone and build TauLib, browse the registry, work the falsification checklist. Engagement ladder from Series Prospectus through the seven books to the Lean formalization.
 
 **Closing reflection.** Heraclitus bookend: *structure recognising structure; everything flows*.
 
@@ -84,7 +84,7 @@ The Conspectus is deliberately scholar-first but addresses a **generalist schola
 | *Category τ at a Glance* | ~10 pp | Visual/conceptual summary |
 | *Reviewers Dossier* | ~40 pp | Structured entry for expert review |
 | *Seminar Abstracts* | 56 pp | Structured falsification whitepaper |
-| *Physics Ledger* | 209 pp | Canonical numerical audit trail |
+| *Numerical Physics Ledger* | 209 pp | Canonical numerical audit trail |
 | *Falsification Pack* | ~50 pp | N1–N30 per-entry cards |
 | The seven books | ~3,250 pp | The full monograph series |
 

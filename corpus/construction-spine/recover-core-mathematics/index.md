@@ -67,6 +67,29 @@ related_publications:
   -
     title: "Book I"
     url: "/publications/books/book-i/"
+verification:
+  primary_modes:
+    - "formal proof checking"
+    - "mathematical bridge verification"
+    - "refusal discipline"
+  taulib_modules:
+    - "TauLib.BookI.Arithmetic"
+    - "TauLib.BookI.Geometry"
+  bridge_checks:
+    - "Check that recovered mathematics is explicit about what transfers to standard mathematics and what remains refused or qualified."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Bridge adequacy to unrestricted standard mathematics remains a separate burden from internal formal success."
+  related_verify_pages:
+    -
+      title: "Domain Verification: Mathematics"
+      url: "/verify/domain-verification/mathematics/"
+    -
+      title: "Formal Verification Stack"
+      url: "/verify/formal-verification-stack/"
+    -
+      title: "Verification Framework"
+      url: "/verify/verification-framework/"
 what_not_establish: "This step does not claim that unrestricted classical mathematics is simply recovered as-is. It recovers mathematical capacity under kernel discipline."
 next_step_id: "CS-03"
 tags:
@@ -138,10 +161,25 @@ Physics, life, and metaphysics cannot be responsibly constructed if the mathemat
 - [Mathematics World Readout](/results/world-readout/mathematics/)
 - [Number Tower](/results/problem/number-tower-n-z-q-r-c/)
 
+## Verification Modes
+
+- formal proof checking
+- mathematical bridge verification
+- refusal discipline
+
+## Bridge Checks
+
+- Check that recovered mathematics is explicit about what transfers to standard mathematics and what remains refused or qualified.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Domain Verification: Mathematics](/verify/domain-verification/mathematics/)
-- [Bridge Verification](/verify/verification-framework/)
+- [Formal Verification Stack](/verify/formal-verification-stack/)
+- [Verification Framework](/verify/verification-framework/)
 
 ## Publication projection
 
@@ -154,6 +192,10 @@ Physics, life, and metaphysics cannot be responsibly constructed if the mathemat
 ## What this step does not yet establish
 
 This step does not claim that unrestricted classical mathematics is simply recovered as-is. It recovers mathematical capacity under kernel discipline.
+
+## Unresolved Frontiers
+
+- Bridge adequacy to unrestricted standard mathematics remains a separate burden from internal formal success.
 
 ## Next step in the spine
 

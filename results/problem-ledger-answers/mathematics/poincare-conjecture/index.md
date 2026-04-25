@@ -14,6 +14,12 @@ canonical_problem_id: "math-poincare-conjecture"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal stance: **Partially Addressed**
+- Verification route: **Pending**
+- External status: **Not externally reviewed**
+
 ## Problem
 
 Poincare
@@ -30,6 +36,10 @@ Poincare
 - Tier: `kernel_near`
 - Agenda role: `regrounding_test`
 - Expressibility: `not_yet_expressed`
+
+## Related Construction Steps
+
+- Construction Spine mapping pending.
 
 ## Related Results
 

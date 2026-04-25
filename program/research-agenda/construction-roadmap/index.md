@@ -22,6 +22,8 @@ right_rail:
       url: /program/research-agenda/problem-ledger/
     - title: "Recovery Requirements"
       url: /program/research-agenda/recovery-requirements/
+    - title: "Verify the Construction Spine"
+      url: /verify/construction-spine-verification/
     - title: "Corpus Construction Spine"
       url: /corpus/construction-spine/
     - title: "Progress Against Agenda"
@@ -69,6 +71,10 @@ The other Research Agenda surfaces state what the program must face: open proble
 
 In the Research Agenda, the sequence names obligations: what must be built and why. In the [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}), the same sequence becomes the public construction narrative: what has been built, where it appears in the Registry, how TauLib touches it, and which publications narrate it.
 
+## How this roadmap appears in Verify
+
+In [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}), the same sequence becomes an inspection matrix: what would count as formal checking, bridge review, empirical pressure, or failure for each construction step.
+
 ## How this roadmap appears in Results
 
 In Results, the sequence is not the primary organizing principle. Results is where the built Corpus becomes a world: landmark consequences, world readouts, Problem Ledger answers, Recovery Target status, and the [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) dashboard.
@@ -76,4 +82,3 @@ In Results, the sequence is not the primary organizing principle. Results is whe
 ## Current status and next reading
 
 Each step carries an internal build status. These statuses do not imply external acceptance or final verification. They are reading aids for tracing obligation, construction, result, and verification together.
-

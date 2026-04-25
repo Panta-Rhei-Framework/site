@@ -24,7 +24,7 @@ The **30-Prediction Falsification Pack** identifies the sharpest points where Ca
 
 ## Three falsification tiers
 
-The [Physics Ledger]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp) tier-tags every N-test by the **sharpness of the discriminant** it offers. The three tiers are not categories of *importance* — every N-test is on the critical path — they are categories of *how decisively a measurement settles the question*. Different tiers demand different experimental postures and different loss conditions for the framework.
+The [Numerical Physics Ledger]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp) tier-tags every N-test by the **sharpness of the discriminant** it offers. The three tiers are not categories of *importance* — every N-test is on the critical path — they are categories of *how decisively a measurement settles the question*. Different tiers demand different experimental postures and different loss conditions for the framework.
 
 - **Tier A — calibration-class precision (13 entries).** N9, N10, N13, N15, N16, N17, N18, N24, N25, N26, N28, N29, N30. These predictions carry τ-derived values at approximately **0.025 ppm precision** (closing identity at the calibration cascade L0 → L4 level). A single measurement falling outside the predicted window falsifies the claim at many-σ resolution. N9 (r = ι<sub>τ</sub><sup>4</sup>) is the flagship: CMB-S4's σ(r) ≈ 0.001 makes N9 decisive at roughly 14σ on the 2028–2032 window. Tier A is where τ stakes its sharpest numerical bets.
 - **Tier B — closing-identity precision (7 entries).** N6, N11, N12, N14, N20, N21, N22. These carry τ-derived values at approximately **3 ppm precision**, one rung softer than Tier A because the derivation chains through a closing identity rather than a direct L0 kernel exit. The discriminant is still a number, not a yes/no — but the decisive σ-margin is narrower and the experiment must match systematic control to the stated tolerance.
@@ -58,7 +58,7 @@ The pack is designed so that individual failures are **sector-specific**, not fr
 
 The framework-terminal scenarios are two:
 
-1. **Cascade failure** — three or more independent falsifications across different domains would falsify the **master constant** ι<sub>τ</sub> itself, because the 67 zero-parameter agreements across the Physics Ledger all descend algebraically from the same kernel. A broad cluster of failures cannot be localized to a single sector.
+1. **Cascade failure** — three or more independent falsifications across different domains would falsify the **master constant** ι<sub>τ</sub> itself, because the 67 zero-parameter agreements across the Numerical Physics Ledger all descend algebraically from the same kernel. A broad cluster of failures cannot be localized to a single sector.
 2. **Structural impossibility** — a confirmed detection of proton decay (N8), supersymmetric partners (N2), a magnetic monopole, a fourth-generation fermion (N1), or a dark-matter particle (N3) falsifies the **Sector Exhaustion Theorem** on which the τ ontology closes. Any one of these is sufficient to refute the bridge axiom.
 
 This posture is deliberate. The framework publishes 30 named tests and voluntarily accepts that the cumulative structure is more fragile than any of its individual pieces. For the honest a-priori vs post-diction accounting of how these tests sit against the wider 67-prediction ledger — and for the taxonomy of retro-consistency (~50), tension-resolution (~10), and forward-test (~7) categories — see the [**Prediction Timing Ledger**]({{ '/results/predictions/timing/' | relative_url }}).
@@ -73,4 +73,4 @@ Each card below carries:
 - **Current status** — *confirmed* (already falsified-or-confirmed at ≥3σ), *consistent* (present data matches τ-derived value within uncertainty; decisive test awaits the named experiment), or *testable* (committed but not yet live)
 - **Scope label** — all 30 pack entries are **τ-effective** (quantitative τ-derivation with a measurable discriminant); a small number carry **conjectural** flags where the derivation requires an axiom still in compute-then-axiomatize status (see [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}))
 
-The complete typeset document (209 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Physics Ledger (PDF, 1.11 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
+The complete typeset document (209 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Numerical Physics Ledger (PDF, 1.11 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).

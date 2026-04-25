@@ -14,6 +14,12 @@ canonical_recovery_id: "LREC-L2"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Life Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Metabolism and Energy Throughput
@@ -23,6 +29,7 @@ Metabolism and Energy Throughput
 - Recovery status: **Partial**
 - Verification status: **Pending Life Verification**
 - Program ledger item: [LREC-L2](/program/research-agenda/recovery-requirements/life/metabolism-and-energy-throughput/)
+- Verification mode: `life_structural_recovery_target`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-domain-life`
+- verify-domain-life
 
 ## What This Status Does Not Yet Establish
 

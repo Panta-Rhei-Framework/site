@@ -45,6 +45,13 @@ tags:
   - "recovery-requirements"
   - "lrec-l5"
 url: "/program/research-agenda/recovery-requirements/life/evolution-and-adaptive-search/"
+verification:
+  status: "pending_life_verification"
+  mode: "life_structural_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-domain-life"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

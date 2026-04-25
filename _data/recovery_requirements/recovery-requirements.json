@@ -46,7 +46,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L1",
@@ -95,7 +104,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L2",
@@ -144,7 +162,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L3",
@@ -193,7 +220,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L4",
@@ -242,7 +278,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L5",
@@ -291,7 +336,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L6",
@@ -340,7 +394,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L7",
@@ -389,7 +452,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L8",
@@ -438,7 +510,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "LREC-L9",
@@ -487,7 +568,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_life_verification",
+      "mode": "life_structural_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-life"
+      ]
+    }
   },
   {
     "id": "MREF-R0",
@@ -542,7 +632,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R1",
@@ -597,7 +696,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R2",
@@ -652,7 +760,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R3",
@@ -719,7 +836,16 @@
       "ZFC as object theory rather than primitive substrate.",
       "Bridge adequacy to standard mathematics.",
       "Audit trails for theorem transfer across foundations."
-    ]
+    ],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R4",
@@ -775,7 +901,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R5",
@@ -830,7 +965,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R6",
@@ -885,7 +1029,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R7",
@@ -940,7 +1093,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREF-R8",
@@ -994,7 +1156,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "not_yet_verified",
+      "mode": "coherence_constraint",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREC-M0",
@@ -1045,7 +1216,18 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_formal_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack",
+        "verify-taulib",
+        "verify-meta-verification-frontier"
+      ]
+    }
   },
   {
     "id": "MREC-M1",
@@ -1094,7 +1276,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_formal_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "MREC-M2",
@@ -1143,7 +1334,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_bridge_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-bridge-verification"
+      ]
+    }
   },
   {
     "id": "MREC-M3",
@@ -1192,7 +1392,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_bridge_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-bridge-verification"
+      ]
+    }
   },
   {
     "id": "MREC-M4",
@@ -1242,7 +1451,17 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_bridge_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-bridge-verification",
+        "verify-meta-verification-frontier"
+      ]
+    }
   },
   {
     "id": "MREC-M5",
@@ -1291,7 +1510,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_bridge_verification",
+      "mode": "foundational_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-bridge-verification"
+      ]
+    }
   },
   {
     "id": "METH-R0",
@@ -1340,7 +1568,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R1",
@@ -1389,7 +1626,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R10",
@@ -1438,7 +1684,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R11",
@@ -1487,7 +1742,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R2",
@@ -1536,7 +1800,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R3",
@@ -1585,7 +1858,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R4",
@@ -1634,7 +1916,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R5",
@@ -1683,7 +1974,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R6",
@@ -1732,7 +2032,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R7",
@@ -1782,7 +2091,17 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-verification-framework",
+        "verify-formal-verification-stack"
+      ]
+    }
   },
   {
     "id": "METH-R8",
@@ -1831,7 +2150,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "METH-R9",
@@ -1880,7 +2208,16 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_metaphysics_verification",
+      "mode": "metaphysical_recovery_target",
+      "related_results": [],
+      "related_corpus_steps": [],
+      "related_verify_pages": [
+        "verify-domain-metaphysics"
+      ]
+    }
   },
   {
     "id": "PREC-P0",
@@ -1941,7 +2278,22 @@
       "Time, length, and mass/energy roles in physics recovery.",
       "SI calibration as a bridge rather than a primitive substrate.",
       "Dimension and quantity checks for later Results claims."
-    ]
+    ],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "quantity_type_recovery",
+      "related_results": [
+        "/results/world-readout/physics/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/identify-physical-carrier/",
+        "/corpus/construction-spine/recover-internal-physical-grammar/"
+      ],
+      "related_verify_pages": [
+        "/verify/domain-verification/physics/",
+        "/verify/construction-spine-verification/"
+      ]
+    }
   },
   {
     "id": "PREC-P1",
@@ -1990,7 +2342,22 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "dimensional_consistency",
+      "related_results": [
+        "/results/world-readout/physics/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/recover-internal-physical-grammar/",
+        "/corpus/construction-spine/measurement-empirical-bridges/"
+      ],
+      "related_verify_pages": [
+        "/verify/domain-verification/physics/",
+        "/verify/predictions-and-falsification/"
+      ]
+    }
   },
   {
     "id": "PREC-P2",
@@ -2039,7 +2406,22 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "internal_unit_architecture",
+      "related_results": [
+        "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/identify-physical-carrier/",
+        "/corpus/construction-spine/recover-internal-physical-grammar/"
+      ],
+      "related_verify_pages": [
+        "/verify/domain-verification/physics/",
+        "/verify/construction-spine-verification/"
+      ]
+    }
   },
   {
     "id": "PREC-P3",
@@ -2088,7 +2470,22 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "si_bridge_and_calibration",
+      "related_results": [
+        "/results/predictions/browse/",
+        "/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/measurement-empirical-bridges/"
+      ],
+      "related_verify_pages": [
+        "/verify/predictions-and-falsification/",
+        "/verify/construction-spine-verification/"
+      ]
+    }
   },
   {
     "id": "PREC-P4",
@@ -2137,7 +2534,22 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "constants_and_calibration_review",
+      "related_results": [
+        "/results/predictions/browse/",
+        "/publications/numerical-physics-ledger/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/measurement-empirical-bridges/"
+      ],
+      "related_verify_pages": [
+        "/verify/predictions-and-falsification/",
+        "/verify/predictions-and-falsification/predictions/"
+      ]
+    }
   },
   {
     "id": "PREC-P5",
@@ -2186,7 +2598,23 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "law_family_recovery",
+      "related_results": [
+        "/results/world-readout/physics/",
+        "/publications/numerical-physics-ledger/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/recover-internal-physical-grammar/",
+        "/corpus/construction-spine/measurement-empirical-bridges/"
+      ],
+      "related_verify_pages": [
+        "/verify/domain-verification/physics/",
+        "/verify/predictions-and-falsification/"
+      ]
+    }
   },
   {
     "id": "PREC-P6",
@@ -2235,7 +2663,23 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "regime_bridge_review",
+      "related_results": [
+        "/results/world-readout/physics/",
+        "/results/progress-against-agenda/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/identify-physical-carrier/",
+        "/corpus/construction-spine/recover-internal-physical-grammar/"
+      ],
+      "related_verify_pages": [
+        "/verify/domain-verification/physics/",
+        "/verify/construction-spine-verification/"
+      ]
+    }
   },
   {
     "id": "PREC-P7",
@@ -2284,6 +2728,23 @@
     "public_summary": "",
     "what_this_requires": [],
     "what_this_does_not_claim": [],
-    "related_examples": []
+    "related_examples": [],
+    "verification": {
+      "status": "pending_physics_verification",
+      "mode": "observability_and_measurement_review",
+      "related_results": [
+        "/results/predictions/browse/",
+        "/results/falsifications/browse/",
+        "/publications/numerical-physics-ledger/"
+      ],
+      "related_corpus_steps": [
+        "/corpus/construction-spine/measurement-empirical-bridges/"
+      ],
+      "related_verify_pages": [
+        "/verify/predictions-and-falsification/",
+        "/verify/predictions-and-falsification/falsification-paths/",
+        "/verify/predictions-and-falsification/falsification-packs/"
+      ]
+    }
   }
 ]

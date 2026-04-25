@@ -55,6 +55,28 @@ related_publications:
   -
     title: "Physics-facing publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "internal law-structure checks"
+    - "dimensional consistency"
+    - "physics bridge preparation"
+  taulib_modules:
+    - "TauLib.BookI.Measure"
+  bridge_checks:
+    - "Check that internal physical grammar exposes unit structure, lawfulness, and sector closure before empirical calibration begins."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Internal tau-physics remains distinct from observation-facing accountability until measurement bridges are explicit."
+  related_verify_pages:
+    -
+      title: "Domain Verification: Physics"
+      url: "/verify/domain-verification/physics/"
+    -
+      title: "Predictions and Falsification"
+      url: "/verify/predictions-and-falsification/"
+    -
+      title: "Verification Framework"
+      url: "/verify/verification-framework/"
 what_not_establish: "Internal tau-physics is not yet empirical adequacy. Measurement, calibration, and falsification belong to Step 6."
 next_step_id: "CS-06"
 tags:
@@ -119,10 +141,25 @@ After the physical carrier is identified, the Corpus must show that the carrier 
 - [Physics World Readout](/results/world-readout/physics/)
 - [The Fabric of Physical Reality in Tau](/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/)
 
+## Verification Modes
+
+- internal law-structure checks
+- dimensional consistency
+- physics bridge preparation
+
+## Bridge Checks
+
+- Check that internal physical grammar exposes unit structure, lawfulness, and sector closure before empirical calibration begins.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
-- [Predictions and Falsification](/verify/predictions-and-falsification/)
 - [Domain Verification: Physics](/verify/domain-verification/physics/)
+- [Predictions and Falsification](/verify/predictions-and-falsification/)
+- [Verification Framework](/verify/verification-framework/)
 
 ## Publication projection
 
@@ -135,6 +172,10 @@ After the physical carrier is identified, the Corpus must show that the carrier 
 ## What this step does not yet establish
 
 Internal tau-physics is not yet empirical adequacy. Measurement, calibration, and falsification belong to Step 6.
+
+## Unresolved Frontiers
+
+- Internal tau-physics remains distinct from observation-facing accountability until measurement bridges are explicit.
 
 ## Next step in the spine
 

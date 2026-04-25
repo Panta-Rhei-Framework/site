@@ -53,6 +53,28 @@ related_publications:
   -
     title: "Publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "no-externalities audit"
+    - "substrate non-deferral"
+    - "residual-boundary disclosure"
+    - "ontic-status burden"
+  taulib_modules: []
+  bridge_checks:
+    - "Check whether every remaining externality, substrate deferral, or unexplained boundary is explicitly named."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Ontic closure remains the strongest evaluative burden, not a theorem the site should present as already settled."
+  related_verify_pages:
+    -
+      title: "Meta-Verification Frontier"
+      url: "/verify/meta-verification-frontier/"
+    -
+      title: "Kernel, Model & Reality"
+      url: "/program/research-agenda/kernel-model-reality/"
+    -
+      title: "How to Verify"
+      url: "/verify/how-to-verify/"
 what_not_establish: "This step does not say the kernel has proven final ontic status. It is where the strongest ontic-status claim can be evaluated."
 next_step_id: ""
 tags:
@@ -117,10 +139,26 @@ _Mapping pending._
 - [Logos and the Final Boundary](/results/world-readout/metaphysics/logos-and-the-final-boundary/)
 - [The Final Self-Enrichment](/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/)
 
+## Verification Modes
+
+- no-externalities audit
+- substrate non-deferral
+- residual-boundary disclosure
+- ontic-status burden
+
+## Bridge Checks
+
+- Check whether every remaining externality, substrate deferral, or unexplained boundary is explicitly named.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Meta-Verification Frontier](/verify/meta-verification-frontier/)
 - [Kernel, Model & Reality](/program/research-agenda/kernel-model-reality/)
+- [How to Verify](/verify/how-to-verify/)
 
 ## Publication projection
 
@@ -133,6 +171,10 @@ _Mapping pending._
 ## What this step does not yet establish
 
 This step does not say the kernel has proven final ontic status. It is where the strongest ontic-status claim can be evaluated.
+
+## Unresolved Frontiers
+
+- Ontic closure remains the strongest evaluative burden, not a theorem the site should present as already settled.
 
 ## Next step in the spine
 

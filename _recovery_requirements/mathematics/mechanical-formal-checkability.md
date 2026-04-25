@@ -47,6 +47,15 @@ tags:
   - "recovery-requirements"
   - "mrec-m0"
 url: "/program/research-agenda/recovery-requirements/mathematics/mechanical-formal-checkability/"
+verification:
+  status: "pending_formal_verification"
+  mode: "foundational_recovery_target"
+  related_results: []
+  related_corpus_steps: []
+  related_verify_pages:
+    - "verify-formal-verification-stack"
+    - "verify-taulib"
+    - "verify-meta-verification-frontier"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

@@ -14,6 +14,12 @@ canonical_problem_id: "meta-why-something-rather-than-nothing"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal stance: **Partially Addressed**
+- Verification route: **Pending**
+- External status: **Not externally reviewed**
+
 ## Problem
 
 Something Rather Than Nothing
@@ -30,6 +36,10 @@ Something Rather Than Nothing
 - Tier: `kernel_critical`
 - Agenda role: `expressibility_test`
 - Expressibility: `requires_translation`
+
+## Related Construction Steps
+
+- Construction Spine mapping pending.
 
 ## Related Results
 

@@ -7,6 +7,12 @@ permalink: /discover/guided-tours/
 type: "Onboarding"
 status: "Canonical"
 summary_short: "Curated pathways through the research system."
+tags:
+  - discover
+  - research-agenda
+  - construction-spine
+  - landmark-results
+  - verify
 right_rail:
   related:
     - title: "Publications Guided Tours"
@@ -32,19 +38,19 @@ Guided Tours are structured reading and inspection routes for different levels o
   </a>
   <a class="v2-tile" href="{{ '/program/' | relative_url }}">
     <h3>Program Tour</h3>
-    <p>Identity, burden of proof, scope, and design discipline.</p>
+    <p>Research contract, Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.</p>
   </a>
   <a class="v2-tile" href="{{ '/corpus/how-to-read/' | relative_url }}">
     <h3>Corpus Tour</h3>
-    <p>How the system is built from registry objects and dependencies.</p>
+    <p>Follow the Construction Spine, then inspect Registry, TauLib, books, and the Corpus Graph.</p>
   </a>
   <a class="v2-tile" href="{{ '/results/' | relative_url }}">
     <h3>Results Tour</h3>
-    <p>Flagship claims, result status, problem mappings, and world readout.</p>
+    <p>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.</p>
   </a>
   <a class="v2-tile" href="{{ '/verify/how-to-audit/' | relative_url }}">
     <h3>Verify Tour</h3>
-    <p>How to inspect, challenge, audit, and reproduce what can be checked.</p>
+    <p>How to inspect formalization, bridges, predictions, falsification paths, assessment protocols, and open frontiers.</p>
   </a>
   <a class="v2-tile" href="{{ '/publications/' | relative_url }}">
     <h3>Publications Tour</h3>

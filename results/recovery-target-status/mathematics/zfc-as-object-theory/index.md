@@ -14,6 +14,12 @@ canonical_recovery_id: "MREC-M4"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Bridge Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 ZFC as Object Theory
@@ -23,6 +29,7 @@ ZFC as Object Theory
 - Recovery status: **Partial**
 - Verification status: **Pending Bridge Verification**
 - Program ledger item: [MREC-M4](/program/research-agenda/recovery-requirements/mathematics/zfc-as-object-theory/)
+- Verification mode: `foundational_recovery_target`
 
 ## Result Summary
 
@@ -38,8 +45,8 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-bridge-verification`
-- `verify-meta-verification-frontier`
+- verify-bridge-verification
+- verify-meta-verification-frontier
 
 ## What This Status Does Not Yet Establish
 

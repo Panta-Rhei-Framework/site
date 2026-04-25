@@ -45,6 +45,19 @@ tags:
   - "recovery-requirements"
   - "prec-p7"
 url: "/program/research-agenda/recovery-requirements/physics/empirical-observability-and-measurement/"
+verification:
+  status: "pending_physics_verification"
+  mode: "observability_and_measurement_review"
+  related_results:
+    - "/results/predictions/browse/"
+    - "/results/falsifications/browse/"
+    - "/publications/numerical-physics-ledger/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/measurement-empirical-bridges/"
+  related_verify_pages:
+    - "/verify/predictions-and-falsification/"
+    - "/verify/predictions-and-falsification/falsification-paths/"
+    - "/verify/predictions-and-falsification/falsification-packs/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

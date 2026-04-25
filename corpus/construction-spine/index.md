@@ -18,6 +18,8 @@ hero_ctas:
     url: /results/progress-against-agenda/
 right_rail:
   related:
+    - title: "Verify the Construction Spine"
+      url: /verify/construction-spine-verification/
     - title: "Registry"
       url: /corpus/registry/
     - title: "TauLib"
@@ -62,5 +64,6 @@ The Construction Spine is the Corpus-side realization of the Research Agenda's C
 
 Each step page explains what the step builds, why it is required, the key constructions, related Registry items, TauLib modules, book locations, related Results, Verify surfaces, and what the step does not yet establish.
 
-<div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
+Use [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) when you want the inspection matrix rather than the build narrative.
 
+<div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>

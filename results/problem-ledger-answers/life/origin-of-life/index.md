@@ -14,6 +14,12 @@ canonical_problem_id: "life-origin-of-life"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal stance: **Partially Addressed**
+- Verification route: **Pending**
+- External status: **Not externally reviewed**
+
 ## Problem
 
 Origin of Life
@@ -30,6 +36,10 @@ Origin of Life
 - Tier: `kernel_critical`
 - Agenda role: `bridge_problem`
 - Expressibility: `expressible`
+
+## Related Construction Steps
+
+- Construction Spine mapping pending.
 
 ## Related Results
 

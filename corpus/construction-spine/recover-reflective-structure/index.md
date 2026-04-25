@@ -52,6 +52,27 @@ related_publications:
   -
     title: "Publications"
     url: "/publications/"
+verification:
+  primary_modes:
+    - "answer-shape checks"
+    - "conceptual consistency"
+    - "life-metaphysics bridge verification"
+  taulib_modules: []
+  bridge_checks:
+    - "Check that reflective-structure claims expose their dependence on earlier life and logic construction rather than bypassing them."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Reflective structure does not by itself settle external acceptance, phenomenological adequacy, or ontic closure."
+  related_verify_pages:
+    -
+      title: "Domain Verification: Metaphysics"
+      url: "/verify/domain-verification/metaphysics/"
+    -
+      title: "Meta-Verification Frontier"
+      url: "/verify/meta-verification-frontier/"
+    -
+      title: "Answer-Shape Requirements"
+      url: "/program/research-agenda/kernel-model-reality/answer-shape-requirements/"
 what_not_establish: "This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable."
 next_step_id: "CS-09"
 tags:
@@ -114,10 +135,25 @@ _Mapping pending._
 - [Metaphysics World Readout](/results/world-readout/metaphysics/)
 - [Mind, Consciousness, and the Self-Model](/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/)
 
+## Verification Modes
+
+- answer-shape checks
+- conceptual consistency
+- `life-metaphysics bridge verification`
+
+## Bridge Checks
+
+- Check that reflective-structure claims expose their dependence on earlier life and logic construction rather than bypassing them.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Domain Verification: Metaphysics](/verify/domain-verification/metaphysics/)
 - [Meta-Verification Frontier](/verify/meta-verification-frontier/)
+- [Answer-Shape Requirements](/program/research-agenda/kernel-model-reality/answer-shape-requirements/)
 
 ## Publication projection
 
@@ -130,6 +166,10 @@ _Mapping pending._
 ## What this step does not yet establish
 
 This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable.
+
+## Unresolved Frontiers
+
+- Reflective structure does not by itself settle external acceptance, phenomenological adequacy, or ontic closure.
 
 ## Next step in the spine
 

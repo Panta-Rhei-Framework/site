@@ -64,6 +64,29 @@ related_publications:
   -
     title: "Book I"
     url: "/publications/books/book-i/"
+verification:
+  primary_modes:
+    - "internal-logic checks"
+    - "categorical consistency"
+    - "semantic correspondence"
+  taulib_modules:
+    - "TauLib.BookI.Category"
+    - "TauLib.BookI.Topos"
+  bridge_checks:
+    - "Check that internal logical operations remain faithful to the kernel discipline and do not silently import external proof power."
+  empirical_checks: []
+  unresolved_frontiers:
+    - "Internalization of logic does not yet self-host object theories or settle semantic bridge adequacy."
+  related_verify_pages:
+    -
+      title: "Meta-Verification Frontier"
+      url: "/verify/meta-verification-frontier/"
+    -
+      title: "Formal Verification Stack"
+      url: "/verify/formal-verification-stack/"
+    -
+      title: "Verification Framework"
+      url: "/verify/verification-framework/"
 what_not_establish: "This step begins self-containment. It does not yet self-host formal systems or test final ontic closure."
 next_step_id: "CS-04"
 tags:
@@ -137,10 +160,25 @@ A kernel that remains only externally described cannot satisfy the no-externalit
 - [Self-Enrichment, Self-Containment, and Internal Logic](/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/)
 - [Earned Topos](/results/problem/earned-topos/)
 
+## Verification Modes
+
+- internal-logic checks
+- categorical consistency
+- semantic correspondence
+
+## Bridge Checks
+
+- Check that internal logical operations remain faithful to the kernel discipline and do not silently import external proof power.
+
+## Empirical Checks
+
+_Mapping pending._
+
 ## Related Verify surfaces
 
 - [Meta-Verification Frontier](/verify/meta-verification-frontier/)
 - [Formal Verification Stack](/verify/formal-verification-stack/)
+- [Verification Framework](/verify/verification-framework/)
 
 ## Publication projection
 
@@ -153,6 +191,10 @@ A kernel that remains only externally described cannot satisfy the no-externalit
 ## What this step does not yet establish
 
 This step begins self-containment. It does not yet self-host formal systems or test final ontic closure.
+
+## Unresolved Frontiers
+
+- Internalization of logic does not yet self-host object theories or settle semantic bridge adequacy.
 
 ## Next step in the spine
 

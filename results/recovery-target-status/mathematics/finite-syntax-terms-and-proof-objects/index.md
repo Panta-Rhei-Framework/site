@@ -14,6 +14,12 @@ canonical_recovery_id: "MREC-M1"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Formal Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Finite Syntax, Terms, and Proof Objects
@@ -23,6 +29,7 @@ Finite Syntax, Terms, and Proof Objects
 - Recovery status: **Partial**
 - Verification status: **Pending Formal Verification**
 - Program ledger item: [MREC-M1](/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/)
+- Verification mode: `foundational_recovery_target`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-formal-verification-stack`
+- verify-formal-verification-stack
 
 ## What This Status Does Not Yet Establish
 

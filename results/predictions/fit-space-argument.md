@@ -3,7 +3,7 @@ layout: program-doc
 title: "Fit-Space Analysis — Are the 67 Predictions Numerological Coincidences?"
 permalink: /results/predictions/fit-space-argument/
 lane: results
-section: "Physics Ledger · Fit-Space Analysis"
+section: "Numerical Physics Ledger · Fit-Space Analysis"
 summary_short: "A quantitative response to the strongest red-team question about the 67 zero-parameter predictions: if someone enumerated simple closed-form expressions in ι_τ = 2/(π+e) and tested them against known constants, how many coincidences at sub-10 ppm precision would be expected by chance — and how does that compare to the 15 observed?"
 right_rail:
   related:
@@ -14,7 +14,7 @@ right_rail:
   - title: Red-team FAQ
     url: /program/about/red-team-faq/
   meta:
-    type: "Physics Ledger Appendix"
+    type: "Numerical Physics Ledger Appendix"
     status: "Canonical"
     updated: "April 2026"
 ---
@@ -27,7 +27,7 @@ This page answers the question as quantitatively as we can at first-pass level. 
 
 ## The structural answer: two inputs, zero additional free parameters
 
-The calibration cascade (Physics Ledger Ch 58a, "The Calibration Cascade") makes the fit-space question concrete at the architectural level before any enumeration argument runs. The entire 67-prediction Ledger takes **exactly two inputs**:
+The calibration cascade (Numerical Physics Ledger Ch 58a, "The Calibration Cascade") makes the fit-space question concrete at the architectural level before any enumeration argument runs. The entire 67-prediction Ledger takes **exactly two inputs**:
 
 1. **ι<sub>τ</sub> = 2/(π+e)** — an algebraic posit fixed by the kernel's compactness-and-consistency theorem (Book I), not a fitted constant.
 2. **m<sub>n</sub>** — a single SI anchor measurement (the neutron mass), used once to set the SI scale for every L3 (SI-derived) observable.
@@ -106,7 +106,7 @@ The null hypothesis assumes the researcher had free choice of **constant** and *
 - The constant is fixed as **ι_τ = 2/(π+e)** by the kernel's compactness-and-consistency theorem (Book I), **before** any prediction is attempted.
 - The form of expressions available is also constrained by the derivation chain, not free enumeration — one cannot arbitrarily write "ι_τ^5 · 17/3" unless the derivation chain produces it.
 
-Both constraints are visible in the Lean formalization: expressions entering the Physics Ledger are outputs of formal derivations, not post-hoc searches.
+Both constraints are visible in the Lean formalization: expressions entering the Numerical Physics Ledger are outputs of formal derivations, not post-hoc searches.
 
 **Empirical test a specialist can run:** attempt to replace ι_τ with a close-but-different constant (e.g., 2/(π+e+ε) for small ε) throughout the derivation chain. How many predictions still agree at sub-10 ppm? Under numerology, swapping ι_τ for any nearby constant should yield comparable hit rates (the form was chosen, the constant was free). Under structural derivation, only ι_τ itself yields the observed hit distribution.
 
@@ -150,6 +150,6 @@ This is a statistics PhD thesis worth of work, not a first-pass dossier item. Th
 - [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}) — the three-category breakdown (Category C is the decisive test)
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue, including the Tier A / B / C taxonomy
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 named-experiment tests
-- [Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — see Ch 58a "The Calibration Cascade" for the two-input + four-layer architectural proof
+- [Numerical Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — see Ch 58a "The Calibration Cascade" for the two-input + four-layer architectural proof
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — the 10 hardest first-contact questions
 - [How to Audit — Physicist Route]({{ '/verify/how-to-audit/physicist/' | relative_url }}) — concrete inspection path for a physics reviewer

@@ -3,7 +3,7 @@ layout: program-doc
 title: "How to Audit — Physicist Route"
 permalink: /verify/how-to-audit/physicist/
 lane: verify
-summary_short: "For specialists in particle physics, cosmology, quantum foundations, or general relativity. The 67-prediction Physics Ledger and the 30-item Falsification Pack are the empirical track; the load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the derivation chains survive independent checking."
+summary_short: "For specialists in particle physics, cosmology, quantum foundations, or general relativity. The 67-prediction Numerical Physics Ledger and the 30-item Falsification Pack are the empirical track; the load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the derivation chains survive independent checking."
 right_rail:
   related:
     - title: "How to Audit (Hub)"
@@ -25,7 +25,7 @@ This route is for physicists evaluating the framework's empirical content. Books
 
 ## The three artifacts to inspect first
 
-### 1. The [Physics Ledger PDF]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp, 1.11 MB, free download)
+### 1. The [Numerical Physics Ledger PDF]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp, 1.11 MB, free download)
 
 Contains the full derivation chains for all 67 zero-parameter numerical predictions from ι<sub>τ</sub> = 2/(π+e). Every prediction compares a τ-derived value directly to experimental measurement, typically to Planck/PDG/CODATA central values, with ppm-scale deviations reported.
 
@@ -62,7 +62,7 @@ Other decisive tests: 0νββ **detected at τ-predicted half-life** (non-detect
 
 If you have 30 minutes to form an initial opinion:
 
-1. **Open the Physics Ledger PDF and read the derivation chain for the electron mass** (claimed to 0.025 ppm precision). This is the most-precise sub-10-ppm prediction and the most-scrutinizable single derivation. Check: does the derivation use a pre-existing parameter that was not fixed by the kernel structure?
+1. **Open the Numerical Physics Ledger PDF and read the derivation chain for the electron mass** (claimed to 0.025 ppm precision). This is the most-precise sub-10-ppm prediction and the most-scrutinizable single derivation. Check: does the derivation use a pre-existing parameter that was not fixed by the kernel structure?
 
 2. **Open the Prediction Timing Ledger's Category-C section** and confirm you agree with the claim that 7 predictions are genuinely forward-test predictions (CMB-S4 r, 0νββ at τ-predicted half-life, Σm<sub>ν</sub>, proton stability, no monopoles, no sparticles, r-process-related). If you disagree with any, that is useful feedback.
 
@@ -84,7 +84,7 @@ For a physicist willing to invest two hours:
 
 Your audit is **negative** if:
 
-- A single derivation in the Physics Ledger uses a free parameter you can spot. "Zero free parameters" is a hard claim that breaks on any single counterexample.
+- A single derivation in the Numerical Physics Ledger uses a free parameter you can spot. "Zero free parameters" is a hard claim that breaks on any single counterexample.
 - Category-B tension resolutions are all straddle-values within both sides' error bars. The "forward commitment" framing would be dishonest.
 - CMB-S4 prediction is not a closed-form expression in ι<sub>τ</sub> (it is claimed to be r = ι<sub>τ</sub><sup>4</sup> — verify this is what the derivation yields, not a number matched after the fact).
 - The no-dark-sectors account cannot address the Bullet Cluster or similar cluster-scale observations in concrete terms.

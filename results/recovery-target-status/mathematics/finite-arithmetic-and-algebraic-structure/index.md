@@ -14,6 +14,12 @@ canonical_recovery_id: "MREC-M2"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Bridge Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Finite Arithmetic and Algebraic Structure
@@ -23,6 +29,7 @@ Finite Arithmetic and Algebraic Structure
 - Recovery status: **Partial**
 - Verification status: **Pending Bridge Verification**
 - Program ledger item: [MREC-M2](/program/research-agenda/recovery-requirements/mathematics/finite-arithmetic-and-algebraic-structure/)
+- Verification mode: `foundational_recovery_target`
 
 ## Result Summary
 
@@ -38,7 +45,7 @@ Detailed result summary pending.
 
 ## Related Verify Surfaces
 
-- `verify-bridge-verification`
+- verify-bridge-verification
 
 ## What This Status Does Not Yet Establish
 

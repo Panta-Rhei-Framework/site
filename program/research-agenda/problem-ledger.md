@@ -18,10 +18,10 @@ hero_ctas:
   - label: "Source Policy"
     url: /program/research-agenda/problem-ledger-source-policy/
     primary: true
-  - label: "Physics Ledger"
+  - label: "Physics Problem Ledger"
     url: /program/research-agenda/problem-ledger/physics/
   - label: "Results Mirror"
-    url: /results/problem-ledger/
+    url: /results/problem-ledger-answers/
 right_rail:
   related:
     - title: "Problem Ledger Source Policy"
@@ -35,7 +35,7 @@ right_rail:
     - title: "Metaphysics / Philosophy Problem Ledger"
       url: /program/research-agenda/problem-ledger/metaphysics-philosophy/
     - title: "Results Mirror"
-      url: /results/problem-ledger/
+      url: /results/problem-ledger-answers/
   meta:
     type: "Agenda Ledger"
     scope: "Program-wide"
@@ -83,7 +83,7 @@ The current public projection shows seed items while the wholesale import waves 
     <strong>Metaphysics / Philosophy Problem Ledger</strong>
     <span>The philosophical problems ledger for ontology, knowledge, mind, meaning, science, religion, and ethics.</span>
   </a>
-  <a class="v2-tile" href="{{ '/results/problem-ledger/' | relative_url }}">
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
     <strong>Results Mirror</strong>
     <span>Where current program answers and partial answers are mirrored against the public problem burden.</span>
   </a>
@@ -141,4 +141,4 @@ These are not the full final ledgers. They are the current public v0.1 seed proj
 
 ## Related Results Mirror
 
-The [Results mirror]({{ '/results/problem-ledger/' | relative_url }}) records current answers, partial answers, and open statuses. If no dedicated Result page exists yet, a Problem Ledger item remains visible as open or not yet classified rather than disappearing from the research agenda.
+The [Results mirror]({{ '/results/problem-ledger-answers/' | relative_url }}) records current answers, partial answers, and open statuses. If no dedicated Result page exists yet, a Problem Ledger item remains visible as open or not yet classified rather than disappearing from the research agenda.

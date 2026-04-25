@@ -34,6 +34,7 @@ right_rail:
 {% assign recovery_records = progress | where_exp: "item", "item.item_kind != 'problem'" %}
 {% assign domain_groups = progress | group_by: "domain" | sort: "name" %}
 {% assign status_groups = progress | group_by: "display_status" | sort: "name" %}
+{% assign verification_groups = progress | group_by: "verification_status" | sort: "name" %}
 
 ## Status disclaimer
 
@@ -78,6 +79,17 @@ Status indicates the current internal state of the research program. Proposed an
 {% endfor %}
 </div>
 
+## Verification state
+
+<div class="v2-grid">
+{% for group in verification_groups %}
+  <div class="v2-tile">
+    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
+    <span>{{ group.items | size }} record(s).</span>
+  </div>
+{% endfor %}
+</div>
+
 ## Public records
 
 <div class="v2-grid">
@@ -85,6 +97,7 @@ Status indicates the current internal state of the research program. Proposed an
   <a class="v2-tile" href="{{ item.canonical_program_url | relative_url }}">
     <strong>{{ item.title }}</strong>
     <span>{{ item.item_kind | replace: "_", " " | capitalize }} · {{ item.display_domain }} · {{ item.display_status | replace: "_", " " }}</span>
+    <span>Verification: {{ item.verification_status | replace: "_", " " }} · External: {{ item.external_status | replace: "_", " " }}</span>
   </a>
 {% endfor %}
 </div>

@@ -89,6 +89,50 @@ def result_status_label(value: str) -> str:
     return value.replace("_", " ").replace("-", " ").title() if value else "Pending"
 
 
+def title_from_url(url: str) -> str:
+    stripped = url.strip("/")
+    if not stripped:
+        return "Linked page"
+    if stripped.startswith("verify/domain-verification/"):
+        return f"Domain Verification: {domain_label(stripped.split('/')[-1])}"
+    if stripped == "verify/construction-spine-verification":
+        return "Construction Spine Verification"
+    if stripped.startswith("results/world-readout/") and stripped.count("/") == 2:
+        return f"World Readout: {domain_label(stripped.split('/')[-1])}"
+    parts = stripped.split("/")
+    last = parts[-1]
+    if last in {"index", "browse"} and len(parts) > 1:
+        last = parts[-2]
+    return last.replace("-", " ").replace("_", " ").title()
+
+
+def looks_like_identifier(text: str) -> bool:
+    return (
+        text.startswith(("CS-", "PREC-", "MREC-", "MREF-", "LREC-", "METH-", "phys-", "math-", "life-", "meta-"))
+        or (" " not in text and "." in text)
+        or text.isupper()
+    )
+
+
+def bullet_lines(items: list[Any], empty_message: str) -> str:
+    if not items:
+        return f"- {empty_message}"
+    lines: list[str] = []
+    for item in items:
+        if isinstance(item, dict):
+            title = item.get("title") or item.get("url") or item.get("id") or "Linked item"
+            url = item.get("url", "")
+            if url:
+                lines.append(f"- [{title}]({url})")
+            else:
+                lines.append(f"- {title}")
+        elif isinstance(item, str) and item.startswith("/"):
+            lines.append(f"- [{title_from_url(item)}]({item})")
+        else:
+            lines.append(f"- `{item}`" if isinstance(item, str) and looks_like_identifier(item) else f"- {item}")
+    return "\n".join(lines)
+
+
 def generate_problem_answer_pages() -> None:
     problems = read_json(CORPUS_EXPORTS / "problem-ledger.json")
     results = {item.get("id"): item for item in read_json(SITE_ROOT / "_data" / "results" / "results.json") if item.get("id")}
@@ -165,6 +209,7 @@ Problem source policy remains owned by the Research Agenda: [Problem Ledger Sour
     for item in problems:
         domain = item["domain_slug"]
         related_results = item.get("related", {}).get("results", [])
+        related_corpus_steps = item.get("related", {}).get("construction_steps", [])
         result_lines: list[str] = []
         for result_id in related_results:
             result = results.get(result_id)
@@ -180,6 +225,12 @@ Problem source policy remains owned by the Research Agenda: [Problem Ledger Sour
         body = f"""# {item['title']}
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
+
+## Status Separation
+
+- Internal stance: **{result_status_label(program.get('result_status', 'not_yet_classified'))}**
+- Verification route: **{"Available" if verify.get('exists') else "Pending"}**
+- External status: **Not externally reviewed**
 
 ## Problem
 
@@ -197,6 +248,10 @@ Problem source policy remains owned by the Research Agenda: [Problem Ledger Sour
 - Tier: `{program.get('tier', 'unclassified')}`
 - Agenda role: `{program.get('agenda_role', 'stress_test')}`
 - Expressibility: `{program.get('expressibility_status', 'unknown')}`
+
+## Related Construction Steps
+
+{bullet_lines(related_corpus_steps, "Construction Spine mapping pending.")}
 
 ## Related Results
 
@@ -300,15 +355,24 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
 
     for item in items:
         related = item.get("related", {})
+        verification = item.get("verification", {})
         result_lines = related.get("results") or []
         if result_lines:
             results_body = "\n".join(f"- `{result}`" for result in result_lines)
         else:
             results_body = "- Granular Result mapping pending."
-        verify_body = "\n".join(f"- `{entry}`" for entry in related.get("verify", [])) or "- Dedicated Verify surface pending."
+        verify_body = bullet_lines(verification.get("related_verify_pages", related.get("verify", [])), "Dedicated Verify surface pending.")
+        corpus_steps_body = bullet_lines(verification.get("related_corpus_steps", related.get("construction_steps", [])), "Construction Spine mapping pending.")
+        verification_results_body = bullet_lines(verification.get("related_results", result_lines), "Granular Result mapping pending.")
         body = f"""# {item['title']}
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+
+## Status Separation
+
+- Internal status: **{result_status_label(item.get('recovery_status', 'pending'))}**
+- Verification state: **{result_status_label(verification.get('status', item.get('verification_status', 'not_yet_verified')))}**
+- External status: **Not externally reviewed**
 
 ## Requirement
 
@@ -317,8 +381,9 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
 ## Current Recovery Status
 
 - Recovery status: **{result_status_label(item.get('recovery_status', 'pending'))}**
-- Verification status: **{result_status_label(item.get('verification_status', 'not_yet_verified'))}**
+- Verification status: **{result_status_label(verification.get('status', item.get('verification_status', 'not_yet_verified')))}**
 - Program ledger item: [{item['id']}]({item['url']})
+- Verification mode: `{verification.get('mode', item.get('program_role', 'pending'))}`
 
 ## Result Summary
 
@@ -326,11 +391,11 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
 
 ## Related Result Items
 
-{results_body}
+{verification_results_body}
 
 ## Related Corpus Construction Steps
 
-{chr(10).join(f'- `{entry}`' for entry in related.get('construction_steps', [])) or '- Construction Spine mapping pending.'}
+{corpus_steps_body}
 
 ## Related Verify Surfaces
 

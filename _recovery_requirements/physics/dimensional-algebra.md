@@ -45,6 +45,17 @@ tags:
   - "recovery-requirements"
   - "prec-p1"
 url: "/program/research-agenda/recovery-requirements/physics/dimensional-algebra/"
+verification:
+  status: "pending_physics_verification"
+  mode: "dimensional_consistency"
+  related_results:
+    - "/results/world-readout/physics/"
+  related_corpus_steps:
+    - "/corpus/construction-spine/recover-internal-physical-grammar/"
+    - "/corpus/construction-spine/measurement-empirical-bridges/"
+  related_verify_pages:
+    - "/verify/domain-verification/physics/"
+    - "/verify/predictions-and-falsification/"
 expanded_rationale: ""
 public_summary: ""
 what_this_requires: []

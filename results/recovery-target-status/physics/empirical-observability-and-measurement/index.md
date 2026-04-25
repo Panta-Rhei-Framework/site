@@ -14,6 +14,12 @@ canonical_recovery_id: "PREC-P7"
 
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
+## Status Separation
+
+- Internal status: **Partial**
+- Verification state: **Pending Physics Verification**
+- External status: **Not externally reviewed**
+
 ## Requirement
 
 Empirical Observability and Measurement
@@ -23,6 +29,7 @@ Empirical Observability and Measurement
 - Recovery status: **Partial**
 - Verification status: **Pending Physics Verification**
 - Program ledger item: [PREC-P7](/program/research-agenda/recovery-requirements/physics/empirical-observability-and-measurement/)
+- Verification mode: `observability_and_measurement_review`
 
 ## Result Summary
 
@@ -30,15 +37,19 @@ Detailed result summary pending.
 
 ## Related Result Items
 
-- Granular Result mapping pending.
+- [Predictions](/results/predictions/browse/)
+- [Falsifications](/results/falsifications/browse/)
+- [Numerical Physics Ledger](/publications/numerical-physics-ledger/)
 
 ## Related Corpus Construction Steps
 
-- Construction Spine mapping pending.
+- [Measurement Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
 
 ## Related Verify Surfaces
 
-- `verify-predictions-and-falsification`
+- [Predictions And Falsification](/verify/predictions-and-falsification/)
+- [Falsification Paths](/verify/predictions-and-falsification/falsification-paths/)
+- [Falsification Packs](/verify/predictions-and-falsification/falsification-packs/)
 
 ## What This Status Does Not Yet Establish
 
