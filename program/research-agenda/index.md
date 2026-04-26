@@ -15,6 +15,8 @@ summary_cards:
     body: "External open-problem stress tests the program agrees to keep visible, classify, address, reframe, or reject with reason."
   - title: "Recovery Requirements"
     body: "Known structures and conceptual grammars the kernel must recover before its answers can be taken seriously."
+  - title: "Kernel, Model & Reality"
+    body: "The answer-shape and ontic-status burden: no hidden runtime, substrate, semantic load, or externality may be treated as solved by silence."
   - title: "Construction Roadmap"
     body: "The logical build-order implied by the agenda: kernel, mathematics, physics, empirical bridges, life, reflection, self-hosting, and ontic closure."
 hero_ctas:
@@ -66,7 +68,7 @@ The Research Agenda is that public contract. It names the questions, the foundat
 
 In v2.2 language, the Research Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
 
-## Four agenda surfaces
+## The four agenda surfaces
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">
@@ -154,11 +156,12 @@ The program is therefore not satisfied with a model that merely organizes observ
 
 This section treats ontic status as a burden, not a premise. It takes the phenomena/noumena boundary seriously, distinguishes pointing access from diagrammatic access, and applies a strict no-externalities rule: no hidden runtime, substrate, bridge, semantic load, or residual boundary may be treated as solved by silence.
 
-In practical terms, this gives the agenda a third major surface:
+Together, these four surfaces define the public research contract:
 
 - the [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) asks what open questions the program accepts as stress tests
 - the [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ask what known structures the kernel must recover
 - [Kernel, Model & Reality]({{ '/program/research-agenda/kernel-model-reality/' | relative_url }}) asks what shape of answer could earn ontic seriousness
+- the [Construction Roadmap]({{ '/program/research-agenda/construction-roadmap/' | relative_url }}) states the logical build-order implied by those obligations
 
 ## Construction Roadmap
 

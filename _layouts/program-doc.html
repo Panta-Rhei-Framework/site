@@ -5,7 +5,12 @@ layout: default
 {% include breadcrumb-nav.html %}
 
 <div class="hero-card">
-  <span class="eyebrow">{{ page.section | default: page.lane | replace: '-', ' ' }}</span>
+  {% assign hero_lane_label = page.v2_lane | default: page.lane | default: "Page" | replace: "-", " " | capitalize %}
+  <span class="eyebrow">
+    {{ hero_lane_label }}
+    {% if page.type %} · {{ page.type }}{% endif %}
+    {% if page.status %} · {{ page.status }}{% endif %}
+  </span>
   <h1>{{ page.title_plain | default: page.title | strip_html }}</h1>
   {% if page.summary_short %}
   <p>{{ page.summary_short }}</p>

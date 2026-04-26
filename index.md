@@ -53,7 +53,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
     </a>
     <a class="v2-tile" href="{{ '/publications/' | relative_url }}">
       <h3>Publications</h3>
-      <p>Books, Research Briefings, white papers, research notes, errata, and archives.</p>
+      <p>Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.</p>
     </a>
   </div>
 </section>
@@ -61,7 +61,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
 <section class="content-card homepage-section">
   <p class="v2-kicker">Flagship results</p>
   <h2>Concrete claims before broad interpretation</h2>
-  <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests. These are not all equivalent in status; v2 makes the status grammar and verification route visible at the page level.</p>
+  <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
   <div class="v2-grid">
     <a class="v2-tile" href="{{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}">
       <h3>Hubble tension</h3>
@@ -95,7 +95,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
     <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects and dependency relations.</div>
     <div class="v2-system-node"><strong>Results</strong>Typed answer surfaces and problem mappings.</div>
     <div class="v2-system-node"><strong>Verify</strong>TauLib, audit protocols, predictions, falsifications.</div>
-    <div class="v2-system-node"><strong>Publications</strong>{{ book_count }} books, {{ chapter_count }} chapters, notes, papers, errata.</div>
+    <div class="v2-system-node"><strong>Publications</strong>Research Monographs, Monograph Supplements, Research Notes, Research Briefings, White Papers, and Release Artifacts.</div>
   </div>
 </section>
 
@@ -130,7 +130,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
 <section class="content-card homepage-section">
   <p class="v2-kicker">Artifacts and continuation</p>
   <h2>Read, inspect, follow, and engage</h2>
-  <p>The public release surface is not only the books. It includes the Conspectus, Numerical Physics Ledger, guided tours, Research Briefings, research notes, TauLib, assessment protocols, and errata. The v2 site makes those surfaces easier to find without turning the homepage into a catalogue.</p>
+  <p>The public release surface is not only the Research Monographs. It includes the Conspectus, Monograph Supplements such as the Numerical Physics Ledger, Research Notes, Research Briefings, White Papers, TauLib, assessment protocols, Release Artifacts, and errata. The site makes those surfaces easier to find without turning the homepage into a catalogue.</p>
   <div class="btn-group section-ctas">
     <a class="btn-secondary" href="{{ '/publications/' | relative_url }}">Publications</a>
     <a class="btn-secondary" href="{{ '/impact/' | relative_url }}">Impact</a>

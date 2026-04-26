@@ -29,7 +29,22 @@ right_rail:
 
 ## What This Section Does
 
-Global Public Good gathers conditional public-good portfolios. These are not promises that the framework will transform a domain. They are conditional consequence maps: if the relevant Results hold, and if they can be translated into domain-specific models, what public-good pathways become worth investigating?
+Global Public Good gathers conditional public-good portfolios.
+
+These are not deployment claims. They are scenario maps: if the relevant Results hold, if they survive Verify, if they can be translated into domain-specific models, and if institutions can use them responsibly, what public-good pathways become worth investigating?
+
+This stratum is the outermost Impact layer. It does not make the framework true. It does not make an application ready. It identifies where verified results could matter for planetary systems and public-good domains.
+
+<div class="v2-grid">
+  <div class="v2-tile">
+    <strong>11 conditional public-good portfolios</strong>
+    <span>Domain portfolios for agriculture, water, climate, health, energy, biodiversity, disaster resilience, pollution, solar, ocean systems, and weather-facing operations.</span>
+  </div>
+  <div class="v2-tile">
+    <strong>44 Public-Good Briefings</strong>
+    <span>Public-Good Briefings provide the deeper conditional scenario analyses behind the portfolio summaries.</span>
+  </div>
+</div>
 
 ## Deployment-status note
 

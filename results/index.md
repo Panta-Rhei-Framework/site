@@ -121,8 +121,17 @@ The older result catalogue still uses the historical topic labels `biology` and 
   </a>
   {% for group in topic_groups %}
   <a class="v2-tile" href="{{ '/results/topic/' | append: group.name | append: '/' | relative_url }}">
-    <strong>{{ group.size }} {{ group.name | capitalize }}</strong>
-    <span>Problem-facing results currently grouped under {{ group.name }}.</span>
+    {% assign public_topic_label = group.name | capitalize %}
+    {% assign public_topic_scope = group.name %}
+    {% if group.name == "biology" %}
+      {% assign public_topic_label = "Life-facing results" %}
+      {% assign public_topic_scope = "Life" %}
+    {% elsif group.name == "philosophy" %}
+      {% assign public_topic_label = "Metaphysics / Philosophy-facing results" %}
+      {% assign public_topic_scope = "Metaphysics / Philosophy" %}
+    {% endif %}
+    <strong>{{ group.size }} {{ public_topic_label }}</strong>
+    <span>Problem-facing results currently grouped under {{ public_topic_scope }}.</span>
   </a>
   {% endfor %}
 </div>
