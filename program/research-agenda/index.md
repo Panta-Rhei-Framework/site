@@ -66,7 +66,7 @@ A large-scope program cannot ask for serious engagement unless it states what it
 
 The Research Agenda is that public contract. It names the questions, the foundational discipline, the design principles, the explicit refusals, and the criteria by which results should be read.
 
-In v2.2 language, the Research Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
+The Research Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
 
 ## The four agenda surfaces
 
@@ -107,7 +107,7 @@ A serious candidate kernel must also be held against open problems: places where
 
 For this reason, the Research Agenda uses external public problem ledgers as stress tests. The goal is not to cherry-pick convenient targets, but to ask whether the kernel can express, classify, constrain, answer, defer, or reject major open problems in a principled way.
 
-<table>
+<table class="domain-ledger-rules">
   <caption>Problem Ledger domain source rules</caption>
   <thead>
     <tr>

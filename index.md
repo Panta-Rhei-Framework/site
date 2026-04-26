@@ -8,7 +8,7 @@ type: "Homepage"
 status: "Canonical"
 summary_short: "A structured public interface to a living research system across mathematics, physics, life, and metaphysics."
 hero_line: "A coherent formal system claiming to derive structure across mathematics, physics, life, and metaphysics."
-hero_body: "An independent open research program by Thorsten Fuchs and Anna-Sophie Fuchs, exposing its public surfaces through books, a structured research corpus, typed results, verification routes, and empirical challenge commitments."
+hero_body: "An independent open research program by Thorsten Fuchs and Anna-Sophie Fuchs, exposing its public surfaces through Research Monographs, a structured Corpus, typed Results, verification routes, and empirical challenge commitments."
 hero_ctas:
   - label: "Start with Discover"
     url: /discover/
@@ -41,11 +41,11 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
     </a>
     <a class="v2-tile" href="{{ '/corpus/' | relative_url }}">
       <h3>Corpus</h3>
-      <p>The living research body: definitions, theorems, lemmas, and dependencies.</p>
+      <p>The living research body: Construction Spine, Registry, TauLib projection, books, and dependency graph.</p>
     </a>
     <a class="v2-tile" href="{{ '/results/' | relative_url }}">
       <h3>Results</h3>
-      <p>Typed answer surfaces, problem mappings, and world readouts, with verification links.</p>
+      <p>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.</p>
     </a>
     <a class="v2-tile" href="{{ '/verify/' | relative_url }}">
       <h3>Verify</h3>

@@ -6,9 +6,13 @@ layout: default
 
 <div class="hero-card">
   {% assign hero_lane_label = page.v2_lane | default: page.lane | default: "Page" | replace: "-", " " | capitalize %}
+  {% assign hero_type_label = page.type %}
+  {% if hero_type_label and hero_type_label contains hero_lane_label %}
+    {% assign hero_type_label = hero_type_label | remove_first: hero_lane_label | strip %}
+  {% endif %}
   <span class="eyebrow">
     {{ hero_lane_label }}
-    {% if page.type %} · {{ page.type }}{% endif %}
+    {% if hero_type_label and hero_type_label != "" %} · {{ hero_type_label }}{% endif %}
     {% if page.status %} · {{ page.status }}{% endif %}
   </span>
   <h1>{{ page.title_plain | default: page.title | strip_html }}</h1>

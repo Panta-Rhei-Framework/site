@@ -149,6 +149,20 @@ a.chip-link, a.chip.chip-link {
   margin-top: 20px;
 }
 
+.portfolio-card-list {
+  padding-left: 0;
+  list-style: none;
+
+  > li {
+    margin: 0;
+  }
+
+  article,
+  .portfolio-card {
+    height: 100%;
+  }
+}
+
 .portfolio-card {
   display: block;
   padding: 22px 24px 18px;

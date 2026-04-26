@@ -44,15 +44,15 @@ Publications are not the whole research system. The [Corpus]({{ '/corpus/' | rel
 
 Every publication artifact belongs to one of the categories below. These categories are part of the program's public structure: they clarify whether an artifact is canonical exposition, supplemental monograph material, primary research, scholarly communication, translation briefing, technical explanation, or release governance.
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/publications/research-monographs/' | relative_url }}"><h3>Research Monographs</h3><p>Full book-length canonical releases of the framework.</p></a>
-  <a class="v2-tile" href="{{ '/publications/monograph-supplements/' | relative_url }}"><h3>Monograph Supplements</h3><p>Book-style ledgers, appendices, and supporting parts released separately.</p></a>
-  <a class="v2-tile" href="{{ '/publications/research-papers/' | relative_url }}"><h3>Research Papers</h3><p>Standalone scholarly papers carrying primary technical research contributions.</p></a>
-  <a class="v2-tile" href="{{ '/publications/research-notes/' | relative_url }}"><h3>Research Notes</h3><p>Shorter scholarly artifacts from the ongoing research stream.</p></a>
-  <a class="v2-tile" href="{{ '/publications/research-briefings/' | relative_url }}"><h3>Research Briefings</h3><p>Framework-grounded synthesis and translation artifacts.</p></a>
-  <a class="v2-tile" href="{{ '/publications/white-papers/' | relative_url }}"><h3>White Papers</h3><p>Explanatory artifacts for framework, formalization, infrastructure, method, or verification context.</p></a>
-  <a class="v2-tile" href="{{ '/publications/release-artifacts/' | relative_url }}"><h3>Release Artifacts</h3><p>Version, provenance, correction, manifest, changelog, and archive surfaces.</p></a>
-</div>
+<ul class="v2-grid v2-card-list">
+  <li><article><a class="v2-tile" href="{{ '/publications/research-monographs/' | relative_url }}"><h3>Research Monographs</h3><p>Full book-length canonical releases of the framework.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/monograph-supplements/' | relative_url }}"><h3>Monograph Supplements</h3><p>Book-style ledgers, appendices, and supporting parts released separately.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/research-papers/' | relative_url }}"><h3>Research Papers</h3><p>Standalone scholarly papers carrying primary technical research contributions.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/research-notes/' | relative_url }}"><h3>Research Notes</h3><p>Shorter scholarly artifacts from the ongoing research stream.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/research-briefings/' | relative_url }}"><h3>Research Briefings</h3><p>Framework-grounded synthesis and translation artifacts.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/white-papers/' | relative_url }}"><h3>White Papers</h3><p>Explanatory artifacts for framework, formalization, infrastructure, method, or verification context.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/publications/release-artifacts/' | relative_url }}"><h3>Release Artifacts</h3><p>Version, provenance, correction, manifest, changelog, and archive surfaces.</p></a></article></li>
+</ul>
 
 ## Glossary
 
@@ -104,16 +104,58 @@ If an artifact fits none of these categories, a new category should only be intr
 
 ## Artifact classification matrix
 
-| Artifact kind | Category | Subtype |
-|---|---|---|
-| Book I-VII | Research Monograph | Canonical monograph volume |
-| Numerical Physics Ledger | Monograph Supplement | Numerical ledger / physics supplement |
-| Categorical Genesis | Monograph Supplement | Book VII supplement / genesis appendix |
-| Framework Conspectus | White Paper | Overview white paper |
-| TauLib Overview | White Paper | Technical / formalization white paper |
-| Public-good agriculture briefing | Research Briefing | Public-Good Briefing |
-| Release Manifest | Release Artifact | Manifest |
-| Errata | Release Artifact | Correction artifact |
+<table class="artifact-classification-matrix">
+  <caption>Publication artifact classification matrix</caption>
+  <thead>
+    <tr>
+      <th scope="col">Artifact kind</th>
+      <th scope="col">Category</th>
+      <th scope="col">Subtype</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Book I-VII</th>
+      <td>Research Monograph</td>
+      <td>Canonical monograph volume</td>
+    </tr>
+    <tr>
+      <th scope="row">Numerical Physics Ledger</th>
+      <td>Monograph Supplement</td>
+      <td>Numerical ledger / physics supplement</td>
+    </tr>
+    <tr>
+      <th scope="row">Categorical Genesis</th>
+      <td>Monograph Supplement</td>
+      <td>Book VII supplement / genesis appendix</td>
+    </tr>
+    <tr>
+      <th scope="row">Framework Conspectus</th>
+      <td>White Paper</td>
+      <td>Overview white paper</td>
+    </tr>
+    <tr>
+      <th scope="row">TauLib Overview</th>
+      <td>White Paper</td>
+      <td>Technical / formalization white paper</td>
+    </tr>
+    <tr>
+      <th scope="row">Public-good agriculture briefing</th>
+      <td>Research Briefing</td>
+      <td>Public-Good Briefing</td>
+    </tr>
+    <tr>
+      <th scope="row">Release Manifest</th>
+      <td>Release Artifact</td>
+      <td>Manifest</td>
+    </tr>
+    <tr>
+      <th scope="row">Errata</th>
+      <td>Release Artifact</td>
+      <td>Correction artifact</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Suggested reading order
 

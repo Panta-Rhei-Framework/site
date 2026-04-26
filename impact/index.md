@@ -55,28 +55,35 @@ Impact is conditional: no consequence is stronger than the Results, verification
   <span class="v2-system-node"><strong>Consequence</strong>What could change if the chain holds.</span>
 </div>
 
-## Impact strata
+<section aria-labelledby="impact-strata">
+  <h2 id="impact-strata">Impact strata</h2>
+  <ul class="v2-grid v2-card-list">
+    <li><article><a class="v2-tile" href="{{ '/impact/foundational-science/' | relative_url }}"><h3>Foundational Science</h3><p>What would change for the foundations of inquiry if the construction holds.</p></a></article></li>
+    <li><article><a class="v2-tile" href="{{ '/impact/applied-science-and-research/' | relative_url }}"><h3>Applied Science & Research</h3><p>How active research fields could change if bridges to observation, measurement, and computation survive scrutiny.</p></a></article></li>
+    <li><article><a class="v2-tile" href="{{ '/impact/global-education/' | relative_url }}"><h3>Global Education</h3><p>How difficult domains may become teachable as related layers of one coherent construction.</p></a></article></li>
+    <li><article><a class="v2-tile" href="{{ '/impact/existential-orientation/' | relative_url }}"><h3>Existential Orientation</h3><p>What becomes existentially thinkable if the framework holds.</p></a></article></li>
+    <li><article><a class="v2-tile" href="{{ '/impact/societal-coherence/' | relative_url }}"><h3>Societal Coherence</h3><p>How public reason could change if a coherence-based scientific image is available.</p></a></article></li>
+    <li><article><a class="v2-tile" href="{{ '/impact/global-public-good/' | relative_url }}"><h3>Global Public Good</h3><p>Conditional public-good portfolios and their Public-Good Briefings.</p></a></article></li>
+  </ul>
+</section>
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/impact/foundational-science/' | relative_url }}"><h3>Foundational Science</h3><p>What would change for the foundations of inquiry if the construction holds.</p></a>
-  <a class="v2-tile" href="{{ '/impact/applied-science-and-research/' | relative_url }}"><h3>Applied Science & Research</h3><p>How active research fields could change if bridges to observation, measurement, and computation survive scrutiny.</p></a>
-  <a class="v2-tile" href="{{ '/impact/global-education/' | relative_url }}"><h3>Global Education</h3><p>How difficult domains may become teachable as related layers of one coherent construction.</p></a>
-  <a class="v2-tile" href="{{ '/impact/existential-orientation/' | relative_url }}"><h3>Existential Orientation</h3><p>What becomes existentially thinkable if the framework holds.</p></a>
-  <a class="v2-tile" href="{{ '/impact/societal-coherence/' | relative_url }}"><h3>Societal Coherence</h3><p>How public reason could change if a coherence-based scientific image is available.</p></a>
-  <a class="v2-tile" href="{{ '/impact/global-public-good/' | relative_url }}"><h3>Global Public Good</h3><p>Conditional public-good portfolios and their Public-Good Briefings.</p></a>
-</div>
-
-## Global Public-Good Portfolios
-
-<div class="portfolio-grid">
-{% for p in site.data.impact.portfolios %}
-  <a href="{{ p.url | relative_url }}" class="portfolio-card">
-    <h3 class="portfolio-card-title">{{ p.title }}</h3>
-    <p class="portfolio-card-summary">{{ p.summary_short }}</p>
-    <span class="chip chip-small">{{ p.briefing_count }} {% if p.briefing_count == 1 %}briefing{% else %}briefings{% endif %}</span>
-  </a>
-{% endfor %}
-</div>
+<section aria-labelledby="global-public-good-portfolios">
+  <h2 id="global-public-good-portfolios">Global Public-Good Portfolios</h2>
+  <ul class="portfolio-grid portfolio-card-list">
+  {% for p in site.data.impact.portfolios %}
+    {% assign portfolio_title = p.title | replace: "/", " / " %}
+    <li>
+      <article>
+        <a href="{{ p.url | relative_url }}" class="portfolio-card">
+          <h3 class="portfolio-card-title">{{ portfolio_title }}</h3>
+          <p class="portfolio-card-summary">{{ p.summary_short }}</p>
+          <span class="chip chip-small">{{ p.briefing_count }} {% if p.briefing_count == 1 %}briefing{% else %}briefings{% endif %}</span>
+        </a>
+      </article>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
 
 ## Important Note
 
