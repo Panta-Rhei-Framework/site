@@ -31,6 +31,16 @@ right_rail:
     scope: "Collaboration"
     status: "Selective"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Core Idea
@@ -71,6 +81,27 @@ The most useful collaboration routes in the current phase are:
 
 Broad partnership proposals are welcome, but the most actionable message is usually narrow: identify the object, the role you can play, and the intended outcome.
 
+## Collaboration without endorsement
+
+Collaboration can be bounded.
+
+A reviewer, institution, formalizer, developer, editor, or domain expert may collaborate on a specific artifact, review route, correction, seminar, or infrastructure task without endorsing the framework as a whole.
+
+## Collaboration modes
+
+- bounded domain review;
+- formalization review;
+- TauLib or Lean infrastructure;
+- publication artifact review;
+- source/import validation;
+- website and search infrastructure;
+- seminar or reading group;
+- institutional review setting;
+- archive or library dialogue;
+- public-good briefing review.
+
 ## Route Your Proposal
 
 Use [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for public review offers, bounded critique, and open contribution routing. Use [Contact]({{ '/engage/contact/' | relative_url }}) for academic, institutional, private review, or public-interest collaboration. Use [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }}) for code-adjacent contribution paths.
+
+For public collaboration ideas, use GitHub Discussions. For institutional or private collaboration, use email.

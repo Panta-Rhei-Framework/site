@@ -18,6 +18,8 @@ right_rail:
       url: /publications/research-notes/
     - title: "Engage Overview"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Read & Explore"
       url: /engage/read-explore/
     - title: "About the Research"
@@ -26,6 +28,16 @@ right_rail:
     type: "Follow"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Receive Research Notes by Email
@@ -51,6 +63,10 @@ Notes are published irregularly and only when there is something substantial to 
 
 **Research Notes**: Browse all published notes at [/publications/research-notes/]({{ '/publications/research-notes/' | relative_url }}).
 
+**GitHub Discussions**: Research Notes may be discussed publicly in [GitHub Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) under the Research Notes category.
+
 **Website**: Bookmark this site — new content lanes and verification surfaces are added as they are ready.
 
 **Say hello**: Warm, first-time-reader introductions are welcome at [hello@panta-rhei.site](mailto:hello@panta-rhei.site). For feedback on specific books or results: [feedback@panta-rhei.site](mailto:feedback@panta-rhei.site).
+
+Email subscription is for receiving new notes. GitHub Discussions is for public questions and discussion about them.

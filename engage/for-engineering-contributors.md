@@ -29,6 +29,10 @@ right_rail:
     - title: "About the Framework"
       url: /framework/about/
   artifacts:
+    - title: "GitHub Discussions"
+      url: https://github.com/orgs/Panta-Rhei-Research/discussions
+    - title: "Community repository"
+      url: https://github.com/Panta-Rhei-Research/community
     - title: "TauLib repository"
       url: https://github.com/Panta-Rhei-Research/taulib
     - title: "CONTRIBUTING.md"
@@ -42,6 +46,16 @@ right_rail:
     scope: "Engineering"
     status: "Open"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## For Engineering Contributors
@@ -53,6 +67,24 @@ Lean 4, CI, docstring hygiene, registry bookkeeping — the project accepts smal
 As of April 2026, **TauLib is a public artifact, solo-authored, opening for external contributions for the first time**. We are not claiming a vibrant community — just an open door. The [CONTRIBUTING guide](https://github.com/Panta-Rhei-Research/taulib/blob/main/CONTRIBUTING.md) was published alongside the first external-review wave, and the repository is now accepting outside pull requests under the conventions documented there.
 
 If you are the first external contributor to land a PR: good. That is the point of opening the door.
+
+## GitHub workflow
+
+Engineering contributions happen through GitHub.
+
+- Use [Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) for questions and design discussion.
+- Use Issues for concrete defects or tasks.
+- Use Pull Requests for proposed changes.
+
+Start with the [community repository](https://github.com/Panta-Rhei-Research/community) for routing and contribution guidelines.
+
+Core public repositories:
+
+- [Site](https://github.com/Panta-Rhei-Research/site)
+- [TauLib](https://github.com/Panta-Rhei-Research/taulib)
+- [Publications](https://github.com/Panta-Rhei-Research/publications)
+- [Research](https://github.com/Panta-Rhei-Research/research)
+- [Community](https://github.com/Panta-Rhei-Research/community)
 
 ## Three Contribution Paths
 

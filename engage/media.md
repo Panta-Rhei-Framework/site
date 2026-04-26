@@ -24,6 +24,10 @@ right_rail:
       url: /publications/white-papers/
     - title: "About the Program"
       url: /program/about/
+    - title: "Independence, Scope & Scrutiny"
+      url: /program/about/independence-scope-and-scrutiny/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Contact"
       url: /engage/contact/
   artifacts:
@@ -40,6 +44,16 @@ right_rail:
     scope: "Public communication"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Core Idea
@@ -76,9 +90,21 @@ The shortest accurate framing is: Panta Rhei is an independent open research pro
 - Formal verification, registry entries, and release manifests are part of the public accountability surface.
 - The correct public posture is not hype or dismissal. It is inspectability.
 
+## Responsible communication
+
+Please do not describe internal program results as externally accepted scientific conclusions.
+
+The correct framing is: independent open research program, public Corpus, typed Results, verification surfaces, falsification paths, and open invitation to scrutiny.
+
+Useful context links:
+
+- [Results]({{ '/results/' | relative_url }}) and [Browse All Results]({{ '/results/browse/' | relative_url }}) for status labels.
+- [Verify]({{ '/verify/' | relative_url }}) for inspection and challenge surfaces.
+- [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for public-accountability posture.
+- [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for public clarification and critique.
+
 ## Contact
 
 Media inquiries: [press@panta-rhei.site](mailto:press@panta-rhei.site)
 
 For longer technical, academic, institutional, or correction routes, use [Contact]({{ '/engage/contact/' | relative_url }}).
-

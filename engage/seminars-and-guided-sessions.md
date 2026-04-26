@@ -18,6 +18,8 @@ right_rail:
       url: /publications/guided-tours/
     - title: "Engage Overview"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Verify"
       url: /verify/
     - title: "Collaborate"
@@ -26,6 +28,16 @@ right_rail:
     type: "Seminars"
     status: "In planning"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Seminars and Guided Sessions
@@ -49,6 +61,10 @@ If you would like to be notified when sessions become available:
 **Email**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site) — write "Seminars" in the subject line.
 
 We will notify you when sessions are scheduled and provide details about format, prerequisites, and participation.
+
+## Public follow-up
+
+When appropriate, seminar questions, reading-group questions, or post-session clarifications may be continued in [GitHub Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) so that answers remain public and reusable.
 
 ---
 

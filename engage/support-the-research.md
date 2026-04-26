@@ -18,8 +18,8 @@ right_rail:
   related:
     - title: "Publications"
       url: /publications/
-    - title: "The Seven Books"
-      url: /publications/books/
+    - title: "Research Monographs"
+      url: /publications/research-monographs/
     - title: "Engage"
       url: /engage/
     - title: "Public Discussions"
@@ -32,11 +32,27 @@ right_rail:
     type: "Support"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Support the Continuation of the Research
 
 Supporting the Panta Rhei Research Program does not mean endorsing the framework. Participation does not imply endorsement. It means valuing the attempt — the disciplined, inspectable, falsifiable pursuit of a coherent model of reality — and wanting it to continue under public scrutiny. For the broader public-accountability posture, see [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}).
+
+## Support without endorsement
+
+Supporting the continuation of the research does not imply agreement with the framework or acceptance of its conclusions.
+
+Support helps sustain public artifacts, infrastructure, formalization, publication work, correction workflows, and open-research engagement.
 
 ## 1. Read the Books
 
@@ -68,6 +84,8 @@ The program benefits most from engagement by people with relevant expertise:
 ## 4. Direct Support
 
 Options for direct financial support of the research will be made available as the program matures. This page will be updated when they are ready.
+
+If you want to support through concrete work rather than financial support, start with [GitHub Discussions](https://github.com/orgs/Panta-Rhei-Research/discussions) or the [community repository](https://github.com/Panta-Rhei-Research/community).
 
 ---
 

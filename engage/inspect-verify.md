@@ -33,6 +33,16 @@ right_rail:
     scope: "Inspection"
     status: "Canonical"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Core Idea
@@ -75,3 +85,16 @@ The program should not be evaluated only at the level of prose. Serious inspecti
 Good inspection names a specific object and a specific test. Examples include a broken dependency, a missing assumption, a mismatch between prose and registry source, a formalization gap, a prediction that should be reclassified, or a prior-art overlap that needs explicit treatment.
 
 For structured public objections, continue to [Public Discussions]({{ '/engage/discussions/' | relative_url }}) or [Critique & Challenge]({{ '/engage/critique-challenge/' | relative_url }}). Use Issues for concrete defects and [Contact]({{ '/engage/contact/' | relative_url }}) for private or institutional routes.
+
+## If inspection finds a concern
+
+Use GitHub Discussions if the concern needs interpretation, review, or discussion.
+
+Use GitHub Issues if the concern is concrete and actionable: broken link, wrong metadata, missing source, bad status label, or reproducible build problem.
+
+For formalization concerns, use the TauLib / Formalization discussion category or the relevant repository issue tracker.
+
+<p>
+  <a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Discuss an inspection concern</a>
+  <a class="btn" href="https://github.com/Panta-Rhei-Research/site/issues">Report a concrete issue</a>
+</p>

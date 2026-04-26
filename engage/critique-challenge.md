@@ -31,9 +31,23 @@ right_rail:
     scope: "Critique"
     status: "Canonical"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Core Idea
+
+Help identify what breaks.
+
+Critique is not hostility. It is one of the main ways an open research program becomes more correct.
 
 The program invites critique. Agreement is not the entry condition; specificity is.
 
@@ -70,6 +84,16 @@ The most valuable critique is concrete:
 - the consequence if your objection is correct;
 - any suggested correction, counterexample, reference, or reproduction step.
 
+## How to challenge a claim
+
+A useful challenge includes:
+
+1. the page, result, note, or artifact;
+2. the exact claim;
+3. the suspected failure mode;
+4. whether the concern is formal, empirical, conceptual, source-related, or rhetorical;
+5. what evidence, derivation, observation, or correction would resolve the issue.
+
 ## Where to Route It
 
 - Public question, critique, review offer, or claim challenge: start in [Public Discussions]({{ '/engage/discussions/' | relative_url }}).
@@ -77,6 +101,12 @@ The most valuable critique is concrete:
 - Mathematical, physical, biological, or philosophical objection: use [Contact]({{ '/engage/contact/' | relative_url }}) with the subject line "Technical Inquiry" or "Peer Review".
 - Publication correction: use [Errata]({{ '/publications/errata/' | relative_url }}) and the errata contact route.
 - Public explainer or media challenge: use [Media]({{ '/engage/media/' | relative_url }}) or [Contact]({{ '/engage/contact/' | relative_url }}).
+
+Public claim challenges should usually begin in GitHub Discussions.
+
+Use Issues only when the challenge is concrete and actionable.
+
+<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open a claim challenge discussion</a></p>
 
 ## Minimum Standard
 

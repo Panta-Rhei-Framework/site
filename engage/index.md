@@ -6,25 +6,25 @@ v2_lane: engage
 permalink: /engage/
 type: "Lane Root"
 status: "Active"
-summary_short: "How to engage with the Panta Rhei Research Program: read, inspect, critique, collaborate, communicate, or contact the program."
+summary_short: "Engagement without endorsement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, or support continuation."
 summary_cards:
-  - title: "Read"
-    body: "Start with Discover, Publications, Guided Tours, and the World Readout."
-  - title: "Inspect"
-    body: "Use Corpus, Results, Verify, TauLib, and assessment protocols to inspect the work."
-  - title: "Challenge"
-    body: "Use falsification paths, red-team questions, and structured critique routes."
-  - title: "Collaborate"
-    body: "Route research dialogue, engineering contributions, media, institutional, and direct contact cleanly."
+  - title: "Read carefully"
+    body: "Start with Discover, Program, Research Agenda, and Publications before judging isolated claims."
+  - title: "Inspect claims"
+    body: "Trace claims into Corpus, Results, Verify, TauLib, Release Manifest, and assessment protocols."
+  - title: "Challenge weak links"
+    body: "Use critique routes, falsification paths, source checks, and result-status challenges to identify what breaks."
+  - title: "Review bounded areas"
+    body: "Offer focused review of one problem item, result, research note, TauLib module, briefing, or site surface."
 hero_ctas:
-  - label: "Join Public Discussions"
+  - label: "Public Discussions"
     url: /engage/discussions/
     primary: true
-  - label: "Start Exploring"
-    url: /engage/read-explore/
-  - label: "Inspect the Work"
-    url: /engage/inspect-verify/
-  - label: "Contact Us"
+  - label: "How to Engage"
+    url: /engage/how-to-engage/
+  - label: "Review the Work"
+    url: /engage/review-the-work/
+  - label: "Contact"
     url: /engage/contact/
 right_rail:
   related:
@@ -32,61 +32,117 @@ right_rail:
       url: /engage/how-to-engage/
     - title: "Public Discussions"
       url: /engage/discussions/
+    - title: "Review the Work"
+      url: /engage/review-the-work/
     - title: "Independence, Scope & Scrutiny"
       url: /program/about/independence-scope-and-scrutiny/
     - title: "Research Notes"
       url: /publications/research-notes/
     - title: "Contact"
       url: /engage/contact/
+  artifacts:
+    - title: "GitHub Organization"
+      url: https://github.com/Panta-Rhei-Research
+    - title: "GitHub Discussions"
+      url: https://github.com/orgs/Panta-Rhei-Research/discussions
+    - title: "Community Repository"
+      url: https://github.com/Panta-Rhei-Research/community
   meta:
     type: "Lane Root"
-    scope: "Participation"
+    scope: "Structured open-research engagement"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
+
+> Engagement without endorsement.
+
+The Panta Rhei Research Program does not ask first for agreement. It asks for structured open-research engagement: careful reading, public questions, critique, reproducibility checks, domain review, correction, infrastructure contribution, responsible communication, and institutional dialogue.
+
+The website is the public research observatory. GitHub is the public discussion and contribution substrate. Email remains the route for private, institutional, media, sensitive, or support-related contact.
 
 ## Core Idea
 
-This program invites engagement, not passive consumption. Different readers can enter at different levels: reading, inspection, critique, collaboration, communication, contribution, or direct contact.
+The Engage lane is the interface through which the open research program asks the world for the kinds of attention it needs to become more correct, more inspectable, more useful, and more accountable.
 
-Engagement does not require agreement. Participation does not imply endorsement. The most useful stance is structured attention: understand what is being claimed, trace it to the right public surfaces, and test it at the right level.
+Engagement does not require agreement. Participation does not imply endorsement. The most useful stance is structured attention: follow the claim, identify the support, name the weak point, and help decide what would count as correction, verification, or failure.
 
-## Engagement Paths
+## What the program asks for
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
-    <h3>Read & Explore</h3>
-    <p>Start with Discover, Books, Guided Tours, and the World Readout.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/discussions/' | relative_url }}">
-    <h3>Public Discussions</h3>
-    <p>Ask questions, challenge claims, offer bounded review, and route corrections through GitHub Organization Discussions.</p>
+    <h3>Read Carefully</h3>
+    <p>Start with Discover, Program, Research Agenda, and Publications before judging isolated claims.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
-    <h3>Inspect & Verify</h3>
-    <p>Follow claims through Results, Corpus, Verify, TauLib, and assessment protocols.</p>
+    <h3>Inspect Claims</h3>
+    <p>Trace claims into Corpus, Results, Verify, TauLib, Release Manifest, and assessment protocols.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/critique-challenge/' | relative_url }}">
-    <h3>Critique & Challenge</h3>
-    <p>Use structural critique, derivation checks, falsification paths, and red-team routes.</p>
+    <h3>Challenge Weak Links</h3>
+    <p>Use critique routes, falsification paths, source checks, and result-status challenges to identify what breaks.</p>
   </a>
-  <a class="v2-tile" href="{{ '/engage/collaborate/' | relative_url }}">
-    <h3>Collaborate</h3>
-    <p>Explore academic exchange, engineering contribution, institutional dialogue, and selective partnerships.</p>
+  <a class="v2-tile" href="{{ '/engage/review-the-work/' | relative_url }}">
+    <h3>Review Bounded Areas</h3>
+    <p>Offer domain-specific review of a problem item, recovery target, result, research note, TauLib module, or briefing.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/for-engineering-contributors/' | relative_url }}">
+    <h3>Contribute Infrastructure</h3>
+    <p>Improve documentation, metadata, search, templates, registry hygiene, TauLib documentation, import reports, or site structure.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/media/' | relative_url }}">
-    <h3>Media</h3>
-    <p>Find public communication materials, concise artifacts, and media routing.</p>
+    <h3>Communicate Responsibly</h3>
+    <p>Explain the work without sensationalism and without treating internal results as external acceptance.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/contact/' | relative_url }}">
-    <h3>Contact</h3>
-    <p>Use typed contact routes for technical, review, media, institutional, correction, and general inquiries.</p>
+    <h3>Open Institutional Dialogue</h3>
+    <p>Use contact routes for seminars, review settings, affiliation, archive hosting, research collaboration, or structured evaluation.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/support-the-research/' | relative_url }}">
+    <h3>Support Continuation</h3>
+    <p>Support independent continuation without implying endorsement of the conclusions.</p>
   </a>
 </div>
 
+## Why we ask this way
+
+This is an open independent research program, not a promotional community.
+
+The work can only improve if it is read carefully, challenged specifically, corrected publicly where possible, reviewed by domain experts, and tested through the verification routes it exposes.
+
+For that reason, the most useful engagement is structured attention: follow the claim, identify the support, name the weak point, and help decide what would count as correction, verification, or failure.
+
+## Public discussion home
+
+Public questions, critique, review offers, research-note discussion, and correction candidates should begin in GitHub Discussions whenever possible.
+
+<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open GitHub Discussions</a></p>
+
+Use email instead for private, institutional, media, sensitive, or support-related contact.
+
+## Open-research context
+
+This engagement model is aligned with open-research principles: transparency, scrutiny, critique, reproducibility, collaboration, participation, accountability, and responsible reuse.
+
+See also:
+
+- [UNESCO Open Science](https://www.unesco.org/en/open-science)
+- [The Turing Way](https://book.the-turing-way.org/)
+
+These references are context, not authority claims. The program remains accountable to the claims, sources, proofs, predictions, and corrections it exposes.
+
 ## Ongoing Channels
 
-- [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for questions, critique, review offers, and correction routing.
+- [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for public questions, critique, review offers, and correction routing.
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for Research Notes by email.
 - [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for the founders' statement on open-research posture and public accountability.
 - [Support the Research]({{ '/engage/support-the-research/' | relative_url }}) for non-endorsement support routes.

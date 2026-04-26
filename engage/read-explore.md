@@ -18,10 +18,10 @@ right_rail:
   related:
     - title: "Discover"
       url: /discover/
-    - title: "Books"
-      url: /publications/books/
-    - title: "Guided Tours"
-      url: /publications/guided-tours/
+    - title: "Research Monographs"
+      url: /publications/research-monographs/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "World Readout"
       url: /results/world-readout/
     - title: "Follow the Research"
@@ -31,6 +31,16 @@ right_rail:
     scope: "Reading"
     status: "Canonical"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Core Idea
@@ -72,3 +82,12 @@ This route is deliberately staged. The first goal is orientation; the second is 
 
 Move from reading to inspection when you can name the specific object you want to test: a result, a registry item, a prediction, a formalization claim, a proof dependency, a publication artifact, or an assumption. From there, use [Inspect & Verify]({{ '/engage/inspect-verify/' | relative_url }}) or [Critique & Challenge]({{ '/engage/critique-challenge/' | relative_url }}).
 
+## If you have a question while reading
+
+If your question is public and may help other readers, ask it in GitHub Discussions.
+
+Use the Start Here / Orientation category if you are unsure where it belongs.
+
+<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Ask a public question</a></p>
+
+Reading does not require a GitHub account. Posting publicly does. Use [Contact]({{ '/engage/contact/' | relative_url }}) instead for private, institutional, media, sensitive, or support-related context.

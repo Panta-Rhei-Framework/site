@@ -4,38 +4,63 @@ title: "Public Discussions"
 lane: engage
 v2_lane: engage
 type: "Engagement Route"
+scope: "public_discussions"
 status: "Active"
 permalink: /engage/discussions/
-summary_short: "GitHub Organization Discussions is the primary public discussion home for questions, critique, review offers, and correction routes."
+summary_short: "Public discussion routes for questions, critique, review offers, correction candidates, and structured open-research engagement through GitHub Discussions."
 summary_cards:
   - title: "Public questions"
-    body: "Ask orientation, framework, research agenda, corpus, results, and verification questions in public."
+    body: "Ask orientation, framework, Research Agenda, Corpus, Results, Verify, and publication questions in public."
   - title: "Structured critique"
     body: "Challenge claims by naming the exact page, artifact, claim, and failure condition."
   - title: "No endorsement required"
     body: "Participation means engagement, not agreement with the framework."
 right_rail:
   related:
-    - title: "Organization Discussions"
+    - title: "GitHub Discussions"
       url: https://github.com/orgs/Panta-Rhei-Research/discussions
-    - title: "Where to Post"
-      url: https://github.com/Panta-Rhei-Research/community/blob/main/WHERE_TO_POST.md
-    - title: "Discussion Guidelines"
-      url: https://github.com/Panta-Rhei-Research/community/blob/main/DISCUSSION_GUIDELINES.md
+    - title: "Community Repository"
+      url: https://github.com/Panta-Rhei-Research/community
+    - title: "How to Engage"
+      url: /engage/how-to-engage/
+    - title: "Review the Work"
+      url: /engage/review-the-work/
     - title: "Contact"
       url: /engage/contact/
+  artifacts:
+    - title: "Site Issues"
+      url: https://github.com/Panta-Rhei-Research/site/issues
+    - title: "TauLib Issues"
+      url: https://github.com/Panta-Rhei-Research/taulib/issues
+    - title: "Publications Issues"
+      url: https://github.com/Panta-Rhei-Research/publications/issues
+    - title: "Research Issues"
+      url: https://github.com/Panta-Rhei-Research/research/issues
   meta:
     type: "Engagement Route"
     scope: "Public discussion"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - discussions
+  - github
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - corrections
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
-## Public Discussions
+> Public questions, critique, review offers, and correction candidates belong in GitHub Discussions whenever possible.
 
-GitHub Organization Discussions is the primary public discussion home of the Panta Rhei Research Program.
+GitHub Discussions is the primary public discussion home of the Panta Rhei Research Program.
 
-Use it to ask questions, challenge claims, propose corrections, offer bounded review, discuss Research Notes, and help inspect the work.
+We use it because the program is published as an open research object: questions, challenges, clarifications, and corrections should be linkable, searchable, attributable, and reusable where possible.
 
 Participation does not imply endorsement.
 
@@ -43,48 +68,74 @@ Reading the site does not require a GitHub account. Posting publicly does.
 
 For private, institutional, media, sensitive, or support-related contact, use email instead.
 
-<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open Organization Discussions</a></p>
+<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open GitHub Discussions</a></p>
 
 ## What belongs in public discussions
 
-- Public questions about where to start or how to navigate the program.
-- Conceptual questions about the framework.
-- Challenges to claims, result status, verification routes, or wording.
-- Review offers and bounded domain expertise.
-- Research Note discussion.
-- Falsification, prediction, and result-status questions.
+Use GitHub Discussions for:
+
+- orientation questions;
+- framework questions;
+- Research Agenda questions;
+- Corpus and Construction Spine questions;
+- TauLib and formalization questions;
+- Results and World Readout questions;
+- prediction and falsification challenges;
+- Research Note discussions;
+- Public-Good Briefing discussions;
+- review offers;
+- errata candidates before they become formal issues;
+- public clarification requests.
 
 ## What belongs in issues
 
-Use Issues for concrete defects:
+Use GitHub Issues for concrete, actionable defects:
 
 - broken links;
-- wrong metadata or taxonomy;
+- wrong metadata;
 - typo batches;
 - bad redirects;
 - raw template rendering;
-- incorrect source mapping;
-- reproducible formalization or build failures.
+- source/import problems;
+- build failures;
+- reproducible formalization or site failures.
+
+Issue routing:
+
+- [Site issues](https://github.com/Panta-Rhei-Research/site/issues) for website defects.
+- [TauLib issues](https://github.com/Panta-Rhei-Research/taulib/issues) for Lean and formalization defects.
+- [Publications issues](https://github.com/Panta-Rhei-Research/publications/issues) for public artifact defects.
+- [Research issues](https://github.com/Panta-Rhei-Research/research/issues) for public scripts, notebooks, and import tooling defects.
+- [Community issues](https://github.com/Panta-Rhei-Research/community/issues) for contribution guidelines, templates, and routing defects.
 
 ## What belongs in pull requests
 
-Use Pull Requests for proposed concrete changes:
+Use Pull Requests for concrete proposed changes:
 
-- documentation corrections;
+- documentation improvements;
+- wording corrections;
 - metadata fixes;
-- template or navigation improvements;
-- TauLib documentation or formalization improvements;
-- reproducible tooling or infrastructure improvements.
+- template changes;
+- site improvements;
+- publication artifact updates;
+- TauLib documentation or formalization contributions.
 
 ## What belongs in email
 
-Use email for private, institutional, media, sensitive, support, or funding-related contact.
+Use email for:
+
+- private contact;
+- institutional contact;
+- media requests;
+- sensitive critique;
+- funding or support discussion;
+- non-public collaboration context.
 
 The general public contact route is [hello@panta-rhei.site](mailto:hello@panta-rhei.site). Typed contact routes remain listed on [Contact]({{ '/engage/contact/' | relative_url }}).
 
 ## Discussion categories
 
-The discussion space is organized around the public research system:
+The GitHub discussion space is organized around the program's public research surfaces:
 
 - Announcements;
 - Start Here / Orientation;
@@ -100,8 +151,23 @@ The discussion space is organized around the public research system:
 - Review Offers / Domain Expertise;
 - Meta / Infrastructure.
 
-## Participation guidelines
+## Participation norm
 
-The useful posture is structured attention. A strong discussion names the object under review, the relevant standard, and the failure or clarification route.
+Strong criticism is welcome when it is specific.
 
-See the [Community Hub](https://github.com/Panta-Rhei-Research/community) for routing, discussion guidelines, review guidance, contribution policies, and moderation notes.
+A useful challenge names the exact claim, where it appears, what seems unsupported or false, and what would count as correction or failure.
+
+## Open-research context
+
+This engagement model is aligned with open-research principles: transparency, scrutiny, critique, reproducibility, collaboration, participation, accountability, and responsible reuse.
+
+See also:
+
+- [UNESCO Open Science](https://www.unesco.org/en/open-science)
+- [The Turing Way](https://book.the-turing-way.org/)
+
+These references are context, not authority claims.
+
+## Start now
+
+<p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open GitHub Discussions</a></p>

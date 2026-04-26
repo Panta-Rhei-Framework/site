@@ -37,6 +37,16 @@ right_rail:
     type: "Contact"
     status: "Active"
     updated: "April 2026"
+tags:
+  - engage
+  - open-research
+  - github-discussions
+  - scrutiny
+  - critique
+  - review
+  - contribution
+  - non-endorsement
+  - public-discussion
 ---
 
 ## Contact the Research Program
@@ -46,6 +56,40 @@ We use topic-specific email aliases so your message reaches the right queue. Ple
 Participation does not imply endorsement. Contact, critique, review, support, or collaboration should be understood as engagement under scrutiny, not as agreement with the framework. See [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for the program's public-accountability stance.
 
 For public questions, critique, review offers, and correction routing, use [Public Discussions]({{ '/engage/discussions/' | relative_url }}) first. Email is for private, institutional, media, sensitive, support, or non-public context.
+
+## Before contacting us
+
+Use public GitHub Discussions when your question, critique, or correction can help other readers.
+
+Use email when the matter is private, institutional, media-related, sensitive, or support-related.
+
+Use GitHub Issues when you are reporting a concrete defect.
+
+Use Pull Requests when you are proposing a concrete change.
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Need</th>
+      <th scope="col">Best route</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Public question or critique</td><td><a href="https://github.com/orgs/Panta-Rhei-Research/discussions">GitHub Discussions</a></td></tr>
+    <tr><td>Concrete website defect</td><td><a href="https://github.com/Panta-Rhei-Research/site/issues">Site Issues</a></td></tr>
+    <tr><td>Concrete formalization defect</td><td><a href="https://github.com/Panta-Rhei-Research/taulib/issues">TauLib Issues</a></td></tr>
+    <tr><td>Concrete publication artifact defect</td><td><a href="https://github.com/Panta-Rhei-Research/publications/issues">Publications Issues</a></td></tr>
+    <tr><td>Concrete public research tooling defect</td><td><a href="https://github.com/Panta-Rhei-Research/research/issues">Research Issues</a></td></tr>
+    <tr><td>Institutional review</td><td>Email</td></tr>
+    <tr><td>Domain review</td><td>GitHub Discussions or email</td></tr>
+    <tr><td>Media request</td><td>Email</td></tr>
+    <tr><td>Corrections or errata</td><td>GitHub Discussions, Issues, or email depending on sensitivity</td></tr>
+    <tr><td>Support</td><td>Email</td></tr>
+    <tr><td>Private or sensitive critique</td><td>Email</td></tr>
+    <tr><td>Seminar invitation</td><td>Email</td></tr>
+    <tr><td>Publication, library, or archive contact</td><td>Email</td></tr>
+  </tbody>
+</table>
 
 ### Media Inquiry
 
