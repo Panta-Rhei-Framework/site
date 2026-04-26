@@ -44,16 +44,24 @@ The Program lane explains what kind of research object Panta Rhei is and what bu
 
 It is deliberately split into two routes:
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/program/about/' | relative_url }}">
-    <strong>About the Program</strong>
-    <span>What this is, why it exists, who stewards it, what is public now, and how skeptical engagement is invited.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
-    <strong>Research Agenda</strong>
-    <span>The explicit burden: aim, desiderata, discipline, refusals, problem ledger, result criteria, and roadmap.</span>
-  </a>
-</div>
+<ul class="v2-grid v2-card-list">
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/program/about/' | relative_url }}">
+        <strong>About the Program</strong>
+        <span>What this is, why it exists, who stewards it, what is public now, and how skeptical engagement is invited.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/program/research-agenda/' | relative_url }}">
+        <strong>Research Agenda</strong>
+        <span>The explicit burden: aim, desiderata, discipline, refusals, problem ledger, result criteria, and roadmap.</span>
+      </a>
+    </article>
+  </li>
+</ul>
 
 ## Program model
 
@@ -75,14 +83,18 @@ The claim is deliberately ambitious: a constrained formal kernel is used to cons
 
 - independent open research program
 - public canonical release
-- structured website, formalization layer, registry, guided tours, and review surfaces
-- partially formalized and open to correction
-- not socially settled
+- structured Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces
+- Corpus Construction Spine, Registry, TauLib projection, Results mirrors, and verification routes are public inspection surfaces
+- partially formalized through TauLib and open to correction through GitHub Discussions, issues, pull requests, email, and errata
+- published and inspectable, but not socially settled or externally accepted by declaration
 
 ## Core routes
 
 - [About the Program]({{ '/program/about/' | relative_url }}) gives the identity and stewardship layer.
-- [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) states the burden of proof.
-- [Research Aim & Desiderata]({{ '/program/research-agenda/research-aim-and-desiderata/' | relative_url }}) defines the target.
-- [Core Design Principles]({{ '/program/research-agenda/core-design-principles/' | relative_url }}) explains why the system is so constrained.
+- [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) states the burden of proof through the Problem Ledger, Recovery Requirements, Kernel, Model & Reality, and Construction Roadmap.
+- [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) shows the build order implied by the Program's obligations.
+- [Results]({{ '/results/' | relative_url }}) reports the current public stances, including Problem Ledger Answers and Recovery Target Status.
+- [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes for obligations, construction steps, formalization, predictions, falsification, and external assessment.
+- [Publications]({{ '/publications/' | relative_url }}) organizes stable artifacts through Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.
+- [Engage]({{ '/engage/' | relative_url }}) gives structured engagement routes: public discussions, bounded review, critique, contribution, contact, and correction.
 - [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) states the honesty rules.

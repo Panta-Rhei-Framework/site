@@ -93,7 +93,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
   <div class="v2-system-strip">
     <div class="v2-system-node"><strong>Kernel</strong>Five generators, seven axioms, one operator.</div>
     <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects and dependency relations.</div>
-    <div class="v2-system-node"><strong>Results</strong>Typed answer surfaces and problem mappings.</div>
+    <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
     <div class="v2-system-node"><strong>Verify</strong>TauLib, audit protocols, predictions, falsifications.</div>
     <div class="v2-system-node"><strong>Publications</strong>Research Monographs, Monograph Supplements, Research Notes, Research Briefings, White Papers, and Release Artifacts.</div>
   </div>

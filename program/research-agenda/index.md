@@ -239,7 +239,7 @@ The pillar pages provide the detailed machinery behind the Research Agenda.
 ## Burden-of-proof flow
 
 <div class="v2-system-strip" aria-label="Research agenda burden of proof flow">
-  <a href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Question</a>
+  <a href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Problem</a>
   <span>-></span>
   <a href="{{ '/program/research-agenda/foundational-discipline/' | relative_url }}">Constraint</a>
   <span>-></span>
@@ -247,11 +247,11 @@ The pillar pages provide the detailed machinery behind the Research Agenda.
   <span>-></span>
   <a href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">Build order</a>
   <span>-></span>
-  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Construction</a>
+  <a href="{{ '/corpus/construction-spine/' | relative_url }}">Corpus construction</a>
   <span>-></span>
-  <a href="{{ '/results/' | relative_url }}">Derivation</a>
+  <a href="{{ '/results/' | relative_url }}">Results</a>
   <span>-></span>
-  <a href="{{ '/verify/' | relative_url }}">Scrutiny</a>
+  <a href="{{ '/verify/' | relative_url }}">Verify</a>
 </div>
 
 ## Mirror to Results

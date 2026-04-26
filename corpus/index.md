@@ -51,24 +51,36 @@ It is not a summary, not a set of claims, and not a collection of papers. It is 
 
 ## Current state
 
-The current registry is the public atomic projection of the corpus. In v2.1, the primary human-readable route into the Corpus is the [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}): the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure.
+The current registry is the public atomic projection of the corpus. The primary human-readable route into the Corpus is the [Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}): the build-order narrative from kernel definition through mathematics, physics, life, reflective structure, self-hosting, and ontic closure.
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
-    <strong>10 construction steps</strong>
-    <span>The public build narrative that aligns Agenda obligations, Corpus construction, and Results status.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
-    <strong>{{ registry_objects | size }} registry objects</strong>
-    <span>The current public spine across all seven books.</span>
-  </a>
+<ul class="v2-grid v2-card-list">
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/corpus/construction-spine/' | relative_url }}">
+        <strong>10 construction steps</strong>
+        <span>The public build narrative that aligns Agenda obligations, Corpus construction, and Results status.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
+        <strong>{{ registry_objects | size }} registry objects</strong>
+        <span>The current public spine across all seven books.</span>
+      </a>
+    </article>
+  </li>
   {% for group in type_groups %}
-  <a class="v2-tile" href="{{ '/corpus/types/' | relative_url }}#{{ group.name | slugify }}">
-    <strong>{{ group.size }} {{ group.name | capitalize }}</strong>
-    <span>Registry objects currently typed as {{ group.name }}.</span>
-  </a>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/corpus/types/' | relative_url }}#{{ group.name | slugify }}">
+        <strong>{{ group.size }} {{ group.name | capitalize }}</strong>
+        <span>Registry objects currently typed as {{ group.name }}.</span>
+      </a>
+    </article>
+  </li>
   {% endfor %}
-</div>
+</ul>
 
 ## What the corpus is not
 

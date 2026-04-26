@@ -56,42 +56,24 @@ Discover is the entry layer. It helps readers move from orientation into the res
 
 ## Choose your entry
 
-<div class="v2-grid v2-grid-2">
-  <a class="v2-tile" href="{{ '/discover/start-here/' | relative_url }}">
-    <h3>Start Here</h3>
-    <p>The fastest general route for first-time visitors.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/discover/key-results/' | relative_url }}">
-    <h3>Key Results</h3>
-    <p>A curated set of flagship answer surfaces before the full ledger.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/discover/big-questions/' | relative_url }}">
-    <h3>Big Questions</h3>
-    <p>The major problem families that define the program's burden of proof.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/discover/how-the-system-works/' | relative_url }}">
-    <h3>How the System Works</h3>
-    <p>The lane architecture and public research pipeline in one place.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/discover/guided-tours/' | relative_url }}">
-    <h3>Guided Tours</h3>
-    <p>Curated pathways across Program, Corpus, Results, Verify, and Publications.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/discover/follow-the-research/' | relative_url }}">
-    <h3>Follow the Research</h3>
-    <p>Research Notes for ongoing scholarly writing; Changelog for site, release, and infrastructure updates.</p>
-  </a>
-</div>
+<ul class="v2-grid v2-grid-2 v2-card-list">
+  <li><article><a class="v2-tile" href="{{ '/discover/start-here/' | relative_url }}"><h3>Start Here</h3><p>The fastest general route for first-time visitors.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/discover/key-results/' | relative_url }}"><h3>Key Results</h3><p>A curated set of flagship answer surfaces before the full ledger.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/discover/big-questions/' | relative_url }}"><h3>Big Questions</h3><p>The major problem families that define the program's burden of proof.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/discover/how-the-system-works/' | relative_url }}"><h3>How the System Works</h3><p>The lane architecture and public research pipeline in one place.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/discover/guided-tours/' | relative_url }}"><h3>Guided Tours</h3><p>Curated pathways across Program, Corpus, Results, Verify, and Publications.</p></a></article></li>
+  <li><article><a class="v2-tile" href="{{ '/discover/follow-the-research/' | relative_url }}"><h3>Follow the Research</h3><p>Research Notes for ongoing scholarly writing; Changelog for site, release, and infrastructure updates.</p></a></article></li>
+</ul>
 
 ## What kind of site this is
 
 This is not a blog, not a monograph landing page, and not a documentation dump. It is organized around public research surfaces:
 
 - **Program** states the research contract and Research Agenda: problem ledgers, recovery requirements, ontic-status burdens, and construction roadmap.
-- **Corpus** shows how the structure is built through the Construction Spine, Registry, TauLib, books, and dependency graph.
+- **Corpus** shows how the structure is built through the Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.
 - **Results** is where the built Corpus becomes a world: Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Additional Derived Results.
 - **Verify** explains how claims can be checked, challenged, formalized, bridged, falsified, or audited.
-- **Publications** holds released artifacts, notes, ledgers, and errata.
+- **Publications** holds Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, Release Artifacts, and Errata.
 - **Impact** maps conditional consequences if the work holds.
 - **Engage** gives participation, contact, and contribution routes.
 

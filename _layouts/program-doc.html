@@ -7,8 +7,14 @@ layout: default
 <div class="hero-card">
   {% assign hero_lane_label = page.v2_lane | default: page.lane | default: "Page" | replace: "-", " " | capitalize %}
   {% assign hero_type_label = page.type %}
-  {% if hero_type_label and hero_type_label contains hero_lane_label %}
-    {% assign hero_type_label = hero_type_label | remove_first: hero_lane_label | strip %}
+  {% if hero_type_label %}
+    {% assign hero_type_words = hero_type_label | split: " " %}
+    {% assign hero_type_first_word = hero_type_words | first %}
+    {% assign hero_type_first_compare = hero_type_first_word | downcase %}
+    {% assign hero_lane_compare = hero_lane_label | downcase %}
+    {% if hero_type_first_compare == hero_lane_compare %}
+      {% assign hero_type_label = hero_type_label | remove_first: hero_type_first_word | strip %}
+    {% endif %}
   {% endif %}
   <span class="eyebrow">
     {{ hero_lane_label }}
