@@ -32,17 +32,19 @@ White Papers are compact technical artifacts. They do not replace the books; the
 
 The empirical documents point into [Results]({{ '/results/' | relative_url }}) and [Verify]({{ '/verify/predictions-and-falsification/' | relative_url }}). The formal documents point into [TauLib]({{ '/verify/taulib/' | relative_url }}) and the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}). The orientation documents point back to [Books]({{ '/publications/books/' | relative_url }}) and the [Conspectus]({{ '/publications/conspectus/' | relative_url }}).
 
+<div class="notice note"><strong>Artifact status.</strong> The listed white papers are stable PDF artifacts for inspection and citation. They summarize audit surfaces; they do not replace the canonical books, Corpus, Results, or Verify pages.</div>
+
 ## Available White Papers
 
-| Document | Pages | Audience | Download |
-|----------|:-----:|----------|----------|
-| **Falsification Pack**{: #falsification-pack} | 8 | Physicists, experimentalists | [PDF]({{ '/assets/media/falsification-pack.pdf' | relative_url }}) |
-| **Lean Verification Report**{: #lean-verification-report} | 6 | Formal methods, mathematicians | [PDF]({{ '/assets/media/lean-verification-report.pdf' | relative_url }}) |
-| **Reviewer's Dossier**{: #reviewers-dossier} | 4 | Journal reviewers, evaluators | [PDF]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }}) |
-| **Reader's Guide**{: #readers-guide} | 3 | All readers | [PDF]({{ '/assets/media/readers-guide.pdf' | relative_url }}) |
-| **Series Prospectus**{: #series-prospectus} | 23 | Academics, institutions | [PDF]({{ '/assets/media/series-prospectus.pdf' | relative_url }}) |
-| **Seminar Abstracts**{: #seminar-abstracts} | 4 | Seminar organizers | [PDF]({{ '/assets/media/seminar-abstracts.pdf' | relative_url }}) |
-| **Category τ at a Glance**{: #category-tau-at-a-glance} | 1 | Everyone | [PDF]({{ '/assets/media/category-tau-at-a-glance.pdf' | relative_url }}) |
+| Document | Pages | Audience | Status | Download |
+|----------|:-----:|----------|--------|----------|
+| **Falsification Pack**{: #falsification-pack} | 8 | Physicists, experimentalists | PDF available | [PDF]({{ '/assets/media/falsification-pack.pdf' | relative_url }}) |
+| **Lean Verification Report**{: #lean-verification-report} | 6 | Formal methods, mathematicians | PDF available | [PDF]({{ '/assets/media/lean-verification-report.pdf' | relative_url }}) |
+| **Reviewer's Dossier**{: #reviewers-dossier} | 4 | Journal reviewers, evaluators | PDF available | [PDF]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }}) |
+| **Reader's Guide**{: #readers-guide} | 3 | All readers | PDF available | [PDF]({{ '/assets/media/readers-guide.pdf' | relative_url }}) |
+| **Series Prospectus**{: #series-prospectus} | 23 | Academics, institutions | PDF available | [PDF]({{ '/assets/media/series-prospectus.pdf' | relative_url }}) |
+| **Seminar Abstracts**{: #seminar-abstracts} | 4 | Seminar organizers | PDF available | [PDF]({{ '/assets/media/seminar-abstracts.pdf' | relative_url }}) |
+| **Category τ at a Glance**{: #category-tau-at-a-glance} | 1 | Everyone | PDF available | [PDF]({{ '/assets/media/category-tau-at-a-glance.pdf' | relative_url }}) |
 
 ## Inspection Map
 

@@ -131,20 +131,20 @@ Physics, life, and metaphysics cannot be responsibly constructed if the mathemat
 
 ## Registry spine
 
-- `I.D07`
-- `I.D10`
-- `I.D11`
-- `I.D12`
-- `I.D35`
-- `I.D36`
-- `I.P06`
-- `I.P07`
-- `I.P13`
+- [`I.D07`](/registry/object/I.D07/)
+- [`I.D10`](/registry/object/I.D10/)
+- [`I.D11`](/registry/object/I.D11/)
+- [`I.D12`](/registry/object/I.D12/)
+- [`I.D35`](/registry/object/I.D35/)
+- [`I.D36`](/registry/object/I.D36/)
+- [`I.P06`](/registry/object/I.P06/)
+- [`I.P07`](/registry/object/I.P07/)
+- [`I.P13`](/registry/object/I.P13/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Arithmetic`
-- `TauLib.BookI.Geometry`
+- [`TauLib.BookI.Arithmetic`](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/BookI/Denotation/Arithmetic.lean)
+- `TauLib.BookI.Geometry` (docs/source pending)
 
 ## Book locations
 

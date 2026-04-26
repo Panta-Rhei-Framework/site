@@ -220,6 +220,36 @@
   }
 }
 
+.result-card-status-lines {
+  display: grid;
+  gap: 5px;
+  margin: 0 0 14px;
+  padding: 10px 12px;
+  border: 1px solid rgba(22, 62, 100, 0.12);
+  border-radius: $radius-sm;
+  background: rgba(248, 250, 252, 0.72);
+  font-size: 0.76rem;
+
+  div {
+    display: grid;
+    grid-template-columns: 90px 1fr;
+    gap: 8px;
+    align-items: baseline;
+  }
+
+  dt {
+    color: $text-muted;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0;
+  }
+
+  dd {
+    margin: 0;
+    color: $text;
+  }
+}
+
 .chip-small {
   height: 22px;
   padding: 0 8px;

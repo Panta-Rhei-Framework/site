@@ -127,6 +127,16 @@ The older result catalogue still uses the historical topic labels `biology` and 
   {% endfor %}
 </div>
 
+## Status legend
+
+- **Internally addressed** — the current framework contains an internal answer, derivation, or structural stance.
+- **Partial** — the framework has a partial result, recovery, or bridge, but further work remains.
+- **Qualitative** — the result is conceptual or interpretive rather than quantitative or formal.
+- **Contradicted** — the result is marked as conflicting with a target or requirement.
+- **Not addressed** — no current public stance is available.
+
+These labels report the program's internal status. They do not indicate external verification or scientific acceptance.
+
 ## Result families
 
 <div class="v2-grid">

@@ -71,3 +71,12 @@ Each step page explains what the step builds, why it is required, the key constr
 Use [Verify the Construction Spine]({{ '/verify/construction-spine-verification/' | relative_url }}) when you want the inspection matrix rather than the build narrative.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
+
+## Build status legend
+
+- **Framed** — the step is defined as a required construction obligation.
+- **Partially built** — relevant Corpus structures exist, but mappings or verification remain incomplete.
+- **Internally addressed** — the Corpus contains a substantive internal construction for this step.
+- **Bridge pending** — internal structures exist, but measurement, standard-domain, or external bridge verification remains open.
+
+These labels describe the program's internal construction state. They do not indicate external verification or scientific acceptance.

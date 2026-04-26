@@ -117,13 +117,13 @@ The program begins with a formal kernel, but self-hosting is not available at th
 
 ## Registry spine
 
-- `I.D77`
-- `I.D80`
-- `I.D82`
+- [`I.D77`](/registry/object/I.D77/)
+- [`I.D80`](/registry/object/I.D80/)
+- [`I.D82`](/registry/object/I.D82/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Kernel.Signature`
+- [`TauLib.BookI.Kernel.Signature`](/verify/taulib/docs/book-i-kernel-signature/)
 
 ## Book locations
 

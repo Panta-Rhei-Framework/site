@@ -116,9 +116,9 @@ Ontic status cannot be asserted at the beginning. It can only be tested after th
 
 ## Registry spine
 
-- `I.K0`
-- `I.D77`
-- `I.D80`
+- [`I.K0`](/registry/object/I.K0/)
+- [`I.D77`](/registry/object/I.D77/)
+- [`I.D80`](/registry/object/I.D80/)
 
 ## TauLib modules
 

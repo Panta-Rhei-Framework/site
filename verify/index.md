@@ -124,6 +124,17 @@ Verification in this program is not one thing. It includes research-form legitim
   </a>
 </div>
 
+## Verification status legend
+
+- **Formalized** — represented in TauLib or another formal artifact.
+- **Formally checked** — compiles under the pinned formalization environment.
+- **Bridge pending** — internal construction exists, but the bridge to standard mathematics, measurement, or domain interpretation remains open.
+- **Empirical pending** — a prediction or comparison exists, but decisive external test or measurement remains open.
+- **Externally reviewed** — discussed or reviewed outside the program.
+- **Externally accepted** — accepted by an external scholarly process or community standard.
+
+These labels describe inspection state. They are related to, but distinct from, Results status labels such as internally addressed, partial, qualitative, or not addressed.
+
 ## Operational Surfaces
 
 - [TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean 4 formalization surface.

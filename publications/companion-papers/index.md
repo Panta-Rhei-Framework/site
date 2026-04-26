@@ -32,16 +32,20 @@ Companion Papers are the publication index for conditional public-good deploymen
 
 They are not validation claims. They are downstream scenario analyses. The [Impact lane]({{ '/impact/' | relative_url }}) carries the full portfolio surfaces; this page organizes them as publication artifacts.
 
+<div class="notice note"><strong>Artifact status.</strong> Companion Papers are currently published as web-first public artifacts linked through Impact portfolios. PDF packet/download production is separate from the public claim status; absence of a PDF download does not change the conditional scope of a paper.</div>
+
 ## Portfolio Index
 
-<div class="v2-grid">
+<ol class="v2-grid v2-card-list">
 {% for p in site.data.impact.portfolios %}
-  <a class="v2-tile" href="{{ p.url | relative_url }}">
-    <h3>{{ p.title }}</h3>
-    <p>{{ p.paper_count }} papers. {{ p.summary_short }}</p>
-  </a>
+  <li>
+    <a class="v2-tile" href="{{ p.url | relative_url }}">
+      <strong>{{ p.title }}</strong>
+      <span>{{ p.paper_count }} papers. {{ p.summary_short }}</span>
+    </a>
+  </li>
 {% endfor %}
-</div>
+</ol>
 
 ## Reading Discipline
 
@@ -52,3 +56,5 @@ Each Companion Paper should be read with three questions in view:
 - Which public-good pathway remains valuable even if a stronger claim is later weakened?
 
 For the first question, move to [Results]({{ '/results/' | relative_url }}). For the second, move to [Verify]({{ '/verify/' | relative_url }}). For the third, stay in [Impact]({{ '/impact/' | relative_url }}).
+
+The ownership split is deliberate: Publications preserves the artifacts, Impact explains conditional public-good scenarios, Results states current program consequences, and Verify exposes the routes by which those consequences could fail.

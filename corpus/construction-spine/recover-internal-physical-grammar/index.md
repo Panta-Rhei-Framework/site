@@ -118,13 +118,13 @@ After the physical carrier is identified, the Corpus must show that the carrier 
 
 ## Registry spine
 
-- `I.D34`
-- `I.D95`
-- `I.D99`
+- [`I.D34`](/registry/object/I.D34/)
+- [`I.D95`](/registry/object/I.D95/)
+- [`I.D99`](/registry/object/I.D99/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Measure`
+- [`TauLib.BookI.Measure`](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/BookI/Boundary/Measure.lean)
 
 ## Book locations
 

@@ -124,21 +124,21 @@ The program cannot begin by assuming a finished mathematical or physical backgro
 
 ## Registry spine
 
-- `I.K0`
-- `I.D01`
-- `I.D02`
-- `I.K1`
-- `I.K2`
-- `I.K3`
-- `I.K4`
-- `I.K5`
-- `I.K6`
-- `I.P01`
+- [`I.K0`](/registry/object/I.K0/)
+- [`I.D01`](/registry/object/I.D01/)
+- [`I.D02`](/registry/object/I.D02/)
+- [`I.K1`](/registry/object/I.K1/)
+- [`I.K2`](/registry/object/I.K2/)
+- [`I.K3`](/registry/object/I.K3/)
+- [`I.K4`](/registry/object/I.K4/)
+- [`I.K5`](/registry/object/I.K5/)
+- [`I.K6`](/registry/object/I.K6/)
+- [`I.P01`](/registry/object/I.P01/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Kernel.Signature`
-- `TauLib.BookI.Kernel.Axioms`
+- [`TauLib.BookI.Kernel.Signature`](/verify/taulib/docs/book-i-kernel-signature/)
+- [`TauLib.BookI.Kernel.Axioms`](/verify/taulib/docs/book-i-kernel-axioms/)
 
 ## Book locations
 

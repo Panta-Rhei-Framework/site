@@ -128,22 +128,22 @@ A kernel that remains only externally described cannot satisfy the no-externalit
 
 ## Registry spine
 
-- `I.D51`
-- `I.D52`
-- `I.D53`
-- `I.D54`
-- `I.D55`
-- `I.D56`
-- `I.D57`
-- `I.D58`
-- `I.D59`
-- `I.P26`
-- `I.P28`
+- [`I.D51`](/registry/object/I.D51/)
+- [`I.D52`](/registry/object/I.D52/)
+- [`I.D53`](/registry/object/I.D53/)
+- [`I.D54`](/registry/object/I.D54/)
+- [`I.D55`](/registry/object/I.D55/)
+- [`I.D56`](/registry/object/I.D56/)
+- [`I.D57`](/registry/object/I.D57/)
+- [`I.D58`](/registry/object/I.D58/)
+- [`I.D59`](/registry/object/I.D59/)
+- [`I.P26`](/registry/object/I.P26/)
+- [`I.P28`](/registry/object/I.P28/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Category`
-- `TauLib.BookI.Topos`
+- `TauLib.BookI.Category` (docs/source pending)
+- `TauLib.BookI.Topos` (docs/source pending)
 
 ## Book locations
 

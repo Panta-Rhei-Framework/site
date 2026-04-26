@@ -180,15 +180,19 @@ layout: default
 </div>
 {% endif %}
 
-{% if page.editorial.citation_note %}
 <div class="content-card">
-  <h2>Citation and Status</h2>
+  <h2>Citation</h2>
   <div class="prose">
-    <p>{{ page.editorial.citation_note }}</p>
+    {% assign citation_date = page.date | date: "%-d %B %Y" %}
+    <p>Fuchs, Thorsten, and Anna-Sophie Fuchs. "{{ page.title }}." <em>Panta Rhei Research Notes</em>, {{ citation_date }}{% if page.pdf_available or page.pdf or page.pdf_url %}. PDF{% endif %}.</p>
+    {% if page.pdf or page.pdf_url %}
+    {% assign citation_pdf = page.pdf_url | default: page.pdf %}
+    <p><a href="{{ citation_pdf | relative_url }}">PDF artifact</a></p>
+    {% endif %}
+    {% if page.editorial.citation_note %}<p>{{ page.editorial.citation_note }}</p>{% endif %}
     {% if page.editorial.peer_review_status %}<p>{{ page.editorial.peer_review_status }}</p>{% endif %}
   </div>
 </div>
-{% endif %}
 
 <div class="content-card">
   {% include buttondown-subscribe.html tag="note-cta" compact="true" %}

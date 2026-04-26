@@ -19,6 +19,8 @@ right_rail:
       url: /corpus/registry/
     - title: "Mathematics Results"
       url: /results/topic/mathematics/
+    - title: "Mathematics Recovery Requirements"
+      url: /program/research-agenda/recovery-requirements/mathematics/
   meta:
     type: "Domain Verification"
     domain: "Mathematics"
@@ -53,3 +55,5 @@ Evidence surfaces: [Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relati
 ## Accountability Statement
 
 Any theorem claimed as formally certified is certified only in the precise sense stated: relative to the relevant proof infrastructure, declared assumptions, and scope of formalization.
+
+Mathematical verification can establish internal proof discipline. It does not by itself settle bridge adequacy into every standard foundation, external review, or the program's physics/life/metaphysics consequences.

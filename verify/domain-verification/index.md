@@ -26,24 +26,32 @@ right_rail:
 
 The program uses one discipline of seriousness, but it does not pretend that a single flat notion of proof applies equally to every layer.
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/verify/domain-verification/mathematics/' | relative_url }}">
-    <strong>Mathematics</strong>
-    <span>First-pass deep specification: formal consistency, mechanized proof validity, standard-foundation checks, and bridge adequacy.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/domain-verification/physics/' | relative_url }}">
-    <strong>Physics</strong>
-    <span>Placeholder: empirical fit, structural explanation, prediction, falsification, and relation to physics results.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/domain-verification/life/' | relative_url }}">
-    <strong>Life</strong>
-    <span>Placeholder: structural necessity, explanatory adequacy, biological relation, and claim-boundary discipline.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/domain-verification/metaphysics/' | relative_url }}">
-    <strong>Metaphysics</strong>
-    <span>Placeholder: ontological coherence, phenomenological adequacy, boundary conditions, and commitment limits.</span>
-  </a>
-</div>
+<ol class="v2-grid v2-card-list">
+  <li>
+    <a class="v2-tile" href="{{ '/verify/domain-verification/mathematics/' | relative_url }}">
+      <strong>Mathematics</strong>
+      <span>Formal consistency, mechanized proof validity, standard-foundation checks, and bridge adequacy.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/verify/domain-verification/physics/' | relative_url }}">
+      <strong>Physics</strong>
+      <span>Structural derivation, measurement bridges, prediction timing, falsification, and numerical ledger accountability.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/verify/domain-verification/life/' | relative_url }}">
+      <strong>Life</strong>
+      <span>Explanatory adequacy, biological constraint checks, recovery-target alignment, and claim-boundary discipline.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/verify/domain-verification/metaphysics/' | relative_url }}">
+      <strong>Metaphysics</strong>
+      <span>Ontological coherence, phenomenological adequacy, boundary conditions, and explicit commitment limits.</span>
+    </a>
+  </li>
+</ol>
 
 ## How to Use This Hub
 

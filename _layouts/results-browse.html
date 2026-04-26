@@ -158,6 +158,30 @@ layout: default
           {% if result.summary_short %}
           <p class="result-card-summary">{{ result.summary_short }}</p>
           {% endif %}
+          {% assign result_status_label = result.status_code %}
+          {% case result.status_code %}
+            {% when 'R' %}{% assign result_status_label = "Internally addressed" %}
+            {% when 'P' %}{% assign result_status_label = "Partial" %}
+            {% when 'Q' %}{% assign result_status_label = "Qualitative" %}
+            {% when 'C' %}{% assign result_status_label = "Contradicted" %}
+            {% when 'N' %}{% assign result_status_label = "Not addressed" %}
+          {% endcase %}
+          {% assign verification_label = result.verification_status | default: "" %}
+          {% if verification_label == "" %}
+            {% if result.status_code == "R" %}
+              {% assign verification_label = "Internal route available; external review pending" %}
+            {% else %}
+              {% assign verification_label = "Review route pending" %}
+            {% endif %}
+          {% else %}
+            {% assign verification_label = verification_label | replace: "_", " " | capitalize %}
+          {% endif %}
+          {% assign external_label = result.external_status | default: "Not externally reviewed" | replace: "_", " " | capitalize %}
+          <dl class="result-card-status-lines">
+            <div><dt>Status</dt><dd>{{ result_status_label }}</dd></div>
+            <div><dt>Verification</dt><dd>{{ verification_label }}</dd></div>
+            <div><dt>External</dt><dd>{{ external_label }}</dd></div>
+          </dl>
           <div class="result-card-bottom">
             {% if result.topic %}<span class="chip chip-small">{{ result.topic | capitalize }}</span>{% endif %}
             {% if result.importance_class %}

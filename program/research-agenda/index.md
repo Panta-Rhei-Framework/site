@@ -152,48 +152,70 @@ It is not a project timeline. It explains why the program must define the kernel
 
 ## Agenda pillars
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/program/research-agenda/research-aim-and-desiderata/' | relative_url }}">
-    <strong>Research Aim & Desiderata</strong>
-    <span>What kind of answer the program is actually seeking.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/foundational-discipline/' | relative_url }}">
-    <strong>Foundational Discipline</strong>
-    <span>Why the program binds itself to stricter constraints upstream.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/core-design-principles/' | relative_url }}">
-    <strong>Core Design Principles</strong>
-    <span>Methodological pillars that govern the work across domains.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}">
-    <strong>What the Program Refuses</strong>
-    <span>The explanations, shortcuts, and ceasefires the program will not treat as final.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">
-    <strong>Problem Ledger</strong>
-    <span>External stress-test problems and their current program classification.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger-source-policy/' | relative_url }}">
-    <strong>Source Policy</strong>
-    <span>How external problem ledgers are selected, pinned, imported, and classified.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}">
-    <strong>Recovery Requirements</strong>
-    <span>Known structures the kernel must recover without treating them as open-problem stress tests.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">
-    <strong>Kernel, Model & Reality</strong>
-    <span>The ontic-status burden, no-externalities rule, diagrammatic access mode, and required answer-shapes.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">
-    <strong>Construction Roadmap</strong>
-    <span>The logical build-order that follows from the Research Agenda's own obligations.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/program/research-agenda/result-criteria/' | relative_url }}">
-    <strong>Result Criteria</strong>
-    <span>How claims are classified, constrained, and routed toward verification.</span>
-  </a>
-</div>
+The pillar pages provide the detailed machinery behind the Research Agenda.
+
+<ol class="v2-grid v2-card-list">
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/research-aim-and-desiderata/' | relative_url }}">
+      <strong>Research Aim & Desiderata</strong>
+      <span>What kind of answer the program is actually seeking.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/foundational-discipline/' | relative_url }}">
+      <strong>Foundational Discipline</strong>
+      <span>Why the program binds itself to stricter constraints upstream.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/core-design-principles/' | relative_url }}">
+      <strong>Core Design Principles</strong>
+      <span>Methodological pillars that govern the work across domains.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/what-the-program-refuses/' | relative_url }}">
+      <strong>What the Program Refuses</strong>
+      <span>The explanations, shortcuts, and ceasefires the program will not treat as final.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">
+      <strong>Problem Ledger</strong>
+      <span>External stress-test problems and their current program classification.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger-source-policy/' | relative_url }}">
+      <strong>Source Policy</strong>
+      <span>How external problem ledgers are selected, pinned, imported, and classified.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}">
+      <strong>Recovery Requirements</strong>
+      <span>Known structures the kernel must recover without treating them as open-problem stress tests.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">
+      <strong>Kernel, Model & Reality</strong>
+      <span>The ontic-status burden, no-externalities rule, diagrammatic access mode, and required answer-shapes.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">
+      <strong>Construction Roadmap</strong>
+      <span>The logical build-order that follows from the Research Agenda's own obligations.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/program/research-agenda/result-criteria/' | relative_url }}">
+      <strong>Result Criteria</strong>
+      <span>How claims are classified, constrained, and routed toward verification.</span>
+    </a>
+  </li>
+</ol>
 
 ## Burden-of-proof flow
 

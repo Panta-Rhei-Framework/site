@@ -123,9 +123,9 @@ An internally coherent physics can still fail to describe measured reality. The 
 
 ## Registry spine
 
-- `I.D34`
-- `I.D95`
-- `I.D99`
+- [`I.D34`](/registry/object/I.D34/)
+- [`I.D95`](/registry/object/I.D95/)
+- [`I.D99`](/registry/object/I.D99/)
 
 ## TauLib modules
 

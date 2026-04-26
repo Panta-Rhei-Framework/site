@@ -113,13 +113,13 @@ Physics cannot be assumed as a finished external domain. The Corpus must first e
 
 ## Registry spine
 
-- `I.P28`
-- `I.D80`
-- `I.D82`
+- [`I.P28`](/registry/object/I.P28/)
+- [`I.D80`](/registry/object/I.D80/)
+- [`I.D82`](/registry/object/I.D82/)
 
 ## TauLib modules
 
-- `TauLib.BookI.Category`
+- `TauLib.BookI.Category` (docs/source pending)
 
 ## Book locations
 
