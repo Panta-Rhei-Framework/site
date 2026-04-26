@@ -100,13 +100,9 @@ _body: "## What this step builds\n\nThe fifth step develops internal physical gr
 
 The program must recover tau-time, tau-space, tau-mass, tau-energy, fields, observables, dynamical laws, and physical regimes as internal structures.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus organizes internal physics as a semantic grammar carried by the kernel, distinct from measurement bridge and external empirical validation.
-
-## What this step builds
-
-The fifth step develops internal physical grammar: time, space, mass, energy, fields, observables, laws, and regimes as structures inside the framework.
 
 ## Why this step is required
 
@@ -139,19 +135,19 @@ After the physical carrier is identified, the Corpus must show that the carrier 
 - [Physics World Readout](/results/world-readout/physics/)
 - [The Fabric of Physical Reality in Tau](/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/)
 
-## Verification Modes
+## Verification modes
 
 - internal law-structure checks
 - dimensional consistency
 - physics bridge preparation
 
-## Bridge Checks
+## Bridge checks
 
 - Check that internal physical grammar exposes unit structure, lawfulness, and sector closure before empirical calibration begins.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -171,11 +167,11 @@ _Mapping pending._
 
 Internal tau-physics is not yet empirical adequacy. Measurement, calibration, and falsification belong to Step 6.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Internal tau-physics remains distinct from observation-facing accountability until measurement bridges are explicit.
 
 ## Spine navigation
 
-- Previous: [Step 4 - Identify the Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)
-- Next: [Step 6 - Build Measurement, Prediction, and Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
+- Previous: [Step 4 — Identify the Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)
+- Next: [Step 6 — Build Measurement, Prediction, and Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)

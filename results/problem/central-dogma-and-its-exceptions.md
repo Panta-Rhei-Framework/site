@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Central Dogma (DNA→RNA→Protein) and its exceptions (reverse transcriptio
 
 ## Result Statement
 
-Central Dogma as morphism composition. Exceptions (reverse transcription, prions) as specific inversions. Status: Resolved.
+Central Dogma as morphism composition. Exceptions (reverse transcription, prions) as specific inversions. Status: Internally addressed.

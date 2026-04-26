@@ -10,6 +10,8 @@ right_rail:
   related:
   - title: Scope, Status & Scrutiny
     url: /program/about/scope-status-and-scrutiny/
+  - title: Independence, Scope & Scrutiny
+    url: /program/about/independence-scope-and-scrutiny/
   - title: What the Program Refuses
     url: /program/research-agenda/what-the-program-refuses/
   - title: Release Manifest
@@ -24,6 +26,8 @@ right_rail:
 ---
 
 Three frontier-LLM first-pass assessments were run on the public Panta Rhei Research surface in April 2026. Their red-team question lists converged on roughly the same ten questions. This page answers them directly, with pointers to the load-bearing evidence. No question has been softened or reframed; where the honest answer is "partial" or "not yet," that is what this page says.
+
+The accountability posture behind this FAQ is stated in [Independence, Scope, and Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}): independence increases the duty to expose evidence, status, and failure surfaces.
 
 ## 1. Is ι<sub>τ</sub> = 2/(π+e) forced or fitted? {#is-iota-tau-fitted-or-forced}
 
@@ -79,13 +83,13 @@ Every claim page on the site carries a **registry ID** (e.g., `II.T40`, `VI.D44`
 
 The current catalogue is 234 claim pages (exact count, per `_data/results/results.json`). Grouped by bridge status:
 
-- **130 are status Resolved (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
+- **130 are status Internally addressed (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
 - **72 are status Internal** — τ-internal structural readout (no external bridge target; most metaphysics + many biology entries)
 - **17 are status Partial (P)** — τ-internal result with explicit conjectural bridge gap
 - **10 are status Qualitative or Not Addressed (Q/N)** — non-quantitative or unresolved
 - **5 are status Contradicted (C)** — framework takes a falsifiable opposing position (No Hawking Radiation, No Axion Needed, Not MOND, Panpsychism Excluded, ZFC Identity Slippage)
 
-The typing discipline *surfaces* Partial, Qualitative, Contradicted, and Not-Addressed claims rather than reclassifying them as Resolved. **A framework that hides failures compresses its catalogue; the τ framework deliberately expands its catalogue to include claims where it concedes ground.** Redefinition risk is non-zero on metaphysics-adjacent claims (e.g., life predicate, consciousness) — those are flagged as "bridge-claim" status on their detail pages.
+The typing discipline *surfaces* Partial, Qualitative, Contradicted, and Not-Addressed claims rather than reclassifying them as internally addressed. **A framework that hides failures compresses its catalogue; the τ framework deliberately expands its catalogue to include claims where it concedes ground.** Redefinition risk is non-zero on metaphysics-adjacent claims (e.g., life predicate, consciousness) — those are flagged as "bridge-claim" status on their detail pages.
 
 ## 10. What single result could falsify the entire framework?
 

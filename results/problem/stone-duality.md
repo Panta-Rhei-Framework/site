@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Stone duality (between Boolean algebras and Stone spaces) is earned inside Categ
 
 ## Result Statement
 
-Stone duality earned from profinite orbit completion. Stone space carries holomorphic topology. Status: Resolved.
+Stone duality earned from profinite orbit completion. Stone space carries holomorphic topology. Status: Internally addressed.

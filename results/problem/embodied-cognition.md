@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Embodied cognition claims that the body is not merely a vehicle for the mind but
 
 ## Result Statement
 
-Embodied cognition: body as carrier's self-referential boundary with lemniscate topology. Status: Resolved.
+Embodied cognition: body as carrier's self-referential boundary with lemniscate topology. Status: Internally addressed.

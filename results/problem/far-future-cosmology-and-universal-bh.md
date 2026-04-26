@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ In the far future, all matter converges toward black holes. The τ-framework's C
 
 ## Result Statement
 
-Far-future: Universal BH is fully alive by Crossing-Limit theorem. All seven hallmarks satisfied. Status: Resolved.
+Far-future: Universal BH is fully alive by Crossing-Limit theorem. All seven hallmarks satisfied. Status: Internally addressed.

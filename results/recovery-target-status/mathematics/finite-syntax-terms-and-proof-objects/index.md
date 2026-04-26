@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Finite Syntax, Terms, a
 canonical_recovery_id: "MREC-M1"
 ---
 
-# Finite Syntax, Terms, and Proof Objects
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Formal Verification**
+- Verification state: **Pending formal verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Finite Syntax, Terms, and Proof Objects
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Formal Verification**
+- Verification status: **Pending formal verification**
 - Program ledger item: [MREC-M1](/program/research-agenda/recovery-requirements/mathematics/finite-syntax-terms-and-proof-objects/)
 - Verification mode: `foundational_recovery_target`
 

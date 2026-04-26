@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The dark sector — dark matter and dark energy — accounts for ~95% of the uni
 
 ## Result Statement
 
-Dark sector closure: dark matter and dark energy are structural artifacts of the boundary reading of τ³, not new particles. No dark matter particle needed. No cosmological constant. Status: Resolved.
+Dark sector closure: dark matter and dark energy are structural artifacts of the boundary reading of τ³, not new particles. No dark matter particle needed. No cosmological constant. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Category τ is a Grothendieck topos — but unlike classical topos theory, this 
 
 ## Result Statement
 
-τ is a Grothendieck topos, earned from kernel. Subobject classifier Ω_τ and CCC structure derived. Status: Resolved.
+τ is a Grothendieck topos, earned from kernel. Subobject classifier Ω_τ and CCC structure derived. Status: Internally addressed.

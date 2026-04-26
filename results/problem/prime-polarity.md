@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The [Prime Polarity Theorem]({{ '/framework/mathematics-prime-polarity/' | relat
 
 ## Result Statement
 
-Every prime is B-dominant or C-dominant; the lemniscate is earned. Status: **Resolved** *(established, machine-checked)*.
+Every prime is B-dominant or C-dominant; the lemniscate is earned. Status: **Internally addressed** *(established, machine-checked)*.

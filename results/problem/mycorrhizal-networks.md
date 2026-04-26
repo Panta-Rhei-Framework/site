@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The 'Wood Wide Web' — underground mycorrhizal fungal networks connecting trees
 
 ## Result Statement
 
-Mycorrhizal networks as closure archetype. Fungi serve as inter-carrier connection layer. Status: Resolved.
+Mycorrhizal networks as closure archetype. Fungi serve as inter-carrier connection layer. Status: Internally addressed.

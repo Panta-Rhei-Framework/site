@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -32,4 +32,4 @@ Three lemmas support the theorem: tetration injectivity, the No-Tie Lemma (I.L03
 
 ## Result Statement
 
-Every object has a unique ABCD decomposition. Status: **Resolved** *(established, machine-checked in [TauLib]({{ '/verify/taulib/' | relative_url }}))*.
+Every object has a unique ABCD decomposition. Status: **Internally addressed** *(established, machine-checked in [TauLib]({{ '/verify/taulib/' | relative_url }}))*.

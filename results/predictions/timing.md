@@ -49,7 +49,7 @@ The first reading is what the framework claims. The second reading is the honest
 
 These are predictions for quantities that were experimentally known **before** the τ-framework was developed. The τ-value is computed algebraically from ι<sub>τ</sub>; the experimental value comes from decades of independent measurement. The agreement is non-trivial because ι<sub>τ</sub> itself is not fitted — it is fixed by kernel structure — but the *timing* is post-diction-shaped: we knew what to match before we derived the derivation.
 
-Representative examples (status confirmed Resolved at published precision; cascade tier in brackets):
+Representative examples (status confirmed internally addressed at published precision; cascade tier in brackets):
 
 - **Electron mass** — τ derives m<sub>e</sub> to **0.025 ppm** agreement with the 2014 CODATA value. *[Tier A — mass-ratio route]*
 - **Fine-structure constant** — τ derives α<sup>-1</sup> via the sector-coupling hierarchy, matching at precision tier 10-1000 ppm. *[Tier C — leading-order α route]*

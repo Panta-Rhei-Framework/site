@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Is life substrate-independent — could it be realized in silicon, plasma, or ex
 
 ## Result Statement
 
-Life is substrate-independent in principle (not tied to carbon) but structurally constrained (requires full E₂ stack). Status: Resolved.
+Life is substrate-independent in principle (not tied to carbon) but structurally constrained (requires full E₂ stack). Status: Internally addressed.

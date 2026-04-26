@@ -28,6 +28,8 @@ right_rail:
   related:
     - title: "How to Engage"
       url: /engage/how-to-engage/
+    - title: "Independence, Scope & Scrutiny"
+      url: /program/about/independence-scope-and-scrutiny/
     - title: "Research Notes"
       url: /publications/research-notes/
     - title: "Contact"
@@ -77,6 +79,7 @@ Engagement does not require agreement. The most useful stance is structured atte
 ## Ongoing Channels
 
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for Research Notes by email.
+- [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for the founders' statement on open-research posture and public accountability.
 - [Support the Research]({{ '/engage/support-the-research/' | relative_url }}) for non-endorsement support routes.
 - [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }}) for TauLib and verification-infrastructure contribution.
 - [Seminars & Guided Sessions]({{ '/engage/seminars-and-guided-sessions/' | relative_url }}) for planned structured sessions.

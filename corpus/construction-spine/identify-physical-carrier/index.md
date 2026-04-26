@@ -96,13 +96,9 @@ _body: "## What this step builds\n\nThis step turns the Agenda question \"where 
 
 The program must locate a structure inside the kernel capable of carrying physical semantics: locality, globality, entities, observables, interactions, dynamics, and lawfulness.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus identifies the physical-carrier problem through the relevant self-enrichment and unitary construction layer.
-
-## What this step builds
-
-This step turns the Agenda question "where can physics live inside the kernel?" into a Corpus construction problem. It identifies the structural layer that can carry physical roles before measurements or empirical adequacy are discussed.
 
 ## Why this step is required
 
@@ -134,19 +130,19 @@ Physics cannot be assumed as a finished external domain. The Corpus must first e
 - [How Physical Things First Appear](/results/world-readout/physics/how-physical-things-first-appear/)
 - [Physical Reality as a Semantic Reading](/results/problem/physical-reality-as-a-semantic-reading-of-e1/)
 
-## Verification Modes
+## Verification modes
 
 - carrier identification
 - semantic adequacy
 - bridge plausibility
 
-## Bridge Checks
+## Bridge checks
 
 - Check that the identified carrier is exposed through explicit dependency chains rather than ontological hand-waving.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -166,11 +162,11 @@ _Mapping pending._
 
 This step identifies the carrier for physics. It does not yet complete internal physical grammar or empirical measurement bridge.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Carrier identification is not yet empirical bridge success or quantitative prediction.
 
 ## Spine navigation
 
-- Previous: [Step 3 - Internalize Logic and Categorical Self-Structure](/corpus/construction-spine/internalize-logic/)
-- Next: [Step 5 - Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
+- Previous: [Step 3 — Internalize Logic and Categorical Self-Structure](/corpus/construction-spine/internalize-logic/)
+- Next: [Step 5 — Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)

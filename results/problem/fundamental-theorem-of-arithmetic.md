@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Every object in Category τ has a unique prime factorization. This is not import
 
 ## Result Statement
 
-Unique prime factorization earned from kernel orbit structure. Not imported from classical NT. Status: Resolved.
+Unique prime factorization earned from kernel orbit structure. Not imported from classical NT. Status: Internally addressed.

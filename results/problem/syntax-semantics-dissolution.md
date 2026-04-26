@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The syntax-semantics gap (how form carries meaning) is dissolved: inside the τ-
 
 ## Result Statement
 
-Syntax-semantics gap dissolved: meaning IS form under internal logic in τ-topos. Status: Resolved.
+Syntax-semantics gap dissolved: meaning IS form under internal logic in τ-topos. Status: Internally addressed.

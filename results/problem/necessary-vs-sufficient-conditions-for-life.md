@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Classical definitions of life enumerate necessary conditions (metabolism, reprod
 
 ## Result Statement
 
-Seven hallmarks derived as theorems from τ-Distinction carrier definition, establishing both necessary and sufficient conditions. Status: Resolved.
+Seven hallmarks derived as theorems from τ-Distinction carrier definition, establishing both necessary and sufficient conditions. Status: Internally addressed.

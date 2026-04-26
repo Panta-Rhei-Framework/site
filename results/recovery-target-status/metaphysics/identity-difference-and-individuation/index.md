@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Identity, Difference, a
 canonical_recovery_id: "METH-R2"
 ---
 
-# Identity, Difference, and Individuation
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Metaphysics Verification**
+- Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Identity, Difference, and Individuation
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Metaphysics Verification**
+- Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R2](/program/research-agenda/recovery-requirements/metaphysics/identity-difference-and-individuation/)
 - Verification mode: `metaphysical_recovery_target`
 

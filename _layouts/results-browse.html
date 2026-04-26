@@ -32,7 +32,7 @@ layout: default
     <div class="filter-group" data-filter-group="status">
       <span class="filter-label">Status</span>
       <div class="filter-chips">
-        <button class="filter-chip chip-status-r" data-filter="status" data-value="R" type="button">Resolved</button>
+        <button class="filter-chip chip-status-r" data-filter="status" data-value="R" type="button">Internally addressed</button>
         <button class="filter-chip chip-status-p" data-filter="status" data-value="P" type="button">Partial</button>
         <button class="filter-chip chip-status-q" data-filter="status" data-value="Q" type="button">Qualitative</button>
         <button class="filter-chip chip-status-c" data-filter="status" data-value="C" type="button">Contradicted</button>
@@ -141,7 +141,7 @@ layout: default
             {% if result.status_code %}
             <span class="chip chip-status chip-status-{{ result.status_code | downcase }}">
               {% case result.status_code %}
-                {% when 'R' %}Resolved
+                {% when 'R' %}Internally addressed
                 {% when 'P' %}Partial
                 {% when 'Q' %}Qualitative
                 {% when 'C' %}Contradicted

@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Bridge Adequacy to Stan
 canonical_recovery_id: "MREC-M5"
 ---
 
-# Bridge Adequacy to Standard Mathematics
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Bridge Verification**
+- Verification state: **Pending bridge verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Bridge Adequacy to Standard Mathematics
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Bridge Verification**
+- Verification status: **Pending bridge verification**
 - Program ledger item: [MREC-M5](/program/research-agenda/recovery-requirements/mathematics/bridge-adequacy-to-standard-mathematics/)
 - Verification mode: `foundational_recovery_target`
 

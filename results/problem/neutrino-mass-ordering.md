@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Neutrino mass ordering (normal vs inverted hierarchy) is one of the key open que
 
 ## Result Statement
 
-Normal ordering derived with Σm_ν = 0.089 eV. Lean-verified Wave 47. Status: Resolved.
+Normal ordering derived with Σm_ν = 0.089 eV. Lean-verified Wave 47. Status: Internally addressed.

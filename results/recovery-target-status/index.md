@@ -9,8 +9,6 @@ status: "Canonical"
 summary_short: "Current Results-side status against public Recovery Requirements."
 ---
 
-# Recovery Target Status
-
 > Current program status against the structures the kernel promised to recover.
 
 This is the Results-side mirror of the Program-side Recovery Requirements ledger. Recovery requirements remain obligations; this surface reports their current public status.

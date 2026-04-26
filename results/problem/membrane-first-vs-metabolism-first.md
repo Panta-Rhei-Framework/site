@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: Life
     topic: Biology
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -37,4 +37,4 @@ Amphiphilic molecules spontaneously form bilayers without external templates, so
 
 ## Result Statement
 
-The membrane-first vs metabolism-first debate is dissolved: the τ-Distinction requires boundary and circulation simultaneously. Neither is prior. They co-emerge as two aspects of the same categorical structure at E₂. Status: Resolved.
+The membrane-first vs metabolism-first debate is dissolved: the τ-Distinction requires boundary and circulation simultaneously. Neither is prior. They co-emerge as two aspects of the same categorical structure at E₂. Status: Internally addressed.

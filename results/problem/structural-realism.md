@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Structural realism holds that science describes the structure of reality, not it
 
 ## Result Statement
 
-Structural realism made precise: Category τ provides relational structure without hidden substance. Relations precede relata. Status: Resolved.
+Structural realism made precise: Category τ provides relational structure without hidden substance. Relations precede relata. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Is there a bridge between faith and reason? The τ-framework provides one: the N
 
 ## Result Statement
 
-Faith-reason bridge: diagrammatic register (reason) cannot force a stance; commitment register (faith) remains free. Shape ≠ stance. Status: Resolved (consequence).
+Faith-reason bridge: diagrammatic register (reason) cannot force a stance; commitment register (faith) remains free. Shape ≠ stance. Status: Internally addressed (consequence).

@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Life exhibits emergent properties (consciousness, agency, goal-directedness) tha
 
 ## Result Statement
 
-Non-reductive emergence via enrichment ladder: E₂ adds new structure without violating E₁. Emergence is structural, not mysterian. Status: Resolved.
+Non-reductive emergence via enrichment ladder: E₂ adds new structure without violating E₁. Emergence is structural, not mysterian. Status: Internally addressed.

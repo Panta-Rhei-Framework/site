@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Wittgenstein's Private Language Argument claims that a language understandable o
 
 ## Result Statement
 
-Private Language Argument derived: sheaf sections require public open cover for gluing. No private language is τ-admissible. Status: Resolved.
+Private Language Argument derived: sheaf sections require public open cover for gluing. No private language is τ-admissible. Status: Internally addressed.

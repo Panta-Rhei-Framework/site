@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Leibniz's ultimate question — why is there something rather than nothing? — 
 
 ## Result Statement
 
-Why something rather than nothing: question precisely located at ω-germ. Diagrammatically unanswerable. Status: Resolved.
+Why something rather than nothing: question precisely located at ω-germ. Diagrammatically unanswerable. Status: Internally addressed.

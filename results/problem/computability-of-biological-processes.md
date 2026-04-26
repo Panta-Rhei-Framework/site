@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Are biological processes computable? The τ-framework proves that the τ-Distinc
 
 ## Result Statement
 
-τ-Distinction computable in dim_τ(X) steps. Biological processes structurally computable. Status: Resolved.
+τ-Distinction computable in dim_τ(X) steps. Biological processes structurally computable. Status: Internally addressed.

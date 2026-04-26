@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ What are emotions? The τ-framework derives six canonical emotions from register
 
 ## Result Statement
 
-Six canonical emotions from register transitions. Affect = subsymbolic pressure. Status: Resolved.
+Six canonical emotions from register transitions. Affect = subsymbolic pressure. Status: Internally addressed.

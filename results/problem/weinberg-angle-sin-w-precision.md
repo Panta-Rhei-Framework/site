@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -36,4 +36,4 @@ See also: [Weinberg Angle NNLO at −0.7 ppm]({{ '/results/problem/weinberg-angl
 
 ## Result Statement
 
-IV.D337: sin²θ_W derived at NNLO precision from the electroweak sector, using Window Universality W₃(4) = 5, at −0.7 ppm from the PDG value sin²θ_W = 0.23122. Status: Resolved.
+IV.D337: sin²θ_W derived at NNLO precision from the electroweak sector, using Window Universality W₃(4) = 5, at −0.7 ppm from the PDG value sin²θ_W = 0.23122. Status: Internally addressed.

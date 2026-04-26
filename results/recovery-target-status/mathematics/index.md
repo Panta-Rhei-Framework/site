@@ -9,8 +9,6 @@ status: "Canonical"
 summary_short: "Current recovery status for Mathematics targets."
 ---
 
-# Recovery Target Status: Mathematics
-
 <div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items

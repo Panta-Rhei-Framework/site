@@ -68,7 +68,7 @@ A program willing to stake its cosmology on one future measurement is behaving l
 
 Open [Browse All Results]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed results across four domains. Pay attention to the status codes:
 
-- **R (Resolved)** — full τ-internal theorem
+- **R (Internally addressed)** — full τ-internal theorem
 - **P (Partial)** — theorem with conjectural bridge to orthodox formulation
 - **Q (Qualitative)** — non-quantitative
 - **C (Contradicted)** — framework takes an opposing position (3 claims: No Hawking Radiation, Panpsychism Excluded, ZFC Identity Slippage)

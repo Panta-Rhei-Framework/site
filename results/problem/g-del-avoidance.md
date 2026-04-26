@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -32,4 +32,4 @@ The key insight is that Godel's proof needs unrestricted self-reference: the abi
 
 ## Result Statement
 
-Godel incompleteness is avoided by bounded self-reference under K5/K6. Status: **Resolved** *(established, machine-checked)*.
+Godel incompleteness is avoided by bounded self-reference under K5/K6. Status: **Internally addressed** *(established, machine-checked)*.

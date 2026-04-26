@@ -9,8 +9,6 @@ status: "Canonical"
 summary_short: "Current recovery status for Physics targets."
 ---
 
-# Recovery Target Status: Physics
-
 <div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items

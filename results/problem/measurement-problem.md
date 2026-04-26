@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The measurement problem — why quantum systems appear to 'collapse' upon observ
 
 ## Result Statement
 
-Measurement problem resolved: measurement is a readout functor, not a collapse. Change of reading level from T² to τ¹. Status: Resolved.
+Measurement problem resolved: measurement is a readout functor, not a collapse. Change of reading level from T² to τ¹. Status: Internally addressed.

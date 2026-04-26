@@ -16,7 +16,7 @@
 {%- endcomment -%}
 {%- assign status_code = include.status | downcase -%}
 {%- case include.status -%}
-  {%- when "R" -%}{%- assign status_label = "Resolved" -%}
+  {%- when "R" -%}{%- assign status_label = "Internally addressed" -%}
   {%- when "P" -%}{%- assign status_label = "Partial" -%}
   {%- when "Q" -%}{%- assign status_label = "Qualitative" -%}
   {%- when "C" -%}{%- assign status_label = "Contradicted" -%}

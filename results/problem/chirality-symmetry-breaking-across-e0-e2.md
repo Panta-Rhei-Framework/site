@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Chirality and symmetry breaking appear across mathematics (prime polarity), phys
 
 ## Result Statement
 
-Chirality across E₀-E₂: prime polarity (E₀), parity violation (E₁), homochirality (E₂) — all from bipolar decomposition. Status: Resolved.
+Chirality across E₀-E₂: prime polarity (E₀), parity violation (E₁), homochirality (E₂) — all from bipolar decomposition. Status: Internally addressed.

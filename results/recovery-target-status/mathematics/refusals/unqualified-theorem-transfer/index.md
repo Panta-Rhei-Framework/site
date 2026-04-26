@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Unqualified Theorem Tra
 canonical_recovery_id: "MREF-R8"
 ---
 
-# Unqualified Theorem Transfer
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Not Applicable**
-- Verification state: **Not Yet Verified**
+- Verification state: **Not yet verified**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Unqualified Theorem Transfer
 ## Current Recovery Status
 
 - Recovery status: **Not Applicable**
-- Verification status: **Not Yet Verified**
+- Verification status: **Not yet verified**
 - Program ledger item: [MREF-R8](/program/research-agenda/recovery-requirements/mathematics/refusals/unqualified-theorem-transfer/)
 - Verification mode: `coherence_constraint`
 

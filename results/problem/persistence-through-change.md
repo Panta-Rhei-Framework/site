@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ How can an entity persist through change if all its parts are replaced (Ship of 
 
 ## Result Statement
 
-Persistence = NF-address persistence. Structural position persists through material change. Ship of Theseus resolved. Status: Resolved.
+Persistence = NF-address persistence. Structural position persists through material change. Ship of Theseus resolved. Status: Internally addressed.

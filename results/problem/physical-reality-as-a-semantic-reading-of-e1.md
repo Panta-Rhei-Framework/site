@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: Physics
     topic: Physics
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -39,4 +39,4 @@ Every physical prediction in Books IV-V (particle masses, coupling constants, co
 
 ## Result Statement
 
-Physical reality is the semantic content of enrichment layer E₁. Physics is not an empirical science that uses mathematics — it is a specific categorical enrichment of mathematics. The unreasonable effectiveness of mathematics is structural, not accidental. Status: Resolved.
+Physical reality is the semantic content of enrichment layer E₁. Physics is not an empirical science that uses mathematics — it is a specific categorical enrichment of mathematics. The unreasonable effectiveness of mathematics is structural, not accidental. Status: Internally addressed.

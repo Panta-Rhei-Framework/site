@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Tully-Fisher relation (luminosity ∝ v⁴ for spiral galaxies) is an empiri
 
 ## Result Statement
 
-Tully-Fisher relation derived from boundary reading of galaxy rotation curves. Status: Resolved.
+Tully-Fisher relation derived from boundary reading of galaxy rotation curves. Status: Internally addressed.

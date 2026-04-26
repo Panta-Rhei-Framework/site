@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Tower Machine is the τ-framework's native model of computation — a hierar
 
 ## Result Statement
 
-Tower Machine: native τ-computation model. Hierarchical, τ-admissible. Basis for P_adm = NP_adm. Status: Resolved.
+Tower Machine: native τ-computation model. Hierarchical, τ-admissible. Basis for P_adm = NP_adm. Status: Internally addressed.

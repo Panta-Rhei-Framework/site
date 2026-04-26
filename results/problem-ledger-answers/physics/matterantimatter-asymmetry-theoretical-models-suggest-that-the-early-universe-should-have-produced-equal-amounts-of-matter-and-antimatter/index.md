@@ -14,7 +14,7 @@ canonical_problem_id: "phys-matterantimatter-asymmetry-theoretical-models-sugges
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Not Yet Classified**
+- Internal stance: **Not yet touched**
 - Verification route: **Pending**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Matter–antimatter asymmetry Theoretical models suggest that the early universe
 
 ## Current Program Stance
 
-- Result status: **Not Yet Classified**
+- Result status: **Not yet touched**
 - Tier: `unclassified`
 - Agenda role: `stress_test`
 - Expressibility: `unknown`

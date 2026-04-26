@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Perelman proved the Poincaré Conjecture in 2003. The τ-framework provides a re
 
 ## Result Statement
 
-Poincaré Conjecture as τ-admissible topological rigidity. Perelman's result is a special case. Status: Resolved.
+Poincaré Conjecture as τ-admissible topological rigidity. Perelman's result is a special case. Status: Internally addressed.

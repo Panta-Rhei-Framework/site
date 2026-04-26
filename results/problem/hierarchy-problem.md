@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why is gravity 10³² times weaker than electromagnetism? The hierarchy problem 
 
 ## Result Statement
 
-Hierarchy problem resolved: the 10³² ratio follows from the structural separation of the α (radial/gravity) and γ (solenoidal/EM) sectors. Status: Resolved.
+Hierarchy problem resolved: the 10³² ratio follows from the structural separation of the α (radial/gravity) and γ (solenoidal/EM) sectors. Status: Internally addressed.

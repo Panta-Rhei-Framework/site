@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Ethics (E₃) and biology (E₂) share a deep connection through the τ-Distinct
 
 ## Result Statement
 
-Ethics-biology bridge: τ-Distinction grounds both biological agency (E₂) and moral personhood (E₃). CI depends on life definition. Status: Resolved.
+Ethics-biology bridge: τ-Distinction grounds both biological agency (E₂) and moral personhood (E₃). CI depends on life definition. Status: Internally addressed.

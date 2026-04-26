@@ -23,237 +23,237 @@ All 234 claims in alphabetical order. Each carries a [typed epistemic status]({{
 
 For the narrative front door, see the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and world-readout clusters: [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃).
 
-- [0νββ / Majorana Neutrinos](/results/problem/0-majorana-neutrinos/) — *Frontier Problem* · Resolved
+- [0νββ / Majorana Neutrinos](/results/problem/0-majorana-neutrinos/) — *Frontier Problem* · Internally addressed
 - [ABC Conjecture](/results/problem/abc-conjecture/) — *Frontier Problem* · Not Addressed
-- [Abiogenesis Is Inevitable: Life Is a Thermodynamic Attractor](/results/problem/abiogenesis-inevitability/) — *Frontier Problem* · Resolved
-- [Abiogenesis Timescale](/results/problem/abiogenesis-timescale/) — *Frontier Problem* · Resolved
-- [Abiogenesis Timescale Bound from Geometric Decay](/results/problem/abiogenesis-timescale-bound/) — *Frontier Problem* · Resolved
+- [Abiogenesis Is Inevitable: Life Is a Thermodynamic Attractor](/results/problem/abiogenesis-inevitability/) — *Frontier Problem* · Internally addressed
+- [Abiogenesis Timescale](/results/problem/abiogenesis-timescale/) — *Frontier Problem* · Internally addressed
+- [Abiogenesis Timescale Bound from Geometric Decay](/results/problem/abiogenesis-timescale-bound/) — *Frontier Problem* · Internally addressed
 - [Aging Mechanism](/results/problem/aging-mechanism/) — *Frontier Problem* · Not Addressed
-- [AI Language Understanding](/results/problem/ai-language-understanding/) — *Frontier Problem* · Resolved
-- [Animal Rights and Dignity](/results/problem/animal-rights-and-dignity/) — *Frontier Problem* · Resolved
-- [Arrow of Time from Orbit Direction: Unique and Irreversible](/results/problem/arrow-of-time-orbit/) — *Foundational Math* · Resolved
-- [ATP Currency Uniqueness: Topology and Coupling Fix the Energy Scale](/results/problem/atp-currency-uniqueness/) — *Frontier Problem* · Resolved
-- [ATP Uniqueness](/results/problem/atp-uniqueness/) — *Frontier Problem* · Resolved
-- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — *Foundational Math* · Resolved
-- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — *Foundational Math* · Resolved
-- [Baryon Asymmetry](/results/problem/baryon-asymmetry/) — *Frontier Problem* · Resolved
-- [Beauty and Truth](/results/problem/beauty-and-truth/) — *Consequence* · Resolved
-- [BH Information Paradox](/results/problem/bh-information-paradox/) — *Frontier Problem* · Resolved
-- [BH Quasi-Normal Modes](/results/problem/bh-quasi-normal-modes/) — *Frontier Problem* · Resolved
-- [BH-as-Alive](/results/problem/bh-as-alive/) — *Consequence* · Resolved
-- [Binding Problem Dissolved](/results/problem/binding-problem-dissolved/) — *Frontier Problem* · Resolved
-- [Black Holes Across E1–E3](/results/problem/black-holes-across-e1-e3/) — *Consequence* · Resolved
-- [Black Holes Are Alive: BH Satisfies All 5+3 Conditions](/results/problem/black-holes-alive/) — *Frontier Problem* · Resolved
+- [AI Language Understanding](/results/problem/ai-language-understanding/) — *Frontier Problem* · Internally addressed
+- [Animal Rights and Dignity](/results/problem/animal-rights-and-dignity/) — *Frontier Problem* · Internally addressed
+- [Arrow of Time from Orbit Direction: Unique and Irreversible](/results/problem/arrow-of-time-orbit/) — *Foundational Math* · Internally addressed
+- [ATP Currency Uniqueness: Topology and Coupling Fix the Energy Scale](/results/problem/atp-currency-uniqueness/) — *Frontier Problem* · Internally addressed
+- [ATP Uniqueness](/results/problem/atp-uniqueness/) — *Frontier Problem* · Internally addressed
+- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — *Foundational Math* · Internally addressed
+- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — *Foundational Math* · Internally addressed
+- [Baryon Asymmetry](/results/problem/baryon-asymmetry/) — *Frontier Problem* · Internally addressed
+- [Beauty and Truth](/results/problem/beauty-and-truth/) — *Consequence* · Internally addressed
+- [BH Information Paradox](/results/problem/bh-information-paradox/) — *Frontier Problem* · Internally addressed
+- [BH Quasi-Normal Modes](/results/problem/bh-quasi-normal-modes/) — *Frontier Problem* · Internally addressed
+- [BH-as-Alive](/results/problem/bh-as-alive/) — *Consequence* · Internally addressed
+- [Binding Problem Dissolved](/results/problem/binding-problem-dissolved/) — *Frontier Problem* · Internally addressed
+- [Black Holes Across E1–E3](/results/problem/black-holes-across-e1-e3/) — *Consequence* · Internally addressed
+- [Black Holes Are Alive: BH Satisfies All 5+3 Conditions](/results/problem/black-holes-alive/) — *Frontier Problem* · Internally addressed
 - [BSD Conjecture Approach](/results/problem/bsd-conjecture-approach/) — *Frontier Problem* · Partial
-- [Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm](/results/problem/cabibbo-angle/) — *Foundational Math* · Resolved
-- [Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain](/results/problem/canonical-ladder-theorem/) — *Foundational Math* · Resolved
-- [Cantor Diagonal Inapplicability](/results/problem/cantor-diagonal-inapplicability/) — *Consequence* · Resolved
-- [Categorical Imperative Derivation](/results/problem/categorical-imperative-derivation/) — *Frontier Problem* · Resolved
-- [Categoricity of Tau](/results/problem/categoricity-of-tau/) — *Foundational Math* · Resolved
-- [Cell as Tau-Object](/results/problem/cell-as-tau-object/) — *Consequence* · Resolved
-- [Cell Membrane Origins](/results/problem/cell-membrane-origins/) — *Frontier Problem* · Resolved
-- [Cellular Senescence](/results/problem/cellular-senescence/) — *Frontier Problem* · Resolved
-- [Central Dogma and Its Exceptions](/results/problem/central-dogma-and-its-exceptions/) — *Foundational Math* · Resolved
-- [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — *Foundational Math* · Resolved
-- [Chandrasekhar Mass Limit](/results/problem/chandrasekhar-mass-limit/) — *Foundational Math* · Resolved
-- [Chirality / Symmetry Breaking Across E0–E2](/results/problem/chirality-symmetry-breaking-across-e0-e2/) — *Consequence* · Resolved
-- [CI Uniqueness](/results/problem/ci-uniqueness/) — *Frontier Problem* · Resolved
-- [Circadian Clock Mechanisms](/results/problem/circadian-clock-mechanisms/) — *Frontier Problem* · Resolved
+- [Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm](/results/problem/cabibbo-angle/) — *Foundational Math* · Internally addressed
+- [Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain](/results/problem/canonical-ladder-theorem/) — *Foundational Math* · Internally addressed
+- [Cantor Diagonal Inapplicability](/results/problem/cantor-diagonal-inapplicability/) — *Consequence* · Internally addressed
+- [Categorical Imperative Derivation](/results/problem/categorical-imperative-derivation/) — *Frontier Problem* · Internally addressed
+- [Categoricity of Tau](/results/problem/categoricity-of-tau/) — *Foundational Math* · Internally addressed
+- [Cell as Tau-Object](/results/problem/cell-as-tau-object/) — *Consequence* · Internally addressed
+- [Cell Membrane Origins](/results/problem/cell-membrane-origins/) — *Frontier Problem* · Internally addressed
+- [Cellular Senescence](/results/problem/cellular-senescence/) — *Frontier Problem* · Internally addressed
+- [Central Dogma and Its Exceptions](/results/problem/central-dogma-and-its-exceptions/) — *Foundational Math* · Internally addressed
+- [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — *Foundational Math* · Internally addressed
+- [Chandrasekhar Mass Limit](/results/problem/chandrasekhar-mass-limit/) — *Foundational Math* · Internally addressed
+- [Chirality / Symmetry Breaking Across E0–E2](/results/problem/chirality-symmetry-breaking-across-e0-e2/) — *Consequence* · Internally addressed
+- [CI Uniqueness](/results/problem/ci-uniqueness/) — *Frontier Problem* · Internally addressed
+- [Circadian Clock Mechanisms](/results/problem/circadian-clock-mechanisms/) — *Frontier Problem* · Internally addressed
 - [CKM Unitarity and Cabibbo Anomaly](/results/problem/ckm-unitarity-and-cabibbo-anomaly/) — *Frontier Problem* · Partial
-- [CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm](/results/problem/cmb-first-peak/) — *Frontier Problem* · Resolved
-- [Computability of Biological Processes](/results/problem/computability-of-biological-processes/) — *Foundational Math* · Resolved
+- [CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm](/results/problem/cmb-first-peak/) — *Frontier Problem* · Internally addressed
+- [Computability of Biological Processes](/results/problem/computability-of-biological-processes/) — *Foundational Math* · Internally addressed
 - [Consciousness Across E1–E3](/results/problem/consciousness-across-e1-e3/) — *Consequence* · Partial
 - [Consciousness Is a Global Section: Γ(Mind)](/results/problem/consciousness-global-section/) — *Frontier Problem* · Partial
-- [Consciousness Neural Correlates](/results/problem/consciousness-neural-correlates/) — *Frontier Problem* · Resolved
-- [Convergent Evolution](/results/problem/convergent-evolution/) — *Frontier Problem* · Resolved
-- [Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness](/results/problem/cosmological-flatness-omega-k-zero/) — *Frontier Problem* · Resolved
-- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — *Frontier Problem* · Resolved
-- [Dark Energy Equation of State](/results/problem/dark-energy-equation-of-state/) — *Frontier Problem* · Resolved
-- [Dark Sector Closure](/results/problem/dark-sector-closure/) — *Frontier Problem* · Resolved
-- [Definition of Beauty](/results/problem/definition-of-beauty/) — *Frontier Problem* · Resolved
-- [DESI BAO](/results/problem/desi-bao/) — *Frontier Problem* · Resolved
-- [Deuterium Abundance](/results/problem/deuterium-abundance/) — *Frontier Problem* · Resolved
-- [Differentiation Is Irreversible: Waddington Descent Monotone](/results/problem/differentiation-irreversible/) — *Foundational Math* · Resolved
-- [Earned Topos](/results/problem/earned-topos/) — *Foundational Math* · Resolved
-- [Electron Mass at 0.025 ppm: 10-Link Derivation from K0–K6](/results/problem/electron-mass-0025-ppm/) — *Frontier Problem* · Resolved
-- [Electron Mass Precision](/results/problem/electron-mass-precision/) — *Frontier Problem* · Resolved
-- [Embodied Cognition](/results/problem/embodied-cognition/) — *Frontier Problem* · Resolved
+- [Consciousness Neural Correlates](/results/problem/consciousness-neural-correlates/) — *Frontier Problem* · Internally addressed
+- [Convergent Evolution](/results/problem/convergent-evolution/) — *Frontier Problem* · Internally addressed
+- [Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness](/results/problem/cosmological-flatness-omega-k-zero/) — *Frontier Problem* · Internally addressed
+- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — *Frontier Problem* · Internally addressed
+- [Dark Energy Equation of State](/results/problem/dark-energy-equation-of-state/) — *Frontier Problem* · Internally addressed
+- [Dark Sector Closure](/results/problem/dark-sector-closure/) — *Frontier Problem* · Internally addressed
+- [Definition of Beauty](/results/problem/definition-of-beauty/) — *Frontier Problem* · Internally addressed
+- [DESI BAO](/results/problem/desi-bao/) — *Frontier Problem* · Internally addressed
+- [Deuterium Abundance](/results/problem/deuterium-abundance/) — *Frontier Problem* · Internally addressed
+- [Differentiation Is Irreversible: Waddington Descent Monotone](/results/problem/differentiation-irreversible/) — *Foundational Math* · Internally addressed
+- [Earned Topos](/results/problem/earned-topos/) — *Foundational Math* · Internally addressed
+- [Electron Mass at 0.025 ppm: 10-Link Derivation from K0–K6](/results/problem/electron-mass-0025-ppm/) — *Frontier Problem* · Internally addressed
+- [Electron Mass Precision](/results/problem/electron-mass-precision/) — *Frontier Problem* · Internally addressed
+- [Embodied Cognition](/results/problem/embodied-cognition/) — *Frontier Problem* · Internally addressed
 - [Emergence of Spacetime](/results/problem/emergence-of-spacetime/) — *Frontier Problem* · Partial
-- [Emotions as Register Transitions](/results/problem/emotions-as-register-transitions/) — *Foundational Math* · Resolved
-- [Enrichment Ladder](/results/problem/enrichment-ladder/) — *Foundational Math* · Resolved
-- [Epigenetics](/results/problem/epigenetics/) — *Frontier Problem* · Resolved
-- [Equivalence Principle from τ](/results/problem/equivalence-principle-from/) — *Foundational Math* · Resolved
-- [Ethics / Normativity Across E2–E3](/results/problem/ethics-normativity-across-e2-e3/) — *Consequence* · Resolved
-- [Exactly Three Colors: N_c = 3 from Primorial Depth](/results/problem/three-colors-derived/) — *Foundational Math* · Resolved
-- [Extended Mind](/results/problem/extended-mind/) — *Frontier Problem* · Resolved
-- [Faith–Reason Bridge](/results/problem/faith-reason-bridge/) — *Consequence* · Resolved
-- [Far-Future Cosmology and Universal BH](/results/problem/far-future-cosmology-and-universal-bh/) — *Consequence* · Resolved
-- [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — *Foundational Math* · Resolved
-- [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — *Foundational Math* · Resolved
-- [Fine-Tuning Dissolved](/results/problem/fine-tuning-dissolved/) — *Consequence* · Resolved
-- [Fitness Landscape Theory](/results/problem/fitness-landscape-theory/) — *Foundational Math* · Resolved
-- [Flat Galaxy Rotation Curves from Capacity Gradient](/results/problem/flat-rotation-curves/) — *Frontier Problem* · Resolved
-- [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — *Foundational Math* · Resolved
-- [Free Will and Moral Responsibility](/results/problem/free-will-and-moral-responsibility/) — *Frontier Problem* · Resolved
-- [Free Will as Branching: Compatibilism Dissolved as Scale Confusion](/results/problem/free-will-as-branching/) — *Frontier Problem* · Resolved
-- [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — *Foundational Math* · Resolved
-- [Galaxy Rotation Curves without Dark Matter](/results/problem/galaxy-rotation-curves-without-dark-matter/) — *Frontier Problem* · Resolved
-- [Gavagai and Indeterminacy of Translation](/results/problem/gavagai-and-indeterminacy-of-translation/) — *Frontier Problem* · Resolved
-- [Genetic Code Optimality](/results/problem/genetic-code-optimality/) — *Frontier Problem* · Resolved
-- [Genetic Code Optimality: Top 0.01% for Error Minimization](/results/problem/genetic-code-optimality-top-0pt01-percent/) — *Frontier Problem* · Resolved
-- [Gettier Problem](/results/problem/gettier-problem/) — *Frontier Problem* · Resolved
-- [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — *Foundational Math* · Resolved
+- [Emotions as Register Transitions](/results/problem/emotions-as-register-transitions/) — *Foundational Math* · Internally addressed
+- [Enrichment Ladder](/results/problem/enrichment-ladder/) — *Foundational Math* · Internally addressed
+- [Epigenetics](/results/problem/epigenetics/) — *Frontier Problem* · Internally addressed
+- [Equivalence Principle from τ](/results/problem/equivalence-principle-from/) — *Foundational Math* · Internally addressed
+- [Ethics / Normativity Across E2–E3](/results/problem/ethics-normativity-across-e2-e3/) — *Consequence* · Internally addressed
+- [Exactly Three Colors: N_c = 3 from Primorial Depth](/results/problem/three-colors-derived/) — *Foundational Math* · Internally addressed
+- [Extended Mind](/results/problem/extended-mind/) — *Frontier Problem* · Internally addressed
+- [Faith–Reason Bridge](/results/problem/faith-reason-bridge/) — *Consequence* · Internally addressed
+- [Far-Future Cosmology and Universal BH](/results/problem/far-future-cosmology-and-universal-bh/) — *Consequence* · Internally addressed
+- [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — *Foundational Math* · Internally addressed
+- [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — *Foundational Math* · Internally addressed
+- [Fine-Tuning Dissolved](/results/problem/fine-tuning-dissolved/) — *Consequence* · Internally addressed
+- [Fitness Landscape Theory](/results/problem/fitness-landscape-theory/) — *Foundational Math* · Internally addressed
+- [Flat Galaxy Rotation Curves from Capacity Gradient](/results/problem/flat-rotation-curves/) — *Frontier Problem* · Internally addressed
+- [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — *Foundational Math* · Internally addressed
+- [Free Will and Moral Responsibility](/results/problem/free-will-and-moral-responsibility/) — *Frontier Problem* · Internally addressed
+- [Free Will as Branching: Compatibilism Dissolved as Scale Confusion](/results/problem/free-will-as-branching/) — *Frontier Problem* · Internally addressed
+- [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — *Foundational Math* · Internally addressed
+- [Galaxy Rotation Curves without Dark Matter](/results/problem/galaxy-rotation-curves-without-dark-matter/) — *Frontier Problem* · Internally addressed
+- [Gavagai and Indeterminacy of Translation](/results/problem/gavagai-and-indeterminacy-of-translation/) — *Frontier Problem* · Internally addressed
+- [Genetic Code Optimality](/results/problem/genetic-code-optimality/) — *Frontier Problem* · Internally addressed
+- [Genetic Code Optimality: Top 0.01% for Error Minimization](/results/problem/genetic-code-optimality-top-0pt01-percent/) — *Frontier Problem* · Internally addressed
+- [Gettier Problem](/results/problem/gettier-problem/) — *Frontier Problem* · Internally addressed
+- [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — *Foundational Math* · Internally addressed
 - [Goldbach Conjecture](/results/problem/goldbach-conjecture/) — *Frontier Problem* · Not Addressed
 - [Grand GRH Approach](/results/problem/grand-grh-approach/) — *Frontier Problem* · Partial
-- [Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — *Foundational Math* · Resolved
-- [Gödel Avoidance](/results/problem/g-del-avoidance/) — *Frontier Problem* · Resolved
-- [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — *Consequence* · Resolved
+- [Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — *Foundational Math* · Internally addressed
+- [Gödel Avoidance](/results/problem/g-del-avoidance/) — *Frontier Problem* · Internally addressed
+- [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — *Consequence* · Internally addressed
 - [Hard Problem of Consciousness](/results/problem/hard-problem-of-consciousness/) — *Frontier Problem* · Partial
-- [Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck](/results/problem/helium-4-abundance-y-p-20-over-81/) — *Foundational Math* · Resolved
-- [Hierarchy Problem](/results/problem/hierarchy-problem/) — *Frontier Problem* · Resolved
-- [Higgs Boson Mass Prediction at +8.0 ppm](/results/problem/higgs-mass-prediction/) — *Frontier Problem* · Resolved
-- [Higgs Self-Coupling](/results/problem/higgs-self-coupling/) — *Frontier Problem* · Resolved
-- [Higgs Self-Coupling λ_H = 0.12928 at +16 ppm](/results/problem/higgs-self-coupling-lambda-h-16-ppm/) — *Frontier Problem* · Resolved
+- [Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck](/results/problem/helium-4-abundance-y-p-20-over-81/) — *Foundational Math* · Internally addressed
+- [Hierarchy Problem](/results/problem/hierarchy-problem/) — *Frontier Problem* · Internally addressed
+- [Higgs Boson Mass Prediction at +8.0 ppm](/results/problem/higgs-mass-prediction/) — *Frontier Problem* · Internally addressed
+- [Higgs Self-Coupling](/results/problem/higgs-self-coupling/) — *Frontier Problem* · Internally addressed
+- [Higgs Self-Coupling λ_H = 0.12928 at +16 ppm](/results/problem/higgs-self-coupling-lambda-h-16-ppm/) — *Frontier Problem* · Internally addressed
 - [High-Tc Superconductivity](/results/problem/high-tc-superconductivity/) — *Frontier Problem* · Partial
-- [Hinge Theorem: Books IV–VII Are Sector Instantiations of Book III](/results/problem/hinge-theorem-no-knobs/) — *Foundational Math* · Resolved
+- [Hinge Theorem: Books IV–VII Are Sector Instantiations of Book III](/results/problem/hinge-theorem-no-knobs/) — *Foundational Math* · Internally addressed
 - [Hodge Conjecture Approach](/results/problem/hodge-conjecture-approach/) — *Frontier Problem* · Partial
-- [Homochirality Origin](/results/problem/homochirality-origin/) — *Frontier Problem* · Resolved
-- [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — *Frontier Problem* · Resolved
-- [Hubble Tension](/results/problem/hubble-tension/) — *Frontier Problem* · Resolved
-- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — *Frontier Problem* · Resolved
-- [Hyperfactorization](/results/problem/hyperfactorization/) — *Foundational Math* · Resolved
-- [Hyperfactorization: Every Object Has a Unique Canonical Normal Form](/results/problem/hyperfactorization-theorem/) — *Foundational Math* · Resolved
-- [Identity as NF-Address Persistence: Personal Identity Across Change](/results/problem/identity-as-nf-address-persistence/) — *Foundational Math* · Resolved
-- [Identity of Indiscernibles](/results/problem/identity-of-indiscernibles/) — *Frontier Problem* · Resolved
-- [Identity Theorem](/results/problem/identity-theorem/) — *Foundational Math* · Resolved
+- [Homochirality Origin](/results/problem/homochirality-origin/) — *Frontier Problem* · Internally addressed
+- [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — *Frontier Problem* · Internally addressed
+- [Hubble Tension](/results/problem/hubble-tension/) — *Frontier Problem* · Internally addressed
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — *Frontier Problem* · Internally addressed
+- [Hyperfactorization](/results/problem/hyperfactorization/) — *Foundational Math* · Internally addressed
+- [Hyperfactorization: Every Object Has a Unique Canonical Normal Form](/results/problem/hyperfactorization-theorem/) — *Foundational Math* · Internally addressed
+- [Identity as NF-Address Persistence: Personal Identity Across Change](/results/problem/identity-as-nf-address-persistence/) — *Foundational Math* · Internally addressed
+- [Identity of Indiscernibles](/results/problem/identity-of-indiscernibles/) — *Frontier Problem* · Internally addressed
+- [Identity Theorem](/results/problem/identity-theorem/) — *Foundational Math* · Internally addressed
 - [Immune Specificity](/results/problem/immune-specificity/) — *Frontier Problem* · Not Addressed
-- [Individual Quark Masses](/results/problem/individual-quark-masses/) — *Frontier Problem* · Resolved
-- [Inevitability: Six Ontic Requirements Force the τ-Kernel](/results/problem/tau-inevitability/) — *Frontier Problem* · Resolved
-- [Inflation Mechanism](/results/problem/inflation-mechanism/) — *Frontier Problem* · Resolved
-- [Information / Self-Reference Across E0–E3](/results/problem/information-self-reference-across-e0-e3/) — *Consequence* · Resolved
-- [Intentionality](/results/problem/intentionality/) — *Frontier Problem* · Resolved
-- [Intersubjectivity](/results/problem/intersubjectivity/) — *Frontier Problem* · Resolved
-- [Is-Ought Gap Bridged](/results/problem/is-ought-gap-bridged/) — *Frontier Problem* · Resolved
-- [Koide Relation at −9 ppm: Q = 2/3 from σ-Equivariant Mass Matrix](/results/problem/koide-relation/) — *Foundational Math* · Resolved
-- [Kolmogorov Constant C_K = 3/2 Exact from dim(τ³)/dim(T²)](/results/problem/kolmogorov-constant-c-k-exact/) — *Foundational Math* · Resolved
+- [Individual Quark Masses](/results/problem/individual-quark-masses/) — *Frontier Problem* · Internally addressed
+- [Inevitability: Six Ontic Requirements Force the τ-Kernel](/results/problem/tau-inevitability/) — *Frontier Problem* · Internally addressed
+- [Inflation Mechanism](/results/problem/inflation-mechanism/) — *Frontier Problem* · Internally addressed
+- [Information / Self-Reference Across E0–E3](/results/problem/information-self-reference-across-e0-e3/) — *Consequence* · Internally addressed
+- [Intentionality](/results/problem/intentionality/) — *Frontier Problem* · Internally addressed
+- [Intersubjectivity](/results/problem/intersubjectivity/) — *Frontier Problem* · Internally addressed
+- [Is-Ought Gap Bridged](/results/problem/is-ought-gap-bridged/) — *Frontier Problem* · Internally addressed
+- [Koide Relation at −9 ppm: Q = 2/3 from σ-Equivariant Mass Matrix](/results/problem/koide-relation/) — *Foundational Math* · Internally addressed
+- [Kolmogorov Constant C_K = 3/2 Exact from dim(τ³)/dim(T²)](/results/problem/kolmogorov-constant-c-k-exact/) — *Foundational Math* · Internally addressed
 - [Langlands Program Approach](/results/problem/langlands-program-approach/) — *Frontier Problem* · Partial
-- [Layer Separation: SelfDesc Is Unavailable at E₁](/results/problem/layer-separation/) — *Frontier Problem* · Resolved
-- [Li-7 Problem Resolved: ⁷Li/H via Fiber Suppression S = 1/3](/results/problem/lithium-7-problem-resolved/) — *Frontier Problem* · Resolved
+- [Layer Separation: SelfDesc Is Unavailable at E₁](/results/problem/layer-separation/) — *Frontier Problem* · Internally addressed
+- [Li-7 Problem Resolved: ⁷Li/H via Fiber Suppression S = 1/3](/results/problem/lithium-7-problem-resolved/) — *Frontier Problem* · Internally addressed
 - [Life as Structurally Favored Rather Than Accidental](/results/problem/life-as-structurally-favored-rather-than-accidental/) — *Consequence* · Qualitative
 - [Machine Consciousness](/results/problem/machine-consciousness/) — *Frontier Problem* · Partial
-- [Machine Consciousness (E3)](/results/problem/machine-consciousness-e3/) — *Frontier Problem* · Resolved
+- [Machine Consciousness (E3)](/results/problem/machine-consciousness-e3/) — *Frontier Problem* · Internally addressed
 - [Machine Consciousness (Life-side bridge)](/results/problem/machine-consciousness-life-side-bridge/) — *Frontier Problem* · Partial
-- [Master Schema: All Eight Millennium Problems Are Instances of Mutual Determination](/results/problem/master-schema-millennium/) — *Foundational Math* · Resolved
-- [Mathematical Biology — Categorical Methods](/results/problem/mathematical-biology-categorical-methods/) — *Foundational Math* · Resolved
-- [Measurement Problem](/results/problem/measurement-problem/) — *Frontier Problem* · Resolved
-- [Membrane-First vs Metabolism-First](/results/problem/membrane-first-vs-metabolism-first/) — *Frontier Problem* · Resolved
-- [Mereological Composition](/results/problem/mereological-composition/) — *Frontier Problem* · Resolved
-- [Metabolic Network Topology](/results/problem/metabolic-network-topology/) — *Foundational Math* · Resolved
-- [Minimal Cell / Synthetic Life Criteria](/results/problem/minimal-cell-synthetic-life-criteria/) — *Frontier Problem* · Resolved
-- [Modal Logic S4 as Theorem: τ-Modal Operators and Kripke Soundness](/results/problem/modal-logic-s4-theorem/) — *Foundational Math* · Resolved
-- [Moral Realism Derived](/results/problem/moral-realism-derived/) — *Foundational Math* · Resolved
-- [Morphogen Gradient Interpretation](/results/problem/morphogen-gradient-interpretation/) — *Frontier Problem* · Resolved
-- [Muon Anomalous Magnetic Moment a_μ at +8.8 ppm](/results/problem/muon-anomalous-magnetic-moment-8pt8-ppm/) — *Frontier Problem* · Resolved
-- [Muon g−2 Anomaly](/results/problem/muon-g-2-anomaly/) — *Frontier Problem* · Resolved
-- [Musical Universals](/results/problem/musical-universals/) — *Frontier Problem* · Resolved
-- [Mutual Determination: Five Characterizations of Holomorphic Functions](/results/problem/mutual-determination/) — *Foundational Math* · Resolved
-- [Mycorrhizal Networks](/results/problem/mycorrhizal-networks/) — *Frontier Problem* · Resolved
-- [Narrative Identity](/results/problem/narrative-identity/) — *Foundational Math* · Resolved
+- [Master Schema: All Eight Millennium Problems Are Instances of Mutual Determination](/results/problem/master-schema-millennium/) — *Foundational Math* · Internally addressed
+- [Mathematical Biology — Categorical Methods](/results/problem/mathematical-biology-categorical-methods/) — *Foundational Math* · Internally addressed
+- [Measurement Problem](/results/problem/measurement-problem/) — *Frontier Problem* · Internally addressed
+- [Membrane-First vs Metabolism-First](/results/problem/membrane-first-vs-metabolism-first/) — *Frontier Problem* · Internally addressed
+- [Mereological Composition](/results/problem/mereological-composition/) — *Frontier Problem* · Internally addressed
+- [Metabolic Network Topology](/results/problem/metabolic-network-topology/) — *Foundational Math* · Internally addressed
+- [Minimal Cell / Synthetic Life Criteria](/results/problem/minimal-cell-synthetic-life-criteria/) — *Frontier Problem* · Internally addressed
+- [Modal Logic S4 as Theorem: τ-Modal Operators and Kripke Soundness](/results/problem/modal-logic-s4-theorem/) — *Foundational Math* · Internally addressed
+- [Moral Realism Derived](/results/problem/moral-realism-derived/) — *Foundational Math* · Internally addressed
+- [Morphogen Gradient Interpretation](/results/problem/morphogen-gradient-interpretation/) — *Frontier Problem* · Internally addressed
+- [Muon Anomalous Magnetic Moment a_μ at +8.8 ppm](/results/problem/muon-anomalous-magnetic-moment-8pt8-ppm/) — *Frontier Problem* · Internally addressed
+- [Muon g−2 Anomaly](/results/problem/muon-g-2-anomaly/) — *Frontier Problem* · Internally addressed
+- [Musical Universals](/results/problem/musical-universals/) — *Frontier Problem* · Internally addressed
+- [Mutual Determination: Five Characterizations of Holomorphic Functions](/results/problem/mutual-determination/) — *Foundational Math* · Internally addressed
+- [Mycorrhizal Networks](/results/problem/mycorrhizal-networks/) — *Frontier Problem* · Internally addressed
+- [Narrative Identity](/results/problem/narrative-identity/) — *Foundational Math* · Internally addressed
 - [Navier–Stokes Regularity](/results/problem/navier-stokes-regularity/) — *Frontier Problem* · Not Addressed
-- [Necessary vs Sufficient Conditions for Life](/results/problem/necessary-vs-sufficient-conditions-for-life/) — *Frontier Problem* · Resolved
-- [Neurodegeneration](/results/problem/neurodegeneration/) — *Frontier Problem* · Resolved
-- [Neurodegeneration as Hayflick Tower Crossing](/results/problem/neurodegeneration-as-hayflick-tower/) — *Frontier Problem* · Resolved
-- [Neutrino Mass Ordering](/results/problem/neutrino-mass-ordering/) — *Frontier Problem* · Resolved
-- [Neutrino Mass Sum Σm_ν = 0.089 eV, Normal Ordering Derived](/results/problem/neutrino-mass-sum-0pt089-ev-normal-ordering/) — *Frontier Problem* · Resolved
-- [Neutron EDM](/results/problem/neutron-edm/) — *Frontier Problem* · Resolved
-- [Neutron Lifetime Puzzle](/results/problem/neutron-lifetime-puzzle/) — *Frontier Problem* · Resolved
+- [Necessary vs Sufficient Conditions for Life](/results/problem/necessary-vs-sufficient-conditions-for-life/) — *Frontier Problem* · Internally addressed
+- [Neurodegeneration](/results/problem/neurodegeneration/) — *Frontier Problem* · Internally addressed
+- [Neurodegeneration as Hayflick Tower Crossing](/results/problem/neurodegeneration-as-hayflick-tower/) — *Frontier Problem* · Internally addressed
+- [Neutrino Mass Ordering](/results/problem/neutrino-mass-ordering/) — *Frontier Problem* · Internally addressed
+- [Neutrino Mass Sum Σm_ν = 0.089 eV, Normal Ordering Derived](/results/problem/neutrino-mass-sum-0pt089-ev-normal-ordering/) — *Frontier Problem* · Internally addressed
+- [Neutron EDM](/results/problem/neutron-edm/) — *Frontier Problem* · Internally addressed
+- [Neutron Lifetime Puzzle](/results/problem/neutron-lifetime-puzzle/) — *Frontier Problem* · Internally addressed
 - [No Axion Needed](/results/problem/no-axion-needed/) — *Consequence* · Contradicted
 - [No Black Hole Evaporation: dM/dn ≥ 0 and Information Preserved](/results/problem/no-bh-evaporation/) — *Consequence* · Contradicted
-- [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — *Frontier Problem* · Resolved
-- [No Forced Stance](/results/problem/no-forced-stance/) — *Consequence* · Resolved
+- [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — *Frontier Problem* · Internally addressed
+- [No Forced Stance](/results/problem/no-forced-stance/) — *Consequence* · Internally addressed
 - [No Hawking Radiation](/results/problem/no-hawking-radiation/) — *Consequence* · Contradicted
-- [No Singularity: Profinite Structure Blocks a → 0](/results/problem/no-singularity-theorem/) — *Foundational Math* · Resolved
-- [Non-Reductive Emergence](/results/problem/non-reductive-emergence/) — *Consequence* · Resolved
+- [No Singularity: Profinite Structure Blocks a → 0](/results/problem/no-singularity-theorem/) — *Foundational Math* · Internally addressed
+- [Non-Reductive Emergence](/results/problem/non-reductive-emergence/) — *Consequence* · Internally addressed
 - [Not MOND](/results/problem/not-mond/) — *Consequence* · Contradicted
-- [Number Tower N → Z → Q → R → C](/results/problem/number-tower-n-z-q-r-c/) — *Foundational Math* · Resolved
-- [Ontological Dependence](/results/problem/ontological-dependence/) — *Foundational Math* · Resolved
-- [Organelle Evolution via Endosymbiosis](/results/problem/organelle-evolution-via-endosymbiosis/) — *Frontier Problem* · Resolved
+- [Number Tower N → Z → Q → R → C](/results/problem/number-tower-n-z-q-r-c/) — *Foundational Math* · Internally addressed
+- [Ontological Dependence](/results/problem/ontological-dependence/) — *Foundational Math* · Internally addressed
+- [Organelle Evolution via Endosymbiosis](/results/problem/organelle-evolution-via-endosymbiosis/) — *Frontier Problem* · Internally addressed
 - [P vs NP](/results/problem/p-vs-np/) — *Frontier Problem* · Partial
 - [Panpsychism Excluded](/results/problem/panpsychism-excluded/) — *Consequence* · Contradicted
-- [Paraconsistent Logic](/results/problem/paraconsistent-logic/) — *Foundational Math* · Resolved
-- [Parity Bridge Theorem: E₁ → 2_τ → E₂ Factors Through the Weak Sector](/results/problem/parity-bridge-theorem/) — *Frontier Problem* · Resolved
-- [Periodic Table Structure](/results/problem/periodic-table-structure/) — *Foundational Math* · Resolved
-- [Persistence Through Change](/results/problem/persistence-through-change/) — *Frontier Problem* · Resolved
-- [Physical Reality as a Semantic Reading of E1](/results/problem/physical-reality-as-a-semantic-reading-of-e1/) — *Consequence* · Resolved
-- [Poincaré Conjecture Reinterpretation](/results/problem/poincar-conjecture-reinterpretation/) — *Frontier Problem* · Resolved
-- [Political Legitimacy](/results/problem/political-legitimacy/) — *Frontier Problem* · Resolved
-- [Prime Polarity](/results/problem/prime-polarity/) — *Foundational Math* · Resolved
-- [Prime Polarity: Primes as Finite Witnesses of Infinity](/results/problem/prime-polarity-theorem/) — *Foundational Math* · Resolved
-- [Primordial Gravitational Waves](/results/problem/primordial-gravitational-waves/) — *Frontier Problem* · Resolved
-- [Private Language Argument](/results/problem/private-language-argument/) — *Frontier Problem* · Resolved
-- [Problem of Universals](/results/problem/problem-of-universals/) — *Frontier Problem* · Resolved
+- [Paraconsistent Logic](/results/problem/paraconsistent-logic/) — *Foundational Math* · Internally addressed
+- [Parity Bridge Theorem: E₁ → 2_τ → E₂ Factors Through the Weak Sector](/results/problem/parity-bridge-theorem/) — *Frontier Problem* · Internally addressed
+- [Periodic Table Structure](/results/problem/periodic-table-structure/) — *Foundational Math* · Internally addressed
+- [Persistence Through Change](/results/problem/persistence-through-change/) — *Frontier Problem* · Internally addressed
+- [Physical Reality as a Semantic Reading of E1](/results/problem/physical-reality-as-a-semantic-reading-of-e1/) — *Consequence* · Internally addressed
+- [Poincaré Conjecture Reinterpretation](/results/problem/poincar-conjecture-reinterpretation/) — *Frontier Problem* · Internally addressed
+- [Political Legitimacy](/results/problem/political-legitimacy/) — *Frontier Problem* · Internally addressed
+- [Prime Polarity](/results/problem/prime-polarity/) — *Foundational Math* · Internally addressed
+- [Prime Polarity: Primes as Finite Witnesses of Infinity](/results/problem/prime-polarity-theorem/) — *Foundational Math* · Internally addressed
+- [Primordial Gravitational Waves](/results/problem/primordial-gravitational-waves/) — *Frontier Problem* · Internally addressed
+- [Private Language Argument](/results/problem/private-language-argument/) — *Frontier Problem* · Internally addressed
+- [Problem of Universals](/results/problem/problem-of-universals/) — *Frontier Problem* · Internally addressed
 - [Protein Folding](/results/problem/protein-folding/) — *Frontier Problem* · Not Addressed
-- [Proton Charge Radius r_p at +12 ppm (37× Improvement in Wave 46)](/results/problem/proton-charge-radius-12-ppm/) — *Frontier Problem* · Resolved
+- [Proton Charge Radius r_p at +12 ppm (37× Improvement in Wave 46)](/results/problem/proton-charge-radius-12-ppm/) — *Frontier Problem* · Internally addressed
 - [Proton g-Factor](/results/problem/proton-g-factor/) — *Frontier Problem* · Partial
 - [Proton Spin Puzzle](/results/problem/proton-spin-puzzle/) — *Frontier Problem* · Not Addressed
-- [Proton-Neutron Mass Difference at +33 ppm](/results/problem/proton-neutron-mass-difference/) — *Frontier Problem* · Resolved
+- [Proton-Neutron Mass Difference at +33 ppm](/results/problem/proton-neutron-mass-difference/) — *Frontier Problem* · Internally addressed
 - [QCD Confinement](/results/problem/qcd-confinement/) — *Frontier Problem* · Partial
 - [Quantum Computing](/results/problem/quantum-computing/) — *Frontier Problem* · Not Addressed
-- [Red Queen Hypothesis](/results/problem/red-queen-hypothesis/) — *Frontier Problem* · Resolved
-- [Reference Problem](/results/problem/reference-problem/) — *Frontier Problem* · Resolved
+- [Red Queen Hypothesis](/results/problem/red-queen-hypothesis/) — *Frontier Problem* · Internally addressed
+- [Reference Problem](/results/problem/reference-problem/) — *Frontier Problem* · Internally addressed
 - [Riemann Hypothesis](/results/problem/riemann-hypothesis/) — *Frontier Problem* · Partial
 - [Riemann Hypothesis (spectral approach)](/results/problem/riemann-hypothesis-spectral-approach/) — *Frontier Problem* · Partial
-- [Rydberg Constant at Seven Significant Figures from τ](/results/problem/rydberg-constant-seven-significant-figures/) — *Foundational Math* · Resolved
-- [S8 Tension](/results/problem/s8-tension/) — *Frontier Problem* · Resolved
-- [Saturation Theorem: The Enrichment Ladder Terminates at E₃](/results/problem/saturation-theorem-no-e4/) — *Foundational Math* · Resolved
-- [Self-Reference in Living Systems](/results/problem/self-reference-in-living-systems/) — *Foundational Math* · Resolved
-- [Seven Hallmarks of Life as Theorems](/results/problem/seven-hallmarks-as-theorems/) — *Frontier Problem* · Resolved
-- [Sexual Reproduction Cost and Benefit](/results/problem/sexual-reproduction-cost-and-benefit/) — *Frontier Problem* · Resolved
-- [She–Lévêque Turbulence Exponents Exact from τ³ Dimensions](/results/problem/she-leveque-turbulence-exponents/) — *Foundational Math* · Resolved
-- [Silk Damping Scale](/results/problem/silk-damping-scale/) — *Foundational Math* · Resolved
-- [Sleep Function](/results/problem/sleep-function/) — *Frontier Problem* · Resolved
+- [Rydberg Constant at Seven Significant Figures from τ](/results/problem/rydberg-constant-seven-significant-figures/) — *Foundational Math* · Internally addressed
+- [S8 Tension](/results/problem/s8-tension/) — *Frontier Problem* · Internally addressed
+- [Saturation Theorem: The Enrichment Ladder Terminates at E₃](/results/problem/saturation-theorem-no-e4/) — *Foundational Math* · Internally addressed
+- [Self-Reference in Living Systems](/results/problem/self-reference-in-living-systems/) — *Foundational Math* · Internally addressed
+- [Seven Hallmarks of Life as Theorems](/results/problem/seven-hallmarks-as-theorems/) — *Frontier Problem* · Internally addressed
+- [Sexual Reproduction Cost and Benefit](/results/problem/sexual-reproduction-cost-and-benefit/) — *Frontier Problem* · Internally addressed
+- [She–Lévêque Turbulence Exponents Exact from τ³ Dimensions](/results/problem/she-leveque-turbulence-exponents/) — *Foundational Math* · Internally addressed
+- [Silk Damping Scale](/results/problem/silk-damping-scale/) — *Foundational Math* · Internally addressed
+- [Sleep Function](/results/problem/sleep-function/) — *Frontier Problem* · Internally addressed
 - [Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57](/results/problem/spectral-index-ns-from-inflation/) — *Frontier Problem* · Partial
-- [Stars Are Not Alive: Quadrant III — Distinction Without SelfDesc](/results/problem/stars-not-alive/) — *Frontier Problem* · Resolved
-- [Stone Duality](/results/problem/stone-duality/) — *Foundational Math* · Resolved
-- [Strong Coupling α_s at the Z Pole](/results/problem/strong-coupling-s-at-the-z-pole/) — *Frontier Problem* · Resolved
-- [Strong CP Problem Solved: θ_QCD = 0 from SA-i Admissibility](/results/problem/strong-cp-problem-solved/) — *Foundational Math* · Resolved
+- [Stars Are Not Alive: Quadrant III — Distinction Without SelfDesc](/results/problem/stars-not-alive/) — *Frontier Problem* · Internally addressed
+- [Stone Duality](/results/problem/stone-duality/) — *Foundational Math* · Internally addressed
+- [Strong Coupling α_s at the Z Pole](/results/problem/strong-coupling-s-at-the-z-pole/) — *Frontier Problem* · Internally addressed
+- [Strong CP Problem Solved: θ_QCD = 0 from SA-i Admissibility](/results/problem/strong-cp-problem-solved/) — *Foundational Math* · Internally addressed
 - [Structural Instability / ZFC Identity Slippage](/results/problem/structural-instability-zfc-identity-slippage/) — *Consequence* · Contradicted
-- [Structural Realism](/results/problem/structural-realism/) — *Frontier Problem* · Resolved
-- [Substance vs Process Ontology](/results/problem/substance-vs-process-ontology/) — *Frontier Problem* · Resolved
-- [Substrate Abstraction: The 5+3 Life Conditions Are Substrate-Free](/results/problem/substrate-abstraction/) — *Consequence* · Resolved
-- [Substrate Independence / Multiple Realizability](/results/problem/substrate-independence-multiple-realizability/) — *Frontier Problem* · Resolved
-- [Syntax-Semantics Dissolution](/results/problem/syntax-semantics-dissolution/) — *Foundational Math* · Resolved
-- [S₈ Tension Resolved: S₈ = 0.783 from f_supp × f_growth × f_ν](/results/problem/s8-tension-resolved-0pt783/) — *Foundational Math* · Resolved
-- [Tarski Axioms for Geometry](/results/problem/tarski-axioms-for-geometry/) — *Foundational Math* · Resolved
-- [Tau-Identity Theorem: Agreement at One Depth Implies Agreement Everywhere](/results/problem/tau-identity-theorem/) — *Foundational Math* · Resolved
-- [Temporal Experience](/results/problem/temporal-experience/) — *Frontier Problem* · Resolved
-- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — *Frontier Problem* · Resolved
-- [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — *Frontier Problem* · Resolved
-- [The Four-Layer Architecture of Reality](/results/problem/the-four-layer-architecture-of-reality/) — *Consequence* · Resolved
-- [The Sublime](/results/problem/the-sublime/) — *Frontier Problem* · Resolved
-- [The τ-Coherence Kernel: Seven Axioms on Five Generators](/results/problem/tau-kernel-coherence/) — *Foundational Math* · Resolved
-- [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — *Frontier Problem* · Resolved
-- [Three Generations of Matter from H₁(τ³;ℤ) ≅ ℤ³](/results/problem/three-generations-matter/) — *Frontier Problem* · Resolved
-- [Time Derivation Theorem: Proper Time from K0–K6](/results/problem/time-derivation-theorem/) — *Foundational Math* · Resolved
-- [Tower Machine Architecture](/results/problem/tower-machine-architecture/) — *Foundational Math* · Resolved
+- [Structural Realism](/results/problem/structural-realism/) — *Frontier Problem* · Internally addressed
+- [Substance vs Process Ontology](/results/problem/substance-vs-process-ontology/) — *Frontier Problem* · Internally addressed
+- [Substrate Abstraction: The 5+3 Life Conditions Are Substrate-Free](/results/problem/substrate-abstraction/) — *Consequence* · Internally addressed
+- [Substrate Independence / Multiple Realizability](/results/problem/substrate-independence-multiple-realizability/) — *Frontier Problem* · Internally addressed
+- [Syntax-Semantics Dissolution](/results/problem/syntax-semantics-dissolution/) — *Foundational Math* · Internally addressed
+- [S₈ Tension Resolved: S₈ = 0.783 from f_supp × f_growth × f_ν](/results/problem/s8-tension-resolved-0pt783/) — *Foundational Math* · Internally addressed
+- [Tarski Axioms for Geometry](/results/problem/tarski-axioms-for-geometry/) — *Foundational Math* · Internally addressed
+- [Tau-Identity Theorem: Agreement at One Depth Implies Agreement Everywhere](/results/problem/tau-identity-theorem/) — *Foundational Math* · Internally addressed
+- [Temporal Experience](/results/problem/temporal-experience/) — *Frontier Problem* · Internally addressed
+- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — *Frontier Problem* · Internally addressed
+- [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — *Frontier Problem* · Internally addressed
+- [The Four-Layer Architecture of Reality](/results/problem/the-four-layer-architecture-of-reality/) — *Consequence* · Internally addressed
+- [The Sublime](/results/problem/the-sublime/) — *Frontier Problem* · Internally addressed
+- [The τ-Coherence Kernel: Seven Axioms on Five Generators](/results/problem/tau-kernel-coherence/) — *Foundational Math* · Internally addressed
+- [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — *Frontier Problem* · Internally addressed
+- [Three Generations of Matter from H₁(τ³;ℤ) ≅ ℤ³](/results/problem/three-generations-matter/) — *Frontier Problem* · Internally addressed
+- [Time Derivation Theorem: Proper Time from K0–K6](/results/problem/time-derivation-theorem/) — *Foundational Math* · Internally addressed
+- [Tower Machine Architecture](/results/problem/tower-machine-architecture/) — *Foundational Math* · Internally addressed
 - [Translation Functor tau → ZFC](/results/problem/translation-functor-tau-zfc/) — *Consequence* · Partial
-- [Trolley Problem Resolution](/results/problem/trolley-problem-resolution/) — *Frontier Problem* · Resolved
-- [Trophic Cascade Dynamics](/results/problem/trophic-cascade-dynamics/) — *Foundational Math* · Resolved
-- [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — *Frontier Problem* · Resolved
+- [Trolley Problem Resolution](/results/problem/trolley-problem-resolution/) — *Frontier Problem* · Internally addressed
+- [Trophic Cascade Dynamics](/results/problem/trophic-cascade-dynamics/) — *Foundational Math* · Internally addressed
+- [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — *Frontier Problem* · Internally addressed
 - [Twin Primes](/results/problem/twin-primes/) — *Frontier Problem* · Not Addressed
-- [Unique Infinity](/results/problem/unique-infinity/) — *Consequence* · Resolved
-- [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — *Frontier Problem* · Resolved
-- [Vacuum Energy = 0: Cosmological Constant Problem Dissolved](/results/problem/vacuum-energy-zero/) — *Frontier Problem* · Resolved
-- [Virus Exclusion: NoDist Theorem (3/5 Distinction Conditions Fail)](/results/problem/virus-exclusion-nodist-theorem/) — *Frontier Problem* · Resolved
-- [Vitalism vs Mechanism Dissolved](/results/problem/vitalism-vs-mechanism-dissolved/) — *Consequence* · Resolved
-- [W Mass Puzzle](/results/problem/w-mass-puzzle/) — *Frontier Problem* · Resolved
-- [W-Boson Mass Prediction at −0.5 ppm](/results/problem/w-boson-mass-prediction/) — *Frontier Problem* · Resolved
-- [Weinberg Angle NNLO at −0.7 ppm](/results/problem/weinberg-angle-nnlo/) — *Foundational Math* · Resolved
-- [Weinberg Angle sin²θ_W Precision](/results/problem/weinberg-angle-sin-w-precision/) — *Frontier Problem* · Resolved
-- [What is Life?](/results/problem/what-is-life/) — *Frontier Problem* · Resolved
-- [Why So Many Results Are Even Possible](/results/problem/why-so-many-results-are-even-possible/) — *Consequence* · Resolved
-- [Why Something Rather Than Nothing](/results/problem/why-something-rather-than-nothing/) — *Frontier Problem* · Resolved
-- [Why Three Generations?](/results/problem/why-three-generations/) — *Frontier Problem* · Resolved
+- [Unique Infinity](/results/problem/unique-infinity/) — *Consequence* · Internally addressed
+- [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — *Frontier Problem* · Internally addressed
+- [Vacuum Energy = 0: Cosmological Constant Problem Dissolved](/results/problem/vacuum-energy-zero/) — *Frontier Problem* · Internally addressed
+- [Virus Exclusion: NoDist Theorem (3/5 Distinction Conditions Fail)](/results/problem/virus-exclusion-nodist-theorem/) — *Frontier Problem* · Internally addressed
+- [Vitalism vs Mechanism Dissolved](/results/problem/vitalism-vs-mechanism-dissolved/) — *Consequence* · Internally addressed
+- [W Mass Puzzle](/results/problem/w-mass-puzzle/) — *Frontier Problem* · Internally addressed
+- [W-Boson Mass Prediction at −0.5 ppm](/results/problem/w-boson-mass-prediction/) — *Frontier Problem* · Internally addressed
+- [Weinberg Angle NNLO at −0.7 ppm](/results/problem/weinberg-angle-nnlo/) — *Foundational Math* · Internally addressed
+- [Weinberg Angle sin²θ_W Precision](/results/problem/weinberg-angle-sin-w-precision/) — *Frontier Problem* · Internally addressed
+- [What is Life?](/results/problem/what-is-life/) — *Frontier Problem* · Internally addressed
+- [Why So Many Results Are Even Possible](/results/problem/why-so-many-results-are-even-possible/) — *Consequence* · Internally addressed
+- [Why Something Rather Than Nothing](/results/problem/why-something-rather-than-nothing/) — *Frontier Problem* · Internally addressed
+- [Why Three Generations?](/results/problem/why-three-generations/) — *Frontier Problem* · Internally addressed
 - [Yang-Mills Mass Gap: δ∞^s > 0 Spectrally Isolated](/results/problem/yang-mills-mass-gap/) — *Frontier Problem* · Partial
-- [Yoneda Lemma](/results/problem/yoneda-lemma/) — *Foundational Math* · Resolved
+- [Yoneda Lemma](/results/problem/yoneda-lemma/) — *Foundational Math* · Internally addressed
 - [τ-Admissibility Collapse: P = NP Within τ](/results/problem/tau-admissibility-collapse-p-np/) — *Frontier Problem* · Qualitative

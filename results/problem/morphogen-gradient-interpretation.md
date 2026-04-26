@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ How do cells interpret morphogen concentration gradients to determine their fate
 
 ## Result Statement
 
-Morphogen gradients as Hodge gradient + Turing eigenmodes on cellular boundary. Status: Resolved.
+Morphogen gradients as Hodge gradient + Turing eigenmodes on cellular boundary. Status: Internally addressed.

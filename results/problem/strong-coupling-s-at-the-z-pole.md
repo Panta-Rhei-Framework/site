@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The strong coupling constant α_s(M_Z) sets the strength of QCD interactions. Th
 
 ## Result Statement
 
-α_s(M_Z) derived from strong sector spectral structure. Status: Resolved.
+α_s(M_Z) derived from strong sector spectral structure. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Circadian rhythms (~24-hour cycles) are universal in biology. The τ-framework d
 
 ## Result Statement
 
-Circadian rhythms as Poincaré orbits on temporal lemniscate. Status: Resolved.
+Circadian rhythms as Poincaré orbits on temporal lemniscate. Status: Internally addressed.

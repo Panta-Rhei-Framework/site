@@ -16,6 +16,8 @@ right_rail:
     url: /results/predictions/browse/
   - title: Falsification Pack
     url: /results/falsifications/browse/
+  - title: Predictions & Falsification
+    url: /verify/predictions-and-falsification/
   - title: The Seven Books
     url: /publications/books/
   - title: Physics World Readout
@@ -39,6 +41,8 @@ right_rail:
 </div>
 
 The **Numerical Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+<div class="notice note"><strong>Artifact status.</strong> This page is the stable publication home for the PDF artifact. The [Results prediction surfaces]({{ '/results/predictions/browse/' | relative_url }}) carry world-facing interpretation; [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}) carries the verification and failure-condition handoff.</div>
 
 ## The calibration cascade (the architectural spine)
 

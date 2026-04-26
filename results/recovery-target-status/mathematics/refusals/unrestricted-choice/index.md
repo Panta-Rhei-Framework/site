@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Unrestricted Choice."
 canonical_recovery_id: "MREF-R3"
 ---
 
-# Unrestricted Choice
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Not Applicable**
-- Verification state: **Not Yet Verified**
+- Verification state: **Not yet verified**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Choice-like principles may be studied and bridged, but they cannot enter the ker
 ## Current Recovery Status
 
 - Recovery status: **Not Applicable**
-- Verification status: **Not Yet Verified**
+- Verification status: **Not yet verified**
 - Program ledger item: [MREF-R3](/program/research-agenda/recovery-requirements/mathematics/refusals/unrestricted-choice/)
 - Verification mode: `coherence_constraint`
 

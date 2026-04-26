@@ -69,36 +69,50 @@ The intended reading order is simple:
 
 The Agenda states the burden. The Corpus carries the build. Results shows the current answers and world-readouts. Verify exposes the inspection routes.
 
-## Five ways to read Results
+## Six ways to read Results
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/results/landmark-results/' | relative_url }}">
-    <strong>Landmark Results</strong>
-    <span>Curated high-impact consequences, status-marked and not exhaustive.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/world-readout/' | relative_url }}">
-    <strong>World Readout</strong>
-    <span>Domain-level pictures of mathematics, physics, life, and metaphysics.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
-    <strong>Problem Ledger Answers</strong>
-    <span>Current stances against accepted public open-problem stress tests.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
-    <strong>Recovery Target Status</strong>
-    <span>Current recovery status against declared recovery requirements.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/additional-derived-results/' | relative_url }}">
-    <strong>Additional Derived Results</strong>
-    <span>Framework results not captured by the curated landmarks or ledger mirrors.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
-    <strong>Progress Against Agenda</strong>
-    <span>A dashboard over problem and recovery obligations.</span>
-  </a>
-</div>
+<ol class="v2-grid v2-card-list">
+  <li>
+    <a class="v2-tile" href="{{ '/results/landmark-results/' | relative_url }}">
+      <strong>Landmark Results</strong>
+      <span>Curated high-impact consequences, status-marked and not exhaustive.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/results/world-readout/' | relative_url }}">
+      <strong>World Readout</strong>
+      <span>Domain-level pictures of mathematics, physics, life, and metaphysics.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
+      <strong>Problem Ledger Answers</strong>
+      <span>Current stances against accepted public open-problem stress tests.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
+      <strong>Recovery Target Status</strong>
+      <span>Current recovery status against declared recovery requirements.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/results/additional-derived-results/' | relative_url }}">
+      <strong>Additional Derived Results</strong>
+      <span>Framework results not captured by the curated landmarks or ledger mirrors.</span>
+    </a>
+  </li>
+  <li>
+    <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
+      <strong>Progress Against Agenda</strong>
+      <span>A dashboard over problem and recovery obligations.</span>
+    </a>
+  </li>
+</ol>
 
 ## Current state snapshot
+
+The older result catalogue still uses the historical topic labels `biology` and `philosophy` in data. In the v2.2 public lane language, those correspond to the broader **Life** and **Metaphysics / Philosophy** agenda domains unless a page states a narrower scope.
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/browse/' | relative_url }}">

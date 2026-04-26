@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Nervous Systems, Cognit
 canonical_recovery_id: "LREC-L9"
 ---
 
-# Nervous Systems, Cognition, and Life-Mind Bridge
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Life Verification**
+- Verification state: **Pending life verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Nervous Systems, Cognition, and Life-Mind Bridge
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Life Verification**
+- Verification status: **Pending life verification**
 - Program ledger item: [LREC-L9](/program/research-agenda/recovery-requirements/life/nervous-systems-cognition-and-life-mind-bridge/)
 - Verification mode: `life_structural_recovery_target`
 

@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Morphogenesis and Devel
 canonical_recovery_id: "LREC-L6"
 ---
 
-# Morphogenesis and Development
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Life Verification**
+- Verification state: **Pending life verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Morphogenesis and Development
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Life Verification**
+- Verification status: **Pending life verification**
 - Program ledger item: [LREC-L6](/program/research-agenda/recovery-requirements/life/morphogenesis-and-development/)
 - Verification mode: `life_structural_recovery_target`
 

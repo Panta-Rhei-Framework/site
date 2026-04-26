@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: Metaphysics
     topic: Philosophy
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -39,4 +39,4 @@ This is a non-dualistic Platonism: structures are mind-independent and observer-
 
 ## Result Statement
 
-The Problem of Universals is dissolved through relational ontology: universals and particulars are both structural positions in τ³. Laws are τ-admissible continuation operators, not relations between universals. The framework delivers non-dualistic Platonism. Status: Resolved.
+The Problem of Universals is dissolved through relational ontology: universals and particulars are both structural positions in τ³. Laws are τ-admissible continuation operators, not relations between universals. The framework delivers non-dualistic Platonism. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The neutron lifetime shows a ~8-second discrepancy between bottle and beam measu
 
 ## Result Statement
 
-Neutron lifetime puzzle resolved: bottle value derived from weak decay sector. Status: Resolved.
+Neutron lifetime puzzle resolved: bottle value derived from weak decay sector. Status: Internally addressed.

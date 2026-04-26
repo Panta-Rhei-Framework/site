@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ DESI BAO measurements across five redshift bins provide precision tests of the e
 
 ## Result Statement
 
-DESI BAO: all five redshift bins matched at ~1145 ppm combined. Wave 42B. Status: Resolved.
+DESI BAO: all five redshift bins matched at ~1145 ppm combined. Wave 42B. Status: Internally addressed.

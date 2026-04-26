@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The [Categoricity Theorem]({{ '/framework/mathematics-categoricity/' | relative_
 
 ## Result Statement
 
-The model is unique: K0-K6 determine everything. Status: **Resolved** *(established, machine-checked)*.
+The model is unique: K0-K6 determine everything. Status: **Internally addressed** *(established, machine-checked)*.

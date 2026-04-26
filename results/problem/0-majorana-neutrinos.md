@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Neutrinoless double-beta decay (0νββ) would prove neutrinos are Majorana part
 
 ## Result Statement
 
-0νββ predicted from normal-ordering mass spectrum. Derivation complete. Status: Resolved.
+0νββ predicted from normal-ordering mass spectrum. Derivation complete. Status: Internally addressed.

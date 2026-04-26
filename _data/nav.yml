@@ -65,6 +65,8 @@ lane_nav:
             url: "/program/about/why-this-program-exists/"
           - title: "Scope, Status & Scrutiny"
             url: "/program/about/scope-status-and-scrutiny/"
+          - title: "Independence, Scope & Scrutiny"
+            url: "/program/about/independence-scope-and-scrutiny/"
           - title: "Red-team FAQ"
             url: "/program/about/red-team-faq/"
           - title: "Founders"

@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ How can a single framework with five generators address hundreds of problems acr
 
 ## Result Statement
 
-Extreme kernel constraint (5 generators, 7 axioms, 0 free continuous parameters) forces specificity across all four enrichment layers. Status: Resolved.
+Extreme kernel constraint (5 generators, 7 axioms, 0 free continuous parameters) forces specificity across all four enrichment layers. Status: Internally addressed.

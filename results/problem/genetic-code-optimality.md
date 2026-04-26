@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The genetic code is nearly optimal for error minimization — in the top 0.01% o
 
 ## Result Statement
 
-Genetic code optimality (top 0.01%) derived from BSD-motivic structure. Status: Resolved.
+Genetic code optimality (top 0.01%) derived from BSD-motivic structure. Status: Internally addressed.

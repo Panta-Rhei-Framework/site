@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: Life
     topic: Biology
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -39,4 +39,4 @@ The definition is not a list of properties but a structural characterization: li
 
 ## Result Statement
 
-Life is categorically defined as a τ-Distinction carrier at enrichment level E₂. Seven empirical hallmarks follow as theorems. The definition resolves the extensional problem: viruses fail (no autonomous boundary), fire fails (no normal-form persistence), crystals fail (no Poincaré circulation). Status: Resolved.
+Life is categorically defined as a τ-Distinction carrier at enrichment level E₂. Seven empirical hallmarks follow as theorems. The definition resolves the extensional problem: viruses fail (no autonomous boundary), fire fails (no normal-form persistence), crystals fail (no Poincaré circulation). Status: Internally addressed.

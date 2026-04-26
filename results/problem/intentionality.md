@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Intentionality — the mind's 'aboutness' or directedness toward objects — is 
 
 ## Result Statement
 
-Intentionality as internal morphism with directional structure. Aboutness is categorical, not mysterious. Status: Resolved.
+Intentionality as internal morphism with directional structure. Aboutness is categorical, not mysterious. Status: Internally addressed.

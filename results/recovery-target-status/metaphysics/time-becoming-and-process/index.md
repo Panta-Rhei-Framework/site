@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Time, Becoming, and Pro
 canonical_recovery_id: "METH-R6"
 ---
 
-# Time, Becoming, and Process
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Metaphysics Verification**
+- Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Time, Becoming, and Process
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Metaphysics Verification**
+- Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R6](/program/research-agenda/recovery-requirements/metaphysics/time-becoming-and-process/)
 - Verification mode: `metaphysical_recovery_target`
 

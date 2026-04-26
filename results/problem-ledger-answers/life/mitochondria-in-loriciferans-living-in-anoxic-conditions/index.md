@@ -14,7 +14,7 @@ canonical_problem_id: "life-biology-mitochondria-in-loriciferans-living-in-anoxi
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Not Yet Classified**
+- Internal stance: **Not yet touched**
 - Verification route: **Pending**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Mitochondria in loriciferans living in anoxic conditions
 
 ## Current Program Stance
 
-- Result status: **Not Yet Classified**
+- Result status: **Not yet touched**
 - Tier: `unclassified`
 - Agenda role: `stress_test`
 - Expressibility: `unknown`

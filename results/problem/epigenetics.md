@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Epigenetics — heritable changes in gene expression without DNA sequence change
 
 ## Result Statement
 
-Epigenetics modeled as sheaf-level annotations on the genetic code, compatible with the τ-Distinction framework. Status: Resolved.
+Epigenetics modeled as sheaf-level annotations on the genetic code, compatible with the τ-Distinction framework. Status: Internally addressed.

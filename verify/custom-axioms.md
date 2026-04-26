@@ -65,7 +65,7 @@ Expected output lists:
 - Mathlib's trusted base (`Classical.choice`, `propext`, `Quot.sound`)
 - **Plus, if T transitively depends on a custom axiom**, the custom axiom's name.
 
-This is the diagnostic. A theorem claimed as "Resolved" that transitively depends on one of the three custom axioms should carry a scope label reflecting that dependency. The [Formal Methods audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) names this as one of the fail-fast checks.
+This is the diagnostic. A theorem claimed as "Internally addressed" that transitively depends on one of the three custom axioms should carry a scope label reflecting that dependency. The [Formal Methods audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) names this as one of the fail-fast checks.
 
 ## The three custom axioms
 
@@ -81,7 +81,7 @@ The precise Lean identifiers live in the TauLib source at the pinned commit. The
 
 **What closes the gap.** A constructive proof of the functor's existence for unbounded spectral data, or a rigorous obstruction argument that shows the finite-check must extend. This is an active research direction.
 
-**Where it is load-bearing.** The Master Schema (III.T27) — which is the bridge between τ-internal Riemann Hypothesis results and the classical Clay statement — depends on this axiom. Accordingly, the classical-RH claims are marked **Partial** on the site, not Resolved. If this axiom is retracted or refuted, the bridge from τ-internal ζ-purity to classical RH falls, but the τ-internal Critical Line Theorem (III.T19) remains.
+**Where it is load-bearing.** The Master Schema (III.T27) — which is the bridge between τ-internal Riemann Hypothesis results and the classical Clay statement — depends on this axiom. Accordingly, the classical-RH claims are marked **Partial** on the site, not internally addressed. If this axiom is retracted or refuted, the bridge from τ-internal ζ-purity to classical RH falls, but the τ-internal Critical Line Theorem (III.T19) remains.
 
 ### Axiom 2 — Spectral correspondence at O(3) (Book III)
 
@@ -105,7 +105,7 @@ The precise Lean identifiers live in the TauLib source at the pinned commit. The
 
 **What closes the gap.** A rigorous argument that the τ-internal spectral trichotomy (III.T14) applies uniformly across the full adelic class. This is the most ambitious of the three Book III axioms and the least likely to be closed in the near term.
 
-**Where it is load-bearing.** Grand GRH claims for higher-rank classes (not classical GRH for Dirichlet L, which is finite-checked separately). Any Resolved-status GRH claim that depends transitively on this axiom should be re-typed to Partial.
+**Where it is load-bearing.** Grand GRH claims for higher-rank classes (not classical GRH for Dirichlet L, which is finite-checked separately). Any internally addressed-status GRH claim that depends transitively on this axiom should be re-typed to Partial.
 
 ### Axiom 4 (RETIRED) — `central_theorem_physical : True` (Book IV)
 
@@ -130,10 +130,10 @@ A framework that hid such axioms inside definitions, used them implicitly in tac
 A Lean-4 / formal-methods specialist should verify:
 
 1. **Count correctness.** Is the `rg "^axiom"` output exactly 3 matches at the pinned commit, all in `TauLib/BookIII/`? (Claim: yes.)
-2. **Axiom chain faithfulness.** For each of ~10 headline theorems that the Release Manifest claims as Resolved, does `#print axioms` surface only the Mathlib trusted base plus (where applicable) the `native_decide` TCB extension (`Lean.ofReduceBool`, `Lean.trustCompiler`) and no custom axioms? (Claim: yes; see [TCB Disclosure]({{ '/verify/tcb/' | relative_url }}).)
+2. **Axiom chain faithfulness.** For each of ~10 headline theorems that the Release Manifest claims as internally addressed, does `#print axioms` surface only the Mathlib trusted base plus (where applicable) the `native_decide` TCB extension (`Lean.ofReduceBool`, `Lean.trustCompiler`) and no custom axioms? (Claim: yes; see [TCB Disclosure]({{ '/verify/tcb/' | relative_url }}).)
 3. **Partial-claim axiom propagation.** For each claim marked Partial that references one of the three axioms, does `#print axioms` surface the expected custom axiom? (Claim: yes.)
 4. **Finite-check reproducibility.** For each custom axiom, the stated finite bound is reproducible via `native_decide` on the pinned commit. (Claim: yes.)
-5. **Honest downstream-status propagation.** No Resolved claim transitively depends on a custom axiom in a way that should have re-typed it to Partial. (Claim: all such dependencies have been re-typed.)
+5. **Honest downstream-status propagation.** No internally addressed claim transitively depends on a custom axiom in a way that should have re-typed it to Partial. (Claim: all such dependencies have been re-typed.)
 
 Any finding that violates (1)–(5) should be reported to the program — this would be the single most impactful piece of formal-methods feedback possible.
 

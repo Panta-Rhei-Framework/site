@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Classical logic assumes the law of excluded middle. The τ-framework derives fou
 
 ## Result Statement
 
-Paraconsistent logic derived: four truth values (T, F, B, N) from polarity stabilization. Classical LEM recovered as a special case. Status: Resolved.
+Paraconsistent logic derived: four truth values (T, F, B, N) from polarity stabilization. Classical LEM recovered as a special case. Status: Internally addressed.

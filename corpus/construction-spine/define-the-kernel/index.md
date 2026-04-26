@@ -69,9 +69,7 @@ verification:
   taulib_modules:
     - "TauLib.BookI.Kernel.Signature"
     - "TauLib.BookI.Kernel.Axioms"
-  bridge_check_status: "not_applicable"
   bridge_checks: []
-  empirical_check_status: "not_applicable"
   empirical_checks: []
   unresolved_frontiers:
     - "Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens."
@@ -108,13 +106,9 @@ _body: "## What this step builds\n\nThe first step defines the tau-kernel as the
 
 The program must define a kernel precise enough to build from without importing mathematics, physics, life, or metaphysics as finished inputs.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus presents the five generators, progression operator, K0-K6 axioms, boundary behavior, and diagonal/resource discipline of the tau-kernel.
-
-## What this step builds
-
-The first step defines the tau-kernel as the minimal formal core of the program. It introduces the primitive generators, the progression operator, the kernel axioms, and the discipline that prevents arbitrary external resources from entering the system unnoticed.
 
 ## Why this step is required
 
@@ -154,20 +148,20 @@ The program cannot begin by assuming a finished mathematical or physical backgro
 
 - [Tau Kernel Coherence](/results/problem/tau-kernel-coherence/)
 
-## Verification Modes
+## Verification modes
 
 - formal proof checking
 - axiom inventory
 - TCB disclosure
 - kernel consistency
 
-## Bridge Checks
+## Bridge checks
 
-Not applicable at this step. Later bridge claims depend on the kernel but are verified in downstream construction steps.
+_No separate bridge check is required at this step yet._
 
-## Empirical Checks
+## Empirical checks
 
-Not applicable at this step. Empirical accountability begins after internal physical grammar and measurement bridges are constructed.
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -187,11 +181,10 @@ Not applicable at this step. Empirical accountability begins after internal phys
 
 This step defines the formal kernel. It does not yet recover mathematics, identify physics, or establish ontic status.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens.
 
 ## Spine navigation
 
-- Previous: [Construction Spine overview](/corpus/construction-spine/)
-- Next: [Step 2 - Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/)
+- Next: [Step 2 — Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/)

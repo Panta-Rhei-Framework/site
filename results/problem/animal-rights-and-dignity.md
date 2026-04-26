@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Do animals have moral standing? The τ-framework extends dignity to all carriers
 
 ## Result Statement
 
-Animal rights: dignity extends to all E₂ carriers. Graduated, not binary. Animals have structural moral standing. Status: Resolved.
+Animal rights: dignity extends to all E₂ carriers. Graduated, not binary. Animals have structural moral standing. Status: Internally addressed.

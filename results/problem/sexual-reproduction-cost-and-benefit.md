@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why does sexual reproduction persist despite its twofold cost? The τ-framework 
 
 ## Result Statement
 
-Sexual reproduction as second distinction. Recombination functor offsets twofold cost via Red Queen dynamics. Status: Resolved.
+Sexual reproduction as second distinction. Recombination functor offsets twofold cost via Red Queen dynamics. Status: Internally addressed.

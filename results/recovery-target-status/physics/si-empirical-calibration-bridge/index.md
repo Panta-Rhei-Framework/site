@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for SI / Empirical Calibrat
 canonical_recovery_id: "PREC-P3"
 ---
 
-# SI / Empirical Calibration Bridge
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Physics Verification**
+- Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ SI / Empirical Calibration Bridge
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Physics Verification**
+- Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P3](/program/research-agenda/recovery-requirements/physics/si-empirical-calibration-bridge/)
 - Verification mode: `si_bridge_and_calibration`
 

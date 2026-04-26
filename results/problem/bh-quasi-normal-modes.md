@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Black hole quasi-normal modes (QNMs) are the ringdown frequencies after a BH mer
 
 ## Result Statement
 
-BH quasi-normal modes derived from spectral structure of BH boundary. Status: Resolved.
+BH quasi-normal modes derived from spectral structure of BH boundary. Status: Internally addressed.

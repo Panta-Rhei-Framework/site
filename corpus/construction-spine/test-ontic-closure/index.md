@@ -98,13 +98,9 @@ _body: "## What this step builds\n\nThe final step gathers the strongest closure
 
 The program must test whether the kernel can earn ontic seriousness after mathematics, physics, life, reflection, and self-hosting have been built.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus exposes the closure question as the final evaluation point, not as a premise asserted at the beginning.
-
-## What this step builds
-
-The final step gathers the strongest closure burdens: no externalities, substrate non-deferral, diagrammatic access, self-containment, universal invariance, bridge adequacy, residual boundaries, and ontic status.
 
 ## Why this step is required
 
@@ -126,7 +122,7 @@ Ontic status cannot be asserted at the beginning. It can only be tested after th
 
 ## TauLib modules
 
-_Mapping pending._
+_No dedicated TauLib module is required at this step yet._
 
 ## Book locations
 
@@ -137,20 +133,20 @@ _Mapping pending._
 - [Logos and the Final Boundary](/results/world-readout/metaphysics/logos-and-the-final-boundary/)
 - [The Final Self-Enrichment](/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/)
 
-## Verification Modes
+## Verification modes
 
 - no-externalities audit
 - substrate non-deferral
 - residual-boundary disclosure
 - ontic-status burden
 
-## Bridge Checks
+## Bridge checks
 
 - Check whether every remaining externality, substrate deferral, or unexplained boundary is explicitly named.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -170,11 +166,11 @@ _Mapping pending._
 
 This step does not say the kernel has proven final ontic status. It is where the strongest ontic-status claim can be evaluated.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Ontic closure remains the strongest evaluative burden, not a theorem the site should present as already settled.
 
 ## Spine navigation
 
-- Previous: [Step 9 - Self-Host Formal Systems and the Kernel Itself](/corpus/construction-spine/self-host-formal-systems/)
-- Next: This is the final construction step; return to the [Construction Spine overview](/corpus/construction-spine/).
+- Previous: [Step 9 — Self-Host Formal Systems and the Kernel Itself](/corpus/construction-spine/self-host-formal-systems/)
+- This is the final construction step in the canonical spine.

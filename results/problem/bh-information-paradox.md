@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The black hole information paradox asks whether information is lost when matter 
 
 ## Result Statement
 
-BH information paradox resolved: no Hawking evaporation means no information loss. Information preserved in ω-germ code. Status: Resolved.
+BH information paradox resolved: no Hawking evaporation means no information loss. Information preserved in ω-germ code. Status: Internally addressed.

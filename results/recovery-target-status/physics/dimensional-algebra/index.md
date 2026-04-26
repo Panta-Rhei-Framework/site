@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Dimensional Algebra."
 canonical_recovery_id: "PREC-P1"
 ---
 
-# Dimensional Algebra
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Physics Verification**
+- Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Dimensional Algebra
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Physics Verification**
+- Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P1](/program/research-agenda/recovery-requirements/physics/dimensional-algebra/)
 - Verification mode: `dimensional_consistency`
 

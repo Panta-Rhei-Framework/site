@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The masses of all six quarks (u, d, s, c, b, t) are derived from the framework's
 
 ## Result Statement
 
-All six quark masses derived from spectral structure. 7/7 exponents resolved in Wave 45. Status: Resolved.
+All six quark masses derived from spectral structure. 7/7 exponents resolved in Wave 45. Status: Internally addressed.

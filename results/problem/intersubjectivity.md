@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ How do separate minds share a common world? The τ-framework derives intersubjec
 
 ## Result Statement
 
-Intersubjectivity via perspectival gluing. Objectivity = global section over multi-perspectival cover. Status: Resolved.
+Intersubjectivity via perspectival gluing. Objectivity = global section over multi-perspectival cover. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Are black holes alive? The τ-framework provides a precise answer: black holes s
 
 ## Result Statement
 
-Black holes are not alive in the τ-sense: they lack autonomous Poincaré circulation despite having boundary and persistence. Status: Resolved (consequence).
+Black holes are not alive in the τ-sense: they lack autonomous Poincaré circulation despite having boundary and persistence. Status: Internally addressed (consequence).

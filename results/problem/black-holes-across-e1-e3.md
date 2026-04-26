@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Black holes appear differently across enrichment layers: E₁ (gravitational obj
 
 ## Result Statement
 
-Black holes across E₁-E₃: unified treatment via boundary structure of τ³. No singularity, no evaporation, no information paradox. Status: Resolved.
+Black holes across E₁-E₃: unified treatment via boundary structure of τ³. No singularity, no evaporation, no information paradox. Status: Internally addressed.

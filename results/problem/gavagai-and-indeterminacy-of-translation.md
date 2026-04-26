@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Quine's 'gavagai' problem — radical translation is indeterminate — is resolv
 
 ## Result Statement
 
-Gavagai resolved: kernel invariants translate universally. Readout functor ensures cross-language identity. Status: Resolved.
+Gavagai resolved: kernel invariants translate universally. Readout functor ensures cross-language identity. Status: Internally addressed.

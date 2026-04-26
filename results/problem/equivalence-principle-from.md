@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The equivalence principle (gravitational and inertial mass are identical) is der
 
 ## Result Statement
 
-Equivalence principle derived: gravitational = inertial mass follows from α-orbit universality. Status: Resolved.
+Equivalence principle derived: gravitational = inertial mass follows from α-orbit universality. Status: Internally addressed.

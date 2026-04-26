@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: Metaphysics
     topic: Philosophy
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -39,4 +39,4 @@ The framework thus provides what process philosophy lacked: a formally precise, 
 
 ## Result Statement
 
-Substance ontology is replaced by relational/process ontology: objects are stabilized patterns in ρ-orbits, individuated by normal-form addresses. Relations precede relata. The framework provides formal precision that classical process philosophy lacked. Status: Resolved.
+Substance ontology is replaced by relational/process ontology: objects are stabilized patterns in ρ-orbits, individuated by normal-form addresses. Relations precede relata. The framework provides formal precision that classical process philosophy lacked. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The ancient intuition that beauty and truth are connected is given a categorical
 
 ## Result Statement
 
-Beauty-truth connection: both are aspects of structural coherence. Truth = section existence; beauty = its perceptual registration. Status: Resolved (consequence).
+Beauty-truth connection: both are aspects of structural coherence. Truth = section existence; beauty = its perceptual registration. Status: Internally addressed (consequence).

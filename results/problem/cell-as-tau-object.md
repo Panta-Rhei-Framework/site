@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: Life
     topic: Biology
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -42,4 +42,4 @@ The cell is not merely *analogous* to a τ-object — it *is* one, in the precis
 
 ## Result Statement
 
-The cell is a τ-object at E₂: its membrane realizes L, its metabolism realizes Poincaré circulation, its four molecular families map to the four orbit sectors. This is a structural identification, not an analogy. Status: Resolved.
+The cell is a τ-object at E₂: its membrane realizes L, its metabolism realizes Poincaré circulation, its four molecular families map to the four orbit sectors. This is a structural identification, not an analogy. Status: Internally addressed.

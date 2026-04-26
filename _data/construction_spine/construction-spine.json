@@ -75,9 +75,7 @@
         "TauLib.BookI.Kernel.Signature",
         "TauLib.BookI.Kernel.Axioms"
       ],
-      "bridge_check_status": "not_applicable",
       "bridge_checks": [],
-      "empirical_check_status": "not_applicable",
       "empirical_checks": [],
       "unresolved_frontiers": [
         "Kernel definition does not by itself settle later bridge, empirical, or ontic-status burdens."

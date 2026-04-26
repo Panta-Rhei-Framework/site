@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Special Composition Question (when do parts compose a whole?) is dissolved: 
 
 ## Result Statement
 
-SCQ dissolved: parts compose iff colimit exists in admissible category. Composition is structural. Status: Resolved.
+SCQ dissolved: parts compose iff colimit exists in admissible category. Composition is structural. Status: Internally addressed.

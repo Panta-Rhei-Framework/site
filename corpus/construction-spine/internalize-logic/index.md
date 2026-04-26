@@ -110,13 +110,9 @@ _body: "## What this step builds\n\nThe third step develops the categorical and 
 
 The program must recover enough internal logic and categorical self-structure for the kernel to become self-expressive rather than merely externally described.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus presents categorical organization, internal truth structures, Yoneda-style representation, and early self-enrichment machinery.
-
-## What this step builds
-
-The third step develops the categorical and logical machinery that lets the kernel become internally intelligible. It shifts the construction from objects alone toward internal representation, truth, and self-structure.
 
 ## Why this step is required
 
@@ -158,19 +154,19 @@ A kernel that remains only externally described cannot satisfy the no-externalit
 - [Self-Enrichment, Self-Containment, and Internal Logic](/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/)
 - [Earned Topos](/results/problem/earned-topos/)
 
-## Verification Modes
+## Verification modes
 
 - internal-logic checks
 - categorical consistency
 - semantic correspondence
 
-## Bridge Checks
+## Bridge checks
 
 - Check that internal logical operations remain faithful to the kernel discipline and do not silently import external proof power.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -190,11 +186,11 @@ _Mapping pending._
 
 This step begins self-containment. It does not yet self-host formal systems or test final ontic closure.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Internalization of logic does not yet self-host object theories or settle semantic bridge adequacy.
 
 ## Spine navigation
 
-- Previous: [Step 2 - Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/)
-- Next: [Step 4 - Identify the Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)
+- Previous: [Step 2 — Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/)
+- Next: [Step 4 — Identify the Physical Carrier](/corpus/construction-spine/identify-physical-carrier/)

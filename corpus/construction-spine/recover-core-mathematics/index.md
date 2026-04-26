@@ -113,13 +113,9 @@ _body: "## What this step builds\n\nThis step makes mathematics usable inside th
 
 The program must recover enough mathematics for later layers without silently importing unrestricted classical externalities.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus builds finite syntax, proof objects, arithmetic, algebraic usability, geometry, controlled boundary behavior, and bridge criteria into standard mathematics.
-
-## What this step builds
-
-This step makes mathematics usable inside the kernel. It covers syntax, proof objects, arithmetic, algebraic structure, Euclidean geometry, and controlled bridge criteria into standard mathematics.
 
 ## Why this step is required
 
@@ -159,19 +155,19 @@ Physics, life, and metaphysics cannot be responsibly constructed if the mathemat
 - [Mathematics World Readout](/results/world-readout/mathematics/)
 - [Number Tower](/results/problem/number-tower-n-z-q-r-c/)
 
-## Verification Modes
+## Verification modes
 
 - formal proof checking
 - mathematical bridge verification
 - refusal discipline
 
-## Bridge Checks
+## Bridge checks
 
 - Check that recovered mathematics is explicit about what transfers to standard mathematics and what remains refused or qualified.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -191,11 +187,11 @@ _Mapping pending._
 
 This step does not claim that unrestricted classical mathematics is simply recovered as-is. It recovers mathematical capacity under kernel discipline.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Bridge adequacy to unrestricted standard mathematics remains a separate burden from internal formal success.
 
 ## Spine navigation
 
-- Previous: [Step 1 - Define the Kernel](/corpus/construction-spine/define-the-kernel/)
-- Next: [Step 3 - Internalize Logic and Categorical Self-Structure](/corpus/construction-spine/internalize-logic/)
+- Previous: [Step 1 — Define the Kernel](/corpus/construction-spine/define-the-kernel/)
+- Next: [Step 3 — Internalize Logic and Categorical Self-Structure](/corpus/construction-spine/internalize-logic/)

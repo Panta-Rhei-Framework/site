@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The apparent fine-tuning of physical constants (α, masses, cosmological paramet
 
 ## Result Statement
 
-Fine-tuning dissolved: all physical constants derived from ι<sub>τ</sub> with zero free continuous parameters. Nothing is tuned. Status: Resolved.
+Fine-tuning dissolved: all physical constants derived from ι<sub>τ</sub> with zero free continuous parameters. Nothing is tuned. Status: Internally addressed.

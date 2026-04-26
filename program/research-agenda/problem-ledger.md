@@ -18,7 +18,7 @@ hero_ctas:
   - label: "Source Policy"
     url: /program/research-agenda/problem-ledger-source-policy/
     primary: true
-  - label: "Physics Problem Ledger"
+  - label: "Physics Domain Ledger"
     url: /program/research-agenda/problem-ledger/physics/
   - label: "Results Mirror"
     url: /results/problem-ledger-answers/
@@ -28,7 +28,7 @@ right_rail:
       url: /program/research-agenda/problem-ledger-source-policy/
     - title: "Mathematics Problem Ledger"
       url: /program/research-agenda/problem-ledger/mathematics/
-    - title: "Physics Problem Ledger"
+    - title: "Physics Domain Ledger"
       url: /program/research-agenda/problem-ledger/physics/
     - title: "Life Problem Ledger"
       url: /program/research-agenda/problem-ledger/life/
@@ -139,14 +139,25 @@ Problem Ledger v1.0 records visibility and classification, not solution or accep
 
 These are the current public v1.0 projection from the Corpus problem-ledger source. Imported entries remain explicitly status-marked: most are visible as not-yet-classified agenda obligations, while already linked items point into Results and Verify.
 
-<div class="dep-list">
-  {% for problem in problem_items %}
-  <a href="{{ problem.url | relative_url }}" class="dep-link">
-    <span class="dep-id">{{ problem.canonical_problem_id }}</span>
-    <span class="dep-title">{{ problem.title }}</span>
-    <span class="chip" style="margin-left:auto">{{ problem.display_domain }}</span>
+The root page intentionally does not print the full 239-item list inline. Use the domain ledgers for scoped browsing, source context, and item detail pages:
+
+<div class="v2-grid">
+  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/mathematics/' | relative_url }}">
+    <strong>Browse mathematics</strong>
+    <span>Clay 7 + Langlands, including Poincaré as a regrounding test.</span>
   </a>
-  {% endfor %}
+  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/physics/' | relative_url }}">
+    <strong>Browse physics</strong>
+    <span>102 pinned physics problem items.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/life/' | relative_url }}">
+    <strong>Browse life</strong>
+    <span>Biology and neuroscience entries with overlaps merged explicitly.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/metaphysics-philosophy/' | relative_url }}">
+    <strong>Browse metaphysics / philosophy</strong>
+    <span>27 philosophical problem items.</span>
+  </a>
 </div>
 
 ## Browse by Result Status
@@ -156,7 +167,7 @@ These are the current public v1.0 projection from the Corpus problem-ledger sour
 <div class="v2-grid">
   {% for group in status_groups %}
   <div class="v2-tile">
-    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
+    <strong>{% if group.name == "partially_addressed" %}Partially addressed{% elsif group.name == "not_yet_classified" %}Not yet touched{% else %}{{ group.name | replace: "_", " " | capitalize }}{% endif %}</strong>
     <span>{{ group.size }} public problem item{% if group.size != 1 %}s{% endif %}.</span>
   </div>
   {% endfor %}

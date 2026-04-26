@@ -20,6 +20,8 @@ right_rail:
   related:
   - title: About the Program
     url: /program/about/
+  - title: Independence, Scope & Scrutiny
+    url: /program/about/independence-scope-and-scrutiny/
   - title: Core Design Principles
     url: /program/research-agenda/core-design-principles/
   meta:
@@ -42,6 +44,8 @@ The program addresses:
 But **large scope is not the same as completed status**.
 
 This page exists to hold those two truths together.
+
+For the founders' statement on independent governance, open-research posture, and public accountability, see [Independence, Scope, and Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}).
 
 ## Scope
 

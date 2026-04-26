@@ -14,7 +14,7 @@ canonical_problem_id: "math-navier-stokes-existence-smoothness"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Not Yet Classified**
+- Internal stance: **Not yet touched**
 - Verification route: **Available**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Navier-Stokes
 
 ## Current Program Stance
 
-- Result status: **Not Yet Classified**
+- Result status: **Not yet touched**
 - Tier: `domain_specific`
 - Agenda role: `stress_test`
 - Expressibility: `requires_translation`

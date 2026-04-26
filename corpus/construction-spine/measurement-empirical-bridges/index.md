@@ -105,13 +105,9 @@ _body: "## What this step builds\n\nThis step connects internal tau-physics to m
 
 The program must distinguish what is calibrated, what is predicted, what is dimensionful, what is dimensionless, and what would falsify or pressure the framework.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus and Verify surfaces expose unit bridge, calibration, constants, dimensionless ratios, predictions, falsification paths, and observational comparison.
-
-## What this step builds
-
-This step connects internal tau-physics to measurement, calibration, numerical predictions, observational comparison, and falsification pressure.
 
 ## Why this step is required
 
@@ -133,7 +129,7 @@ An internally coherent physics can still fail to describe measured reality. The 
 
 ## TauLib modules
 
-_Mapping pending._
+_No dedicated TauLib module is required at this step yet._
 
 ## Book locations
 
@@ -145,18 +141,18 @@ _Mapping pending._
 - [Falsification Paths](/results/falsifications/browse/)
 - [From Ratio to Measurement](/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/)
 
-## Verification Modes
+## Verification modes
 
 - bridge verification
 - empirical verification
 - prediction timing
 - falsification
 
-## Bridge Checks
+## Bridge checks
 
 - Check the SI bridge, calibration cascade, and the distinction between dimensionless structure and SI-anchored outputs.
 
-## Empirical Checks
+## Empirical checks
 
 - Check numerical predictions against current measurements and named falsification targets.
 
@@ -179,11 +175,11 @@ _Mapping pending._
 
 This step does not treat internal coherence as empirical success. It makes empirical pressure explicit.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Prediction visibility is not the same as experimental confirmation or external acceptance.
 
 ## Spine navigation
 
-- Previous: [Step 5 - Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
-- Next: [Step 7 - Recover Life as a Structural Class](/corpus/construction-spine/recover-life/)
+- Previous: [Step 5 — Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)
+- Next: [Step 7 — Recover Life as a Structural Class](/corpus/construction-spine/recover-life/)

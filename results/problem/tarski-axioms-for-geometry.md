@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Tarski's axioms for Euclidean geometry (betweenness + congruence) are earned ins
 
 ## Result Statement
 
-Tarski axioms earned from ultrametric orbit structure. Geometry derived, not imported. Status: Resolved.
+Tarski axioms earned from ultrametric orbit structure. Geometry derived, not imported. Status: Internally addressed.

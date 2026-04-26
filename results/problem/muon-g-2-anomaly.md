@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The muon anomalous magnetic moment (g−2) has shown a persistent discrepancy be
 
 ## Result Statement
 
-Muon g−2 derived at +8.8 ppm from the electroweak sector. Status: Resolved.
+Muon g−2 derived at +8.8 ppm from the electroweak sector. Status: Internally addressed.

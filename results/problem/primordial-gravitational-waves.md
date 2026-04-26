@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Primordial gravitational waves from inflation would produce B-mode polarization 
 
 ## Result Statement
 
-Primordial gravitational waves: r = ι<sub>τ</sub>⁴ ≈ 0.014. Testable by CMB-S4. Status: Resolved.
+Primordial gravitational waves: r = ι<sub>τ</sub>⁴ ≈ 0.014. Testable by CMB-S4. Status: Internally addressed.

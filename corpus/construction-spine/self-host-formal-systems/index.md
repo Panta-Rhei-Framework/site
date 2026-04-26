@@ -99,13 +99,9 @@ _body: "## What this step builds\n\nThe ninth step concerns formal systems as in
 
 The program must recover the ability to host ZFC-like systems, Lean-like proof kernels, and the tau-kernel itself as internal objects after reflective symbolic structure exists.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus frames formal systems as hostable object theories only after reflective symbolic structure has been recovered.
-
-## What this step builds
-
-The ninth step concerns formal systems as internal objects: ZFC-like theories, Lean-like kernels, the tau-kernel as represented object, proof as act, computation as performed process, and meta-language internalization.
 
 ## Why this step is required
 
@@ -138,19 +134,19 @@ The program begins with a formal kernel, but self-hosting is not available at th
 - [Pattern, Language, and Proof](/results/world-readout/metaphysics/pattern-language-and-proof/)
 - [Translation Functor Tau-ZFC](/results/problem/translation-functor-tau-zfc/)
 
-## Verification Modes
+## Verification modes
 
 - `meta-verification`
 - object-theory hosting checks
 - proof-as-act analysis
 
-## Bridge Checks
+## Bridge checks
 
 - Check that self-hosted formal systems are represented as constructed objects rather than silently adopted primitives.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -170,11 +166,11 @@ _Mapping pending._
 
 This step must not imply that ZFC is canonical in the raw kernel. ZFC becomes hostable only once reflective symbolic structure exists.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Self-hosting does not by itself imply final closure or universal bridge adequacy.
 
 ## Spine navigation
 
-- Previous: [Step 8 - Recover Reflective Structure](/corpus/construction-spine/recover-reflective-structure/)
-- Next: [Step 10 - Test Universal Closure and Ontic Status](/corpus/construction-spine/test-ontic-closure/)
+- Previous: [Step 8 — Recover Reflective Structure](/corpus/construction-spine/recover-reflective-structure/)
+- Next: [Step 10 — Test Universal Closure and Ontic Status](/corpus/construction-spine/test-ontic-closure/)

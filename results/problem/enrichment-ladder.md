@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -32,4 +32,4 @@ Three sub-theorems establish the ladder: Non-emptiness (III.T01) proves each lay
 
 ## Result Statement
 
-Exactly four enrichment layers exist, with distribution (3,2,1,1) across seven books. Status: **Resolved** *(established, machine-checked)*.
+Exactly four enrichment layers exist, with distribution (3,2,1,1) across seven books. Status: **Internally addressed** *(established, machine-checked)*.

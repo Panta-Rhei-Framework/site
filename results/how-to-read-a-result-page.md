@@ -53,7 +53,7 @@ A one-paragraph canonical statement of the result, suitable for citation.
 ## Epistemic Status Chips
 
 Every result carries typed metadata in the right rail:
-- **Resolved** — the program has a complete, machine-checked or structurally grounded result
+- **Internally addressed** — the program has a complete internal, machine-checked, or structurally grounded result, without implying external acceptance
 - **Partial** — the program has a structural approach but the derivation is incomplete
 - **Qualitative** — the program reframes the problem but does not provide a quantitative prediction
 - **Contradicted** — the program's result contradicts mainstream expectation (flagged honestly)
@@ -82,7 +82,7 @@ Numerical predictions carry a **Tier** label distinct from their epistemic Statu
 - **Tier B** — ~3 ppm precision
 - **Tier C** — ~0.8% precision
 
-Tier is an epistemic quality of the prediction — how tightly the framework commits. Status (Resolved / Partial / Qualitative / Contradicted / Not Addressed) is an observational resolution state — whether current data confirms it. The two are independent axes; the result page surfaces both.
+Tier is an epistemic quality of the prediction — how tightly the framework commits. Status (Internally addressed / Partial / Qualitative / Contradicted / Not addressed) is an observational resolution state — whether current data confirms it. The two are independent axes; the result page surfaces both.
 
 ## How to Verify
 

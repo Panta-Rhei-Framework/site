@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Do LLMs understand language? The τ-framework classifies LLMs as 'para-minds': t
 
 ## Result Statement
 
-LLMs as para-minds: subsymbolic processing without E₃ self-model. Processing ≠ understanding. Status: Resolved.
+LLMs as para-minds: subsymbolic processing without E₃ self-model. Processing ≠ understanding. Status: Internally addressed.

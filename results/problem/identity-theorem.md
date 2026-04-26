@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The τ-Identity Theorem establishes that if two τ-holomorphic functions agree a
 
 ## Result Statement
 
-Agreement at one orbit depth implies agreement everywhere (τ-Identity Theorem). Status: Resolved.
+Agreement at one orbit depth implies agreement everywhere (τ-Identity Theorem). Status: Internally addressed.

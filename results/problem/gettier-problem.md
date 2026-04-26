@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: Metaphysics
     topic: Philosophy
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -41,4 +41,4 @@ Gettier cases are **cover failures**: the subject's open cover is too coarse to 
 
 ## Result Statement
 
-The Gettier Problem is dissolved via sheaf-theoretic epistemology: knowledge is a global section, not justified true belief. Gettier cases are cover failures where the gluing condition is not satisfied. The framework replaces JTB rather than repairing it. Status: Resolved.
+The Gettier Problem is dissolved via sheaf-theoretic epistemology: knowledge is a global section, not justified true belief. Gettier cases are cover failures where the gluing condition is not satisfied. The framework replaces JTB rather than repairing it. Status: Internally addressed.

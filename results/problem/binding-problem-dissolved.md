@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The binding problem — how unified conscious experience arises from distributed
 
 ## Result Statement
 
-Binding problem dissolved: binding = gluing of local sections in mind sheaf. Unity = global section. Status: Resolved.
+Binding problem dissolved: binding = gluing of local sections in mind sheaf. Unity = global section. Status: Internally addressed.

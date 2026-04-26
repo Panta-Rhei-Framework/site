@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Chandrasekhar mass limit (~1.4 M☉) separates white dwarfs from neutron sta
 
 ## Result Statement
 
-Chandrasekhar mass derived from degeneracy pressure sector. Status: Resolved.
+Chandrasekhar mass derived from degeneracy pressure sector. Status: Internally addressed.

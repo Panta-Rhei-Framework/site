@@ -11,7 +11,7 @@ summary_cards:
   - title: "Question first"
     body: "Each entry is read as an answer to a named problem or burden."
   - title: "Status visible"
-    body: "Resolved, partial, qualitative, contradicted, not addressed, open, or deferred."
+    body: "Internally addressed, partial, qualitative, contradicted, not addressed, open, or deferred."
   - title: "Mirror surface"
     body: "This page mirrors generated Corpus Problem Ledger items where result links already exist."
 hero_ctas:
@@ -47,7 +47,7 @@ This page is retained as a compatibility bridge. The v2.1 Results-side mirror no
 
 The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. The Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
 
-The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page narrows the view to Problem Ledger seed items and their linked Result pages.
+The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page is now a compatibility bridge to the v1.0 [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) mirror.
 
 Recovery-facing burden tracking belongs to the Program-side [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ledger.
 
@@ -58,7 +58,7 @@ Recovery-facing burden tracking belongs to the Program-side [Recovery Requiremen
   <div class="v2-tile">
     <strong>
       {% case group.name %}
-        {% when 'R' %}Resolved
+        {% when 'R' %}Internally addressed
         {% when 'P' %}Partial
         {% when 'Q' %}Qualitative
         {% when 'C' %}Contradicted
@@ -75,7 +75,7 @@ Recovery-facing burden tracking belongs to the Program-side [Recovery Requiremen
 
 Use the shared result status vocabulary:
 
-- Resolved
+- Internally addressed
 - Partial
 - Qualitative
 - Contradicted

@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The fibered product τ³ = τ¹ ×_f T² is the central geometric object of the 
 
 ## Result Statement
 
-Fibered product τ³ = τ¹ ×_f T² earned from kernel. Base = macro, fiber = micro. Unique decomposition. Status: Resolved.
+Fibered product τ³ = τ¹ ×_f T² earned from kernel. Base = macro, fiber = micro. Unique decomposition. Status: Internally addressed.

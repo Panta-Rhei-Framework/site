@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The dark energy equation of state w(z) determines how dark energy evolves with r
 
 ## Result Statement
 
-Dark energy equation of state w = −1 exactly. Derived from boundary reading. Status: Resolved.
+Dark energy equation of state w = −1 exactly. Derived from boundary reading. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Cosmic inflation explains the flatness, horizon, and monopole problems but its m
 
 ## Result Statement
 
-Inflation derived from τ¹ base sector: n_s and r = ι<sub>τ</sub>⁴ as structural predictions. Status: Resolved.
+Inflation derived from τ¹ base sector: n_s and r = ι<sub>τ</sub>⁴ as structural predictions. Status: Internally addressed.

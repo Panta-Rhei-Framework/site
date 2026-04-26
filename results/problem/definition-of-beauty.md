@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ What is beauty? The τ-framework provides a categorical definition: beauty is th
 
 ## Result Statement
 
-Beauty defined as perceptual registration of structural coherence — NF-address resonance with spectral pattern. Status: Resolved.
+Beauty defined as perceptual registration of structural coherence — NF-address resonance with spectral pattern. Status: Internally addressed.

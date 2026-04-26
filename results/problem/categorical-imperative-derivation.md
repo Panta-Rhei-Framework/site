@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -32,4 +32,4 @@ The CI emerges as the unique minimal j-closed fixed point of the dignity modalit
 
 ## Result Statement
 
-The CI is derived as the unique j-closed fixed point. Status: **Resolved** *(established, machine-checked)*.
+The CI is derived as the unique j-closed fixed point. Status: **Internally addressed** *(established, machine-checked)*.

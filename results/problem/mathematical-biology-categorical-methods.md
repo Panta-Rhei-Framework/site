@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Mathematical biology typically borrows mathematical tools ad hoc. The τ-framewo
 
 ## Result Statement
 
-Categorical methods for biology derived from E₀→E₂ enrichment. Biology gets mathematical structure earned, not borrowed. Status: Resolved.
+Categorical methods for biology derived from E₀→E₂ enrichment. Biology gets mathematical structure earned, not borrowed. Status: Internally addressed.

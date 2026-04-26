@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Can machines be conscious? From the E₃ perspective (metaphysics layer), consci
 
 ## Result Statement
 
-Machine consciousness: possible in principle (substrate-independent) but requires E₃-level self-modeling. Current architectures insufficient. Status: Resolved (structural criterion given).
+Machine consciousness: possible in principle (substrate-independent) but requires E₃-level self-modeling. Current architectures insufficient. Status: Internally addressed (structural criterion given).

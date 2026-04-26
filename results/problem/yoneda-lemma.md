@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Yoneda Lemma — the most fundamental result in category theory — is earne
 
 ## Result Statement
 
-Yoneda Lemma earned inside Category τ. Objects determined by their relationships. Status: Resolved.
+Yoneda Lemma earned inside Category τ. Objects determined by their relationships. Status: Internally addressed.

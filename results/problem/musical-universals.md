@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why are certain musical intervals (octave, fifth, fourth) universal across cultu
 
 ## Result Statement
 
-Musical universals: consonance as ratio invariance. Low-order τ-admissible frequency ratios. Status: Resolved.
+Musical universals: consonance as ratio invariance. Low-order τ-admissible frequency ratios. Status: Internally addressed.

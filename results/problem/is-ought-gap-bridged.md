@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Hume's is-ought gap (no 'ought' from 'is') is bridged: the Categorical Imperativ
 
 ## Result Statement
 
-Is-ought gap bridged: CI as naturality constraint. Universalizability = gluing condition. Moral law from categorical structure. Status: Resolved.
+Is-ought gap bridged: CI as naturality constraint. Universalizability = gluing condition. Moral law from categorical structure. Status: Internally addressed.

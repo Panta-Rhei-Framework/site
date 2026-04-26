@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Van Valen's Red Queen Hypothesis (organisms must constantly adapt just to mainta
 
 ## Result Statement
 
-Red Queen derived as two-prover PPAS. Sexual recombination maintains adaptive advantage against parasites. Status: Resolved.
+Red Queen derived as two-prover PPAS. Sexual recombination maintains adaptive advantage against parasites. Status: Internally addressed.

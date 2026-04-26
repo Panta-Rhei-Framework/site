@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The neutron electric dipole moment (nEDM) is predicted to be zero or near-zero i
 
 ## Result Statement
 
-Neutron EDM = 0 from θ_QCD = 0 (Strong CP solution). Status: Resolved.
+Neutron EDM = 0 from θ_QCD = 0 (Strong CP solution). Status: Internally addressed.

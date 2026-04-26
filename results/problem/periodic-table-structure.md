@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The periodic table's structure (period lengths 2,8,8,18,18,32,32) is typically e
 
 ## Result Statement
 
-Periodic table structure derived from orbit-sector decomposition. Shell lengths follow from spectral template. Status: Resolved.
+Periodic table structure derived from orbit-sector decomposition. Shell lengths follow from spectral template. Status: Internally addressed.

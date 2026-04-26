@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Primordial deuterium abundance (D/H ≈ 2.5 × 10⁻⁵) is a precision test of 
 
 ## Result Statement
 
-Primordial deuterium abundance derived from BBN sector. Status: Resolved.
+Primordial deuterium abundance derived from BBN sector. Status: Internally addressed.

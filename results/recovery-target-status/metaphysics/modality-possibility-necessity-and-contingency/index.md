@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Modality: Possibility, 
 canonical_recovery_id: "METH-R5"
 ---
 
-# Modality: Possibility, Necessity, and Contingency
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Metaphysics Verification**
+- Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Modality: Possibility, Necessity, and Contingency
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Metaphysics Verification**
+- Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R5](/program/research-agenda/recovery-requirements/metaphysics/modality-possibility-necessity-and-contingency/)
 - Verification mode: `metaphysical_recovery_target`
 

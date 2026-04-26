@@ -14,7 +14,7 @@ canonical_problem_id: "math-p-vs-np"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Not Yet Classified**
+- Internal stance: **Not yet touched**
 - Verification route: **Available**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ P vs NP
 
 ## Current Program Stance
 
-- Result status: **Not Yet Classified**
+- Result status: **Not yet touched**
 - Tier: `kernel_near`
 - Agenda role: `expressibility_test`
 - Expressibility: `requires_translation`

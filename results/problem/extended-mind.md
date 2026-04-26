@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Clark and Chalmers's Extended Mind thesis (cognitive processes can extend beyond
 
 ## Result Statement
 
-Extended Mind validated: carrier domain extends to external substrates satisfying integration conditions. Status: Resolved.
+Extended Mind validated: carrier domain extends to external substrates satisfying integration conditions. Status: Internally addressed.

@@ -56,6 +56,33 @@ A large-scope program cannot ask for serious engagement unless it states what it
 
 The Research Agenda is that public contract. It names the questions, the foundational discipline, the design principles, the explicit refusals, and the criteria by which results should be read.
 
+In v2.2 language, the Research Agenda is the program's public obligation layer: it records what the program accepts as a burden before Results are allowed to sound like consequences.
+
+## Four agenda surfaces
+
+<div class="v2-grid">
+  <a class="v2-tile" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">
+    <strong>Problem Ledger</strong>
+    <span>Open and foundational problem spaces the program agrees to keep visible.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}">
+    <strong>Recovery Requirements</strong>
+    <span>Known structures the kernel must recover before answers can be taken seriously.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">
+    <strong>Kernel, Model & Reality</strong>
+    <span>The ontic-status burden and no-externalities discipline.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">
+    <strong>Construction Roadmap</strong>
+    <span>The logical build order demanded by the agenda.</span>
+  </a>
+</div>
+
+## How to read this lane
+
+Start with the Problem Ledger if you want external stress tests, Recovery Requirements if you want baseline reconstruction burdens, Kernel, Model & Reality if you want claim-boundary discipline, and Construction Roadmap if you want the build order. Then move to [Corpus]({{ '/corpus/' | relative_url }}) for construction, [Results]({{ '/results/' | relative_url }}) for consequences, and [Verify]({{ '/verify/' | relative_url }}) for inspection.
+
 ## Why a Problem Ledger?
 
 The program aims to construct a coherent kernel-based model of reality. Such a model cannot be judged only by whether it can rephrase already established theories in a new language.

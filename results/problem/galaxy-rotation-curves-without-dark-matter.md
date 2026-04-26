@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Galaxy rotation curves are flat at large radii, which in ΛCDM requires dark mat
 
 ## Result Statement
 
-Flat rotation curves from boundary reading of τ³. No dark matter halos needed. Status: Resolved.
+Flat rotation curves from boundary reading of τ³. No dark matter halos needed. Status: Internally addressed.

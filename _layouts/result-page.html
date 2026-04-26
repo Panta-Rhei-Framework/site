@@ -16,7 +16,7 @@ layout: default
     {% if page.status_code %}
     <span class="chip chip-status chip-status-{{ page.status_code | downcase }}">
       {% case page.status_code %}
-        {% when 'R' %}Resolved
+        {% when 'R' %}Internally addressed
         {% when 'P' %}Partial
         {% when 'Q' %}Qualitative
         {% when 'C' %}Contradicted

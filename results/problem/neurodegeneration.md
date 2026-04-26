@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Neurodegeneration (Alzheimer's, Parkinson's) involves the progressive loss of ne
 
 ## Result Statement
 
-Neurodegeneration as Hayflick tower collapse: failure of NF-address persistence. Status: Resolved.
+Neurodegeneration as Hayflick tower collapse: failure of NF-address persistence. Status: Internally addressed.

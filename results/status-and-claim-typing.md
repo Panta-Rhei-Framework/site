@@ -6,7 +6,7 @@ lane: results
 summary_short: "How the program types its claims: status codes, epistemic postures, and the discipline of honest scope."
 summary_cards:
 - title: "Status codes"
-  body: "R (Resolved), P (Partial), Q (Qualitative), C (Contradicted), N (Not Addressed)"
+  body: "R (Internally addressed), P (Partial), Q (Qualitative), C (Contradicted), N (Not addressed)"
 - title: "Result kinds"
   body: "Frontier Problem, Foundational Math, Consequence/Reframing"
 - title: "Why it matters"
@@ -34,11 +34,11 @@ The Panta Rhei Research Program maintains a strict typing discipline for all pub
 
 | Code | Label | Meaning |
 |------|-------|---------|
-| **R** | Resolved | Complete structural derivation or machine-checked result |
+| **R** | Internally addressed | Complete internal structural derivation or machine-checked result, without implying external acceptance |
 | **P** | Partial | Structural approach exists but derivation is incomplete |
 | **Q** | Qualitative | Framework reframes the problem without quantitative prediction |
 | **C** | Contradicted | Program result contradicts mainstream expectation |
-| **N** | Not Addressed | Problem is recognized but not yet engaged |
+| **N** | Not addressed | Problem is recognized but not yet engaged |
 
 ## Result Kinds
 
@@ -70,7 +70,7 @@ Every numerical prediction in the Numerical Physics Ledger carries a Tier label:
 | **Tier B** | ~3 ppm | intermediate-precision mixing angles and couplings |
 | **Tier C** | ~0.8% | Hubble tension prediction, cosmological parameters, other loosely-pinned readouts |
 
-A Tier-A prediction with Status **Resolved** is a prediction that is both extremely sharp and confirmed by current data. A Tier-C prediction with Status **Resolved** is confirmed only at the ~1% level. A Tier-A prediction with Status **Contradicted** would be a severe problem for the framework — the kind of decisive falsification the 30-item falsification pack is designed to surface.
+A Tier-A prediction with Status **Internally addressed** is a prediction that is both extremely sharp and currently matched by the program's public data comparison. A Tier-C prediction with Status **Internally addressed** is supported only at the looser tier declared for that item. A Tier-A prediction with Status **Contradicted** would be a severe problem for the framework — the kind of decisive falsification the 30-item falsification pack is designed to surface.
 
 Precision tiers also depend on the cascade layer (see [From Ratio to Measurement]({{ '/results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/' | relative_url }}) for the L0 → L4 architecture and the [Numerical Physics Ledger]({{ '/publications/numerical-physics-ledger/' | relative_url }}#ch-58a) Ch 58a for the Calibration Sufficiency Theorem). L1 dimensionless results tend to sit at the sharpest end of the tier distribution; L3 SI-anchored results carry whatever the anchor (m<sub>n</sub>) uncertainty allows.
 
@@ -78,7 +78,7 @@ Precision tiers also depend on the cascade layer (see [From Ratio to Measurement
 
 A program that claims to address the Riemann Hypothesis and the Hard Problem of Consciousness must be maximally transparent about what "address" means in each case. The typing system ensures:
 
-- A **resolved** result (R) means something different from a **partial** result (P)
+- An **internally addressed** result (R) means something different from a **partial** result (P)
 - A **contradicted** result (C) is surfaced honestly, not hidden
 - A **qualitative** reframing (Q) is not rhetorically inflated into a "solution"
 - Every claim can be independently inspected via the verification route

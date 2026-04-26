@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction 
 
 ## Result Statement
 
-Vacuum catastrophe resolved: Λ = 0 exactly. Boundary reading of τ³ has no bulk vacuum energy. The 10¹²⁰ discrepancy disappears. Status: Resolved.
+Vacuum catastrophe resolved: Λ = 0 exactly. Boundary reading of τ³ has no bulk vacuum energy. The 10¹²⁰ discrepancy disappears. Status: Internally addressed.

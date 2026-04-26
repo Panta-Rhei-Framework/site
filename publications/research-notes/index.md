@@ -46,10 +46,17 @@ Each Research Note makes its status inspectable: date, note type, domain, abstra
 - **Response Notes** compare the framework against a named external anchor paper or result.
 - **Pre-Registration Notes** place a framework commitment on a future or live empirical target before the decisive test is complete.
 - **Verification Notes** explain what the public verification surfaces do and do not establish.
+- **Problem-ledger Notes** discuss how open problems are classified, answered, deferred, or rejected.
+- **Recovery Notes** track recovery-target updates across mathematics, physics, life, and metaphysics.
+- **Construction Notes** explain changes to the Corpus Construction Spine or registry graph.
 - **Conceptual and Edition Notes** clarify framework interpretation, public release changes, and reading order.
+
+## Launch seed set
+
+The current Research Notes surface begins with a deliberately small seed set. Empty or sparse filters are not errors; they show where the publication channel is ready before a full family of notes exists.
 
 ## How to receive Research Notes
 
 New Research Notes can be received by email through the [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) page. Subscription is handled by Buttondown with double opt-in.
 
-## Current notes
+The searchable browse section below is generated from the public Research Notes metadata.

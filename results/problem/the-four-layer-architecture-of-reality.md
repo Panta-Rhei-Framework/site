@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: Metaphysics
     topic: Philosophy
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -43,4 +43,4 @@ The (3,2,1,1) = 7 distribution of books across layers is not a design choice but
 
 ## Result Statement
 
-Reality has exactly four enrichment layers: E₀ (mathematics), E₁ (physics), E₂ (life), E₃ (metaphysics). The iteration terminates at E₃ by the Saturation Theorem. The seven-book architecture follows from the (3,2,1,1) distribution. Status: Resolved.
+Reality has exactly four enrichment layers: E₀ (mathematics), E₁ (physics), E₂ (life), E₃ (metaphysics). The iteration terminates at E₃ by the Saturation Theorem. The seven-book architecture follows from the (3,2,1,1) distribution. Status: Internally addressed.

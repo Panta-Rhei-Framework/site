@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Physical Quantity Types
 canonical_recovery_id: "PREC-P0"
 ---
 
-# Physical Quantity Types
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Physics Verification**
+- Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Physical recovery begins with typed quantities: time, length, energy, charge, te
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Physics Verification**
+- Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P0](/program/research-agenda/recovery-requirements/physics/physical-quantity-types/)
 - Verification mode: `quantity_type_recovery`
 

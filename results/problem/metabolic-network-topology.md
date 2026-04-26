@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why do metabolic networks have hub-and-spoke topology with the Krebs cycle at th
 
 ## Result Statement
 
-Krebs cycle as canonical Loop_L instantiation. Hub topology follows from Poincaré circulation minimality. Status: Resolved.
+Krebs cycle as canonical Loop_L instantiation. Hub topology follows from Poincaré circulation minimality. Status: Internally addressed.

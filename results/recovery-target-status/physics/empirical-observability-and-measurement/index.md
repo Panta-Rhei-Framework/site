@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Empirical Observability
 canonical_recovery_id: "PREC-P7"
 ---
 
-# Empirical Observability and Measurement
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Physics Verification**
+- Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Empirical Observability and Measurement
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Physics Verification**
+- Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P7](/program/research-agenda/recovery-requirements/physics/empirical-observability-and-measurement/)
 - Verification mode: `observability_and_measurement_review`
 

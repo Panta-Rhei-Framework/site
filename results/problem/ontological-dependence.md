@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Ontological dependence (what grounds what) is formalized as factorization in the
 
 ## Result Statement
 
-Ontological dependence as morphism factorization. Causation as constrained composition. Status: Resolved.
+Ontological dependence as morphism factorization. Causation as constrained composition. Status: Internally addressed.

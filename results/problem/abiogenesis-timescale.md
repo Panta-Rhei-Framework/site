@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ When did life first arise? The framework derives a timescale bound for abiogenes
 
 ## Result Statement
 
-Abiogenesis timescale derived from persistence-sector thermodynamics. Status: **Resolved** *(tau-effective)*.
+Abiogenesis timescale derived from persistence-sector thermodynamics. Status: **Internally addressed** *(tau-effective)*.

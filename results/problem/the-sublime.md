@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Kant's sublime — the experience of overwhelming magnitude or power — is form
 
 ## Result Statement
 
-The sublime as comprehension boundary. Kant's mathematical/dynamical sublime categorified. Status: Resolved.
+The sublime as comprehension boundary. Kant's mathematical/dynamical sublime categorified. Status: Internally addressed.

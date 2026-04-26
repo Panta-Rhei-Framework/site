@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Cell membrane origins are central to understanding how the first cells formed. T
 
 ## Result Statement
 
-Cell membrane = physical realization of L = S¹ ∨ S¹. Amphiphilic self-assembly is the τ-Distinction self-instantiating. Status: Resolved.
+Cell membrane = physical realization of L = S¹ ∨ S¹. Amphiphilic self-assembly is the τ-Distinction self-instantiating. Status: Internally addressed.

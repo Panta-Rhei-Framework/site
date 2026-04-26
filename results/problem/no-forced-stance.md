@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: Metaphysics
     topic: Philosophy
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 ## Overview
@@ -39,4 +39,4 @@ The distinction is between **shape** (Reg_D content — what the framework prove
 
 ## Result Statement
 
-No Forced Stance (VII.T-series): The diagrammatic register cannot settle the ω-germ question. Neither theism, atheism, nor agnosticism is structurally mandated. Shape (Reg_D) and stance (Reg_C) are irreducibly distinct. Status: Resolved.
+No Forced Stance (VII.T-series): The diagrammatic register cannot settle the ω-germ question. Neither theism, atheism, nor agnosticism is structurally mandated. Shape (Reg_D) and stance (Reg_C) are irreducibly distinct. Status: Internally addressed.

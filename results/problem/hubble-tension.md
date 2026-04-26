@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Hubble tension (5σ discrepancy between early- and late-universe H₀ measur
 
 ## Result Statement
 
-H₀ tension resolved: h = 2/3 + ι<sub>τ</sub>²/17 = 0.6735 at −120 ppm. Zero free parameters. Status: Resolved.
+H₀ tension resolved: h = 2/3 + ι<sub>τ</sub>²/17 = 0.6735 at −120 ppm. Zero free parameters. Status: Internally addressed.

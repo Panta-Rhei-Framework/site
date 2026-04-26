@@ -40,6 +40,34 @@ The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain p
   </a>
 </div>
 
+## Current Status Summary
+
+{% assign mirror_items = site.data.problem_ledger["problem-ledger"] %}
+{% assign partial_answers = mirror_items | where_exp: "item", "item.program.result_status == 'partially_addressed'" %}
+{% assign not_yet_classified = mirror_items | where_exp: "item", "item.program.result_status == 'not_yet_classified'" %}
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Public status</th>
+      <th scope="col">Count</th>
+      <th scope="col">Meaning on this site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Partially addressed</th>
+      <td>{{ partial_answers | size }}</td>
+      <td>The program has a visible Results-side stance, but not final settlement or external acceptance.</td>
+    </tr>
+    <tr>
+      <th scope="row">Not yet touched</th>
+      <td>{{ not_yet_classified | size }}</td>
+      <td>The problem is publicly carried as an obligation without a current answer mirror.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Source policy
 
-Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/).
+Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/). The mirror does not republish source prose; it reports the current program stance against pinned or institutionally selected source records.

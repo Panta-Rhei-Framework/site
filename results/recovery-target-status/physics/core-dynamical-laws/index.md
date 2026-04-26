@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Core Dynamical Laws."
 canonical_recovery_id: "PREC-P5"
 ---
 
-# Core Dynamical Laws
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Physics Verification**
+- Verification state: **Pending physics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Core Dynamical Laws
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Physics Verification**
+- Verification status: **Pending physics verification**
 - Program ledger item: [PREC-P5](/program/research-agenda/recovery-requirements/physics/core-dynamical-laws/)
 - Verification mode: `law_family_recovery`
 

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Higgs self-coupling λ_H determines the shape of the Higgs potential and the
 
 ## Result Statement
 
-Higgs self-coupling λ_H = 0.12928 at +16 ppm. Upgraded τ-effective Wave 37C. Status: Resolved.
+Higgs self-coupling λ_H = 0.12928 at +16 ppm. Upgraded τ-effective Wave 37C. Status: Internally addressed.

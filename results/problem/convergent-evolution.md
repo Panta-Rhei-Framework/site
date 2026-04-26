@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why do unrelated lineages independently evolve similar solutions (eyes, wings, e
 
 ## Result Statement
 
-Convergent evolution as universal attractors on fitness landscape. Physics constrains available designs. Status: Resolved.
+Convergent evolution as universal attractors on fitness landscape. Physics constrains available designs. Status: Internally addressed.

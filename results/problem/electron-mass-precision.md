@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The electron mass is derived in a 10-link chain from the kernel axioms K0-K6, ac
 
 ## Result Statement
 
-Electron mass derived at 0.025 ppm precision via 10-link derivation chain from K0-K6. Status: Resolved.
+Electron mass derived at 0.025 ppm precision via 10-link derivation chain from K0-K6. Status: Internally addressed.

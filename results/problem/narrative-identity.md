@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Ricoeur's narrative identity — the self as a story told about oneself — is f
 
 ## Result Statement
 
-Narrative identity: coherent natural transformation between story functors. Ricoeur formalized. Status: Resolved.
+Narrative identity: coherent natural transformation between story functors. Ricoeur formalized. Status: Internally addressed.

@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Mind, Subjectivity, and
 canonical_recovery_id: "METH-R8"
 ---
 
-# Mind, Subjectivity, and First-Person Orientation
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Metaphysics Verification**
+- Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Mind, Subjectivity, and First-Person Orientation
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Metaphysics Verification**
+- Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R8](/program/research-agenda/recovery-requirements/metaphysics/mind-subjectivity-and-first-person-orientation/)
 - Verification mode: `metaphysical_recovery_target`
 

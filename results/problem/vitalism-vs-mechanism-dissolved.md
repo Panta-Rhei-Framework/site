@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The vitalism-mechanism debate (is life reducible to physics or does it require a
 
 ## Result Statement
 
-Vitalism vs mechanism dissolved: τ provides non-reductive emergence without vital substance. Third option beyond both. Status: Resolved.
+Vitalism vs mechanism dissolved: τ provides non-reductive emergence without vital substance. Third option beyond both. Status: Internally addressed.

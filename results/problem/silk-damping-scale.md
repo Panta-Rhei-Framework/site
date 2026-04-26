@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Silk damping scale sets the cutoff of CMB anisotropy power at small angular 
 
 ## Result Statement
 
-Silk damping scale derived from photon diffusion sector. Status: Resolved.
+Silk damping scale derived from photon diffusion sector. Status: Internally addressed.

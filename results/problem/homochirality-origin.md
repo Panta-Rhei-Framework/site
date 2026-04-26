@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -32,4 +32,4 @@ The 12-step derivation chain runs from K0-K6 through the <math><mi>&tau;</mi></m
 
 ## Result Statement
 
-Homochirality is a structural consequence of weak-sector parity violation. Status: **Resolved** *(tau-effective)*.
+Homochirality is a structural consequence of weak-sector parity violation. Status: **Internally addressed** *(tau-effective)*.

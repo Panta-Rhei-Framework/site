@@ -98,13 +98,9 @@ _body: "## What this step builds\n\nThe seventh step treats life as a recoverabl
 
 The program must recover boundary, individuality, metabolism, encoding, heredity, reproduction, variation, evolution, morphogenesis, classification, and ecology as structural capacities.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus frames life as a recoverable structural layer, with Earth life serving as calibration case rather than definition.
-
-## What this step builds
-
-The seventh step treats life as a recoverable structural class. It asks what must hold for boundary, individuality, metabolism, heredity, reproduction, variation, evolution, morphogenesis, classification, and ecology to become intelligible inside the framework.
 
 ## Why this step is required
 
@@ -120,11 +116,11 @@ Life cannot be used as an unexplained external input if the framework claims ful
 
 ## Registry spine
 
-_Mapping pending._
+_No direct mapping is required for this step yet._
 
 ## TauLib modules
 
-_Mapping pending._
+_No dedicated TauLib module is required at this step yet._
 
 ## Book locations
 
@@ -135,17 +131,17 @@ _Mapping pending._
 - [Life World Readout](/results/world-readout/life/)
 - [Why Life Is Structurally Favored in Tau](/results/world-readout/life/why-life-is-structurally-favored-in-tau/)
 
-## Verification Modes
+## Verification modes
 
 - `life-recovery checks`
 - structural biology mapping
 - scope discipline
 
-## Bridge Checks
+## Bridge checks
 
 - Check that biological recovery claims distinguish structural recovery from complete empirical biology.
 
-## Empirical Checks
+## Empirical checks
 
 - Check whether life-facing claims are routed to explicit biological examples, constraints, and open residuals.
 
@@ -167,11 +163,11 @@ _Mapping pending._
 
 This step does not claim to solve consciousness or all biological open problems. It recovers the structural layer where life becomes addressable.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Life recovery does not by itself settle consciousness, subjectivity, or every biology-side open problem.
 
 ## Spine navigation
 
-- Previous: [Step 6 - Build Measurement, Prediction, and Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
-- Next: [Step 8 - Recover Reflective Structure](/corpus/construction-spine/recover-reflective-structure/)
+- Previous: [Step 6 — Build Measurement, Prediction, and Empirical Bridges](/corpus/construction-spine/measurement-empirical-bridges/)
+- Next: [Step 8 — Recover Reflective Structure](/corpus/construction-spine/recover-reflective-structure/)

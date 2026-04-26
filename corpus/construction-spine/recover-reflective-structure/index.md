@@ -96,13 +96,9 @@ _body: "## What this step builds\n\nThe eighth step builds the bridge from life 
 
 The program must recover the structures through which life becomes reflective, symbolic, and meaning-bearing.
 
-## What the corpus built
+## What the Corpus built
 
 The Corpus frames the life-to-reflection transition as the place where mind, language, truth, value, and normativity become addressable.
-
-## What this step builds
-
-The eighth step builds the bridge from life to reflection. It concerns cognition, perception, memory, self-modeling, symbolic mediation, language, meaning, truth, value, and normativity.
 
 ## Why this step is required
 
@@ -118,11 +114,11 @@ Mind, meaning, and value cannot be bolted on from outside after physics and life
 
 ## Registry spine
 
-_Mapping pending._
+_No direct mapping is required for this step yet._
 
 ## TauLib modules
 
-_Mapping pending._
+_No dedicated TauLib module is required at this step yet._
 
 ## Book locations
 
@@ -133,19 +129,19 @@ _Mapping pending._
 - [Metaphysics World Readout](/results/world-readout/metaphysics/)
 - [Mind, Consciousness, and the Self-Model](/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/)
 
-## Verification Modes
+## Verification modes
 
 - answer-shape checks
 - conceptual consistency
 - `life-metaphysics bridge verification`
 
-## Bridge Checks
+## Bridge checks
 
 - Check that reflective-structure claims expose their dependence on earlier life and logic construction rather than bypassing them.
 
-## Empirical Checks
+## Empirical checks
 
-_Mapping pending._
+_Empirical checks are not applicable at this step._
 
 ## Related Verify surfaces
 
@@ -165,11 +161,11 @@ _Mapping pending._
 
 This step does not claim a complete solution of consciousness by itself. It constructs the structural layer where consciousness and meaning become addressable.
 
-## Unresolved Frontiers
+## Unresolved frontiers
 
 - Reflective structure does not by itself settle external acceptance, phenomenological adequacy, or ontic closure.
 
 ## Spine navigation
 
-- Previous: [Step 7 - Recover Life as a Structural Class](/corpus/construction-spine/recover-life/)
-- Next: [Step 9 - Self-Host Formal Systems and the Kernel Itself](/corpus/construction-spine/self-host-formal-systems/)
+- Previous: [Step 7 — Recover Life as a Structural Class](/corpus/construction-spine/recover-life/)
+- Next: [Step 9 — Self-Host Formal Systems and the Kernel Itself](/corpus/construction-spine/self-host-formal-systems/)

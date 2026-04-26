@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Category τ has exactly one infinity: the countable infinity ℵ₀ of the four 
 
 ## Result Statement
 
-Unique infinity: ℵ₀ only. No uncountable cardinals. Follows from K6 (object closure). Contradicts ZFC cardinality. Status: Resolved.
+Unique infinity: ℵ₀ only. No uncountable cardinals. Follows from K6 (object closure). Contradicts ZFC cardinality. Status: Internally addressed.

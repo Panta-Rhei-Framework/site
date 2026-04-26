@@ -29,7 +29,7 @@ right_rail:
 
 Not all results make the same kind of claim. Some are formal results, some are bridge claims, some are numerical predictions, and some are interpretive world readouts.
 
-v2 makes those differences explicit through frontmatter, badges, right-rail metadata, and search filters.
+v2.2 makes those differences explicit through frontmatter, badges, right-rail metadata, and search filters.
 
 ## Classification families
 
@@ -49,11 +49,11 @@ v2 makes those differences explicit through frontmatter, badges, right-rail meta
   <div class="v2-tile">
     <strong>
       {% case group.name %}
-        {% when 'R' %}Resolved
+        {% when 'R' %}Internally addressed
         {% when 'P' %}Partial
         {% when 'Q' %}Qualitative
         {% when 'C' %}Contradicted
-        {% when 'N' %}Not Addressed
+        {% when 'N' %}Not addressed
         {% else %}{{ group.name }}
       {% endcase %}
     </strong>
@@ -64,4 +64,4 @@ v2 makes those differences explicit through frontmatter, badges, right-rail meta
 
 ## Why this matters
 
-The same catalogue contains internal formal claims, bridge claims, empirical mappings, predictions, and interpretive readouts. A reader should not have to infer which burden a page carries. The classification layer names that burden explicitly and links back to the [Program result criteria]({{ '/program/research-agenda/result-criteria/' | relative_url }}).
+The same catalogue contains internal formal claims, bridge claims, empirical mappings, predictions, and interpretive readouts. A reader should not have to infer which burden a page carries. “Internally addressed” means the program currently has an internal answer route; it does not mean external verification or scientific acceptance. The classification layer names that burden explicitly and links back to the [Program result criteria]({{ '/program/research-agenda/result-criteria/' | relative_url }}).

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The uniqueness of the Categorical Imperative — is Kant's CI the only possible 
 
 ## Result Statement
 
-CI uniqueness proved via Knaster-Tarski: CI is the unique j-closed fixed point of the τ-digestion operator. Lean-verified. Status: Resolved.
+CI uniqueness proved via Knaster-Tarski: CI is the unique j-closed fixed point of the τ-digestion operator. Lean-verified. Status: Internally addressed.

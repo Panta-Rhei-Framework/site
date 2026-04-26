@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ How do words refer to things? The reference problem has plagued philosophy of la
 
 ## Result Statement
 
-Reference problem dissolved: meaning is sheaf section, not word-world correspondence. Structural semantics replaces referential semantics. Status: Resolved.
+Reference problem dissolved: meaning is sheaf section, not word-world correspondence. Structural semantics replaces referential semantics. Status: Internally addressed.

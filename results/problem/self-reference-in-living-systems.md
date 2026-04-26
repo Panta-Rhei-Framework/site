@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Living systems are self-referential — they model and modify themselves. The τ
 
 ## Result Statement
 
-Self-reference formalized as SelfDesc operator. Closure theorem proves termination without regress. Status: Resolved.
+Self-reference formalized as SelfDesc operator. Closure theorem proves termination without regress. Status: Internally addressed.

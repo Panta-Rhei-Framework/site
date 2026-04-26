@@ -14,7 +14,7 @@ canonical_problem_id: "math-langlands-program"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Partially Addressed**
+- Internal stance: **Partially addressed**
 - Verification route: **Available**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Langlands
 
 ## Current Program Stance
 
-- Result status: **Partially Addressed**
+- Result status: **Partially addressed**
 - Tier: `kernel_critical`
 - Agenda role: `bridge_problem`
 - Expressibility: `requires_translation`

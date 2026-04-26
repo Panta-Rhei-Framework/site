@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Being, Existence, and O
 canonical_recovery_id: "METH-R1"
 ---
 
-# Being, Existence, and Ontological Status
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Metaphysics Verification**
+- Verification state: **Pending metaphysics verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Being, Existence, and Ontological Status
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Metaphysics Verification**
+- Verification status: **Pending metaphysics verification**
 - Program ledger item: [METH-R1](/program/research-agenda/recovery-requirements/metaphysics/being-existence-and-ontological-status/)
 - Verification mode: `metaphysical_recovery_target`
 

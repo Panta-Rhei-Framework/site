@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The W boson mass discrepancy between the CDF-II measurement (80.4335 GeV) and th
 
 ## Result Statement
 
-m_W predicted at −0.5 ppm from the world average, derived from the electroweak sector template. Zero free parameters. Status: Resolved.
+m_W predicted at −0.5 ppm from the world average, derived from the electroweak sector template. Zero free parameters. Status: Internally addressed.

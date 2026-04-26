@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The classical number tower (naturals → integers → rationals → reals → co
 
 ## Result Statement
 
-Number tower earned from kernel: N → Z → Q → R → C. Each extension forced, not imported. Status: Resolved.
+Number tower earned from kernel: N → Z → Q → R → C. Each extension forced, not imported. Status: Internally addressed.

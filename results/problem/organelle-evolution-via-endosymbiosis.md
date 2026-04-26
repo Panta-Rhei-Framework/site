@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The endosymbiotic origin of mitochondria and chloroplasts is explained in the τ
 
 ## Result Statement
 
-Endosymbiosis as fiber-enabled regime transition. Eukaryotes arise when boundary supports internal compartments. Status: Resolved.
+Endosymbiosis as fiber-enabled regime transition. Eukaryotes arise when boundary supports internal compartments. Status: Internally addressed.

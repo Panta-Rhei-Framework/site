@@ -27,6 +27,8 @@ right_rail:
     url: /program/research-agenda/
   - title: Scope, Status & Scrutiny
     url: /program/about/scope-status-and-scrutiny/
+  - title: Independence, Scope & Scrutiny
+    url: /program/about/independence-scope-and-scrutiny/
   meta:
     type: Overview
     scope: Program-wide
@@ -120,6 +122,7 @@ The About sub-lane answers the identity questions first:
 
 - **Why This Research Program Exists** explains the dissatisfaction with fragmented world-pictures that motivates it.
 - **Scope, Status, and Scrutiny** clarifies the current epistemic status of the public release.
+- **Independence, Scope, and Scrutiny** states the founders' open-research posture and the responsibilities that follow from independent governance.
 - **Red-team FAQ** answers the hardest first-pass objections without asking for premature trust.
 - **Founders** makes the current stewardship and provenance visible.
 

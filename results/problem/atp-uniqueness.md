@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why does all life use adenosine triphosphate (ATP) as its universal energy curre
 
 ## Result Statement
 
-ATP uniqueness derived from agency-sector energy-throughput constraints. Status: **Resolved** *(tau-effective)*.
+ATP uniqueness derived from agency-sector energy-throughput constraints. Status: **Internally addressed** *(tau-effective)*.

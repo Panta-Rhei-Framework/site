@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why do cells stop dividing? The τ-framework models cellular senescence as defec
 
 ## Result Statement
 
-Cellular senescence as defect accumulation exceeding repair budget. Hayflick limit is structural. Status: Resolved.
+Cellular senescence as defect accumulation exceeding repair budget. Hayflick limit is structural. Status: Internally addressed.

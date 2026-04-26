@@ -4,7 +4,7 @@ title: Browse All Results
 permalink: /results/browse/
 lane: results
 section: "Results · Browse"
-summary_short: "All result pages across mathematics, physics, biology, and philosophy — filter by domain, kind, importance, status, and book."
+summary_short: "All result pages across mathematics, physics, life, and metaphysics/philosophy — filter by domain, kind, importance, status, and book."
 right_rail:
   related:
   - title: Results Overview
@@ -24,6 +24,6 @@ right_rail:
 
 The Results lane has a unified browse surface where you can filter all result pages by domain, enrichment layer, result kind, importance, status, and canonical book. Every card is pre-rendered in HTML, so the page remains crawlable and readable without JavaScript. With JavaScript enabled, filters and sorting narrow the view interactively, and the active filter state is shared via the URL.
 
-Numerical predictions additionally carry a precision tier — **Tier A** (~0.025 ppm), **Tier B** (~3 ppm), or **Tier C** (~0.8%) — which names how sharp the test is, distinct from the result's observational status (Resolved / Partial / Qualitative / Contradicted / Not Addressed). Every such prediction is a readout of the same four-layer calibration cascade from ι<sub>τ</sub> + m<sub>n</sub>.
+Numerical predictions additionally carry a precision tier — **Tier A** (~0.025 ppm), **Tier B** (~3 ppm), or **Tier C** (~0.8%) — which names how sharp the test is, distinct from the result's public status grammar (Internally addressed / Partial / Qualitative / Contradicted / Not addressed). Every such prediction is a readout of the same four-layer calibration cascade from ι<sub>τ</sub> + m<sub>n</sub>.
 
 Use the controls below to narrow down, or open a result page directly.

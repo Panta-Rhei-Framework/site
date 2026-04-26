@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Information and self-reference appear at every layer: Gödel coding (E₀), meas
 
 ## Result Statement
 
-Information across E₀-E₃: NF-address system unifies Gödel coding, measurement, genetic information, and self-knowledge. Status: Resolved.
+Information across E₀-E₃: NF-address system unifies Gödel coding, measurement, genetic information, and self-knowledge. Status: Internally addressed.

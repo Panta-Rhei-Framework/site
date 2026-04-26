@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Standard Model contains three generations of quarks and leptons, but gives n
 
 ## Result Statement
 
-Three generations follow from H₁(τ³; ℤ) ≅ ℤ³ — the first homology of the fibered product has rank 3. This is a topological invariant, not a parameter. Status: Resolved.
+Three generations follow from H₁(τ³; ℤ) ≅ ℤ³ — the first homology of the fibered product has rank 3. This is a topological invariant, not a parameter. Status: Internally addressed.

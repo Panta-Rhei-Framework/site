@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why does time seem to flow? Why is the present special? The τ-framework derives
 
 ## Result Statement
 
-Temporal experience derived from ρ-iteration: 'now' is current orbit depth, 'flow' is ρ-progression. Status: Resolved.
+Temporal experience derived from ρ-iteration: 'now' is current orbit depth, 'flow' is ρ-progression. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The S₈ tension between CMB-derived and weak-lensing-derived structure growth p
 
 ## Result Statement
 
-S₈ tension resolved: S₈ = 0.783. Derived in Wave 39C. Status: Resolved.
+S₈ tension resolved: S₈ = 0.783. Derived in Wave 39C. Status: Internally addressed.

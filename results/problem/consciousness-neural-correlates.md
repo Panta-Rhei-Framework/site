@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The neural correlates of consciousness (NCC) — what brain states are necessary
 
 ## Result Statement
 
-NCC as consumer-sector exclusivity in E₂ self-model. Status: Resolved.
+NCC as consumer-sector exclusivity in E₂ self-model. Status: Internally addressed.

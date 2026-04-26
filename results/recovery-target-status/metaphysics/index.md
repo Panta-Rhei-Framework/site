@@ -9,8 +9,6 @@ status: "Canonical"
 summary_short: "Current recovery status for Metaphysics targets."
 ---
 
-# Recovery Target Status: Metaphysics
-
 <div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items

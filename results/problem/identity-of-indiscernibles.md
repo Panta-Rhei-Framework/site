@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Leibniz's Identity of Indiscernibles states that no two distinct objects share a
 
 ## Result Statement
 
-Identity of Indiscernibles resolved via NF-address individuation. Quantum identical particles have distinct structural addresses. Status: Resolved.
+Identity of Indiscernibles resolved via NF-address individuation. Quantum identical particles have distinct structural addresses. Status: Internally addressed.

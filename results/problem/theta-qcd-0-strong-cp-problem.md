@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Strong CP Problem asks why QCD does not violate CP symmetry despite having a
 
 ## Result Statement
 
-θ_QCD = 0 from SA-i admissibility. The strong sector's spectral structure forbids CP violation. No axion needed. Status: Resolved.
+θ_QCD = 0 from SA-i admissibility. The strong sector's spectral structure forbids CP violation. No axion needed. Status: Internally addressed.

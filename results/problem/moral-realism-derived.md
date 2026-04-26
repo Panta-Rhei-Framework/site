@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Is morality objective? The τ-framework derives moral realism: dignity as label-
 
 ## Result Statement
 
-Moral realism derived: dignity as label-independence is a structural invariant. Moral facts are objective. Status: Resolved.
+Moral realism derived: dignity as label-independence is a structural invariant. Moral facts are objective. Status: Internally addressed.

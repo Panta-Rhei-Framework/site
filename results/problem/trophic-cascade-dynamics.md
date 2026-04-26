@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Trophic cascades (top-down and bottom-up effects in food webs) are modeled as in
 
 ## Result Statement
 
-Trophic cascades as inter-sector web + Poincaré circulation. Status: Resolved.
+Trophic cascades as inter-sector web + Poincaré circulation. Status: Internally addressed.

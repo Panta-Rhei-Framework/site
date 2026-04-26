@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ What makes political authority legitimate? The τ-framework derives legitimacy f
 
 ## Result Statement
 
-Political legitimacy derived from sheaf + dignity + CI constraint. Status: Resolved.
+Political legitimacy derived from sheaf + dignity + CI constraint. Status: Internally addressed.

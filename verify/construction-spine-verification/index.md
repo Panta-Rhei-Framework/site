@@ -31,8 +31,6 @@ right_rail:
 
 {% assign steps = site.data.construction_spine["construction-spine-data"] %}
 
-# Verify the Construction Spine
-
 > How each step of the Corpus Construction Spine can be inspected, checked, or challenged.
 
 ## Why construction-step verification matters
@@ -72,6 +70,23 @@ Obligation -> Construction -> Consequence -> Inspection
     </tbody>
   </table>
 </div>
+
+## Verification-status legend
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Status phrase</th>
+      <th scope="col">Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Available</th><td>A public inspection route exists for this step or mode.</td></tr>
+    <tr><th scope="row">Partial</th><td>Some evidence is public, but the route is not complete enough to close the burden.</td></tr>
+    <tr><th scope="row">Pending mapping</th><td>The public route is known to be needed but not yet mapped in this projection.</td></tr>
+    <tr><th scope="row">Not applicable</th><td>The mode is not a relevant burden for this step.</td></tr>
+  </tbody>
+</table>
 
 ## Verification modes by step
 

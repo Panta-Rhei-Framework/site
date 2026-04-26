@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Why do organisms sleep? The τ-framework derives sleep as the temporal lemniscat
 
 ## Result Statement
 
-Sleep as temporal lemniscate second lobe: consolidation + clearance phase. Status: Resolved.
+Sleep as temporal lemniscate second lobe: consolidation + clearance phase. Status: Internally addressed.

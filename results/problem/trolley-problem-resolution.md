@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The Trolley Problem (switch vs footbridge) is resolved by proper typing and four
 
 ## Result Statement
 
-Trolley Problem resolved: switch and footbridge are categorically distinct morphism types. Four ethical tests discriminate. Status: Resolved.
+Trolley Problem resolved: switch and footbridge are categorically distinct morphism types. Four ethical tests discriminate. Status: Internally addressed.

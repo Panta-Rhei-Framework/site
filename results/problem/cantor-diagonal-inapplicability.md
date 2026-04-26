@@ -18,7 +18,7 @@ right_rail:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ Cantor's diagonal argument — the basis for the hierarchy of infinities — doe
 
 ## Result Statement
 
-Cantor diagonal inapplicable: K6 and bounded witness prevent diagonal construction. No hierarchy of infinities. Status: Resolved.
+Cantor diagonal inapplicable: K6 and bounded witness prevent diagonal construction. No hierarchy of infinities. Status: Internally addressed.

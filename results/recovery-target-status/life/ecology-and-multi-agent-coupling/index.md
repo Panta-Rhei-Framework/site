@@ -10,14 +10,12 @@ summary_short: "Current Results-side recovery status for Ecology and Multi-Agent
 canonical_recovery_id: "LREC-L8"
 ---
 
-# Ecology and Multi-Agent Coupling
-
 <div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
 - Internal status: **Partial**
-- Verification state: **Pending Life Verification**
+- Verification state: **Pending life verification**
 - External status: **Not externally reviewed**
 
 ## Requirement
@@ -27,7 +25,7 @@ Ecology and Multi-Agent Coupling
 ## Current Recovery Status
 
 - Recovery status: **Partial**
-- Verification status: **Pending Life Verification**
+- Verification status: **Pending life verification**
 - Program ledger item: [LREC-L8](/program/research-agenda/recovery-requirements/life/ecology-and-multi-agent-coupling/)
 - Verification mode: `life_structural_recovery_target`
 

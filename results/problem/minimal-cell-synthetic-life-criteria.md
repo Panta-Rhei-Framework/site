@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ What is the minimal cell — the simplest possible living system? The τ-framewo
 
 ## Result Statement
 
-Minimal cell criteria derived from τ-Distinction: boundary, Poincaré circulation, and NF-address persistence at minimal scale. Status: Resolved.
+Minimal cell criteria derived from τ-Distinction: boundary, Poincaré circulation, and NF-address persistence at minimal scale. Status: Internally addressed.

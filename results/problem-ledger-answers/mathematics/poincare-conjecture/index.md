@@ -14,7 +14,7 @@ canonical_problem_id: "math-poincare-conjecture"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Partially Addressed**
+- Internal stance: **Partially addressed**
 - Verification route: **Available**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Poincare
 
 ## Current Program Stance
 
-- Result status: **Partially Addressed**
+- Result status: **Partially addressed**
 - Tier: `kernel_near`
 - Agenda role: `regrounding_test`
 - Expressibility: `not_yet_expressed`

@@ -14,7 +14,7 @@ canonical_problem_id: "phys-reactor-antineutrino-anomaly"
 
 <div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
 
-- Internal stance: **Not Yet Classified**
+- Internal stance: **Not yet touched**
 - Verification route: **Pending**
 - External status: **Not externally reviewed**
 
@@ -30,7 +30,7 @@ Reactor antineutrino anomaly
 
 ## Current Program Stance
 
-- Result status: **Not Yet Classified**
+- Result status: **Not yet touched**
 - Tier: `unclassified`
 - Agenda role: `stress_test`
 - Expressibility: `unknown`

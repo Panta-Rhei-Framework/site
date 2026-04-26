@@ -18,7 +18,7 @@ right_rail:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ The fitness landscape (Wright, Kauffman) is formalized in the τ-framework: PPAS
 
 ## Result Statement
 
-Fitness landscapes formalized via PPAS. NP-hard optimization via drift, selection, recombination. Status: Resolved.
+Fitness landscapes formalized via PPAS. NP-hard optimization via drift, selection, recombination. Status: Internally addressed.

@@ -18,7 +18,7 @@ right_rail:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
-    status: "Resolved"
+    status: "Internally addressed"
     updated: April 2026
 ---
 
@@ -28,4 +28,4 @@ If the universe is deterministic, how can moral responsibility exist? The τ-fra
 
 ## Result Statement
 
-Free will as E₂-level branching; determinism at E₁. The debate is a scale confusion between enrichment levels. Status: Resolved.
+Free will as E₂-level branching; determinism at E₁. The debate is a scale confusion between enrichment levels. Status: Internally addressed.

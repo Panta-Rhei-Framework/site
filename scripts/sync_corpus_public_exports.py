@@ -87,7 +87,26 @@ def domain_label(domain: str) -> str:
 
 
 def result_status_label(value: str) -> str:
-    return value.replace("_", " ").replace("-", " ").title() if value else "Pending"
+    labels = {
+        "R": "Internally addressed",
+        "resolved": "Internally addressed",
+        "internally_addressed": "Internally addressed",
+        "partially_addressed": "Partially addressed",
+        "partial": "Partial",
+        "not_yet_classified": "Not yet touched",
+        "not_addressed": "Not addressed",
+        "not_externally_reviewed": "Not externally reviewed",
+        "not_yet_verified": "Not yet verified",
+        "pending_bridge_verification": "Pending bridge verification",
+        "pending_formal_verification": "Pending formal verification",
+        "pending_physics_verification": "Pending physics verification",
+        "pending_life_verification": "Pending life verification",
+        "pending_metaphysics_verification": "Pending metaphysics verification",
+        "route_available": "Route available",
+    }
+    if not value:
+        return "Pending"
+    return labels.get(value, value.replace("_", " ").replace("-", " ").title())
 
 
 def domain_counts(items: list[dict[str, Any]]) -> dict[str, int]:
@@ -180,9 +199,37 @@ The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain p
   </a>
 </div>
 
+## Current Status Summary
+
+{{% assign mirror_items = site.data.problem_ledger["problem-ledger"] %}}
+{{% assign partial_answers = mirror_items | where_exp: "item", "item.program.result_status == 'partially_addressed'" %}}
+{{% assign not_yet_classified = mirror_items | where_exp: "item", "item.program.result_status == 'not_yet_classified'" %}}
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Public status</th>
+      <th scope="col">Count</th>
+      <th scope="col">Meaning on this site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Partially addressed</th>
+      <td>{{{{ partial_answers | size }}}}</td>
+      <td>The program has a visible Results-side stance, but not final settlement or external acceptance.</td>
+    </tr>
+    <tr>
+      <th scope="row">Not yet touched</th>
+      <td>{{{{ not_yet_classified | size }}}}</td>
+      <td>The problem is publicly carried as an obligation without a current answer mirror.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Source policy
 
-Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/).
+Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/). The mirror does not republish source prose; it reports the current program stance against pinned or institutionally selected source records.
 """
     write_markdown(
         root / "index.md",
@@ -312,9 +359,7 @@ def generate_recovery_status_pages() -> None:
     root = SITE_ROOT / "results" / "recovery-target-status"
     domains = ["mathematics", "physics", "life", "metaphysics"]
 
-    root_body = """# Recovery Target Status
-
-> Current program status against the structures the kernel promised to recover.
+    root_body = """> Current program status against the structures the kernel promised to recover.
 
 This is the Results-side mirror of the Program-side Recovery Requirements ledger. Recovery requirements remain obligations; this surface reports their current public status.
 
@@ -378,9 +423,7 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
                 "status": "Canonical",
                 "summary_short": f"Current recovery status for {domain_label(domain)} targets.",
             },
-            f"""# Recovery Target Status: {domain_label(domain)}
-
-<div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
+            f"""<div class="notice note"><strong>Status note.</strong> Recovery status is internal unless formal or external verification is explicitly linked.</div>
 
 ## Items
 
@@ -399,9 +442,7 @@ This is the Results-side mirror of the Program-side Recovery Requirements ledger
         verify_body = bullet_lines(verification.get("related_verify_pages", related.get("verify", [])), "Dedicated Verify surface pending.")
         corpus_steps_body = bullet_lines(verification.get("related_corpus_steps", related.get("construction_steps", [])), "Construction Spine mapping pending.")
         verification_results_body = bullet_lines(verification.get("related_results", result_lines), "Granular Result mapping pending.")
-        body = f"""# {item['title']}
-
-<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
+        body = f"""<div class="notice note"><strong>Status note.</strong> This page reports current recovery status. It does not imply external acceptance unless explicitly stated.</div>
 
 ## Status Separation
 
