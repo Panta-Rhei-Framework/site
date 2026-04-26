@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "Assessment Protocols"
       url: /verify/assessment-protocols/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Predictions & Falsification"
       url: /verify/predictions-and-falsification/
     - title: "Red-team FAQ"
@@ -70,6 +72,7 @@ The most valuable critique is concrete:
 
 ## Where to Route It
 
+- Public question, critique, review offer, or claim challenge: start in [Public Discussions]({{ '/engage/discussions/' | relative_url }}).
 - Formalization issue: open or reference the relevant [TauLib issue](https://github.com/Panta-Rhei-Research/taulib/issues) when possible.
 - Mathematical, physical, biological, or philosophical objection: use [Contact]({{ '/engage/contact/' | relative_url }}) with the subject line "Technical Inquiry" or "Peer Review".
 - Publication correction: use [Errata]({{ '/publications/errata/' | relative_url }}) and the errata contact route.
@@ -78,4 +81,3 @@ The most valuable critique is concrete:
 ## Minimum Standard
 
 Critique does not need to be friendly, but it does need an object. "This cannot be right" is a mood; "Result X depends on registry object Y, but the dependency fails under condition Z" is a review.
-

@@ -22,6 +22,8 @@ right_rail:
       url: /publications/books/
     - title: "Engage"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Collaborate"
       url: /engage/collaborate/
     - title: "Contact"
@@ -51,6 +53,7 @@ Available as hardcover, paperback, and Kindle on Amazon KDP.
 Stay connected to the program's development:
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for email updates
 - Watch the <a href="https://github.com/Panta-Rhei-Research/taulib" target="_blank" rel="noopener">TauLib repository</a> on GitHub
+- Use [Public Discussions]({{ '/engage/discussions/' | relative_url }}) to ask questions, challenge claims, offer bounded review, or route corrections without implying endorsement
 - Bookmark this site for new content
 
 ## 3. Share with Domain Experts

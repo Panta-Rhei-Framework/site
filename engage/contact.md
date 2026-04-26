@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "Engage"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Media"
       url: /engage/media/
     - title: "Critique & Challenge"
@@ -42,6 +44,8 @@ right_rail:
 We use topic-specific email aliases so your message reaches the right queue. Please pick the route that best matches your inquiry.
 
 Participation does not imply endorsement. Contact, critique, review, support, or collaboration should be understood as engagement under scrutiny, not as agreement with the framework. See [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for the program's public-accountability stance.
+
+For public questions, critique, review offers, and correction routing, use [Public Discussions]({{ '/engage/discussions/' | relative_url }}) first. Email is for private, institutional, media, sensitive, support, or non-public context.
 
 ### Media Inquiry
 

@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "For Engineering Contributors"
       url: /engage/for-engineering-contributors/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Seminars & Sessions"
       url: /engage/seminars-and-guided-sessions/
     - title: "Impact"
@@ -71,5 +73,4 @@ Broad partnership proposals are welcome, but the most actionable message is usua
 
 ## Route Your Proposal
 
-Use [Contact]({{ '/engage/contact/' | relative_url }}) for academic, institutional, review, or public-interest collaboration. Use [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }}) for code-adjacent contribution paths.
-
+Use [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for public review offers, bounded critique, and open contribution routing. Use [Contact]({{ '/engage/contact/' | relative_url }}) for academic, institutional, private review, or public-interest collaboration. Use [For Engineering Contributors]({{ '/engage/for-engineering-contributors/' | relative_url }}) for code-adjacent contribution paths.

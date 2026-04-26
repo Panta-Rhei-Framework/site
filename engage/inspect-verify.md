@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "Results"
       url: /results/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Corpus"
       url: /corpus/
     - title: "Verify"
@@ -72,5 +74,4 @@ The program should not be evaluated only at the level of prose. Serious inspecti
 
 Good inspection names a specific object and a specific test. Examples include a broken dependency, a missing assumption, a mismatch between prose and registry source, a formalization gap, a prediction that should be reclassified, or a prior-art overlap that needs explicit treatment.
 
-For structured objections, continue to [Critique & Challenge]({{ '/engage/critique-challenge/' | relative_url }}). For direct routing, use [Contact]({{ '/engage/contact/' | relative_url }}).
-
+For structured public objections, continue to [Public Discussions]({{ '/engage/discussions/' | relative_url }}) or [Critique & Challenge]({{ '/engage/critique-challenge/' | relative_url }}). Use Issues for concrete defects and [Contact]({{ '/engage/contact/' | relative_url }}) for private or institutional routes.

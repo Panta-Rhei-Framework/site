@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "Engage Overview"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Verify Lane"
       url: /verify/
     - title: "Collaborate"
@@ -86,6 +88,7 @@ Every PR runs against the following gates. A red CI is not a blocker to opening 
 
 ## Community Channels
 
+- **[Organization Discussions]({{ '/engage/discussions/' | relative_url }})** - public questions, review offers, claim challenges, and routing that is broader than one repository.
 - **[GitHub issues](https://github.com/Panta-Rhei-Research/taulib/issues)** — the primary async channel for bugs, proposals, and discussion. Triaged within 7 calendar days.
 - **Lean Zulip** — [leanprover.zulipchat.com](https://leanprover.zulipchat.com/). There is not yet a project-specific thread; a launch thread will be announced in the `#new members` stream when it opens. Do not assume a URL exists before the announcement.
 - **Direct email** — [review@panta-rhei.site](mailto:review@panta-rhei.site) for substantive engineering feedback that does not fit an issue thread (e.g. confidential review comments, pre-publication reports).

@@ -17,9 +17,11 @@ summary_cards:
   - title: "Collaborate"
     body: "Route research dialogue, engineering contributions, media, institutional, and direct contact cleanly."
 hero_ctas:
+  - label: "Join Public Discussions"
+    url: /engage/discussions/
+    primary: true
   - label: "Start Exploring"
     url: /engage/read-explore/
-    primary: true
   - label: "Inspect the Work"
     url: /engage/inspect-verify/
   - label: "Contact Us"
@@ -28,6 +30,8 @@ right_rail:
   related:
     - title: "How to Engage"
       url: /engage/how-to-engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Independence, Scope & Scrutiny"
       url: /program/about/independence-scope-and-scrutiny/
     - title: "Research Notes"
@@ -54,6 +58,10 @@ Engagement does not require agreement. Participation does not imply endorsement.
     <h3>Read & Explore</h3>
     <p>Start with Discover, Books, Guided Tours, and the World Readout.</p>
   </a>
+  <a class="v2-tile" href="{{ '/engage/discussions/' | relative_url }}">
+    <h3>Public Discussions</h3>
+    <p>Ask questions, challenge claims, offer bounded review, and route corrections through GitHub Organization Discussions.</p>
+  </a>
   <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
     <h3>Inspect & Verify</h3>
     <p>Follow claims through Results, Corpus, Verify, TauLib, and assessment protocols.</p>
@@ -78,6 +86,7 @@ Engagement does not require agreement. Participation does not imply endorsement.
 
 ## Ongoing Channels
 
+- [Public Discussions]({{ '/engage/discussions/' | relative_url }}) for questions, critique, review offers, and correction routing.
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for Research Notes by email.
 - [Independence, Scope & Scrutiny]({{ '/program/about/independence-scope-and-scrutiny/' | relative_url }}) for the founders' statement on open-research posture and public accountability.
 - [Support the Research]({{ '/engage/support-the-research/' | relative_url }}) for non-endorsement support routes.

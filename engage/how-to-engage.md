@@ -18,6 +18,8 @@ right_rail:
   related:
     - title: "Engage"
       url: /engage/
+    - title: "Public Discussions"
+      url: /engage/discussions/
     - title: "Read & Explore"
       url: /engage/read-explore/
     - title: "Inspect & Verify"
@@ -44,6 +46,10 @@ Engagement should match the kind of attention you want to bring. The program is 
   <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
     <h3>Serious reader</h3>
     <p>Use Books, Results, and the World Readout to understand the program's claims.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/engage/discussions/' | relative_url }}">
+    <h3>Public participant</h3>
+    <p>Use GitHub Organization Discussions for public questions, critique, review offers, and correction routing.</p>
   </a>
   <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
     <h3>Technical reviewer</h3>
@@ -74,3 +80,5 @@ Engagement should match the kind of attention you want to bring. The program is 
 ## Minimum Good-Faith Posture
 
 You do not need to agree with the framework. You do need to engage the right object: a book, a result, a registry object, a formalization surface, an empirical prediction, or a stated assumption. The engagement routes above are designed to make that object easy to find.
+
+For public questions and critique, start with [Public Discussions]({{ '/engage/discussions/' | relative_url }}). For concrete defects, use Issues. For concrete edits, use Pull Requests. For private, institutional, media, sensitive, or support-related contact, use [Contact]({{ '/engage/contact/' | relative_url }}).
