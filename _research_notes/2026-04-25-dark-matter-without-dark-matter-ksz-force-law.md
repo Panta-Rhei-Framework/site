@@ -1,5 +1,5 @@
 ---
-title: "Dark Matter vs. MOND vs. Category tau"
+title: "Dark Matter vs. MOND vs. Category τ"
 subtitle: "A categorical pre-registration against the Gallardo et al. 2026 pairwise-kSZ constraint"
 slug: "dark-matter-without-dark-matter-ksz-force-law"
 permalink: /publications/research-notes/dark-matter-without-dark-matter-ksz-force-law/
@@ -15,7 +15,7 @@ secondary_domains:
   - Results
 summary_short: "A pre-registration note placing the categorical force-law commitment against the Gallardo et al. pairwise-kSZ test."
 summary: "The note asks how a framework with no particle dark matter and no MOND-scale force-law modification should be read against a pairwise-kSZ constraint that favors an inverse-square law on cluster-pair scales."
-abstract: "The note places the Panta Rhei force-law stance on the Gallardo et al. 2026 pairwise-kSZ constraint: Category tau rejects both a new dark-matter particle and a fundamental MOND transition at the tested scale, while committing to a Newtonian inverse-square force-law exponent in the cluster-pair regime. The note defines falsification surfaces and reporting targets rather than claiming external acceptance."
+abstract: "The note places the Panta Rhei force-law stance on the Gallardo et al. 2026 pairwise-kSZ constraint: Category τ rejects both a new dark-matter particle and a fundamental MOND transition at the tested scale, while committing to a Newtonian inverse-square force-law exponent in the cluster-pair regime. The note defines falsification surfaces and reporting targets rather than claiming external acceptance."
 anchor_paper: "Gallardo et al., 2026 pairwise-kSZ constraint on the large-scale gravitational force law."
 anchor:
   title: "Pairwise-kSZ force-law constraint"

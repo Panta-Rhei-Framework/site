@@ -43,7 +43,7 @@ right_rail:
 | Lean Type | Module | Description |
 |-----------|--------|-------------|
 | `Generator` | `BookI/Kernel/Signature` | The 5-element generator type |
-| `TauObj` | `BookI/Kernel/Axioms` | Objects in Category tau (seed + depth) |
+| `TauObj` | `BookI/Kernel/Axioms` | Objects in Category τ (seed + depth) |
 | `TauIdx` | `BookI/Denotation/TauIdx` | Internal natural numbers (= `Nat`, earned from O_alpha) |
 | `SplitComplex` | `BookI/Boundary/SplitComplex` | Split-complex numbers (boundary ring) |
 

@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Recover Internal Physical Grammar"
-permalink: "/corpus/construction-spine/recover-internal-physical-grammar/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Builds internally meaningful physical semantics before empirical calibration."
-construction_step_id: "CS-05"
 id: "CS-05"
 sequence: 5
+title: "Step 5 — Recover Internal Physical Grammar"
 short_title: "Internal Physics"
 slug: "recover-internal-physical-grammar"
 agenda_path: "/program/research-agenda/construction-roadmap/#recover-internal-physical-grammar"
@@ -90,13 +81,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe fifth step develops internal physical grammar: time, space, mass, energy, fields, observables, laws, and regimes as structures inside the framework.\n\n## Why this step is required\n\nAfter the physical carrier is identified, the Corpus must show that the carrier can support something recognizable as physics without merely borrowing standard physical equations as external givens.\n\n## Key constructions\n\n- Tau-time and tau-space.\n- Tau-mass and tau-energy.\n- Fields and observables.\n- Dynamical lawfulness.\n- Internal physical regimes."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/recover-internal-physical-grammar/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Builds internally meaningful physical semantics before empirical calibration."
+construction_step_id: "CS-05"
 ---
 
 > Builds internally meaningful physical semantics before empirical calibration.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover tau-time, tau-space, tau-mass, tau-energy, fields, observables, dynamical laws, and physical regimes as internal structures.
 
@@ -147,7 +147,7 @@ After the physical carrier is identified, the Corpus must show that the carrier 
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Direct empirical checks are downstream of this step. Measurement, calibration, and falsification burdens begin once empirical bridge surfaces are constructed._
 
 ## Related Verify surfaces
 

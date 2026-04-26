@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Self-Host Formal Systems and the Kernel Itself"
-permalink: "/corpus/construction-spine/self-host-formal-systems/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects."
-construction_step_id: "CS-09"
 id: "CS-09"
 sequence: 9
+title: "Step 9 — Self-Host Formal Systems and the Kernel Itself"
 short_title: "Self-Hosting"
 slug: "self-host-formal-systems"
 agenda_path: "/program/research-agenda/construction-roadmap/#self-host-formal-systems-and-the-kernel-itself"
@@ -89,13 +80,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe ninth step concerns formal systems as internal objects: ZFC-like theories, Lean-like kernels, the tau-kernel as represented object, proof as act, computation as performed process, and meta-language internalization.\n\n## Why this step is required\n\nThe program begins with a formal kernel, but self-hosting is not available at the beginning. It requires reflective symbolic structure capable of writing, interpreting, manipulating, and reasoning over formal systems as objects.\n\n## Key constructions\n\n- Formal systems as objects.\n- ZFC as object theory.\n- Lean-like proof kernels as object theories.\n- The tau-kernel as represented object.\n- Controlled self-reference."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/self-host-formal-systems/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects."
+construction_step_id: "CS-09"
 ---
 
 > Internalizes formal systems, proof acts, computation, meta-language, and eventually the kernel itself as represented objects.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover the ability to host ZFC-like systems, Lean-like proof kernels, and the tau-kernel itself as internal objects after reflective symbolic structure exists.
 
@@ -146,7 +146,7 @@ The program begins with a formal kernel, but self-hosting is not available at th
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Direct empirical checks are not the primary burden at this step. This step is assessed through meta-verification, no-externalities review, and explicit boundary disclosure._
 
 ## Related Verify surfaces
 

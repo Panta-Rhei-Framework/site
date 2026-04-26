@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Recover Reflective Structure"
-permalink: "/corpus/construction-spine/recover-reflective-structure/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity."
-construction_step_id: "CS-08"
 id: "CS-08"
 sequence: 8
+title: "Step 8 — Recover Reflective Structure"
 short_title: "Reflection"
 slug: "recover-reflective-structure"
 agenda_path: "/program/research-agenda/construction-roadmap/#recover-reflective-structure"
@@ -86,13 +77,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe eighth step builds the bridge from life to reflection. It concerns cognition, perception, memory, self-modeling, symbolic mediation, language, meaning, truth, value, and normativity.\n\n## Why this step is required\n\nMind, meaning, and value cannot be bolted on from outside after physics and life have been built. The Corpus must recover the structural layer in which these topics become intelligible.\n\n## Key constructions\n\n- Cognition and perception.\n- Memory and learning.\n- Self-modeling.\n- Symbolic mediation and language.\n- Truth, value, and normativity."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/recover-reflective-structure/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity."
+construction_step_id: "CS-08"
 ---
 
 > Recovers the transition from life to cognition, subjectivity, symbolic mediation, meaning, truth, value, and normativity.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover the structures through which life becomes reflective, symbolic, and meaning-bearing.
 
@@ -141,7 +141,7 @@ _No dedicated TauLib module is required at this step yet._
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Direct empirical checks are downstream or domain-dependent at this step. Reflective-structure claims require separate life, semantic, and metaphysical verification routes._
 
 ## Related Verify surfaces
 

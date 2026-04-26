@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import shutil
+from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -167,6 +168,7 @@ def generate_problem_answer_pages() -> None:
     root = SITE_ROOT / "results" / "problem-ledger-answers"
     domains = sorted({item["domain_slug"] for item in problems})
     counts = domain_counts(problems)
+    status_counts = Counter((item.get("program") or {}).get("result_status", "not_yet_classified") for item in problems)
 
     root_body = f"""## Answer Mirror
 
@@ -201,10 +203,6 @@ The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain p
 
 ## Current Status Summary
 
-{{% assign mirror_items = site.data.problem_ledger["problem-ledger"] %}}
-{{% assign partial_answers = mirror_items | where_exp: "item", "item.program.result_status == 'partially_addressed'" %}}
-{{% assign not_yet_classified = mirror_items | where_exp: "item", "item.program.result_status == 'not_yet_classified'" %}}
-
 <table>
   <thead>
     <tr>
@@ -216,12 +214,12 @@ The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain p
   <tbody>
     <tr>
       <th scope="row">Partially addressed</th>
-      <td>{{{{ partial_answers | size }}}}</td>
+      <td>{status_counts.get('partially_addressed', 0)}</td>
       <td>The program has a visible Results-side stance, but not final settlement or external acceptance.</td>
     </tr>
     <tr>
       <th scope="row">Not yet touched</th>
-      <td>{{{{ not_yet_classified | size }}}}</td>
+      <td>{status_counts.get('not_yet_classified', 0)}</td>
       <td>The problem is publicly carried as an obligation without a current answer mirror.</td>
     </tr>
   </tbody>

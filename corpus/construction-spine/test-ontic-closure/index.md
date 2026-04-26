@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Test Universal Closure and Ontic Status"
-permalink: "/corpus/construction-spine/test-ontic-closure/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden."
-construction_step_id: "CS-10"
 id: "CS-10"
 sequence: 10
+title: "Step 10 — Test Universal Closure and Ontic Status"
 short_title: "Ontic Closure"
 slug: "test-ontic-closure"
 agenda_path: "/program/research-agenda/construction-roadmap/#test-universal-closure-and-ontic-status"
@@ -88,13 +79,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe final step gathers the strongest closure burdens: no externalities, substrate non-deferral, diagrammatic access, self-containment, universal invariance, bridge adequacy, residual boundaries, and ontic status.\n\n## Why this step is required\n\nOntic status cannot be asserted at the beginning. It can only be tested after the construction has faced mathematics, physics, life, reflection, and self-hosting.\n\n## Key constructions\n\n- No externalities.\n- Substrate non-deferral.\n- Self-containment and universal properties.\n- Bridge adequacy.\n- Residual-boundary disclosure."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/test-ontic-closure/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden."
+construction_step_id: "CS-10"
 ---
 
 > Tests no externalities, substrate non-deferral, self-containment, bridge adequacy, residual boundaries, and the ontic-status burden.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must test whether the kernel can earn ontic seriousness after mathematics, physics, life, reflection, and self-hosting have been built.
 
@@ -146,7 +146,7 @@ _No dedicated TauLib module is required at this step yet._
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Direct empirical checks are not the primary burden at this step. This step is assessed through meta-verification, no-externalities review, and explicit boundary disclosure._
 
 ## Related Verify surfaces
 
@@ -173,4 +173,4 @@ This step does not say the kernel has proven final ontic status. It is where the
 ## Spine navigation
 
 - Previous: [Step 9 — Self-Host Formal Systems and the Kernel Itself](/corpus/construction-spine/self-host-formal-systems/)
-- This is the final construction step in the canonical spine.
+- Next: [Construction Spine overview](/corpus/construction-spine/)

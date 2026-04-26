@@ -10,11 +10,13 @@ status: "Canonical"
 summary_short: "The explicit burden of proof accepted by the Panta Rhei Research Program."
 summary_cards:
   - title: "Aim"
-    body: "Investigate whether one coherence-first framework can support a full-stack model of reality."
-  - title: "Ledgers"
-    body: "Problem Ledger and Recovery Requirements record the public stress tests and baseline structures."
-  - title: "Construction"
-    body: "Construction Roadmap turns those burdens into a logical build-order."
+    body: "Construct and test whether a finite, computable kernel can recover mathematics, physics, life, and reflective intelligibility without hidden externalities."
+  - title: "Problem Ledger"
+    body: "External open-problem stress tests the program agrees to keep visible, classify, address, reframe, or reject with reason."
+  - title: "Recovery Requirements"
+    body: "Known structures and conceptual grammars the kernel must recover before its answers can be taken seriously."
+  - title: "Construction Roadmap"
+    body: "The logical build-order implied by the agenda: kernel, mathematics, physics, empirical bridges, life, reflection, self-hosting, and ontic closure."
 hero_ctas:
   - label: "Problem Ledger"
     url: /program/research-agenda/problem-ledger/
@@ -50,6 +52,12 @@ right_rail:
     updated: "April 2026"
 ---
 
+## Program definition
+
+The Panta Rhei Research Program aims to construct a finite, computable, self-contained formal kernel that can recover the core structures of mathematics, physics, life, and reflective intelligibility.
+
+The Research Agenda defines the burden this kernel must carry. It states which open problems the program accepts as stress tests, which known structures the kernel must recover, what kind of answer could count as ontically serious, and what logical construction order follows from those obligations.
+
 ## Why an agenda is needed
 
 A large-scope program cannot ask for serious engagement unless it states what it is trying to solve, what standards constrain it, and what will not count as success.
@@ -79,9 +87,15 @@ In v2.2 language, the Research Agenda is the program's public obligation layer: 
   </a>
 </div>
 
-## How to read this lane
+## How to read this page
 
-Start with the Problem Ledger if you want external stress tests, Recovery Requirements if you want baseline reconstruction burdens, Kernel, Model & Reality if you want claim-boundary discipline, and Construction Roadmap if you want the build order. Then move to [Corpus]({{ '/corpus/' | relative_url }}) for construction, [Results]({{ '/results/' | relative_url }}) for consequences, and [Verify]({{ '/verify/' | relative_url }}) for inspection.
+If you are new to the program, read the agenda in this order:
+
+1. Start with the **Problem Ledger** to see the external open problems the program accepts as stress tests.
+2. Continue to **Recovery Requirements** to see what the kernel must recover even before it can claim serious explanatory power.
+3. Read **Kernel, Model & Reality** to understand the no-externalities and ontic-status burden.
+4. Use the **Construction Roadmap** to see the logical build-order that follows from those commitments.
+5. Then move to **Results** to see the current program stance against the agenda.
 
 ## Why a Problem Ledger?
 
@@ -135,6 +149,8 @@ Both ledgers belong to the same burden of proof. They should not be collapsed in
 ## Kernel, Model & Reality
 
 The ledgers name what the program must face. Kernel, Model & Reality names the deeper burden behind that confrontation: what would make a kernel more than a useful organizing model?
+
+The program is therefore not satisfied with a model that merely organizes observations; it asks what formal shape a model would need in order to qualify as an ontically serious candidate.
 
 This section treats ontic status as a burden, not a premise. It takes the phenomena/noumena boundary seriously, distinguishes pointing access from diagrammatic access, and applies a strict no-externalities rule: no hidden runtime, substrate, bridge, semantic load, or residual boundary may be treated as solved by silence.
 

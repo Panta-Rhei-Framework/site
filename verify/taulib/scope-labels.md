@@ -22,13 +22,13 @@ TauLib uses a 4-tier scope discipline to classify every mathematical claim. This
 
 ### Established
 
-Classical mathematics that is independently verified and widely accepted. These results do not depend on Category tau — they are standard theorems formalized within the tau framework.
+Classical mathematics that is independently verified and widely accepted. These results do not depend on Category τ — they are standard theorems formalized within the tau framework.
 
 **Example:** The Chinese Remainder Theorem (`BookI/Polarity/ChineseRemainder.lean`)
 
 ### tau-Effective
 
-Quantitative predictions derived within the Category tau framework. These are the core results — formulas that produce specific numerical values from the master constant iota_tau and structural parameters, testable against experimental data.
+Quantitative predictions derived within the Category τ framework. These are the core results — formulas that produce specific numerical values from the master constant iota_tau and structural parameters, testable against experimental data.
 
 **Example:** CMB first peak at l_1 = 220.6 with +69 ppm accuracy (`BookV/Cosmology/CMBSpectrum.lean`)
 

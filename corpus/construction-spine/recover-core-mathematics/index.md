@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Recover Core Mathematics"
-permalink: "/corpus/construction-spine/recover-core-mathematics/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Recovers the mathematical substrate needed for proof, calculation, geometry, and later domain construction."
-construction_step_id: "CS-02"
 id: "CS-02"
 sequence: 2
+title: "Step 2 — Recover Core Mathematics"
 short_title: "Core Mathematics"
 slug: "recover-core-mathematics"
 agenda_path: "/program/research-agenda/construction-roadmap/#recover-core-mathematics"
@@ -103,13 +94,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThis step makes mathematics usable inside the kernel. It covers syntax, proof objects, arithmetic, algebraic structure, Euclidean geometry, and controlled bridge criteria into standard mathematics.\n\n## Why this step is required\n\nPhysics, life, and metaphysics cannot be responsibly constructed if the mathematical substrate is merely imported. The kernel must show how mathematical work becomes possible under its own discipline.\n\n## Key constructions\n\n- Finite syntax and proof objects.\n- Finite arithmetic and algebraic structure.\n- Geometry and bridge criteria.\n- Boundary and infinity discipline.\n- Mathematical refusals against unrestricted background assumptions."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/recover-core-mathematics/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Recovers the mathematical substrate needed for proof, calculation, geometry, and later domain construction."
+construction_step_id: "CS-02"
 ---
 
 > Recovers the mathematical substrate needed for proof, calculation, geometry, and later domain construction.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover enough mathematics for later layers without silently importing unrestricted classical externalities.
 
@@ -167,7 +167,7 @@ Physics, life, and metaphysics cannot be responsibly constructed if the mathemat
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Empirical checks are not applicable as direct empirical checks at this step. This step supports later empirical accountability through downstream construction._
 
 ## Related Verify surfaces
 

@@ -13,7 +13,7 @@ domain: "Physics"
 secondary_domains:
   - Metaphysics
   - Corpus
-summary_short: "A response note comparing a G2-torsion black-hole remnant proposal with Category tau's black-hole stability route."
+summary_short: "A response note comparing a G2-torsion black-hole remnant proposal with Category τ's black-hole stability route."
 summary: "The note compares the Pinčák et al. extra-dimensional torsion-remnant construction with a categorical account of black-hole stability that does not postulate extra spatial dimensions."
 abstract: "The note reads a 2026 G2-manifold remnant proposal as an anchor for comparison with the Panta Rhei black-hole layer. It distinguishes the anchor's extra-dimensional Einstein-Cartan mechanism from the categorical account of torus horizons, no-shrink stability, and information preservation."
 anchor_paper: "Pinčák et al., 2026 G2-manifold black-hole remnant proposal."
@@ -25,7 +25,7 @@ pdf: "/assets/pdfs/research-notes/research-note-2026-04-25-black-holes-without-e
 pdf_url: "/assets/pdfs/research-notes/research-note-2026-04-25-black-holes-without-extra-dimensions.pdf"
 pdf_available: true
 claims:
-  core: "The same family of black-hole stability questions can be addressed inside Category tau without treating extra spatial dimensions or torsion as primitives."
+  core: "The same family of black-hole stability questions can be addressed inside Category τ without treating extra spatial dimensions or torsion as primitives."
   does_not_claim:
     - "It does not claim the G2 construction is internally inconsistent."
     - "It does not claim external acceptance of the categorical black-hole interpretation."

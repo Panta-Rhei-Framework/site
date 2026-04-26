@@ -123,8 +123,20 @@ Obligation -> Construction -> Consequence -> Inspection
     Empirical checks:
     {% if empirical_checks.size > 0 %}
       {{ empirical_checks | join: "; " }}
+    {% elsif step.sequence == 1 %}
+      Not applicable at this step. Empirical accountability begins after internal physical grammar and measurement bridges are constructed.
+    {% elsif step.sequence == 2 %}
+      Not applicable as a direct empirical check. This step supports later empirical accountability by recovering mathematical capacity under kernel discipline.
+    {% elsif step.sequence == 3 %}
+      Not applicable as a direct empirical check. This step concerns internal logic, categorical structure, and semantic self-containment.
+    {% elsif step.sequence == 4 or step.sequence == 5 %}
+      Downstream of this step. Measurement, calibration, and falsification burdens begin once empirical bridge surfaces are constructed.
+    {% elsif step.sequence == 8 %}
+      Downstream or domain-dependent at this step. Reflective-structure claims require separate life, semantic, and metaphysical verification routes.
+    {% elsif step.sequence == 9 or step.sequence == 10 %}
+      Not the primary burden at this step. This step is assessed through meta-verification, no-externalities review, and explicit boundary disclosure.
     {% else %}
-      No empirical check declared at this step.
+      Not applicable at this step.
     {% endif %}
   </li>
   <li>

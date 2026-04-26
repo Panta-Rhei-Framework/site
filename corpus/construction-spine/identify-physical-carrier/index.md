@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Identify the Physical Carrier"
-permalink: "/corpus/construction-spine/identify-physical-carrier/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Identifies where physics can live inside the kernel before empirical physics is claimed."
-construction_step_id: "CS-04"
 id: "CS-04"
 sequence: 4
+title: "Step 4 — Identify the Physical Carrier"
 short_title: "Physical Carrier"
 slug: "identify-physical-carrier"
 agenda_path: "/program/research-agenda/construction-roadmap/#identify-the-physical-carrier"
@@ -86,13 +77,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThis step turns the Agenda question \"where can physics live inside the kernel?\" into a Corpus construction problem. It identifies the structural layer that can carry physical roles before measurements or empirical adequacy are discussed.\n\n## Why this step is required\n\nPhysics cannot be assumed as a finished external domain. The Corpus must first explain what kind of internal structure can support physical meaning at all.\n\n## Key constructions\n\n- The carrier problem.\n- Locality and globality.\n- Entities, observables, and interactions.\n- Dynamics and lawfulness as internal roles."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/identify-physical-carrier/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Identifies where physics can live inside the kernel before empirical physics is claimed."
+construction_step_id: "CS-04"
 ---
 
 > Identifies where physics can live inside the kernel before empirical physics is claimed.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must locate a structure inside the kernel capable of carrying physical semantics: locality, globality, entities, observables, interactions, dynamics, and lawfulness.
 
@@ -142,7 +142,7 @@ Physics cannot be assumed as a finished external domain. The Corpus must first e
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Direct empirical checks are downstream of this step. Measurement, calibration, and falsification burdens begin once empirical bridge surfaces are constructed._
 
 ## Related Verify surfaces
 

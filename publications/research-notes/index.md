@@ -43,12 +43,13 @@ Each Research Note makes its status inspectable: date, note type, domain, abstra
 
 ## Note families
 
-- **Response Notes** compare the framework against a named external anchor paper or result.
-- **Pre-Registration Notes** place a framework commitment on a future or live empirical target before the decisive test is complete.
+- **Response / Anchor-Paper Notes** compare the framework against a named external paper, result, or observational report.
+- **Structural Comparison Notes** compare an external theory or construction with a Category τ structure without claiming identity or external proof.
+- **Mechanism-Alignment / Slot-Filler Notes** identify cases where an external mechanism appears to fill a structural slot already required by the framework.
+- **Pre-Registration / Falsification Notes** place a framework commitment on a future or live empirical target before the decisive test is complete.
+- **Prediction-Ledger Observational Comparisons** compare pre-registered numerical or structural commitments with current observational constraints.
+- **Falsification-Discriminator Notes** identify empirical or structural tests that could distinguish Category τ from another framework.
 - **Verification Notes** explain what the public verification surfaces do and do not establish.
-- **Problem-ledger Notes** discuss how open problems are classified, answered, deferred, or rejected.
-- **Recovery Notes** track recovery-target updates across mathematics, physics, life, and metaphysics.
-- **Construction Notes** explain changes to the Corpus Construction Spine or registry graph.
 - **Conceptual and Edition Notes** clarify framework interpretation, public release changes, and reading order.
 
 ## Launch seed set

@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Define the Kernel"
-permalink: "/corpus/construction-spine/define-the-kernel/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Defines the minimal formal core from which the rest of the Corpus is built."
-construction_step_id: "CS-01"
 id: "CS-01"
 sequence: 1
+title: "Step 1 — Define the Kernel"
 short_title: "Kernel"
 slug: "define-the-kernel"
 agenda_path: "/program/research-agenda/construction-roadmap/#define-the-kernel"
@@ -96,13 +87,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe first step defines the tau-kernel as the minimal formal core of the program. It introduces the primitive generators, the progression operator, the kernel axioms, and the discipline that prevents arbitrary external resources from entering the system unnoticed.\n\n## Why this step is required\n\nThe program cannot begin by assuming a finished mathematical or physical background. A candidate no-externalities framework must first say what its starting structure is, how that structure generates objects, and what counts as admissible construction.\n\n## Key constructions\n\n- The five primitive generators.\n- The global progression operator.\n- K0-K6 as the initial kernel axiom cluster.\n- Boundary and fixed-point behavior.\n- Diagonal and resource discipline."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/define-the-kernel/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Defines the minimal formal core from which the rest of the Corpus is built."
+construction_step_id: "CS-01"
 ---
 
 > Defines the minimal formal core from which the rest of the Corpus is built.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must define a kernel precise enough to build from without importing mathematics, physics, life, or metaphysics as finished inputs.
 
@@ -161,7 +161,7 @@ _No separate bridge check is required at this step yet._
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Empirical checks are not applicable as direct empirical checks at this step. This step supports later empirical accountability through downstream construction._
 
 ## Related Verify surfaces
 
@@ -187,4 +187,5 @@ This step defines the formal kernel. It does not yet recover mathematics, identi
 
 ## Spine navigation
 
+- Previous: [Construction Spine overview](/corpus/construction-spine/)
 - Next: [Step 2 — Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/)

@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Build Measurement, Prediction, and Empirical Bridges"
-permalink: "/corpus/construction-spine/measurement-empirical-bridges/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths."
-construction_step_id: "CS-06"
 id: "CS-06"
 sequence: 6
+title: "Step 6 — Build Measurement, Prediction, and Empirical Bridges"
 short_title: "Empirical Bridges"
 slug: "measurement-empirical-bridges"
 agenda_path: "/program/research-agenda/construction-roadmap/#build-measurement-prediction-and-empirical-bridges"
@@ -95,13 +86,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThis step connects internal tau-physics to measurement, calibration, numerical predictions, observational comparison, and falsification pressure.\n\n## Why this step is required\n\nAn internally coherent physics can still fail to describe measured reality. The bridge must therefore be inspectable rather than silently assumed.\n\n## Key constructions\n\n- Unit and SI bridge.\n- Calibration and measured constants.\n- Dimensionful and dimensionless prediction surfaces.\n- Falsification paths.\n- Observational comparison."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/measurement-empirical-bridges/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths."
+construction_step_id: "CS-06"
 ---
 
 > Bridges internal tau-physics to measured reality, prediction surfaces, and falsification paths.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must distinguish what is calibrated, what is predicted, what is dimensionful, what is dimensionless, and what would falsify or pressure the framework.
 

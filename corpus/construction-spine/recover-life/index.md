@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Recover Life as a Structural Class"
-permalink: "/corpus/construction-spine/recover-life/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances."
-construction_step_id: "CS-07"
 id: "CS-07"
 sequence: 7
+title: "Step 7 — Recover Life as a Structural Class"
 short_title: "Life"
 slug: "recover-life"
 agenda_path: "/program/research-agenda/construction-roadmap/#recover-life-as-a-structural-class"
@@ -88,13 +79,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe seventh step treats life as a recoverable structural class. It asks what must hold for boundary, individuality, metabolism, heredity, reproduction, variation, evolution, morphogenesis, classification, and ecology to become intelligible inside the framework.\n\n## Why this step is required\n\nLife cannot be used as an unexplained external input if the framework claims full-stack scope. The Corpus must show how life becomes a valid structural category.\n\n## Key constructions\n\n- Life as recoverable category.\n- Boundary and individuality.\n- Metabolism and throughput.\n- Encoding and heredity.\n- Evolution, morphogenesis, classification, and ecology."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/recover-life/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances."
+construction_step_id: "CS-07"
 ---
 
 > Recovers life as a structural class rather than as a mere catalogue of Earth-biological instances.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover boundary, individuality, metabolism, encoding, heredity, reproduction, variation, evolution, morphogenesis, classification, and ecology as structural capacities.
 

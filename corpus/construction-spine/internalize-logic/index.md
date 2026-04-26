@@ -1,16 +1,7 @@
 ---
-layout: "program-doc"
-title: "Internalize Logic and Categorical Self-Structure"
-permalink: "/corpus/construction-spine/internalize-logic/"
-lane: "corpus"
-v2_lane: "corpus"
-section: "construction-spine"
-type: "Construction Step"
-status: "Canonical"
-summary_short: "Moves from external description toward internal logic, categorical organization, representation, and first self-containment structures."
-construction_step_id: "CS-03"
 id: "CS-03"
 sequence: 3
+title: "Step 3 — Internalize Logic and Categorical Self-Structure"
 short_title: "Internal Logic"
 slug: "internalize-logic"
 agenda_path: "/program/research-agenda/construction-roadmap/#internalize-logic-and-categorical-self-structure"
@@ -100,13 +91,22 @@ projection_version: "v0.1"
 canonical_source: "corpus/construction-spine"
 do_not_edit: true
 _body: "## What this step builds\n\nThe third step develops the categorical and logical machinery that lets the kernel become internally intelligible. It shifts the construction from objects alone toward internal representation, truth, and self-structure.\n\n## Why this step is required\n\nA kernel that remains only externally described cannot satisfy the no-externalities burden. It must begin to internalize the logic and representation by which its own objects become readable.\n\n## Key constructions\n\n- Categorical organization.\n- Internal truth and logic.\n- Yoneda-style representation.\n- Self-enrichment beginnings.\n- First self-containment mechanisms."
+layout: "program-doc"
+permalink: "/corpus/construction-spine/internalize-logic/"
+lane: "corpus"
+v2_lane: "corpus"
+section: "construction-spine"
+type: "Construction Step"
+status: "Canonical"
+summary_short: "Moves from external description toward internal logic, categorical organization, representation, and first self-containment structures."
+construction_step_id: "CS-03"
 ---
 
 > Moves from external description toward internal logic, categorical organization, representation, and first self-containment structures.
 
 <div class="notice note"><strong>Status note.</strong> Build status reflects the current internal state of the Corpus. It does not imply external acceptance unless explicitly stated.</div>
 
-## What this step was required to do
+## What this step is required to do
 
 The program must recover enough internal logic and categorical self-structure for the kernel to become self-expressive rather than merely externally described.
 
@@ -166,7 +166,7 @@ A kernel that remains only externally described cannot satisfy the no-externalit
 
 ## Empirical checks
 
-_Empirical checks are not applicable at this step._
+_Empirical checks are not applicable as direct empirical checks at this step. This step supports later empirical accountability through downstream construction._
 
 ## Related Verify surfaces
 

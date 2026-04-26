@@ -13,25 +13,25 @@ domain: "Mathematics"
 secondary_domains:
   - Physics
   - Corpus
-summary_short: "A response note comparing the conformal primon gas near singularities with Category tau's native arithmetic structure."
-summary: "This note reads Hartnoll and Yang's conformal primon gas through the Panta Rhei construction spine: arithmetic structure appears in their singularity limit, while Category tau treats the same family of structures as kernel-native."
-abstract: "The note compares the Hartnoll-Yang chain from BKL dynamics to hyperbolic billiards, automorphic forms, L-functions, and the primon gas with the Panta Rhei derivation of prime polarity, L-functions, and hyperbolic structure from the categorical kernel. It is a conditional comparison, not an external proof of Category tau."
+summary_short: "A response note comparing the conformal primon gas near singularities with Category τ's native arithmetic structure."
+summary: "This note reads Hartnoll and Yang's conformal primon gas through the Panta Rhei construction spine: arithmetic structure appears in their singularity limit, while Category τ treats the same family of structures as kernel-native."
+abstract: "The note compares the Hartnoll-Yang chain from BKL dynamics to hyperbolic billiards, automorphic forms, L-functions, and the primon gas with the Panta Rhei derivation of prime polarity, L-functions, and hyperbolic structure from the categorical kernel. It is a conditional comparison, not an external proof of Category τ."
 anchor_paper: "Hartnoll and Yang, The Conformal Primon Gas at the End of Time."
 anchor:
   title: "Conformal primon gas"
   description: "The anchor paper finds arithmetic structure in a quantum-cosmological singularity regime via BKL dynamics, automorphic waveforms, L-functions, and prime-labelled thermodynamics."
-  relation: "Used as a comparison target for Category tau's claim that the same arithmetic family is kernel-native rather than singularity-generated."
+  relation: "Used as a comparison target for Category τ's claim that the same arithmetic family is kernel-native rather than singularity-generated."
 pdf: "/assets/pdfs/research-notes/research-note-2026-04-25-arithmetic-quantum-gravity-without-singularities.pdf"
 pdf_url: "/assets/pdfs/research-notes/research-note-2026-04-25-arithmetic-quantum-gravity-without-singularities.pdf"
 pdf_available: true
 claims:
-  core: "If Category tau is granted internally, the arithmetic structures found at the BKL singularity have a categorical counterpart before gravity or singularity assumptions enter."
+  core: "If Category τ is granted internally, the arithmetic structures found at the BKL singularity have a categorical counterpart before gravity or singularity assumptions enter."
   does_not_claim:
     - "It does not refute the Hartnoll-Yang construction."
-    - "It does not claim external peer-reviewed validation of Category tau."
+    - "It does not claim external peer-reviewed validation of Category τ."
     - "It does not collapse automorphic, categorical, and physical regimes into one untyped claim."
   falsification_surface:
-    - "Failure of the Category tau prime-polarity and L-function derivation chain."
+    - "Failure of the Category τ prime-polarity and L-function derivation chain."
     - "Failure of semantic correspondence between the categorical structures and the anchor construction."
     - "Independent rejection of the framework axioms or bridge assumptions."
 verification:
