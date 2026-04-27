@@ -18,6 +18,9 @@ search_keywords:
   - "Public-Good Briefings"
   - "public good papers"
   - "scenario briefings"
+og_image: "/assets/images/plates/plate-07-stable-artifact-layer-og.jpg"
+twitter_image: "/assets/images/plates/plate-07-stable-artifact-layer-og.jpg"
+og_image_alt: "Scientific plate showing Public-Good Briefings as a family under Research Briefings inside the Publications taxonomy."
 ---
 
 ## What Public-Good Briefings are
@@ -25,6 +28,13 @@ search_keywords:
 Public-Good Briefings are Research Briefings: framework-grounded translation artifacts that explore what could become valuable in public-good domains if the relevant Results survive verification, translation, domain review, and uptake.
 
 They are not validation claims, policy commitments, implementation plans, or deployment-ready proposals. They are downstream conditional scenario analyses.
+
+## Public-Good Briefings as Research Briefings
+
+{% capture public_good_plate_caption %}Public-Good Briefings are a family of Research Briefings: conditional scenario briefings, not validation claims or deployment plans.{% endcapture %}
+{% include scientific-plate.html id="plate-07-stable-artifact-layer" variant="thumb" class="scientific-plate--compact" caption=public_good_plate_caption loading="lazy" %}
+
+Public-Good Briefings sit inside the Research Briefings category. Their role is to organize conditional scenario reasoning for public-good contexts while keeping claim status, verification status, and domain uptake separate.
 
 ## Current portfolios
 

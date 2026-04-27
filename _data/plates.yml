@@ -128,3 +128,29 @@
     construction steps, and results flowing into Verify, with six verification
     layers, operational surfaces such as TauLib and Release Manifest, a verification
     status legend, and the caveat that formal checking is not empirical truth.
+- id: plate-07-stable-artifact-layer
+  title: The Stable Artifact Layer
+  status: published
+  image: /assets/images/plates/plate-07-stable-artifact-layer-hero.webp
+  hero_jpg: /assets/images/plates/plate-07-stable-artifact-layer-hero.jpg
+  master: /assets/images/plates/plate-07-stable-artifact-layer-master.jpg
+  thumbnail: /assets/images/plates/plate-07-stable-artifact-layer-thumb.webp
+  og_image: /assets/images/plates/plate-07-stable-artifact-layer-og.jpg
+  pages:
+    - /publications/
+    - /publications/research-briefings/
+    - /publications/research-briefings/public-good/
+    - /publications/research-notes/
+    - /publications/monograph-supplements/
+    - /publications/white-papers/
+    - /publications/release-artifacts/
+  caption: >
+    Publications is the stable artifact layer of the program: a typed system
+    of citable objects, including Research Monographs, Monograph Supplements,
+    Research Papers, Research Notes, Research Briefings, White Papers, and
+    Release Artifacts. Artifact type is not claim status.
+  alt: >
+    Scientific plate titled The Stable Artifact Layer, showing Publications at
+    the center with seven publication categories, a Public-Good Briefings inset
+    under Research Briefings, a classification decision band, and links to
+    Corpus, Results, Verify, and Impact.

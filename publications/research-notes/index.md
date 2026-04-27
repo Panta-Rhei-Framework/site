@@ -9,6 +9,9 @@ type: "Publication Index"
 publication_type: "Research Note"
 status: "Active"
 summary_short: "Substantial outward-facing research writing from the Panta Rhei Research Program."
+og_image: /assets/images/plates/plate-07-stable-artifact-layer-og.jpg
+twitter_image: /assets/images/plates/plate-07-stable-artifact-layer-og.jpg
+og_image_alt: "Scientific plate showing Research Notes as one category inside the Publications artifact taxonomy."
 summary_cards:
   - title: "PDF-backed artifacts"
     body: "Research Notes are dated publication objects with stable URLs, citable PDFs where available, and explicit claim boundaries."
@@ -36,6 +39,13 @@ right_rail:
 Research Notes are the program's dated scholarly publication channel for substantial public-facing research writing. They publish responses to anchor papers, observational pre-registrations, verification explainers, framework-based reinterpretations of recent results, and bridge texts that may later become white papers or Public-Good Briefings.
 
 Research Notes are not informal commentary, promotional updates, or a [changelog]({{ '/changelog/' | relative_url }}). They are dated, article-like texts written for readers who want to follow the program's thinking as it develops.
+
+## Research Notes inside the publication taxonomy
+
+{% capture research_notes_plate_caption %}Research Notes are shorter scholarly artifacts in the ongoing research stream, distinct from Research Papers, Research Briefings, and White Papers.{% endcapture %}
+{% include scientific-plate.html id="plate-07-stable-artifact-layer" variant="thumb" class="scientific-plate--compact" caption=research_notes_plate_caption loading="lazy" %}
+
+Research Notes are publication artifacts, not status updates. They carry dated scholarly arguments, comparisons, pre-registrations, responses, and verification explainers while remaining distinct from Research Papers, Research Briefings, and White Papers.
 
 ## What each note exposes
 

@@ -8,6 +8,9 @@ title: "Publications"
 permalink: "/publications/"
 type: "Lane Root"
 summary_short: "The stable public artifact layer: monographs, supplements, papers, notes, briefings, white papers, and release artifacts."
+og_image: "/assets/images/plates/plate-07-stable-artifact-layer-og.jpg"
+twitter_image: "/assets/images/plates/plate-07-stable-artifact-layer-og.jpg"
+og_image_alt: "Scientific plate showing the Publications lane as the stable artifact layer with Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, Release Artifacts, and a classification rule."
 right_rail:
   related:
     -
@@ -39,6 +42,21 @@ The Publications lane is the stable artifact layer of the Panta Rhei Research Pr
 It contains released objects that can be read, cited, downloaded, compared across editions, or used as orientation artifacts.
 
 Publications are not the whole research system. The [Corpus]({{ '/corpus/' | relative_url }}) carries the structured research body, [Results]({{ '/results/' | relative_url }}) reports current program stances, [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes, and [Impact]({{ '/impact/' | relative_url }}) maps conditional consequences. Publications provides the stable released artifacts connected to those lanes.
+
+<p class="eyebrow">The artifact taxonomy at a glance</p>
+
+## The Stable Artifact Layer
+
+{% include scientific-plate.html id="plate-07-stable-artifact-layer" class="scientific-plate--stable-artifact-layer" loading="lazy" %}
+
+Publications is the stable artifact layer of the program. It holds released objects that can be read, cited, downloaded, compared across editions, archived, and connected back to Corpus, Results, Verify, and Impact. Artifact type is not claim status.
+
+<div class="btn-group section-ctas">
+  <a class="btn" href="{{ '/publications/research-monographs/' | relative_url }}">Browse Research Monographs</a>
+  <a class="btn" href="{{ '/publications/monograph-supplements/' | relative_url }}">Open Monograph Supplements</a>
+  <a class="btn" href="{{ '/publications/research-notes/' | relative_url }}">Read Research Notes</a>
+  <a class="btn" href="{{ '/publications/research-briefings/' | relative_url }}">Explore Research Briefings</a>
+</div>
 
 ## Publication categories
 
