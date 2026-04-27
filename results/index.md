@@ -7,9 +7,9 @@ v2_lane: results
 type: "Lane Root"
 status: "Canonical"
 summary_short: "What the program currently derives from its research corpus."
-og_image: /assets/images/plates/plate-02-from-obligation-to-inspection-og.jpg
-twitter_image: /assets/images/plates/plate-02-from-obligation-to-inspection-og.jpg
-og_image_alt: "Scientific plate showing the Panta Rhei accountability chain from Research Agenda to Corpus to Results to Verify."
+og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
+twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
+og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
 summary_cards:
   - title: "World consequence"
     body: "Results is where the built Corpus becomes a world."
@@ -72,12 +72,20 @@ The intended reading order is simple:
 
 The Agenda states the burden. The Corpus carries the build. Results shows the current answers and world-readouts. Verify exposes the inspection routes.
 
-## Results are consequences, not isolated claims
+<p class="eyebrow">The consequence layer at a glance</p>
 
-{% capture results_plate_02_caption %}Results are not isolated claims. They are consequences that should be read against prior obligations, Corpus construction, and Verify surfaces.{% endcapture %}
-{% include scientific-plate.html id="plate-02-from-obligation-to-inspection" class="scientific-plate--spine" caption=results_plate_02_caption loading="lazy" %}
+## The Results World Readout
 
-Results should be read against the obligations they answer, the Corpus construction that supports them, and the Verify routes that inspect them.
+{% include scientific-plate.html id="plate-05-results-world-readout" class="scientific-plate--results-world-readout" loading="lazy" %}
+
+Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection.
+
+<div class="btn-group section-ctas">
+  <a class="btn-secondary" href="{{ '/results/landmark-results/' | relative_url }}">Explore Landmark Results</a>
+  <a class="btn-ghost" href="{{ '/results/world-readout/' | relative_url }}">Open World Readouts</a>
+  <a class="btn-ghost" href="{{ '/results/problem-ledger-answers/' | relative_url }}">Read Problem Ledger Answers</a>
+  <a class="btn-ghost" href="{{ '/results/progress-against-agenda/' | relative_url }}">Track Progress Against Agenda</a>
+</div>
 
 ## Six ways to read Results
 

@@ -84,3 +84,24 @@
     Scientific plate titled The Construction Spine, showing a vertical ten-step
     build sequence from Kernel to Ontic Closure, with side projections for
     Registry, TauLib, Research Monographs, and Corpus Graph.
+- id: plate-05-results-world-readout
+  title: The Results World Readout
+  status: published
+  image: /assets/images/plates/plate-05-results-world-readout-hero.webp
+  hero_jpg: /assets/images/plates/plate-05-results-world-readout-hero.jpg
+  master: /assets/images/plates/plate-05-results-world-readout-master.jpg
+  thumbnail: /assets/images/plates/plate-05-results-world-readout-thumb.webp
+  og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
+  pages:
+    - /results/
+    - /results/world-readout/
+    - /results/progress-against-agenda/
+  caption: >
+    Results are not isolated claims. They are consequences of the built Corpus,
+    organized through Landmark Results, World Readouts, Problem Ledger Answers,
+    Recovery Target Status, Additional Derived Results, and Progress Against Agenda,
+    with internal status labels separated from external acceptance.
+  alt: >
+    Scientific plate titled The Results World Readout, showing Results at the center
+    with six surrounding result surfaces, four world readouts for mathematics, physics,
+    life, and metaphysics, a status legend, and a route from results to inspection.

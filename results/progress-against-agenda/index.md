@@ -48,6 +48,13 @@ right_rail:
 
 Status indicates the current internal state of the research program. A proposed answer, partial recovery, or internally addressed status does not mean external verification, scientific acceptance, or final settlement.
 
+## Progress as a Results surface
+
+{% capture progress_plate_caption %}Progress Against Agenda is one of the Results surfaces: a dashboard over obligations, recovery targets, and current program stance.{% endcapture %}
+{% include scientific-plate.html id="plate-05-results-world-readout" variant="thumb" class="scientific-plate--compact" caption=progress_plate_caption loading="lazy" %}
+
+Progress Against Agenda tracks current program stance against public obligations and recovery targets.
+
 ## Summary metrics
 
 <div class="v2-grid">
