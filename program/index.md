@@ -7,6 +7,9 @@ permalink: /program/
 type: "Lane Root"
 status: "Canonical"
 summary_short: "The aim, burden of proof, scope, and governing discipline of the research program."
+og_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
+twitter_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
+og_image_alt: "Scientific plate showing the Research Agenda as the public obligation layer of the Panta Rhei Research Program."
 summary_cards:
   - title: "About the Program"
     body: "Identity, stewardship, current public status, and the scrutiny the program invites."
@@ -62,6 +65,13 @@ It is deliberately split into two routes:
     </article>
   </li>
 </ul>
+
+## Research Agenda as obligation layer
+
+{% capture program_plate_03_caption %}The Research Agenda states the burdens the program accepts before claims are read as consequences.{% endcapture %}
+{% include scientific-plate.html id="plate-03-public-obligation-layer" variant="thumb" class="scientific-plate--compact" caption=program_plate_03_caption loading="lazy" %}
+
+The Research Agenda records the program's open-problem obligations, recovery requirements, answer-shape burden, and logical build-order.
 
 ## Program model
 

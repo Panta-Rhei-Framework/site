@@ -8,9 +8,9 @@ permalink: /program/research-agenda/
 type: "Program Sub-lane"
 status: "Canonical"
 summary_short: "The explicit burden of proof accepted by the Panta Rhei Research Program."
-og_image: /assets/images/plates/plate-02-from-obligation-to-inspection-og.jpg
-twitter_image: /assets/images/plates/plate-02-from-obligation-to-inspection-og.jpg
-og_image_alt: "Scientific plate showing the Panta Rhei accountability chain from Research Agenda to Corpus to Results to Verify."
+og_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
+twitter_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
+og_image_alt: "Scientific plate showing the Research Agenda as the public obligation layer of the Panta Rhei Research Program."
 summary_cards:
   - title: "Aim"
     body: "Construct and test whether a finite, computable kernel can recover mathematics, physics, life, and reflective intelligibility without hidden externalities."
@@ -90,6 +90,21 @@ The Research Agenda is the program's public obligation layer: it records what th
     <strong>Construction Roadmap</strong>
     <span>The logical build order demanded by the agenda.</span>
   </a>
+</div>
+
+<p class="eyebrow">The obligation layer at a glance</p>
+
+## The public obligation layer
+
+{% include scientific-plate.html id="plate-03-public-obligation-layer" class="scientific-plate--obligation-layer" loading="lazy" %}
+
+The Research Agenda is the program's public obligation layer. It states what the program accepts as a burden before Results are allowed to sound like consequences.
+
+<div class="btn-group section-ctas">
+  <a class="btn-secondary" href="{{ '/program/research-agenda/problem-ledger/' | relative_url }}">Open the Problem Ledger</a>
+  <a class="btn-ghost" href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}">Read Recovery Requirements</a>
+  <a class="btn-ghost" href="{{ '/program/research-agenda/kernel-model-reality/' | relative_url }}">Explore Kernel, Model & Reality</a>
+  <a class="btn-ghost" href="{{ '/program/research-agenda/construction-roadmap/' | relative_url }}">Follow the Construction Roadmap</a>
 </div>
 
 ## How to read this page

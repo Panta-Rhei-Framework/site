@@ -136,7 +136,7 @@ def main() -> int:
         for needle in required_text:
             require(needle in parser.visible, f"{route} missing expected text: {needle}")
 
-    for route in ["/program/research-agenda/", "/results/", "/verify/"]:
+    for route in ["/results/", "/verify/"]:
         _, parser = read_page(site, route)
         require(
             meta_content(parser, "property", "og:image") == f"https://panta-rhei.site{PLATE_02_OG}",

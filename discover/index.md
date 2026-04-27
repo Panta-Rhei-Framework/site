@@ -71,6 +71,13 @@ Use this map to orient yourself before entering the deeper lanes.
 
 Use this chain to read the site: obligations first, construction second, consequences third, inspection always.
 
+## Before Results, there is obligation
+
+{% capture discover_plate_03_caption %}Before Results, there is obligation: the Research Agenda records the external problems, recovery requirements, answer-shape discipline, and logical build-order of the program.{% endcapture %}
+{% include scientific-plate.html id="plate-03-public-obligation-layer" variant="thumb" class="scientific-plate--compact" caption=discover_plate_03_caption loading="lazy" %}
+
+The Research Agenda states the burden: what must be kept visible, what must be recovered, what kind of answer could count, and what must be built first.
+
 ## Choose your entry
 
 <ul class="v2-grid v2-grid-2 v2-card-list">

@@ -42,3 +42,23 @@
     Scientific plate titled From Obligation to Inspection, showing the Panta Rhei
     accountability chain from Research Agenda to Corpus to Results to Verify,
     with corresponding stages of obligation, construction, consequence, and inspection.
+- id: plate-03-public-obligation-layer
+  title: The Public Obligation Layer
+  status: published
+  image: /assets/images/plates/plate-03-public-obligation-layer-hero.webp
+  hero_jpg: /assets/images/plates/plate-03-public-obligation-layer-hero.jpg
+  master: /assets/images/plates/plate-03-public-obligation-layer-master.jpg
+  thumbnail: /assets/images/plates/plate-03-public-obligation-layer-thumb.webp
+  og_image: /assets/images/plates/plate-03-public-obligation-layer-og.jpg
+  pages:
+    - /program/research-agenda/
+    - /program/
+    - /discover/
+  caption: >
+    The Research Agenda is the program's public obligation layer: it records
+    the open problems, recovery requirements, answer-shape burden, and
+    construction order that must be stated before Results are read as consequences.
+  alt: >
+    Scientific plate titled The Public Obligation Layer, showing the Research Agenda
+    as a public research contract connected to four surfaces: Problem Ledger,
+    Recovery Requirements, Kernel, Model & Reality, and Construction Roadmap.
