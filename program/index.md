@@ -81,20 +81,32 @@ The claim is deliberately ambitious: a constrained formal kernel is used to cons
 
 ## Current status snapshot
 
-- independent open research program
-- public canonical release
-- structured Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces
-- Corpus Construction Spine, Registry, TauLib projection, Results mirrors, and verification routes are public inspection surfaces
-- partially formalized through TauLib and open to correction through GitHub Discussions, issues, pull requests, email, and errata
-- published and inspectable, but not socially settled or externally accepted by declaration
+Panta Rhei is currently:
+
+- an independent open research program;
+- a public canonical release;
+- organized through Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces;
+- partially formalized through TauLib;
+- publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces;
+- open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email;
+- open to correction, challenge, and external review;
+- not socially settled and not a substitute for expert peer review.
 
 ## Core routes
 
-- [About the Program]({{ '/program/about/' | relative_url }}) gives the identity and stewardship layer.
-- [Research Agenda]({{ '/program/research-agenda/' | relative_url }}) states the burden of proof through the Problem Ledger, Recovery Requirements, Kernel, Model & Reality, and Construction Roadmap.
-- [Corpus Construction Spine]({{ '/corpus/construction-spine/' | relative_url }}) shows the build order implied by the Program's obligations.
-- [Results]({{ '/results/' | relative_url }}) reports the current public stances, including Problem Ledger Answers and Recovery Target Status.
-- [Verify]({{ '/verify/' | relative_url }}) exposes inspection routes for obligations, construction steps, formalization, predictions, falsification, and external assessment.
-- [Publications]({{ '/publications/' | relative_url }}) organizes stable artifacts through Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.
-- [Engage]({{ '/engage/' | relative_url }}) gives structured engagement routes: public discussions, bounded review, critique, contribution, contact, and correction.
-- [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scrutiny/' | relative_url }}) states the honesty rules.
+- **[About the Program]({{ '/program/about/' | relative_url }})** gives the identity, stewardship, current public status, founders' statement, and scrutiny posture of the research object.
+- **[Research Agenda]({{ '/program/research-agenda/' | relative_url }})** states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.
+- **[Corpus]({{ '/corpus/' | relative_url }})** shows how the structure is built through the Construction Spine, Registry, TauLib projection, books, and dependency graph.
+- **[Results]({{ '/results/' | relative_url }})** reports current program stances, landmark results, world readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, and Progress Against Agenda.
+- **[Verify]({{ '/verify/' | relative_url }})** explains how obligations, construction steps, and results can be checked, challenged, formalized, bridged, or falsified.
+- **[Publications]({{ '/publications/' | relative_url }})** provides stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.
+- **[Impact]({{ '/impact/' | relative_url }})** maps conditional consequences if Results survive verification, translation, and domain uptake.
+- **[Engage]({{ '/engage/' | relative_url }})** gives structured engagement routes without requiring endorsement.
+
+## What this lane is
+
+The Program lane explains the identity, scope, status, burden of proof, and governing discipline of the research program.
+
+## What this lane is not
+
+It is not the Corpus, where the construction is carried. It is not the Results lane, where current answer surfaces are reported. It is not the Verify lane, where claims are checked and challenged. It is the orientation and research-contract layer.

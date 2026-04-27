@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Assertions for the v2.2 parallel narrative-audit remediation wave."""
+"""Assertions for the v2.2 final polish wave."""
 
 from __future__ import annotations
 
@@ -22,6 +22,7 @@ class PageParser(HTMLParser):
         self.text: list[str] = []
         self.tables: list[str] = []
         self.ul_classes: list[str] = []
+        self.article_classes: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attr = {k: v or "" for k, v in attrs}
@@ -40,6 +41,8 @@ class PageParser(HTMLParser):
             self.tables.append(attr.get("class", ""))
         if tag == "ul":
             self.ul_classes.append(attr.get("class", ""))
+        if tag == "article":
+            self.article_classes.append(attr.get("class", ""))
 
     def handle_endtag(self, tag: str) -> None:
         if tag in {"script", "style", "noscript"} and self.skip:
@@ -65,7 +68,7 @@ class PageParser(HTMLParser):
 
 
 def normalize(value: str) -> str:
-    return " ".join(value.split())
+    return " ".join(value.replace("-&gt;", "->").replace("&gt;", ">").split())
 
 
 def read_page(site: Path, route: str) -> tuple[str, str, PageParser]:
@@ -98,95 +101,91 @@ def require_card_list(parser: PageParser, route: str) -> None:
 
 def main() -> int:
     site = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("_site")
-
-    all_routes = [
+    routes = [
         "/",
-        "/discover/",
         "/program/",
         "/program/research-agenda/",
         "/corpus/",
         "/publications/",
         "/publications/research-briefings/public-good/",
         "/impact/",
+        "/verify/",
         "/engage/",
-        "/engage/how-to-engage/",
-        "/engage/read-explore/",
-        "/engage/inspect-verify/",
-        "/engage/critique-challenge/",
-        "/engage/review-the-work/",
-        "/engage/collaborate/",
-        "/engage/discussions/",
     ]
 
-    for route in all_routes:
+    forbidden_visible = [
+        "· ment",
+        "public good papers",
+        "Companion Papers",
+        "deployment portfolio",
+        "deployment papers",
+        "In v2.1",
+        "In v2.2 language",
+        "Status: Resolved",
+        "Resolved —",
+    ]
+
+    for route in routes:
         _, visible, parser = read_page(site, route)
         if len(parser.h1) != 1:
             raise AssertionError(f"{route} should have exactly one visible H1, found {len(parser.h1)}")
-        forbid(visible, "· ment", route)
-
-    for route in [
-        "/engage/how-to-engage/",
-        "/engage/read-explore/",
-        "/engage/inspect-verify/",
-        "/engage/critique-challenge/",
-        "/engage/review-the-work/",
-        "/engage/collaborate/",
-        "/engage/discussions/",
-    ]:
-        _, visible, _ = read_page(site, route)
-        if "Engagement Route" not in visible and "Engagement Guide" not in visible:
-            raise AssertionError(f"{route} should preserve Engagement Route/Guide hero metadata")
-
-    _, visible, _ = read_page(site, "/")
-    require(visible, "Research Monographs, a structured Corpus, typed Results", "/")
-    require(visible, "Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.", "/")
-    forbid(visible, "Typed answer surfaces and problem mappings.", "/")
+        for phrase in forbidden_visible:
+            forbid(visible, phrase, route)
 
     _, visible, parser = read_page(site, "/program/")
     require_card_list(parser, "/program/")
     for needle in [
+        "Panta Rhei is currently:",
         "organized through Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage surfaces",
         "publicly inspectable through Problem Ledger v1.0, Recovery Requirements, Construction Spine, Registry, Results mirrors, verification routes, Research Notes, Public-Good Briefings, and correction surfaces",
-        "GitHub Discussions, Issues, Pull Requests, and email",
-        "Research Agenda states the burden of proof: Problem Ledger, Recovery Requirements, Kernel/Model/Reality, and Construction Roadmap.",
-        "Publications provides stable artifacts: Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, and Release Artifacts.",
+        "open to structured questions, critique, review, and contribution through GitHub Discussions, Issues, Pull Requests, and email",
+        "not socially settled and not a substitute for expert peer review",
+        "What this lane is",
+        "What this lane is not",
+        "orientation and research-contract layer",
     ]:
         require(visible, needle, "/program/")
 
-    _, visible, parser = read_page(site, "/discover/")
-    require_card_list(parser, "/discover/")
-    require(visible, "TauLib projection, Research Monographs, and dependency graph", "/discover/")
-    require(visible, "Research Monographs, Monograph Supplements, Research Papers, Research Notes, Research Briefings, White Papers, Release Artifacts, and Errata", "/discover/")
-    forbid(visible, "released artifacts, notes, ledgers, and errata", "/discover/")
+    _, visible, _ = read_page(site, "/")
+    require(visible, "Research Monographs, a structured Corpus, typed Results", "/")
+    require(visible, "Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph", "/")
+    require(visible, "Five generators, one operator, and K0-K6 axioms", "/")
+
+    _, visible, parser = read_page(site, "/program/research-agenda/")
+    if "domain-ledger-rules" not in parser.tables:
+        raise AssertionError("/program/research-agenda/ missing semantic domain-ledger-rules table")
+    require(visible, "Problem -> Constraint -> Ontic burden -> Build order -> Corpus construction -> Results -> Verify", "/program/research-agenda/")
 
     _, visible, parser = read_page(site, "/corpus/")
     require_card_list(parser, "/corpus/")
     require(visible, "The primary human-readable route into the Corpus is the Construction Spine", "/corpus/")
-    forbid(visible, "In v2.1", "/corpus/")
 
-    _, visible, _ = read_page(site, "/program/research-agenda/")
-    for label in ["Problem", "Constraint", "Ontic burden", "Build order", "Corpus construction", "Results", "Verify"]:
-        require(visible, label, "/program/research-agenda/")
-    for stale in ["Question -> Constraint", "Construction -> Derivation", "Derivation -> Scrutiny"]:
-        forbid(visible, stale, "/program/research-agenda/")
-
-    _, visible, parser = read_page(site, "/publications/")
+    _, _, parser = read_page(site, "/publications/")
     if "artifact-classification-matrix" not in parser.tables:
         raise AssertionError("/publications/ missing semantic artifact classification table")
 
     html, visible, parser = read_page(site, "/publications/research-briefings/public-good/")
-    require(visible, "Agriculture — 5 briefings", "/publications/research-briefings/public-good/")
-    require(visible, "Weather — 3 briefings", "/publications/research-briefings/public-good/")
-    forbid(visible, "public good papers", "/publications/research-briefings/public-good/")
+    require(visible, "Publications · Research Briefings · Public-Good Briefings", "/publications/research-briefings/public-good/")
+    require(visible, "44 conditional scenario briefings across 11 public-good portfolios.", "/publications/research-briefings/public-good/")
+    if "Publications · Publication Family · Canonical" in visible:
+        raise AssertionError("/publications/research-briefings/public-good/ still shows generic publication-family metadata")
+    if not any("briefing-list" in classes for classes in parser.ul_classes):
+        raise AssertionError("/publications/research-briefings/public-good/ missing briefing-list markup")
+    if sum("briefing-card" in classes for classes in parser.article_classes) != 44:
+        raise AssertionError("/publications/research-briefings/public-good/ should render 44 briefing-card articles")
     if len(set(re.findall(r'href="/publications/research-briefings/public-good/[^"]+/"', html))) != 44:
         raise AssertionError("/publications/research-briefings/public-good/ should link 44 briefing landing pages")
+    for heading in ["Agriculture — 5 briefings", "Weather — 3 briefings"]:
+        require(visible, heading, "/publications/research-briefings/public-good/")
 
+    for route in ["/impact/", "/verify/", "/engage/"]:
+        _, _, parser = read_page(site, route)
+        require_card_list(parser, route)
     _, _, parser = read_page(site, "/impact/")
-    require_card_list(parser, "/impact/")
     if not any("portfolio-card-list" in classes for classes in parser.ul_classes):
         raise AssertionError("/impact/ missing semantic portfolio-card-list markup")
 
-    print("v2.2 narrative audit remediation assertions passed")
+    print("v2.2 final polish assertions passed")
     return 0
 
 

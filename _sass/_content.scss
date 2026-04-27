@@ -379,6 +379,36 @@ a.part-card {
   }
 }
 
+.briefing-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+  padding-left: 0;
+  margin: 14px 0 24px;
+  list-style: none;
+}
+
+.briefing-card {
+  height: 100%;
+  padding: 14px 16px;
+  border: var(--border-default);
+  border-radius: $radius-md;
+  background: var(--surface-card);
+
+  h4 {
+    margin: 0 0 8px;
+    font-size: 0.96rem;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0;
+    color: $text-muted;
+    font-size: 0.88rem;
+    line-height: 1.55;
+  }
+}
+
 .dep-missing {
   opacity: 0.5;
   cursor: default;

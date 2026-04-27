@@ -78,40 +78,72 @@ Engagement does not require agreement. Participation does not imply endorsement.
 
 ## What the program asks for
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
-    <h3>Read Carefully</h3>
-    <p>Start with Discover, Program, Research Agenda, and Publications before judging isolated claims.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
-    <h3>Inspect Claims</h3>
-    <p>Trace claims into Corpus, Results, Verify, TauLib, Release Manifest, and assessment protocols.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/critique-challenge/' | relative_url }}">
-    <h3>Challenge Weak Links</h3>
-    <p>Use critique routes, falsification paths, source checks, and result-status challenges to identify what breaks.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/review-the-work/' | relative_url }}">
-    <h3>Review Bounded Areas</h3>
-    <p>Offer domain-specific review of a problem item, recovery target, result, research note, TauLib module, or briefing.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/for-engineering-contributors/' | relative_url }}">
-    <h3>Contribute Infrastructure</h3>
-    <p>Improve documentation, metadata, search, templates, registry hygiene, TauLib documentation, import reports, or site structure.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/media/' | relative_url }}">
-    <h3>Communicate Responsibly</h3>
-    <p>Explain the work without sensationalism and without treating internal results as external acceptance.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/contact/' | relative_url }}">
-    <h3>Open Institutional Dialogue</h3>
-    <p>Use contact routes for seminars, review settings, affiliation, archive hosting, research collaboration, or structured evaluation.</p>
-  </a>
-  <a class="v2-tile" href="{{ '/engage/support-the-research/' | relative_url }}">
-    <h3>Support Continuation</h3>
-    <p>Support independent continuation without implying endorsement of the conclusions.</p>
-  </a>
-</div>
+<ul class="v2-grid v2-card-list">
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">
+        <h3>Read Carefully</h3>
+        <p>Start with Discover, Program, Research Agenda, and Publications before judging isolated claims.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/inspect-verify/' | relative_url }}">
+        <h3>Inspect Claims</h3>
+        <p>Trace claims into Corpus, Results, Verify, TauLib, Release Manifest, and assessment protocols.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/critique-challenge/' | relative_url }}">
+        <h3>Challenge Weak Links</h3>
+        <p>Use critique routes, falsification paths, source checks, and result-status challenges to identify what breaks.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/review-the-work/' | relative_url }}">
+        <h3>Review Bounded Areas</h3>
+        <p>Offer domain-specific review of a problem item, recovery target, result, research note, TauLib module, or briefing.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/for-engineering-contributors/' | relative_url }}">
+        <h3>Contribute Infrastructure</h3>
+        <p>Improve documentation, metadata, search, templates, registry hygiene, TauLib documentation, import reports, or site structure.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/media/' | relative_url }}">
+        <h3>Communicate Responsibly</h3>
+        <p>Explain the work without sensationalism and without treating internal results as external acceptance.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/contact/' | relative_url }}">
+        <h3>Open Institutional Dialogue</h3>
+        <p>Use contact routes for seminars, review settings, affiliation, archive hosting, research collaboration, or structured evaluation.</p>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/engage/support-the-research/' | relative_url }}">
+        <h3>Support Continuation</h3>
+        <p>Support independent continuation without implying endorsement of the conclusions.</p>
+      </a>
+    </article>
+  </li>
+</ul>
 
 ## Why we ask this way
 

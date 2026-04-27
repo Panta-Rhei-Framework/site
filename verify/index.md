@@ -93,36 +93,64 @@ Verification in this program is not one thing. It includes research-form legitim
 
 ## Core Routes
 
-<div class="v2-grid">
-  <a class="v2-tile" href="{{ '/verify/scientific-rigor/' | relative_url }}">
-    <strong>Scientific Rigor</strong>
-    <span>Whether the program operates as a serious, inspectable research artifact.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/verification-framework/' | relative_url }}">
-    <strong>Verification Framework</strong>
-    <span>The shared standards: explicitness, traceability, derivability, and domain-appropriate validation.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/construction-spine-verification/' | relative_url }}">
-    <strong>Verify the Construction Spine</strong>
-    <span>How each of the ten construction steps can be inspected, checked, or challenged.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/formal-verification-stack/' | relative_url }}">
-    <strong>Formal Verification Stack</strong>
-    <span>Kernel integrity, standard-foundation checks, bridge verification, and current boundaries.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/domain-verification/' | relative_url }}">
-    <strong>Domain Verification</strong>
-    <span>How verification differs across mathematics, physics, life, and metaphysics.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/predictions-and-falsification/' | relative_url }}">
-    <strong>Predictions & Falsification</strong>
-    <span>Where results become accountable to computation, measurement, contradiction, or failure.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/verify/assessment-protocols/' | relative_url }}">
-    <strong>Assessment Protocols</strong>
-    <span>Manual and LLM-assisted review pathways for structured external scrutiny.</span>
-  </a>
-</div>
+<ul class="v2-grid v2-card-list">
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/scientific-rigor/' | relative_url }}">
+        <strong>Scientific Rigor</strong>
+        <span>Whether the program operates as a serious, inspectable research artifact.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/verification-framework/' | relative_url }}">
+        <strong>Verification Framework</strong>
+        <span>The shared standards: explicitness, traceability, derivability, and domain-appropriate validation.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/construction-spine-verification/' | relative_url }}">
+        <strong>Verify the Construction Spine</strong>
+        <span>How each of the ten construction steps can be inspected, checked, or challenged.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/formal-verification-stack/' | relative_url }}">
+        <strong>Formal Verification Stack</strong>
+        <span>Kernel integrity, standard-foundation checks, bridge verification, and current boundaries.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/domain-verification/' | relative_url }}">
+        <strong>Domain Verification</strong>
+        <span>How verification differs across mathematics, physics, life, and metaphysics.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/predictions-and-falsification/' | relative_url }}">
+        <strong>Predictions & Falsification</strong>
+        <span>Where results become accountable to computation, measurement, contradiction, or failure.</span>
+      </a>
+    </article>
+  </li>
+  <li>
+    <article>
+      <a class="v2-tile" href="{{ '/verify/assessment-protocols/' | relative_url }}">
+        <strong>Assessment Protocols</strong>
+        <span>Manual and LLM-assisted review pathways for structured external scrutiny.</span>
+      </a>
+    </article>
+  </li>
+</ul>
 
 ## Verification status legend
 

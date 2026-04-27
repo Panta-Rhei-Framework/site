@@ -41,7 +41,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
     </a>
     <a class="v2-tile" href="{{ '/corpus/' | relative_url }}">
       <h3>Corpus</h3>
-      <p>The living research body: Construction Spine, Registry, TauLib projection, books, and dependency graph.</p>
+      <p>The living research body: Construction Spine, Registry, TauLib projection, Research Monographs, and dependency graph.</p>
     </a>
     <a class="v2-tile" href="{{ '/results/' | relative_url }}">
       <h3>Results</h3>
@@ -91,7 +91,7 @@ hero_supporting_line: "Static, inspectable, Pagefind-searchable, and organized a
   <h2>One corpus, several public projections</h2>
   <p>The site is organized around canonical ownership. Corpus truth lives in the corpus and registry. Publications crystallize it into narrative artifacts. Results present answer surfaces. Verify exposes the inspection routes.</p>
   <div class="v2-system-strip">
-    <div class="v2-system-node"><strong>Kernel</strong>Five generators, seven axioms, one operator.</div>
+    <div class="v2-system-node"><strong>Kernel</strong>Five generators, one operator, and K0-K6 axioms.</div>
     <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects and dependency relations.</div>
     <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
     <div class="v2-system-node"><strong>Verify</strong>TauLib, audit protocols, predictions, falsifications.</div>

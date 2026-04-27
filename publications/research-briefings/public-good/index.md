@@ -7,6 +7,7 @@ updated: "April 2026"
 title: "Public-Good Briefings"
 permalink: "/publications/research-briefings/public-good/"
 type: "Publication Family"
+hero_eyebrow: "Publications · Research Briefings · Public-Good Briefings"
 summary_short: "44 conditional scenario briefings across 11 public-good portfolios."
 publication_category: "research_briefing"
 publication_subcategory: "public_good_briefing"
@@ -58,13 +59,15 @@ If any upstream link weakens, the public-good claim weakens with it.
 {% assign portfolio_title = portfolio.title | replace: "/", " / " %}
 <section class="briefing-portfolio-group" aria-labelledby="briefings-{{ portfolio.slug }}">
   <h3 id="briefings-{{ portfolio.slug }}">{{ portfolio_title }} — {{ briefing_count }} {% if briefing_count == 1 %}briefing{% else %}briefings{% endif %}</h3>
-  <div class="dep-list">
+  <ul class="briefing-list">
   {% for briefing in portfolio_briefings %}
-    <a class="dep-link" href="{{ briefing.landing_url | relative_url }}">
-      <span class="dep-title">{{ briefing.title }}</span>
-      <span class="dep-meta">{{ briefing.summary_short }}</span>
-    </a>
+    <li>
+      <article class="briefing-card">
+        <h4><a href="{{ briefing.landing_url | relative_url }}">{{ briefing.title }}</a></h4>
+        <p>{{ briefing.summary_short }}</p>
+      </article>
+    </li>
   {% endfor %}
-  </div>
+  </ul>
 </section>
 {% endfor %}
