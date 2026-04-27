@@ -21,6 +21,9 @@ right_rail:
     updated: April 2026
 ---
 
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
+
 The τ framework claims that the τ formulations of all seven Millennium Problem families, plus the generalized Riemann hierarchy and the Langlands program, come out affirmatively true within the framework's own mathematical universe. This is one of the program's strongest and most carefully hedged claim families — the distinction between internal τ truth and the bridge to orthodox formulations is maintained throughout.
 
 ## Key claims
@@ -32,7 +35,7 @@ The τ framework claims that the τ formulations of all seven Millennium Problem
 {% include claim-card.html title="Yang-Mills Mass Gap" url="/results/problem/yang-mills-mass-gap/" status="P" summary="The Yang-Mills Gap Theorem (III.T27) proves gap constant Γ*_s > 0 for τ-admissible gauge data. Bridge to SU(3) QFT rigorous construction conjectural." %}
 {% include claim-card.html title="Navier-Stokes Regularity" url="/results/problem/navier-stokes-regularity/" status="N" summary="Positive Regularity (III.T25) proved for τ-admissible data. Bridge to Schwartz-class data on ℝ³ open." %}
 {% include claim-card.html title="Poincaré Conjecture Reinterpretation" url="/results/problem/poincar-conjecture-reinterpretation/" status="R" summary="The one solved Millennium Problem (Perelman, 2002-2003) is reinterpreted within the framework: τ³ = τ¹ ×_f T² is the natural τ-analogue of a 3-manifold, with its own rigidity and classification structure — connecting it to the full enrichment chain." %}
-{% include claim-card.html title="Hodge Conjecture" url="/results/problem/hodge-conjecture-approach/" status="P" summary="The NF-Addressability Theorem (III.T28) resolves the Hodge statement within τ. Bridge to classical algebraic geometry conjectural." %}
+{% include claim-card.html title="Hodge Conjecture" url="/results/problem/hodge-conjecture-approach/" status="P" summary="The NF-Addressability Theorem (III.T28) internally addresses the Hodge statement within τ. Bridge to classical algebraic geometry conjectural." %}
 {% include claim-card.html title="BSD Conjecture" url="/results/problem/bsd-conjecture-approach/" status="P" summary="The BSD Coherence Theorem (III.T35) proves rank-L-value equality for τ-admissible elliptic data. Bridge to classical E/ℚ conjectural." %}
 {% include claim-card.html title="Grand GRH" url="/results/problem/grand-grh-approach/" status="P" summary="Grand GRH (III.D31) extends the Riemann claim to all automorphic L-functions via the Prime Polarity Scaling Theorem (III.T20)." %}
 {% include claim-card.html title="τ-Admissibility Collapse (P = NP)" url="/results/problem/tau-admissibility-collapse-p-np/" status="Q" summary="τ-P_adm = τ-NP_adm at E₂. The bridge to classical Turing-machine framing is acknowledged as broken — the two formulations address different computational substrates." %}

@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Leibniz's Identity of Indiscernibles states that no two distinct objects share all properties. Quantum mechanics challenges this with identical particles. The τ-framework resolves this: objects are individuated by NF addresses in τ³, which are always distinct even when all observable properties coincide.
+Leibniz's Identity of Indiscernibles states that no two distinct objects share all properties. Quantum mechanics challenges this with identical particles. The τ-framework internally addresses this: objects are individuated by NF addresses in τ³, which are always distinct even when all observable properties coincide.
 
 ## Result Statement
 
-Identity of Indiscernibles resolved via NF-address individuation. Quantum identical particles have distinct structural addresses. Status: Internally addressed.
+Identity of Indiscernibles internally addressed via NF-address individuation. Quantum identical particles have distinct structural addresses. Status: Internally addressed.

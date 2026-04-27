@@ -25,7 +25,7 @@ right_rail:
 
 ## Overview
 
-Why core-collapse supernovae actually explode is one of the thorniest open problems in computational astrophysics: high-resolution simulations of neutrino-driven explosions often stall, with the shock failing to revive. Book V ch39 ("Core-Collapse Supernovae") offers a structural mechanism — channel reversal at nuclear density. As GR tension exceeds a critical threshold during collapse, the topological opening reverses direction, and the A-sector (Weak, π-generator) transfers neutrino energy from the proto-neutron star to the stalled shock, driving it outward. V.P76 (Birth Kick and Spin) derives natal kicks of 200-500 km/s from asymmetry in the channel-reversal geometry, matching observed pulsar kick distributions.
+Why core-collapse supernovae actually explode is one of the thorniest open problems in computational astrophysics: high-fidelity simulations of neutrino-driven explosions often stall, with the shock failing to revive. Book V ch39 ("Core-Collapse Supernovae") offers a structural mechanism — channel reversal at nuclear density. As GR tension exceeds a critical threshold during collapse, the topological opening reverses direction, and the A-sector (Weak, π-generator) transfers neutrino energy from the proto-neutron star to the stalled shock, driving it outward. V.P76 (Birth Kick and Spin) derives natal kicks of 200-500 km/s from asymmetry in the channel-reversal geometry, matching observed pulsar kick distributions.
 
 ## Detail
 

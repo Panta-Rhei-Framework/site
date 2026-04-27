@@ -32,7 +32,7 @@ VI.T15 (NoDist Theorem) proves that a virus outside a host fails three of the fi
 
 The question 'are viruses alive?' is one of the most debated classification problems in biology. Viruses satisfy some criteria for life (they evolve, they replicate, they carry genetic information) but fail others (they cannot replicate independently, they have no metabolism, they do not maintain homeostasis outside a host).
 
-VI.T15 (NoDist Theorem) resolves this definitively within the τ-framework. The five τ-Distinction conditions (D1–D5) are:
+VI.T15 (NoDist Theorem) internally addresses this within the program within the τ-framework. The five τ-Distinction conditions (D1–D5) are:
 D1: Boundary (topological separation from environment, self-maintained)
 D2: Gradient (energy gradient maintenance)
 D3: Coupling (interior coupling to exterior for material exchange)

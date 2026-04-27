@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-IV.T180 derives the muon anomalous magnetic moment a_μ by propagating the τ-derived fine-structure constant α_τ through the standard QED loop corrections. The result agrees with the FNAL g–2 measurement at +8.8 ppm — well within experimental uncertainty. The muon g–2 has long been considered an anomalous discrepancy between theory and experiment; the τ-framework's prediction falls between the SM prediction and the FNAL measurement, potentially resolving the tension structurally.
+IV.T180 derives the muon anomalous magnetic moment a_μ by propagating the τ-derived fine-structure constant α_τ through the standard QED loop corrections. The result agrees with the FNAL g–2 measurement at +8.8 ppm — well within experimental uncertainty. The muon g–2 has long been considered an anomalous discrepancy between theory and experiment; the τ-framework's prediction falls between the SM prediction and the FNAL measurement, potentially addressing the tension structurally.
 
 ## Detail
 

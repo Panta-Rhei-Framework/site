@@ -24,7 +24,7 @@ right_rail:
 
 ## Overview
 
-DESI BAO measurements across five redshift bins provide precision tests of the expansion history. The τ-framework matches all five bins at ~1145 ppm combined, resolved in Wave 42B.
+DESI BAO measurements across five redshift bins provide precision tests of the expansion history. The τ-framework matches all five bins at ~1145 ppm combined, internally addressed in Wave 42B.
 
 ## Result Statement
 

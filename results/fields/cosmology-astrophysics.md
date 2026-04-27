@@ -21,6 +21,9 @@ right_rail:
     updated: April 2026
 ---
 
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
+
 Tau-cosmology is not a patched ΛCDM — it is a single coherent cosmological biography read out from the same kernel that produces particle physics and quantum mechanics. The dark sector (dark matter, dark energy) is claimed to be structurally absent: no new particles, no cosmological constant problem, no inflation sector needed as an external add-on.
 
 ## Key claims

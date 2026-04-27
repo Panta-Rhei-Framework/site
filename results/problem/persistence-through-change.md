@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "ONT"
-summary_short: "How can an entity persist through change if all its parts are replaced (Ship of Theseus)? The τ-framework resolves this: identity is NF-address persistence…"
+summary_short: "How can an entity persist through change if all its parts are replaced (Ship of Theseus)? The τ-framework internally addresses this: identity is NF-address persistence…"
 canonical_books: ["VII"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-How can an entity persist through change if all its parts are replaced (Ship of Theseus)? The τ-framework resolves this: identity is NF-address persistence — the structural position persists even as material constituents change.
+How can an entity persist through change if all its parts are replaced (Ship of Theseus)? The τ-framework internally addresses this: identity is NF-address persistence — the structural position persists even as material constituents change.
 
 ## Result Statement
 
-Persistence = NF-address persistence. Structural position persists through material change. Ship of Theseus resolved. Status: Internally addressed.
+Persistence = NF-address persistence. Structural position persists through material change. Ship of Theseus internally addressed. Status: Internally addressed.

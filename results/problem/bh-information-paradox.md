@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: core-foundational-problem
 status_code: R
 domain_group: "BH"
-summary_short: "The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework resolves this: information is pres…"
+summary_short: "The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework internally addresses this: information is pres…"
 canonical_books: ["V"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework resolves this: information is preserved in the ω-germ code of the BH boundary. Since there is no Hawking evaporation, the paradox does not arise.
+The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework internally addresses this: information is preserved in the ω-germ code of the BH boundary. Since there is no Hawking evaporation, the paradox does not arise.
 
 ## Result Statement
 
-BH information paradox resolved: no Hawking evaporation means no information loss. Information preserved in ω-germ code. Status: Internally addressed.
+BH information paradox internally addressed: no Hawking evaporation means no information loss. Information preserved in ω-germ code. Status: Internally addressed.

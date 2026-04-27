@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "COSMO"
-summary_short: "The S₈ tension between CMB-derived and weak-lensing-derived structure growth parameters has persisted across surveys. The τ-framework derives S₈ = 0.783, resolv…"
+summary_short: "The S₈ tension between CMB-derived and weak-lensing-derived structure growth parameters has persisted across surveys. The τ-framework derives S₈ = 0.783 as an internal account."
 canonical_books: ["V"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The S₈ tension between CMB-derived and weak-lensing-derived structure growth parameters has persisted across surveys. The τ-framework derives S₈ = 0.783, resolved in Wave 39C.
+The S₈ tension between CMB-derived and weak-lensing-derived structure growth parameters has persisted across surveys. The τ-framework derives S₈ = 0.783, internally addressed in Wave 39C.
 
 ## Result Statement
 
-S₈ tension resolved: S₈ = 0.783. Derived in Wave 39C. Status: Internally addressed.
+S₈ tension internally addressed: S₈ = 0.783. Derived in Wave 39C. Status: Internally addressed.

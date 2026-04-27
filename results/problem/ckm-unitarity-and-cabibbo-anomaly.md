@@ -32,4 +32,4 @@ In [Book IV]({{ '/publications/books/book-iv/' | relative_url }}) (Part V), the 
 
 ## Result Statement
 
-CKM matrix partially derived from three-generation structure; Cabibbo angle precision not yet sufficient to address the ~3σ anomaly. Status: **Partial** *(tau-effective for CKM structure; conjectural for anomaly resolution)*.
+CKM matrix partially derived from three-generation structure; Cabibbo angle precision not yet sufficient to address the ~3σ anomaly. Status: **Partial** *(tau-effective for CKM structure; conjectural for anomaly account)*.

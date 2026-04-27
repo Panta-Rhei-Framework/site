@@ -12,7 +12,7 @@ result_kind: frontier-problem
 importance_class: domain-level-open-problem
 status_code: R
 domain_group: "Physics"
-summary_short: 'Solar coronal heating — one of the oldest open problems in classical physics — is resolved by deriving the heating damping length from dim(T²)=2 (V.T253, Book V ch65): F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹, L_d ≈ 0.02 R_⊙. Parameter-free, not fitted to experiment.'
+summary_short: 'Solar coronal heating — one of the oldest open problems in classical physics — is internally addressed by deriving the heating damping length from dim(T²)=2 (V.T253, Book V ch65): F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹, L_d ≈ 0.02 R_⊙. Parameter-free, not fitted to experiment.'
 canonical_books: ["V"]
 right_rail:
   meta:
@@ -25,7 +25,7 @@ right_rail:
 
 ## Overview
 
-Why is the Sun's corona ~1-3 MK while the photosphere beneath it sits at ~6000 K? The coronal heating problem is one of the four oldest unsolved problems in classical physics. Book V ch65 ("Collective Dynamics") resolves it by deriving the heating damping length scale from a single structural fact: dim(T²) = 2, the dimension of the toroidal fiber in the τ-kernel. The prediction F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹ for the τ-heating flux and L_d ≈ 0.02 R_⊙ for the damping length sits within observational constraints — and crucially is parameter-free, not fitted.
+Why is the Sun's corona ~1-3 MK while the photosphere beneath it sits at ~6000 K? The coronal heating problem is one of the four oldest unsolved problems in classical physics. Book V ch65 ("Collective Dynamics") internally addresses it by deriving the heating damping length scale from a single structural fact: dim(T²) = 2, the dimension of the toroidal fiber in the τ-kernel. The prediction F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹ for the τ-heating flux and L_d ≈ 0.02 R_⊙ for the damping length sits within observational constraints — and crucially is parameter-free, not fitted.
 
 ## Detail
 

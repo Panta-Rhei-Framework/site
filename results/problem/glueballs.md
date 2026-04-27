@@ -25,7 +25,7 @@ right_rail:
 
 ## Overview
 
-Glueballs — bound states of gluons with no valence quark content — are predicted by QCD but have never been unambiguously observed. The minimum glueball mass (typically ~1.5-1.7 GeV for the 0⁺⁺ state from lattice QCD) has no first-principles derivation in perturbative QCD. Book IV ch31 ("τ-Gap Meta-Theorem") resolves this structurally. IV.D201 defines glueballs as color-neutral excitations above the C-sector (strong) vacuum carrying no quark content. IV.T75 (the Yang-Mills mass gap theorem) establishes δ∞^s > 0, and this gap IS the minimum glueball mass. The lattice-QCD values are consistent with the gap structure; a full τ-predicted numerical value is noted in IV.R72 as pending complete spectral readout.
+Glueballs — bound states of gluons with no valence quark content — are predicted by QCD but have never been unambiguously observed. The minimum glueball mass (typically ~1.5-1.7 GeV for the 0⁺⁺ state from lattice QCD) has no first-principles derivation in perturbative QCD. Book IV ch31 ("τ-Gap Meta-Theorem") internally addresses this structurally. IV.D201 defines glueballs as color-neutral excitations above the C-sector (strong) vacuum carrying no quark content. IV.T75 (the Yang-Mills mass gap theorem) establishes δ∞^s > 0, and this gap IS the minimum glueball mass. The lattice-QCD values are consistent with the gap structure; a full τ-predicted numerical value is noted in IV.R72 as pending complete spectral readout.
 
 ## Detail
 

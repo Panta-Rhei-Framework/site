@@ -21,6 +21,9 @@ right_rail:
     updated: April 2026
 ---
 
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
+
 The τ framework's approach to continuum physics differs fundamentally from orthodox fluid mechanics: instead of assuming a continuous medium and then discretizing for computation, the framework starts from a discrete substrate and reads out continuum-like behavior as an emergent readout. This changes the regularity question for Navier-Stokes and reframes condensed matter as structural patterning within the enriched world.
 
 ## Key claims

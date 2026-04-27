@@ -26,13 +26,13 @@ right_rail:
 
 ## Overview
 
-VI.T45 proves a timescale bound for abiogenesis: the number of steps required for the Distinction+SelfDesc attractor to be reached is at most n_{1/2} · ⌈log₂(N/T)⌉, where n_{1/2} is the half-life of the complexity budget C(n), N is the initial complexity, and T = 8 is the Distinction threshold. The logarithmic scaling means abiogenesis can occur on geological (rather than astronomical) timescales for any reasonably complex prebiotic system, resolving the apparent timescale paradox.
+VI.T45 proves a timescale bound for abiogenesis: the number of steps required for the Distinction+SelfDesc attractor to be reached is at most n_{1/2} · ⌈log₂(N/T)⌉, where n_{1/2} is the half-life of the complexity budget C(n), N is the initial complexity, and T = 8 is the Distinction threshold. The logarithmic scaling means abiogenesis can occur on geological (rather than astronomical) timescales for any reasonably complex prebiotic system, addressing the apparent timescale paradox.
 
 ## Detail
 
 A perennial challenge in origin-of-life research is the 'abiogenesis paradox': the probability of life arising by pure chance from a prebiotic soup is astronomically small, suggesting it could not have happened in the age of the universe. This is sometimes called the 'Hoyle fallacy' (Hoyle's 747 assembled by a tornado in a junkyard).
 
-VI.T45 resolves this paradox through a timescale bound. The key definitions (VI.D74–D77):
+VI.T45 internally addresses this paradox through a timescale bound. The key definitions (VI.D74–D77):
 - Complexity budget C(n) = N – |D_n|: the number of available self-assembly steps minus the number of defects at step n.
 - Distinction threshold T = 8: the minimum complexity required to satisfy all five τ-Distinction conditions.
 - Half-life n_{1/2}: the number of steps for the defect budget to halve (from the geometric decay rate (1–ι<sub>τ</sub>)^n of defect absorption, V part 3).

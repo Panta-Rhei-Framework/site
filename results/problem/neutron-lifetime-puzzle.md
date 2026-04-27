@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: domain-level-open-problem
 status_code: R
 domain_group: "NUC"
-summary_short: "The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework resolves this by deriving the neutron lifetime fro…"
+summary_short: "The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework internally addresses this by deriving the neutron lifetime fro…"
 canonical_books: ["IV"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework resolves this by deriving the neutron lifetime from the weak decay sector, predicting the bottle value.
+The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework internally addresses this by deriving the neutron lifetime from the weak decay sector, predicting the bottle value.
 
 ## Result Statement
 
-Neutron lifetime puzzle resolved: bottle value derived from weak decay sector. Status: Internally addressed.
+Neutron lifetime puzzle internally addressed: bottle value derived from weak decay sector. Status: Internally addressed.

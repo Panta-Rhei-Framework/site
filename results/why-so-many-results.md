@@ -61,6 +61,8 @@ Results in this lane are classified by type:
 Every result page provides:
 - The mainstream problem statement
 - The program's specific claim
-- The epistemic status (resolved, partial, qualitative, contradicted)
+- The public status: Internally addressed, Partial, Qualitative, Contradicted, or Not addressed
 - The canonical grounding (which books, parts, registry objects)
 - Links to verification routes
+
+The status label is an internal program stance. It does not by itself imply external verification, scientific acceptance, or final settlement.

@@ -72,7 +72,7 @@ Progress Against Agenda tracks current program stance against public obligations
   </div>
   <div class="v2-tile">
     <strong>{{ not_yet_touched | size }} not-yet-touched item(s)</strong>
-    <span>Explicitly called out rather than hidden, even when the current public projection contains none.</span>
+    <span>Public agenda obligations for which the Results mirror does not yet report a substantive program stance.</span>
   </div>
   <div class="v2-tile">
     <strong>{{ reclassified | size }} reclassified / dismissed</strong>
@@ -223,6 +223,8 @@ Progress Against Agenda tracks current program stance against public obligations
 ## Not yet touched
 
 {% if not_yet_touched.size > 0 %}
+<p>These public agenda obligations remain visible precisely because the Results lane has not yet published a substantive answer, recovery state, or internally addressed account for them.</p>
+
 <div class="v2-grid">
   {% for item in not_yet_touched %}
     <a class="v2-tile" href="{{ item.canonical_program_url | relative_url }}">

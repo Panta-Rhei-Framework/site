@@ -21,6 +21,9 @@ right_rail:
     updated: April 2026
 ---
 
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
+
 The τ framework claims to derive the Standard Model's particle content and coupling constants from a single master constant ι_τ = 2/(π+e), with zero free continuous parameters. The number of fermion generations, individual quark masses, and the CKM mixing matrix are structural outputs, not empirical inputs. This is one of the framework's strongest — and most falsifiable — claim families.
 
 ## Key claims
@@ -29,7 +32,7 @@ The τ framework claims to derive the Standard Model's particle content and coup
 {% include claim-card.html title="Three Generations of Matter" url="/results/problem/three-generations-matter/" status="R" summary="Exactly three fermion generations from H₁(τ³;ℤ) ≅ ℤ³. Three independent proofs: first homology, primitive winding classes, and lemniscate regions." %}
 {% include claim-card.html title="Electron Mass (0.025 ppm)" url="/results/problem/electron-mass-0025-ppm/" status="R" summary="The electron mass derived to 0.025 ppm precision through a 10-link derivation chain from K0–K6. One of the most precise zero-parameter predictions in the framework." %}
 {% include claim-card.html title="Koide Relation" url="/results/problem/koide-relation/" status="R" summary="Q = (m_e + m_μ + m_τ) / (√m_e + √m_μ + √m_τ)² = 2/3 at −9 ppm, derived from the σ-equivariant mass matrix of the lepton sector. Wikipedia lists Koide as an open problem — in τ it is a first-principles consequence." %}
-{% include claim-card.html title="Muon g−2 Anomaly" url="/results/problem/muon-g-2-anomaly/" status="R" summary="The muon anomalous magnetic moment is derived within the sector-coupled framework. Resolution depends on hadronic vacuum polarization computed from τ-sector structure." %}
+{% include claim-card.html title="Muon g−2 Anomaly" url="/results/problem/muon-g-2-anomaly/" status="R" summary="The muon anomalous magnetic moment is derived within the sector-coupled framework. The program account depends on hadronic vacuum polarization computed from τ-sector structure." %}
 {% include claim-card.html title="W Mass Puzzle" url="/results/problem/w-mass-puzzle/" status="R" summary="The W boson mass is derived from electroweak sector coupling, addressing the CDF II anomaly." %}
 {% include claim-card.html title="θ_QCD = 0 (Strong CP Problem)" url="/results/problem/theta-qcd-0-strong-cp-problem/" status="R" summary="θ_QCD = 0 is a structural consequence of K5 diagonal discipline — no Peccei-Quinn symmetry or axion needed. The strong CP problem is dissolved, not solved." %}
 {% include claim-card.html title="Higgs Self-Coupling" url="/results/problem/higgs-self-coupling/" status="R" summary="The Higgs self-coupling is derived from the ω-crossing sector structure, not fitted." %}
@@ -50,9 +53,9 @@ The τ framework claims to derive the Standard Model's particle content and coup
 {% include claim-card.html title="Glueballs" url="/results/problem/glueballs/" status="R" summary="Glueballs are color-neutral excitations above the strong-sector vacuum (IV.D201). The Yang-Mills mass gap δ∞^s > 0 (IV.T75) IS the minimum glueball mass; lattice QCD prediction ~1.5-1.7 GeV with J^PC = 0⁺⁺ follows from the gap structure." %}
 {% include claim-card.html title="Exotic Hadrons" url="/results/problem/exotic-hadrons/" status="R" summary="The color-singlet condition enumerates permitted multiquark bound states: tetraquarks (qq q̄ q̄) and pentaquarks (qqqq q̄) are allowed (IV.R64, IV.P95). LHCb has identified candidates for both — framework predicts and classifies." %}
 {% include claim-card.html title="QCD Phases (QGP as High-T Confinement)" url="/results/problem/qcd-phases-qgp/" status="R" summary="Quark-gluon plasma is not deconfined: in τ, QGP is a state where the confinement scale exceeds the mean inter-quark distance (V.R151). B+C sector transitions map to the QCD deconfinement universality class (IV.R177)." %}
-{% include claim-card.html title="Neutron Lifetime Puzzle" url="/results/problem/neutron-lifetime-puzzle/" status="R" summary="The discrepancy between beam and bottle neutron lifetime measurements is resolved within the sector-coupled framework. The τ-derived lifetime sits between the two experimental methods." %}
-{% include claim-card.html title="Proton Charge Radius" url="/results/problem/proton-charge-radius-12-ppm/" status="R" summary="The proton charge radius r_p derived to +12 ppm from τ-sector structure (37× precision improvement, Wave 46). The muonic hydrogen puzzle is resolved as a natural consequence." %}
-{% include claim-card.html title="Proton Spin Puzzle" url="/results/problem/proton-spin-puzzle/" status="N" summary="How quarks and gluons carry the proton's total spin remains an open question. The framework's current treatment of nuclear structure does not yet resolve the angular momentum decomposition at the parton level." %}
+{% include claim-card.html title="Neutron Lifetime Puzzle" url="/results/problem/neutron-lifetime-puzzle/" status="R" summary="The discrepancy between beam and bottle neutron lifetime measurements is internally addressed within the sector-coupled framework. The τ-derived lifetime sits between the two experimental methods." %}
+{% include claim-card.html title="Proton Charge Radius" url="/results/problem/proton-charge-radius-12-ppm/" status="R" summary="The proton charge radius r_p derived to +12 ppm from τ-sector structure (37× precision improvement, Wave 46). The muonic hydrogen puzzle is internally addressed as a natural consequence." %}
+{% include claim-card.html title="Proton Spin Puzzle" url="/results/problem/proton-spin-puzzle/" status="N" summary="How quarks and gluons carry the proton's total spin remains an open question. The framework's current treatment of nuclear structure does not yet account for the angular momentum decomposition at the parton level." %}
 </ul>
 
 ## Where to go deeper

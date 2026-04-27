@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "PART"
-summary_short: "The masses of all six quarks (u, d, s, c, b, t) are derived from the framework's spectral structure. All seven mass exponents were resolved in Wave 45."
+summary_short: "The masses of all six quarks (u, d, s, c, b, t) are derived from the framework's spectral structure. All seven mass exponents were internally addressed in Wave 45."
 canonical_books: ["IV"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The masses of all six quarks (u, d, s, c, b, t) are derived from the framework's spectral structure. All seven mass exponents were resolved in Wave 45.
+The masses of all six quarks (u, d, s, c, b, t) are derived from the framework's spectral structure. All seven mass exponents were internally addressed in Wave 45.
 
 ## Result Statement
 
-All six quark masses derived from spectral structure. 7/7 exponents resolved in Wave 45. Status: Internally addressed.
+All six quark masses derived from spectral structure. 7/7 exponents internally addressed in Wave 45. Status: Internally addressed.

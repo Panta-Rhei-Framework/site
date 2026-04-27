@@ -1,6 +1,6 @@
 ---
 layout: result-page
-title: "Vacuum Catastrophe Resolution"
+title: "Vacuum Catastrophe Framework Account"
 permalink: /results/problem/vacuum-catastrophe-resolution/
 result_id: result-165
 topic: physics
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction and the observed cosmological constant — is often called the worst prediction in physics. The τ-framework resolves it: the cosmological constant is exactly zero because the boundary reading of τ³ has no bulk energy term.
+The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction and the observed cosmological constant — is often called the worst prediction in physics. The τ-framework internally addresses it: the cosmological constant is exactly zero because the boundary reading of τ³ has no bulk energy term.
 
 ## Result Statement
 
-Vacuum catastrophe resolved: Λ = 0 exactly. Boundary reading of τ³ has no bulk vacuum energy. The 10¹²⁰ discrepancy disappears. Status: Internally addressed.
+Vacuum catastrophe internally addressed: Λ = 0 exactly. Boundary reading of τ³ has no bulk vacuum energy. The 10¹²⁰ discrepancy disappears. Status: Internally addressed.

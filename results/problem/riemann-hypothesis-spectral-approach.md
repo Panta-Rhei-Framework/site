@@ -35,7 +35,7 @@ RH has resisted proof for over 160 years despite deep connections to prime distr
 
 The framework provides a *structural* spectral correspondence (III.T-series) that maps zeta zeros to eigenvalues of H_L, the Hamiltonian on the lemniscate boundary L = S¹ ∨ S¹. The K5 diagonal discipline forbids off-diagonal mixing in H_L, and this propagates through the spectral correspondence to constrain zero locations. The balance between B-sector and C-sector contributions is enforced by bipolar symmetry from Book I's prime polarity.
 
-**Status: Partial.** The spectral correspondence is structurally grounded but the full proof chain from τ-spectral theory to classical RH is not yet complete. The approach is typed as partial, not claimed as a full resolution.
+**Status: Partial.** The spectral correspondence is structurally grounded but the full proof chain from τ-spectral theory to classical RH is not yet complete. The approach is typed as partial, not claimed as a full account.
 
 ## Result Statement
 

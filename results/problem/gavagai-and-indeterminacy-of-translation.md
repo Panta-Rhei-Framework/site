@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "LANG"
-summary_short: "Quine's 'gavagai' problem — radical translation is indeterminate — is resolved: kernel invariants translate universally. The readout functor ensures that s…"
+summary_short: "Quine's 'gavagai' problem — radical translation is indeterminate — is internally addressed: kernel invariants translate universally. The readout functor ensures that s…"
 canonical_books: ["VII"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Quine's 'gavagai' problem — radical translation is indeterminate — is resolved: kernel invariants translate universally. The readout functor ensures that structurally identical content maps identically across languages.
+Quine's 'gavagai' problem — radical translation is indeterminate — is internally addressed: kernel invariants translate universally. The readout functor ensures that structurally identical content maps identically across languages.
 
 ## Result Statement
 
-Gavagai resolved: kernel invariants translate universally. Readout functor ensures cross-language identity. Status: Internally addressed.
+Gavagai internally addressed: kernel invariants translate universally. Readout functor ensures cross-language identity. Status: Internally addressed.

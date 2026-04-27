@@ -1,6 +1,6 @@
 ---
 layout: program-doc
-title: "Biology & Origin of Life"
+title: "Life & Origin of Life"
 permalink: /results/fields/biology/
 lane: results
 section: "Results · Field Briefings"
@@ -16,10 +16,13 @@ right_rail:
     url: /results/world-readout/life/
   meta:
     type: Field Briefing
-    scope: Biology & Origin of Life
+    scope: Life & Origin of Life
     status: Canonical
     updated: April 2026
 ---
+
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
 
 The τ framework proposes a categorical definition of life as self-decoding distinction — a structural emergence at E₂ that is fully grounded in E₁ physics but irreducible to it. Life is not a freak accident or a merely chemical phenomenon; it is claimed to be dynamically favored by the framework's own structure. The definition is substrate-independent and applies not only to terrestrial biology but to any system satisfying the formal conditions.
 
@@ -42,8 +45,8 @@ The τ framework proposes a categorical definition of life as self-decoding dist
 {% include claim-card.html title="Red Queen Hypothesis (Maintenance of Sex)" url="/results/problem/red-queen-hypothesis/" status="R" summary="The maintenance of sexual reproduction is explained structurally: the Red Queen dynamic (co-evolutionary arms race) is a natural consequence of the framework's differentiation and fitness-landscape structure." %}
 {% include claim-card.html title="Convergent Evolution" url="/results/problem/convergent-evolution/" status="R" summary="Convergent evolution — independent emergence of similar forms — is predicted structurally: the framework's geometric attractor structure forces similar selection pressures toward the same τ-object types." %}
 {% include claim-card.html title="Origins of Viruses (Virus Exclusion Theorem)" url="/results/problem/virus-exclusion-nodist-theorem/" status="R" summary="Viruses fail the τ-Distinction predicate: they lack an internal self/non-self boundary and depend on host machinery for replication. The Virus Exclusion Theorem proves they are not alive in the framework's formal sense." %}
-{% include claim-card.html title="Paradox of the Plankton" url="/results/problem/paradox-of-the-plankton/" status="R" summary="Hutchinson's paradox — 30+ phytoplankton species coexisting on 3–4 limiting resources — is resolved by the Nash-equilibrium / configuration-space formulation of ecosystems (VI.R18). Competitive exclusion forbids co-location; coexistence requires niche-partitioning across the full dimensionality of M." %}
-{% include claim-card.html title="Morphogen Gradient Interpretation (Organ Size)" url="/results/problem/morphogen-gradient-interpretation/" status="R" summary="How organs achieve their correct final size and shape is resolved through the framework's treatment of morphogen gradients as τ-readouts: positional information is structurally encoded, not phenomenologically fitted." %}
+{% include claim-card.html title="Paradox of the Plankton" url="/results/problem/paradox-of-the-plankton/" status="R" summary="Hutchinson's paradox — 30+ phytoplankton species coexisting on 3–4 limiting resources — is internally addressed by the Nash-equilibrium / configuration-space formulation of ecosystems (VI.R18). Competitive exclusion forbids co-location; coexistence requires niche-partitioning across the full dimensionality of M." %}
+{% include claim-card.html title="Morphogen Gradient Interpretation (Organ Size)" url="/results/problem/morphogen-gradient-interpretation/" status="R" summary="How organs achieve their correct final size and shape is internally addressed through the framework's treatment of morphogen gradients as τ-readouts: positional information is structurally encoded, not phenomenologically fitted." %}
 {% include claim-card.html title="Differentiation Irreversible" url="/results/problem/differentiation-irreversible/" status="R" summary="Cell differentiation is irreversible: the Waddington descent is monotone. This is a structural feature of the E₂ enrichment, not a contingent biological fact." %}
 {% include claim-card.html title="Circadian Clock Mechanisms" url="/results/problem/circadian-clock-mechanisms/" status="R" summary="Biological time-keeping and circadian rhythms derive from the framework's α-orbit temporal structure. The ~24-hour period and its entrainment follow from sector-coupling rather than from fitted feedback loops." %}
 {% include claim-card.html title="Cellular Senescence (Biological Aging)" url="/results/problem/cellular-senescence/" status="R" summary="Why senescence occurs is addressed through the framework's Hayflick-tower crossing structure: aging is the exhaustion of a structural refinement capacity, not a phenomenological decay rate." %}

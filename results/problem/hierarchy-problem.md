@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Why is gravity 10³² times weaker than electromagnetism? The hierarchy problem asks why the Higgs mass is so much lighter than the Planck mass. The τ-framework resolves this: the hierarchy is a structural consequence of the 4-sector decomposition — gravity (α-sector) is the radial/base sector while EM (γ-sector) is solenoidal/fiber.
+Why is gravity 10³² times weaker than electromagnetism? The hierarchy problem asks why the Higgs mass is so much lighter than the Planck mass. The τ-framework internally addresses this: the hierarchy is a structural consequence of the 4-sector decomposition — gravity (α-sector) is the radial/base sector while EM (γ-sector) is solenoidal/fiber.
 
 ## Result Statement
 
-Hierarchy problem resolved: the 10³² ratio follows from the structural separation of the α (radial/gravity) and γ (solenoidal/EM) sectors. Status: Internally addressed.
+Hierarchy problem internally addressed: the 10³² ratio follows from the structural separation of the α (radial/gravity) and γ (solenoidal/EM) sectors. Status: Internally addressed.

@@ -8,7 +8,7 @@ summary_cards:
 - title: "Page structure"
   body: "Each result page follows a standard template: overview, detail, result statement, with typed metadata."
 - title: "Epistemic typing"
-  body: "Every claim carries a status: resolved, partial, qualitative, or contradicted."
+  body: "Every claim carries a public status such as Internally addressed, Partial, Qualitative, Contradicted, or Not addressed."
 - title: "Canonical grounding"
   body: "Every result links to its source in the books, registry, and framework."
 right_rail:
@@ -35,7 +35,7 @@ Every result page in this lane follows a consistent structure designed to make c
 The hero card shows:
 - **Result kind** — frontier problem, foundational math, or consequence/reframing
 - **Importance** — core foundational, high-impact frontier, domain-level, structural support, or consequence
-- **Status** — resolved (R), partial (P), qualitative (Q), or contradicted (C)
+- **Status** — Internally addressed (R), Partial (P), Qualitative (Q), Contradicted (C), or Not addressed (N)
 - **Layer** — which enrichment layer (mathematics, physics, life, metaphysics)
 - **Topic** — the domain area
 
@@ -57,6 +57,7 @@ Every result carries typed metadata in the right rail:
 - **Partial** — the program has a structural approach but the derivation is incomplete
 - **Qualitative** — the program reframes the problem but does not provide a quantitative prediction
 - **Contradicted** — the program's result contradicts mainstream expectation (flagged honestly)
+- **Not addressed** — the program has not yet published a substantive Results-side stance
 
 ## How Results Map to Cascade Layers and Precision Tiers
 
@@ -82,7 +83,7 @@ Numerical predictions carry a **Tier** label distinct from their epistemic Statu
 - **Tier B** — ~3 ppm precision
 - **Tier C** — ~0.8% precision
 
-Tier is an epistemic quality of the prediction — how tightly the framework commits. Status (Internally addressed / Partial / Qualitative / Contradicted / Not addressed) is an observational resolution state — whether current data confirms it. The two are independent axes; the result page surfaces both.
+Tier is an epistemic quality of the prediction — how tightly the framework commits. Status (Internally addressed / Partial / Qualitative / Contradicted / Not addressed) records the public program stance and any current data-facing support. The two are independent axes; the result page surfaces both.
 
 ## How to Verify
 

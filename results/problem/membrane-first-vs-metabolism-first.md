@@ -27,7 +27,7 @@ The origin of life debates have long been polarized between "membrane-first" and
 
 ## Why It Is Hard
 
-Both camps have empirical support and neither can explain how its preferred first step could function without the other. Membranes without internal chemistry are empty vesicles. Metabolism without compartmentalization dissipates into the environment. The debate has persisted for decades without resolution.
+Both camps have empirical support and neither can explain how its preferred first step could function without the other. Membranes without internal chemistry are empty vesicles. Metabolism without compartmentalization dissipates into the environment. The debate has persisted for decades without account.
 
 ## Panta Rhei Stance
 

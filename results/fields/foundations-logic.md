@@ -21,6 +21,9 @@ right_rail:
     updated: April 2026
 ---
 
+<div class="notice note"><strong>Taxonomy and status note.</strong> This field briefing is a topical Results browse surface. The v2.2 public domain taxonomy remains Mathematics, Physics, Life, and Metaphysics / Philosophy; card status labels describe internal program stance only, not external acceptance or final settlement.</div>
+
+
 The τ framework is built on a foundational substrate that differs from ZFC in its admissible logic, its treatment of infinity, and its self-enrichment properties. These differences have consequences for the most fundamental questions in mathematical logic and the foundations of computation. The framework claims to sidestep Gödel's incompleteness theorems — not by denying them, but by occupying a differently shaped formal world where the conditions for incompleteness do not arise.
 
 ## Key claims
