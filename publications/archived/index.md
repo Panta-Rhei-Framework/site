@@ -43,7 +43,7 @@ The First Edition appeared in December 2025. It remains available as a historica
 
 ## What Changes Across Editions
 
-Edition changes are not hidden in the archive. When a release is superseded, the archive should say so plainly and point to the current home. The [Research Note on the transition from First to Second Edition]({{ '/publications/research-notes/from-first-to-second-edition/' | relative_url }}) explains the major structural changes.
+Edition changes are not hidden in the archive. When a release is superseded, the archive should say so plainly and point to the current home. The [First Edition archive]({{ '/publications/archived/first-edition/' | relative_url }}) records the historical release, while the [current books]({{ '/publications/books/' | relative_url }}) remain the active canon.
 
 ## Citation Guidance
 

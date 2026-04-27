@@ -40,7 +40,7 @@ It does **not** assume unrestricted diagonal reuse or free contraction as innoce
 
 It does **not** assume that category theory, morphisms, composition, internal logic, geometry, or higher semantic resources are already there from the start. These are [earned through the enrichment process]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}), not imported.
 
-It does **not** assume that a reality-model may solve deep explanatory problems while beginning from unconstrained free parameters. A framework with free parameters can always accommodate data by tuning — the [master constant]({{ '/publications/research-notes/why-one-constant-is-enough/' | relative_url }}) is the program's commitment to having none.
+It does **not** assume that a reality-model may solve deep explanatory problems while beginning from unconstrained free parameters. A framework with free parameters can always accommodate data by tuning; the [physics world-readout]({{ '/results/world-readout/physics/' | relative_url }}) is the program's public surface for no-knobs quantitative commitments.
 
 It does **not** assume that local empirical success is enough to answer foundational questions.
 

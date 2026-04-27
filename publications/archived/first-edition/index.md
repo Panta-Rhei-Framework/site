@@ -38,7 +38,7 @@ The First Edition is preserved as an archived historical release of the Panta Rh
 
 The Second Edition (March 2026) substantially rewrites all seven volumes, consolidating the foundation into the Coherence Kernel (7 axioms, 5 generators, 1 operator), correcting the master constant, and adding full Lean 4 machine-checked verification.
 
-For a compact account of the transition, read [From First to Second Edition: What Changed and Why]({{ '/publications/research-notes/from-first-to-second-edition/' | relative_url }}).
+For the active canonical version, use the [Second Edition books]({{ '/publications/books/' | relative_url }}). This archive remains available for provenance and comparison.
 
 ## Archived Volumes
 
