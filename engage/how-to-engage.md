@@ -7,6 +7,9 @@ type: "Engagement Guide"
 status: "Canonical"
 permalink: /engage/how-to-engage/
 summary_short: "A routing guide for structured open-research engagement: public questions, critique, review, corrections, contribution, contact, and support."
+og_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "No agreement required"
     body: "Engagement does not require agreement; it requires attention to a specific public object."
@@ -53,6 +56,11 @@ Engagement does not require agreement.
 The program needs different kinds of attention: careful readers, public questions, specific critique, reproducibility checks, domain review, corrections, infrastructure contributions, responsible communication, institutional dialogue, and non-endorsement support.
 
 ## Choose the kind of attention you can offer
+
+Engagement does not begin with agreement. It begins with a useful form of attention: reading, inspection, critique, review, contribution, responsible communication, institutional dialogue, or support without endorsement.
+
+{% assign how_to_engage_plate_caption = "The Engage lane separates attention modes from endorsement: readers can ask questions, critique, review, contribute, communicate, or support without being asked to agree first." %}
+{% include scientific-plate.html id="plate-09-engagement-without-endorsement" variant="thumb" class="scientific-plate--compact" caption=how_to_engage_plate_caption loading="lazy" %}
 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/engage/read-explore/' | relative_url }}">

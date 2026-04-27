@@ -7,6 +7,9 @@ type: "Contribute"
 status: "Open"
 permalink: /engage/for-engineering-contributors/
 summary_short: "Lean 4, CI, docstring hygiene, registry bookkeeping — the project accepts small PRs liberally and opens the door to the Lean community."
+og_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "Open to external PRs"
     body: "TauLib's CONTRIBUTING guide is published and the repository is now accepting outside contributions for the first time."
@@ -67,6 +70,13 @@ Lean 4, CI, docstring hygiene, registry bookkeeping — the project accepts smal
 As of April 2026, **TauLib is a public artifact, solo-authored, opening for external contributions for the first time**. We are not claiming a vibrant community — just an open door. The [CONTRIBUTING guide](https://github.com/Panta-Rhei-Research/taulib/blob/main/CONTRIBUTING.md) was published alongside the first external-review wave, and the repository is now accepting outside pull requests under the conventions documented there.
 
 If you are the first external contributor to land a PR: good. That is the point of opening the door.
+
+## Infrastructure contribution
+
+Contributing infrastructure can mean improving documentation, metadata, tooling, templates, search, formalization support, or source structure. Contribution does not imply endorsement.
+
+{% assign engineering_plate_caption = "Infrastructure contribution is one engagement mode: documentation, metadata, tooling, source structure, templates, and formalization support can improve the public research object without implying endorsement." %}
+{% include scientific-plate.html id="plate-09-engagement-without-endorsement" variant="thumb" class="scientific-plate--compact" caption=engineering_plate_caption loading="lazy" %}
 
 ## GitHub workflow
 

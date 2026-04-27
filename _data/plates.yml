@@ -176,3 +176,27 @@
     impact strata from Foundational Science to Global Public Good, a central
     conditional chain from Result to Verification Survival to Translation Layer
     to Domain Uptake to Consequence, and a Global Public-Good Portfolios inset.
+- id: plate-09-engagement-without-endorsement
+  title: Engagement Without Endorsement
+  status: published
+  image: /assets/images/plates/plate-09-engagement-without-endorsement-hero.webp
+  hero_jpg: /assets/images/plates/plate-09-engagement-without-endorsement-hero.jpg
+  master: /assets/images/plates/plate-09-engagement-without-endorsement-master.jpg
+  thumbnail: /assets/images/plates/plate-09-engagement-without-endorsement-thumb.webp
+  og_image: /assets/images/plates/plate-09-engagement-without-endorsement-og.jpg
+  pages:
+    - /engage/
+    - /engage/how-to-engage/
+    - /engage/discussions/
+    - /engage/review-the-work/
+    - /engage/for-engineering-contributors/
+  caption: >
+    Engage is the open-research participation interface of the program: readers can
+    read carefully, inspect claims, challenge weak links, review bounded areas,
+    contribute infrastructure, communicate responsibly, open institutional dialogue,
+    or support continuation without implying endorsement.
+  alt: >
+    Scientific plate titled Engagement Without Endorsement, showing Engage at the center
+    with eight engagement modes, routing through the website, GitHub Discussions,
+    GitHub Issues, Pull Requests, and email, plus open-research principles and the caveat
+    that participation does not imply endorsement.

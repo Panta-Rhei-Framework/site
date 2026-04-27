@@ -8,6 +8,9 @@ scope: "public_discussions"
 status: "Active"
 permalink: /engage/discussions/
 summary_short: "Public discussion routes for questions, critique, review offers, correction candidates, and structured open-research engagement through GitHub Discussions."
+og_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "Public questions"
     body: "Ask orientation, framework, Research Agenda, Corpus, Results, Verify, and publication questions in public."
@@ -69,6 +72,13 @@ Reading the site does not require a GitHub account. Posting publicly does.
 For private, institutional, media, sensitive, or support-related contact, use email instead.
 
 <p><a class="btn btn-primary" href="https://github.com/orgs/Panta-Rhei-Research/discussions">Open GitHub Discussions</a></p>
+
+## Where public engagement lives
+
+Public questions, critique, review offers, and correction candidates belong in GitHub Discussions where possible. Concrete defects belong in Issues; proposed changes belong in Pull Requests; private or institutional matters belong in email.
+
+{% assign discussions_plate_caption = "Public discussions are one part of the engagement substrate. GitHub Discussions is for public questions, critique, and review offers; Issues are for concrete defects; Pull Requests are for proposed changes; email remains for private or institutional contact." %}
+{% include scientific-plate.html id="plate-09-engagement-without-endorsement" variant="thumb" class="scientific-plate--compact" caption=discussions_plate_caption loading="lazy" %}
 
 ## What belongs in public discussions
 

@@ -7,6 +7,9 @@ permalink: /engage/
 type: "Lane Root"
 status: "Active"
 summary_short: "Engagement without endorsement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, or support continuation."
+og_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "Read carefully"
     body: "Start with Discover, Program, Research Agenda, and Publications before judging isolated claims."
@@ -75,6 +78,19 @@ The website is the public research observatory. GitHub is the public discussion 
 The Engage lane is the interface through which the open research program asks the world for the kinds of attention it needs to become more correct, more inspectable, more useful, and more accountable.
 
 Engagement does not require agreement. Participation does not imply endorsement. The most useful stance is structured attention: follow the claim, identify the support, name the weak point, and help decide what would count as correction, verification, or failure.
+
+<p class="eyebrow">The participation interface at a glance</p>
+
+## Engagement Without Endorsement
+
+{% include scientific-plate.html id="plate-09-engagement-without-endorsement" class="scientific-plate--engagement-without-endorsement" loading="lazy" %}
+
+<div class="scientific-plate-cta-row">
+  <a class="btn btn-primary" href="{{ '/engage/discussions/' | relative_url }}">Open Public Discussions</a>
+  <a class="btn" href="{{ '/engage/how-to-engage/' | relative_url }}">Learn How to Engage</a>
+  <a class="btn" href="{{ '/engage/review-the-work/' | relative_url }}">Review the Work</a>
+  <a class="btn" href="{{ '/engage/contact/' | relative_url }}">Contact the Program</a>
+</div>
 
 ## What the program asks for
 

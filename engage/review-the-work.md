@@ -7,6 +7,9 @@ type: "Engagement Route"
 status: "Active"
 permalink: /engage/review-the-work/
 summary_short: "A bounded review route for domain experts, formalizers, careful readers, infrastructure contributors, and public reviewers."
+og_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+twitter_image: "/assets/images/plates/plate-09-engagement-without-endorsement-og.jpg"
+og_image_alt: "Scientific plate showing the Engage lane as structured open-research engagement: read carefully, inspect claims, challenge weak links, review bounded areas, contribute infrastructure, communicate responsibly, open institutional dialogue, and support continuation without endorsement."
 summary_cards:
   - title: "Bound the target"
     body: "Review one problem item, recovery target, construction step, result, note, module, briefing, or page template."
@@ -57,6 +60,13 @@ tags:
 The program is large. A useful review should be bounded.
 
 Participation does not imply endorsement. A reviewer may help inspect one artifact, route, claim, module, status label, or correction path without endorsing the framework as a whole.
+
+## Bounded review as structured attention
+
+A useful review is bounded: it names the page, artifact, result, note, proof route, or formalization surface being inspected.
+
+{% assign review_plate_caption = "Review is one form of structured attention: a bounded review names the artifact, claim, result, note, page, or formalization surface being inspected." %}
+{% include scientific-plate.html id="plate-09-engagement-without-endorsement" variant="thumb" class="scientific-plate--compact" caption=review_plate_caption loading="lazy" %}
 
 ## What can be reviewed
 
