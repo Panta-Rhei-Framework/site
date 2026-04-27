@@ -6,6 +6,9 @@ lane: "impact"
 type: "Impact Framework"
 status: "Conditional"
 summary_short: "The shared logic by which surviving Results become conditional consequences."
+og_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+twitter_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+og_image_alt: "Scientific plate showing the Impact Framework as a conditional chain from Result through verification survival, translation, domain uptake, and consequence."
 right_rail:
   related:
     -
@@ -39,6 +42,13 @@ A result does not automatically produce impact. Impact requires a chain:
   <span class="v2-system-arrow">→</span>
   <span class="v2-system-node"><strong>Consequence</strong>What could change if the chain holds.</span>
 </div>
+
+## The impact chain
+
+{% capture impact_framework_plate_caption %}The Impact Framework reads every consequence through the same chain: Result → Verification Survival → Translation Layer → Domain Uptake → Consequence.{% endcapture %}
+{% include scientific-plate.html id="plate-08-conditional-impact-strata" variant="thumb" class="scientific-plate--compact" caption=impact_framework_plate_caption loading="lazy" %}
+
+The chain is deliberately conditional. A consequence becomes meaningful only when the relevant Result, verification route, translation layer, and domain uptake assumptions remain inspectable.
 
 ## Impact status legend
 

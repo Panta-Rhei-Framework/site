@@ -154,3 +154,25 @@
     the center with seven publication categories, a Public-Good Briefings inset
     under Research Briefings, a classification decision band, and links to
     Corpus, Results, Verify, and Impact.
+- id: plate-08-conditional-impact-strata
+  title: The Conditional Impact Strata
+  status: published
+  image: /assets/images/plates/plate-08-conditional-impact-strata-hero.webp
+  hero_jpg: /assets/images/plates/plate-08-conditional-impact-strata-hero.jpg
+  master: /assets/images/plates/plate-08-conditional-impact-strata-master.jpg
+  thumbnail: /assets/images/plates/plate-08-conditional-impact-strata-thumb.webp
+  og_image: /assets/images/plates/plate-08-conditional-impact-strata-og.jpg
+  pages:
+    - /impact/
+    - /impact/impact-framework/
+    - /impact/global-public-good/
+    - /publications/research-briefings/public-good/
+  caption: >
+    Impact is conditional: consequences become meaningful only if Results survive
+    verification, translation, domain uptake, and real-world constraints. The six
+    Impact strata range from foundational science to global public-good portfolios.
+  alt: >
+    Scientific plate titled The Conditional Impact Strata, showing six stacked
+    impact strata from Foundational Science to Global Public Good, a central
+    conditional chain from Result to Verification Survival to Translation Layer
+    to Domain Uptake to Consequence, and a Global Public-Good Portfolios inset.

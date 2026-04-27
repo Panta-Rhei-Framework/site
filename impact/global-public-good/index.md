@@ -6,6 +6,9 @@ lane: "impact"
 type: "Impact Section"
 status: "Conditional"
 summary_short: "Conditional public-good portfolios for climate, energy, agriculture, health, water, weather, disaster resilience, biodiversity, pollution, solar, and ocean systems."
+og_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+twitter_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+og_image_alt: "Scientific plate showing Global Public Good as the outermost conditional Impact stratum with public-good portfolios downstream of Results, verification, translation, and uptake."
 right_rail:
   related:
     -
@@ -34,6 +37,13 @@ Global Public Good gathers conditional public-good portfolios.
 These are not deployment claims. They are scenario maps: if the relevant Results hold, if they survive Verify, if they can be translated into domain-specific models, and if institutions can use them responsibly, what public-good pathways become worth investigating?
 
 This stratum is the outermost Impact layer. It does not make the framework true. It does not make an application ready. It identifies where verified results could matter for planetary systems and public-good domains.
+
+## Global Public Good inside the impact strata
+
+{% capture global_public_good_plate_caption %}Global Public Good is the outermost Impact stratum: conditional public-good portfolios become meaningful only after upstream Results, verification, translation, and uptake conditions survive.{% endcapture %}
+{% include scientific-plate.html id="plate-08-conditional-impact-strata" variant="thumb" class="scientific-plate--compact" caption=global_public_good_plate_caption loading="lazy" %}
+
+Global Public Good is the outermost Impact stratum. Its portfolios are conditional scenario maps, not deployment claims.
 
 <div class="v2-grid">
   <div class="v2-tile">

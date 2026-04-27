@@ -7,6 +7,9 @@ v2_lane: "impact"
 type: "Lane Root"
 status: "Conditional"
 summary_short: "Impact is conditional: no consequence is stronger than the Results, verification status, translation assumptions, and domain uptake on which it depends."
+og_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+twitter_image: "/assets/images/plates/plate-08-conditional-impact-strata-og.jpg"
+og_image_alt: "Scientific plate showing the Impact lane as conditional impact strata: Foundational Science, Applied Science & Research, Global Education, Existential Orientation, Societal Coherence, and Global Public Good, downstream of Results, verification, translation, and uptake."
 right_rail:
   related:
     -
@@ -53,6 +56,21 @@ Impact is conditional: no consequence is stronger than the Results, verification
   <span class="v2-system-node"><strong>Domain uptake</strong>Institutions, tools, data, governance, and practice.</span>
   <span class="v2-system-arrow">→</span>
   <span class="v2-system-node"><strong>Consequence</strong>What could change if the chain holds.</span>
+</div>
+
+<p class="eyebrow">The conditional consequence layer at a glance</p>
+
+## The Conditional Impact Strata
+
+{% include scientific-plate.html id="plate-08-conditional-impact-strata" class="scientific-plate--conditional-impact-strata" loading="lazy" %}
+
+Impact is conditional. Each consequence depends on upstream Results, verification survival, translation assumptions, domain uptake, and real-world constraints. Consequence requires survival under scrutiny.
+
+<div class="btn-group section-ctas">
+  <a class="btn" href="{{ '/impact/impact-framework/' | relative_url }}">Read the Impact Framework</a>
+  <a class="btn" href="{{ '/impact/foundational-science/' | relative_url }}">Explore Foundational Science</a>
+  <a class="btn" href="{{ '/impact/global-public-good/' | relative_url }}">Open Global Public Good</a>
+  <a class="btn" href="{{ '/publications/research-briefings/public-good/' | relative_url }}">Browse Public-Good Briefings</a>
 </div>
 
 <section aria-labelledby="impact-strata">

@@ -36,6 +36,13 @@ They are not validation claims, policy commitments, implementation plans, or dep
 
 Public-Good Briefings sit inside the Research Briefings category. Their role is to organize conditional scenario reasoning for public-good contexts while keeping claim status, verification status, and domain uptake separate.
 
+## Public-Good Briefings and conditional impact
+
+{% capture public_good_impact_plate_caption %}Public-Good Briefings belong to the outermost Impact stratum. They are conditional scenario briefings, not validation claims, policy commitments, or deployment plans.{% endcapture %}
+{% include scientific-plate.html id="plate-08-conditional-impact-strata" variant="thumb" class="scientific-plate--compact" caption=public_good_impact_plate_caption loading="lazy" %}
+
+Public-Good Briefings are conditional scenario artifacts. They explore what could become valuable if upstream Results survive verification, translation, domain review, and uptake.
+
 ## Current portfolios
 
 <ul class="portfolio-grid portfolio-card-list">
