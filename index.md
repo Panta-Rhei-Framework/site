@@ -31,7 +31,7 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
 {% assign chapter_count = site.data.publications.chapters | size %}
 
 <section class="content-card homepage-section">
-  <p class="v2-kicker">Scientific plate 01</p>
+  <p class="v2-kicker">The research observatory at a glance</p>
   <h2>The public research observatory</h2>
   {% include scientific-plate.html id="plate-01-public-research-observatory" class="scientific-plate--hero" loading="eager" %}
   <div class="btn-group section-ctas">
