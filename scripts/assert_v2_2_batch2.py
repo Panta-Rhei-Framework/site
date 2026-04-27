@@ -137,7 +137,8 @@ def main() -> int:
         "What this briefing assumes",
         "What this briefing does not claim",
         "Read full text as HTML",
-        "PDF pending",
+        "PDF Available",
+        "Download PDF",
     )
     require(
         "/impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/",

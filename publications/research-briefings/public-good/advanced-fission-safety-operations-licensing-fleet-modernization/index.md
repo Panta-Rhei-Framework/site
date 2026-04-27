@@ -13,8 +13,8 @@ portfolio: "Energy"
 portfolio_id: "impact-energy"
 status: "published"
 artifact_status: "html_available"
-pdf_status: "pending"
-pdf_path: ""
+pdf_status: "available"
+pdf_path: "/assets/pdfs/research-briefings/public-good/public-good-briefing-2026-04-26-advanced-fission-safety-operations-licensing-fleet-modernization.pdf"
 full_html_path: "/impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/"
 date: "2026-04-26"
 updated: "April 2026"
@@ -49,5 +49,4 @@ search_keywords:
   - "public good papers"
   - "deployment papers"
 ---
-
 
