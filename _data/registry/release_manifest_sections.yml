@@ -11,6 +11,9 @@ sections:
     permalink: /verify/release-manifest/
     lane: verify
     summary_short: "Single authoritative snapshot of the current release — pinned TauLib commit, Lean/Mathlib versions, per-book formalization state, and an honest reconciliation of counts across the three public-facing surfaces (registry, dashboards, TauLib docs)."
+    og_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
+    twitter_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
+    og_image_alt: "Scientific plate showing the Verify lane as a verification matrix with obligations, construction steps, results, formal proof checking, bridge adequacy, predictions, falsification, and external assessment."
     right_rail:
       related:
       - title: TauLib Overview
@@ -29,6 +32,14 @@ sections:
   '__preamble__': |
 
     This page is the **single authoritative snapshot** of the current release. Everything that is pinned, every count that is claimed, every known drift between surfaces is stated here in one view. If the registry, the per-book dashboards, and the TauLib docs appear to disagree on a number, this page explains why and which number is load-bearing for which purpose.
+
+  'Release state and trusted base': |
+    ## Release state and trusted base
+
+    {% capture release_manifest_plate_caption %}The Release Manifest anchors the formalization surface inside the broader verification matrix: formal artifacts, filters, axioms, trusted base, and inspection boundaries.{% endcapture %}
+    {% include scientific-plate.html id="plate-06-verification-matrix" variant="thumb" class="scientific-plate--compact" caption=release_manifest_plate_caption loading="lazy" %}
+
+    The Release Manifest records the release state, trusted base, custom axioms, filters, and formalization boundaries. It tells a reviewer exactly which formal surface is being inspected.
 
   'Release identity': |
     ## Release identity
@@ -143,8 +154,9 @@ sections:
 
 
 sha256_checksums:
-  '__frontmatter__': '2c800eab66fd109e'
+  '__frontmatter__': 'a56a982120974898'
   '__preamble__': '077bd63d09631831'
+  'Release state and trusted base': '5645da445738eed8'
   'Release identity': 'e387571b57d58c6a'
   'Build status — summary': '2f1ad3d6feb7680f'
   'Per-book reconciliation': 'b147766a74b70e90'
