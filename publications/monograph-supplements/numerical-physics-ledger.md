@@ -149,7 +149,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
   <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapter 5</span>
   <h3 style="font-size: 0.95rem; margin: 0 0 6px;">The Dark Sector Dissolved</h3>
-  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">Rotation curves without dark matter, Ω_Λ, Hubble tension resolved at −120 ppm</p>
+  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">Rotation curves without dark matter, Ω_Λ, Hubble tension internally addressed at −120 ppm</p>
 </div>
 
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
@@ -215,7 +215,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 
 30 predictions with named experiments and 2025–2035 timelines. The sharpest discriminant: **N9** (tensor-to-scalar ratio r = 0.0136), testable at **14σ** by CMB-S4.
 
-**Seven falsifiable seams** where τ and orthodox physics make structurally incompatible predictions — BH topology (T² vs S²), no dark matter (Sector Exhaustion vs WIMP/axion), w₀ vs Λ equation of state, r = ι_τ⁴ vs slow-roll inflation, ⁷Li resolved (S = 1/3) vs unresolved, θ_QCD = 0 (no axion) vs strong-CP tuning, and the holonomy ratio ℓ_D/ℓ_1 as a structural invariant. Twelve of the 30 pack entries carry seam tags in `_data/falsifications/falsifications.json` (mapping to `_data/seams.yml` labels); the paired CMB/inflation seam **N9 + N10** is the sharpest at ~14σ. Full seam-annotated card grid on [Falsifications browse]({{ '/results/falsifications/browse/' | relative_url }}).
+**Seven falsifiable seams** where τ and orthodox physics make structurally incompatible predictions — BH topology (T² vs S²), no dark matter (Sector Exhaustion vs WIMP/axion), w₀ vs Λ equation of state, r = ι_τ⁴ vs slow-roll inflation, a ⁷Li framework account (S = 1/3) vs the orthodox lithium anomaly, θ_QCD = 0 (no axion) vs strong-CP tuning, and the holonomy ratio ℓ_D/ℓ_1 as a structural invariant. Twelve of the 30 pack entries carry seam tags in `_data/falsifications/falsifications.json` (mapping to `_data/seams.yml` labels); the paired CMB/inflation seam **N9 + N10** is the sharpest at ~14σ. Full seam-annotated card grid on [Falsifications browse]({{ '/results/falsifications/browse/' | relative_url }}).
 
 <div class="content-card" style="padding: 0; overflow: hidden; margin: 20px 0 28px;">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0;">

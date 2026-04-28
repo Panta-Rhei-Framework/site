@@ -46,6 +46,12 @@ right_rail:
 
 This companion makes no empirical claims, no theological claims, and no causal claims from archetypes to history. It is a structural analysis — an exegesis of the text's internal architecture using the formal tools the framework provides at the terminal reflective layer (E₃).
 
+## Status and scope
+
+Categorical Genesis is a Panta Rhei publication artifact: a public Monograph Supplement and interpretive companion to the Book VII metaphysics arc. It records a structural reading of Genesis 1–3 using the program's Category τ apparatus.
+
+It does not imply external validation, theological endorsement, external acceptance, or independent confirmation. Its purpose is to make the interpretive method, scope labels, and claim boundaries inspectable.
+
 ## Methodological self-binding
 
 The exegesis enforces five explicit override rules with strict priority ordering. Any interpretive claim that violates a higher-priority rule is automatically withdrawn:
