@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N6 — Sum of neutrino masses $ m_ = 0.089$"
+title: "N6 — Sum of neutrino masses mν = 0.089 eV"
 permalink: /falsifications/n6-sum-of-neutrino-masses-m-0089/
 lane: results
 falsification_id: "N6"
@@ -17,7 +17,7 @@ seam: null
 registry_id: "V.T175"
 canonical_books:
   - "V"
-summary_short: "N6: Sum of neutrino masses $ m_ = 0.089$. DESI, Euclid, CMB-S4, KATRIN/Project~8."
+summary_short: "N6: Sum of neutrino masses mν = 0.089 eV. DESI, Euclid, CMB-S4, KATRIN/Project~8."
 right_rail:
   toc: false
   related:
@@ -80,4 +80,3 @@ $^2θ_23 = 0.500\,0 ± $
 with $ < 0.01$,
 the formula (eq:ch61-theta23)
 would be falsified.
-

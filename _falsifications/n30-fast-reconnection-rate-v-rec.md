@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N30 — Fast reconnection rate $v_ rec"
+title: "N30 — Fast reconnection rate v_rec"
 permalink: /falsifications/n30-fast-reconnection-rate-v-rec/
 lane: results
 falsification_id: "N30"
@@ -17,7 +17,7 @@ seam: null
 registry_id: "V.T251"
 canonical_books:
   - "V"
-summary_short: "N30: Fast reconnection rate $v_ rec. MRX, FLARE, solar observatories, MMS."
+summary_short: "N30: Fast reconnection rate v_rec. MRX, FLARE, solar observatories, MMS."
 right_rail:
   toc: false
   related:
@@ -80,4 +80,3 @@ in turbulence theory.
 The $τ$-prediction $C_K = 3/2$ exactly
 provides a sharp target
 for future high-resolution experiments.
-

@@ -45,6 +45,8 @@ These protocols are designed for reviewers, readers, and external evaluators. Th
 
 Assessment begins after the relevant obligation, construction step, result, and verification mode have been identified.
 
+Protocols help reviewers decide where to inspect next: Agenda obligations, Corpus construction, Results status, TauLib formalization, bridge assumptions, or falsification surfaces.
+
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/verify/assessment-protocols/manual/' | relative_url }}">
     <strong>Manual Protocols</strong>

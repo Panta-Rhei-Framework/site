@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Lithium-7 Abundance (Resolved)"
-title_plain: "Lithium-7 Abundance (Resolved)"
+title: "Lithium-7 Abundance (Framework Account)"
+title_plain: "Lithium-7 Abundance (Framework Account)"
 permalink: /predictions/li-h/
 lane: results
 prediction_id: "pred-045"
@@ -23,7 +23,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "Lithium-7 Abundance (Resolved): τ-value 1.6!×!10⁻¹⁰, observed 1.6!×!10⁻¹⁰, deviation ∼ 0%."
+summary_short: "Lithium-7 Abundance (Framework Account): τ-value 1.6!×!10⁻¹⁰, observed 1.6!×!10⁻¹⁰, deviation ∼ 0%."
 right_rail:
   toc: false
   related:
@@ -76,4 +76,3 @@ $∼ 15%$ stellar depletion correction:
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

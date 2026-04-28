@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N26 — GW echo time ratio $_^-2"
+title: "N26 — GW echo time ratio ιτ⁻²"
 permalink: /falsifications/n26-gw-echo-time-ratio-2/
 lane: results
 falsification_id: "N26"
@@ -17,7 +17,7 @@ seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T185"
 canonical_books:
   - "V"
-summary_short: "N26: GW echo time ratio $_^-2. Einstein Telescope, Cosmic Explorer, LISA."
+summary_short: "N26: GW echo time ratio ιτ⁻². Einstein Telescope, Cosmic Explorer, LISA."
 right_rail:
   toc: false
   related:
@@ -62,4 +62,3 @@ Comparison with the CREMA muonic hydrogen measurement:
 
 This resolves the proton radius puzzle (pre-2019 CODATA value
 $0.8768\,fm$) by selecting the muonic hydrogen value as correct.
-

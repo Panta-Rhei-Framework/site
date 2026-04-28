@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N24 — QNM frequency ratio $_^-1"
+title: "N24 — QNM frequency ratio ιτ⁻¹"
 permalink: /falsifications/n24-qnm-frequency-ratio-1/
 lane: results
 falsification_id: "N24"
@@ -17,7 +17,7 @@ seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T168"
 canonical_books:
   - "V"
-summary_short: "N24: QNM frequency ratio $_^-1. LIGO/Virgo A+, LISA, Einstein Telescope."
+summary_short: "N24: QNM frequency ratio ιτ⁻¹. LIGO/Virgo A+, LISA, Einstein Telescope."
 right_rail:
   toc: false
   related:
@@ -80,4 +80,3 @@ They have a topological reading
 &= -1|lobes|
 = |gen|^-1/2|_|gen|=4
 (normalization factor).
-

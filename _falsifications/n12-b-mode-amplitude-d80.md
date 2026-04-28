@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N12 — B-mode amplitude $D_80"
+title: "N12 — B-mode amplitude D80"
 permalink: /falsifications/n12-b-mode-amplitude-d80/
 lane: results
 falsification_id: "N12"
@@ -17,7 +17,7 @@ seam: null
 registry_id: "V.D256"
 canonical_books:
   - "V"
-summary_short: "N12: B-mode amplitude $D_80. CMB-S4, LiteBIRD."
+summary_short: "N12: B-mode amplitude D80. CMB-S4, LiteBIRD."
 right_rail:
   toc: false
   related:
@@ -70,4 +70,3 @@ is $∼ 1100×$ weaker
 than the primordial signal.
 De-lensing is not required.
 *(Registry: V.D256, Wave 14F.)*
-

@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N20 — Dark energy density $_ = 0.6849$"
+title: "N20 — Dark energy density ΩΛ = 0.6849"
 permalink: /falsifications/n20-dark-energy-density-06849/
 lane: results
 falsification_id: "N20"
@@ -17,7 +17,7 @@ seam: null
 registry_id: "V.T234"
 canonical_books:
   - "V"
-summary_short: "N20: Dark energy density $_ = 0.6849$. Euclid, DESI, Rubin."
+summary_short: "N20: Dark energy density ΩΛ = 0.6849. Euclid, DESI, Rubin."
 right_rail:
   toc: false
   related:
@@ -88,4 +88,3 @@ at $0.067$ dex RMS
 $Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$,
 matching Planck at $+269$ ppm
 (V.T234).
-

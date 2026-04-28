@@ -103,7 +103,7 @@
     "id": "N6",
     "n_num": 6,
     "slug": "n6-sum-of-neutrino-masses-m-0089",
-    "title": "Sum of neutrino masses $ m_ = 0.089$",
+    "title": "Sum of neutrino masses mν = 0.089 eV",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "Sigma m-nu = 0.089~eV. neutrino mass!sum prediction pred:n6 CF-asymmetry grid (V.T175): $(_pq, _pr) = (1.16, 0.87)$, giving $ m_ = 0.089$~eV. Orthodox: free parameter, $ < 0.12$~eV (Planck). Decisive if $$ measured outside $0.082$–$0.096$~eV.",
@@ -115,7 +115,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N6: Sum of neutrino masses $ m_ = 0.089$. DESI, Euclid, CMB-S4, KATRIN/Project~8.",
+    "summary_short": "N6: Sum of neutrino masses mν = 0.089 eV. DESI, Euclid, CMB-S4, KATRIN/Project~8.",
     "url": "/falsifications/n6-sum-of-neutrino-masses-m-0089/",
     "tier": "B"
   },
@@ -223,7 +223,7 @@
     "id": "N12",
     "n_num": 12,
     "slug": "n12-b-mode-amplitude-d80",
-    "title": "B-mode amplitude $D_80",
+    "title": "B-mode amplitude D80",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "^BB = 339$D-80-BB = 339~nK$^2$. B-mode!amplitude prediction pred:n12 First $$-polarization prediction (V.D256). No de-lensing needed: $S/N = 1131$.",
@@ -235,7 +235,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N12: B-mode amplitude $D_80. CMB-S4, LiteBIRD.",
+    "summary_short": "N12: B-mode amplitude D80. CMB-S4, LiteBIRD.",
     "url": "/falsifications/n12-b-mode-amplitude-d80/",
     "tier": "B"
   },
@@ -243,7 +243,7 @@
     "id": "N13",
     "n_num": 13,
     "slug": "n13-n-eff",
-    "title": "$N_ eff",
+    "title": "Effective neutrino number N_eff",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "= 3.000$N-eff = 3 (not 3.044). effective neutrino number!prediction pred:n13 $| gen| = 3$ from topology; no decoupling correction. Orthodox: $N_ eff = 3.044$ (QED corrections). $_1 = 0.32$; CMB-S4 sensitivity $ 1.5$.",
@@ -255,7 +255,7 @@
     "canonical_books": [
       "IV"
     ],
-    "summary_short": "N13: $N_ eff. CMB-S4.",
+    "summary_short": "N13: Effective neutrino number N_eff. CMB-S4.",
     "url": "/falsifications/n13-n-eff/",
     "tier": "A"
   },
@@ -323,10 +323,10 @@
     "id": "N17",
     "n_num": 17,
     "slug": "n17-lithium-7-resolved-s-13",
-    "title": "Lithium-7 resolved ($S = 1/3$",
+    "title": "Lithium-7 framework account (S = 1/3)",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
-    "prediction": "S = 1/3 fiber suppression). lithium problem!prediction pred:n17 The cosmological lithium problem is resolved by the fiber suppression factor $S = 1/3$ (V.T243–T244). $^7$Li/H $ 1.6 10^-10$, matching the Spite plateau. Orthodox: $^7$Li/H $ 5 10^-10$ (3$$ too high). Decisive if independent $^7$Li meas",
+    "prediction": "S = 1/3 fiber suppression). lithium problem!prediction pred:n17 The cosmological lithium problem is internally accounted for by the fiber suppression factor S = 1/3 (V.T243–T244). Li-7/H near 1.6e-10, matching the Spite plateau. Orthodox baseline: Li-7/H near 5e-10. Decisive if independent Li-7 measurements contradict the internal account.",
     "experiment": "stellar archaeology, primordial gas clouds",
     "timeline": "2025–2035.",
     "current_status": "consistent",
@@ -335,7 +335,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N17: Lithium-7 resolved ($S = 1/3$. stellar archaeology, primordial gas clouds.",
+    "summary_short": "N17: Lithium-7 framework account (S = 1/3). stellar archaeology, primordial gas clouds.",
     "url": "/falsifications/n17-lithium-7-resolved-s-13/",
     "tier": "A"
   },
@@ -383,7 +383,7 @@
     "id": "N20",
     "n_num": 20,
     "slug": "n20-dark-energy-density-06849",
-    "title": "Dark energy density $_ = 0.6849$",
+    "title": "Dark energy density ΩΛ = 0.6849",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "Omega-Lambda = 0.6849. dark energy density!prediction pred:n20 $_ = _D(1 + _^3) = 0.6849$ (V.T234), at $-433$~ppm from Planck.",
@@ -395,7 +395,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N20: Dark energy density $_ = 0.6849$. Euclid, DESI, Rubin.",
+    "summary_short": "N20: Dark energy density ΩΛ = 0.6849. Euclid, DESI, Rubin.",
     "url": "/falsifications/n20-dark-energy-density-06849/",
     "tier": "B"
   },
@@ -463,7 +463,7 @@
     "id": "N24",
     "n_num": 24,
     "slug": "n24-qnm-frequency-ratio-1",
-    "title": "QNM frequency ratio $_^-1",
+    "title": "QNM frequency ratio ιτ⁻¹",
     "domain": "black-holes",
     "domain_display": "Black Holes",
     "prediction": "2.929$iota-tau-inv approx 2.929. quasinormal modes!ratio prediction pred:n24 $T^2$ winding modes give $_(1,0)/_(0,1) = _^-1$ (V.T168). Orthodox $S^2$: $_3/_2 1.5$.",
@@ -475,7 +475,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N24: QNM frequency ratio $_^-1. LIGO/Virgo A+, LISA, Einstein Telescope.",
+    "summary_short": "N24: QNM frequency ratio ιτ⁻¹. LIGO/Virgo A+, LISA, Einstein Telescope.",
     "url": "/falsifications/n24-qnm-frequency-ratio-1/",
     "tier": "A"
   },
@@ -503,7 +503,7 @@
     "id": "N26",
     "n_num": 26,
     "slug": "n26-gw-echo-time-ratio-2",
-    "title": "GW echo time ratio $_^-2",
+    "title": "GW echo time ratio ιτ⁻²",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "8.57$iota-tau-inv-2 approx 8.57. gravitational wave echoes!prediction pred:n26 Echo time doublet: $t_ = 4GM_^ 1/c^3$; ratio $t_+/t_- = _^-2$ (V.T185). Echoes arise from $T^2$ winding; $S^2$ produces no echoes.",
@@ -515,7 +515,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N26: GW echo time ratio $_^-2. Einstein Telescope, Cosmic Explorer, LISA.",
+    "summary_short": "N26: GW echo time ratio ιτ⁻². Einstein Telescope, Cosmic Explorer, LISA.",
     "url": "/falsifications/n26-gw-echo-time-ratio-2/",
     "tier": "A"
   },
@@ -583,7 +583,7 @@
     "id": "N30",
     "n_num": 30,
     "slug": "n30-fast-reconnection-rate-v-rec",
-    "title": "Fast reconnection rate $v_ rec",
+    "title": "Fast reconnection rate v_rec",
     "domain": "particle-physics",
     "domain_display": "Particle Physics",
     "prediction": "= _^2 v_A$vrec = iota-tau-2 vA. magnetic reconnection!rate prediction pred:n30 $v_ rec = _^2 v_A 0.117 v_A$ (V.T251). Orthodox Sweet–Parker: $v_ rec S^-1/2 v_A 0.1 v_A$. Observed: $0.01$–$0.1 v_A$ (solar flares, laboratory plasmas).",
@@ -595,7 +595,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "N30: Fast reconnection rate $v_ rec. MRX, FLARE, solar observatories, MMS.",
+    "summary_short": "N30: Fast reconnection rate v_rec. MRX, FLARE, solar observatories, MMS.",
     "url": "/falsifications/n30-fast-reconnection-rate-v-rec/",
     "tier": "A"
   }

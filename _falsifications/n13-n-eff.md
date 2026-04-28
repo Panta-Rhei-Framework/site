@@ -1,6 +1,6 @@
 ---
 layout: falsification-page
-title: "N13 — $N_ eff"
+title: "N13 — Effective neutrino number N_eff"
 permalink: /falsifications/n13-n-eff/
 lane: results
 falsification_id: "N13"
@@ -17,7 +17,7 @@ seam: null
 registry_id: "V.T193"
 canonical_books:
   - "IV"
-summary_short: "N13: $N_ eff. CMB-S4."
+summary_short: "N13: Effective neutrino number N_eff. CMB-S4."
 right_rail:
   toc: false
   related:
@@ -46,5 +46,4 @@ $Δ_1 = 0.32$;
 CMB-S4 sensitivity $∼ 1.5σ$.
 *Experiment:* CMB-S4.
 *Timeline:* 2028–2032.
-
 

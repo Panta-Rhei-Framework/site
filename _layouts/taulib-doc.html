@@ -13,8 +13,16 @@ layout: default
   <h1 class="taulib-module-title">{{ page.title }}</h1>
 </header>
 
+{% assign taulib_doc_body = content %}
+{% if taulib_doc_body contains '<h1' %}
+  {% assign taulib_doc_parts = taulib_doc_body | split: '</h1>' %}
+  {% capture taulib_doc_body %}
+    {% for part in taulib_doc_parts offset:1 %}{% unless forloop.first %}</h1>{% endunless %}{{ part }}{% endfor %}
+  {% endcapture %}
+{% endif %}
+
 <section class="content-card taulib-doc-content">
-  {{ content }}
+  {{ taulib_doc_body }}
 </section>
 
 {% assign build = site.data.verify.build %}
