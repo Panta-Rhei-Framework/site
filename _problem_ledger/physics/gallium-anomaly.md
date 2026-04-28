@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-gallium-anomaly"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-gallium-anomaly"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Gallium anomaly"
+      source_section:
+        - "High-energy/particle physics"
+      source_line: 149
+      source_text: "Gallium anomaly: The measurements of the charged-current capture rate of neutrinos on Ga from strong radioactive sources have yielded results below those expected, based on the known strength of the principal transition supplemented by theory"
+      problem_statement: "The measurements of the charged-current capture rate of neutrinos on Ga from strong radioactive sources have yielded results below those expected, based on the known strength of the principal transition supplemented by theory"
+      source_questions: []
+      source_links:
+        -
+          label: "Gallium anomaly"
+          url: "https://en.wikipedia.org/wiki/Soviet%E2%80%93American_Gallium_Experiment#Gallium_anomaly"
+          target: "Soviet–American Gallium Experiment#Gallium anomaly"
+  source_links:
+    -
+      label: "Gallium anomaly"
+      url: "https://en.wikipedia.org/wiki/Soviet%E2%80%93American_Gallium_Experiment#Gallium_anomaly"
+      target: "Soviet–American Gallium Experiment#Gallium anomaly"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 The measurements of the charged-current capture rate of neutrinos on Ga from strong radioactive sources have yielded results below those expected, based on the known strength of the principal transition supplemented by theory
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Gallium anomaly](https://en.wikipedia.org/wiki/Soviet%E2%80%93American_Gallium_Experiment#Gallium_anomaly)
+
+## Source Trace
+
+- `wikipedia-physics-gallium-anomaly` — Wikipedia: List of unsolved problems in physics; section: High-energy/particle physics; source line: 149; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

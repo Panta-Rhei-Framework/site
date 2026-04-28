@@ -49,6 +49,168 @@ source:
   source_entry_ids:
     - "wikipedia-biology-the-emergence-and-evolution-of-intelligence"
     - "wikipedia-neuroscience-the-emergence-and-evolution-of-intelligence"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-the-emergence-and-evolution-of-intelligence"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "The emergence and evolution of intelligence"
+      source_section:
+        - "Human biology"
+        - "Neuroscience and cognition"
+        - "Cognition and psychology"
+      source_line: 81
+      source_text: "The emergence and evolution of intelligence: What are the laws and mechanisms of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in ontogenesis, etc.?"
+      problem_statement: "What are the laws and mechanisms of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in ontogenesis, etc.?"
+      source_questions: []
+      source_links:
+        -
+          label: "emergence"
+          url: "https://en.wikipedia.org/wiki/emergence"
+          target: "emergence"
+        -
+          label: "evolution"
+          url: "https://en.wikipedia.org/wiki/evolution"
+          target: "evolution"
+        -
+          label: "intelligence"
+          url: "https://en.wikipedia.org/wiki/intelligence"
+          target: "intelligence"
+        -
+          label: "idea"
+          url: "https://en.wikipedia.org/wiki/idea"
+          target: "idea"
+        -
+          label: "insight"
+          url: "https://en.wikipedia.org/wiki/insight"
+          target: "insight"
+        -
+          label: "intuition"
+          url: "https://en.wikipedia.org/wiki/intuition"
+          target: "intuition"
+        -
+          label: "decision-making"
+          url: "https://en.wikipedia.org/wiki/decision-making"
+          target: "decision-making"
+        -
+          label: "eureka"
+          url: "https://en.wikipedia.org/wiki/eureka_effect"
+          target: "eureka effect"
+        -
+          label: "mind"
+          url: "https://en.wikipedia.org/wiki/mind"
+          target: "mind"
+        -
+          label: "ontogenesis"
+          url: "https://en.wikipedia.org/wiki/ontogenesis"
+          target: "ontogenesis"
+    -
+      source_entry_id: "wikipedia-neuroscience-the-emergence-and-evolution-of-intelligence"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "The emergence and evolution of intelligence"
+      source_section:
+        - "Computational neuroscience"
+      source_line: 92
+      source_text: "The emergence and evolution of intelligence: What are the laws and mechanisms - of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in the ontogenesis, etc.?"
+      problem_statement: "What are the laws and mechanisms - of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in the ontogenesis, etc.?"
+      source_questions: []
+      source_links:
+        -
+          label: "emergence"
+          url: "https://en.wikipedia.org/wiki/emergence"
+          target: "emergence"
+        -
+          label: "evolution"
+          url: "https://en.wikipedia.org/wiki/evolution"
+          target: "evolution"
+        -
+          label: "intelligence"
+          url: "https://en.wikipedia.org/wiki/intelligence"
+          target: "intelligence"
+        -
+          label: "idea"
+          url: "https://en.wikipedia.org/wiki/idea"
+          target: "idea"
+        -
+          label: "insight"
+          url: "https://en.wikipedia.org/wiki/insight"
+          target: "insight"
+        -
+          label: "intuition"
+          url: "https://en.wikipedia.org/wiki/intuition"
+          target: "intuition"
+        -
+          label: "decision-making"
+          url: "https://en.wikipedia.org/wiki/decision-making"
+          target: "decision-making"
+        -
+          label: "eureka"
+          url: "https://en.wikipedia.org/wiki/eureka_effect"
+          target: "eureka effect"
+        -
+          label: "mind"
+          url: "https://en.wikipedia.org/wiki/mind"
+          target: "mind"
+        -
+          label: "ontogenesis"
+          url: "https://en.wikipedia.org/wiki/ontogenesis"
+          target: "ontogenesis"
+  source_links:
+    -
+      label: "emergence"
+      url: "https://en.wikipedia.org/wiki/emergence"
+      target: "emergence"
+    -
+      label: "evolution"
+      url: "https://en.wikipedia.org/wiki/evolution"
+      target: "evolution"
+    -
+      label: "intelligence"
+      url: "https://en.wikipedia.org/wiki/intelligence"
+      target: "intelligence"
+    -
+      label: "idea"
+      url: "https://en.wikipedia.org/wiki/idea"
+      target: "idea"
+    -
+      label: "insight"
+      url: "https://en.wikipedia.org/wiki/insight"
+      target: "insight"
+    -
+      label: "intuition"
+      url: "https://en.wikipedia.org/wiki/intuition"
+      target: "intuition"
+    -
+      label: "decision-making"
+      url: "https://en.wikipedia.org/wiki/decision-making"
+      target: "decision-making"
+    -
+      label: "eureka"
+      url: "https://en.wikipedia.org/wiki/eureka_effect"
+      target: "eureka effect"
+    -
+      label: "mind"
+      url: "https://en.wikipedia.org/wiki/mind"
+      target: "mind"
+    -
+      label: "ontogenesis"
+      url: "https://en.wikipedia.org/wiki/ontogenesis"
+      target: "ontogenesis"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 2
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -79,8 +241,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -108,11 +270,33 @@ verify_links:
 
 ## Problem Statement
 
+This canonical Problem Ledger item consolidates multiple pinned source entries that the v1.0 mapping treats as the same public agenda obligation.
+
+### Source entry 1: The emergence and evolution of intelligence
+
 What are the laws and mechanisms of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in ontogenesis, etc.?
 
-Source questions retained from the pinned source:
+### Source entry 2: The emergence and evolution of intelligence
 
-- _No nested source questions were extracted._
+What are the laws and mechanisms - of new idea emergence (insight, creativity synthesis, intuition, decision-making, eureka); development (evolution) of an individual mind in the ontogenesis, etc.?
+
+## Source Links
+
+- [emergence](https://en.wikipedia.org/wiki/emergence)
+- [evolution](https://en.wikipedia.org/wiki/evolution)
+- [intelligence](https://en.wikipedia.org/wiki/intelligence)
+- [idea](https://en.wikipedia.org/wiki/idea)
+- [insight](https://en.wikipedia.org/wiki/insight)
+- [intuition](https://en.wikipedia.org/wiki/intuition)
+- [decision-making](https://en.wikipedia.org/wiki/decision-making)
+- [eureka](https://en.wikipedia.org/wiki/eureka_effect)
+- [mind](https://en.wikipedia.org/wiki/mind)
+- [ontogenesis](https://en.wikipedia.org/wiki/ontogenesis)
+
+## Source Trace
+
+- `wikipedia-biology-the-emergence-and-evolution-of-intelligence` — Wikipedia: List of unsolved problems in biology; section: Human biology / Neuroscience and cognition / Cognition and psychology; source line: 81; revision: 1350634388.
+- `wikipedia-neuroscience-the-emergence-and-evolution-of-intelligence` — Wikipedia: List of unsolved problems in neuroscience; section: Computational neuroscience; source line: 92; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

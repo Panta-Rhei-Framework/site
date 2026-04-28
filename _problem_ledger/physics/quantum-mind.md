@@ -46,6 +46,70 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quantum-mind"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quantum-mind"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quantum mind"
+      source_section:
+        - "Foundations of physics"
+      source_line: 232
+      source_text: "Quantum mind: Do quantum mechanical phenomena, such as entanglement and superposition, play an important part in the brain's function and can it explain critical aspects of consciousness?"
+      problem_statement: "Do quantum mechanical phenomena, such as entanglement and superposition, play an important part in the brain's function and can it explain critical aspects of consciousness?"
+      source_questions: []
+      source_links:
+        -
+          label: "Quantum mind"
+          url: "https://en.wikipedia.org/wiki/Quantum_mind"
+          target: "Quantum mind"
+        -
+          label: "quantum mechanical"
+          url: "https://en.wikipedia.org/wiki/quantum_mechanical"
+          target: "quantum mechanical"
+        -
+          label: "entanglement"
+          url: "https://en.wikipedia.org/wiki/Quantum_entanglement"
+          target: "Quantum entanglement"
+        -
+          label: "superposition"
+          url: "https://en.wikipedia.org/wiki/Quantum_superposition"
+          target: "Quantum superposition"
+        -
+          label: "consciousness"
+          url: "https://en.wikipedia.org/wiki/consciousness"
+          target: "consciousness"
+  source_links:
+    -
+      label: "Quantum mind"
+      url: "https://en.wikipedia.org/wiki/Quantum_mind"
+      target: "Quantum mind"
+    -
+      label: "quantum mechanical"
+      url: "https://en.wikipedia.org/wiki/quantum_mechanical"
+      target: "quantum mechanical"
+    -
+      label: "entanglement"
+      url: "https://en.wikipedia.org/wiki/Quantum_entanglement"
+      target: "Quantum entanglement"
+    -
+      label: "superposition"
+      url: "https://en.wikipedia.org/wiki/Quantum_superposition"
+      target: "Quantum superposition"
+    -
+      label: "consciousness"
+      url: "https://en.wikipedia.org/wiki/consciousness"
+      target: "consciousness"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +138,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +167,17 @@ verify_links:
 
 Do quantum mechanical phenomena, such as entanglement and superposition, play an important part in the brain's function and can it explain critical aspects of consciousness?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Quantum mind](https://en.wikipedia.org/wiki/Quantum_mind)
+- [quantum mechanical](https://en.wikipedia.org/wiki/quantum_mechanical)
+- [entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement)
+- [superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+- [consciousness](https://en.wikipedia.org/wiki/consciousness)
+
+## Source Trace
+
+- `wikipedia-physics-quantum-mind` — Wikipedia: List of unsolved problems in physics; section: Foundations of physics; source line: 232; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

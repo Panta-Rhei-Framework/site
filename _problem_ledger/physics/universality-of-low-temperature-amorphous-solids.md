@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-universality-of-low-temperature-amorphous-solids"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-universality-of-low-temperature-amorphous-solids"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Universality of low-temperature amorphous solids"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 190
+      source_text: "Universality of low-temperature amorphous solids: why is the small dimensionless ratio of the phonon wavelength to its mean free path nearly the same for a very large family of disordered solids? This small ratio is observed for very large range of phonon frequencies"
+      problem_statement: "why is the small dimensionless ratio of the phonon wavelength to its mean free path nearly the same for a very large family of disordered solids? This small ratio is observed for very large range of phonon frequencies"
+      source_questions: []
+      source_links:
+        -
+          label: "Universality of low-temperature amorphous solids"
+          url: "https://en.wikipedia.org/wiki/Amorphous_solid#Universal_low-temperature_properties_of_amorphous_solids"
+          target: "Amorphous solid#Universal low-temperature properties of amorphous solids"
+  source_links:
+    -
+      label: "Universality of low-temperature amorphous solids"
+      url: "https://en.wikipedia.org/wiki/Amorphous_solid#Universal_low-temperature_properties_of_amorphous_solids"
+      target: "Amorphous solid#Universal low-temperature properties of amorphous solids"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 why is the small dimensionless ratio of the phonon wavelength to its mean free path nearly the same for a very large family of disordered solids? This small ratio is observed for very large range of phonon frequencies
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Universality of low-temperature amorphous solids](https://en.wikipedia.org/wiki/Amorphous_solid#Universal_low-temperature_properties_of_amorphous_solids)
+
+## Source Trace
+
+- `wikipedia-physics-universality-of-low-temperature-amorphous-solids` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 190; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

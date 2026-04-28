@@ -102,7 +102,7 @@ def main() -> int:
         "/corpus/construction-spine/test-ontic-closure/",
         "Step 10",
         "Previous: Step 9",
-        "Next: Construction Spine overview",
+        "Next: This is the final construction step; return to the Construction Spine overview",
     )
     forbid("/corpus/construction-spine/define-the-kernel/", "What this step was required to do")
 

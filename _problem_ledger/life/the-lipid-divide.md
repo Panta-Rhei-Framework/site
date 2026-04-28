@@ -47,6 +47,55 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-the-lipid-divide"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-the-lipid-divide"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "The lipid divide"
+      source_section:
+        - "General biology"
+        - "Evolution and origins of life"
+      source_line: 19
+      source_text: "The lipid divide: How did archaea end up using membrane glycerophospholipids of the opposite chirality compared to bacteria? Why do eukaryotes have bacteria-type membrane lipids?"
+      problem_statement: "How did archaea end up using membrane glycerophospholipids of the opposite chirality compared to bacteria? Why do eukaryotes have bacteria-type membrane lipids?"
+      source_questions: []
+      source_links:
+        -
+          label: "lipid divide"
+          url: "https://en.wikipedia.org/wiki/lipid_divide"
+          target: "lipid divide"
+        -
+          label: "archaea"
+          url: "https://en.wikipedia.org/wiki/archaea"
+          target: "archaea"
+        -
+          label: "glycerophospholipid"
+          url: "https://en.wikipedia.org/wiki/glycerophospholipid"
+          target: "glycerophospholipid"
+  source_links:
+    -
+      label: "lipid divide"
+      url: "https://en.wikipedia.org/wiki/lipid_divide"
+      target: "lipid divide"
+    -
+      label: "archaea"
+      url: "https://en.wikipedia.org/wiki/archaea"
+      target: "archaea"
+    -
+      label: "glycerophospholipid"
+      url: "https://en.wikipedia.org/wiki/glycerophospholipid"
+      target: "glycerophospholipid"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +124,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +155,15 @@ verify_links:
 
 How did archaea end up using membrane glycerophospholipids of the opposite chirality compared to bacteria? Why do eukaryotes have bacteria-type membrane lipids?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [lipid divide](https://en.wikipedia.org/wiki/lipid_divide)
+- [archaea](https://en.wikipedia.org/wiki/archaea)
+- [glycerophospholipid](https://en.wikipedia.org/wiki/glycerophospholipid)
+
+## Source Trace
+
+- `wikipedia-biology-the-lipid-divide` — Wikipedia: List of unsolved problems in biology; section: General biology / Evolution and origins of life; source line: 19; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

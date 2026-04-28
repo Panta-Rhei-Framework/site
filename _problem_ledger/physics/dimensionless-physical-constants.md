@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-dimensionless-physical-constants"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-dimensionless-physical-constants"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Dimensionless physical constants"
+      source_section:
+        - "General physics"
+      source_line: 32
+      source_text: "Dimensionless physical constants: At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement. What is the minimum number of dimensionless physical constants from which all other dimensionless physical constants can be derived? Are dimensional physical constants necessary at all?"
+      problem_statement: "At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement. What is the minimum number of dimensionless physical constants from which all other dimensionless physical constants can be derived? Are dimensional physical constants necessary at all?"
+      source_questions: []
+      source_links:
+        -
+          label: "Dimensionless physical constant"
+          url: "https://en.wikipedia.org/wiki/Dimensionless_physical_constant"
+          target: "Dimensionless physical constant"
+        -
+          label: "physical constant"
+          url: "https://en.wikipedia.org/wiki/physical_constant"
+          target: "physical constant"
+  source_links:
+    -
+      label: "Dimensionless physical constant"
+      url: "https://en.wikipedia.org/wiki/Dimensionless_physical_constant"
+      target: "Dimensionless physical constant"
+    -
+      label: "physical constant"
+      url: "https://en.wikipedia.org/wiki/physical_constant"
+      target: "physical constant"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 At the present time, the values of various dimensionless physical constants cannot be calculated; they can be determined only by physical measurement. What is the minimum number of dimensionless physical constants from which all other dimensionless physical constants can be derived? Are dimensional physical constants necessary at all?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Dimensionless physical constant](https://en.wikipedia.org/wiki/Dimensionless_physical_constant)
+- [physical constant](https://en.wikipedia.org/wiki/physical_constant)
+
+## Source Trace
+
+- `wikipedia-physics-dimensionless-physical-constants` — Wikipedia: List of unsolved problems in physics; section: General physics; source line: 32; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

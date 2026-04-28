@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-plasma-physics-and-fusion-power"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-plasma-physics-and-fusion-power"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Plasma physics and fusion power"
+      source_section:
+        - "Plasma physics"
+      source_line: 214
+      source_text: "Plasma physics and fusion power: Fusion energy may potentially provide power from an abundant resource (e.g. hydrogen) without the type of radioactive waste that fission energy currently produces. However, can ionized gases (plasma) be confined long enough and at a high enough temperature to create fusion power? What is the physical origin of H-mode?"
+      problem_statement: "Fusion energy may potentially provide power from an abundant resource (e.g. hydrogen) without the type of radioactive waste that fission energy currently produces. However, can ionized gases (plasma) be confined long enough and at a high enough temperature to create fusion power? What is the physical origin of H-mode?"
+      source_questions: []
+      source_links:
+        -
+          label: "Plasma physics"
+          url: "https://en.wikipedia.org/wiki/Plasma_(physics)"
+          target: "Plasma (physics)"
+        -
+          label: "fusion power"
+          url: "https://en.wikipedia.org/wiki/fusion_power"
+          target: "fusion power"
+        -
+          label: "confined"
+          url: "https://en.wikipedia.org/wiki/Tokamak"
+          target: "Tokamak"
+        -
+          label: "H-mode"
+          url: "https://en.wikipedia.org/wiki/H-mode"
+          target: "H-mode"
+  source_links:
+    -
+      label: "Plasma physics"
+      url: "https://en.wikipedia.org/wiki/Plasma_(physics)"
+      target: "Plasma (physics)"
+    -
+      label: "fusion power"
+      url: "https://en.wikipedia.org/wiki/fusion_power"
+      target: "fusion power"
+    -
+      label: "confined"
+      url: "https://en.wikipedia.org/wiki/Tokamak"
+      target: "Tokamak"
+    -
+      label: "H-mode"
+      url: "https://en.wikipedia.org/wiki/H-mode"
+      target: "H-mode"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 Fusion energy may potentially provide power from an abundant resource (e.g. hydrogen) without the type of radioactive waste that fission energy currently produces. However, can ionized gases (plasma) be confined long enough and at a high enough temperature to create fusion power? What is the physical origin of H-mode?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Plasma physics](https://en.wikipedia.org/wiki/Plasma_(physics))
+- [fusion power](https://en.wikipedia.org/wiki/fusion_power)
+- [confined](https://en.wikipedia.org/wiki/Tokamak)
+- [H-mode](https://en.wikipedia.org/wiki/H-mode)
+
+## Source Trace
+
+- `wikipedia-physics-plasma-physics-and-fusion-power` — Wikipedia: List of unsolved problems in physics; section: Plasma physics; source line: 214; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

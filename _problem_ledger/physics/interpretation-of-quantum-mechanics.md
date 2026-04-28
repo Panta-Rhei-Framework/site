@@ -46,6 +46,102 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-interpretation-of-quantum-mechanics"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-interpretation-of-quantum-mechanics"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Interpretation of quantum mechanics"
+      source_section:
+        - "Foundations of physics"
+      source_line: 229
+      source_text: "Interpretation of quantum mechanics: How does the quantum description of reality, which includes elements such as the superposition of states and wavefunction collapse or quantum decoherence, give rise to the reality we perceive? Another way of stating this question regards the measurement problem: What constitutes a \"measurement\" which apparently causes the wave function to collapse into a definite state? Unlike classical physical processes, some quantum mechanical processes (such as quantum teleportation arising from quantum entanglement) cannot be simultaneously \"local\", \"causal\", and \"real\", but it is not obvious which of these properties must be sacrificed, or if an attempt to describe quantum mechanical processes in these senses is a category error such that a proper understanding of quantum mechanics would render the question meaningless"
+      problem_statement: "How does the quantum description of reality, which includes elements such as the superposition of states and wavefunction collapse or quantum decoherence, give rise to the reality we perceive? Another way of stating this question regards the measurement problem: What constitutes a \"measurement\" which apparently causes the wave function to collapse into a definite state? Unlike classical physical processes, some quantum mechanical processes (such as quantum teleportation arising from quantum entanglement) cannot be simultaneously \"local\", \"causal\", and \"real\", but it is not obvious which of these properties must be sacrificed, or if an attempt to describe quantum mechanical processes in these senses is a category error such that a proper understanding of quantum mechanics would render the question meaningless"
+      source_questions: []
+      source_links:
+        -
+          label: "Interpretation of quantum mechanics"
+          url: "https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics"
+          target: "Interpretation of quantum mechanics"
+        -
+          label: "quantum"
+          url: "https://en.wikipedia.org/wiki/quantum_mechanics"
+          target: "quantum mechanics"
+        -
+          label: "superposition"
+          url: "https://en.wikipedia.org/wiki/quantum_superposition"
+          target: "quantum superposition"
+        -
+          label: "wavefunction collapse"
+          url: "https://en.wikipedia.org/wiki/wavefunction_collapse"
+          target: "wavefunction collapse"
+        -
+          label: "quantum decoherence"
+          url: "https://en.wikipedia.org/wiki/quantum_decoherence"
+          target: "quantum decoherence"
+        -
+          label: "measurement problem"
+          url: "https://en.wikipedia.org/wiki/measurement_problem"
+          target: "measurement problem"
+        -
+          label: "quantum teleportation"
+          url: "https://en.wikipedia.org/wiki/quantum_teleportation"
+          target: "quantum teleportation"
+        -
+          label: "quantum entanglement"
+          url: "https://en.wikipedia.org/wiki/quantum_entanglement"
+          target: "quantum entanglement"
+        -
+          label: "category error"
+          url: "https://en.wikipedia.org/wiki/category_error"
+          target: "category error"
+  source_links:
+    -
+      label: "Interpretation of quantum mechanics"
+      url: "https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics"
+      target: "Interpretation of quantum mechanics"
+    -
+      label: "quantum"
+      url: "https://en.wikipedia.org/wiki/quantum_mechanics"
+      target: "quantum mechanics"
+    -
+      label: "superposition"
+      url: "https://en.wikipedia.org/wiki/quantum_superposition"
+      target: "quantum superposition"
+    -
+      label: "wavefunction collapse"
+      url: "https://en.wikipedia.org/wiki/wavefunction_collapse"
+      target: "wavefunction collapse"
+    -
+      label: "quantum decoherence"
+      url: "https://en.wikipedia.org/wiki/quantum_decoherence"
+      target: "quantum decoherence"
+    -
+      label: "measurement problem"
+      url: "https://en.wikipedia.org/wiki/measurement_problem"
+      target: "measurement problem"
+    -
+      label: "quantum teleportation"
+      url: "https://en.wikipedia.org/wiki/quantum_teleportation"
+      target: "quantum teleportation"
+    -
+      label: "quantum entanglement"
+      url: "https://en.wikipedia.org/wiki/quantum_entanglement"
+      target: "quantum entanglement"
+    -
+      label: "category error"
+      url: "https://en.wikipedia.org/wiki/category_error"
+      target: "category error"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +170,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +199,21 @@ verify_links:
 
 How does the quantum description of reality, which includes elements such as the superposition of states and wavefunction collapse or quantum decoherence, give rise to the reality we perceive? Another way of stating this question regards the measurement problem: What constitutes a "measurement" which apparently causes the wave function to collapse into a definite state? Unlike classical physical processes, some quantum mechanical processes (such as quantum teleportation arising from quantum entanglement) cannot be simultaneously "local", "causal", and "real", but it is not obvious which of these properties must be sacrificed, or if an attempt to describe quantum mechanical processes in these senses is a category error such that a proper understanding of quantum mechanics would render the question meaningless
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Interpretation of quantum mechanics](https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics)
+- [quantum](https://en.wikipedia.org/wiki/quantum_mechanics)
+- [superposition](https://en.wikipedia.org/wiki/quantum_superposition)
+- [wavefunction collapse](https://en.wikipedia.org/wiki/wavefunction_collapse)
+- [quantum decoherence](https://en.wikipedia.org/wiki/quantum_decoherence)
+- [measurement problem](https://en.wikipedia.org/wiki/measurement_problem)
+- [quantum teleportation](https://en.wikipedia.org/wiki/quantum_teleportation)
+- [quantum entanglement](https://en.wikipedia.org/wiki/quantum_entanglement)
+- [category error](https://en.wikipedia.org/wiki/category_error)
+
+## Source Trace
+
+- `wikipedia-physics-interpretation-of-quantum-mechanics` — Wikipedia: List of unsolved problems in physics; section: Foundations of physics; source line: 229; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

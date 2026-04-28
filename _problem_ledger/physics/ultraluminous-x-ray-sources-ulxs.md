@@ -46,6 +46,78 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-ultraluminous-x-ray-sources-ulxs"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-ultraluminous-x-ray-sources-ulxs"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Ultraluminous X-ray sources (ULXs)"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 170
+      source_text: "Ultraluminous X-ray sources (ULXs): What powers X-ray sources that are not associated with active galactic nuclei but exceed the Eddington limit of a neutron star or stellar black hole? Are they due to intermediate-mass black holes? Some ULXs are periodic, suggesting non-isotropic emission from a neutron star. Does this apply to all ULXs? How could such a system form and remain stable?"
+      problem_statement: "What powers X-ray sources that are not associated with active galactic nuclei but exceed the Eddington limit of a neutron star or stellar black hole? Are they due to intermediate-mass black holes? Some ULXs are periodic, suggesting non-isotropic emission from a neutron star. Does this apply to all ULXs? How could such a system form and remain stable?"
+      source_questions: []
+      source_links:
+        -
+          label: "Ultraluminous X-ray source"
+          url: "https://en.wikipedia.org/wiki/Ultraluminous_X-ray_source"
+          target: "Ultraluminous X-ray source"
+        -
+          label: "active galactic nuclei"
+          url: "https://en.wikipedia.org/wiki/active_galactic_nuclei"
+          target: "active galactic nuclei"
+        -
+          label: "Eddington limit"
+          url: "https://en.wikipedia.org/wiki/Eddington_limit"
+          target: "Eddington limit"
+        -
+          label: "neutron star"
+          url: "https://en.wikipedia.org/wiki/neutron_star"
+          target: "neutron star"
+        -
+          label: "stellar black hole"
+          url: "https://en.wikipedia.org/wiki/stellar_black_hole"
+          target: "stellar black hole"
+        -
+          label: "intermediate-mass black hole"
+          url: "https://en.wikipedia.org/wiki/intermediate-mass_black_hole"
+          target: "intermediate-mass black hole"
+  source_links:
+    -
+      label: "Ultraluminous X-ray source"
+      url: "https://en.wikipedia.org/wiki/Ultraluminous_X-ray_source"
+      target: "Ultraluminous X-ray source"
+    -
+      label: "active galactic nuclei"
+      url: "https://en.wikipedia.org/wiki/active_galactic_nuclei"
+      target: "active galactic nuclei"
+    -
+      label: "Eddington limit"
+      url: "https://en.wikipedia.org/wiki/Eddington_limit"
+      target: "Eddington limit"
+    -
+      label: "neutron star"
+      url: "https://en.wikipedia.org/wiki/neutron_star"
+      target: "neutron star"
+    -
+      label: "stellar black hole"
+      url: "https://en.wikipedia.org/wiki/stellar_black_hole"
+      target: "stellar black hole"
+    -
+      label: "intermediate-mass black hole"
+      url: "https://en.wikipedia.org/wiki/intermediate-mass_black_hole"
+      target: "intermediate-mass black hole"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +146,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +175,18 @@ verify_links:
 
 What powers X-ray sources that are not associated with active galactic nuclei but exceed the Eddington limit of a neutron star or stellar black hole? Are they due to intermediate-mass black holes? Some ULXs are periodic, suggesting non-isotropic emission from a neutron star. Does this apply to all ULXs? How could such a system form and remain stable?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Ultraluminous X-ray source](https://en.wikipedia.org/wiki/Ultraluminous_X-ray_source)
+- [active galactic nuclei](https://en.wikipedia.org/wiki/active_galactic_nuclei)
+- [Eddington limit](https://en.wikipedia.org/wiki/Eddington_limit)
+- [neutron star](https://en.wikipedia.org/wiki/neutron_star)
+- [stellar black hole](https://en.wikipedia.org/wiki/stellar_black_hole)
+- [intermediate-mass black hole](https://en.wikipedia.org/wiki/intermediate-mass_black_hole)
+
+## Source Trace
+
+- `wikipedia-physics-ultraluminous-x-ray-sources-ulxs` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 170; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

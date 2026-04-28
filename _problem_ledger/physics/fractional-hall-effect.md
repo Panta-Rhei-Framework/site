@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-fractional-hall-effect"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-fractional-hall-effect"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Fractional Hall effect"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 196
+      source_text: "Fractional Hall effect: What mechanism explains the existence of the state in the fractional quantum Hall effect? Does it describe quasiparticles with non-Abelian fractional statistics?"
+      problem_statement: "What mechanism explains the existence of the state in the fractional quantum Hall effect? Does it describe quasiparticles with non-Abelian fractional statistics?"
+      source_questions: []
+      source_links:
+        -
+          label: "Fractional Hall effect"
+          url: "https://en.wikipedia.org/wiki/Fractional_Hall_effect"
+          target: "Fractional Hall effect"
+        -
+          label: "quantum Hall effect"
+          url: "https://en.wikipedia.org/wiki/quantum_Hall_effect"
+          target: "quantum Hall effect"
+        -
+          label: "non-Abelian fractional statistics"
+          url: "https://en.wikipedia.org/wiki/Fractional_statistics#Non-abelian_anyons"
+          target: "Fractional statistics#Non-abelian anyons"
+        -
+          label: "Nature Physics"
+          url: "https://en.wikipedia.org/wiki/Nature_Physics"
+          target: "Nature Physics"
+  source_links:
+    -
+      label: "Fractional Hall effect"
+      url: "https://en.wikipedia.org/wiki/Fractional_Hall_effect"
+      target: "Fractional Hall effect"
+    -
+      label: "quantum Hall effect"
+      url: "https://en.wikipedia.org/wiki/quantum_Hall_effect"
+      target: "quantum Hall effect"
+    -
+      label: "non-Abelian fractional statistics"
+      url: "https://en.wikipedia.org/wiki/Fractional_statistics#Non-abelian_anyons"
+      target: "Fractional statistics#Non-abelian anyons"
+    -
+      label: "Nature Physics"
+      url: "https://en.wikipedia.org/wiki/Nature_Physics"
+      target: "Nature Physics"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 What mechanism explains the existence of the state in the fractional quantum Hall effect? Does it describe quasiparticles with non-Abelian fractional statistics?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Fractional Hall effect](https://en.wikipedia.org/wiki/Fractional_Hall_effect)
+- [quantum Hall effect](https://en.wikipedia.org/wiki/quantum_Hall_effect)
+- [non-Abelian fractional statistics](https://en.wikipedia.org/wiki/Fractional_statistics#Non-abelian_anyons)
+- [Nature Physics](https://en.wikipedia.org/wiki/Nature_Physics)
+
+## Source Trace
+
+- `wikipedia-physics-fractional-hall-effect` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 196; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

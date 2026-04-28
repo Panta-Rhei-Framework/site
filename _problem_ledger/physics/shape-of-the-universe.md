@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-shape-of-the-universe"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-shape-of-the-universe"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Shape of the universe"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 73
+      source_text: "Shape of the universe: What is the 3-manifold of comoving space, i.e., of a comoving spatial section of the universe, informally called the \"shape\" of the universe? Neither the curvature nor the topology is presently known, though the curvature is known to be \"close\" to zero on observable scales. Is the shape unmeasurable; the Poincaré space; or another 3-manifold?"
+      problem_statement: "What is the 3-manifold of comoving space, i.e., of a comoving spatial section of the universe, informally called the \"shape\" of the universe? Neither the curvature nor the topology is presently known, though the curvature is known to be \"close\" to zero on observable scales. Is the shape unmeasurable; the Poincaré space; or another 3-manifold?"
+      source_questions: []
+      source_links:
+        -
+          label: "Shape of the universe"
+          url: "https://en.wikipedia.org/wiki/Shape_of_the_universe"
+          target: "Shape of the universe"
+        -
+          label: "manifold"
+          url: "https://en.wikipedia.org/wiki/manifold"
+          target: "manifold"
+        -
+          label: "comoving space"
+          url: "https://en.wikipedia.org/wiki/comoving_coordinates"
+          target: "comoving coordinates"
+  source_links:
+    -
+      label: "Shape of the universe"
+      url: "https://en.wikipedia.org/wiki/Shape_of_the_universe"
+      target: "Shape of the universe"
+    -
+      label: "manifold"
+      url: "https://en.wikipedia.org/wiki/manifold"
+      target: "manifold"
+    -
+      label: "comoving space"
+      url: "https://en.wikipedia.org/wiki/comoving_coordinates"
+      target: "comoving coordinates"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 What is the 3-manifold of comoving space, i.e., of a comoving spatial section of the universe, informally called the "shape" of the universe? Neither the curvature nor the topology is presently known, though the curvature is known to be "close" to zero on observable scales. Is the shape unmeasurable; the Poincaré space; or another 3-manifold?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Shape of the universe](https://en.wikipedia.org/wiki/Shape_of_the_universe)
+- [manifold](https://en.wikipedia.org/wiki/manifold)
+- [comoving space](https://en.wikipedia.org/wiki/comoving_coordinates)
+
+## Source Trace
+
+- `wikipedia-physics-shape-of-the-universe` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 73; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-size-of-universe"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-size-of-universe"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Size of universe"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 63
+      source_text: "Size of universe: The diameter of the observable universe is about 93 billion light-years (or equivalently a radius of about 14 Gpc), but what is the size of the whole universe? Is the universe infinite?"
+      problem_statement: "The diameter of the observable universe is about 93 billion light-years (or equivalently a radius of about 14 Gpc), but what is the size of the whole universe? Is the universe infinite?"
+      source_questions: []
+      source_links:
+        -
+          label: "Size of universe"
+          url: "https://en.wikipedia.org/wiki/Universe#Size_and_regions"
+          target: "Universe#Size and regions"
+        -
+          label: "observable universe"
+          url: "https://en.wikipedia.org/wiki/observable_universe"
+          target: "observable universe"
+  source_links:
+    -
+      label: "Size of universe"
+      url: "https://en.wikipedia.org/wiki/Universe#Size_and_regions"
+      target: "Universe#Size and regions"
+    -
+      label: "observable universe"
+      url: "https://en.wikipedia.org/wiki/observable_universe"
+      target: "observable universe"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 The diameter of the observable universe is about 93 billion light-years (or equivalently a radius of about 14 Gpc), but what is the size of the whole universe? Is the universe infinite?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Size of universe](https://en.wikipedia.org/wiki/Universe#Size_and_regions)
+- [observable universe](https://en.wikipedia.org/wiki/observable_universe)
+
+## Source Trace
+
+- `wikipedia-physics-size-of-universe` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 63; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

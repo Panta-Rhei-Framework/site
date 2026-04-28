@@ -46,6 +46,86 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-black-holes-black-hole-information-paradox-and-black-hole-radiation"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-black-holes-black-hole-information-paradox-and-black-hole-radiation"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Black holes, black hole information paradox, and black hole radiation"
+      source_section:
+        - "Quantum gravity"
+      source_line: 36
+      source_text: "Black holes, black hole information paradox, and black hole radiation: Do black holes produce thermal radiation, as expected on theoretical grounds? Does this radiation contain information about their inner structure, as suggested by gauge–gravity duality, or not, as implied by Hawking's original calculation? If not, and black holes can evaporate away, what happens to the information stored in them (since quantum mechanics does not provide for the destruction of information)? Or does the radiation stop at some point, leaving black hole remnants? Is there another way to probe their internal structure somehow, if such a structure even exists?"
+      problem_statement: "Do black holes produce thermal radiation, as expected on theoretical grounds? Does this radiation contain information about their inner structure, as suggested by gauge–gravity duality, or not, as implied by Hawking's original calculation? If not, and black holes can evaporate away, what happens to the information stored in them (since quantum mechanics does not provide for the destruction of information)? Or does the radiation stop at some point, leaving black hole remnants? Is there another way to probe their internal structure somehow, if such a structure even exists?"
+      source_questions: []
+      source_links:
+        -
+          label: "Black hole"
+          url: "https://en.wikipedia.org/wiki/Black_hole"
+          target: "Black hole"
+        -
+          label: "black hole information paradox"
+          url: "https://en.wikipedia.org/wiki/black_hole_information_paradox"
+          target: "black hole information paradox"
+        -
+          label: "black hole radiation"
+          url: "https://en.wikipedia.org/wiki/black_hole_radiation"
+          target: "black hole radiation"
+        -
+          label: "Reviews of Modern Physics"
+          url: "https://en.wikipedia.org/wiki/Reviews_of_Modern_Physics"
+          target: "Reviews of Modern Physics"
+        -
+          label: "gauge–gravity duality"
+          url: "https://en.wikipedia.org/wiki/gauge%E2%80%93gravity_duality"
+          target: "gauge–gravity duality"
+        -
+          label: "Hawking"
+          url: "https://en.wikipedia.org/wiki/Hawking_radiation"
+          target: "Hawking radiation"
+        -
+          label: "even exists"
+          url: "https://en.wikipedia.org/wiki/No_hair_theorem"
+          target: "No hair theorem"
+  source_links:
+    -
+      label: "Black hole"
+      url: "https://en.wikipedia.org/wiki/Black_hole"
+      target: "Black hole"
+    -
+      label: "black hole information paradox"
+      url: "https://en.wikipedia.org/wiki/black_hole_information_paradox"
+      target: "black hole information paradox"
+    -
+      label: "black hole radiation"
+      url: "https://en.wikipedia.org/wiki/black_hole_radiation"
+      target: "black hole radiation"
+    -
+      label: "Reviews of Modern Physics"
+      url: "https://en.wikipedia.org/wiki/Reviews_of_Modern_Physics"
+      target: "Reviews of Modern Physics"
+    -
+      label: "gauge–gravity duality"
+      url: "https://en.wikipedia.org/wiki/gauge%E2%80%93gravity_duality"
+      target: "gauge–gravity duality"
+    -
+      label: "Hawking"
+      url: "https://en.wikipedia.org/wiki/Hawking_radiation"
+      target: "Hawking radiation"
+    -
+      label: "even exists"
+      url: "https://en.wikipedia.org/wiki/No_hair_theorem"
+      target: "No hair theorem"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +154,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +183,19 @@ verify_links:
 
 Do black holes produce thermal radiation, as expected on theoretical grounds? Does this radiation contain information about their inner structure, as suggested by gauge–gravity duality, or not, as implied by Hawking's original calculation? If not, and black holes can evaporate away, what happens to the information stored in them (since quantum mechanics does not provide for the destruction of information)? Or does the radiation stop at some point, leaving black hole remnants? Is there another way to probe their internal structure somehow, if such a structure even exists?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Black hole](https://en.wikipedia.org/wiki/Black_hole)
+- [black hole information paradox](https://en.wikipedia.org/wiki/black_hole_information_paradox)
+- [black hole radiation](https://en.wikipedia.org/wiki/black_hole_radiation)
+- [Reviews of Modern Physics](https://en.wikipedia.org/wiki/Reviews_of_Modern_Physics)
+- [gauge–gravity duality](https://en.wikipedia.org/wiki/gauge%E2%80%93gravity_duality)
+- [Hawking](https://en.wikipedia.org/wiki/Hawking_radiation)
+- [even exists](https://en.wikipedia.org/wiki/No_hair_theorem)
+
+## Source Trace
+
+- `wikipedia-physics-black-holes-black-hole-information-paradox-and-black-hole-radiation` — Wikipedia: List of unsolved problems in physics; section: Quantum gravity; source line: 36; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

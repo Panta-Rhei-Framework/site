@@ -47,6 +47,63 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-darwin-s-abominable-mystery-of-botany-plants"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-darwin-s-abominable-mystery-of-botany-plants"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Darwin's abominable mystery of botany/plants"
+      source_section:
+        - "Non-human biology"
+        - "Ecology, evolution, and paleontology"
+      source_line: 93
+      source_text: "Darwin's abominable mystery of botany/plants. What is the exact evolutionary history of flowers and what is the cause of the apparently sudden appearance of nearly modern flowers in the fossil record?"
+      problem_statement: "What is the exact evolutionary history of flowers and what is the cause of the apparently sudden appearance of nearly modern flowers in the fossil record?"
+      source_questions: []
+      source_links:
+        -
+          label: "Darwin's abominable mystery"
+          url: "https://en.wikipedia.org/wiki/Darwin%27s_abominable_mystery"
+          target: "Darwin's abominable mystery"
+        -
+          label: "botany"
+          url: "https://en.wikipedia.org/wiki/botany"
+          target: "botany"
+        -
+          label: "plant"
+          url: "https://en.wikipedia.org/wiki/plant"
+          target: "plant"
+        -
+          label: "flower"
+          url: "https://en.wikipedia.org/wiki/flower"
+          target: "flower"
+  source_links:
+    -
+      label: "Darwin's abominable mystery"
+      url: "https://en.wikipedia.org/wiki/Darwin%27s_abominable_mystery"
+      target: "Darwin's abominable mystery"
+    -
+      label: "botany"
+      url: "https://en.wikipedia.org/wiki/botany"
+      target: "botany"
+    -
+      label: "plant"
+      url: "https://en.wikipedia.org/wiki/plant"
+      target: "plant"
+    -
+      label: "flower"
+      url: "https://en.wikipedia.org/wiki/flower"
+      target: "flower"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +132,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +163,16 @@ verify_links:
 
 What is the exact evolutionary history of flowers and what is the cause of the apparently sudden appearance of nearly modern flowers in the fossil record?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Darwin's abominable mystery](https://en.wikipedia.org/wiki/Darwin%27s_abominable_mystery)
+- [botany](https://en.wikipedia.org/wiki/botany)
+- [plant](https://en.wikipedia.org/wiki/plant)
+- [flower](https://en.wikipedia.org/wiki/flower)
+
+## Source Trace
+
+- `wikipedia-biology-darwin-s-abominable-mystery-of-botany-plants` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ecology, evolution, and paleontology; source line: 93; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

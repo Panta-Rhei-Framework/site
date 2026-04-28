@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
   source_entry_ids:
     - "wikipedia-neuroscience-linguistic-relativity"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-neuroscience-linguistic-relativity"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "Linguistic relativity"
+      source_section:
+        - "Language"
+      source_line: 69
+      source_text: "Linguistic relativity: What are the relations between grammatical patterns and cognitive habits of speakers of different languages? Does language use train or habituate speakers to certain cognitive habits that differ between speakers of different languages? Are effects of linguistic relativity caused by grammar structures or by cultural differences that underlie differences in language use?"
+      problem_statement: "What are the relations between grammatical patterns and cognitive habits of speakers of different languages? Does language use train or habituate speakers to certain cognitive habits that differ between speakers of different languages? Are effects of linguistic relativity caused by grammar structures or by cultural differences that underlie differences in language use?"
+      source_questions: []
+      source_links:
+        -
+          label: "Linguistic relativity"
+          url: "https://en.wikipedia.org/wiki/Linguistic_relativity"
+          target: "Linguistic relativity"
+  source_links:
+    -
+      label: "Linguistic relativity"
+      url: "https://en.wikipedia.org/wiki/Linguistic_relativity"
+      target: "Linguistic relativity"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-neuroscience"
@@ -103,9 +135,13 @@ verify_links:
 
 What are the relations between grammatical patterns and cognitive habits of speakers of different languages? Does language use train or habituate speakers to certain cognitive habits that differ between speakers of different languages? Are effects of linguistic relativity caused by grammar structures or by cultural differences that underlie differences in language use?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
+
+## Source Trace
+
+- `wikipedia-neuroscience-linguistic-relativity` — Wikipedia: List of unsolved problems in neuroscience; section: Language; source line: 69; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

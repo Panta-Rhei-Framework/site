@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quantum-field-theory-this-is-a-generalization-of-the-previous-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quantum-field-theory-this-is-a-generalization-of-the-previous-problem"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quantum field theory (this is a generalization of the previous problem)"
+      source_section:
+        - "Quantum physics"
+      source_line: 57
+      source_text: "Quantum field theory (this is a generalization of the previous problem): Is it possible to construct, in a mathematically rigorous way, a quantum field theory in 4-dimensional spacetime that includes interactions and does not resort to perturbative methods?"
+      problem_statement: "Is it possible to construct, in a mathematically rigorous way, a quantum field theory in 4-dimensional spacetime that includes interactions and does not resort to perturbative methods?"
+      source_questions: []
+      source_links:
+        -
+          label: "Quantum field theory"
+          url: "https://en.wikipedia.org/wiki/Quantum_field_theory"
+          target: "Quantum field theory"
+        -
+          label: "perturbative methods"
+          url: "https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)"
+          target: "Perturbation theory (quantum mechanics)"
+  source_links:
+    -
+      label: "Quantum field theory"
+      url: "https://en.wikipedia.org/wiki/Quantum_field_theory"
+      target: "Quantum field theory"
+    -
+      label: "perturbative methods"
+      url: "https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)"
+      target: "Perturbation theory (quantum mechanics)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Is it possible to construct, in a mathematically rigorous way, a quantum field theory in 4-dimensional spacetime that includes interactions and does not resort to perturbative methods?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory)
+- [perturbative methods](https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics))
+
+## Source Trace
+
+- `wikipedia-physics-quantum-field-theory-this-is-a-generalization-of-the-previous-problem` — Wikipedia: List of unsolved problems in physics; section: Quantum physics; source line: 57; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

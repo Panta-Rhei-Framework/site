@@ -46,6 +46,70 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-neutrino-mass"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-neutrino-mass"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Neutrino mass"
+      source_section:
+        - "High-energy/particle physics"
+      source_line: 140
+      source_text: "Neutrino mass: What is the absolute mass of neutrinos? Are they Dirac or Majorana fermions? Is the mass hierarchy normal or inverted? Is the CP violating phase equal to 0?"
+      problem_statement: "What is the absolute mass of neutrinos? Are they Dirac or Majorana fermions? Is the mass hierarchy normal or inverted? Is the CP violating phase equal to 0?"
+      source_questions: []
+      source_links:
+        -
+          label: "Neutrino mass"
+          url: "https://en.wikipedia.org/wiki/Neutrino_mass"
+          target: "Neutrino mass"
+        -
+          label: "Dirac"
+          url: "https://en.wikipedia.org/wiki/Dirac_fermion"
+          target: "Dirac fermion"
+        -
+          label: "Majorana"
+          url: "https://en.wikipedia.org/wiki/Majorana_fermion"
+          target: "Majorana fermion"
+        -
+          label: "mass hierarchy"
+          url: "https://en.wikipedia.org/wiki/Neutrino_mass_hierarchy"
+          target: "Neutrino mass hierarchy"
+        -
+          label: "Particle Data Group"
+          url: "https://en.wikipedia.org/wiki/Particle_Data_Group"
+          target: "Particle Data Group"
+  source_links:
+    -
+      label: "Neutrino mass"
+      url: "https://en.wikipedia.org/wiki/Neutrino_mass"
+      target: "Neutrino mass"
+    -
+      label: "Dirac"
+      url: "https://en.wikipedia.org/wiki/Dirac_fermion"
+      target: "Dirac fermion"
+    -
+      label: "Majorana"
+      url: "https://en.wikipedia.org/wiki/Majorana_fermion"
+      target: "Majorana fermion"
+    -
+      label: "mass hierarchy"
+      url: "https://en.wikipedia.org/wiki/Neutrino_mass_hierarchy"
+      target: "Neutrino mass hierarchy"
+    -
+      label: "Particle Data Group"
+      url: "https://en.wikipedia.org/wiki/Particle_Data_Group"
+      target: "Particle Data Group"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +138,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +167,17 @@ verify_links:
 
 What is the absolute mass of neutrinos? Are they Dirac or Majorana fermions? Is the mass hierarchy normal or inverted? Is the CP violating phase equal to 0?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Neutrino mass](https://en.wikipedia.org/wiki/Neutrino_mass)
+- [Dirac](https://en.wikipedia.org/wiki/Dirac_fermion)
+- [Majorana](https://en.wikipedia.org/wiki/Majorana_fermion)
+- [mass hierarchy](https://en.wikipedia.org/wiki/Neutrino_mass_hierarchy)
+- [Particle Data Group](https://en.wikipedia.org/wiki/Particle_Data_Group)
+
+## Source Trace
+
+- `wikipedia-physics-neutrino-mass` — Wikipedia: List of unsolved problems in physics; section: High-energy/particle physics; source line: 140; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

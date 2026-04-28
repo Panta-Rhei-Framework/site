@@ -47,6 +47,39 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-star-jelly"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-star-jelly"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Star jelly"
+      source_section:
+        - "General biology"
+        - "Other"
+      source_line: 46
+      source_text: "Star jelly. A complete explanation about its origins is still lacking"
+      problem_statement: "A complete explanation about its origins is still lacking"
+      source_questions: []
+      source_links:
+        -
+          label: "Star jelly"
+          url: "https://en.wikipedia.org/wiki/Star_jelly"
+          target: "Star jelly"
+  source_links:
+    -
+      label: "Star jelly"
+      url: "https://en.wikipedia.org/wiki/Star_jelly"
+      target: "Star jelly"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +108,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +139,13 @@ verify_links:
 
 A complete explanation about its origins is still lacking
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Star jelly](https://en.wikipedia.org/wiki/Star_jelly)
+
+## Source Trace
+
+- `wikipedia-biology-star-jelly` — Wikipedia: List of unsolved problems in biology; section: General biology / Other; source line: 46; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

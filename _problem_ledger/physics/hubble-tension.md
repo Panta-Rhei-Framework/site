@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-hubble-tension"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-hubble-tension"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Hubble tension"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 75
+      source_text: "Hubble tension: The value of H0, which encodes the current expansion rate of the universe, has two values: one from near-universe measurements and one from cosmic microwave background measurements combined with the Lambda-CDM model. These two values disagree to a high degree of statistical confidence (5.7σ). Are there systematic measurement errors? A problem in the otherwise widely successful model?"
+      problem_statement: "The value of H0, which encodes the current expansion rate of the universe, has two values: one from near-universe measurements and one from cosmic microwave background measurements combined with the Lambda-CDM model. These two values disagree to a high degree of statistical confidence (5.7σ). Are there systematic measurement errors? A problem in the otherwise widely successful model?"
+      source_questions: []
+      source_links:
+        -
+          label: "Hubble tension"
+          url: "https://en.wikipedia.org/wiki/Hubble%27s_law#Precision_cosmology_and_the_Hubble_tension"
+          target: "Hubble's law#Precision cosmology and the Hubble tension"
+        -
+          label: "cosmic microwave background"
+          url: "https://en.wikipedia.org/wiki/cosmic_microwave_background"
+          target: "cosmic microwave background"
+        -
+          label: "Lambda-CDM model"
+          url: "https://en.wikipedia.org/wiki/Lambda-CDM_model"
+          target: "Lambda-CDM model"
+  source_links:
+    -
+      label: "Hubble tension"
+      url: "https://en.wikipedia.org/wiki/Hubble%27s_law#Precision_cosmology_and_the_Hubble_tension"
+      target: "Hubble's law#Precision cosmology and the Hubble tension"
+    -
+      label: "cosmic microwave background"
+      url: "https://en.wikipedia.org/wiki/cosmic_microwave_background"
+      target: "cosmic microwave background"
+    -
+      label: "Lambda-CDM model"
+      url: "https://en.wikipedia.org/wiki/Lambda-CDM_model"
+      target: "Lambda-CDM model"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 The value of H0, which encodes the current expansion rate of the universe, has two values: one from near-universe measurements and one from cosmic microwave background measurements combined with the Lambda-CDM model. These two values disagree to a high degree of statistical confidence (5.7σ). Are there systematic measurement errors? A problem in the otherwise widely successful model?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Hubble tension](https://en.wikipedia.org/wiki/Hubble%27s_law#Precision_cosmology_and_the_Hubble_tension)
+- [cosmic microwave background](https://en.wikipedia.org/wiki/cosmic_microwave_background)
+- [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
+
+## Source Trace
+
+- `wikipedia-physics-hubble-tension` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 75; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

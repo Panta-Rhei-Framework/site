@@ -47,6 +47,47 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-why-does-biological-aging-occur"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-why-does-biological-aging-occur"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Why does biological aging occur?"
+      source_section:
+        - "General biology"
+        - "Other"
+      source_line: 43
+      source_text: "Why does biological aging occur? There are a number of hypotheses as to why senescence occurs including those that it is programmed by gene expression changes and that it is the accumulative damage of biological structures, particularly damage to DNA"
+      problem_statement: "There are a number of hypotheses as to why senescence occurs including those that it is programmed by gene expression changes and that it is the accumulative damage of biological structures, particularly damage to DNA"
+      source_questions: []
+      source_links:
+        -
+          label: "biological aging"
+          url: "https://en.wikipedia.org/wiki/biological_aging"
+          target: "biological aging"
+        -
+          label: "damage to DNA"
+          url: "https://en.wikipedia.org/wiki/DNA_damage_(naturally_occurring)"
+          target: "DNA damage (naturally occurring)"
+  source_links:
+    -
+      label: "biological aging"
+      url: "https://en.wikipedia.org/wiki/biological_aging"
+      target: "biological aging"
+    -
+      label: "damage to DNA"
+      url: "https://en.wikipedia.org/wiki/DNA_damage_(naturally_occurring)"
+      target: "DNA damage (naturally occurring)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +116,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +147,14 @@ verify_links:
 
 There are a number of hypotheses as to why senescence occurs including those that it is programmed by gene expression changes and that it is the accumulative damage of biological structures, particularly damage to DNA
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [biological aging](https://en.wikipedia.org/wiki/biological_aging)
+- [damage to DNA](https://en.wikipedia.org/wiki/DNA_damage_(naturally_occurring))
+
+## Source Trace
+
+- `wikipedia-biology-why-does-biological-aging-occur` — Wikipedia: List of unsolved problems in biology; section: General biology / Other; source line: 43; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

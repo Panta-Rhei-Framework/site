@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-rotation-rate-of-saturn"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-rotation-rate-of-saturn"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Rotation rate of Saturn"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 165
+      source_text: "Rotation rate of Saturn: Why does the magnetosphere of Saturn exhibit a (slowly changing) periodicity close to that at which the planet's clouds rotate? What is the true rotation rate of Saturn's deep interior?"
+      problem_statement: "Why does the magnetosphere of Saturn exhibit a (slowly changing) periodicity close to that at which the planet's clouds rotate? What is the true rotation rate of Saturn's deep interior?"
+      source_questions: []
+      source_links:
+        -
+          label: "Saturn"
+          url: "https://en.wikipedia.org/wiki/Saturn"
+          target: "Saturn"
+        -
+          label: "magnetosphere of Saturn"
+          url: "https://en.wikipedia.org/wiki/magnetosphere_of_Saturn"
+          target: "magnetosphere of Saturn"
+  source_links:
+    -
+      label: "Saturn"
+      url: "https://en.wikipedia.org/wiki/Saturn"
+      target: "Saturn"
+    -
+      label: "magnetosphere of Saturn"
+      url: "https://en.wikipedia.org/wiki/magnetosphere_of_Saturn"
+      target: "magnetosphere of Saturn"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Why does the magnetosphere of Saturn exhibit a (slowly changing) periodicity close to that at which the planet's clouds rotate? What is the true rotation rate of Saturn's deep interior?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Saturn](https://en.wikipedia.org/wiki/Saturn)
+- [magnetosphere of Saturn](https://en.wikipedia.org/wiki/magnetosphere_of_Saturn)
+
+## Source Trace
+
+- `wikipedia-physics-rotation-rate-of-saturn` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 165; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-dark-flow"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-dark-flow"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Dark flow"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 72
+      source_text: "Dark flow: Is a non-spherically-symmetric gravitational pull from outside the observable universe responsible for some of the observed motion of large objects such as galactic clusters in the universe?"
+      problem_statement: "Is a non-spherically-symmetric gravitational pull from outside the observable universe responsible for some of the observed motion of large objects such as galactic clusters in the universe?"
+      source_questions: []
+      source_links:
+        -
+          label: "Dark flow"
+          url: "https://en.wikipedia.org/wiki/Dark_flow"
+          target: "Dark flow"
+  source_links:
+    -
+      label: "Dark flow"
+      url: "https://en.wikipedia.org/wiki/Dark_flow"
+      target: "Dark flow"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 Is a non-spherically-symmetric gravitational pull from outside the observable universe responsible for some of the observed motion of large objects such as galactic clusters in the universe?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Dark flow](https://en.wikipedia.org/wiki/Dark_flow)
+
+## Source Trace
+
+- `wikipedia-physics-dark-flow` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 72; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

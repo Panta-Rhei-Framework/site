@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-human-sex-pheromones"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-human-sex-pheromones"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Human sex pheromones"
+      source_section:
+        - "Human biology"
+      source_line: 58
+      source_text: "Human sex pheromones: There is contradictory evidence on the existence of human pheromones. Do they actually exist, and if so, how do they affect behavior?"
+      problem_statement: "There is contradictory evidence on the existence of human pheromones. Do they actually exist, and if so, how do they affect behavior?"
+      source_questions: []
+      source_links:
+        -
+          label: "Human sex pheromones"
+          url: "https://en.wikipedia.org/wiki/Human_sex_pheromones"
+          target: "Human sex pheromones"
+  source_links:
+    -
+      label: "Human sex pheromones"
+      url: "https://en.wikipedia.org/wiki/Human_sex_pheromones"
+      target: "Human sex pheromones"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -103,9 +135,13 @@ verify_links:
 
 There is contradictory evidence on the existence of human pheromones. Do they actually exist, and if so, how do they affect behavior?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Human sex pheromones](https://en.wikipedia.org/wiki/Human_sex_pheromones)
+
+## Source Trace
+
+- `wikipedia-biology-human-sex-pheromones` — Wikipedia: List of unsolved problems in biology; section: Human biology; source line: 58; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

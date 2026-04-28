@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-relationship-between-science-and-religion"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-relationship-between-science-and-religion"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Relationship between science and religion"
+      source_section:
+        - "Philosophy of science"
+      source_line: 184
+      source_text: "Relationship between science and religion"
+      problem_statement: "What is the relationship between science and religion? Philosophers like Paul Feyerabend, A. C. Grayling, and Alvin Plantinga have debated whether they are in conflict, incompatible, incommensurable, or independent"
+      source_questions: []
+      source_links:
+        -
+          label: "Paul Feyerabend"
+          url: "https://en.wikipedia.org/wiki/Paul_Feyerabend"
+          target: "Paul Feyerabend"
+        -
+          label: "A. C. Grayling"
+          url: "https://en.wikipedia.org/wiki/A._C._Grayling"
+          target: "A. C. Grayling"
+        -
+          label: "Alvin Plantinga"
+          url: "https://en.wikipedia.org/wiki/Alvin_Plantinga"
+          target: "Alvin Plantinga"
+  source_links:
+    -
+      label: "Paul Feyerabend"
+      url: "https://en.wikipedia.org/wiki/Paul_Feyerabend"
+      target: "Paul Feyerabend"
+    -
+      label: "A. C. Grayling"
+      url: "https://en.wikipedia.org/wiki/A._C._Grayling"
+      target: "A. C. Grayling"
+    -
+      label: "Alvin Plantinga"
+      url: "https://en.wikipedia.org/wiki/Alvin_Plantinga"
+      target: "Alvin Plantinga"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +151,15 @@ verify_links:
 
 What is the relationship between science and religion? Philosophers like Paul Feyerabend, A. C. Grayling, and Alvin Plantinga have debated whether they are in conflict, incompatible, incommensurable, or independent
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Paul Feyerabend](https://en.wikipedia.org/wiki/Paul_Feyerabend)
+- [A. C. Grayling](https://en.wikipedia.org/wiki/A._C._Grayling)
+- [Alvin Plantinga](https://en.wikipedia.org/wiki/Alvin_Plantinga)
+
+## Source Trace
+
+- `wikipedia-philosophy-relationship-between-science-and-religion` — Wikipedia: List of philosophical problems; section: Philosophy of science; source line: 184; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

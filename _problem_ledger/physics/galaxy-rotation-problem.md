@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-galaxy-rotation-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-galaxy-rotation-problem"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Galaxy rotation problem"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 161
+      source_text: "Galaxy rotation problem: Is dark matter responsible for differences in observed and theoretical speed of stars revolving around the centre of galaxies, or is it something else? frame|right|Rotation curve of a typical spiral galaxy: predicted (A) and observed (B). Can the discrepancy between the curves be attributed to dark matter?"
+      problem_statement: "Is dark matter responsible for differences in observed and theoretical speed of stars revolving around the centre of galaxies, or is it something else? frame|right|Rotation curve of a typical spiral galaxy: predicted (A) and observed (B). Can the discrepancy between the curves be attributed to dark matter?"
+      source_questions: []
+      source_links:
+        -
+          label: "Galaxy rotation problem"
+          url: "https://en.wikipedia.org/wiki/Galaxy_rotation_problem"
+          target: "Galaxy rotation problem"
+        -
+          label: "dark matter"
+          url: "https://en.wikipedia.org/wiki/dark_matter"
+          target: "dark matter"
+  source_links:
+    -
+      label: "Galaxy rotation problem"
+      url: "https://en.wikipedia.org/wiki/Galaxy_rotation_problem"
+      target: "Galaxy rotation problem"
+    -
+      label: "dark matter"
+      url: "https://en.wikipedia.org/wiki/dark_matter"
+      target: "dark matter"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Is dark matter responsible for differences in observed and theoretical speed of stars revolving around the centre of galaxies, or is it something else? frame|right|Rotation curve of a typical spiral galaxy: predicted (A) and observed (B). Can the discrepancy between the curves be attributed to dark matter?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Galaxy rotation problem](https://en.wikipedia.org/wiki/Galaxy_rotation_problem)
+- [dark matter](https://en.wikipedia.org/wiki/dark_matter)
+
+## Source Trace
+
+- `wikipedia-physics-galaxy-rotation-problem` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 161; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Why are there blood types? It is unclear what the origin and purpose of having blood types is"
+      source_section:
+        - "Human biology"
+      source_line: 56
+      source_text: "Why are there blood types? It is unclear what the origin and purpose of having blood types is. It is thought that O blood may be an adaptation to malaria and that different blood types respond to different diseases but this hypothesis has yet to be proven. Why did these antigens develop in the first place? What accounts for the differences in blood type? How ancient are the differences in blood types? What accounts for the large number of rare non ABO blood types? What role do blood types have in fighting disease?"
+      problem_statement: "It is thought that O blood may be an adaptation to malaria and that different blood types respond to different diseases but this hypothesis has yet to be proven. Why did these antigens develop in the first place? What accounts for the differences in blood type? How ancient are the differences in blood types? What accounts for the large number of rare non ABO blood types? What role do blood types have in fighting disease?"
+      source_questions: []
+      source_links:
+        -
+          label: "blood types"
+          url: "https://en.wikipedia.org/wiki/blood_types"
+          target: "blood types"
+  source_links:
+    -
+      label: "blood types"
+      url: "https://en.wikipedia.org/wiki/blood_types"
+      target: "blood types"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -103,9 +135,13 @@ verify_links:
 
 It is thought that O blood may be an adaptation to malaria and that different blood types respond to different diseases but this hypothesis has yet to be proven. Why did these antigens develop in the first place? What accounts for the differences in blood type? How ancient are the differences in blood types? What accounts for the large number of rare non ABO blood types? What role do blood types have in fighting disease?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [blood types](https://en.wikipedia.org/wiki/blood_types)
+
+## Source Trace
+
+- `wikipedia-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is` — Wikipedia: List of unsolved problems in biology; section: Human biology; source line: 56; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

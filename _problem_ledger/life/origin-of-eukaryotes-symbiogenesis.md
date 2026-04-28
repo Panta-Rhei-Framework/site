@@ -47,6 +47,47 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-origin-of-eukaryotes-symbiogenesis"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-origin-of-eukaryotes-symbiogenesis"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Origin of Eukaryotes (Symbiogenesis)"
+      source_section:
+        - "General biology"
+        - "Evolution and origins of life"
+      source_line: 17
+      source_text: "Origin of Eukaryotes (Symbiogenesis). How and why did cells combine to form the eukaryotic cell? Did one or more random events lead to the first eukaryotic cells, or can the formation of eukaryotic cells be explained by physical and biological principles? How did the mitochondria's mitosis cycle come in sync with its host cell? Did the mitochondria or the nucleus develop first in eukaryotes?"
+      problem_statement: "How and why did cells combine to form the eukaryotic cell? Did one or more random events lead to the first eukaryotic cells, or can the formation of eukaryotic cells be explained by physical and biological principles? How did the mitochondria's mitosis cycle come in sync with its host cell? Did the mitochondria or the nucleus develop first in eukaryotes?"
+      source_questions: []
+      source_links:
+        -
+          label: "Eukaryotes"
+          url: "https://en.wikipedia.org/wiki/Eukaryote"
+          target: "Eukaryote"
+        -
+          label: "Symbiogenesis"
+          url: "https://en.wikipedia.org/wiki/Symbiogenesis"
+          target: "Symbiogenesis"
+  source_links:
+    -
+      label: "Eukaryotes"
+      url: "https://en.wikipedia.org/wiki/Eukaryote"
+      target: "Eukaryote"
+    -
+      label: "Symbiogenesis"
+      url: "https://en.wikipedia.org/wiki/Symbiogenesis"
+      target: "Symbiogenesis"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +116,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +147,14 @@ verify_links:
 
 How and why did cells combine to form the eukaryotic cell? Did one or more random events lead to the first eukaryotic cells, or can the formation of eukaryotic cells be explained by physical and biological principles? How did the mitochondria's mitosis cycle come in sync with its host cell? Did the mitochondria or the nucleus develop first in eukaryotes?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Eukaryotes](https://en.wikipedia.org/wiki/Eukaryote)
+- [Symbiogenesis](https://en.wikipedia.org/wiki/Symbiogenesis)
+
+## Source Trace
+
+- `wikipedia-biology-origin-of-eukaryotes-symbiogenesis` — Wikipedia: List of unsolved problems in biology; section: General biology / Evolution and origins of life; source line: 17; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

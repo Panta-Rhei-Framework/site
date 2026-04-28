@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-ultra-high-energy-cosmic-ray"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-ultra-high-energy-cosmic-ray"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Ultra-high-energy cosmic ray"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 164
+      source_text: "Ultra-high-energy cosmic ray: Why is it that some cosmic rays appear to possess energies that are impossibly high, given that there are no sufficiently energetic cosmic ray sources near the Earth? Why is it that (apparently) some cosmic rays emitted by distant sources have energies above the Greisen–Zatsepin–Kuzmin limit?"
+      problem_statement: "Why is it that some cosmic rays appear to possess energies that are impossibly high, given that there are no sufficiently energetic cosmic ray sources near the Earth? Why is it that (apparently) some cosmic rays emitted by distant sources have energies above the Greisen–Zatsepin–Kuzmin limit?"
+      source_questions: []
+      source_links:
+        -
+          label: "Ultra-high-energy cosmic ray"
+          url: "https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray"
+          target: "Ultra-high-energy cosmic ray"
+        -
+          label: "Greisen–Zatsepin–Kuzmin limit"
+          url: "https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit"
+          target: "Greisen–Zatsepin–Kuzmin limit"
+        -
+          label: "University of California, Riverside"
+          url: "https://en.wikipedia.org/wiki/University_of_California,_Riverside"
+          target: "University of California, Riverside"
+  source_links:
+    -
+      label: "Ultra-high-energy cosmic ray"
+      url: "https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray"
+      target: "Ultra-high-energy cosmic ray"
+    -
+      label: "Greisen–Zatsepin–Kuzmin limit"
+      url: "https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit"
+      target: "Greisen–Zatsepin–Kuzmin limit"
+    -
+      label: "University of California, Riverside"
+      url: "https://en.wikipedia.org/wiki/University_of_California,_Riverside"
+      target: "University of California, Riverside"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 Why is it that some cosmic rays appear to possess energies that are impossibly high, given that there are no sufficiently energetic cosmic ray sources near the Earth? Why is it that (apparently) some cosmic rays emitted by distant sources have energies above the Greisen–Zatsepin–Kuzmin limit?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Ultra-high-energy cosmic ray](https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray)
+- [Greisen–Zatsepin–Kuzmin limit](https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit)
+- [University of California, Riverside](https://en.wikipedia.org/wiki/University_of_California,_Riverside)
+
+## Source Trace
+
+- `wikipedia-physics-ultra-high-energy-cosmic-ray` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 164; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,102 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "The cosmic censorship hypothesis and the chronology protection conjecture"
+      source_section:
+        - "Quantum gravity"
+      source_line: 37
+      source_text: "The cosmic censorship hypothesis and the chronology protection conjecture: Can singularities not hidden behind an event horizon, known as \"naked singularities\", arise from realistic initial conditions, or is it possible to prove some version of the \"cosmic censorship hypothesis\" of Roger Penrose which proposes that this is impossible? Similarly, will the closed timelike curves which arise in some solutions to the equations of general relativity (and which imply the possibility of backwards time travel) be ruled out by a theory of quantum gravity which unites general relativity with quantum mechanics, as suggested by the \"chronology protection conjecture\" of Stephen Hawking?"
+      problem_statement: "Can singularities not hidden behind an event horizon, known as \"naked singularities\", arise from realistic initial conditions, or is it possible to prove some version of the \"cosmic censorship hypothesis\" of Roger Penrose which proposes that this is impossible? Similarly, will the closed timelike curves which arise in some solutions to the equations of general relativity (and which imply the possibility of backwards time travel) be ruled out by a theory of quantum gravity which unites general relativity with quantum mechanics, as suggested by the \"chronology protection conjecture\" of Stephen Hawking?"
+      source_questions: []
+      source_links:
+        -
+          label: "cosmic censorship hypothesis"
+          url: "https://en.wikipedia.org/wiki/cosmic_censorship_hypothesis"
+          target: "cosmic censorship hypothesis"
+        -
+          label: "chronology protection conjecture"
+          url: "https://en.wikipedia.org/wiki/chronology_protection_conjecture"
+          target: "chronology protection conjecture"
+        -
+          label: "naked singularities"
+          url: "https://en.wikipedia.org/wiki/naked_singularities"
+          target: "naked singularities"
+        -
+          label: "Roger Penrose"
+          url: "https://en.wikipedia.org/wiki/Roger_Penrose"
+          target: "Roger Penrose"
+        -
+          label: "Scientific American"
+          url: "https://en.wikipedia.org/wiki/Scientific_American"
+          target: "Scientific American"
+        -
+          label: "closed timelike curve"
+          url: "https://en.wikipedia.org/wiki/closed_timelike_curve"
+          target: "closed timelike curve"
+        -
+          label: "time travel"
+          url: "https://en.wikipedia.org/wiki/time_travel"
+          target: "time travel"
+        -
+          label: "quantum gravity"
+          url: "https://en.wikipedia.org/wiki/quantum_gravity"
+          target: "quantum gravity"
+        -
+          label: "Stephen Hawking"
+          url: "https://en.wikipedia.org/wiki/Stephen_Hawking"
+          target: "Stephen Hawking"
+  source_links:
+    -
+      label: "cosmic censorship hypothesis"
+      url: "https://en.wikipedia.org/wiki/cosmic_censorship_hypothesis"
+      target: "cosmic censorship hypothesis"
+    -
+      label: "chronology protection conjecture"
+      url: "https://en.wikipedia.org/wiki/chronology_protection_conjecture"
+      target: "chronology protection conjecture"
+    -
+      label: "naked singularities"
+      url: "https://en.wikipedia.org/wiki/naked_singularities"
+      target: "naked singularities"
+    -
+      label: "Roger Penrose"
+      url: "https://en.wikipedia.org/wiki/Roger_Penrose"
+      target: "Roger Penrose"
+    -
+      label: "Scientific American"
+      url: "https://en.wikipedia.org/wiki/Scientific_American"
+      target: "Scientific American"
+    -
+      label: "closed timelike curve"
+      url: "https://en.wikipedia.org/wiki/closed_timelike_curve"
+      target: "closed timelike curve"
+    -
+      label: "time travel"
+      url: "https://en.wikipedia.org/wiki/time_travel"
+      target: "time travel"
+    -
+      label: "quantum gravity"
+      url: "https://en.wikipedia.org/wiki/quantum_gravity"
+      target: "quantum gravity"
+    -
+      label: "Stephen Hawking"
+      url: "https://en.wikipedia.org/wiki/Stephen_Hawking"
+      target: "Stephen Hawking"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +170,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +199,21 @@ verify_links:
 
 Can singularities not hidden behind an event horizon, known as "naked singularities", arise from realistic initial conditions, or is it possible to prove some version of the "cosmic censorship hypothesis" of Roger Penrose which proposes that this is impossible? Similarly, will the closed timelike curves which arise in some solutions to the equations of general relativity (and which imply the possibility of backwards time travel) be ruled out by a theory of quantum gravity which unites general relativity with quantum mechanics, as suggested by the "chronology protection conjecture" of Stephen Hawking?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [cosmic censorship hypothesis](https://en.wikipedia.org/wiki/cosmic_censorship_hypothesis)
+- [chronology protection conjecture](https://en.wikipedia.org/wiki/chronology_protection_conjecture)
+- [naked singularities](https://en.wikipedia.org/wiki/naked_singularities)
+- [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)
+- [Scientific American](https://en.wikipedia.org/wiki/Scientific_American)
+- [closed timelike curve](https://en.wikipedia.org/wiki/closed_timelike_curve)
+- [time travel](https://en.wikipedia.org/wiki/time_travel)
+- [quantum gravity](https://en.wikipedia.org/wiki/quantum_gravity)
+- [Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking)
+
+## Source Trace
+
+- `wikipedia-physics-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture` — Wikipedia: List of unsolved problems in physics; section: Quantum gravity; source line: 37; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

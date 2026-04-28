@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-diffuse-interstellar-bands"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-diffuse-interstellar-bands"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Diffuse interstellar bands"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 157
+      source_text: "Diffuse interstellar bands: What is responsible for the numerous interstellar absorption lines detected in astronomical spectra? Are they molecular in origin, and if so which molecules are responsible for them? How do they form?"
+      problem_statement: "What is responsible for the numerous interstellar absorption lines detected in astronomical spectra? Are they molecular in origin, and if so which molecules are responsible for them? How do they form?"
+      source_questions: []
+      source_links:
+        -
+          label: "Diffuse interstellar bands"
+          url: "https://en.wikipedia.org/wiki/Diffuse_interstellar_bands"
+          target: "Diffuse interstellar bands"
+        -
+          label: "Journal of Molecular Spectroscopy"
+          url: "https://en.wikipedia.org/wiki/Journal_of_Molecular_Spectroscopy"
+          target: "Journal of Molecular Spectroscopy"
+        -
+          label: "European Southern Observatory"
+          url: "https://en.wikipedia.org/wiki/European_Southern_Observatory"
+          target: "European Southern Observatory"
+  source_links:
+    -
+      label: "Diffuse interstellar bands"
+      url: "https://en.wikipedia.org/wiki/Diffuse_interstellar_bands"
+      target: "Diffuse interstellar bands"
+    -
+      label: "Journal of Molecular Spectroscopy"
+      url: "https://en.wikipedia.org/wiki/Journal_of_Molecular_Spectroscopy"
+      target: "Journal of Molecular Spectroscopy"
+    -
+      label: "European Southern Observatory"
+      url: "https://en.wikipedia.org/wiki/European_Southern_Observatory"
+      target: "European Southern Observatory"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 What is responsible for the numerous interstellar absorption lines detected in astronomical spectra? Are they molecular in origin, and if so which molecules are responsible for them? How do they form?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Diffuse interstellar bands](https://en.wikipedia.org/wiki/Diffuse_interstellar_bands)
+- [Journal of Molecular Spectroscopy](https://en.wikipedia.org/wiki/Journal_of_Molecular_Spectroscopy)
+- [European Southern Observatory](https://en.wikipedia.org/wiki/European_Southern_Observatory)
+
+## Source Trace
+
+- `wikipedia-physics-diffuse-interstellar-bands` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 157; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?"
+      source_section:
+        - "Fluid dynamics"
+      source_line: 182
+      source_text: "Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid? This problem, for an incompressible fluid in three dimensions, is also one of the Millennium Prize Problems in mathematics"
+      problem_statement: "This problem, for an incompressible fluid in three dimensions, is also one of the Millennium Prize Problems in mathematics"
+      source_questions: []
+      source_links:
+        -
+          label: "smooth solutions exist for the Navier–Stokes equations"
+          url: "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness"
+          target: "Navier–Stokes existence and smoothness"
+        -
+          label: "viscous"
+          url: "https://en.wikipedia.org/wiki/viscosity"
+          target: "viscosity"
+        -
+          label: "incompressible fluid"
+          url: "https://en.wikipedia.org/wiki/incompressible_fluid"
+          target: "incompressible fluid"
+        -
+          label: "Millennium Prize Problems"
+          url: "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+          target: "Millennium Prize Problems"
+  source_links:
+    -
+      label: "smooth solutions exist for the Navier–Stokes equations"
+      url: "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness"
+      target: "Navier–Stokes existence and smoothness"
+    -
+      label: "viscous"
+      url: "https://en.wikipedia.org/wiki/viscosity"
+      target: "viscosity"
+    -
+      label: "incompressible fluid"
+      url: "https://en.wikipedia.org/wiki/incompressible_fluid"
+      target: "incompressible fluid"
+    -
+      label: "Millennium Prize Problems"
+      url: "https://en.wikipedia.org/wiki/Millennium_Prize_Problems"
+      target: "Millennium Prize Problems"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 This problem, for an incompressible fluid in three dimensions, is also one of the Millennium Prize Problems in mathematics
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [smooth solutions exist for the Navier–Stokes equations](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness)
+- [viscous](https://en.wikipedia.org/wiki/viscosity)
+- [incompressible fluid](https://en.wikipedia.org/wiki/incompressible_fluid)
+- [Millennium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
+
+## Source Trace
+
+- `wikipedia-physics-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid` — Wikipedia: List of unsolved problems in physics; section: Fluid dynamics; source line: 182; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

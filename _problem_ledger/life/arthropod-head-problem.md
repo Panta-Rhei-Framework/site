@@ -47,6 +47,39 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-arthropod-head-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-arthropod-head-problem"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Arthropod head problem"
+      source_section:
+        - "Non-human biology"
+        - "Non-human organs and biomolecules"
+      source_line: 131
+      source_text: "Arthropod head problem. A long-standing zoological dispute concerning the segmental composition of the heads of the various arthropod groups, and how they are evolutionarily related to each other"
+      problem_statement: "A long-standing zoological dispute concerning the segmental composition of the heads of the various arthropod groups, and how they are evolutionarily related to each other"
+      source_questions: []
+      source_links:
+        -
+          label: "Arthropod head problem"
+          url: "https://en.wikipedia.org/wiki/Arthropod_head_problem"
+          target: "Arthropod head problem"
+  source_links:
+    -
+      label: "Arthropod head problem"
+      url: "https://en.wikipedia.org/wiki/Arthropod_head_problem"
+      target: "Arthropod head problem"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +108,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +139,13 @@ verify_links:
 
 A long-standing zoological dispute concerning the segmental composition of the heads of the various arthropod groups, and how they are evolutionarily related to each other
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Arthropod head problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
+
+## Source Trace
+
+- `wikipedia-biology-arthropod-head-problem` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Non-human organs and biomolecules; source line: 131; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

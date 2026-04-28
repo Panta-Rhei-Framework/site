@@ -47,6 +47,79 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Function of vanadocytes, a type of blood cells found in some tunicates"
+      source_section:
+        - "Non-human biology"
+        - "Non-human organs and biomolecules"
+      source_line: 135
+      source_text: "Function of vanadocytes, a type of blood cells found in some tunicates. Vacuoles of vanadocytes are notable for high levels of the metal vanadium and their low pH"
+      problem_statement: "Vacuoles of vanadocytes are notable for high levels of the metal vanadium and their low pH"
+      source_questions: []
+      source_links:
+        -
+          label: "vanadocyte"
+          url: "https://en.wikipedia.org/wiki/vanadocyte"
+          target: "vanadocyte"
+        -
+          label: "blood cell"
+          url: "https://en.wikipedia.org/wiki/blood_cell"
+          target: "blood cell"
+        -
+          label: "tunicate"
+          url: "https://en.wikipedia.org/wiki/tunicate"
+          target: "tunicate"
+        -
+          label: "Vacuole"
+          url: "https://en.wikipedia.org/wiki/Vacuole"
+          target: "Vacuole"
+        -
+          label: "vanadium"
+          url: "https://en.wikipedia.org/wiki/vanadium"
+          target: "vanadium"
+        -
+          label: "pH"
+          url: "https://en.wikipedia.org/wiki/pH"
+          target: "pH"
+  source_links:
+    -
+      label: "vanadocyte"
+      url: "https://en.wikipedia.org/wiki/vanadocyte"
+      target: "vanadocyte"
+    -
+      label: "blood cell"
+      url: "https://en.wikipedia.org/wiki/blood_cell"
+      target: "blood cell"
+    -
+      label: "tunicate"
+      url: "https://en.wikipedia.org/wiki/tunicate"
+      target: "tunicate"
+    -
+      label: "Vacuole"
+      url: "https://en.wikipedia.org/wiki/Vacuole"
+      target: "Vacuole"
+    -
+      label: "vanadium"
+      url: "https://en.wikipedia.org/wiki/vanadium"
+      target: "vanadium"
+    -
+      label: "pH"
+      url: "https://en.wikipedia.org/wiki/pH"
+      target: "pH"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +148,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +179,18 @@ verify_links:
 
 Vacuoles of vanadocytes are notable for high levels of the metal vanadium and their low pH
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [vanadocyte](https://en.wikipedia.org/wiki/vanadocyte)
+- [blood cell](https://en.wikipedia.org/wiki/blood_cell)
+- [tunicate](https://en.wikipedia.org/wiki/tunicate)
+- [Vacuole](https://en.wikipedia.org/wiki/Vacuole)
+- [vanadium](https://en.wikipedia.org/wiki/vanadium)
+- [pH](https://en.wikipedia.org/wiki/pH)
+
+## Source Trace
+
+- `wikipedia-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Non-human organs and biomolecules; source line: 135; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

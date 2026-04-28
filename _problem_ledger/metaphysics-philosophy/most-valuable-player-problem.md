@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-most-valuable-player-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-most-valuable-player-problem"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Most valuable player problem"
+      source_section:
+        - "Philosophy of sport"
+      source_line: 209
+      source_text: "Most valuable player problem"
+      problem_statement: "The concept of the 'most valuable player' is discussed within the field of philosophy of sport. Philosophers Stephen Kershnar and Neil Feit argue that the concept of the MVP is a fundamentally vague concept, but yet valuable in that it promotes the active discussion of different types of excellence found within a specific sport and the weight to be assigned these types, thus leading to a gain for the discussants. Stephen Kershnar termed this vagueness the 'Most Valuable Player Problem'. He offered a solution to the problem but later recanted it, conceding that the problem remains unsolved"
+      source_questions: []
+      source_links:
+        -
+          label: "Stephen Kershnar"
+          url: "https://en.wikipedia.org/wiki/Stephen_Kershnar"
+          target: "Stephen Kershnar"
+  source_links:
+    -
+      label: "Stephen Kershnar"
+      url: "https://en.wikipedia.org/wiki/Stephen_Kershnar"
+      target: "Stephen Kershnar"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +135,13 @@ verify_links:
 
 The concept of the 'most valuable player' is discussed within the field of philosophy of sport. Philosophers Stephen Kershnar and Neil Feit argue that the concept of the MVP is a fundamentally vague concept, but yet valuable in that it promotes the active discussion of different types of excellence found within a specific sport and the weight to be assigned these types, thus leading to a gain for the discussants. Stephen Kershnar termed this vagueness the 'Most Valuable Player Problem'. He offered a solution to the problem but later recanted it, conceding that the problem remains unsolved
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Stephen Kershnar](https://en.wikipedia.org/wiki/Stephen_Kershnar)
+
+## Source Trace
+
+- `wikipedia-philosophy-most-valuable-player-problem` — Wikipedia: List of philosophical problems; section: Philosophy of sport; source line: 209; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

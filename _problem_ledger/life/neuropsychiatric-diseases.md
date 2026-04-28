@@ -48,6 +48,88 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-neuropsychiatric-diseases"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-neuropsychiatric-diseases"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Neuropsychiatric diseases"
+      source_section:
+        - "Human biology"
+        - "Neuroscience and cognition"
+        - "Neurophysiology"
+      source_line: 69
+      source_text: "Neuropsychiatric diseases: What are the neural bases (causes) of mental diseases like psychotic disorders (e.g. mania, schizophrenia), Parkinson's disease, Alzheimer's disease, or addiction? Is it possible to recover loss of sensory or motor function?"
+      problem_statement: "What are the neural bases (causes) of mental diseases like psychotic disorders (e.g. mania, schizophrenia), Parkinson's disease, Alzheimer's disease, or addiction? Is it possible to recover loss of sensory or motor function?"
+      source_questions: []
+      source_links:
+        -
+          label: "Neuropsychiatric diseases"
+          url: "https://en.wikipedia.org/wiki/diseases"
+          target: "diseases"
+        -
+          label: "mental"
+          url: "https://en.wikipedia.org/wiki/mind"
+          target: "mind"
+        -
+          label: "mania"
+          url: "https://en.wikipedia.org/wiki/mania"
+          target: "mania"
+        -
+          label: "schizophrenia"
+          url: "https://en.wikipedia.org/wiki/schizophrenia"
+          target: "schizophrenia"
+        -
+          label: "Parkinson's disease"
+          url: "https://en.wikipedia.org/wiki/Parkinson%27s_disease"
+          target: "Parkinson's disease"
+        -
+          label: "Alzheimer's disease"
+          url: "https://en.wikipedia.org/wiki/Alzheimer%27s_disease"
+          target: "Alzheimer's disease"
+        -
+          label: "addiction"
+          url: "https://en.wikipedia.org/wiki/Substance_dependence"
+          target: "Substance dependence"
+  source_links:
+    -
+      label: "Neuropsychiatric diseases"
+      url: "https://en.wikipedia.org/wiki/diseases"
+      target: "diseases"
+    -
+      label: "mental"
+      url: "https://en.wikipedia.org/wiki/mind"
+      target: "mind"
+    -
+      label: "mania"
+      url: "https://en.wikipedia.org/wiki/mania"
+      target: "mania"
+    -
+      label: "schizophrenia"
+      url: "https://en.wikipedia.org/wiki/schizophrenia"
+      target: "schizophrenia"
+    -
+      label: "Parkinson's disease"
+      url: "https://en.wikipedia.org/wiki/Parkinson%27s_disease"
+      target: "Parkinson's disease"
+    -
+      label: "Alzheimer's disease"
+      url: "https://en.wikipedia.org/wiki/Alzheimer%27s_disease"
+      target: "Alzheimer's disease"
+    -
+      label: "addiction"
+      url: "https://en.wikipedia.org/wiki/Substance_dependence"
+      target: "Substance dependence"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -76,8 +158,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -107,9 +189,19 @@ verify_links:
 
 What are the neural bases (causes) of mental diseases like psychotic disorders (e.g. mania, schizophrenia), Parkinson's disease, Alzheimer's disease, or addiction? Is it possible to recover loss of sensory or motor function?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Neuropsychiatric diseases](https://en.wikipedia.org/wiki/diseases)
+- [mental](https://en.wikipedia.org/wiki/mind)
+- [mania](https://en.wikipedia.org/wiki/mania)
+- [schizophrenia](https://en.wikipedia.org/wiki/schizophrenia)
+- [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson%27s_disease)
+- [Alzheimer's disease](https://en.wikipedia.org/wiki/Alzheimer%27s_disease)
+- [addiction](https://en.wikipedia.org/wiki/Substance_dependence)
+
+## Source Trace
+
+- `wikipedia-biology-neuropsychiatric-diseases` — Wikipedia: List of unsolved problems in biology; section: Human biology / Neuroscience and cognition / Neurophysiology; source line: 69; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

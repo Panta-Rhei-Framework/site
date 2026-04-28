@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-sonoluminescence"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-sonoluminescence"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Sonoluminescence"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 192
+      source_text: "Sonoluminescence: What causes the emission of short bursts of light from imploding bubbles in a liquid when excited by sound?"
+      problem_statement: "What causes the emission of short bursts of light from imploding bubbles in a liquid when excited by sound?"
+      source_questions: []
+      source_links:
+        -
+          label: "Sonoluminescence"
+          url: "https://en.wikipedia.org/wiki/Sonoluminescence"
+          target: "Sonoluminescence"
+        -
+          label: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+          url: "https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society_A:_Mathematical,_Physical_and_Engineering_Sciences"
+          target: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+  source_links:
+    -
+      label: "Sonoluminescence"
+      url: "https://en.wikipedia.org/wiki/Sonoluminescence"
+      target: "Sonoluminescence"
+    -
+      label: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+      url: "https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society_A:_Mathematical,_Physical_and_Engineering_Sciences"
+      target: "Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 What causes the emission of short bursts of light from imploding bubbles in a liquid when excited by sound?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
+- [Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://en.wikipedia.org/wiki/Proceedings_of_the_Royal_Society_A:_Mathematical,_Physical_and_Engineering_Sciences)
+
+## Source Trace
+
+- `wikipedia-physics-sonoluminescence` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 192; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

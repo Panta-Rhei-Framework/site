@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-metal-whiskering"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-metal-whiskering"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Metal whiskering"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 199
+      source_text: "Metal whiskering: In electrical devices, some metallic surfaces may spontaneously grow fine metallic whiskers, which can lead to equipment failures. While compressive mechanical stress is known to encourage whisker formation, the growth mechanism has yet to be determined"
+      problem_statement: "In electrical devices, some metallic surfaces may spontaneously grow fine metallic whiskers, which can lead to equipment failures. While compressive mechanical stress is known to encourage whisker formation, the growth mechanism has yet to be determined"
+      source_questions: []
+      source_links:
+        -
+          label: "Metal whiskering"
+          url: "https://en.wikipedia.org/wiki/Whisker_(metallurgy)"
+          target: "Whisker (metallurgy)"
+  source_links:
+    -
+      label: "Metal whiskering"
+      url: "https://en.wikipedia.org/wiki/Whisker_(metallurgy)"
+      target: "Whisker (metallurgy)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 In electrical devices, some metallic surfaces may spontaneously grow fine metallic whiskers, which can lead to equipment failures. While compressive mechanical stress is known to encourage whisker formation, the growth mechanism has yet to be determined
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Metal whiskering](https://en.wikipedia.org/wiki/Whisker_(metallurgy))
+
+## Source Trace
+
+- `wikipedia-physics-metal-whiskering` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 199; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

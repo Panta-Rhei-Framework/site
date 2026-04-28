@@ -46,6 +46,118 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quarkgluon-plasma"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quarkgluon-plasma"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quark–gluon plasma"
+      source_section:
+        - "Nuclear physics"
+      source_line: 177
+      source_text: "Quark–gluon plasma: Where is the onset of deconfinement: 1) as a function of temperature and chemical potentials? 2) as a function of relativistic heavy-ion collision energy and system size? What is the mechanism of energy and baryon-number stopping leading to creation of quark-gluon plasma in relativistic heavy-ion collisions? Why is sudden hadronization and the statistical-hadronization model a near-to-perfect description of hadron production from quark–gluon plasma? Is quark flavor conserved in quark–gluon plasma? Are strangeness and charm in chemical equilibrium in quark–gluon plasma? Does strangeness in quark–gluon plasma flow at the same speed as up and down quark flavours? Why does deconfined matter show ideal flow?"
+      problem_statement: "Where is the onset of deconfinement: 1) as a function of temperature and chemical potentials? 2) as a function of relativistic heavy-ion collision energy and system size? What is the mechanism of energy and baryon-number stopping leading to creation of quark-gluon plasma in relativistic heavy-ion collisions? Why is sudden hadronization and the statistical-hadronization model a near-to-perfect description of hadron production from quark–gluon plasma? Is quark flavor conserved in quark–gluon plasma? Are strangeness and charm in chemical equilibrium in quark–gluon plasma? Does strangeness in quark–gluon plasma flow at the same speed as up and down quark flavours? Why does deconfined matter show ideal flow?"
+      source_questions: []
+      source_links:
+        -
+          label: "Quark–gluon plasma"
+          url: "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma"
+          target: "Quark–gluon plasma"
+        -
+          label: "deconfinement"
+          url: "https://en.wikipedia.org/wiki/deconfinement"
+          target: "deconfinement"
+        -
+          label: "relativistic heavy-ion collision"
+          url: "https://en.wikipedia.org/wiki/Relativistic_heavy-ion_collisions"
+          target: "Relativistic heavy-ion collisions"
+        -
+          label: "baryon-number"
+          url: "https://en.wikipedia.org/wiki/Baryon_number"
+          target: "Baryon number"
+        -
+          label: "hadronization"
+          url: "https://en.wikipedia.org/wiki/hadronization"
+          target: "hadronization"
+        -
+          label: "statistical-hadronization"
+          url: "https://en.wikipedia.org/wiki/Statistical_hadronization"
+          target: "Statistical hadronization"
+        -
+          label: "hadron"
+          url: "https://en.wikipedia.org/wiki/hadron"
+          target: "hadron"
+        -
+          label: "quark flavor"
+          url: "https://en.wikipedia.org/wiki/Quark_flavour"
+          target: "Quark flavour"
+        -
+          label: "strangeness"
+          url: "https://en.wikipedia.org/wiki/Strangeness_and_quark%E2%80%93gluon_plasma"
+          target: "Strangeness and quark–gluon plasma"
+        -
+          label: "charm"
+          url: "https://en.wikipedia.org/wiki/Charm_(quantum_number)"
+          target: "Charm (quantum number)"
+        -
+          label: "ideal flow"
+          url: "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#Flow"
+          target: "Quark–gluon plasma#Flow"
+  source_links:
+    -
+      label: "Quark–gluon plasma"
+      url: "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma"
+      target: "Quark–gluon plasma"
+    -
+      label: "deconfinement"
+      url: "https://en.wikipedia.org/wiki/deconfinement"
+      target: "deconfinement"
+    -
+      label: "relativistic heavy-ion collision"
+      url: "https://en.wikipedia.org/wiki/Relativistic_heavy-ion_collisions"
+      target: "Relativistic heavy-ion collisions"
+    -
+      label: "baryon-number"
+      url: "https://en.wikipedia.org/wiki/Baryon_number"
+      target: "Baryon number"
+    -
+      label: "hadronization"
+      url: "https://en.wikipedia.org/wiki/hadronization"
+      target: "hadronization"
+    -
+      label: "statistical-hadronization"
+      url: "https://en.wikipedia.org/wiki/Statistical_hadronization"
+      target: "Statistical hadronization"
+    -
+      label: "hadron"
+      url: "https://en.wikipedia.org/wiki/hadron"
+      target: "hadron"
+    -
+      label: "quark flavor"
+      url: "https://en.wikipedia.org/wiki/Quark_flavour"
+      target: "Quark flavour"
+    -
+      label: "strangeness"
+      url: "https://en.wikipedia.org/wiki/Strangeness_and_quark%E2%80%93gluon_plasma"
+      target: "Strangeness and quark–gluon plasma"
+    -
+      label: "charm"
+      url: "https://en.wikipedia.org/wiki/Charm_(quantum_number)"
+      target: "Charm (quantum number)"
+    -
+      label: "ideal flow"
+      url: "https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#Flow"
+      target: "Quark–gluon plasma#Flow"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +186,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +215,23 @@ verify_links:
 
 Where is the onset of deconfinement: 1) as a function of temperature and chemical potentials? 2) as a function of relativistic heavy-ion collision energy and system size? What is the mechanism of energy and baryon-number stopping leading to creation of quark-gluon plasma in relativistic heavy-ion collisions? Why is sudden hadronization and the statistical-hadronization model a near-to-perfect description of hadron production from quark–gluon plasma? Is quark flavor conserved in quark–gluon plasma? Are strangeness and charm in chemical equilibrium in quark–gluon plasma? Does strangeness in quark–gluon plasma flow at the same speed as up and down quark flavours? Why does deconfined matter show ideal flow?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Quark–gluon plasma](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma)
+- [deconfinement](https://en.wikipedia.org/wiki/deconfinement)
+- [relativistic heavy-ion collision](https://en.wikipedia.org/wiki/Relativistic_heavy-ion_collisions)
+- [baryon-number](https://en.wikipedia.org/wiki/Baryon_number)
+- [hadronization](https://en.wikipedia.org/wiki/hadronization)
+- [statistical-hadronization](https://en.wikipedia.org/wiki/Statistical_hadronization)
+- [hadron](https://en.wikipedia.org/wiki/hadron)
+- [quark flavor](https://en.wikipedia.org/wiki/Quark_flavour)
+- [strangeness](https://en.wikipedia.org/wiki/Strangeness_and_quark%E2%80%93gluon_plasma)
+- [charm](https://en.wikipedia.org/wiki/Charm_(quantum_number))
+- [ideal flow](https://en.wikipedia.org/wiki/Quark%E2%80%93gluon_plasma#Flow)
+
+## Source Trace
+
+- `wikipedia-physics-quarkgluon-plasma` — Wikipedia: List of unsolved problems in physics; section: Nuclear physics; source line: 177; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

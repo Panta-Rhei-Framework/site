@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-moral-luck"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-moral-luck"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Moral luck"
+      source_section:
+        - "Ethics"
+      source_line: 214
+      source_text: "Moral luck"
+      problem_statement: "The problem of moral luck is that some people are born into, live within, and experience circumstances that seem to change their moral culpability when all other factors remain the same For instance, a case of circumstantial moral luck: a poor person is born into a poor family, and has no other way to feed himself so he steals his food. Another person, born into a very wealthy family, does very little but has ample food and does not need to steal to get it. Should the poor person be more morally blameworthy than the rich person? After all, it is not this person's fault that they were born into such circumstances, but a matter of \"luck\" A related case is resultant moral luck. For instance, two persons behave in a morally culpable way, such as driving carelessly, but end up producing unequal amounts of harm: two people drive while intoxicated, but one strikes a pedestrian and kills him, while the other does not. That one driver caused a death and the other did not is no part of the drivers' intentional actions; yet most observers would likely ascribe greater blame to the driver who killed (compare consequentialism and choice) The fundamental question of moral luck is how our moral responsibility is changed by factors over which we have no control"
+      source_questions: []
+      source_links:
+        -
+          label: "consequentialism"
+          url: "https://en.wikipedia.org/wiki/consequentialism"
+          target: "consequentialism"
+        -
+          label: "choice"
+          url: "https://en.wikipedia.org/wiki/choice"
+          target: "choice"
+  source_links:
+    -
+      label: "consequentialism"
+      url: "https://en.wikipedia.org/wiki/consequentialism"
+      target: "consequentialism"
+    -
+      label: "choice"
+      url: "https://en.wikipedia.org/wiki/choice"
+      target: "choice"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +143,14 @@ verify_links:
 
 The problem of moral luck is that some people are born into, live within, and experience circumstances that seem to change their moral culpability when all other factors remain the same For instance, a case of circumstantial moral luck: a poor person is born into a poor family, and has no other way to feed himself so he steals his food. Another person, born into a very wealthy family, does very little but has ample food and does not need to steal to get it. Should the poor person be more morally blameworthy than the rich person? After all, it is not this person's fault that they were born into such circumstances, but a matter of "luck" A related case is resultant moral luck. For instance, two persons behave in a morally culpable way, such as driving carelessly, but end up producing unequal amounts of harm: two people drive while intoxicated, but one strikes a pedestrian and kills him, while the other does not. That one driver caused a death and the other did not is no part of the drivers' intentional actions; yet most observers would likely ascribe greater blame to the driver who killed (compare consequentialism and choice) The fundamental question of moral luck is how our moral responsibility is changed by factors over which we have no control
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [consequentialism](https://en.wikipedia.org/wiki/consequentialism)
+- [choice](https://en.wikipedia.org/wiki/choice)
+
+## Source Trace
+
+- `wikipedia-philosophy-moral-luck` — Wikipedia: List of philosophical problems; section: Ethics; source line: 214; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-agemetallicity-relation-in-the-galactic-disk"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-agemetallicity-relation-in-the-galactic-disk"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Age–metallicity relation in the Galactic disk"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 168
+      source_text: "Age–metallicity relation in the Galactic disk: Is there a universal age–metallicity relation (AMR) in the Galactic disk (both \"thin\" and \"thick\" parts of the disk)? Although in the local (primarily thin) disk of the Milky Way there is no evidence of a strong AMR, a sample of 229 nearby \"thick\" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk. Stellar ages from asteroseismology confirm the lack of any strong age–metallicity relation in the Galactic disc"
+      problem_statement: "Is there a universal age–metallicity relation (AMR) in the Galactic disk (both \"thin\" and \"thick\" parts of the disk)? Although in the local (primarily thin) disk of the Milky Way there is no evidence of a strong AMR, a sample of 229 nearby \"thick\" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk. Stellar ages from asteroseismology confirm the lack of any strong age–metallicity relation in the Galactic disc"
+      source_questions: []
+      source_links:
+        -
+          label: "Milky Way"
+          url: "https://en.wikipedia.org/wiki/Milky_Way"
+          target: "Milky Way"
+  source_links:
+    -
+      label: "Milky Way"
+      url: "https://en.wikipedia.org/wiki/Milky_Way"
+      target: "Milky Way"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 Is there a universal age–metallicity relation (AMR) in the Galactic disk (both "thin" and "thick" parts of the disk)? Although in the local (primarily thin) disk of the Milky Way there is no evidence of a strong AMR, a sample of 229 nearby "thick" disk stars has been used to investigate the existence of an age–metallicity relation in the Galactic thick disk, and indicate that there is an age–metallicity relation present in the thick disk. Stellar ages from asteroseismology confirm the lack of any strong age–metallicity relation in the Galactic disc
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
+
+## Source Trace
+
+- `wikipedia-physics-agemetallicity-relation-in-the-galactic-disk` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 168; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

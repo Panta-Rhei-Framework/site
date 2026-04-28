@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
   source_entry_ids:
     - "wikipedia-neuroscience-how-do-general-anesthetics-work"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-neuroscience-how-do-general-anesthetics-work"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "How do general anesthetics work?"
+      source_section:
+        - "Computational neuroscience"
+      source_line: 90
+      source_text: "How do general anesthetics work?"
+      problem_statement: "How do general anesthetics work?"
+      source_questions: []
+      source_links:
+        -
+          label: "general anesthetics"
+          url: "https://en.wikipedia.org/wiki/Theories_of_general_anaesthetic_action"
+          target: "Theories of general anaesthetic action"
+  source_links:
+    -
+      label: "general anesthetics"
+      url: "https://en.wikipedia.org/wiki/Theories_of_general_anaesthetic_action"
+      target: "Theories of general anaesthetic action"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-neuroscience"
@@ -103,9 +135,13 @@ verify_links:
 
 How do general anesthetics work?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [general anesthetics](https://en.wikipedia.org/wiki/Theories_of_general_anaesthetic_action)
+
+## Source Trace
+
+- `wikipedia-neuroscience-how-do-general-anesthetics-work` — Wikipedia: List of unsolved problems in neuroscience; section: Computational neuroscience; source line: 90; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

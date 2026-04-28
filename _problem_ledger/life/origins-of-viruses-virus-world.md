@@ -47,6 +47,47 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-origins-of-viruses-virus-world"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-origins-of-viruses-virus-world"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Origins of viruses (Virus World)"
+      source_section:
+        - "General biology"
+        - "Evolution and origins of life"
+      source_line: 14
+      source_text: "Origins of viruses (Virus World). Exactly how and when did different groups of viruses originate?"
+      problem_statement: "Exactly how and when did different groups of viruses originate?"
+      source_questions: []
+      source_links:
+        -
+          label: "Origins of viruses"
+          url: "https://en.wikipedia.org/wiki/Viral_evolution"
+          target: "Viral evolution"
+        -
+          label: "Virus World"
+          url: "https://en.wikipedia.org/wiki/Virus_World"
+          target: "Virus World"
+  source_links:
+    -
+      label: "Origins of viruses"
+      url: "https://en.wikipedia.org/wiki/Viral_evolution"
+      target: "Viral evolution"
+    -
+      label: "Virus World"
+      url: "https://en.wikipedia.org/wiki/Virus_World"
+      target: "Virus World"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +116,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +147,14 @@ verify_links:
 
 Exactly how and when did different groups of viruses originate?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Origins of viruses](https://en.wikipedia.org/wiki/Viral_evolution)
+- [Virus World](https://en.wikipedia.org/wiki/Virus_World)
+
+## Source Trace
+
+- `wikipedia-biology-origins-of-viruses-virus-world` — Wikipedia: List of unsolved problems in biology; section: General biology / Evolution and origins of life; source line: 14; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

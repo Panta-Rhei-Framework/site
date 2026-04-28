@@ -47,6 +47,79 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Metabolism in Henneguya zschokkei, a species of myxozoan"
+      source_section:
+        - "Non-human biology"
+        - "Non-human organs and biomolecules"
+      source_line: 136
+      source_text: "Metabolism in Henneguya zschokkei, a species of myxozoan. This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration"
+      problem_statement: "This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration"
+      source_questions: []
+      source_links:
+        -
+          label: "Metabolism"
+          url: "https://en.wikipedia.org/wiki/Metabolism"
+          target: "Metabolism"
+        -
+          label: "Henneguya zschokkei"
+          url: "https://en.wikipedia.org/wiki/Henneguya_zschokkei"
+          target: "Henneguya zschokkei"
+        -
+          label: "myxozoa"
+          url: "https://en.wikipedia.org/wiki/myxozoa"
+          target: "myxozoa"
+        -
+          label: "cnidaria"
+          url: "https://en.wikipedia.org/wiki/cnidaria"
+          target: "cnidaria"
+        -
+          label: "mitochondria"
+          url: "https://en.wikipedia.org/wiki/mitochondria"
+          target: "mitochondria"
+        -
+          label: "aerobic respiration"
+          url: "https://en.wikipedia.org/wiki/aerobic_respiration"
+          target: "aerobic respiration"
+  source_links:
+    -
+      label: "Metabolism"
+      url: "https://en.wikipedia.org/wiki/Metabolism"
+      target: "Metabolism"
+    -
+      label: "Henneguya zschokkei"
+      url: "https://en.wikipedia.org/wiki/Henneguya_zschokkei"
+      target: "Henneguya zschokkei"
+    -
+      label: "myxozoa"
+      url: "https://en.wikipedia.org/wiki/myxozoa"
+      target: "myxozoa"
+    -
+      label: "cnidaria"
+      url: "https://en.wikipedia.org/wiki/cnidaria"
+      target: "cnidaria"
+    -
+      label: "mitochondria"
+      url: "https://en.wikipedia.org/wiki/mitochondria"
+      target: "mitochondria"
+    -
+      label: "aerobic respiration"
+      url: "https://en.wikipedia.org/wiki/aerobic_respiration"
+      target: "aerobic respiration"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +148,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +179,18 @@ verify_links:
 
 This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Metabolism](https://en.wikipedia.org/wiki/Metabolism)
+- [Henneguya zschokkei](https://en.wikipedia.org/wiki/Henneguya_zschokkei)
+- [myxozoa](https://en.wikipedia.org/wiki/myxozoa)
+- [cnidaria](https://en.wikipedia.org/wiki/cnidaria)
+- [mitochondria](https://en.wikipedia.org/wiki/mitochondria)
+- [aerobic respiration](https://en.wikipedia.org/wiki/aerobic_respiration)
+
+## Source Trace
+
+- `wikipedia-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Non-human organs and biomolecules; source line: 136; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

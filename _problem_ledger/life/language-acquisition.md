@@ -46,6 +46,117 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
   source_entry_ids:
     - "wikipedia-neuroscience-language-acquisition"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-neuroscience-language-acquisition"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "Language acquisition"
+      source_section:
+        - "Language"
+      source_line: 61
+      source_text: "Language acquisition"
+      problem_statement: "Language acquisition"
+      source_questions:
+        - "Controversy: infant language acquisition/first-language acquisition. How are infants able to learn language? One line of debate is between two points of view: that of psychological nativism, i.e., the language ability is somehow \"hardwired\" in the human brain, and usage based theories of language, according to which language emerges through to brain's interaction with environment and activated by general dispositions for social interaction and communication, abstract symbolic thought and pattern recognition and inference"
+        - "Is the human ability to use syntax based on innate mental structures or is syntactic speech the function of intelligence and interaction with other humans? The question is closely related to those of language emergence and acquisition"
+        - "Is there a language acquisition device: How localized is language in the brain? Is there a particular area in the brain responsible for the development of language abilities or is it only partially localized?"
+        - "What fundamental reasons explain why ultimate attainment in second-language acquisition is typically some way short of the native speaker's ability, with learners varying widely in performance?"
+        - "What are the optimal ways to achieve successful second-language acquisition?"
+        - "Animals and language: How much human language can animals be taught to use? How much of animal communication can be said to have the same properties as human language (e.g. compositionality of bird calls as syntax)?"
+        - "What role does linguistic intuition play, how is it formed and how does it function? Is it closely linked to exposure to a unique set of different experiences and their contexts throughout one's personal life?"
+      source_links:
+        -
+          label: "Language acquisition"
+          url: "https://en.wikipedia.org/wiki/Language_acquisition"
+          target: "Language acquisition"
+        -
+          label: "psychological nativism"
+          url: "https://en.wikipedia.org/wiki/psychological_nativism"
+          target: "psychological nativism"
+        -
+          label: "usage based theories of language"
+          url: "https://en.wikipedia.org/wiki/functional_linguistics"
+          target: "functional linguistics"
+        -
+          label: "language acquisition device"
+          url: "https://en.wikipedia.org/wiki/language_acquisition_device"
+          target: "language acquisition device"
+        -
+          label: "second-language acquisition"
+          url: "https://en.wikipedia.org/wiki/second-language_acquisition"
+          target: "second-language acquisition"
+        -
+          label: "native speaker"
+          url: "https://en.wikipedia.org/wiki/native_speaker"
+          target: "native speaker"
+        -
+          label: "Animals and language"
+          url: "https://en.wikipedia.org/wiki/animal_language_acquisition"
+          target: "animal language acquisition"
+        -
+          label: "compositionality"
+          url: "https://en.wikipedia.org/wiki/compositionality"
+          target: "compositionality"
+        -
+          label: "syntax"
+          url: "https://en.wikipedia.org/wiki/syntax"
+          target: "syntax"
+        -
+          label: "intuition"
+          url: "https://en.wikipedia.org/wiki/intuition"
+          target: "intuition"
+  source_links:
+    -
+      label: "Language acquisition"
+      url: "https://en.wikipedia.org/wiki/Language_acquisition"
+      target: "Language acquisition"
+    -
+      label: "psychological nativism"
+      url: "https://en.wikipedia.org/wiki/psychological_nativism"
+      target: "psychological nativism"
+    -
+      label: "usage based theories of language"
+      url: "https://en.wikipedia.org/wiki/functional_linguistics"
+      target: "functional linguistics"
+    -
+      label: "language acquisition device"
+      url: "https://en.wikipedia.org/wiki/language_acquisition_device"
+      target: "language acquisition device"
+    -
+      label: "second-language acquisition"
+      url: "https://en.wikipedia.org/wiki/second-language_acquisition"
+      target: "second-language acquisition"
+    -
+      label: "native speaker"
+      url: "https://en.wikipedia.org/wiki/native_speaker"
+      target: "native speaker"
+    -
+      label: "Animals and language"
+      url: "https://en.wikipedia.org/wiki/animal_language_acquisition"
+      target: "animal language acquisition"
+    -
+      label: "compositionality"
+      url: "https://en.wikipedia.org/wiki/compositionality"
+      target: "compositionality"
+    -
+      label: "syntax"
+      url: "https://en.wikipedia.org/wiki/syntax"
+      target: "syntax"
+    -
+      label: "intuition"
+      url: "https://en.wikipedia.org/wiki/intuition"
+      target: "intuition"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +185,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-neuroscience"
@@ -103,7 +214,7 @@ verify_links:
 
 Language acquisition
 
-Source questions retained from the pinned source:
+## Source Questions
 
 - Controversy: infant language acquisition/first-language acquisition. How are infants able to learn language? One line of debate is between two points of view: that of psychological nativism, i.e., the language ability is somehow "hardwired" in the human brain, and usage based theories of language, according to which language emerges through to brain's interaction with environment and activated by general dispositions for social interaction and communication, abstract symbolic thought and pattern recognition and inference
 - Is the human ability to use syntax based on innate mental structures or is syntactic speech the function of intelligence and interaction with other humans? The question is closely related to those of language emergence and acquisition
@@ -112,6 +223,23 @@ Source questions retained from the pinned source:
 - What are the optimal ways to achieve successful second-language acquisition?
 - Animals and language: How much human language can animals be taught to use? How much of animal communication can be said to have the same properties as human language (e.g. compositionality of bird calls as syntax)?
 - What role does linguistic intuition play, how is it formed and how does it function? Is it closely linked to exposure to a unique set of different experiences and their contexts throughout one's personal life?
+
+## Source Links
+
+- [Language acquisition](https://en.wikipedia.org/wiki/Language_acquisition)
+- [psychological nativism](https://en.wikipedia.org/wiki/psychological_nativism)
+- [usage based theories of language](https://en.wikipedia.org/wiki/functional_linguistics)
+- [language acquisition device](https://en.wikipedia.org/wiki/language_acquisition_device)
+- [second-language acquisition](https://en.wikipedia.org/wiki/second-language_acquisition)
+- [native speaker](https://en.wikipedia.org/wiki/native_speaker)
+- [Animals and language](https://en.wikipedia.org/wiki/animal_language_acquisition)
+- [compositionality](https://en.wikipedia.org/wiki/compositionality)
+- [syntax](https://en.wikipedia.org/wiki/syntax)
+- [intuition](https://en.wikipedia.org/wiki/intuition)
+
+## Source Trace
+
+- `wikipedia-neuroscience-language-acquisition` — Wikipedia: List of unsolved problems in neuroscience; section: Language; source line: 61; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

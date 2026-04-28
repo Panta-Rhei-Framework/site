@@ -47,6 +47,71 @@ source:
   source_entry_ids:
     - "wikipedia-biology-origin-of-life"
     - "wikipedia-biology-how-does-life-arise-from-the-non-living"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-origin-of-life"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Origin of life"
+      source_section:
+        - "General biology"
+        - "Evolution and origins of life"
+      source_line: 11
+      source_text: "Origin of life. Exactly how, where, and when did life on Earth originate? Which, if any, of the many hypotheses is correct? What were the metabolic pathways used by the earliest life forms? How did genetic code originate? What was the molecular mechanism that allows the association of the amino acids with their triplet codons? What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers such as proteins and DNA?"
+      problem_statement: "Exactly how, where, and when did life on Earth originate? Which, if any, of the many hypotheses is correct? What were the metabolic pathways used by the earliest life forms? How did genetic code originate? What was the molecular mechanism that allows the association of the amino acids with their triplet codons? What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers such as proteins and DNA?"
+      source_questions: []
+      source_links:
+        -
+          label: "Origin of life"
+          url: "https://en.wikipedia.org/wiki/Origin_of_life"
+          target: "Origin of life"
+        -
+          label: "Earth"
+          url: "https://en.wikipedia.org/wiki/Earth"
+          target: "Earth"
+    -
+      source_entry_id: "wikipedia-biology-how-does-life-arise-from-the-non-living"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "How does life arise from the non-living?"
+      source_section:
+        - "Artificial life"
+      source_line: 141
+      source_text: "How does life arise from the non-living?"
+      problem_statement: "How does life arise from the non-living?"
+      source_questions: []
+      source_links:
+        -
+          label: "non-living"
+          url: "https://en.wikipedia.org/wiki/Abiogenesis"
+          target: "Abiogenesis"
+  source_links:
+    -
+      label: "Origin of life"
+      url: "https://en.wikipedia.org/wiki/Origin_of_life"
+      target: "Origin of life"
+    -
+      label: "Earth"
+      url: "https://en.wikipedia.org/wiki/Earth"
+      target: "Earth"
+    -
+      label: "non-living"
+      url: "https://en.wikipedia.org/wiki/Abiogenesis"
+      target: "Abiogenesis"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 2
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_critical"
   agenda_role: "bridge_problem"
@@ -91,8 +156,8 @@ cross_domain_relations:
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "origin-of-life"
@@ -118,8 +183,26 @@ verify_links:
 
 ## Problem Statement
 
-The origin of life is included from the biology master ledger as a core life
-stress test.
+This canonical Problem Ledger item consolidates multiple pinned source entries that the v1.0 mapping treats as the same public agenda obligation.
+
+### Source entry 1: Origin of life
+
+Exactly how, where, and when did life on Earth originate? Which, if any, of the many hypotheses is correct? What were the metabolic pathways used by the earliest life forms? How did genetic code originate? What was the molecular mechanism that allows the association of the amino acids with their triplet codons? What were the biochemical paths from individual bio-building blocks like amino acids or nucleic acids to functional polymers such as proteins and DNA?
+
+### Source entry 2: How does life arise from the non-living?
+
+How does life arise from the non-living?
+
+## Source Links
+
+- [Origin of life](https://en.wikipedia.org/wiki/Origin_of_life)
+- [Earth](https://en.wikipedia.org/wiki/Earth)
+- [non-living](https://en.wikipedia.org/wiki/Abiogenesis)
+
+## Source Trace
+
+- `wikipedia-biology-origin-of-life` — Wikipedia: List of unsolved problems in biology; section: General biology / Evolution and origins of life; source line: 11; revision: 1350634388.
+- `wikipedia-biology-how-does-life-arise-from-the-non-living` — Wikipedia: List of unsolved problems in biology; section: Artificial life; source line: 141; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

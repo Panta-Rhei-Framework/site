@@ -39,6 +39,37 @@ source:
   source_permalink: "https://www.ias.edu/ideas/langlands-program"
   source_entry_ids:
     - "ias-langlands-langlands-program"
+  source_entry_records:
+    -
+      source_entry_id: "ias-langlands-langlands-program"
+      source_name: "ias-langlands-program"
+      source_display: "Institute for Advanced Study — What Is the Langlands Program?"
+      source_url: "https://www.ias.edu/ideas/langlands-program"
+      source_permalink: "https://www.ias.edu/ideas/langlands-program"
+      source_revision_id: "not_applicable"
+      source_revision_timestamp: "not_applicable"
+      source_title: "Langlands Program"
+      source_section: []
+      source_line: "not_applicable"
+      source_text: "Langlands Program"
+      problem_statement: "Langlands Program is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class."
+      source_questions: []
+      source_links:
+        -
+          label: "Langlands Program"
+          url: "https://www.ias.edu/ideas/langlands-program"
+          target: "https://www.ias.edu/ideas/langlands-program"
+  source_links:
+    -
+      label: "Langlands Program"
+      url: "https://www.ias.edu/ideas/langlands-program"
+      target: "https://www.ias.edu/ideas/langlands-program"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_critical"
   agenda_role: "bridge_problem"
@@ -72,8 +103,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "mathematics"
   - "langlands"
@@ -100,8 +131,15 @@ verify_links:
 
 ## Problem Statement
 
-The Langlands Program is included as the central non-Millennium mathematical
-unification stress test.
+Langlands Program is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
+
+## Source Links
+
+- [Langlands Program](https://www.ias.edu/ideas/langlands-program)
+
+## Source Trace
+
+- `ias-langlands-langlands-program` — Institute for Advanced Study — What Is the Langlands Program?; section: selected source; source line: not_applicable; revision: not_applicable.
 
 ## Why This Problem Is in Scope
 

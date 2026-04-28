@@ -46,6 +46,70 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-hard-problem-of-consciousness"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-hard-problem-of-consciousness"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Hard problem of consciousness"
+      source_section:
+        - "Philosophy of mind"
+      source_line: 126
+      source_text: "Hard problem of consciousness"
+      problem_statement: "The hard problem of consciousness is the question of what consciousness is and why we have consciousness as opposed to being philosophical zombies. The adjective \"hard\" is to contrast with the \"easy\" consciousness problems, which seek to explain the mechanisms of consciousness (\"why\" as compared with \"how\", or final cause versus efficient cause). The hard problem of consciousness is questioning whether all beings undergo an experience of consciousness rather than questioning the neurological makeup of beings. Ned Block believes that there also exists a \"Harder Problem of Consciousness\", due to the possibility of different physical and functional neurological systems potentially having phenomenal overlap"
+      source_questions: []
+      source_links:
+        -
+          label: "hard problem of consciousness"
+          url: "https://en.wikipedia.org/wiki/hard_problem_of_consciousness"
+          target: "hard problem of consciousness"
+        -
+          label: "philosophical zombies"
+          url: "https://en.wikipedia.org/wiki/philosophical_zombies"
+          target: "philosophical zombies"
+        -
+          label: "final cause"
+          url: "https://en.wikipedia.org/wiki/final_cause"
+          target: "final cause"
+        -
+          label: "efficient cause"
+          url: "https://en.wikipedia.org/wiki/efficient_cause"
+          target: "efficient cause"
+        -
+          label: "Ned Block"
+          url: "https://en.wikipedia.org/wiki/Ned_Block"
+          target: "Ned Block"
+  source_links:
+    -
+      label: "hard problem of consciousness"
+      url: "https://en.wikipedia.org/wiki/hard_problem_of_consciousness"
+      target: "hard problem of consciousness"
+    -
+      label: "philosophical zombies"
+      url: "https://en.wikipedia.org/wiki/philosophical_zombies"
+      target: "philosophical zombies"
+    -
+      label: "final cause"
+      url: "https://en.wikipedia.org/wiki/final_cause"
+      target: "final cause"
+    -
+      label: "efficient cause"
+      url: "https://en.wikipedia.org/wiki/efficient_cause"
+      target: "efficient cause"
+    -
+      label: "Ned Block"
+      url: "https://en.wikipedia.org/wiki/Ned_Block"
+      target: "Ned Block"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +138,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +167,17 @@ verify_links:
 
 The hard problem of consciousness is the question of what consciousness is and why we have consciousness as opposed to being philosophical zombies. The adjective "hard" is to contrast with the "easy" consciousness problems, which seek to explain the mechanisms of consciousness ("why" as compared with "how", or final cause versus efficient cause). The hard problem of consciousness is questioning whether all beings undergo an experience of consciousness rather than questioning the neurological makeup of beings. Ned Block believes that there also exists a "Harder Problem of Consciousness", due to the possibility of different physical and functional neurological systems potentially having phenomenal overlap
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [hard problem of consciousness](https://en.wikipedia.org/wiki/hard_problem_of_consciousness)
+- [philosophical zombies](https://en.wikipedia.org/wiki/philosophical_zombies)
+- [final cause](https://en.wikipedia.org/wiki/final_cause)
+- [efficient cause](https://en.wikipedia.org/wiki/efficient_cause)
+- [Ned Block](https://en.wikipedia.org/wiki/Ned_Block)
+
+## Source Trace
+
+- `wikipedia-philosophy-hard-problem-of-consciousness` — Wikipedia: List of philosophical problems; section: Philosophy of mind; source line: 126; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

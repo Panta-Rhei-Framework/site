@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-extinction-of-archaic-humans"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-extinction-of-archaic-humans"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Extinction of archaic humans"
+      source_section:
+        - "Human biology"
+      source_line: 60
+      source_text: "Extinction of archaic humans: Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?"
+      problem_statement: "Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?"
+      source_questions: []
+      source_links:
+        -
+          label: "archaic humans"
+          url: "https://en.wikipedia.org/wiki/archaic_humans"
+          target: "archaic humans"
+        -
+          label: "Neanderthals"
+          url: "https://en.wikipedia.org/wiki/Neanderthals"
+          target: "Neanderthals"
+        -
+          label: "Homo sapiens"
+          url: "https://en.wikipedia.org/wiki/Homo_sapiens"
+          target: "Homo sapiens"
+  source_links:
+    -
+      label: "archaic humans"
+      url: "https://en.wikipedia.org/wiki/archaic_humans"
+      target: "archaic humans"
+    -
+      label: "Neanderthals"
+      url: "https://en.wikipedia.org/wiki/Neanderthals"
+      target: "Neanderthals"
+    -
+      label: "Homo sapiens"
+      url: "https://en.wikipedia.org/wiki/Homo_sapiens"
+      target: "Homo sapiens"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -103,9 +151,15 @@ verify_links:
 
 Why did archaic human species such as Neanderthals become extinct, leaving Homo sapiens the only surviving species of humans?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [archaic humans](https://en.wikipedia.org/wiki/archaic_humans)
+- [Neanderthals](https://en.wikipedia.org/wiki/Neanderthals)
+- [Homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens)
+
+## Source Trace
+
+- `wikipedia-biology-extinction-of-archaic-humans` — Wikipedia: List of unsolved problems in biology; section: Human biology; source line: 60; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

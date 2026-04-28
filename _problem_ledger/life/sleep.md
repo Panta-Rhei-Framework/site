@@ -46,6 +46,58 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
   source_entry_ids:
     - "wikipedia-neuroscience-sleep"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-neuroscience-sleep"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "Sleep"
+      source_section:
+        - "Mind-body connection"
+      source_line: 76
+      source_text: "Sleep"
+      problem_statement: "Sleep"
+      source_questions:
+        - "What is the biological function of sleep?"
+        - "Why do we dream?"
+        - "What are the underlying brain mechanisms?"
+        - "What is its relation to anesthesia?"
+      source_links:
+        -
+          label: "Sleep"
+          url: "https://en.wikipedia.org/wiki/Sleep"
+          target: "Sleep"
+        -
+          label: "dream"
+          url: "https://en.wikipedia.org/wiki/dream"
+          target: "dream"
+        -
+          label: "anesthesia"
+          url: "https://en.wikipedia.org/wiki/anesthesia"
+          target: "anesthesia"
+  source_links:
+    -
+      label: "Sleep"
+      url: "https://en.wikipedia.org/wiki/Sleep"
+      target: "Sleep"
+    -
+      label: "dream"
+      url: "https://en.wikipedia.org/wiki/dream"
+      target: "dream"
+    -
+      label: "anesthesia"
+      url: "https://en.wikipedia.org/wiki/anesthesia"
+      target: "anesthesia"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +126,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-neuroscience"
@@ -103,12 +155,22 @@ verify_links:
 
 Sleep
 
-Source questions retained from the pinned source:
+## Source Questions
 
 - What is the biological function of sleep?
 - Why do we dream?
 - What are the underlying brain mechanisms?
 - What is its relation to anesthesia?
+
+## Source Links
+
+- [Sleep](https://en.wikipedia.org/wiki/Sleep)
+- [dream](https://en.wikipedia.org/wiki/dream)
+- [anesthesia](https://en.wikipedia.org/wiki/anesthesia)
+
+## Source Trace
+
+- `wikipedia-neuroscience-sleep` — Wikipedia: List of unsolved problems in neuroscience; section: Mind-body connection; source line: 76; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

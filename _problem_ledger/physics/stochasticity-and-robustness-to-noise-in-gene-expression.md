@@ -46,6 +46,78 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-stochasticity-and-robustness-to-noise-in-gene-expression"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-stochasticity-and-robustness-to-noise-in-gene-expression"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Stochasticity and robustness to noise in gene expression"
+      source_section:
+        - "Biophysics"
+      source_line: 221
+      source_text: "Stochasticity and robustness to noise in gene expression: How do genes govern our body, withstanding different external pressures and internal stochasticity? Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated"
+      problem_statement: "How do genes govern our body, withstanding different external pressures and internal stochasticity? Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated"
+      source_questions: []
+      source_links:
+        -
+          label: "Stochasticity"
+          url: "https://en.wikipedia.org/wiki/Stochastic_process"
+          target: "Stochastic process"
+        -
+          label: "noise"
+          url: "https://en.wikipedia.org/wiki/Signal-to-noise_ratio"
+          target: "Signal-to-noise ratio"
+        -
+          label: "gene expression"
+          url: "https://en.wikipedia.org/wiki/gene_expression"
+          target: "gene expression"
+        -
+          label: "stochasticity"
+          url: "https://en.wikipedia.org/wiki/stochasticity"
+          target: "stochasticity"
+        -
+          label: "Certain models"
+          url: "https://en.wikipedia.org/wiki/Gene_regulatory_network"
+          target: "Gene regulatory network"
+        -
+          label: "development"
+          url: "https://en.wikipedia.org/wiki/Morphogenesis"
+          target: "Morphogenesis"
+  source_links:
+    -
+      label: "Stochasticity"
+      url: "https://en.wikipedia.org/wiki/Stochastic_process"
+      target: "Stochastic process"
+    -
+      label: "noise"
+      url: "https://en.wikipedia.org/wiki/Signal-to-noise_ratio"
+      target: "Signal-to-noise ratio"
+    -
+      label: "gene expression"
+      url: "https://en.wikipedia.org/wiki/gene_expression"
+      target: "gene expression"
+    -
+      label: "stochasticity"
+      url: "https://en.wikipedia.org/wiki/stochasticity"
+      target: "stochasticity"
+    -
+      label: "Certain models"
+      url: "https://en.wikipedia.org/wiki/Gene_regulatory_network"
+      target: "Gene regulatory network"
+    -
+      label: "development"
+      url: "https://en.wikipedia.org/wiki/Morphogenesis"
+      target: "Morphogenesis"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +146,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +175,18 @@ verify_links:
 
 How do genes govern our body, withstanding different external pressures and internal stochasticity? Certain models exist for genetic processes, but we are far from understanding the whole picture, in particular in development where gene expression must be tightly regulated
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Stochasticity](https://en.wikipedia.org/wiki/Stochastic_process)
+- [noise](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
+- [gene expression](https://en.wikipedia.org/wiki/gene_expression)
+- [stochasticity](https://en.wikipedia.org/wiki/stochasticity)
+- [Certain models](https://en.wikipedia.org/wiki/Gene_regulatory_network)
+- [development](https://en.wikipedia.org/wiki/Morphogenesis)
+
+## Source Trace
+
+- `wikipedia-physics-stochasticity-and-robustness-to-noise-in-gene-expression` — Wikipedia: List of unsolved problems in physics; section: Biophysics; source line: 221; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

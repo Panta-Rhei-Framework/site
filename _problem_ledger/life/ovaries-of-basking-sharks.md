@@ -47,6 +47,39 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-ovaries-of-basking-sharks"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-ovaries-of-basking-sharks"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Ovaries of basking sharks"
+      source_section:
+        - "Non-human biology"
+        - "Non-human organs and biomolecules"
+      source_line: 132
+      source_text: "Ovaries of basking sharks. Only the right ovary in female basking sharks appears to function. The reason is unknown"
+      problem_statement: "Only the right ovary in female basking sharks appears to function. The reason is unknown"
+      source_questions: []
+      source_links:
+        -
+          label: "basking shark"
+          url: "https://en.wikipedia.org/wiki/basking_shark"
+          target: "basking shark"
+  source_links:
+    -
+      label: "basking shark"
+      url: "https://en.wikipedia.org/wiki/basking_shark"
+      target: "basking shark"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +108,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +139,13 @@ verify_links:
 
 Only the right ovary in female basking sharks appears to function. The reason is unknown
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [basking shark](https://en.wikipedia.org/wiki/basking_shark)
+
+## Source Trace
+
+- `wikipedia-biology-ovaries-of-basking-sharks` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Non-human organs and biomolecules; source line: 132; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-astrophysical-jet"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-astrophysical-jet"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Astrophysical jet"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 156
+      source_text: "Astrophysical jet: Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes? Why are there quasi-periodic oscillations in many accretion discs? Why does the period of these oscillations scale as the inverse of the mass of the central object? Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?"
+      problem_statement: "Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes? Why are there quasi-periodic oscillations in many accretion discs? Why does the period of these oscillations scale as the inverse of the mass of the central object? Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?"
+      source_questions: []
+      source_links:
+        -
+          label: "Astrophysical jet"
+          url: "https://en.wikipedia.org/wiki/Astrophysical_jet"
+          target: "Astrophysical jet"
+        -
+          label: "accretion disc"
+          url: "https://en.wikipedia.org/wiki/accretion_disc"
+          target: "accretion disc"
+        -
+          label: "relativistic jet"
+          url: "https://en.wikipedia.org/wiki/relativistic_jet"
+          target: "relativistic jet"
+        -
+          label: "quasi-periodic oscillation"
+          url: "https://en.wikipedia.org/wiki/quasi-periodic_oscillation"
+          target: "quasi-periodic oscillation"
+  source_links:
+    -
+      label: "Astrophysical jet"
+      url: "https://en.wikipedia.org/wiki/Astrophysical_jet"
+      target: "Astrophysical jet"
+    -
+      label: "accretion disc"
+      url: "https://en.wikipedia.org/wiki/accretion_disc"
+      target: "accretion disc"
+    -
+      label: "relativistic jet"
+      url: "https://en.wikipedia.org/wiki/relativistic_jet"
+      target: "relativistic jet"
+    -
+      label: "quasi-periodic oscillation"
+      url: "https://en.wikipedia.org/wiki/quasi-periodic_oscillation"
+      target: "quasi-periodic oscillation"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes? Why are there quasi-periodic oscillations in many accretion discs? Why does the period of these oscillations scale as the inverse of the mass of the central object? Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Astrophysical jet](https://en.wikipedia.org/wiki/Astrophysical_jet)
+- [accretion disc](https://en.wikipedia.org/wiki/accretion_disc)
+- [relativistic jet](https://en.wikipedia.org/wiki/relativistic_jet)
+- [quasi-periodic oscillation](https://en.wikipedia.org/wiki/quasi-periodic_oscillation)
+
+## Source Trace
+
+- `wikipedia-physics-astrophysical-jet` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 156; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

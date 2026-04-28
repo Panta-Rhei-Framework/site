@@ -47,6 +47,55 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Is the ecosystem a superorganism, or a collection of organisms?"
+      source_section:
+        - "Non-human biology"
+        - "Ecology, evolution, and paleontology"
+      source_line: 116
+      source_text: "Is the ecosystem a superorganism, or a collection of organisms? Could the Earth be a superorganism, or a unit of selection?"
+      problem_statement: "Could the Earth be a superorganism, or a unit of selection?"
+      source_questions: []
+      source_links:
+        -
+          label: "superorganism"
+          url: "https://en.wikipedia.org/wiki/superorganism"
+          target: "superorganism"
+        -
+          label: "the Earth be a superorganism"
+          url: "https://en.wikipedia.org/wiki/Gaia_hypothesis"
+          target: "Gaia hypothesis"
+        -
+          label: "unit of selection"
+          url: "https://en.wikipedia.org/wiki/unit_of_selection"
+          target: "unit of selection"
+  source_links:
+    -
+      label: "superorganism"
+      url: "https://en.wikipedia.org/wiki/superorganism"
+      target: "superorganism"
+    -
+      label: "the Earth be a superorganism"
+      url: "https://en.wikipedia.org/wiki/Gaia_hypothesis"
+      target: "Gaia hypothesis"
+    -
+      label: "unit of selection"
+      url: "https://en.wikipedia.org/wiki/unit_of_selection"
+      target: "unit of selection"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +124,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +155,15 @@ verify_links:
 
 Could the Earth be a superorganism, or a unit of selection?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [superorganism](https://en.wikipedia.org/wiki/superorganism)
+- [the Earth be a superorganism](https://en.wikipedia.org/wiki/Gaia_hypothesis)
+- [unit of selection](https://en.wikipedia.org/wiki/unit_of_selection)
+
+## Source Trace
+
+- `wikipedia-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ecology, evolution, and paleontology; source line: 116; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

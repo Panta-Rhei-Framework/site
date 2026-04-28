@@ -46,6 +46,126 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-nuclei-and-nuclear-astrophysics"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-nuclei-and-nuclear-astrophysics"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Nuclei and nuclear astrophysics"
+      source_section:
+        - "Nuclear physics"
+      source_line: 179
+      source_text: "Nuclei and nuclear astrophysics: What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes? What is the explanation for the EMC effect? What is the nature of exotic excitations in nuclei at the frontiers of stability and their role in stellar processes? What is the nature of neutron stars and dense nuclear matter? What is the origin of the elements in the cosmos? What are the nuclear reactions that drive stars and stellar explosions? What is the heaviest possible chemical element?"
+      problem_statement: "What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes? What is the explanation for the EMC effect? What is the nature of exotic excitations in nuclei at the frontiers of stability and their role in stellar processes? What is the nature of neutron stars and dense nuclear matter? What is the origin of the elements in the cosmos? What are the nuclear reactions that drive stars and stellar explosions? What is the heaviest possible chemical element?"
+      source_questions: []
+      source_links:
+        -
+          label: "Nuclei"
+          url: "https://en.wikipedia.org/wiki/atomic_nucleus"
+          target: "atomic nucleus"
+        -
+          label: "nuclear astrophysics"
+          url: "https://en.wikipedia.org/wiki/nuclear_astrophysics"
+          target: "nuclear astrophysics"
+        -
+          label: "nuclear force"
+          url: "https://en.wikipedia.org/wiki/nuclear_force"
+          target: "nuclear force"
+        -
+          label: "protons"
+          url: "https://en.wikipedia.org/wiki/protons"
+          target: "protons"
+        -
+          label: "neutrons"
+          url: "https://en.wikipedia.org/wiki/neutrons"
+          target: "neutrons"
+        -
+          label: "stable nuclei"
+          url: "https://en.wikipedia.org/wiki/Stable_isotope"
+          target: "Stable isotope"
+        -
+          label: "EMC effect"
+          url: "https://en.wikipedia.org/wiki/EMC_effect"
+          target: "EMC effect"
+        -
+          label: "neutron stars"
+          url: "https://en.wikipedia.org/wiki/neutron_stars"
+          target: "neutron stars"
+        -
+          label: "nuclear matter"
+          url: "https://en.wikipedia.org/wiki/nuclear_matter"
+          target: "nuclear matter"
+        -
+          label: "cosmos"
+          url: "https://en.wikipedia.org/wiki/cosmos"
+          target: "cosmos"
+        -
+          label: "stars"
+          url: "https://en.wikipedia.org/wiki/stars"
+          target: "stars"
+        -
+          label: "heaviest possible chemical element"
+          url: "https://en.wikipedia.org/wiki/Extended_periodic_table"
+          target: "Extended periodic table"
+  source_links:
+    -
+      label: "Nuclei"
+      url: "https://en.wikipedia.org/wiki/atomic_nucleus"
+      target: "atomic nucleus"
+    -
+      label: "nuclear astrophysics"
+      url: "https://en.wikipedia.org/wiki/nuclear_astrophysics"
+      target: "nuclear astrophysics"
+    -
+      label: "nuclear force"
+      url: "https://en.wikipedia.org/wiki/nuclear_force"
+      target: "nuclear force"
+    -
+      label: "protons"
+      url: "https://en.wikipedia.org/wiki/protons"
+      target: "protons"
+    -
+      label: "neutrons"
+      url: "https://en.wikipedia.org/wiki/neutrons"
+      target: "neutrons"
+    -
+      label: "stable nuclei"
+      url: "https://en.wikipedia.org/wiki/Stable_isotope"
+      target: "Stable isotope"
+    -
+      label: "EMC effect"
+      url: "https://en.wikipedia.org/wiki/EMC_effect"
+      target: "EMC effect"
+    -
+      label: "neutron stars"
+      url: "https://en.wikipedia.org/wiki/neutron_stars"
+      target: "neutron stars"
+    -
+      label: "nuclear matter"
+      url: "https://en.wikipedia.org/wiki/nuclear_matter"
+      target: "nuclear matter"
+    -
+      label: "cosmos"
+      url: "https://en.wikipedia.org/wiki/cosmos"
+      target: "cosmos"
+    -
+      label: "stars"
+      url: "https://en.wikipedia.org/wiki/stars"
+      target: "stars"
+    -
+      label: "heaviest possible chemical element"
+      url: "https://en.wikipedia.org/wiki/Extended_periodic_table"
+      target: "Extended periodic table"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +194,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +223,24 @@ verify_links:
 
 What is the nature of the nuclear force that binds protons and neutrons into stable nuclei and rare isotopes? What is the explanation for the EMC effect? What is the nature of exotic excitations in nuclei at the frontiers of stability and their role in stellar processes? What is the nature of neutron stars and dense nuclear matter? What is the origin of the elements in the cosmos? What are the nuclear reactions that drive stars and stellar explosions? What is the heaviest possible chemical element?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Nuclei](https://en.wikipedia.org/wiki/atomic_nucleus)
+- [nuclear astrophysics](https://en.wikipedia.org/wiki/nuclear_astrophysics)
+- [nuclear force](https://en.wikipedia.org/wiki/nuclear_force)
+- [protons](https://en.wikipedia.org/wiki/protons)
+- [neutrons](https://en.wikipedia.org/wiki/neutrons)
+- [stable nuclei](https://en.wikipedia.org/wiki/Stable_isotope)
+- [EMC effect](https://en.wikipedia.org/wiki/EMC_effect)
+- [neutron stars](https://en.wikipedia.org/wiki/neutron_stars)
+- [nuclear matter](https://en.wikipedia.org/wiki/nuclear_matter)
+- [cosmos](https://en.wikipedia.org/wiki/cosmos)
+- [stars](https://en.wikipedia.org/wiki/stars)
+- [heaviest possible chemical element](https://en.wikipedia.org/wiki/Extended_periodic_table)
+
+## Source Trace
+
+- `wikipedia-physics-nuclei-and-nuclear-astrophysics` — Wikipedia: List of unsolved problems in physics; section: Nuclear physics; source line: 179; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

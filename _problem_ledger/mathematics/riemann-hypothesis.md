@@ -39,6 +39,37 @@ source:
   source_permalink: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
   source_entry_ids:
     - "clay-riemann-hypothesis"
+  source_entry_records:
+    -
+      source_entry_id: "clay-riemann-hypothesis"
+      source_name: "clay-millennium-problems"
+      source_display: "Clay Mathematics Institute — Millennium Prize Problems"
+      source_url: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+      source_permalink: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+      source_revision_id: "not_applicable"
+      source_revision_timestamp: "not_applicable"
+      source_title: "Riemann Hypothesis"
+      source_section: []
+      source_line: "not_applicable"
+      source_text: "Riemann Hypothesis"
+      problem_statement: "Riemann Hypothesis is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class."
+      source_questions: []
+      source_links:
+        -
+          label: "Riemann Hypothesis"
+          url: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+          target: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+  source_links:
+    -
+      label: "Riemann Hypothesis"
+      url: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+      target: "https://www.claymath.org/millennium-problems/riemann-hypothesis/"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_critical"
   agenda_role: "stress_test"
@@ -73,8 +104,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "mathematics"
   - "number-theory"
@@ -100,7 +131,15 @@ verify_links:
 
 ## Problem Statement
 
-The Riemann Hypothesis is included as one of the seven Clay Millennium Problems.
+Riemann Hypothesis is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
+
+## Source Links
+
+- [Riemann Hypothesis](https://www.claymath.org/millennium-problems/riemann-hypothesis/)
+
+## Source Trace
+
+- `clay-riemann-hypothesis` — Clay Mathematics Institute — Millennium Prize Problems; section: selected source; source line: not_applicable; revision: not_applicable.
 
 ## Why This Problem Is in Scope
 

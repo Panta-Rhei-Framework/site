@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-photic-sneeze-effect"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-photic-sneeze-effect"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Photic sneeze effect"
+      source_section:
+        - "Human biology"
+      source_line: 57
+      source_text: "Photic sneeze effect: What causes the photic sneeze effect? Why is it so common yet not universal?"
+      problem_statement: "What causes the photic sneeze effect? Why is it so common yet not universal?"
+      source_questions: []
+      source_links:
+        -
+          label: "Photic sneeze effect"
+          url: "https://en.wikipedia.org/wiki/Photic_sneeze_effect"
+          target: "Photic sneeze effect"
+  source_links:
+    -
+      label: "Photic sneeze effect"
+      url: "https://en.wikipedia.org/wiki/Photic_sneeze_effect"
+      target: "Photic sneeze effect"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -103,9 +135,13 @@ verify_links:
 
 What causes the photic sneeze effect? Why is it so common yet not universal?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Photic sneeze effect](https://en.wikipedia.org/wiki/Photic_sneeze_effect)
+
+## Source Trace
+
+- `wikipedia-biology-photic-sneeze-effect` — Wikipedia: List of unsolved problems in biology; section: Human biology; source line: 57; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

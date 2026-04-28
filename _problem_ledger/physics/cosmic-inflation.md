@@ -46,6 +46,70 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-cosmic-inflation"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-cosmic-inflation"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Cosmic inflation"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 60
+      source_text: "Cosmic inflation: Is the theory of cosmic inflation in the very early universe correct, and, if so, what are the details of this epoch? What is the hypothetical scalar field that gave rise to this cosmic inflation? If inflation happened at one point, is it self-sustaining through inflation of quantum-mechanical fluctuations, and thus ongoing in some extremely distant place?"
+      problem_statement: "Is the theory of cosmic inflation in the very early universe correct, and, if so, what are the details of this epoch? What is the hypothetical scalar field that gave rise to this cosmic inflation? If inflation happened at one point, is it self-sustaining through inflation of quantum-mechanical fluctuations, and thus ongoing in some extremely distant place?"
+      source_questions: []
+      source_links:
+        -
+          label: "Cosmic inflation"
+          url: "https://en.wikipedia.org/wiki/Cosmic_inflation"
+          target: "Cosmic inflation"
+        -
+          label: "inflaton"
+          url: "https://en.wikipedia.org/wiki/inflaton"
+          target: "inflaton"
+        -
+          label: "inflation"
+          url: "https://en.wikipedia.org/wiki/inflation"
+          target: "inflation"
+        -
+          label: "scalar field"
+          url: "https://en.wikipedia.org/wiki/scalar_field"
+          target: "scalar field"
+        -
+          label: "self-sustaining through inflation of quantum-mechanical fluctuations"
+          url: "https://en.wikipedia.org/wiki/chaotic_inflation"
+          target: "chaotic inflation"
+  source_links:
+    -
+      label: "Cosmic inflation"
+      url: "https://en.wikipedia.org/wiki/Cosmic_inflation"
+      target: "Cosmic inflation"
+    -
+      label: "inflaton"
+      url: "https://en.wikipedia.org/wiki/inflaton"
+      target: "inflaton"
+    -
+      label: "inflation"
+      url: "https://en.wikipedia.org/wiki/inflation"
+      target: "inflation"
+    -
+      label: "scalar field"
+      url: "https://en.wikipedia.org/wiki/scalar_field"
+      target: "scalar field"
+    -
+      label: "self-sustaining through inflation of quantum-mechanical fluctuations"
+      url: "https://en.wikipedia.org/wiki/chaotic_inflation"
+      target: "chaotic inflation"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +138,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +167,17 @@ verify_links:
 
 Is the theory of cosmic inflation in the very early universe correct, and, if so, what are the details of this epoch? What is the hypothetical scalar field that gave rise to this cosmic inflation? If inflation happened at one point, is it self-sustaining through inflation of quantum-mechanical fluctuations, and thus ongoing in some extremely distant place?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Cosmic inflation](https://en.wikipedia.org/wiki/Cosmic_inflation)
+- [inflaton](https://en.wikipedia.org/wiki/inflaton)
+- [inflation](https://en.wikipedia.org/wiki/inflation)
+- [scalar field](https://en.wikipedia.org/wiki/scalar_field)
+- [self-sustaining through inflation of quantum-mechanical fluctuations](https://en.wikipedia.org/wiki/chaotic_inflation)
+
+## Source Trace
+
+- `wikipedia-physics-cosmic-inflation` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 60; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quantum-biology"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quantum-biology"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quantum biology"
+      source_section:
+        - "Biophysics"
+      source_line: 226
+      source_text: "Quantum biology: Can coherence be maintained in biological systems at timeframes long enough to be functionally important? Are there non-trivial aspects of biology or biochemistry that can only be explained by the persistence of coherence as a mechanism?"
+      problem_statement: "Can coherence be maintained in biological systems at timeframes long enough to be functionally important? Are there non-trivial aspects of biology or biochemistry that can only be explained by the persistence of coherence as a mechanism?"
+      source_questions: []
+      source_links:
+        -
+          label: "Quantum biology"
+          url: "https://en.wikipedia.org/wiki/Quantum_biology"
+          target: "Quantum biology"
+        -
+          label: "coherence"
+          url: "https://en.wikipedia.org/wiki/Coherence_(physics)"
+          target: "Coherence (physics)"
+  source_links:
+    -
+      label: "Quantum biology"
+      url: "https://en.wikipedia.org/wiki/Quantum_biology"
+      target: "Quantum biology"
+    -
+      label: "coherence"
+      url: "https://en.wikipedia.org/wiki/Coherence_(physics)"
+      target: "Coherence (physics)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Can coherence be maintained in biological systems at timeframes long enough to be functionally important? Are there non-trivial aspects of biology or biochemistry that can only be explained by the persistence of coherence as a mechanism?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Quantum biology](https://en.wikipedia.org/wiki/Quantum_biology)
+- [coherence](https://en.wikipedia.org/wiki/Coherence_(physics))
+
+## Source Trace
+
+- `wikipedia-physics-quantum-biology` — Wikipedia: List of unsolved problems in physics; section: Biophysics; source line: 226; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

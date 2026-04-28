@@ -47,6 +47,71 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Mitochondria in loriciferans living in anoxic conditions"
+      source_section:
+        - "Non-human biology"
+        - "Non-human organs and biomolecules"
+      source_line: 137
+      source_text: "Mitochondria in loriciferans living in anoxic conditions. It is unknown whether members of the phylum Loricifera adapted to life in anoxic conditions in the L'Atalante basin, like Spinoloricus cinziae, have mitochondria"
+      problem_statement: "It is unknown whether members of the phylum Loricifera adapted to life in anoxic conditions in the L'Atalante basin, like Spinoloricus cinziae, have mitochondria"
+      source_questions: []
+      source_links:
+        -
+          label: "Mitochondria"
+          url: "https://en.wikipedia.org/wiki/Mitochondria"
+          target: "Mitochondria"
+        -
+          label: "loricifera"
+          url: "https://en.wikipedia.org/wiki/loricifera"
+          target: "loricifera"
+        -
+          label: "anoxic conditions"
+          url: "https://en.wikipedia.org/wiki/Anoxic_waters"
+          target: "Anoxic waters"
+        -
+          label: "L'Atalante basin"
+          url: "https://en.wikipedia.org/wiki/L%27Atalante_basin"
+          target: "L'Atalante basin"
+        -
+          label: "Spinoloricus cinziae"
+          url: "https://en.wikipedia.org/wiki/Spinoloricus_cinziae"
+          target: "Spinoloricus cinziae"
+  source_links:
+    -
+      label: "Mitochondria"
+      url: "https://en.wikipedia.org/wiki/Mitochondria"
+      target: "Mitochondria"
+    -
+      label: "loricifera"
+      url: "https://en.wikipedia.org/wiki/loricifera"
+      target: "loricifera"
+    -
+      label: "anoxic conditions"
+      url: "https://en.wikipedia.org/wiki/Anoxic_waters"
+      target: "Anoxic waters"
+    -
+      label: "L'Atalante basin"
+      url: "https://en.wikipedia.org/wiki/L%27Atalante_basin"
+      target: "L'Atalante basin"
+    -
+      label: "Spinoloricus cinziae"
+      url: "https://en.wikipedia.org/wiki/Spinoloricus_cinziae"
+      target: "Spinoloricus cinziae"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +140,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +171,17 @@ verify_links:
 
 It is unknown whether members of the phylum Loricifera adapted to life in anoxic conditions in the L'Atalante basin, like Spinoloricus cinziae, have mitochondria
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Mitochondria](https://en.wikipedia.org/wiki/Mitochondria)
+- [loricifera](https://en.wikipedia.org/wiki/loricifera)
+- [anoxic conditions](https://en.wikipedia.org/wiki/Anoxic_waters)
+- [L'Atalante basin](https://en.wikipedia.org/wiki/L%27Atalante_basin)
+- [Spinoloricus cinziae](https://en.wikipedia.org/wiki/Spinoloricus_cinziae)
+
+## Source Trace
+
+- `wikipedia-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Non-human organs and biomolecules; source line: 137; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

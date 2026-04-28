@@ -46,6 +46,38 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-gauge-block-wringing"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-gauge-block-wringing"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Gauge block wringing"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 194
+      source_text: "Gauge block wringing: What mechanism allows gauge blocks to be wrung together?"
+      problem_statement: "What mechanism allows gauge blocks to be wrung together?"
+      source_questions: []
+      source_links:
+        -
+          label: "Gauge block wringing"
+          url: "https://en.wikipedia.org/wiki/Gauge_block#Wringing"
+          target: "Gauge block#Wringing"
+  source_links:
+    -
+      label: "Gauge block wringing"
+      url: "https://en.wikipedia.org/wiki/Gauge_block#Wringing"
+      target: "Gauge block#Wringing"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +106,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +135,13 @@ verify_links:
 
 What mechanism allows gauge blocks to be wrung together?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Gauge block wringing](https://en.wikipedia.org/wiki/Gauge_block#Wringing)
+
+## Source Trace
+
+- `wikipedia-physics-gauge-block-wringing` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 194; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

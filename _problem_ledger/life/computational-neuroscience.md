@@ -49,6 +49,73 @@ source:
   source_entry_ids:
     - "wikipedia-biology-computational-neuroscience"
     - "wikipedia-neuroscience-computational-neuroscience"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-computational-neuroscience"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Computational neuroscience"
+      source_section:
+        - "Human biology"
+        - "Neuroscience and cognition"
+        - "Cognition and psychology"
+      source_line: 75
+      source_text: "Computational neuroscience: How important is the precise timing of action potentials for information processing in the neocortex? Is there a canonical computation performed by cortical columns? How is information in the brain processed by the collective dynamics of large neuronal circuits? What level of simplification is suitable for a description of information processing in the brain? What is the neural code?"
+      problem_statement: "How important is the precise timing of action potentials for information processing in the neocortex? Is there a canonical computation performed by cortical columns? How is information in the brain processed by the collective dynamics of large neuronal circuits? What level of simplification is suitable for a description of information processing in the brain? What is the neural code?"
+      source_questions: []
+      source_links:
+        -
+          label: "Computational neuroscience"
+          url: "https://en.wikipedia.org/wiki/Computational_neuroscience"
+          target: "Computational neuroscience"
+        -
+          label: "action potential"
+          url: "https://en.wikipedia.org/wiki/action_potential"
+          target: "action potential"
+    -
+      source_entry_id: "wikipedia-neuroscience-computational-neuroscience"
+      source_name: "wikipedia_list_of_unsolved_problems_in_neuroscience"
+      source_display: "Wikipedia: List of unsolved problems in neuroscience"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience?oldid=1330874647"
+      source_revision_id: "1330874647"
+      source_revision_timestamp: "2026-01-03T02:27:19Z"
+      source_title: "Computational neuroscience"
+      source_section:
+        - "Computational neuroscience"
+      source_line: 84
+      source_text: "Computational neuroscience"
+      problem_statement: "Computational neuroscience"
+      source_questions:
+        - "How important is the precise timing of action potentials for information processing in the neocortex?"
+        - "Is there a canonical computation performed by cortical columns?"
+        - "How is information in the brain processed by the collective dynamics of large neuronal circuits?"
+        - "What level of simplification is suitable for a description of information processing in the brain?"
+        - "What is the neural code?"
+      source_links:
+        -
+          label: "Computational neuroscience"
+          url: "https://en.wikipedia.org/wiki/Computational_neuroscience"
+          target: "Computational neuroscience"
+  source_links:
+    -
+      label: "Computational neuroscience"
+      url: "https://en.wikipedia.org/wiki/Computational_neuroscience"
+      target: "Computational neuroscience"
+    -
+      label: "action potential"
+      url: "https://en.wikipedia.org/wiki/action_potential"
+      target: "action potential"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 2
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -79,8 +146,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -108,11 +175,33 @@ verify_links:
 
 ## Problem Statement
 
+This canonical Problem Ledger item consolidates multiple pinned source entries that the v1.0 mapping treats as the same public agenda obligation.
+
+### Source entry 1: Computational neuroscience
+
 How important is the precise timing of action potentials for information processing in the neocortex? Is there a canonical computation performed by cortical columns? How is information in the brain processed by the collective dynamics of large neuronal circuits? What level of simplification is suitable for a description of information processing in the brain? What is the neural code?
 
-Source questions retained from the pinned source:
+### Source entry 2: Computational neuroscience
 
-- _No nested source questions were extracted._
+Computational neuroscience
+
+## Source Questions
+
+- Computational neuroscience: How important is the precise timing of action potentials for information processing in the neocortex?
+- Computational neuroscience: Is there a canonical computation performed by cortical columns?
+- Computational neuroscience: How is information in the brain processed by the collective dynamics of large neuronal circuits?
+- Computational neuroscience: What level of simplification is suitable for a description of information processing in the brain?
+- Computational neuroscience: What is the neural code?
+
+## Source Links
+
+- [Computational neuroscience](https://en.wikipedia.org/wiki/Computational_neuroscience)
+- [action potential](https://en.wikipedia.org/wiki/action_potential)
+
+## Source Trace
+
+- `wikipedia-biology-computational-neuroscience` — Wikipedia: List of unsolved problems in biology; section: Human biology / Neuroscience and cognition / Cognition and psychology; source line: 75; revision: 1350634388.
+- `wikipedia-neuroscience-computational-neuroscience` — Wikipedia: List of unsolved problems in neuroscience; section: Computational neuroscience; source line: 84; revision: 1330874647.
 
 ## Why This Problem Is in Scope
 

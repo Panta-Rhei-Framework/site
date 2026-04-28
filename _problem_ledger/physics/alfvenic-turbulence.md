@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-alfvenic-turbulence"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-alfvenic-turbulence"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Alfvénic turbulence"
+      source_section:
+        - "Plasma physics"
+      source_line: 216
+      source_text: "Alfvénic turbulence: In the solar wind and the turbulence in solar flares, coronal mass ejections, and magnetospheric substorms are major unsolved problems in space plasma physics"
+      problem_statement: "In the solar wind and the turbulence in solar flares, coronal mass ejections, and magnetospheric substorms are major unsolved problems in space plasma physics"
+      source_questions: []
+      source_links:
+        -
+          label: "Alfvénic turbulence"
+          url: "https://en.wikipedia.org/wiki/Magnetohydrodynamic_turbulence"
+          target: "Magnetohydrodynamic turbulence"
+        -
+          label: "solar flare"
+          url: "https://en.wikipedia.org/wiki/solar_flare"
+          target: "solar flare"
+        -
+          label: "coronal mass ejection"
+          url: "https://en.wikipedia.org/wiki/coronal_mass_ejection"
+          target: "coronal mass ejection"
+        -
+          label: "magnetospheric substorms"
+          url: "https://en.wikipedia.org/wiki/Substorm"
+          target: "Substorm"
+  source_links:
+    -
+      label: "Alfvénic turbulence"
+      url: "https://en.wikipedia.org/wiki/Magnetohydrodynamic_turbulence"
+      target: "Magnetohydrodynamic turbulence"
+    -
+      label: "solar flare"
+      url: "https://en.wikipedia.org/wiki/solar_flare"
+      target: "solar flare"
+    -
+      label: "coronal mass ejection"
+      url: "https://en.wikipedia.org/wiki/coronal_mass_ejection"
+      target: "coronal mass ejection"
+    -
+      label: "magnetospheric substorms"
+      url: "https://en.wikipedia.org/wiki/Substorm"
+      target: "Substorm"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 In the solar wind and the turbulence in solar flares, coronal mass ejections, and magnetospheric substorms are major unsolved problems in space plasma physics
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Alfvénic turbulence](https://en.wikipedia.org/wiki/Magnetohydrodynamic_turbulence)
+- [solar flare](https://en.wikipedia.org/wiki/solar_flare)
+- [coronal mass ejection](https://en.wikipedia.org/wiki/coronal_mass_ejection)
+- [magnetospheric substorms](https://en.wikipedia.org/wiki/Substorm)
+
+## Source Trace
+
+- `wikipedia-physics-alfvenic-turbulence` — Wikipedia: List of unsolved problems in physics; section: Plasma physics; source line: 216; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

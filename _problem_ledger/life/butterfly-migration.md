@@ -47,6 +47,47 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-butterfly-migration"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-butterfly-migration"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Butterfly migration"
+      source_section:
+        - "Non-human biology"
+        - "Ethology"
+      source_line: 123
+      source_text: "Butterfly migration. How do the descendants of monarch butterfly all over Canada and the US eventually, after migrating for several generations, manage to return to a few relatively small overwintering spots?"
+      problem_statement: "How do the descendants of monarch butterfly all over Canada and the US eventually, after migrating for several generations, manage to return to a few relatively small overwintering spots?"
+      source_questions: []
+      source_links:
+        -
+          label: "Butterfly migration"
+          url: "https://en.wikipedia.org/wiki/Butterfly_migration"
+          target: "Butterfly migration"
+        -
+          label: "monarch butterfly"
+          url: "https://en.wikipedia.org/wiki/monarch_butterfly"
+          target: "monarch butterfly"
+  source_links:
+    -
+      label: "Butterfly migration"
+      url: "https://en.wikipedia.org/wiki/Butterfly_migration"
+      target: "Butterfly migration"
+    -
+      label: "monarch butterfly"
+      url: "https://en.wikipedia.org/wiki/monarch_butterfly"
+      target: "monarch butterfly"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +116,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +147,14 @@ verify_links:
 
 How do the descendants of monarch butterfly all over Canada and the US eventually, after migrating for several generations, manage to return to a few relatively small overwintering spots?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Butterfly migration](https://en.wikipedia.org/wiki/Butterfly_migration)
+- [monarch butterfly](https://en.wikipedia.org/wiki/monarch_butterfly)
+
+## Source Trace
+
+- `wikipedia-biology-butterfly-migration` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ethology; source line: 123; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

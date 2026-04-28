@@ -47,6 +47,39 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-flocking-behavior"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-flocking-behavior"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Flocking (behavior)"
+      source_section:
+        - "Non-human biology"
+        - "Ethology"
+      source_line: 122
+      source_text: "Flocking (behavior). How flocks of birds and bats coordinate their movements so quickly is not fully understood. Nor is the purpose of large flocks like those of starlings which seem to invite predators rather than protect them"
+      problem_statement: "How flocks of birds and bats coordinate their movements so quickly is not fully understood. Nor is the purpose of large flocks like those of starlings which seem to invite predators rather than protect them"
+      source_questions: []
+      source_links:
+        -
+          label: "Flocking (behavior)"
+          url: "https://en.wikipedia.org/wiki/Flocking_(behavior)"
+          target: "Flocking (behavior)"
+  source_links:
+    -
+      label: "Flocking (behavior)"
+      url: "https://en.wikipedia.org/wiki/Flocking_(behavior)"
+      target: "Flocking (behavior)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +108,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +139,13 @@ verify_links:
 
 How flocks of birds and bats coordinate their movements so quickly is not fully understood. Nor is the purpose of large flocks like those of starlings which seem to invite predators rather than protect them
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Flocking (behavior)](https://en.wikipedia.org/wiki/Flocking_(behavior))
+
+## Source Trace
+
+- `wikipedia-biology-flocking-behavior` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ethology; source line: 122; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

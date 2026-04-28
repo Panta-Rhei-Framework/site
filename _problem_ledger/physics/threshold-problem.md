@@ -46,6 +46,78 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-threshold-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-threshold-problem"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Threshold problem"
+      source_section:
+        - "Quantum computing and quantum information"
+      source_line: 206
+      source_text: "Threshold problem: Can we go beyond the noisy intermediate-scale quantum era? Can quantum computers reach fault tolerance? Is it possible to have enough qubit scalability to implement quantum error correction? What are the most promising candidate platforms to physically implement qubits?"
+      problem_statement: "Can we go beyond the noisy intermediate-scale quantum era? Can quantum computers reach fault tolerance? Is it possible to have enough qubit scalability to implement quantum error correction? What are the most promising candidate platforms to physically implement qubits?"
+      source_questions: []
+      source_links:
+        -
+          label: "Threshold problem"
+          url: "https://en.wikipedia.org/wiki/Threshold_theorem"
+          target: "Threshold theorem"
+        -
+          label: "noisy intermediate-scale quantum era"
+          url: "https://en.wikipedia.org/wiki/noisy_intermediate-scale_quantum_era"
+          target: "noisy intermediate-scale quantum era"
+        -
+          label: "quantum computers"
+          url: "https://en.wikipedia.org/wiki/Quantum_computing"
+          target: "Quantum computing"
+        -
+          label: "fault tolerance"
+          url: "https://en.wikipedia.org/wiki/fault_tolerance"
+          target: "fault tolerance"
+        -
+          label: "qubit"
+          url: "https://en.wikipedia.org/wiki/qubit"
+          target: "qubit"
+        -
+          label: "quantum error correction"
+          url: "https://en.wikipedia.org/wiki/quantum_error_correction"
+          target: "quantum error correction"
+  source_links:
+    -
+      label: "Threshold problem"
+      url: "https://en.wikipedia.org/wiki/Threshold_theorem"
+      target: "Threshold theorem"
+    -
+      label: "noisy intermediate-scale quantum era"
+      url: "https://en.wikipedia.org/wiki/noisy_intermediate-scale_quantum_era"
+      target: "noisy intermediate-scale quantum era"
+    -
+      label: "quantum computers"
+      url: "https://en.wikipedia.org/wiki/Quantum_computing"
+      target: "Quantum computing"
+    -
+      label: "fault tolerance"
+      url: "https://en.wikipedia.org/wiki/fault_tolerance"
+      target: "fault tolerance"
+    -
+      label: "qubit"
+      url: "https://en.wikipedia.org/wiki/qubit"
+      target: "qubit"
+    -
+      label: "quantum error correction"
+      url: "https://en.wikipedia.org/wiki/quantum_error_correction"
+      target: "quantum error correction"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +146,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +175,18 @@ verify_links:
 
 Can we go beyond the noisy intermediate-scale quantum era? Can quantum computers reach fault tolerance? Is it possible to have enough qubit scalability to implement quantum error correction? What are the most promising candidate platforms to physically implement qubits?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Threshold problem](https://en.wikipedia.org/wiki/Threshold_theorem)
+- [noisy intermediate-scale quantum era](https://en.wikipedia.org/wiki/noisy_intermediate-scale_quantum_era)
+- [quantum computers](https://en.wikipedia.org/wiki/Quantum_computing)
+- [fault tolerance](https://en.wikipedia.org/wiki/fault_tolerance)
+- [qubit](https://en.wikipedia.org/wiki/qubit)
+- [quantum error correction](https://en.wikipedia.org/wiki/quantum_error_correction)
+
+## Source Trace
+
+- `wikipedia-physics-threshold-problem` — Wikipedia: List of unsolved problems in physics; section: Quantum computing and quantum information; source line: 206; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

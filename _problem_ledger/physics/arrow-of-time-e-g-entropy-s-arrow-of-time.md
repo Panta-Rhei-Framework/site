@@ -46,6 +46,94 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-arrow-of-time-e-g-entropy-s-arrow-of-time"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-arrow-of-time-e-g-entropy-s-arrow-of-time"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Arrow of time (e.g. entropy's arrow of time)"
+      source_section:
+        - "Foundations of physics"
+      source_line: 230
+      source_text: "Arrow of time (e.g. entropy's arrow of time): Why does time have a direction? Why did the universe have such low entropy in the past, and time correlates with the universal (but not local) increase in entropy, from the past and to the future, according to the second law of thermodynamics? Why are CP violations observed in certain weak force decays, but not elsewhere? Are CP violations somehow a product of the second law of thermodynamics, or are they a separate arrow of time? Are there exceptions to the principle of causality? Is there a single possible past? Is the present moment physically distinct from the past and future, or is it merely an emergent property of consciousness? What links the quantum arrow of time to the thermodynamic arrow?"
+      problem_statement: "Why does time have a direction? Why did the universe have such low entropy in the past, and time correlates with the universal (but not local) increase in entropy, from the past and to the future, according to the second law of thermodynamics? Why are CP violations observed in certain weak force decays, but not elsewhere? Are CP violations somehow a product of the second law of thermodynamics, or are they a separate arrow of time? Are there exceptions to the principle of causality? Is there a single possible past? Is the present moment physically distinct from the past and future, or is it merely an emergent property of consciousness? What links the quantum arrow of time to the thermodynamic arrow?"
+      source_questions: []
+      source_links:
+        -
+          label: "Arrow of time"
+          url: "https://en.wikipedia.org/wiki/Arrow_of_time"
+          target: "Arrow of time"
+        -
+          label: "entropy's arrow of time"
+          url: "https://en.wikipedia.org/wiki/entropy_(arrow_of_time)"
+          target: "entropy (arrow of time)"
+        -
+          label: "entropy"
+          url: "https://en.wikipedia.org/wiki/entropy"
+          target: "entropy"
+        -
+          label: "second law of thermodynamics"
+          url: "https://en.wikipedia.org/wiki/second_law_of_thermodynamics"
+          target: "second law of thermodynamics"
+        -
+          label: "CP violation"
+          url: "https://en.wikipedia.org/wiki/CP_violation"
+          target: "CP violation"
+        -
+          label: "causality"
+          url: "https://en.wikipedia.org/wiki/causality_(physics)"
+          target: "causality (physics)"
+        -
+          label: "present"
+          url: "https://en.wikipedia.org/wiki/present#Philosophy_of_time"
+          target: "present#Philosophy of time"
+        -
+          label: "consciousness"
+          url: "https://en.wikipedia.org/wiki/consciousness"
+          target: "consciousness"
+  source_links:
+    -
+      label: "Arrow of time"
+      url: "https://en.wikipedia.org/wiki/Arrow_of_time"
+      target: "Arrow of time"
+    -
+      label: "entropy's arrow of time"
+      url: "https://en.wikipedia.org/wiki/entropy_(arrow_of_time)"
+      target: "entropy (arrow of time)"
+    -
+      label: "entropy"
+      url: "https://en.wikipedia.org/wiki/entropy"
+      target: "entropy"
+    -
+      label: "second law of thermodynamics"
+      url: "https://en.wikipedia.org/wiki/second_law_of_thermodynamics"
+      target: "second law of thermodynamics"
+    -
+      label: "CP violation"
+      url: "https://en.wikipedia.org/wiki/CP_violation"
+      target: "CP violation"
+    -
+      label: "causality"
+      url: "https://en.wikipedia.org/wiki/causality_(physics)"
+      target: "causality (physics)"
+    -
+      label: "present"
+      url: "https://en.wikipedia.org/wiki/present#Philosophy_of_time"
+      target: "present#Philosophy of time"
+    -
+      label: "consciousness"
+      url: "https://en.wikipedia.org/wiki/consciousness"
+      target: "consciousness"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +162,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +191,20 @@ verify_links:
 
 Why does time have a direction? Why did the universe have such low entropy in the past, and time correlates with the universal (but not local) increase in entropy, from the past and to the future, according to the second law of thermodynamics? Why are CP violations observed in certain weak force decays, but not elsewhere? Are CP violations somehow a product of the second law of thermodynamics, or are they a separate arrow of time? Are there exceptions to the principle of causality? Is there a single possible past? Is the present moment physically distinct from the past and future, or is it merely an emergent property of consciousness? What links the quantum arrow of time to the thermodynamic arrow?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time)
+- [entropy's arrow of time](https://en.wikipedia.org/wiki/entropy_(arrow_of_time))
+- [entropy](https://en.wikipedia.org/wiki/entropy)
+- [second law of thermodynamics](https://en.wikipedia.org/wiki/second_law_of_thermodynamics)
+- [CP violation](https://en.wikipedia.org/wiki/CP_violation)
+- [causality](https://en.wikipedia.org/wiki/causality_(physics))
+- [present](https://en.wikipedia.org/wiki/present#Philosophy_of_time)
+- [consciousness](https://en.wikipedia.org/wiki/consciousness)
+
+## Source Trace
+
+- `wikipedia-physics-arrow-of-time-e-g-entropy-s-arrow-of-time` — Wikipedia: List of unsolved problems in physics; section: Foundations of physics; source line: 230; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,134 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-why-there-is-something-rather-than-nothing"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-why-there-is-something-rather-than-nothing"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Why there is something rather than nothing"
+      source_section:
+        - "Metaphysics"
+      source_line: 87
+      source_text: "Why there is something rather than nothing"
+      problem_statement: "The question about why is there anything at all instead of nothing has been raised or commented on by philosophers including Gottfried Wilhelm Leibniz, Martin Heidegger, and Ludwig Wittgenstein – who called it the fundamental question of metaphysics. The question is general, rather than concerning the existence of anything specific such as the universe/s, the Big Bang, mathematical laws, physical laws, time, consciousness or God"
+      source_questions: []
+      source_links:
+        -
+          label: "Gottfried Wilhelm Leibniz"
+          url: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+          target: "Gottfried Wilhelm Leibniz"
+        -
+          label: "Martin Heidegger"
+          url: "https://en.wikipedia.org/wiki/Martin_Heidegger"
+          target: "Martin Heidegger"
+        -
+          label: "Ludwig Wittgenstein"
+          url: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
+          target: "Ludwig Wittgenstein"
+        -
+          label: "Tractatus Logico-Philosophicus"
+          url: "https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus"
+          target: "Tractatus Logico-Philosophicus"
+        -
+          label: "metaphysics"
+          url: "https://en.wikipedia.org/wiki/metaphysics"
+          target: "metaphysics"
+        -
+          label: "universe"
+          url: "https://en.wikipedia.org/wiki/universe"
+          target: "universe"
+        -
+          label: "s"
+          url: "https://en.wikipedia.org/wiki/multiverse"
+          target: "multiverse"
+        -
+          label: "Big Bang"
+          url: "https://en.wikipedia.org/wiki/Big_Bang"
+          target: "Big Bang"
+        -
+          label: "mathematical laws"
+          url: "https://en.wikipedia.org/wiki/mathematics"
+          target: "mathematics"
+        -
+          label: "physical law"
+          url: "https://en.wikipedia.org/wiki/physical_law"
+          target: "physical law"
+        -
+          label: "time"
+          url: "https://en.wikipedia.org/wiki/time"
+          target: "time"
+        -
+          label: "consciousness"
+          url: "https://en.wikipedia.org/wiki/consciousness"
+          target: "consciousness"
+        -
+          label: "God"
+          url: "https://en.wikipedia.org/wiki/God"
+          target: "God"
+  source_links:
+    -
+      label: "Gottfried Wilhelm Leibniz"
+      url: "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+      target: "Gottfried Wilhelm Leibniz"
+    -
+      label: "Martin Heidegger"
+      url: "https://en.wikipedia.org/wiki/Martin_Heidegger"
+      target: "Martin Heidegger"
+    -
+      label: "Ludwig Wittgenstein"
+      url: "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
+      target: "Ludwig Wittgenstein"
+    -
+      label: "Tractatus Logico-Philosophicus"
+      url: "https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus"
+      target: "Tractatus Logico-Philosophicus"
+    -
+      label: "metaphysics"
+      url: "https://en.wikipedia.org/wiki/metaphysics"
+      target: "metaphysics"
+    -
+      label: "universe"
+      url: "https://en.wikipedia.org/wiki/universe"
+      target: "universe"
+    -
+      label: "s"
+      url: "https://en.wikipedia.org/wiki/multiverse"
+      target: "multiverse"
+    -
+      label: "Big Bang"
+      url: "https://en.wikipedia.org/wiki/Big_Bang"
+      target: "Big Bang"
+    -
+      label: "mathematical laws"
+      url: "https://en.wikipedia.org/wiki/mathematics"
+      target: "mathematics"
+    -
+      label: "physical law"
+      url: "https://en.wikipedia.org/wiki/physical_law"
+      target: "physical law"
+    -
+      label: "time"
+      url: "https://en.wikipedia.org/wiki/time"
+      target: "time"
+    -
+      label: "consciousness"
+      url: "https://en.wikipedia.org/wiki/consciousness"
+      target: "consciousness"
+    -
+      label: "God"
+      url: "https://en.wikipedia.org/wiki/God"
+      target: "God"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_critical"
   agenda_role: "expressibility_test"
@@ -83,8 +211,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics"
   - "ontology"
@@ -111,7 +239,27 @@ verify_links:
 
 ## Problem Statement
 
-This entry is included from the philosophical problems master ledger.
+The question about why is there anything at all instead of nothing has been raised or commented on by philosophers including Gottfried Wilhelm Leibniz, Martin Heidegger, and Ludwig Wittgenstein – who called it the fundamental question of metaphysics. The question is general, rather than concerning the existence of anything specific such as the universe/s, the Big Bang, mathematical laws, physical laws, time, consciousness or God
+
+## Source Links
+
+- [Gottfried Wilhelm Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
+- [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger)
+- [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
+- [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
+- [metaphysics](https://en.wikipedia.org/wiki/metaphysics)
+- [universe](https://en.wikipedia.org/wiki/universe)
+- [s](https://en.wikipedia.org/wiki/multiverse)
+- [Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
+- [mathematical laws](https://en.wikipedia.org/wiki/mathematics)
+- [physical law](https://en.wikipedia.org/wiki/physical_law)
+- [time](https://en.wikipedia.org/wiki/time)
+- [consciousness](https://en.wikipedia.org/wiki/consciousness)
+- [God](https://en.wikipedia.org/wiki/God)
+
+## Source Trace
+
+- `wikipedia-philosophy-why-there-is-something-rather-than-nothing` — Wikipedia: List of philosophical problems; section: Metaphysics; source line: 87; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-the-injection-problem"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-the-injection-problem"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "The injection problem"
+      source_section:
+        - "Plasma physics"
+      source_line: 215
+      source_text: "The injection problem: Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy. However, it is unclear what mechanism causes those particles to initially have energies high enough for Fermi acceleration to work on them"
+      problem_statement: "Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy. However, it is unclear what mechanism causes those particles to initially have energies high enough for Fermi acceleration to work on them"
+      source_questions: []
+      source_links:
+        -
+          label: "The injection problem"
+          url: "https://en.wikipedia.org/wiki/Fermi_acceleration#The_injection_problem"
+          target: "Fermi acceleration#The injection problem"
+        -
+          label: "Fermi acceleration"
+          url: "https://en.wikipedia.org/wiki/Fermi_acceleration"
+          target: "Fermi acceleration"
+  source_links:
+    -
+      label: "The injection problem"
+      url: "https://en.wikipedia.org/wiki/Fermi_acceleration#The_injection_problem"
+      target: "Fermi acceleration#The injection problem"
+    -
+      label: "Fermi acceleration"
+      url: "https://en.wikipedia.org/wiki/Fermi_acceleration"
+      target: "Fermi acceleration"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy. However, it is unclear what mechanism causes those particles to initially have energies high enough for Fermi acceleration to work on them
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [The injection problem](https://en.wikipedia.org/wiki/Fermi_acceleration#The_injection_problem)
+- [Fermi acceleration](https://en.wikipedia.org/wiki/Fermi_acceleration)
+
+## Source Trace
+
+- `wikipedia-physics-the-injection-problem` — Wikipedia: List of unsolved problems in physics; section: Plasma physics; source line: 215; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

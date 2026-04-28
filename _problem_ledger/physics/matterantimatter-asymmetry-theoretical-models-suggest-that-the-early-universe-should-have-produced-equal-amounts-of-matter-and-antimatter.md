@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 64
+      source_text: "Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter. However, observations indicate no significant primordial antimatter. Understanding the mechanisms that led to this asymmetry is a major unsolved problem in physics"
+      problem_statement: "However, observations indicate no significant primordial antimatter. Understanding the mechanisms that led to this asymmetry is a major unsolved problem in physics"
+      source_questions: []
+      source_links:
+        -
+          label: "Matter–antimatter asymmetry"
+          url: "https://en.wikipedia.org/wiki/Matter%E2%80%93antimatter_asymmetry"
+          target: "Matter–antimatter asymmetry"
+        -
+          label: "Particle Data Group"
+          url: "https://en.wikipedia.org/wiki/Particle_Data_Group"
+          target: "Particle Data Group"
+        -
+          label: "Physical Review D"
+          url: "https://en.wikipedia.org/wiki/Physical_Review_D"
+          target: "Physical Review D"
+  source_links:
+    -
+      label: "Matter–antimatter asymmetry"
+      url: "https://en.wikipedia.org/wiki/Matter%E2%80%93antimatter_asymmetry"
+      target: "Matter–antimatter asymmetry"
+    -
+      label: "Particle Data Group"
+      url: "https://en.wikipedia.org/wiki/Particle_Data_Group"
+      target: "Particle Data Group"
+    -
+      label: "Physical Review D"
+      url: "https://en.wikipedia.org/wiki/Physical_Review_D"
+      target: "Physical Review D"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 However, observations indicate no significant primordial antimatter. Understanding the mechanisms that led to this asymmetry is a major unsolved problem in physics
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Matter–antimatter asymmetry](https://en.wikipedia.org/wiki/Matter%E2%80%93antimatter_asymmetry)
+- [Particle Data Group](https://en.wikipedia.org/wiki/Particle_Data_Group)
+- [Physical Review D](https://en.wikipedia.org/wiki/Physical_Review_D)
+
+## Source Trace
+
+- `wikipedia-physics-matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 64; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

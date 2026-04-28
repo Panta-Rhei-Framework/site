@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-problem-of-universals"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-problem-of-universals"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Problem of universals"
+      source_section:
+        - "Metaphysics"
+      source_line: 91
+      source_text: "Problem of universals"
+      problem_statement: "The problem of universals refers to the question of whether properties exist, and if so, what they are. Properties are qualities or relations or names that two or more entities have in common. The various kinds of properties, such as qualities and relations, are referred to as universals. For instance, one can imagine three cup holders on a table that have in common the quality of being circular or exemplifying circularity, or bear the same name, \"circular cup\" or two daughters that have in common being the female offsprings of Frank. There are many such properties, such as being human, red, male or female, liquid, big or small, taller than, father of, etc. While philosophers agree that human beings talk and think about properties, they disagree on whether these universals exist in reality or merely in thought, speech and sight"
+      source_questions: []
+      source_links:
+        -
+          label: "properties"
+          url: "https://en.wikipedia.org/wiki/property_(philosophy)"
+          target: "property (philosophy)"
+        -
+          label: "relations"
+          url: "https://en.wikipedia.org/wiki/relation_(philosophy)"
+          target: "relation (philosophy)"
+        -
+          label: "universals"
+          url: "https://en.wikipedia.org/wiki/Universal_(metaphysics)"
+          target: "Universal (metaphysics)"
+        -
+          label: "reality"
+          url: "https://en.wikipedia.org/wiki/reality"
+          target: "reality"
+  source_links:
+    -
+      label: "properties"
+      url: "https://en.wikipedia.org/wiki/property_(philosophy)"
+      target: "property (philosophy)"
+    -
+      label: "relations"
+      url: "https://en.wikipedia.org/wiki/relation_(philosophy)"
+      target: "relation (philosophy)"
+    -
+      label: "universals"
+      url: "https://en.wikipedia.org/wiki/Universal_(metaphysics)"
+      target: "Universal (metaphysics)"
+    -
+      label: "reality"
+      url: "https://en.wikipedia.org/wiki/reality"
+      target: "reality"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +159,16 @@ verify_links:
 
 The problem of universals refers to the question of whether properties exist, and if so, what they are. Properties are qualities or relations or names that two or more entities have in common. The various kinds of properties, such as qualities and relations, are referred to as universals. For instance, one can imagine three cup holders on a table that have in common the quality of being circular or exemplifying circularity, or bear the same name, "circular cup" or two daughters that have in common being the female offsprings of Frank. There are many such properties, such as being human, red, male or female, liquid, big or small, taller than, father of, etc. While philosophers agree that human beings talk and think about properties, they disagree on whether these universals exist in reality or merely in thought, speech and sight
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [properties](https://en.wikipedia.org/wiki/property_(philosophy))
+- [relations](https://en.wikipedia.org/wiki/relation_(philosophy))
+- [universals](https://en.wikipedia.org/wiki/Universal_(metaphysics))
+- [reality](https://en.wikipedia.org/wiki/reality)
+
+## Source Trace
+
+- `wikipedia-philosophy-problem-of-universals` — Wikipedia: List of philosophical problems; section: Metaphysics; source line: 91; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

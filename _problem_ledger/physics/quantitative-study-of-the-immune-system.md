@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quantitative-study-of-the-immune-system"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quantitative-study-of-the-immune-system"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quantitative study of the immune system"
+      source_section:
+        - "Biophysics"
+      source_line: 222
+      source_text: "Quantitative study of the immune system: What are the quantitative properties of immune responses? What are the basic building blocks of immune system networks?"
+      problem_statement: "What are the quantitative properties of immune responses? What are the basic building blocks of immune system networks?"
+      source_questions: []
+      source_links:
+        -
+          label: "immune system"
+          url: "https://en.wikipedia.org/wiki/immune_system"
+          target: "immune system"
+        -
+          label: "immune response"
+          url: "https://en.wikipedia.org/wiki/immune_response"
+          target: "immune response"
+  source_links:
+    -
+      label: "immune system"
+      url: "https://en.wikipedia.org/wiki/immune_system"
+      target: "immune system"
+    -
+      label: "immune response"
+      url: "https://en.wikipedia.org/wiki/immune_response"
+      target: "immune response"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 What are the quantitative properties of immune responses? What are the basic building blocks of immune system networks?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [immune system](https://en.wikipedia.org/wiki/immune_system)
+- [immune response](https://en.wikipedia.org/wiki/immune_response)
+
+## Source Trace
+
+- `wikipedia-physics-quantitative-study-of-the-immune-system` — Wikipedia: List of unsolved problems in physics; section: Biophysics; source line: 222; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

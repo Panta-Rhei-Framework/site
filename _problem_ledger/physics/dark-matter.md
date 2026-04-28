@@ -46,6 +46,102 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-dark-matter"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-dark-matter"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Dark matter"
+      source_section:
+        - "Cosmology and general relativity"
+      source_line: 70
+      source_text: "Dark matter: What is the identity of dark matter? Is it a particle? If so, is it a WIMP, axion, the lightest superpartner (LSP), or some other particle? Or, are the phenomena attributed to dark matter the result of an alternate theory of gravity separate from general relativity altogether? Despite extensive research, the exact composition of dark matter remains unknown. It is inferred from gravitational effects on visible matter, radiation, and the universe's large-scale structure. Understanding its properties is crucial for a comprehensive understanding of the universe"
+      problem_statement: "What is the identity of dark matter? Is it a particle? If so, is it a WIMP, axion, the lightest superpartner (LSP), or some other particle? Or, are the phenomena attributed to dark matter the result of an alternate theory of gravity separate from general relativity altogether? Despite extensive research, the exact composition of dark matter remains unknown. It is inferred from gravitational effects on visible matter, radiation, and the universe's large-scale structure. Understanding its properties is crucial for a comprehensive understanding of the universe"
+      source_questions: []
+      source_links:
+        -
+          label: "Dark matter"
+          url: "https://en.wikipedia.org/wiki/Dark_matter"
+          target: "Dark matter"
+        -
+          label: "New Scientist"
+          url: "https://en.wikipedia.org/wiki/New_Scientist"
+          target: "New Scientist"
+        -
+          label: "particle"
+          url: "https://en.wikipedia.org/wiki/Elementary_particle"
+          target: "Elementary particle"
+        -
+          label: "WIMP"
+          url: "https://en.wikipedia.org/wiki/weakly_interacting_massive_particles"
+          target: "weakly interacting massive particles"
+        -
+          label: "axion"
+          url: "https://en.wikipedia.org/wiki/axion"
+          target: "axion"
+        -
+          label: "superpartner"
+          url: "https://en.wikipedia.org/wiki/superpartner"
+          target: "superpartner"
+        -
+          label: "phenomena attributed to dark matter"
+          url: "https://en.wikipedia.org/wiki/Galaxy_rotation_curve"
+          target: "Galaxy rotation curve"
+        -
+          label: "an alternate theory of gravity"
+          url: "https://en.wikipedia.org/wiki/Modified_models_of_gravity"
+          target: "Modified models of gravity"
+        -
+          label: "general relativity"
+          url: "https://en.wikipedia.org/wiki/general_relativity"
+          target: "general relativity"
+  source_links:
+    -
+      label: "Dark matter"
+      url: "https://en.wikipedia.org/wiki/Dark_matter"
+      target: "Dark matter"
+    -
+      label: "New Scientist"
+      url: "https://en.wikipedia.org/wiki/New_Scientist"
+      target: "New Scientist"
+    -
+      label: "particle"
+      url: "https://en.wikipedia.org/wiki/Elementary_particle"
+      target: "Elementary particle"
+    -
+      label: "WIMP"
+      url: "https://en.wikipedia.org/wiki/weakly_interacting_massive_particles"
+      target: "weakly interacting massive particles"
+    -
+      label: "axion"
+      url: "https://en.wikipedia.org/wiki/axion"
+      target: "axion"
+    -
+      label: "superpartner"
+      url: "https://en.wikipedia.org/wiki/superpartner"
+      target: "superpartner"
+    -
+      label: "phenomena attributed to dark matter"
+      url: "https://en.wikipedia.org/wiki/Galaxy_rotation_curve"
+      target: "Galaxy rotation curve"
+    -
+      label: "an alternate theory of gravity"
+      url: "https://en.wikipedia.org/wiki/Modified_models_of_gravity"
+      target: "Modified models of gravity"
+    -
+      label: "general relativity"
+      url: "https://en.wikipedia.org/wiki/general_relativity"
+      target: "general relativity"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_critical"
   agenda_role: "stress_test"
@@ -61,7 +157,7 @@ related:
     - "result-113"
   verify:
     - "/verify/predictions-and-falsification/"
-    - "/publications/monograph-supplements/numerical-physics-ledger/"
+    - "/publications/numerical-physics-ledger/"
     - "/verify/domain-verification/physics/"
   publications: []
   world_readout:
@@ -85,8 +181,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "cosmology"
@@ -112,8 +208,23 @@ verify_links:
 
 ## Problem Statement
 
-Dark matter is included from the physics master ledger as an external open
-problem.
+What is the identity of dark matter? Is it a particle? If so, is it a WIMP, axion, the lightest superpartner (LSP), or some other particle? Or, are the phenomena attributed to dark matter the result of an alternate theory of gravity separate from general relativity altogether? Despite extensive research, the exact composition of dark matter remains unknown. It is inferred from gravitational effects on visible matter, radiation, and the universe's large-scale structure. Understanding its properties is crucial for a comprehensive understanding of the universe
+
+## Source Links
+
+- [Dark matter](https://en.wikipedia.org/wiki/Dark_matter)
+- [New Scientist](https://en.wikipedia.org/wiki/New_Scientist)
+- [particle](https://en.wikipedia.org/wiki/Elementary_particle)
+- [WIMP](https://en.wikipedia.org/wiki/weakly_interacting_massive_particles)
+- [axion](https://en.wikipedia.org/wiki/axion)
+- [superpartner](https://en.wikipedia.org/wiki/superpartner)
+- [phenomena attributed to dark matter](https://en.wikipedia.org/wiki/Galaxy_rotation_curve)
+- [an alternate theory of gravity](https://en.wikipedia.org/wiki/Modified_models_of_gravity)
+- [general relativity](https://en.wikipedia.org/wiki/general_relativity)
+
+## Source Trace
+
+- `wikipedia-physics-dark-matter` — Wikipedia: List of unsolved problems in physics; section: Cosmology and general relativity; source line: 70; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

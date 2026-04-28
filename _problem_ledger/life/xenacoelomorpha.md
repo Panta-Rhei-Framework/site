@@ -47,6 +47,87 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-xenacoelomorpha"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-xenacoelomorpha"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Xenacoelomorpha"
+      source_section:
+        - "Non-human biology"
+        - "Ecology, evolution, and paleontology"
+      source_line: 104
+      source_text: "Xenacoelomorpha: are they deuterostomes, forming a clade Xenambulacraria together with echinoderms and hemichordates, or rather primitive bilaterians and a sister group to Nephrozoa?"
+      problem_statement: "are they deuterostomes, forming a clade Xenambulacraria together with echinoderms and hemichordates, or rather primitive bilaterians and a sister group to Nephrozoa?"
+      source_questions: []
+      source_links:
+        -
+          label: "Xenacoelomorpha"
+          url: "https://en.wikipedia.org/wiki/Xenacoelomorpha"
+          target: "Xenacoelomorpha"
+        -
+          label: "deuterostome"
+          url: "https://en.wikipedia.org/wiki/deuterostome"
+          target: "deuterostome"
+        -
+          label: "Xenambulacraria"
+          url: "https://en.wikipedia.org/wiki/Xenambulacraria"
+          target: "Xenambulacraria"
+        -
+          label: "echinoderm"
+          url: "https://en.wikipedia.org/wiki/echinoderm"
+          target: "echinoderm"
+        -
+          label: "hemichordate"
+          url: "https://en.wikipedia.org/wiki/hemichordate"
+          target: "hemichordate"
+        -
+          label: "bilateria"
+          url: "https://en.wikipedia.org/wiki/bilateria"
+          target: "bilateria"
+        -
+          label: "Nephrozoa"
+          url: "https://en.wikipedia.org/wiki/Nephrozoa"
+          target: "Nephrozoa"
+  source_links:
+    -
+      label: "Xenacoelomorpha"
+      url: "https://en.wikipedia.org/wiki/Xenacoelomorpha"
+      target: "Xenacoelomorpha"
+    -
+      label: "deuterostome"
+      url: "https://en.wikipedia.org/wiki/deuterostome"
+      target: "deuterostome"
+    -
+      label: "Xenambulacraria"
+      url: "https://en.wikipedia.org/wiki/Xenambulacraria"
+      target: "Xenambulacraria"
+    -
+      label: "echinoderm"
+      url: "https://en.wikipedia.org/wiki/echinoderm"
+      target: "echinoderm"
+    -
+      label: "hemichordate"
+      url: "https://en.wikipedia.org/wiki/hemichordate"
+      target: "hemichordate"
+    -
+      label: "bilateria"
+      url: "https://en.wikipedia.org/wiki/bilateria"
+      target: "bilateria"
+    -
+      label: "Nephrozoa"
+      url: "https://en.wikipedia.org/wiki/Nephrozoa"
+      target: "Nephrozoa"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +156,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +187,19 @@ verify_links:
 
 are they deuterostomes, forming a clade Xenambulacraria together with echinoderms and hemichordates, or rather primitive bilaterians and a sister group to Nephrozoa?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Xenacoelomorpha](https://en.wikipedia.org/wiki/Xenacoelomorpha)
+- [deuterostome](https://en.wikipedia.org/wiki/deuterostome)
+- [Xenambulacraria](https://en.wikipedia.org/wiki/Xenambulacraria)
+- [echinoderm](https://en.wikipedia.org/wiki/echinoderm)
+- [hemichordate](https://en.wikipedia.org/wiki/hemichordate)
+- [bilateria](https://en.wikipedia.org/wiki/bilateria)
+- [Nephrozoa](https://en.wikipedia.org/wiki/Nephrozoa)
+
+## Source Trace
+
+- `wikipedia-biology-xenacoelomorpha` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ecology, evolution, and paleontology; source line: 104; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

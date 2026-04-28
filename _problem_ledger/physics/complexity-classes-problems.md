@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-complexity-classes-problems"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-complexity-classes-problems"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Complexity classes problems"
+      source_section:
+        - "Quantum computing and quantum information"
+      source_line: 209
+      source_text: "Complexity classes problems: What is the relation between BQP and BPP? What is the relation between BQP and NP? Can computation in plausible physical theories (quantum algorithms) go beyond BQP?"
+      problem_statement: "What is the relation between BQP and BPP? What is the relation between BQP and NP? Can computation in plausible physical theories (quantum algorithms) go beyond BQP?"
+      source_questions: []
+      source_links:
+        -
+          label: "BQP"
+          url: "https://en.wikipedia.org/wiki/BQP"
+          target: "BQP"
+        -
+          label: "BPP"
+          url: "https://en.wikipedia.org/wiki/BPP_(complexity)"
+          target: "BPP (complexity)"
+        -
+          label: "NP"
+          url: "https://en.wikipedia.org/wiki/NP_(complexity)"
+          target: "NP (complexity)"
+  source_links:
+    -
+      label: "BQP"
+      url: "https://en.wikipedia.org/wiki/BQP"
+      target: "BQP"
+    -
+      label: "BPP"
+      url: "https://en.wikipedia.org/wiki/BPP_(complexity)"
+      target: "BPP (complexity)"
+    -
+      label: "NP"
+      url: "https://en.wikipedia.org/wiki/NP_(complexity)"
+      target: "NP (complexity)"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +151,15 @@ verify_links:
 
 What is the relation between BQP and BPP? What is the relation between BQP and NP? Can computation in plausible physical theories (quantum algorithms) go beyond BQP?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [BQP](https://en.wikipedia.org/wiki/BQP)
+- [BPP](https://en.wikipedia.org/wiki/BPP_(complexity))
+- [NP](https://en.wikipedia.org/wiki/NP_(complexity))
+
+## Source Trace
+
+- `wikipedia-physics-complexity-classes-problems` — Wikipedia: List of unsolved problems in physics; section: Quantum computing and quantum information; source line: 209; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

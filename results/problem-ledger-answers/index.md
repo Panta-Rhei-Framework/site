@@ -66,6 +66,4 @@ The Problem Ledger Answers mirror the Program-side Problem Ledger. Each domain p
 
 ## Source policy
 
-Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/). The Program lane defines the public v1.0 source scope, pinned revisions, import policy, source mappings, merges, and exclusions.
-
-This Results mirror does not define or revise that source scope. It reports the current program stance against the Program-side ledger and keeps answer status separate from verification state and external acceptance.
+Problem source policy remains owned by the Research Agenda: [Problem Ledger Source Policy](/program/research-agenda/problem-ledger-source-policy/). The mirror does not republish source prose; it reports the current program stance against pinned or institutionally selected source records.

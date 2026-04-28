@@ -39,6 +39,37 @@ source:
   imported_unfiltered: false
   supplemental: false
   inclusion_rationale: "One of the seven Clay Millennium Problems."
+  source_entry_records:
+    -
+      source_entry_id: "clay-birch-swinnerton-dyer-conjecture"
+      source_name: "clay-millennium-problems"
+      source_display: "Clay Mathematics Institute — Millennium Prize Problems"
+      source_url: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+      source_permalink: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+      source_revision_id: "not_applicable"
+      source_revision_timestamp: "not_applicable"
+      source_title: "Birch and Swinnerton-Dyer Conjecture"
+      source_section: []
+      source_line: "not_applicable"
+      source_text: "Birch and Swinnerton-Dyer Conjecture"
+      problem_statement: "Birch and Swinnerton-Dyer Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class."
+      source_questions: []
+      source_links:
+        -
+          label: "Birch and Swinnerton-Dyer Conjecture"
+          url: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+          target: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+  source_links:
+    -
+      label: "Birch and Swinnerton-Dyer Conjecture"
+      url: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+      target: "https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_near"
   agenda_role: "stress_test"
@@ -71,8 +102,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1.0"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "mathematics"
   - "number-theory"
@@ -99,7 +130,15 @@ verify_links:
 
 ## Problem Statement
 
-Birch and Swinnerton-Dyer Conjecture is included in the public Problem Ledger v1.0 source projection.
+Birch and Swinnerton-Dyer Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
+
+## Source Links
+
+- [Birch and Swinnerton-Dyer Conjecture](https://www.claymath.org/millennium-problems/birch-and-swinnerton-dyer-conjecture/)
+
+## Source Trace
+
+- `clay-birch-swinnerton-dyer-conjecture` — Clay Mathematics Institute — Millennium Prize Problems; section: selected source; source line: not_applicable; revision: not_applicable.
 
 ## Why This Problem Is in Scope
 

@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-problem-of-time"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-problem-of-time"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Problem of time"
+      source_section:
+        - "Quantum gravity"
+      source_line: 53
+      source_text: "Problem of time: In quantum mechanics, time is a classical background parameter, and the flow of time is universal and absolute. In general relativity, time is one component of four-dimensional spacetime, and the flow of time changes depending on the curvature of spacetime and the spacetime trajectory of the observer. How can these two concepts of time be reconciled?"
+      problem_statement: "In quantum mechanics, time is a classical background parameter, and the flow of time is universal and absolute. In general relativity, time is one component of four-dimensional spacetime, and the flow of time changes depending on the curvature of spacetime and the spacetime trajectory of the observer. How can these two concepts of time be reconciled?"
+      source_questions: []
+      source_links:
+        -
+          label: "Problem of time"
+          url: "https://en.wikipedia.org/wiki/Problem_of_time"
+          target: "Problem of time"
+        -
+          label: "four-dimensional spacetime"
+          url: "https://en.wikipedia.org/wiki/four-dimensional_spacetime"
+          target: "four-dimensional spacetime"
+  source_links:
+    -
+      label: "Problem of time"
+      url: "https://en.wikipedia.org/wiki/Problem_of_time"
+      target: "Problem of time"
+    -
+      label: "four-dimensional spacetime"
+      url: "https://en.wikipedia.org/wiki/four-dimensional_spacetime"
+      target: "four-dimensional spacetime"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 In quantum mechanics, time is a classical background parameter, and the flow of time is universal and absolute. In general relativity, time is one component of four-dimensional spacetime, and the flow of time changes depending on the curvature of spacetime and the spacetime trajectory of the observer. How can these two concepts of time be reconciled?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Problem of time](https://en.wikipedia.org/wiki/Problem_of_time)
+- [four-dimensional spacetime](https://en.wikipedia.org/wiki/four-dimensional_spacetime)
+
+## Source Trace
+
+- `wikipedia-physics-problem-of-time` — Wikipedia: List of unsolved problems in physics; section: Quantum gravity; source line: 53; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

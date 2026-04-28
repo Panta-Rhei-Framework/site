@@ -46,6 +46,62 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-high-temperature-superconductivity"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-high-temperature-superconductivity"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "High-temperature superconductivity"
+      source_section:
+        - "Condensed matter physics"
+      source_line: 188
+      source_text: "High-temperature superconductivity: What is the mechanism that causes certain materials to exhibit superconductivity at temperatures much higher than around 25 kelvins? Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?"
+      problem_statement: "What is the mechanism that causes certain materials to exhibit superconductivity at temperatures much higher than around 25 kelvins? Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?"
+      source_questions: []
+      source_links:
+        -
+          label: "High-temperature superconductivity"
+          url: "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+          target: "High-temperature superconductivity"
+        -
+          label: "superconductivity"
+          url: "https://en.wikipedia.org/wiki/superconductivity"
+          target: "superconductivity"
+        -
+          label: "kelvin"
+          url: "https://en.wikipedia.org/wiki/kelvin"
+          target: "kelvin"
+        -
+          label: "superconductor at room temperature and atmospheric pressure"
+          url: "https://en.wikipedia.org/wiki/room-temperature_superconductor"
+          target: "room-temperature superconductor"
+  source_links:
+    -
+      label: "High-temperature superconductivity"
+      url: "https://en.wikipedia.org/wiki/High-temperature_superconductivity"
+      target: "High-temperature superconductivity"
+    -
+      label: "superconductivity"
+      url: "https://en.wikipedia.org/wiki/superconductivity"
+      target: "superconductivity"
+    -
+      label: "kelvin"
+      url: "https://en.wikipedia.org/wiki/kelvin"
+      target: "kelvin"
+    -
+      label: "superconductor at room temperature and atmospheric pressure"
+      url: "https://en.wikipedia.org/wiki/room-temperature_superconductor"
+      target: "room-temperature superconductor"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +130,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +159,16 @@ verify_links:
 
 What is the mechanism that causes certain materials to exhibit superconductivity at temperatures much higher than around 25 kelvins? Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [High-temperature superconductivity](https://en.wikipedia.org/wiki/High-temperature_superconductivity)
+- [superconductivity](https://en.wikipedia.org/wiki/superconductivity)
+- [kelvin](https://en.wikipedia.org/wiki/kelvin)
+- [superconductor at room temperature and atmospheric pressure](https://en.wikipedia.org/wiki/room-temperature_superconductor)
+
+## Source Trace
+
+- `wikipedia-physics-high-temperature-superconductivity` — Wikipedia: List of unsolved problems in physics; section: Condensed matter physics; source line: 188; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

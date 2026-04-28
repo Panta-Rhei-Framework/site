@@ -46,6 +46,30 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-moral-knowledge"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-moral-knowledge"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Moral knowledge"
+      source_section:
+        - "Ethics"
+      source_line: 225
+      source_text: "Moral knowledge"
+      problem_statement: "Are moral facts possible, what do they consist in, and how do we come to know them? Rightness and wrongness seem to be strange kinds of entities, and different from the usual properties of things in the world, such as wetness, redness, or solidity. Richmond Campbell has outlined these kinds of issues in his encyclopedia article \"Moral Epistemology\" In particular, he considers three alternative explanations of moral facts as: theological, (supernatural, the commands of God); non-natural (based on intuitions); or simply natural properties (such as leading to pleasure or to happiness). There are cogent arguments against each of these alternative accounts, he claims, and there has not been any fourth alternative proposed. So the existence of moral knowledge and moral facts remains dubious and in need of further investigation. But moral knowledge supposedly already plays an important part in our everyday thinking, in our legal systems and criminal investigations"
+      source_questions: []
+      source_links: []
+  source_links: []
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +98,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +127,9 @@ verify_links:
 
 Are moral facts possible, what do they consist in, and how do we come to know them? Rightness and wrongness seem to be strange kinds of entities, and different from the usual properties of things in the world, such as wetness, redness, or solidity. Richmond Campbell has outlined these kinds of issues in his encyclopedia article "Moral Epistemology" In particular, he considers three alternative explanations of moral facts as: theological, (supernatural, the commands of God); non-natural (based on intuitions); or simply natural properties (such as leading to pleasure or to happiness). There are cogent arguments against each of these alternative accounts, he claims, and there has not been any fourth alternative proposed. So the existence of moral knowledge and moral facts remains dubious and in need of further investigation. But moral knowledge supposedly already plays an important part in our everyday thinking, in our legal systems and criminal investigations
 
-Source questions retained from the pinned source:
+## Source Trace
 
-- _No nested source questions were extracted._
+- `wikipedia-philosophy-moral-knowledge` — Wikipedia: List of philosophical problems; section: Ethics; source line: 225; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

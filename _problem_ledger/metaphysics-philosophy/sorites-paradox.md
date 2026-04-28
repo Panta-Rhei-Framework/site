@@ -46,6 +46,54 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
   source_entry_ids:
     - "wikipedia-philosophy-sorites-paradox"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-philosophy-sorites-paradox"
+      source_name: "wikipedia_list_of_philosophical_problems"
+      source_display: "Wikipedia: List of philosophical problems"
+      source_url: "https://en.wikipedia.org/wiki/List_of_philosophical_problems"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_philosophical_problems?oldid=1338262080"
+      source_revision_id: "1338262080"
+      source_revision_timestamp: "2026-02-14T02:33:54Z"
+      source_title: "Sorites paradox"
+      source_section:
+        - "Metaphysics"
+      source_line: 99
+      source_text: "Sorites paradox"
+      problem_statement: "Otherwise known as the \"paradox of the heap\", the question regards how one defines a \"thing.\" Is a bale of hay still a bale of hay if you remove one straw? If so, is it still a bale of hay if you remove another straw? If you continue this way, you will eventually deplete the entire bale of hay, and the question is: at what point is it no longer a bale of hay? While this may initially seem like a superficial problem, it penetrates to fundamental issues regarding how we define objects. This is similar to Theseus' paradox and the continuum fallacy"
+      source_questions: []
+      source_links:
+        -
+          label: "paradox"
+          url: "https://en.wikipedia.org/wiki/paradox"
+          target: "paradox"
+        -
+          label: "Theseus' paradox"
+          url: "https://en.wikipedia.org/wiki/Ship_of_Theseus"
+          target: "Ship of Theseus"
+        -
+          label: "continuum fallacy"
+          url: "https://en.wikipedia.org/wiki/continuum_fallacy"
+          target: "continuum fallacy"
+  source_links:
+    -
+      label: "paradox"
+      url: "https://en.wikipedia.org/wiki/paradox"
+      target: "paradox"
+    -
+      label: "Theseus' paradox"
+      url: "https://en.wikipedia.org/wiki/Ship_of_Theseus"
+      target: "Ship of Theseus"
+    -
+      label: "continuum fallacy"
+      url: "https://en.wikipedia.org/wiki/continuum_fallacy"
+      target: "continuum fallacy"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +122,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "metaphysics_philosophy"
   - "wikipedia-philosophy"
@@ -103,9 +151,15 @@ verify_links:
 
 Otherwise known as the "paradox of the heap", the question regards how one defines a "thing." Is a bale of hay still a bale of hay if you remove one straw? If so, is it still a bale of hay if you remove another straw? If you continue this way, you will eventually deplete the entire bale of hay, and the question is: at what point is it no longer a bale of hay? While this may initially seem like a superficial problem, it penetrates to fundamental issues regarding how we define objects. This is similar to Theseus' paradox and the continuum fallacy
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [paradox](https://en.wikipedia.org/wiki/paradox)
+- [Theseus' paradox](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+- [continuum fallacy](https://en.wikipedia.org/wiki/continuum_fallacy)
+
+## Source Trace
+
+- `wikipedia-philosophy-sorites-paradox` — Wikipedia: List of philosophical problems; section: Metaphysics; source line: 99; revision: 1338262080.
 
 ## Why This Problem Is in Scope
 

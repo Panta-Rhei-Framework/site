@@ -46,6 +46,78 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-quantum-gravity"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-quantum-gravity"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Quantum gravity"
+      source_section:
+        - "Quantum gravity"
+      source_line: 35
+      source_text: "Quantum gravity: Can quantum mechanics and general relativity be realized as a fully consistent theory (perhaps as a quantum field theory)? Is spacetime fundamentally continuous or discrete? Would a consistent theory involve a force mediated by a hypothetical graviton, or be a product of a discrete structure of spacetime itself (as in loop quantum gravity)? Are there deviations from the predictions of general relativity at very small or very large scales or in other extreme circumstances that flow from a quantum gravity mechanism?"
+      problem_statement: "Can quantum mechanics and general relativity be realized as a fully consistent theory (perhaps as a quantum field theory)? Is spacetime fundamentally continuous or discrete? Would a consistent theory involve a force mediated by a hypothetical graviton, or be a product of a discrete structure of spacetime itself (as in loop quantum gravity)? Are there deviations from the predictions of general relativity at very small or very large scales or in other extreme circumstances that flow from a quantum gravity mechanism?"
+      source_questions: []
+      source_links:
+        -
+          label: "Quantum gravity"
+          url: "https://en.wikipedia.org/wiki/Quantum_gravity"
+          target: "Quantum gravity"
+        -
+          label: "quantum mechanics"
+          url: "https://en.wikipedia.org/wiki/quantum_mechanics"
+          target: "quantum mechanics"
+        -
+          label: "general relativity"
+          url: "https://en.wikipedia.org/wiki/general_relativity"
+          target: "general relativity"
+        -
+          label: "quantum field theory"
+          url: "https://en.wikipedia.org/wiki/quantum_field_theory"
+          target: "quantum field theory"
+        -
+          label: "graviton"
+          url: "https://en.wikipedia.org/wiki/graviton"
+          target: "graviton"
+        -
+          label: "loop quantum gravity"
+          url: "https://en.wikipedia.org/wiki/loop_quantum_gravity"
+          target: "loop quantum gravity"
+  source_links:
+    -
+      label: "Quantum gravity"
+      url: "https://en.wikipedia.org/wiki/Quantum_gravity"
+      target: "Quantum gravity"
+    -
+      label: "quantum mechanics"
+      url: "https://en.wikipedia.org/wiki/quantum_mechanics"
+      target: "quantum mechanics"
+    -
+      label: "general relativity"
+      url: "https://en.wikipedia.org/wiki/general_relativity"
+      target: "general relativity"
+    -
+      label: "quantum field theory"
+      url: "https://en.wikipedia.org/wiki/quantum_field_theory"
+      target: "quantum field theory"
+    -
+      label: "graviton"
+      url: "https://en.wikipedia.org/wiki/graviton"
+      target: "graviton"
+    -
+      label: "loop quantum gravity"
+      url: "https://en.wikipedia.org/wiki/loop_quantum_gravity"
+      target: "loop quantum gravity"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +146,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -101,9 +173,18 @@ verify_links:
 
 Can quantum mechanics and general relativity be realized as a fully consistent theory (perhaps as a quantum field theory)? Is spacetime fundamentally continuous or discrete? Would a consistent theory involve a force mediated by a hypothetical graviton, or be a product of a discrete structure of spacetime itself (as in loop quantum gravity)? Are there deviations from the predictions of general relativity at very small or very large scales or in other extreme circumstances that flow from a quantum gravity mechanism?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
+- [quantum mechanics](https://en.wikipedia.org/wiki/quantum_mechanics)
+- [general relativity](https://en.wikipedia.org/wiki/general_relativity)
+- [quantum field theory](https://en.wikipedia.org/wiki/quantum_field_theory)
+- [graviton](https://en.wikipedia.org/wiki/graviton)
+- [loop quantum gravity](https://en.wikipedia.org/wiki/loop_quantum_gravity)
+
+## Source Trace
+
+- `wikipedia-physics-quantum-gravity` — Wikipedia: List of unsolved problems in physics; section: Quantum gravity; source line: 35; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

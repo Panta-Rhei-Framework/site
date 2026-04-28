@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-flyby-anomaly"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-flyby-anomaly"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Flyby anomaly"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 160
+      source_text: "Flyby anomaly: Why is the observed energy of satellites flying by planetary bodies sometimes different by a minute amount from the value predicted by theory?"
+      problem_statement: "Why is the observed energy of satellites flying by planetary bodies sometimes different by a minute amount from the value predicted by theory?"
+      source_questions: []
+      source_links:
+        -
+          label: "Flyby anomaly"
+          url: "https://en.wikipedia.org/wiki/Flyby_anomaly"
+          target: "Flyby anomaly"
+        -
+          label: "flying by planetary bodies"
+          url: "https://en.wikipedia.org/wiki/Gravity_assist"
+          target: "Gravity assist"
+  source_links:
+    -
+      label: "Flyby anomaly"
+      url: "https://en.wikipedia.org/wiki/Flyby_anomaly"
+      target: "Flyby anomaly"
+    -
+      label: "flying by planetary bodies"
+      url: "https://en.wikipedia.org/wiki/Gravity_assist"
+      target: "Gravity assist"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 Why is the observed energy of satellites flying by planetary bodies sometimes different by a minute amount from the value predicted by theory?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Flyby anomaly](https://en.wikipedia.org/wiki/Flyby_anomaly)
+- [flying by planetary bodies](https://en.wikipedia.org/wiki/Gravity_assist)
+
+## Source Trace
+
+- `wikipedia-physics-flyby-anomaly` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 160; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 

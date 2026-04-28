@@ -39,6 +39,37 @@ source:
   source_permalink: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
   source_entry_ids:
     - "clay-poincare-conjecture"
+  source_entry_records:
+    -
+      source_entry_id: "clay-poincare-conjecture"
+      source_name: "clay-millennium-problems"
+      source_display: "Clay Mathematics Institute — Millennium Prize Problems"
+      source_url: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+      source_permalink: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+      source_revision_id: "not_applicable"
+      source_revision_timestamp: "not_applicable"
+      source_title: "Poincare Conjecture"
+      source_section: []
+      source_line: "not_applicable"
+      source_text: "Poincare Conjecture"
+      problem_statement: "Poincare Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class."
+      source_questions: []
+      source_links:
+        -
+          label: "Poincare Conjecture"
+          url: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+          target: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+  source_links:
+    -
+      label: "Poincare Conjecture"
+      url: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+      target: "https://www.claymath.org/millennium-problems/poincare-conjecture/"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "kernel_near"
   agenda_role: "regrounding_test"
@@ -72,8 +103,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "mathematics"
   - "topology"
@@ -100,8 +131,15 @@ verify_links:
 
 ## Problem Statement
 
-The Poincare Conjecture is included because it belongs to the Clay Millennium
-Problem family, even though it is solved in standard mathematics.
+Poincare Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
+
+## Source Links
+
+- [Poincare Conjecture](https://www.claymath.org/millennium-problems/poincare-conjecture/)
+
+## Source Trace
+
+- `clay-poincare-conjecture` — Clay Mathematics Institute — Millennium Prize Problems; section: selected source; source line: not_applicable; revision: not_applicable.
 
 ## Why This Problem Is in Scope
 

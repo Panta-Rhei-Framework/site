@@ -47,6 +47,63 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
   source_entry_ids:
     - "wikipedia-biology-paradox-of-the-plankton"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-biology-paradox-of-the-plankton"
+      source_name: "wikipedia_list_of_unsolved_problems_in_biology"
+      source_display: "Wikipedia: List of unsolved problems in biology"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology?oldid=1350634388"
+      source_revision_id: "1350634388"
+      source_revision_timestamp: "2026-04-23T02:19:10Z"
+      source_title: "Paradox of the plankton"
+      source_section:
+        - "Non-human biology"
+        - "Ecology, evolution, and paleontology"
+      source_line: 90
+      source_text: "Paradox of the plankton. The high diversity of phytoplankton seems to violate the competitive exclusion principle"
+      problem_statement: "The high diversity of phytoplankton seems to violate the competitive exclusion principle"
+      source_questions: []
+      source_links:
+        -
+          label: "Paradox of the plankton"
+          url: "https://en.wikipedia.org/wiki/Paradox_of_the_plankton"
+          target: "Paradox of the plankton"
+        -
+          label: "diversity"
+          url: "https://en.wikipedia.org/wiki/biodiversity"
+          target: "biodiversity"
+        -
+          label: "phytoplankton"
+          url: "https://en.wikipedia.org/wiki/phytoplankton"
+          target: "phytoplankton"
+        -
+          label: "competitive exclusion principle"
+          url: "https://en.wikipedia.org/wiki/competitive_exclusion_principle"
+          target: "competitive exclusion principle"
+  source_links:
+    -
+      label: "Paradox of the plankton"
+      url: "https://en.wikipedia.org/wiki/Paradox_of_the_plankton"
+      target: "Paradox of the plankton"
+    -
+      label: "diversity"
+      url: "https://en.wikipedia.org/wiki/biodiversity"
+      target: "biodiversity"
+    -
+      label: "phytoplankton"
+      url: "https://en.wikipedia.org/wiki/phytoplankton"
+      target: "phytoplankton"
+    -
+      label: "competitive exclusion principle"
+      url: "https://en.wikipedia.org/wiki/competitive_exclusion_principle"
+      target: "competitive exclusion principle"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -75,8 +132,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "life"
   - "wikipedia-biology"
@@ -106,9 +163,16 @@ verify_links:
 
 The high diversity of phytoplankton seems to violate the competitive exclusion principle
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [Paradox of the plankton](https://en.wikipedia.org/wiki/Paradox_of_the_plankton)
+- [diversity](https://en.wikipedia.org/wiki/biodiversity)
+- [phytoplankton](https://en.wikipedia.org/wiki/phytoplankton)
+- [competitive exclusion principle](https://en.wikipedia.org/wiki/competitive_exclusion_principle)
+
+## Source Trace
+
+- `wikipedia-biology-paradox-of-the-plankton` — Wikipedia: List of unsolved problems in biology; section: Non-human biology / Ecology, evolution, and paleontology; source line: 90; revision: 1350634388.
 
 ## Why This Problem Is in Scope
 

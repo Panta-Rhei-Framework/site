@@ -46,6 +46,46 @@ source:
   source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
   source_entry_ids:
     - "wikipedia-physics-origin-of-magnetar-magnetic-field"
+  source_entry_records:
+    -
+      source_entry_id: "wikipedia-physics-origin-of-magnetar-magnetic-field"
+      source_name: "wikipedia_list_of_unsolved_problems_in_physics"
+      source_display: "Wikipedia: List of unsolved problems in physics"
+      source_url: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics"
+      source_permalink: "https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics?oldid=1349830343"
+      source_revision_id: "1349830343"
+      source_revision_timestamp: "2026-04-19T03:02:56Z"
+      source_title: "Origin of magnetar magnetic field"
+      source_section:
+        - "Astronomy and astrophysics"
+      source_line: 166
+      source_text: "Origin of magnetar magnetic field: What is the origin of magnetar magnetic fields?"
+      problem_statement: "What is the origin of magnetar magnetic fields?"
+      source_questions: []
+      source_links:
+        -
+          label: "magnetar magnetic field"
+          url: "https://en.wikipedia.org/wiki/Magnetar#Magnetic_field"
+          target: "Magnetar#Magnetic field"
+        -
+          label: "magnetar"
+          url: "https://en.wikipedia.org/wiki/magnetar"
+          target: "magnetar"
+  source_links:
+    -
+      label: "magnetar magnetic field"
+      url: "https://en.wikipedia.org/wiki/Magnetar#Magnetic_field"
+      target: "Magnetar#Magnetic field"
+    -
+      label: "magnetar"
+      url: "https://en.wikipedia.org/wiki/magnetar"
+      target: "magnetar"
+  content_audit:
+    status: "source_enriched"
+    audit_date: "2026-04-28"
+    source_entry_count: 1
+    missing_source_entries: []
+    description_source: "pinned_source_entry"
 program:
   tier: "unclassified"
   agenda_role: "stress_test"
@@ -74,8 +114,8 @@ cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
-  last_modified: "2026-04-26"
-  change_summary: "Promoted or mapped during Problem Ledger v1.0 source-auditable release."
+  last_modified: "2026-04-28"
+  change_summary: "Enriched with source-derived Problem Ledger content audit fields."
 tags:
   - "physics"
   - "wikipedia-physics"
@@ -103,9 +143,14 @@ verify_links:
 
 What is the origin of magnetar magnetic fields?
 
-Source questions retained from the pinned source:
+## Source Links
 
-- _No nested source questions were extracted._
+- [magnetar magnetic field](https://en.wikipedia.org/wiki/Magnetar#Magnetic_field)
+- [magnetar](https://en.wikipedia.org/wiki/magnetar)
+
+## Source Trace
+
+- `wikipedia-physics-origin-of-magnetar-magnetic-field` — Wikipedia: List of unsolved problems in physics; section: Astronomy and astrophysics; source line: 166; revision: 1349830343.
 
 ## Why This Problem Is in Scope
 
