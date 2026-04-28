@@ -66,6 +66,15 @@ function shouldEnableCors(url) {
   return CORS_PATH_PREFIXES.some((prefix) => url.pathname.startsWith(prefix));
 }
 
+// Short-circuit CORS preflight for /api/* paths. GitHub Pages (the proxied
+// origin) doesn't support OPTIONS and returns 405, which silently breaks
+// non-simple cross-site fetches (custom headers, non-default Content-Type).
+// Returning null leaves non-/api/ paths to fall through to the normal flow.
+export function corsPreflightResponse(url) {
+  if (!shouldEnableCors(url)) return null;
+  return new Response(null, { status: 204, statusText: "No Content" });
+}
+
 export function applyEdgeHeaders(request, response) {
   const url = new URL(typeof request === "string" ? request : request.url);
   const headers = new Headers(response.headers);
@@ -110,6 +119,14 @@ export function edgeRedirectFor(request) {
 
 export default {
   async fetch(request) {
+    if (request.method === "OPTIONS") {
+      const url = new URL(request.url);
+      const preflight = corsPreflightResponse(url);
+      if (preflight) {
+        return applyEdgeHeaders(request, preflight);
+      }
+    }
+
     const redirect = edgeRedirectFor(request);
     if (redirect) {
       return applyEdgeHeaders(request, redirect);

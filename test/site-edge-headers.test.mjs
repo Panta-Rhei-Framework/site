@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { applyEdgeHeaders, edgeRedirectFor } from "../workers/site-edge-headers.js";
+import { applyEdgeHeaders, corsPreflightResponse, edgeRedirectFor } from "../workers/site-edge-headers.js";
 
 const SECURITY_EXPECTATIONS = {
   "X-Content-Type-Options": "nosniff",
@@ -66,6 +66,20 @@ for (const negativePath of ["/", "/results/", "/assets/css/site.css", "/sitemap.
   assert.equal(negResponse.headers.get("Access-Control-Allow-Origin"), null, `${negativePath} must not be CORS-permissive`);
 }
 
+// CORS preflight: OPTIONS /api/* must short-circuit with 204 + full CORS contract
+{
+  const preflight = corsPreflightResponse(new URL("https://panta-rhei.site/api/plates.json"));
+  assert.ok(preflight, "OPTIONS /api/plates.json should short-circuit with a Response");
+  assert.equal(preflight.status, 204, "preflight should be 204 No Content");
+  const decorated = applyEdgeHeaders("https://panta-rhei.site/api/plates.json", preflight);
+  assert.equal(decorated.headers.get("Access-Control-Allow-Origin"), "*", "preflight must carry Allow-Origin: *");
+  assert.equal(decorated.headers.get("Access-Control-Allow-Methods"), "GET, HEAD, OPTIONS", "preflight must advertise simple methods");
+  assert.equal(decorated.headers.get("Access-Control-Max-Age"), "86400", "preflight must cache for 24h");
+}
+
+// Negative preflight: OPTIONS / must NOT short-circuit (falls through to origin → 405)
+assert.equal(corsPreflightResponse(new URL("https://panta-rhei.site/")), null, "OPTIONS / must not short-circuit (no broad preflight)");
+
 for (const path of ["/publications/physics-ledger", "/publications/physics-ledger/", "/publications/numerical-physics-ledger/"]) {
   const redirect = edgeRedirectFor(`https://panta-rhei.site${path}`);
   assert.ok(redirect, `${path} should redirect at the edge`);
@@ -91,4 +105,4 @@ for (const [path, target] of [
 
 assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/monograph-supplements/numerical-physics-ledger/"), null);
 
-console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, and 7 redirect cases passed`);
+console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, and 7 redirect cases passed`);
