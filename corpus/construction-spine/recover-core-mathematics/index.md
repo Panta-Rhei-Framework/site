@@ -175,7 +175,7 @@ This step asks a direct question: what mathematics can be earned from the kernel
 
 The central conceptual shift is that arithmetic is treated as address resolution rather than free equational calculation. Objects are not manipulated as if they lived inside an already available global ring. They are resolved through canonical addresses, normal forms, genealogical structure, and finite witnesses. This allows the Corpus to recover mathematical work while keeping visible what is internal, what is τ-effective, and what remains a bridge burden.
 
-Step 2 also introduces scalar-readout discipline. The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> belongs here as a scalar invariant: it must be read as a kernel-derived structural readout before it is allowed to feed any numerical physics ledger. The dedicated Master Constant paper is therefore a primary review artifact for this step.
+Step 2 also introduces scalar-readout discipline. The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) belongs here as a scalar invariant: it must be read as a kernel-derived structural readout before it is allowed to feed any numerical physics ledger. The dedicated Master Constant paper is therefore a primary review artifact for this step.
 
 ## What mathematics must be recovered
 
@@ -216,6 +216,7 @@ The recovered mathematical substrate must include usable scalar systems. Step 2 
 
 This section does not claim that unrestricted classical number systems are recovered as-is. It states what is internal, what is constructive, and what remains a standard-domain bridge.
 
+<div class="formula-block">
 <math display="block" aria-label="tau number tower from natural numbers to rationals to constructive reals and quaternions">
   <mrow>
     <msub><mi>ℕ</mi><mi>τ</mi></msub>
@@ -227,11 +228,14 @@ This section does not claim that unrestricted classical number systems are recov
     <msub><mi>ℍ</mi><mi>τ</mi></msub>
   </mrow>
 </math>
+<p class="formula-fallback"><strong>Plain-text formula:</strong> <code>N_tau -> Q_tau -> R_tau -> H_tau</code>.</p>
+</div>
 
 ## The master constant as scalar readout
 
-The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> is routed through Step 2 because it is the point where kernel structure becomes a scalar readout. It should not be presented first as a physics parameter. It must first be inspected as a structural invariant of the kernel and boundary/scalar machinery.
+The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) is routed through Step 2 because it is the point where kernel structure becomes a scalar readout. It should not be presented first as a physics parameter. It must first be inspected as a structural invariant of the kernel and boundary/scalar machinery.
 
+<div class="formula-block">
 <math display="block" aria-label="iota tau equals two tau divided by pi tau plus e tau">
   <mrow>
     <msub><mi>ι</mi><mi>τ</mi></msub>
@@ -246,9 +250,12 @@ The master constant <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></
     </mfrac>
   </mrow>
 </math>
+<p class="formula-fallback"><strong>Plain-text formula:</strong> <code>iota_tau = 2_tau / (pi_tau + e_tau)</code>.</p>
+</div>
 
 The standard numerical projection is a downstream readout, not the starting point:
 
+<div class="formula-block">
 <math display="block" aria-label="iota tau projects to two divided by pi plus e">
   <mrow>
     <msub><mi>ι</mi><mi>τ</mi></msub>
@@ -259,10 +266,12 @@ The standard numerical projection is a downstream readout, not the starting poin
     </mfrac>
   </mrow>
 </math>
+<p class="formula-fallback"><strong>Plain-text formula:</strong> <code>iota_tau -> 2 / (pi + e)</code>.</p>
+</div>
 
 Primary paper: [The Master Constant iota_tau](/publications/research-papers/master-constant-iota-tau/)
 
-Primary role: [Hinge 3](/corpus/foundational-hinges/master-constant-iota-tau/) — structural derivation of <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math>, including omega-germs, boundary structure, and τ-exponential calibration.
+Primary role: [Hinge 3](/corpus/foundational-hinges/master-constant-iota-tau/) — structural derivation of <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>), including omega-germs, boundary structure, and τ-exponential calibration.
 
 Downstream consequence: if this hinge fails, the numerical physics ledger loses its claim to zero-parameter status. The physics ledger may still contain patterns, but it cannot be advertised as kernel-forced in the same sense.
 
@@ -274,7 +283,7 @@ Downstream consequence: if this hinge fails, the numerical physics ledger loses 
 - Are topology and geometry recovered internally, or merely named by analogy?
 - Which recovered structures are established, which are τ-effective, and which remain conjectural?
 - Are constructive reals and quaternions defined with enough precision to support scalar readouts?
-- Is <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> forced by the scalar/boundary machinery, or fitted after the fact?
+- Is <math display="inline"><msub><mi>ι</mi><mi>τ</mi></msub></math> (<code>iota_tau</code>) forced by the scalar/boundary machinery, or fitted after the fact?
 - Which bridges to standard mathematics remain open?
 
 ## Registry spine
@@ -357,5 +366,5 @@ Step 2 does not claim that unrestricted classical mathematics is simply recovere
 
 ## Spine navigation
 
-- Previous: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
-- Next: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-logic/)
+- Previous: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
+- Next: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-self-enrichment/)

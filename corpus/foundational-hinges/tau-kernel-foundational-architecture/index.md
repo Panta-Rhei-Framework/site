@@ -44,6 +44,14 @@ This hinge is the integration paper for the foundational bundle. It asks whether
 
 Its role is to explain why the kernel can be treated as a disciplined formal architecture before later claims about mathematics, physics, life, or metaphysics are attempted.
 
+## Two roles of this hinge
+
+This hinge appears at the beginning of the construction because it orients [Step 1](/corpus/construction-spine/build-the-kernel/): the kernel must be more than a list of primitives. It must integrate generator discipline, diagonal behavior, boundary structure, and formal architecture tightly enough to constrain later construction.
+
+It also returns in [Step 3](/corpus/construction-spine/internalize-self-enrichment/) as an integration reference. Once the framework begins to internalize morphisms, representation, and enrichment, the reviewer has to ask whether self-description still belongs to the same architecture or whether it has become a disconnected categorical overlay.
+
+The hinge therefore has two roles: architectural launch point and architectural consistency check. It does not validate later physics, life, metaphysics, or external acceptance; it gives reviewers the integration standard those later claims must keep satisfying.
+
 ## What this hinge must establish
 
 This hinge must show that τ has an integrated foundational architecture: ontic identity, diagonal discipline, linear structure, and a star-autonomous path that can carry later construction without dissolving into disconnected notation.
@@ -61,8 +69,8 @@ The core construction is architectural rather than a single downstream theorem: 
 - Research paper: [The τ-Kernel as Foundational Architecture](/publications/research-papers/tau-kernel-foundational-architecture/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-tau-kernel-foundational-architecture.pdf)
 - DOI: [10.5281/zenodo.19820600](https://doi.org/10.5281/zenodo.19820600)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
-- Construction step: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-logic/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
+- Construction step: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-self-enrichment/)
 
 ## Registry anchors
 

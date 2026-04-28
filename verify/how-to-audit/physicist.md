@@ -29,6 +29,8 @@ Before reading the numerical physics ledger, inspect whether the master constant
 
 - [Hinge 3 — The Master Constant iota_tau]({{ '/corpus/foundational-hinges/master-constant-iota-tau/' | relative_url }})
 - [The Master Constant iota_tau research paper]({{ '/publications/research-papers/master-constant-iota-tau/' | relative_url }})
+- [Download the Master Constant PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-master-constant-iota-tau.pdf' | relative_url }})
+- DOI [10.5281/zenodo.19820352](https://doi.org/10.5281/zenodo.19820352)
 
 If this hinge fails, the ledger may still contain numerical patterns, but it cannot carry the same zero-parameter foundation claim.
 

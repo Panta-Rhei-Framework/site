@@ -42,6 +42,17 @@ right_rail:
 
 This hinge tests whether the master constant is structurally forced by the kernel rather than fitted from downstream numerical targets.
 
+## The reviewer burden
+
+This page separates three claims that must not be collapsed:
+
+1. **Structural derivation:** the constant <code>iota_tau</code> is forced by the kernel's omega-germ, boundary, and scalar machinery.
+2. **Numerical projection:** the structural invariant has a standard numerical readout.
+3. **Physical use:** the readout is later used by the Numerical Physics Ledger.
+
+Only the first claim belongs directly to this hinge. The second is a projection claim. The third is downstream and must survive separate physics, measurement, and falsification review.
+
+<div class="formula-block">
 <math display="block" aria-label="iota tau equals two tau divided by pi tau plus e tau">
   <mrow>
     <msub><mi>ι</mi><mi>τ</mi></msub>
@@ -56,6 +67,17 @@ This hinge tests whether the master constant is structurally forced by the kerne
     </mfrac>
   </mrow>
 </math>
+<p class="formula-fallback"><strong>Plain-text formula:</strong> <code>iota_tau = 2_tau / (pi_tau + e_tau)</code>.</p>
+</div>
+
+The plain-text identifier <code>iota_tau</code> is intentionally present here for search, citation review, and assistive extraction. It refers to the master constant before any downstream physical interpretation is attempted.
+
+## Stress-test questions
+
+- Is <code>iota_tau</code> forced by scalar and boundary machinery, or fitted after downstream numerical targets are known?
+- Which parts of the derivation are internal to the kernel, and which parts are numerical projection?
+- Does the paper distinguish the structural constant from the physical ledger that later uses it?
+- If this hinge fails, can the numerical physics ledger still claim zero-parameter status?
 
 ## What this hinge must establish
 

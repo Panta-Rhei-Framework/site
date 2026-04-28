@@ -29,14 +29,14 @@ The framework's mathematical content is not spread uniformly. Three theorem clus
 
 ## First pass: foundational hinges
 
-For the first mathematical pass, begin with the Foundational Hinge route:
+For the first mathematical pass, begin with the Foundational Hinge route. It is the compressed entry point for the first three construction burdens: kernel architecture, recovered mathematics, and self-enrichment.
 
 - [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }})
-- [Step 1 — Build the τ-Kernel]({{ '/corpus/construction-spine/define-the-kernel/' | relative_url }})
+- [Step 1 — Build the τ-Kernel]({{ '/corpus/construction-spine/build-the-kernel/' | relative_url }})
 - [Step 2 — Recover Core Mathematics]({{ '/corpus/construction-spine/recover-core-mathematics/' | relative_url }})
-- [Step 3 — Internalize Self-Enrichment]({{ '/corpus/construction-spine/internalize-logic/' | relative_url }})
+- [Step 3 — Internalize Self-Enrichment]({{ '/corpus/construction-spine/internalize-self-enrichment/' | relative_url }})
 
-This route separates the first three construction burdens from later result claims: kernel architecture, recovered mathematics, and self-enrichment must be inspectable before downstream physics or metaphysics can carry weight.
+This route separates those construction burdens from later result claims. The hinge pages are not replacements for Books I-II or TauLib; they are the reviewer packet for finding the load-bearing paper, Registry, proof, and failure surface quickly.
 
 ## The three load-bearing clusters
 

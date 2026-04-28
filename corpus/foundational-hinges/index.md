@@ -45,9 +45,9 @@ Recommended first pass: read the [Foundational Bundle memo](/publications/resear
 
 | Step | Function | Primary hinges |
 |---|---|---|
-| [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/) | Build the full internal kernel machine. | H8, H1, H2, H4, H5, H6 |
+| [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/) | Build the full internal kernel machine. | H8, H1, H2, H4, H5, H6 |
 | [Step 2 — Recover Core Mathematics](/corpus/construction-spine/recover-core-mathematics/) | Recover usable mathematics, address arithmetic, and scalar readouts. | H7, H3 |
-| [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-logic/) | Internalize morphisms, representation, and enrichment. | Book II Part VIII, Central Theorem route, H8 as integration reference |
+| [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-self-enrichment/) | Internalize morphisms, representation, and enrichment. | Book II Part VIII, Central Theorem route, H6 as internal-truth substrate, H8 as integration reference |
 
 ## Foundational bundle
 

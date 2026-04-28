@@ -346,7 +346,7 @@ async function runVisualQa() {
         failures.push(`${viewport.name}/agenda-progress: active filters were not restored after reload`);
       }
 
-      await filter('[data-filter="construction_step"][data-value="define-the-kernel"]').click();
+      await filter('[data-filter="construction_step"][data-value="build-the-kernel"]').click();
       await agendaPage.waitForTimeout(250);
       const emptyCount = await countValue();
       const emptyState = await state();

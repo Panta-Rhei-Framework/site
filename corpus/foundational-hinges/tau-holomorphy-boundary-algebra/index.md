@@ -59,7 +59,7 @@ The research paper develops τ-holomorphy through omega-germ transformers, wave-
 - Research paper: [τ-Holomorphy on the Boundary Algebra](/publications/research-papers/tau-holomorphy-boundary-algebra/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-tau-holomorphy-boundary-algebra.pdf)
 - DOI: [10.5281/zenodo.19818852](https://doi.org/10.5281/zenodo.19818852)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
 
 ## Registry anchors
 

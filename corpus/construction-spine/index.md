@@ -13,7 +13,7 @@ twitter_image: /assets/images/plates/plate-04-construction-spine-og.jpg
 og_image_alt: "Scientific plate showing the Corpus Construction Spine as a ten-step build sequence from Kernel to Ontic Closure."
 hero_ctas:
   - label: "Step 1: Build the τ-Kernel"
-    url: /corpus/construction-spine/define-the-kernel/
+    url: /corpus/construction-spine/build-the-kernel/
     primary: true
   - label: "Foundational Hinges"
     url: /corpus/foundational-hinges/

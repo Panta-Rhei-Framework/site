@@ -59,7 +59,7 @@ The paper presents a unique tower-atom decomposition and connects that decomposi
 - Research paper: [The Hyperfactorization Theorem](/publications/research-papers/hyperfactorization-theorem/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-hyperfactorization-theorem.pdf)
 - DOI: [10.5281/zenodo.19818957](https://doi.org/10.5281/zenodo.19818957)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
 
 ## Registry anchors
 

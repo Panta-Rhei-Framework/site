@@ -44,9 +44,12 @@ This hinge tests whether the boundary algebra used by the framework is canonical
 
 One inspection point is the split-complex unit relation:
 
+<div class="formula-block">
 <math display="block" aria-label="j squared equals one">
   <mrow><msup><mi>j</mi><mn>2</mn></msup><mo>=</mo><mn>1</mn></mrow>
 </math>
+<p class="formula-fallback"><strong>Plain-text formula:</strong> <code>j^2 = 1</code>.</p>
+</div>
 
 ## What this hinge must establish
 
@@ -65,7 +68,7 @@ The research paper develops a countable profinite construction, a canonical uniq
 - Research paper: [The Split-Complex Boundary Algebra D](/publications/research-papers/split-complex-boundary-algebra/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-split-complex-boundary-algebra.pdf)
 - DOI: [10.5281/zenodo.19818743](https://doi.org/10.5281/zenodo.19818743)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
 
 ## Registry anchors
 

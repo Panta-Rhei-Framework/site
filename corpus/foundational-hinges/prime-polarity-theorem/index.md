@@ -59,7 +59,7 @@ The research paper develops prime polarity, the Legendre classifier, and the τ-
 - Research paper: [The Prime Polarity Theorem](/publications/research-papers/prime-polarity-theorem/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-prime-polarity-theorem.pdf)
 - DOI: [10.5281/zenodo.19819869](https://doi.org/10.5281/zenodo.19819869)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
 
 ## Registry anchors
 

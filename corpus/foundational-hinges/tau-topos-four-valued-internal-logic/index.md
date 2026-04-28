@@ -42,6 +42,14 @@ right_rail:
 
 This hinge tests whether internal truth is earned inside the kernel rather than supplied from an external semantic theory.
 
+## Why this hinge appears in Step 1 and Step 3
+
+In [Step 1](/corpus/construction-spine/build-the-kernel/), this hinge is part of the kernel's internal truth substrate. The burden is to show that four-valued internal logic is structurally tied to split-complex idempotents and omega-germ stabilization, not imported as an external semantic preference.
+
+In [Step 3](/corpus/construction-spine/internalize-self-enrichment/), the same truth substrate becomes load-bearing for self-enrichment. It is the setting in which hom-objects, representation, and higher morphism structure can be inspected without treating external metalanguage as the permanent foundation.
+
+That dual role is a strength only if the construction keeps the two burdens distinct. Step 1 asks whether truth is internally earned. Step 3 asks whether that internal truth machinery can support self-description. Neither role by itself proves final semantic closure, external acceptance, or ontic completion.
+
 ## What this hinge must establish
 
 This hinge must show that the τ-topos and four-valued internal logic arise from split-complex idempotents and omega-germ stabilization rather than external semantic stipulation.
@@ -59,8 +67,8 @@ The research paper develops the τ-topos and its four-valued internal logic, add
 - Research paper: [The τ-Topos and Its Four-Valued Internal Logic](/publications/research-papers/tau-topos-four-valued-internal-logic/)
 - PDF: [Download PDF](/assets/pdfs/research-papers/research-paper-2026-04-27-tau-topos-four-valued-internal-logic.pdf)
 - DOI: [10.5281/zenodo.19820194](https://doi.org/10.5281/zenodo.19820194)
-- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/define-the-kernel/)
-- Construction step: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-logic/)
+- Construction step: [Step 1 — Build the τ-Kernel](/corpus/construction-spine/build-the-kernel/)
+- Construction step: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-self-enrichment/)
 
 ## Registry anchors
 

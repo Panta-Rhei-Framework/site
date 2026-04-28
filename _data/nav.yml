@@ -151,11 +151,11 @@ lane_nav:
             url: "/corpus/construction-spine/"
             children:
               - title: "1. Build the τ-Kernel"
-                url: "/corpus/construction-spine/define-the-kernel/"
+                url: "/corpus/construction-spine/build-the-kernel/"
               - title: "2. Recover Core Mathematics"
                 url: "/corpus/construction-spine/recover-core-mathematics/"
               - title: "3. Internalize Self-Enrichment"
-                url: "/corpus/construction-spine/internalize-logic/"
+                url: "/corpus/construction-spine/internalize-self-enrichment/"
               - title: "4. Identify Physical Carrier"
                 url: "/corpus/construction-spine/identify-physical-carrier/"
               - title: "5. Internal Physical Grammar"

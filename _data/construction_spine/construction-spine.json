@@ -4,9 +4,12 @@
     "sequence": 1,
     "title": "Build the τ-Kernel",
     "short_title": "τ-Kernel",
-    "slug": "define-the-kernel",
-    "agenda_path": "/program/research-agenda/construction-roadmap/#define-the-kernel",
-    "corpus_path": "/corpus/construction-spine/define-the-kernel/",
+    "slug": "build-the-kernel",
+    "redirect_from": [
+      "/corpus/construction-spine/define-the-kernel/"
+    ],
+    "agenda_path": "/program/research-agenda/construction-roadmap/#build-the-kernel",
+    "corpus_path": "/corpus/construction-spine/build-the-kernel/",
     "results_path": "/results/progress-against-agenda/",
     "summary": "Builds the full internal kernel machine: five generators, one primitive progression operator, K0-K6, multiplicative and exponential address structure, boundary algebra, τ-holomorphy, and internal truth machinery.",
     "required_to_do": "The program must build a kernel precise enough to generate objects, constrain admissible construction, retain global address structure, and expose the boundary behavior needed by later mathematics, physics, life, reflection, and ontic-closure tests.",
@@ -384,9 +387,12 @@
     "sequence": 3,
     "title": "Internalize Self-Enrichment",
     "short_title": "Self-Enrichment",
-    "slug": "internalize-logic",
-    "agenda_path": "/program/research-agenda/construction-roadmap/#internalize-logic-and-categorical-self-structure",
-    "corpus_path": "/corpus/construction-spine/internalize-logic/",
+    "slug": "internalize-self-enrichment",
+    "redirect_from": [
+      "/corpus/construction-spine/internalize-logic/"
+    ],
+    "agenda_path": "/program/research-agenda/construction-roadmap/#internalize-self-enrichment",
+    "corpus_path": "/corpus/construction-spine/internalize-self-enrichment/",
     "results_path": "/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/",
     "summary": "Moves from an externally described kernel toward self-enrichment: hom-objects as τ-objects, Yoneda as theorem, iterated enrichment, and the first formal reduction of metalanguage externality.",
     "required_to_do": "The program must begin to discharge the externality of speaking about τ only from outside by showing how τ can internalize its own morphism spaces, representation, and enrichment ladder.",

@@ -171,5 +171,5 @@ This step identifies the carrier for physics. It does not yet complete internal 
 
 ## Spine navigation
 
-- Previous: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-logic/)
+- Previous: [Step 3 — Internalize Self-Enrichment](/corpus/construction-spine/internalize-self-enrichment/)
 - Next: [Step 5 — Recover Internal Physical Grammar](/corpus/construction-spine/recover-internal-physical-grammar/)

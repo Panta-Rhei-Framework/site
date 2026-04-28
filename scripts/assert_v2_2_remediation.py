@@ -92,7 +92,7 @@ def main() -> int:
     )
 
     require(
-        "/corpus/construction-spine/define-the-kernel/",
+        "/corpus/construction-spine/build-the-kernel/",
         "Step 1",
         "What this step is required to do",
         "Previous: Construction Spine overview",
@@ -104,7 +104,7 @@ def main() -> int:
         "Previous: Step 9",
         "Next: This is the final construction step; return to the Construction Spine overview",
     )
-    forbid("/corpus/construction-spine/define-the-kernel/", "What this step was required to do")
+    forbid("/corpus/construction-spine/build-the-kernel/", "What this step was required to do")
 
     forbid("/verify/construction-spine-verification/", "No empirical check declared at this step")
     require("/verify/construction-spine-verification/", "Not applicable at this step")

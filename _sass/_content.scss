@@ -321,6 +321,35 @@ a.part-card {
   border-radius: 4px;
 }
 
+.formula-block {
+  margin: 22px 0;
+  padding: 16px 18px;
+  overflow-x: auto;
+  background: var(--surface-plate);
+  border: var(--border-subtle);
+  border-left: 3px solid var(--lane-current);
+  border-radius: 6px;
+
+  math {
+    display: block;
+    margin: 0 auto 10px;
+    max-width: 100%;
+    text-align: center;
+  }
+}
+
+.formula-fallback {
+  margin: 10px 0 0;
+  color: $text-muted;
+  font-size: 0.9rem;
+  line-height: 1.5;
+
+  code {
+    white-space: normal;
+    word-break: break-word;
+  }
+}
+
 // Module-specific components
 .module-eyebrow-row {
   display: flex;

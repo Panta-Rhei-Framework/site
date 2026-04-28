@@ -56,6 +56,12 @@ Start with [Scope, Status & Scrutiny]({{ '/program/about/scope-status-and-scruti
 
 Use [Corpus]({{ '/corpus/' | relative_url }}) for the public research body and [Corpus > Registry]({{ '/corpus/registry/' | relative_url }}) for the current registry projection. The registry is the inspection route for definitions, theorem objects, and dependency contexts.
 
+## Foundational hinges
+
+For the first mathematical review pass, use [Foundational Hinges]({{ '/corpus/foundational-hinges/' | relative_url }}) before diving into the full monographs. The hinge route gives the compressed reviewer packet for Steps 1-3: [Build the τ-Kernel]({{ '/corpus/construction-spine/build-the-kernel/' | relative_url }}), [Recover Core Mathematics]({{ '/corpus/construction-spine/recover-core-mathematics/' | relative_url }}), and [Internalize Self-Enrichment]({{ '/corpus/construction-spine/internalize-self-enrichment/' | relative_url }}).
+
+Physics reviewers should start with [Hinge 3 — The Master Constant iota_tau]({{ '/corpus/foundational-hinges/master-constant-iota-tau/' | relative_url }}), its [research paper]({{ '/publications/research-papers/master-constant-iota-tau/' | relative_url }}), the [PDF]({{ '/assets/pdfs/research-papers/research-paper-2026-04-27-master-constant-iota-tau.pdf' | relative_url }}), and DOI [10.5281/zenodo.19820352](https://doi.org/10.5281/zenodo.19820352) before reading the [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}).
+
 ## Results and problem ledger
 
 Use [Results]({{ '/results/' | relative_url }}) for typed answer surfaces and [Results > Problem Ledger]({{ '/results/problem-ledger/' | relative_url }}) for the problem-facing map. Pick one result page and follow its linked Corpus and Verify routes before generalizing.
