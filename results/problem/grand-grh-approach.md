@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Grand GRH Approach"
-permalink: /results/problem/grand-grh-approach/
-result_id: result-232
+permalink: "/results/problem/grand-grh-approach/"
+id: "result-232"
+result_id: "result-232"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "MILL"
 summary_short: "The Grand Riemann Hypothesis extends RH to all Dirichlet L-functions. The τ-framework's spectral purity approach extends to the full L-function family but …"
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

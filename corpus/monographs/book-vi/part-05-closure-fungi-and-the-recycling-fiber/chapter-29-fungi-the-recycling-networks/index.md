@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 29: Fungi: The Recycling Networks"
-permalink: /corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 5
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 28: The Closure Sector: Decomposition and Nutrient 
 next_chapter_url: "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-30-death-decomposition-and-aging/"
 next_chapter_title: "Chapter 30: Death, Decomposition, and Aging"
 summary_short: "Fungi are the purest biological realization of the closure sector: sessile heterotrophs whose Life loops wind dominantly along the η-fiber, with w_π = 0…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/
+canonical_part_url: "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
 canonical_part_title: "Part V: Closure — Fungi and the Recycling Fiber"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part V: Closure — Fungi and the Recycling Fiber"
-    url: /corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part V: Closure — Fungi and the Recycling Fiber"
+      url: "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part V"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Fungi are the purest biological realization of the closure sector: sessile heterotrophs whose Life loops wind dominantly along the η-fiber, with w_π = 0 and w_γ = 0. This chapter develops the biology behind that formal characterization. Mycelial networks are distributed recycling architectures whose graph topology maximizes absorptive surface area. Saprotrophic decomposition—the closure sector's defining act—reverses the complexity gradient of photosynthesis, with fungi holding a monopoly on lignin degradation that shaped the Carboniferous geological record. Mycorrhizal symbiosis couples the closure and source sectors through phosphorus-for-carbon exchange, connecting 90% of land plants into the Wood Wide Web. The four fungal strategies—saprotrophic, mycorrhizal, parasitic, and lichenized—represent distinct modes of η-fiber operation.

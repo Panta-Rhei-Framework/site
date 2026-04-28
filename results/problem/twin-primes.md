@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Twin Primes"
-permalink: /results/problem/twin-primes/
-result_id: result-094
+permalink: "/results/problem/twin-primes/"
+id: "result-094"
+result_id: "result-094"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: not-addressed
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: N
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "not-addressed"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "N"
 domain_group: "CLASSICAL-NT"
 summary_short: "The Twin Prime Conjecture — that there are infinitely many pairs of primes differing by 2 — is one of the central open problems in analytic number theory. Zhang…"
-canonical_books: ["I"]
+canonical_books:
+  - "I"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Not Addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

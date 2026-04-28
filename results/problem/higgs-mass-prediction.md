@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Higgs Boson Mass Prediction at +8.0 ppm
-permalink: /results/problem/higgs-mass-prediction/
-result_id: result-012
+layout: "result-page"
+title: "Higgs Boson Mass Prediction at +8.0 ppm"
+permalink: "/results/problem/higgs-mass-prediction/"
+id: "result-012"
+result_id: "result-012"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The Higgs boson mass is derived from the structural integer n = 7 =
-  2·|lobes| + |sectors| at +8.0 ppm from the PDG value of 125.20 GeV.
-canonical_books: ["IV"]
+summary_short: "The Higgs boson mass is derived from the structural integer n = 7 = 2·|lobes| + |sectors| at +8.0 ppm from the PDG value of 125.20 GeV."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Higgs mass is the least well-understood mass parameter in the Standard Model
 ## Result Statement
 
 IV.T166: m_H derived from n = 7 = 2·|lobes| + |sectors| = 2·2 + 3 = 7 at +8.0 ppm from PDG value 125.20 GeV. (n=5 at +493 ppm was superseded.)
-

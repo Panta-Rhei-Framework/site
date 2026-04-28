@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?"
 permalink: "/program/research-agenda/problem-ledger/life/why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
 id: "life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
 short_title: "Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
-  mapped_from_source_entries:
-    - "wikipedia-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces"
-  - "non-human-biology"
-  - "ecology-evolution-and-paleontology"
-  - "Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?"
 url: "/program/research-agenda/problem-ledger/life/why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces/"
 results_mirror:
   exists: false

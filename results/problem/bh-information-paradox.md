@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "BH Information Paradox"
-permalink: /results/problem/bh-information-paradox/
-result_id: result-171
+permalink: "/results/problem/bh-information-paradox/"
+id: "result-171"
+result_id: "result-171"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "BH"
 summary_short: "The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework internally addresses this: information is pres…"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

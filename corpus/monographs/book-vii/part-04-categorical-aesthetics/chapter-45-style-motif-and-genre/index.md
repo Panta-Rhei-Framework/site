@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 45: Style, Motif, and Genre"
-permalink: /corpus/monographs/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 44: Elegance and Minimal Tension"
 next_chapter_url: "/corpus/monographs/book-vii/part-04-categorical-aesthetics/chapter-46-the-golden-ratio/"
 next_chapter_title: "Chapter 46: The Golden Ratio"
 summary_short: "Chapters [ch:aesthetic-functional]–[ch:elegance] characterised individual motifs: beauty as invariance, elegance as minimal tension. This chapter lifts the…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-04-categorical-aesthetics/
+canonical_part_url: "/corpus/monographs/book-vii/part-04-categorical-aesthetics/"
 canonical_part_title: "Part IV: Categorical Aesthetics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part IV: Categorical Aesthetics"
-    url: /corpus/monographs/book-vii/part-04-categorical-aesthetics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part IV: Categorical Aesthetics"
+      url: "/corpus/monographs/book-vii/part-04-categorical-aesthetics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part IV"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapters – characterised
 individual motifs: beauty as invariance, elegance as minimal tension.

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Neutrino mass"
 permalink: "/program/research-agenda/problem-ledger/physics/neutrino-mass/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-neutrino-mass"
 id: "phys-neutrino-mass"
 short_title: "Neutrino mass"
@@ -126,15 +126,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-neutrino-mass"
-  mapped_from_source_entries:
-    - "wikipedia-physics-neutrino-mass"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -145,12 +136,6 @@ tags:
   - "wikipedia-physics"
   - "neutrino-mass"
   - "high-energy-particle-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "neutrino-mass"
-  - "high-energy-particle-physics"
-  - "Neutrino mass"
 url: "/program/research-agenda/problem-ledger/physics/neutrino-mass/"
 results_mirror:
   exists: false

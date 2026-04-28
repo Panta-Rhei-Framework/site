@@ -1,27 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Cell as Tau-Object"
-permalink: /results/problem/cell-as-tau-object/
-result_id: result-076
+permalink: "/results/problem/cell-as-tau-object/"
+id: "result-076"
+result_id: "result-076"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: consequence
-bridge_status: resolved
-result_kind: consequence
-importance_class: structural-support-result
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "consequence"
+bridge_status: "resolved"
+result_kind: "consequence"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Cellular Biology"
 summary_short: "Excellent bridge page between framework ontology and biological structure."
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Consequence"
-    layer: Life
-    topic: Biology
+    layer: "Life"
+    topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 The cell is the fundamental unit of life. Every living organism is either a single cell or composed of cells. But what *is* a cell, structurally? The framework provides a precise answer: a cell is a τ-object at enrichment level E₂ — a concrete instantiation of the τ-Distinction in physical matter.

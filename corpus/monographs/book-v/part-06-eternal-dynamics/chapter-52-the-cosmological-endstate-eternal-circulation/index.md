@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 52: The Cosmological Endstate: Eternal Circulation"
-permalink: /corpus/monographs/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 51: Global Finiteness: The Four-Theorem Chain"
 next_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-53-the-cosmology-falsification-pack/"
 next_chapter_title: "Chapter 53: The Cosmology Falsification Pack"
 summary_short: "How does the universe end? Orthodox cosmology offers three scenarios: heat death (eternal expansion into thermal equilibrium), Big Crunch (recollapse to a…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-06-eternal-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
 canonical_part_title: "Part VI: Eternal Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part VI: Eternal Dynamics"
-    url: /corpus/monographs/book-v/part-06-eternal-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VI: Eternal Dynamics"
+      url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part VI"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 How does the universe end?
 Orthodox cosmology offers three scenarios:

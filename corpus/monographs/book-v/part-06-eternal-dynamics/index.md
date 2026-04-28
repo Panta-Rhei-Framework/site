@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VI: Eternal Dynamics"
-permalink: /corpus/monographs/book-v/part-06-eternal-dynamics/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
@@ -15,26 +15,32 @@ part_display: "Part VI"
 part_slug: "part-06-eternal-dynamics"
 chapter_count: 13
 summary_short: "Part VI turns to the largest questions: *Where does the universe come from? Where does it go? What are black holes?* The answers all flow from a single…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-06-eternal-dynamics/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book V"
     layer: "E₁ Physics (Macrocosm)"
     chapters: "13"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VI turns to the largest questions:
 *Where does the universe come from?

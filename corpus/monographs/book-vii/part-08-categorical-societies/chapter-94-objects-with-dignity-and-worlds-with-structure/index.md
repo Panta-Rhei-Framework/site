@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 94: Objects with Dignity and Worlds with Structure"
-permalink: /corpus/monographs/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 8
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 93: The Ethics Synthesis"
 next_chapter_url: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-95-spheres-bubbles-and-foams-sloterdijk/"
 next_chapter_title: "Chapter 95: Spheres, Bubbles, and Foams: Sloterdijk"
 summary_short: "Part VII established the ethical framework: dignity as label-independence, the categorical imperative as sheaf condition, the CI proof programme, and the…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-08-categorical-societies/
+canonical_part_url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
 canonical_part_title: "Part VIII: Categorical Societies"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part VIII: Categorical Societies"
-    url: /corpus/monographs/book-vii/part-08-categorical-societies/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part VIII: Categorical Societies"
+      url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part VIII"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VII established the ethical framework: dignity as
 label-independence, the categorical imperative as sheaf condition, the

@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Extended Mind"
-permalink: /results/problem/extended-mind/
-result_id: result-217
+permalink: "/results/problem/extended-mind/"
+id: "result-217"
+result_id: "result-217"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "MIND"
 summary_short: "Clark and Chalmers's Extended Mind thesis (cognitive processes can extend beyond the skull) is validated: the carrier domain extends to external substrates…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

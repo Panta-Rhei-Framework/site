@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Metabolic Network Topology"
-permalink: /results/problem/metabolic-network-topology/
-result_id: result-189
+permalink: "/results/problem/metabolic-network-topology/"
+id: "result-189"
+result_id: "result-189"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "CELL"
 summary_short: "Why do metabolic networks have hub-and-spoke topology with the Krebs cycle at the center? The τ-framework derives this: the Krebs cycle is the canonical Lo…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

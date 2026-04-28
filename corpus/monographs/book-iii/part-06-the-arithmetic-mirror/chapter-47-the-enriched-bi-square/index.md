@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 47: The Enriched Bi-Square"
-permalink: /corpus/monographs/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 6
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 46: Functoriality as Diagram Commutativity"
 next_chapter_url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/chapter-48-the-tower-closes/"
 next_chapter_title: "Chapter 48: The Tower Closes"
 summary_short: "The bi-square of Book I (the Bi-Square Characterization, Book I, Theorem I.T41) is the algebraic seed of the entire series: a 2 × 3 pasted diagram whose left…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-06-the-arithmetic-mirror/
+canonical_part_url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/"
 canonical_part_title: "Part VI: The Arithmetic Mirror"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part VI: The Arithmetic Mirror"
-    url: /corpus/monographs/book-iii/part-06-the-arithmetic-mirror/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part VI: The Arithmetic Mirror"
+      url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part VI"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The bi-square of Book I (the Bi-Square Characterization, Book I, Theorem I.T41) is the algebraic seed of the entire series: a 2 × 3 pasted diagram whose left square encodes tower coherence and whose right square encodes spectral naturality. Book II's Central Theorem (II.T40) lifted the bi-square from algebraic to topological, replacing presheaf values with holomorphic sections and spectral naturality with boundary-value duality on the lemniscate 𝕃. This chapter constructs the third bi-square—the *enriched bi-square* at E₁+—and proves two theorems. First, the Finite Factorization Pasting : pasting the two squares forces every E₁ datum to factor through finitely many primitive sector components. Second, the Enriched Bi-Square Comparison : the three bi-squares are structurally identical—same shape, same structural maps, richer objects—and the comparison extends forward to the computational bi-square of Part VII (the relevant definition, Ch. 58). The enriched bi-square is the single diagram that unifies all of Part VI: BSD coherence (the relevant theorem, Ch. 47), Langlands functoriality (the relevant theorem, Ch. 49), and the physics layer readings (NS regularity, YM mass gap, Hodge addressability) are all encoded in its structure.

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 49: Hartogs Extension in H_τ"
-permalink: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 48: Boundary Characters via Idempotent Support"
 next_chapter_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/"
 next_chapter_title: "Chapter 50: Extensions Are ω-Germ Transformers"
 summary_short: "Chapter [ch:boundary-characters-idempotent] restated the boundary ring characters as idempotent-supported objects (Definition [def:idempotent-character],…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+canonical_part_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
 canonical_part_title: "Part IX: The Central Theorem and Categoricity"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part IX: The Central Theorem and Categoricity"
-    url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part IX: The Central Theorem and Categoricity"
+      url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IX"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 the relevant chapter
 restated the boundary ring characters

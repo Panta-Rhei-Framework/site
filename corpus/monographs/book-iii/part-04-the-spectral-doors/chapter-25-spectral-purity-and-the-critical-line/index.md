@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 25: Spectral Purity and the Critical Line"
-permalink: /corpus/monographs/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 4
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 24: The Spectral Correspondence"
 next_chapter_url: "/corpus/monographs/book-iii/part-04-the-spectral-doors/chapter-26-primorial-verification-of-rh/"
 next_chapter_title: "Chapter 26: Primorial Verification of RH"
 summary_short: "We harvest the consequences of self-adjointness. The spectral correspondence of Chapter 24 maps zeros to eigenvalues; self-adjointness forces eigenvalues to be…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-04-the-spectral-doors/
+canonical_part_url: "/corpus/monographs/book-iii/part-04-the-spectral-doors/"
 canonical_part_title: "Part IV: The Spectral Doors"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part IV: The Spectral Doors"
-    url: /corpus/monographs/book-iii/part-04-the-spectral-doors/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part IV: The Spectral Doors"
+      url: "/corpus/monographs/book-iii/part-04-the-spectral-doors/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part IV"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 We harvest the consequences of self-adjointness. The spectral correspondence of Chapter 24 maps zeros to eigenvalues; self-adjointness forces eigenvalues to be real; reality forces the imaginary part of ρ(1-ρ) - ¼ to vanish; and for non-trivial zeros γ ≠ 0, this annihilation implies σ = ½. The Riemann Hypothesis emerges as a *spectral purity theorem*: K5 diagonal discipline forbids off-diagonal mixing in H_L, and this discipline propagates through the spectral correspondence to constrain the location of zeros. The critical line is the locus where B-sector and C-sector contributions balance exactly, a balance enforced by the bipolar symmetry encoded in Book I's bi-square characterization.

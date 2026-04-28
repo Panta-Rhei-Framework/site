@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 14: Three Levels of Sameness"
-permalink: /corpus/monographs/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 13: The Program Monoid — Composition as a Theorem
 next_chapter_url: "/corpus/monographs/book-i/part-03-the-denotational-bridge/chapter-15-the-denotational-order-and-the-road-ahead/"
 next_chapter_title: "Chapter 15: The Denotational Order and the Road Ahead"
 summary_short: "In standard mathematics, equality is monolithic: two objects are either equal or not. In τ, the ontic/denotational boundary induces a *hierarchy* of…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-03-the-denotational-bridge/
+canonical_part_url: "/corpus/monographs/book-i/part-03-the-denotational-bridge/"
 canonical_part_title: "Part III: The Denotational Bridge"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part III: The Denotational Bridge"
-    url: /corpus/monographs/book-i/part-03-the-denotational-bridge/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part III: The Denotational Bridge"
+      url: "/corpus/monographs/book-i/part-03-the-denotational-bridge/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part III"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 In standard mathematics, equality is monolithic:
 two objects are either equal or not.

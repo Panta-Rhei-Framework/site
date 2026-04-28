@@ -1,29 +1,32 @@
 ---
-
-layout: result-page
-title: 'Parity Bridge Theorem: E₁ → 2_τ → E₂ Factors Through the Weak Sector'
-permalink: /results/problem/parity-bridge-theorem/
-result_id: result-040
+layout: "result-page"
+title: "Parity Bridge Theorem: E₁ → 2_τ → E₂ Factors Through the Weak Sector"
+permalink: "/results/problem/parity-bridge-theorem/"
+id: "result-040"
+result_id: "result-040"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: The Parity Bridge Theorem proves that the transition from E₁ (physics)
-  to E₂ (life) must factor uniquely through the weak sector — parity violation is
-  structurally required for life.
-canonical_books: ["I"]
+summary_short: "The Parity Bridge Theorem proves that the transition from E₁ (physics) to E₂ (life) must factor uniquely through the weak sector — parity violation is structurally required for life."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -37,4 +40,3 @@ Biology is built from chiral molecules: all amino acids in living systems are L-
 ## Result Statement
 
 VI.T01: Any morphism E₁ → E₂ in τ must factor through the weak sector (A-sector). Parity violation is structurally required for life. Homochirality follows.
-

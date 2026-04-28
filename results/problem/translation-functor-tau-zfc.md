@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Translation Functor tau → ZFC"
-permalink: /results/problem/translation-functor-tau-zfc/
-result_id: result-096
+permalink: "/results/problem/translation-functor-tau-zfc/"
+id: "result-096"
+result_id: "result-096"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: consequence
-bridge_status: partial
-result_kind: consequence
-importance_class: core-foundational-problem
-status_code: P
+topic: "mathematics"
+layer: "mathematics"
+result_type: "consequence"
+bridge_status: "partial"
+result_kind: "consequence"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "BRIDGE"
 summary_short: "The translation functor from Category τ to ZFC (Zermelo-Fraenkel set theory with Choice) is the bridge that would allow τ-results to be stated in conventional m…"
-canonical_books: ["I", "III"]
+canonical_books:
+  - "I"
+  - "III"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

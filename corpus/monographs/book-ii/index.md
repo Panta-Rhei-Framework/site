@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book II: Categorical Holomorphy"
-permalink: /corpus/monographs/book-ii/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "II"
 book_slug: "book-ii"
 subtitle: "Finite Readouts of Infinity"
@@ -15,29 +15,39 @@ part_count: 12
 chapter_count: 68
 page_count: 504
 summary_short: "Finite Readouts of Infinity"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/"
 summary_cards:
-- title: Subtitle
-  body: "Finite Readouts of Infinity"
-- title: Structure
-  body: "12 parts, 68 chapters, 504 pages"
-- title: Layer
-  body: "E₀ Mathematics"
+  -
+    title: "Subtitle"
+    body: "Finite Readouts of Infinity"
+  -
+    title: "Structure"
+    body: "12 parts, 68 chapters, 504 pages"
+  -
+    title: "Layer"
+    body: "E₀ Mathematics"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₀ Mathematics"
     parts: "12"
     chapters: "68"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

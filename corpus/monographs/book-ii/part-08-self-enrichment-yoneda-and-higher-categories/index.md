@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VIII: Self-Enrichment, Yoneda, and Higher Categories"
-permalink: /corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 8
@@ -15,26 +15,32 @@ part_display: "Part VIII"
 part_slug: "part-08-self-enrichment-yoneda-and-higher-categories"
 chapter_count: 5
 summary_short: "Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book II"
     layer: "E₀ Mathematics"
     chapters: "5"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem.
 Five chapters build self-enrichment and the enrichment ladder.

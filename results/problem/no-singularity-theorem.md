@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'No Singularity: Profinite Structure Blocks a → 0'
-permalink: /results/problem/no-singularity-theorem/
-result_id: result-017
+layout: "result-page"
+title: "No Singularity: Profinite Structure Blocks a → 0"
+permalink: "/results/problem/no-singularity-theorem/"
+id: "result-017"
+result_id: "result-017"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The profinite structure of τ³ ensures bounded norms at all stages,
-  so a → 0 cannot occur. The Big Bang is a bounded opening regime.
-canonical_books: ["V"]
+summary_short: "The profinite structure of τ³ ensures bounded norms at all stages, so a → 0 cannot occur. The Big Bang is a bounded opening regime."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ General relativity's Penrose-Hawking singularity theorems prove that, under clas
 ## Result Statement
 
 V.T103: The No-Singularity Theorem. The profinite structure of τ³ ensures bounded norms at all stages. There is no stage at which the scale factor a → 0. Big Bang = bounded opening regime of the τ-Einstein equation.
-

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness
-permalink: /results/problem/cosmological-flatness-omega-k-zero/
-result_id: result-058
+layout: "result-page"
+title: "Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness"
+permalink: "/results/problem/cosmological-flatness-omega-k-zero/"
+id: "result-058"
+result_id: "result-058"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: Spatial flatness of the universe, Ω_k = 0 exactly, is derived as a
-  structural consequence of the compactness of τ³ — not from inflation or fine-tuning.
-canonical_books: ["V"]
+summary_short: "Spatial flatness of the universe, Ω_k = 0 exactly, is derived as a structural consequence of the compactness of τ³ — not from inflation or fine-tuning."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -42,4 +46,3 @@ The cross-domain significance is that the same compactness argument that gives �
 ## Result Statement
 
 V.T106: Ω_k = 0 exactly, derived from compactness of τ³. Σ_now ≅ T² compact implies total curvature vanishes by Gauss-Bonnet. No inflation required.
-

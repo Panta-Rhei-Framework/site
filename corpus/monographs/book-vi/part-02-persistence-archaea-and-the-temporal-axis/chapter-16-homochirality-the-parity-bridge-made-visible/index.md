@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 16: Homochirality: The Parity Bridge Made Visible"
-permalink: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 2
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 15: Circadian Rhythms: Poincaré Orbits on the Temp
 next_chapter_url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-17-the-agency-sector-motility-and-environmental-interaction/"
 next_chapter_title: "Chapter 17: The Agency Sector: Motility and Environmental Interaction"
 summary_short: "All known life uses L-amino acids and D-sugars—a universal preference that remains unexplained by classical chemistry. Homochirality is interpreted as the…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/
+canonical_part_url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
 canonical_part_title: "Part II: Persistence — Archaea and the Temporal Axis"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part II: Persistence — Archaea and the Temporal Axis"
-    url: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part II: Persistence — Archaea and the Temporal Axis"
+      url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part II"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 All known life uses L-amino acids and D-sugars—a universal preference that remains unexplained by classical chemistry. Homochirality is interpreted as the phenomenological shadow of the Parity Bridge Theorem: weak-sector chirality provides the unique polarity seed, and biology inherits this asymmetry. The structural bridge is τ-effective; the biological manifestation is conjectural, and strict scope discipline is maintained throughout.

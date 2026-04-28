@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Genetic Code Optimality"
-permalink: /results/problem/genetic-code-optimality/
-result_id: result-128
+permalink: "/results/problem/genetic-code-optimality/"
+id: "result-128"
+result_id: "result-128"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "GENE"
 summary_short: "The genetic code is nearly optimal for error minimization — in the top 0.01% of all possible codes. The τ-framework derives this optimality from the BSD-motivic…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

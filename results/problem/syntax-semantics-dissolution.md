@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Syntax-Semantics Dissolution"
-permalink: /results/problem/syntax-semantics-dissolution/
-result_id: result-209
+permalink: "/results/problem/syntax-semantics-dissolution/"
+id: "result-209"
+result_id: "result-209"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "LANG"
 summary_short: "The syntax-semantics gap (how form carries meaning) is dissolved: inside the τ-topos, syntax and semantics are aspects of the same structure. Meaning IS fo…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

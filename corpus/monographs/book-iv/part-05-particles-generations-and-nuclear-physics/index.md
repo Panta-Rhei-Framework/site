@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part V: Particles, Generations, and Nuclear Physics"
-permalink: /corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 5
@@ -15,26 +15,32 @@ part_display: "Part V"
 part_slug: "part-05-particles-generations-and-nuclear-physics"
 chapter_count: 10
 summary_short: "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the E₁ spectral page: electromagnetic, weak,…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book IV"
     layer: "E₁ Physics (Microcosm)"
     chapters: "10"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Forces are not the destination—they are the *tools*.
 Parts III and IV surveyed the four force sectors on the E₁ spectral page:

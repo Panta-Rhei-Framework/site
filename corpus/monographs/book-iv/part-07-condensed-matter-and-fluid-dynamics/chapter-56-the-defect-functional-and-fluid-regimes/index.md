@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 56: The Defect Functional and Fluid Regimes"
-permalink: /corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 7
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 55: The Molecular τ³ View"
 next_chapter_url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/"
 next_chapter_title: "Chapter 57: The Universal Defect Tuple"
 summary_short: "In Chapter [ch:iv-defect-bundles] the defect tuple d = (d₁, d₂, d₃, d₄) classified individual particles: electrons, protons, neutrons, each…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/
+canonical_part_url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
 canonical_part_title: "Part VII: Condensed Matter and Fluid Dynamics"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part VII: Condensed Matter and Fluid Dynamics"
-    url: /corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part VII: Condensed Matter and Fluid Dynamics"
+      url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part VII"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 In the relevant chapter the defect tuple
 d = (d₁, d₂, d₃, d₄) classified individual particles:

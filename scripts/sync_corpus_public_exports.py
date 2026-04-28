@@ -30,6 +30,28 @@ def copy_tree(source: Path, target: Path) -> None:
             copy_file(path, target / path.relative_to(source))
 
 
+def clean_tree(target: Path, suffixes: tuple[str, ...] = (".md", ".json", ".csv", ".ndjson")) -> None:
+    if not target.exists():
+        return
+    for path in sorted(target.rglob("*"), reverse=True):
+        if path.is_file() and path.suffix in suffixes:
+            path.unlink()
+    for path in sorted(target.rglob("*"), reverse=True):
+        if path.is_dir():
+            try:
+                path.rmdir()
+            except OSError:
+                pass
+
+
+def clean_child_directories(target: Path) -> None:
+    if not target.exists():
+        return
+    for child in sorted(target.iterdir()):
+        if child.is_dir():
+            shutil.rmtree(child)
+
+
 def read_json(path: Path) -> list[dict[str, Any]]:
     data = json.loads(path.read_text(encoding="utf-8"))
     return data if isinstance(data, list) else data.get("items", [])
@@ -518,10 +540,29 @@ def sync_problem_recovery_agenda() -> None:
     copy_file(source, SITE_ROOT / "_data" / "agenda_progress" / "agenda-progress.json")
     copy_file(source, SITE_ROOT / "assets" / "data" / "agenda-progress" / "agenda-progress.json")
 
+    clean_tree(SITE_ROOT / "_problem_ledger")
+    clean_tree(SITE_ROOT / "_recovery_requirements")
     copy_tree(CORPUS_EXPORTS / "problem-items", SITE_ROOT / "_problem_ledger")
     copy_tree(CORPUS_EXPORTS / "recovery-requirements", SITE_ROOT / "_recovery_requirements")
     generate_problem_answer_pages()
     generate_recovery_status_pages()
+
+
+def sync_results() -> None:
+    for filename in ("results.json", "results.ndjson", "results.csv"):
+        source = CORPUS_EXPORTS / filename
+        copy_file(source, SITE_ROOT / "_data" / "results" / filename)
+        copy_file(source, SITE_ROOT / "assets" / "data" / "results" / filename)
+    clean_tree(SITE_ROOT / "results" / "problem")
+    copy_tree(CORPUS_EXPORTS / "result-pages", SITE_ROOT / "results" / "problem")
+
+
+def sync_monograph_projections() -> None:
+    clean_tree(SITE_ROOT / "corpus" / "monographs")
+    copy_tree(CORPUS_EXPORTS / "monograph-projections" / "pages", SITE_ROOT / "corpus" / "monographs")
+    for filename in ("parts.json", "chapters.json"):
+        source = CORPUS_EXPORTS / "monograph-projections" / "data" / filename
+        copy_file(source, SITE_ROOT / "_data" / "publications" / filename)
 
 
 def sync_foundations() -> None:
@@ -543,6 +584,8 @@ def sync_foundations() -> None:
         SITE_ROOT / "_data" / "foundational_hinges" / "foundational-hinges-data.json",
     )
 
+    clean_child_directories(SITE_ROOT / "corpus" / "construction-spine")
+    clean_tree(SITE_ROOT / "corpus" / "foundational-hinges")
     copy_tree(CORPUS_EXPORTS / "construction-spine" / "steps", SITE_ROOT / "corpus" / "construction-spine")
     copy_tree(CORPUS_EXPORTS / "foundational-hinges", SITE_ROOT / "corpus" / "foundational-hinges")
 
@@ -551,18 +594,23 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--scope",
-        choices=("all", "foundations"),
+        choices=("all", "foundations", "ledgers", "results", "monographs"),
         default="all",
-        help="Sync all Corpus public exports, or only Construction Spine / Foundational Hinges.",
+        help="Sync all Corpus public exports, or one projection family.",
     )
     args = parser.parse_args()
 
     if not CORPUS_EXPORTS.exists():
         raise SystemExit(f"Missing Corpus public exports: {CORPUS_EXPORTS}")
 
-    if args.scope == "all":
+    if args.scope in ("all", "ledgers"):
         sync_problem_recovery_agenda()
-    sync_foundations()
+    if args.scope in ("all", "results"):
+        sync_results()
+    if args.scope in ("all", "monographs"):
+        sync_monograph_projections()
+    if args.scope in ("all", "foundations"):
+        sync_foundations()
     return 0
 
 

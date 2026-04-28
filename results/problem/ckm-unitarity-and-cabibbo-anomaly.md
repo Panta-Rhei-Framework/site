@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "CKM Unitarity and Cabibbo Anomaly"
-permalink: /results/problem/ckm-unitarity-and-cabibbo-anomaly/
-result_id: result-175
+permalink: "/results/problem/ckm-unitarity-and-cabibbo-anomaly/"
+id: "result-175"
+result_id: "result-175"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: P
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "P"
 domain_group: "PART/EW"
 summary_short: "The Cabibbo Anomaly — apparent unitarity violation in the first row of the CKM matrix — has attracted attention as a possible BSM signal. The τ-framework h…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 30: Split-Complex Codomain with Calibration"
-permalink: /corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 6
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 29: ι<sub>τ</sub> Confirmed — The Archimedean-N
 next_chapter_url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-31-the-bndlift/"
 next_chapter_title: "Chapter 31: The BndLift"
 summary_short: "Parts I–V built the infrastructure of Book II without making the split-complex codomain H_τ load-bearing. The bipolar scalars (I.D20, Book I) were present…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/
+canonical_part_url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
 canonical_part_title: "Part VI: Local Hartogs and the Holomorphic Interior"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part VI: Local Hartogs and the Holomorphic Interior"
-    url: /corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part VI: Local Hartogs and the Holomorphic Interior"
+      url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part VI"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Parts I–V built the infrastructure of Book II
 without making the split-complex codomain

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink"
-permalink: /corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 48: Black Hole Bipolarity and Blueprint Fusion"
 next_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-50-the-merger-normal-form-and-bh-astrophysics/"
 next_chapter_title: "Chapter 50: The Merger Normal Form and BH Astrophysics"
 summary_short: "Can a black hole lose mass? In orthodox general relativity, the answer was ``no'' until 1975. Hawking's celebrated calculation — quantum fields on a curved…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-06-eternal-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
 canonical_part_title: "Part VI: Eternal Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part VI: Eternal Dynamics"
-    url: /corpus/monographs/book-v/part-06-eternal-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VI: Eternal Dynamics"
+      url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part VI"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Can a black hole lose mass?
 In orthodox general relativity,

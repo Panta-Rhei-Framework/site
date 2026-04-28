@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Tarski Axioms for Geometry"
-permalink: /results/problem/tarski-axioms-for-geometry/
-result_id: result-225
+permalink: "/results/problem/tarski-axioms-for-geometry/"
+id: "result-225"
+result_id: "result-225"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "GEO"
 summary_short: "Tarski's axioms for Euclidean geometry (betweenness + congruence) are earned inside Category τ from the ultrametric structure of the orbit space. Geometry …"
-canonical_books: ["II"]
+canonical_books:
+  - "II"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

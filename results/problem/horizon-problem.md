@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Horizon Problem: CMB Uniformity from τ³ Compactness'
-permalink: /results/problem/horizon-problem/
-result_id: result-253
-problem_ledger_ids: ["phys-horizon-problem"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Horizon Problem: CMB Uniformity from τ³ Compactness"
+permalink: "/results/problem/horizon-problem/"
+id: "result-253"
+result_id: "result-253"
+problem_ledger_ids:
+  - "phys-horizon-problem"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'The horizon problem is structurally dissolved in τ (V.P91, Horizon Framework Account): τ³ = τ¹ ×_f T² is compact as a fibered product of compact spaces (V.T106, Flatness from Compactness). All regions of the last-scattering surface are causally ordered through the refinement tower — no "causally disconnected regions" exist. CMB uniformity at ~10⁻⁵ is a consequence of global compactness, not fine-tuned initial conditions or an inflationary mechanism.'
-canonical_books: ["V"]
+summary_short: "The horizon problem is structurally dissolved in τ (V.P91, Horizon Framework Account): τ³ = τ¹ ×_f T² is compact as a fibered product of compact spaces (V.T106, Flatness from Compactness). All regions of the last-scattering surface are causally ordered through the refinement tower — no \"causally disconnected regions\" exist. CMB uniformity at ~10⁻⁵ is a consequence of global compactness, not fine-tuned initial conditions or an inflationary mechanism."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

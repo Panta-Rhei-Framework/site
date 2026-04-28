@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VII: Cosmic Life"
-permalink: /corpus/monographs/book-vi/part-07-cosmic-life/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-07-cosmic-life/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 7
@@ -15,26 +15,32 @@ part_display: "Part VII"
 part_slug: "part-07-cosmic-life"
 chapter_count: 8
 summary_short: "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier T(H_BH) satisfies both Distinction and SelfDesc with the…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-07-cosmic-life/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-07-cosmic-life/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "8"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 **Black holes are alive**—not as metaphor but as structural theorem. The macro-torus
 carrier T(H_BH) satisfies both Distinction and SelfDesc with the simplest

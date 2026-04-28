@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Yang-Mills Existence and Mass Gap"
 permalink: "/program/research-agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "math-yang-mills-existence-mass-gap"
 id: "math-yang-mills-existence-mass-gap"
 short_title: "Yang-Mills Mass Gap"
@@ -90,15 +90,6 @@ related:
   recovery_requirements:
     - "MREC-M5"
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "math-yang-mills-existence-mass-gap"
-  mapped_from_source_entries:
-    - "clay-yang-mills-existence-mass-gap"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1.0"
@@ -109,13 +100,6 @@ tags:
   - "gauge-theory"
   - "mathematical-physics"
   - "millennium-problem"
-search_keywords:
-  - "mathematics"
-  - "gauge-theory"
-  - "mathematical-physics"
-  - "millennium-problem"
-  - "Yang-Mills Existence and Mass Gap"
-  - "Yang-Mills Mass Gap"
 url: "/program/research-agenda/problem-ledger/mathematics/yang-mills-existence-mass-gap/"
 results_mirror:
   exists: false

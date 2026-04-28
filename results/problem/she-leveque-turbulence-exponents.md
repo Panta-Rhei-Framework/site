@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: She–Lévêque Turbulence Exponents Exact from τ³ Dimensions
-permalink: /results/problem/she-leveque-turbulence-exponents/
-result_id: result-051
+layout: "result-page"
+title: "She–Lévêque Turbulence Exponents Exact from τ³ Dimensions"
+permalink: "/results/problem/she-leveque-turbulence-exponents/"
+id: "result-051"
+result_id: "result-051"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The She–Lévêque anomalous turbulence scaling exponents ζ_p = p/9 +
-  2[1–(2/3)^{p/3}] are derived exactly from the dimension of τ³ with no free parameters.
-canonical_books: ["V"]
+summary_short: "The She–Lévêque anomalous turbulence scaling exponents ζ_p = p/9 + 2[1–(2/3)^{p/3}] are derived exactly from the dimension of τ³ with no free parameters."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ The sub-1% precision of the exponent predictions (crown jewel score 50 in the ph
 ## Result Statement
 
 V.T248: She–Lévêque anomalous scaling exponents ζ_p = p/9 + 2[1–(2/3)^{p/3}] derived exactly from τ³ dimensions. Linear coefficient 1/9 = 1/dim(τ³)² and geometric ratio 2/3 = dim(T²)/dim(τ³). Zero free parameters.
-

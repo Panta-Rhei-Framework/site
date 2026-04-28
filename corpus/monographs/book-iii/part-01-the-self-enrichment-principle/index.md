@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part I: The Self-Enrichment Principle"
-permalink: /corpus/monographs/book-iii/part-01-the-self-enrichment-principle/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-01-the-self-enrichment-principle/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 1
@@ -15,26 +15,32 @@ part_display: "Part I"
 part_slug: "part-01-the-self-enrichment-principle"
 chapter_count: 5
 summary_short: "The enrichment ladder is the architectural spine of the entire series. We prove the **Canonical Ladder Theorem**: the self-enrichment of Category τ produces…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-01-the-self-enrichment-principle/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book III"
     layer: "E₀ Mathematics (Hinge)"
     chapters: "5"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The enrichment ladder is the architectural spine of the entire series.
 We prove the **Canonical Ladder Theorem**: the self-enrichment of Category τ

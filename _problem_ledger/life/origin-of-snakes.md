@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Origin of snakes"
 permalink: "/program/research-agenda/problem-ledger/life/origin-of-snakes/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-origin-of-snakes"
 id: "life-biology-origin-of-snakes"
 short_title: "Origin of snakes"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-origin-of-snakes"
-  mapped_from_source_entries:
-    - "wikipedia-biology-origin-of-snakes"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "origin-of-snakes"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "origin-of-snakes"
-  - "non-human-biology"
-  - "ecology-evolution-and-paleontology"
-  - "Origin of snakes"
 url: "/program/research-agenda/problem-ledger/life/origin-of-snakes/"
 results_mirror:
   exists: false

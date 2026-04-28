@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Higgs Self-Coupling λ_H = 0.12928 at +16 ppm
-permalink: /results/problem/higgs-self-coupling-lambda-h-16-ppm/
-result_id: result-056
+layout: "result-page"
+title: "Higgs Self-Coupling λ_H = 0.12928 at +16 ppm"
+permalink: "/results/problem/higgs-self-coupling-lambda-h-16-ppm/"
+id: "result-056"
+result_id: "result-056"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The Higgs self-coupling λ_H = 0.12928 is derived from the τ-coherence
-  fixing potential at +16 ppm from the Standard Model value, completing the EW arc.
-canonical_books: ["IV"]
+summary_short: "The Higgs self-coupling λ_H = 0.12928 is derived from the τ-coherence fixing potential at +16 ppm from the Standard Model value, completing the EW arc."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ Combined with IV.T166 (Higgs mass n=7 at +8.0 ppm), this completes the EW chain:
 ## Result Statement
 
 IV.T194: Higgs self-coupling λ_H = 0.12928 at +16 ppm from SM value 0.12926. Derived via τ-coherence fixing potential. Zero free parameters. EW chain 2 complete sub-100 ppm end-to-end.
-

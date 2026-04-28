@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Prologue: Where Does Physics Live?"
-permalink: /corpus/monographs/book-iii/part-00-where-does-physics-live/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-00-where-does-physics-live/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 0
@@ -15,26 +15,32 @@ part_display: "Prologue"
 part_slug: "part-00-where-does-physics-live"
 chapter_count: 3
 summary_short: "The Central Theorem is proved and the holomorphic machinery is in hand. But τ³ = τ¹ ×_f T² does not look like Cartesian three-dimensional space. Where,…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-00-where-does-physics-live/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-00-where-does-physics-live/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book III"
     layer: "E₀ Mathematics (Hinge)"
     chapters: "3"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Central Theorem is proved and the holomorphic machinery is in hand.
 But τ³ = τ¹ ×_f T² does not look like Cartesian three-dimensional space.

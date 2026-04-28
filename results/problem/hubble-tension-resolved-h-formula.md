@@ -1,29 +1,33 @@
 ---
-
-layout: result-page
-title: 'Hubble Tension Internal Readout: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm'
-title_plain: 'Hubble Tension Internal Readout: h = 2/3 + ιτ²/17 at –120 ppm'
-permalink: /results/problem/hubble-tension-resolved-h-formula/
-result_id: result-060
+layout: "result-page"
+title: "Hubble Tension Internal Readout: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm"
+permalink: "/results/problem/hubble-tension-resolved-h-formula/"
+id: "result-060"
+result_id: "result-060"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Cosmology"
-summary_short: The Hubble constant h = 0.6735 is derived as h = 2/3 + ι<sub>τ</sub>²/17 at –120
-  ppm from SH0ES/JWST, giving the framework's internal account of the Hubble tension without free parameters.
-canonical_books: ["V"]
+summary_short: "The Hubble constant h = 0.6735 is derived as h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm from SH0ES/JWST, giving the framework's internal account of the Hubble tension without free parameters."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hubble_tension"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

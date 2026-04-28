@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Prologue: The Question of Life"
-permalink: /corpus/monographs/book-vi/part-00-the-question-of-life/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-00-the-question-of-life/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 0
@@ -15,26 +15,32 @@ part_display: "Prologue"
 part_slug: "part-00-the-question-of-life"
 chapter_count: 2
 summary_short: "What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer captures a necessary condition but none is sufficient: fire…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-00-the-question-of-life/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-00-the-question-of-life/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "2"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer
 captures a necessary condition but none is sufficient: fire metabolizes, mules don't reproduce,

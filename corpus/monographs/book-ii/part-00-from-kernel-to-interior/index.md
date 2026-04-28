@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Prologue: From Kernel to Interior"
-permalink: /corpus/monographs/book-ii/part-00-from-kernel-to-interior/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-00-from-kernel-to-interior/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 0
@@ -15,26 +15,32 @@ part_display: "Prologue"
 part_slug: "part-00-from-kernel-to-interior"
 chapter_count: 3
 summary_short: "Book I closed with the Bridge Theorem (I.T34): Category τ is complete. Five generators, one operator, seven axioms (K0–K6) have built a full mathematical…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-00-from-kernel-to-interior/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-00-from-kernel-to-interior/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book II"
     layer: "E₀ Mathematics"
     chapters: "3"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Book I closed with the Bridge Theorem (I.T34):
 Category τ is complete.

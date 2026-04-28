@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Supermassive black holes"
 permalink: "/program/research-agenda/problem-ledger/physics/supermassive-black-holes/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-supermassive-black-holes"
 id: "phys-supermassive-black-holes"
 short_title: "Supermassive black holes"
@@ -110,15 +110,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-supermassive-black-holes"
-  mapped_from_source_entries:
-    - "wikipedia-physics-supermassive-black-holes"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -129,12 +120,6 @@ tags:
   - "wikipedia-physics"
   - "supermassive-black-holes"
   - "astronomy-and-astrophysics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "supermassive-black-holes"
-  - "astronomy-and-astrophysics"
-  - "Supermassive black holes"
 url: "/program/research-agenda/problem-ledger/physics/supermassive-black-holes/"
 results_mirror:
   exists: false

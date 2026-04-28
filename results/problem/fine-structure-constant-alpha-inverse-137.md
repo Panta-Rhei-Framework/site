@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>
-permalink: /results/problem/fine-structure-constant-alpha-inverse-137/
-result_id: result-053
+layout: "result-page"
+title: "Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>"
+permalink: "/results/problem/fine-structure-constant-alpha-inverse-137/"
+id: "result-053"
+result_id: "result-053"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The dimensionless fine-structure constant α⁻¹ = 137.036 is derived
-  from ι<sub>τ</sub> at approximately zero ppm agreement with CODATA — no free parameters.
-canonical_books: ["IV"]
+summary_short: "The dimensionless fine-structure constant α⁻¹ = 137.036 is derived from ι<sub>τ</sub> at approximately zero ppm agreement with CODATA — no free parameters."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -42,4 +46,3 @@ IV.T107 is crown jewel rank 12 with score 49, tied with the Rydberg constant at 
 ## Result Statement
 
 IV.T107: α⁻¹ = 137.036 derived from ι<sub>τ</sub> at ~0 ppm agreement with CODATA 137.035999. EM sector coupling κ_B = ι<sub>τ</sub>² with NLO holonomy corrections. Zero free parameters.
-

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book VII: Categorical Metaphysics"
-permalink: /corpus/monographs/book-vii/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "VII"
 book_slug: "book-vii"
 subtitle: "The Final Self-Enrichment"
@@ -15,29 +15,39 @@ part_count: 12
 chapter_count: 128
 page_count: 546
 summary_short: "The Final Self-Enrichment"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/"
 summary_cards:
-- title: Subtitle
-  body: "The Final Self-Enrichment"
-- title: Structure
-  body: "12 parts, 128 chapters, 546 pages"
-- title: Layer
-  body: "E₃ Metaphysics"
+  -
+    title: "Subtitle"
+    body: "The Final Self-Enrichment"
+  -
+    title: "Structure"
+    body: "12 parts, 128 chapters, 546 pages"
+  -
+    title: "Layer"
+    body: "E₃ Metaphysics"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₃ Metaphysics"
     parts: "12"
     chapters: "128"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

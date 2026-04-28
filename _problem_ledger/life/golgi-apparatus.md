@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Golgi apparatus"
 permalink: "/program/research-agenda/problem-ledger/life/golgi-apparatus/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-golgi-apparatus"
 id: "life-biology-golgi-apparatus"
 short_title: "Golgi apparatus"
@@ -112,15 +112,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-golgi-apparatus"
-  mapped_from_source_entries:
-    - "wikipedia-biology-golgi-apparatus"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -132,13 +123,6 @@ tags:
   - "golgi-apparatus"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "golgi-apparatus"
-  - "general-biology"
-  - "biochemistry-and-cell-biology"
-  - "Golgi apparatus"
 url: "/program/research-agenda/problem-ledger/life/golgi-apparatus/"
 results_mirror:
   exists: false

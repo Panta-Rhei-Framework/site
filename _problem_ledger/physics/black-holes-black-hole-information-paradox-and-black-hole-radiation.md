@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Black holes, black hole information paradox, and black hole radiation"
 permalink: "/program/research-agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-black-holes-black-hole-information-paradox-and-black-hole-radiation"
 id: "phys-black-holes-black-hole-information-paradox-and-black-hole-radiation"
 short_title: "Black holes, black hole information paradox, and black hole radiation"
@@ -142,15 +142,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-black-holes-black-hole-information-paradox-and-black-hole-radiation"
-  mapped_from_source_entries:
-    - "wikipedia-physics-black-holes-black-hole-information-paradox-and-black-hole-radiation"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -161,12 +152,6 @@ tags:
   - "wikipedia-physics"
   - "black-holes-black-hole-information-paradox-and-black-hole-radiation"
   - "quantum-gravity"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "black-holes-black-hole-information-paradox-and-black-hole-radiation"
-  - "quantum-gravity"
-  - "Black holes, black hole information paradox, and black hole radiation"
 url: "/program/research-agenda/problem-ledger/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/"
 results_mirror:
   exists: false

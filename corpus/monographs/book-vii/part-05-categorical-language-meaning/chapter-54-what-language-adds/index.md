@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 54: What Language Adds"
-permalink: /corpus/monographs/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 5
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 53: Environmental Aesthetics"
 next_chapter_url: "/corpus/monographs/book-vii/part-05-categorical-language-meaning/chapter-55-the-subsymbolic-is-real/"
 next_chapter_title: "Chapter 55: The Subsymbolic Is Real"
 summary_short: "Language is not a neutral medium of representation. It *adds* capacities that the subsymbolic layer does not possess: temporalization (the ability to refer to…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-05-categorical-language-meaning/
+canonical_part_url: "/corpus/monographs/book-vii/part-05-categorical-language-meaning/"
 canonical_part_title: "Part V: Categorical Language & Meaning"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part V: Categorical Language & Meaning"
-    url: /corpus/monographs/book-vii/part-05-categorical-language-meaning/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part V: Categorical Language & Meaning"
+      url: "/corpus/monographs/book-vii/part-05-categorical-language-meaning/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part V"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Language is not a neutral medium of representation. It *adds*
 capacities that the subsymbolic layer does not possess:

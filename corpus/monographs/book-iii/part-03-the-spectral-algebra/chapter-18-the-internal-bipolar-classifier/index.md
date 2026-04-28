@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 18: The Internal Bipolar Classifier"
-permalink: /corpus/monographs/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 17: The Adelic Embedding"
 next_chapter_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chapter-19-the-spectral-trichotomy/"
 next_chapter_title: "Chapter 19: The Spectral Trichotomy"
 summary_short: "The preceding chapters of Part III erected the spectral algebra in stages: the primorial ladder (Chapter [ch:primorial-ladder]), the CRT decomposition (Chapter…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-03-the-spectral-algebra/
+canonical_part_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
 canonical_part_title: "Part III: The Spectral Algebra"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part III: The Spectral Algebra"
-    url: /corpus/monographs/book-iii/part-03-the-spectral-algebra/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part III: The Spectral Algebra"
+      url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part III"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The preceding chapters of Part III
 erected the spectral algebra in stages:

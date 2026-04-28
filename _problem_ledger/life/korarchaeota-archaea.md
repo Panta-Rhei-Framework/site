@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Korarchaeota (archaea)"
 permalink: "/program/research-agenda/problem-ledger/life/korarchaeota-archaea/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-korarchaeota-archaea"
 id: "life-biology-korarchaeota-archaea"
 short_title: "Korarchaeota (archaea)"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-korarchaeota-archaea"
-  mapped_from_source_entries:
-    - "wikipedia-biology-korarchaeota-archaea"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "korarchaeota-archaea"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "korarchaeota-archaea"
-  - "non-human-biology"
-  - "non-human-organs-and-biomolecules"
-  - "Korarchaeota (archaea)"
 url: "/program/research-agenda/problem-ledger/life/korarchaeota-archaea/"
 results_mirror:
   exists: false

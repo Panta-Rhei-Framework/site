@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part X: Closure: Synthesis and Bridge to Book III"
-permalink: /corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 10
@@ -15,26 +15,32 @@ part_display: "Part X"
 part_slug: "part-10-closure-synthesis-and-bridge-to-book-iii"
 chapter_count: 7
 summary_short: "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn τ-manifold structure from the…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book II"
     layer: "E₀ Mathematics"
     chapters: "7"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part X is the closure: synthesis and the bridge to Book III.
 Seven chapters audit the complete dependency chain, earn τ-manifold

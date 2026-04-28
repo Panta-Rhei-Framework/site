@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Neural computation"
 permalink: "/program/research-agenda/problem-ledger/life/neural-computation/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-neural-computation"
 id: "life-biology-neural-computation"
 short_title: "Neural computation"
@@ -98,15 +98,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-neural-computation"
-  mapped_from_source_entries:
-    - "wikipedia-biology-neural-computation"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -118,13 +109,6 @@ tags:
   - "neural-computation"
   - "neuroscience-and-cognition"
   - "neurophysiology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "neural-computation"
-  - "neuroscience-and-cognition"
-  - "neurophysiology"
-  - "Neural computation"
 url: "/program/research-agenda/problem-ledger/life/neural-computation/"
 results_mirror:
   exists: false

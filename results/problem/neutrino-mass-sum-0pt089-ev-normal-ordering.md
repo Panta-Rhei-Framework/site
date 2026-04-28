@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: Neutrino Mass Sum Σm_ν = 0.089 eV, Normal Ordering Derived
-permalink: /results/problem/neutrino-mass-sum-0pt089-ev-normal-ordering/
-result_id: result-065
+layout: "result-page"
+title: "Neutrino Mass Sum Σm_ν = 0.089 eV, Normal Ordering Derived"
+permalink: "/results/problem/neutrino-mass-sum-0pt089-ev-normal-ordering/"
+id: "result-065"
+result_id: "result-065"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Particle Physics"
-summary_short: The neutrino mass sum Σm_ν = 0.089 eV and normal mass ordering are
-  derived from the τ-framework. Normal hierarchy is Lean-verified from p < q.
-canonical_books: ["IV"]
+summary_short: "The neutrino mass sum Σm_ν = 0.089 eV and normal mass ordering are derived from the τ-framework. Normal hierarchy is Lean-verified from p < q."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Neutrino"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -44,4 +49,3 @@ The completion status is partial because the individual mass splittings (Δm²�
 ## Result Statement
 
 V.T165/T225: Σm_ν = 0.089 eV from (p,q,r) = (3.7, 4.8, 2.8). V.T189: CF-asymmetric grid (Δpq, Δpr) = (1.16, 0.87) at +7.4 ppm. Normal ordering proven from p < q (IV.R395), Lean-verified. Individual splittings remain conjectural.
-

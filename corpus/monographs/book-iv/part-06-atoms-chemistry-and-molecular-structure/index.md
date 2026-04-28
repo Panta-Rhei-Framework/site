@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VI: Atoms, Chemistry, and Molecular Structure"
-permalink: /corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 6
@@ -15,26 +15,32 @@ part_display: "Part VI"
 part_slug: "part-06-atoms-chemistry-and-molecular-structure"
 chapter_count: 11
 summary_short: "The complexity ladder ascends. Nuclei (Part V) combine with electrons to form atoms. Atoms bond to form molecules. Molecular structure, organic chemistry,…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book IV"
     layer: "E₁ Physics (Microcosm)"
     chapters: "11"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The complexity ladder ascends.
 Nuclei (Part V) combine with electrons to form atoms.

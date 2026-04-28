@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 102: From Collective to Individual"
-permalink: /corpus/monographs/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 8
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 101: Overload, Fragmentation, and Schizophrenia"
 next_chapter_url: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/"
 next_chapter_title: "Chapter 103: Nine Global Spheres"
 summary_short: "Modernity shifts the primary source of identity from externally assigned roles to self-authored life projects. This transition expands freedom while increasing…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-08-categorical-societies/
+canonical_part_url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
 canonical_part_title: "Part VIII: Categorical Societies"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part VIII: Categorical Societies"
-    url: /corpus/monographs/book-vii/part-08-categorical-societies/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part VIII: Categorical Societies"
+      url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part VIII"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Modernity shifts the primary source of identity from externally
 assigned roles to self-authored life projects. This transition

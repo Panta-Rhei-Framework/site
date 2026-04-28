@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: 'No Dark Matter Particle: Sector Exhaustion Theorem'
-permalink: /results/problem/no-dark-matter-particle/
-result_id: result-015
-problem_ledger_ids: ["phys-dark-matter"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+layout: "result-page"
+title: "No Dark Matter Particle: Sector Exhaustion Theorem"
+permalink: "/results/problem/no-dark-matter-particle/"
+id: "result-015"
+result_id: "result-015"
+problem_ledger_ids:
+  - "phys-dark-matter"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Cosmology"
-summary_short: The Sector Exhaustion Theorem proves no additional sector can be added,
-  therefore no dark matter particle exists.
-canonical_books: ["V"]
+summary_short: "The Sector Exhaustion Theorem proves no additional sector can be added, therefore no dark matter particle exists."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Dark_matter"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +42,3 @@ Dark matter is the primary unexplained component of the standard cosmological mo
 ## Result Statement
 
 V.P69: The No Dark Particle Theorem follows from Sector Exhaustion — the four primitive sectors (D, A, B, C) + one derived (ω) exhaust all structural positions. No additional sector can be added. Therefore no dark matter particle exists.
-

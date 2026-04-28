@@ -1,29 +1,32 @@
 ---
-
-layout: result-page
-title: 'Hinge Theorem: Books IV–VII Are Sector Instantiations of Book III'
-permalink: /results/problem/hinge-theorem-no-knobs/
-result_id: result-007
+layout: "result-page"
+title: "Hinge Theorem: Books IV–VII Are Sector Instantiations of Book III"
+permalink: "/results/problem/hinge-theorem-no-knobs/"
+id: "result-007"
+result_id: "result-007"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: All content of Books IV–VII is a sector instantiation of the Book III
-  template; all inter-sector couplings are rational functions of ι<sub>τ</sub> with zero free
-  parameters.
-canonical_books: ["I"]
+summary_short: "All content of Books IV–VII is a sector instantiation of the Book III template; all inter-sector couplings are rational functions of ι<sub>τ</sub> with zero free parameters."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -37,4 +40,3 @@ Book III derives the 4+1 sector template from the Canonical Ladder: at enrichmen
 ## Result Statement
 
 III.T41 (Hinge Theorem): Books IV–VII are sector instantiations of the 4+1 sector template derived in Book III. III.T42 (No Knobs Theorem): all 10 inter-sector couplings are rational functions of ι<sub>τ</sub> = 2/(π+e) — zero free continuous parameters.
-

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Seven Hallmarks of Life as Theorems
-permalink: /results/problem/seven-hallmarks-as-theorems/
-result_id: result-041
+layout: "result-page"
+title: "Seven Hallmarks of Life as Theorems"
+permalink: "/results/problem/seven-hallmarks-as-theorems/"
+id: "result-041"
+result_id: "result-041"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: The seven canonical hallmarks of life are derived as theorems VI.T08–T14
-  from the 5+3 conditions rather than observed as biological facts.
-canonical_books: ["VI"]
+summary_short: "The seven canonical hallmarks of life are derived as theorems VI.T08–T14 from the 5+3 conditions rather than observed as biological facts."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Biology traditionally lists the seven (or similar number of) hallmarks of life: 
 ## Result Statement
 
 VI.T08–T14, P04: The seven canonical hallmarks of life (nutrition, growth, reproduction, response, organisation, homeostasis, evolution) are derived as theorems from the 5+3 conditions, not taken as primitive observations.
-

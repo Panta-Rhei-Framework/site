@@ -1,30 +1,32 @@
 ---
-
-layout: result-page
-title: 'S₈ Tension Framework Account: S₈ = 0.783 from f_supp × f_growth × f_ν'
-title_plain: 'S₈ Tension Framework Account: S₈ = 0.783 from f_supp × f_growth × f_ν'
-permalink: /results/problem/s8-tension-resolved-0pt783/
-result_id: result-061
+layout: "result-page"
+title: "S₈ Tension Framework Account: S₈ = 0.783 from f_supp × f_growth × f_ν"
+permalink: "/results/problem/s8-tension-resolved-0pt783/"
+id: "result-061"
+result_id: "result-061"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: 'The S₈ structure-growth tension is internally addressed at S₈ = 0.783, derived
-  from three multiplicative suppressions: matter suppression, growth factor, and neutrino
-  free-streaming.'
-canonical_books: ["V"]
+summary_short: "The S₈ structure-growth tension is internally addressed at S₈ = 0.783, derived from three multiplicative suppressions: matter suppression, growth factor, and neutrino free-streaming."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

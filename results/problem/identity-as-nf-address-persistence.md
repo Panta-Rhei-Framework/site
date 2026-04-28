@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: 'Identity as NF-Address Persistence: Personal Identity Across Change'
-permalink: /results/problem/identity-as-nf-address-persistence/
-result_id: result-046
+layout: "result-page"
+title: "Identity as NF-Address Persistence: Personal Identity Across Change"
+permalink: "/results/problem/identity-as-nf-address-persistence/"
+id: "result-046"
+result_id: "result-046"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: Personal identity is defined as persistence of the ABCD Normal Form
-  address across state changes — a formal account of the Ship of Theseus problem.
-canonical_books: ["VI", "VII"]
+summary_short: "Personal identity is defined as persistence of the ABCD Normal Form address across state changes — a formal account of the Ship of Theseus problem."
+canonical_books:
+  - "VI"
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ The problem of personal identity asks what makes a person at time t₂ the same 
 ## Result Statement
 
 VII.D34: Personal identity = NF-address persistence. Entity x at t₁ is identical to y at t₂ iff Φ(x) = Φ(y). Ship of Theseus internally addressed: gradual replacement preserves NF-address; total replacement does not.
-

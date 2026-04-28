@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part V: Closure — Fungi and the Recycling Fiber"
-permalink: /corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 5
@@ -15,26 +15,32 @@ part_display: "Part V"
 part_slug: "part-05-closure-fungi-and-the-recycling-fiber"
 chapter_count: 5
 summary_short: "The η-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "5"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The η-sector: **structure recycling, decomposition, nutrient cycling**. The
 closure/recycler sector operates on the recycling channel of the metabolic fiber T². Fungi—mycelial

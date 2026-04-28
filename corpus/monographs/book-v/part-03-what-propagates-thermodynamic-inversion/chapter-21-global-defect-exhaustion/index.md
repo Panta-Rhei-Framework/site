@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 21: Global Defect Exhaustion"
-permalink: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 20: Entropy Splitting: S_def"
 next_chapter_url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-22-heat-is-electromagnetism-macro-energy-transport/"
 next_chapter_title: "Chapter 22: Heat Is Electromagnetism: Macro Energy Transport"
 summary_short: "Chapters 21 and 22 established the Categorical Second Law and the entropy splitting S = S_def + S_ref. Defect entropy decreases monotonically, and the…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/
+canonical_part_url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
 canonical_part_title: "Part III: What Propagates: Thermodynamic Inversion"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part III: What Propagates: Thermodynamic Inversion"
-    url: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part III: What Propagates: Thermodynamic Inversion"
+      url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part III"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapters 21 and 22 established
 the Categorical Second Law

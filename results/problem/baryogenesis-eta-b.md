@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: 'Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%'
-permalink: /results/problem/baryogenesis-eta-b/
-result_id: result-049
+layout: "result-page"
+title: "Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%"
+permalink: "/results/problem/baryogenesis-eta-b/"
+id: "result-049"
+result_id: "result-049"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The baryon-to-photon ratio η_B is derived as α·ι<sub>τ</sub>¹⁵·(5/6) at −1%,
-  with the three Sakharov conditions satisfied structurally.
-canonical_books: ["IV", "V"]
+summary_short: "The baryon-to-photon ratio η_B is derived as α·ι<sub>τ</sub>¹⁵·(5/6) at −1%, with the three Sakharov conditions satisfied structurally."
+canonical_books:
+  - "IV"
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ The baryon asymmetry of the universe — the fact that there is approximately on
 ## Result Statement
 
 V.T188: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%. ι<sub>τ</sub>¹⁵ = (ι<sub>τ</sub>³)^(W₃(4)) via Window Universality. Three Sakharov conditions structurally satisfied. Sakharov bridge conjectural.
-

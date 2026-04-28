@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Silk Damping Scale"
-permalink: /results/problem/silk-damping-scale/
-result_id: result-180
+permalink: "/results/problem/silk-damping-scale/"
+id: "result-180"
+result_id: "result-180"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "COSMO"
 summary_short: "The Silk damping scale sets the cutoff of CMB anisotropy power at small angular scales. The τ-framework derives it from the photon diffusion sector of the …"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

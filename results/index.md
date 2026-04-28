@@ -49,7 +49,10 @@ right_rail:
 ---
 
 {% assign result_count = site.data.results.results | size %}
-{% assign topic_groups = site.data.results.results | group_by: "topic" | sort: "name" %}
+{% assign mathematics_results = site.data.results.results | where: "topic", "mathematics" %}
+{% assign physics_results = site.data.results.results | where: "topic", "physics" %}
+{% assign biology_results = site.data.results.results | where: "topic", "biology" %}
+{% assign philosophy_results = site.data.results.results | where: "topic", "philosophy" %}
 {% assign type_groups = site.data.results.results | group_by: "result_type" | sort: "name" %}
 
 ## Results is where the built Corpus becomes a world
@@ -137,21 +140,22 @@ The older result catalogue still uses the historical topic labels `biology` and 
     <strong>{{ result_count }} total result pages</strong>
     <span>The full crawlable catalogue with filters for domain, kind, importance, status, and book.</span>
   </a>
-  {% for group in topic_groups %}
-  <a class="v2-tile" href="{{ '/results/topic/' | append: group.name | append: '/' | relative_url }}">
-    {% assign public_topic_label = group.name | capitalize %}
-    {% assign public_topic_scope = group.name %}
-    {% if group.name == "biology" %}
-      {% assign public_topic_label = "Life-facing results" %}
-      {% assign public_topic_scope = "Life" %}
-    {% elsif group.name == "philosophy" %}
-      {% assign public_topic_label = "Metaphysics / Philosophy-facing results" %}
-      {% assign public_topic_scope = "Metaphysics / Philosophy" %}
-    {% endif %}
-    <strong>{{ group.size }} {{ public_topic_label }}</strong>
-    <span>Problem-facing results currently grouped under {{ public_topic_scope }}.</span>
+  <a class="v2-tile" href="{{ '/results/topic/mathematics/' | relative_url }}">
+    <strong>{{ mathematics_results | size }} Mathematics results</strong>
+    <span>Problem-facing results currently grouped under Mathematics.</span>
   </a>
-  {% endfor %}
+  <a class="v2-tile" href="{{ '/results/topic/physics/' | relative_url }}">
+    <strong>{{ physics_results | size }} Physics results</strong>
+    <span>Problem-facing results currently grouped under Physics.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/topic/biology/' | relative_url }}">
+    <strong>{{ biology_results | size }} Life-facing results</strong>
+    <span>Problem-facing results currently grouped under Life.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/topic/philosophy/' | relative_url }}">
+    <strong>{{ philosophy_results | size }} Metaphysics / Philosophy-facing results</strong>
+    <span>Problem-facing results currently grouped under Metaphysics / Philosophy.</span>
+  </a>
 </div>
 
 ## Status legend

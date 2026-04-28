@@ -1,29 +1,32 @@
 ---
-
-layout: result-page
-title: 'Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>'
-permalink: /results/problem/crossing-limit-theorem-merger-networks-iota-tau/
-result_id: result-067
+layout: "result-page"
+title: "Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>"
+permalink: "/results/problem/crossing-limit-theorem-merger-networks-iota-tau/"
+id: "result-067"
+result_id: "result-067"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'The merger-directed network of ω-codes converges to ι<sub>τ</sub>: the universe
-  trends toward maximal aliveness, with the cosmological endstate having code exactly
-  ι<sub>τ</sub>.'
-canonical_books: ["II"]
+summary_short: "The merger-directed network of ω-codes converges to ι<sub>τ</sub>: the universe trends toward maximal aliveness, with the cosmological endstate having code exactly ι<sub>τ</sub>."
+canonical_books:
+  - "II"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -45,4 +48,3 @@ The theorem is a direct formal descendant of the Panta Rhei (All Flows) theme of
 ## Result Statement
 
 VI.T35: The directed merger network of ω-codes converges to ι<sub>τ</sub> (Crossing-Limit Theorem). VI.T36: The cosmological endstate has ω-code = ι<sub>τ</sub> exactly, all defects vanished, all hallmarks terminal. Universe trends to maximal aliveness.
-

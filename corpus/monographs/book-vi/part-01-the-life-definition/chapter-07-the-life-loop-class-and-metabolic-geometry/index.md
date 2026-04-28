@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 7: The Life Loop Class and Metabolic Geometry"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/chapter-07-the-life-loop-class-and-metabolic-geometry/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-07-the-life-loop-class-and-metabolic-geometry/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 6: The Layer Separation Lemma: Life Is Genuinely E�
 next_chapter_url: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-08-the-4/"
 next_chapter_title: "Chapter 8: The 4+"
 summary_short: "The Life Loop Class Loop_L packages the two earned predicates—Distinction and SelfDesc—into a single homotopy-theoretic object: a triple (D, γ, h) encoding…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-01-the-life-definition/
+canonical_part_url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
 canonical_part_title: "Part I: The Life Definition"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/chapter-07-the-life-loop-class-and-metabolic-geometry/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-07-the-life-loop-class-and-metabolic-geometry/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part I: The Life Definition"
-    url: /corpus/monographs/book-vi/part-01-the-life-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part I: The Life Definition"
+      url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part I"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Life Loop Class Loop_L packages the two earned predicates—Distinction and SelfDesc—into a single homotopy-theoretic object: a triple (D, γ, h) encoding the distinction, the metabolic cycle, and the cycle's homotopy class. The DecodeTarget operator extracts the phenotype target; the DecodeHorizon operator extracts the stable genotype. Source and Closure sub-classes on the metabolic fiber (γ, η) formalize the universal dichotomy of production and recycling. The Metabolic Fiber Theorem proves that every Life loop factors through these sub-classes. The Consumer Mixer Uniqueness theorem identifies the unique mixed sector on (γ, η), correcting the 1st Edition's identification.

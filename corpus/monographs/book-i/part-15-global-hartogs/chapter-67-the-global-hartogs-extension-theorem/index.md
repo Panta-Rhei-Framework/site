@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 67: The Global Hartogs Extension Theorem"
-permalink: /corpus/monographs/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 15
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 66: Thinness and the Removable Singularity Criterio
 next_chapter_url: "/corpus/monographs/book-i/part-15-global-hartogs/chapter-68-the-limit-stage-passage/"
 next_chapter_title: "Chapter 68: The Limit-Stage Passage"
 summary_short: "This is the destination. Every definition, every lemma, every theorem in this book has been forged for the result proved in this chapter. The **Global Hartogs…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-15-global-hartogs/
+canonical_part_url: "/corpus/monographs/book-i/part-15-global-hartogs/"
 canonical_part_title: "Part XV: Global Hartogs"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XV: Global Hartogs"
-    url: /corpus/monographs/book-i/part-15-global-hartogs/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XV: Global Hartogs"
+      url: "/corpus/monographs/book-i/part-15-global-hartogs/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 This is the destination.
 Every definition, every lemma, every theorem

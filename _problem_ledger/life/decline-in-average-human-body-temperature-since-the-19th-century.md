@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Decline in average human body temperature since the 19th century"
 permalink: "/program/research-agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-decline-in-average-human-body-temperature-since-the-19th-century"
 id: "life-biology-decline-in-average-human-body-temperature-since-the-19th-century"
 short_title: "Decline in average human body temperature since the 19th century"
@@ -94,15 +94,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-decline-in-average-human-body-temperature-since-the-19th-century"
-  mapped_from_source_entries:
-    - "wikipedia-biology-decline-in-average-human-body-temperature-since-the-19th-century"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -113,12 +104,6 @@ tags:
   - "wikipedia-biology"
   - "decline-in-average-human-body-temperature-since-the-19th-century"
   - "human-biology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "decline-in-average-human-body-temperature-since-the-19th-century"
-  - "human-biology"
-  - "Decline in average human body temperature since the 19th century"
 url: "/program/research-agenda/problem-ledger/life/decline-in-average-human-body-temperature-since-the-19th-century/"
 results_mirror:
   exists: false

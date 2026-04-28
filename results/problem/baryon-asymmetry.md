@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Baryon Asymmetry"
-permalink: /results/problem/baryon-asymmetry/
-result_id: result-112
+permalink: "/results/problem/baryon-asymmetry/"
+id: "result-112"
+result_id: "result-112"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "BBN/EW"
 summary_short: "The baryon asymmetry (η_B ≈ 6 × 10⁻¹⁰) — why matter dominates over antimatter — requires CP violation and baryon number violation beyond the Standard Model. The…"
-canonical_books: ["IV", "V"]
+canonical_books:
+  - "IV"
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Baryon_asymmetry"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

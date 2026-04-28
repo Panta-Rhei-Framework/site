@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Navier-Stokes Existence and Smoothness"
 permalink: "/program/research-agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "math-navier-stokes-existence-smoothness"
 id: "math-navier-stokes-existence-smoothness"
 short_title: "Navier-Stokes"
@@ -90,15 +90,6 @@ related:
   recovery_requirements:
     - "MREC-M5"
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "math-navier-stokes-existence-smoothness"
-  mapped_from_source_entries:
-    - "clay-navier-stokes-existence-smoothness"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1.0"
@@ -109,13 +100,6 @@ tags:
   - "analysis"
   - "fluid-dynamics"
   - "millennium-problem"
-search_keywords:
-  - "mathematics"
-  - "analysis"
-  - "fluid-dynamics"
-  - "millennium-problem"
-  - "Navier-Stokes Existence and Smoothness"
-  - "Navier-Stokes"
 url: "/program/research-agenda/problem-ledger/mathematics/navier-stokes-existence-smoothness/"
 results_mirror:
   exists: false

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Master Schema: All Eight Millennium Problems Are Instances of Mutual Determination'
-permalink: /results/problem/master-schema-millennium/
-result_id: result-008
+layout: "result-page"
+title: "Master Schema: All Eight Millennium Problems Are Instances of Mutual Determination"
+permalink: "/results/problem/master-schema-millennium/"
+id: "result-008"
+result_id: "result-008"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: All eight Clay Millennium Prize Problems are instances of the Mutual
-  Determination Schema at varying enrichment levels.
-canonical_books: ["III"]
+summary_short: "All eight Clay Millennium Prize Problems are instances of the Mutual Determination Schema at varying enrichment levels."
+canonical_books:
+  - "III"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Mutual Determination Schema (B ↔ I ↔ S) generalises the [Central Theorem
 ## Result Statement
 
 III.T23: All eight Clay Millennium Prize Problems are instances of the Mutual Determination Schema (B ↔ I ↔ S) at varying enrichment levels. RH and Poincaré at E₀; NS, YM, Hodge, BSD, Langlands at E₁; P vs NP at E₂.
-

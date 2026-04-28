@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 43: The Big Bang as Regime: Same Laws, Extreme Parameters"
-permalink: /corpus/monographs/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 42: H₀"
 next_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-44-inflation-as-regime-no-inflaton-sector/"
 next_chapter_title: "Chapter 44: Inflation-as-Regime: No Inflaton Sector"
 summary_short: "What is the Big Bang? Orthodox cosmology treats it as a singular event — a point of infinite density, infinite temperature, and zero volume — from which…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-06-eternal-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
 canonical_part_title: "Part VI: Eternal Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part VI: Eternal Dynamics"
-    url: /corpus/monographs/book-v/part-06-eternal-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VI: Eternal Dynamics"
+      url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part VI"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 What is the Big Bang?
 Orthodox cosmology treats it as a singular event —

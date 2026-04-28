@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 19: Metabolism: Circulation at Every Scale"
-permalink: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 3
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 18: Bacteria: The Spatial Pioneers"
 next_chapter_url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-20-atp-the-universal-energy-currency/"
 next_chapter_title: "Chapter 20: ATP: The Universal Energy Currency"
 summary_short: "Metabolism is Poincaré circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
+canonical_part_url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
 canonical_part_title: "Part III: Agency — Bacteria and the Spatial Axis"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part III: Agency — Bacteria and the Spatial Axis"
-    url: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part III: Agency — Bacteria and the Spatial Axis"
+      url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part III"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Metabolism is Poincaré circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a concrete instantiation of the Life Loop Class, each turn producing energy carriers while recycling oxaloacetate. At the macroscopic level, blood flow instantiates Navier–Stokes dynamics at biological scale, completing the picture of circulation from molecule to organism.

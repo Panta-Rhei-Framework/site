@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 37: Intersubjectivity"
-permalink: /corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 36: Temporal Structure of Experience"
 next_chapter_url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/"
 next_chapter_title: "Chapter 38: Embodiment and the Lived Body"
 summary_short: "How do self-modelling systems (E₃ observers) recognize other self-modelling systems? This chapter develops the structural conditions for empathy, theory of…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-03-categorical-phenomenology/
+canonical_part_url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
 canonical_part_title: "Part III: Categorical Phenomenology"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part III: Categorical Phenomenology"
-    url: /corpus/monographs/book-vii/part-03-categorical-phenomenology/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part III: Categorical Phenomenology"
+      url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part III"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 How do self-modelling systems (E₃ observers) recognize other
 self-modelling systems? This chapter develops the structural

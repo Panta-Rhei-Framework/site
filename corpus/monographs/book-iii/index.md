@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book III: Categorical Spectrum"
-permalink: /corpus/monographs/book-iii/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "III"
 book_slug: "book-iii"
 subtitle: "Where Physics Lives"
@@ -15,29 +15,39 @@ part_count: 11
 chapter_count: 76
 page_count: 437
 summary_short: "Where Physics Lives"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/"
 summary_cards:
-- title: Subtitle
-  body: "Where Physics Lives"
-- title: Structure
-  body: "11 parts, 76 chapters, 437 pages"
-- title: Layer
-  body: "E₀ Mathematics (Hinge)"
+  -
+    title: "Subtitle"
+    body: "Where Physics Lives"
+  -
+    title: "Structure"
+    body: "11 parts, 76 chapters, 437 pages"
+  -
+    title: "Layer"
+    body: "E₀ Mathematics (Hinge)"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₀ Mathematics (Hinge)"
     parts: "11"
     chapters: "76"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

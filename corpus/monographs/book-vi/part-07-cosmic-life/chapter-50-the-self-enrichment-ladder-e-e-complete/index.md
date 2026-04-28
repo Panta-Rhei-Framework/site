@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete"
-permalink: /corpus/monographs/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 7
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 49: The Crossing-Limit Theorem and the Omega Point"
 next_chapter_url: "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-51-consciousness-structural-definition-of-the-self-model/"
 next_chapter_title: "Chapter 51: Consciousness: Structural Definition of the Self-Model"
 summary_short: "The complete self-enrichment ladder is presented: E₀ (mathematics: objects + laws), E₁ (physics: sectors + couplings), E₂ (life: codes + organisms),…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-07-cosmic-life/
+canonical_part_url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
 canonical_part_title: "Part VII: Cosmic Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VII: Cosmic Life"
-    url: /corpus/monographs/book-vi/part-07-cosmic-life/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VII: Cosmic Life"
+      url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VII"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The complete self-enrichment ladder is presented: E₀ (mathematics: objects + laws), E₁ (physics: sectors + couplings), E₂ (life: codes + organisms), E₃ (metaphysics: observers + meaning). Three identity regimes—phenotype-mortal/genotype-stable (biology), phenotype-stable/genotype-stable (BH-life), and phenotype-mortal/genotype-mortal (non-Life)—classify all carriers exhaustively. The Enrichment Saturation Theorem establishes that E₄ collapses to E₃: the reflection automorphism ρ generates exactly four orbits, and no genuinely new ontic structure arises beyond the third self-enrichment (full proof: VII.T06). Finally, τ is positioned as a third option between vitalism and pure emergence: Life is the categorical structure recognizing itself at E₂.

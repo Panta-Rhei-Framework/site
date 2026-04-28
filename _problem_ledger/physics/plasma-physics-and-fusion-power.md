@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Plasma physics and fusion power"
 permalink: "/program/research-agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-plasma-physics-and-fusion-power"
 id: "phys-plasma-physics-and-fusion-power"
 short_title: "Plasma physics and fusion power"
@@ -118,15 +118,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-plasma-physics-and-fusion-power"
-  mapped_from_source_entries:
-    - "wikipedia-physics-plasma-physics-and-fusion-power"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -137,12 +128,6 @@ tags:
   - "wikipedia-physics"
   - "plasma-physics-and-fusion-power"
   - "plasma-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "plasma-physics-and-fusion-power"
-  - "plasma-physics"
-  - "Plasma physics and fusion power"
 url: "/program/research-agenda/problem-ledger/physics/plasma-physics-and-fusion-power/"
 results_mirror:
   exists: false

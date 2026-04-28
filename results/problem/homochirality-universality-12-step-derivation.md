@@ -1,29 +1,33 @@
 ---
-
-layout: result-page
-title: 'Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids'
-permalink: /results/problem/homochirality-universality-12-step-derivation/
-result_id: result-066
+layout: "result-page"
+title: "Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids"
+permalink: "/results/problem/homochirality-universality-12-step-derivation/"
+id: "result-066"
+result_id: "result-066"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Origin of Life"
-summary_short: The universal chirality of life — L-amino acids and D-sugars — is derived
-  in a 12-step chain from K0–K6 through the Parity Bridge. Open problem VI.OP9 is
-  solved.
-canonical_books: ["VI"]
+summary_short: "The universal chirality of life — L-amino acids and D-sugars — is derived in a 12-step chain from K0–K6 through the Parity Bridge. Open problem VI.OP9 is solved."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Homochirality"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -49,4 +53,3 @@ The 12-step derivation chain (VI.R26, Crown Jewel #50 in the Life audit, score 2
 ## Result Statement
 
 VI.T43: All persistence-sector carriers inherit the same chirality from the unique polarity path through the weak sector. 12-step chain from K0–K6 to homochirality universality. VI.OP9 SOLVED.
-

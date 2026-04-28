@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Cosmic Magnetic Fields: SMBH-Jet Frozen Flux Along Wilson Filaments'
-permalink: /results/problem/cosmic-magnetic-fields/
-result_id: result-240
-problem_ledger_ids: ["phys-origin-of-cosmic-magnetic-fields"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Cosmic Magnetic Fields: SMBH-Jet Frozen Flux Along Wilson Filaments"
+permalink: "/results/problem/cosmic-magnetic-fields/"
+id: "result-240"
+result_id: "result-240"
+problem_ledger_ids:
+  - "phys-origin-of-cosmic-magnetic-fields"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Intergalactic magnetic fields of 10-100 nG with Mpc coherence length derive from SMBH jets carrying frozen flux along Wilson-skeleton filaments (V.T233). Vernstrom 2021 and Carretti 2023 measured ~30 nG in filaments — matching prediction and exceeding random-dynamo expectations by 1-2 orders of magnitude.'
-canonical_books: ["V"]
+summary_short: "Intergalactic magnetic fields of 10-100 nG with Mpc coherence length derive from SMBH jets carrying frozen flux along Wilson-skeleton filaments (V.T233). Vernstrom 2021 and Carretti 2023 measured ~30 nG in filaments — matching prediction and exceeding random-dynamo expectations by 1-2 orders of magnitude."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

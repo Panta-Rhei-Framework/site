@@ -1,27 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "The Four-Layer Architecture of Reality"
-permalink: /results/problem/the-four-layer-architecture-of-reality/
-result_id: result-085
+permalink: "/results/problem/the-four-layer-architecture-of-reality/"
+id: "result-085"
+result_id: "result-085"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: consequence
-bridge_status: resolved
-result_kind: consequence
-importance_class: core-foundational-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "consequence"
+bridge_status: "resolved"
+result_kind: "consequence"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Cross-Stack"
 summary_short: "Whole-site spine page connecting framework ontology to public results."
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Consequence"
-    layer: Metaphysics
-    topic: Philosophy
+    layer: "Metaphysics"
+    topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 The Panta Rhei framework claims that reality has exactly four layers: mathematics (E₀), physics (E₁), life (E₂), and metaphysics (E₃). This is not a classification scheme imposed from outside — it is derived from the self-enrichment structure of Category τ.

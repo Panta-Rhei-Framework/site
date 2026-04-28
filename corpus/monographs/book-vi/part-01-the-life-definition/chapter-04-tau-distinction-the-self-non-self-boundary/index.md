@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 4: τ-Distinction: The Self/Non-Self Boundary"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/chapter-04-tau-distinction-the-self-non-self-boundary/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-04-tau-distinction-the-self-non-self-boundary/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 3: The Parity Bridge: Weak-Sector Polarity Seeds Li
 next_chapter_url: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-05-selfdesc-the-internal-decoding-loop/"
 next_chapter_title: "Chapter 5: SelfDesc: The Internal Decoding Loop"
 summary_short: "The formal τ-distinction predicate D: X → 2_τ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-01-the-life-definition/
+canonical_part_url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
 canonical_part_title: "Part I: The Life Definition"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/chapter-04-tau-distinction-the-self-non-self-boundary/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-04-tau-distinction-the-self-non-self-boundary/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part I: The Life Definition"
-    url: /corpus/monographs/book-vi/part-01-the-life-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part I: The Life Definition"
+      url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part I"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The formal τ-distinction predicate D: X → 2_τ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and H_∂-equivariant. Three carrier families—finite-lineage (biological), macro-torus (black hole), and galactic (basins)—realize the framework at different scales. Two canonical modes connect boundary geometry to defect thermodynamics. The Distinction Well-Definedness Theorem establishes that τ-finiteness of the carrier at each refinement level ensures the predicate terminates.

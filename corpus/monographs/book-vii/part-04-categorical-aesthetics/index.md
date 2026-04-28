@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part IV: Categorical Aesthetics"
-permalink: /corpus/monographs/book-vii/part-04-categorical-aesthetics/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-04-categorical-aesthetics/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 4
@@ -15,26 +15,32 @@ part_display: "Part IV"
 part_slug: "part-04-categorical-aesthetics"
 chapter_count: 13
 summary_short: "**Sector S_D (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-04-categorical-aesthetics/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VII"
     layer: "E₃ Metaphysics"
     chapters: "13"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 **Sector S_D (Diagrammatic), Part 1 of 3.**
 What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary,

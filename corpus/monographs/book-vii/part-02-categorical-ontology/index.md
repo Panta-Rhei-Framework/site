@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part II: Categorical Ontology"
-permalink: /corpus/monographs/book-vii/part-02-categorical-ontology/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-02-categorical-ontology/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 2
@@ -15,26 +15,32 @@ part_display: "Part II"
 part_slug: "part-02-categorical-ontology"
 chapter_count: 17
 summary_short: "**Sector S_E (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure τ whose admissible constructions…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-02-categorical-ontology/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-02-categorical-ontology/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VII"
     layer: "E₃ Metaphysics"
     chapters: "17"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 **Sector S_E (Empirical), Part 1 of 2.**
 What exists? Book VII begins from a single commitment: a foundational structure

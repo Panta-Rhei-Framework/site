@@ -1,27 +1,36 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "What is Life?"
-permalink: /results/problem/what-is-life/
-result_id: result-074
-problem_ledger_ids: ["life-origin-of-life"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+permalink: "/results/problem/what-is-life/"
+id: "result-074"
+result_id: "result-074"
+problem_ledger_ids:
+  - "life-origin-of-life"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Life Definition"
 summary_short: "Top internally addressed life result and likely the flagship E2 entry page."
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Life
-    topic: Biology
+    layer: "Life"
+    topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Life"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 "What is life?" is one of the oldest and most persistent questions in science and philosophy. Every classical definition — Aristotle's soul, Schrödinger's negentropy, NASA's "self-sustaining chemical system capable of Darwinian evolution" — captures a necessary condition but none is sufficient. Fire metabolizes. Mules don't reproduce. Crystals grow. Computers process information.

@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Consciousness Neural Correlates"
-permalink: /results/problem/consciousness-neural-correlates/
-result_id: result-198
-problem_ledger_ids: ["life-consciousness"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+permalink: "/results/problem/consciousness-neural-correlates/"
+id: "result-198"
+result_id: "result-198"
+problem_ledger_ids:
+  - "life-consciousness"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "NEUR"
 summary_short: "The neural correlates of consciousness (NCC) — what brain states are necessary and sufficient for conscious experience — are modeled in the τ-framework as …"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

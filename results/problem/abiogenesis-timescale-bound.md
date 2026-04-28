@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: Abiogenesis Timescale Bound from Geometric Decay
-permalink: /results/problem/abiogenesis-timescale-bound/
-result_id: result-068
-problem_ledger_ids: ["life-origin-of-life"]
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+layout: "result-page"
+title: "Abiogenesis Timescale Bound from Geometric Decay"
+permalink: "/results/problem/abiogenesis-timescale-bound/"
+id: "result-068"
+result_id: "result-068"
+problem_ledger_ids:
+  - "life-origin-of-life"
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Origin of Life"
-summary_short: The timescale for abiogenesis is bounded above by T_abio ≤ n_{1/2}
-  · ⌈log₂(N/8)⌉, a logarithmic bound from the half-life of the defect complexity budget.
-canonical_books: ["VI"]
+summary_short: "The timescale for abiogenesis is bounded above by T_abio ≤ n_{1/2} · ⌈log₂(N/8)⌉, a logarithmic bound from the half-life of the defect complexity budget."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Abiogenesis"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -47,4 +53,3 @@ The logarithmic dependence on N/T is the key insight: even for very large initia
 ## Result Statement
 
 VI.T45: Abiogenesis timescale T_abio ≤ n_{1/2} · ⌈log₂(N/8)⌉. Logarithmic bound from geometric defect decay. For any prebiotic system with C(0) > 0, abiogenesis is reached in finite, geologically plausible time.
-

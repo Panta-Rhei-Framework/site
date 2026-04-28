@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Extra dimensions"
 permalink: "/program/research-agenda/problem-ledger/physics/extra-dimensions/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-extra-dimensions"
 id: "phys-extra-dimensions"
 short_title: "Extra dimensions"
@@ -102,15 +102,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-extra-dimensions"
-  mapped_from_source_entries:
-    - "wikipedia-physics-extra-dimensions"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -121,12 +112,6 @@ tags:
   - "wikipedia-physics"
   - "extra-dimensions"
   - "cosmology-and-general-relativity"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "extra-dimensions"
-  - "cosmology-and-general-relativity"
-  - "Extra dimensions"
 url: "/program/research-agenda/problem-ledger/physics/extra-dimensions/"
 results_mirror:
   exists: false

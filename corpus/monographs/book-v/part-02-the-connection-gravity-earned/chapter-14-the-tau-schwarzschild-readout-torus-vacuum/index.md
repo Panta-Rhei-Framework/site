@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 14: The τ-Schwarzschild Readout: Torus Vacuum"
-permalink: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 2
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 13: Nonlinear τ-Einstein: Address Resolution, Not 
 next_chapter_url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-15-tov-existence-and-the-star-builder/"
 next_chapter_title: "Chapter 15: TOV Existence and the Star Builder"
 summary_short: "In 1916, Karl Schwarzschild schwarzschild1916gravitationsfeld found the first exact solution of Einstein's field equations einstein1915field: the vacuum metric…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/
+canonical_part_url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
 canonical_part_title: "Part II: The Connection: Gravity Earned"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part II: The Connection: Gravity Earned"
-    url: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part II: The Connection: Gravity Earned"
+      url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part II"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 In 1916, Karl Schwarzschild schwarzschild1916gravitationsfeld found
 the first exact solution

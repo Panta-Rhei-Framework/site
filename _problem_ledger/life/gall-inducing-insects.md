@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Gall-inducing insects"
 permalink: "/program/research-agenda/problem-ledger/life/gall-inducing-insects/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-gall-inducing-insects"
 id: "life-biology-gall-inducing-insects"
 short_title: "Gall-inducing insects"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-gall-inducing-insects"
-  mapped_from_source_entries:
-    - "wikipedia-biology-gall-inducing-insects"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "gall-inducing-insects"
   - "non-human-biology"
   - "ethology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "gall-inducing-insects"
-  - "non-human-biology"
-  - "ethology"
-  - "Gall-inducing insects"
 url: "/program/research-agenda/problem-ledger/life/gall-inducing-insects/"
 results_mirror:
   exists: false

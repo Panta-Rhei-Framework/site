@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Weinberg Angle NNLO at −0.7 ppm
-permalink: /results/problem/weinberg-angle-nnlo/
-result_id: result-035
+layout: "result-page"
+title: "Weinberg Angle NNLO at −0.7 ppm"
+permalink: "/results/problem/weinberg-angle-nnlo/"
+id: "result-035"
+result_id: "result-035"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The weak mixing angle sin²θ_W is derived at NNLO to −0.7 ppm accuracy
-  using the Window Universality W₃(4) = 5 correction.
-canonical_books: ["IV"]
+summary_short: "The weak mixing angle sin²θ_W is derived at NNLO to −0.7 ppm accuracy using the Window Universality W₃(4) = 5 correction."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Weinberg angle sin²θ_W ≈ 0.23122 is one of the most precisely measured p
 ## Result Statement
 
 IV.D337: sin²θ_W at NNLO, governed by Window Universality W₃(4) = 5, at −0.7 ppm from PDG value.
-

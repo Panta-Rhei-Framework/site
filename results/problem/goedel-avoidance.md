@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: 'Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ'
-permalink: /results/problem/goedel-avoidance/
-result_id: result-044
+layout: "result-page"
+title: "Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ"
+permalink: "/results/problem/goedel-avoidance/"
+id: "result-044"
+result_id: "result-044"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: consequence
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "consequence"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Logic / Inference"
-summary_short: Five independent mechanisms in Category τ prevent the diagonal self-negation
-  that underlies Gödel's incompleteness theorems.
-canonical_books: ["VII"]
+summary_short: "Five independent mechanisms in Category τ prevent the diagonal self-negation that underlies Gödel's incompleteness theorems."
+canonical_books:
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ Gödel's first incompleteness theorem proves that any sufficiently powerful cons
 ## Result Statement
 
 VII.T07: Five mechanisms prevent diagonal self-negation in τ: Hyperfactorization, Tower Separation, Boundary Constraint, Orbit Directedness, Carrier Closure. The framework is consistent and Gödel-immune.
-

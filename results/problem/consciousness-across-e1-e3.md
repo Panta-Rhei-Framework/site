@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Consciousness Across E1–E3"
-permalink: /results/problem/consciousness-across-e1-e3/
-result_id: result-155
-problem_ledger_ids: ["life-consciousness"]
-topic: mathematics
-layer: mathematics
-result_type: consequence
-bridge_status: partial
-result_kind: consequence
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/consciousness-across-e1-e3/"
+id: "result-155"
+result_id: "result-155"
+problem_ledger_ids:
+  - "life-consciousness"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "consequence"
+bridge_status: "partial"
+result_kind: "consequence"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "SERIES"
 summary_short: "Consciousness spans multiple enrichment layers: E₁ (neural correlates), E₂ (biological self-model), E₃ (phenomenal experience). The τ-framework provides a multi…"
-canonical_books: ["III", "VII"]
+canonical_books:
+  - "III"
+  - "VII"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 6: Diagonal Discipline — Why Exactly Four Channels"
-permalink: /corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 5: The Object Closure Axiom and the Static Kernel �
 next_chapter_url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-07-the-one-generative-act-rho-unfolds-the-universe/"
 next_chapter_title: "Chapter 7: The ONE Generative Act — ρ Unfolds the Universe"
 summary_short: "The static kernel τ₀ specifies five generators and four orbit channels. Why four? Why not three, or seven, or countably many? The answer lies in the…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-01-the-coherence-kernel/
+canonical_part_url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
 canonical_part_title: "Part I: The Coherence Kernel"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part I: The Coherence Kernel"
-    url: /corpus/monographs/book-i/part-01-the-coherence-kernel/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part I: The Coherence Kernel"
+      url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part I"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The static kernel τ₀ specifies five generators
 and four orbit channels.

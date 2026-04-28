@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 19: The 180^ Thermodynamic Inversion"
-permalink: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 18: The Gravitational Closing Identity"
 next_chapter_url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-20-entropy-splitting-sdef/"
 next_chapter_title: "Chapter 20: Entropy Splitting: S_def"
 summary_short: "The classical second law of thermodynamics is the most temporally asymmetric statement in all of physics: entropy increases, order decays, the universe marches…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/
+canonical_part_url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
 canonical_part_title: "Part III: What Propagates: Thermodynamic Inversion"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part III: What Propagates: Thermodynamic Inversion"
-    url: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part III: What Propagates: Thermodynamic Inversion"
+      url: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part III"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The classical second law of thermodynamics
 is the most temporally asymmetric statement

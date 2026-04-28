@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 61: The Subobject Classifier and the Earned Topos"
-permalink: /corpus/monographs/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 14
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 60: Limits, Sites, and the Presheaf Topos"
 next_chapter_url: "/corpus/monographs/book-i/part-14-the-earned-topos/chapter-62-cartesian-product-as-earned-bi-functor/"
 next_chapter_title: "Chapter 62: Cartesian Product as Earned Bi-Functor"
 summary_short: "Chapter [ch:boolean-recovery] (Part XI) defined Ω_τ = Truth4 as the subobject classifier (Definition [def:omega-tau], I.D41) — but that was a *preview*. With…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-14-the-earned-topos/
+canonical_part_url: "/corpus/monographs/book-i/part-14-the-earned-topos/"
 canonical_part_title: "Part XIV: The Earned Topos"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XIV: The Earned Topos"
-    url: /corpus/monographs/book-i/part-14-the-earned-topos/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XIV: The Earned Topos"
+      url: "/corpus/monographs/book-i/part-14-the-earned-topos/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XIV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 the relevant chapter (Part XI) defined
 Ω_τ = Truth4

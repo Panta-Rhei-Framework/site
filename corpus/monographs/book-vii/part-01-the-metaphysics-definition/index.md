@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part I: The Metaphysics Definition"
-permalink: /corpus/monographs/book-vii/part-01-the-metaphysics-definition/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 1
@@ -15,26 +15,32 @@ part_display: "Part I"
 part_slug: "part-01-the-metaphysics-definition"
 chapter_count: 13
 summary_short: "Part I builds the formal apparatus that governs all subsequent Parts. The **four-register model** decomposes metaphysical reasoning into four independent…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-01-the-metaphysics-definition/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VII"
     layer: "E₃ Metaphysics"
     chapters: "13"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part I builds the formal apparatus that governs all subsequent Parts.
 The **four-register model** decomposes metaphysical reasoning into four

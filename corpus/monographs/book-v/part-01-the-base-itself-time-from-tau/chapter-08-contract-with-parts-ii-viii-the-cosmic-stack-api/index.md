@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 8: Contract with Parts~II–VIII: The Cosmic Stack API"
-permalink: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 7: Boundary Data: CMB and Cν"
 next_chapter_url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-09-the-frame-holonomy-sector-gravity-as-canonical-gap/"
 next_chapter_title: "Chapter 9: The Frame Holonomy Sector: Gravity as Canonical Gap"
 summary_short: "Part I is now complete. Seven chapters have earned the base vocabulary of Book V: time as arc length on τ¹, three temporal epochs, initial conditions, the…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
+canonical_part_url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
 canonical_part_title: "Part I: The Base Itself: Time from τ¹"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part I: The Base Itself: Time from τ¹"
-    url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part I: The Base Itself: Time from τ¹"
+      url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part I"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part I is now complete.
 Seven chapters have earned

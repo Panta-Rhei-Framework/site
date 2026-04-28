@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part XII: Holomorphic Transformers"
-permalink: /corpus/monographs/book-i/part-12-holomorphic-transformers/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "I"
 book_slug: "book-i"
 part_number: 12
@@ -15,26 +15,32 @@ part_display: "Part XII"
 part_slug: "part-12-holomorphic-transformers"
 chapter_count: 4
 summary_short: "Parts VIII–XI earned the boundary ring ℤ_τ, its split-complex scalar algebra H_τ, the fundamental characters χ_±, and the four-valued logic…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-12-holomorphic-transformers/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-12-holomorphic-transformers/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book I"
     layer: "E₀ Mathematics"
     chapters: "4"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Parts VIII–XI earned the boundary ring ℤ_τ,
 its split-complex scalar algebra H_τ,

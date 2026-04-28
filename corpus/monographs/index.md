@@ -1,25 +1,32 @@
 ---
-layout: program-doc
-lane: corpus
-v2_lane: corpus
-status: Canonical
-updated: April 2026
+layout: "program-doc"
+lane: "corpus"
+v2_lane: "corpus"
+status: "Canonical"
+updated: "April 2026"
 title: "Corpus Monographs"
-permalink: /corpus/monographs/
+permalink: "/corpus/monographs/"
 type: "Corpus Projection"
 summary_short: "Open Corpus editions of the seven research monographs, organized by book, part, and chapter."
 right_rail:
   related:
-    - title: "Corpus"
-      url: /corpus/
-    - title: "Construction Spine"
-      url: /corpus/construction-spine/
-    - title: "Research Monographs"
-      url: /publications/research-monographs/
+    -
+      title: "Corpus"
+      url: "/corpus/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
+    -
+      title: "Research Monographs"
+      url: "/publications/research-monographs/"
   meta:
     type: "Corpus Projection"
     status: "Canonical"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Open Corpus editions

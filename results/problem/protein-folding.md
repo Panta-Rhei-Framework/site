@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Protein Folding"
-permalink: /results/problem/protein-folding/
-result_id: result-135
-problem_ledger_ids: ["life-biology-protein-folding"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: not-addressed
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: N
+permalink: "/results/problem/protein-folding/"
+id: "result-135"
+result_id: "result-135"
+problem_ledger_ids:
+  - "life-biology-protein-folding"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "not-addressed"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "N"
 domain_group: "CELL"
 summary_short: "Protein folding — predicting 3D structure from amino acid sequence — is a central problem in structural biology. The τ-framework recasts folding as Yang-Mills-t…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Not Addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

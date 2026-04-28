@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 23: The Source Sector: Structure Generation"
-permalink: /corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 4
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 22: The Three Domains: Sector Taxonomy of Life"
 next_chapter_url: "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/chapter-24-photosynthesis-quantum-coherence-and-carbon-fixation/"
 next_chapter_title: "Chapter 24: Photosynthesis: Quantum Coherence and Carbon Fixation"
 summary_short: "The source (producer) sector is formally defined as the γ-fiber restricted to E₂ carriers, with structure generation as the defining predicate. A carrier…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/
+canonical_part_url: "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/"
 canonical_part_title: "Part IV: Source — Plants and the Production Fiber"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part IV: Source — Plants and the Production Fiber"
-    url: /corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part IV: Source — Plants and the Production Fiber"
+      url: "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part IV"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The source (producer) sector is formally defined as the γ-fiber restricted to E₂ carriers, with structure generation as the defining predicate. A carrier satisfies structure generation when its Loop_L factors through Loop_src on the γ channel, producing new material from inorganic precursors. The central theorem identifies the source sector as the unique sector on the γ-fiber that produces structural complexity from simpler inputs, with plants as the biological archetype.

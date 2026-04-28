@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Size of universe"
 permalink: "/program/research-agenda/problem-ledger/physics/size-of-universe/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-size-of-universe"
 id: "phys-size-of-universe"
 short_title: "Size of universe"
@@ -102,15 +102,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-size-of-universe"
-  mapped_from_source_entries:
-    - "wikipedia-physics-size-of-universe"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -121,12 +112,6 @@ tags:
   - "wikipedia-physics"
   - "size-of-universe"
   - "cosmology-and-general-relativity"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "size-of-universe"
-  - "cosmology-and-general-relativity"
-  - "Size of universe"
 url: "/program/research-agenda/problem-ledger/physics/size-of-universe/"
 results_mirror:
   exists: false

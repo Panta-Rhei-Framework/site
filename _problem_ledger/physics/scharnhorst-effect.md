@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Scharnhorst effect"
 permalink: "/program/research-agenda/problem-ledger/physics/scharnhorst-effect/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-scharnhorst-effect"
 id: "phys-scharnhorst-effect"
 short_title: "Scharnhorst effect"
@@ -110,15 +110,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-scharnhorst-effect"
-  mapped_from_source_entries:
-    - "wikipedia-physics-scharnhorst-effect"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -129,12 +120,6 @@ tags:
   - "wikipedia-physics"
   - "scharnhorst-effect"
   - "condensed-matter-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "scharnhorst-effect"
-  - "condensed-matter-physics"
-  - "Scharnhorst effect"
 url: "/program/research-agenda/problem-ledger/physics/scharnhorst-effect/"
 results_mirror:
   exists: false

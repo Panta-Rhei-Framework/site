@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 31: Gravity Without Dark Matter: The Classical Illusion"
-permalink: /corpus/monographs/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 5
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 30: Macro Phase Transitions and Regime Crossings"
 next_chapter_url: "/corpus/monographs/book-v/part-05-global-structure/chapter-32-kepler-and-the-solar-system-as-calibration-laboratory/"
 next_chapter_title: "Chapter 32: Kepler and the Solar System as Calibration Laboratory"
 summary_short: "Why does classical mechanics work? For three centuries, Newtonian gravity governed the heavens with extraordinary precision: planetary orbits, tidal forces,…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-05-global-structure/
+canonical_part_url: "/corpus/monographs/book-v/part-05-global-structure/"
 canonical_part_title: "Part V: Global Structure"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part V: Global Structure"
-    url: /corpus/monographs/book-v/part-05-global-structure/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part V: Global Structure"
+      url: "/corpus/monographs/book-v/part-05-global-structure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part V"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Why does classical mechanics work?
 For three centuries,

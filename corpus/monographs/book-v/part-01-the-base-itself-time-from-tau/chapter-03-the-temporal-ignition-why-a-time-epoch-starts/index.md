@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 3: The Temporal Ignition: Why a ``Time Epoch'' Starts"
-permalink: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 2: Proto-Chronos: From α-Ticks to Proper Time"
 next_chapter_url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-04-high-energy-and-high-entropy-at-the-beginning/"
 next_chapter_title: "Chapter 4: High Energy and High Entropy at the Beginning"
 summary_short: "The preceding chapter derived physical time as arc length along the base circle τ¹. But arc length is a mathematical construction — it exists at every…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
+canonical_part_url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
 canonical_part_title: "Part I: The Base Itself: Time from τ¹"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part I: The Base Itself: Time from τ¹"
-    url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part I: The Base Itself: Time from τ¹"
+      url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part I"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The preceding chapter derived physical time
 as arc length along the base circle τ¹.

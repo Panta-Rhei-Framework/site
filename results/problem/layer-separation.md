@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Layer Separation: SelfDesc Is Unavailable at E₁'
-permalink: /results/problem/layer-separation/
-result_id: result-042
+layout: "result-page"
+title: "Layer Separation: SelfDesc Is Unavailable at E₁"
+permalink: "/results/problem/layer-separation/"
+id: "result-042"
+result_id: "result-042"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: SelfDesc (the self-description predicate) is strictly unavailable at
-  enrichment level E₁ — life requires E₂.
-canonical_books: ["III"]
+summary_short: "SelfDesc (the self-description predicate) is strictly unavailable at enrichment level E₁ — life requires E₂."
+canonical_books:
+  - "III"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ A potential objection to the framework is: why can't a sufficiently complex phys
 ## Result Statement
 
 VI.T04: SelfDesc is strictly unavailable at E₁; E₂ ⊄ E₁. Life requires E₂-level structure. No continuous complexity path from physics to life exists.
-

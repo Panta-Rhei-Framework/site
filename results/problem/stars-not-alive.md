@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Stars Are Not Alive: Quadrant III — Distinction Without SelfDesc'
-permalink: /results/problem/stars-not-alive/
-result_id: result-022
+layout: "result-page"
+title: "Stars Are Not Alive: Quadrant III — Distinction Without SelfDesc"
+permalink: "/results/problem/stars-not-alive/"
+id: "result-022"
+result_id: "result-022"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: Stars satisfy τ-Distinction but not SelfDesc, placing them in Quadrant
-  III of the 2×2 matrix — alive by common speech but not by the formal definition.
-canonical_books: ["VI"]
+summary_short: "Stars satisfy τ-Distinction but not SelfDesc, placing them in Quadrant III of the 2×2 matrix — alive by common speech but not by the formal definition."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Distinction/SelfDesc 2×2 matrix organises all physical systems by whether t
 ## Result Statement
 
 VI.T34: The Distinction/SelfDesc 2×2 matrix places stars in Quadrant III (Distinction yes, SelfDesc no). Stars are not alive. This is a sharp categorical prediction distinguishing the framework from any definition based on complexity or energy flow.
-

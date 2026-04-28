@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 14: Topology as Invariant of Canonical Denotation"
-permalink: /corpus/monographs/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 13: Compact, Hausdorff, Totally Disconnected"
 next_chapter_url: "/corpus/monographs/book-ii/part-03-topology-and-global-shape/chapter-15-dimension-four-from-refinement-rays/"
 next_chapter_title: "Chapter 15: Dimension Four from Refinement Rays"
 summary_short: "Chapter [ch:stone-space] proved that τ³ is compact, Hausdorff, and totally disconnected — a Stone space (II.D14). But could a different choice of base sets…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-03-topology-and-global-shape/
+canonical_part_url: "/corpus/monographs/book-ii/part-03-topology-and-global-shape/"
 canonical_part_title: "Part III: Topology and Global Shape"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part III: Topology and Global Shape"
-    url: /corpus/monographs/book-ii/part-03-topology-and-global-shape/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part III: Topology and Global Shape"
+      url: "/corpus/monographs/book-ii/part-03-topology-and-global-shape/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part III"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 the relevant chapter proved that τ³
 is compact, Hausdorff, and totally disconnected —

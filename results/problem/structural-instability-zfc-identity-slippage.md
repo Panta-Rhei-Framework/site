@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Structural Instability / ZFC Identity Slippage"
-permalink: /results/problem/structural-instability-zfc-identity-slippage/
-result_id: result-097
+permalink: "/results/problem/structural-instability-zfc-identity-slippage/"
+id: "result-097"
+result_id: "result-097"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: consequence
-bridge_status: contradicted
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: C
+topic: "mathematics"
+layer: "mathematics"
+result_type: "consequence"
+bridge_status: "contradicted"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "C"
 domain_group: "BRIDGE"
 summary_short: "The τ-framework predicts that certain ZFC constructions (non-measurable sets, Banach-Tarski decompositions) are structurally unstable — they rely on the Axiom o…"
-canonical_books: ["I", "III"]
+canonical_books:
+  - "I"
+  - "III"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Contradicted"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

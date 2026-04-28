@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Prime Polarity"
-permalink: /results/problem/prime-polarity/
-result_id: result-087
+permalink: "/results/problem/prime-polarity/"
+id: "result-087"
+result_id: "result-087"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "POLAR"
 summary_short: "Prime Polarity is a foundational math in the POLAR domain."
-canonical_books: ["I"]
+canonical_books:
+  - "I"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Prime_number"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm'
-permalink: /results/problem/cmb-first-peak/
-result_id: result-037
+layout: "result-page"
+title: "CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm"
+permalink: "/results/problem/cmb-first-peak/"
+id: "result-037"
+result_id: "result-037"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The CMB first acoustic peak position ℓ₁ = 220.6 is derived at LO to
-  +2840 ppm and at NLO to +69 ppm using δ_h = ι<sub>τ</sub>/W₅(3).
-canonical_books: ["V"]
+summary_short: "The CMB first acoustic peak position ℓ₁ = 220.6 is derived at LO to +2840 ppm and at NLO to +69 ppm using δ_h = ι<sub>τ</sub>/W₅(3)."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The CMB acoustic peaks encode the physics of baryon-photon oscillations before r
 ## Result Statement
 
 V.T192: ℓ₁ at +2840 ppm (LO). V.T257: NLO with δ_h = ι<sub>τ</sub>/W₅(3) = ι<sub>τ</sub>/19 gives +69 ppm. W₅(3) = 19 = N_e/3 connects inflation and CMB peak.
-

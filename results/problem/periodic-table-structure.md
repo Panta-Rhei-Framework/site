@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Periodic Table Structure"
-permalink: /results/problem/periodic-table-structure/
-result_id: result-163
+permalink: "/results/problem/periodic-table-structure/"
+id: "result-163"
+result_id: "result-163"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "ATOM"
 summary_short: "The periodic table's structure (period lengths 2,8,8,18,18,32,32) is typically explained by quantum mechanics ad hoc. The τ-framework derives the shell str…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

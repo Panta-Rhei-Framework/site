@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 76: The Enrichment Frontier"
-permalink: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 75: Star-Autonomous Categories and the Diagonal Bar
 next_chapter_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-77-diagonal-resonance-and-identity-slippage/"
 next_chapter_title: "Chapter 77: Diagonal Resonance and Identity Slippage"
 summary_short: "The two preceding chapters established what nobody has achieved (Chapter [ch:self-hosting-landscape], I.D80) and why K5 avoids the standard obstruction…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
+canonical_part_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
 canonical_part_title: "Part XVII: The Proof-Theoretic Mirror"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XVII: The Proof-Theoretic Mirror"
-    url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XVII: The Proof-Theoretic Mirror"
+      url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XVII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The two preceding chapters established
 what nobody has achieved

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Taxonomic position of Tricholepidion gertschi"
 permalink: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-taxonomic-position-of-tricholepidion-gertschi"
 id: "life-biology-taxonomic-position-of-tricholepidion-gertschi"
 short_title: "Taxonomic position of Tricholepidion gertschi"
@@ -112,15 +112,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-taxonomic-position-of-tricholepidion-gertschi"
-  mapped_from_source_entries:
-    - "wikipedia-biology-taxonomic-position-of-tricholepidion-gertschi"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -132,13 +123,6 @@ tags:
   - "taxonomic-position-of-tricholepidion-gertschi"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "taxonomic-position-of-tricholepidion-gertschi"
-  - "non-human-biology"
-  - "ecology-evolution-and-paleontology"
-  - "Taxonomic position of Tricholepidion gertschi"
 url: "/program/research-agenda/problem-ledger/life/taxonomic-position-of-tricholepidion-gertschi/"
 results_mirror:
   exists: false

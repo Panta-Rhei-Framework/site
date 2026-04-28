@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Computational theory of mind"
 permalink: "/program/research-agenda/problem-ledger/life/computational-theory-of-mind/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-computational-theory-of-mind"
 id: "life-biology-computational-theory-of-mind"
 short_title: "Computational theory of mind"
@@ -119,17 +119,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-computational-theory-of-mind"
-  mapped_from_source_entries:
-    - "wikipedia-biology-computational-theory-of-mind"
-    - "wikipedia-neuroscience-computational-theory-of-mind"
-  merged_source_entries:
-    - "wikipedia-neuroscience-computational-theory-of-mind"
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -141,13 +130,6 @@ tags:
   - "computational-theory-of-mind"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "computational-theory-of-mind"
-  - "neuroscience-and-cognition"
-  - "cognition-and-psychology"
-  - "Computational theory of mind"
 url: "/program/research-agenda/problem-ledger/life/computational-theory-of-mind/"
 results_mirror:
   exists: false

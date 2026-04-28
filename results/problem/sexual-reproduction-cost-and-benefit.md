@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Sexual Reproduction Cost and Benefit"
-permalink: /results/problem/sexual-reproduction-cost-and-benefit/
-result_id: result-191
+permalink: "/results/problem/sexual-reproduction-cost-and-benefit/"
+id: "result-191"
+result_id: "result-191"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "GENE"
 summary_short: "Why does sexual reproduction persist despite its twofold cost? The τ-framework derives sex as the 'second distinction' — recombination is a functor that of…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

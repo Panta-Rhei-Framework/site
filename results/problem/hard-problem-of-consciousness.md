@@ -1,26 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Hard Problem of Consciousness"
-permalink: /results/problem/hard-problem-of-consciousness/
-result_id: result-140
-problem_ledger_ids: ["life-consciousness", "meta-hard-problem-of-consciousness"]
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/hard-problem-of-consciousness/"
+id: "result-140"
+result_id: "result-140"
+problem_ledger_ids:
+  - "life-consciousness"
+  - "meta-hard-problem-of-consciousness"
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "PHEN/MIND"
 summary_short: "Hard Problem of Consciousness is a frontier problem in the PHEN/MIND domain."
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

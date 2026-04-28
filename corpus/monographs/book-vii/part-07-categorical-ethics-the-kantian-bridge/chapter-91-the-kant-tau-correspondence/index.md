@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 91: The Kant-τ Correspondence"
-permalink: /corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-91-the-kant-tau-correspondence/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-91-the-kant-tau-correspondence/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 7
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 90: The Commitment Register"
 next_chapter_url: "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-92-earned-and-unearned-ethics/"
 next_chapter_title: "Chapter 92: Earned and Unearned Ethics"
 summary_short: "Kant completed two pillars of reason at full resolution: the empirical pillar (Critique of Pure Reason) and the practical pillar (Critique of Practical…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/
+canonical_part_url: "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
 canonical_part_title: "Part VII: Categorical Ethics & the Kantian Bridge"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-91-the-kant-tau-correspondence/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-91-the-kant-tau-correspondence/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part VII: Categorical Ethics & the Kantian Bridge"
-    url: /corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part VII: Categorical Ethics & the Kantian Bridge"
+      url: "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part VII"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Kant completed two pillars of reason at full resolution: the empirical
 pillar (Critique of Pure Reason) and the practical pillar (Critique of

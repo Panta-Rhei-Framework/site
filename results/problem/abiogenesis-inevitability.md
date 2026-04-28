@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: 'Abiogenesis Is Inevitable: Life Is a Thermodynamic Attractor'
-permalink: /results/problem/abiogenesis-inevitability/
-result_id: result-019
-problem_ledger_ids: ["life-origin-of-life"]
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Abiogenesis Is Inevitable: Life Is a Thermodynamic Attractor"
+permalink: "/results/problem/abiogenesis-inevitability/"
+id: "result-019"
+result_id: "result-019"
+problem_ledger_ids:
+  - "life-origin-of-life"
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: A 7-link chain from axioms K0–K6 to absorbing basin proves that abiogenesis
-  is structurally forced, not a lucky accident.
-canonical_books: ["VI"]
+summary_short: "A 7-link chain from axioms K0–K6 to absorbing basin proves that abiogenesis is structurally forced, not a lucky accident."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Abiogenesis"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +42,3 @@ The origin of life is one of the deepest open questions in science. Orthodox ori
 ## Result Statement
 
 VI.T46: A 7-link chain K₀–K₆ → defect budget → complexity monotone → attractor → absorbing basin → timescale bound → Distinction+SelfDesc. Given the axioms, a system satisfying Distinction+SelfDesc must be entered within finite time. Abiogenesis is not a lucky accident but a structural inevitability.
-

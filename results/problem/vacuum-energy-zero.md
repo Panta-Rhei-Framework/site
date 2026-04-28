@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Vacuum Energy = 0: Cosmological Constant Problem Dissolved'
-permalink: /results/problem/vacuum-energy-zero/
-result_id: result-018
+layout: "result-page"
+title: "Vacuum Energy = 0: Cosmological Constant Problem Dissolved"
+permalink: "/results/problem/vacuum-energy-zero/"
+id: "result-018"
+result_id: "result-018"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The τ-vacuum energy is structurally zero (V.T139), dissolving the cosmological
-  constant problem without fine-tuning.
-canonical_books: ["V"]
+summary_short: "The τ-vacuum energy is structurally zero (V.T139), dissolving the cosmological constant problem without fine-tuning."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The cosmological constant problem is often called the worst fine-tuning problem 
 ## Result Statement
 
 V.T139: ρ_vac^τ = 0 exactly. The cosmological constant problem (observed vacuum energy ~10⁻¹²² off from quantum field theory prediction) is dissolved because in τ the vacuum energy is structurally zero, not fine-tuned to zero.
-

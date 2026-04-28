@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Goldbach Conjecture"
-permalink: /results/problem/goldbach-conjecture/
-result_id: result-093
+permalink: "/results/problem/goldbach-conjecture/"
+id: "result-093"
+result_id: "result-093"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: not-addressed
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: N
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "not-addressed"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "N"
 domain_group: "CLASSICAL-NT"
 summary_short: "Goldbach's Conjecture (1742) — every even integer greater than 2 is the sum of two primes — remains one of the oldest unsolved problems in number theory. The τ-…"
-canonical_books: ["I"]
+canonical_books:
+  - "I"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Not Addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

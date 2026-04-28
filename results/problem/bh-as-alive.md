@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "BH-as-Alive"
-permalink: /results/problem/bh-as-alive/
-result_id: result-134
+permalink: "/results/problem/bh-as-alive/"
+id: "result-134"
+result_id: "result-134"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: consequence
-bridge_status: resolved
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "consequence"
+bridge_status: "resolved"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "R"
 domain_group: "COSM"
 summary_short: "Are black holes alive? The τ-framework provides a precise answer: black holes satisfy some but not all hallmarks of life. They have boundary (event horizon) and…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

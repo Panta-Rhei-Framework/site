@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Core-Collapse Supernovae: Channel Reversal at Nuclear Density'
-permalink: /results/problem/supernovae-mechanism/
-result_id: result-242
-problem_ledger_ids: ["phys-supernovae"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Core-Collapse Supernovae: Channel Reversal at Nuclear Density"
+permalink: "/results/problem/supernovae-mechanism/"
+id: "result-242"
+result_id: "result-242"
+problem_ledger_ids:
+  - "phys-supernovae"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Core-collapse supernovae explode via channel reversal (Book V ch39): GR tension exceeds threshold at nuclear density, topological opening reverses direction, and an outward shock is driven by A-sector neutrino energy transfer. Asymmetry in the reversal derives natal kicks of 200-500 km/s (V.P76).'
-canonical_books: ["V"]
+summary_short: "Core-collapse supernovae explode via channel reversal (Book V ch39): GR tension exceeds threshold at nuclear density, topological opening reverses direction, and an outward shock is driven by A-sector neutrino energy transfer. Asymmetry in the reversal derives natal kicks of 200-500 km/s (V.P76)."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

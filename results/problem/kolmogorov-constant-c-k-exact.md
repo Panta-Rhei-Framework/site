@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Kolmogorov Constant C_K = 3/2 Exact from dim(τ³)/dim(T²)
-permalink: /results/problem/kolmogorov-constant-c-k-exact/
-result_id: result-063
+layout: "result-page"
+title: "Kolmogorov Constant C_K = 3/2 Exact from dim(τ³)/dim(T²)"
+permalink: "/results/problem/kolmogorov-constant-c-k-exact/"
+id: "result-063"
+result_id: "result-063"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The Kolmogorov constant C_K = 3/2 is derived exactly as dim(τ³)/dim(T²)
-  = 3/2, with no free parameters.
-canonical_books: ["V"]
+summary_short: "The Kolmogorov constant C_K = 3/2 is derived exactly as dim(τ³)/dim(T²) = 3/2, with no free parameters."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ This result is in the Crown Jewels list at rank 20 (score 39) and is closely rel
 ## Result Statement
 
 V.T251: C_K = 3/2 = dim(τ³)/dim(T²) exactly. Zero free parameters. Consistent with experimental value C_K ≈ 1.5 ± 0.1 from DNS.
-

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Yang–Mills theory"
 permalink: "/program/research-agenda/problem-ledger/physics/yangmills-theory/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-yangmills-theory"
 id: "phys-yangmills-theory"
 short_title: "Yang–Mills theory"
@@ -134,15 +134,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-yangmills-theory"
-  mapped_from_source_entries:
-    - "wikipedia-physics-yangmills-theory"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -153,12 +144,6 @@ tags:
   - "wikipedia-physics"
   - "yangmills-theory"
   - "quantum-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "yangmills-theory"
-  - "quantum-physics"
-  - "Yang–Mills theory"
 url: "/program/research-agenda/problem-ledger/physics/yangmills-theory/"
 results_mirror:
   exists: false

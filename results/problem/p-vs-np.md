@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "P vs NP"
-permalink: /results/problem/p-vs-np/
-result_id: result-092
-problem_ledger_ids: ["math-p-vs-np"]
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/p-vs-np/"
+id: "result-092"
+result_id: "result-092"
+problem_ledger_ids:
+  - "math-p-vs-np"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "MILL"
 summary_short: "P vs NP is a frontier problem in the MILL domain."
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/P_versus_NP_problem"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

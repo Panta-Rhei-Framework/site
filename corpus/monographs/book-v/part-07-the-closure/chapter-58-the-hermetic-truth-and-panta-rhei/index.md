@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 58: The Hermetic Truth and Panta Rhei"
-permalink: /corpus/monographs/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 7
@@ -19,30 +19,37 @@ page_in_book: 455
 prev_chapter_url: "/corpus/monographs/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/"
 prev_chapter_title: "Chapter 57: Export Contracts and Bridge to Life"
 summary_short: "In Chapter 1, we stated the Hermetic Principle: the fiber T² (microcosm, Book IV) and the base τ¹ (macrocosm, Book V) are two aspects of the single…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-07-the-closure/
+canonical_part_url: "/corpus/monographs/book-v/part-07-the-closure/"
 canonical_part_title: "Part VII: The Closure"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part VII: The Closure"
-    url: /corpus/monographs/book-v/part-07-the-closure/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VII: The Closure"
+      url: "/corpus/monographs/book-v/part-07-the-closure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part VII"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 In Chapter 1, we stated the Hermetic Principle:
 the fiber T² (microcosm, Book IV)

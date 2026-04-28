@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "High-Tc Superconductivity"
-permalink: /results/problem/high-tc-superconductivity/
-result_id: result-117
+permalink: "/results/problem/high-tc-superconductivity/"
+id: "result-117"
+result_id: "result-117"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: P
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "P"
 domain_group: "COND"
 summary_short: "High-temperature superconductivity (cuprates, nickelates) lacks a first-principles explanation. The τ-framework's condensed-matter sector has partial tools (BCS…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

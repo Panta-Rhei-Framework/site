@@ -1,27 +1,32 @@
 ---
-
-layout: result-page
-title: 'Chronology Protection: Closed Timelike Curves Structurally Excluded'
-permalink: /results/problem/chronology-protection-no-ctcs/
-result_id: result-236
+layout: "result-page"
+title: "Chronology Protection: Closed Timelike Curves Structurally Excluded"
+permalink: "/results/problem/chronology-protection-no-ctcs/"
+id: "result-236"
+result_id: "result-236"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Closed timelike curves are structurally forbidden by the strict irreflexive partial order on the α-orbit (V.T09, Causal Ordering Theorem). Hawking''s chronology protection becomes a theorem, not a speculative mechanism.'
-canonical_books: ["V"]
+summary_short: "Closed timelike curves are structurally forbidden by the strict irreflexive partial order on the α-orbit (V.T09, Causal Ordering Theorem). Hawking's chronology protection becomes a theorem, not a speculative mechanism."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

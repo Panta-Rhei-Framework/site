@@ -1,27 +1,34 @@
 ---
-
-layout: result-page
-title: 'Problem of Time: Wheeler-DeWitt Frozen Formalism Dissolved'
-permalink: /results/problem/problem-of-time/
-result_id: result-238
-problem_ledger_ids: ["phys-problem-of-time"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Problem of Time: Wheeler-DeWitt Frozen Formalism Dissolved"
+permalink: "/results/problem/problem-of-time/"
+id: "result-238"
+result_id: "result-238"
+problem_ledger_ids:
+  - "phys-problem-of-time"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'The Wheeler-DeWitt "problem of time" (vanishing Hamiltonian → timeless theory) is dissolved in τ: time is not a background parameter to recover from a timeless state but IS the α-orbit (V.R23). V.T10 establishes bounded temporal extent; VII.P06 reconstructs time as persistence of NF-addresses.'
-canonical_books: ["V", "VII"]
+summary_short: "The Wheeler-DeWitt \"problem of time\" (vanishing Hamiltonian → timeless theory) is dissolved in τ: time is not a background parameter to recover from a timeless state but IS the α-orbit (V.R23). V.T10 establishes bounded temporal extent; VII.P06 reconstructs time as persistence of NF-addresses."
+canonical_books:
+  - "V"
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

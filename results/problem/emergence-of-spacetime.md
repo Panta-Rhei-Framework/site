@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Emergence of Spacetime"
-permalink: /results/problem/emergence-of-spacetime/
-result_id: result-177
-problem_ledger_ids: ["phys-quantum-spacetime-or-the-emergence-of-spacetime"]
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/emergence-of-spacetime/"
+id: "result-177"
+result_id: "result-177"
+problem_ledger_ids:
+  - "phys-quantum-spacetime-or-the-emergence-of-spacetime"
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "FOUND"
 summary_short: "Does spacetime emerge from a more fundamental structure? The τ-framework says yes: spacetime geometry is earned from the metric structure of τ³, not postul…"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

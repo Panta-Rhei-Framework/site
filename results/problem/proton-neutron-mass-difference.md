@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Proton-Neutron Mass Difference at +33 ppm
-permalink: /results/problem/proton-neutron-mass-difference/
-result_id: result-048
+layout: "result-page"
+title: "Proton-Neutron Mass Difference at +33 ppm"
+permalink: "/results/problem/proton-neutron-mass-difference/"
+id: "result-048"
+result_id: "result-048"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The proton-neutron mass difference Δm = m_n − m_p is derived from a
-  two-sector formula at +33 ppm from the measured value.
-canonical_books: ["IV"]
+summary_short: "The proton-neutron mass difference Δm = m_n − m_p is derived from a two-sector formula at +33 ppm from the measured value."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The proton-neutron mass difference Δm = m_n − m_p = 1.2933 MeV is crucial for
 ## Result Statement
 
 IV.T142: Δm = m_n − m_p = (3/16)√3·ι<sub>τ</sub>⁵ − (3/20)αι<sub>τ</sub>² at +33 ppm from measured value 1.2933 MeV.
-

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part XII: The Final Boundary: From Proof to Commitment"
-permalink: /corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 12
@@ -15,26 +15,32 @@ part_display: "Part XII"
 part_slug: "part-12-the-final-boundary-from-proof-to-commitment"
 chapter_count: 4
 summary_short: "The ω-germ question—whether ω is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VII"
     layer: "E₃ Metaphysics"
     chapters: "4"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The ω-germ question—whether ω is inhabited, and what that inhabitation means—is
 shown to be **diagrammatically unanswerable**. The boundary collapse lemma proves that

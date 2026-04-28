@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 11: The Seven Forces and the τ³ Domain"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/chapter-11-the-seven-forces-and-the-tau-domain/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-11-the-seven-forces-and-the-tau-domain/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 10: Predictions by Absence: Virus, Neutron, NS-to-B
 next_chapter_url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-12-the-persistence-sector-temporal-stability-and-homeostasis/"
 next_chapter_title: "Chapter 12: The Persistence Sector: Temporal Stability and Homeostasis"
 summary_short: "Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι<sub>τ</sub> set biological…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-01-the-life-definition/
+canonical_part_url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
 canonical_part_title: "Part I: The Life Definition"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/chapter-11-the-seven-forces-and-the-tau-domain/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-11-the-seven-forces-and-the-tau-domain/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part I: The Life Definition"
-    url: /corpus/monographs/book-vi/part-01-the-life-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part I: The Life Definition"
+      url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part I"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι<sub>τ</sub> set biological scales. The τ³ domain correspondence maps τ¹ to temporal rhythm, T² to spatial structure, and 𝕃 to the cell membrane. Thermodynamic necessity shows that life is structurally required, not accidental.

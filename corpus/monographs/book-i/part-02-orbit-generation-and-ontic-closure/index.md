@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part II: Orbit Generation and Ontic Closure"
-permalink: /corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "I"
 book_slug: "book-i"
 part_number: 2
@@ -15,26 +15,32 @@ part_display: "Part II"
 part_slug: "part-02-orbit-generation-and-ontic-closure"
 chapter_count: 3
 summary_short: "The static kernel τ₀ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator ρ, and six axioms…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-02-orbit-generation-and-ontic-closure/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book I"
     layer: "E₀ Mathematics"
     chapters: "3"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The static kernel τ₀ is a specification — precise, categorical, and inert.
 Part I assembled the blueprint:

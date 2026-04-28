@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Substrate Independence / Multiple Realizability"
-permalink: /results/problem/substrate-independence-multiple-realizability/
-result_id: result-123
+permalink: "/results/problem/substrate-independence-multiple-realizability/"
+id: "result-123"
+result_id: "result-123"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "FORM"
 summary_short: "Is life substrate-independent — could it be realized in silicon, plasma, or exotic matter? The τ-framework says yes in principle: the τ-Distinction is substrate…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

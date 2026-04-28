@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 58: The τ"
-permalink: /corpus/monographs/book-iii/part-09-where-life-lives/chapter-58-the-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-09-where-life-lives/chapter-58-the-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 9
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 57: The Computation Layer"
 next_chapter_url: "/corpus/monographs/book-iii/part-09-where-life-lives/chapter-59-interface-width-and-tau/"
 next_chapter_title: "Chapter 59: Interface Width and τ"
 summary_short: "Chapter 54 defined the E₂ computational agent abstractly: a code C paired with a decoder D such that D(C) produces another code C', and the cycle…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-09-where-life-lives/
+canonical_part_url: "/corpus/monographs/book-iii/part-09-where-life-lives/"
 canonical_part_title: "Part IX: Where Life Lives"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-09-where-life-lives/chapter-58-the-tau/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-58-the-tau/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part IX: Where Life Lives"
-    url: /corpus/monographs/book-iii/part-09-where-life-lives/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part IX: Where Life Lives"
+      url: "/corpus/monographs/book-iii/part-09-where-life-lives/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part IX"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapter 54 defined the E₂ computational agent abstractly:
 a code C paired with a decoder D such that

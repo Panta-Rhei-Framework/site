@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Poincare Conjecture"
 permalink: "/program/research-agenda/problem-ledger/mathematics/poincare-conjecture/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "math-poincare-conjecture"
 id: "math-poincare-conjecture"
 short_title: "Poincare"
@@ -91,15 +91,6 @@ related:
   recovery_requirements:
     - "MREC-M5"
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "math-poincare-conjecture"
-  mapped_from_source_entries:
-    - "clay-poincare-conjecture"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
@@ -110,13 +101,6 @@ tags:
   - "topology"
   - "millennium-problem"
   - "regrounding"
-search_keywords:
-  - "mathematics"
-  - "topology"
-  - "millennium-problem"
-  - "regrounding"
-  - "Poincare Conjecture"
-  - "Poincare"
 url: "/program/research-agenda/problem-ledger/mathematics/poincare-conjecture/"
 results_mirror:
   exists: true

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Flyby anomaly"
 permalink: "/program/research-agenda/problem-ledger/physics/flyby-anomaly/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-flyby-anomaly"
 id: "phys-flyby-anomaly"
 short_title: "Flyby anomaly"
@@ -102,15 +102,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-flyby-anomaly"
-  mapped_from_source_entries:
-    - "wikipedia-physics-flyby-anomaly"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -121,12 +112,6 @@ tags:
   - "wikipedia-physics"
   - "flyby-anomaly"
   - "astronomy-and-astrophysics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "flyby-anomaly"
-  - "astronomy-and-astrophysics"
-  - "Flyby anomaly"
 url: "/program/research-agenda/problem-ledger/physics/flyby-anomaly/"
 results_mirror:
   exists: false

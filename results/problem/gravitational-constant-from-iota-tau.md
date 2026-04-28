@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm'
-permalink: /results/problem/gravitational-constant-from-iota-tau/
-result_id: result-038
+layout: "result-page"
+title: "Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm"
+permalink: "/results/problem/gravitational-constant-from-iota-tau/"
+id: "result-038"
+result_id: "result-038"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The gravitational fine structure constant is derived as α_G = α¹⁸√3(1
-  − (3/π)α) at 3 ppm from observation.
-canonical_books: ["V"]
+summary_short: "The gravitational fine structure constant is derived as α_G = α¹⁸√3(1 − (3/π)α) at 3 ppm from observation."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Newton's gravitational constant G (equivalently, the gravitational fine structur
 ## Result Statement
 
 V.T154: α_G = α¹⁸√3(1 − (3/π)α) at 3 ppm. Gravitational hierarchy explained by D-sector depth 18.
-

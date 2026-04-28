@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book I: Categorical Foundations"
-permalink: /corpus/monographs/book-i/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "I"
 book_slug: "book-i"
 subtitle: "How Mathematics Is Earned"
@@ -15,29 +15,39 @@ part_count: 18
 chapter_count: 79
 page_count: 483
 summary_short: "How Mathematics Is Earned"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/"
 summary_cards:
-- title: Subtitle
-  body: "How Mathematics Is Earned"
-- title: Structure
-  body: "18 parts, 79 chapters, 483 pages"
-- title: Layer
-  body: "E₀ Mathematics"
+  -
+    title: "Subtitle"
+    body: "How Mathematics Is Earned"
+  -
+    title: "Structure"
+    body: "18 parts, 79 chapters, 483 pages"
+  -
+    title: "Layer"
+    body: "E₀ Mathematics"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₀ Mathematics"
     parts: "18"
     chapters: "79"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

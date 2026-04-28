@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae"
 permalink: "/program/research-agenda/problem-ledger/life/adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
 id: "life-biology-adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
 short_title: "Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae"
@@ -136,15 +136,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
-  mapped_from_source_entries:
-    - "wikipedia-biology-adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -156,13 +147,6 @@ tags:
   - "adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
   - "non-human-biology"
   - "ecology-evolution-and-paleontology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae"
-  - "non-human-biology"
-  - "ecology-evolution-and-paleontology"
-  - "Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae"
 url: "/program/research-agenda/problem-ledger/life/adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae/"
 results_mirror:
   exists: false

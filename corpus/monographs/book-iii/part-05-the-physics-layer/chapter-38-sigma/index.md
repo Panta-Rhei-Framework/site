@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 38: σ"
-permalink: /corpus/monographs/book-iii/part-05-the-physics-layer/chapter-38-sigma/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-05-the-physics-layer/chapter-38-sigma/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 5
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 37: The Yang–Mills Mass Gap"
 next_chapter_url: "/corpus/monographs/book-iii/part-05-the-physics-layer/chapter-39-the-nf-addressability-theorem/"
 next_chapter_title: "Chapter 39: The NF-Addressability Theorem"
 summary_short: "This chapter opens the Hodge block (Chapters 41–43) by posing the Hodge question in the language of Category τ. The classical Hodge Conjecture asks which…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-05-the-physics-layer/
+canonical_part_url: "/corpus/monographs/book-iii/part-05-the-physics-layer/"
 canonical_part_title: "Part V: The Physics Layer"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-05-the-physics-layer/chapter-38-sigma/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-38-sigma/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part V: The Physics Layer"
-    url: /corpus/monographs/book-iii/part-05-the-physics-layer/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part V: The Physics Layer"
+      url: "/corpus/monographs/book-iii/part-05-the-physics-layer/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part V"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 This chapter opens the Hodge block (Chapters 41–43) by posing the Hodge question in the language of Category τ. The classical Hodge Conjecture asks which cohomology classes are algebraic; in τ, the question becomes: which boundary characters on 𝕃 = S¹ ∨ S¹ are NF-addressable within each sector of the 4+1 decomposition? The σ-involution on the split-complex algebra H_τ = ℤ[j]/(j² - 1) acts on characters by swapping the idempotent components e_+ and e_-. The *σ-fixed characters*—those invariant under this swap—form the diagonal sublattice of ℤ^2 and are precisely the balanced characters of the spectral trichotomy (the relevant theorem, Ch. 19). We prove that the Hodge question is trivial at enrichment level E₀, where the Central Theorem of Book II already guarantees global NF-addressability, and becomes substantive only at E₁, where sector admissibility predicates introduce a non-trivial "which" question. We then define the sector addressability predicate and state the τ-Hodge conjecture: every σ-fixed character is sector-addressable in every primitive sector.

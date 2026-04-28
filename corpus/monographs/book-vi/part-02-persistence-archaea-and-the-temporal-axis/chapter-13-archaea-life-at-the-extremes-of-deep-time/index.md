@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 13: Archaea: Life at the Extremes of Deep Time"
-permalink: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 2
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 12: The Persistence Sector: Temporal Stability and 
 next_chapter_url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-14-thermodynamic-necessity-and-the-origin-of-life/"
 next_chapter_title: "Chapter 14: Thermodynamic Necessity and the Origin of Life"
 summary_short: "Archaea biology instantiates the persistence sector. Extremophiles—thermal (>100^∘C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH < 2),…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/
+canonical_part_url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
 canonical_part_title: "Part II: Persistence — Archaea and the Temporal Axis"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part II: Persistence — Archaea and the Temporal Axis"
-    url: /corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part II: Persistence — Archaea and the Temporal Axis"
+      url: "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part II"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Archaea biology instantiates the persistence sector. Extremophiles—thermal (>100^∘C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH < 2), radioresistant—represent the oldest lineage, closest to the Last Universal Common Ancestor. The α-orbit's temporal invariance manifests in minimal genome change, metabolic conservatism, and extremophile robustness across deep time.

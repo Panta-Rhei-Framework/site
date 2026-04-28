@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part I: The Base Itself: Time from τ¹"
-permalink: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "V"
 book_slug: "book-v"
 part_number: 1
@@ -15,26 +15,32 @@ part_display: "Part I"
 part_slug: "part-01-the-base-itself-time-from-tau"
 chapter_count: 7
 summary_short: "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle τ¹ of the fibered product τ³ = τ¹ ×_f T² carries…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-01-the-base-itself-time-from-tau/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book V"
     layer: "E₁ Physics (Macrocosm)"
     chapters: "7"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part I answers the most fundamental question of macroscopic physics:
 *What is time?*

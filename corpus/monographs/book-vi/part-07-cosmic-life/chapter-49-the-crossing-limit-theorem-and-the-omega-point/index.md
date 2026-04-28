@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 49: The Crossing-Limit Theorem and the Omega Point"
-permalink: /corpus/monographs/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 7
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 48: The Cosmic Life Spectrum: From Molecules to Gal
 next_chapter_url: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/"
 next_chapter_title: "Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete"
 summary_short: "The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι<sub>τ</sub>: as black holes merge across cosmic time, their…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-07-cosmic-life/
+canonical_part_url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
 canonical_part_title: "Part VII: Cosmic Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VII: Cosmic Life"
-    url: /corpus/monographs/book-vi/part-07-cosmic-life/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VII: Cosmic Life"
+      url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VII"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι<sub>τ</sub>: as black holes merge across cosmic time, their blueprint codes approach the master constant. The cosmological limit of all mergers is a universal BH whose ω-germ code *is* ι<sub>τ</sub>—the fully alive state. The Omega Point is neither Teilhard's mysticism nor heat death, but convergence to maximal aliveness via eternal circulation on the lemniscate. The chapter closes with the generative-to-refinement transition: the cosmological arrow from structure-building to Life-optimizing, viewed from E₂.

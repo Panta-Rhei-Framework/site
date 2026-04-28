@@ -1,27 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Substance vs Process Ontology"
-permalink: /results/problem/substance-vs-process-ontology/
-result_id: result-079
+permalink: "/results/problem/substance-vs-process-ontology/"
+id: "result-079"
+result_id: "result-079"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Ontology"
 summary_short: "Strong public-facing ontology page and deeply aligned with the program's relational stance."
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Metaphysics
-    topic: Philosophy
+    layer: "Metaphysics"
+    topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Process_philosophy"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 Western metaphysics has been dominated by substance ontology since Aristotle: reality consists of enduring things (substances) that undergo change (accidents). Process philosophy (Whitehead, Rescher) offers an alternative: reality consists of processes, and things are stable patterns in process.

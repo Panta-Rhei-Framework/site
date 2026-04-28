@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Koide Relation at −9 ppm: Q = 2/3 from σ-Equivariant Mass Matrix'
-permalink: /results/problem/koide-relation/
-result_id: result-033
+layout: "result-page"
+title: "Koide Relation at −9 ppm: Q = 2/3 from σ-Equivariant Mass Matrix"
+permalink: "/results/problem/koide-relation/"
+id: "result-033"
+result_id: "result-033"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The Koide relation Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3
-  is derived at −9 ppm from the σ-equivariant mass matrix.
-canonical_books: ["IV"]
+summary_short: "The Koide relation Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3 is derived at −9 ppm from the σ-equivariant mass matrix."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Koide relation Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3 
 ## Result Statement
 
 IV.T143: Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3 from σ-equivariant mass matrix, at −9 ppm.
-

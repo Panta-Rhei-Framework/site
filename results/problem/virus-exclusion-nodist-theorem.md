@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Virus Exclusion: NoDist Theorem (3/5 Distinction Conditions Fail)'
-permalink: /results/problem/virus-exclusion-nodist-theorem/
-result_id: result-071
+layout: "result-page"
+title: "Virus Exclusion: NoDist Theorem (3/5 Distinction Conditions Fail)"
+permalink: "/results/problem/virus-exclusion-nodist-theorem/"
+id: "result-071"
+result_id: "result-071"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: 'Viruses are structurally excluded from the living category: the NoDist
-  Theorem proves that viruses outside a host fail 3 of the 5 τ-Distinction conditions.'
-canonical_books: ["VI"]
+summary_short: "Viruses are structurally excluded from the living category: the NoDist Theorem proves that viruses outside a host fail 3 of the 5 τ-Distinction conditions."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -56,4 +60,3 @@ Open problem VI.OP12 (Are viruses alive?) is SOLVED.
 ## Result Statement
 
 VI.T15: Virus outside host fails 3/5 τ-Distinction conditions (D1 partial, D2, D3, D5 fail; D4 passes). τ-Distinction requires all 5; viruses are structurally excluded from the living category. VI.OP12 SOLVED.
-

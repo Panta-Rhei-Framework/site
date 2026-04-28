@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Neutron Lifetime Puzzle"
-permalink: /results/problem/neutron-lifetime-puzzle/
-result_id: result-162
-problem_ledger_ids: ["phys-neutron-lifetime-puzzle"]
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+permalink: "/results/problem/neutron-lifetime-puzzle/"
+id: "result-162"
+result_id: "result-162"
+problem_ledger_ids:
+  - "phys-neutron-lifetime-puzzle"
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "NUC"
 summary_short: "The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework internally addresses this by deriving the neutron lifetime fro…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

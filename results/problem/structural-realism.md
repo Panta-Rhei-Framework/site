@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Structural Realism"
-permalink: /results/problem/structural-realism/
-result_id: result-139
+permalink: "/results/problem/structural-realism/"
+id: "result-139"
+result_id: "result-139"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "ONT"
 summary_short: "Structural realism holds that science describes the structure of reality, not its intrinsic nature. The τ-framework provides a precise version: reality is relat…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

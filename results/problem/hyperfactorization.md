@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Hyperfactorization"
-permalink: /results/problem/hyperfactorization/
-result_id: result-086
+permalink: "/results/problem/hyperfactorization/"
+id: "result-086"
+result_id: "result-086"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "COORD"
 summary_short: "Hyperfactorization is a foundational math in the COORD domain."
-canonical_books: ["I"]
+canonical_books:
+  - "I"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

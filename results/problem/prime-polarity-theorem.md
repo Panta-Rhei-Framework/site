@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Prime Polarity: Primes as Finite Witnesses of Infinity'
-permalink: /results/problem/prime-polarity-theorem/
-result_id: result-003
+layout: "result-page"
+title: "Prime Polarity: Primes as Finite Witnesses of Infinity"
+permalink: "/results/problem/prime-polarity-theorem/"
+id: "result-003"
+result_id: "result-003"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: Every prime carries a canonical bipolar polarization via γ/η dominance,
-  rooting all local-global gluing in τ.
-canonical_books: ["I"]
+summary_short: "Every prime carries a canonical bipolar polarization via γ/η dominance, rooting all local-global gluing in τ."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The τ-index set τ-Idx consists of primes organised by their ρ-orbit positions
 ## Result Statement
 
 Every prime p ∈ τ-Idx carries a canonical bipolar polarization via γ/η dominance (I.T05, Hinge Theorem 2). This is the root of all local-global gluing in τ and provable in ZFC.
-

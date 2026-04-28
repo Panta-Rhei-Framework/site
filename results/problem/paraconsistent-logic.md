@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Paraconsistent Logic"
-permalink: /results/problem/paraconsistent-logic/
-result_id: result-147
+permalink: "/results/problem/paraconsistent-logic/"
+id: "result-147"
+result_id: "result-147"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "LOGIC"
 summary_short: "Classical logic assumes the law of excluded middle. The τ-framework derives four truth values (T, F, B, N) from polarity stabilization, yielding a paraconsisten…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

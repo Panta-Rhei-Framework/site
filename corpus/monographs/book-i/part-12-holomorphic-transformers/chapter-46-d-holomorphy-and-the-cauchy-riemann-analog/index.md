@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 46: D-Holomorphy and the Cauchy–Riemann Analog"
-permalink: /corpus/monographs/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 12
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 45: Boolean Recovery and the Subobject Classifier P
 next_chapter_url: "/corpus/monographs/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/"
 next_chapter_title: "Chapter 47: Tower Coherence and τ"
 summary_short: "Chapter [ch:split-complex-scalars] earned the split-complex scalar ring ℤ_τ[j] (Definition [def:split-complex], I.D20), and Chapter [ch:bipolar-algebra]…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-12-holomorphic-transformers/
+canonical_part_url: "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
 canonical_part_title: "Part XII: Holomorphic Transformers"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XII: Holomorphic Transformers"
-    url: /corpus/monographs/book-i/part-12-holomorphic-transformers/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XII: Holomorphic Transformers"
+      url: "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 the relevant chapter earned the
 split-complex scalar ring

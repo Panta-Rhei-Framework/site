@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Emotions as Register Transitions"
-permalink: /results/problem/emotions-as-register-transitions/
-result_id: result-215
+permalink: "/results/problem/emotions-as-register-transitions/"
+id: "result-215"
+result_id: "result-215"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "MIND"
 summary_short: "What are emotions? The τ-framework derives six canonical emotions from register transitions in the mind topos. Affect is subsymbolic pressure; emotions are…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

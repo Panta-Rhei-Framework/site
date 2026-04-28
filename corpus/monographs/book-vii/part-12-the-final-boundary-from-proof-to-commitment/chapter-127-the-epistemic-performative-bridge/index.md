@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 127: The Epistemic→Performative Bridge"
-permalink: /corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 12
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 126: No Forced Stance By Theorem"
 next_chapter_url: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/"
 next_chapter_title: "Chapter 128: The Series Closing Line"
 summary_short: "Three registers tell; one demands doing. The epistemic registers— ℝeg_E (empirical), ℝeg_P (practical), ℝeg_D (diagrammatic)—deliver propositional…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/
+canonical_part_url: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
 canonical_part_title: "Part XII: The Final Boundary: From Proof to Commitment"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part XII: The Final Boundary: From Proof to Commitment"
-    url: /corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part XII: The Final Boundary: From Proof to Commitment"
+      url: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part XII"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Three registers tell; one demands doing. The epistemic registers—
 ℝeg_E (empirical), ℝeg_P (practical), ℝeg_D

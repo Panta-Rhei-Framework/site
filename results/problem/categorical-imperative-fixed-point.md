@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: The Categorical Imperative Is the Unique j-Closed Fixed Point
-permalink: /results/problem/categorical-imperative-fixed-point/
-result_id: result-023
+layout: "result-page"
+title: "The Categorical Imperative Is the Unique j-Closed Fixed Point"
+permalink: "/results/problem/categorical-imperative-fixed-point/"
+id: "result-023"
+result_id: "result-023"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Ethics"
-summary_short: Kant's Categorical Imperative is proven to be the unique j-closed fixed
-  point of the τ-digestion operator — ethics derived, not postulated.
-canonical_books: ["VII"]
+summary_short: "Kant's Categorical Imperative is proven to be the unique j-closed fixed point of the τ-digestion operator — ethics derived, not postulated."
+canonical_books:
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Metaphysics
-    topic: Philosophy
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Metaphysics"
+    topic: "Philosophy"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Categorical_imperative"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ Kant's Categorical Imperative ('Act only according to that maxim whereby you can
 ## Result Statement
 
 VII.T35: The CI is a j-closed fixed point: j_dig(CI) = CI. Stage CI (VII.P21): The minimal j-closed fixed point is unique by Knaster-Tarski. The CI is not a cultural convention but a structural necessity at E₃.
-

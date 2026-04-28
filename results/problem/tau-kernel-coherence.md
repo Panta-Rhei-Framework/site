@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'The τ-Coherence Kernel: Seven Axioms on Five Generators'
-permalink: /results/problem/tau-kernel-coherence/
-result_id: result-001
+layout: "result-page"
+title: "The τ-Coherence Kernel: Seven Axioms on Five Generators"
+permalink: "/results/problem/tau-kernel-coherence/"
+id: "result-001"
+result_id: "result-001"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Foundations"
-summary_short: Category τ is uniquely determined by seven axioms K0–K6 on five generators
-  and one operator. The static kernel has a unique model up to isomorphism.
-canonical_books: ["I"]
+summary_short: "Category τ is uniquely determined by seven axioms K0–K6 on five generators and one operator. The static kernel has a unique model up to isomorphism."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Seven axioms K0–K6 govern the static kernel τ₀ built from five generators {
 ## Result Statement
 
 Category τ is uniquely determined by seven axioms K0–K6 on five generators {α, π, γ, η, ω} and one operator ρ. The static kernel τ₀ has a unique model up to isomorphism (Categoricity Theorem I.T08) and the generator count |Gen| = 5 is uniquely forced by completeness, rigidity, and saturation (Minimal Alphabet I.T11).
-

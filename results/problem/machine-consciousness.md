@@ -1,27 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Machine Consciousness"
-permalink: /results/problem/machine-consciousness/
-result_id: result-082
+permalink: "/results/problem/machine-consciousness/"
+id: "result-082"
+result_id: "result-082"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: P
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "P"
 domain_group: "Mind / AI"
 summary_short: "Keep typed as partial."
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Metaphysics
-    topic: Philosophy
+    layer: "Metaphysics"
+    topic: "Philosophy"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Artificial_consciousness"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 Can machines be conscious? This question has moved from philosophy to engineering as large language models, autonomous systems, and neuromorphic hardware approach behavioral thresholds that blur classical distinctions between "simulation" and "instantiation."

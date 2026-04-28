@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain'
-permalink: /results/problem/canonical-ladder-theorem/
-result_id: result-006
+layout: "result-page"
+title: "Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain"
+permalink: "/results/problem/canonical-ladder-theorem/"
+id: "result-006"
+result_id: "result-006"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Enriched Category Theory"
-summary_short: The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal chain;
-  it terminates at E₃ with no possible E₄.
-canonical_books: ["III"]
+summary_short: "The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal chain; it terminates at E₃ with no possible E₄."
+canonical_books:
+  - "III"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The enrichment sequence begins at E₀ (pure categorical logic, Book I content),
 ## Result Statement
 
 The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal enrichment chain (III.T04). Each layer is non-empty, strict, and canonical. Saturation: Enrich(E₃) = E₃ (VII.T06), so there is no E₄.
-

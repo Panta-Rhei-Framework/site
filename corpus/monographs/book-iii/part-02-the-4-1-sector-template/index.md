@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part II: The 4+1 Sector Template"
-permalink: /corpus/monographs/book-iii/part-02-the-4-1-sector-template/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-02-the-4-1-sector-template/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 2
@@ -15,26 +15,32 @@ part_display: "Part II"
 part_slug: "part-02-the-4-1-sector-template"
 chapter_count: 5
 summary_short: "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of τ induce four primitive sectors (α, π, γ, η) plus…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-02-the-4-1-sector-template/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book III"
     layer: "E₀ Mathematics (Hinge)"
     chapters: "5"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The organisational blueprint for all downstream books is *derived*, not assumed.
 The five generators of τ induce four primitive sectors (α, π, γ, η)

@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Number Tower N → Z → Q → R → C"
-permalink: /results/problem/number-tower-n-z-q-r-c/
-result_id: result-234
+permalink: "/results/problem/number-tower-n-z-q-r-c/"
+id: "result-234"
+result_id: "result-234"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "ALGT"
 summary_short: "The classical number tower (naturals → integers → rationals → reals → complex) is earned step by step inside Category τ. Each extension is forced by the ke…"
-canonical_books: ["I"]
+canonical_books:
+  - "I"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

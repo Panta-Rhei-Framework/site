@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Moral Realism Derived"
-permalink: /results/problem/moral-realism-derived/
-result_id: result-212
+permalink: "/results/problem/moral-realism-derived/"
+id: "result-212"
+result_id: "result-212"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "ETHICS"
 summary_short: "Is morality objective? The τ-framework derives moral realism: dignity as label-independence is a structural invariant, not a convention. The universality t…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Last Universal Common Ancestor (LUCA): Root of the Tree as Persistence Sector"
-permalink: /results/problem/last-universal-common-ancestor/
-result_id: result-254
-problem_ledger_ids: ["life-biology-last-universal-common-ancestor"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+permalink: "/results/problem/last-universal-common-ancestor/"
+id: "result-254"
+result_id: "result-254"
+problem_ledger_ids:
+  - "life-biology-last-universal-common-ancestor"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "EVOL"
 summary_short: "LUCA is characterized in the τ-framework as an anaerobic autotroph in the persistence sector (S_α), consistent with the ~355-gene reconstructed genome and the Wood–Ljungdahl carbon-fixation pathway. The divergence of Bacteria marks the first sector transition (persistence → agency) — the earliest structural bifurcation in the history of life."
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

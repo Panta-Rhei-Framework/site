@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Fourth Quadrant Framework Account: QM and GR Unified in τ'
-permalink: /results/problem/fourth-quadrant-resolution/
-result_id: result-029
+layout: "result-page"
+title: "Fourth Quadrant Framework Account: QM and GR Unified in τ"
+permalink: "/results/problem/fourth-quadrant-resolution/"
+id: "result-029"
+result_id: "result-029"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: 'The Unification Obstruction (II.T45) is bypassed: QM and GR coexist
-  in the τ³ fibration as fiber (T²) and base (τ¹) structures respectively.'
-canonical_books: ["I"]
+summary_short: "The Unification Obstruction (II.T45) is bypassed: QM and GR coexist in the τ³ fibration as fiber (T²) and base (τ¹) structures respectively."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The unification of quantum mechanics and general relativity is the central unsol
 ## Result Statement
 
 II.T46: The Unification Obstruction (II.T45) is bypassed. QM lives on fiber T², GR lives on base τ¹; the fibered product τ³ = τ¹ ×_f T² contains both consistently. No 'quantum gravity' theory is needed.
-

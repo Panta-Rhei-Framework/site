@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Glueballs: Mass Gap = Minimum Glueball Mass'
-permalink: /results/problem/glueballs/
-result_id: result-247
-problem_ledger_ids: ["phys-glueballs"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Glueballs: Mass Gap = Minimum Glueball Mass"
+permalink: "/results/problem/glueballs/"
+id: "result-247"
+result_id: "result-247"
+problem_ledger_ids:
+  - "phys-glueballs"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Glueballs are color-neutral excitations above the strong-sector vacuum with no quark content (IV.D201). The Yang-Mills mass gap δ∞^s > 0 (IV.T75) IS the minimum glueball mass; lattice QCD prediction ~1.5-1.7 GeV with J^PC = 0⁺⁺ follows from the gap structure.'
-canonical_books: ["IV"]
+summary_short: "Glueballs are color-neutral excitations above the strong-sector vacuum with no quark content (IV.D201). The Yang-Mills mass gap δ∞^s > 0 (IV.T75) IS the minimum glueball mass; lattice QCD prediction ~1.5-1.7 GeV with J^PC = 0⁺⁺ follows from the gap structure."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Substrate Abstraction: The 5+3 Life Conditions Are Substrate-Free'
-permalink: /results/problem/substrate-abstraction/
-result_id: result-020
+layout: "result-page"
+title: "Substrate Abstraction: The 5+3 Life Conditions Are Substrate-Free"
+permalink: "/results/problem/substrate-abstraction/"
+id: "result-020"
+result_id: "result-020"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "R"
 domain_group: "Life Definition"
-summary_short: The 5 τ-Distinction and 3 SelfDesc conditions are jointly necessary
-  and sufficient for life, with no mention of any physical substrate.
-canonical_books: ["VI"]
+summary_short: "The 5 τ-Distinction and 3 SelfDesc conditions are jointly necessary and sufficient for life, with no mention of any physical substrate."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Orthodox biology defines life through a list of properties (metabolism, reproduc
 ## Result Statement
 
 VI.T50: The 5 conditions of τ-Distinction and 3 conditions of SelfDesc are jointly necessary and sufficient for life, and neither condition mentions a specific physical substrate. Carbon, silicon, or any other carrier that satisfies the predicate counts as alive.
-

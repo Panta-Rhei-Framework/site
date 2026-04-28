@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 26: The τ-Higgs Mechanism"
-permalink: /corpus/monographs/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 25: Electroweak Mixing"
 next_chapter_url: "/corpus/monographs/book-iv/part-03-the-electroweak-arc/chapter-27-the-weinberg-angle-and-cf-encodings/"
 next_chapter_title: "Chapter 27: The Weinberg Angle and CF Encodings"
 summary_short: "The 125 GeV resonance discovered at the LHC in 2012 is real. But what IS it? The Standard Model says: a fundamental scalar field that gives mass to everything.…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-03-the-electroweak-arc/
+canonical_part_url: "/corpus/monographs/book-iv/part-03-the-electroweak-arc/"
 canonical_part_title: "Part III: The Electroweak Arc"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part III: The Electroweak Arc"
-    url: /corpus/monographs/book-iv/part-03-the-electroweak-arc/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part III: The Electroweak Arc"
+      url: "/corpus/monographs/book-iv/part-03-the-electroweak-arc/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part III"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The 125 GeV resonance discovered at the LHC in 2012 is real. But
 what IS it? The Standard Model says: a fundamental scalar field that

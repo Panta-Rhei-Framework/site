@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 41: Learning, Sleep, and the Brain"
-permalink: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-41-learning-sleep-and-the-brain/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-41-learning-sleep-and-the-brain/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 40: Sensation, Perception, and Neural Systems"
 next_chapter_url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc/"
 next_chapter_title: "Chapter 42: Identity Through Transformation: Ship of Theseus as SelfDesc"
 summary_short: "Learning is the PPAS algorithm operating on neural connection weights via synaptic plasticity (Hebbian learning, LTP, LTD), instantiating P vs NP at the…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
+canonical_part_url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
 canonical_part_title: "Part VI: Consumer — Animals and the Mixed Sector"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-41-learning-sleep-and-the-brain/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-41-learning-sleep-and-the-brain/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VI: Consumer — Animals and the Mixed Sector"
-    url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VI: Consumer — Animals and the Mixed Sector"
+      url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VI"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Learning is the PPAS algorithm operating on neural connection weights via synaptic plasticity (Hebbian learning, LTP, LTD), instantiating P vs NP at the cognitive level. Memory consolidation transfers labile representations from hippocampus to neocortex, stabilizing successful prover approximations. The sleep/wake cycle is reinterpreted as the temporal lemniscate's two lobes, where circadian rhythm (Part II) meets neural computation (Part VI) and sleep serves memory consolidation and synaptic homeostasis. The brain—the consumer sector's computational organ—is the most complex structure in the known universe.

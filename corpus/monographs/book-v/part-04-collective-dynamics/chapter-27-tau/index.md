@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 27: τ"
-permalink: /corpus/monographs/book-v/part-04-collective-dynamics/chapter-27-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-27-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 26: Charge as Boundary Obstruction: No Isolated τ"
 next_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-28-tau/"
 next_chapter_title: "Chapter 28: τ"
 summary_short: "A plasma is a state of matter in which charge carriers—ions and electrons—are free to move independently. In Category τ, plasma is a *boundary-obstruction…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-04-collective-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
 canonical_part_title: "Part IV: Collective Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-04-collective-dynamics/chapter-27-tau/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-27-tau/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part IV: Collective Dynamics"
-    url: /corpus/monographs/book-v/part-04-collective-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part IV: Collective Dynamics"
+      url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part IV"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 A plasma is a state of matter
 in which charge carriers—ions and electrons—are

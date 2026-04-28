@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Vacuum Catastrophe Framework Account"
-permalink: /results/problem/vacuum-catastrophe-resolution/
-result_id: result-165
+permalink: "/results/problem/vacuum-catastrophe-resolution/"
+id: "result-165"
+result_id: "result-165"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "FOUND"
 summary_short: "The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction and the observed cosmological constant — is often called the worst prediction in …"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "What do all the unknown proteins do?"
 permalink: "/program/research-agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-what-do-all-the-unknown-proteins-do"
 id: "life-biology-what-do-all-the-unknown-proteins-do"
 short_title: "What do all the unknown proteins do?"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-what-do-all-the-unknown-proteins-do"
-  mapped_from_source_entries:
-    - "wikipedia-biology-what-do-all-the-unknown-proteins-do"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "what-do-all-the-unknown-proteins-do"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "what-do-all-the-unknown-proteins-do"
-  - "general-biology"
-  - "biochemistry-and-cell-biology"
-  - "What do all the unknown proteins do?"
 url: "/program/research-agenda/problem-ledger/life/what-do-all-the-unknown-proteins-do/"
 results_mirror:
   exists: false

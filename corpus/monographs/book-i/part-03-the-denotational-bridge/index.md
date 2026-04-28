@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part III: The Denotational Bridge"
-permalink: /corpus/monographs/book-i/part-03-the-denotational-bridge/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-03-the-denotational-bridge/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "I"
 book_slug: "book-i"
 part_number: 3
@@ -15,26 +15,32 @@ part_display: "Part III"
 part_slug: "part-03-the-denotational-bridge"
 chapter_count: 6
 summary_short: "The ontic seal is in place. Every object of τ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-03-the-denotational-bridge/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book I"
     layer: "E₀ Mathematics"
     chapters: "6"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The ontic seal is in place.
 Every object of τ exists, is unique, and is rigid.

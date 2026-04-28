@@ -1,27 +1,34 @@
 ---
-
-layout: result-page
-title: 'Supersymmetry: Sector Exhaustion Rules Out Superpartners'
-permalink: /results/problem/supersymmetry-structurally-absent/
-result_id: result-245
-problem_ledger_ids: ["phys-supersymmetry"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Supersymmetry: Sector Exhaustion Rules Out Superpartners"
+permalink: "/results/problem/supersymmetry-structurally-absent/"
+id: "result-245"
+result_id: "result-245"
+problem_ledger_ids:
+  - "phys-supersymmetry"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Supersymmetry is not needed: the hierarchy problem is dissolved structurally, not dynamically (IV.R35, V.R245). No superpartners, no KK modes, no technicolor — there is no fundamental scalar to protect. LHC''s null result for SUSY validates the prediction.'
-canonical_books: ["IV", "V"]
+summary_short: "Supersymmetry is not needed: the hierarchy problem is dissolved structurally, not dynamically (IV.R35, V.R245). No superpartners, no KK modes, no technicolor — there is no fundamental scalar to protect. LHC's null result for SUSY validates the prediction."
+canonical_books:
+  - "IV"
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

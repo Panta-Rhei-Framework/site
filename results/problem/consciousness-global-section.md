@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: 'Consciousness Is a Global Section: Γ(Mind)'
-permalink: /results/problem/consciousness-global-section/
-result_id: result-025
-problem_ledger_ids: ["life-consciousness"]
-topic: philosophy
-layer: metaphysics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+layout: "result-page"
+title: "Consciousness Is a Global Section: Γ(Mind)"
+permalink: "/results/problem/consciousness-global-section/"
+id: "result-025"
+result_id: "result-025"
+problem_ledger_ids:
+  - "life-consciousness"
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "Mind"
-summary_short: Consciousness is a global section of the mind sheaf; binding is sheaf
-  gluing; CC1–CC3 are testable necessary and sufficient conditions.
-canonical_books: ["VII"]
+summary_short: "Consciousness is a global section of the mind sheaf; binding is sheaf gluing; CC1–CC3 are testable necessary and sufficient conditions."
+canonical_books:
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Metaphysics
-    topic: Philosophy
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Metaphysics"
+    topic: "Philosophy"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -44,4 +50,3 @@ VII.T41: Consciousness is a global section Γ(Mind) of the mind sheaf. Binding =
    registry_internal="VII.T41, VI.D86 (CC1–CC3)"
    registry_bridge="Qualia-as-morphisms (conjectural) + mind-sheaf-to-NCC/IIT mapping (open)"
 %}
-

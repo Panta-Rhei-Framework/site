@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: 'τ-Admissibility Collapse: P = NP Within τ'
-permalink: /results/problem/tau-admissibility-collapse-p-np/
-result_id: result-050
+layout: "result-page"
+title: "τ-Admissibility Collapse: P = NP Within τ"
+permalink: "/results/problem/tau-admissibility-collapse-p-np/"
+id: "result-050"
+result_id: "result-050"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: Q
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "Q"
 domain_group: "Millennium Problems"
-summary_short: 'Within Category τ, P = NP: the τ-admissibility condition collapses
-  polynomial-time verifiability to polynomial-time solvability at E₂.'
-canonical_books: ["III"]
+summary_short: "Within Category τ, P = NP: the τ-admissibility condition collapses polynomial-time verifiability to polynomial-time solvability at E₂."
+canonical_books:
+  - "III"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/P_versus_NP_problem"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ The P vs. NP problem (Clay Millennium Problem) asks whether every problem whose 
 ## Result Statement
 
 III.T33: P = NP within Category τ (τ-admissibility collapse at E₂). Orthodox bridge: if NP problems embed in E₂-admissible τ-objects, then P = NP. Orthodox bridge conjectural.
-

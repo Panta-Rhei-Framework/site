@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: 'Free Will as Branching: Compatibilism Dissolved as Scale Confusion'
-permalink: /results/problem/free-will-as-branching/
-result_id: result-047
-problem_ledger_ids: ["life-biology-free-will", "life-neuroscience-free-will-particularly-the-neuroscience-of-free-will"]
-topic: philosophy
-layer: metaphysics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Free Will as Branching: Compatibilism Dissolved as Scale Confusion"
+permalink: "/results/problem/free-will-as-branching/"
+id: "result-047"
+result_id: "result-047"
+problem_ledger_ids:
+  - "life-biology-free-will"
+  - "life-neuroscience-free-will-particularly-the-neuroscience-of-free-will"
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Philosophy"
-summary_short: Free will is defined as branching at E₂-level ρ-orbit choice; the free
-  will vs. determinism debate is dissolved as a confusion of enrichment levels.
-canonical_books: ["VII"]
+summary_short: "Free will is defined as branching at E₂-level ρ-orbit choice; the free will vs. determinism debate is dissolved as a confusion of enrichment levels."
+canonical_books:
+  - "VII"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Metaphysics
-    topic: Philosophy
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Metaphysics"
+    topic: "Philosophy"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +42,3 @@ The free will vs. determinism debate is one of the oldest problems in philosophy
 ## Result Statement
 
 VII.T43: Free will = E₂-level branching in the self-model. Determinism = E₁-level dynamics. The debate is dissolved as scale confusion. Compatibilism is right but for the wrong reason.
-

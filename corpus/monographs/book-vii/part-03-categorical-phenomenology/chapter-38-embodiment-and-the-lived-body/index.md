@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 38: Embodiment and the Lived Body"
-permalink: /corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 3
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 37: Intersubjectivity"
 next_chapter_url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/chapter-39-the-ontology-epistemology-dissolution/"
 next_chapter_title: "Chapter 39: The Ontology-Epistemology Dissolution"
 summary_short: "The lived body (*Leib*) is not a container for the mind but the carrier's self-referential boundary—the interface through which an E₃ observer engages the…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-03-categorical-phenomenology/
+canonical_part_url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
 canonical_part_title: "Part III: Categorical Phenomenology"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part III: Categorical Phenomenology"
-    url: /corpus/monographs/book-vii/part-03-categorical-phenomenology/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part III: Categorical Phenomenology"
+      url: "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part III"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The lived body (*Leib*) is not a container for the mind but
 the carrier's self-referential boundary—the interface through which

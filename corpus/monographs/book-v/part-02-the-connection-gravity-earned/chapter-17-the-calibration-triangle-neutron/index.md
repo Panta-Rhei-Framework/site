@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 17: The Calibration Triangle: Neutron →"
-permalink: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 2
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 16: TOV Phase Boundary and Forced Topology Relaxati
 next_chapter_url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/chapter-18-the-gravitational-closing-identity/"
 next_chapter_title: "Chapter 18: The Gravitational Closing Identity"
 summary_short: "Book IV established a single calibration anchor: the neutron mass m_n. From this one experimental input, the entire microphysical world was derived—electron…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/
+canonical_part_url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
 canonical_part_title: "Part II: The Connection: Gravity Earned"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part II: The Connection: Gravity Earned"
-    url: /corpus/monographs/book-v/part-02-the-connection-gravity-earned/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part II: The Connection: Gravity Earned"
+      url: "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part II"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Book IV established a single calibration anchor:
 the neutron mass m_n.

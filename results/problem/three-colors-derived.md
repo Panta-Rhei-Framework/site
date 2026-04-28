@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Exactly Three Colors: N_c = 3 from Primorial Depth'
-permalink: /results/problem/three-colors-derived/
-result_id: result-013
+layout: "result-page"
+title: "Exactly Three Colors: N_c = 3 from Primorial Depth"
+permalink: "/results/problem/three-colors-derived/"
+id: "result-013"
+result_id: "result-013"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The number of color charges N_c = 3 is derived from the primorial depth
-  d = 3 of the strong sector.
-canonical_books: ["IV"]
+summary_short: "The number of color charges N_c = 3 is derived from the primorial depth d = 3 of the strong sector."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The number of color charges N_c = 3 in QCD is an experimental observation with n
 ## Result Statement
 
 IV.T70: N_c = 3 from primorial depth d = 3. The strong sector operates at the third primorial level, forcing exactly three color charges.
-

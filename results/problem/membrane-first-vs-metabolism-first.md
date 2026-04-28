@@ -1,27 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Membrane-First vs Metabolism-First"
-permalink: /results/problem/membrane-first-vs-metabolism-first/
-result_id: result-075
+permalink: "/results/problem/membrane-first-vs-metabolism-first/"
+id: "result-075"
+result_id: "result-075"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Origin of Life"
 summary_short: "Clear origin-of-life debate and a good test of the program's explanatory power."
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Life
-    topic: Biology
+    layer: "Life"
+    topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 The origin of life debates have long been polarized between "membrane-first" and "metabolism-first" hypotheses. The membrane-first camp argues that compartmentalization was the essential first step; the metabolism-first camp argues that autocatalytic chemical cycles preceded enclosure.

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part I: The Life Definition"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -15,26 +15,32 @@ part_display: "Part I"
 part_slug: "part-01-the-life-definition"
 chapter_count: 9
 summary_short: "All formal machinery in one Part. The **Parity Bridge Theorem** identifies the weak sector's unique parity violation as the sole polarity seed for…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "9"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 All formal machinery in one Part. The **Parity Bridge Theorem** identifies the weak sector's
 unique parity violation as the sole polarity seed for self/non-self distinction.

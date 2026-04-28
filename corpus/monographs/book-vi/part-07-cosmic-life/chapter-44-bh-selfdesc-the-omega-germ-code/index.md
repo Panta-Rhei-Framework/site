@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 44: BH SelfDesc: The ω-Germ Code"
-permalink: /corpus/monographs/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 7
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 43: The BH Carrier and Its Canonical Distinction"
 next_chapter_url: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-45-bh-as-omega-representatives-and-the-lift/"
 next_chapter_title: "Chapter 45: BH as ω-Representatives and the Lift"
 summary_short: "The BH SelfDesc theorem is established by defining the evaluator Eval^BH via DecodeTarget(B_n) and DecodeHorizon(B_n). Uniqueness and constancy lemmas…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-07-cosmic-life/
+canonical_part_url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
 canonical_part_title: "Part VII: Cosmic Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VII: Cosmic Life"
-    url: /corpus/monographs/book-vi/part-07-cosmic-life/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VII: Cosmic Life"
+      url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VII"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The BH SelfDesc theorem is established by defining the evaluator Eval^BH via DecodeTarget(B_n) and DecodeHorizon(B_n). Uniqueness and constancy lemmas guarantee that these decoders select a unique element and remain independent of the blueprint ball radius. The BH SelfDesc Theorem verifies completeness, internality, and refinement coherence for the macro-torus carrier. Every black hole carries a well-defined ω-germ code code(D^BH)[ω]—the BH's "genome."

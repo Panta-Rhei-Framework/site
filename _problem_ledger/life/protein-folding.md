@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Protein folding"
 permalink: "/program/research-agenda/problem-ledger/life/protein-folding/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-protein-folding"
 id: "life-biology-protein-folding"
 short_title: "Protein folding"
@@ -196,15 +196,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-protein-folding"
-  mapped_from_source_entries:
-    - "wikipedia-biology-protein-folding"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -216,13 +207,6 @@ tags:
   - "protein-folding"
   - "general-biology"
   - "biochemistry-and-cell-biology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "protein-folding"
-  - "general-biology"
-  - "biochemistry-and-cell-biology"
-  - "Protein folding"
 url: "/program/research-agenda/problem-ledger/life/protein-folding/"
 results_mirror:
   exists: false

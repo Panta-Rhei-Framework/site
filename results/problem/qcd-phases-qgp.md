@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'QCD Phases: Quark-Gluon Plasma as High-Temperature Confinement'
-permalink: /results/problem/qcd-phases-qgp/
-result_id: result-249
+layout: "result-page"
+title: "QCD Phases: Quark-Gluon Plasma as High-Temperature Confinement"
+permalink: "/results/problem/qcd-phases-qgp/"
+id: "result-249"
+result_id: "result-249"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Quark-gluon plasma is not deconfined: in τ, QGP is a state where the confinement scale exceeds the mean inter-quark distance (V.R151). QCD phase transitions are governed by defect-tuple inequality crossings (Book IV ch53); the B+C sector transition maps to the QCD deconfinement universality class (IV.R177).'
-canonical_books: ["IV", "V"]
+summary_short: "Quark-gluon plasma is not deconfined: in τ, QGP is a state where the confinement scale exceeds the mean inter-quark distance (V.R151). QCD phase transitions are governed by defect-tuple inequality crossings (Book IV ch53); the B+C sector transition maps to the QCD deconfinement universality class (IV.R177)."
+canonical_books:
+  - "IV"
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

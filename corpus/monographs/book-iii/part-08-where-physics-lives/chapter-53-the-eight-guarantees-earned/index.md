@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 53: The Eight Guarantees Earned"
-permalink: /corpus/monographs/book-iii/part-08-where-physics-lives/chapter-53-the-eight-guarantees-earned/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-08-where-physics-lives/chapter-53-the-eight-guarantees-earned/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 8
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 52: No Knobs and One Diagram"
 next_chapter_url: "/corpus/monographs/book-iii/part-08-where-physics-lives/chapter-54-the-global-cartesian-gluing/"
 next_chapter_title: "Chapter 54: The Global Cartesian Gluing"
 summary_short: "Chapter 2 previewed eight guarantees—one from each of the seven Clay Millennium Problems and one from the Langlands programme—that local Hartogs bulk…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-canonical_part_url: /corpus/monographs/book-iii/part-08-where-physics-lives/
+canonical_part_url: "/corpus/monographs/book-iii/part-08-where-physics-lives/"
 canonical_part_title: "Part VIII: Where Physics Lives"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-08-where-physics-lives/chapter-53-the-eight-guarantees-earned/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-08-where-physics-lives/chapter-53-the-eight-guarantees-earned/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Part VIII: Where Physics Lives"
-    url: /corpus/monographs/book-iii/part-08-where-physics-lives/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Part VIII: Where Physics Lives"
+      url: "/corpus/monographs/book-iii/part-08-where-physics-lives/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book III"
     part: "Part VIII"
     layer: "E₀ Mathematics (Hinge)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapter 2 previewed eight guarantees—one from each of the seven Clay Millennium
 Problems and one from the Langlands programme—that local Hartogs bulk projections

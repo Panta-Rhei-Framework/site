@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: 'Yang-Mills Mass Gap: δ∞^s > 0 Spectrally Isolated'
-permalink: /results/problem/yang-mills-mass-gap/
-result_id: result-036
+layout: "result-page"
+title: "Yang-Mills Mass Gap: δ∞^s > 0 Spectrally Isolated"
+permalink: "/results/problem/yang-mills-mass-gap/"
+id: "result-036"
+result_id: "result-036"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "Millennium Problems"
-summary_short: The τ-Yang-Mills spectral gap δ∞^s > 0 is derived; the orthodox Yang-Mills
-  mass gap problem is addressed via the Master Schema bridge.
-canonical_books: ["III", "IV"]
+summary_short: "The τ-Yang-Mills spectral gap δ∞^s > 0 is derived; the orthodox Yang-Mills mass gap problem is addressed via the Master Schema bridge."
+canonical_books:
+  - "III"
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -44,4 +50,3 @@ IV.T75 + III.T27: The τ-Yang-Mills Hamiltonian has spectral gap δ∞^s > 0 (IV
    registry_internal="IV.T75"
    registry_bridge="III.T27 (Master Schema instance at E₁)"
 %}
-

@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Musical Universals"
-permalink: /results/problem/musical-universals/
-result_id: result-207
+permalink: "/results/problem/musical-universals/"
+id: "result-207"
+result_id: "result-207"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "AEST"
 summary_short: "Why are certain musical intervals (octave, fifth, fourth) universal across cultures? The τ-framework derives consonance as ratio invariance: consonant inte…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

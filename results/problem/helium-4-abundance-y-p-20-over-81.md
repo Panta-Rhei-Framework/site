@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck
-permalink: /results/problem/helium-4-abundance-y-p-20-over-81/
-result_id: result-064
+layout: "result-page"
+title: "Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck"
+permalink: "/results/problem/helium-4-abundance-y-p-20-over-81/"
+id: "result-064"
+result_id: "result-064"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The primordial helium-4 mass fraction Y_p = 20/81 ≈ 0.24691 is derived
-  at 0.43σ from the Planck+BBN value 0.2449 ± 0.0040.
-canonical_books: ["V"]
+summary_short: "The primordial helium-4 mass fraction Y_p = 20/81 ≈ 0.24691 is derived at 0.43σ from the Planck+BBN value 0.2449 ± 0.0040."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ The 0.43σ agreement is notable because it is the second-best agreement with Pla
 ## Result Statement
 
 V.P112: Y_p = 20/81 = 0.24691 at 0.43σ from Planck 0.2449 ± 0.0040. Derived from τ-BBN chain: ι<sub>τ</sub> → η_B → n/p freeze-out → helium synthesis. Exact rational fraction.
-

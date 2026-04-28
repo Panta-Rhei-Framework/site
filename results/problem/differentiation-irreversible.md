@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Differentiation Is Irreversible: Waddington Descent Monotone'
-permalink: /results/problem/differentiation-irreversible/
-result_id: result-043
+layout: "result-page"
+title: "Differentiation Is Irreversible: Waddington Descent Monotone"
+permalink: "/results/problem/differentiation-irreversible/"
+id: "result-043"
+result_id: "result-043"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: 'Cellular differentiation is provably irreversible: the Waddington
-  descent function is a monotone that cannot increase.'
-canonical_books: ["VI"]
+summary_short: "Cellular differentiation is provably irreversible: the Waddington descent function is a monotone that cannot increase."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Waddington's epigenetic landscape is a visual metaphor for cell differentiation:
 ## Result Statement
 
 VI.T47: The Waddington descent function W(c) is a monotone dW/dt ≤ 0 — differentiation is irreversible from categorical principles.
-

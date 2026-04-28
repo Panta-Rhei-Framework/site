@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "No Hawking Radiation"
-permalink: /results/problem/no-hawking-radiation/
-result_id: result-114
+permalink: "/results/problem/no-hawking-radiation/"
+id: "result-114"
+result_id: "result-114"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: consequence
-bridge_status: contradicted
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: C
+topic: "physics"
+layer: "physics"
+result_type: "consequence"
+bridge_status: "contradicted"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "C"
 domain_group: "BH"
 summary_short: "The τ-framework predicts that black holes do not evaporate via Hawking radiation. The boundary structure of τ³ does not support the semi-classical pair-creation…"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Physics"
     topic: "Physics"
     status: "Contradicted"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

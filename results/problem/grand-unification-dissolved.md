@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Grand Unification: Why Eight Decades of Unification Failed'
-permalink: /results/problem/grand-unification-dissolved/
-result_id: result-244
-problem_ledger_ids: ["phys-grand-unification"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Grand Unification: Why Eight Decades of Unification Failed"
+permalink: "/results/problem/grand-unification-dissolved/"
+id: "result-244"
+result_id: "result-244"
+problem_ledger_ids:
+  - "phys-grand-unification"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'The GUT program (SU(5), SO(10), etc.) failed because it rests on manifold ontology. The Boundary Unification Principle (V.R245) replaces gauge-group embedding with algebra projection — no larger gauge group, no extra dimensions, no new particles. Baryogenesis threshold at 10¹² GeV (V.P133) sits naturally without GUT-scale unification.'
-canonical_books: ["V"]
+summary_short: "The GUT program (SU(5), SO(10), etc.) failed because it rests on manifold ontology. The Boundary Unification Principle (V.R245) replaces gauge-group embedding with algebra projection — no larger gauge group, no extra dimensions, no new particles. Baryogenesis threshold at 10¹² GeV (V.P133) sits naturally without GUT-scale unification."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

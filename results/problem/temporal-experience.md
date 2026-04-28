@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Temporal Experience"
-permalink: /results/problem/temporal-experience/
-result_id: result-141
+permalink: "/results/problem/temporal-experience/"
+id: "result-141"
+result_id: "result-141"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "PHEN"
 summary_short: "Why does time seem to flow? Why is the present special? The τ-framework derives temporal experience from the ρ-iteration structure: the 'now' is the current orb…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

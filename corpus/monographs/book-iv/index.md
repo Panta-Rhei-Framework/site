@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book IV: Categorical Microcosm"
-permalink: /corpus/monographs/book-iv/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "IV"
 book_slug: "book-iv"
 subtitle: "The Self-Describing Universe"
@@ -15,29 +15,39 @@ part_count: 9
 chapter_count: 73
 page_count: 479
 summary_short: "The Self-Describing Universe"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/"
 summary_cards:
-- title: Subtitle
-  body: "The Self-Describing Universe"
-- title: Structure
-  body: "9 parts, 73 chapters, 479 pages"
-- title: Layer
-  body: "E₁ Physics (Microcosm)"
+  -
+    title: "Subtitle"
+    body: "The Self-Describing Universe"
+  -
+    title: "Structure"
+    body: "9 parts, 73 chapters, 479 pages"
+  -
+    title: "Layer"
+    body: "E₁ Physics (Microcosm)"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₁ Physics (Microcosm)"
     parts: "9"
     chapters: "73"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

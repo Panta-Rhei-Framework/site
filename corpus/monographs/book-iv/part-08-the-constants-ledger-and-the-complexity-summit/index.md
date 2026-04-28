@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VIII: The Constants Ledger and the Complexity Summit"
-permalink: /corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 8
@@ -15,26 +15,32 @@ part_display: "Part VIII"
 part_slug: "part-08-the-constants-ledger-and-the-complexity-summit"
 chapter_count: 7
 summary_short: "Part VIII draws together every constant, every derivation, every structural theorem developed throughout Book IV. The complete coupling ledger (Chapter…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book IV"
     layer: "E₁ Physics (Microcosm)"
     chapters: "7"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VIII draws together every constant, every derivation,
 every structural theorem developed throughout Book IV.

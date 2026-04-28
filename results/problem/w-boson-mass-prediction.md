@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: W-Boson Mass Prediction at −0.5 ppm
-permalink: /results/problem/w-boson-mass-prediction/
-result_id: result-011
+layout: "result-page"
+title: "W-Boson Mass Prediction at −0.5 ppm"
+permalink: "/results/problem/w-boson-mass-prediction/"
+id: "result-011"
+result_id: "result-011"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Electroweak"
-summary_short: The W-boson mass is derived as M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²]
-  at −0.5 ppm from the PDG value.
-canonical_books: ["IV"]
+summary_short: "The W-boson mass is derived as M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²] at −0.5 ppm from the PDG value."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The W-boson mass M_W ≈ 80.377 GeV is one of the most precisely measured quanti
 ## Result Statement
 
 IV.T177: M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²] at −0.5 ppm from PDG value. Window Universality: W₃(4) = 5 governs this and all three EW NLO corrections.
-

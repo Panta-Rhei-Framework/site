@@ -1,29 +1,32 @@
 ---
-
-layout: result-page
-title: Proton Charge Radius r_p at +12 ppm (37× Improvement in Wave 46)
-permalink: /results/problem/proton-charge-radius-12-ppm/
-result_id: result-062
+layout: "result-page"
+title: "Proton Charge Radius r_p at +12 ppm (37× Improvement in Wave 46)"
+permalink: "/results/problem/proton-charge-radius-12-ppm/"
+id: "result-062"
+result_id: "result-062"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Nuclear Physics"
-summary_short: The proton charge radius r_p = 0.84088 fm is predicted at +12 ppm from
-  PRad-II/MUSE — a 37-fold improvement over the prior +450 ppm estimate achieved in
-  Wave 46.
-canonical_books: ["IV"]
+summary_short: "The proton charge radius r_p = 0.84088 fm is predicted at +12 ppm from PRad-II/MUSE — a 37-fold improvement over the prior +450 ppm estimate achieved in Wave 46."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -41,4 +44,3 @@ At +12 ppm this enters the sub-100 ppm tier — one of the most precise predicti
 ## Result Statement
 
 IV.T185: r_p = 0.84088 fm at +12 ppm from PDG 0.84075 fm. 37× improvement over prior +440 ppm in Wave 46 via NLO holonomy path-integral correction. Scope: conjectural (path-integral mechanism not yet formalized in Lean).
-

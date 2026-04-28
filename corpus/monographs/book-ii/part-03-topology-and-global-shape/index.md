@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part III: Topology and Global Shape"
-permalink: /corpus/monographs/book-ii/part-03-topology-and-global-shape/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-03-topology-and-global-shape/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 3
@@ -15,26 +15,32 @@ part_display: "Part III"
 part_slug: "part-03-topology-and-global-shape"
 chapter_count: 6
 summary_short: "Part III establishes the global topological shape of τ. Six chapters prove that τ is a Stone space, derive topology as an invariant of canonical…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-03-topology-and-global-shape/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book II"
     layer: "E₀ Mathematics"
     chapters: "6"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part III establishes the global topological shape of τ.
 Six chapters prove that τ is a Stone space, derive topology as

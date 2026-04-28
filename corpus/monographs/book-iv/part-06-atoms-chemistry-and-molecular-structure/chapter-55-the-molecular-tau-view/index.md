@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 55: The Molecular τ³ View"
-permalink: /corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-55-the-molecular-tau-view/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-55-the-molecular-tau-view/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 6
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 54: Biochemistry and Photochemistry"
 next_chapter_url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/"
 next_chapter_title: "Chapter 56: The Defect Functional and Fluid Regimes"
 summary_short: "Chemistry is not a separate science. It is τ² physics at the atomic and molecular scale. This chapter looks back over Part VI and distils its content into a…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/
+canonical_part_url: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
 canonical_part_title: "Part VI: Atoms, Chemistry, and Molecular Structure"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-55-the-molecular-tau-view/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-55-the-molecular-tau-view/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part VI: Atoms, Chemistry, and Molecular Structure"
-    url: /corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part VI: Atoms, Chemistry, and Molecular Structure"
+      url: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part VI"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chemistry is not a separate science. It is τ² physics at the
 atomic and molecular scale. This chapter looks back over Part VI and

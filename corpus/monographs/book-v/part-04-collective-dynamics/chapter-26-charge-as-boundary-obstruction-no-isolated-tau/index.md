@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 26: Charge as Boundary Obstruction: No Isolated τ"
-permalink: /corpus/monographs/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 25: Turbulence: Energy Cascades and Structural Rein
 next_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-27-tau/"
 next_chapter_title: "Chapter 27: τ"
 summary_short: "Chapters 27 and 28 developed the macro fluid framework using the base-projected defect tuple. That framework was neutral: no electric or color charge appeared.…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-04-collective-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
 canonical_part_title: "Part IV: Collective Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part IV: Collective Dynamics"
-    url: /corpus/monographs/book-v/part-04-collective-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part IV: Collective Dynamics"
+      url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part IV"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapters 27 and 28 developed
 the macro fluid framework

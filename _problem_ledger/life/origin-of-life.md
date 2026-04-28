@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Origin of Life"
 permalink: "/program/research-agenda/problem-ledger/life/origin-of-life/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-origin-of-life"
 id: "life-origin-of-life"
 short_title: "Origin of Life"
@@ -138,21 +138,6 @@ related:
     - "LREC-L4"
     - "LREC-L5"
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-origin-of-life"
-  mapped_from_source_entries:
-    - "wikipedia-biology-origin-of-life"
-    - "wikipedia-biology-how-does-life-arise-from-the-non-living"
-  merged_source_entries:
-    - "wikipedia-biology-origin-of-life"
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations:
-  -
-    problem_id: "phys-abiogenesis"
-    relation_type: "cross_domain_overlap"
-    rationale: "Life preserves Origin of Life as a biological/life-domain question; Physics preserves abiogenesis as a physical-process question."
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
@@ -163,12 +148,6 @@ tags:
   - "origin-of-life"
   - "abiogenesis"
   - "biology"
-search_keywords:
-  - "life"
-  - "origin-of-life"
-  - "abiogenesis"
-  - "biology"
-  - "Origin of Life"
 url: "/program/research-agenda/problem-ledger/life/origin-of-life/"
 results_mirror:
   exists: true

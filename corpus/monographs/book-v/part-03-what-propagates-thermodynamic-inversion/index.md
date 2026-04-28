@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part III: What Propagates: Thermodynamic Inversion"
-permalink: /corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "V"
 book_slug: "book-v"
 part_number: 3
@@ -15,26 +15,32 @@ part_display: "Part III"
 part_slug: "part-03-what-propagates-thermodynamic-inversion"
 chapter_count: 5
 summary_short: "Part III presents the most philosophically striking result in Book V: the orthodox second law is *inverted*. The arrow of time points toward *order*, not…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book V"
     layer: "E₁ Physics (Macrocosm)"
     chapters: "5"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part III presents the most philosophically striking result
 in Book V: the orthodox second law is *inverted*.

@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Rydberg Constant at Seven Significant Figures from τ
-permalink: /results/problem/rydberg-constant-seven-significant-figures/
-result_id: result-052
+layout: "result-page"
+title: "Rydberg Constant at Seven Significant Figures from τ"
+permalink: "/results/problem/rydberg-constant-seven-significant-figures/"
+id: "result-052"
+result_id: "result-052"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The Rydberg constant R_∞ is derived to seven significant figures —
-  at 0.026 ppm agreement with CODATA — from the τ-framework with zero free continuous parameters.
-canonical_books: ["IV"]
+summary_short: "The Rydberg constant R_∞ is derived to seven significant figures — at 0.026 ppm agreement with CODATA — from the τ-framework with zero free continuous parameters."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ At 0.026 ppm the Rydberg prediction is among the most precise in the framework �
 ## Result Statement
 
 IV.T86: Rydberg constant R_∞ derived to 7 significant figures at 0.026 ppm agreement with CODATA. Chain: ι<sub>τ</sub> → α → m_e → R_∞. Zero free parameters.
-

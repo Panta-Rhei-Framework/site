@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm'
-permalink: /results/problem/cabibbo-angle/
-result_id: result-034
+layout: "result-page"
+title: "Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm"
+permalink: "/results/problem/cabibbo-angle/"
+id: "result-034"
+result_id: "result-034"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The Cabibbo angle is derived as sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) = 0.22456...,
-  at −2327 ppm from the experimental value.
-canonical_books: ["IV"]
+summary_short: "The Cabibbo angle is derived as sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) = 0.22456..., at −2327 ppm from the experimental value."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Cabibbo angle θ_C ≈ 13.04° is the mixing angle between the first and sec
 ## Result Statement
 
 IV.T152: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm from PDG value.
-

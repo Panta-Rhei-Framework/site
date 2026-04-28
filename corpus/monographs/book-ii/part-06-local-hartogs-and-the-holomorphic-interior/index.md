@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VI: Local Hartogs and the Holomorphic Interior"
-permalink: /corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 6
@@ -15,26 +15,32 @@ part_display: "Part VI"
 part_slug: "part-06-local-hartogs-and-the-holomorphic-interior"
 chapter_count: 8
 summary_short: "Part VI is {pivotal}: split-complex holomorphy becomes load-bearing. Eight chapters build the Local Hartogs extension theory, prove the central…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book II"
     layer: "E₀ Mathematics"
     chapters: "8"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VI is **pivotal**: split-complex holomorphy becomes load-bearing.
 Eight chapters build the Local Hartogs extension theory, prove the central

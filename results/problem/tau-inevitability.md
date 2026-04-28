@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Inevitability: Six Ontic Requirements Force the τ-Kernel'
-permalink: /results/problem/tau-inevitability/
-result_id: result-026
+layout: "result-page"
+title: "Inevitability: Six Ontic Requirements Force the τ-Kernel"
+permalink: "/results/problem/tau-inevitability/"
+id: "result-026"
+result_id: "result-026"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: Six ontic requirements OR1–OR6 together force K0–K6 and 5 generators;
-  independence is proved by six counterexamples.
-canonical_books: ["I"]
+summary_short: "Six ontic requirements OR1–OR6 together force K0–K6 and 5 generators; independence is proved by six counterexamples."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ A foundational theory could be criticised for being an arbitrary choice of axiom
 ## Result Statement
 
 VII.T14: Six ontic requirements OR1–OR6 together force K₀–K₆ + 5 generators. Each requirement is independently necessary (6 counterexamples prove independence). The τ-kernel is not chosen but forced.
-

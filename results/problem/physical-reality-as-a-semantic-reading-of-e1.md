@@ -1,27 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Physical Reality as a Semantic Reading of E1"
-permalink: /results/problem/physical-reality-as-a-semantic-reading-of-e1/
-result_id: result-083
+permalink: "/results/problem/physical-reality-as-a-semantic-reading-of-e1/"
+id: "result-083"
+result_id: "result-083"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: consequence
-bridge_status: resolved
-result_kind: consequence
-importance_class: core-foundational-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "consequence"
+bridge_status: "resolved"
+result_kind: "consequence"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Cross-Stack"
 summary_short: "A major consequence/reframing page linking About-the-Framework to Results."
-canonical_books: ["III", "IV"]
+canonical_books:
+  - "III"
+  - "IV"
 right_rail:
   meta:
     type: "Consequence"
-    layer: Physics
-    topic: Physics
+    layer: "Physics"
+    topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 What is the relationship between mathematics and physics? The standard view treats physics as an empirical science that *uses* mathematics as a language. The Panta Rhei framework inverts this: physical reality is a *semantic reading* of the enrichment layer E₁.

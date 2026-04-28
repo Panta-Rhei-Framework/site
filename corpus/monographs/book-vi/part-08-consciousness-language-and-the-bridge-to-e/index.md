@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VIII: Consciousness, Language, and the Bridge to E₃"
-permalink: /corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 8
@@ -15,26 +15,32 @@ part_display: "Part VIII"
 part_slug: "part-08-consciousness-language-and-the-bridge-to-e"
 chapter_count: 3
 summary_short: "The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "3"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is
 defined structurally as the consumer sector's SelfDesc applied to its own modeling—not qualia

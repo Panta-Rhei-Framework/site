@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136
-permalink: /results/problem/tensor-to-scalar-ratio/
-result_id: result-014
+layout: "result-page"
+title: "Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136"
+permalink: "/results/problem/tensor-to-scalar-ratio/"
+id: "result-014"
+result_id: "result-014"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The CMB tensor-to-scalar ratio is derived as r = ι<sub>τ</sub>⁴ = 0.0136 — a
-  falsifiable prediction for CMB-S4 at ~14σ above the current upper bound.
-canonical_books: ["V"]
+summary_short: "The CMB tensor-to-scalar ratio is derived as r = ι<sub>τ</sub>⁴ = 0.0136 — a falsifiable prediction for CMB-S4 at ~14σ above the current upper bound."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The tensor-to-scalar ratio r measures the relative amplitude of primordial gravi
 ## Result Statement
 
 V.P136: r = ι<sub>τ</sub>⁴ = 0.0136, a falsifiable prediction for CMB-S4 (~14σ from current upper bound). This follows from the inflationary No-Go theorem (no sixth sector, no inflaton field) and the boundary holonomy structure.
-

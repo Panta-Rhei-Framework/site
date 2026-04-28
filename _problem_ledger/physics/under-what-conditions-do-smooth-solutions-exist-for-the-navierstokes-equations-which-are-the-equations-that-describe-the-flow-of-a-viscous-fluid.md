@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?"
 permalink: "/program/research-agenda/problem-ledger/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
 id: "phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
 short_title: "Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?"
@@ -118,15 +118,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
-  mapped_from_source_entries:
-    - "wikipedia-physics-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -137,12 +128,6 @@ tags:
   - "wikipedia-physics"
   - "under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
   - "fluid-dynamics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid"
-  - "fluid-dynamics"
-  - "Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?"
 url: "/program/research-agenda/problem-ledger/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/"
 results_mirror:
   exists: false

@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Supermassive Black Holes in the Early Universe: JWST Enhancement Theorem'
-permalink: /results/problem/supermassive-black-holes-early-universe/
-result_id: result-239
-problem_ledger_ids: ["phys-supermassive-black-holes"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Supermassive Black Holes in the Early Universe: JWST Enhancement Theorem"
+permalink: "/results/problem/supermassive-black-holes-early-universe/"
+id: "result-239"
+result_id: "result-239"
+problem_ledger_ids:
+  - "phys-supermassive-black-holes"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'JWST-observed 10⁹ M☉ black holes at z~7-13 are explained by the JWST Enhancement Theorem (V.T239): deeper gravitational potentials at high redshift drive 5.4× star-formation efficiency at z=13 (V.P163), growing SMBHs from primordial gas. No primordial black holes required.'
-canonical_books: ["V"]
+summary_short: "JWST-observed 10⁹ M☉ black holes at z~7-13 are explained by the JWST Enhancement Theorem (V.T239): deeper gravitational potentials at high redshift drive 5.4× star-formation efficiency at z=13 (V.P163), growing SMBHs from primordial gas. No primordial black holes required."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

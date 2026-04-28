@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Koide formula"
 permalink: "/program/research-agenda/problem-ledger/physics/koide-formula/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-koide-formula"
 id: "phys-koide-formula"
 short_title: "Koide formula"
@@ -110,15 +110,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-koide-formula"
-  mapped_from_source_entries:
-    - "wikipedia-physics-koide-formula"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -129,12 +120,6 @@ tags:
   - "wikipedia-physics"
   - "koide-formula"
   - "high-energy-particle-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "koide-formula"
-  - "high-energy-particle-physics"
-  - "Koide formula"
 url: "/program/research-agenda/problem-ledger/physics/koide-formula/"
 results_mirror:
   exists: false

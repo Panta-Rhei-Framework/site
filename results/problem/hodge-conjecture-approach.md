@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Hodge Conjecture Approach"
-permalink: /results/problem/hodge-conjecture-approach/
-result_id: result-229
-problem_ledger_ids: ["math-hodge-conjecture"]
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/hodge-conjecture-approach/"
+id: "result-229"
+result_id: "result-229"
+problem_ledger_ids:
+  - "math-hodge-conjecture"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "MILL"
 summary_short: "The Hodge Conjecture asks whether certain cohomology classes are representable by algebraic cycles. The τ-framework's ABCD grading provides a structural ap…"
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

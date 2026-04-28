@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Cognition and AI"
 permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "meta-cognition-and-ai"
 id: "meta-cognition-and-ai"
 short_title: "Cognition and AI"
@@ -214,15 +214,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "meta-cognition-and-ai"
-  mapped_from_source_entries:
-    - "wikipedia-philosophy-cognition-and-ai"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -233,12 +224,6 @@ tags:
   - "wikipedia-philosophy"
   - "cognition-and-ai"
   - "philosophy-of-mind"
-search_keywords:
-  - "metaphysics_philosophy"
-  - "wikipedia-philosophy"
-  - "cognition-and-ai"
-  - "philosophy-of-mind"
-  - "Cognition and AI"
 url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/cognition-and-ai/"
 results_mirror:
   exists: false

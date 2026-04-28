@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Holographic Principle: Bulk ↔ Boundary Correspondence Proved'
-permalink: /results/problem/holographic-principle/
-result_id: result-237
-problem_ledger_ids: ["phys-holographic-principle"]
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Holographic Principle: Bulk ↔ Boundary Correspondence Proved"
+permalink: "/results/problem/holographic-principle/"
+id: "result-237"
+result_id: "result-237"
+problem_ledger_ids:
+  - "phys-holographic-principle"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: 'The Central Theorem (II.T40, Book II ch51) proves an exact bulk-boundary correspondence: 1D boundary data completely encodes 3D holomorphic data on τ³. II.C01 names this the Holographic Principle corollary. Unlike AdS/CFT — a conjecture on anti-de Sitter — this is a theorem on the actual universe.'
-canonical_books: ["II"]
+summary_short: "The Central Theorem (II.T40, Book II ch51) proves an exact bulk-boundary correspondence: 1D boundary data completely encodes 3D holomorphic data on τ³. II.C01 names this the Holographic Principle corollary. Unlike AdS/CFT — a conjecture on anti-de Sitter — this is a theorem on the actual universe."
+canonical_books:
+  - "II"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

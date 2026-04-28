@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Prologue: Two Arcs from One Neutron"
-permalink: /corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 0
@@ -15,26 +15,32 @@ part_display: "Prologue"
 part_slug: "part-00-two-arcs-from-one-neutron"
 chapter_count: 2
 summary_short: "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel τ represents…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-00-two-arcs-from-one-neutron/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-00-two-arcs-from-one-neutron/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book IV"
     layer: "E₁ Physics (Microcosm)"
     chapters: "2"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Prologue frames Book IV as a whole.
 Chapter 1 introduces the self-describing thesis:

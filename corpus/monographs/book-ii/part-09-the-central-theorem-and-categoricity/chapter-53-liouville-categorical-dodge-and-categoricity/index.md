@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 53: Liouville Categorical Dodge and Categoricity"
-permalink: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 52: The Central Theorem"
 next_chapter_url: "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-54-the-complete-dependency-chain/"
 next_chapter_title: "Chapter 54: The Complete Dependency Chain"
 summary_short: "The Central Theorem (II.T40) establishes O(τ³) ≅ A_spec(𝕃): the holomorphic function algebra of τ³ is canonically isomorphic to the spectral…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+canonical_part_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
 canonical_part_title: "Part IX: The Central Theorem and Categoricity"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part IX: The Central Theorem and Categoricity"
-    url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part IX: The Central Theorem and Categoricity"
+      url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IX"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Central Theorem (II.T40) establishes
 O(τ³) ≅ A_spec(𝕃):

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 39: Cyclotomic Fields and Roots of Unity"
-permalink: /corpus/monographs/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 9
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 38: The Elliptic Quaternions"
 next_chapter_url: "/corpus/monographs/book-i/part-10-lemniscate-characters/chapter-40-characters-on-the-algebraic-lemniscate/"
 next_chapter_title: "Chapter 40: Characters on the Algebraic Lemniscate"
 summary_short: "The CRT isomorphism ℤ_τ ≅ ∏_p ℤ_p (Chapter [ch:profinite-boundary-ring]) decomposes the boundary ring into local factors, and the spectral characters…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-09-earned-number-systems/
+canonical_part_url: "/corpus/monographs/book-i/part-09-earned-number-systems/"
 canonical_part_title: "Part IX: Earned Number Systems"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part IX: Earned Number Systems"
-    url: /corpus/monographs/book-i/part-09-earned-number-systems/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part IX: Earned Number Systems"
+      url: "/corpus/monographs/book-i/part-09-earned-number-systems/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part IX"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The CRT isomorphism
 ℤ_τ ≅ ∏_p ℤ_p

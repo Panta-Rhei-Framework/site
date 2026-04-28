@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 36: Sexual Reproduction: The Recombination Functor"
-permalink: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-36-sexual-reproduction-the-recombination-functor/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-36-sexual-reproduction-the-recombination-functor/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 35: Cell Cycle, Multicellularity, and Development"
 next_chapter_url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-37-evolution-the-ppas-algorithm/"
 next_chapter_title: "Chapter 37: Evolution: The PPAS Algorithm"
 summary_short: "Sexual reproduction is formalized as a recombination functor from pairs of genotypes to a new genotype via meiosis. Beyond the primary self/non-self…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
+canonical_part_url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
 canonical_part_title: "Part VI: Consumer — Animals and the Mixed Sector"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-36-sexual-reproduction-the-recombination-functor/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-36-sexual-reproduction-the-recombination-functor/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VI: Consumer — Animals and the Mixed Sector"
-    url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VI: Consumer — Animals and the Mixed Sector"
+      url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VI"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Sexual reproduction is formalized as a recombination functor from pairs of genotypes to a new genotype via meiosis. Beyond the primary self/non-self distinction, sex introduces a secondary boundary—self/other-self—within Life that enables combinatorial exploration of the fitness landscape. Crossing over and independent assortment generate genetic diversity far faster than mutation alone. The two-fold cost of sex is offset by faster adaptation, deleterious mutation purging, and parasite-driven frequency-dependent selection.

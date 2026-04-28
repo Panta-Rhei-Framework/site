@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 79: The Identity-Faithful Reception Criterion"
-permalink: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
@@ -19,30 +19,37 @@ page_in_book: 375
 prev_chapter_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-78-ontic-identity-invariance/"
 prev_chapter_title: "Chapter 78: Ontic Identity Invariance"
 summary_short: "The preceding two chapters established that diagonal resonance (I.D89) creates identity slippage (I.D90) and shadow identities (I.D91) in any foundation whose…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
+canonical_part_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
 canonical_part_title: "Part XVII: The Proof-Theoretic Mirror"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XVII: The Proof-Theoretic Mirror"
-    url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XVII: The Proof-Theoretic Mirror"
+      url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XVII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The preceding two chapters established
 that diagonal resonance (I.D89)

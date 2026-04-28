@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Superfluid transition in helium-4"
 permalink: "/program/research-agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-superfluid-transition-in-helium-4"
 id: "phys-superfluid-transition-in-helium-4"
 short_title: "Superfluid transition in helium-4"
@@ -94,15 +94,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-superfluid-transition-in-helium-4"
-  mapped_from_source_entries:
-    - "wikipedia-physics-superfluid-transition-in-helium-4"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -113,12 +104,6 @@ tags:
   - "wikipedia-physics"
   - "superfluid-transition-in-helium-4"
   - "condensed-matter-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "superfluid-transition-in-helium-4"
-  - "condensed-matter-physics"
-  - "Superfluid transition in helium-4"
 url: "/program/research-agenda/problem-ledger/physics/superfluid-transition-in-helium-4/"
 results_mirror:
   exists: false

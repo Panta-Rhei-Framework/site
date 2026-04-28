@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Identity Theorem"
-permalink: /results/problem/identity-theorem/
-result_id: result-090
+permalink: "/results/problem/identity-theorem/"
+id: "result-090"
+result_id: "result-090"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "HOLO"
 summary_short: "The τ-Identity Theorem establishes that if two τ-holomorphic functions agree at a single orbit depth, they agree everywhere. This is a far stronger rigidity res…"
-canonical_books: ["II"]
+canonical_books:
+  - "II"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

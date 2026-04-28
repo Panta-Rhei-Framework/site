@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Central Theorem: O(τ³) ≅ A_spec(L)'
-permalink: /results/problem/central-theorem/
-result_id: result-005
+layout: "result-page"
+title: "Central Theorem: O(τ³) ≅ A_spec(L)"
+permalink: "/results/problem/central-theorem/"
+id: "result-005"
+result_id: "result-005"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The algebra of holomorphic functions on τ³ is isomorphic to the spectral
-  algebra of the lemniscate boundary — interior fully determined by boundary.
-canonical_books: ["II"]
+summary_short: "The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior fully determined by boundary."
+canonical_books:
+  - "II"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Central Theorem is the climax of [Book II]({{ '/publications/books/book-ii/'
 ## Result Statement
 
 The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary: O(τ³) ≅ A_spec(L) (II.T40). This isomorphism is functorial, bipolar-compatible, tower-graded, and ι<sub>τ</sub>-calibrated. Interior is fully determined by boundary data.
-

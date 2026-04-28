@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Tau-Identity Theorem: Agreement at One Depth Implies Agreement Everywhere'
-permalink: /results/problem/tau-identity-theorem/
-result_id: result-028
+layout: "result-page"
+title: "Tau-Identity Theorem: Agreement at One Depth Implies Agreement Everywhere"
+permalink: "/results/problem/tau-identity-theorem/"
+id: "result-028"
+result_id: "result-028"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: If two τ-holomorphic functions agree at any single depth level, they
-  agree at all depths — the τ-analogue of the identity theorem for holomorphic functions.
-canonical_books: ["I"]
+summary_short: "If two τ-holomorphic functions agree at any single depth level, they agree at all depths — the τ-analogue of the identity theorem for holomorphic functions."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The classical identity theorem in complex analysis states that a holomorphic fun
 ## Result Statement
 
 I.T21: If two τ-holomorphic functions agree on any single depth stratum of τ³, they agree on all of τ³. τ-analogue of the classical identity theorem.
-

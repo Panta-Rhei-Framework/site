@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "QCD Confinement"
-permalink: /results/problem/qcd-confinement/
-result_id: result-167
+permalink: "/results/problem/qcd-confinement/"
+id: "result-167"
+result_id: "result-167"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "QCD"
 summary_short: "Color confinement — why quarks are never observed in isolation — lacks a first-principles proof. The τ-framework's Yang-Mills sector provides structural to…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

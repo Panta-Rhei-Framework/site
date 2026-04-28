@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book VI: Categorical Life"
-permalink: /corpus/monographs/book-vi/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "VI"
 book_slug: "book-vi"
 subtitle: "Life as Self-Decoding Distinctions"
@@ -15,29 +15,39 @@ part_count: 9
 chapter_count: 53
 page_count: 440
 summary_short: "Life as Self-Decoding Distinctions"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/"
 summary_cards:
-- title: Subtitle
-  body: "Life as Self-Decoding Distinctions"
-- title: Structure
-  body: "9 parts, 53 chapters, 440 pages"
-- title: Layer
-  body: "E₂ Life"
+  -
+    title: "Subtitle"
+    body: "Life as Self-Decoding Distinctions"
+  -
+    title: "Structure"
+    body: "9 parts, 53 chapters, 440 pages"
+  -
+    title: "Layer"
+    body: "E₂ Life"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₂ Life"
     parts: "9"
     chapters: "53"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

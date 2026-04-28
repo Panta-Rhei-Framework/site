@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Muon Anomalous Magnetic Moment a_μ at +8.8 ppm
-permalink: /results/problem/muon-anomalous-magnetic-moment-8pt8-ppm/
-result_id: result-059
+layout: "result-page"
+title: "Muon Anomalous Magnetic Moment a_μ at +8.8 ppm"
+permalink: "/results/problem/muon-anomalous-magnetic-moment-8pt8-ppm/"
+id: "result-059"
+result_id: "result-059"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Particle Physics"
-summary_short: The muon anomalous magnetic moment a_μ is derived at +8.8 ppm from
-  FNAL g–2 by propagating α_τ through the QED corrections.
-canonical_books: ["IV"]
+summary_short: "The muon anomalous magnetic moment a_μ is derived at +8.8 ppm from FNAL g–2 by propagating α_τ through the QED corrections."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -40,4 +44,3 @@ At +8.8 ppm this is a sub-10 ppm result (rank 7 in the 1–10 ppm precision tier
 ## Result Statement
 
 IV.T180: Muon g–2 a_μ(τ) at +8.8 ppm from FNAL measurement. Derived by propagating α_τ through QED corrections. Sub-10 ppm precision.
-

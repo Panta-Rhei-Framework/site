@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "AI Language Understanding"
-permalink: /results/problem/ai-language-understanding/
-result_id: result-210
+permalink: "/results/problem/ai-language-understanding/"
+id: "result-210"
+result_id: "result-210"
 problem_ledger_ids: []
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "LANG"
 summary_short: "Do LLMs understand language? The τ-framework classifies LLMs as 'para-minds': they perform subsymbolic processing without an E₃ self-model. They process la…"
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Metaphysics"
     topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

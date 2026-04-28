@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 65: Spectral Coefficients and the Restriction Map"
-permalink: /corpus/monographs/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 15
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 64: Internal Hom and Exponentials"
 next_chapter_url: "/corpus/monographs/book-i/part-15-global-hartogs/chapter-66-thinness-and-the-removable-singularity-criterion/"
 next_chapter_title: "Chapter 66: Thinness and the Removable Singularity Criterion"
 summary_short: "The spectral decomposition (Theorem [thm:spectral-decomposition], I.T12) splits every element of 𝕃 into B-sector and C-sector components via the…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-15-global-hartogs/
+canonical_part_url: "/corpus/monographs/book-i/part-15-global-hartogs/"
 canonical_part_title: "Part XV: Global Hartogs"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XV: Global Hartogs"
-    url: /corpus/monographs/book-i/part-15-global-hartogs/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XV: Global Hartogs"
+      url: "/corpus/monographs/book-i/part-15-global-hartogs/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The spectral decomposition
 (the relevant theorem, I.T12)

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 108: Consciousness as Global Section"
-permalink: /corpus/monographs/book-vii/part-09-categorical-mind-consciousness/chapter-108-consciousness-as-global-section/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/chapter-108-consciousness-as-global-section/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 9
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 107: The Self as Story Functor"
 next_chapter_url: "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/chapter-109-intentionality-and-aboutness/"
 next_chapter_title: "Chapter 109: Intentionality and Aboutness"
 summary_short: "Why does experience feel unified? This chapter answers with a single structural thesis: consciousness is a global section of the mind sheaf. Local neural…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-09-categorical-mind-consciousness/
+canonical_part_url: "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/"
 canonical_part_title: "Part IX: Categorical Mind & Consciousness"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-09-categorical-mind-consciousness/chapter-108-consciousness-as-global-section/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/chapter-108-consciousness-as-global-section/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part IX: Categorical Mind & Consciousness"
-    url: /corpus/monographs/book-vii/part-09-categorical-mind-consciousness/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part IX: Categorical Mind & Consciousness"
+      url: "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part IX"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Why does experience feel unified? This chapter answers with a single
 structural thesis: consciousness is a global section of the mind sheaf.

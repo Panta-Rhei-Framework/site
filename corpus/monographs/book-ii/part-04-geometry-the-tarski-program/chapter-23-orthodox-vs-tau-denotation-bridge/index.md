@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 23: Orthodox vs.\\ τ Denotation Bridge"
-permalink: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 22: Wave-Type Causal Structure"
 next_chapter_url: "/corpus/monographs/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-24-lines-from-countable-structure/"
 next_chapter_title: "Chapter 24: Lines from Countable Structure"
 summary_short: "Parts III and IV have earned Euclidean geometry from purely discrete, profinite foundations: the Stone space structure (II.D14), four-dimensionality (II.T11),…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/
+canonical_part_url: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
 canonical_part_title: "Part IV: Geometry: The Tarski Program"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part IV: Geometry: The Tarski Program"
-    url: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part IV: Geometry: The Tarski Program"
+      url: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Parts III and IV have earned Euclidean geometry
 from purely discrete, profinite foundations:

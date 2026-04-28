@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Why Is There Something Rather Than Nothing?"
 permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "meta-why-something-rather-than-nothing"
 id: "meta-why-something-rather-than-nothing"
 short_title: "Something Rather Than Nothing"
@@ -199,15 +199,6 @@ related:
   kernel_model_reality:
     - "/program/research-agenda/kernel-model-reality/ontic-status-burden/"
     - "/program/research-agenda/kernel-model-reality/no-externalities/"
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "meta-why-something-rather-than-nothing"
-  mapped_from_source_entries:
-    - "wikipedia-philosophy-why-there-is-something-rather-than-nothing"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
@@ -218,13 +209,6 @@ tags:
   - "ontology"
   - "philosophy"
   - "something-rather-than-nothing"
-search_keywords:
-  - "metaphysics"
-  - "ontology"
-  - "philosophy"
-  - "something-rather-than-nothing"
-  - "Why Is There Something Rather Than Nothing?"
-  - "Something Rather Than Nothing"
 url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/why-something-rather-than-nothing/"
 results_mirror:
   exists: true

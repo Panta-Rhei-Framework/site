@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Saturation Theorem: The Enrichment Ladder Terminates at E₃'
-permalink: /results/problem/saturation-theorem-no-e4/
-result_id: result-024
+layout: "result-page"
+title: "Saturation Theorem: The Enrichment Ladder Terminates at E₃"
+permalink: "/results/problem/saturation-theorem-no-e4/"
+id: "result-024"
+result_id: "result-024"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: 'Three independent structural blockages prevent any E₄: No-New-Lobe,
-  No-New-Crossing-Mediator, and Carrier Closure. The ladder has exactly four layers.'
-canonical_books: ["III"]
+summary_short: "Three independent structural blockages prevent any E₄: No-New-Lobe, No-New-Crossing-Mediator, and Carrier Closure. The ladder has exactly four layers."
+canonical_books:
+  - "III"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The Canonical Ladder Theorem (III.T04) establishes that E₀ ⊊ E₁ ⊊ E₂ �
 ## Result Statement
 
 VII.T06: Enrich(E₃) = E₃. Three structural blockages prevent E₄: No-New-Lobe (5 generators → 4 ρ-orbits, closed), No-New-Crossing-Mediator (S_L unique mixed sector), Carrier Closure (SelfDesc³ = SelfDesc²). The ladder has exactly 4 layers.
-

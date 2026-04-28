@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 72: Laws as Structure"
-permalink: /corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 8
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 71: The Neutron Lifetime: Crown of the Cascade"
 next_chapter_url: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-73-the-self-describing-universe/"
 next_chapter_title: "Chapter 73: The Self-Describing Universe"
 summary_short: "Throughout Parts I–VII, we derived particles, forces, coupling constants, and mass ratios from the fiber T² of τ³ = τ¹ ×_f T². At no point did we…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/
+canonical_part_url: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
 canonical_part_title: "Part VIII: The Constants Ledger and the Complexity Summit"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part VIII: The Constants Ledger and the Complexity Summit"
-    url: /corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part VIII: The Constants Ledger and the Complexity Summit"
+      url: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part VIII"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Throughout Parts I–VII, we derived particles, forces,
 coupling constants, and mass ratios from the fiber T²

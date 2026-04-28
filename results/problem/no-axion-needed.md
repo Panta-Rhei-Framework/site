@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "No Axion Needed"
-permalink: /results/problem/no-axion-needed/
-result_id: result-115
+permalink: "/results/problem/no-axion-needed/"
+id: "result-115"
+result_id: "result-115"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: consequence
-bridge_status: contradicted
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: C
+topic: "physics"
+layer: "physics"
+result_type: "consequence"
+bridge_status: "contradicted"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "C"
 domain_group: "QCD"
 summary_short: "The τ-framework solves the Strong CP Problem via SA-i admissibility (θ_QCD = 0), which eliminates the need for the Peccei-Quinn mechanism and the axion. If conf…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Consequence"
     layer: "Physics"
     topic: "Physics"
     status: "Contradicted"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

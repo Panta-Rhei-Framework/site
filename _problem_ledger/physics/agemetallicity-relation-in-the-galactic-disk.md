@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Age–metallicity relation in the Galactic disk"
 permalink: "/program/research-agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-agemetallicity-relation-in-the-galactic-disk"
 id: "phys-agemetallicity-relation-in-the-galactic-disk"
 short_title: "Age–metallicity relation in the Galactic disk"
@@ -94,15 +94,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-agemetallicity-relation-in-the-galactic-disk"
-  mapped_from_source_entries:
-    - "wikipedia-physics-agemetallicity-relation-in-the-galactic-disk"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -113,12 +104,6 @@ tags:
   - "wikipedia-physics"
   - "agemetallicity-relation-in-the-galactic-disk"
   - "astronomy-and-astrophysics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "agemetallicity-relation-in-the-galactic-disk"
-  - "astronomy-and-astrophysics"
-  - "Age–metallicity relation in the Galactic disk"
 url: "/program/research-agenda/problem-ledger/physics/agemetallicity-relation-in-the-galactic-disk/"
 results_mirror:
   exists: false

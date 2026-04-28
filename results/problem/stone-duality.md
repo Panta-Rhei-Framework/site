@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Stone Duality"
-permalink: /results/problem/stone-duality/
-result_id: result-223
+permalink: "/results/problem/stone-duality/"
+id: "result-223"
+result_id: "result-223"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "TOPO"
 summary_short: "Stone duality (between Boolean algebras and Stone spaces) is earned inside Category τ from the profinite completion of the orbit structure. The Stone space…"
-canonical_books: ["II"]
+canonical_books:
+  - "II"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

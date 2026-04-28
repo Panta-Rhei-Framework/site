@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 124: The Logos Sector Synthesis"
-permalink: /corpus/monographs/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 10
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 123: Boundary Collapse Preview"
 next_chapter_url: "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/"
 next_chapter_title: "Chapter 125: The Boundary Collapse Lemma"
 summary_short: "Capstone for Part X. The Logos sector S_L has been defined by universal property (VII.D86), proved unique (VII.T45), equipped with a bridge apparatus…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-10-the-logos-sector/
+canonical_part_url: "/corpus/monographs/book-vii/part-10-the-logos-sector/"
 canonical_part_title: "Part X: The Logos Sector"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part X: The Logos Sector"
-    url: /corpus/monographs/book-vii/part-10-the-logos-sector/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part X: The Logos Sector"
+      url: "/corpus/monographs/book-vii/part-10-the-logos-sector/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part X"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Capstone for Part X. The Logos sector S_L has been defined by
 universal property (VII.D86), proved unique (VII.T45), equipped with

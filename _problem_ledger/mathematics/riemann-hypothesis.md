@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Riemann Hypothesis"
 permalink: "/program/research-agenda/problem-ledger/mathematics/riemann-hypothesis/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "math-riemann-hypothesis"
 id: "math-riemann-hypothesis"
 short_title: "Riemann Hypothesis"
@@ -92,15 +92,6 @@ related:
   recovery_requirements:
     - "MREC-M5"
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "math-riemann-hypothesis"
-  mapped_from_source_entries:
-    - "clay-riemann-hypothesis"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-v1"
@@ -111,12 +102,6 @@ tags:
   - "number-theory"
   - "millennium-problem"
   - "spectral"
-search_keywords:
-  - "mathematics"
-  - "number-theory"
-  - "millennium-problem"
-  - "spectral"
-  - "Riemann Hypothesis"
 url: "/program/research-agenda/problem-ledger/mathematics/riemann-hypothesis/"
 results_mirror:
   exists: true

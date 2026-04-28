@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part IX: Earned Number Systems"
-permalink: /corpus/monographs/book-i/part-09-earned-number-systems/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-09-earned-number-systems/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "I"
 book_slug: "book-i"
 part_number: 9
@@ -15,26 +15,32 @@ part_display: "Part IX"
 part_slug: "part-09-earned-number-systems"
 chapter_count: 4
 summary_short: "Part VIII introduced the number tower ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ (Chapter [ch:number-tower]), establishing definitions and basic properties for each level.…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-09-earned-number-systems/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-09-earned-number-systems/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book I"
     layer: "E₀ Mathematics"
     chapters: "4"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Part VIII introduced the number tower
 ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ

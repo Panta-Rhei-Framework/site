@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: Three Generations of Matter from H₁(τ³;ℤ) ≅ ℤ³
-permalink: /results/problem/three-generations-matter/
-result_id: result-009
+layout: "result-page"
+title: "Three Generations of Matter from H₁(τ³;ℤ) ≅ ℤ³"
+permalink: "/results/problem/three-generations-matter/"
+id: "result-009"
+result_id: "result-009"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Particle Physics"
-summary_short: 'Exactly three independent proofs that the number of fermion generations
-  is three: first homology, primitive winding classes, and lemniscate regions.'
-canonical_books: ["IV"]
+summary_short: "Exactly three independent proofs that the number of fermion generations is three: first homology, primitive winding classes, and lemniscate regions."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Generation_(particle_physics)"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ The number of fermion generations (why three and not two or four?) is one of the
 ## Result Statement
 
 Exactly three generations of matter: three independent proofs. (1) H₁(τ³;ℤ) ≅ ℤ³ from the first homology of the fibered product (IV.T171, exact). (2) Exactly three primitive winding classes on T². (3) Exactly three regions of the lemniscate L.
-

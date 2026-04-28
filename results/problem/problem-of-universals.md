@@ -1,27 +1,36 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Problem of Universals"
-permalink: /results/problem/problem-of-universals/
-result_id: result-078
-problem_ledger_ids: ["meta-problem-of-universals"]
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+permalink: "/results/problem/problem-of-universals/"
+id: "result-078"
+result_id: "result-078"
+problem_ledger_ids:
+  - "meta-problem-of-universals"
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "Ontology"
 summary_short: "One of the clearest and strongest metaphysics result pages."
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Metaphysics
-    topic: Philosophy
+    layer: "Metaphysics"
+    topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Problem_of_universals"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 The Problem of Universals — how abstract properties (redness, triangularity, justice) relate to concrete particulars — has been debated since Plato. Realists hold that universals exist independently; nominalists deny their existence; moderate realists seek middle ground. None has achieved consensus.

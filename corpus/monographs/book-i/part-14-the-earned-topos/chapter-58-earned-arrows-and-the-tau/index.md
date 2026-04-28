@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 58: Earned Arrows and the τ"
-permalink: /corpus/monographs/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 14
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 57: Approaches to Infinity"
 next_chapter_url: "/corpus/monographs/book-i/part-14-the-earned-topos/chapter-59-functors-and-natural-transformations/"
 next_chapter_title: "Chapter 59: Functors and Natural Transformations"
 summary_short: "The 1st Edition of this series imported category theory as an external language — objects, morphisms, composition, and identity were *postulated* as ambient…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-14-the-earned-topos/
+canonical_part_url: "/corpus/monographs/book-i/part-14-the-earned-topos/"
 canonical_part_title: "Part XIV: The Earned Topos"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XIV: The Earned Topos"
-    url: /corpus/monographs/book-i/part-14-the-earned-topos/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XIV: The Earned Topos"
+      url: "/corpus/monographs/book-i/part-14-the-earned-topos/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XIV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The 1st Edition of this series imported category theory
 as an external language —

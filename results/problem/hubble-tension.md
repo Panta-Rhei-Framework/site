@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Hubble Tension"
-permalink: /results/problem/hubble-tension/
-result_id: result-108
-problem_ledger_ids: ["phys-hubble-tension"]
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+permalink: "/results/problem/hubble-tension/"
+id: "result-108"
+result_id: "result-108"
+problem_ledger_ids:
+  - "phys-hubble-tension"
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "COSMO"
 summary_short: "The Hubble tension (5σ discrepancy between early- and late-universe H₀ measurements) is one of the most discussed problems in cosmology. The τ-framework derives…"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Hubble_tension"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

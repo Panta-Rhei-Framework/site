@@ -1,27 +1,32 @@
 ---
-
-layout: result-page
-title: 'Superfluid Helium-4: Minimal Donut Criterion from ι_τ'
-permalink: /results/problem/superfluid-helium-4-lambda/
-result_id: result-251
+layout: "result-page"
+title: "Superfluid Helium-4: Minimal Donut Criterion from ι_τ"
+permalink: "/results/problem/superfluid-helium-4-lambda/"
+id: "result-251"
+result_id: "result-251"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Superfluid transition in Helium-4 at T_λ ≈ 2.17 K derives from the Minimal Donut Criterion cos(π/N) ≥ 1 − ι_τ (Book IV ch61): N=3 (He-3) fails at 0.500 < 0.659; N=4 (He-4) passes at 0.707 ≥ 0.659. A first-principles selection rule from the master constant ι_τ.'
-canonical_books: ["IV"]
+summary_short: "Superfluid transition in Helium-4 at T_λ ≈ 2.17 K derives from the Minimal Donut Criterion cos(π/N) ≥ 1 − ι_τ (Book IV ch61): N=3 (He-3) fails at 0.500 < 0.659; N=4 (He-4) passes at 0.707 ≥ 0.659. A first-principles selection rule from the master constant ι_τ."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

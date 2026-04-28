@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'ATP Currency Uniqueness: Topology and Coupling Fix the Energy Scale'
-permalink: /results/problem/atp-currency-uniqueness/
-result_id: result-070
+layout: "result-page"
+title: "ATP Currency Uniqueness: Topology and Coupling Fix the Energy Scale"
+permalink: "/results/problem/atp-currency-uniqueness/"
+id: "result-070"
+result_id: "result-070"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Cellular Biology"
-summary_short: 'ATP is the unique energy currency of life: topology plus coupling
-  constraints admit exactly one energy oscillation mode at the biological scale.'
-canonical_books: ["VI"]
+summary_short: "ATP is the unique energy currency of life: topology plus coupling constraints admit exactly one energy oscillation mode at the biological scale."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -45,4 +49,3 @@ This uniqueness is not phylogenetic contingency but mathematical necessity: any 
 ## Result Statement
 
 VI.T19: ATP is the unique energy oscillation mode in the Agency sector. Topology (L = S¹ ∨ S¹) + π-coupling + ΔG > 0 constraints admit exactly one mode. Energy scale ≈ ι<sub>τ</sub>² calibration at ~4% from measured ΔG. VI.OP15 SOLVED.
-

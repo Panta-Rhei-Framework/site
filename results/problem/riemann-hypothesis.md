@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Riemann Hypothesis"
-permalink: /results/problem/riemann-hypothesis/
-result_id: result-091
-problem_ledger_ids: ["math-riemann-hypothesis"]
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/riemann-hypothesis/"
+id: "result-091"
+result_id: "result-091"
+problem_ledger_ids:
+  - "math-riemann-hypothesis"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "MILL"
 summary_short: "Riemann Hypothesis is a frontier problem in the MILL domain."
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Riemann_hypothesis"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

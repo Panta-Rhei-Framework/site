@@ -1,27 +1,32 @@
 ---
-
-layout: result-page
-title: 'Proton Stability: Address Irresolvability Forbids Baryon Decay'
-permalink: /results/problem/proton-stability/
-result_id: result-252
+layout: "result-page"
+title: "Proton Stability: Address Irresolvability Forbids Baryon Decay"
+permalink: "/results/problem/proton-stability/"
+id: "result-252"
+result_id: "result-252"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Proton stability is a structural theorem in τ (IV.T72): the Confinement Theorem (IV.T71) forbids any isolated color-charged state from attaining a stable address on L, so no baryon-number-violating decay is admissible. Prediction: τ_p = ∞ exactly — distinct from GUT predictions (~10³³-10³⁵ yr, excluded by Super-K) and from the Standard Model''s accidental baryon conservation.'
-canonical_books: ["IV"]
+summary_short: "Proton stability is a structural theorem in τ (IV.T72): the Confinement Theorem (IV.T71) forbids any isolated color-charged state from attaining a stable address on L, so no baryon-number-violating decay is admissible. Prediction: τ_p = ∞ exactly — distinct from GUT predictions (~10³³-10³⁵ yr, excluded by Super-K) and from the Standard Model's accidental baryon conservation."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

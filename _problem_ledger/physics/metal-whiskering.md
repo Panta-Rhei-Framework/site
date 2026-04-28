@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Metal whiskering"
 permalink: "/program/research-agenda/problem-ledger/physics/metal-whiskering/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-metal-whiskering"
 id: "phys-metal-whiskering"
 short_title: "Metal whiskering"
@@ -94,15 +94,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-metal-whiskering"
-  mapped_from_source_entries:
-    - "wikipedia-physics-metal-whiskering"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -113,12 +104,6 @@ tags:
   - "wikipedia-physics"
   - "metal-whiskering"
   - "condensed-matter-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "metal-whiskering"
-  - "condensed-matter-physics"
-  - "Metal whiskering"
 url: "/program/research-agenda/problem-ledger/physics/metal-whiskering/"
 results_mirror:
   exists: false

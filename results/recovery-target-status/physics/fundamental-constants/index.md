@@ -36,7 +36,7 @@ Detailed result summary pending.
 ## Related Result Items
 
 - [Predictions](/results/predictions/browse/)
-- [Numerical Physics Ledger](/publications/monograph-supplements/numerical-physics-ledger/)
+- [Numerical Physics Ledger](/publications/numerical-physics-ledger/)
 
 ## Related Corpus Construction Steps
 

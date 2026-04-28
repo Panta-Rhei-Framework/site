@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Arrow of Time from Orbit Direction: Unique and Irreversible'
-permalink: /results/problem/arrow-of-time-orbit/
-result_id: result-039
+layout: "result-page"
+title: "Arrow of Time from Orbit Direction: Unique and Irreversible"
+permalink: "/results/problem/arrow-of-time-orbit/"
+id: "result-039"
+result_id: "result-039"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The arrow of time is derived from the non-invertibility of the ρ-orbit
-  at E₁ — a structural asymmetry, not a statistical one.
-canonical_books: ["V"]
+summary_short: "The arrow of time is derived from the non-invertibility of the ρ-orbit at E₁ — a structural asymmetry, not a statistical one."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The arrow of time is one of the foundational puzzles of physics: the fundamental
 ## Result Statement
 
 V.P03: The ρ-orbit direction at E₁ is unique and non-invertible (sector coherence prevents time-reversal). Arrow of time is structural, not statistical.
-

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 9: Gödel and Halting Avoidance"
-permalink: /corpus/monographs/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 8: The Saturation Theorem: Enrich"
 next_chapter_url: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/chapter-10-archetypes-as-minimal-j-closed-fixed-points/"
 next_chapter_title: "Chapter 10: Archetypes as Minimal j-Closed Fixed Points"
 summary_short: "Category τ is self-referential: the MetaDecode operator takes the evaluator itself as input, and SelfDesc² is the structural signature of the metaphysics…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-01-the-metaphysics-definition/
+canonical_part_url: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
 canonical_part_title: "Part I: The Metaphysics Definition"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part I: The Metaphysics Definition"
-    url: /corpus/monographs/book-vii/part-01-the-metaphysics-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part I: The Metaphysics Definition"
+      url: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part I"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Category τ is self-referential: the MetaDecode operator takes the
 evaluator itself as input, and SelfDesc² is the structural

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Moral knowledge"
 permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "meta-moral-knowledge"
 id: "meta-moral-knowledge"
 short_title: "Moral knowledge"
@@ -86,15 +86,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "meta-moral-knowledge"
-  mapped_from_source_entries:
-    - "wikipedia-philosophy-moral-knowledge"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -105,12 +96,6 @@ tags:
   - "wikipedia-philosophy"
   - "moral-knowledge"
   - "ethics"
-search_keywords:
-  - "metaphysics_philosophy"
-  - "wikipedia-philosophy"
-  - "moral-knowledge"
-  - "ethics"
-  - "Moral knowledge"
 url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/moral-knowledge/"
 results_mirror:
   exists: false

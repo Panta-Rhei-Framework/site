@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Inflation Mechanism"
-permalink: /results/problem/inflation-mechanism/
-result_id: result-111
+permalink: "/results/problem/inflation-mechanism/"
+id: "result-111"
+result_id: "result-111"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "COSMO"
 summary_short: "Cosmic inflation explains the flatness, horizon, and monopole problems but its mechanism remains unknown. The τ-framework derives the inflation mechanism from t…"
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Inflation_(cosmology)"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

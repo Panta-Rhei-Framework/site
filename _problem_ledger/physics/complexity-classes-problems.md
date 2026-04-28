@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Complexity classes problems"
 permalink: "/program/research-agenda/problem-ledger/physics/complexity-classes-problems/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-complexity-classes-problems"
 id: "phys-complexity-classes-problems"
 short_title: "Complexity classes problems"
@@ -110,15 +110,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-complexity-classes-problems"
-  mapped_from_source_entries:
-    - "wikipedia-physics-complexity-classes-problems"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -129,12 +120,6 @@ tags:
   - "wikipedia-physics"
   - "complexity-classes-problems"
   - "quantum-computing-and-quantum-information"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "complexity-classes-problems"
-  - "quantum-computing-and-quantum-information"
-  - "Complexity classes problems"
 url: "/program/research-agenda/problem-ledger/physics/complexity-classes-problems/"
 results_mirror:
   exists: false

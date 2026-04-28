@@ -31,7 +31,10 @@ right_rail:
 ---
 
 {% assign results = site.data.results.results %}
-{% assign domain_groups = results | group_by: "topic" | sort: "name" %}
+{% assign mathematics_results = results | where: "topic", "mathematics" %}
+{% assign physics_results = results | where: "topic", "physics" %}
+{% assign biology_results = results | where: "topic", "biology" %}
+{% assign philosophy_results = results | where: "topic", "philosophy" %}
 {% assign type_groups = results | group_by: "result_type" | sort: "name" %}
 
 ## What belongs here
@@ -45,12 +48,22 @@ They include domain-specific derived results, explanatory results, bridge result
 ## Browse by domain
 
 <div class="v2-grid">
-{% for group in domain_groups %}
-  <a class="v2-tile" href="{{ '/results/topic/' | append: group.name | append: '/' | relative_url }}">
-    <strong>{{ group.name | capitalize }}</strong>
-    <span>{{ group.items | size }} result page(s) in the current catalogue.</span>
+  <a class="v2-tile" href="{{ '/results/topic/mathematics/' | relative_url }}">
+    <strong>Mathematics</strong>
+    <span>{{ mathematics_results | size }} result page(s) in the current catalogue.</span>
   </a>
-{% endfor %}
+  <a class="v2-tile" href="{{ '/results/topic/physics/' | relative_url }}">
+    <strong>Physics</strong>
+    <span>{{ physics_results | size }} result page(s) in the current catalogue.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/topic/biology/' | relative_url }}">
+    <strong>Life</strong>
+    <span>{{ biology_results | size }} result page(s) in the current catalogue.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/topic/philosophy/' | relative_url }}">
+    <strong>Metaphysics / Philosophy</strong>
+    <span>{{ philosophy_results | size }} result page(s) in the current catalogue.</span>
+  </a>
 </div>
 
 ## Browse by result type

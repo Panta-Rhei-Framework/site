@@ -1,28 +1,34 @@
 ---
-
-layout: result-page
-title: Flat Galaxy Rotation Curves from Capacity Gradient
-permalink: /results/problem/flat-rotation-curves/
-result_id: result-016
-problem_ledger_ids: ["phys-dark-matter", "phys-galaxy-rotation-problem"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Flat Galaxy Rotation Curves from Capacity Gradient"
+permalink: "/results/problem/flat-rotation-curves/"
+id: "result-016"
+result_id: "result-016"
+problem_ledger_ids:
+  - "phys-dark-matter"
+  - "phys-galaxy-rotation-problem"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: Flat rotation curves follow from v_∞ = (GM_b c²/(2ℓ_τ))^(1/4) — the
-  Baryonic Tully-Fisher Relation derived with zero free continuous parameters.
-canonical_books: ["V"]
+summary_short: "Flat rotation curves follow from v_∞ = (GM_b c²/(2ℓ_τ))^(1/4) — the Baryonic Tully-Fisher Relation derived with zero free continuous parameters."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +42,3 @@ Flat galaxy rotation curves — the observation that orbital velocities of stars
 ## Result Statement
 
 V.T85: v_∞ = (GM_b c²/(2ℓ_τ))^(1/4), with ℓ_τ = c²/(2a₀) where a₀ = c²/(2ℓ_τ). The BTFR M_b = A·v∞⁴ follows from capacity, with no dark matter halo required. Verified for 20 galaxies (Wave 15).
-

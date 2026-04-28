@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Origins of viruses (Virus World)"
 permalink: "/program/research-agenda/problem-ledger/life/origins-of-viruses-virus-world/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-origins-of-viruses-virus-world"
 id: "life-biology-origins-of-viruses-virus-world"
 short_title: "Origins of viruses (Virus World)"
@@ -104,15 +104,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-origins-of-viruses-virus-world"
-  mapped_from_source_entries:
-    - "wikipedia-biology-origins-of-viruses-virus-world"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -124,13 +115,6 @@ tags:
   - "origins-of-viruses-virus-world"
   - "general-biology"
   - "evolution-and-origins-of-life"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "origins-of-viruses-virus-world"
-  - "general-biology"
-  - "evolution-and-origins-of-life"
-  - "Origins of viruses (Virus World)"
 url: "/program/research-agenda/problem-ledger/life/origins-of-viruses-virus-world/"
 results_mirror:
   exists: false

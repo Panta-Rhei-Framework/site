@@ -1,28 +1,33 @@
 ---
-
-layout: result-page
-title: 'Global Hartogs Extension: Boundary Determines Interior'
-permalink: /results/problem/global-hartogs-extension/
-result_id: result-027
+layout: "result-page"
+title: "Global Hartogs Extension: Boundary Determines Interior"
+permalink: "/results/problem/global-hartogs-extension/"
+id: "result-027"
+result_id: "result-027"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: Any τ-holomorphic function on the boundary L extends uniquely to the
-  interior of τ³ — the Global Hartogs Extension Theorem.
-canonical_books: ["I", "II"]
+summary_short: "Any τ-holomorphic function on the boundary L extends uniquely to the interior of τ³ — the Global Hartogs Extension Theorem."
+canonical_books:
+  - "I"
+  - "II"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +41,3 @@ The classical Hartogs extension theorem in complex analysis states that a functi
 ## Result Statement
 
 I.T31: Any τ-holomorphic function defined on the lemniscate boundary L extends uniquely to a τ-holomorphic function on all of τ³. Boundary determines interior.
-

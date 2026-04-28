@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Ovaries of basking sharks"
 permalink: "/program/research-agenda/problem-ledger/life/ovaries-of-basking-sharks/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-ovaries-of-basking-sharks"
 id: "life-biology-ovaries-of-basking-sharks"
 short_title: "Ovaries of basking sharks"
@@ -96,15 +96,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-ovaries-of-basking-sharks"
-  mapped_from_source_entries:
-    - "wikipedia-biology-ovaries-of-basking-sharks"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -116,13 +107,6 @@ tags:
   - "ovaries-of-basking-sharks"
   - "non-human-biology"
   - "non-human-organs-and-biomolecules"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "ovaries-of-basking-sharks"
-  - "non-human-biology"
-  - "non-human-organs-and-biomolecules"
-  - "Ovaries of basking sharks"
 url: "/program/research-agenda/problem-ledger/life/ovaries-of-basking-sharks/"
 results_mirror:
   exists: false

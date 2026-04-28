@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Proton g-Factor"
-permalink: /results/problem/proton-g-factor/
-result_id: result-181
+permalink: "/results/problem/proton-g-factor/"
+id: "result-181"
+result_id: "result-181"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: P
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "P"
 domain_group: "NUC"
 summary_short: "The proton magnetic moment (g-factor) is one of the most precisely measured nuclear constants. The τ-framework has partial structure but complete derivatio…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

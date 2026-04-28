@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VI: Consumer — Animals and the Mixed Sector"
-permalink: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
@@ -15,26 +15,32 @@ part_display: "Part VI"
 part_slug: "part-06-consumer-animals-and-the-mixed-sector"
 chapter_count: 10
 summary_short: "The (γ, η) mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "10"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The (γ, η) mixed sector: **acquires structure and energy from other Life forms**.
 Animals—the biological archetype of the consumer sector—couple source and closure channels via

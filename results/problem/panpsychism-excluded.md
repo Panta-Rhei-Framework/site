@@ -1,27 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Panpsychism Excluded"
-permalink: /results/problem/panpsychism-excluded/
-result_id: result-077
+permalink: "/results/problem/panpsychism-excluded/"
+id: "result-077"
+result_id: "result-077"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: consequence
-bridge_status: contradicted
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: C
+topic: "biology"
+layer: "life"
+result_type: "consequence"
+bridge_status: "contradicted"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "C"
 domain_group: "Consciousness / Life"
 summary_short: "Mark clearly as contradiction to one mainstream philosophical option."
-canonical_books: ["VI", "VII"]
+canonical_books:
+  - "VI"
+  - "VII"
 right_rail:
   meta:
     type: "Consequence"
-    layer: Life
-    topic: Biology
+    layer: "Life"
+    topic: "Biology"
     status: "Contradicted"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 Panpsychism — the view that consciousness or proto-consciousness is a fundamental feature of all matter — has experienced a revival in contemporary philosophy of mind, championed by Chalmers, Strawson, and Tononi (via Integrated Information Theory). It offers an elegant response to the Hard Problem by dissolving the emergence gap.

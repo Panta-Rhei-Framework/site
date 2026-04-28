@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO
-permalink: /results/problem/axial-coupling-g-a-5pt5-ppm/
-result_id: result-057
+layout: "result-page"
+title: "Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO"
+permalink: "/results/problem/axial-coupling-g-a-5pt5-ppm/"
+id: "result-057"
+result_id: "result-057"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The nucleon axial coupling g_A = 1.27637 is derived at +5.5 ppm from
-  PDG using κ_D²/ι<sub>τ</sub> with a continued-fraction window NLO correction.
-canonical_books: ["IV"]
+summary_short: "The nucleon axial coupling g_A = 1.27637 is derived at +5.5 ppm from PDG using κ_D²/ι<sub>τ</sub> with a continued-fraction window NLO correction."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -42,4 +46,3 @@ At +5.5 ppm, the axial coupling prediction is in the 1–10 ppm precision tier (
 ## Result Statement
 
 IV.T182: g_A = 1.27637 at +5.5 ppm from PDG 1.2764. LO: κ_D²/ι<sub>τ</sub> = (1–ι<sub>τ</sub>)²/ι<sub>τ</sub>. NLO: CF(ι<sub>τ</sub>) window correction. Zero free parameters.
-

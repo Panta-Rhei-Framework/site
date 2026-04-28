@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Black Holes Are Alive: BH Satisfies All 5+3 Conditions'
-permalink: /results/problem/black-holes-alive/
-result_id: result-021
+layout: "result-page"
+title: "Black Holes Are Alive: BH Satisfies All 5+3 Conditions"
+permalink: "/results/problem/black-holes-alive/"
+id: "result-021"
+result_id: "result-021"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: Black holes satisfy all 5 τ-Distinction and 3 SelfDesc conditions,
-  making them alive by modus ponens — not by analogy.
-canonical_books: ["VI"]
+summary_short: "Black holes satisfy all 5 τ-Distinction and 3 SelfDesc conditions, making them alive by modus ponens — not by analogy."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The claim that black holes are alive is counterintuitive and appears metaphorica
 ## Result Statement
 
 VI.T29 + VI.T30: Black holes satisfy all 5 conditions of τ-Distinction (Distinction Theorem) and all 3 conditions of SelfDesc (SelfDesc Theorem). Therefore BH IS alive by modus ponens, not by metaphor. VI.T32: All 7 hallmarks verified from GR + τ axioms.
-

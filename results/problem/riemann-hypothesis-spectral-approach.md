@@ -1,27 +1,36 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Riemann Hypothesis (spectral approach)"
-permalink: /results/problem/riemann-hypothesis-spectral-approach/
-result_id: result-073
-problem_ledger_ids: ["math-riemann-hypothesis"]
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+permalink: "/results/problem/riemann-hypothesis-spectral-approach/"
+id: "result-073"
+result_id: "result-073"
+problem_ledger_ids:
+  - "math-riemann-hypothesis"
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "Millennium Problems"
 summary_short: "Keep typed partial."
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Mathematics
-    topic: Mathematics
+    layer: "Mathematics"
+    topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Riemann_hypothesis"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 The Riemann Hypothesis (RH) asks whether all non-trivial zeros of the Riemann zeta function lie on the critical line Re(s) = 1/2. It is one of the seven Millennium Prize Problems and the most important unsolved problem in analytic number theory.

@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Enrichment Ladder"
-permalink: /results/problem/enrichment-ladder/
-result_id: result-089
+permalink: "/results/problem/enrichment-ladder/"
+id: "result-089"
+result_id: "result-089"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: core-foundational-problem
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "ENR"
 summary_short: "Enrichment Ladder is a foundational math in the ENR domain."
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

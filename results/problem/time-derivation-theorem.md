@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Time Derivation Theorem: Proper Time from K0–K6'
-permalink: /results/problem/time-derivation-theorem/
-result_id: result-030
+layout: "result-page"
+title: "Time Derivation Theorem: Proper Time from K0–K6"
+permalink: "/results/problem/time-derivation-theorem/"
+id: "result-030"
+result_id: "result-030"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: Proper time is derived from the τ-axioms K0–K6 as the parameter of
-  ρ-orbit traversal — time is not postulated but proven.
-canonical_books: ["V"]
+summary_short: "Proper time is derived from the τ-axioms K0–K6 as the parameter of ρ-orbit traversal — time is not postulated but proven."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Both Newtonian mechanics and special relativity take time as a primitive concept
 ## Result Statement
 
 V.T08: Proper time is derived from K0–K6 as the canonical parameter of ρ-orbit traversal. Time is not postulated but proven to exist and to be irreversible.
-

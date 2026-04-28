@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Deuterium Abundance"
-permalink: /results/problem/deuterium-abundance/
-result_id: result-169
+permalink: "/results/problem/deuterium-abundance/"
+id: "result-169"
+result_id: "result-169"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "BBN"
 summary_short: "Primordial deuterium abundance (D/H ≈ 2.5 × 10⁻⁵) is a precision test of Big Bang nucleosynthesis. The τ-framework derives it from the BBN sector template."
-canonical_books: ["V"]
+canonical_books:
+  - "V"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

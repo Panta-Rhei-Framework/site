@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Origin and future of the universe"
 permalink: "/program/research-agenda/problem-ledger/physics/origin-and-future-of-the-universe/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-origin-and-future-of-the-universe"
 id: "phys-origin-and-future-of-the-universe"
 short_title: "Origin and future of the universe"
@@ -142,15 +142,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-origin-and-future-of-the-universe"
-  mapped_from_source_entries:
-    - "wikipedia-physics-origin-and-future-of-the-universe"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -161,12 +152,6 @@ tags:
   - "wikipedia-physics"
   - "origin-and-future-of-the-universe"
   - "cosmology-and-general-relativity"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "origin-and-future-of-the-universe"
-  - "cosmology-and-general-relativity"
-  - "Origin and future of the universe"
 url: "/program/research-agenda/problem-ledger/physics/origin-and-future-of-the-universe/"
 results_mirror:
   exists: false

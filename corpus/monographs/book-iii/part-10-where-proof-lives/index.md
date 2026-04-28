@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part X: Where Proof Lives"
-permalink: /corpus/monographs/book-iii/part-10-where-proof-lives/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-10-where-proof-lives/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 10
@@ -15,26 +15,32 @@ part_display: "Part X"
 part_slug: "part-10-where-proof-lives"
 chapter_count: 11
 summary_short: "The world exists (E₁). Life can model it (E₂). Can the modelling *model itself*? This final Part ascends to E₃—the enrichment layer where proof…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-10-where-proof-lives/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-10-where-proof-lives/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book III"
     layer: "E₀ Mathematics (Hinge)"
     chapters: "11"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The world exists (E₁). Life can model it (E₂).
 Can the modelling *model itself*?

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Reactor antineutrino anomaly"
 permalink: "/program/research-agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-reactor-antineutrino-anomaly"
 id: "phys-reactor-antineutrino-anomaly"
 short_title: "Reactor antineutrino anomaly"
@@ -102,15 +102,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-reactor-antineutrino-anomaly"
-  mapped_from_source_entries:
-    - "wikipedia-physics-reactor-antineutrino-anomaly"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -121,12 +112,6 @@ tags:
   - "wikipedia-physics"
   - "reactor-antineutrino-anomaly"
   - "high-energy-particle-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "reactor-antineutrino-anomaly"
-  - "high-energy-particle-physics"
-  - "Reactor antineutrino anomaly"
 url: "/program/research-agenda/problem-ledger/physics/reactor-antineutrino-anomaly/"
 results_mirror:
   exists: false

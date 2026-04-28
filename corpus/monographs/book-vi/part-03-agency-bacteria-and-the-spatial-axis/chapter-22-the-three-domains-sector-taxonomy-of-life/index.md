@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 22: The Three Domains: Sector Taxonomy of Life"
-permalink: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 3
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 21: Membranes: Self-Assembly and the First Distinct
 next_chapter_url: "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/"
 next_chapter_title: "Chapter 23: The Source Sector: Structure Generation"
 summary_short: "Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence (α) archetype, Bacteria the agency (π)…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
+canonical_part_url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
 canonical_part_title: "Part III: Agency — Bacteria and the Spatial Axis"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part III: Agency — Bacteria and the Spatial Axis"
-    url: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part III: Agency — Bacteria and the Spatial Axis"
+      url: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part III"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence (α) archetype, Bacteria the agency (π) archetype, and Eukarya not a sector but a fiber-enabled regime whose nucleus and organelles permit operation in any sector plus the mixed sector. The phylogenetic tree becomes a sector-decorated graph in which horizontal gene transfer crosses sector boundaries.

@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Strong CP problem and axions"
 permalink: "/program/research-agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "phys-strong-cp-problem-and-axions"
 id: "phys-strong-cp-problem-and-axions"
 short_title: "Strong CP problem and axions"
@@ -142,15 +142,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "phys-strong-cp-problem-and-axions"
-  mapped_from_source_entries:
-    - "wikipedia-physics-strong-cp-problem-and-axions"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -161,12 +152,6 @@ tags:
   - "wikipedia-physics"
   - "strong-cp-problem-and-axions"
   - "high-energy-particle-physics"
-search_keywords:
-  - "physics"
-  - "wikipedia-physics"
-  - "strong-cp-problem-and-axions"
-  - "high-energy-particle-physics"
-  - "Strong CP problem and axions"
 url: "/program/research-agenda/problem-ledger/physics/strong-cp-problem-and-axions/"
 results_mirror:
   exists: false

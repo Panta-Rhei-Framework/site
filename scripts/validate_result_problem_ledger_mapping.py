@@ -49,16 +49,34 @@ def parse_scalar(frontmatter: str, key: str) -> str:
 
 
 def parse_ids(frontmatter: str, path: Path) -> list[str]:
-    match = re.search(r"^problem_ledger_ids:\s*(.+)$", frontmatter, re.MULTILINE)
-    if not match:
-        raise AssertionError(f"{path}: missing problem_ledger_ids")
-    value = match.group(1).strip()
-    if value == "[]":
-        return []
     try:
-        parsed = ast.literal_eval(value)
-    except Exception as exc:  # pragma: no cover - defensive diagnostics
-        raise AssertionError(f"{path}: invalid problem_ledger_ids value {value!r}") from exc
+        import yaml  # type: ignore
+
+        data = yaml.safe_load(frontmatter) or {}
+        if "problem_ledger_ids" not in data:
+            raise AssertionError(f"{path}: missing problem_ledger_ids")
+        parsed = data["problem_ledger_ids"]
+    except ImportError:
+        match = re.search(r"^problem_ledger_ids:[ \t]*(.*)$", frontmatter, re.MULTILINE)
+        if not match:
+            raise AssertionError(f"{path}: missing problem_ledger_ids")
+        value = match.group(1).strip()
+        if value == "[]":
+            parsed = []
+        elif value:
+            try:
+                parsed = ast.literal_eval(value)
+            except Exception as exc:  # pragma: no cover - defensive diagnostics
+                raise AssertionError(f"{path}: invalid problem_ledger_ids value {value!r}") from exc
+        else:
+            parsed = []
+            lines = frontmatter[match.end() :].splitlines()
+            for line in lines:
+                if not line.startswith("  - "):
+                    break
+                parsed.append(line[4:].strip().strip('"').strip("'"))
+    if parsed is None:
+        parsed = []
     if not isinstance(parsed, list) or not all(isinstance(item, str) for item in parsed):
         raise AssertionError(f"{path}: problem_ledger_ids must be a list of strings")
     return parsed

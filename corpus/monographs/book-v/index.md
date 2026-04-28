@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-book
+layout: "corpus-monograph-book"
 title: "Book V: Categorical Macrocosm"
-permalink: /corpus/monographs/book-v/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_book
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_book"
 book_id: "V"
 book_slug: "book-v"
 subtitle: "The Biography of the Universe"
@@ -15,29 +15,39 @@ part_count: 8
 chapter_count: 58
 page_count: 542
 summary_short: "The Biography of the Universe"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/"
 summary_cards:
-- title: Subtitle
-  body: "The Biography of the Universe"
-- title: Structure
-  body: "8 parts, 58 chapters, 542 pages"
-- title: Layer
-  body: "E₁ Physics (Macrocosm)"
+  -
+    title: "Subtitle"
+    body: "The Biography of the Universe"
+  -
+    title: "Structure"
+    body: "8 parts, 58 chapters, 542 pages"
+  -
+    title: "Layer"
+    body: "E₁ Physics (Macrocosm)"
 right_rail:
   related:
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
-  - title: "Construction Spine"
-    url: /corpus/construction-spine/
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
+    -
+      title: "Construction Spine"
+      url: "/corpus/construction-spine/"
   meta:
     type: "Corpus Monograph"
     layer: "E₁ Physics (Macrocosm)"
     parts: "8"
     chapters: "58"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
 ## Reading edition

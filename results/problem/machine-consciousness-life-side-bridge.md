@@ -1,26 +1,34 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Machine Consciousness (Life-side bridge)"
-permalink: /results/problem/machine-consciousness-life-side-bridge/
-result_id: result-133
-problem_ledger_ids: ["life-consciousness"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: P
+permalink: "/results/problem/machine-consciousness-life-side-bridge/"
+id: "result-133"
+result_id: "result-133"
+problem_ledger_ids:
+  - "life-consciousness"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "P"
 domain_group: "CONS"
 summary_short: "Machine Consciousness (Life-side bridge) is a frontier problem in the CONS domain."
-canonical_books: ["VI", "VII"]
+canonical_books:
+  - "VI"
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

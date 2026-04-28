@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part III: Agency — Bacteria and the Spatial Axis"
-permalink: /corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 3
@@ -15,26 +15,32 @@ part_display: "Part III"
 part_slug: "part-03-agency-bacteria-and-the-spatial-axis"
 chapter_count: 6
 summary_short: "The π-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the τ¹ base. Bacteria—the most…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VI"
     layer: "E₂ Life"
     chapters: "6"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The π-sector: **spatial motility and environmental interaction**. The agency sector is
 anchored on the spatial axis of the τ¹ base. Bacteria—the most abundant organisms on

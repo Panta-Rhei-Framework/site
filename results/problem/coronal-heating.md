@@ -1,27 +1,33 @@
 ---
-
-layout: result-page
-title: 'Coronal Heating: Parameter-Free Damping Length from dim(T²)=2'
-permalink: /results/problem/coronal-heating/
-result_id: result-243
-problem_ledger_ids: ["phys-coronal-heating-problem"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Coronal Heating: Parameter-Free Damping Length from dim(T²)=2"
+permalink: "/results/problem/coronal-heating/"
+id: "result-243"
+result_id: "result-243"
+problem_ledger_ids:
+  - "phys-coronal-heating-problem"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'Solar coronal heating — one of the oldest open problems in classical physics — is internally addressed by deriving the heating damping length from dim(T²)=2 (V.T253, Book V ch65): F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹, L_d ≈ 0.02 R_⊙. Parameter-free, not fitted to experiment.'
-canonical_books: ["V"]
+summary_short: "Solar coronal heating — one of the oldest open problems in classical physics — is internally addressed by deriving the heating damping length from dim(T²)=2 (V.T253, Book V ch65): F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹, L_d ≈ 0.02 R_⊙. Parameter-free, not fitted to experiment."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

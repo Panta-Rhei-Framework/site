@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VIII: Where Physics Lives"
-permalink: /corpus/monographs/book-iii/part-08-where-physics-lives/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iii/part-08-where-physics-lives/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "III"
 book_slug: "book-iii"
 part_number: 8
@@ -15,26 +15,32 @@ part_display: "Part VIII"
 part_slug: "part-08-where-physics-lives"
 chapter_count: 4
 summary_short: "The Hinge Theorem is proved. The mathematical arc is closed. Now the driving question returns: *Where does physics live?* Chapter 2 previewed eight…"
-canonical_book_url: /corpus/monographs/book-iii/
+canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
-publication_book_url: /publications/books/book-iii/
-legacy_publication_url: /publications/books/book-iii/part-08-where-physics-lives/
+publication_book_url: "/publications/books/book-iii/"
+legacy_publication_url: "/publications/books/book-iii/part-08-where-physics-lives/"
 right_rail:
   related:
-  - title: "Book III: Categorical Spectrum"
-    url: /corpus/monographs/book-iii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iii/
-  - title: "Registry"
-    url: /registry/books/book-iii/
+    -
+      title: "Book III: Categorical Spectrum"
+      url: "/corpus/monographs/book-iii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book III"
     layer: "E₀ Mathematics (Hinge)"
     chapters: "4"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Hinge Theorem is proved. The mathematical arc is closed.
 Now the driving question returns: *Where does physics live?*

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 42: Code/Decode and Diagonal Protection"
-permalink: /corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 7
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 41: Pre-Yoneda Embedding"
 next_chapter_url: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-43-tau-enriches-over-itself/"
 next_chapter_title: "Chapter 43: τ Enriches Over Itself"
 summary_short: "A holomorphic function on τ³ is determined by its boundary behavior—this is the lesson of the Mutual Determination Theorem (II.T27) and the Global Hartogs…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/
+canonical_part_url: "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/"
 canonical_part_title: "Part VII: Regularity and Mutual Determination"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part VII: Regularity and Mutual Determination"
-    url: /corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part VII: Regularity and Mutual Determination"
+      url: "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part VII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 A holomorphic function on τ³
 is determined by its boundary behavior—this

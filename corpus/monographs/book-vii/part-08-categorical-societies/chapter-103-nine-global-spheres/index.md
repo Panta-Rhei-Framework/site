@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 103: Nine Global Spheres"
-permalink: /corpus/monographs/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 8
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 102: From Collective to Individual"
 next_chapter_url: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-104-political-philosophy-in-tau/"
 next_chapter_title: "Chapter 104: Political Philosophy in τ"
 summary_short: "Social life is organized at multiple scales, from the intimate pair to the planetary species. This chapter classifies nine structural spheres — self, pair,…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-canonical_part_url: /corpus/monographs/book-vii/part-08-categorical-societies/
+canonical_part_url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
 canonical_part_title: "Part VIII: Categorical Societies"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Part VIII: Categorical Societies"
-    url: /corpus/monographs/book-vii/part-08-categorical-societies/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Part VIII: Categorical Societies"
+      url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VII"
     part: "Part VIII"
     layer: "E₃ Metaphysics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Social life is organized at multiple scales, from the intimate pair
 to the planetary species. This chapter classifies nine structural

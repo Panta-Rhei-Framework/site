@@ -1,27 +1,35 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Life as Structurally Favored Rather Than Accidental"
-permalink: /results/problem/life-as-structurally-favored-rather-than-accidental/
-result_id: result-084
+permalink: "/results/problem/life-as-structurally-favored-rather-than-accidental/"
+id: "result-084"
+result_id: "result-084"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: consequence
-bridge_status: qualitative
-result_kind: consequence
-importance_class: high-impact-frontier-problem
-status_code: Q
+topic: "biology"
+layer: "life"
+result_type: "consequence"
+bridge_status: "qualitative"
+result_kind: "consequence"
+importance_class: "high-impact-frontier-problem"
+status_code: "Q"
 domain_group: "Cross-Stack"
 summary_short: "Likely typed as qualitative / structural."
-canonical_books: ["III", "VI"]
+canonical_books:
+  - "III"
+  - "VI"
 right_rail:
   meta:
     type: "Consequence"
-    layer: Life
-    topic: Biology
+    layer: "Life"
+    topic: "Biology"
     status: "Qualitative"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 Is life a cosmic accident — an improbable fluctuation in an indifferent universe — or is it structurally favored by the laws of physics? The prevailing scientific narrative leans toward accident: life arose through a sequence of low-probability events and could easily not have occurred.

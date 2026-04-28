@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Mutual Determination: Five Characterizations of Holomorphic Functions'
-permalink: /results/problem/mutual-determination/
-result_id: result-004
+layout: "result-page"
+title: "Mutual Determination: Five Characterizations of Holomorphic Functions"
+permalink: "/results/problem/mutual-determination/"
+id: "result-004"
+result_id: "result-004"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: Five characterizations of τ-holomorphic functions are mutually equivalent,
-  making the theory structurally over-determined.
-canonical_books: ["II"]
+summary_short: "Five characterizations of τ-holomorphic functions are mutually equivalent, making the theory structurally over-determined."
+canonical_books:
+  - "II"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ In classical complex analysis, holomorphic functions are defined by Cauchy-Riema
 ## Result Statement
 
 Five characterizations of τ-holomorphic functions are mutually equivalent (II.T27): (R) refinement sequence, (S) spectral decomposition, (G) omega-germ transformer, (C) boundary character on L, (H) Hartogs extension.
-

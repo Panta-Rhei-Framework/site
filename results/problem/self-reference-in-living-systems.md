@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Self-Reference in Living Systems"
-permalink: /results/problem/self-reference-in-living-systems/
-result_id: result-184
+permalink: "/results/problem/self-reference-in-living-systems/"
+id: "result-184"
+result_id: "result-184"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: foundational_math
-bridge_status: resolved
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "foundational_math"
+bridge_status: "resolved"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "FORM"
 summary_short: "Living systems are self-referential — they model and modify themselves. The τ-framework formalizes this as SelfDesc: the self-description operator whose cl…"
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Foundational Math"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

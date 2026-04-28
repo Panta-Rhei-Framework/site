@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "BSD Conjecture Approach"
-permalink: /results/problem/bsd-conjecture-approach/
-result_id: result-230
+permalink: "/results/problem/bsd-conjecture-approach/"
+id: "result-230"
+result_id: "result-230"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: frontier_problem
-bridge_status: partial
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: P
+topic: "mathematics"
+layer: "mathematics"
+result_type: "frontier_problem"
+bridge_status: "partial"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "P"
 domain_group: "MILL"
 summary_short: "The Birch and Swinnerton-Dyer Conjecture relates the rank of an elliptic curve to the order of vanishing of its L-function. The τ-framework's spectral appr…"
-canonical_books: ["III"]
+canonical_books:
+  - "III"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Mathematics"
     topic: "Mathematics"
     status: "Partial"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

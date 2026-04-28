@@ -1,29 +1,32 @@
 ---
-
-layout: result-page
-title: Neurodegeneration as Hayflick Tower Crossing
-permalink: /results/problem/neurodegeneration-as-hayflick-tower/
-result_id: result-072
+layout: "result-page"
+title: "Neurodegeneration as Hayflick Tower Crossing"
+permalink: "/results/problem/neurodegeneration-as-hayflick-tower/"
+id: "result-072"
+result_id: "result-072"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: Neurodegenerative diseases are structurally identified as specific
-  levels of the neural defect tower reaching their Hayflick bound before the organismal
-  limit.
-canonical_books: ["VI"]
+summary_short: "Neurodegenerative diseases are structurally identified as specific levels of the neural defect tower reaching their Hayflick bound before the organismal limit."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -51,4 +54,3 @@ The result is in the Crown Jewels at rank 27 (score 24, tied with several other 
 ## Result Statement
 
 VI.T54: Neurodegeneration = specific level L_i Hayflick bound exhausted before organismal limit. Alzheimer's = L₁, Parkinson's = L₃, ALS = L₂/L₃, Huntington's = L₄. H_neural = min(H₁,H₂,H₃,H₄). Unified structural taxonomy.
-

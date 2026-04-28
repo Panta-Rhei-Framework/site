@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 24: Navier–Stokes at Macro Level: Regularity from τ³"
-permalink: /corpus/monographs/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 23: Dark Energy as Readout Artifact"
 next_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-25-turbulence-energy-cascades-and-structural-reinterpretation/"
 next_chapter_title: "Chapter 25: Turbulence: Energy Cascades and Structural Reinterpretation"
 summary_short: "The Navier–Stokes regularity question has been addressed at two levels in the preceding books. Book III proved the Positive Regularity Theorem (III.T25):…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-04-collective-dynamics/
+canonical_part_url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
 canonical_part_title: "Part IV: Collective Dynamics"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part IV: Collective Dynamics"
-    url: /corpus/monographs/book-v/part-04-collective-dynamics/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part IV: Collective Dynamics"
+      url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part IV"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Navier–Stokes regularity question
 has been addressed at two levels

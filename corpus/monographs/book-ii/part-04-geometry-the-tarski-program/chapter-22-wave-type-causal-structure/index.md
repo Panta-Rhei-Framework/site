@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 22: Wave-Type Causal Structure"
-permalink: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "II"
 book_slug: "book-ii"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 21: Pasch and the Parallel Postulate"
 next_chapter_url: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/"
 next_chapter_title: "Chapter 23: Orthodox vs.\\ τ Denotation Bridge"
 summary_short: "Chapters [ch:betweenness]–[ch:pasch-parallel] earned Euclidean geometry as a theorem: betweenness, congruence, Pasch, and the parallel postulate all follow…"
-canonical_book_url: /corpus/monographs/book-ii/
+canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/
+canonical_part_url: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
 canonical_part_title: "Part IV: Geometry: The Tarski Program"
-publication_book_url: /publications/books/book-ii/
-legacy_publication_url: /publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/
+publication_book_url: "/publications/books/book-ii/"
+legacy_publication_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/"
 right_rail:
   related:
-  - title: "Book II: Categorical Holomorphy"
-    url: /corpus/monographs/book-ii/
-  - title: "Part IV: Geometry: The Tarski Program"
-    url: /corpus/monographs/book-ii/part-04-geometry-the-tarski-program/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-ii/
-  - title: "Registry"
-    url: /registry/books/book-ii/
+    -
+      title: "Book II: Categorical Holomorphy"
+      url: "/corpus/monographs/book-ii/"
+    -
+      title: "Part IV: Geometry: The Tarski Program"
+      url: "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-ii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-ii/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IV"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapters –
 earned Euclidean geometry as a theorem:

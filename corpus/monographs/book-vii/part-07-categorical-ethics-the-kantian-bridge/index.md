@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-part
+layout: "corpus-monograph-part"
 title: "Part VII: Categorical Ethics & the Kantian Bridge"
-permalink: /corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Part"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_part
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_part"
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 7
@@ -15,26 +15,32 @@ part_display: "Part VII"
 part_slug: "part-07-categorical-ethics-the-kantian-bridge"
 chapter_count: 18
 summary_short: "**Sector S_P (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…"
-canonical_book_url: /corpus/monographs/book-vii/
+canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
-publication_book_url: /publications/books/book-vii/
-legacy_publication_url: /publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/
+publication_book_url: "/publications/books/book-vii/"
+legacy_publication_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
 right_rail:
   related:
-  - title: "Book VII: Categorical Metaphysics"
-    url: /corpus/monographs/book-vii/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vii/
-  - title: "Registry"
-    url: /registry/books/book-vii/
+    -
+      title: "Book VII: Categorical Metaphysics"
+      url: "/corpus/monographs/book-vii/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vii/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vii/"
   meta:
     type: "Corpus Monograph Part"
     book: "Book VII"
     layer: "E₃ Metaphysics"
     chapters: "18"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 **Sector S_P (Practical), Part 1 of 2.**
 What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes

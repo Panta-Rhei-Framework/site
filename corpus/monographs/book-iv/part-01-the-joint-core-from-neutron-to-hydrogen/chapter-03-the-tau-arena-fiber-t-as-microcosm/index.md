@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 3: The τ³ Arena: Fiber T² as Microcosm"
-permalink: /corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 2: Importing Book~III: The E₁ Template"
 next_chapter_url: "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-04-particles-as-persistent-defect-bundles/"
 next_chapter_title: "Chapter 4: Particles as Persistent Defect Bundles"
 summary_short: "The fibered product τ³ = τ¹ ×_f T² was constructed in Books I and II. This chapter does not reconstruct it; instead it extracts the physical…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/
+canonical_part_url: "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
 canonical_part_title: "Part I: The Joint Core: From Neutron to Hydrogen"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part I: The Joint Core: From Neutron to Hydrogen"
-    url: /corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part I: The Joint Core: From Neutron to Hydrogen"
+      url: "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part I"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The fibered product τ³ = τ¹ ×_f T² was constructed
 in Books I and II.

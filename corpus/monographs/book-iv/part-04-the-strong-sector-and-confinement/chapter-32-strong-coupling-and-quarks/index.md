@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 32: Strong Coupling and Quarks"
-permalink: /corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 4
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 31: The τ-Gap Meta-Theorem"
 next_chapter_url: "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/chapter-33-the-vacuum-catastrophe-dissolved/"
 next_chapter_title: "Chapter 33: The Vacuum Catastrophe Dissolved"
 summary_short: "The strong coupling constant α_s ≈ 0.118 is the largest gauge coupling at the Z boson mass. In Category τ, it is a boundary fixed-point invariant: the…"
-canonical_book_url: /corpus/monographs/book-iv/
+canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
-canonical_part_url: /corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/
+canonical_part_url: "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/"
 canonical_part_title: "Part IV: The Strong Sector and Confinement"
-publication_book_url: /publications/books/book-iv/
-legacy_publication_url: /publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/
+publication_book_url: "/publications/books/book-iv/"
+legacy_publication_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/"
 right_rail:
   related:
-  - title: "Book IV: Categorical Microcosm"
-    url: /corpus/monographs/book-iv/
-  - title: "Part IV: The Strong Sector and Confinement"
-    url: /corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-iv/
-  - title: "Registry"
-    url: /registry/books/book-iv/
+    -
+      title: "Book IV: Categorical Microcosm"
+      url: "/corpus/monographs/book-iv/"
+    -
+      title: "Part IV: The Strong Sector and Confinement"
+      url: "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-iv/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-iv/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book IV"
     part: "Part IV"
     layer: "E₁ Physics (Microcosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The strong coupling constant α_s ≈ 0.118 is the largest gauge
 coupling at the Z boson mass. In Category τ, it is a boundary

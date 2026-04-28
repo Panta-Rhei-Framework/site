@@ -1,27 +1,32 @@
 ---
-
-layout: result-page
-title: 'Glass Transition: Regime from Defect-Tuple Phase Space'
-permalink: /results/problem/glass-transition/
-result_id: result-250
+layout: "result-page"
+title: "Glass Transition: Regime from Defect-Tuple Phase Space"
+permalink: "/results/problem/glass-transition/"
+id: "result-250"
+result_id: "result-250"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: 'The glass transition is a rigorous τ-regime (Book IV ch62): glass lives where d₁ ≈ 0 and d₄ ≈ 0 in the defect-tuple phase space. The Glass Threshold K_glass demarcates the regime; the CheckGlass procedure decidably tests membership (IV.P288). First-principles, not phenomenological.'
-canonical_books: ["IV"]
+summary_short: "The glass transition is a rigorous τ-regime (Book IV ch62): glass lives where d₁ ≈ 0 and d₄ ≈ 0 in the defect-tuple phase space. The Glass Threshold K_glass demarcates the regime; the CheckGlass procedure decidably tests membership (IV.P288). First-principles, not phenomenological."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

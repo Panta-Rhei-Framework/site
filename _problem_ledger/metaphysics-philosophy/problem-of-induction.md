@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Problem of induction"
 permalink: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "meta-problem-of-induction"
 id: "meta-problem-of-induction"
 short_title: "Problem of induction"
@@ -102,15 +102,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "meta-problem-of-induction"
-  mapped_from_source_entries:
-    - "wikipedia-philosophy-problem-of-induction"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations: []
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -121,12 +112,6 @@ tags:
   - "wikipedia-philosophy"
   - "problem-of-induction"
   - "epistemology"
-search_keywords:
-  - "metaphysics_philosophy"
-  - "wikipedia-philosophy"
-  - "problem-of-induction"
-  - "epistemology"
-  - "Problem of induction"
 url: "/program/research-agenda/problem-ledger/metaphysics-philosophy/problem-of-induction/"
 results_mirror:
   exists: false

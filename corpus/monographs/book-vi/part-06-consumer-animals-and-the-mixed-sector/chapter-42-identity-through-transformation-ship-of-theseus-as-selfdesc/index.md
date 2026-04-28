@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 42: Identity Through Transformation: Ship of Theseus as SelfDesc"
-permalink: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 41: Learning, Sleep, and the Brain"
 next_chapter_url: "/corpus/monographs/book-vi/part-07-cosmic-life/chapter-43-the-bh-carrier-and-its-canonical-distinction/"
 next_chapter_title: "Chapter 43: The BH Carrier and Its Canonical Distinction"
 summary_short: "The Ship of Theseus paradox is resolved within the SelfDesc framework: substrate replacement preserves life-equivalence because SelfDesc is defined over the…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
+canonical_part_url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
 canonical_part_title: "Part VI: Consumer — Animals and the Mixed Sector"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part VI: Consumer — Animals and the Mixed Sector"
-    url: /corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part VI: Consumer — Animals and the Mixed Sector"
+      url: "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part VI"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Ship of Theseus paradox is resolved within the SelfDesc framework: substrate replacement preserves life-equivalence because SelfDesc is defined over the ω-germ code, not the physical carrier. Two carriers with the same SelfDesc code are life-equivalent regardless of material composition. Metamorphosis—caterpillar to butterfly—provides the most dramatic biological confirmation, where radical carrier restructuring leaves the SelfDesc code unchanged.

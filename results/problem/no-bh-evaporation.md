@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'No Black Hole Evaporation: dM/dn ≥ 0 and Information Preserved'
-permalink: /results/problem/no-bh-evaporation/
-result_id: result-031
+layout: "result-page"
+title: "No Black Hole Evaporation: dM/dn ≥ 0 and Information Preserved"
+permalink: "/results/problem/no-bh-evaporation/"
+id: "result-031"
+result_id: "result-031"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: consequence
-importance_class: consequence-reframing
-status_code: C
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "consequence"
+importance_class: "consequence-reframing"
+status_code: "C"
 domain_group: "Black Holes"
-summary_short: Black hole mass is non-decreasing in the τ-framework (dM/dn ≥ 0 exactly);
-  Hawking evaporation does not occur and information is preserved.
-canonical_books: ["V"]
+summary_short: "Black hole mass is non-decreasing in the τ-framework (dM/dn ≥ 0 exactly); Hawking evaporation does not occur and information is preserved."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Hawking radiation is a quantum field theory effect in curved spacetime that pred
 ## Result Statement
 
 V.C19, V.T114: dM/dn ≥ 0 exactly in the τ-framework — BH mass is non-decreasing. Hawking evaporation does not occur. Information is preserved.
-

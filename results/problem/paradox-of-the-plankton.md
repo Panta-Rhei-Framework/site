@@ -1,26 +1,33 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Paradox of the Plankton: Nash Equilibrium on Carrier Configuration Space"
-permalink: /results/problem/paradox-of-the-plankton/
-result_id: result-255
-problem_ledger_ids: ["life-biology-paradox-of-the-plankton"]
-topic: biology
-layer: life
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+permalink: "/results/problem/paradox-of-the-plankton/"
+id: "result-255"
+result_id: "result-255"
+problem_ledger_ids:
+  - "life-biology-paradox-of-the-plankton"
+topic: "biology"
+layer: "life"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "EVOL"
 summary_short: "Hutchinson's paradox of the plankton is dissolved by the Nash-equilibrium / configuration-space formulation of ecosystem structure (VI.R18): competitive exclusion (VI.R18, Gause) forbids two carriers at the same point x ∈ M; coexistence requires distinct points. High phytoplankton diversity reflects fine-grained niche partitioning along many axes of M — not a violation of competitive exclusion."
-canonical_books: ["VI"]
+canonical_books:
+  - "VI"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Life"
     topic: "Biology"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

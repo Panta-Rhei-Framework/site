@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 73: The TauLib Linearity Audit"
-permalink: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 72: Diagonal Discipline as Linear Logic"
 next_chapter_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/chapter-74-the-self-hosting-landscape/"
 next_chapter_title: "Chapter 74: The Self-Hosting Landscape"
 summary_short: "The Diagonal–Linear Correspondence (Chapter [ch:diagonal-linear-correspondence], I.T37) identified a structural isomorphism between K5's diagonal discipline…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
+canonical_part_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
 canonical_part_title: "Part XVII: The Proof-Theoretic Mirror"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part XVII: The Proof-Theoretic Mirror"
-    url: /corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part XVII: The Proof-Theoretic Mirror"
+      url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part XVII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Diagonal–Linear Correspondence
 (the relevant chapter, I.T37)

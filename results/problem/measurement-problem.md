@@ -1,26 +1,32 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Measurement Problem"
-permalink: /results/problem/measurement-problem/
-result_id: result-170
+permalink: "/results/problem/measurement-problem/"
+id: "result-170"
+result_id: "result-170"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: core-foundational-problem
-status_code: R
+topic: "physics"
+layer: "physics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "core-foundational-problem"
+status_code: "R"
 domain_group: "QM"
 summary_short: "The measurement problem — why quantum systems appear to 'collapse' upon observation — is internally addressed in the τ-framework: measurement is a readout functor from…"
-canonical_books: ["IV"]
+canonical_books:
+  - "IV"
 right_rail:
   meta:
     type: "Frontier Problem"
     layer: "Physics"
     topic: "Physics"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

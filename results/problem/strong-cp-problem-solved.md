@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Strong CP Problem Solved: θ_QCD = 0 from SA-i Admissibility'
-permalink: /results/problem/strong-cp-problem-solved/
-result_id: result-010
+layout: "result-page"
+title: "Strong CP Problem Solved: θ_QCD = 0 from SA-i Admissibility"
+permalink: "/results/problem/strong-cp-problem-solved/"
+id: "result-010"
+result_id: "result-010"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: θ_QCD = 0 exactly, derived from the SA-i admissibility condition on
-  η-winding mod-3 structure. No axion mechanism needed.
-canonical_books: ["IV"]
+summary_short: "θ_QCD = 0 exactly, derived from the SA-i admissibility condition on η-winding mod-3 structure. No axion mechanism needed."
+canonical_books:
+  - "IV"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ The strong CP problem is the puzzling empirical fact that θ_QCD < 10⁻¹⁰ �
 ## Result Statement
 
 IV.T160: θ_QCD = 0 exactly, derived from SA-i admissibility condition (mod-3 structure on η-winding). No axion mechanism is needed.
-

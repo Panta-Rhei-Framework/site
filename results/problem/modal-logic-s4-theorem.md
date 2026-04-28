@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Modal Logic S4 as Theorem: τ-Modal Operators and Kripke Soundness'
-permalink: /results/problem/modal-logic-s4-theorem/
-result_id: result-045
+layout: "result-page"
+title: "Modal Logic S4 as Theorem: τ-Modal Operators and Kripke Soundness"
+permalink: "/results/problem/modal-logic-s4-theorem/"
+id: "result-045"
+result_id: "result-045"
 problem_ledger_ids: []
-topic: mathematics
-layer: mathematics
-result_type: structural_readout
-bridge_status: internal
-result_kind: foundational-math
-importance_class: structural-support-result
-status_code: R
+topic: "mathematics"
+layer: "mathematics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "foundational-math"
+importance_class: "structural-support-result"
+status_code: "R"
 domain_group: "Mathematics"
-summary_short: The modal logic S4 is derived as a theorem within Category τ — possibility
-  and necessity operators arise from the ρ-orbit and depth structure.
-canonical_books: ["I"]
+summary_short: "The modal logic S4 is derived as a theorem within Category τ — possibility and necessity operators arise from the ρ-orbit and depth structure."
+canonical_books:
+  - "I"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Mathematics
-    topic: Mathematics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -36,4 +40,3 @@ Modal logic S4 is one of the most studied normal modal logics; it adds the axiom
 ## Result Statement
 
 VII.T13: The τ-modal operators satisfy S4 axioms (T, 4, K). Kripke soundness confirmed (VII.P07). Modal logic S4 is a theorem of Category τ.
-

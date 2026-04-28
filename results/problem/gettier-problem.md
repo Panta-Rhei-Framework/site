@@ -1,27 +1,36 @@
 ---
-layout: result-page
+layout: "result-page"
 title: "Gettier Problem"
-permalink: /results/problem/gettier-problem/
-result_id: result-080
-problem_ledger_ids: ["meta-gettier-problem"]
-topic: philosophy
-layer: metaphysics
-result_type: frontier_problem
-bridge_status: resolved
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: R
+permalink: "/results/problem/gettier-problem/"
+id: "result-080"
+result_id: "result-080"
+problem_ledger_ids:
+  - "meta-gettier-problem"
+topic: "philosophy"
+layer: "metaphysics"
+result_type: "frontier_problem"
+bridge_status: "resolved"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "R"
 domain_group: "Phenomenology / Epistemology"
 summary_short: "Named explicitly in the hot-topics file and highly legible to philosophers."
-canonical_books: ["VII"]
+canonical_books:
+  - "VII"
 right_rail:
   meta:
     type: "Frontier Problem"
-    layer: Metaphysics
-    topic: Philosophy
+    layer: "Metaphysics"
+    topic: "Philosophy"
     status: "Internally addressed"
-    updated: April 2026
+    updated: "April 2026"
+wikipedia_url: "https://en.wikipedia.org/wiki/Gettier_problem"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
+
 ## Overview
 
 In 1963, Edmund Gettier published a three-page paper that destabilized epistemology. He showed that justified true belief (JTB) — the classical analysis of knowledge since Plato's *Theaetetus* — is insufficient: cases exist where a subject has justified true belief that intuitively fails to constitute knowledge. Decades of attempted repairs (no-false-lemma, defeasibility, reliability, virtue epistemology) have produced no consensus.

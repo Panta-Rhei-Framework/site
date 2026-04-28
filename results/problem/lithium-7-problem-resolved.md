@@ -1,29 +1,33 @@
 ---
-
-layout: result-page
-title: 'Li-7 Framework Account: ⁷Li/H via Fiber Suppression S = 1/3'
-title_plain: 'Li-7 Framework Account: ⁷Li/H via Fiber Suppression S = 1/3'
-permalink: /results/problem/lithium-7-problem-resolved/
-result_id: result-032
-problem_ledger_ids: ["phys-the-lithium-problem"]
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+layout: "result-page"
+title: "Li-7 Framework Account: ⁷Li/H via Fiber Suppression S = 1/3"
+permalink: "/results/problem/lithium-7-problem-resolved/"
+id: "result-032"
+result_id: "result-032"
+problem_ledger_ids:
+  - "phys-the-lithium-problem"
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Physics"
-summary_short: The cosmological lithium-7 abundance discrepancy is internally addressed by a fiber
-  suppression factor S = 1/3 from the T² fiber topology.
-canonical_books: ["V"]
+summary_short: "The cosmological lithium-7 abundance discrepancy is internally addressed by a fiber suppression factor S = 1/3 from the T² fiber topology."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview

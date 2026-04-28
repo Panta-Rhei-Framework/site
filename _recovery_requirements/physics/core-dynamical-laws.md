@@ -50,7 +50,7 @@ verification:
   mode: "law_family_recovery"
   related_results:
     - "/results/world-readout/physics/"
-    - "/publications/monograph-supplements/numerical-physics-ledger/"
+    - "/publications/numerical-physics-ledger/"
   related_corpus_steps:
     - "/corpus/construction-spine/recover-internal-physical-grammar/"
     - "/corpus/construction-spine/measurement-empirical-bridges/"

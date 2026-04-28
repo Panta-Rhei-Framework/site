@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 6: The Layer Separation Lemma: Life Is Genuinely E₂"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/chapter-06-the-layer-separation-lemma-life-is-genuinely-e/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-06-the-layer-separation-lemma-life-is-genuinely-e/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 5: SelfDesc: The Internal Decoding Loop"
 next_chapter_url: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-07-the-life-loop-class-and-metabolic-geometry/"
 next_chapter_title: "Chapter 7: The Life Loop Class and Metabolic Geometry"
 summary_short: "The sharpest formal result of the book: SelfDesc is not automatic for all refinement-coherent distinctions. A neutron star near the TOV limit provides the…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-01-the-life-definition/
+canonical_part_url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
 canonical_part_title: "Part I: The Life Definition"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/chapter-06-the-layer-separation-lemma-life-is-genuinely-e/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-06-the-layer-separation-lemma-life-is-genuinely-e/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part I: The Life Definition"
-    url: /corpus/monographs/book-vi/part-01-the-life-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part I: The Life Definition"
+      url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part I"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The sharpest formal result of the book: SelfDesc is not automatic for all
 refinement-coherent distinctions. A neutron star near the TOV limit provides

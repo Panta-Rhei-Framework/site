@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: 'Genetic Code Optimality: Top 0.01% for Error Minimization'
-permalink: /results/problem/genetic-code-optimality-top-0pt01-percent/
-result_id: result-069
+layout: "result-page"
+title: "Genetic Code Optimality: Top 0.01% for Error Minimization"
+permalink: "/results/problem/genetic-code-optimality-top-0pt01-percent/"
+id: "result-069"
+result_id: "result-069"
 problem_ledger_ids: []
-topic: biology
-layer: life
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: domain-level-open-problem
-status_code: R
+topic: "biology"
+layer: "life"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "domain-level-open-problem"
+status_code: "R"
 domain_group: "Biology"
-summary_short: The standard genetic code is derived as a BSD-motivic structure achieving
-  top 0.01% performance for error minimization among all possible codes.
-canonical_books: ["VI"]
+summary_short: "The standard genetic code is derived as a BSD-motivic structure achieving top 0.01% performance for error minimization among all possible codes."
+canonical_books:
+  - "VI"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Life
-    topic: Biology
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Life"
+    topic: "Biology"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -44,4 +48,3 @@ The result is in the Crown Jewels list at rank 36 (score 23). The Life audit not
 ## Result Statement
 
 VI.T22: Standard genetic code is BSD-motivic structure in top 0.01% of all codes for error minimization. Degeneracy (wobble) derives from τ³ fiber asymmetry. VI.OP16 SOLVED.
-

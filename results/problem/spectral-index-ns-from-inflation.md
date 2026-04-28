@@ -1,28 +1,32 @@
 ---
-
-layout: result-page
-title: Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57
-permalink: /results/problem/spectral-index-ns-from-inflation/
-result_id: result-055
+layout: "result-page"
+title: "Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57"
+permalink: "/results/problem/spectral-index-ns-from-inflation/"
+id: "result-055"
+result_id: "result-055"
 problem_ledger_ids: []
-topic: physics
-layer: physics
-result_type: structural_readout
-bridge_status: internal
-result_kind: frontier-problem
-importance_class: high-impact-frontier-problem
-status_code: P
+topic: "physics"
+layer: "physics"
+result_type: "structural_readout"
+bridge_status: "internal"
+result_kind: "frontier-problem"
+importance_class: "high-impact-frontier-problem"
+status_code: "P"
 domain_group: "Cosmology"
-summary_short: The CMB primordial spectral tilt n_s = 1 – 2/57 is derived from the
-  τ-framework e-fold count N_e = 57, achieving +13 ppm agreement with Planck.
-canonical_books: ["V"]
+summary_short: "The CMB primordial spectral tilt n_s = 1 – 2/57 is derived from the τ-framework e-fold count N_e = 57, achieving +13 ppm agreement with Planck."
+canonical_books:
+  - "V"
 right_rail:
   meta:
-    type: Structural Readout
-    layer: Physics
-    topic: Physics
-    status: Internal
-    updated: April 2026
+    type: "Structural Readout"
+    layer: "Physics"
+    topic: "Physics"
+    status: "Internal"
+    updated: "April 2026"
+generated_from: "corpus/results"
+projection_version: "v0.1"
+canonical_source: "corpus/results"
+do_not_edit: true
 ---
 
 ## Overview
@@ -42,4 +46,3 @@ At +13 ppm this is one of the most precise cosmological predictions. The W₅(3)
 ## Result Statement
 
 V.T198: n_s = 1 – 2/57 at +13 ppm from Planck 0.9649. N_e = 57 = 3·W₅(3) derived from τ-framework. Zero free parameters.
-

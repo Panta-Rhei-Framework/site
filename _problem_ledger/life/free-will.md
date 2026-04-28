@@ -1,6 +1,5 @@
 ---
 layout: "problem-ledger-item"
-render_with_liquid: false
 title: "Free will"
 permalink: "/program/research-agenda/problem-ledger/life/free-will/"
 lane: "program"
@@ -13,6 +12,7 @@ generated_from: "corpus/problem-ledger"
 projection_version: "v1.0"
 canonical_source: "corpus/problem-ledger"
 do_not_edit: true
+render_with_liquid: false
 canonical_problem_id: "life-biology-free-will"
 id: "life-biology-free-will"
 short_title: "Free will"
@@ -106,19 +106,6 @@ related:
   world_readout: []
   recovery_requirements: []
   construction_steps: []
-mapping:
-  mapping_status: "promoted"
-  mapping_target: "life-biology-free-will"
-  mapped_from_source_entries:
-    - "wikipedia-biology-free-will"
-  merged_source_entries: []
-  excluded_source_entries: []
-  mapping_notes: "Promoted in Problem Ledger v1.0 broad public projection."
-cross_domain_relations:
-  -
-    problem_id: "life-neuroscience-free-will-particularly-the-neuroscience-of-free-will"
-    relation_type: "source_preserving_parallel"
-    rationale: "The biology source frames free will as an organism/cognition question; the neuroscience source preserves the neuroscience-of-free-will formulation."
 version:
   item_version: "1.0.0"
   introduced_in: "problem-ledger-wikipedia-import-v1"
@@ -130,13 +117,6 @@ tags:
   - "free-will"
   - "neuroscience-and-cognition"
   - "cognition-and-psychology"
-search_keywords:
-  - "life"
-  - "wikipedia-biology"
-  - "free-will"
-  - "neuroscience-and-cognition"
-  - "cognition-and-psychology"
-  - "Free will"
 url: "/program/research-agenda/problem-ledger/life/free-will/"
 results_mirror:
   exists: false

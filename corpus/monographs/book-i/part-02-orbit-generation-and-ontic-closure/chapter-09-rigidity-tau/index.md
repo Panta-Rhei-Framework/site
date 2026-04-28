@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 9: Rigidity — (τ) = \\\\"
-permalink: /corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 2
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 8: The Iterator-of-Iterator Ladder and Tetration Sa
 next_chapter_url: "/corpus/monographs/book-i/part-03-the-denotational-bridge/chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers/"
 next_chapter_title: "Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers"
 summary_short: "The Ontic Closure Theorem (Chapter [ch:ontic-closure]) established that Obj(τ) is ontically sealed: five pairwise disjoint sets, countable, with unique…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/
+canonical_part_url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
 canonical_part_title: "Part II: Orbit Generation and Ontic Closure"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part II: Orbit Generation and Ontic Closure"
-    url: /corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part II: Orbit Generation and Ontic Closure"
+      url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part II"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The Ontic Closure Theorem
 

@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 4: Orbit-Seeded Generation and the No-Jump Principle"
-permalink: /corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "I"
 book_slug: "book-i"
 part_number: 1
@@ -21,30 +21,37 @@ prev_chapter_title: "Chapter 3: The Iterator ρ and the Omega Beacon"
 next_chapter_url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/chapter-05-the-object-closure-axiom-and-the-static-kernel-tau/"
 next_chapter_title: "Chapter 5: The Object Closure Axiom and the Static Kernel τ₀"
 summary_short: "Chapters [ch:five-generators] and [ch:rho-omega] established the signature Σ_τ = (α, π, γ, η, ω, ρ, <) and three kernel axioms: K1 (strict order on the…"
-canonical_book_url: /corpus/monographs/book-i/
+canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
-canonical_part_url: /corpus/monographs/book-i/part-01-the-coherence-kernel/
+canonical_part_url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
 canonical_part_title: "Part I: The Coherence Kernel"
-publication_book_url: /publications/books/book-i/
-legacy_publication_url: /publications/books/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/"
 right_rail:
   related:
-  - title: "Book I: Categorical Foundations"
-    url: /corpus/monographs/book-i/
-  - title: "Part I: The Coherence Kernel"
-    url: /corpus/monographs/book-i/part-01-the-coherence-kernel/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-i/
-  - title: "Registry"
-    url: /registry/books/book-i/
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part I: The Coherence Kernel"
+      url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book I"
     part: "Part I"
     layer: "E₀ Mathematics"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 Chapters  and
 established the signature

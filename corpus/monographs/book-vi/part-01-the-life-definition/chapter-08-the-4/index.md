@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 8: The 4+"
-permalink: /corpus/monographs/book-vi/part-01-the-life-definition/chapter-08-the-4/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-08-the-4/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
@@ -21,29 +21,36 @@ prev_chapter_title: "Chapter 7: The Life Loop Class and Metabolic Geometry"
 next_chapter_url: "/corpus/monographs/book-vi/part-01-the-life-definition/chapter-09-the-seven-hallmarks-derived/"
 next_chapter_title: "Chapter 9: The Seven Hallmarks Derived"
 summary_short: "The 4+1 sector template of Book III is instantiated at enrichment level E₂. The base-fiber geometry of τ³ = τ¹ ×_f T² organizes the five Life…"
-canonical_book_url: /corpus/monographs/book-vi/
+canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
-canonical_part_url: /corpus/monographs/book-vi/part-01-the-life-definition/
+canonical_part_url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
 canonical_part_title: "Part I: The Life Definition"
-publication_book_url: /publications/books/book-vi/
-legacy_publication_url: /publications/books/book-vi/part-01-the-life-definition/chapter-08-the-4/
+publication_book_url: "/publications/books/book-vi/"
+legacy_publication_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-08-the-4/"
 right_rail:
   related:
-  - title: "Book VI: Categorical Life"
-    url: /corpus/monographs/book-vi/
-  - title: "Part I: The Life Definition"
-    url: /corpus/monographs/book-vi/part-01-the-life-definition/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-vi/
-  - title: "Registry"
-    url: /registry/books/book-vi/
+    -
+      title: "Book VI: Categorical Life"
+      url: "/corpus/monographs/book-vi/"
+    -
+      title: "Part I: The Life Definition"
+      url: "/corpus/monographs/book-vi/part-01-the-life-definition/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-vi/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-vi/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book VI"
     part: "Part I"
     layer: "E₂ Life"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
-
 
 The 4+1 sector template of Book III is instantiated at enrichment level E₂. The base-fiber geometry of τ³ = τ¹ ×_f T² organizes the five Life sectors: the base generators (α, π) carry the worldline sectors—Persistence (temporal stability) and Agency (spatial motility)—while the fiber generators (γ, η) carry the metabolic sectors—Source (structure production) and Closure (structure recycling). A unique mixed sector on the fiber pair (γ, η), determined by the Consumer Mixer Uniqueness theorem of the relevant chapter, completes the template: the Consumer sector, which acquires structure and energy from other Life. Four primitive sectors plus one mixed sector generate the complete Life-layer structure. Generator Adequacy is proven and the structural exclusion of a fifth primitive sector is established. Biological archetypes—Archaea, Bacteria, Plants, Fungi, Animals—illustrate but do not define the sectors. Eukarya is not a sector; it is carrier technology.
