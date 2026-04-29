@@ -1,17 +1,16 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N24 — QNM frequency ratio ιτ⁻¹"
-permalink: /falsifications/n24-qnm-frequency-ratio-1/
-lane: results
+permalink: "/falsifications/n24-qnm-frequency-ratio-1/"
+lane: "results"
 falsification_id: "N24"
 n_num: 24
-tier: A
+tier: "A"
 domain: "black-holes"
 domain_display: "Black Holes"
 prediction: "2.929$iota-tau-inv approx 2.929. quasinormal modes!ratio prediction pred:n24 $T^2$ winding modes give $_(1,0)/_(0,1) = _^-1$ (V.T168). Orthodox $S^2$: $_3/_2 1.5$."
 experiment: "LIGO/Virgo A+, LISA, Einstein Telescope"
 timeline: "2029–2035."
-decisive: ""
 current_status: "consistent"
 seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T168"
@@ -21,18 +20,25 @@ summary_short: "N24: QNM frequency ratio ιτ⁻¹. LIGO/Virgo A+, LISA, Einstei
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Black Holes"
     status: "Consistent"
     experiment: "LIGO/Virgo A+, LISA, Einstein Telescope"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N24: Prediction

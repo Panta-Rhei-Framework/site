@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Muon-to-Electron Mass Ratio"
 title_plain: "Muon-to-Electron Mass Ratio"
-permalink: /predictions/m-m/
-lane: results
+permalink: "/predictions/m-m/"
+lane: "results"
 prediction_id: "pred-003"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>⁻⁴.⁹⁶"
 formula_mathml: "<math><mi>ι<sub>τ</sub>⁻⁴.⁹⁶</mi></math>"
 formula_display: "mμ / mₑ = ι<sub>τ</sub>⁻⁴·⁹⁶ ≈ 206.1"
 tau_value: "≈!206.1"
+observed: "206.768"
 observed_value: "206.768"
 deviation: "+307~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "IV.T148"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "Muon-to-Electron Mass Ratio: τ-value ≈!206.1, observed 206.76
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "10–1000 ppm"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -76,4 +84,3 @@ from higher spectral levels.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

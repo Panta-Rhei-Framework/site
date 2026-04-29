@@ -93,7 +93,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Fine-Tuning Dissolved](/results/problem/fine-tuning-dissolved/) — *Consequence* · Internally addressed
 - [Fitness Landscape Theory](/results/problem/fitness-landscape-theory/) — *Foundational Math* · Internally addressed
 - [Flat Galaxy Rotation Curves from Capacity Gradient](/results/problem/flat-rotation-curves/) — *Frontier Problem* · Internally addressed
-- [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — *Foundational Math* · Internally addressed
+- [Fourth Quadrant Framework Account: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — *Foundational Math* · Internally addressed
 - [Free Will and Moral Responsibility](/results/problem/free-will-and-moral-responsibility/) — *Frontier Problem* · Internally addressed
 - [Free Will as Branching: Compatibilism Dissolved as Scale Confusion](/results/problem/free-will-as-branching/) — *Frontier Problem* · Internally addressed
 - [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — *Foundational Math* · Internally addressed
@@ -237,12 +237,12 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Time Derivation Theorem: Proper Time from K0–K6](/results/problem/time-derivation-theorem/) — *Foundational Math* · Internally addressed
 - [Tower Machine Architecture](/results/problem/tower-machine-architecture/) — *Foundational Math* · Internally addressed
 - [Translation Functor tau → ZFC](/results/problem/translation-functor-tau-zfc/) — *Consequence* · Partial
-- [Trolley Problem Resolution](/results/problem/trolley-problem-resolution/) — *Frontier Problem* · Internally addressed
+- [Trolley Problem Framework Account](/results/problem/trolley-problem-resolution/) — *Frontier Problem* · Internally addressed
 - [Trophic Cascade Dynamics](/results/problem/trophic-cascade-dynamics/) — *Foundational Math* · Internally addressed
 - [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — *Frontier Problem* · Internally addressed
 - [Twin Primes](/results/problem/twin-primes/) — *Frontier Problem* · Not Addressed
 - [Unique Infinity](/results/problem/unique-infinity/) — *Consequence* · Internally addressed
-- [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — *Frontier Problem* · Internally addressed
+- [Vacuum Catastrophe Framework Account](/results/problem/vacuum-catastrophe-resolution/) — *Frontier Problem* · Internally addressed
 - [Vacuum Energy = 0: Cosmological Constant Problem Dissolved](/results/problem/vacuum-energy-zero/) — *Frontier Problem* · Internally addressed
 - [Virus Exclusion: NoDist Theorem (3/5 Distinction Conditions Fail)](/results/problem/virus-exclusion-nodist-theorem/) — *Frontier Problem* · Internally addressed
 - [Vitalism vs Mechanism Dissolved](/results/problem/vitalism-vs-mechanism-dissolved/) — *Consequence* · Internally addressed

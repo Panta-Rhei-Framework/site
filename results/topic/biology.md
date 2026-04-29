@@ -18,7 +18,7 @@ right_rail:
 
 **Status:** 47 internally addressed, 1 Partial, 1 Qualitative, 1 Contradicted, 3 Not Addressed.
 
-> **Resolution status vs. scope labels.** The Internally addressed / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
+> **Internal status vs. scope labels.** The Internally addressed / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 

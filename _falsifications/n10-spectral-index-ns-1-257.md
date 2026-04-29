@@ -1,17 +1,16 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N10 — Spectral index $n_s = 1 - 2/57$"
-permalink: /falsifications/n10-spectral-index-ns-1-257/
-lane: results
+permalink: "/falsifications/n10-spectral-index-ns-1-257/"
+lane: "results"
 falsification_id: "N10"
 n_num: 10
-tier: A
+tier: "A"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "n-s = 1 - 2/57. spectral index!prediction pred:n10 $N_e = 57 = 3 19 = (^3) W_5(3)$ (V.D253). $n_s = 0.96491$ at $+13$~ppm from Planck."
 experiment: "CMB-S4, LiteBIRD"
 timeline: "2028–2032."
-decisive: ""
 current_status: "consistent"
 seam: "r-not-slow-roll"
 registry_id: "V.D253"
@@ -21,18 +20,25 @@ summary_short: "N10: Spectral index $n_s = 1 - 2/57$. CMB-S4, LiteBIRD."
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "CMB-S4, LiteBIRD"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N10: Prediction
@@ -83,4 +89,3 @@ $50 ≤ N_e ≤ 60$
 required by CMB observations
 to solve the flatness
 and horizon problems.
-

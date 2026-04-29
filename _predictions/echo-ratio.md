@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "GW Echo Time Ratio"
 title_plain: "GW Echo Time Ratio"
-permalink: /predictions/echo-ratio/
-lane: results
+permalink: "/predictions/echo-ratio/"
+lane: "results"
 prediction_id: "pred-057"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "t₊/t₋ = ι<sub>τ</sub>⁻²"
 formula_mathml: "<math><mi>t₊/t₋ = ι<sub>τ</sub>⁻²</mi></math>"
 formula_display: "t₊/t₋ = ι<sub>τ</sub>⁻² ≈ 8.57"
 tau_value: "8.57"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T185"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "GW Echo Time Ratio: τ-value 8.57, deviation –."
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -63,4 +71,3 @@ $0.8768\,fm$) by selecting the muonic hydrogen value as correct.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 47 — hyperfine-structure), Books IV–V of *Panta Rhei*.
-

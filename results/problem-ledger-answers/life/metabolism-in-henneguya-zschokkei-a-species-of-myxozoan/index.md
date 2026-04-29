@@ -1,52 +1,69 @@
 ---
 layout: "program-doc"
-title: "Metabolism in Henneguya zschokkei, a species of myxozoan"
+title: "Metabolism in Henneguya zschokkei, a species of myxozoan - Problem Answer"
 permalink: "/results/problem-ledger-answers/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Metabolism in Henneguya zschokkei, a species of myxozoan."
+summary_short: "The Corpus currently constrains, reframes, or materially supports an account of this problem."
 canonical_problem_id: "life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan"
+problem_answer_id: "answer-life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan"
+scope_classification: "in_scope"
+answer_strength: "structural_constraint"
+public_answer_status_label: "Structurally constrained"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Metabolism in Henneguya zschokkei, a species of myxozoan
+This species of cnidarian was found to lack mitochondria and, therefore, is incapable of aerobic respiration
 
-## Source
+- Program Problem Ledger item: [life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan](/program/research-agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/)
+- Domain: **Life**
+- Source item path: `problem-ledger/items/life/life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan](/program/research-agenda/problem-ledger/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/)
+## Current Framework Answer
 
-## Current Program Stance
+**Structurally constrained**. The Corpus currently constrains, reframes, or materially supports an account of this problem.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Registry evidence gives a direct Corpus account or constraint.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [VI.D10 - Life Loop Class](/registry/object/VI.D10/) (direct problem account, high confidence): Conservative domain scan matched Metabolism in Henneguya zschokkei, a species of myxozoan to Registry item VI.D10 through the rule terms metabolism, metabolic.
+- [VI.D31 - Metabolic Circulation](/registry/object/VI.D31/) (direct problem account, high confidence): Conservative domain scan matched Metabolism in Henneguya zschokkei, a species of myxozoan to Registry item VI.D31 through the rule terms metabolism, metabolic.
+- [VI.P11 - Krebs Cycle as Loop_L Instantiation](/registry/object/VI.P11/) (direct problem account, high confidence): Conservative domain scan matched Metabolism in Henneguya zschokkei, a species of myxozoan to Registry item VI.P11 through the rule terms metabolism, metabolic.
+- [VI.T09 - Metabolism = Life Loop Class](/registry/object/VI.T09/) (direct problem account, high confidence): Conservative domain scan matched Metabolism in Henneguya zschokkei, a species of myxozoan to Registry item VI.T09 through the rule terms metabolism, metabolic.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

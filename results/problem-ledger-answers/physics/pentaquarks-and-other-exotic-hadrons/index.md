@@ -1,52 +1,72 @@
 ---
 layout: "program-doc"
-title: "Pentaquarks and other exotic hadrons"
+title: "Pentaquarks and other exotic hadrons - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/pentaquarks-and-other-exotic-hadrons/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Pentaquarks and other exotic hadrons."
+summary_short: "The framework currently carries an internal answer for this Problem Ledger item."
 canonical_problem_id: "phys-pentaquarks-and-other-exotic-hadrons"
+problem_answer_id: "answer-phys-pentaquarks-and-other-exotic-hadrons"
+scope_classification: "in_scope"
+answer_strength: "full_answer"
+public_answer_status_label: "Internally addressed"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Pentaquarks and other exotic hadrons
+What combinations of quarks are possible? Are they a tightly bound system of five elementary particles, or a more weakly-bound pairing of a baryon and a meson?
 
-## Source
+- Program Problem Ledger item: [phys-pentaquarks-and-other-exotic-hadrons](/program/research-agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-pentaquarks-and-other-exotic-hadrons.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-pentaquarks-and-other-exotic-hadrons](/program/research-agenda/problem-ledger/physics/pentaquarks-and-other-exotic-hadrons/)
+## Current Framework Answer
 
-## Current Program Stance
+**Internally addressed**. The framework currently carries an internal answer for this Problem Ledger item.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Related Result pages carry a current internal answer route.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [IV.D201 - Glueball](/registry/object/IV.D201/) (direct problem account, high confidence): Explicit Result anchor result-248 for Pentaquarks and other exotic hadrons cites Registry item IV.D201 as part of the current problem-facing account.
+- [IV.P289 - Glueball Mass Prediction](/registry/object/IV.P289/) (direct problem account, high confidence): Conservative domain scan matched Pentaquarks and other exotic hadrons to Registry item IV.P289 through the rule terms glueball, pentaquark, exotic hadron.
+- [IV.P95 - Singlet Classification](/registry/object/IV.P95/) (direct problem account, high confidence): Explicit Result anchor result-248 for Pentaquarks and other exotic hadrons cites Registry item IV.P95 as part of the current problem-facing account.
+- [IV.R64 - Multi-quark states](/registry/object/IV.R64/) (direct problem account, high confidence): Explicit Result anchor result-248 for Pentaquarks and other exotic hadrons cites Registry item IV.R64 as part of the current problem-facing account.
+- [IV.R72 - Glueball mass scale](/registry/object/IV.R72/) (direct problem account, high confidence): Conservative domain scan matched Pentaquarks and other exotic hadrons to Registry item IV.R72 through the rule terms glueball, pentaquark, exotic hadron.
+- [IV.T75 - τ-Yang--Mills Mass Gap Theorem](/registry/object/IV.T75/) (direct problem account, high confidence): Conservative domain scan matched Pentaquarks and other exotic hadrons to Registry item IV.T75 through the rule terms glueball, pentaquark, exotic hadron.
+
+## Related Result Pages
+
+- [Exotic Hadrons: Color-Singlet Enumeration of Tetraquarks and Pentaquarks](/results/problem/exotic-hadrons/) - Internally addressed
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Existing Result-to-Problem mappings were used as primary anchors where they cite Registry IDs.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

@@ -1,17 +1,16 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N26 — GW echo time ratio ιτ⁻²"
-permalink: /falsifications/n26-gw-echo-time-ratio-2/
-lane: results
+permalink: "/falsifications/n26-gw-echo-time-ratio-2/"
+lane: "results"
 falsification_id: "N26"
 n_num: 26
-tier: A
+tier: "A"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "8.57$iota-tau-inv-2 approx 8.57. gravitational wave echoes!prediction pred:n26 Echo time doublet: $t_ = 4GM_^ 1/c^3$; ratio $t_+/t_- = _^-2$ (V.T185). Echoes arise from $T^2$ winding; $S^2$ produces no echoes."
 experiment: "Einstein Telescope, Cosmic Explorer, LISA"
 timeline: "2032–2040."
-decisive: ""
 current_status: "consistent"
 seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T185"
@@ -21,18 +20,25 @@ summary_short: "N26: GW echo time ratio ιτ⁻². Einstein Telescope, Cosmic Ex
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "Einstein Telescope, Cosmic Explorer, LISA"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N26: Prediction

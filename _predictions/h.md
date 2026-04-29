@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Hubble Constant h"
 title_plain: "Hubble Constant h"
-permalink: /predictions/h/
-lane: results
+permalink: "/predictions/h/"
+lane: "results"
 prediction_id: "pred-048"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "τ-native H₀"
 formula_mathml: "<math><mi>τ</mi></math>-native <math><msub><mi>H</mi><mn>0</mn></msub></math>"
 formula_display: "h = 2/3 + ι<sub>τ</sub>²/17 = 0.6735"
 tau_value: "0.6735"
+observed: "0.6736"
 observed_value: "0.6736"
 deviation: "-15~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "V.T196"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Hubble Constant h: τ-value 0.6735, observed 0.6736, deviation -
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -96,4 +104,3 @@ matching Planck at $+269$ ppm
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
-

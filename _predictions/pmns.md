@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "PMNS Solar Mixing Angle θ₁₂"
 title_plain: "PMNS Solar Mixing Angle θ₁₂"
-permalink: /predictions/pmns/
-lane: results
+permalink: "/predictions/pmns/"
+lane: "results"
 prediction_id: "pred-015"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "QLC + ι<sub>τ</sub>² κ_ω"
 formula_mathml: "QLC <math><mi>+ ι<sub>τ</sub>² κ_ω</mi></math>"
 formula_display: "θ₁₂ = QLC + ι<sub>τ</sub>² · κ_ω ≈ 33.0°"
 tau_value: "33.0^∘"
+observed: "33.4^∘"
 observed_value: "33.4^∘"
 deviation: "+3106~ppm"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "IV.T174"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "PMNS Solar Mixing Angle θ₁₂: τ-value 33.0^∘, observed 33
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "1–5%"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -85,4 +93,3 @@ of the quarter-turn argument.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

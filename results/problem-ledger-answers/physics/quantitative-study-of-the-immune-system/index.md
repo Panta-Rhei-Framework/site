@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Quantitative study of the immune system"
+title: "Quantitative study of the immune system - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/quantitative-study-of-the-immune-system/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Quantitative study of the immune system."
+summary_short: "The item is retained as a relevant future problem; no current answer is claimed: Immune-system quantitative modeling is broad enough and structurally relevant enough to be a future Life/defect-dynamics backlog item."
 canonical_problem_id: "phys-quantitative-study-of-the-immune-system"
+problem_answer_id: "answer-phys-quantitative-study-of-the-immune-system"
+scope_classification: "open_backlog_problem"
+answer_strength: "no_current_answer"
+public_answer_status_label: "Backlog open problem"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Quantitative study of the immune system
+What are the quantitative properties of immune responses? What are the basic building blocks of immune system networks?
 
-## Source
+- Program Problem Ledger item: [phys-quantitative-study-of-the-immune-system](/program/research-agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-quantitative-study-of-the-immune-system.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-quantitative-study-of-the-immune-system](/program/research-agenda/problem-ledger/physics/quantitative-study-of-the-immune-system/)
+## Current Framework Answer
 
-## Current Program Stance
+**Backlog open problem**. The item is retained as a relevant future problem; no current answer is claimed: Immune-system quantitative modeling is broad enough and structurally relevant enough to be a future Life/defect-dynamics backlog item.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Immune-system quantitative modeling is broad enough and structurally relevant enough to be a future Life/defect-dynamics backlog item.
 
-## Related Construction Steps
+## Registry Evidence
+
+- No direct Registry evidence is currently claimed for this answer.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- Reviewed in the outside-current-books double-check; Immune-system quantitative modeling is outside current Corpus.
+- The manuscript/Registry scan did not find a direct enough anchor to cite without overclaiming.
+- This item remains intentionally empty; broad thematic adjacency, distant analogy, or generic domain overlap was not treated as sufficient evidence.
+- Final empty-map scope classification: Open backlog problem — Immune-system quantitative modeling is broad enough and structurally relevant enough to be a future Life/defect-dynamics backlog item.

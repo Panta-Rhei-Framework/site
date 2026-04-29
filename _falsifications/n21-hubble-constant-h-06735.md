@@ -1,19 +1,17 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N21 — Hubble constant $h = 0.6735$"
-permalink: /falsifications/n21-hubble-constant-h-06735/
-lane: results
+permalink: "/falsifications/n21-hubble-constant-h-06735/"
+lane: "results"
 falsification_id: "N21"
 n_num: 21
-tier: B
+tier: "B"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "h = 0.6735. Hubble constant!prediction pred:n21 $$-native $H_0 = 67.35$~km/s/Mpc (V.T196), matching Planck but not SH0ES. If future concordance settles on $H_0 > 70$, $$ is in tension."
 experiment: "DESI, JWST, gravitational wave standard sirens"
 timeline: "2025–2035."
-decisive: ""
 current_status: "consistent"
-seam: null
 registry_id: "V.T196"
 canonical_books:
   - "V"
@@ -21,18 +19,25 @@ summary_short: "N21: Hubble constant $h = 0.6735$. DESI, JWST, gravitational wav
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "DESI, JWST, gravitational wave standard sirens"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N21: Prediction
@@ -81,4 +86,3 @@ at $0.067$ dex RMS
 $Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$,
 matching Planck at $+269$ ppm
 (V.T234).
-

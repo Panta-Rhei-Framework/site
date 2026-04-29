@@ -6,7 +6,7 @@ v2_lane: results
 permalink: /results/problem-ledger/
 type: "Compatibility Bridge"
 status: "Compatibility"
-summary_short: "Legacy compatibility bridge to the canonical v2.1 Problem Ledger Answers surface."
+summary_short: "Legacy compatibility bridge to the canonical Problem Answers surface."
 summary_cards:
   - title: "Question first"
     body: "Each entry is read as an answer to a named problem or burden."
@@ -15,7 +15,7 @@ summary_cards:
   - title: "Mirror surface"
     body: "This page mirrors generated Corpus Problem Ledger items where result links already exist."
 hero_ctas:
-  - label: "Problem Ledger Answers"
+  - label: "Problem Answers"
     url: /results/problem-ledger-answers/
     primary: true
   - label: "Agenda Ledger"
@@ -43,11 +43,11 @@ right_rail:
 
 ## v2.1 route
 
-This page is retained as a compatibility bridge. The v2.1 Results-side mirror now lives at [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}).
+This page is retained as a compatibility bridge. The Results-side mirror now lives at [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}).
 
 The Program-side [Problem Ledger]({{ '/program/research-agenda/problem-ledger/' | relative_url }}) names external stress-test problems and records source policy. The Results-side mirror shows where the current Results lane already has an answer, partial answer, structural constraint, or open stance.
 
-The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page is now a compatibility bridge to the v1.0 [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) mirror.
+The current site still exposes the full crawlable [Browse All Results]({{ '/results/browse/' | relative_url }}) catalogue. This page is now a compatibility bridge to the [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) mirror.
 
 Recovery-facing burden tracking belongs to the Program-side [Recovery Requirements]({{ '/program/research-agenda/recovery-requirements/' | relative_url }}) ledger.
 

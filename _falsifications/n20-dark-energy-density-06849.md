@@ -1,19 +1,17 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N20 — Dark energy density ΩΛ = 0.6849"
-permalink: /falsifications/n20-dark-energy-density-06849/
-lane: results
+permalink: "/falsifications/n20-dark-energy-density-06849/"
+lane: "results"
 falsification_id: "N20"
 n_num: 20
-tier: B
+tier: "B"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "Omega-Lambda = 0.6849. dark energy density!prediction pred:n20 $_ = _D(1 + _^3) = 0.6849$ (V.T234), at $-433$~ppm from Planck."
 experiment: "Euclid, DESI, Rubin"
 timeline: "2027–2032."
-decisive: ""
 current_status: "consistent"
-seam: null
 registry_id: "V.T234"
 canonical_books:
   - "V"
@@ -21,18 +19,25 @@ summary_short: "N20: Dark energy density ΩΛ = 0.6849. Euclid, DESI, Rubin."
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "Euclid, DESI, Rubin"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N20: Prediction

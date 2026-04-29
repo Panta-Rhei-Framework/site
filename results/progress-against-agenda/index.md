@@ -18,7 +18,7 @@ right_rail:
   related:
     - title: "Research Agenda"
       url: /program/research-agenda/
-    - title: "Problem Ledger Answers"
+    - title: "Problem Answers"
       url: /results/problem-ledger-answers/
     - title: "Recovery Target Status"
       url: /results/recovery-target-status/

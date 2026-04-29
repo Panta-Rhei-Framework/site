@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Dark Energy Equation of State w₀"
 title_plain: "Dark Energy Equation of State w₀"
-permalink: /predictions/w/
-lane: results
+permalink: "/predictions/w/"
+lane: "results"
 prediction_id: "pred-047"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "defect depletion"
 formula_mathml: "defect depletion"
 formula_display: "w₀ = ι<sub>τ</sub>³ − 1 ≈ −0.960 (not −1)"
 tau_value: "-0.960"
+observed: "-1.0 ± 0.05"
 observed_value: "-1.0 ± 0.05"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.T235"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "Dark Energy Equation of State w₀: τ-value -0.960, observed -1
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "Structural"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -91,4 +99,3 @@ matching Planck at $+269$ ppm
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
-

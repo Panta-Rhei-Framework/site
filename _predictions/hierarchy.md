@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Neutrino Mass Hierarchy"
 title_plain: "Neutrino Mass Hierarchy"
-permalink: /predictions/hierarchy/
-lane: results
+permalink: "/predictions/hierarchy/"
+lane: "results"
 prediction_id: "pred-008"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "r < p ⇒ normal"
 formula_mathml: "<math><mi>r < p ⇒</mi></math> normal"
 formula_display: "r < p in exponent triplet → Normal ordering"
 tau_value: "Normal"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.P127"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Neutrino Mass Hierarchy: τ-value Normal, deviation –."
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -80,4 +88,3 @@ by the early 2030s.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

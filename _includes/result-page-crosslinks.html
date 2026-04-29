@@ -41,17 +41,29 @@
 {%- assign problem_ledger_ids = page.problem_ledger_ids | default: entry.problem_ledger_ids -%}
 {%- if problem_ledger_ids and problem_ledger_ids.size > 0 -%}
 <aside class="result-problem-ledger-links">
-  <h2>Related Problem Ledger items</h2>
-  <p>This Result page is relevant to the following public Problem Ledger item{% if problem_ledger_ids.size != 1 %}s{% endif %}:</p>
-  <div class="registry-list">
+  <h2>Related Problem Answers</h2>
+  <p>This generic Result page supports the exact Problem Answer mirror for the following public Problem Ledger item{% if problem_ledger_ids.size != 1 %}s{% endif %}:</p>
+  <ul class="result-related-answer-list">
     {%- for problem_id in problem_ledger_ids -%}
+      {%- assign answer_page = site.data.problem_answers["problem-answers"] | where: "problem_ledger_id", problem_id | first -%}
       {%- assign problem_page = site.problem_ledger | where: "canonical_problem_id", problem_id | first -%}
+      {%- if answer_page -%}
+    <li>
+      <a href="{{ answer_page.answer_url | relative_url }}">{{ answer_page.short_title | default: answer_page.title | default: problem_id }}</a>
+      <span class="chip chip-small">{{ answer_page.public_answer_status_label | default: "Problem Answer" }}</span>
       {%- if problem_page -%}
-    <a href="{{ problem_page.url | relative_url }}" class="chip">{{ problem_page.title | default: problem_id }}</a>
+      <span class="result-source-link">Source: <a href="{{ problem_page.url | relative_url }}">Problem Ledger item</a></span>
+      {%- endif -%}
+    </li>
+      {%- elsif problem_page -%}
+    <li>
+      <a href="{{ problem_page.url | relative_url }}">{{ problem_page.title | default: problem_id }}</a>
+      <span class="chip chip-small">Problem Answer pending</span>
+    </li>
       {%- else -%}
-    <span class="chip">{{ problem_id }}</span>
+    <li><span class="chip">{{ problem_id }}</span></li>
       {%- endif -%}
     {%- endfor -%}
-  </div>
+  </ul>
 </aside>
 {%- endif -%}

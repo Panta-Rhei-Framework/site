@@ -83,7 +83,7 @@ The biography also carries quantitative content, and that content arrives throug
 
 ## Scope and falsification surface
 
-Three claims in this cluster carry the full weight of the cosmological biography and should be named explicitly as τ-effective — strong internal consequences of the framework, not yet settled empirical facts. The H<sub>0</sub> tension resolution (V.T46), the no-dark-particle / dark-sector closure (V.T47), and the no-Hawking-radiation / no-black-hole-evaporation claim (V.C12) are all τ-effective: they follow from the program's internal architecture and operate as live falsification targets. An H<sub>0</sub> measurement that settles away from the τ-predicted value, a confirmed dark-matter particle detection, or a confirmed evaporation signature would each falsify the corresponding piece of the biography. That is precisely what makes the biography a scientifically serious proposal rather than a closed system.
+Three claims in this cluster carry the full weight of the cosmological biography and should be named explicitly as τ-effective — strong internal consequences of the framework, not yet settled empirical facts. The H<sub>0</sub> tension internal readout (V.T46), the no-dark-particle / dark-sector closure (V.T47), and the no-Hawking-radiation / no-black-hole-evaporation claim (V.C12) are all τ-effective: they follow from the program's internal architecture and operate as live falsification targets. An H<sub>0</sub> measurement that settles away from the τ-predicted value, a confirmed dark-matter particle detection, or a confirmed evaporation signature would each falsify the corresponding piece of the biography. That is precisely what makes the biography a scientifically serious proposal rather than a closed system.
 
 ## Conclusion
 
@@ -94,7 +94,7 @@ Tau proposes a universe whose cosmology is the unfolding of one already coherent
 
 - [V.T06]({{ '/registry/object/V.T06/' | relative_url }}) — Time Derivation
 - [V.D14]({{ '/registry/object/V.D14/' | relative_url }}) — Proper Time as Arc Length
-- [V.T46]({{ '/registry/object/V.T46/' | relative_url }}) — H0 Tension Resolution
+- [V.T46]({{ '/registry/object/V.T46/' | relative_url }}) — H0 Tension Framework Account
 - [V.T47]({{ '/registry/object/V.T47/' | relative_url }}) — Dark Sector Closure
 - [V.T40]({{ '/registry/object/V.T40/' | relative_url }}) — No-Shrink Theorem
 - [V.C12]({{ '/registry/object/V.C12/' | relative_url }}) — No BH Evaporation

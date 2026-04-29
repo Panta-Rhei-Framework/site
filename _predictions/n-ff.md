@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Effective Neutrino Number N_eff"
 title_plain: "Effective Neutrino Number N_eff"
-permalink: /predictions/n-ff/
-lane: results
+permalink: "/predictions/n-ff/"
+lane: "results"
 prediction_id: "pred-039"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "|rm gen| = 3"
 formula_mathml: "<math><mi>|rm gen| = 3</mi></math>"
 formula_display: "N_eff = |gen| = 3.000 (not 3.044, no QED correction)"
 tau_value: "3.000"
+observed: "2.99 ± 0.17"
 observed_value: "2.99 ± 0.17"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.T193"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Effective Neutrino Number N_eff: τ-value 3.000, observed 2.99 �
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -72,4 +80,3 @@ $a_3$. Equivalently, $m_b/m_n = (17/20)\,ι<sub>τ</sub>^-20/13
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
-

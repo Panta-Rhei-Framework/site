@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Magnetic Winding Number"
 title_plain: "Magnetic Winding Number"
-permalink: /predictions/magnetic-winding/
-lane: results
+permalink: "/predictions/magnetic-winding/"
+lane: "results"
 prediction_id: "pred-058"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "w = dim(T²) = 2"
 formula_mathml: "<math><mi>w = dim(T²) = 2</mi></math>"
 formula_display: "w = dim(T²) = 2"
 tau_value: "w = 2"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T227"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Magnetic Winding Number: τ-value w = 2, deviation –."
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -83,4 +91,3 @@ around the shadow is
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
-

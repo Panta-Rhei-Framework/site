@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "High-temperature superconductivity"
+title: "High-temperature superconductivity - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/high-temperature-superconductivity/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for High-temperature superconductivity."
+summary_short: "The Corpus currently constrains, reframes, or materially supports an account of this problem."
 canonical_problem_id: "phys-high-temperature-superconductivity"
+problem_answer_id: "answer-phys-high-temperature-superconductivity"
+scope_classification: "in_scope"
+answer_strength: "structural_constraint"
+public_answer_status_label: "Structurally constrained"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-High-temperature superconductivity
+What is the mechanism that causes certain materials to exhibit superconductivity at temperatures much higher than around 25 kelvins? Is it possible to make a material that is a superconductor at room temperature and atmospheric pressure?
 
-## Source
+- Program Problem Ledger item: [phys-high-temperature-superconductivity](/program/research-agenda/problem-ledger/physics/high-temperature-superconductivity/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-high-temperature-superconductivity.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-high-temperature-superconductivity](/program/research-agenda/problem-ledger/physics/high-temperature-superconductivity/)
+## Current Framework Answer
 
-## Current Program Stance
+**Structurally constrained**. The Corpus currently constrains, reframes, or materially supports an account of this problem.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Registry evidence gives a direct Corpus account or constraint.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [IV.D228 - Temperature as defect gradient](/registry/object/IV.D228/) (direct problem account, high confidence): Conservative domain scan matched High-temperature superconductivity to Registry item IV.D228 through the rule terms temperature.
+- [IV.R154 - Temperature is not fundamental](/registry/object/IV.R154/) (direct problem account, high confidence): Conservative domain scan matched High-temperature superconductivity to Registry item IV.R154 through the rule terms temperature.
+- [IV.T285 - Gibbs--Equilibrium Relation](/registry/object/IV.T285/) (direct problem account, high confidence): Conservative domain scan matched High-temperature superconductivity to Registry item IV.T285 through the rule terms temperature.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

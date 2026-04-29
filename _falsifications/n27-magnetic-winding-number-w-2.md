@@ -1,19 +1,17 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N27 — Magnetic winding number $w = 2$"
-permalink: /falsifications/n27-magnetic-winding-number-w-2/
-lane: results
+permalink: "/falsifications/n27-magnetic-winding-number-w-2/"
+lane: "results"
 falsification_id: "N27"
 n_num: 27
-tier: binary
+tier: "binary"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "magnetic winding!prediction pred:n27 The RM winding theorem (V.T227): $w = (T^2) = 2$. Faraday rotation measure near BH jets encodes toroidal winding."
 experiment: "SKA, ngVLA, ngEHT polarimetry"
 timeline: "2030–2035."
-decisive: ""
 current_status: "consistent"
-seam: null
 registry_id: "V.T227"
 canonical_books:
   - "V"
@@ -21,18 +19,25 @@ summary_short: "N27: Magnetic winding number $w = 2$. SKA, ngVLA, ngEHT polarime
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "SKA, ngVLA, ngEHT polarimetry"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N27: Prediction
@@ -80,4 +85,3 @@ for $T^2$ and $1$ for $S^2$.
 
 The Stokes $V$ circular polarization winding number
 around the shadow is
-

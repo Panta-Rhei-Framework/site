@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Primordial Deuterium Abundance D/H"
 title_plain: "Primordial Deuterium Abundance D/H"
-permalink: /predictions/d-h/
-lane: results
+permalink: "/predictions/d-h/"
+lane: "results"
 prediction_id: "pred-044"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "τ-native ηB"
 formula_mathml: "<math><mi>τ</mi></math>-native <math><mi>ηB</mi></math>"
 formula_display: "D/H = τ-native from η_B ≈ 2.52 × 10⁻⁵"
 tau_value: "2.52!×!10⁻⁵"
+observed: "2.53!×!10⁻⁵"
 observed_value: "2.53!×!10⁻⁵"
 deviation: "-0.4%"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "V.T241"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Primordial Deuterium Abundance D/H: τ-value 2.52!×!10⁻⁵, o
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -73,4 +81,3 @@ quantifies this anti-correlation.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Kolmogorov Structure Function Exponents ζ_p"
 title_plain: "Kolmogorov Structure Function Exponents ζ_p"
-permalink: /predictions/pred-63/
-lane: results
+permalink: "/predictions/pred-63/"
+lane: "results"
 prediction_id: "pred-063"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
@@ -13,10 +13,11 @@ formula_plain: "(p/9)(1 - (2/3)ᵖ/³)"
 formula_mathml: "<math><mi>(p/9)(1 - (2/3)ᵖ/³)</mi></math>"
 formula_display: "ζ_p = (p/9)(1 − (2/3)^(p/3))"
 tau_value: "see text"
+observed: "DNS data"
 observed_value: "DNS data"
 deviation: "< 1%"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "V.T249"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Kolmogorov Structure Function Exponents ζ_p: τ-value see text,
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Collective Dynamics"
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -119,4 +127,3 @@ Agreement $<1%$ for all $p ≤ 12$.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
-

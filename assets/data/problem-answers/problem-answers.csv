@@ -1,0 +1,240 @@
+problem_ledger_id,title,domain_slug,scope_classification,answer_strength,public_answer_status_label,registry_item_count,related_result_count,answer_url
+math-birch-swinnerton-dyer-conjecture,Birch and Swinnerton-Dyer,mathematics,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/mathematics/birch-swinnerton-dyer-conjecture/
+math-hodge-conjecture,Hodge,mathematics,in_scope,partial_answer,Partially addressed,4,1,/results/problem-ledger-answers/mathematics/hodge-conjecture/
+math-langlands-program,Langlands,mathematics,in_scope,partial_answer,Partially addressed,4,1,/results/problem-ledger-answers/mathematics/langlands-program/
+math-navier-stokes-existence-smoothness,Navier-Stokes,mathematics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/mathematics/navier-stokes-existence-smoothness/
+math-p-vs-np,P vs NP,mathematics,in_scope,partial_answer,Partially addressed,7,1,/results/problem-ledger-answers/mathematics/p-vs-np/
+math-poincare-conjecture,Poincare,mathematics,in_scope,full_answer,Internally addressed,3,1,/results/problem-ledger-answers/mathematics/poincare-conjecture/
+math-riemann-hypothesis,Riemann Hypothesis,mathematics,in_scope,partial_answer,Partially addressed,3,2,/results/problem-ledger-answers/mathematics/riemann-hypothesis/
+math-yang-mills-existence-mass-gap,Yang-Mills Mass Gap,mathematics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/mathematics/yang-mills-existence-mass-gap/
+phys-abiogenesis,Abiogenesis,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/abiogenesis/
+phys-agemetallicity-relation-in-the-galactic-disk,Age–metallicity relation in the Galactic disk,physics,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/physics/agemetallicity-relation-in-the-galactic-disk/
+phys-alfvenic-turbulence,Alfvénic turbulence,physics,in_scope,structural_constraint,Structurally constrained,9,0,/results/problem-ledger-answers/physics/alfvenic-turbulence/
+phys-amorphous-solids,Amorphous solids,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/amorphous-solids/
+phys-anomalous-magnetic-dipole-moment,Anomalous magnetic dipole moment,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/anomalous-magnetic-dipole-moment/
+phys-arrow-of-time-e-g-entropy-s-arrow-of-time,Arrow of time (e.g. entropy's arrow of time),physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/
+phys-astrophysical-jet,Astrophysical jet,physics,in_scope,full_answer,Internally addressed,3,1,/results/problem-ledger-answers/physics/astrophysical-jet/
+phys-ball-lightning,Ball lightning,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/ball-lightning/
+phys-black-holes-black-hole-information-paradox-and-black-hole-radiation,"Black holes, black hole information paradox, and black hole radiation",physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/
+phys-color-confinement,Color confinement,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/color-confinement/
+phys-complexity-classes-problems,Complexity classes problems,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/complexity-classes-problems/
+phys-coronal-heating-problem,Coronal heating problem,physics,in_scope,full_answer,Internally addressed,3,1,/results/problem-ledger-answers/physics/coronal-heating-problem/
+phys-cosmic-inflation,Cosmic inflation,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/cosmic-inflation/
+phys-cosmological-constant-problem,Cosmological constant problem,physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/cosmological-constant-problem/
+phys-cosmological-principle,Cosmological principle,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/cosmological-principle/
+phys-cryogenic-electron-emission,Cryogenic electron emission,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/cryogenic-electron-emission/
+phys-dark-matter,Dark Matter,physics,in_scope,full_answer,Internally addressed,15,4,/results/problem-ledger-answers/physics/dark-matter/
+phys-dark-energy,Dark energy,physics,in_scope,full_answer,Internally addressed,5,2,/results/problem-ledger-answers/physics/dark-energy/
+phys-dark-flow,Dark flow,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/dark-flow/
+phys-diffuse-interstellar-bands,Diffuse interstellar bands,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/diffuse-interstellar-bands/
+phys-dimensionless-physical-constants,Dimensionless physical constants,physics,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/physics/dimensionless-physical-constants/
+phys-extra-dimensions,Extra dimensions,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/extra-dimensions/
+phys-fast-radio-bursts-frbs,Fast radio bursts (FRBs),physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/fast-radio-bursts-frbs/
+phys-flyby-anomaly,Flyby anomaly,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/flyby-anomaly/
+phys-fractional-hall-effect,Fractional Hall effect,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/fractional-hall-effect/
+phys-galaxy-rotation-problem,Galaxy rotation problem,physics,in_scope,full_answer,Internally addressed,4,2,/results/problem-ledger-answers/physics/galaxy-rotation-problem/
+phys-gallium-anomaly,Gallium anomaly,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/gallium-anomaly/
+phys-gauge-block-wringing,Gauge block wringing,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/gauge-block-wringing/
+phys-generations-of-matter,Generations of matter,physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/generations-of-matter/
+phys-glueballs,Glueballs,physics,in_scope,full_answer,Internally addressed,7,1,/results/problem-ledger-answers/physics/glueballs/
+phys-grand-unification,Grand Unification,physics,in_scope,full_answer,Internally addressed,2,1,/results/problem-ledger-answers/physics/grand-unification/
+phys-granular-convection,Granular convection,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/granular-convection/
+phys-hierarchy-problem,Hierarchy problem,physics,in_scope,full_answer,Internally addressed,3,1,/results/problem-ledger-answers/physics/hierarchy-problem/
+phys-high-temperature-superconductivity,High-temperature superconductivity,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/high-temperature-superconductivity/
+phys-holographic-principle,Holographic principle,physics,in_scope,full_answer,Internally addressed,2,1,/results/problem-ledger-answers/physics/holographic-principle/
+phys-homochirality,Homochirality,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/homochirality/
+phys-horizon-problem,Horizon problem,physics,in_scope,full_answer,Internally addressed,8,1,/results/problem-ledger-answers/physics/horizon-problem/
+phys-hubble-tension,Hubble tension,physics,in_scope,full_answer,Internally addressed,6,1,/results/problem-ledger-answers/physics/hubble-tension/
+phys-interpretation-of-quantum-mechanics,Interpretation of quantum mechanics,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/interpretation-of-quantum-mechanics/
+phys-koide-formula,Koide formula,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/koide-formula/
+phys-kuiper-cliff,Kuiper cliff,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/kuiper-cliff/
+phys-large-scale-anisotropy,Large-scale anisotropy,physics,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/physics/large-scale-anisotropy/
+phys-liquid-crystals,Liquid crystals,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/liquid-crystals/
+phys-locality,Locality,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/locality/
+phys-magnetic-monopoles,Magnetic monopoles,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/magnetic-monopoles/
+phys-magnetoreception,Magnetoreception,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/magnetoreception/
+phys-matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter,Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter,physics,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/
+phys-metal-whiskering,Metal whiskering,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/metal-whiskering/
+phys-mu-problem,Mu problem,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/mu-problem/
+phys-neutrino-mass,Neutrino mass,physics,in_scope,full_answer,Internally addressed,5,1,/results/problem-ledger-answers/physics/neutrino-mass/
+phys-neutron-lifetime-puzzle,Neutron lifetime puzzle,physics,in_scope,full_answer,Internally addressed,7,1,/results/problem-ledger-answers/physics/neutron-lifetime-puzzle/
+phys-nuclei-and-nuclear-astrophysics,Nuclei and nuclear astrophysics,physics,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/physics/nuclei-and-nuclear-astrophysics/
+phys-origin-and-future-of-the-universe,Origin and future of the universe,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/origin-and-future-of-the-universe/
+phys-origin-of-cosmic-magnetic-fields,Origin of cosmic magnetic fields,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/origin-of-cosmic-magnetic-fields/
+phys-origin-of-magnetar-magnetic-field,Origin of magnetar magnetic field,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/origin-of-magnetar-magnetic-field/
+phys-pentaquarks-and-other-exotic-hadrons,Pentaquarks and other exotic hadrons,physics,in_scope,full_answer,Internally addressed,6,1,/results/problem-ledger-answers/physics/pentaquarks-and-other-exotic-hadrons/
+phys-plasma-physics-and-fusion-power,Plasma physics and fusion power,physics,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/physics/plasma-physics-and-fusion-power/
+phys-post-quantum-cryptography,Post-quantum cryptography,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/post-quantum-cryptography/
+phys-problem-of-time,Problem of time,physics,in_scope,full_answer,Internally addressed,6,1,/results/problem-ledger-answers/physics/problem-of-time/
+phys-protein-structure-prediction,Protein structure prediction,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/protein-structure-prediction/
+phys-proton-decay-and-spin-crisis,Proton decay and spin crisis,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/proton-decay-and-spin-crisis/
+phys-quantitative-study-of-the-immune-system,Quantitative study of the immune system,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/quantitative-study-of-the-immune-system/
+phys-quantum-biology,Quantum biology,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/quantum-biology/
+phys-quantum-capacity,Quantum capacity,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/quantum-capacity/
+phys-quantum-chromodynamics,Quantum chromodynamics,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/quantum-chromodynamics/
+phys-quantum-field-theory-this-is-a-generalization-of-the-previous-problem,Quantum field theory (this is a generalization of the previous problem),physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/
+phys-quantum-gravity,Quantum gravity,physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/quantum-gravity/
+phys-quantum-mind,Quantum mind,physics,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/physics/quantum-mind/
+phys-quantum-spacetime-or-the-emergence-of-spacetime,Quantum spacetime or the emergence of spacetime,physics,in_scope,partial_answer,Partially addressed,4,1,/results/problem-ledger-answers/physics/quantum-spacetime-or-the-emergence-of-spacetime/
+phys-quarkgluon-plasma,Quark–gluon plasma,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/quarkgluon-plasma/
+phys-reactor-antineutrino-anomaly,Reactor antineutrino anomaly,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/reactor-antineutrino-anomaly/
+phys-rotation-rate-of-saturn,Rotation rate of Saturn,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/rotation-rate-of-saturn/
+phys-scharnhorst-effect,Scharnhorst effect,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/scharnhorst-effect/
+phys-semiconductor-nanocrystals,Semiconductor nanocrystals,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/semiconductor-nanocrystals/
+phys-shape-of-the-universe,Shape of the universe,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/shape-of-the-universe/
+phys-size-of-universe,Size of universe,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/size-of-universe/
+phys-solar-cycle,Solar cycle,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/solar-cycle/
+phys-sonoluminescence,Sonoluminescence,physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/sonoluminescence/
+phys-specific-models-of-quarkgluon-plasma-formation,Specific models of quark–gluon plasma formation,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/specific-models-of-quarkgluon-plasma-formation/
+phys-stochasticity-and-robustness-to-noise-in-gene-expression,Stochasticity and robustness to noise in gene expression,physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/stochasticity-and-robustness-to-noise-in-gene-expression/
+phys-strange-matter,Strange matter,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/strange-matter/
+phys-strong-cp-problem-and-axions,Strong CP problem and axions,physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/strong-cp-problem-and-axions/
+phys-superfluid-transition-in-helium-4,Superfluid transition in helium-4,physics,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/physics/superfluid-transition-in-helium-4/
+phys-supermassive-black-holes,Supermassive black holes,physics,in_scope,full_answer,Internally addressed,2,1,/results/problem-ledger-answers/physics/supermassive-black-holes/
+phys-supernovae,Supernovae,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/supernovae/
+phys-supersymmetry,Supersymmetry,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/supersymmetry/
+phys-temperature,Temperature,physics,in_scope,partial_answer,Partially addressed,6,1,/results/problem-ledger-answers/physics/temperature/
+phys-the-qcd-vacuum,The QCD vacuum,physics,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/physics/the-qcd-vacuum/
+phys-the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture,The cosmic censorship hypothesis and the chronology protection conjecture,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/
+phys-the-injection-problem,The injection problem,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/the-injection-problem/
+phys-the-lithium-problem,The lithium problem,physics,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/physics/the-lithium-problem/
+phys-theory-of-everything,Theory of everything,physics,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/physics/theory-of-everything/
+phys-threshold-problem,Threshold problem,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/threshold-problem/
+phys-topological-order,Topological order,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/topological-order/
+phys-topological-qubits,Topological qubits,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/topological-qubits/
+phys-turbulent-flow,Turbulent flow,physics,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/physics/turbulent-flow/
+phys-ultra-high-energy-cosmic-ray,Ultra-high-energy cosmic ray,physics,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/physics/ultra-high-energy-cosmic-ray/
+phys-ultraluminous-x-ray-sources-ulxs,Ultraluminous X-ray sources (ULXs),physics,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/physics/ultraluminous-x-ray-sources-ulxs/
+phys-under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid,"Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?",physics,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/
+phys-universality-of-low-temperature-amorphous-solids,Universality of low-temperature amorphous solids,physics,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/physics/universality-of-low-temperature-amorphous-solids/
+phys-yangmills-theory,Yang–Mills theory,physics,in_scope,structural_constraint,Structurally constrained,15,0,/results/problem-ledger-answers/physics/yangmills-theory/
+phys-p-nuclei,p-nuclei,physics,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/physics/p-nuclei/
+life-biology-adult-form-of-facetotecta,Adult form of Facetotecta,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/adult-form-of-facetotecta/
+life-biology-adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae,"Adult form of Planctosphaera pelagica, a hemichordate known, as of 2023, only by its tornaria larvae",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/adult-form-of-planctosphaera-pelagica-a-hemichordate-known-as-of-2023-only-by-its-tornaria-larvae/
+life-biology-arthropod-head-problem,Arthropod head problem,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/arthropod-head-problem/
+life-biology-biological-homochirality,Biological homochirality,life,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/life/biological-homochirality/
+life-biology-biosynthesis,Biosynthesis,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/biosynthesis/
+life-biology-blue-whale,Blue whale,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/blue-whale/
+life-biology-brightly-colored-bird-eggs,Brightly colored bird eggs,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/brightly-colored-bird-eggs/
+life-biology-butterfly-migration,Butterfly migration,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/butterfly-migration/
+life-biology-cambrian-explosion,Cambrian explosion,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/cambrian-explosion/
+life-biology-can-developing-biological-systems-tell-the-time,Can developing biological systems tell the time?,life,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/life/can-developing-biological-systems-tell-the-time/
+life-biology-cognition-and-decisions,Cognition and decisions,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/cognition-and-decisions/
+life-biology-computational-neuroscience,Computational neuroscience,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/computational-neuroscience/
+life-biology-computational-theory-of-mind,Computational theory of mind,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/computational-theory-of-mind/
+life-consciousness,Consciousness,life,in_scope,full_answer,Internally addressed,10,5,/results/problem-ledger-answers/life/consciousness/
+life-biology-darwin-s-abominable-mystery-of-botany-plants,Darwin's abominable mystery of botany/plants,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/darwin-s-abominable-mystery-of-botany-plants/
+life-biology-decline-in-average-human-body-temperature-since-the-19th-century,Decline in average human body temperature since the 19th century,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/decline-in-average-human-body-temperature-since-the-19th-century/
+life-biology-determinants-of-cell-size,Determinants of cell size,life,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/life/determinants-of-cell-size/
+life-biology-development-and-evolution-of-the-brain,Development and evolution of the brain,life,in_scope,structural_constraint,Structurally constrained,20,0,/results/problem-ledger-answers/life/development-and-evolution-of-the-brain/
+life-biology-diurodrilus,Diurodrilus,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/diurodrilus/
+life-biology-ediacaran-biota,Ediacaran biota,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/ediacaran-biota/
+life-biology-enzyme-kinetics,Enzyme kinetics,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/enzyme-kinetics/
+life-biology-eocyathispongia,Eocyathispongia,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/eocyathispongia/
+life-biology-existence-of-the-grafenberg-spot-g-spot,Existence of the Grafenberg spot (G-spot),life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/existence-of-the-grafenberg-spot-g-spot/
+life-biology-extinction-of-archaic-humans,Extinction of archaic humans,life,further_investigation,no_current_answer,Further investigation,0,0,/results/problem-ledger-answers/life/extinction-of-archaic-humans/
+life-biology-flocking-behavior,Flocking (behavior),life,in_scope,structural_constraint,Structurally constrained,3,0,/results/problem-ledger-answers/life/flocking-behavior/
+life-biology-forest-rings,Forest rings,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/forest-rings/
+life-biology-francevillian-biota,Francevillian biota,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/francevillian-biota/
+life-biology-free-will,Free will,life,in_scope,full_answer,Internally addressed,7,2,/results/problem-ledger-answers/life/free-will/
+life-neuroscience-free-will-particularly-the-neuroscience-of-free-will,"Free will, particularly the neuroscience of free will",life,in_scope,full_answer,Internally addressed,7,2,/results/problem-ledger-answers/life/free-will-particularly-the-neuroscience-of-free-will/
+life-biology-function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates,"Function of vanadocytes, a type of blood cells found in some tunicates",life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/function-of-vanadocytes-a-type-of-blood-cells-found-in-some-tunicates/
+life-biology-gall-inducing-insects,Gall-inducing insects,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/gall-inducing-insects/
+life-biology-general-anaesthetic,General anaesthetic,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/general-anaesthetic/
+life-biology-glycogen-body,Glycogen body,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/glycogen-body/
+life-biology-golgi-apparatus,Golgi apparatus,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/golgi-apparatus/
+life-biology-handedness,Handedness,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/handedness/
+life-biology-heritable-components-of-homosexuality,Heritable components of homosexuality,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/heritable-components-of-homosexuality/
+life-biology-homing,Homing,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/homing/
+life-neuroscience-how-do-general-anesthetics-work,How do general anesthetics work?,life,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/life/how-do-general-anesthetics-work/
+life-biology-how-do-organs-grow-to-the-correct-shape-and-size,How do organs grow to the correct shape and size?,life,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/life/how-do-organs-grow-to-the-correct-shape-and-size/
+life-biology-how-is-life-related-to-mind-machines-and-culture,"How is life related to mind, machines, and culture?",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/how-is-life-related-to-mind-machines-and-culture/
+life-biology-how-will-organisms-respond-to-complex-novel-environments,"How will organisms respond to complex, novel environments?",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/how-will-organisms-respond-to-complex-novel-environments/
+life-biology-human-sex-pheromones,Human sex pheromones,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/human-sex-pheromones/
+life-biology-is-the-ecosystem-a-superorganism-or-a-collection-of-organisms,"Is the ecosystem a superorganism, or a collection of organisms?",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/is-the-ecosystem-a-superorganism-or-a-collection-of-organisms/
+life-biology-jennaria-pulchra,Jennaria pulchra,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/jennaria-pulchra/
+life-biology-korarchaeota-archaea,Korarchaeota (archaea),life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/korarchaeota-archaea/
+life-biology-language,Language,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/language/
+life-neuroscience-language-acquisition,Language acquisition,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/language-acquisition/
+life-biology-last-universal-common-ancestor,Last universal common ancestor,life,in_scope,full_answer,Internally addressed,7,1,/results/problem-ledger-answers/life/last-universal-common-ancestor/
+life-biology-laughter,Laughter,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/laughter/
+life-biology-learning-and-memory,Learning and memory,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/learning-and-memory/
+life-neuroscience-linguistic-relativity,Linguistic relativity,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/linguistic-relativity/
+life-biology-love,Love,life,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/life/love/
+life-biology-maintenance-of-sexual-reproduction,Maintenance of sexual reproduction,life,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/life/maintenance-of-sexual-reproduction/
+life-biology-mechanism-of-golgi-s-method,Mechanism of Golgi's method,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/mechanism-of-golgi-s-method/
+life-biology-mechanism-of-action-of-drugs,Mechanism of action of drugs,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/mechanism-of-action-of-drugs/
+life-biology-metabolism-in-henneguya-zschokkei-a-species-of-myxozoan,"Metabolism in Henneguya zschokkei, a species of myxozoan",life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/metabolism-in-henneguya-zschokkei-a-species-of-myxozoan/
+life-biology-mitochondria-in-loriciferans-living-in-anoxic-conditions,Mitochondria in loriciferans living in anoxic conditions,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/mitochondria-in-loriciferans-living-in-anoxic-conditions/
+life-biology-morphology-problem,Morphology problem,life,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/life/morphology-problem/
+life-biology-nervous-system-of-lobatocerebrida,Nervous system of Lobatocerebrida,life,in_scope,structural_constraint,Structurally constrained,14,0,/results/problem-ledger-answers/life/nervous-system-of-lobatocerebrida/
+life-biology-neural-computation,Neural computation,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/neural-computation/
+life-biology-neuroplasticity,Neuroplasticity,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/neuroplasticity/
+life-biology-neuropsychiatric-diseases,Neuropsychiatric diseases,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/neuropsychiatric-diseases/
+life-biology-origin-of-eukaryotes-symbiogenesis,Origin of Eukaryotes (Symbiogenesis),life,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/life/origin-of-eukaryotes-symbiogenesis/
+life-origin-of-life,Origin of Life,life,in_scope,full_answer,Internally addressed,15,3,/results/problem-ledger-answers/life/origin-of-life/
+life-biology-origin-of-sexual-reproduction,Origin of sexual reproduction,life,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/life/origin-of-sexual-reproduction/
+life-biology-origin-of-snakes,Origin of snakes,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/origin-of-snakes/
+life-biology-origin-of-turtles,Origin of turtles,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/origin-of-turtles/
+life-biology-origins-of-viruses-virus-world,Origins of viruses (Virus World),life,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/life/origins-of-viruses-virus-world/
+life-biology-ovaries-of-basking-sharks,Ovaries of basking sharks,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/ovaries-of-basking-sharks/
+life-biology-paleodictyon,Paleodictyon,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/paleodictyon/
+life-biology-paradox-of-the-plankton,Paradox of the plankton,life,in_scope,full_answer,Internally addressed,8,1,/results/problem-ledger-answers/life/paradox-of-the-plankton/
+life-biology-perception,Perception,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/perception/
+life-biology-persistence-paradox,Persistence paradox,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/persistence-paradox/
+life-biology-photic-sneeze-effect,Photic sneeze effect,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/photic-sneeze-effect/
+life-neuroscience-problem-of-representation,Problem of representation,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/problem-of-representation/
+life-biology-protein-design,Protein design,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/protein-design/
+life-biology-protein-folding,Protein folding,life,in_scope,partial_answer,Partially addressed,4,1,/results/problem-ledger-answers/life/protein-folding/
+life-biology-rna-folding-problem,RNA folding problem,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/rna-folding-problem/
+life-neuroscience-sleep,Sleep,life,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/life/sleep/
+life-biology-snowball-earth,Snowball Earth,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/snowball-earth/
+life-biology-star-jelly,Star jelly,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/star-jelly/
+life-biology-stegosaur-osteoderms-scutes,Stegosaur osteoderms/scutes,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/stegosaur-osteoderms-scutes/
+life-biology-taxonomic-position-of-tricholepidion-gertschi,Taxonomic position of Tricholepidion gertschi,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/taxonomic-position-of-tricholepidion-gertschi/
+life-biology-taxonomic-position-of-pentastomids,Taxonomic position of pentastomids,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/taxonomic-position-of-pentastomids/
+life-biology-the-emergence-and-evolution-of-intelligence,The emergence and evolution of intelligence,life,in_scope,structural_constraint,Structurally constrained,12,0,/results/problem-ledger-answers/life/the-emergence-and-evolution-of-intelligence/
+life-biology-the-lipid-divide,The lipid divide,life,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/life/the-lipid-divide/
+life-biology-tullimonstrum,Tullimonstrum,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/tullimonstrum/
+life-biology-vernanimalcula-guizhouena,Vernanimalcula guizhouena,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/vernanimalcula-guizhouena/
+life-biology-what-are-the-endogenous-ligands-of-orphan-receptors,What are the endogenous ligands of orphan receptors?,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/what-are-the-endogenous-ligands-of-orphan-receptors/
+life-biology-what-are-the-potentials-and-limits-of-living-systems,What are the potentials and limits of living systems?,life,in_scope,structural_constraint,Structurally constrained,8,0,/results/problem-ledger-answers/life/what-are-the-potentials-and-limits-of-living-systems/
+life-biology-what-determines-population-density,What determines population density?,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/what-determines-population-density/
+life-biology-what-do-all-the-unknown-proteins-do,What do all the unknown proteins do?,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/what-do-all-the-unknown-proteins-do/
+life-biology-what-is-the-mechanism-of-allosteric-transitions-of-proteins,What is the mechanism of allosteric transitions of proteins?,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/what-is-the-mechanism-of-allosteric-transitions-of-proteins/
+life-biology-what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms,"What is the relative importance of variability, across scales, and its mechanisms?",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/what-is-the-relative-importance-of-variability-across-scales-and-its-mechanisms/
+life-biology-what-substance-is-endothelium-derived-hyperpolarizing-factor,What substance is endothelium-derived hyperpolarizing factor?,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/what-substance-is-endothelium-derived-hyperpolarizing-factor/
+life-biology-why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller,"Why are all leaves the size they are, and not an order of magnitude larger or smaller?",life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/why-are-all-leaves-the-size-they-are-and-not-an-order-of-magnitude-larger-or-smaller/
+life-biology-why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is,Why are there blood types? It is unclear what the origin and purpose of having blood types is,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/why-are-there-blood-types-it-is-unclear-what-the-origin-and-purpose-of-having-blood-types-is/
+life-biology-why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces,Why do Pogonomyrmex badius colonies cover the surface of their nests with a circular region of charcoal pieces?,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/why-do-pogonomyrmex-badius-colonies-cover-the-surface-of-their-nests-with-a-circular-region-of-charcoal-pieces/
+life-biology-why-does-biological-aging-occur,Why does biological aging occur?,life,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/life/why-does-biological-aging-occur/
+life-biology-why-does-intragenotypic-variability-persist,Why does intragenotypic variability persist?,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/why-does-intragenotypic-variability-persist/
+life-biology-xenacoelomorpha,Xenacoelomorpha,life,in_scope,structural_constraint,Structurally constrained,7,0,/results/problem-ledger-answers/life/xenacoelomorpha/
+life-biology-yawning,Yawning,life,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/life/yawning/
+meta-cognition-and-ai,Cognition and AI,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/cognition-and-ai/
+meta-counterfactuals,Counterfactuals,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/counterfactuals/
+meta-demarcation-problem,Demarcation problem,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/demarcation-problem/
+meta-epistemology-of-religion,Epistemology of religion,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/epistemology-of-religion/
+meta-existence-of-god,Existence of God,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/existence-of-god/
+meta-gettier-problem,Gettier problem,metaphysics-philosophy,in_scope,full_answer,Internally addressed,4,1,/results/problem-ledger-answers/metaphysics-philosophy/gettier-problem/
+meta-hard-problem-of-consciousness,Hard problem of consciousness,metaphysics-philosophy,in_scope,partial_answer,Partially addressed,7,1,/results/problem-ledger-answers/metaphysics-philosophy/hard-problem-of-consciousness/
+meta-material-implication,Material implication,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/material-implication/
+meta-mathematical-objects,Mathematical objects,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/mathematical-objects/
+meta-mindbody-problem,Mind–body problem,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/mindbody-problem/
+meta-molyneux-problem,Molyneux problem,metaphysics-philosophy,open_backlog_problem,no_current_answer,Backlog open problem,0,0,/results/problem-ledger-answers/metaphysics-philosophy/molyneux-problem/
+meta-moral-knowledge,Moral knowledge,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,15,0,/results/problem-ledger-answers/metaphysics-philosophy/moral-knowledge/
+meta-moral-luck,Moral luck,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,11,0,/results/problem-ledger-answers/metaphysics-philosophy/moral-luck/
+meta-most-valuable-player-problem,Most valuable player problem,metaphysics-philosophy,declared_out_of_scope,not_applicable,Declared out of scope,0,0,/results/problem-ledger-answers/metaphysics-philosophy/most-valuable-player-problem/
+meta-munchhausen-trilemma,Münchhausen trilemma,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/metaphysics-philosophy/munchhausen-trilemma/
+meta-nature-of-god,Nature of God,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/nature-of-god/
+meta-personal-identity,Personal identity,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,10,0,/results/problem-ledger-answers/metaphysics-philosophy/personal-identity/
+meta-principle-of-individuation,Principle of individuation,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/metaphysics-philosophy/principle-of-individuation/
+meta-problem-of-induction,Problem of induction,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/problem-of-induction/
+meta-problem-of-the-criterion,Problem of the criterion,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/problem-of-the-criterion/
+meta-problem-of-universals,Problem of universals,metaphysics-philosophy,in_scope,full_answer,Internally addressed,2,1,/results/problem-ledger-answers/metaphysics-philosophy/problem-of-universals/
+meta-qualia,Qualia,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/qualia/
+meta-realism,Realism,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/metaphysics-philosophy/realism/
+meta-relationship-between-science-and-religion,Relationship between science and religion,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,4,0,/results/problem-ledger-answers/metaphysics-philosophy/relationship-between-science-and-religion/
+meta-why-something-rather-than-nothing,Something Rather Than Nothing,metaphysics-philosophy,in_scope,full_answer,Internally addressed,9,1,/results/problem-ledger-answers/metaphysics-philosophy/why-something-rather-than-nothing/
+meta-sorites-paradox,Sorites paradox,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,6,0,/results/problem-ledger-answers/metaphysics-philosophy/sorites-paradox/
+meta-theseus-paradox,Theseus paradox,metaphysics-philosophy,in_scope,structural_constraint,Structurally constrained,5,0,/results/problem-ledger-answers/metaphysics-philosophy/theseus-paradox/

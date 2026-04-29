@@ -1,0 +1,68 @@
+prediction_id,slug,title,domain,precision_tier,scope,url
+pred-001,rm-gen-3,Three Generations of Fermions,particle-physics,sub-10-ppm,tau-effective,/predictions/rm-gen-3/
+pred-002,m-mev,Electron Mass,particle-physics,sub-10-ppm,tau-effective,/predictions/m-mev/
+pred-003,m-m,Muon-to-Electron Mass Ratio,particle-physics,10-1000-ppm,conjectural,/predictions/m-m/
+pred-004,koide-q,Koide Relation Q,particle-physics,sub-10-ppm,tau-effective,/predictions/koide-q/
+pred-005,nnlo,NNLO Correction Parameter δ,particle-physics,structural,tau-effective,/predictions/nnlo/
+pred-006,a-m,Proton–Neutron Mass Splitting,particle-physics,10-1000-ppm,tau-effective,/predictions/a-m/
+pred-007,m-ev,Sum of Neutrino Masses,particle-physics,sub-10-ppm,tau-effective,/predictions/m-ev/
+pred-008,hierarchy,Neutrino Mass Hierarchy,particle-physics,structural,tau-effective,/predictions/hierarchy/
+pred-009,c,Neutrino Majorana Signature,particle-physics,structural,tau-effective,/predictions/c/
+pred-010,nnlo-ratio,Neutrino NNLO Mass Ratios,particle-physics,10-1000-ppm,tau-effective,/predictions/nnlo-ratio/
+pred-011,cabibbo,Cabibbo Angle λ,particle-physics,1-5-percent,tau-effective,/predictions/cabibbo/
+pred-012,wolfenstein-a,Wolfenstein Parameter A,particle-physics,10-1000-ppm,tau-effective,/predictions/wolfenstein-a/
+pred-013,bar,CKM Parameter ρ̄,particle-physics,10-1000-ppm,tau-effective,/predictions/bar/
+pred-014,bar-14,CKM Parameter η̄,particle-physics,1-5-percent,tau-effective,/predictions/bar-14/
+pred-015,pmns,PMNS Solar Mixing Angle θ₁₂,particle-physics,1-5-percent,conjectural,/predictions/pmns/
+pred-016,pmns-16,PMNS Atmospheric Mixing Angle θ₂₃,particle-physics,1-5-percent,conjectural,/predictions/pmns-16/
+pred-017,qcd,Strong CP Angle θ_QCD,particle-physics,sub-10-ppm,tau-effective,/predictions/qcd/
+pred-018,n-edm,Neutron Electric Dipole Moment,particle-physics,sub-10-ppm,tau-effective,/predictions/n-edm/
+pred-019,k-nnlo,NNLO Coefficient k,particle-physics,sub-10-ppm,tau-effective,/predictions/k-nnlo/
+pred-020,sin-w,Weak Mixing Angle sin²θ_W,electroweak-qcd,sub-10-ppm,tau-effective,/predictions/sin-w/
+pred-021,mw-gev,W Boson Mass M_W,electroweak-qcd,sub-10-ppm,tau-effective,/predictions/mw-gev/
+pred-022,mz,Strong Coupling Constant α_s(M_Z),electroweak-qcd,10-1000-ppm,tau-effective,/predictions/mz/
+pred-023,pred-23,Fine-Structure Constant α,electroweak-qcd,sub-10-ppm,tau-effective,/predictions/pred-23/
+pred-024,mh-gev,Higgs Boson Mass (n = 7),electroweak-qcd,sub-10-ppm,tau-effective,/predictions/mh-gev/
+pred-025,mh-n-5,Higgs Boson Mass (n = 5 route),electroweak-qcd,10-1000-ppm,tau-effective,/predictions/mh-n-5/
+pred-026,g,Gravitational Constant G,electroweak-qcd,sub-10-ppm,tau-effective,/predictions/g/
+pred-027,closing-identity,G–α Bridge Identity,electroweak-qcd,sub-10-ppm,tau-effective,/predictions/closing-identity/
+pred-028,a-1,A-Sector (Weak) Coupling κ(A;1),electroweak-qcd,structural,tau-effective,/predictions/a-1/
+pred-029,d-1,D-Sector (Gravity) Coupling κ(D;1),electroweak-qcd,structural,tau-effective,/predictions/d-1/
+pred-030,c-3,C-Sector (Strong) Coupling κ(C;3),electroweak-qcd,structural,tau-effective,/predictions/c-3/
+pred-031,pred-31,Mixed Sector (Higgs/EW) Coupling κ(ω),electroweak-qcd,structural,tau-effective,/predictions/pred-31/
+pred-032,n,Spectral Index n_s,cosmology,10-1000-ppm,tau-effective,/predictions/n/
+pred-033,r,Tensor-to-Scalar Ratio r,cosmology,structural,tau-effective,/predictions/r/
+pred-034,n-34,Inflationary E-Fold Count N_e,cosmology,structural,tau-effective,/predictions/n-34/
+pred-035,pred-35,First CMB Acoustic Peak ℓ₁,cosmology,1-5-percent,tau-effective,/predictions/pred-35/
+pred-036,d,Silk Damping Scale ℓ_D,cosmology,sub-10-ppm,tau-effective,/predictions/d/
+pred-037,d-nk,B-Mode Polarization Amplitude D₈₀ᴮᴮ,cosmology,structural,tau-effective,/predictions/d-nk/
+pred-038,a,Scalar Perturbation Amplitude A_s,cosmology,1-5-percent,tau-effective,/predictions/a/
+pred-039,n-ff,Effective Neutrino Number N_eff,cosmology,structural,tau-effective,/predictions/n-ff/
+pred-040,b,Baryon Density Parameter ω_b,cosmology,1-5-percent,tau-effective,/predictions/b/
+pred-041,b-41,Matter-to-Baryon Ratio ω_m/ω_b,cosmology,1-5-percent,tau-effective,/predictions/b-41/
+pred-042,b-42,Baryon Asymmetry η_B,cosmology,1-5-percent,conjectural,/predictions/b-42/
+pred-043,y-he,Primordial Helium-4 Mass Fraction Y_p,cosmology,1-5-percent,tau-effective,/predictions/y-he/
+pred-044,d-h,Primordial Deuterium Abundance D/H,cosmology,1-5-percent,tau-effective,/predictions/d-h/
+pred-045,li-h,Lithium-7 Abundance (Framework Account),cosmology,1-5-percent,conjectural,/predictions/li-h/
+pred-046,pred-46,Dark Energy Density Ω_Λ,cosmology,10-1000-ppm,tau-effective,/predictions/pred-46/
+pred-047,w,Dark Energy Equation of State w₀,cosmology,structural,conjectural,/predictions/w/
+pred-048,h,Hubble Constant h,cosmology,10-1000-ppm,tau-effective,/predictions/h/
+pred-049,s,Clustering Amplitude S₈,cosmology,1-5-percent,tau-effective,/predictions/s/
+pred-050,de,Matter Density from DE Closure ω_m,cosmology,10-1000-ppm,tau-effective,/predictions/de/
+pred-051,ngc-3198-v-f,Galaxy Rotation Curve (NGC 3198),astrophysics,1-5-percent,tau-effective,/predictions/ngc-3198-v-f/
+pred-052,20-galaxy-btfr,Baryonic Tully-Fisher Relation (20 Galaxies),astrophysics,1-5-percent,tau-effective,/predictions/20-galaxy-btfr/
+pred-053,bh-topology,Black Hole Horizon Topology,astrophysics,structural,tau-effective,/predictions/bh-topology/
+pred-054,qnm-ratio,Quasinormal Mode Frequency Ratio,astrophysics,structural,tau-effective,/predictions/qnm-ratio/
+pred-055,eht-shadow,EHT Shadow Correction,astrophysics,structural,tau-effective,/predictions/eht-shadow/
+pred-056,gw-echo-time,Gravitational Wave Echo Time,astrophysics,structural,tau-effective,/predictions/gw-echo-time/
+pred-057,echo-ratio,GW Echo Time Ratio,astrophysics,structural,tau-effective,/predictions/echo-ratio/
+pred-058,magnetic-winding,Magnetic Winding Number,astrophysics,structural,tau-effective,/predictions/magnetic-winding/
+pred-059,bz-b-jet,Jet Magnetic Field Ratio B_z/B_φ,astrophysics,structural,conjectural,/predictions/bz-b-jet/
+pred-060,no-singularities,No Singularities (Bounded Characters),astrophysics,structural,tau-effective,/predictions/no-singularities/
+pred-061,no-evaporation,No Black Hole Evaporation (No-Shrink Theorem),astrophysics,structural,tau-effective,/predictions/no-evaporation/
+pred-062,she-l-v-que,She–Lévêque Intermittency Parameter β,collective-dynamics,sub-10-ppm,tau-effective,/predictions/she-l-v-que/
+pred-063,pred-63,Kolmogorov Structure Function Exponents ζ_p,collective-dynamics,1-5-percent,tau-effective,/predictions/pred-63/
+pred-064,ck,Kolmogorov Constant C_K,collective-dynamics,1-5-percent,tau-effective,/predictions/ck/
+pred-065,v-c,Fast Magnetic Reconnection Rate,collective-dynamics,structural,tau-effective,/predictions/v-c/
+pred-066,pred-66,Coronal Heating Damping Scale,collective-dynamics,structural,tau-effective,/predictions/pred-66/
+pred-067,ns-regularity,Navier–Stokes Regularity (No Blow-Up),collective-dynamics,structural,conjectural,/predictions/ns-regularity/

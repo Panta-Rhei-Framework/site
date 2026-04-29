@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Navier–Stokes Regularity (No Blow-Up)"
 title_plain: "Navier–Stokes Regularity (No Blow-Up)"
-permalink: /predictions/ns-regularity/
-lane: results
+permalink: "/predictions/ns-regularity/"
+lane: "results"
 prediction_id: "pred-067"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
@@ -13,10 +13,11 @@ formula_plain: "profinite decompactification"
 formula_mathml: "profinite decompactification"
 formula_display: "Profinite decompactification → no finite-time blow-up"
 tau_value: "no blow-up"
+observed: "(open)"
 observed_value: "(open)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.T254"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "Navier–Stokes Regularity (No Blow-Up): τ-value no blow-up, ob
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Collective Dynamics"
     precision: "Structural"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -84,4 +92,3 @@ Section (sec:ch27-clay-bridge)).
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
-

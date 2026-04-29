@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Koide Relation Q"
 title_plain: "Koide Relation Q"
-permalink: /predictions/koide-q/
-lane: results
+permalink: "/predictions/koide-q/"
+lane: "results"
 prediction_id: "pred-004"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "2/3"
 formula_mathml: "<math><mi>2/3</mi></math>"
 formula_display: "Q = lobes / dim(τ³) = 2/3"
 tau_value: "2/3"
+observed: "0.66661"
 observed_value: "0.66661"
 deviation: "-9~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Sub-10 ppm"
 registry_id: "IV.T143"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Koide Relation Q: τ-value 2/3, observed 0.66661, deviation -9~p
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -86,4 +94,3 @@ of the democratic mass matrix.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

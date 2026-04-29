@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Silk Damping Scale ℓ_D"
 title_plain: "Silk Damping Scale ℓ_D"
-permalink: /predictions/d/
-lane: results
+permalink: "/predictions/d/"
+lane: "results"
 prediction_id: "pred-036"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "ℓ₁ κD / κB"
 formula_mathml: "<math><mi>ℓ₁ κD / κB</mi></math>"
 formula_display: "ℓ_D = ℓ₁ · κ_D / κ_B = 1244.0"
 tau_value: "1244.0"
+observed: "1243.9"
 observed_value: "1243.9"
 deviation: "+9~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Sub-10 ppm"
 registry_id: "V.D254"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Silk Damping Scale ℓ_D: τ-value 1244.0, observed 1243.9, devi
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -89,4 +97,3 @@ not a coincidence.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

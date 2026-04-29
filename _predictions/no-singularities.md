@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "No Singularities (Bounded Characters)"
 title_plain: "No Singularities (Bounded Characters)"
-permalink: /predictions/no-singularities/
-lane: results
+permalink: "/predictions/no-singularities/"
+lane: "results"
 prediction_id: "pred-060"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "bounded characters"
 formula_mathml: "bounded characters"
 formula_display: "All boundary characters bounded → no divergence"
 tau_value: "–"
+observed: "–"
 observed_value: "–"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.T65"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "No Singularities (Bounded Characters): τ-value –, observed �
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula

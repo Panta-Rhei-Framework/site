@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Sum of Neutrino Masses"
 title_plain: "Sum of Neutrino Masses"
-permalink: /predictions/m-ev/
-lane: results
+permalink: "/predictions/m-ev/"
+lane: "results"
 prediction_id: "pred-007"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "CF-asymm grid"
 formula_mathml: "CF-asymm grid"
 formula_display: "Σmν = 0.089 eV (CF-asymmetry grid)"
 tau_value: "0.089"
+observed: "< 0.12"
 observed_value: "< 0.12"
 deviation: "+7~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Sub-10 ppm"
 registry_id: "V.T175"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Sum of Neutrino Masses: τ-value 0.089, observed < 0.12, deviati
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -81,4 +89,3 @@ would be falsified.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

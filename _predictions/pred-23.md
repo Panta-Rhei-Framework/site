@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Fine-Structure Constant α"
 title_plain: "Fine-Structure Constant α"
-permalink: /predictions/pred-23/
-lane: results
+permalink: "/predictions/pred-23/"
+lane: "results"
 prediction_id: "pred-023"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "(11/15)²,ι<sub>τ</sub>⁴"
 formula_mathml: "<math><mi>(11/15)²,ι<sub>τ</sub>⁴</mi></math>"
 formula_display: "α = (11/15)² · ι<sub>τ</sub>⁴ → α⁻¹ ≈ 137.035"
 tau_value: "1/137.035"
+observed: "1/137.036"
 observed_value: "1/137.036"
 deviation: "9.8~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: C
+cascade_tier: "C"
 precision_display: "Sub-10 ppm"
 registry_id: "IV.T25"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Fine-Structure Constant α: τ-value 1/137.035, observed 1/137.0
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula

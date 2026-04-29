@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "CKM Parameter ρ̄"
 title_plain: "CKM Parameter ρ̄"
-permalink: /predictions/bar/
-lane: results
+permalink: "/predictions/bar/"
+lane: "results"
 prediction_id: "pred-013"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "1/(2π)"
 formula_mathml: "<math><mi>1/(2π)</mi></math>"
 formula_display: "ρ̄ = 1/(2π) ≈ 0.1592"
 tau_value: "0.1592"
+observed: "0.159"
 observed_value: "0.159"
 deviation: "+125~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "IV.T165"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "CKM Parameter ρ̄: τ-value 0.1592, observed 0.159, deviation +
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -73,4 +81,3 @@ on which the generation structure is built.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

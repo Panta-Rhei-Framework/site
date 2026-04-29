@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Jet Magnetic Field Ratio B_z/B_φ"
 title_plain: "Jet Magnetic Field Ratio B_z/B_φ"
-permalink: /predictions/bz-b-jet/
-lane: results
+permalink: "/predictions/bz-b-jet/"
+lane: "results"
 prediction_id: "pred-059"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "fiber vs. base"
 formula_mathml: "fiber vs. base"
 formula_display: "B_z/B_φ = fiber/base ≈ ι<sub>τ</sub> ≈ 0.3"
 tau_value: "ι<sub>τ</sub>"
+observed: "≈!0.3"
 observed_value: "≈!0.3"
 deviation: "∼ 10%"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.P156"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "Jet Magnetic Field Ratio B_z/B_φ: τ-value ι<sub>τ</sub>, obs
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -73,4 +81,3 @@ testable with improved VLBI polarimetry.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
-

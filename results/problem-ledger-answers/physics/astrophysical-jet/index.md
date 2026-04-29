@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Astrophysical jet"
+title: "Astrophysical jet - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/astrophysical-jet/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Astrophysical jet."
+summary_short: "The framework currently carries an internal answer for this Problem Ledger item."
 canonical_problem_id: "phys-astrophysical-jet"
+problem_answer_id: "answer-phys-astrophysical-jet"
+scope_classification: "in_scope"
+answer_strength: "full_answer"
+public_answer_status_label: "Internally addressed"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Astrophysical jet
+Why do only certain accretion discs surrounding certain astronomical objects emit relativistic jets along their polar axes? Why are there quasi-periodic oscillations in many accretion discs? Why does the period of these oscillations scale as the inverse of the mass of the central object? Why are there sometimes overtones, and why do these appear at different frequency ratios in different objects?
 
-## Source
+- Program Problem Ledger item: [phys-astrophysical-jet](/program/research-agenda/problem-ledger/physics/astrophysical-jet/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-astrophysical-jet.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-astrophysical-jet](/program/research-agenda/problem-ledger/physics/astrophysical-jet/)
+## Current Framework Answer
 
-## Current Program Stance
+**Internally addressed**. The framework currently carries an internal answer for this Problem Ledger item.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Related Result pages carry a current internal answer route.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [V.D290 - Jet Magnetic Helicity](/registry/object/V.D290/) (bridge structure, high confidence): Conservative domain scan matched Astrophysical jet to Registry item V.D290 through the rule terms jet.
+- [V.R410 - Topological Flux Protection](/registry/object/V.R410/) (bridge structure, high confidence): Conservative domain scan matched Astrophysical jet to Registry item V.R410 through the rule terms jet.
+- [V.T231 - Jet Helicity Conservation](/registry/object/V.T231/) (bridge structure, high confidence): Conservative domain scan matched Astrophysical jet to Registry item V.T231 through the rule terms jet.
+
+## Related Result Pages
+
+- [Astrophysical Jets: Topological Collimation from T² Fibration](/results/problem/astrophysical-jets/) - Internally addressed
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

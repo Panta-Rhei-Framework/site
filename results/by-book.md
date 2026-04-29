@@ -32,7 +32,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Cantor Diagonal Inapplicability]({{ '/results/problem/cantor-diagonal-inapplicability/' | relative_url }}) — *Consequence* · Internally addressed
 - [Categoricity of Tau]({{ '/results/problem/categoricity-of-tau/' | relative_url }}) — *Foundational Math* · Internally addressed
 - [Earned Topos]({{ '/results/problem/earned-topos/' | relative_url }}) — *Foundational Math* · Internally addressed
-- [Fourth Quadrant Resolution: QM and GR Unified in τ]({{ '/results/problem/fourth-quadrant-resolution/' | relative_url }}) — *Foundational Math* · Internally addressed
+- [Fourth Quadrant Framework Account: QM and GR Unified in τ]({{ '/results/problem/fourth-quadrant-resolution/' | relative_url }}) — *Foundational Math* · Internally addressed
 - [Fundamental Theorem of Arithmetic]({{ '/results/problem/fundamental-theorem-of-arithmetic/' | relative_url }}) — *Foundational Math* · Internally addressed
 - [Global Hartogs Extension: Boundary Determines Interior]({{ '/results/problem/global-hartogs-extension/' | relative_url }}) — *Foundational Math* · Internally addressed
 - [Goldbach Conjecture]({{ '/results/problem/goldbach-conjecture/' | relative_url }}) — *Frontier Problem* · Not Addressed
@@ -189,7 +189,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) — *Frontier Problem* · Internally addressed
 - [Time Derivation Theorem: Proper Time from K0–K6]({{ '/results/problem/time-derivation-theorem/' | relative_url }}) — *Foundational Math* · Internally addressed
 - [Tully-Fisher Relation]({{ '/results/problem/tully-fisher-relation/' | relative_url }}) — *Frontier Problem* · Internally addressed
-- [Vacuum Catastrophe Resolution]({{ '/results/problem/vacuum-catastrophe-resolution/' | relative_url }}) — *Frontier Problem* · Internally addressed
+- [Vacuum Catastrophe Framework Account]({{ '/results/problem/vacuum-catastrophe-resolution/' | relative_url }}) — *Frontier Problem* · Internally addressed
 - [Vacuum Energy = 0: Cosmological Constant Problem Dissolved]({{ '/results/problem/vacuum-energy-zero/' | relative_url }}) — *Frontier Problem* · Internally addressed
 
 ### [Book VI: Categorical Life]({{ '/publications/books/book-vi/' | relative_url }}) — 52 results
@@ -302,6 +302,6 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Temporal Experience]({{ '/results/problem/temporal-experience/' | relative_url }}) — *Frontier Problem* · Internally addressed
 - [The Categorical Imperative Is the Unique j-Closed Fixed Point]({{ '/results/problem/categorical-imperative-fixed-point/' | relative_url }}) — *Frontier Problem* · Internally addressed
 - [The Sublime]({{ '/results/problem/the-sublime/' | relative_url }}) — *Frontier Problem* · Internally addressed
-- [Trolley Problem Resolution]({{ '/results/problem/trolley-problem-resolution/' | relative_url }}) — *Frontier Problem* · Internally addressed
+- [Trolley Problem Framework Account]({{ '/results/problem/trolley-problem-resolution/' | relative_url }}) — *Frontier Problem* · Internally addressed
 - [Why So Many Results Are Even Possible]({{ '/results/problem/why-so-many-results-are-even-possible/' | relative_url }}) — *Consequence* · Internally addressed
 - [Why Something Rather Than Nothing]({{ '/results/problem/why-something-rather-than-nothing/' | relative_url }}) — *Frontier Problem* · Internally addressed

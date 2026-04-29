@@ -1,19 +1,17 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N29 — Kolmogorov constant $C_K = 3/2$"
-permalink: /falsifications/n29-kolmogorov-constant-ck-32/
-lane: results
+permalink: "/falsifications/n29-kolmogorov-constant-ck-32/"
+lane: "results"
 falsification_id: "N29"
 n_num: 29
-tier: A
+tier: "A"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "CK = 3/2. Kolmogorov constant!prediction pred:n29 $C_K = 3/2$ (V.T250), the first parameter-free derivation of the Kolmogorov constant. Observed: $C_K = 1.5 0.1$."
 experiment: "atmospheric turbulence, wind tunnels"
 timeline: "ongoing."
-decisive: ""
 current_status: "consistent"
-seam: null
 registry_id: "V.T250"
 canonical_books:
   - "V"
@@ -21,18 +19,25 @@ summary_short: "N29: Kolmogorov constant $C_K = 3/2$. atmospheric turbulence, wi
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "atmospheric turbulence, wind tunnels"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N29: Prediction
@@ -78,4 +83,3 @@ to spatial dimensions
 in the fibered product.
 The exponent encodes
 the topology of $τ^3$.
-

@@ -60,7 +60,7 @@ The Panta Rhei Research Program maintains a strict typing discipline for all pub
 
 ## Precision Tiers — a Complementary Axis
 
-Status codes describe the **observational resolution** of a claim (does it agree with the data?). Precision tiers describe the **epistemic precision** of a numerical prediction (how sharply is the framework committing?). These are independent axes and must not be conflated.
+Status codes describe the **observational status** of a claim (does it agree with the data?). Precision tiers describe the **epistemic precision** of a numerical prediction (how sharply is the framework committing?). These are independent axes and must not be conflated.
 
 Every numerical prediction in the Numerical Physics Ledger carries a Tier label:
 

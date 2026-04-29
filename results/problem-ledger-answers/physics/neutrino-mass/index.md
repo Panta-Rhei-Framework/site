@@ -1,52 +1,70 @@
 ---
 layout: "program-doc"
-title: "Neutrino mass"
+title: "Neutrino mass - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/neutrino-mass/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Neutrino mass."
+summary_short: "The framework currently carries an internal answer for this Problem Ledger item."
 canonical_problem_id: "phys-neutrino-mass"
+problem_answer_id: "answer-phys-neutrino-mass"
+scope_classification: "in_scope"
+answer_strength: "full_answer"
+public_answer_status_label: "Internally addressed"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Neutrino mass
+What is the absolute mass of neutrinos? Are they Dirac or Majorana fermions? Is the mass hierarchy normal or inverted? Is the CP violating phase equal to 0?
 
-## Source
+- Program Problem Ledger item: [phys-neutrino-mass](/program/research-agenda/problem-ledger/physics/neutrino-mass/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-neutrino-mass.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-neutrino-mass](/program/research-agenda/problem-ledger/physics/neutrino-mass/)
+## Current Framework Answer
 
-## Current Program Stance
+**Internally addressed**. The framework currently carries an internal answer for this Problem Ledger item.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Related Result pages carry a current internal answer route.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [IV.D124 - Neutrino as Time-Eigenmode](/registry/object/IV.D124/) (bridge structure, high confidence): Conservative domain scan matched Neutrino mass to Registry item IV.D124 through the rule terms neutrino.
+- [IV.D125 - Neutrino Flavor Eigenstates](/registry/object/IV.D125/) (bridge structure, high confidence): Conservative domain scan matched Neutrino mass to Registry item IV.D125 through the rule terms neutrino.
+- [IV.D126 - PMNS Matrix](/registry/object/IV.D126/) (bridge structure, high confidence): Conservative domain scan matched Neutrino mass to Registry item IV.D126 through the rule terms neutrino.
+- [IV.D523 - Neutrino Oscillations](/registry/object/IV.D523/) (bridge structure, high confidence): Conservative domain scan matched Neutrino mass to Registry item IV.D523 through the rule terms neutrino.
+- [IV.P391 - Normal Mass Ordering from -Polarity --- V.P127](/registry/object/IV.P391/) (bridge structure, high confidence): Conservative domain scan matched Neutrino mass to Registry item IV.P391 through the rule terms neutrino.
+
+## Related Result Pages
+
+- [Neutrino Mass Ordering](/results/problem/neutrino-mass-ordering/) - Internally addressed
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

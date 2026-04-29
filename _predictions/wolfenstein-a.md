@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Wolfenstein Parameter A"
 title_plain: "Wolfenstein Parameter A"
-permalink: /predictions/wolfenstein-a/
-lane: results
+permalink: "/predictions/wolfenstein-a/"
+lane: "results"
 prediction_id: "pred-012"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "1 - tfrac32ι<sub>τ</sub>²"
 formula_mathml: "<math><mi>1 - tfrac32ι<sub>τ</sub>²</mi></math>"
 formula_display: "A = 1 − (3/2) · ι<sub>τ</sub>² ≈ 0.825"
 tau_value: "0.825"
+observed: "0.826"
 observed_value: "0.826"
 deviation: "-887~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "IV.T165"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Wolfenstein Parameter A: τ-value 0.825, observed 0.826, deviati
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -73,4 +81,3 @@ on which the generation structure is built.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

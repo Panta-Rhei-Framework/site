@@ -27,7 +27,7 @@ This is the **E₂ (Life)** layer of the enrichment ladder — following the [Ma
 
 The pages collected here do not function as the detailed catalogue of all life-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
-The central question is not yet which individual biological problem is resolved or how one specific life-related result should be interpreted. The central question is more prior:
+The central question is not yet which individual biological problem is internally addressed or how one specific life-related result should be interpreted. The central question is more prior:
 
 **If the Tau framework is taken seriously on its own terms, what sort of thing is life, and what kind of world makes life possible?**
 

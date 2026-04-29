@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Neutrino Majorana Signature"
 title_plain: "Neutrino Majorana Signature"
-permalink: /predictions/c/
-lane: results
+permalink: "/predictions/c/"
+lane: "results"
 prediction_id: "pred-009"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "zero holonomy"
 formula_mathml: "zero holonomy"
 formula_display: "σ = C_τ (zero holonomy) → Majorana"
 tau_value: "Majorana"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "IV.T146"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Neutrino Majorana Signature: τ-value Majorana, deviation –."
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -80,4 +88,3 @@ by the early 2030s.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

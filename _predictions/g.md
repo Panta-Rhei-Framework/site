@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Gravitational Constant G"
 title_plain: "Gravitational Constant G"
-permalink: /predictions/g/
-lane: results
+permalink: "/predictions/g/"
+lane: "results"
 prediction_id: "pred-026"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "(c³/ℏ),ι<sub>τ</sub>²"
 formula_mathml: "<math><mi>(c³/ℏ),ι<sub>τ</sub>²</mi></math>"
 formula_display: "G = (c³/ℏ) · ι<sub>τ</sub>² ≈ 6.674 × 10⁻¹¹"
 tau_value: "6.674!×!10⁻¹¹"
+observed: "CODATA"
 observed_value: "CODATA"
 deviation: "∼ 3~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: B
+cascade_tier: "B"
 precision_display: "Sub-10 ppm"
 registry_id: "V.T11"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Gravitational Constant G: τ-value 6.674!×!10⁻¹¹, observed 
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula

@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Fast Magnetic Reconnection Rate"
 title_plain: "Fast Magnetic Reconnection Rate"
-permalink: /predictions/v-c/
-lane: results
+permalink: "/predictions/v-c/"
+lane: "results"
 prediction_id: "pred-065"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>²,vA"
 formula_mathml: "<math><mi>ι<sub>τ</sub>²,vA</mi></math>"
 formula_display: "v_rec = ι<sub>τ</sub>² · v_A ≈ 0.117 v_A"
 tau_value: "0.117,vA"
+observed: "0.01–0.1,vA"
 observed_value: "0.01–0.1,vA"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T251"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Fast Magnetic Reconnection Rate: τ-value 0.117,vA, observed 0.0
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Collective Dynamics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -82,4 +90,3 @@ for future high-resolution experiments.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
-

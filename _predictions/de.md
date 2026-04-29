@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Matter Density from DE Closure ω_m"
 title_plain: "Matter Density from DE Closure ω_m"
-permalink: /predictions/de/
-lane: results
+permalink: "/predictions/de/"
+lane: "results"
 prediction_id: "pred-050"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "DE closure"
 formula_mathml: "DE closure"
 formula_display: "ω_m = DE closure = 0.1429"
 tau_value: "0.1429"
+observed: "0.1430"
 observed_value: "0.1430"
 deviation: "-675~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "V.T199"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Matter Density from DE Closure ω_m: τ-value 0.1429, observed 0
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -74,4 +82,3 @@ independent of cosmological parameters).
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

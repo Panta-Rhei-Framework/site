@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "The injection problem"
+title: "The injection problem - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/the-injection-problem/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for The injection problem."
+summary_short: "The item requires a future scope review before an answer or out-of-scope decision is claimed: Cosmic-ray seed acceleration may connect to plasma and high-energy astrophysics, but needs targeted review."
 canonical_problem_id: "phys-the-injection-problem"
+problem_answer_id: "answer-phys-the-injection-problem"
+scope_classification: "further_investigation"
+answer_strength: "no_current_answer"
+public_answer_status_label: "Further investigation"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-The injection problem
+Fermi acceleration is thought to be the primary mechanism that accelerates astrophysical particles to high energy. However, it is unclear what mechanism causes those particles to initially have energies high enough for Fermi acceleration to work on them
 
-## Source
+- Program Problem Ledger item: [phys-the-injection-problem](/program/research-agenda/problem-ledger/physics/the-injection-problem/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-the-injection-problem.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-the-injection-problem](/program/research-agenda/problem-ledger/physics/the-injection-problem/)
+## Current Framework Answer
 
-## Current Program Stance
+**Further investigation**. The item requires a future scope review before an answer or out-of-scope decision is claimed: Cosmic-ray seed acceleration may connect to plasma and high-energy astrophysics, but needs targeted review.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Cosmic-ray seed acceleration may connect to plasma and high-energy astrophysics, but needs targeted review.
 
-## Related Construction Steps
+## Registry Evidence
+
+- No direct Registry evidence is currently claimed for this answer.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- Reviewed in the outside-current-books double-check; Specific cosmic-ray acceleration seed problem outside current Corpus.
+- The manuscript/Registry scan did not find a direct enough anchor to cite without overclaiming.
+- This item remains intentionally empty; broad thematic adjacency, distant analogy, or generic domain overlap was not treated as sufficient evidence.
+- Final empty-map scope classification: Further investigation — Cosmic-ray seed acceleration may connect to plasma and high-energy astrophysics, but needs targeted review.

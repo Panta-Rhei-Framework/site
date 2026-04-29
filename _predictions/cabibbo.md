@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Cabibbo Angle λ"
 title_plain: "Cabibbo Angle λ"
-permalink: /predictions/cabibbo/
-lane: results
+permalink: "/predictions/cabibbo/"
+lane: "results"
 prediction_id: "pred-011"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>(1 - ι<sub>τ</sub>)"
 formula_mathml: "<math><mi>ι<sub>τ</sub>(1 - ι<sub>τ</sub>)</mi></math>"
 formula_display: "λ_C = ι<sub>τ</sub> · (1 − ι<sub>τ</sub>) = ι<sub>τ</sub> · κ_D ≈ 0.2248"
 tau_value: "0.2248"
+observed: "0.2253"
 observed_value: "0.2253"
 deviation: "-2327~ppm"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "IV.T152"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Cabibbo Angle λ: τ-value 0.2248, observed 0.2253, deviation -2
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -75,4 +83,3 @@ and gravitational interactions.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

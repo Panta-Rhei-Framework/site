@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Spectral Index n_s"
 title_plain: "Spectral Index n_s"
-permalink: /predictions/n/
-lane: results
+permalink: "/predictions/n/"
+lane: "results"
 prediction_id: "pred-032"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "1 - 2/Nₑ = 1 - 2/57"
 formula_mathml: "<math><mi>1 - 2/Nₑ = 1 - 2/57</mi></math>"
 formula_display: "n_s = 1 − 2/N_e = 1 − 2/57 = 0.96491"
 tau_value: "0.96491"
+observed: "0.9649"
 observed_value: "0.9649"
 deviation: "+13~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "V.D253"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Spectral Index n_s: τ-value 0.96491, observed 0.9649, deviation
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -86,4 +94,3 @@ and horizon problems.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

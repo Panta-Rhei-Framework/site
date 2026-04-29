@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Higgs Boson Mass (n = 5 route)"
 title_plain: "Higgs Boson Mass (n = 5 route)"
-permalink: /predictions/mh-n-5/
-lane: results
+permalink: "/predictions/mh-n-5/"
+lane: "results"
 prediction_id: "pred-025"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "(4 - ι<sub>τ</sub>³/(1-5κ_ω))/κ_ω"
 formula_mathml: "<math><mi>(4 - ι<sub>τ</sub>³/(1-5κ_ω))/κ_ω</mi></math>"
 formula_display: "m_H = (4 − ι<sub>τ</sub>³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV"
 tau_value: "125.26"
+observed: "125.20"
 observed_value: "125.20"
 deviation: "+493~ppm"
 precision_tier: "10-1000-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "10–1000 ppm"
 registry_id: "IV.T151"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Higgs Boson Mass (n = 5 route): τ-value 125.26, observed 125.20
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -87,4 +95,3 @@ and no fine-tuning problem.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

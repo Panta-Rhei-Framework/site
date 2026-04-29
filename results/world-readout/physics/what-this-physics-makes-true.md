@@ -71,7 +71,7 @@ Quantitative claims additionally sort into three precision tiers inherited from 
 - [electron mass at 0.025 ppm]({{ '/results/problem/electron-mass-0025-ppm/' | relative_url }}) *(Internally addressed, Tier A calibration anchor)*
 - [Hubble tension]({{ '/results/problem/hubble-tension/' | relative_url }}) *(Internally addressed, τ-effective)*
 - [dark matter / dark energy closure]({{ '/results/problem/dark-sector-closure/' | relative_url }}) and [no dark matter particle]({{ '/results/problem/no-dark-matter-particle/' | relative_url }}) *(Internally addressed, τ-effective sector closure)*
-- [vacuum catastrophe resolution]({{ '/results/problem/vacuum-catastrophe-resolution/' | relative_url }}) *(Internally addressed, cosmological scale readout)*
+- [vacuum catastrophe framework account]({{ '/results/problem/vacuum-catastrophe-resolution/' | relative_url }}) *(Internally addressed, cosmological scale readout)*
 - [proton radius]({{ '/results/problem/proton-charge-radius-12-ppm/' | relative_url }}) *(Internally addressed)*
 - [muon g−2]({{ '/results/problem/muon-anomalous-magnetic-moment-8pt8-ppm/' | relative_url }}) *(Internally addressed)*
 - [W mass]({{ '/results/problem/w-mass-puzzle/' | relative_url }}) *(Partial)*
@@ -97,7 +97,7 @@ The specific results of Tau-physics are not the first thing to understand. The f
 ## Canonical References
 
 - [V.T44]({{ '/registry/object/V.T44/' | relative_url }}) — Sector Exhaustion
-- [V.T46]({{ '/registry/object/V.T46/' | relative_url }}) — H0 Tension Resolution
+- [V.T46]({{ '/registry/object/V.T46/' | relative_url }}) — H0 Tension Framework Account
 - [IV.T87]({{ '/registry/object/IV.T87/' | relative_url }}) — Sector Coupling Formulas
 - [IV.T100]({{ '/registry/object/IV.T100/' | relative_url }}) — Internal Law Thesis
 

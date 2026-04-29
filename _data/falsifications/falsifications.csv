@@ -1,0 +1,31 @@
+falsification_id,slug,title,domain,current_status,tier,url
+N1,n1-no-fourth-generation,N1 — No fourth generation,particle-physics,confirmed,binary,/falsifications/n1-no-fourth-generation/
+N2,n2-no-susy-partners,N2 — No SUSY partners,particle-physics,consistent,binary,/falsifications/n2-no-susy-partners/
+N3,n3-no-dark-matter-particle,N3 — No dark matter particle,particle-physics,consistent,binary,/falsifications/n3-no-dark-matter-particle/
+N4,n4-neutron-edm-is-exactly-zero,N4 — Neutron EDM is exactly zero,particle-physics,consistent,binary,/falsifications/n4-neutron-edm-is-exactly-zero/
+N5,n5-all-neutrinos-are-majorana,N5 — All neutrinos are Majorana,particle-physics,consistent,binary,/falsifications/n5-all-neutrinos-are-majorana/
+N6,n6-sum-of-neutrino-masses-m-0089,N6 — Sum of neutrino masses mν = 0.089 eV,particle-physics,consistent,B,/falsifications/n6-sum-of-neutrino-masses-m-0089/
+N7,n7-normal-mass-hierarchy,N7 — Normal mass hierarchy,particle-physics,consistent,binary,/falsifications/n7-normal-mass-hierarchy/
+N8,n8-proton-stable,N8 — Proton stable,particle-physics,consistent,binary,/falsifications/n8-proton-stable/
+N9,n9-tensor-to-scalar-ratio-r-4-00136,N9 — Tensor-to-scalar ratio $r = _^4 0.0136$,cmb-inflation,consistent,A,/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/
+N10,n10-spectral-index-ns-1-257,N10 — Spectral index $n_s = 1 - 2/57$,particle-physics,consistent,A,/falsifications/n10-spectral-index-ns-1-257/
+N11,n11-first-acoustic-peak-1-2206,N11 — First acoustic peak $_1 = 220.6$,particle-physics,confirmed,B,/falsifications/n11-first-acoustic-peak-1-2206/
+N12,n12-b-mode-amplitude-d80,N12 — B-mode amplitude D80,particle-physics,consistent,B,/falsifications/n12-b-mode-amplitude-d80/
+N13,n13-n-eff,N13 — Effective neutrino number N_eff,particle-physics,consistent,A,/falsifications/n13-n-eff/
+N14,n14-silk-damping-ratio-d-1-d-b,N14 — Silk damping ratio $_D / _1 = _D / _B$,particle-physics,confirmed,B,/falsifications/n14-silk-damping-ratio-d-1-d-b/
+N15,n15-helium-4-mass-fraction-yp-2081,N15 — Helium-4 mass fraction $Y_p = 20/81$,bbn,consistent,A,/falsifications/n15-helium-4-mass-fraction-yp-2081/
+N16,n16-deuterium-abundance-from-native-b,N16 — Deuterium abundance from $$-native $_B$,particle-physics,consistent,A,/falsifications/n16-deuterium-abundance-from-native-b/
+N17,n17-lithium-7-resolved-s-13,N17 — Lithium-7 framework account (S = 1/3),particle-physics,consistent,A,/falsifications/n17-lithium-7-resolved-s-13/
+N18,n18-equation-of-state-w0-0960,N18 — Equation of state $w_0 -0.960$,dark-sector,confirmed,A,/falsifications/n18-equation-of-state-w0-0960/
+N19,n19-no-phantom-crossing,N19 — No phantom crossing,dark-sector,consistent,binary,/falsifications/n19-no-phantom-crossing/
+N20,n20-dark-energy-density-06849,N20 — Dark energy density ΩΛ = 0.6849,particle-physics,consistent,B,/falsifications/n20-dark-energy-density-06849/
+N21,n21-hubble-constant-h-06735,N21 — Hubble constant $h = 0.6735$,particle-physics,consistent,B,/falsifications/n21-hubble-constant-h-06735/
+N22,n22-clustering-amplitude-s8-0760,N22 — Clustering amplitude $S_8 = 0.760$,particle-physics,consistent,B,/falsifications/n22-clustering-amplitude-s8-0760/
+N23,n23-no-dm-detection-ever,N23 — No DM detection—ever,particle-physics,consistent,binary,/falsifications/n23-no-dm-detection-ever/
+N24,n24-qnm-frequency-ratio-1,N24 — QNM frequency ratio ιτ⁻¹,black-holes,consistent,A,/falsifications/n24-qnm-frequency-ratio-1/
+N25,n25-eht-shadow-correction-291,N25 — EHT shadow correction $+2.91%$,black-holes,consistent,A,/falsifications/n25-eht-shadow-correction-291/
+N26,n26-gw-echo-time-ratio-2,N26 — GW echo time ratio ιτ⁻²,particle-physics,consistent,A,/falsifications/n26-gw-echo-time-ratio-2/
+N27,n27-magnetic-winding-number-w-2,N27 — Magnetic winding number $w = 2$,particle-physics,consistent,binary,/falsifications/n27-magnetic-winding-number-w-2/
+N28,n28-she-leveque-from-3,N28 — She–Lévêque from $^3$,collective-dynamics,consistent,A,/falsifications/n28-she-leveque-from-3/
+N29,n29-kolmogorov-constant-ck-32,N29 — Kolmogorov constant $C_K = 3/2$,particle-physics,consistent,A,/falsifications/n29-kolmogorov-constant-ck-32/
+N30,n30-fast-reconnection-rate-v-rec,N30 — Fast reconnection rate v_rec,particle-physics,consistent,A,/falsifications/n30-fast-reconnection-rate-v-rec/

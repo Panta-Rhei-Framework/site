@@ -1,119 +1,134 @@
 ---
 layout: "program-doc"
-title: "Problem Ledger Answers: Physics"
+title: "Problem Answers: Physics"
 permalink: "/results/problem-ledger-answers/physics/"
 lane: "results"
 v2_lane: "results"
-type: "Result Mirror Domain"
+type: "Problem Answers Domain"
 status: "Canonical"
-summary_short: "Current program stances for Physics Problem Ledger items."
+summary_short: "Exact Problem Answer mirror for Physics Problem Ledger items."
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
 
-## Status Separation
+## Domain Answer Set
 
-<div class="notice note"><strong>Status note.</strong> These are current internal program stances unless explicitly marked otherwise.</div>
+These pages mirror the Physics Problem Ledger items exactly. Each entry states whether the current framework internally addresses, partially addresses, structurally constrains, declines, or defers the problem.
 
-## Items
+The reading path is stable: start from the Program Problem Ledger item, read the current answer here, inspect the Corpus evidence, then move to Verify where a review or falsification route exists.
 
-- [Abiogenesis](/results/problem-ledger-answers/physics/abiogenesis/) - Not yet touched
-- [Age–metallicity relation in the Galactic disk](/results/problem-ledger-answers/physics/agemetallicity-relation-in-the-galactic-disk/) - Not yet touched
-- [Alfvénic turbulence](/results/problem-ledger-answers/physics/alfvenic-turbulence/) - Not yet touched
-- [Amorphous solids](/results/problem-ledger-answers/physics/amorphous-solids/) - Not yet touched
-- [Anomalous magnetic dipole moment](/results/problem-ledger-answers/physics/anomalous-magnetic-dipole-moment/) - Not yet touched
-- [Arrow of time (e.g. entropy's arrow of time)](/results/problem-ledger-answers/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/) - Not yet touched
-- [Astrophysical jet](/results/problem-ledger-answers/physics/astrophysical-jet/) - Not yet touched
-- [Ball lightning](/results/problem-ledger-answers/physics/ball-lightning/) - Not yet touched
-- [Black holes, black hole information paradox, and black hole radiation](/results/problem-ledger-answers/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/) - Not yet touched
-- [Color confinement](/results/problem-ledger-answers/physics/color-confinement/) - Not yet touched
-- [Complexity classes problems](/results/problem-ledger-answers/physics/complexity-classes-problems/) - Not yet touched
-- [Coronal heating problem](/results/problem-ledger-answers/physics/coronal-heating-problem/) - Not yet touched
-- [Cosmic inflation](/results/problem-ledger-answers/physics/cosmic-inflation/) - Not yet touched
-- [Cosmological constant problem](/results/problem-ledger-answers/physics/cosmological-constant-problem/) - Not yet touched
-- [Cosmological principle](/results/problem-ledger-answers/physics/cosmological-principle/) - Not yet touched
-- [Cryogenic electron emission](/results/problem-ledger-answers/physics/cryogenic-electron-emission/) - Not yet touched
-- [Dark Matter](/results/problem-ledger-answers/physics/dark-matter/) - Partially addressed
-- [Dark energy](/results/problem-ledger-answers/physics/dark-energy/) - Not yet touched
-- [Dark flow](/results/problem-ledger-answers/physics/dark-flow/) - Not yet touched
-- [Diffuse interstellar bands](/results/problem-ledger-answers/physics/diffuse-interstellar-bands/) - Not yet touched
-- [Dimensionless physical constants](/results/problem-ledger-answers/physics/dimensionless-physical-constants/) - Not yet touched
-- [Extra dimensions](/results/problem-ledger-answers/physics/extra-dimensions/) - Not yet touched
-- [Fast radio bursts (FRBs)](/results/problem-ledger-answers/physics/fast-radio-bursts-frbs/) - Not yet touched
-- [Flyby anomaly](/results/problem-ledger-answers/physics/flyby-anomaly/) - Not yet touched
-- [Fractional Hall effect](/results/problem-ledger-answers/physics/fractional-hall-effect/) - Not yet touched
-- [Galaxy rotation problem](/results/problem-ledger-answers/physics/galaxy-rotation-problem/) - Not yet touched
-- [Gallium anomaly](/results/problem-ledger-answers/physics/gallium-anomaly/) - Not yet touched
-- [Gauge block wringing](/results/problem-ledger-answers/physics/gauge-block-wringing/) - Not yet touched
-- [Generations of matter](/results/problem-ledger-answers/physics/generations-of-matter/) - Not yet touched
-- [Glueballs](/results/problem-ledger-answers/physics/glueballs/) - Not yet touched
-- [Grand Unification](/results/problem-ledger-answers/physics/grand-unification/) - Not yet touched
-- [Granular convection](/results/problem-ledger-answers/physics/granular-convection/) - Not yet touched
-- [Hierarchy problem](/results/problem-ledger-answers/physics/hierarchy-problem/) - Not yet touched
-- [High-temperature superconductivity](/results/problem-ledger-answers/physics/high-temperature-superconductivity/) - Not yet touched
-- [Holographic principle](/results/problem-ledger-answers/physics/holographic-principle/) - Not yet touched
-- [Homochirality](/results/problem-ledger-answers/physics/homochirality/) - Not yet touched
-- [Horizon problem](/results/problem-ledger-answers/physics/horizon-problem/) - Not yet touched
-- [Hubble tension](/results/problem-ledger-answers/physics/hubble-tension/) - Not yet touched
-- [Interpretation of quantum mechanics](/results/problem-ledger-answers/physics/interpretation-of-quantum-mechanics/) - Not yet touched
-- [Koide formula](/results/problem-ledger-answers/physics/koide-formula/) - Not yet touched
-- [Kuiper cliff](/results/problem-ledger-answers/physics/kuiper-cliff/) - Not yet touched
-- [Large-scale anisotropy](/results/problem-ledger-answers/physics/large-scale-anisotropy/) - Not yet touched
-- [Liquid crystals](/results/problem-ledger-answers/physics/liquid-crystals/) - Not yet touched
-- [Locality](/results/problem-ledger-answers/physics/locality/) - Not yet touched
-- [Magnetic monopoles](/results/problem-ledger-answers/physics/magnetic-monopoles/) - Not yet touched
-- [Magnetoreception](/results/problem-ledger-answers/physics/magnetoreception/) - Not yet touched
-- [Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter](/results/problem-ledger-answers/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/) - Not yet touched
-- [Metal whiskering](/results/problem-ledger-answers/physics/metal-whiskering/) - Not yet touched
-- [Mu problem](/results/problem-ledger-answers/physics/mu-problem/) - Not yet touched
-- [Neutrino mass](/results/problem-ledger-answers/physics/neutrino-mass/) - Not yet touched
-- [Neutron lifetime puzzle](/results/problem-ledger-answers/physics/neutron-lifetime-puzzle/) - Not yet touched
-- [Nuclei and nuclear astrophysics](/results/problem-ledger-answers/physics/nuclei-and-nuclear-astrophysics/) - Not yet touched
-- [Origin and future of the universe](/results/problem-ledger-answers/physics/origin-and-future-of-the-universe/) - Not yet touched
-- [Origin of cosmic magnetic fields](/results/problem-ledger-answers/physics/origin-of-cosmic-magnetic-fields/) - Not yet touched
-- [Origin of magnetar magnetic field](/results/problem-ledger-answers/physics/origin-of-magnetar-magnetic-field/) - Not yet touched
-- [Pentaquarks and other exotic hadrons](/results/problem-ledger-answers/physics/pentaquarks-and-other-exotic-hadrons/) - Not yet touched
-- [Plasma physics and fusion power](/results/problem-ledger-answers/physics/plasma-physics-and-fusion-power/) - Not yet touched
-- [Post-quantum cryptography](/results/problem-ledger-answers/physics/post-quantum-cryptography/) - Not yet touched
-- [Problem of time](/results/problem-ledger-answers/physics/problem-of-time/) - Not yet touched
-- [Protein structure prediction](/results/problem-ledger-answers/physics/protein-structure-prediction/) - Not yet touched
-- [Proton decay and spin crisis](/results/problem-ledger-answers/physics/proton-decay-and-spin-crisis/) - Not yet touched
-- [Quantitative study of the immune system](/results/problem-ledger-answers/physics/quantitative-study-of-the-immune-system/) - Not yet touched
-- [Quantum biology](/results/problem-ledger-answers/physics/quantum-biology/) - Not yet touched
-- [Quantum capacity](/results/problem-ledger-answers/physics/quantum-capacity/) - Not yet touched
-- [Quantum chromodynamics](/results/problem-ledger-answers/physics/quantum-chromodynamics/) - Not yet touched
-- [Quantum field theory (this is a generalization of the previous problem)](/results/problem-ledger-answers/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/) - Not yet touched
-- [Quantum gravity](/results/problem-ledger-answers/physics/quantum-gravity/) - Not yet touched
-- [Quantum mind](/results/problem-ledger-answers/physics/quantum-mind/) - Not yet touched
-- [Quantum spacetime or the emergence of spacetime](/results/problem-ledger-answers/physics/quantum-spacetime-or-the-emergence-of-spacetime/) - Not yet touched
-- [Quark–gluon plasma](/results/problem-ledger-answers/physics/quarkgluon-plasma/) - Not yet touched
-- [Reactor antineutrino anomaly](/results/problem-ledger-answers/physics/reactor-antineutrino-anomaly/) - Not yet touched
-- [Rotation rate of Saturn](/results/problem-ledger-answers/physics/rotation-rate-of-saturn/) - Not yet touched
-- [Scharnhorst effect](/results/problem-ledger-answers/physics/scharnhorst-effect/) - Not yet touched
-- [Semiconductor nanocrystals](/results/problem-ledger-answers/physics/semiconductor-nanocrystals/) - Not yet touched
-- [Shape of the universe](/results/problem-ledger-answers/physics/shape-of-the-universe/) - Not yet touched
-- [Size of universe](/results/problem-ledger-answers/physics/size-of-universe/) - Not yet touched
-- [Solar cycle](/results/problem-ledger-answers/physics/solar-cycle/) - Not yet touched
-- [Sonoluminescence](/results/problem-ledger-answers/physics/sonoluminescence/) - Not yet touched
-- [Specific models of quark–gluon plasma formation](/results/problem-ledger-answers/physics/specific-models-of-quarkgluon-plasma-formation/) - Not yet touched
-- [Stochasticity and robustness to noise in gene expression](/results/problem-ledger-answers/physics/stochasticity-and-robustness-to-noise-in-gene-expression/) - Not yet touched
-- [Strange matter](/results/problem-ledger-answers/physics/strange-matter/) - Not yet touched
-- [Strong CP problem and axions](/results/problem-ledger-answers/physics/strong-cp-problem-and-axions/) - Not yet touched
-- [Superfluid transition in helium-4](/results/problem-ledger-answers/physics/superfluid-transition-in-helium-4/) - Not yet touched
-- [Supermassive black holes](/results/problem-ledger-answers/physics/supermassive-black-holes/) - Not yet touched
-- [Supernovae](/results/problem-ledger-answers/physics/supernovae/) - Not yet touched
-- [Supersymmetry](/results/problem-ledger-answers/physics/supersymmetry/) - Not yet touched
-- [Temperature](/results/problem-ledger-answers/physics/temperature/) - Not yet touched
-- [The QCD vacuum](/results/problem-ledger-answers/physics/the-qcd-vacuum/) - Not yet touched
-- [The cosmic censorship hypothesis and the chronology protection conjecture](/results/problem-ledger-answers/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/) - Not yet touched
-- [The injection problem](/results/problem-ledger-answers/physics/the-injection-problem/) - Not yet touched
-- [The lithium problem](/results/problem-ledger-answers/physics/the-lithium-problem/) - Not yet touched
-- [Theory of everything](/results/problem-ledger-answers/physics/theory-of-everything/) - Not yet touched
-- [Threshold problem](/results/problem-ledger-answers/physics/threshold-problem/) - Not yet touched
-- [Topological order](/results/problem-ledger-answers/physics/topological-order/) - Not yet touched
-- [Topological qubits](/results/problem-ledger-answers/physics/topological-qubits/) - Not yet touched
-- [Turbulent flow](/results/problem-ledger-answers/physics/turbulent-flow/) - Not yet touched
-- [Ultra-high-energy cosmic ray](/results/problem-ledger-answers/physics/ultra-high-energy-cosmic-ray/) - Not yet touched
-- [Ultraluminous X-ray sources (ULXs)](/results/problem-ledger-answers/physics/ultraluminous-x-ray-sources-ulxs/) - Not yet touched
-- [Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?](/results/problem-ledger-answers/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/) - Not yet touched
-- [Universality of low-temperature amorphous solids](/results/problem-ledger-answers/physics/universality-of-low-temperature-amorphous-solids/) - Not yet touched
-- [Yang–Mills theory](/results/problem-ledger-answers/physics/yangmills-theory/) - Not yet touched
-- [p-nuclei](/results/problem-ledger-answers/physics/p-nuclei/) - Not yet touched
+## Status Counts
+
+- **Backlog open problem:** 7
+- **Declared out of scope:** 12
+- **Further investigation:** 7
+- **Internally addressed:** 22
+- **Partially addressed:** 2
+- **Structurally constrained:** 52
+
+## Problem Answers
+
+- [Abiogenesis](/results/problem-ledger-answers/physics/abiogenesis/) - Structurally constrained
+- [Age–metallicity relation in the Galactic disk](/results/problem-ledger-answers/physics/agemetallicity-relation-in-the-galactic-disk/) - Structurally constrained
+- [Alfvénic turbulence](/results/problem-ledger-answers/physics/alfvenic-turbulence/) - Structurally constrained
+- [Amorphous solids](/results/problem-ledger-answers/physics/amorphous-solids/) - Structurally constrained
+- [Anomalous magnetic dipole moment](/results/problem-ledger-answers/physics/anomalous-magnetic-dipole-moment/) - Structurally constrained
+- [Arrow of time (e.g. entropy's arrow of time)](/results/problem-ledger-answers/physics/arrow-of-time-e-g-entropy-s-arrow-of-time/) - Structurally constrained
+- [Astrophysical jet](/results/problem-ledger-answers/physics/astrophysical-jet/) - Internally addressed
+- [Ball lightning](/results/problem-ledger-answers/physics/ball-lightning/) - Declared out of scope
+- [Black holes, black hole information paradox, and black hole radiation](/results/problem-ledger-answers/physics/black-holes-black-hole-information-paradox-and-black-hole-radiation/) - Structurally constrained
+- [Color confinement](/results/problem-ledger-answers/physics/color-confinement/) - Structurally constrained
+- [Complexity classes problems](/results/problem-ledger-answers/physics/complexity-classes-problems/) - Structurally constrained
+- [Coronal heating problem](/results/problem-ledger-answers/physics/coronal-heating-problem/) - Internally addressed
+- [Cosmic inflation](/results/problem-ledger-answers/physics/cosmic-inflation/) - Structurally constrained
+- [Cosmological constant problem](/results/problem-ledger-answers/physics/cosmological-constant-problem/) - Structurally constrained
+- [Cosmological principle](/results/problem-ledger-answers/physics/cosmological-principle/) - Structurally constrained
+- [Cryogenic electron emission](/results/problem-ledger-answers/physics/cryogenic-electron-emission/) - Declared out of scope
+- [Dark Matter](/results/problem-ledger-answers/physics/dark-matter/) - Internally addressed
+- [Dark energy](/results/problem-ledger-answers/physics/dark-energy/) - Internally addressed
+- [Dark flow](/results/problem-ledger-answers/physics/dark-flow/) - Further investigation
+- [Diffuse interstellar bands](/results/problem-ledger-answers/physics/diffuse-interstellar-bands/) - Declared out of scope
+- [Dimensionless physical constants](/results/problem-ledger-answers/physics/dimensionless-physical-constants/) - Structurally constrained
+- [Extra dimensions](/results/problem-ledger-answers/physics/extra-dimensions/) - Structurally constrained
+- [Fast radio bursts (FRBs)](/results/problem-ledger-answers/physics/fast-radio-bursts-frbs/) - Further investigation
+- [Flyby anomaly](/results/problem-ledger-answers/physics/flyby-anomaly/) - Declared out of scope
+- [Fractional Hall effect](/results/problem-ledger-answers/physics/fractional-hall-effect/) - Further investigation
+- [Galaxy rotation problem](/results/problem-ledger-answers/physics/galaxy-rotation-problem/) - Internally addressed
+- [Gallium anomaly](/results/problem-ledger-answers/physics/gallium-anomaly/) - Backlog open problem
+- [Gauge block wringing](/results/problem-ledger-answers/physics/gauge-block-wringing/) - Declared out of scope
+- [Generations of matter](/results/problem-ledger-answers/physics/generations-of-matter/) - Structurally constrained
+- [Glueballs](/results/problem-ledger-answers/physics/glueballs/) - Internally addressed
+- [Grand Unification](/results/problem-ledger-answers/physics/grand-unification/) - Internally addressed
+- [Granular convection](/results/problem-ledger-answers/physics/granular-convection/) - Declared out of scope
+- [Hierarchy problem](/results/problem-ledger-answers/physics/hierarchy-problem/) - Internally addressed
+- [High-temperature superconductivity](/results/problem-ledger-answers/physics/high-temperature-superconductivity/) - Structurally constrained
+- [Holographic principle](/results/problem-ledger-answers/physics/holographic-principle/) - Internally addressed
+- [Homochirality](/results/problem-ledger-answers/physics/homochirality/) - Structurally constrained
+- [Horizon problem](/results/problem-ledger-answers/physics/horizon-problem/) - Internally addressed
+- [Hubble tension](/results/problem-ledger-answers/physics/hubble-tension/) - Internally addressed
+- [Interpretation of quantum mechanics](/results/problem-ledger-answers/physics/interpretation-of-quantum-mechanics/) - Structurally constrained
+- [Koide formula](/results/problem-ledger-answers/physics/koide-formula/) - Structurally constrained
+- [Kuiper cliff](/results/problem-ledger-answers/physics/kuiper-cliff/) - Declared out of scope
+- [Large-scale anisotropy](/results/problem-ledger-answers/physics/large-scale-anisotropy/) - Structurally constrained
+- [Liquid crystals](/results/problem-ledger-answers/physics/liquid-crystals/) - Further investigation
+- [Locality](/results/problem-ledger-answers/physics/locality/) - Structurally constrained
+- [Magnetic monopoles](/results/problem-ledger-answers/physics/magnetic-monopoles/) - Internally addressed
+- [Magnetoreception](/results/problem-ledger-answers/physics/magnetoreception/) - Backlog open problem
+- [Matter–antimatter asymmetry Theoretical models suggest that the early universe should have produced equal amounts of matter and antimatter](/results/problem-ledger-answers/physics/matterantimatter-asymmetry-theoretical-models-suggest-that-the-early-universe-should-have-produced-equal-amounts-of-matter-and-antimatter/) - Structurally constrained
+- [Metal whiskering](/results/problem-ledger-answers/physics/metal-whiskering/) - Declared out of scope
+- [Mu problem](/results/problem-ledger-answers/physics/mu-problem/) - Structurally constrained
+- [Neutrino mass](/results/problem-ledger-answers/physics/neutrino-mass/) - Internally addressed
+- [Neutron lifetime puzzle](/results/problem-ledger-answers/physics/neutron-lifetime-puzzle/) - Internally addressed
+- [Nuclei and nuclear astrophysics](/results/problem-ledger-answers/physics/nuclei-and-nuclear-astrophysics/) - Structurally constrained
+- [Origin and future of the universe](/results/problem-ledger-answers/physics/origin-and-future-of-the-universe/) - Structurally constrained
+- [Origin of cosmic magnetic fields](/results/problem-ledger-answers/physics/origin-of-cosmic-magnetic-fields/) - Internally addressed
+- [Origin of magnetar magnetic field](/results/problem-ledger-answers/physics/origin-of-magnetar-magnetic-field/) - Structurally constrained
+- [Pentaquarks and other exotic hadrons](/results/problem-ledger-answers/physics/pentaquarks-and-other-exotic-hadrons/) - Internally addressed
+- [Plasma physics and fusion power](/results/problem-ledger-answers/physics/plasma-physics-and-fusion-power/) - Structurally constrained
+- [Post-quantum cryptography](/results/problem-ledger-answers/physics/post-quantum-cryptography/) - Structurally constrained
+- [Problem of time](/results/problem-ledger-answers/physics/problem-of-time/) - Internally addressed
+- [Protein structure prediction](/results/problem-ledger-answers/physics/protein-structure-prediction/) - Structurally constrained
+- [Proton decay and spin crisis](/results/problem-ledger-answers/physics/proton-decay-and-spin-crisis/) - Structurally constrained
+- [Quantitative study of the immune system](/results/problem-ledger-answers/physics/quantitative-study-of-the-immune-system/) - Backlog open problem
+- [Quantum biology](/results/problem-ledger-answers/physics/quantum-biology/) - Structurally constrained
+- [Quantum capacity](/results/problem-ledger-answers/physics/quantum-capacity/) - Structurally constrained
+- [Quantum chromodynamics](/results/problem-ledger-answers/physics/quantum-chromodynamics/) - Structurally constrained
+- [Quantum field theory (this is a generalization of the previous problem)](/results/problem-ledger-answers/physics/quantum-field-theory-this-is-a-generalization-of-the-previous-problem/) - Structurally constrained
+- [Quantum gravity](/results/problem-ledger-answers/physics/quantum-gravity/) - Structurally constrained
+- [Quantum mind](/results/problem-ledger-answers/physics/quantum-mind/) - Structurally constrained
+- [Quantum spacetime or the emergence of spacetime](/results/problem-ledger-answers/physics/quantum-spacetime-or-the-emergence-of-spacetime/) - Partially addressed
+- [Quark–gluon plasma](/results/problem-ledger-answers/physics/quarkgluon-plasma/) - Structurally constrained
+- [Reactor antineutrino anomaly](/results/problem-ledger-answers/physics/reactor-antineutrino-anomaly/) - Structurally constrained
+- [Rotation rate of Saturn](/results/problem-ledger-answers/physics/rotation-rate-of-saturn/) - Declared out of scope
+- [Scharnhorst effect](/results/problem-ledger-answers/physics/scharnhorst-effect/) - Further investigation
+- [Semiconductor nanocrystals](/results/problem-ledger-answers/physics/semiconductor-nanocrystals/) - Declared out of scope
+- [Shape of the universe](/results/problem-ledger-answers/physics/shape-of-the-universe/) - Structurally constrained
+- [Size of universe](/results/problem-ledger-answers/physics/size-of-universe/) - Structurally constrained
+- [Solar cycle](/results/problem-ledger-answers/physics/solar-cycle/) - Backlog open problem
+- [Sonoluminescence](/results/problem-ledger-answers/physics/sonoluminescence/) - Declared out of scope
+- [Specific models of quark–gluon plasma formation](/results/problem-ledger-answers/physics/specific-models-of-quarkgluon-plasma-formation/) - Structurally constrained
+- [Stochasticity and robustness to noise in gene expression](/results/problem-ledger-answers/physics/stochasticity-and-robustness-to-noise-in-gene-expression/) - Structurally constrained
+- [Strange matter](/results/problem-ledger-answers/physics/strange-matter/) - Backlog open problem
+- [Strong CP problem and axions](/results/problem-ledger-answers/physics/strong-cp-problem-and-axions/) - Structurally constrained
+- [Superfluid transition in helium-4](/results/problem-ledger-answers/physics/superfluid-transition-in-helium-4/) - Structurally constrained
+- [Supermassive black holes](/results/problem-ledger-answers/physics/supermassive-black-holes/) - Internally addressed
+- [Supernovae](/results/problem-ledger-answers/physics/supernovae/) - Internally addressed
+- [Supersymmetry](/results/problem-ledger-answers/physics/supersymmetry/) - Internally addressed
+- [Temperature](/results/problem-ledger-answers/physics/temperature/) - Partially addressed
+- [The QCD vacuum](/results/problem-ledger-answers/physics/the-qcd-vacuum/) - Structurally constrained
+- [The cosmic censorship hypothesis and the chronology protection conjecture](/results/problem-ledger-answers/physics/the-cosmic-censorship-hypothesis-and-the-chronology-protection-conjecture/) - Internally addressed
+- [The injection problem](/results/problem-ledger-answers/physics/the-injection-problem/) - Further investigation
+- [The lithium problem](/results/problem-ledger-answers/physics/the-lithium-problem/) - Internally addressed
+- [Theory of everything](/results/problem-ledger-answers/physics/theory-of-everything/) - Structurally constrained
+- [Threshold problem](/results/problem-ledger-answers/physics/threshold-problem/) - Structurally constrained
+- [Topological order](/results/problem-ledger-answers/physics/topological-order/) - Backlog open problem
+- [Topological qubits](/results/problem-ledger-answers/physics/topological-qubits/) - Structurally constrained
+- [Turbulent flow](/results/problem-ledger-answers/physics/turbulent-flow/) - Structurally constrained
+- [Ultra-high-energy cosmic ray](/results/problem-ledger-answers/physics/ultra-high-energy-cosmic-ray/) - Further investigation
+- [Ultraluminous X-ray sources (ULXs)](/results/problem-ledger-answers/physics/ultraluminous-x-ray-sources-ulxs/) - Declared out of scope
+- [Under what conditions do smooth solutions exist for the Navier–Stokes equations, which are the equations that describe the flow of a viscous fluid?](/results/problem-ledger-answers/physics/under-what-conditions-do-smooth-solutions-exist-for-the-navierstokes-equations-which-are-the-equations-that-describe-the-flow-of-a-viscous-fluid/) - Structurally constrained
+- [Universality of low-temperature amorphous solids](/results/problem-ledger-answers/physics/universality-of-low-temperature-amorphous-solids/) - Structurally constrained
+- [Yang–Mills theory](/results/problem-ledger-answers/physics/yangmills-theory/) - Structurally constrained
+- [p-nuclei](/results/problem-ledger-answers/physics/p-nuclei/) - Backlog open problem

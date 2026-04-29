@@ -1,11 +1,11 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N9 — Tensor-to-scalar ratio $r = _^4 0.0136$"
-permalink: /falsifications/n9-tensor-to-scalar-ratio-r-4-00136/
-lane: results
+permalink: "/falsifications/n9-tensor-to-scalar-ratio-r-4-00136/"
+lane: "results"
 falsification_id: "N9"
 n_num: 9
-tier: A
+tier: "A"
 domain: "cmb-inflation"
 domain_display: "CMB & Inflation"
 prediction: "r = iota-tau-4 approx 0.014. tensor-to-scalar ratio!prediction pred:n9 Fiber dimensional suppression (V.P136): $r = _^2(T^2) = _^4$. Not slow-roll: $r 8/N_e$. The 156$$ gap between $_^4$ and $8/57$ is the sharpest inflation discriminant. Decisive at $14$ by CMB-S4."
@@ -21,18 +21,25 @@ summary_short: "N9: Tensor-to-scalar ratio $r = _^4 0.0136$. BICEP Array, CMB-S4
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "CMB & Inflation"
     status: "Consistent"
     experiment: "BICEP Array, CMB-S4, LiteBIRD"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N9: Prediction
@@ -90,4 +97,3 @@ to the number of lemniscate lobes
 and the second factor
 arising from $P |δ|^2$.
 *(Registry: V.P136, $τ$-effective, Wave 13.)*
-

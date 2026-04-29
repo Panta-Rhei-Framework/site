@@ -43,7 +43,7 @@ Additional Derived Results are results produced by the framework that are not di
 
 They include domain-specific derived results, explanatory results, bridge results, supporting results, and consequences that still belong to the program's output.
 
-<div class="notice note"><strong>Boundary note.</strong> This page is not an accountability mirror. Declared open-problem obligations belong to [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}), and declared recovery obligations belong to [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}).</div>
+<div class="notice note"><strong>Boundary note.</strong> This page is not an accountability mirror. Declared open-problem obligations belong to [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}), and declared recovery obligations belong to [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}).</div>
 
 ## Browse by domain
 

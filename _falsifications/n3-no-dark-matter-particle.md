@@ -1,17 +1,16 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N3 — No dark matter particle"
-permalink: /falsifications/n3-no-dark-matter-particle/
-lane: results
+permalink: "/falsifications/n3-no-dark-matter-particle/"
+lane: "results"
 falsification_id: "N3"
 n_num: 3
-tier: binary
+tier: "binary"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "dark matter!prediction N3 pred:n3 The Sector Exhaustion Theorem (Chapter~ch:book5-ch44-sector-exhaustion) forbids a sixth sector. No dark matter particle—WIMP, axion, sterile neutrino, or any other species—will be detected in any experiment. $$-value: zero cross-section. Orthodox: $ 10^-47$~cm$^2$ ("
 experiment: "LZ, XLZD, PandaX, XENONnT, DARWIN, ADMX"
 timeline: "2025–2035."
-decisive: ""
 current_status: "consistent"
 seam: "no-dark-matter"
 registry_id: "IV.T171"
@@ -21,18 +20,25 @@ summary_short: "N3: No dark matter particle. LZ, XLZD, PandaX, XENONnT, DARWIN, 
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "LZ, XLZD, PandaX, XENONnT, DARWIN, ADMX"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N3: Prediction
@@ -86,4 +92,3 @@ has $λ_(2,1) ≈ 12.58$,
 exceeding the composite threshold $λ_(2,0) = 4$.
 No fourth light generation exists.
 *(Registry: IV.T172, Wave 7.)*
-

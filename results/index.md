@@ -9,12 +9,12 @@ status: "Canonical"
 summary_short: "What the program currently derives from its research corpus."
 og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
-og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
+og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
 summary_cards:
   - title: "World consequence"
     body: "Results is where the built Corpus becomes a world."
   - title: "Mirrors"
-    body: "Problem Ledger Answers and Recovery Target Status mirror declared Agenda obligations."
+    body: "Problem Answers and Recovery Target Status mirror declared Agenda obligations."
   - title: "Status"
     body: "Every result surface separates internal stance, verification, and external acceptance."
 hero_ctas:
@@ -29,7 +29,7 @@ right_rail:
   related:
     - title: "Landmark Results"
       url: /results/landmark-results/
-    - title: "Problem Ledger Answers"
+    - title: "Problem Answers"
       url: /results/problem-ledger-answers/
     - title: "Recovery Target Status"
       url: /results/recovery-target-status/
@@ -81,12 +81,12 @@ The Agenda states the burden. The Corpus carries the build. Results shows the cu
 
 {% include scientific-plate.html id="plate-05-results-world-readout" class="scientific-plate--results-world-readout" loading="lazy" %}
 
-Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection.
+Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection. Problem Answers are the exact one-to-one mirror of the public Problem Ledger; the broader Result catalogue remains the supporting evidence and world-readout layer.
 
 <div class="btn-group section-ctas">
   <a class="btn-secondary" href="{{ '/results/landmark-results/' | relative_url }}">Explore Landmark Results</a>
   <a class="btn-ghost" href="{{ '/results/world-readout/' | relative_url }}">Open World Readouts</a>
-  <a class="btn-ghost" href="{{ '/results/problem-ledger-answers/' | relative_url }}">Read Problem Ledger Answers</a>
+  <a class="btn-ghost" href="{{ '/results/problem-ledger-answers/' | relative_url }}">Read Problem Answers</a>
   <a class="btn-ghost" href="{{ '/results/progress-against-agenda/' | relative_url }}">Track Progress Against Agenda</a>
 </div>
 
@@ -107,8 +107,8 @@ Results are not isolated claims. They are consequences of the built Corpus, orga
   </li>
   <li>
     <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
-      <strong>Problem Ledger Answers</strong>
-      <span>Current stances against accepted public open-problem stress tests.</span>
+      <strong>Problem Answers</strong>
+      <span>Exactly one answer, boundary, or backlog stance for every public Problem Ledger item.</span>
     </a>
   </li>
   <li>
@@ -138,7 +138,7 @@ The older result catalogue still uses the historical topic labels `biology` and 
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/results/browse/' | relative_url }}">
     <strong>{{ result_count }} total result pages</strong>
-    <span>The full crawlable catalogue with filters for domain, kind, importance, status, and book.</span>
+    <span>The full evidence/readout catalogue with filters for domain, kind, importance, status, and book.</span>
   </a>
   <a class="v2-tile" href="{{ '/results/topic/mathematics/' | relative_url }}">
     <strong>{{ mathematics_results | size }} Mathematics results</strong>
@@ -182,7 +182,7 @@ These labels report the program's internal status. They do not indicate external
 ## Core routes
 
 - [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) mirrors Results back to the Program lane.
-- [Problem Ledger Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) organizes current stances against public problem obligations.
+- [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) organizes current stances against public problem obligations.
 - [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}) reports current recovery status against declared recovery requirements.
 - [Result Classifications]({{ '/results/classifications/' | relative_url }}) explains what kind of result each page claims to be.
 - [World Readout]({{ '/results/world-readout/' | relative_url }}) gives the domain-level picture implied by the current results.

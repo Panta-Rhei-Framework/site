@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "EHT Shadow Correction"
 title_plain: "EHT Shadow Correction"
-permalink: /predictions/eht-shadow/
-lane: results
+permalink: "/predictions/eht-shadow/"
+lane: "results"
 prediction_id: "pred-055"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "T² correction +2.91%"
 formula_mathml: "<math><msup><mi>T</mi><mn>2</mn></msup></math> correction <math><mi>+2.91%</mi></math>"
 formula_display: "f_τ = 1 + ι<sub>τ</sub>²/4 = 1.02912 (+2.91% universal)"
 tau_value: "5.25,GM/c²"
+observed: "5.1 ± 0.3"
 observed_value: "5.1 ± 0.3"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T220"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "EHT Shadow Correction: τ-value 5.25,GM/c², observed 5.1 ± 0.3
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -66,4 +74,3 @@ than pure GR.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
-

@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Hierarchy problem"
+title: "Hierarchy problem - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/hierarchy-problem/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Hierarchy problem."
+summary_short: "The framework currently carries an internal answer for this Problem Ledger item."
 canonical_problem_id: "phys-hierarchy-problem"
+problem_answer_id: "answer-phys-hierarchy-problem"
+scope_classification: "in_scope"
+answer_strength: "full_answer"
+public_answer_status_label: "Internally addressed"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Hierarchy problem
+The ratio between the strong force and gravity is on the order of . Why is gravity so much weaker than the strong force?
 
-## Source
+- Program Problem Ledger item: [phys-hierarchy-problem](/program/research-agenda/problem-ledger/physics/hierarchy-problem/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-hierarchy-problem.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-hierarchy-problem](/program/research-agenda/problem-ledger/physics/hierarchy-problem/)
+## Current Framework Answer
 
-## Current Program Stance
+**Internally addressed**. The framework currently carries an internal answer for this Problem Ledger item.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Related Result pages carry a current internal answer route.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [IV.P267 - Gauge Coupling Hierarchy](/registry/object/IV.P267/) (direct problem account, high confidence): Conservative domain scan matched Hierarchy problem to Registry item IV.P267 through the rule terms hierarchy problem.
+- [IV.R29 - Hierarchy Problem in Category Tau](/registry/object/IV.R29/) (direct problem account, high confidence): Conservative domain scan matched Hierarchy problem to Registry item IV.R29 through the rule terms hierarchy problem.
+- [IV.T65 - No Hierarchy Problem in Category τ](/registry/object/IV.T65/) (direct problem account, high confidence): Conservative domain scan matched Hierarchy problem to Registry item IV.T65 through the rule terms hierarchy problem.
+
+## Related Result Pages
+
+- [Hierarchy Problem](/results/problem/hierarchy-problem/) - Internally addressed
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Quasinormal Mode Frequency Ratio"
 title_plain: "Quasinormal Mode Frequency Ratio"
-permalink: /predictions/qnm-ratio/
-lane: results
+permalink: "/predictions/qnm-ratio/"
+lane: "results"
 prediction_id: "pred-054"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>⁻¹"
 formula_mathml: "<math><mi>ι<sub>τ</sub>⁻¹</mi></math>"
 formula_display: "f₍₀,₁₎/f₍₁,₀₎ = ι<sub>τ</sub>⁻¹ = (π+e)/2 ≈ 2.929"
 tau_value: "2.929"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T168"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Quasinormal Mode Frequency Ratio: τ-value 2.929, deviation –.
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -82,4 +90,3 @@ They have a topological reading
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

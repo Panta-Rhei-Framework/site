@@ -18,7 +18,7 @@ right_rail:
 
 **Status:** 60 internally addressed, 10 Partial, 1 Qualitative, 2 Contradicted, 3 Not Addressed.
 
-> **Resolution status vs. scope labels.** The Internally addressed / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
+> **Internal status vs. scope labels.** The Internally addressed / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 
@@ -42,7 +42,7 @@ right_rail:
 - [Exactly Three Colors: N_c = 3 from Primorial Depth](/results/problem/three-colors-derived/) — Internally addressed
 - [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — Internally addressed
 - [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — Internally addressed
-- [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — Internally addressed
+- [Fourth Quadrant Framework Account: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — Internally addressed
 - [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — Internally addressed
 - [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — Internally addressed
 - [Goldbach Conjecture](/results/problem/goldbach-conjecture/) — Not Addressed

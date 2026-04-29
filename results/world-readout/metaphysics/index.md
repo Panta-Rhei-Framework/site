@@ -27,7 +27,7 @@ This is the **E₃ (Metaphysics)** layer — the terminal stage of the enrichmen
 
 The pages collected here do not function as the detailed catalogue of all metaphysics-related claims in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the catalogue.
 
-The central question is not yet which individual philosophical problem is resolved or how one specific claim about consciousness, ethics, language, or Logos should be read. The central question is more prior:
+The central question is not yet which individual philosophical problem is internally addressed or how one specific claim about consciousness, ethics, language, or Logos should be read. The central question is more prior:
 
 **If the Tau framework is taken seriously on its own terms, what sort of reflective world does it yield at E3?**
 

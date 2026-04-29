@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Laughter"
+title: "Laughter - Problem Answer"
 permalink: "/results/problem-ledger-answers/life/laughter/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Laughter."
+summary_short: "The item is retained as a relevant future problem; no current answer is claimed: Laughter is a plausible affect/social-signaling problem for Book VII social/affect machinery, but needs a direct account."
 canonical_problem_id: "life-biology-laughter"
+problem_answer_id: "answer-life-biology-laughter"
+scope_classification: "open_backlog_problem"
+answer_strength: "no_current_answer"
+public_answer_status_label: "Backlog open problem"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Laughter
+While it is generally accepted that laughing evolved as a form of social communication, the exact neurobiological process that leads humans to laugh is not well understood
 
-## Source
+- Program Problem Ledger item: [life-biology-laughter](/program/research-agenda/problem-ledger/life/laughter/)
+- Domain: **Life**
+- Source item path: `problem-ledger/items/life/life-biology-laughter.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [life-biology-laughter](/program/research-agenda/problem-ledger/life/laughter/)
+## Current Framework Answer
 
-## Current Program Stance
+**Backlog open problem**. The item is retained as a relevant future problem; no current answer is claimed: Laughter is a plausible affect/social-signaling problem for Book VII social/affect machinery, but needs a direct account.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Laughter is a plausible affect/social-signaling problem for Book VII social/affect machinery, but needs a direct account.
 
-## Related Construction Steps
+## Registry Evidence
+
+- No direct Registry evidence is currently claimed for this answer.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- Reviewed in the adjacent-bucket pass; Book VII has language/social/affect structures, but no direct laughter account is registered.
+- This item remains intentionally empty after the adjacent-bucket re-scan; broad thematic adjacency was not treated as sufficient evidence.
+- This empty map is not a public scope judgment on the Problem Ledger item; it records that no direct Registry evidence is yet curated.
+- Final empty-map scope classification: Open backlog problem — Laughter is a plausible affect/social-signaling problem for Book VII social/affect machinery, but needs a direct account.

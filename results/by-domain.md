@@ -102,7 +102,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Exactly Three Colors: N_c = 3 from Primorial Depth](/results/problem/three-colors-derived/) — Internally addressed
 - [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — Internally addressed
 - [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — Internally addressed
-- [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — Internally addressed
+- [Fourth Quadrant Framework Account: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — Internally addressed
 - [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — Internally addressed
 - [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — Internally addressed
 - [Goldbach Conjecture](/results/problem/goldbach-conjecture/) — Not Addressed
@@ -203,7 +203,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Internally addressed
 - [The Four-Layer Architecture of Reality](/results/problem/the-four-layer-architecture-of-reality/) — Internally addressed
 - [The Sublime](/results/problem/the-sublime/) — Internally addressed
-- [Trolley Problem Resolution](/results/problem/trolley-problem-resolution/) — Internally addressed
+- [Trolley Problem Framework Account](/results/problem/trolley-problem-resolution/) — Internally addressed
 - [Why Something Rather Than Nothing](/results/problem/why-something-rather-than-nothing/) — Internally addressed
 ### [Physics](/results/topic/physics/) — 60 results
 
@@ -262,7 +262,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Internally addressed
 - [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — Internally addressed
 - [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — Internally addressed
-- [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — Internally addressed
+- [Vacuum Catastrophe Framework Account](/results/problem/vacuum-catastrophe-resolution/) — Internally addressed
 - [Vacuum Energy = 0: Cosmological Constant Problem Dissolved](/results/problem/vacuum-energy-zero/) — Internally addressed
 - [W Mass Puzzle](/results/problem/w-mass-puzzle/) — Internally addressed
 - [Weinberg Angle sin²θ_W Precision](/results/problem/weinberg-angle-sin-w-precision/) — Internally addressed

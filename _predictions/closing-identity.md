@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "G–α Bridge Identity"
 title_plain: "G–α Bridge Identity"
-permalink: /predictions/closing-identity/
-lane: results
+permalink: "/predictions/closing-identity/"
+lane: "results"
 prediction_id: "pred-027"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "αG = α¹⁸sqrt3(1-tfrac3πα)"
 formula_mathml: "<math><mi>αG = α¹⁸sqrt3(1-tfrac3πα)</mi></math>"
 formula_display: "α_G = α¹⁸ · √3 · (1 − 3α/π)"
 tau_value: "–"
+observed: "–"
 observed_value: "–"
 deviation: "∼ 3~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: B
+cascade_tier: "B"
 precision_display: "Sub-10 ppm"
 registry_id: "V.T20"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "G–α Bridge Identity: τ-value –, observed –, deviation �
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -78,4 +86,3 @@ in the coherence kernel.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
-

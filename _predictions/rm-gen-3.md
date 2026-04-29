@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Three Generations of Fermions"
 title_plain: "Three Generations of Fermions"
-permalink: /predictions/rm-gen-3/
-lane: results
+permalink: "/predictions/rm-gen-3/"
+lane: "results"
 prediction_id: "pred-001"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "H₁(τ³;ℤ) ≅ ℤ³"
 formula_mathml: "<math><mi>H₁(τ³;ℤ) ≅ ℤ³</mi></math>"
 formula_display: "H₁(τ³; ℤ) ≅ ℤ³ → |gen| = 3"
 tau_value: "3"
+observed: "3"
 observed_value: "3"
 deviation: "exact"
 precision_tier: "sub-10-ppm"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Sub-10 ppm"
 registry_id: "IV.T171"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Three Generations of Fermions: τ-value 3, observed 3, deviation
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -85,4 +93,3 @@ No fourth light generation exists.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

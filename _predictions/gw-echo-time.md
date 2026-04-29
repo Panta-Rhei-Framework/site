@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Gravitational Wave Echo Time"
 title_plain: "Gravitational Wave Echo Time"
-permalink: /predictions/gw-echo-time/
-lane: results
+permalink: "/predictions/gw-echo-time/"
+lane: "results"
 prediction_id: "pred-056"
 domain: "astrophysics"
 domain_display: "Astrophysics"
@@ -13,10 +13,11 @@ formula_plain: "t_± = 4GMι<sub>τ</sub>± ¹/c³"
 formula_mathml: "<math><mi>t_± = 4GMι<sub>τ</sub>± ¹/c³</mi></math>"
 formula_display: "t± = 4GM·ι<sub>τ</sub>±¹/c³"
 tau_value: "see text"
+observed: "(pending)"
 observed_value: "(pending)"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "V.D283"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Gravitational Wave Echo Time: τ-value see text, deviation –."
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Astrophysics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -67,4 +75,3 @@ Stellar BH | 10 | 0.067 | 0.577 | 0.510 GW150914 remnant | 62 | 0.417 | 3.580 | 
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
-

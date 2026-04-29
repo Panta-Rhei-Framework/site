@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Coronal Heating Damping Scale"
 title_plain: "Coronal Heating Damping Scale"
-permalink: /predictions/pred-66/
-lane: results
+permalink: "/predictions/pred-66/"
+lane: "results"
 prediction_id: "pred-066"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>²,R_⊙"
 formula_mathml: "<math><mi>ι<sub>τ</sub>²,R_⊙</mi></math>"
 formula_display: "ℓ_heat = ι<sub>τ</sub>² · R_☉ ≈ 0.117 R_☉"
 tau_value: "0.117,R_⊙"
+observed: "≈!0.1,R_⊙"
 observed_value: "≈!0.1,R_⊙"
 deviation: "∼ 15%"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.T253"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Coronal Heating Damping Scale: τ-value 0.117,R_⊙, observed �
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Collective Dynamics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -89,4 +97,3 @@ $F_τ ≈ 3.4 × 10^5
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
-

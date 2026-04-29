@@ -1,19 +1,17 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N16 — Deuterium abundance from $$-native $_B$"
-permalink: /falsifications/n16-deuterium-abundance-from-native-b/
-lane: results
+permalink: "/falsifications/n16-deuterium-abundance-from-native-b/"
+lane: "results"
 falsification_id: "N16"
 n_num: 16
-tier: A
+tier: "A"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "eta-B. deuterium!prediction pred:n16 D/H $= 2.52 10^-5$ (V.T241) from the $$-derived baryon-to-photon ratio. Observed: $(2.53 0.04) 10^-5$."
 experiment: "quasar absorption systems"
 timeline: "ongoing, improving with 30m-class telescopes."
-decisive: ""
 current_status: "consistent"
-seam: null
 registry_id: "V.T241"
 canonical_books:
   - "V"
@@ -21,18 +19,25 @@ summary_short: "N16: Deuterium abundance from $$-native $_B$. quasar absorption 
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Consistent"
     experiment: "quasar absorption systems"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N16: Prediction
@@ -70,4 +75,3 @@ yielding a slightly higher residual D/H.
 The BBN sensitivity
 $d((D/H))/d(η_B) ≈ -1.6$
 quantifies this anti-correlation.
-

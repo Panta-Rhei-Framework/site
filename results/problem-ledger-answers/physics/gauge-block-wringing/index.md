@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Gauge block wringing"
+title: "Gauge block wringing - Problem Answer"
 permalink: "/results/problem-ledger-answers/physics/gauge-block-wringing/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Gauge block wringing."
+summary_short: "The item is retained for source accountability, but the current Corpus declares it out of scope: Applied metrology/material contact mechanism is outside current scope."
 canonical_problem_id: "phys-gauge-block-wringing"
+problem_answer_id: "answer-phys-gauge-block-wringing"
+scope_classification: "declared_out_of_scope"
+answer_strength: "not_applicable"
+public_answer_status_label: "Declared out of scope"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Gauge block wringing
+What mechanism allows gauge blocks to be wrung together?
 
-## Source
+- Program Problem Ledger item: [phys-gauge-block-wringing](/program/research-agenda/problem-ledger/physics/gauge-block-wringing/)
+- Domain: **Physics**
+- Source item path: `problem-ledger/items/physics/phys-gauge-block-wringing.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [phys-gauge-block-wringing](/program/research-agenda/problem-ledger/physics/gauge-block-wringing/)
+## Current Framework Answer
 
-## Current Program Stance
+**Declared out of scope**. The item is retained for source accountability, but the current Corpus declares it out of scope: Applied metrology/material contact mechanism is outside current scope.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Applied metrology/material contact mechanism is outside current scope.
 
-## Related Construction Steps
+## Registry Evidence
+
+- No direct Registry evidence is currently claimed for this answer.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- Reviewed in the outside-current-books double-check; Applied metrology/material contact mechanism outside current Corpus.
+- The manuscript/Registry scan did not find a direct enough anchor to cite without overclaiming.
+- This item remains intentionally empty; broad thematic adjacency, distant analogy, or generic domain overlap was not treated as sufficient evidence.
+- Final empty-map scope classification: Declared out of scope — Applied metrology/material contact mechanism is outside current scope.

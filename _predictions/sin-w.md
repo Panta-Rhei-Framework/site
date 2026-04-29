@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Weak Mixing Angle sin²θ_W"
 title_plain: "Weak Mixing Angle sin²θ_W"
-permalink: /predictions/sin-w/
-lane: results
+permalink: "/predictions/sin-w/"
+lane: "results"
 prediction_id: "pred-020"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "W₃(4) = 5 NLO"
 formula_mathml: "<math><mi>W₃(4) = 5</mi></math> NLO"
 formula_display: "sin²θ_W = W₃(4) NLO readout = 0.23119"
 tau_value: "0.2312"
+observed: "0.2312"
 observed_value: "0.2312"
 deviation: "-0.65~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Sub-10 ppm"
 registry_id: "IV.T140"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Weak Mixing Angle sin²θ_W: τ-value 0.2312, observed 0.2312, d
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -90,4 +98,3 @@ producing the correlated triple agreement.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

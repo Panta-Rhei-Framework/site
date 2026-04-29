@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Scalar Perturbation Amplitude A_s"
 title_plain: "Scalar Perturbation Amplitude A_s"
-permalink: /predictions/a/
-lane: results
+permalink: "/predictions/a/"
+lane: "results"
 prediction_id: "pred-038"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "(121/225),ι<sub>τ</sub>¹⁴"
 formula_mathml: "<math><mi>(121/225),ι<sub>τ</sub>¹⁴</mi></math>"
 formula_display: "A_s = (121/225) · ι<sub>τ</sub>¹⁴ ≈ 2.14 × 10⁻⁹"
 tau_value: "2.14!×!10⁻⁹"
+observed: "2.10!×!10⁻⁹"
 observed_value: "2.10!×!10⁻⁹"
 deviation: "-1979~ppm"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "V.T198"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Scalar Perturbation Amplitude A_s: τ-value 2.14!×!10⁻⁹, ob
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -86,4 +94,3 @@ not dynamical (spectral running).
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

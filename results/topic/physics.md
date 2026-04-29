@@ -14,11 +14,11 @@ right_rail:
 
 ## Physics
 
-60 results across particle physics, cosmology, gravity, condensed matter, and nuclear physics. The physics results span the <math><msub><mi>E</mi><mn>1</mn></msub></math> layer -- both the [microcosm]({{ '/corpus/monographs/' | relative_url }}) (fiber <math><msup><mi>T</mi><mn>2</mn></msup></math>, Book IV) and the [macrocosm]({{ '/corpus/monographs/' | relative_url }}) (base <math><msup><mi>&tau;</mi><mn>1</mn></msup></math>, Book V). Crown jewels include the [fine-structure constant]({{ '/results/problem/fine-structure-constant-alpha-inverse-137/' | relative_url }}) at 9.8 ppm, the [Hubble tension resolution]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) at -120 ppm, the [dark sector closure]({{ '/results/problem/no-dark-matter-particle/' | relative_url }}), and the [CMB pipeline]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) pre-registered for CMB-S4. All derived from <math><mrow><msub><mi>&iota;</mi><mi>&tau;</mi></msub><mo>=</mo><mfrac><mn>2</mn><mrow><mi>&pi;</mi><mo>+</mo><mi>e</mi></mrow></mfrac></mrow></math> with zero free continuous parameters.
+60 results across particle physics, cosmology, gravity, condensed matter, and nuclear physics. The physics results span the <math><msub><mi>E</mi><mn>1</mn></msub></math> layer -- both the [microcosm]({{ '/corpus/monographs/' | relative_url }}) (fiber <math><msup><mi>T</mi><mn>2</mn></msup></math>, Book IV) and the [macrocosm]({{ '/corpus/monographs/' | relative_url }}) (base <math><msup><mi>&tau;</mi><mn>1</mn></msup></math>, Book V). Crown jewels include the [fine-structure constant]({{ '/results/problem/fine-structure-constant-alpha-inverse-137/' | relative_url }}) at 9.8 ppm, the [Hubble tension internal readout]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) at -120 ppm, the [dark sector closure]({{ '/results/problem/no-dark-matter-particle/' | relative_url }}), and the [CMB pipeline]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) pre-registered for CMB-S4. All derived from <math><mrow><msub><mi>&iota;</mi><mi>&tau;</mi></msub><mo>=</mo><mfrac><mn>2</mn><mrow><mi>&pi;</mi><mo>+</mo><mi>e</mi></mrow></mfrac></mrow></math> with zero free continuous parameters.
 
 **Status:** 48 internally addressed, 6 Partial, 3 Contradicted, 3 Not Addressed.
 
-> **Resolution status vs. scope labels.** The Internally addressed / Partial / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
+> **Internal status vs. scope labels.** The Internally addressed / Partial / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 
@@ -77,7 +77,7 @@ right_rail:
 - [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Internally addressed
 - [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — Internally addressed
 - [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — Internally addressed
-- [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — Internally addressed
+- [Vacuum Catastrophe Framework Account](/results/problem/vacuum-catastrophe-resolution/) — Internally addressed
 - [Vacuum Energy = 0: Cosmological Constant Problem Dissolved](/results/problem/vacuum-energy-zero/) — Internally addressed
 - [W Mass Puzzle](/results/problem/w-mass-puzzle/) — Internally addressed
 - [Weinberg Angle sin²θ_W Precision](/results/problem/weinberg-angle-sin-w-precision/) — Internally addressed

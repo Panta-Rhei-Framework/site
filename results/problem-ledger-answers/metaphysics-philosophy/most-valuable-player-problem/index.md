@@ -1,52 +1,68 @@
 ---
 layout: "program-doc"
-title: "Most valuable player problem"
+title: "Most valuable player problem - Problem Answer"
 permalink: "/results/problem-ledger-answers/metaphysics-philosophy/most-valuable-player-problem/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Most valuable player problem."
+summary_short: "The item is retained for source accountability, but the current Corpus declares it out of scope: Philosophy-of-sport vagueness case is too domain-specific for current Book VII scope."
 canonical_problem_id: "meta-most-valuable-player-problem"
+problem_answer_id: "answer-meta-most-valuable-player-problem"
+scope_classification: "declared_out_of_scope"
+answer_strength: "not_applicable"
+public_answer_status_label: "Declared out of scope"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Pending**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Most valuable player problem
+The concept of the 'most valuable player' is discussed within the field of philosophy of sport. Philosophers Stephen Kershnar and Neil Feit argue that the concept of the MVP is a fundamentally vague concept, but yet valuable in that it promotes the active discussion of different types of excellence found within a specific sport and the weight to be assigned these types, thus leading to a gain for the discussants. Stephen Kershnar termed this vagueness the 'Most Valuable Player Problem'. He offered a solution to the problem but later recanted it, conceding that the problem remains unsolved
 
-## Source
+- Program Problem Ledger item: [meta-most-valuable-player-problem](/program/research-agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/)
+- Domain: **Metaphysics / Philosophy**
+- Source item path: `problem-ledger/items/metaphysics-philosophy/meta-most-valuable-player-problem.md`
 
-- Source: https://en.wikipedia.org/wiki/List_of_philosophical_problems
-- Import rule: `wholesale_pinned_revision`
-- Program ledger item: [meta-most-valuable-player-problem](/program/research-agenda/problem-ledger/metaphysics-philosophy/most-valuable-player-problem/)
+## Current Framework Answer
 
-## Current Program Stance
+**Declared out of scope**. The item is retained for source accountability, but the current Corpus declares it out of scope: Philosophy-of-sport vagueness case is too domain-specific for current Book VII scope.
 
-- Result status: **Not yet touched**
-- Tier: `unclassified`
-- Agenda role: `stress_test`
-- Expressibility: `unknown`
+Rationale: Philosophy-of-sport vagueness case is too domain-specific for current Book VII scope.
 
-## Related Construction Steps
+## Registry Evidence
+
+- No direct Registry evidence is currently claimed for this answer.
+
+## Related Result Pages
+
+- No generic Result page is currently linked as supporting evidence.
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-Dedicated Verify surface pending.
+- Dedicated Verify route pending.
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- Reviewed in the outside-current-books double-check; Philosophy-of-sport vagueness case outside current construction.
+- The manuscript/Registry scan did not find a direct enough anchor to cite without overclaiming.
+- This item remains intentionally empty; broad thematic adjacency, distant analogy, or generic domain overlap was not treated as sufficient evidence.
+- Final empty-map scope classification: Declared out of scope — Philosophy-of-sport vagueness case is too domain-specific for current Book VII scope.

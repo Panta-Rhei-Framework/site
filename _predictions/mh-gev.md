@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Higgs Boson Mass (n = 7)"
 title_plain: "Higgs Boson Mass (n = 7)"
-permalink: /predictions/mh-gev/
-lane: results
+permalink: "/predictions/mh-gev/"
+lane: "results"
 prediction_id: "pred-024"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
@@ -13,10 +13,11 @@ formula_plain: "n = 7 = 2!×!rm lobes+rm sectors"
 formula_mathml: "<math><mi>n = 7 = 2!×!rm lobes+rm sectors</mi></math>"
 formula_display: "n = 2 × lobes + sectors = 2 × 2 + 3 = 7 → m_H = 125.21 GeV"
 tau_value: "125.21"
+observed: "125.20"
 observed_value: "125.20"
 deviation: "+8.0~ppm"
 precision_tier: "sub-10-ppm"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Sub-10 ppm"
 registry_id: "IV.T166"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Higgs Boson Mass (n = 7): τ-value 125.21, observed 125.20, devi
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Electroweak & QCD"
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -70,4 +78,3 @@ of the lemniscate and sector counts:
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-

@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Lithium-7 Abundance (Framework Account)"
 title_plain: "Lithium-7 Abundance (Framework Account)"
-permalink: /predictions/li-h/
-lane: results
+permalink: "/predictions/li-h/"
+lane: "results"
 prediction_id: "pred-045"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "S = 1/3 suppression"
 formula_mathml: "<math><mi>S = 1/3</mi></math> suppression"
 formula_display: "⁷Li/H = S × standard BBN, S = 1/3 → 1.6 × 10⁻¹⁰"
 tau_value: "1.6!×!10⁻¹⁰"
+observed: "1.6!×!10⁻¹⁰"
 observed_value: "1.6!×!10⁻¹⁰"
 deviation: "∼ 0%"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "V.T244"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "Lithium-7 Abundance (Framework Account): τ-value 1.6!×!10⁻¹
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "1–5%"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula

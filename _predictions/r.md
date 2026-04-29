@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "Tensor-to-Scalar Ratio r"
 title_plain: "Tensor-to-Scalar Ratio r"
-permalink: /predictions/r/
-lane: results
+permalink: "/predictions/r/"
+lane: "results"
 prediction_id: "pred-033"
 domain: "cosmology"
 domain_display: "Cosmology"
@@ -13,10 +13,11 @@ formula_plain: "ι<sub>τ</sub>⁴"
 formula_mathml: "<math><mi>ι<sub>τ</sub>⁴</mi></math>"
 formula_display: "r = ι<sub>τ</sub>^(2·dim(T²)) = ι<sub>τ</sub>⁴ ≈ 0.0136"
 tau_value: "0.0136"
+observed: "< 0.036"
 observed_value: "< 0.036"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "Structural"
 registry_id: "V.P136"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "Tensor-to-Scalar Ratio r: τ-value 0.0136, observed < 0.036, dev
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Cosmology"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -90,4 +98,3 @@ arising from $P |δ|^2$.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
-

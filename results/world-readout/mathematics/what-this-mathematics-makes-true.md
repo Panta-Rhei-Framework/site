@@ -52,7 +52,7 @@ The claim is **not**, in every case, that every orthodox external formulation ha
 
 What the program does claim with the strongest internal epistemic stance is this:
 
-- the corresponding Tau formulations of the seven Millennium-problem families are affirmatively resolved within Tau,
+- the corresponding Tau formulations of the seven Millennium-problem families are internally accounted for within Tau,
 - these internal statements are part of the mathematical world the framework builds,
 - and those resolutions are formalized or formalizable in the same proof-bearing environment that materializes the framework itself.
 
@@ -72,16 +72,16 @@ Within Tau, the admissible computational world is claimed to settle the correspo
 Within Tau, the relevant mass-gap family is claimed to come out affirmatively — the Yang-Mills Gap Theorem ([III.T27]({{ '/registry/object/III.T27/' | relative_url }})).
 
 ### Tau-Navier-Stokes regularity
-Within Tau, the corresponding statement-family is claimed to be affirmatively resolved — the Positive Regularity Theorem ([III.T25]({{ '/registry/object/III.T25/' | relative_url }})).
+Within Tau, the corresponding statement-family is presented as internally accounted for — the Positive Regularity Theorem ([III.T25]({{ '/registry/object/III.T25/' | relative_url }})).
 
 ### Tau-Hodge
-Within Tau, the corresponding geometric statement-family is claimed to be affirmatively resolved — the NF-Addressability Theorem ([III.T28]({{ '/registry/object/III.T28/' | relative_url }})).
+Within Tau, the corresponding geometric statement-family is presented as internally accounted for — the NF-Addressability Theorem ([III.T28]({{ '/registry/object/III.T28/' | relative_url }})).
 
 ### Tau-Birch-Swinnerton-Dyer
-Within Tau, the corresponding arithmetic statement-family is claimed to be affirmatively resolved — the BSD Coherence Theorem ([III.T35]({{ '/registry/object/III.T35/' | relative_url }})).
+Within Tau, the corresponding arithmetic statement-family is presented as internally accounted for — the BSD Coherence Theorem ([III.T35]({{ '/registry/object/III.T35/' | relative_url }})).
 
 ### Tau-Poincare
-Within Tau, the corresponding topological statement-family is claimed to be affirmatively resolved — Poincaré is treated as one of the Master-Schema-E₀ instances ([III.T23]({{ '/registry/object/III.T23/' | relative_url }})) and is explicitly listed as "1 established" on the Bridge Ledger ([III.T46]({{ '/registry/object/III.T46/' | relative_url }})), with Perelman's classical resolution re-read τ-categorically rather than replaced.
+Within Tau, the corresponding topological statement-family is presented as internally accounted for — Poincaré is treated as one of the Master-Schema-E₀ instances ([III.T23]({{ '/registry/object/III.T23/' | relative_url }})) and is explicitly listed as "1 established" on the Bridge Ledger ([III.T46]({{ '/registry/object/III.T46/' | relative_url }})), with Perelman's classical solution re-read τ-categorically rather than replaced.
 
 And beyond the seven:
 
@@ -148,7 +148,7 @@ That is why the catalogue can be large without being arbitrary. The result corpu
 
 The strongest disciplined conclusion is therefore this:
 
-Within the Tau mathematical universe, the Tau formulations of the seven Millennium-problem families, the generalized Riemann hierarchy, and the Langlands program are presented as affirmatively true. This is not yet, in every case, the same as claiming immediate resolution in the orthodox external formulation. But it is already a major mathematical statement about the internal strength, richness, and consequence-bearing power of the framework.
+Within the Tau mathematical universe, the Tau formulations of the seven Millennium-problem families, the generalized Riemann hierarchy, and the Langlands program are presented as affirmatively true. This is not yet, in every case, the same as claiming immediate external solution in the orthodox formulation. But it is already a major mathematical statement about the internal strength, richness, and consequence-bearing power of the framework.
 
 That is the level on which this page should be read.
 

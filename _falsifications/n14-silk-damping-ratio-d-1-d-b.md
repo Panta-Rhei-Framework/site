@@ -1,17 +1,16 @@
 ---
-layout: falsification-page
+layout: "falsification-page"
 title: "N14 — Silk damping ratio $_D / _1 = _D / _B$"
-permalink: /falsifications/n14-silk-damping-ratio-d-1-d-b/
-lane: results
+permalink: "/falsifications/n14-silk-damping-ratio-d-1-d-b/"
+lane: "results"
 falsification_id: "N14"
 n_num: 14
-tier: B
+tier: "B"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 prediction: "ell-D/ell-1 = kappa-D/kappa-B. Silk damping!prediction pred:n14 The ratio $_D / _1 = 5.647$ is a boundary holonomy invariant (V.D254). $_D = 1244.0$ at $+9$~ppm."
 experiment: "Planck legacy, CMB-S4"
 timeline: "confirmed at $+9$~ppm."
-decisive: ""
 current_status: "confirmed"
 seam: "holonomy-ratio"
 registry_id: "V.D254"
@@ -21,18 +20,25 @@ summary_short: "N14: Silk damping ratio $_D / _1 = _D / _B$. Planck legacy, CMB-
 right_rail:
   toc: false
   related:
-    - title: "Falsification Pack Browse"
-      url: /results/falsifications/browse/
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Falsification Pack Browse"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Falsification"
     domain: "Particle Physics"
     status: "Confirmed"
     experiment: "Planck legacy, CMB-S4"
     updated: "April 2026"
+generated_from: "corpus/results/facets/falsifications"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/falsifications"
+do_not_edit: true
 ---
 
 ## N14: Prediction
@@ -86,4 +92,3 @@ and the damping scale
 is a quantitative prediction
 of the $τ$ architecture,
 not a coincidence.
-

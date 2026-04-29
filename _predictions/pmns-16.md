@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "PMNS Atmospheric Mixing Angle θ₂₃"
 title_plain: "PMNS Atmospheric Mixing Angle θ₂₃"
-permalink: /predictions/pmns-16/
-lane: results
+permalink: "/predictions/pmns-16/"
+lane: "results"
 prediction_id: "pred-016"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "sinθ₂₃ = 1 - ι<sub>τ</sub>⁵"
 formula_mathml: "<math><mi>sinθ₂₃ = 1 - ι<sub>τ</sub>⁵</mi></math>"
 formula_display: "sin θ₂₃ = 1 − ι<sub>τ</sub>⁵ → θ₂₃ ≈ 47.2°"
 tau_value: "47.2^∘"
+observed: "49.3^∘"
 observed_value: "49.3^∘"
 deviation: "+8604~ppm"
 precision_tier: "1-5-percent"
-cascade_tier: A
+cascade_tier: "A"
 precision_display: "1–5%"
 registry_id: "IV.T175"
 scope: "conjectural"
@@ -27,18 +28,25 @@ summary_short: "PMNS Atmospheric Mixing Angle θ₂₃: τ-value 47.2^∘, obser
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "1–5%"
     scope: "Conjectural"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -81,4 +89,3 @@ would be falsified.
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
-

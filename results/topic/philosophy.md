@@ -14,11 +14,11 @@ right_rail:
 
 ## Philosophy
 
-45 results across ontology, epistemology, ethics, aesthetics, philosophy of mind, and social philosophy. The philosophy results form the <math><msub><mi>E</mi><mn>3</mn></msub></math> layer -- the [four registers]({{ '/corpus/monographs/' | relative_url }}) (empirical, diagrammatic, practical, commitment) organizing the final self-enrichment. Highlights include the [Categorical Imperative derived as a fixed-point theorem]({{ '/results/problem/categorical-imperative-fixed-point/' | relative_url }}), [consciousness as global section]({{ '/results/problem/consciousness-global-section/' | relative_url }}), the [Gettier Problem resolved]({{ '/results/problem/gettier-problem/' | relative_url }}) as a cover failure, and the [No Forced Stance theorem]({{ '/corpus/monographs/' | relative_url }}) proving the framework locates its own boundary.
+45 results across ontology, epistemology, ethics, aesthetics, philosophy of mind, and social philosophy. The philosophy results form the <math><msub><mi>E</mi><mn>3</mn></msub></math> layer -- the [four registers]({{ '/corpus/monographs/' | relative_url }}) (empirical, diagrammatic, practical, commitment) organizing the final self-enrichment. Highlights include the [Categorical Imperative derived as a fixed-point theorem]({{ '/results/problem/categorical-imperative-fixed-point/' | relative_url }}), [consciousness as global section]({{ '/results/problem/consciousness-global-section/' | relative_url }}), the [Gettier Problem internally addressed]({{ '/results/problem/gettier-problem/' | relative_url }}) as a cover failure, and the [No Forced Stance theorem]({{ '/corpus/monographs/' | relative_url }}) proving the framework locates its own boundary.
 
 **Status:** 42 internally addressed, 3 Partial.
 
-> **Resolution status vs. scope labels.** The Internally addressed / Partial tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
+> **Internal status vs. scope labels.** The Internally addressed / Partial tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 
@@ -65,5 +65,5 @@ right_rail:
 - [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Internally addressed
 - [The Four-Layer Architecture of Reality](/results/problem/the-four-layer-architecture-of-reality/) — Internally addressed
 - [The Sublime](/results/problem/the-sublime/) — Internally addressed
-- [Trolley Problem Resolution](/results/problem/trolley-problem-resolution/) — Internally addressed
+- [Trolley Problem Framework Account](/results/problem/trolley-problem-resolution/) — Internally addressed
 - [Why Something Rather Than Nothing](/results/problem/why-something-rather-than-nothing/) — Internally addressed

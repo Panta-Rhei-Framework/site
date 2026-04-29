@@ -1,52 +1,70 @@
 ---
 layout: "program-doc"
-title: "Hodge Conjecture"
+title: "Hodge Conjecture - Problem Answer"
 permalink: "/results/problem-ledger-answers/mathematics/hodge-conjecture/"
 lane: "results"
 v2_lane: "results"
-type: "Problem Ledger Answer"
+type: "Problem Answer"
 status: "Canonical"
-summary_short: "Current Results-side stance for Hodge Conjecture."
+summary_short: "The framework currently carries a partial answer or partial account for this Problem Ledger item."
 canonical_problem_id: "math-hodge-conjecture"
+problem_answer_id: "answer-math-hodge-conjecture"
+scope_classification: "in_scope"
+answer_strength: "partial_answer"
+public_answer_status_label: "Partially addressed"
+generated_from: "corpus/problem-ledger/answers"
+projection_version: "v0.1"
+canonical_source: "corpus/problem-ledger/answers"
+do_not_edit: true
 ---
-
-## Status Separation
-
-<div class="notice note"><strong>Status note.</strong> This page reports the current program stance. It does not imply external acceptance unless explicitly stated.</div>
-
-- Internal stance: **Not yet touched**
-- Verification route: **Available**
-- External status: **Not externally reviewed**
 
 ## Problem
 
-Hodge
+Hodge Conjecture is a selected institutional mathematics source entry. The public Problem Ledger uses the linked source page as a stable citation target and does not redistribute institutional source prose for this non-Wikipedia source class.
 
-## Source
+- Program Problem Ledger item: [math-hodge-conjecture](/program/research-agenda/problem-ledger/mathematics/hodge-conjecture/)
+- Domain: **Mathematics**
+- Source item path: `problem-ledger/items/mathematics/math-hodge-conjecture.md`
 
-- Source: https://www.claymath.org/millennium-problems/hodge-conjecture/
-- Import rule: `selected_foundational`
-- Program ledger item: [math-hodge-conjecture](/program/research-agenda/problem-ledger/mathematics/hodge-conjecture/)
+## Current Framework Answer
 
-## Current Program Stance
+**Partially addressed**. The framework currently carries a partial answer or partial account for this Problem Ledger item.
 
-- Result status: **Not yet touched**
-- Tier: `kernel_near`
-- Agenda role: `stress_test`
-- Expressibility: `requires_translation`
+Rationale: Related Result pages carry a current partial answer route.
 
-## Related Construction Steps
+## Registry Evidence
+
+- [III.D23 - Internal Bipolar Classifier](/registry/object/III.D23/) (direct problem account, high confidence): Explicit Result anchor result-229 for Hodge Conjecture cites Registry item III.D23 as part of the current problem-facing account.
+- [III.P18 - Hodge Requires E₁](/registry/object/III.P18/) (bridge structure, high confidence): Conservative domain scan matched Hodge Conjecture to Registry item III.P18 through the rule terms hodge.
+- [III.T28 - NF-Addressability Theorem](/registry/object/III.T28/) (direct problem account, high confidence): Explicit Result anchor result-229 for Hodge Conjecture cites Registry item III.T28 as part of the current problem-facing account.
+- [III.T46 - Bridge Ledger](/registry/object/III.T46/) (bridge structure, high confidence): Conservative domain scan matched Hodge Conjecture to Registry item III.T46 through the rule terms hodge.
+
+## Related Result Pages
+
+- [Hodge Conjecture Approach](/results/problem/hodge-conjecture-approach/) - Partial
+
+## Monograph, Construction, and TauLib Routes
+
+### Construction Spine
 
 - Construction Spine mapping pending.
 
-## Related Results
+### TauLib
 
-- Dedicated Result page pending.
+- TauLib module mapping pending or not applicable.
 
 ## Verify This Answer
 
-[Bridge Verification](/verify/bridge-verification/)
+- [Bridge Verification](/verify/bridge-verification/)
 
-## What remains open
+## What This Answer Does Not Claim
 
-Residual boundaries remain public unless a linked Result page explicitly closes them with status-marked evidence.
+- This page reports an internal framework answer, boundary, or backlog stance; it does not imply external verification, scientific acceptance, or consensus.
+- Registry evidence is cited as current Corpus support, not as independent confirmation.
+- Generic Result pages remain supporting readouts; this page is the exact Problem Ledger mirror entry.
+
+## Curation Notes
+
+- curated_v1 map is conservative and not exhaustive; it records high-signal Registry items that currently bear directly on this Problem Ledger item.
+- Existing Result-to-Problem mappings were used as primary anchors where they cite Registry IDs.
+- Broad background foundations and speculative downstream uses are intentionally omitted unless they materially support the problem account.

@@ -1,9 +1,9 @@
 ---
-layout: prediction-page
+layout: "prediction-page"
 title: "NNLO Correction Parameter δ"
 title_plain: "NNLO Correction Parameter δ"
-permalink: /predictions/nnlo/
-lane: results
+permalink: "/predictions/nnlo/"
+lane: "results"
 prediction_id: "pred-005"
 domain: "particle-physics"
 domain_display: "Particle Physics"
@@ -13,10 +13,11 @@ formula_plain: "1/W₃(4)² = 1/25"
 formula_mathml: "<math><mi>1/W₃(4)² = 1/25</mi></math>"
 formula_display: "δ = 1/W₃(4)² = 1/25 = 0.04"
 tau_value: "0.04"
+observed: "–"
 observed_value: "–"
 deviation: "–"
 precision_tier: "structural"
-cascade_tier: binary
+cascade_tier: "binary"
 precision_display: "Structural"
 registry_id: "IV.T156"
 scope: "tau-effective"
@@ -27,18 +28,25 @@ summary_short: "NNLO Correction Parameter δ: τ-value 0.04, observed –, devia
 right_rail:
   toc: false
   related:
-    - title: "Predictions Browse"
-      url: /results/predictions/browse/
-    - title: "Falsification Pack"
-      url: /results/falsifications/browse/
-    - title: "Results Overview"
-      url: /results/
+    -
+      title: "Predictions Browse"
+      url: "/results/predictions/browse/"
+    -
+      title: "Falsification Pack"
+      url: "/results/falsifications/browse/"
+    -
+      title: "Results Overview"
+      url: "/results/"
   meta:
     type: "Physics Prediction"
     domain: "Particle Physics"
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+generated_from: "corpus/results/facets/predictions"
+projection_version: "v0.1"
+canonical_source: "corpus/results/facets/predictions"
+do_not_edit: true
 ---
 
 ## τ-Formula
@@ -68,4 +76,3 @@ m_μm_e
 ## Source
 
 This prediction is derived in the Numerical Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
-
