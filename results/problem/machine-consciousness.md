@@ -24,8 +24,16 @@ right_rail:
     status: "Partial"
     updated: "April 2026"
 wikipedia_url: "https://en.wikipedia.org/wiki/Artificial_consciousness"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "planned"
+cascade_layer: "metaphysics-architecture"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "LG-M01-consciousness"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

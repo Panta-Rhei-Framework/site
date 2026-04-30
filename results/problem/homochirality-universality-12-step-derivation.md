@@ -24,8 +24,17 @@ right_rail:
     status: "Internal"
     updated: "April 2026"
 wikipedia_url: "https://en.wikipedia.org/wiki/Homochirality"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "partial"
+cascade_layer: "life-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "LG-I03-amino-acid"
+  - "MG-O06-universal"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

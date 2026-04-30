@@ -1,0 +1,45 @@
+{%- comment -%}
+  v3.2 result-page badge set: visibility · provenance · precision · Lean ·
+  cascade-layer chips. Dropped into the result-page hero.
+
+  Badges only render when the underlying field is non-null. Each chip carries
+  a `data-badge` attribute for filterable browse pages (v3.2).
+
+  Usage:
+    {% include result-page-badges.html %}
+{%- endcomment -%}
+
+<div class="chip-row chip-row-badges" aria-label="Result metadata badges">
+
+{%- if page.visibility -%}
+  <span class="chip chip-visibility chip-visibility-{{ page.visibility }}" data-badge="visibility" data-value="{{ page.visibility }}">
+    {{ page.visibility | capitalize }}
+  </span>
+{%- endif -%}
+
+{%- if page.provenance_source -%}
+  <span class="chip chip-provenance chip-provenance-{{ page.provenance_source }}" data-badge="provenance" data-value="{{ page.provenance_source }}" title="Provenance source">
+    {{ page.provenance_source | capitalize }}
+  </span>
+{%- endif -%}
+
+{%- if page.precision_tier -%}
+  <span class="chip chip-precision chip-precision-{{ page.precision_tier | downcase }}" data-badge="precision" data-value="{{ page.precision_tier }}" title="Precision tier{% if page.precision_display %} · {{ page.precision_display }}{% endif %}">
+    Tier {{ page.precision_tier }}{% if page.precision_display %} · {{ page.precision_display }}{% endif %}
+  </span>
+{%- endif -%}
+
+{%- if page.lean_formalization_status and page.lean_formalization_status != "none" -%}
+  <span class="chip chip-lean chip-lean-{{ page.lean_formalization_status }}" data-badge="lean" data-value="{{ page.lean_formalization_status }}" title="Lean formalization status">
+    Lean · {{ page.lean_formalization_status | replace: "_", " " | capitalize }}
+  </span>
+{%- endif -%}
+
+{%- if page.cascade_layer -%}
+  {%- assign cascade_label = page.cascade_layer | replace: "-", " " | capitalize -%}
+  <span class="chip chip-cascade chip-cascade-{{ page.cascade_layer }}" data-badge="cascade" data-value="{{ page.cascade_layer }}" title="Cascade layer">
+    {{ cascade_label }}
+  </span>
+{%- endif -%}
+
+</div>

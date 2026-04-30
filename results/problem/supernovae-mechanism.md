@@ -24,8 +24,17 @@ right_rail:
     topic: "Physics"
     status: "Internal"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "formalized"
+cascade_layer: "physics-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "PG-P05-neutrino"
+  - "PG-Q02-energy"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

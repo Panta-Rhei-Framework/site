@@ -24,8 +24,18 @@ right_rail:
     topic: "Physics"
     status: "Internal"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "partial"
+cascade_layer: "physics-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "PG-P12-gluon"
+  - "PG-Q06-temperature"
+  - "MG-O06-universal"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

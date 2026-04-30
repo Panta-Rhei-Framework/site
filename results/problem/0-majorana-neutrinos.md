@@ -24,8 +24,16 @@ right_rail:
     status: "Internally addressed"
     updated: "April 2026"
 wikipedia_url: "https://en.wikipedia.org/wiki/Majorana_fermion"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "formalized"
+cascade_layer: "physics-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "PG-P05-neutrino"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

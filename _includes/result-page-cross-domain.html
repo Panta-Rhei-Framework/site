@@ -1,0 +1,102 @@
+{%- comment -%}
+  v3.2 result-page cross-references — renders cards for:
+    1. Foundational hinges this result depends on
+    2. Glossary terms this result references
+    3. Recovery requirements that mention this result
+    4. Cross-domain glossary edges (when glossary_term_ids span multiple
+       domains — surfaces the cross-domain bridge)
+
+  Each card is gated on its underlying frontmatter field having content.
+  When all four are empty the include is a no-op.
+
+  Usage:
+    {% include result-page-cross-domain.html %}
+{%- endcomment -%}
+
+{%- assign hinge_ids = page.foundational_hinge_ids | default: empty -%}
+{%- assign glossary_ids = page.glossary_term_ids | default: empty -%}
+{%- assign recovery_ids = page.recovery_requirement_ids | default: empty -%}
+
+{% if hinge_ids.size > 0 or glossary_ids.size > 0 or recovery_ids.size > 0 %}
+<section class="content-card result-cross-domain-card" aria-labelledby="result-cross-heading">
+  <h2 id="result-cross-heading">Cross-references</h2>
+  <div class="prose">
+
+    {% if hinge_ids.size > 0 %}
+    <h3>Foundational hinges</h3>
+    {%- assign hinges_data = site.data.foundational_hinges["foundational-hinges"] -%}
+    <ul class="result-hinge-list">
+    {% for hid in hinge_ids %}
+      {%- assign hinge_match = hinges_data | where: "id", hid | first -%}
+      {% if hinge_match %}
+      <li>
+        <a href="{{ '/corpus/foundational-hinges/' | append: hinge_match.slug | append: '/' | relative_url }}">
+          <code>{{ hid }}</code> {{ hinge_match.title }}
+        </a>
+      </li>
+      {% else %}
+      <li><code>{{ hid }}</code> <span class="muted">(pending)</span></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% if glossary_ids.size > 0 %}
+    <h3>Glossary terms</h3>
+    {%- assign all_glossary = site.data.glossary.all.entries -%}
+    {%- assign by_domain = "" | split: "" -%}
+    {% comment %} group glossary IDs by domain to expose cross-domain bridges {% endcomment %}
+    {%- assign by_physics = "" | split: "" -%}
+    {%- assign by_life = "" | split: "" -%}
+    {%- assign by_meta = "" | split: "" -%}
+    {% for gid in glossary_ids %}
+      {%- assign gentry = all_glossary | where: "id", gid | first -%}
+      {% if gentry %}
+        {% if gentry.domain == "physics" %}{%- assign by_physics = by_physics | push: gentry -%}{% endif %}
+        {% if gentry.domain == "life" %}{%- assign by_life = by_life | push: gentry -%}{% endif %}
+        {% if gentry.domain == "metaphysics" %}{%- assign by_meta = by_meta | push: gentry -%}{% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {%- assign domains_present = 0 -%}
+    {% if by_physics.size > 0 %}{%- assign domains_present = domains_present | plus: 1 -%}{% endif %}
+    {% if by_life.size > 0 %}{%- assign domains_present = domains_present | plus: 1 -%}{% endif %}
+    {% if by_meta.size > 0 %}{%- assign domains_present = domains_present | plus: 1 -%}{% endif %}
+
+    {% if domains_present > 1 %}
+      <p class="notice notice-cross-domain"><strong>Cross-domain.</strong>
+        This result references glossary terms across {{ domains_present }} domains —
+        a bridge between the framework's
+        {% if by_physics.size > 0 %}physics{% endif %}{% if by_physics.size > 0 and by_life.size > 0 %}, {% endif %}{% if by_life.size > 0 %}life{% endif %}{% if by_life.size > 0 and by_meta.size > 0 %} and {% endif %}{% if by_physics.size > 0 and by_life.size == 0 and by_meta.size > 0 %} and {% endif %}{% if by_meta.size > 0 %}metaphysics{% endif %}
+        layers.</p>
+    {% endif %}
+
+    {% if by_physics.size > 0 %}
+    <p><strong>Physics:</strong>
+      {% for e in by_physics %}<a href="{{ '/results/physics/glossary/' | append: e.id | append: '/' | relative_url }}" class="chip chip-glossary chip-glossary-physics">{{ e.name }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
+    </p>
+    {% endif %}
+    {% if by_life.size > 0 %}
+    <p><strong>Life:</strong>
+      {% for e in by_life %}<a href="{{ '/results/life/glossary/' | append: e.id | append: '/' | relative_url }}" class="chip chip-glossary chip-glossary-life">{{ e.name }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
+    </p>
+    {% endif %}
+    {% if by_meta.size > 0 %}
+    <p><strong>Metaphysics:</strong>
+      {% for e in by_meta %}<a href="{{ '/results/metaphysics/glossary/' | append: e.id | append: '/' | relative_url }}" class="chip chip-glossary chip-glossary-metaphysics">{{ e.name }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
+    </p>
+    {% endif %}
+    {% endif %}
+
+    {% if recovery_ids.size > 0 %}
+    <h3>Recovery requirements</h3>
+    <ul class="result-recovery-list">
+    {% for rid in recovery_ids %}
+      <li><a href="{{ '/program/research-agenda/recovery-requirements/' | relative_url }}"><code>{{ rid }}</code></a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+  </div>
+</section>
+{% endif %}

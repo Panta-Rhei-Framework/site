@@ -24,8 +24,15 @@ right_rail:
     topic: "Biology"
     status: "Contradicted"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "none"
+cascade_layer: "life-cascade"
+foundational_hinge_ids: []
+glossary_term_ids: []
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

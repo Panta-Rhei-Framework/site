@@ -23,8 +23,17 @@ right_rail:
     topic: "Philosophy"
     status: "Internally addressed"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "formalized"
+cascade_layer: "metaphysics-architecture"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "MG-H03-mind-topos"
+  - "MG-H09-symbol"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

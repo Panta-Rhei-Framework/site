@@ -23,8 +23,18 @@ right_rail:
     topic: "Physics"
     status: "Internally addressed"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "partial"
+cascade_layer: "physics-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "PG-O12-neutron-star"
+  - "PG-P01-neutron"
+  - "PG-Q25-degeneracy-pressure"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

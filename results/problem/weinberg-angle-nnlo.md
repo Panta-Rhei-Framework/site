@@ -23,8 +23,17 @@ right_rail:
     topic: "Mathematics"
     status: "Internal"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "formalized"
+cascade_layer: "kernel"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "PG-C16-weinberg-angle"
+  - "MG-O06-universal"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---

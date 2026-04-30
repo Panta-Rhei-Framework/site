@@ -141,6 +141,136 @@ a.chip-link, a.chip.chip-link {
   font-size: 0.74rem;
 }
 
+// v3.2 — Result page badge set: visibility / provenance / precision / Lean / cascade
+.chip-row-badges {
+  margin-top: 12px;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+// Visibility chip
+.chip-visibility {
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.chip-visibility-public {
+  background: var(--semantic-success-soft);
+  color: var(--semantic-success);
+  border-color: rgba(47, 111, 78, 0.22);
+}
+.chip-visibility-internal {
+  background: var(--semantic-warning-soft);
+  color: var(--semantic-warning);
+  border-color: rgba(168, 121, 42, 0.24);
+}
+.chip-visibility-private {
+  background: var(--semantic-danger-soft);
+  color: var(--semantic-danger);
+  border-color: rgba(154, 59, 53, 0.24);
+}
+
+// Provenance chip
+.chip-provenance {
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+.chip-provenance-manuscript { color: #5b6772; border-color: #d4ddc8; }
+.chip-provenance-taulib { color: #163e64; background: #e9eef5; border-color: #c9d4e3; }
+.chip-provenance-paper { color: #6b3a8e; background: #f0e8f5; border-color: #d4c2dd; }
+.chip-provenance-registry { color: #8e6d2a; background: #f5ecd6; border-color: #e0d4a5; }
+
+// Precision tier chip
+.chip-precision {
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.chip-precision-a {
+  background: var(--semantic-success-soft);
+  color: var(--semantic-success);
+  border-color: rgba(47, 111, 78, 0.32);
+}
+.chip-precision-b {
+  background: var(--semantic-info-soft);
+  color: var(--semantic-info);
+  border-color: rgba(45, 110, 159, 0.32);
+}
+.chip-precision-c {
+  background: var(--semantic-warning-soft);
+  color: var(--semantic-warning);
+  border-color: rgba(168, 121, 42, 0.32);
+}
+
+// Lean coverage chip
+.chip-lean {
+  font-size: 0.72rem;
+  font-weight: 500;
+  background: #eef0e8;
+  color: #2f6f4e;
+  border-color: rgba(47, 111, 78, 0.22);
+}
+.chip-lean-formalized {
+  background: var(--semantic-success-soft);
+  color: var(--semantic-success);
+  font-weight: 600;
+}
+.chip-lean-partial {
+  background: var(--semantic-info-soft);
+  color: var(--semantic-info);
+}
+.chip-lean-planned,
+.chip-lean-skeleton {
+  background: var(--lane-support-soft);
+  color: var(--color-ink-600);
+  font-style: italic;
+}
+
+// Cascade-layer chip
+.chip-cascade {
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+.chip-cascade-kernel { background: #e9eef5; color: #163e64; border-color: #c9d4e3; }
+.chip-cascade-physics-cascade { background: #ddebe2; color: #1f5d3d; border-color: #b8d4c2; }
+.chip-cascade-life-cascade { background: #f3e8d4; color: #6b4a14; border-color: #d8c5a0; }
+.chip-cascade-metaphysics-architecture { background: #e8e2ee; color: #4d3a6b; border-color: #c2b5d4; }
+
+// Glossary cross-link chip — domain-tinted
+.chip-glossary {
+  font-size: 0.74rem;
+  cursor: pointer;
+  &:hover {
+    color: var(--lane-current);
+    border-color: var(--lane-current);
+  }
+}
+.chip-glossary-physics  { background: #ddebe2; color: #1f5d3d; border-color: #b8d4c2; }
+.chip-glossary-life     { background: #f3e8d4; color: #6b4a14; border-color: #d8c5a0; }
+.chip-glossary-metaphysics { background: #e8e2ee; color: #4d3a6b; border-color: #c2b5d4; }
+.chip-glossary-missing  { background: #f1f1f1; color: #999; font-style: italic; cursor: not-allowed; }
+
+// Cross-domain chip used in glossary "See Also"
+.chip-cross-domain {
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: #f3edee;
+  color: #8e3a4a;
+  border-color: #e0c4ca;
+  margin-left: 6px;
+}
+
+// Cross-domain notice on result pages
+.notice-cross-domain {
+  background: linear-gradient(120deg, rgba(238, 230, 240, 0.5), rgba(244, 235, 220, 0.4));
+  border-left: 3px solid #8e6b9c;
+  padding: 12px 16px;
+  margin: 12px 0;
+  font-size: 0.92rem;
+}
+
 // Portfolio grid (responsive)
 .portfolio-grid {
   display: grid;

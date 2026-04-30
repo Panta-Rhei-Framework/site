@@ -44,6 +44,9 @@ layout: default
     <span class="chip">Book {{ book }}</span>
     {% endfor %}
   </div>
+
+  {%- comment -%} v3.2 — visibility / provenance / precision / Lean / cascade badges {%- endcomment -%}
+  {% include result-page-badges.html %}
 </header>
 
 {% include result-page-problem-context.html %}
@@ -53,6 +56,9 @@ layout: default
     {{ content }}
   </div>
 </section>
+
+{%- comment -%} v3.2 — foundational hinges, glossary terms, recovery requirements, cross-domain edges {%- endcomment -%}
+{% include result-page-cross-domain.html %}
 
 {% include result-page-crosslinks.html %}
 </article>

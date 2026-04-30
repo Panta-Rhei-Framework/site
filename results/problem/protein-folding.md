@@ -24,8 +24,17 @@ right_rail:
     topic: "Biology"
     status: "Not Addressed"
     updated: "April 2026"
+visibility: "public"
+provenance_source: "manuscript"
+lean_formalization_status: "planned"
+cascade_layer: "life-cascade"
+foundational_hinge_ids: []
+glossary_term_ids:
+  - "LG-I03-amino-acid"
+  - "LG-I06-protein-folding"
+recovery_requirement_ids: []
 generated_from: "corpus/results"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results"
 do_not_edit: true
 ---
