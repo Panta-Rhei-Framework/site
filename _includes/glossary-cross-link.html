@@ -1,0 +1,25 @@
+{%- comment -%}
+  Inline glossary chip — drop into result pages or other content surfaces
+  to render a clickable, hoverable glossary term reference.
+
+  Usage:
+    {% include glossary-cross-link.html id="PG-P01-neutron" %}
+    {% include glossary-cross-link.html id="LG-Y02-kinetic-pseudoscalar-channel" label="K_χ channel" %}
+
+  The include resolves the entry from `site.data.glossary.all.entries` and
+  emits a chip linking to /results/<domain>/glossary/<id>/. If the entry is
+  missing (data drift), the literal label is rendered with a muted style so
+  the page still renders.
+{%- endcomment -%}
+
+{%- assign cross_link_entry = site.data.glossary.all.entries | where: "id", include.id | first -%}
+{%- assign cross_link_label = include.label | default: nil -%}
+
+{%- if cross_link_entry -%}
+  {%- if cross_link_label == nil -%}
+    {%- assign cross_link_label = cross_link_entry.name -%}
+  {%- endif -%}
+  <a href="{{ '/results/' | append: cross_link_entry.domain | append: '/glossary/' | append: cross_link_entry.id | append: '/' | relative_url }}" class="chip chip-glossary chip-glossary-{{ cross_link_entry.domain }}" data-glossary-id="{{ cross_link_entry.id }}">{{ cross_link_label }}</a>
+{%- else -%}
+  <span class="chip chip-glossary chip-glossary-missing" title="Glossary entry {{ include.id }} not found">{{ cross_link_label | default: include.id }}</span>
+{%- endif -%}

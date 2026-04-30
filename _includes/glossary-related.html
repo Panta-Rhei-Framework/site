@@ -1,0 +1,65 @@
+{%- comment -%}
+  Renders "See Also" section for a glossary entry — auto-derived from
+  related_glossary_entries (forward edges) + referenced_by (reverse edges).
+  Cross-domain edges are highlighted with a domain badge.
+
+  Usage:
+    {% include glossary-related.html entry=entry %}
+{%- endcomment -%}
+
+{%- assign all_glossary = site.data.glossary.all.entries -%}
+{%- assign related = include.entry.related_glossary_entries | default: empty -%}
+{%- assign referenced_by = include.entry.referenced_by | default: empty -%}
+
+{% if related.size > 0 or referenced_by.size > 0 %}
+<section class="content-card" aria-labelledby="glossary-related-heading">
+  <h2 id="glossary-related-heading">See Also</h2>
+  <div class="prose">
+
+  {% if related.size > 0 %}
+    <h3>Related glossary entries</h3>
+    <ul class="glossary-related-list">
+    {% for rel_id in related %}
+      {%- assign rel_entry = all_glossary | where: "id", rel_id | first -%}
+      {% if rel_entry %}
+        {%- assign cross_domain = false -%}
+        {% if rel_entry.domain != include.entry.domain %}
+          {%- assign cross_domain = true -%}
+        {% endif %}
+        <li>
+          <a href="{{ '/results/' | append: rel_entry.domain | append: '/glossary/' | append: rel_entry.id | append: '/' | relative_url }}">
+            <code>{{ rel_entry.id }}</code> {{ rel_entry.name }}
+          </a>
+          {% if cross_domain %}<span class="chip chip-cross-domain">{{ rel_entry.domain }}</span>{% endif %}
+        </li>
+      {% else %}
+        <li><code>{{ rel_id }}</code> <span class="muted">(pending)</span></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if referenced_by.size > 0 %}
+    <h3>Referenced by</h3>
+    <ul class="glossary-referenced-by-list">
+    {% for ref_id in referenced_by %}
+      {%- assign ref_entry = all_glossary | where: "id", ref_id | first -%}
+      {% if ref_entry %}
+        {%- assign cross_domain = false -%}
+        {% if ref_entry.domain != include.entry.domain %}
+          {%- assign cross_domain = true -%}
+        {% endif %}
+        <li>
+          <a href="{{ '/results/' | append: ref_entry.domain | append: '/glossary/' | append: ref_entry.id | append: '/' | relative_url }}">
+            <code>{{ ref_entry.id }}</code> {{ ref_entry.name }}
+          </a>
+          {% if cross_domain %}<span class="chip chip-cross-domain">{{ ref_entry.domain }}</span>{% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+
+  </div>
+</section>
+{% endif %}

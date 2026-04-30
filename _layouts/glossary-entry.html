@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+{%- comment -%}
+  Glossary entry layout — renders one of 241 sealed entries (95 physics +
+  78 life + 68 metaphysics) using the v3 4-section structure:
+    1. τ-definition  (categorical invariant + primary registry id)
+    2. τ-derivation  (chain of registry steps + Lean modules)
+    3. domain-specific Section 3:
+         physics      → si_translation         (numerical SI value, m_n-anchored)
+         life         → empirical_correlate    (biomarker, VI.L18-anchored)
+         metaphysics  → phenomenological_correlate (lived-experience instantiation)
+    4. lean_coverage (formal-verification status)
+  Plus: related glossary entries (cross-domain "See also") + referenced_by.
+
+  The page frontmatter only carries the entry's `id` + `domain`; the full
+  payload comes from `site.data.glossary.<domain>.entries` so the data file
+  stays the single source of truth.
+{%- endcomment -%}
+
+{% include breadcrumb-nav.html %}
+
+{%- assign domain_data = site.data.glossary[page.domain] -%}
+{%- assign entry = domain_data.entries | where: "id", page.entry_id | first -%}
+
+{% if entry %}
+<article class="glossary-entry">
+<header class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">Results · {{ page.domain | capitalize }} Glossary · {{ entry.category | capitalize }}</span>
+    <span class="eyebrow module-id-badge">{{ entry.id }}</span>
+    {% if entry.tau_symbol %}
+    <span class="chip">{{ entry.tau_symbol }}</span>
+    {% endif %}
+    {% if entry.status %}
+    <span class="chip chip-status chip-status-{{ entry.status | downcase }}">{{ entry.status | capitalize }}</span>
+    {% endif %}
+    {% if entry.lean_coverage and entry.lean_coverage.formalization_status %}
+    <span class="chip chip-lean">Lean · {{ entry.lean_coverage.formalization_status | replace: "_", " " }}</span>
+    {% endif %}
+  </div>
+  <h1>{{ entry.name }}</h1>
+  {% if entry.tau_definition.summary %}
+  <p>{{ entry.tau_definition.summary }}</p>
+  {% endif %}
+  <div class="chip-row">
+    <a href="{{ '/results/' | append: page.domain | append: '/glossary/' | relative_url }}" class="chip chip-link">{{ page.domain | capitalize }} Glossary</a>
+    <a href="{{ '/registry/object/' | append: entry.tau_definition.primary_registry_id | append: '/' | relative_url }}" class="chip chip-link">Primary: {{ entry.tau_definition.primary_registry_id }}</a>
+    {% for tag in entry.tags %}
+    <span class="chip">{{ tag | replace: "-", " " }}</span>
+    {% endfor %}
+  </div>
+</header>
+
+<section class="content-card" aria-labelledby="glossary-tau-def-heading">
+  <h2 id="glossary-tau-def-heading">τ-Definition</h2>
+  <div class="prose">
+    <p>{{ entry.tau_definition.summary }}</p>
+    {% if entry.tau_definition.categorical_invariant %}
+    <p><strong>Categorical invariant.</strong> {{ entry.tau_definition.categorical_invariant }}</p>
+    {% endif %}
+
+    <p><strong>Primary registry anchor:</strong>
+      <a href="{{ '/registry/object/' | append: entry.tau_definition.primary_registry_id | append: '/' | relative_url }}"><code>{{ entry.tau_definition.primary_registry_id }}</code></a>
+    </p>
+
+    {% if entry.tau_definition.supporting_registry_ids and entry.tau_definition.supporting_registry_ids.size > 0 %}
+    <p><strong>Supporting items:</strong>
+      {% for rid in entry.tau_definition.supporting_registry_ids %}
+      <a href="{{ '/registry/object/' | append: rid | append: '/' | relative_url }}"><code>{{ rid }}</code></a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="content-card" aria-labelledby="glossary-tau-deriv-heading">
+  <h2 id="glossary-tau-deriv-heading">τ-Derivation Chain</h2>
+  <div class="prose">
+    <ol class="derivation-chain">
+      {% for step in entry.tau_derivation.chain %}
+      <li>
+        <a href="{{ '/registry/object/' | append: step.registry_id | append: '/' | relative_url }}"><code>{{ step.registry_id }}</code></a>
+        — {{ step.claim }}
+      </li>
+      {% endfor %}
+    </ol>
+
+    {% if entry.tau_derivation.lean_modules and entry.tau_derivation.lean_modules.size > 0 %}
+    <p><strong>Lean modules referenced:</strong>
+      {% for mod in entry.tau_derivation.lean_modules %}
+      <code>{{ mod }}</code>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+    {% endif %}
+  </div>
+</section>
+
+{%- comment -%} Section 3 — domain-specific {%- endcomment -%}
+{% if page.domain == "physics" and entry.si_translation %}
+{%- assign s3 = entry.si_translation -%}
+<section class="content-card" aria-labelledby="glossary-s3-heading">
+  <h2 id="glossary-s3-heading">SI Translation</h2>
+  <div class="prose">
+    {% if s3.numerical_value %}<p><strong>Numerical value:</strong> {{ s3.numerical_value }}{% if s3.uncertainty %} ± {{ s3.uncertainty }}{% endif %}{% if s3.si_unit %} {{ s3.si_unit }}{% endif %}</p>{% endif %}
+    {% if s3.calibration_anchor %}
+    <p><strong>Calibration anchor:</strong> <a href="{{ '/results/physics/glossary/' | append: s3.calibration_anchor | append: '/' | relative_url }}"><code>{{ s3.calibration_anchor }}</code></a></p>
+    {% endif %}
+    {% if s3.calibration_chain and s3.calibration_chain.size > 0 %}
+    <p><strong>Calibration chain:</strong></p>
+    <ol>
+      {% for step in s3.calibration_chain %}<li>{{ step }}</li>{% endfor %}
+    </ol>
+    {% endif %}
+    {% if s3.manuscript_reference %}<p class="muted"><strong>Manuscript reference:</strong> <code>{{ s3.manuscript_reference }}</code></p>{% endif %}
+  </div>
+</section>
+{% elsif page.domain == "life" and entry.empirical_correlate %}
+{%- assign s3 = entry.empirical_correlate -%}
+<section class="content-card" aria-labelledby="glossary-s3-heading">
+  <h2 id="glossary-s3-heading">Empirical Correlate</h2>
+  <div class="prose">
+    {% if s3.biomarker %}<p><strong>Biomarker:</strong> {{ s3.biomarker }}</p>{% endif %}
+    {% if s3.measurable_range %}<p><strong>Measurable range:</strong> {{ s3.measurable_range }}</p>{% endif %}
+    {% if s3.observation_method %}<p><strong>Observation method:</strong> {{ s3.observation_method }}</p>{% endif %}
+    {% if s3.calibration_anchor %}
+    <p><strong>Calibration anchor:</strong> <a href="{{ '/results/life/glossary/' | append: s3.calibration_anchor | append: '/' | relative_url }}"><code>{{ s3.calibration_anchor }}</code></a></p>
+    {% endif %}
+    {% if s3.anchor_chain and s3.anchor_chain.size > 0 %}
+    <p><strong>Anchor chain:</strong></p>
+    <ol>
+      {% for step in s3.anchor_chain %}<li>{{ step }}</li>{% endfor %}
+    </ol>
+    {% endif %}
+    {% if s3.manuscript_reference %}<p class="muted"><strong>Manuscript reference:</strong> <code>{{ s3.manuscript_reference }}</code></p>{% endif %}
+  </div>
+</section>
+{% elsif page.domain == "metaphysics" and entry.phenomenological_correlate %}
+{%- assign s3 = entry.phenomenological_correlate -%}
+<section class="content-card" aria-labelledby="glossary-s3-heading">
+  <h2 id="glossary-s3-heading">Phenomenological Correlate</h2>
+  <div class="prose">
+    {% if s3.instantiation %}<p>{{ s3.instantiation }}</p>{% endif %}
+    {% if s3.examples and s3.examples.size > 0 %}
+    <p><strong>Examples:</strong></p>
+    <ul>
+      {% for ex in s3.examples %}<li>{{ ex }}</li>{% endfor %}
+    </ul>
+    {% endif %}
+    {% if s3.register_codomain %}<p><strong>Register codomain:</strong> {{ s3.register_codomain }}</p>{% endif %}
+    {% if s3.manuscript_reference %}<p class="muted"><strong>Manuscript reference:</strong> <code>{{ s3.manuscript_reference }}</code></p>{% endif %}
+  </div>
+</section>
+{% endif %}
+
+{% if entry.lean_coverage %}
+<section class="content-card" aria-labelledby="glossary-lean-heading">
+  <h2 id="glossary-lean-heading">Lean Coverage</h2>
+  <div class="prose">
+    <p><strong>Status:</strong> {{ entry.lean_coverage.formalization_status | replace: "_", " " | capitalize }}</p>
+    {% if entry.lean_coverage.module %}<p><strong>Module:</strong> <code>{{ entry.lean_coverage.module }}</code></p>{% endif %}
+    {% if entry.lean_coverage.lean4_kind %}<p><strong>Lean kind:</strong> <code>{{ entry.lean_coverage.lean4_kind }}</code></p>{% endif %}
+    {% if entry.lean_coverage.lean_name %}<p><strong>Lean symbol:</strong> <code>{{ entry.lean_coverage.lean_name }}</code></p>{% endif %}
+  </div>
+</section>
+{% endif %}
+
+{% include glossary-related.html entry=entry %}
+
+</article>
+{% else %}
+<article class="glossary-entry-missing">
+  <header class="hero-card">
+    <h1>Glossary entry not found</h1>
+    <p>The glossary entry <code>{{ page.entry_id }}</code> in domain <code>{{ page.domain }}</code> is referenced but missing from <code>_data/glossary/{{ page.domain }}.json</code>. This is a build-time data drift; please re-run <code>corpus/scripts/sync_corpus_to_site.py</code>.</p>
+  </header>
+</article>
+{% endif %}
