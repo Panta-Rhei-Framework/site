@@ -1,13 +1,13 @@
 ---
-layout: "corpus-monograph-chapter"
+layout: corpus-monograph-chapter
 title: "Chapter 53: Liouville Categorical Dodge and Categoricity"
-permalink: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/"
-lane: "corpus"
-v2_lane: "corpus"
+permalink: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/
+lane: corpus
+v2_lane: corpus
 type: "Corpus Monograph Chapter"
-status: "Canonical"
-updated: "April 2026"
-publication_type: "corpus_monograph_chapter"
+status: Canonical
+updated: April 2026
+publication_type: corpus_monograph_chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
@@ -20,68 +20,45 @@ prev_chapter_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-ca
 prev_chapter_title: "Chapter 52: The Central Theorem"
 next_chapter_url: "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-54-the-complete-dependency-chain/"
 next_chapter_title: "Chapter 54: The Complete Dependency Chain"
-summary_short: "j²=+1 gives a hyperbolic wave operator not an elliptic Laplacian: Liouville does not apply to τ³. Then K0–K5 force τ³ uniquely; the moduli space is a single point."
-canonical_book_url: "/corpus/monographs/book-ii/"
+summary_short: "τ³ dodges Liouville because j²=+1 gives a hyperbolic wave operator, not an elliptic Laplacian; and the K0–K5 axioms force τ³ uniquely — moduli space is a single point, τ³ is discovered not constructed."
+canonical_book_url: /corpus/monographs/book-ii/
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-canonical_part_title: "The Central Theorem and Categoricity"
-publication_book_url: "/publications/books/book-ii/"
-legacy_publication_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/"
+canonical_part_url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+canonical_part_title: "Part IX: The Central Theorem and Categoricity"
+publication_book_url: /publications/books/book-ii/
+legacy_publication_url: /publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/
 right_rail:
   related:
-    -
-      title: "Book II: Categorical Holomorphy"
-      url: "/corpus/monographs/book-ii/"
-    -
-      title: "Part IX: The Central Theorem and Categoricity"
-      url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-    -
-      title: "Research Monograph artifact"
-      url: "/publications/books/book-ii/"
-    -
-      title: "Registry"
-      url: "/registry/books/book-ii/"
+  - title: "Book II: Categorical Holomorphy"
+    url: /corpus/monographs/book-ii/
+  - title: "Part IX: The Central Theorem and Categoricity"
+    url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+  - title: "Research Monograph artifact"
+    url: /publications/books/book-ii/
+  - title: "Registry"
+    url: /registry/books/book-ii/
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IX"
     layer: "E₀ Mathematics"
     updated: "April 2026"
-generated_from: "corpus/monograph-projections"
-projection_version: "v0.1"
-canonical_source: "corpus/monograph-projections"
-do_not_edit: true
-construction_sequence: 28
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-02"
-  - "CS-03"
 ---
 
-The Central Theorem *II.T40* asserts 𝒪(τ³) ≅ A_spec(𝕃), a rich function algebra. A classical analyst would immediately object: Liouville's theorem states that every holomorphic function on a compact complex manifold is constant, which would force 𝒪(τ³) = ℂ and make the Central Theorem trivial. This chapter resolves the objection and then closes Part IX with the uniqueness result. The Liouville dodge works because j²=+1, not i²=−1: the split Cauchy-Riemann operator ∂̄_j = ½(∂_x + j∂_y) has principal symbol ξ²−η² (indefinite, hyperbolic), yielding the wave operator □ = ∂²/∂x² − ∂²/∂y², not the Laplacian Δ = ∂²/∂x² + ∂²/∂y². Wave equations admit non-constant bounded standing-wave solutions; the maximum principle fails. The bipolar decomposition f = e₊·f₊ + e₋·f₋ places each channel in an independent sector, each carrying its own standing modes. With Liouville cleared, the chapter proves Categoricity: the six axioms K0–K5 force τ³ uniquely up to canonical isomorphism, and the moduli space M_{τ³} is a single point. The same axiom K5 that enforces bipolarity — and thereby dodges Liouville — is also what makes the structure unique. Uniqueness and richness are consequences of a single constraint.
+The Central Theorem (*II.T40*) establishes 𝒪(τ³) ≅ A_spec(𝕃): the holomorphic function algebra of τ³ is canonically isomorphic to the spectral algebra of the lemniscate boundary. A classical analyst would immediately object: **Liouville's theorem** states that every bounded holomorphic function on a compact complex manifold is constant, which would force 𝒪(τ³) = ℂ and render the Central Theorem trivial. This chapter resolves that objection — and then delivers a second result that completes Book II's program: the six axioms K0–K5 force τ³ **uniquely** up to canonical isomorphism. The moduli space M_τ³ is a single point. There are no free parameters. τ³ is discovered, not constructed.
 
 ## What this chapter contributes
 
-*Definitions:* *II.D61* (Moduli Space M_{τ³}: the set of isomorphism classes of fibered products (M, Φ_M) satisfying K0–K5; proved to equal {pt}).
+**Theorem *II.T41*** (Liouville Categorical Dodge) proves that classical Liouville does not apply to τ³ via three interlocking arguments. First, PDE type: the split-complex unit j satisfies j² = +1 (*I.T10*), not i² = −1. The associated Cauchy–Riemann-type operator ∂̄_j = ½(∂_x + j ∂_y) has principal symbol ξ² − η² (indefinite, signature (1,1)): this is a **hyperbolic** wave operator □ = ∂²/∂x² − ∂²/∂y², not the elliptic Laplacian Δ = ∂²/∂x² + ∂²/∂y² that Liouville requires. Second, maximum principle failure: wave equations admit non-constant bounded solutions — standing waves u_{m,n}(x,y) = A_{m,n} cos(mx)cos(ny) + B_{m,n} sin(mx)sin(ny) — and the maximum principle explicitly fails (the function cos(x)cos(y) solves □u = 0, is bounded by 1, non-constant, and attains its maximum in the interior). Third, channel decomposition: the bipolar idempotent decomposition f = e₊ · f₊ + e₋ · f₋ (*II.L07*) splits every holomorphic function into two independent channels, each carrying an independent copy of the one-dimensional wave equation with its own family of standing modes. The Liouville dodge is not a technicality: it is forced by Prime Polarity (*I.T05*) — the sign j² = +1 is an algebraic necessity, not a convention.
 
-*Key results:* *II.T41* (Liouville Categorical Dodge: classical Liouville does not apply to τ³ because j²=+1 forces a hyperbolic wave operator □ rather than the elliptic Laplacian Δ; the maximum principle fails; non-constant bounded holomorphic functions exist via the standing-wave phenomenon), *II.T42* (Categoricity: K0 forces the NF tower, K1 forces primorial staging, K2 forces compactness, K3 forces dimension 4, K4 forces the fibered product structure, K5 forces bipolarity; together these eliminate all free parameters and the canonical isomorphism M ≅ τ³ is unique), *II.C02* (Uniqueness: M_{τ³} = {pt}; τ³ is discovered, not constructed).
-
-*Notation:* □ = ∂²/∂x² − ∂²/∂y² for the wave operator (hyperbolic); Δ = ∂²/∂x² + ∂²/∂y² for the Laplacian (elliptic); M_{τ³} for the moduli space.
-
-*Dependencies:*
-- Central Theorem *II.T40* from Chapter 52 (the result being shown non-vacuous)
-- Axioms K0–K5 (*I.K0*–*I.K5*) from Book I
-- Prime Polarity *I.T05*: j²=+1 is a structural necessity, not a convention
-- Bipolar idempotents *I.D21* and Idempotent Decomposition *II.L07*
-- Holomorphic ⟺ idempotent-supported *II.T33*
+**Theorem *II.T42*** (Categoricity) proves that τ³ is unique up to canonical isomorphism. The proof identifies every degree of freedom that could in principle vary: the five generators, the primorial tower structure, the bipolar idempotents, the calibrated scalars, the holomorphic function ring. For each, the axioms K0–K5 leave no choice: the generators are forced by K0–K1, the tower by K2–K3, the split-complex structure by Prime Polarity (*I.T05*), the calibration by the earned transcendentals of Part V. The category τ³ has no moduli. **Definition *II.D61*** (Moduli Space) defines M_τ³ as the space of isomorphism classes of categories satisfying K0–K5 with a τ-admissible fibration; *II.T42* proves M_τ³ = {pt}. **Corollary *II.C02*** (Uniqueness) states the result without the technical scaffolding: any two mathematical systems satisfying K0–K5 are canonically isomorphic. τ is discovered, not chosen.
 
 ## Lean coverage
 
-Module `BookII.CentralTheorem.Categoricity`. Key declarations: `liouville_dodge` (*II.T41*: the wave-operator identification and maximum-principle failure), `standing_wave_example` (explicit bounded non-constant solution of □u = 0 showing Liouville cannot force constancy), `categoricity` (*II.T42*: the six-step axiom-by-axiom rigidity proof), `moduli_space_point` (*II.D61* + *II.C02*: M_{τ³} = {pt}), `k5_forces_bipolarity` (K5 diagonal discipline uniquely selects j²=+1 and rules out i²=−1). All planned sorry-free; each axiom step reduces to a uniqueness lemma already established in Book I.
+Formalization is planned in `BookII.CentralTheorem.Categoricity`. Targeted proof objects: `liouville_dodge` (*II.T41*, three-ingredient proof), `wave_operator_from_split_complex` (PDE type derivation from j²=+1), `maximum_principle_failure` (explicit standing-wave counterexample), `categoricity` (*II.T42*, moduli space computation), `moduli_space_definition` (*II.D61*), and `uniqueness_corollary` (*II.C02*). All depend on `BookI.PrimPolarity` and `BookII.CentralTheorem.CentralTheorem`.
 
 ## Where this leads
 
-With the Central Theorem established as non-vacuous and τ³ proved to be the unique model of K0–K5, Part IX is complete. Part X synthesizes the full dependency chain and builds the explicit bridge to Book III, where the enrichment ladder advances from E₁ to E₂ and the spectral forces that τ³'s unique structure supports begin to operate.
+Chapter 53 closes the mathematical program of Book II. The Central Theorem (*II.T40*) and Categoricity (*II.T42*) together establish: (a) the holographic correspondence between boundary and interior is exact, and (b) the structure that realizes this correspondence is unique. Part X (Chapters 54–57) will synthesize the full dependency chain, map the bridge to Book III, and declare precisely what must be accomplished at E₀⁽²⁾. Book III inherits a unique, categorically characterized mathematical object and must construct the eight spectral forces operating within it.
 
 <!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-02/part09/ch52-liouville-categoricity.tex -->

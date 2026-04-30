@@ -19,6 +19,9 @@ right_rail:
     type: "Numerical Physics Ledger Appendix"
     status: "Canonical"
     updated: "April 2026"
+og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
+twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
+og_image_alt: "Scientific plate showing the Results World Readout, with the Prediction Timing accounting that classifies each of the 67 numerical predictions as a priori, tension-side, or post-diction."
 ---
 
 The first question any honest reader should ask of a zero-parameter theory with 67 numerical agreements is: **are these predictions a priori, or are they post-dictions of already-known data dressed up as derivations?** This page answers that question directly — without hedging, without post-hoc calibration, and without pretending to data we do not have.

@@ -47,6 +47,7 @@ Omega-Lambda = 0.6849.
 $Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$
 (V.T234),
 at $-433$ ppm from Planck.
+*Scope:* `Ω_Λ` here is the **effective** dark-energy density (boundary readout from `H(z)` + CMB acoustic peaks + BAO) — distinct from the **bare** cosmological constant `Λ_bare` in the bulk Lagrangian, which is zero exactly. See [Vacuum-Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) for the bare-vs-effective distinction.
 *Experiment:* Euclid, DESI, Rubin.
 *Timeline:* 2027–2032.
 
