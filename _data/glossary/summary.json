@@ -1,0 +1,33 @@
+{
+  "generated": "2026-04-30",
+  "total_public": 241,
+  "domain_category_counts": {
+    "physics": {
+      "constant": 19,
+      "law": 13,
+      "object": 13,
+      "particle": 13,
+      "quantity": 26,
+      "unit": 11
+    },
+    "life": {
+      "energy": 9,
+      "information": 11,
+      "phenomenal": 9,
+      "process": 13,
+      "structure": 15,
+      "systemic": 12,
+      "temporal": 9
+    },
+    "metaphysics": {
+      "architecture": 11,
+      "commitment": 11,
+      "ontology": 13,
+      "phenomenology": 11,
+      "principle": 11,
+      "register": 11
+    }
+  },
+  "cross_link_edges_total": 702,
+  "cross_domain_edges": 0
+}
