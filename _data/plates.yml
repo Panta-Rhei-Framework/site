@@ -298,3 +298,24 @@
     boundary with rejected hidden runtime, hidden substrate, hidden semantic load,
     and residual boundary by silence, plus allowed treatments such as
     internalized, derived, typed, factored out, bridged, or marked unresolved.
+- id: plate-15-bi-square-spine
+  title: The Bi-Square Spine
+  status: published
+  image: /assets/images/plates/plate-15-bi-square-spine-hero.webp
+  hero_jpg: /assets/images/plates/plate-15-bi-square-spine-hero.jpg
+  master: /assets/images/plates/plate-15-bi-square-spine-master.jpg
+  thumbnail: /assets/images/plates/plate-15-bi-square-spine-thumb.webp
+  og_image: /assets/images/plates/plate-15-bi-square-spine-og.jpg
+  pages:
+    - /corpus/bi-square/
+    - /corpus/
+  caption: >
+    The bi-square is the repeated proof-organizing shape of the kernel: tower
+    coherence on the left, spectral naturality on the right, and a pasted
+    constraint that becomes richer from algebraic holomorphy to geometry,
+    enrichment, and computation.
+  alt: >
+    Scientific plate titled The Bi-Square Spine, showing a two-by-three pasted
+    diagram with tower coherence on the left, spectral naturality on the right,
+    and a pasting constraint across the whole rectangle, followed by a scaling
+    chain from algebraic to geometric, enriched, and computational bi-squares.

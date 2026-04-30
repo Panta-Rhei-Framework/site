@@ -1,13 +1,13 @@
 ---
-layout: "corpus-monograph-chapter"
+layout: corpus-monograph-chapter
 title: "Chapter 50: Extensions Are ω-Germ Transformers"
-permalink: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/"
-lane: "corpus"
-v2_lane: "corpus"
+permalink: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/
+lane: corpus
+v2_lane: corpus
 type: "Corpus Monograph Chapter"
-status: "Canonical"
-updated: "April 2026"
-publication_type: "corpus_monograph_chapter"
+status: Canonical
+updated: April 2026
+publication_type: corpus_monograph_chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
@@ -20,67 +20,47 @@ prev_chapter_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-ca
 prev_chapter_title: "Chapter 49: Hartogs Extension in H_τ"
 next_chapter_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/chapter-51-yoneda-applied-omega-germs-are-holomorphic-functions/"
 next_chapter_title: "Chapter 51: Yoneda Applied — ω-Germs Are Holomorphic Functions"
-summary_short: "Hartogs extensions are proved to be exactly the regular ω-germ transformers; stagewise naturality over the primorial tower establishes the canonical bijection, the second link in the Central Theorem chain."
-canonical_book_url: "/corpus/monographs/book-ii/"
+summary_short: "Hartogs extensions of boundary characters are identified — not merely analogized — with ω-germ transformers: the stagewise naturality lemma makes the bijection explicit and closes the second link of the Central Theorem chain."
+canonical_book_url: /corpus/monographs/book-ii/
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-canonical_part_title: "The Central Theorem and Categoricity"
-publication_book_url: "/publications/books/book-ii/"
-legacy_publication_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/"
+canonical_part_url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+canonical_part_title: "Part IX: The Central Theorem and Categoricity"
+publication_book_url: /publications/books/book-ii/
+legacy_publication_url: /publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/
 right_rail:
   related:
-    -
-      title: "Book II: Categorical Holomorphy"
-      url: "/corpus/monographs/book-ii/"
-    -
-      title: "Part IX: The Central Theorem and Categoricity"
-      url: "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-    -
-      title: "Research Monograph artifact"
-      url: "/publications/books/book-ii/"
-    -
-      title: "Registry"
-      url: "/registry/books/book-ii/"
+  - title: "Book II: Categorical Holomorphy"
+    url: /corpus/monographs/book-ii/
+  - title: "Part IX: The Central Theorem and Categoricity"
+    url: /corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/
+  - title: "Research Monograph artifact"
+    url: /publications/books/book-ii/
+  - title: "Registry"
+    url: /registry/books/book-ii/
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part IX"
     layer: "E₀ Mathematics"
     updated: "April 2026"
-generated_from: "corpus/monograph-projections"
-projection_version: "v0.1"
-canonical_source: "corpus/monograph-projections"
-do_not_edit: true
-construction_sequence: 28
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-02"
-  - "CS-03"
 ---
 
-Chapter 49 proved that every idempotent-supported boundary character extends uniquely to a holomorphic function on τ³ valued in H_τ. This chapter proves that these Hartogs extensions are exactly the regular ω-germ transformers from Book I (*I.D45*–*I.D47*). The identification is not a metaphor: the extension f_χ of a boundary character χ determines, and is determined by, a unique element of End(d(τ³)), the endomorphism monoid of the ω-germ space. The key technical ingredient is Stagewise Naturality *II.L13*: because the boundary character is tower-coherent by construction, its Hartogs extension commutes with the CRT reduction maps at every stage of the primorial tower ℤ/P_kℤ. In the inverse limit, that coherent system of stage-k actions assembles into an ω-germ transformer. The converse direction — every regular ω-germ transformer arises from a Hartogs extension — closes the second link in the Central Theorem chain: boundary characters ↔ Hartogs extensions ↔ ω-germ transformers.
+Chapter 49 proved the Hartogs Extension Uniqueness Theorem (*II.T37*): every idempotent-supported boundary character χ extends uniquely to a τ-holomorphic function f_χ on the interior of τ³, valued in H_τ. This chapter proves that these extensions **are** ω-germ transformers — the algebraic objects defined in Book I Part XIII (*I.D45–I.D47*). The identification is literal, not metaphorical: the extension f_χ of a boundary character χ determines, and is determined by, a unique element of End(d(τ³)), the endomorphism monoid of the ω-germ space. The key structural ingredient is **Stagewise Naturality** (*II.L13*): the Hartogs extension respects the CRT reduction maps at every stage of the primorial tower, because the boundary character generating it is tower-coherent by definition. This naturality is what converts a family of stagewise actions into a coherent ω-germ transformer. The converse — every regular ω-germ transformer arises from a Hartogs extension — closes the second link: boundary characters →^{II.T37} Hartogs extensions →^{II.T38} ω-germ transformers.
 
 ## What this chapter contributes
 
-*Definitions:* No new registry definitions; this chapter establishes a canonical identification between objects already defined in Book I and Part IX.
+The chapter begins by recalling the three-tier algebraic framework from Book I. An **ω-germ transformer** (*I.D45*) is a map G that sends ω-tails to sector-pair values, carrying both a SectorFun (D-holomorphic structure, sector independence) and a StageFun (stagewise evaluation for tower coherence). Tower coherence (*I.D46*) requires that reduce(G(n,ℓ), k) = G(n,k) for k ≤ ℓ — a naturality condition on the primorial inverse system. A τ-holomorphic function (*I.D47*) is an ω-germ transformer that is simultaneously D-holomorphic and tower-coherent.
 
-*Key results:* *II.T38* (Extensions Are ω-Germ Transformers: canonical bijection between Hartogs extensions and regular ω-germ transformers in End(d(τ³))), *II.L13* (Stagewise Naturality: the Hartogs extension commutes with CRT reduction at every stage; the stage-k actions form a coherent inverse system yielding an ω-germ transformer in the limit).
+**Lemma *II.L13*** (Stagewise Naturality) proves that the stage-k action f_χ,k := f_χ|_{ℤ/Pₖℤ} of a Hartogs extension is compatible with the CRT reduction maps: reduce(f_χ,k+1(a), k) = f_χ,k(reduce(a,k)) for every a ∈ ℤ/Pₖ₊₁ℤ. This compatibility holds because the boundary character χ is tower-coherent, the BndLift construction from Part VI preserves reduction compatibility at each stage, and the extension inherits the bipolar decomposition f_χ = e₊ · f_χ⁺ + e₋ · f_χ⁻ channelwise — with each channel acting independently.
 
-*Notation:* End(d(τ³)) for the endomorphism monoid of the ω-germ space; ω-GT for the set of regular ω-germ transformers.
-
-*Dependencies:*
-- Hartogs Extension *II.T37* and Extension Lemma *II.L12* from Chapter 49
-- ω-germ transformers *I.D45*–*I.D47* from Book I
-- Primorial tower coherence and CRT reduction from Part I
-- BndLift *II.D36* from Part VI
+**Theorem *II.T38*** (Extensions Are ω-Germs) establishes the bijection in both directions. Forward: given χ and its Hartogs extension f_χ, the family of stage-k actions (f_χ,k)_{k≥1} satisfies stagewise naturality (*II.L13*) and bipolar sector independence (from *II.T37*), hence defines a regular ω-germ transformer G_χ ∈ End(d(τ³)). Backward: given any regular ω-germ transformer G satisfying stagewise naturality, the tower-coherent family (G_k)_{k≥1} determines a boundary character χ_G via restriction to stage-0 data, and G is the Hartogs extension of χ_G by uniqueness (*II.T37*). The two maps χ ↦ G_χ and G ↦ χ_G are mutual inverses, establishing a canonical bijection.
 
 ## Lean coverage
 
-Module `BookII.CentralTheorem.ExtensionsOmegaGerms`. Key declarations: `stagewise_naturality` (*II.L13*: the Hartogs extension commutes with CRT reduction at each level k), `extensions_eq_omega_germs` (*II.T38*: the bijection between Hartogs extensions and regular ω-germ transformers), `canonical_basis` (ω-germ transformers are finitely presented via the canonical basis at each primorial stage). All sorry-free; the bijection reduces to the inverse limit construction applied to the stagewise naturality data.
+Formalization is planned in `BookII.CentralTheorem.ExtensionsOmegaGerms`. Targeted proof objects: `stagewise_naturality` (*II.L13*), `extensions_are_omega_germs_forward` (extensions determine transformers), `extensions_are_omega_germs_backward` (regular transformers determine extensions), and `extensions_omega_bijection` (*II.T38*, the full canonical bijection). All depend on `BookI.OmegaGerms.Definitions` and `BookII.CentralTheorem.HartogsExtension`.
 
 ## Where this leads
 
-With ω-germ transformers identified as Hartogs extensions, Chapter 51 applies the Yoneda embedding *II.T36* to prove that ω-germ transformers are holomorphic functions, completing the three-way bijection and enabling Chapter 52 to assemble the full Central Theorem isomorphism.
+Chapter 51 closes the third link in the chain by applying the Yoneda theorem (*II.T36*) to prove that ω-germ transformers on τ³ *are* τ-holomorphic functions τ³ → H_τ. With that identification in place, Chapter 52 assembles all four bijections — boundary characters, Hartogs extensions, ω-germ transformers, holomorphic functions — into the Central Theorem 𝒪(τ³) ≅ A_spec(𝕃).
 
 <!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-02/part09/ch49-extensions-omega-germs.tex -->

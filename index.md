@@ -76,7 +76,8 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
 <section class="content-card homepage-section">
   <p class="v2-kicker">Flagship results</p>
   <h2>Concrete claims before broad interpretation</h2>
-  <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
+  <p>The program builds from a single posited master constant <strong>ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304</strong> — the calibration scalar from which the framework's quantitative readouts are computed. ι<sub>τ</sub> is treated on the public surface as a posit (not derived from the K0–K6 kernel on the public pages); the monograph offers a structural motivation. The downstream content is what the surface delivers: a worked example is the electron mass result, derived from ι<sub>τ</sub> and the kernel structure to within current measurement precision. See <a href="{{ '/results/landmark-results/' | relative_url }}">Landmark Results</a> for the full set.</p>
+  <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests — with <a href="{{ '/results/predictions/timing/' | relative_url }}">full pre-registration accounting</a> distinguishing post-dictions, tension-side commitments, and forward forbiddances. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
   <div class="v2-grid">
     <a class="v2-tile" href="{{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}">
       <h3>Hubble tension</h3>
