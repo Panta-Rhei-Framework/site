@@ -42,4 +42,13 @@ The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction 
 
 ## Result Statement
 
-Vacuum catastrophe internally addressed: Λ = 0 exactly. Boundary reading of τ³ has no bulk vacuum energy. The 10¹²⁰ discrepancy disappears. Status: Internally addressed.
+Vacuum catastrophe internally addressed: the **bare** cosmological constant in the bulk Lagrangian is zero exactly. Boundary reading of τ³ has no bulk vacuum energy term. The 10¹²⁰ discrepancy disappears. Status: Internally addressed.
+
+## Bare vs effective: what "Λ = 0" means here
+
+The framework distinguishes two distinct objects that the literature often conflates under the symbol "Λ":
+
+- **`Λ_bare`** — the bare cosmological constant in the bulk Lagrangian. **Zero exactly** in the τ-framework. The 10¹²⁰ catastrophe assumes a bulk vacuum-energy term scaling with QFT cutoff⁴; the framework introduces no such bulk term, so the catastrophe dissolves at its origin rather than being cancelled by fine-tuning.
+- **`Ω_Λ`** — the effective dark-energy density observable from the Hubble rate `H(z)`, CMB acoustic peaks, and BAO. **Distinct object** — a boundary-readout effect, not a bulk Lagrangian term. Computed in the framework as `Ω_Λ = κ_D(1 + ι_τ³) ≈ 0.6849` per *V.T234*, with the canonical-vs-tau-effective bridge characterised by *V.T69* ("dark energy as boundary readout artifact"). See [N20 falsification entry](/falsifications/n20-dark-energy-density-06849/) for the prediction and the comparison to Planck.
+
+The two values can both hold because they refer to different physical objects: `Λ_bare` is bulk-Lagrangian; `Ω_Λ` is boundary-readout. The framework predicts both, exactly, with no contradiction. Cross-references: [Falsification pack](/results/falsifications/browse/), *V.T234* (Ω_Λ value), *V.T69* (boundary-readout / canonical bridge).

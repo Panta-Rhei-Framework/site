@@ -14,7 +14,7 @@ result_kind: "frontier-problem"
 importance_class: "core-foundational-problem"
 status_code: "P"
 domain_group: "Mind"
-summary_short: "Consciousness is a global section of the mind sheaf; binding is sheaf gluing; CC1–CC3 are testable necessary and sufficient conditions."
+summary_short: "At E₂ the structural binding of distributed mental content is a global section of the mind sheaf; binding = gluing; CC1–CC3 are necessary and sufficient. At E₃ the phenomenal-experience question is *not forced* — see hard-problem-of-consciousness for the unforced-stance scope."
 canonical_books:
   - "VII"
 right_rail:
@@ -41,7 +41,11 @@ do_not_edit: true
 
 ## Overview
 
-VII.T41 identifies consciousness with a global section Γ(Mind) of the mind sheaf. Conscious binding — the unified experience of disparate sensory inputs — is sheaf gluing across local conscious patches. The CC1–CC3 conditions (VI.D86) are testable necessary and sufficient conditions for a system to be conscious: CC1 (global section exists), CC2 (coherence: section is non-trivial), CC3 (integration: section cannot be decomposed into independent subsections).
+**Scope:** This result lives at the **E₂ structural** layer of the framework — the layer where binding-of-distributed-cognitive-content is given a categorical account. It is **not** a reduction of phenomenal experience (E₃ / qualia) to a sheaf gluing operation. The framework's stance on the E₃-level Hard-Problem-of-Consciousness question is one of **No Forced Stance** (VII.T47); see the [Hard Problem of Consciousness](/results/problem/hard-problem-of-consciousness/) page for that scope. This page accounts for *one* part of the consciousness puzzle — the binding problem in cognitive neuroscience — at the structural layer where it admits a categorical account.
+
+VII.T41 identifies the **structural binding** of distributed mental content with a global section Γ(Mind) of the mind sheaf. Conscious binding (in the cognitive-neuroscience sense — the unified perceptual experience of disparate sensory inputs assembled into one object) corresponds to sheaf gluing across local conscious patches. The CC1–CC3 conditions (VI.D86) are testable necessary and sufficient conditions for a system's *binding-side* structural readout to be unified: CC1 (global section exists), CC2 (coherence: section is non-trivial), CC3 (integration: section cannot be decomposed into independent subsections).
+
+The further question — *whether and why a system that satisfies CC1–CC3 also has phenomenal experience* — is the Hard Problem proper, and the framework explicitly does not force a stance on it.
 
 ## Detail
 
@@ -49,7 +53,7 @@ The hard problem of consciousness asks why physical processes are accompanied by
 
 ## Result Statement
 
-VII.T41: Consciousness is a global section Γ(Mind) of the mind sheaf. Binding = gluing. The CC1–CC3 conditions (VI.D86) are testable necessary and sufficient conditions for a system to be conscious.
+VII.T41 (E₂ structural layer): The **binding** problem of consciousness is solved structurally — the unified perceptual content of a system is a global section Γ(Mind) of the mind sheaf, and binding is sheaf gluing. The CC1–CC3 conditions (VI.D86) are testable necessary and sufficient conditions for *binding-side* unity. The further question of why a binding-unified system has phenomenal experience (the Hard Problem proper) is left explicitly unforced at E₃; see [VII.T47 / Hard Problem of Consciousness](/results/problem/hard-problem-of-consciousness/).
 
 {% include bridge-status.html
    internal="VII.T41 establishes the sheaf-theoretic definition of consciousness: Γ(Mind) as global section, binding as gluing, CC1–CC3 as necessary and sufficient conditions (VI.D86). The formal framework is internally complete."

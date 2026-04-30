@@ -1,13 +1,13 @@
 ---
-layout: "corpus-monograph-chapter"
+layout: corpus-monograph-chapter
 title: "Chapter 45: 2-Categories from Iterated Enrichment"
-permalink: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/"
-lane: "corpus"
-v2_lane: "corpus"
+permalink: /corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/
+lane: corpus
+v2_lane: corpus
 type: "Corpus Monograph Chapter"
-status: "Canonical"
-updated: "April 2026"
-publication_type: "corpus_monograph_chapter"
+status: Canonical
+updated: April 2026
+publication_type: corpus_monograph_chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 8
@@ -20,67 +20,49 @@ prev_chapter_url: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and
 prev_chapter_title: "Chapter 44: Yoneda Embedding as Theorem"
 next_chapter_url: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-46-s-self-describing-structure/"
 next_chapter_title: "Chapter 46: 's Self-Describing Structure"
-summary_short: "Iterating τ's self-enrichment yields the strict 2-category τ₂ with bipolar 2-morphisms and finite-n iteration; the honest boundary: ∞-categorical coherence belongs to Book III."
-canonical_book_url: "/corpus/monographs/book-ii/"
+summary_short: "Iterating self-enrichment produces a strict 2-category τ₂ with bipolar 2-morphisms, and a strict n-category τₙ for every finite n — with an honest statement of what remains unearned at ∞."
+canonical_book_url: /corpus/monographs/book-ii/
 canonical_book_title: "Book II: Categorical Holomorphy"
-canonical_part_url: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
-canonical_part_title: "Self-Enrichment, Yoneda, and Higher Categories"
-publication_book_url: "/publications/books/book-ii/"
-legacy_publication_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/"
+canonical_part_url: /corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/
+canonical_part_title: "Part VIII: Self-Enrichment, Yoneda, and Higher Categories"
+publication_book_url: /publications/books/book-ii/
+legacy_publication_url: /publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/
 right_rail:
   related:
-    -
-      title: "Book II: Categorical Holomorphy"
-      url: "/corpus/monographs/book-ii/"
-    -
-      title: "Part VIII: Self-Enrichment, Yoneda, and Higher Categories"
-      url: "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
-    -
-      title: "Research Monograph artifact"
-      url: "/publications/books/book-ii/"
-    -
-      title: "Registry"
-      url: "/registry/books/book-ii/"
+  - title: "Book II: Categorical Holomorphy"
+    url: /corpus/monographs/book-ii/
+  - title: "Part VIII: Self-Enrichment, Yoneda, and Higher Categories"
+    url: /corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/
+  - title: "Research Monograph artifact"
+    url: /publications/books/book-ii/
+  - title: "Registry"
+    url: /registry/books/book-ii/
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book II"
     part: "Part VIII"
     layer: "E₀ Mathematics"
     updated: "April 2026"
-generated_from: "corpus/monograph-projections"
-projection_version: "v0.1"
-canonical_source: "corpus/monograph-projections"
-do_not_edit: true
-construction_sequence: 27
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-02"
-  - "CS-03"
 ---
 
-Chapter 43 established that τ enriches over itself: Hom(A,B) is a τ-object with bipolar decomposition Hom(A,B) = e₊·Hom₊(A,B) + e₋·Hom₋(A,B). Since Hom spaces are τ-objects and τ enriches over itself, we can form morphisms between morphisms — Hom(Hom(A,B), Hom(C,D)) — which are 2-morphisms. This chapter constructs the strict 2-category τ₂ from this iteration, establishes the interchange law for horizontal and vertical composition of 2-morphisms, and proves the bipolar splitting τ₂ ≅ τ₂⁺ × τ₂⁻. The construction extends to all finite n: τ admits an n-categorical structure for each n ∈ ℕ. The honest boundary is stated explicitly: the passage from finite iteration to a genuine ∞-category requires coherence data at all levels simultaneously and belongs to the E₁ → E₂ transition on the enrichment ladder — the domain of Book III.
+Chapter 43 established that τ enriches over itself: Hom(A,B) is a τ-object (*II.D53*, *II.D54*) with bipolar decomposition (*II.P11*). Chapter 44 proved the Yoneda embedding y : τ ↪ [τ^op, τ] as a theorem (*II.T36*). This chapter asks what happens when the same reasoning is applied again. Because Hom(A,B) is a τ-object and τ enriches over itself, we can form Hom(Hom(A,B), Hom(C,D)) — morphisms between morphisms. These **2-morphisms** organize into a strict **2-category** τ₂, and the construction iterates to produce a strict n-category τₙ for each finite n. The higher structure is not imposed by formal induction but emerges from the same concrete tower-coherent machinery that built τ itself. The chapter closes with an honest declaration: τₙ is earned for every finite n, but the passage to a genuine ∞-category requires coherence data at all levels simultaneously, which belongs to the E₀⁽¹⁾ → E₀⁽²⁾ transition of Book III.
 
 ## What this chapter contributes
 
-*Definitions:* *II.D55* (strict 2-category τ₂: objects are τ-objects, 1-morphisms are τ-holomorphic maps, 2-morphisms are τ-holomorphic maps between Hom objects, with horizontal and vertical composition satisfying the interchange law), *II.D56* (bipolar 2-morphisms: 2-morphisms inherit the e₊/e₋ decomposition from the split-complex codomain).
+**Definition *II.D55*** (2-Category Structure) specifies the full data of the strict 2-category τ₂: 0-cells are τ-objects, 1-cells between A and B are elements of [A,B], 2-cells between 1-cells f,g are elements of [f,g] ⊂ [[A,B],[A,B]], with vertical and horizontal compositions and the interchange law. Strictness holds on the nose because composition in τ is strictly associative on finite cyclic groups.
 
-*Key results:* *II.P12* (Enrichment Iteration: the self-enrichment of τ iterates to produce n-categories τ_n for all finite n, with each tier's Hom objects inheriting bipolar decomposition), *II.R14* (Honest boundary remark: finite iteration is earned here; ∞-categorical coherence is not and belongs to Book III).
+**Definition *II.D56*** (2-Morphism) specifies the internal structure that every 2-morphism inherits: NF-addressability, bipolar decomposition α = e₊ · α₊ + e₋ · α₋ (from the Idempotent Decomposition Lemma *II.L07*), channel independence (e₊ · e₋ = 0), and holomorphic structure (every element of a τ-object satisfies the split-complex Cauchy–Riemann equations). The bipolar splitting induces a product decomposition τ₂ ≅ τ₂⁺ × τ₂⁻, where each shadow is itself a 2-category. Both vertical and horizontal composition respect this splitting channelwise.
 
-*Notation:* τ₂ for the strict 2-category; τ_n for the n-fold iterated enrichment; τ₂⁺ × τ₂⁻ for the bipolar product decomposition.
+**Proposition *II.P12*** (Enrichment Iteration) proves by induction that for each n ≥ 0 there exists a strict n-category τₙ where every k-cell (0 ≤ k ≤ n) is a tower-coherent, bipolar, holomorphic element of the appropriate k-fold iterated Hom object. The split-complex structure propagates: every k-cell is H_τ-valued with canonical bipolar decomposition, satisfies the split-complex CR equations in the iterated Hom space, and inherits the causal B/C arrow from Prime Polarity (*I.T05*).
 
-*Dependencies:*
-- Self-enrichment *II.D53* and Hom objects *II.D54* from Chapter 43
-- Bipolar idempotents e± from *I.D21*
-- Yoneda Embedding Theorem *II.T36* from Chapter 44
-- Enrichment frontier *I.D82* from Book I
+**Remark *II.R14*** (E₁ Preview) maps what E₀⁽¹⁾ provides that E₀⁽⁰⁾ lacked — internal Hom, Yoneda, higher morphisms, and the beginning of self-description — and what E₀⁽¹⁾ does not yet provide: ∞-categorical structure, the eight spectral forces, physical interpretation, or meta-level self-hosting.
 
 ## Lean coverage
 
-Module `BookII.SelfEnrichment.TwoCategories`. Key declarations: `tau_two_category` (strict 2-category structure on τ₂, *II.D55*), `interchange_law` (horizontal and vertical composition commute as required), `bipolar_two_morphisms` (*II.D56*: 2-morphisms split under e±), `enrichment_iteration` (*II.P12*: inductive construction of τ_n for arbitrary finite n). All sorry-free at finite levels; ∞-categorical coherence is left out of scope.
+Formalization is planned in `BookII.Enrichment.TwoCategories`. Targeted proof objects: `two_category_well_defined` (interchange law verification), `two_morphism_bipolar` (*II.D56*), `enrichment_iteration` (*II.P12*, inductive construction), and `split_complex_propagation` (causal arrow at all levels).
 
 ## Where this leads
 
-The finite enrichment tower τ → τ₂ → ··· → τ_n provides a concrete realization of the E₀ → E₁ step previewed in Chapter 46 and supports the Langlands-parallel structural analogies discussed there. Book III takes the ∞-categorical limit and uses the spectral forces that emerge at the E₂ layer.
+Chapter 46 articulates the philosophical import of self-enrichment: because Hom objects live inside τ, τ describes its own morphisms using its own language — a structural closure that most foundational systems explicitly prevent. Chapter 47 then takes stock of the full E₀⁽⁰⁾ → E₀⁽¹⁾ transition and declares precisely what Book III must accomplish to reach E₀⁽²⁾. The 2-categorical bi-square perspective also opens a path toward Langlands-type functoriality in Book III, where transfer maps between L-functions appear as natural transformations (2-cells in τ₂) with internal bipolar decomposition.
 
 <!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-02/part08/ch44-two-categories.tex -->
