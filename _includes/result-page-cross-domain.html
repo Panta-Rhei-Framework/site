@@ -43,14 +43,13 @@
 
     {% if glossary_ids.size > 0 %}
     <h3>Glossary terms</h3>
-    {%- assign all_glossary = site.data.glossary.all.entries -%}
-    {%- assign by_domain = "" | split: "" -%}
+    {%- assign by_id = site.data.glossary["by-id"].by_id -%}
     {% comment %} group glossary IDs by domain to expose cross-domain bridges {% endcomment %}
     {%- assign by_physics = "" | split: "" -%}
     {%- assign by_life = "" | split: "" -%}
     {%- assign by_meta = "" | split: "" -%}
     {% for gid in glossary_ids %}
-      {%- assign gentry = all_glossary | where: "id", gid | first -%}
+      {%- assign gentry = by_id[gid] -%}
       {% if gentry %}
         {% if gentry.domain == "physics" %}{%- assign by_physics = by_physics | push: gentry -%}{% endif %}
         {% if gentry.domain == "life" %}{%- assign by_life = by_life | push: gentry -%}{% endif %}

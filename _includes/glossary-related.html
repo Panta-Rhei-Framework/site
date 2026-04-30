@@ -7,7 +7,7 @@
     {% include glossary-related.html entry=entry %}
 {%- endcomment -%}
 
-{%- assign all_glossary = site.data.glossary.all.entries -%}
+{%- assign by_id = site.data.glossary["by-id"].by_id -%}
 {%- assign related = include.entry.related_glossary_entries | default: empty -%}
 {%- assign referenced_by = include.entry.referenced_by | default: empty -%}
 
@@ -20,7 +20,7 @@
     <h3>Related glossary entries</h3>
     <ul class="glossary-related-list">
     {% for rel_id in related %}
-      {%- assign rel_entry = all_glossary | where: "id", rel_id | first -%}
+      {%- assign rel_entry = by_id[rel_id] -%}
       {% if rel_entry %}
         {%- assign cross_domain = false -%}
         {% if rel_entry.domain != include.entry.domain %}
@@ -43,7 +43,7 @@
     <h3>Referenced by</h3>
     <ul class="glossary-referenced-by-list">
     {% for ref_id in referenced_by %}
-      {%- assign ref_entry = all_glossary | where: "id", ref_id | first -%}
+      {%- assign ref_entry = by_id[ref_id] -%}
       {% if ref_entry %}
         {%- assign cross_domain = false -%}
         {% if ref_entry.domain != include.entry.domain %}

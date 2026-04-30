@@ -12,7 +12,7 @@
   the page still renders.
 {%- endcomment -%}
 
-{%- assign cross_link_entry = site.data.glossary.all.entries | where: "id", include.id | first -%}
+{%- assign cross_link_entry = site.data.glossary["by-id"].by_id[include.id] -%}
 {%- assign cross_link_label = include.label | default: nil -%}
 
 {%- if cross_link_entry -%}
