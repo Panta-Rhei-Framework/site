@@ -160,6 +160,53 @@
   color: var(--lane-current);
 }
 
+// v3.3 — Per-domain hub cards on /results/ landing.
+// Larger tiles (2-column) with domain-tinted top accent.
+.v2-grid-large {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 18px;
+  margin: 24px 0;
+  align-items: stretch;
+}
+
+.v2-tile-domain {
+  min-height: 200px;
+  padding: 22px 24px;
+  border-top-width: 4px;
+
+  .eyebrow {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: $text-muted;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    margin: 4px 0 10px;
+    line-height: 1.2;
+  }
+
+  p {
+    font-size: 0.92rem;
+    line-height: 1.55;
+    margin-bottom: 14px;
+  }
+
+  .chip {
+    display: inline-block;
+    margin-top: 4px;
+  }
+}
+
+.v2-tile-mathematics { border-top-color: #163e64; }
+.v2-tile-physics     { border-top-color: #1f5d3d; }
+.v2-tile-life        { border-top-color: #6b4a14; }
+.v2-tile-metaphysics { border-top-color: #4d3a6b; }
+
 .v2-badge-row {
   display: flex;
   flex-wrap: wrap;

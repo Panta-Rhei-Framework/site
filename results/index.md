@@ -6,25 +6,27 @@ lane: results
 v2_lane: results
 type: "Lane Root"
 status: "Canonical"
-summary_short: "What the program currently derives from its research corpus."
+summary_short: "What the program currently derives — organized by domain. Mathematics, Physics, Life, Metaphysics."
 og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 og_image_alt: "Scientific plate showing the Results lane as a status-marked consequence layer with Landmark Results, World Readouts, Problem Answers, Recovery Target Status, Additional Derived Results, Progress Against Agenda, and inspection routes."
 summary_cards:
-  - title: "World consequence"
-    body: "Results is where the built Corpus becomes a world."
-  - title: "Mirrors"
-    body: "Problem Answers and Recovery Target Status mirror declared Agenda obligations."
-  - title: "Status"
+  - title: "Four domains"
+    body: "Mathematics, Physics, Life, Metaphysics — each its own per-domain hub."
+  - title: "Calibration cascades"
+    body: "Physics anchored at m_n; Life at K_χ; Metaphysics is categorical-only."
+  - title: "Status grammar"
     body: "Every result surface separates internal stance, verification, and external acceptance."
 hero_ctas:
-  - label: "Landmark Results"
-    url: /results/landmark-results/
+  - label: "Physics"
+    url: /results/physics/
     primary: true
-  - label: "World Readout"
-    url: /results/world-readout/
-  - label: "Progress Against Agenda"
-    url: /results/progress-against-agenda/
+  - label: "Life"
+    url: /results/life/
+  - label: "Mathematics"
+    url: /results/mathematics/
+  - label: "Metaphysics"
+    url: /results/metaphysics/
 right_rail:
   related:
     - title: "Landmark Results"
@@ -49,19 +51,49 @@ right_rail:
 ---
 
 {% assign result_count = site.data.results.results | size %}
-{% assign mathematics_results = site.data.results.results | where: "topic", "mathematics" %}
-{% assign physics_results = site.data.results.results | where: "topic", "physics" %}
-{% assign biology_results = site.data.results.results | where: "topic", "biology" %}
-{% assign philosophy_results = site.data.results.results | where: "topic", "philosophy" %}
-{% assign type_groups = site.data.results.results | group_by: "result_type" | sort: "name" %}
+{% assign mathematics_results = site.data.results.results | where: "layer", "mathematics" %}
+{% assign physics_results = site.data.results.results | where: "layer", "physics" %}
+{% assign life_results = site.data.results.results | where: "layer", "life" %}
+{% assign metaphysics_results = site.data.results.results | where: "layer", "metaphysics" %}
+{% assign glossary_summary = site.data.glossary.summary %}
 
-## Results is where the built Corpus becomes a world
+## Four domains, one cascade
 
-The [Corpus]({{ '/corpus/' | relative_url }}) shows how the structure was built. Results shows what follows from that construction: landmark consequences, world readouts, current answers to the Problem Ledger, recovery-target status, and additional derived results.
+The τ-framework's results organize naturally into four domains, each with its own calibration cascade or categorical architecture:
 
-Every result should be read with its status markers. An internally addressed result is not the same as external verification or scientific acceptance.
+<div class="v2-grid v2-grid-large">
 
-The intended reading order is simple:
+  <a class="v2-tile v2-tile-domain v2-tile-mathematics" href="{{ '/results/mathematics/' | relative_url }}">
+    <span class="eyebrow">Books I–III · Foundational Kernel</span>
+    <h3>Mathematics</h3>
+    <p>{{ mathematics_results | size }} results · the categorical kernel from which everything follows. Categoricity, holomorphy, the central theorem, Yoneda enrichment, the master constant ι_τ.</p>
+    <span class="chip chip-cascade chip-cascade-kernel">Kernel</span>
+  </a>
+
+  <a class="v2-tile v2-tile-domain v2-tile-physics" href="{{ '/results/physics/' | relative_url }}">
+    <span class="eyebrow">Books IV–V · Calibration Cascade</span>
+    <h3>Physics</h3>
+    <p>{{ physics_results | size }} results · 95 glossary entries · 67 numerical predictions. Every SI value derives from ι_τ + the neutron-mass anchor m_n. Tier-A precision down to 0.025 ppm.</p>
+    <span class="chip chip-cascade chip-cascade-physics-cascade">Physics cascade</span>
+  </a>
+
+  <a class="v2-tile v2-tile-domain v2-tile-life" href="{{ '/results/life/' | relative_url }}">
+    <span class="eyebrow">Book VI · K_χ Multi-Branch Tree</span>
+    <h3>Life</h3>
+    <p>{{ life_results | size }} results · 78 glossary entries. Every biological observable inherits from the Kinetic Pseudoscalar Channel (LG-Y02 / VI.L18). Five branches: chirality, energy, information, temporal, phenomenal.</p>
+    <span class="chip chip-cascade chip-cascade-life-cascade">Life cascade</span>
+  </a>
+
+  <a class="v2-tile v2-tile-domain v2-tile-metaphysics" href="{{ '/results/metaphysics/' | relative_url }}">
+    <span class="eyebrow">Book VII · Categorical Architecture</span>
+    <h3>Metaphysics</h3>
+    <p>{{ metaphysics_results | size }} results · 68 glossary entries. No empirical anchor — categorical-only. Four readout registers (Reg_E/P/D/C → Obs/Norm/Proof/Stance) plus six narrowing principles (OR1–OR6).</p>
+    <span class="chip chip-cascade chip-cascade-metaphysics-architecture">Architecture</span>
+  </a>
+
+</div>
+
+## Reading order
 
 <div class="v2-system-strip" aria-label="Results pipeline">
   <a href="{{ '/program/research-agenda/' | relative_url }}">Agenda</a>
@@ -73,89 +105,54 @@ The intended reading order is simple:
   <a href="{{ '/verify/' | relative_url }}">Verify</a>
 </div>
 
-The Agenda states the burden. The Corpus carries the build. Results shows the current answers and world-readouts. Verify exposes the inspection routes.
+The Agenda states the burden. The Corpus carries the build. Results shows the current consequences and world-readouts. Verify exposes the inspection routes.
 
-<p class="eyebrow">The consequence layer at a glance</p>
+Every result should be read with its status markers. An internally addressed result is not the same as external verification or scientific acceptance.
 
-## The Results World Readout
-
-{% include scientific-plate.html id="plate-05-results-world-readout" class="scientific-plate--results-world-readout" loading="lazy" %}
-
-Results are not isolated claims. They are consequences of the built Corpus, organized through status-marked result surfaces and routed toward inspection. Problem Answers are the exact one-to-one mirror of the public Problem Ledger; the broader Result catalogue remains the supporting evidence and world-readout layer.
-
-<div class="btn-group section-ctas">
-  <a class="btn-secondary" href="{{ '/results/landmark-results/' | relative_url }}">Explore Landmark Results</a>
-  <a class="btn-ghost" href="{{ '/results/world-readout/' | relative_url }}">Open World Readouts</a>
-  <a class="btn-ghost" href="{{ '/results/problem-ledger-answers/' | relative_url }}">Read Problem Answers</a>
-  <a class="btn-ghost" href="{{ '/results/progress-against-agenda/' | relative_url }}">Track Progress Against Agenda</a>
-</div>
-
-## Six ways to read Results
-
-<ol class="v2-grid v2-card-list">
-  <li>
-    <a class="v2-tile" href="{{ '/results/landmark-results/' | relative_url }}">
-      <strong>Landmark Results</strong>
-      <span>Curated high-impact consequences, status-marked and not exhaustive.</span>
-    </a>
-  </li>
-  <li>
-    <a class="v2-tile" href="{{ '/results/world-readout/' | relative_url }}">
-      <strong>World Readout</strong>
-      <span>Domain-level pictures of mathematics, physics, life, and metaphysics.</span>
-    </a>
-  </li>
-  <li>
-    <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
-      <strong>Problem Answers</strong>
-      <span>Exactly one answer, boundary, or backlog stance for every public Problem Ledger item.</span>
-    </a>
-  </li>
-  <li>
-    <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
-      <strong>Recovery Target Status</strong>
-      <span>Current recovery status against declared recovery requirements.</span>
-    </a>
-  </li>
-  <li>
-    <a class="v2-tile" href="{{ '/results/additional-derived-results/' | relative_url }}">
-      <strong>Additional Derived Results</strong>
-      <span>Framework results not captured by the curated landmarks or ledger mirrors.</span>
-    </a>
-  </li>
-  <li>
-    <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
-      <strong>Progress Against Agenda</strong>
-      <span>A dashboard over problem and recovery obligations.</span>
-    </a>
-  </li>
-</ol>
-
-## Current state snapshot
-
-The older result catalogue still uses the historical topic labels `biology` and `philosophy` in data. In the v2.2 public lane language, those correspond to the broader **Life** and **Metaphysics / Philosophy** agenda domains unless a page states a narrower scope.
+## Cross-cutting surfaces
 
 <div class="v2-grid">
+
+  <a class="v2-tile" href="{{ '/results/landmark-results/' | relative_url }}">
+    <strong>Landmark Results</strong>
+    <span>The 18 highest-impact results curated across all four domains.</span>
+  </a>
+
+  <a class="v2-tile" href="{{ '/results/predictions/' | relative_url }}">
+    <strong>Predictions</strong>
+    <span>67 zero-parameter numerical predictions with precision tiers (sub-ppm to %).</span>
+  </a>
+
+  <a class="v2-tile" href="{{ '/results/falsifications/' | relative_url }}">
+    <strong>Falsifications</strong>
+    <span>30 sharp predictions (N1–N30) where named experiments adjudicate the framework on a 2025–2035 timeline.</span>
+  </a>
+
+  <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
+    <strong>Problem Answers</strong>
+    <span>One-to-one mirror of the public Problem Ledger — current answer or boundary for every problem.</span>
+  </a>
+
+  <a class="v2-tile" href="{{ '/results/recovery-target-status/' | relative_url }}">
+    <strong>Recovery Target Status</strong>
+    <span>Current recovery status against declared recovery requirements.</span>
+  </a>
+
+  <a class="v2-tile" href="{{ '/results/progress-against-agenda/' | relative_url }}">
+    <strong>Progress Against Agenda</strong>
+    <span>Dashboard over problem and recovery obligations.</span>
+  </a>
+
   <a class="v2-tile" href="{{ '/results/browse/' | relative_url }}">
-    <strong>{{ result_count }} total result pages</strong>
-    <span>The full evidence/readout catalogue with filters for domain, kind, importance, status, and book.</span>
+    <strong>Browse All</strong>
+    <span>The full {{ result_count }}-page catalogue with filters for domain, kind, importance, status, book, and v3 badges.</span>
   </a>
-  <a class="v2-tile" href="{{ '/results/topic/mathematics/' | relative_url }}">
-    <strong>{{ mathematics_results | size }} Mathematics results</strong>
-    <span>Problem-facing results currently grouped under Mathematics.</span>
+
+  <a class="v2-tile" href="{{ '/results/classifications/' | relative_url }}">
+    <strong>Classifications</strong>
+    <span>What kind of result each page claims to be — derivation, structural, prediction, refusal, …</span>
   </a>
-  <a class="v2-tile" href="{{ '/results/topic/physics/' | relative_url }}">
-    <strong>{{ physics_results | size }} Physics results</strong>
-    <span>Problem-facing results currently grouped under Physics.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/topic/biology/' | relative_url }}">
-    <strong>{{ biology_results | size }} Life-facing results</strong>
-    <span>Problem-facing results currently grouped under Life.</span>
-  </a>
-  <a class="v2-tile" href="{{ '/results/topic/philosophy/' | relative_url }}">
-    <strong>{{ philosophy_results | size }} Metaphysics / Philosophy-facing results</strong>
-    <span>Problem-facing results currently grouped under Metaphysics / Philosophy.</span>
-  </a>
+
 </div>
 
 ## Status legend
@@ -168,23 +165,9 @@ The older result catalogue still uses the historical topic labels `biology` and 
 
 These labels report the program's internal status. They do not indicate external verification or scientific acceptance.
 
-## Result families
+## Read next
 
-<div class="v2-grid">
-  {% for group in type_groups %}
-  <a class="v2-tile" href="{{ '/results/classifications/' | relative_url }}#{{ group.name | slugify }}">
-    <strong>{{ group.name | replace: "_", " " | capitalize }}</strong>
-    <span>{{ group.size }} entries in the current catalogue.</span>
-  </a>
-  {% endfor %}
-</div>
-
-## Core routes
-
-- [Progress Against Agenda]({{ '/results/progress-against-agenda/' | relative_url }}) mirrors Results back to the Program lane.
-- [Problem Answers]({{ '/results/problem-ledger-answers/' | relative_url }}) organizes current stances against public problem obligations.
-- [Recovery Target Status]({{ '/results/recovery-target-status/' | relative_url }}) reports current recovery status against declared recovery requirements.
-- [Result Classifications]({{ '/results/classifications/' | relative_url }}) explains what kind of result each page claims to be.
-- [World Readout]({{ '/results/world-readout/' | relative_url }}) gives the domain-level picture implied by the current results.
-- [Browse All Results]({{ '/results/browse/' | relative_url }}) exposes the full catalogue.
-- Related Verify surfaces carry the sharpest empirical pressure points: [Predictions]({{ '/results/predictions/browse/' | relative_url }}), [Falsification Paths]({{ '/results/falsifications/browse/' | relative_url }}), and [Prediction Timing]({{ '/results/predictions/timing/' | relative_url }}).
+- [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) — top results across all four domains
+- [Browse All Results]({{ '/results/browse/' | relative_url }}) — full filterable catalogue
+- [How to read a result page]({{ '/results/how-to-read-a-result-page/' | relative_url }}) — the v3 4-section structure
+- [Status & Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }}) — what each status marker means

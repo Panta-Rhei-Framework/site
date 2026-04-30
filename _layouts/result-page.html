@@ -4,10 +4,25 @@ layout: default
 
 {% include breadcrumb-nav.html %}
 
+{%- comment -%}
+  v3.3 — display-label normalization. Source data still carries legacy
+  topic labels `biology` / `philosophy` to keep the corpus exporter contract
+  stable. The site-side layout maps them onto the canonical 4-domain language
+  (Life / Metaphysics) so all user-facing text reflects the v3 taxonomy.
+  Use `topic_display` and `layer_display` instead of raw `page.topic` /
+  `page.layer` in this layout going forward.
+{%- endcomment -%}
+{%- assign topic_display = page.topic | default: page.layer -%}
+{%- if topic_display == 'biology' -%}{%- assign topic_display = 'life' -%}{%- endif -%}
+{%- if topic_display == 'philosophy' -%}{%- assign topic_display = 'metaphysics' -%}{%- endif -%}
+{%- assign layer_display = page.layer | default: topic_display -%}
+{%- if layer_display == 'biology' -%}{%- assign layer_display = 'life' -%}{%- endif -%}
+{%- if layer_display == 'philosophy' -%}{%- assign layer_display = 'metaphysics' -%}{%- endif -%}
+
 <article class="result-article">
 <header class="hero-card">
   <div class="module-eyebrow-row">
-    <span class="eyebrow">Results · {{ page.layer | capitalize }}</span>
+    <span class="eyebrow">Results · <a href="{{ '/results/' | append: layer_display | append: '/' | relative_url }}">{{ layer_display | capitalize }}</a></span>
     {% if page.result_kind %}
     <span class="chip chip-kind">{{ page.result_kind | replace: "-", " " | capitalize }}</span>
     {% elsif page.result_type %}
@@ -33,7 +48,7 @@ layout: default
   <p>{{ page.summary_short }}</p>
   {% endif %}
   <div class="chip-row">
-    {% if page.topic %}<span class="chip">{{ page.topic | capitalize }}</span>{% endif %}
+    {% if topic_display %}<span class="chip">{{ topic_display | capitalize }}</span>{% endif %}
     {% if page.importance_class %}
     <span class="chip chip-importance">{{ page.importance_class | replace: "-", " " | capitalize }}</span>
     {% endif %}
