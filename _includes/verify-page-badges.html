@@ -1,0 +1,99 @@
+{%- comment -%}
+  Verify-Lane v3.1 — verify-page badge set.
+
+  Renders Lean coverage · scope · verification mode · bridge status chips
+  on verify pages. Reads from `site.data.verify.coverage_by_domain[page.domain]`
+  for per-domain stats; falls back to the global summary when no domain.
+
+  Gated on `page.verify_type` (set by the program-doc layout call site).
+  Supported verify_type values:
+    - domain_verification           → per-domain Lean coverage chips
+    - release_manifest              → global stats + per-domain breakdown
+    - predictions_falsification     → physics-domain Lean linkage chip
+
+  Each chip carries a `data-badge` attribute mirroring v3.2 result-page
+  badges, so future filterable browse surfaces can read them.
+
+  Usage:
+    {% include verify-page-badges.html %}
+{%- endcomment -%}
+
+{%- assign coverage = site.data.verify.coverage_by_domain -%}
+{%- assign domain_stats = coverage.by_domain[page.domain] -%}
+{%- assign global_stats = coverage.global_summary -%}
+
+<div class="chip-row chip-row-badges chip-row-verify" aria-label="Verification metadata badges">
+
+{%- comment -%} Visibility (always public on this lane) {%- endcomment -%}
+<span class="chip chip-visibility chip-visibility-public" data-badge="visibility" data-value="public">
+  Public
+</span>
+
+{%- if page.verify_type == "domain_verification" and domain_stats -%}
+  {%- comment -%} Lean coverage chip — # modules · formalized declarations {%- endcomment -%}
+  <span class="chip chip-verify-coverage" data-badge="lean-coverage"
+        data-value="{{ domain_stats.formalized_count }}/{{ domain_stats.declaration_count }}"
+        title="Lean formalization in this domain · {{ domain_stats.module_count }} modules · {{ domain_stats.line_count }} lines">
+    Lean · {{ domain_stats.module_count }} modules · {{ domain_stats.formalized_count }}/{{ domain_stats.declaration_count }} formalized
+  </span>
+
+  {%- comment -%} Verification mode {%- endcomment -%}
+  <span class="chip chip-verify-mode chip-verify-mode-formal" data-badge="verify-mode" data-value="formal" title="Verification mode">
+    Mode · Formal + Empirical
+  </span>
+
+  {%- comment -%} Bridge status (derived from formalization ratio) {%- endcomment -%}
+  {%- assign formal_pct = 0 -%}
+  {%- if domain_stats.declaration_count > 0 -%}
+    {%- assign formal_pct = domain_stats.formalized_count | times: 100 | divided_by: domain_stats.declaration_count -%}
+  {%- endif -%}
+  {%- if formal_pct >= 90 -%}
+    {%- assign bridge_class = "chip-verify-bridge-strong" -%}
+    {%- assign bridge_label = "Strong" -%}
+  {%- elsif formal_pct >= 65 -%}
+    {%- assign bridge_class = "chip-verify-bridge-moderate" -%}
+    {%- assign bridge_label = "Moderate" -%}
+  {%- else -%}
+    {%- assign bridge_class = "chip-verify-bridge-emerging" -%}
+    {%- assign bridge_label = "Emerging" -%}
+  {%- endif -%}
+  <span class="chip chip-verify-bridge {{ bridge_class }}" data-badge="bridge-status" data-value="{{ bridge_label | downcase }}" title="Formalization coverage · {{ formal_pct }}%">
+    Bridge · {{ bridge_label }} ({{ formal_pct }}%)
+  </span>
+
+  {%- comment -%} Scope chip from page.scope or computed {%- endcomment -%}
+  {%- if page.scope -%}
+    <span class="chip chip-verify-scope" data-badge="verify-scope" data-value="{{ page.scope | downcase }}">
+      Scope · {{ page.scope }}
+    </span>
+  {%- endif -%}
+
+{%- elsif page.verify_type == "release_manifest" and global_stats -%}
+  <span class="chip chip-verify-coverage" data-badge="lean-coverage"
+        data-value="{{ global_stats.module_count }}/{{ global_stats.declaration_count }}"
+        title="Global TauLib coverage">
+    TauLib · {{ global_stats.module_count }} modules · {{ global_stats.declaration_count }} declarations
+  </span>
+  <span class="chip chip-verify-mode chip-verify-mode-formal" data-badge="verify-mode" data-value="formal" title="Release manifest is the authoritative pinned snapshot">
+    Mode · Pinned snapshot
+  </span>
+  {%- assign axiom_count = global_stats.formal_status_counts.axiom | default: 0 -%}
+  <span class="chip chip-verify-bridge chip-verify-bridge-strong" data-badge="bridge-status" data-value="strong" title="0 active sorries">
+    0 sorries · {{ axiom_count }} custom axioms
+  </span>
+
+{%- elsif page.verify_type == "falsification_path" or page.verify_type == "predictions_falsification" -%}
+  {%- assign physics_stats = coverage.by_domain.physics -%}
+  {%- if physics_stats -%}
+    <span class="chip chip-verify-coverage" data-badge="lean-coverage"
+          data-value="{{ physics_stats.formalized_count }}/{{ physics_stats.declaration_count }}"
+          title="Physics-domain Lean formalization linkage">
+      Physics Lean · {{ physics_stats.module_count }} modules · {{ physics_stats.formalized_count }}/{{ physics_stats.declaration_count }} formalized
+    </span>
+  {%- endif -%}
+  <span class="chip chip-verify-mode chip-verify-mode-empirical" data-badge="verify-mode" data-value="empirical" title="Empirical adjudication on a 2025-2035 timeline">
+    Mode · Empirical (2025–2035)
+  </span>
+{%- endif -%}
+
+</div>
