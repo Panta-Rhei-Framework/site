@@ -3,6 +3,10 @@ layout: program-doc
 title: "Release Manifest"
 permalink: /verify/release-manifest/
 lane: verify
+v2_lane: verify
+type: "Verification Surface"
+verify_type: release_manifest
+status: "Canonical"
 summary_short: "Single authoritative snapshot of the current release — pinned TauLib commit, Lean/Mathlib versions, per-book formalization state, and an honest reconciliation of counts across the three public-facing surfaces (registry, dashboards, TauLib docs)."
 og_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
 twitter_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
