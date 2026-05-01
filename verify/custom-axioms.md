@@ -68,6 +68,9 @@ Expected output lists:
 
 This is the diagnostic. A theorem claimed as "Internally addressed" that transitively depends on one of the three custom axioms should carry a scope label reflecting that dependency. The [Formal Methods audit route]({{ '/verify/how-to-audit/formal-methods/' | relative_url }}) names this as one of the fail-fast checks.
 
+<details class="deep-dive" markdown="1">
+<summary>Per-axiom technical detail — universal claim, finite-envelope check, what would close it (technical reviewer detail)</summary>
+
 ## The three custom axioms
 
 The precise Lean identifiers live in the TauLib source at the pinned commit. The specialist should verify them directly there. The descriptions below are at the prose level; the Lean source is authoritative.
@@ -117,6 +120,8 @@ The precise Lean identifiers live in the TauLib source at the pinned commit. The
 **Why it was retired.** An axiom of type `True` is a no-op: `True` is already inhabited by `trivial`, so declaring an axiom at that type adds no logical content and names no new commitment. In pre-publication simulated peer review (chair: Leonardo de Moura, reviewer: Joachim Breitner) the declaration was flagged as a null commitment that inflated the visible axiom inventory from 3 to 4 without adding anything to the theory. The correct posture is either (a) state the physical interpretation as a proved theorem referencing the Book II algebraic proof, or (b) omit the declaration. Option (b) was chosen for v2.
 
 **Current state.** The physical interpretation of the Central Theorem is now carried by the Book II algebraic statement and its guided tour in `TauLib/Tour/CentralTheorem.lean`; no Book IV axiom mediates the physical reading.
+
+</details>
 
 ## Why this pattern rather than a proof
 

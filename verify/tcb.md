@@ -61,6 +61,9 @@ Finite `Bool`-valued checks of the kinds TauLib uses are intractable for kernel-
 
 `native_decide` is used *deliberately* where the kernel-only `decide` would not terminate in minutes. The alternative — writing out the finite check as a kernel-reducible proof term — produces objects that exceed Lean's kernel memory envelope before completing. That is a hard engineering limit, not a shortcut.
 
+<details class="deep-dive" markdown="1">
+<summary>Theorem-level breakdown — which theorems depend on <code>native_decide</code> (technical reviewer detail)</summary>
+
 ## Which theorems depend on `native_decide`
 
 The following theorems, when inspected with `#print axioms`, surface `Lean.ofReduceBool` and `Lean.trustCompiler` in their axiom chain:
@@ -89,6 +92,11 @@ The following theorems, when inspected with `#print axioms`, surface **only** th
 
 A reviewer who wants to restrict attention to theorems that use no `native_decide` can start from this list and trace the dependency graph outward.
 
+</details>
+
+<details class="deep-dive" markdown="1">
+<summary>Three conjectural axioms — finite-envelope checks (technical reviewer detail)</summary>
+
 ## The three conjectural axioms and their finite checks
 
 Each of the three custom axioms in TauLib (all in Book III — see [Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relative_url }})) ships paired with a finite-envelope `native_decide` check. The axiom asserts the universal claim; the paired check verifies the claim holds at all configurations up to a stated bound. The check's TCB cost is the `native_decide` extension disclosed on this page; the axiom's TCB cost is the axiom itself.
@@ -100,6 +108,8 @@ Each of the three custom axioms in TauLib (all in Book III — see [Custom Axiom
 | 3 | `grand_grh_adelic` | `BookIII/Doors/GrandGRH.lean` | Same pattern: universal axiom plus paired `native_decide` finite check |
 
 A reviewer who accepts Lean's kernel but not the native compiler pipeline should treat the paired finite checks as "not yet verified at this TCB level." The universal axioms remain axioms regardless of the finite-check TCB — they are the step the framework declines to prove.
+
+</details>
 
 ## What a reviewer should do with this disclosure
 
