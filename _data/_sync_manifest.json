@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30T15:14:07+00:00",
+  "generated": "2026-04-30T22:15:29+00:00",
   "source": "corpus/scripts/sync_corpus_to_site.py",
   "corpus_repo": "Panta-Rhei-Research/corpus",
   "site_repo": "Panta-Rhei-Research/site",
@@ -7,5 +7,6 @@
   "data_files_copied": 25,
   "glossary_files_copied": 10,
   "page_files_copied": 352,
-  "schema_version": "v3.2"
+  "verify_domain_count": 4,
+  "schema_version": "verify-v3.0"
 }
