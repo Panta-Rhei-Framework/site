@@ -43,8 +43,58 @@ right_rail:
     precision: "Structural"
     scope: "Conjectural"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D03"
+  -
+    module: "TauLib.BookV.Astrophysics.AccretionJets"
+    formalization: "formalized"
+    registry_id_origin: "V.T232"
+  -
+    module: "TauLib.BookV.Astrophysics.EHTReread"
+    formalization: "formalized"
+    registry_id_origin: "V.T230"
+  -
+    module: "TauLib.BookV.FluidMacro.ChargeObstruction"
+    formalization: "formalized"
+    registry_id_origin: "V.C11"
+  -
+    module: "TauLib.BookV.FluidMacro.TauMHD"
+    formalization: "formalized"
+    registry_id_origin: "V.T75"
+  -
+    module: "TauLib.BookV.GravityField.CalibrationTriangle"
+    formalization: "formalized"
+    registry_id_origin: "V.P23"
+  -
+    module: "TauLib.BookV.GravityField.LinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.D52"
+  -
+    module: "TauLib.BookV.GravityField.NonlinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.D58"
+  -
+    module: "TauLib.BookV.GravityField.TauEinsteinEq"
+    formalization: "formalized"
+    registry_id_origin: "V.D51"
+  -
+    module: "TauLib.BookV.GravityField.TauSchwarzschild"
+    formalization: "formalized"
+    registry_id_origin: "V.D63"
+  -
+    module: "TauLib.BookV.Prologue.ExportContract"
+    formalization: "formalized"
+    registry_id_origin: "V.D12"
+  -
+    module: "TauLib.BookV.Prologue.HermeticPrinciple"
+    formalization: "formalized"
+    registry_id_origin: "V.T06"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

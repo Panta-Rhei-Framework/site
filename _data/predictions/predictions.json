@@ -23,8 +23,21 @@
     "summary_short": "Three Generations of Fermions: τ-value 3, observed 3, deviation exact.",
     "url": "/predictions/rm-gen-3/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T171"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -52,8 +65,31 @@
     "summary_short": "Electron Mass: τ-value 0.510999, observed 0.510999, deviation 0.025~ppm.",
     "url": "/predictions/m-mev/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIV.Physics.PlanckCharacter",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D13"
+      },
+      {
+        "module": "TauLib.BookIV.QuantumMechanics.AddressObstruction",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T25"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -81,8 +117,26 @@
     "summary_short": "Muon-to-Electron Mass Ratio: τ-value ≈!206.1, observed 206.768, deviation +307~ppm.",
     "url": "/predictions/m-m/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.DimensionlessCouplings",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D277"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T148"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -110,8 +164,16 @@
     "summary_short": "Koide Relation Q: τ-value 2/3, observed 0.66661, deviation -9~ppm.",
     "url": "/predictions/koide-q/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T143"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -139,8 +201,71 @@
     "summary_short": "NNLO Correction Parameter δ: τ-value 0.04, observed –, deviation –.",
     "url": "/predictions/nnlo/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.DimensionlessCouplings",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D277"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T156"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -168,8 +293,61 @@
     "summary_short": "Proton–Neutron Mass Splitting: τ-value 1.38!×!10⁻³, observed 1.378!×!10⁻³, deviation +33~ppm.",
     "url": "/predictions/a-m/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Physics.NucleonMassSplitting",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T142"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D02"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -197,8 +375,41 @@
     "summary_short": "Sum of Neutrino Masses: τ-value 0.089, observed < 0.12, deviation +7~ppm.",
     "url": "/predictions/m-ev/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.MajoranaStructure",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T146"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.NeutrinoMode",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T175"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -226,8 +437,46 @@
     "summary_short": "Neutrino Mass Hierarchy: τ-value Normal, deviation –.",
     "url": "/predictions/hierarchy/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.MajoranaStructure",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T146"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.NeutrinoMode",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P127"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -255,8 +504,56 @@
     "summary_short": "Neutrino Majorana Signature: τ-value Majorana, deviation –.",
     "url": "/predictions/c/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.MajoranaStructure",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T146"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -284,8 +581,31 @@
     "summary_short": "Neutrino NNLO Mass Ratios: τ-value (1.16,,0.87), observed –, deviation +18.5~ppm.",
     "url": "/predictions/nnlo-ratio/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Electroweak.MajoranaStructure",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T146"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.NeutrinoMode",
+        "formalization": "skeleton",
+        "registry_id_origin": "V.D237"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "skeleton",
+        "registry_id_origin": "V.T189"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.BoundaryData",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D38"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -313,8 +633,21 @@
     "summary_short": "Cabibbo Angle λ: τ-value 0.2248, observed 0.2253, deviation -2327~ppm.",
     "url": "/predictions/cabibbo/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T152"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -342,8 +675,21 @@
     "summary_short": "Wolfenstein Parameter A: τ-value 0.825, observed 0.826, deviation -887~ppm.",
     "url": "/predictions/wolfenstein-a/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T165"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -371,8 +717,21 @@
     "summary_short": "CKM Parameter ρ̄: τ-value 0.1592, observed 0.159, deviation +125~ppm.",
     "url": "/predictions/bar/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T165"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -400,8 +759,21 @@
     "summary_short": "CKM Parameter η̄: τ-value 0.345, observed 0.348, deviation -2285~ppm.",
     "url": "/predictions/bar-14/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T167"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -429,8 +801,21 @@
     "summary_short": "PMNS Solar Mixing Angle θ₁₂: τ-value 33.0^∘, observed 33.4^∘, deviation +3106~ppm.",
     "url": "/predictions/pmns/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T174"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -458,8 +843,21 @@
     "summary_short": "PMNS Atmospheric Mixing Angle θ₂₃: τ-value 47.2^∘, observed 49.3^∘, deviation +8604~ppm.",
     "url": "/predictions/pmns-16/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T175"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -487,8 +885,26 @@
     "summary_short": "Strong CP Angle θ_QCD: τ-value 0, observed < 10⁻¹⁰, deviation exact.",
     "url": "/predictions/qcd/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Particles.StrongCP",
+        "formalization": "skeleton",
+        "registry_id_origin": "IV.T160"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.ColorHolonomy",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D154"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.StrongVacuum",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D148"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -516,8 +932,26 @@
     "summary_short": "Neutron Electric Dipole Moment: τ-value 0, observed < 1.8!×!10⁻²⁶, deviation exact.",
     "url": "/predictions/n-edm/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Particles.StrongCP",
+        "formalization": "skeleton",
+        "registry_id_origin": "IV.T160"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.ColorHolonomy",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D154"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.StrongVacuum",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D148"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -545,8 +979,26 @@
     "summary_short": "NNLO Coefficient k: τ-value 7.5, observed –, deviation -8.2~ppm.",
     "url": "/predictions/k-nnlo/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.DimensionlessCouplings",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D277"
+      },
+      {
+        "module": "TauLib.BookIV.Particles.ThreeGenerations",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T176"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -574,8 +1026,111 @@
     "summary_short": "Weak Mixing Angle sin²θ_W: τ-value 0.2312, observed 0.2312, deviation -0.65~ppm.",
     "url": "/predictions/sin-w/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookII.Domains.HolImpliesCont",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T06"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T32"
+      },
+      {
+        "module": "TauLib.BookII.Topology.TorusDegeneration",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T13"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -603,8 +1158,111 @@
     "summary_short": "W Boson Mass M_W: τ-value 80.37, observed 80.37, deviation -0.42~ppm.",
     "url": "/predictions/mw-gev/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookII.Domains.HolImpliesCont",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T06"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T32"
+      },
+      {
+        "module": "TauLib.BookII.Topology.TorusDegeneration",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T13"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -632,8 +1290,111 @@
     "summary_short": "Strong Coupling Constant α_s(M_Z): τ-value 0.1183, observed 0.1180, deviation +43~ppm.",
     "url": "/predictions/mz/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookII.Domains.HolImpliesCont",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T06"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T32"
+      },
+      {
+        "module": "TauLib.BookII.Topology.TorusDegeneration",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T13"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -661,8 +1422,31 @@
     "summary_short": "Fine-Structure Constant α: τ-value 1/137.035, observed 1/137.036, deviation 9.8~ppm.",
     "url": "/predictions/pred-23/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIV.Physics.PlanckCharacter",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D13"
+      },
+      {
+        "module": "TauLib.BookIV.QuantumMechanics.AddressObstruction",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T25"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -690,8 +1474,36 @@
     "summary_short": "Higgs Boson Mass (n = 7): τ-value 125.21, observed 125.20, deviation +8.0~ppm.",
     "url": "/predictions/mh-gev/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.TauHiggs2",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T166"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.QuantumMechanics.HilbertSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D61"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -719,8 +1531,66 @@
     "summary_short": "Higgs Boson Mass (n = 5 route): τ-value 125.26, observed 125.20, deviation +493~ppm.",
     "url": "/predictions/mh-n-5/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D255"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.TauHiggs2",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T151"
+      },
+      {
+        "module": "TauLib.BookIV.Electroweak.WeinbergNLO",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T140"
+      },
+      {
+        "module": "TauLib.BookIV.QuantumMechanics.CRAddressSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D50"
+      },
+      {
+        "module": "TauLib.BookIV.QuantumMechanics.HilbertSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D61"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D01"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -748,8 +1618,76 @@
     "summary_short": "Gravitational Constant G: τ-value 6.674!×!10⁻¹¹, observed CODATA, deviation ∼ 3~ppm.",
     "url": "/predictions/g/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NormalForm",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D16"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Primes",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T09"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.TowerAtoms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19c"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D02"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Prologue.ExportContract",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D14"
+      },
+      {
+        "module": "TauLib.BookV.Prologue.HermeticPrinciple",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T06"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.BaseCircle",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D17"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.TemporalIgnition",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T11"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -777,8 +1715,201 @@
     "summary_short": "G–α Bridge Identity: τ-value –, observed –, deviation ∼ 3~ppm.",
     "url": "/predictions/closing-identity/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.GlobalHartogs",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T31"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.TauHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T18"
+      },
+      {
+        "module": "TauLib.BookI.Logic.Truth4",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D21"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T10"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D59"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D60"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.ExtensionsOmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T38"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.YonedaApplied",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T39"
+      },
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookII.Domains.Cylinders",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D10"
+      },
+      {
+        "module": "TauLib.BookII.Domains.HolImpliesCont",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T06"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.BndLift",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T32"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.CodeDecode",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T35"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.IdempotentDecomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "II.L07"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PositiveRegularity",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D49"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.ThreeLemmaChain",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T33"
+      },
+      {
+        "module": "TauLib.BookII.Topology.StoneSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T07"
+      },
+      {
+        "module": "TauLib.BookII.Topology.TorusDegeneration",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T13"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.IotaTauConfirmed",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T25"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.JReplacesI",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D33"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D05"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D04"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.FrameHolonomy",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T20"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -806,8 +1937,21 @@
     "summary_short": "A-Sector (Weak) Coupling κ(A;1): τ-value 0.3413, observed –, deviation –.",
     "url": "/predictions/a-1/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.EpsteinZeta",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T10"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -835,8 +1979,21 @@
     "summary_short": "D-Sector (Gravity) Coupling κ(D;1): τ-value 0.6587, observed –, deviation –.",
     "url": "/predictions/d-1/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.EpsteinZeta",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T10"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -864,8 +2021,21 @@
     "summary_short": "C-Sector (Strong) Coupling κ(C;3): τ-value 0.0604, observed –, deviation –.",
     "url": "/predictions/c-3/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.EpsteinZeta",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T10"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -893,8 +2063,21 @@
     "summary_short": "Mixed Sector (Higgs/EW) Coupling κ(ω): τ-value 0.0297, observed –, deviation –.",
     "url": "/predictions/pred-31/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.EpsteinZeta",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T10"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -922,8 +2105,21 @@
     "summary_short": "Spectral Index n_s: τ-value 0.96491, observed 0.9649, deviation +13~ppm.",
     "url": "/predictions/n/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "skeleton",
+        "registry_id_origin": "V.D253"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.InflationRegime",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D157"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -951,8 +2147,21 @@
     "summary_short": "Tensor-to-Scalar Ratio r: τ-value 0.0136, observed < 0.036, deviation –.",
     "url": "/predictions/r/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P136"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.InflationRegime",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D157"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -980,8 +2189,21 @@
     "summary_short": "Inflationary E-Fold Count N_e: τ-value 57, observed 50–60, deviation –.",
     "url": "/predictions/n-34/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "skeleton",
+        "registry_id_origin": "V.D253"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.InflationRegime",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D157"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1009,8 +2231,121 @@
     "summary_short": "First CMB Acoustic Peak ℓ₁: τ-value 220.6, observed 220.0, deviation +2840~ppm.",
     "url": "/predictions/pred-35/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D28"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T190"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1038,8 +2373,86 @@
     "summary_short": "Silk Damping Scale ℓ_D: τ-value 1244.0, observed 1243.9, deviation +9~ppm.",
     "url": "/predictions/d/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D254"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D57"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1067,8 +2480,21 @@
     "summary_short": "B-Mode Polarization Amplitude D₈₀ᴮᴮ: τ-value 339, deviation –.",
     "url": "/predictions/d-nk/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D256"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.InflationRegime",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D157"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1096,8 +2522,21 @@
     "summary_short": "Scalar Perturbation Amplitude A_s: τ-value 2.14!×!10⁻⁹, observed 2.10!×!10⁻⁹, deviation -1979~ppm.",
     "url": "/predictions/a/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.InflationRegime",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D157"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1125,8 +2564,16 @@
     "summary_short": "Effective Neutrino Number N_eff: τ-value 3.000, observed 2.99 ± 0.17, deviation –.",
     "url": "/predictions/n-ff/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T193"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1154,8 +2601,121 @@
     "summary_short": "Baryon Density Parameter ω_b: τ-value 0.02209, observed 0.02237, deviation -1.2%.",
     "url": "/predictions/b/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D28"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T192"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1183,8 +2743,121 @@
     "summary_short": "Matter-to-Baryon Ratio ω_m/ω_b: τ-value 6.655, observed 6.37, deviation +4.1%.",
     "url": "/predictions/b-41/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D28"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T191"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1212,8 +2885,271 @@
     "summary_short": "Baryon Asymmetry η_B: τ-value 6.09!×!10⁻¹⁰, observed 6.14!×!10⁻¹⁰, deviation -1%.",
     "url": "/predictions/b-42/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Descent",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NoTie",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L03"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NormalForm",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D16"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Primes",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19b"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.TowerAtoms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19c"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Arithmetic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P05"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Order",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P07"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T40"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D02"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D04"
+      },
+      {
+        "module": "TauLib.BookI.Logic.Truth4",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D21"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookII.Closure.GeometricBiSquare",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T49"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.CodeDecode",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T35"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.IdempotentDecomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "II.L07"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PositiveRegularity",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D49"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PreYoneda",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D50"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.ThreeLemmaChain",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T33"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.ActorsDynamics",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D267"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.Confinement",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T71"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.StrongVacuum",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T68"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T170"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TOVStarBuilder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P20"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D50"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1241,8 +3177,46 @@
     "summary_short": "Primordial Helium-4 Mass Fraction Y_p: τ-value 0.2469, observed 0.2449 ± 0.0040, deviation +0.8%.",
     "url": "/predictions/y-he/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Arena.ActorsDynamics",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D267"
+      },
+      {
+        "module": "TauLib.BookIV.Arena.Tau3Arena",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D253"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.Confinement",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T71"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.StrongVacuum",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T68"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNNuclearNetwork",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T245"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1270,8 +3244,171 @@
     "summary_short": "Primordial Deuterium Abundance D/H: τ-value 2.52!×!10⁻⁵, observed 2.53!×!10⁻⁵, deviation -0.4%.",
     "url": "/predictions/d-h/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Descent",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NoTie",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L03"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Arithmetic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P05"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.Functor",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D04"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D06"
+      },
+      {
+        "module": "TauLib.BookIV.Strong.Confinement",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.T71"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNNuclearNetwork",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T241"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D50"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1299,8 +3436,121 @@
     "summary_short": "Lithium-7 Abundance (Framework Account): τ-value 1.6!×!10⁻¹⁰, observed 1.6!×!10⁻¹⁰, deviation ∼ 0%.",
     "url": "/predictions/li-h/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D28"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookIII.Enrichment.LayerTemplate",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D08"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D17"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T07"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNBaryogenesis",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D198"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BBNNuclearNetwork",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T244"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.BaryogenesisAsymmetry",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T172"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.HeliumFraction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T149"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.ThresholdLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D159"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D56"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1328,8 +3578,331 @@
     "summary_short": "Dark Energy Density Ω_Λ: τ-value 0.6849, observed 0.685 ± 0.007, deviation -433~ppm.",
     "url": "/predictions/pred-46/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Characters",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D37"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T12"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Descent",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NoTie",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L03"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NormalForm",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D23"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Arithmetic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P05"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.DHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P22"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.GlobalHartogs",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T31"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.IdentityTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T21"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.SpectralCoefficients",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T29"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.TauHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D46"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.Thinness",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T30"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookI.Logic.Truth4",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D21"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.ChineseRemainder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D29"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookI.Topos.EarnedArrows",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D51"
+      },
+      {
+        "module": "TauLib.BookI.Topos.Functors",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D54"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D59"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.ExtensionsOmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T38"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.YonedaApplied",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T39"
+      },
+      {
+        "module": "TauLib.BookII.Domains.Cylinders",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D10"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.BndLift",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CanonicalBasis",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D45"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.EvolutionOperator",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D37"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D47"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.CodeDecode",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T35"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.IdempotentDecomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "II.L07"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PositiveRegularity",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D49"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PreYoneda",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D50"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.ThreeLemmaChain",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T33"
+      },
+      {
+        "module": "TauLib.BookII.Topology.StoneSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D14"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.IotaTauConfirmed",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T25"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.JReplacesI",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D33"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.SIReference",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D26"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D05"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.DistanceLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T19"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.MacroReadout",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D31"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.DarkEnergyArtifact",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T234"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.Inversion",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T55"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.VacuumNoVoid",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T65"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1357,8 +3930,271 @@
     "summary_short": "Dark Energy Equation of State w₀: τ-value -0.960, observed -1.0 ± 0.05, deviation –.",
     "url": "/predictions/w/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Characters",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D37"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T12"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.DHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P22"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.GlobalHartogs",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T31"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.IdentityTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T21"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.SpectralCoefficients",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T29"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.TauHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D46"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.Thinness",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T30"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookI.Logic.Truth4",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D21"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D59"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.ExtensionsOmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T38"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.YonedaApplied",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T39"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.BndLift",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.EvolutionOperator",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D37"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T32"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.CodeDecode",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T35"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.IdempotentDecomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "II.L07"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PositiveRegularity",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D49"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.ThreeLemmaChain",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T33"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.IotaTauConfirmed",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T25"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.JReplacesI",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D33"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Calibration.SIReference",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D26"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D04"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.H0TensionLCDM",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T235"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.DistanceLadder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T19"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.MacroReadout",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D31"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.DarkEnergyArtifact",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D293"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.Inversion",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T55"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.VacuumNoVoid",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T65"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1386,8 +4222,21 @@
     "summary_short": "Hubble Constant h: τ-value 0.6735, observed 0.6736, deviation -15~ppm.",
     "url": "/predictions/h/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Astrophysics.H0TensionLCDM",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D319"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T196"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1415,8 +4264,21 @@
     "summary_short": "Clustering Amplitude S₈: τ-value 0.760, observed 0.762 ± 0.024, deviation -0.3%.",
     "url": "/predictions/s/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Astrophysics.H0TensionLCDM",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D319"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T199"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1444,8 +4306,21 @@
     "summary_short": "Matter Density from DE Closure ω_m: τ-value 0.1429, observed 0.1430, deviation -675~ppm.",
     "url": "/predictions/de/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Astrophysics.H0TensionLCDM",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D319"
+      },
+      {
+        "module": "TauLib.BookV.Cosmology.CMBSpectrum",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T199"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1473,8 +4348,116 @@
     "summary_short": "Galaxy Rotation Curve (NGC 3198): τ-value 149.1~km/s, observed ≈!150~km/s, deviation 0.6%.",
     "url": "/predictions/ngc-3198-v-f/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Descent",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NoTie",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L03"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Arithmetic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P05"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D04"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.RotationCurves",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T163"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T37"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D63"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.MacroReadout",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D31"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1502,8 +4485,141 @@
     "summary_short": "Baryonic Tully-Fisher Relation (20 Galaxies): τ-value slope 3.991, observed 3.97 ± 0.10, deviation 0.067 dex.",
     "url": "/predictions/20-galaxy-btfr/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Descent",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NoTie",
+        "formalization": "formalized",
+        "registry_id_origin": "I.L03"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NormalForm",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D16"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.TowerAtoms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19c"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Arithmetic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P05"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.Order",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P07"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.K3"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D04"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.RotationCurves",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D258"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T37"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D63"
+      },
+      {
+        "module": "TauLib.BookV.Temporal.MacroReadout",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D31"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1531,8 +4647,46 @@
     "summary_short": "Black Hole Horizon Topology: τ-value toroidal, deviation –.",
     "url": "/predictions/bh-topology/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIII.Sectors.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D11"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.LanglandsReflection",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T06"
+      },
+      {
+        "module": "TauLib.BookIII.Sectors.ParityBridge",
+        "formalization": "formalized",
+        "registry_id_origin": "III.T08"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D04"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T37"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D63"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1560,8 +4714,16 @@
     "summary_short": "Quasinormal Mode Frequency Ratio: τ-value 2.929, deviation –.",
     "url": "/predictions/qnm-ratio/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Gravity.BHTopoModes",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T168"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1589,8 +4751,36 @@
     "summary_short": "EHT Shadow Correction: τ-value 5.25,GM/c², observed 5.1 ± 0.3, deviation –.",
     "url": "/predictions/eht-shadow/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Astrophysics.EHTReread",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T220"
+      },
+      {
+        "module": "TauLib.BookV.Gravity.BHTopoModes",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D234"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D58"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D50"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1618,8 +4808,61 @@
     "summary_short": "Gravitational Wave Echo Time: τ-value see text, deviation –.",
     "url": "/predictions/gw-echo-time/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIII.Sectors.Decomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "III.D13"
+      },
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D06"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.BinaryMergersGW",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T223"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.EHTReread",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P83"
+      },
+      {
+        "module": "TauLib.BookV.Gravity.BHTopoModes",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D283"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D54"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TOVStarBuilder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P20"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D50"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T40"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1647,8 +4890,16 @@
     "summary_short": "GW Echo Time Ratio: τ-value 8.57, deviation –.",
     "url": "/predictions/echo-ratio/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.Gravity.BHTopoModes",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T185"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1676,8 +4927,41 @@
     "summary_short": "Magnetic Winding Number: τ-value w = 2, deviation –.",
     "url": "/predictions/magnetic-winding/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D06"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.EHTReread",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T227"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D58"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TOVStarBuilder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P20"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D50"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1705,8 +4989,71 @@
     "summary_short": "Jet Magnetic Field Ratio B_z/B_φ: τ-value ι<sub>τ</sub>, observed ≈!0.3, deviation ∼ 10%.",
     "url": "/predictions/bz-b-jet/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookIV.Sectors.SectorParameters",
+        "formalization": "formalized",
+        "registry_id_origin": "IV.D03"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.AccretionJets",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T232"
+      },
+      {
+        "module": "TauLib.BookV.Astrophysics.EHTReread",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T230"
+      },
+      {
+        "module": "TauLib.BookV.FluidMacro.ChargeObstruction",
+        "formalization": "formalized",
+        "registry_id_origin": "V.C11"
+      },
+      {
+        "module": "TauLib.BookV.FluidMacro.TauMHD",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T75"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.CalibrationTriangle",
+        "formalization": "formalized",
+        "registry_id_origin": "V.P23"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.LinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D52"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.NonlinearEinstein",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D58"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauEinsteinEq",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D51"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D63"
+      },
+      {
+        "module": "TauLib.BookV.Prologue.ExportContract",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D12"
+      },
+      {
+        "module": "TauLib.BookV.Prologue.HermeticPrinciple",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T06"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1734,8 +5081,326 @@
     "summary_short": "No Singularities (Bounded Characters): τ-value –, observed –, deviation –.",
     "url": "/predictions/no-singularities/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Boundary.Characters",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D37"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Iota",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D34"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Ring",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T12"
+      },
+      {
+        "module": "TauLib.BookI.Boundary.SplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D20"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.ABCD",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D17"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.Hyperfact",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T04"
+      },
+      {
+        "module": "TauLib.BookI.Coordinates.NormalForm",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D23"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.ProgramMonoid",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T03"
+      },
+      {
+        "module": "TauLib.BookI.Denotation.TauIdx",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D07"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.DHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.P22"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.DiagonalProtection",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T20"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.GlobalHartogs",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T31"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.IdentityTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T21"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.PresheafEssence",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T41"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.SpectralCoefficients",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T29"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.TauHolomorphic",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D47"
+      },
+      {
+        "module": "TauLib.BookI.Holomorphy.Thinness",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T30"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D02"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Diagonal",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D03"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D04"
+      },
+      {
+        "module": "TauLib.BookI.Logic.Truth4",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D21"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Closure",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T01"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Generation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D05"
+      },
+      {
+        "module": "TauLib.BookI.Orbit.Ladder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D06"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.BipolarAlgebra",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D27"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.ChineseRemainder",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D29"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Lemniscate",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D18"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.OmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D25"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Polarity",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T05"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.PolarizedGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D26"
+      },
+      {
+        "module": "TauLib.BookI.Polarity.Spectral",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D19e"
+      },
+      {
+        "module": "TauLib.BookI.Sets.CantorRefutation",
+        "formalization": "formalized",
+        "registry_id_origin": "I.T35"
+      },
+      {
+        "module": "TauLib.BookI.Topos.EarnedArrows",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D51"
+      },
+      {
+        "module": "TauLib.BookI.Topos.Functors",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D54"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.BoundaryCharacters",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D59"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.CentralTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T40"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.ExtensionsOmegaGerms",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T38"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.HartogsExtension",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T37"
+      },
+      {
+        "module": "TauLib.BookII.CentralTheorem.YonedaApplied",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T39"
+      },
+      {
+        "module": "TauLib.BookII.Domains.Cylinders",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D09"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.SelfEnrichment",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D53"
+      },
+      {
+        "module": "TauLib.BookII.Enrichment.YonedaTheorem",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.BndLift",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D36"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CalibratedSplitComplex",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D35"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.CanonicalBasis",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D45"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.EvolutionOperator",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D37"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.MutualDetermination",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T27"
+      },
+      {
+        "module": "TauLib.BookII.Hartogs.SheafCoherence",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D47"
+      },
+      {
+        "module": "TauLib.BookII.Interior.TauAdmissible",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D02"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.CodeDecode",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T35"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.IdempotentDecomposition",
+        "formalization": "formalized",
+        "registry_id_origin": "II.L07"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PositiveRegularity",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D49"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.PreYoneda",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D50"
+      },
+      {
+        "module": "TauLib.BookII.Regularity.ThreeLemmaChain",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T33"
+      },
+      {
+        "module": "TauLib.BookII.Topology.StoneSpace",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D14"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.Circles",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D26"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.EEarned",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T23"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.IotaTauConfirmed",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T25"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.JReplacesI",
+        "formalization": "formalized",
+        "registry_id_origin": "II.D33"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.Lines",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T20"
+      },
+      {
+        "module": "TauLib.BookII.Transcendentals.PiEarned",
+        "formalization": "formalized",
+        "registry_id_origin": "II.T22"
+      },
+      {
+        "module": "TauLib.BookV.Thermodynamics.VacuumNoVoid",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T65"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1763,8 +5428,21 @@
     "summary_short": "No Black Hole Evaporation (No-Shrink Theorem): τ-value dot M = 0, observed –, deviation –.",
     "url": "/predictions/no-evaporation/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.GravityField.TOVStarBuilder",
+        "formalization": "formalized",
+        "registry_id_origin": "V.D71"
+      },
+      {
+        "module": "TauLib.BookV.GravityField.TauSchwarzschild",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T40"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1792,8 +5470,26 @@
     "summary_short": "She–Lévêque Intermittency Parameter β: τ-value 2/3, observed 2/3, deviation exact.",
     "url": "/predictions/she-l-v-que/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D02"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookV.FluidMacro.Turbulence",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T248"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1821,8 +5517,26 @@
     "summary_short": "Kolmogorov Structure Function Exponents ζ_p: τ-value see text, observed DNS data, deviation < 1%.",
     "url": "/predictions/pred-63/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookI.Kernel.Axioms",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D02"
+      },
+      {
+        "module": "TauLib.BookI.Kernel.Signature",
+        "formalization": "formalized",
+        "registry_id_origin": "I.D01"
+      },
+      {
+        "module": "TauLib.BookV.FluidMacro.Turbulence",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T249"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1850,8 +5564,16 @@
     "summary_short": "Kolmogorov Constant C_K: τ-value 3/2, observed 1.5 ± 0.1, deviation ∼ 0%.",
     "url": "/predictions/ck/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.FluidMacro.Turbulence",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T250"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1879,8 +5601,16 @@
     "summary_short": "Fast Magnetic Reconnection Rate: τ-value 0.117,vA, observed 0.01–0.1,vA, deviation –.",
     "url": "/predictions/v-c/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.FluidMacro.Turbulence",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T251"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1908,8 +5638,16 @@
     "summary_short": "Coronal Heating Damping Scale: τ-value 0.117,R_⊙, observed ≈!0.1,R_⊙, deviation ∼ 15%.",
     "url": "/predictions/pred-66/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.FluidMacro.TauAlfven",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T253"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   },
@@ -1937,8 +5675,16 @@
     "summary_short": "Navier–Stokes Regularity (No Blow-Up): τ-value no blow-up, observed (open), deviation –.",
     "url": "/predictions/ns-regularity/",
     "facet_type": "prediction",
+    "lean_modules": [
+      {
+        "module": "TauLib.BookV.FluidMacro.NavierStokesMacro",
+        "formalization": "formalized",
+        "registry_id_origin": "V.T254"
+      }
+    ],
+    "lean_linkage_status": "derived",
     "generated_from": "corpus/results/facets/predictions",
-    "projection_version": "v0.1",
+    "projection_version": "v0.2",
     "canonical_source": "corpus/results/facets/predictions",
     "do_not_edit": true
   }

@@ -43,8 +43,262 @@ right_rail:
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Boundary.Characters"
+    formalization: "formalized"
+    registry_id_origin: "I.D37"
+  -
+    module: "TauLib.BookI.Boundary.Iota"
+    formalization: "formalized"
+    registry_id_origin: "I.D34"
+  -
+    module: "TauLib.BookI.Boundary.Ring"
+    formalization: "formalized"
+    registry_id_origin: "I.D19"
+  -
+    module: "TauLib.BookI.Boundary.Spectral"
+    formalization: "formalized"
+    registry_id_origin: "I.T12"
+  -
+    module: "TauLib.BookI.Boundary.SplitComplex"
+    formalization: "formalized"
+    registry_id_origin: "I.D20"
+  -
+    module: "TauLib.BookI.Coordinates.ABCD"
+    formalization: "formalized"
+    registry_id_origin: "I.D17"
+  -
+    module: "TauLib.BookI.Coordinates.Hyperfact"
+    formalization: "formalized"
+    registry_id_origin: "I.T04"
+  -
+    module: "TauLib.BookI.Coordinates.NormalForm"
+    formalization: "formalized"
+    registry_id_origin: "I.D23"
+  -
+    module: "TauLib.BookI.Denotation.ProgramMonoid"
+    formalization: "formalized"
+    registry_id_origin: "I.T03"
+  -
+    module: "TauLib.BookI.Denotation.TauIdx"
+    formalization: "formalized"
+    registry_id_origin: "I.D07"
+  -
+    module: "TauLib.BookI.Holomorphy.DHolomorphic"
+    formalization: "formalized"
+    registry_id_origin: "I.P22"
+  -
+    module: "TauLib.BookI.Holomorphy.DiagonalProtection"
+    formalization: "formalized"
+    registry_id_origin: "I.T20"
+  -
+    module: "TauLib.BookI.Holomorphy.GlobalHartogs"
+    formalization: "formalized"
+    registry_id_origin: "I.T31"
+  -
+    module: "TauLib.BookI.Holomorphy.IdentityTheorem"
+    formalization: "formalized"
+    registry_id_origin: "I.T21"
+  -
+    module: "TauLib.BookI.Holomorphy.PresheafEssence"
+    formalization: "formalized"
+    registry_id_origin: "I.T41"
+  -
+    module: "TauLib.BookI.Holomorphy.SpectralCoefficients"
+    formalization: "formalized"
+    registry_id_origin: "I.T29"
+  -
+    module: "TauLib.BookI.Holomorphy.TauHolomorphic"
+    formalization: "formalized"
+    registry_id_origin: "I.D47"
+  -
+    module: "TauLib.BookI.Holomorphy.Thinness"
+    formalization: "formalized"
+    registry_id_origin: "I.T30"
+  -
+    module: "TauLib.BookI.Kernel.Axioms"
+    formalization: "formalized"
+    registry_id_origin: "I.D02"
+  -
+    module: "TauLib.BookI.Kernel.Diagonal"
+    formalization: "formalized"
+    registry_id_origin: "I.D03"
+  -
+    module: "TauLib.BookI.Kernel.Signature"
+    formalization: "formalized"
+    registry_id_origin: "I.D04"
+  -
+    module: "TauLib.BookI.Logic.Truth4"
+    formalization: "formalized"
+    registry_id_origin: "I.D21"
+  -
+    module: "TauLib.BookI.Orbit.Closure"
+    formalization: "formalized"
+    registry_id_origin: "I.T01"
+  -
+    module: "TauLib.BookI.Orbit.Generation"
+    formalization: "formalized"
+    registry_id_origin: "I.D05"
+  -
+    module: "TauLib.BookI.Orbit.Ladder"
+    formalization: "formalized"
+    registry_id_origin: "I.D06"
+  -
+    module: "TauLib.BookI.Polarity.BipolarAlgebra"
+    formalization: "formalized"
+    registry_id_origin: "I.D27"
+  -
+    module: "TauLib.BookI.Polarity.ChineseRemainder"
+    formalization: "formalized"
+    registry_id_origin: "I.D29"
+  -
+    module: "TauLib.BookI.Polarity.Lemniscate"
+    formalization: "formalized"
+    registry_id_origin: "I.D18"
+  -
+    module: "TauLib.BookI.Polarity.OmegaGerms"
+    formalization: "formalized"
+    registry_id_origin: "I.D25"
+  -
+    module: "TauLib.BookI.Polarity.Polarity"
+    formalization: "formalized"
+    registry_id_origin: "I.T05"
+  -
+    module: "TauLib.BookI.Polarity.PolarizedGerms"
+    formalization: "formalized"
+    registry_id_origin: "I.D26"
+  -
+    module: "TauLib.BookI.Polarity.Spectral"
+    formalization: "formalized"
+    registry_id_origin: "I.D19e"
+  -
+    module: "TauLib.BookI.Sets.CantorRefutation"
+    formalization: "formalized"
+    registry_id_origin: "I.T35"
+  -
+    module: "TauLib.BookI.Topos.EarnedArrows"
+    formalization: "formalized"
+    registry_id_origin: "I.D51"
+  -
+    module: "TauLib.BookI.Topos.Functors"
+    formalization: "formalized"
+    registry_id_origin: "I.D54"
+  -
+    module: "TauLib.BookII.CentralTheorem.BoundaryCharacters"
+    formalization: "formalized"
+    registry_id_origin: "II.D59"
+  -
+    module: "TauLib.BookII.CentralTheorem.CentralTheorem"
+    formalization: "formalized"
+    registry_id_origin: "II.T40"
+  -
+    module: "TauLib.BookII.CentralTheorem.ExtensionsOmegaGerms"
+    formalization: "formalized"
+    registry_id_origin: "II.T38"
+  -
+    module: "TauLib.BookII.CentralTheorem.HartogsExtension"
+    formalization: "formalized"
+    registry_id_origin: "II.T37"
+  -
+    module: "TauLib.BookII.CentralTheorem.YonedaApplied"
+    formalization: "formalized"
+    registry_id_origin: "II.T39"
+  -
+    module: "TauLib.BookII.Domains.Cylinders"
+    formalization: "formalized"
+    registry_id_origin: "II.D09"
+  -
+    module: "TauLib.BookII.Enrichment.SelfEnrichment"
+    formalization: "formalized"
+    registry_id_origin: "II.D53"
+  -
+    module: "TauLib.BookII.Enrichment.YonedaTheorem"
+    formalization: "formalized"
+    registry_id_origin: "II.T36"
+  -
+    module: "TauLib.BookII.Hartogs.BndLift"
+    formalization: "formalized"
+    registry_id_origin: "II.D36"
+  -
+    module: "TauLib.BookII.Hartogs.CalibratedSplitComplex"
+    formalization: "formalized"
+    registry_id_origin: "II.D35"
+  -
+    module: "TauLib.BookII.Hartogs.CanonicalBasis"
+    formalization: "formalized"
+    registry_id_origin: "II.D45"
+  -
+    module: "TauLib.BookII.Hartogs.EvolutionOperator"
+    formalization: "formalized"
+    registry_id_origin: "II.D37"
+  -
+    module: "TauLib.BookII.Hartogs.MutualDetermination"
+    formalization: "formalized"
+    registry_id_origin: "II.T27"
+  -
+    module: "TauLib.BookII.Hartogs.SheafCoherence"
+    formalization: "formalized"
+    registry_id_origin: "II.D47"
+  -
+    module: "TauLib.BookII.Interior.TauAdmissible"
+    formalization: "formalized"
+    registry_id_origin: "II.D02"
+  -
+    module: "TauLib.BookII.Regularity.CodeDecode"
+    formalization: "formalized"
+    registry_id_origin: "II.T35"
+  -
+    module: "TauLib.BookII.Regularity.IdempotentDecomposition"
+    formalization: "formalized"
+    registry_id_origin: "II.L07"
+  -
+    module: "TauLib.BookII.Regularity.PositiveRegularity"
+    formalization: "formalized"
+    registry_id_origin: "II.D49"
+  -
+    module: "TauLib.BookII.Regularity.PreYoneda"
+    formalization: "formalized"
+    registry_id_origin: "II.D50"
+  -
+    module: "TauLib.BookII.Regularity.ThreeLemmaChain"
+    formalization: "formalized"
+    registry_id_origin: "II.T33"
+  -
+    module: "TauLib.BookII.Topology.StoneSpace"
+    formalization: "formalized"
+    registry_id_origin: "II.D14"
+  -
+    module: "TauLib.BookII.Transcendentals.Circles"
+    formalization: "formalized"
+    registry_id_origin: "II.D26"
+  -
+    module: "TauLib.BookII.Transcendentals.EEarned"
+    formalization: "formalized"
+    registry_id_origin: "II.T23"
+  -
+    module: "TauLib.BookII.Transcendentals.IotaTauConfirmed"
+    formalization: "formalized"
+    registry_id_origin: "II.T25"
+  -
+    module: "TauLib.BookII.Transcendentals.JReplacesI"
+    formalization: "formalized"
+    registry_id_origin: "II.D33"
+  -
+    module: "TauLib.BookII.Transcendentals.Lines"
+    formalization: "formalized"
+    registry_id_origin: "II.T20"
+  -
+    module: "TauLib.BookII.Transcendentals.PiEarned"
+    formalization: "formalized"
+    registry_id_origin: "II.T22"
+  -
+    module: "TauLib.BookV.Thermodynamics.VacuumNoVoid"
+    formalization: "formalized"
+    registry_id_origin: "V.T65"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

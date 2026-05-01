@@ -43,8 +43,18 @@ right_rail:
     precision: "10–1000 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookV.Astrophysics.H0TensionLCDM"
+    formalization: "formalized"
+    registry_id_origin: "V.D319"
+  -
+    module: "TauLib.BookV.Cosmology.CMBSpectrum"
+    formalization: "formalized"
+    registry_id_origin: "V.T196"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

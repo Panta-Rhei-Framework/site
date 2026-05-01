@@ -43,8 +43,22 @@ right_rail:
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Kernel.Axioms"
+    formalization: "formalized"
+    registry_id_origin: "I.D02"
+  -
+    module: "TauLib.BookI.Kernel.Signature"
+    formalization: "formalized"
+    registry_id_origin: "I.D01"
+  -
+    module: "TauLib.BookV.FluidMacro.Turbulence"
+    formalization: "formalized"
+    registry_id_origin: "V.T249"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

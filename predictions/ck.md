@@ -43,8 +43,14 @@ right_rail:
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookV.FluidMacro.Turbulence"
+    formalization: "formalized"
+    registry_id_origin: "V.T250"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

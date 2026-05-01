@@ -43,8 +43,34 @@ right_rail:
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D06"
+  -
+    module: "TauLib.BookV.Astrophysics.EHTReread"
+    formalization: "formalized"
+    registry_id_origin: "V.T227"
+  -
+    module: "TauLib.BookV.GravityField.LinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.D52"
+  -
+    module: "TauLib.BookV.GravityField.NonlinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.D58"
+  -
+    module: "TauLib.BookV.GravityField.TOVStarBuilder"
+    formalization: "formalized"
+    registry_id_origin: "V.P20"
+  -
+    module: "TauLib.BookV.GravityField.TauEinsteinEq"
+    formalization: "formalized"
+    registry_id_origin: "V.D50"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---
