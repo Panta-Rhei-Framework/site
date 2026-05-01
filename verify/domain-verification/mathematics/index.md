@@ -33,6 +33,10 @@ glossary_term_ids:
   - MathG-K01-universe-postulate
   - MathG-T04-central-theorem
   - MathG-D04-yoneda-as-theorem
+  - MathG-T06-prime-polarity
+  - MathG-D06-truth4-logic
+  - MathG-T07-split-complex-forced
+  - MathG-D07-4-plus-1-sector
 ---
 
 {%- assign stats = site.data.verify.coverage_by_domain.by_domain.mathematics -%}

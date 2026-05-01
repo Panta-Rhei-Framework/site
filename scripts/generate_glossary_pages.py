@@ -77,7 +77,7 @@ DOMAIN_HEADLINES = {
     "physics":      "Physics Glossary — 95 entries, 6 categories",
     "life":         "Life Glossary — 78 entries, 7 categories",
     "metaphysics":  "Metaphysics Glossary — 68 entries, 6 categories",
-    "mathematics":  "Mathematics Glossary — 21 entries, 6 categories",
+    "mathematics":  "Mathematics Glossary — 41 entries, 7 categories",
 }
 
 

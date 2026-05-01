@@ -1,7 +1,7 @@
 {
   "generated": "2026-04-30",
   "domain": "mathematics",
-  "count": 21,
+  "count": 41,
   "entries": [
     {
       "id": "MathG-A01-bridge-functor",
@@ -406,6 +406,558 @@
         "lean_modules": [
           "TauLib.BookI.Coordinates.PrimeEnumeration",
           "TauLib.BookI.Coordinates.HyperfactIsomorphism"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D06-truth4-logic",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Truth4 Logic",
+      "tau_symbol": "T4",
+      "slug": "truth4-logic",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "Truth4 Logic (I.D21) is the τ-internal four-valued logic — extending classical bivalence (true/false) with the structural truth values reflecting the kernel's bipolar polarity. With 46 incoming edges, it is the second most-referenced kernel definition (after Prime Polarity T06) and the substrate for the framework's logical reasoning across τ-categorical content.",
+        "categorical_invariant": "A four-element distributive lattice T4 := {⊥, +, −, ⊤} with operations compatible with K3 composition and Prime Polarity (T06).",
+        "primary_registry_id": "I.D21",
+        "supporting_registry_ids": [
+          "I.T05",
+          "I.D20"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity — bipolar {+, −} structure"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D21",
+            "claim": "Truth4 Logic — extend bipolar to four values {⊥, +, −, ⊤}"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Logic.Truth4"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D07-4-plus-1-sector",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "4+1 Sector Decomposition",
+      "tau_symbol": "(D, A, B, C, ω)",
+      "slug": "4-plus-1-sector",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The 4+1 Sector Decomposition (III.D13) decomposes τ-categorical content into five canonical sectors: four 'analytic' sectors (D, A, B, C) plus the closed 'ω' sector. The 4+1 structure mirrors the Book V physics-side cascade (which uses the same 5 sectors for the constants ledger), making the decomposition the framework's structural bridge between Books I-III and Books IV-V.",
+        "categorical_invariant": "A canonical decomposition τ-Spec ≅ τ-D ⊕ τ-A ⊕ τ-B ⊕ τ-C ⊕ τ-ω with the ω-sector marked closed (no further decomposition).",
+        "primary_registry_id": "III.D13",
+        "supporting_registry_ids": [
+          "III.T14",
+          "I.K6"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K6",
+            "claim": "K6 closure — caps the decomposition at 5"
+          },
+          {
+            "step": 3,
+            "registry_id": "III.D13",
+            "claim": "4+1 Sector Decomposition"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookIII.Sectors.Decomposition"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D08-five-generators-def",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Five Generators (definition)",
+      "tau_symbol": "{g_1,…,g_5}",
+      "slug": "five-generators-def",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Five Generators definition (I.D01) names the five canonical generators of the τ-kernel as a single bundled definition, complementing the K01–K06 axiomatization of MathG-K02. While K02 frames the generators as a postulate (the kernel HAS five generators), D01 frames them as the definitional building blocks (the kernel IS what these five generate, closed under K6). With 28 incoming edges, the definitional perspective is the structural input to the orbit machinery (I.D08 rank-transfer) and the iteration ladder (I.D? — supporting).",
+        "categorical_invariant": "A 5-tuple (g_1, g_2, g_3, g_4, g_5) of distinguished morphisms in τ such that K1–K5 axiomatize their joint algebraic structure.",
+        "primary_registry_id": "I.D01",
+        "supporting_registry_ids": [
+          "I.K1"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K1",
+            "claim": "K1–K5 generator axioms"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D01",
+            "claim": "Five Generators bundled as a single definition"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Orbit.Generation"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D09-calibrated-split-complex",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Calibrated Split-Complex Codomain",
+      "tau_symbol": "ℝ[j]_cal",
+      "slug": "calibrated-split-complex",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Calibrated Split-Complex Codomain (II.D35) is the split-complex algebra ℝ[j]/(j²−1) equipped with the τ-categorical calibration — a graded structure on real and j-imaginary components reflecting the K1 strict order. With 25 incoming edges, it is the canonical codomain for τ-internal Hartogs extensions (T12) and Yoneda-as-theorem hom-objects (D04).",
+        "categorical_invariant": "ℝ[j]/(j²−1) equipped with a calibration grading c : ℝ[j] → ℕ₀ × ℕ₀ compatible with K1 strict order.",
+        "primary_registry_id": "II.D35",
+        "supporting_registry_ids": [
+          "I.D20",
+          "I.T10"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T10",
+            "claim": "Split-Complex Forced — j² = +1 algebra"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D20",
+            "claim": "Split-Complex Scalars — bare ℝ[j] structure"
+          },
+          {
+            "step": 4,
+            "registry_id": "II.D35",
+            "claim": "Calibrated Split-Complex Codomain — add τ-graded structure"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookII.Hartogs.CalibratedSplitComplex"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D10-split-complex-scalars",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Split-Complex Scalars",
+      "tau_symbol": "ℝ[j]",
+      "slug": "split-complex-scalars",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Split-Complex Scalars (I.D20) are the elements of ℝ[j]/(j²−1) treated as the canonical scalar algebra of the τ-framework. Every τ-categorical scalar — including ι_τ, the rank-(n, k) algebraic invariants, and the spectral trichotomy values — is a split-complex scalar. The algebra is forced by the Split-Complex Forced theorem (T07) and is unique up to canonical isomorphism.",
+        "categorical_invariant": "ℝ[j]/(j²−1) viewed as the underlying scalar algebra of the τ-categorical kernel.",
+        "primary_registry_id": "I.D20",
+        "supporting_registry_ids": [
+          "I.T10"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T10",
+            "claim": "Split-Complex Forced — boundary algebra ≅ ℝ[j]/(j²−1)"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D20",
+            "claim": "Split-Complex Scalars — bundled algebra as scalar codomain"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Boundary.SplitComplex"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D11-stage-k-cylinder",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Stage-k Cylinder",
+      "tau_symbol": "Cyl_k",
+      "slug": "stage-k-cylinder",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Stage-k Cylinder (II.D10) is the τ-categorical analogue of the cylinder construction at depth k along the K1 strict-order direction. It packages the rank-(n, k) data into a single τ-object whose homotopy and dynamics encode the depth-k content of the holomorphy tower (S02). With 18 incoming edges, it is the structural input to translation-arithmetic results in Book III.",
+        "categorical_invariant": "A τ-object Cyl_k parametrized by depth k ∈ ℕ, equipped with face maps to depths k-1 and k+1 compatible with K1 strict order.",
+        "primary_registry_id": "II.D10",
+        "supporting_registry_ids": [
+          "I.D08",
+          "I.D17"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.D08",
+            "claim": "Rank-transfer maps"
+          },
+          {
+            "step": 3,
+            "registry_id": "II.D10",
+            "claim": "Stage-k Cylinder — packaged τ-object at depth k"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookIII.Bridge.TranslationArith"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D12-progression-operator",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Progression Operator ρ",
+      "tau_symbol": "ρ",
+      "slug": "progression-operator",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Progression Operator ρ (I.D02) is the τ-internal advancement operator on kernel atoms — the canonical step that lifts content from one K1 strict-order position to the next. With 17 incoming edges, ρ is the framework's internal time/iteration mechanism: every K1-iterative construction in Books I-III is a finite ρ-composition.",
+        "categorical_invariant": "An endo-functor ρ : τ → τ satisfying the K1 strict-order successor property — for every kernel atom A, ρ(A) is the immediate K1-successor.",
+        "primary_registry_id": "I.D02",
+        "supporting_registry_ids": [
+          "I.K1"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K1",
+            "claim": "K1 strict order on kernel atoms"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D02",
+            "claim": "Progression Operator ρ — K1-successor as a functor"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Orbit.TooFew"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D13-diagonal-discipline",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Diagonal Discipline",
+      "tau_symbol": "Δ-disc",
+      "slug": "diagonal-discipline",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Diagonal Discipline (I.D03) is the τ-internal coherence rule: every τ-categorical morphism that factors through the diagonal Δ : A → A × A must commute with K3 composition along that factorization. With 17 incoming edges, it is the structural reason τ-internal Hartogs extensions (T12) are unique and the central theorem's categoricity check is well-posed.",
+        "categorical_invariant": "A coherence axiom asserting that diagonal-factoring morphisms in τ commute with K3 composition; this is what makes τ a 'disciplined' (∞, 1)-category.",
+        "primary_registry_id": "I.D03",
+        "supporting_registry_ids": [
+          "I.K3"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K3",
+            "claim": "K3 composition law"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D03",
+            "claim": "Diagonal Discipline — diagonal-factoring morphisms commute with K3"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.MetaLogic.LinearDiscipline"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D14-stone-space",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "τ-Stone Space",
+      "tau_symbol": "Stone_τ",
+      "slug": "stone-space",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The τ-Stone Space (II.D14) is the τ-categorical analogue of the classical Stone space — the labelled topological space underlying the K2 boundary axiom. It is the structural environment in which the algebraic lemniscate (T09) lives and on which Truth4 logic (D06) realizes as topological semantics. With 17 incoming edges, the τ-Stone Space is Books II's topological substrate.",
+        "categorical_invariant": "A compact totally-disconnected τ-categorical topological space equipped with the K2 labelling.",
+        "primary_registry_id": "II.D14",
+        "supporting_registry_ids": [
+          "I.K2",
+          "I.D21"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K2",
+            "claim": "K2 labelled boundary"
+          },
+          {
+            "step": 3,
+            "registry_id": "II.D14",
+            "claim": "τ-Stone Space — boundary as compact totally-disconnected τ-topological space"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookII.Topology.StoneSpace"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D15-boundary-ring",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "Boundary Ring and Scalars",
+      "tau_symbol": "B_τ",
+      "slug": "boundary-ring",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Boundary Ring (I.D19) is the τ-internal commutative ring on the K2 labelled boundary, with the split-complex scalars (D10) as its scalar algebra. The ring structure carries the polarity grading from Prime Polarity (T06) and is the substrate on which the master constant ι_τ (D01) and the central theorem invariant (T04) live. With 15 incoming edges, it is the most-referenced algebraic-substrate definition in Book I.",
+        "categorical_invariant": "A graded commutative ring B_τ with scalar algebra ℝ[j]/(j²−1), graded by Prime Polarity (T06), and equipped with the K2 boundary topology.",
+        "primary_registry_id": "I.D19",
+        "supporting_registry_ids": [
+          "I.D20",
+          "I.T05",
+          "I.D18"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.D20",
+            "claim": "Split-Complex Scalars — scalar algebra"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity — grading"
+          },
+          {
+            "step": 4,
+            "registry_id": "I.D19",
+            "claim": "Boundary Ring — graded commutative ring with split-complex scalars"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Polarity.H4BoundaryAlgebra"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-D16-ultrametric-distance",
+      "domain": "mathematics",
+      "category": "definition",
+      "name": "τ-Ultrametric Distance",
+      "tau_symbol": "d_τ",
+      "slug": "ultrametric-distance",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The τ-Ultrametric Distance (II.D13) is the τ-categorical metric on the boundary, satisfying the strong triangle inequality d(x,z) ≤ max(d(x,y), d(y,z)) — the ultrametric property. The distance is induced by the K1 strict order and the K2 boundary topology. With 14 incoming edges, it underlies Book II's domains and convergence machinery.",
+        "categorical_invariant": "A τ-categorical metric d_τ : B_τ × B_τ → ℝ_≥0 satisfying the ultrametric inequality.",
+        "primary_registry_id": "II.D13",
+        "supporting_registry_ids": [
+          "I.D19",
+          "II.D14"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.D19",
+            "claim": "Boundary Ring"
+          },
+          {
+            "step": 3,
+            "registry_id": "II.D14",
+            "claim": "τ-Stone Space (compact totally-disconnected)"
+          },
+          {
+            "step": 4,
+            "registry_id": "II.D13",
+            "claim": "τ-Ultrametric Distance — strong triangle inequality on the boundary"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookII.Domains.Ultrametric"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-L01-idempotent-decomposition",
+      "domain": "mathematics",
+      "category": "lemma",
+      "name": "Idempotent Decomposition Lemma",
+      "tau_symbol": "Idem-decomp",
+      "slug": "idempotent-decomposition",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Idempotent Decomposition Lemma (II.L07) is the Book-II structural result that every τ-categorical content decomposes orthogonally into idempotent components. With 19 incoming edges, it is the finest-grain decomposition principle in the framework — finer than the 4+1 sector decomposition (D07), since each sector itself decomposes into idempotents. The lemma is the basis for the spectrum functor's (S01) construction and underwrites the central theorem's (T04) categoricity argument.",
+        "categorical_invariant": "Every τ-object A decomposes as A = ⊕_i e_i · A where {e_i} is a complete orthogonal idempotent system in B_τ.",
+        "primary_registry_id": "II.L07",
+        "supporting_registry_ids": [
+          "I.D19",
+          "III.D13"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.D19",
+            "claim": "Boundary Ring B_τ — carries idempotents"
+          },
+          {
+            "step": 3,
+            "registry_id": "II.L07",
+            "claim": "Idempotent Decomposition Lemma — every τ-object decomposes orthogonally over B_τ idempotents"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookIII.Sectors.Decomposition"
         ]
       },
       "lean_coverage": null,
@@ -1063,6 +1615,417 @@
         "lean_modules": [
           "TauLib.BookII.Enrichment.EnrichmentLadder",
           "TauLib.BookII.Enrichment.YonedaTheorem"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T06-prime-polarity",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Prime Polarity Theorem",
+      "tau_symbol": "PP",
+      "slug": "prime-polarity",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Prime Polarity Theorem (I.T05) is the most-referenced kernel result in Books I–III: it classifies every prime p with respect to the τ-categorical kernel into a polarity sector, establishing the bipolar algebra (positive/negative polarity) on which Books III's spectral correspondence is built. With 47 incoming dependency edges, it is the single most load-bearing theorem of the framework's foundational layer.",
+        "categorical_invariant": "A canonical polarity classification function pol : Primes → {+1, −1} compatible with the K1 strict order and the K2 boundary structure.",
+        "primary_registry_id": "I.T05",
+        "supporting_registry_ids": [
+          "I.K1",
+          "I.D17",
+          "I.D18"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K1",
+            "claim": "K1 strict order on kernel atoms"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D18",
+            "claim": "Algebraic lemniscate — boundary structure on which polarity is read"
+          },
+          {
+            "step": 4,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity Theorem — every prime classified into ±-polarity sector"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Polarity.PrimePolarityClassifier",
+          "TauLib.BookI.Polarity.PrimePolarityIsomorphism"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T07-split-complex-forced",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Split-Complex Forced",
+      "tau_symbol": "SCF",
+      "slug": "split-complex-forced",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Split-Complex Forced theorem (I.T10) proves that the τ-kernel forces the boundary algebra to be the split-complex numbers ℝ[j]/(j²−1) — not the complex numbers ℝ[i]/(i²+1), not the dual numbers ℝ[ε]/(ε²). With 40 incoming edges, it is the structural reason every τ-categorical scalar lives in the split-complex world.",
+        "categorical_invariant": "An isomorphism between the τ-categorical boundary algebra and the split-complex numbers, forced by K2 + K6 + Prime Polarity (T06).",
+        "primary_registry_id": "I.T10",
+        "supporting_registry_ids": [
+          "I.T05",
+          "I.D18",
+          "I.D19",
+          "I.D20"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity Theorem — bipolar structure on Primes"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D18",
+            "claim": "Algebraic lemniscate"
+          },
+          {
+            "step": 4,
+            "registry_id": "I.T10",
+            "claim": "Split-Complex Forced — τ-boundary algebra ≅ split-complex ℝ[j]/(j²−1)"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Boundary.SplitComplex"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T08-crt-coherence",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "CRT Coherence Constraint",
+      "tau_symbol": "CRT-coh",
+      "slug": "crt-coherence",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The CRT Coherence Constraint (I.T18) is the τ-internal Chinese Remainder Theorem analogue: it asserts that the τ-categorical kernel decomposes coherently across coprime factor systems, with every τ-internal datum recoverable from its restrictions modulo coprime ideals. With 29 incoming edges, it underwrites the framework's modular-arithmetic substrate including Book III's CRT Decomposition Theorem (T10).",
+        "categorical_invariant": "A coherence isomorphism Tau ≅ ⊕_p Tau_p over coprime prime indexes, with restriction-glue structure compatible with K3 composition.",
+        "primary_registry_id": "I.T18",
+        "supporting_registry_ids": [
+          "I.T05",
+          "I.K1"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity — primes carry polarity structure"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.T18",
+            "claim": "CRT Coherence Constraint — τ decomposes coherently across coprime factors"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Polarity.ChineseRemainder",
+          "TauLib.BookI.Polarity.CRTBasis"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T09-algebraic-lemniscate",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Algebraic Lemniscate",
+      "tau_symbol": "Lem",
+      "slug": "algebraic-lemniscate",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Algebraic Lemniscate (I.D18) is the canonical 1-dimensional boundary structure on the τ-categorical kernel — a real-algebraic curve with two crossing branches (the lemniscate of Bernoulli, x² − y² = (x²+y²)²). Within τ, the lemniscate is the unique boundary geometry compatible with the K2 labelled-boundary axiom and the Split-Complex Forced theorem. With 28 incoming edges, it is the geometric substrate for Book I's holomorphy tower (S02) and Book III's spectral correspondence (A02).",
+        "categorical_invariant": "A real-algebraic curve Lem ⊂ τ-boundary equipped with the {+1, −1} polarity grading and the j² = +1 split-complex action.",
+        "primary_registry_id": "I.D18",
+        "supporting_registry_ids": [
+          "I.K2",
+          "I.T05",
+          "I.T10"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.K2",
+            "claim": "K2 labelled boundary"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.T10",
+            "claim": "Split-Complex Forced — j² = +1 algebra"
+          },
+          {
+            "step": 4,
+            "registry_id": "I.D18",
+            "claim": "Algebraic Lemniscate — canonical boundary curve in τ"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Polarity.Lemniscate"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T10-crt-decomposition",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "CRT Decomposition Theorem",
+      "tau_symbol": "CRT-decomp",
+      "slug": "crt-decomposition",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The CRT Decomposition Theorem (III.T10) generalizes the Book I CRT Coherence Constraint (T08) to spectral data: τ-spectral content decomposes coherently across coprime adelic places, with every τ-spectral datum recoverable from its place-wise restrictions. With 20 incoming edges, it underwrites the adelic structure that Grand GRH (A03) operates on.",
+        "categorical_invariant": "An adelic decomposition isomorphism τ-Spec ≅ ⊗_v τ-Spec_v over places v of a number field, restricted to coprime adelic data.",
+        "primary_registry_id": "III.T10",
+        "supporting_registry_ids": [
+          "I.T18",
+          "III.D31"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T18",
+            "claim": "Book I CRT Coherence Constraint — kernel decomposition over coprimes"
+          },
+          {
+            "step": 3,
+            "registry_id": "III.T10",
+            "claim": "CRT Decomposition Theorem — adelic spectral analogue (this entry)"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookIII.Spectral.CRT",
+          "TauLib.BookIII.Spectral.Adeles"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T11-mutual-determination",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Mutual Determination (5-Way Equivalence)",
+      "tau_symbol": "5≡",
+      "slug": "mutual-determination",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Mutual Determination theorem (II.T27) is the Book II equivalence statement: five distinct presentations of τ-categorical content — boundary, interior, spectrum, lemniscate, and split-complex algebra — are mutually determining. Knowing any one of the five determines the other four. With 19 incoming edges, it is the framework's structural unification: the same τ-content is visible from five different angles, and the angles are interchangeable.",
+        "categorical_invariant": "A 5-way equivalence τ-Boundary ≃ τ-Interior ≃ τ-Spec ≃ τ-Lem ≃ τ-SplitComplex.",
+        "primary_registry_id": "II.T27",
+        "supporting_registry_ids": [
+          "I.T10",
+          "I.D18",
+          "III.D81"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T10",
+            "claim": "Split-Complex Forced — algebra side"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D18",
+            "claim": "Algebraic Lemniscate — geometry side"
+          },
+          {
+            "step": 4,
+            "registry_id": "III.D81",
+            "claim": "Spectrum functor — spectrum side"
+          },
+          {
+            "step": 5,
+            "registry_id": "II.T27",
+            "claim": "Mutual Determination — 5-way equivalence (this entry)"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookII.Mirror.Inventory",
+          "TauLib.BookIII.Doors.SplitComplexZeta"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T12-global-hartogs",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Global Hartogs Extension",
+      "tau_symbol": "Hartogs",
+      "slug": "global-hartogs",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Global Hartogs Extension theorem (I.T31) is the τ-categorical analogue of the classical Hartogs extension principle, lifted to the holomorphy tower (S02). It asserts that every τ-internal holomorphic function defined on a punctured τ-domain extends uniquely to the full domain. With 18 incoming edges, it is the structural input to the Yoneda-as-theorem internalization (D04) and Book III's spectral correspondence (A02).",
+        "categorical_invariant": "A unique-extension theorem for τ-internal holomorphic functions across the holomorphy tower's colimit.",
+        "primary_registry_id": "I.T31",
+        "supporting_registry_ids": [
+          "I.D96",
+          "I.D47"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.D96",
+            "claim": "Holomorphy tower — tower of holomorphic refinements"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D47",
+            "claim": "τ-Holomorphic function — well-defined on tower levels"
+          },
+          {
+            "step": 4,
+            "registry_id": "I.T31",
+            "claim": "Global Hartogs Extension — every punctured-domain holomorphic function extends uniquely"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookI.Holomorphy.GlobalHartogs",
+          "TauLib.BookI.Holomorphy.BoundaryInterior"
+        ]
+      },
+      "lean_coverage": null,
+      "related_glossary_entries": [],
+      "referenced_by": [],
+      "tags": [],
+      "version": {}
+    },
+    {
+      "id": "MathG-T13-spectral-trichotomy",
+      "domain": "mathematics",
+      "category": "theorem",
+      "name": "Spectral Trichotomy Lemma",
+      "tau_symbol": "(B,I,S)",
+      "slug": "spectral-trichotomy",
+      "status": "canonical",
+      "tau_definition": {
+        "summary": "The Spectral Trichotomy Lemma (III.T14) classifies every τ-spectral datum into one of exactly three sectors: B (boundary-type), I (interior-type), or S (singular-type). The trichotomy is the structural input to Book III's spectral correspondence (A02), the bridge functor (A01), and Grand GRH (A03). With 16 incoming edges, it is the framework's spectral-side classification scheme.",
+        "categorical_invariant": "A canonical surjection τ-Spec → {B, I, S} compatible with the spectrum functor (S01) and the lemniscate boundary's polarity grading.",
+        "primary_registry_id": "III.T14",
+        "supporting_registry_ids": [
+          "III.D81",
+          "I.D18",
+          "I.T05"
+        ]
+      },
+      "tau_derivation": {
+        "chain": [
+          {
+            "step": 1,
+            "registry_id": "I.K0",
+            "claim": "Universe Postulate"
+          },
+          {
+            "step": 2,
+            "registry_id": "I.T05",
+            "claim": "Prime Polarity — bipolar structure"
+          },
+          {
+            "step": 3,
+            "registry_id": "I.D18",
+            "claim": "Algebraic Lemniscate — boundary geometry"
+          },
+          {
+            "step": 4,
+            "registry_id": "III.D81",
+            "claim": "Spectrum functor — Spec : τ → τ-Spec"
+          },
+          {
+            "step": 5,
+            "registry_id": "III.T14",
+            "claim": "Spectral Trichotomy — Spec(A) ∈ {B, I, S}"
+          }
+        ],
+        "lean_modules": [
+          "TauLib.BookIII.Spectral.Trichotomy"
         ]
       },
       "lean_coverage": null,

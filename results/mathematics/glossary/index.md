@@ -1,13 +1,13 @@
 ---
 layout: "program-doc"
-title: "Mathematics Glossary — 21 entries, 6 categories"
+title: "Mathematics Glossary — 41 entries, 7 categories"
 permalink: "/results/mathematics/glossary/"
 lane: "results"
 v2_lane: "results"
 type: "Glossary Index"
 status: "Canonical"
 domain: "mathematics"
-summary_short: "Glossary for the τ-framework's mathematics domain — 21 canonical entries grouped by category."
+summary_short: "Glossary for the τ-framework's mathematics domain — 41 canonical entries grouped by category."
 generated_from: "corpus/mathematics-glossary"
 projection_version: "v0.1"
 do_not_edit: true
@@ -45,7 +45,7 @@ The 21-entry mathematics glossary covers the τ-framework's foundational kernel 
   </li>
 </ul>
 
-## Definition <span class="muted">(5)</span>
+## Definition <span class="muted">(16)</span>
 
 <ul class="v2-grid v2-card-list">
   <li>
@@ -81,6 +81,95 @@ The 21-entry mathematics glossary covers the τ-framework's foundational kernel 
       <h3><a href="{{ '/results/mathematics/glossary/MathG-D05-rank-coordinates/' | relative_url }}">Rank coordinates (n, k) <code>(n, k)</code></a></h3>
       <p>Rank coordinates (n, k) are the indexing scheme used throughout Books I–II to locate τ-categorical content along two structural axes: n is the prime-rank index (which prime-numb…</p>
       <p class="muted"><code>MathG-D05-rank-coordinates</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D06-truth4-logic/' | relative_url }}">Truth4 Logic <code>T4</code></a></h3>
+      <p>Truth4 Logic (I.D21) is the τ-internal four-valued logic — extending classical bivalence (true/false) with the structural truth values reflecting the kernel's bipolar polarity. …</p>
+      <p class="muted"><code>MathG-D06-truth4-logic</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D07-4-plus-1-sector/' | relative_url }}">4+1 Sector Decomposition <code>(D, A, B, C, ω)</code></a></h3>
+      <p>The 4+1 Sector Decomposition (III.D13) decomposes τ-categorical content into five canonical sectors: four 'analytic' sectors (D, A, B, C) plus the closed 'ω' sector. The 4+1 str…</p>
+      <p class="muted"><code>MathG-D07-4-plus-1-sector</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D08-five-generators-def/' | relative_url }}">Five Generators (definition) <code>{g_1,…,g_5}</code></a></h3>
+      <p>The Five Generators definition (I.D01) names the five canonical generators of the τ-kernel as a single bundled definition, complementing the K01–K06 axiomatization of MathG-K02.…</p>
+      <p class="muted"><code>MathG-D08-five-generators-def</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D09-calibrated-split-complex/' | relative_url }}">Calibrated Split-Complex Codomain <code>ℝ[j]_cal</code></a></h3>
+      <p>The Calibrated Split-Complex Codomain (II.D35) is the split-complex algebra ℝ[j]/(j²−1) equipped with the τ-categorical calibration — a graded structure on real and j-imaginary …</p>
+      <p class="muted"><code>MathG-D09-calibrated-split-complex</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D10-split-complex-scalars/' | relative_url }}">Split-Complex Scalars <code>ℝ[j]</code></a></h3>
+      <p>The Split-Complex Scalars (I.D20) are the elements of ℝ[j]/(j²−1) treated as the canonical scalar algebra of the τ-framework. Every τ-categorical scalar — including ι_τ, the ran…</p>
+      <p class="muted"><code>MathG-D10-split-complex-scalars</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D11-stage-k-cylinder/' | relative_url }}">Stage-k Cylinder <code>Cyl_k</code></a></h3>
+      <p>The Stage-k Cylinder (II.D10) is the τ-categorical analogue of the cylinder construction at depth k along the K1 strict-order direction. It packages the rank-(n, k) data into a …</p>
+      <p class="muted"><code>MathG-D11-stage-k-cylinder</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D12-progression-operator/' | relative_url }}">Progression Operator ρ <code>ρ</code></a></h3>
+      <p>The Progression Operator ρ (I.D02) is the τ-internal advancement operator on kernel atoms — the canonical step that lifts content from one K1 strict-order position to the next. …</p>
+      <p class="muted"><code>MathG-D12-progression-operator</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D13-diagonal-discipline/' | relative_url }}">Diagonal Discipline <code>Δ-disc</code></a></h3>
+      <p>The Diagonal Discipline (I.D03) is the τ-internal coherence rule: every τ-categorical morphism that factors through the diagonal Δ : A → A × A must commute with K3 composition a…</p>
+      <p class="muted"><code>MathG-D13-diagonal-discipline</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D14-stone-space/' | relative_url }}">τ-Stone Space <code>Stone_τ</code></a></h3>
+      <p>The τ-Stone Space (II.D14) is the τ-categorical analogue of the classical Stone space — the labelled topological space underlying the K2 boundary axiom. It is the structural env…</p>
+      <p class="muted"><code>MathG-D14-stone-space</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D15-boundary-ring/' | relative_url }}">Boundary Ring and Scalars <code>B_τ</code></a></h3>
+      <p>The Boundary Ring (I.D19) is the τ-internal commutative ring on the K2 labelled boundary, with the split-complex scalars (D10) as its scalar algebra. The ring structure carries …</p>
+      <p class="muted"><code>MathG-D15-boundary-ring</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-D16-ultrametric-distance/' | relative_url }}">τ-Ultrametric Distance <code>d_τ</code></a></h3>
+      <p>The τ-Ultrametric Distance (II.D13) is the τ-categorical metric on the boundary, satisfying the strong triangle inequality d(x,z) ≤ max(d(x,y), d(y,z)) — the ultrametric propert…</p>
+      <p class="muted"><code>MathG-D16-ultrametric-distance</code></p>
+    </article>
+  </li>
+</ul>
+
+## Lemma <span class="muted">(1)</span>
+
+<ul class="v2-grid v2-card-list">
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-L01-idempotent-decomposition/' | relative_url }}">Idempotent Decomposition Lemma <code>Idem-decomp</code></a></h3>
+      <p>The Idempotent Decomposition Lemma (II.L07) is the Book-II structural result that every τ-categorical content decomposes orthogonally into idempotent components. With 19 incomin…</p>
+      <p class="muted"><code>MathG-L01-idempotent-decomposition</code></p>
     </article>
   </li>
 </ul>
@@ -156,7 +245,7 @@ The 21-entry mathematics glossary covers the τ-framework's foundational kernel 
   </li>
 </ul>
 
-## Theorem <span class="muted">(5)</span>
+## Theorem <span class="muted">(13)</span>
 
 <ul class="v2-grid v2-card-list">
   <li>
@@ -192,6 +281,62 @@ The 21-entry mathematics glossary covers the τ-framework's foundational kernel 
       <h3><a href="{{ '/results/mathematics/glossary/MathG-T05-yoneda-enrichment/' | relative_url }}">Yoneda enrichment ladder <code>Y_{enrich}</code></a></h3>
       <p>The Yoneda enrichment ladder (II.T36) is the Book-II theorem that lifts the pre-Yoneda embedding (D04 / II.D50) to a full self-enrichment of τ. The ladder exhibits a sequence of…</p>
       <p class="muted"><code>MathG-T05-yoneda-enrichment</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T06-prime-polarity/' | relative_url }}">Prime Polarity Theorem <code>PP</code></a></h3>
+      <p>The Prime Polarity Theorem (I.T05) is the most-referenced kernel result in Books I–III: it classifies every prime p with respect to the τ-categorical kernel into a polarity sect…</p>
+      <p class="muted"><code>MathG-T06-prime-polarity</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T07-split-complex-forced/' | relative_url }}">Split-Complex Forced <code>SCF</code></a></h3>
+      <p>The Split-Complex Forced theorem (I.T10) proves that the τ-kernel forces the boundary algebra to be the split-complex numbers ℝ[j]/(j²−1) — not the complex numbers ℝ[i]/(i²+1), …</p>
+      <p class="muted"><code>MathG-T07-split-complex-forced</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T08-crt-coherence/' | relative_url }}">CRT Coherence Constraint <code>CRT-coh</code></a></h3>
+      <p>The CRT Coherence Constraint (I.T18) is the τ-internal Chinese Remainder Theorem analogue: it asserts that the τ-categorical kernel decomposes coherently across coprime factor s…</p>
+      <p class="muted"><code>MathG-T08-crt-coherence</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T09-algebraic-lemniscate/' | relative_url }}">Algebraic Lemniscate <code>Lem</code></a></h3>
+      <p>The Algebraic Lemniscate (I.D18) is the canonical 1-dimensional boundary structure on the τ-categorical kernel — a real-algebraic curve with two crossing branches (the lemniscat…</p>
+      <p class="muted"><code>MathG-T09-algebraic-lemniscate</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T10-crt-decomposition/' | relative_url }}">CRT Decomposition Theorem <code>CRT-decomp</code></a></h3>
+      <p>The CRT Decomposition Theorem (III.T10) generalizes the Book I CRT Coherence Constraint (T08) to spectral data: τ-spectral content decomposes coherently across coprime adelic pl…</p>
+      <p class="muted"><code>MathG-T10-crt-decomposition</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T11-mutual-determination/' | relative_url }}">Mutual Determination (5-Way Equivalence) <code>5≡</code></a></h3>
+      <p>The Mutual Determination theorem (II.T27) is the Book II equivalence statement: five distinct presentations of τ-categorical content — boundary, interior, spectrum, lemniscate, …</p>
+      <p class="muted"><code>MathG-T11-mutual-determination</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T12-global-hartogs/' | relative_url }}">Global Hartogs Extension <code>Hartogs</code></a></h3>
+      <p>The Global Hartogs Extension theorem (I.T31) is the τ-categorical analogue of the classical Hartogs extension principle, lifted to the holomorphy tower (S02). It asserts that ev…</p>
+      <p class="muted"><code>MathG-T12-global-hartogs</code></p>
+    </article>
+  </li>
+  <li>
+    <article class="v2-tile">
+      <h3><a href="{{ '/results/mathematics/glossary/MathG-T13-spectral-trichotomy/' | relative_url }}">Spectral Trichotomy Lemma <code>(B,I,S)</code></a></h3>
+      <p>The Spectral Trichotomy Lemma (III.T14) classifies every τ-spectral datum into one of exactly three sectors: B (boundary-type), I (interior-type), or S (singular-type). The tric…</p>
+      <p class="muted"><code>MathG-T13-spectral-trichotomy</code></p>
     </article>
   </li>
 </ul>
