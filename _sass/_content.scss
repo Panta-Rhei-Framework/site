@@ -236,6 +236,61 @@ a.chip-link, a.chip.chip-link {
 .chip-cascade-life-cascade { background: #f3e8d4; color: #6b4a14; border-color: #d8c5a0; }
 .chip-cascade-metaphysics-architecture { background: #e8e2ee; color: #4d3a6b; border-color: #c2b5d4; }
 
+// Verify-Lane v3.1 — verify-page badges (Lean coverage / mode / bridge / scope)
+.chip-row-verify {
+  margin-top: 14px;
+}
+
+.chip-verify-coverage {
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: #e9eef5;
+  color: #163e64;
+  border-color: #c9d4e3;
+}
+
+.chip-verify-mode {
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+.chip-verify-mode-formal {
+  background: var(--semantic-success-soft);
+  color: var(--semantic-success);
+  border-color: rgba(47, 111, 78, 0.22);
+}
+.chip-verify-mode-empirical {
+  background: var(--semantic-info-soft);
+  color: var(--semantic-info);
+  border-color: rgba(45, 110, 159, 0.22);
+}
+
+.chip-verify-bridge {
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.chip-verify-bridge-strong {
+  background: var(--semantic-success-soft);
+  color: var(--semantic-success);
+  border-color: rgba(47, 111, 78, 0.32);
+}
+.chip-verify-bridge-moderate {
+  background: var(--semantic-info-soft);
+  color: var(--semantic-info);
+  border-color: rgba(45, 110, 159, 0.32);
+}
+.chip-verify-bridge-emerging {
+  background: var(--semantic-warning-soft);
+  color: var(--semantic-warning);
+  border-color: rgba(168, 121, 42, 0.32);
+}
+
+.chip-verify-scope {
+  font-size: 0.72rem;
+  background: #ede9e1;
+  color: #5f4e2a;
+  border-color: #d4c5a5;
+}
+
 // Glossary cross-link chip — domain-tinted
 .chip-glossary {
   font-size: 0.74rem;

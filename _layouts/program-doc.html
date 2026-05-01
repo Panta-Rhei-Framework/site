@@ -29,6 +29,17 @@ layout: default
   {% if page.summary_short %}
   <p>{{ page.summary_short }}</p>
   {% endif %}
+
+  {%- comment -%}
+    Verify-Lane v3.1 — render Lean coverage / scope / verification-mode /
+    bridge-status badges on verify pages. Gated on page.verify_type so only
+    pages that opt in (domain_verification, predictions_falsification,
+    release_manifest) get the chip row.
+  {%- endcomment -%}
+  {% if page.verify_type %}
+    {% include verify-page-badges.html %}
+  {% endif %}
+
   {% if page.hero_ctas %}
   <div class="btn-group">
     {% for cta in page.hero_ctas %}
