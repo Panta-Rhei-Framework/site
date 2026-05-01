@@ -93,7 +93,7 @@ When a glossary entry's `related_glossary_entries` references a term in a differ
 
 ## How registry IDs work
 
-Every τ-categorical commitment has a registry ID like `I.K0` (Book I, axiom K0) or `IV.D11` (Book IV, definition 11). Glossary entries' `primary_registry_id` field anchors them to a specific registry item. The full registry has 4,139 public objects across 7 books.
+Every τ-categorical commitment has a registry ID like `I.K0` (Book I, axiom K0) or `IV.D11` (Book IV, definition 11). Glossary entries' `primary_registry_id` field anchors them to a specific registry item. The full registry has 4,547 public objects across 7 books.
 
 ## Read next
 
