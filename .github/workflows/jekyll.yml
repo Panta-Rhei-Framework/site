@@ -68,15 +68,24 @@ jobs:
           chmod +x .github/scripts/smoke-test.sh
           .github/scripts/smoke-test.sh _site
 
-      # ── Dead-link audit (html-proofer, internal-only) ──────
-      # Catches broken internal links in the built HTML. Each
-      # currently-known stale link is listed in the script's
-      # IGNORE_URLS; CI fails when a NEW broken link appears.
-      # Runs in ~90s against the full 7,400-page site.
-      - name: Dead-link audit
-        run: |
-          chmod +x .github/scripts/link-check.sh
-          .github/scripts/link-check.sh _site
+      # ── Dead-link audit (DISABLED 2026-05-01) ──────────────
+      # The html-proofer dead-link audit ran ~90s on the full
+      # ~7,400-page site and added 1.5–2 minutes to every PR's
+      # critical path on top of the Jekyll build (often blocked
+      # behind the `concurrency: pages` queue). It was removed
+      # to keep PR turnaround fast during the v3 sprint cadence.
+      #
+      # The script lives at .github/scripts/link-check.sh and
+      # can be re-enabled by uncommenting the block below or
+      # invoking it manually against a local _site/ via
+      # `.github/scripts/link-check.sh _site`. A periodic
+      # standalone link-audit workflow is the right replacement
+      # if dead-link regression coverage is needed.
+      #
+      # - name: Dead-link audit
+      #   run: |
+      #     chmod +x .github/scripts/link-check.sh
+      #     .github/scripts/link-check.sh _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
