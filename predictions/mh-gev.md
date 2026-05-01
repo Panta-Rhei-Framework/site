@@ -43,8 +43,30 @@ right_rail:
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookIV.Arena.Tau3Arena"
+    formalization: "formalized"
+    registry_id_origin: "IV.D255"
+  -
+    module: "TauLib.BookIV.Electroweak.TauHiggs2"
+    formalization: "formalized"
+    registry_id_origin: "IV.T166"
+  -
+    module: "TauLib.BookIV.Electroweak.WeinbergNLO"
+    formalization: "formalized"
+    registry_id_origin: "IV.T140"
+  -
+    module: "TauLib.BookIV.QuantumMechanics.HilbertSpace"
+    formalization: "formalized"
+    registry_id_origin: "IV.D61"
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D01"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

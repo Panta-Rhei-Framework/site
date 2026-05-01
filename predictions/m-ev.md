@@ -43,8 +43,34 @@ right_rail:
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Polarity.BipolarAlgebra"
+    formalization: "formalized"
+    registry_id_origin: "I.D27"
+  -
+    module: "TauLib.BookI.Polarity.Lemniscate"
+    formalization: "formalized"
+    registry_id_origin: "I.D18"
+  -
+    module: "TauLib.BookI.Polarity.Polarity"
+    formalization: "formalized"
+    registry_id_origin: "I.T05"
+  -
+    module: "TauLib.BookI.Polarity.PolarizedGerms"
+    formalization: "formalized"
+    registry_id_origin: "I.D26"
+  -
+    module: "TauLib.BookIV.Electroweak.MajoranaStructure"
+    formalization: "formalized"
+    registry_id_origin: "IV.T146"
+  -
+    module: "TauLib.BookIV.Electroweak.NeutrinoMode"
+    formalization: "formalized"
+    registry_id_origin: "V.T175"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

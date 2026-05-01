@@ -43,8 +43,18 @@ right_rail:
     precision: "1–5%"
     scope: "Conjectural"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookIV.Arena.Tau3Arena"
+    formalization: "formalized"
+    registry_id_origin: "IV.D253"
+  -
+    module: "TauLib.BookIV.Particles.ThreeGenerations"
+    formalization: "formalized"
+    registry_id_origin: "IV.T175"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

@@ -43,8 +43,114 @@ right_rail:
     precision: "1–5%"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Boundary.Iota"
+    formalization: "formalized"
+    registry_id_origin: "I.D34"
+  -
+    module: "TauLib.BookI.Boundary.Ring"
+    formalization: "formalized"
+    registry_id_origin: "I.D19"
+  -
+    module: "TauLib.BookI.Boundary.SplitComplex"
+    formalization: "formalized"
+    registry_id_origin: "I.D20"
+  -
+    module: "TauLib.BookI.Coordinates.ABCD"
+    formalization: "formalized"
+    registry_id_origin: "I.D17"
+  -
+    module: "TauLib.BookI.Coordinates.Descent"
+    formalization: "formalized"
+    registry_id_origin: "I.L04"
+  -
+    module: "TauLib.BookI.Coordinates.Hyperfact"
+    formalization: "formalized"
+    registry_id_origin: "I.T04"
+  -
+    module: "TauLib.BookI.Coordinates.NoTie"
+    formalization: "formalized"
+    registry_id_origin: "I.L03"
+  -
+    module: "TauLib.BookI.Coordinates.NormalForm"
+    formalization: "formalized"
+    registry_id_origin: "I.D16"
+  -
+    module: "TauLib.BookI.Coordinates.TowerAtoms"
+    formalization: "formalized"
+    registry_id_origin: "I.D19c"
+  -
+    module: "TauLib.BookI.Denotation.Arithmetic"
+    formalization: "formalized"
+    registry_id_origin: "I.P05"
+  -
+    module: "TauLib.BookI.Denotation.Order"
+    formalization: "formalized"
+    registry_id_origin: "I.P07"
+  -
+    module: "TauLib.BookI.Denotation.TauIdx"
+    formalization: "formalized"
+    registry_id_origin: "I.D07"
+  -
+    module: "TauLib.BookI.Kernel.Axioms"
+    formalization: "formalized"
+    registry_id_origin: "I.K3"
+  -
+    module: "TauLib.BookI.Orbit.Closure"
+    formalization: "formalized"
+    registry_id_origin: "I.T01"
+  -
+    module: "TauLib.BookI.Orbit.Generation"
+    formalization: "formalized"
+    registry_id_origin: "I.D05"
+  -
+    module: "TauLib.BookI.Polarity.BipolarAlgebra"
+    formalization: "formalized"
+    registry_id_origin: "I.D27"
+  -
+    module: "TauLib.BookI.Polarity.Lemniscate"
+    formalization: "formalized"
+    registry_id_origin: "I.D18"
+  -
+    module: "TauLib.BookI.Polarity.OmegaGerms"
+    formalization: "formalized"
+    registry_id_origin: "I.D25"
+  -
+    module: "TauLib.BookI.Polarity.Polarity"
+    formalization: "formalized"
+    registry_id_origin: "I.T05"
+  -
+    module: "TauLib.BookI.Polarity.PolarizedGerms"
+    formalization: "formalized"
+    registry_id_origin: "I.D26"
+  -
+    module: "TauLib.BookIII.Sectors.Decomposition"
+    formalization: "formalized"
+    registry_id_origin: "III.D13"
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D04"
+  -
+    module: "TauLib.BookV.Astrophysics.RotationCurves"
+    formalization: "formalized"
+    registry_id_origin: "V.D258"
+  -
+    module: "TauLib.BookV.GravityField.NonlinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.T37"
+  -
+    module: "TauLib.BookV.GravityField.TauSchwarzschild"
+    formalization: "formalized"
+    registry_id_origin: "V.D63"
+  -
+    module: "TauLib.BookV.Temporal.MacroReadout"
+    formalization: "formalized"
+    registry_id_origin: "V.D31"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

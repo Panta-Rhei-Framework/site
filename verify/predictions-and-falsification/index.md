@@ -49,6 +49,34 @@ Publication artifacts such as the Numerical Physics Ledger may package these sur
 
 Predictions and falsification are inspection routes for empirical claims. They complement formal proof checking and bridge adequacy; they do not replace them.
 
+## Lean linkage on every prediction
+
+Every public prediction now carries an auto-derived **Lean-modules linkage**: the set of TauLib modules in its registry-`depends_on` closure with `lean.formalization` in `{formalized, skeleton}`. The linkage is visible directly on each prediction's detail page (e.g. [Three generations of fermions]({{ '/predictions/rm-gen-3/' | relative_url }})) as a chip-row of GitHub-linked module names.
+
+{% assign predictions = site.data.predictions.predictions %}
+{% assign covered = 0 %}
+{% for p in predictions %}{% if p.lean_modules.size > 0 %}{% assign covered = covered | plus: 1 %}{% endif %}{% endfor %}
+
+<section markdown="0">
+<div class="v2-grid verify-hub-stats">
+  <div class="v2-tile v2-tile-physics">
+    <span class="eyebrow">Predictions</span>
+    <h3>{{ predictions.size }}</h3>
+    <p>Public predictions on the accountability surface.</p>
+  </div>
+  <div class="v2-tile v2-tile-physics">
+    <span class="eyebrow">Lean-linked</span>
+    <h3>{{ covered }} / {{ predictions.size }}</h3>
+    <p>Predictions whose derivation chain reaches at least one formalized or skeleton TauLib module.</p>
+  </div>
+  <div class="v2-tile v2-tile-physics">
+    <span class="eyebrow">Source</span>
+    <h3>Auto-derived</h3>
+    <p>The linkage is computed at corpus export time by walking the registry's <code>depends_on</code> graph; no hand-curation of paths.</p>
+  </div>
+</div>
+</section>
+
 ## From Kernel to Measurement
 
 {% include scientific-plate.html id="plate-13-kernel-to-measurement" class="scientific-plate--measurement-bridge" loading="lazy" %}

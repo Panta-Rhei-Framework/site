@@ -43,8 +43,62 @@ right_rail:
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Coordinates.ABCD"
+    formalization: "formalized"
+    registry_id_origin: "I.D17"
+  -
+    module: "TauLib.BookI.Coordinates.NormalForm"
+    formalization: "formalized"
+    registry_id_origin: "I.D16"
+  -
+    module: "TauLib.BookI.Coordinates.Primes"
+    formalization: "formalized"
+    registry_id_origin: "I.T09"
+  -
+    module: "TauLib.BookI.Coordinates.TowerAtoms"
+    formalization: "formalized"
+    registry_id_origin: "I.D19c"
+  -
+    module: "TauLib.BookI.Kernel.Axioms"
+    formalization: "formalized"
+    registry_id_origin: "I.D02"
+  -
+    module: "TauLib.BookI.Kernel.Signature"
+    formalization: "formalized"
+    registry_id_origin: "I.D01"
+  -
+    module: "TauLib.BookIII.Sectors.Decomposition"
+    formalization: "formalized"
+    registry_id_origin: "III.D13"
+  -
+    module: "TauLib.BookIII.Sectors.ParityBridge"
+    formalization: "formalized"
+    registry_id_origin: "III.T08"
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D05"
+  -
+    module: "TauLib.BookV.Prologue.ExportContract"
+    formalization: "formalized"
+    registry_id_origin: "V.D14"
+  -
+    module: "TauLib.BookV.Prologue.HermeticPrinciple"
+    formalization: "formalized"
+    registry_id_origin: "V.T06"
+  -
+    module: "TauLib.BookV.Temporal.BaseCircle"
+    formalization: "formalized"
+    registry_id_origin: "V.D17"
+  -
+    module: "TauLib.BookV.Temporal.TemporalIgnition"
+    formalization: "formalized"
+    registry_id_origin: "V.T11"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

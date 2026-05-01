@@ -43,8 +43,38 @@ right_rail:
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookIII.Sectors.BoundaryCharacters"
+    formalization: "formalized"
+    registry_id_origin: "III.D11"
+  -
+    module: "TauLib.BookIII.Sectors.Decomposition"
+    formalization: "formalized"
+    registry_id_origin: "III.D13"
+  -
+    module: "TauLib.BookIII.Sectors.LanglandsReflection"
+    formalization: "formalized"
+    registry_id_origin: "III.T06"
+  -
+    module: "TauLib.BookIII.Sectors.ParityBridge"
+    formalization: "formalized"
+    registry_id_origin: "III.T08"
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D04"
+  -
+    module: "TauLib.BookV.GravityField.NonlinearEinstein"
+    formalization: "formalized"
+    registry_id_origin: "V.T37"
+  -
+    module: "TauLib.BookV.GravityField.TauSchwarzschild"
+    formalization: "formalized"
+    registry_id_origin: "V.D63"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

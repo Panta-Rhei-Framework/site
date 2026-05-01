@@ -43,8 +43,14 @@ right_rail:
     precision: "Structural"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookV.FluidMacro.TauAlfven"
+    formalization: "formalized"
+    registry_id_origin: "V.T253"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---

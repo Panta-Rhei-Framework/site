@@ -43,8 +43,90 @@ right_rail:
     precision: "Sub-10 ppm"
     scope: "τ-Effective"
     updated: "April 2026"
+lean_modules:
+  -
+    module: "TauLib.BookI.Holomorphy.PresheafEssence"
+    formalization: "formalized"
+    registry_id_origin: "I.T41"
+  -
+    module: "TauLib.BookII.CentralTheorem.CentralTheorem"
+    formalization: "formalized"
+    registry_id_origin: "II.T40"
+  -
+    module: "TauLib.BookII.CentralTheorem.HartogsExtension"
+    formalization: "formalized"
+    registry_id_origin: "II.T37"
+  -
+    module: "TauLib.BookII.Closure.GeometricBiSquare"
+    formalization: "formalized"
+    registry_id_origin: "II.T49"
+  -
+    module: "TauLib.BookII.Domains.HolImpliesCont"
+    formalization: "formalized"
+    registry_id_origin: "II.T06"
+  -
+    module: "TauLib.BookII.Enrichment.SelfEnrichment"
+    formalization: "formalized"
+    registry_id_origin: "II.D53"
+  -
+    module: "TauLib.BookII.Enrichment.YonedaTheorem"
+    formalization: "formalized"
+    registry_id_origin: "II.T36"
+  -
+    module: "TauLib.BookII.Hartogs.CalibratedSplitComplex"
+    formalization: "formalized"
+    registry_id_origin: "II.D35"
+  -
+    module: "TauLib.BookII.Hartogs.MutualDetermination"
+    formalization: "formalized"
+    registry_id_origin: "II.T27"
+  -
+    module: "TauLib.BookII.Hartogs.SheafCoherence"
+    formalization: "formalized"
+    registry_id_origin: "II.T32"
+  -
+    module: "TauLib.BookII.Topology.TorusDegeneration"
+    formalization: "formalized"
+    registry_id_origin: "II.T13"
+  -
+    module: "TauLib.BookIII.Enrichment.Functor"
+    formalization: "formalized"
+    registry_id_origin: "III.D04"
+  -
+    module: "TauLib.BookIII.Enrichment.LayerTemplate"
+    formalization: "formalized"
+    registry_id_origin: "III.D05"
+  -
+    module: "TauLib.BookIII.Sectors.BoundaryCharacters"
+    formalization: "formalized"
+    registry_id_origin: "III.D11"
+  -
+    module: "TauLib.BookIII.Sectors.Decomposition"
+    formalization: "formalized"
+    registry_id_origin: "III.D13"
+  -
+    module: "TauLib.BookIII.Sectors.LanglandsReflection"
+    formalization: "formalized"
+    registry_id_origin: "III.T06"
+  -
+    module: "TauLib.BookIII.Sectors.ParityBridge"
+    formalization: "formalized"
+    registry_id_origin: "III.T08"
+  -
+    module: "TauLib.BookIV.Arena.Tau3Arena"
+    formalization: "formalized"
+    registry_id_origin: "IV.D255"
+  -
+    module: "TauLib.BookIV.Electroweak.WeinbergNLO"
+    formalization: "formalized"
+    registry_id_origin: "IV.T140"
+  -
+    module: "TauLib.BookIV.Sectors.SectorParameters"
+    formalization: "formalized"
+    registry_id_origin: "IV.D01"
+lean_linkage_status: "derived"
 generated_from: "corpus/results/facets/predictions"
-projection_version: "v0.1"
+projection_version: "v0.2"
 canonical_source: "corpus/results/facets/predictions"
 do_not_edit: true
 ---
