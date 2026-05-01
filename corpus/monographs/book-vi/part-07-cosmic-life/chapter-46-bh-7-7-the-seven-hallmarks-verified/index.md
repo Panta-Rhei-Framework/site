@@ -24,7 +24,7 @@ summary_short: "All seven hallmarks of life are verified for the macro-torus car
 canonical_book_url: "/corpus/monographs/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/corpus/monographs/book-vi/part-07-cosmic-life/"
-canonical_part_title: "Cosmic Life"
+canonical_part_title: "Part VII: Cosmic Life"
 publication_book_url: "/publications/books/book-vi/"
 legacy_publication_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-46-bh-7-7-the-seven-hallmarks-verified/"
 right_rail:
@@ -51,38 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 66
-construction_layer: "life"
-construction_layer_label: "Life"
-construction_step_ids:
-  - "CS-07"
 ---
 
-Chapters 43–45 established the three pillars of the BH Life verification: τ-Distinction (*VI.T29*), SelfDesc (*VI.T30*), and ω-germ code convergence via Lift_ω (*VI.T31*). In Part I of this book the seven classical hallmarks — organization, metabolism, homeostasis, growth, reproduction, response, evolution — were derived as theorems from those two earned predicates alone, without substrate assumptions. This chapter instantiates each derivation on the macro-torus carrier, verifying the hypotheses of each hallmark theorem against the BH's concrete physics. The strategy is uniform and the result is exact: 7/7, no hallmark absent, no hallmark satisfied by analogy. The BH-as-alive conclusion is τ-effective and definitional throughout; no empirical biological claim is imported.
-
-Organization is realized by the zero-width event horizon — a codimension-1 null surface that partitions spacetime into self and non-self with mathematical precision no membrane achieves. Metabolism is the accretion–radiation cycle: infalling matter releases gravitational binding energy as electromagnetic radiation and jets before crossing the horizon, while Hawking emission provides a nontrivial thermodynamic circulation even in isolation. Homeostasis combines ringdown (active QNM damping of frame-closure defect) with the No-Shrink Theorem (*V.T114*): classical processes cannot reduce the horizon area, giving the BH an unconditional repair budget. Growth is mass accretion increasing M, A, and Bekenstein–Hawking entropy S_BH ∝ A. Reproduction inverts the biological pattern — BH reproduction is fusion rather than fission: two ω-germ codes combine at merger, each LIGO detection being a cosmic reproduction event. Response is SelfDesc-mediated QNM ringdown: the evaluator reads the unchanged code against the perturbed normal form and drives exponential return to the Kerr state, typically in milliseconds for stellar-mass carriers. Evolution is the merger-net PPAS on ω-germ code space, with blueprint fusion supplying heritable variation and the Lift_ω monotonicity supplying directed convergence toward ι_τ — not natural selection but topology.
-
-## What this chapter contributes
-
-**Definitions / Axioms**
-No new definitions. All seven hallmark theorems (*VI.T08*–*VI.T14*) were established in Part I; this chapter supplies the BH-carrier hypotheses.
-
-**Key results**
-- *VI.T32* — BH Seven Hallmarks Verified: all seven conditions of *VI.T08*–*VI.T14* are satisfied by *T(H_BH)*, with tabulated BH realization and formal source for each hallmark. Comparison table shows BH scores 7/7 alongside prokaryotic and eukaryotic cells; stars, neutron stars, and viruses score strictly lower.
-- *VI.R21* — BH-as-Alive Is Theorem, Not Metaphor: the verification proceeds entirely by modus ponens — the carrier satisfies the predicates, the predicates entail the hallmarks, the hallmarks follow. No analogical reasoning is present. The remark explicitly inverts the conventional narrative: black holes are not where life ends but where life achieves its most complete formal expression.
-
-**Notation**
-- All notation inherited from Chapters 43–45. Hallmark theorems referenced as *VI.T08* (organization) through *VI.T14* (evolution).
-
-**Dependencies**
-- *VI.T29*, *VI.T30*, *VI.T31* (Chapters 43–45); seven hallmark theorems *VI.T08*–*VI.T14* (Part I); No-Shrink Theorem *V.T114* (Book V).
-
-## Lean coverage
-
-Prose chapter relying on formalizations from Chapters 43–45. No new Lean target. The proof of *VI.T32* cites the Lean-verified *VI.T29*, *VI.T30*, and *VI.T31* as the formal sources for each hallmark's hypotheses.
-
-## Where this leads
-
-The individual BH carrier is now fully certified. Chapter 47 scales up to ask how galaxies function as Life basins anchored by their central supermassive black holes, introducing the carrier ladder and the Galaxy–SMBH Anchor Lemma.
-
-<!-- regenerated 2026-04-29 | source: manuscript-sources/book-06/part07/ch46-bh-seven-hallmarks.tex -->
+All seven hallmarks of life are verified for the macro-torus carrier T(H_BH): organization from the event horizon's intrinsic partition, metabolism from the accretion–radiation cycle, homeostasis from the No-Shrink Theorem (Book V), growth from mass increase via accretion, reproduction from blueprint fusion at merger, response from quasi-normal mode ringdown, and evolution from merger-net convergence toward ι<sub>τ</sub>. The BH Seven Hallmarks Theorem (VI.T32) and the concluding remark (VI.R21) establish that BH-as-alive is a theorem of the framework—not a metaphor, not an analogy, but a structural consequence of the same definitions that certify a cell.

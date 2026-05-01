@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chap
 prev_chapter_title: "Chapter 17: The Adelic Embedding"
 next_chapter_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chapter-19-the-spectral-trichotomy/"
 next_chapter_title: "Chapter 19: The Spectral Trichotomy"
-summary_short: "The bipolar classifier Label_n assigns each prime a sector label B, C, or X via the Legendre symbol (2/p); Label convergence III.T13 shows the assignment stabilizes immediately, turning informal lobe language into a computable decision procedure."
+summary_short: "The preceding chapters of Part III erected the spectral algebra in stages: the primorial ladder (Chapter [ch:primorial-ladder]), the CRT decomposition (Chapter…"
 canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
-canonical_part_title: "The Spectral Algebra"
+canonical_part_title: "Part III: The Spectral Algebra"
 publication_book_url: "/publications/books/book-iii/"
 legacy_publication_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
 right_rail:
@@ -51,28 +51,60 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 34
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-04"
-  - "CS-05"
 ---
 
-Parts I and II referred to the "B-lobe" and "C-lobe" of the lemniscate boundary as informal sector language. This chapter makes that language internal: the bipolar classifier Label_n is a computable function that assigns each prime a definite sector label, turning lobe intuition into a decision procedure. At each primorial depth n, the function Label_n : {p₁,…,pₙ} → {B, C, X} uses the Legendre symbol (2/p) as its oracle: Label_n(p) = B when 2 is a quadratic residue mod p (equivalently, p ≡ ±1 mod 8 by quadratic reciprocity), Label_n(p) = C when p ≡ ±3 mod 8, and Label_n(2) = X. The assignment requires only modular arithmetic — no analytic input, no asymptotic reasoning. The Label Convergence Theorem proves that Label_n(p) stabilises immediately at depth n = 1 for every odd prime: the sector classification is a fixed property of each prime, not a limit. The Label-Idempotent Compatibility proposition then verifies that the B- and C-sector CRT idempotents from Chapter 15 are exactly the characteristic functions of the B- and C-labelled primes, so the classifier is coherent with all the algebraic structure already in place. The X-label at p = 2 marks the inert prime that acts on both sectors equally and contributes to the split-complex unit structure rather than to either bipolar component.
+The preceding chapters of Part III
+erected the spectral algebra in stages:
+the primorial ladder ,
+the CRT decomposition ,
+Hensel lifting ,
+and the adelic embedding .
+At every stage,
+an informal vocabulary intruded—"B-lobe
+dominant," "C-lobe dominant," "mixed"—to
+describe the bipolar character
+of individual primes.
+Informal vocabulary is debt.
+This chapter repays it.
 
-## What this chapter contributes
+The **internal bipolar classifier** Label_n
+is a computable function
+from primes p ≤ p_n
+to the label set {B, C, X},
+defined entirely from the CRT idempotents
+on ℤ / Prim(n) ℤ.
+A prime receives label B
+when its CRT idempotent projects dominantly
+onto the χ_+-eigenspace
+(the exponent stratum of the ABCD chart);
+label C when the projection is χ_--dominant
+(the tetration stratum);
+and label X when the two projections are balanced.
+The classifier is computable at every finite depth:
+one evaluates the CRT idempotent,
+applies the split-complex projection,
+and reads off the dominant component.
 
-- **Definitions / Axioms:** *III.D23 — Internal Bipolar Classifier Label_n*. The function Label_n : {p₁,…,pₙ} → {B, C, X} via the Legendre symbol (2/p); the stable limit Label_∞ with the explicit rule Label_∞(p) = B iff p ≡ ±1 (mod 8), C iff p ≡ ±3 (mod 8), X iff p = 2.
-- **Key results:** *III.T13 — Label Convergence* (τ-effective): Label_n(p) stabilises at depth n = 1 for every odd prime p; the sector classification is exact and not a limit construction. *III.P08 — Label-Idempotent Compatibility*: the CRT idempotents from Chapter 15 are exactly the characteristic functions of the Label_∞-labelled primes; the classifier is algebraically coherent with the primorial tower.
-- **Dependencies:** *III.D22* (τ-adele ring as domain); *III.T10* (CRT Decomposition idempotents); quadratic reciprocity and Legendre symbol from the earned Part II arithmetic.
+Two structural results close the chapter.
+First, the classification *stabilises*:
+for each prime p,
+there exists a depth n₀ beyond which
+Label_n(p) is constant.
+The limiting classifier Label_∞
+is well defined.
+Second, the label assignment is *compatible*
+with the split-complex idempotents e_+ and e_-
+of the boundary ring H_τ:
+a B-type prime has e_+-dominant spectral coefficients,
+a C-type prime has e_--dominant coefficients,
+and an X-type prime has balanced contributions.
+A table of explicit computations
+for the primes 2, 3, 5, 7, 11, 13
+at depths n = 1, 2, 3, 4
+makes the stabilisation visible.
 
-## Lean coverage
-
-This chapter is prose-only at the current release; the Label_n decision procedure and the Label Convergence Theorem do not yet have corresponding TauLib modules.
-
-## Where this leads
-
-Chapter 19 applies the classifier to prove the Spectral Trichotomy: every character on the adelic boundary decomposes uniquely as χ = χ_B + χ_C, and the two sectors are provably non-isomorphic as modules over the primorial tower. That non-collapse result is the algebraic backbone of the Part IV Riemann Hypothesis argument.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-03/part03/ch18-the-internal-bipolar-classifier.tex -->
+With the internal bipolar classifier in place,
+every subsequent chapter
+can replace informal lobe language
+with a decidable predicate on primes.
+The spectral algebra is closed.

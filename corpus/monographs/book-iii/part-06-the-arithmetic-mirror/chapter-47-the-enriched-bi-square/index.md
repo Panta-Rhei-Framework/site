@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/cha
 prev_chapter_title: "Chapter 46: Functoriality as Diagram Commutativity"
 next_chapter_url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/chapter-48-the-tower-closes/"
 next_chapter_title: "Chapter 48: The Tower Closes"
-summary_short: "The enriched bi-square (*III.D65*) is the third in the scaling chain; Finite Factorization Pasting (*III.T38*) and the Bi-Square Comparison (*III.T39*) unify BSD, Langlands, and the physics layer in one diagram."
+summary_short: "The bi-square of Book I (the Bi-Square Characterization, Book I, Theorem I.T41) is the algebraic seed of the entire series: a 2 × 3 pasted diagram whose left…"
 canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/"
-canonical_part_title: "The Arithmetic Mirror"
+canonical_part_title: "Part VI: The Arithmetic Mirror"
 publication_book_url: "/publications/books/book-iii/"
 legacy_publication_url: "/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/"
 right_rail:
@@ -51,32 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 37
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-04"
-  - "CS-05"
 ---
 
-The bi-square of Book I (*I.T41*) is the algebraic seed of the entire series: a 2×3 pasted diagram whose left square encodes tower coherence and whose right square encodes spectral naturality. Book II's Central Theorem (*II.T49*) lifted the bi-square from algebraic to topological, replacing presheaf values with holomorphic sections and spectral naturality with boundary-value duality on the lemniscate L. This chapter constructs the third bi-square — the enriched bi-square (*III.D65*) at E₁ — and proves two theorems: the Finite Factorization Pasting Lemma (*III.T38*), which forces every E₁ datum to factor through finitely many primitive sector components, and the Enriched Bi-Square Comparison Theorem (*III.T39*), which shows that all three bi-squares are structurally identical — same shape, same structural maps, richer objects at each level. BSD coherence, Langlands functoriality, and the physics layer readings are all encoded in the enriched bi-square's structure.
-
-## What this chapter contributes
-
-The enriched bi-square (*III.D65*) is a 2×3 pasted diagram in which the objects are E₁ enriched spectra — character rings equipped with split-complex structure, sector decomposition, and defect functionals. The left square has the enriched tower coherence map as its horizontal arrows and the enrichment functor Enr₀₁ as its vertical arrows; the right square has the automorphic–Galois duality as its vertical arrows and the sector morphisms (base change and transfer) as its horizontal arrows. The two squares share the middle column, which is the Mutual Determination interface at the E₀ → E₁ boundary. The pasting of the two squares is the global Langlands functoriality diagram proved commutative in Chapter 46.
-
-The Finite Factorization Pasting Lemma (*III.T38*) proves that the commutativity of the enriched bi-square forces a finite factorisation property: every E₁ morphism factors through a finite product of primitive sector components, with the factorisation depth bounded by the τ-rank. This is the E₁ analogue of the finite factorisation theorem for NF-discrete towers (*III.P16*): at E₀, configurations factor through primorial components; at E₁, morphisms factor through sector components. The lemma is τ-effective and establishes that the enriched bi-square is not merely a diagram but a computational tool: every enriched morphism can be decomposed into a finite list of sector-level computations.
-
-The Enriched Bi-Square Comparison Theorem (*III.T39*) places the three bi-squares in a single scaling chain. The algebraic bi-square (*I.T41*), the topological bi-square (*II.T49*), and the enriched bi-square (*III.D65*) are related by a pair of comparison functors — one from Book I to Book II (sheafification) and one from Book II to Book III (enrichment) — both of which are faithful on objects and full on morphisms. The comparison extends forward: a slot is reserved for the computational bi-square of Part VII, which will add E₂ self-referential structure as the fourth level of the scaling chain. The theorem makes explicit that BSD coherence (*III.T35*), Langlands functoriality (*III.T36*), and the three Physics Layer readings (*III.T29*) are all consequences of a single structural choice — the 2×3 pasting shape — instantiated at successively richer enrichment levels.
-
-## Lean coverage
-
-- *III.D65* — Enriched Bi-Square (τ-effective)
-- *III.T38* — Finite Factorization Pasting Lemma (τ-effective)
-- *III.T39* — Enriched Bi-Square Comparison Theorem (τ-effective)
-
-## Where this leads
-
-Chapter 48 assembles the full three-level enrichment tower and issues Part VI export contracts. The enriched bi-square is the primary structural output consumed by Parts VII–X: Part VII adds E₂ computational agents, Parts VIII–IX add further enrichment levels, and Part X identifies the τ-internal results with their classical counterparts.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-03/part06/ch50-the-enriched-bi-square.tex -->
+The bi-square of Book I (the Bi-Square Characterization, Book I, Theorem I.T41) is the algebraic seed of the entire series: a 2 × 3 pasted diagram whose left square encodes tower coherence and whose right square encodes spectral naturality. Book II's Central Theorem (II.T40) lifted the bi-square from algebraic to topological, replacing presheaf values with holomorphic sections and spectral naturality with boundary-value duality on the lemniscate 𝕃. This chapter constructs the third bi-square—the *enriched bi-square* at E₁+—and proves two theorems. First, the Finite Factorization Pasting : pasting the two squares forces every E₁ datum to factor through finitely many primitive sector components. Second, the Enriched Bi-Square Comparison : the three bi-squares are structurally identical—same shape, same structural maps, richer objects—and the comparison extends forward to the computational bi-square of Part VII (the relevant definition, Ch. 58). The enriched bi-square is the single diagram that unifies all of Part VI: BSD coherence (the relevant theorem, Ch. 47), Langlands functoriality (the relevant theorem, Ch. 49), and the physics layer readings (NS regularity, YM mass gap, Hodge addressability) are all encoded in its structure.

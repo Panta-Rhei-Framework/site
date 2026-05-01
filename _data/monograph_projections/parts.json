@@ -12,23 +12,7 @@
     "summary_short": "This Prologue situates Book I within the Panta Rhei series and introduces the foundational principle that governs the entire second edition: every mathematical…",
     "legacy_publication_url": "/publications/books/book-i/part-00-earned-foundations/",
     "corpus_url": "/corpus/monographs/book-i/part-00-earned-foundations/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 1,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "title": "Construction Map overview",
-      "url": "/corpus/construction-map/"
-    },
-    "next_part": {
-      "construction_sequence": 2,
-      "title": "The Coherence Kernel",
-      "url": "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-01-the-coherence-kernel",
@@ -43,24 +27,7 @@
     "summary_short": "Category τ begins with five generators in strict total order — α < π < γ < η < ω — and a single ontic operator ρ (progression). A zeroth axiom K0…",
     "legacy_publication_url": "/publications/books/book-i/part-01-the-coherence-kernel/",
     "corpus_url": "/corpus/monographs/book-i/part-01-the-coherence-kernel/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 2,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 1,
-      "title": "Earned Foundations",
-      "url": "/corpus/monographs/book-i/part-00-earned-foundations/"
-    },
-    "next_part": {
-      "construction_sequence": 3,
-      "title": "Orbit Generation and Ontic Closure",
-      "url": "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-02-orbit-generation-and-ontic-closure",
@@ -75,24 +42,7 @@
     "summary_short": "The static kernel τ₀ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator ρ, and six axioms…",
     "legacy_publication_url": "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/",
     "corpus_url": "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 3,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 2,
-      "title": "The Coherence Kernel",
-      "url": "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
-    },
-    "next_part": {
-      "construction_sequence": 4,
-      "title": "The Denotational Bridge",
-      "url": "/corpus/monographs/book-i/part-03-the-denotational-bridge/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-03-the-denotational-bridge",
@@ -107,24 +57,7 @@
     "summary_short": "The ontic seal is in place. Every object of τ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…",
     "legacy_publication_url": "/publications/books/book-i/part-03-the-denotational-bridge/",
     "corpus_url": "/corpus/monographs/book-i/part-03-the-denotational-bridge/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 4,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 3,
-      "title": "Orbit Generation and Ontic Closure",
-      "url": "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
-    },
-    "next_part": {
-      "construction_sequence": 5,
-      "title": "The ABCD Coordinate Chart",
-      "url": "/corpus/monographs/book-i/part-04-the-abcd-coordinate-chart/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-04-the-abcd-coordinate-chart",
@@ -139,24 +72,7 @@
     "summary_short": "Parts I–III established the bare-metal foundations of Category τ: a static kernel of five generators and six axioms (Part I), a single generative act…",
     "legacy_publication_url": "/publications/books/book-i/part-04-the-abcd-coordinate-chart/",
     "corpus_url": "/corpus/monographs/book-i/part-04-the-abcd-coordinate-chart/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 5,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 4,
-      "title": "The Denotational Bridge",
-      "url": "/corpus/monographs/book-i/part-03-the-denotational-bridge/"
-    },
-    "next_part": {
-      "construction_sequence": 6,
-      "title": "Hyperfactorization",
-      "url": "/corpus/monographs/book-i/part-05-hyperfactorization/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-05-hyperfactorization",
@@ -171,24 +87,7 @@
     "summary_short": "Part IV defined the ABCD coordinate chart: a total map Φ : Obj(τ) → τ-Idx⁴ that assigns four typed coordinates to every object. Existence of the chart was…",
     "legacy_publication_url": "/publications/books/book-i/part-05-hyperfactorization/",
     "corpus_url": "/corpus/monographs/book-i/part-05-hyperfactorization/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 6,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 5,
-      "title": "The ABCD Coordinate Chart",
-      "url": "/corpus/monographs/book-i/part-04-the-abcd-coordinate-chart/"
-    },
-    "next_part": {
-      "construction_sequence": 7,
-      "title": "The Prime Polarity Theorem",
-      "url": "/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-06-the-prime-polarity-theorem",
@@ -203,24 +102,7 @@
     "summary_short": "The Hyperfactorization Theorem (Part V) established that every object of Category τ has a unique ABCD address. The four coordinates are independent,…",
     "legacy_publication_url": "/publications/books/book-i/part-06-the-prime-polarity-theorem/",
     "corpus_url": "/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 7,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 6,
-      "title": "Hyperfactorization",
-      "url": "/corpus/monographs/book-i/part-05-hyperfactorization/"
-    },
-    "next_part": {
-      "construction_sequence": 8,
-      "title": "Omega-Germs & the Algebraic Lemniscate",
-      "url": "/corpus/monographs/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-07-omega-germs-the-algebraic-lemniscate",
@@ -235,24 +117,7 @@
     "summary_short": "The Prime Polarity Theorem (Part VI) established that every internal prime carries a canonical polarity: B-dominant or C-dominant. Both classes are infinite.…",
     "legacy_publication_url": "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/",
     "corpus_url": "/corpus/monographs/book-i/part-07-omega-germs-the-algebraic-lemniscate/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 8,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 7,
-      "title": "The Prime Polarity Theorem",
-      "url": "/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/"
-    },
-    "next_part": {
-      "construction_sequence": 9,
-      "title": "The Spectral Ring",
-      "url": "/corpus/monographs/book-i/part-08-the-spectral-ring/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-08-the-spectral-ring",
@@ -267,24 +132,7 @@
     "summary_short": "Part VII introduced the boundary local ring (Chapter [ch:bipolar-algebra]): stagewise ring operations on omega-tails, the Chinese Remainder Theorem on the…",
     "legacy_publication_url": "/publications/books/book-i/part-08-the-spectral-ring/",
     "corpus_url": "/corpus/monographs/book-i/part-08-the-spectral-ring/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 9,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 8,
-      "title": "Omega-Germs & the Algebraic Lemniscate",
-      "url": "/corpus/monographs/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
-    },
-    "next_part": {
-      "construction_sequence": 10,
-      "title": "Earned Number Systems",
-      "url": "/corpus/monographs/book-i/part-09-earned-number-systems/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-09-earned-number-systems",
@@ -299,24 +147,7 @@
     "summary_short": "Part VIII introduced the number tower ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ (Chapter [ch:number-tower]), establishing definitions and basic properties for each level.…",
     "legacy_publication_url": "/publications/books/book-i/part-09-earned-number-systems/",
     "corpus_url": "/corpus/monographs/book-i/part-09-earned-number-systems/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 10,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 9,
-      "title": "The Spectral Ring",
-      "url": "/corpus/monographs/book-i/part-08-the-spectral-ring/"
-    },
-    "next_part": {
-      "construction_sequence": 11,
-      "title": "Lemniscate Characters",
-      "url": "/corpus/monographs/book-i/part-10-lemniscate-characters/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-10-lemniscate-characters",
@@ -331,24 +162,7 @@
     "summary_short": "Part VII earned the algebraic lemniscate 𝕃 as the bipolar spectral algebra H_τ = A_τ^(B) × A_τ^(C) (Chapter [ch:bipolar-algebra]), and Part IX…",
     "legacy_publication_url": "/publications/books/book-i/part-10-lemniscate-characters/",
     "corpus_url": "/corpus/monographs/book-i/part-10-lemniscate-characters/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 11,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 10,
-      "title": "Earned Number Systems",
-      "url": "/corpus/monographs/book-i/part-09-earned-number-systems/"
-    },
-    "next_part": {
-      "construction_sequence": 12,
-      "title": "τ",
-      "url": "/corpus/monographs/book-i/part-11-tau/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-11-tau",
@@ -363,24 +177,7 @@
     "summary_short": "Parts VI–VII proved that the primes carry a canonical bipolar polarity (B-dominant vs. C-dominant), and Parts IX–X developed the split-complex scalars, the…",
     "legacy_publication_url": "/publications/books/book-i/part-11-tau/",
     "corpus_url": "/corpus/monographs/book-i/part-11-tau/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 12,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 11,
-      "title": "Lemniscate Characters",
-      "url": "/corpus/monographs/book-i/part-10-lemniscate-characters/"
-    },
-    "next_part": {
-      "construction_sequence": 13,
-      "title": "Holomorphic Transformers",
-      "url": "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-12-holomorphic-transformers",
@@ -395,24 +192,7 @@
     "summary_short": "Parts VIII–XI earned the boundary ring ℤ_τ, its split-complex scalar algebra H_τ, the fundamental characters χ_±, and the four-valued logic…",
     "legacy_publication_url": "/publications/books/book-i/part-12-holomorphic-transformers/",
     "corpus_url": "/corpus/monographs/book-i/part-12-holomorphic-transformers/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 13,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 12,
-      "title": "τ",
-      "url": "/corpus/monographs/book-i/part-11-tau/"
-    },
-    "next_part": {
-      "construction_sequence": 14,
-      "title": "Internal Set Theory & The Cantor Mirage",
-      "url": "/corpus/monographs/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-13-internal-set-theory-the-cantor-mirage",
@@ -427,24 +207,7 @@
     "summary_short": "Parts IV–VII built the ABCD coordinate chart, proved the two hinge theorems (Hyperfactorization and Prime Polarity), and earned the algebraic lemniscate 𝕃.…",
     "legacy_publication_url": "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/",
     "corpus_url": "/corpus/monographs/book-i/part-13-internal-set-theory-the-cantor-mirage/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 14,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 13,
-      "title": "Holomorphic Transformers",
-      "url": "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
-    },
-    "next_part": {
-      "construction_sequence": 15,
-      "title": "The Earned Topos",
-      "url": "/corpus/monographs/book-i/part-14-the-earned-topos/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-14-the-earned-topos",
@@ -459,24 +222,7 @@
     "summary_short": "Part XII earned the three ingredients of τ-holomorphic rigidity: D-holomorphy (sector independence), tower coherence (primorial compatibility), and the…",
     "legacy_publication_url": "/publications/books/book-i/part-14-the-earned-topos/",
     "corpus_url": "/corpus/monographs/book-i/part-14-the-earned-topos/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 15,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 14,
-      "title": "Internal Set Theory & The Cantor Mirage",
-      "url": "/corpus/monographs/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-    },
-    "next_part": {
-      "construction_sequence": 16,
-      "title": "Global Hartogs",
-      "url": "/corpus/monographs/book-i/part-15-global-hartogs/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-15-global-hartogs",
@@ -491,24 +237,7 @@
     "summary_short": "Every tool in this book has been forged for a single purpose: to prove that the **limit determines the stages**. In classical complex analysis, Hartogs'…",
     "legacy_publication_url": "/publications/books/book-i/part-15-global-hartogs/",
     "corpus_url": "/corpus/monographs/book-i/part-15-global-hartogs/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 16,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 15,
-      "title": "The Earned Topos",
-      "url": "/corpus/monographs/book-i/part-14-the-earned-topos/"
-    },
-    "next_part": {
-      "construction_sequence": 17,
-      "title": "The Presheaf Essence",
-      "url": "/corpus/monographs/book-i/part-16-the-presheaf-essence/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-16-the-presheaf-essence",
@@ -523,24 +252,7 @@
     "summary_short": "Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on 𝕃 uniquely extends to all of τ³. Part XVIII…",
     "legacy_publication_url": "/publications/books/book-i/part-16-the-presheaf-essence/",
     "corpus_url": "/corpus/monographs/book-i/part-16-the-presheaf-essence/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 17,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 16,
-      "title": "Global Hartogs",
-      "url": "/corpus/monographs/book-i/part-15-global-hartogs/"
-    },
-    "next_part": {
-      "construction_sequence": 18,
-      "title": "The Proof-Theoretic Mirror",
-      "url": "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-i-part-17-the-proof-theoretic-mirror",
@@ -555,24 +267,7 @@
     "summary_short": "Part XVII closed the development: sixty-seven chapters, every object and theorem earned from five generators, one operator, and seven axioms K0–K6. The…",
     "legacy_publication_url": "/publications/books/book-i/part-17-the-proof-theoretic-mirror/",
     "corpus_url": "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/",
-    "publication_book_url": "/publications/books/book-i/",
-    "construction_sequence": 18,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-01",
-      "CS-02"
-    ],
-    "previous_part": {
-      "construction_sequence": 17,
-      "title": "The Presheaf Essence",
-      "url": "/corpus/monographs/book-i/part-16-the-presheaf-essence/"
-    },
-    "next_part": {
-      "construction_sequence": 19,
-      "title": "From Kernel to Interior",
-      "url": "/corpus/monographs/book-ii/part-00-from-kernel-to-interior/"
-    }
+    "publication_book_url": "/publications/books/book-i/"
   },
   {
     "id": "book-ii-part-00-from-kernel-to-interior",
@@ -587,24 +282,7 @@
     "summary_short": "Book I closed with the Bridge Theorem (I.T34): Category τ is complete. Five generators, one operator, seven axioms (K0–K6) have built a full mathematical…",
     "legacy_publication_url": "/publications/books/book-ii/part-00-from-kernel-to-interior/",
     "corpus_url": "/corpus/monographs/book-ii/part-00-from-kernel-to-interior/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 19,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 18,
-      "title": "The Proof-Theoretic Mirror",
-      "url": "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
-    },
-    "next_part": {
-      "construction_sequence": 20,
-      "title": "Interior Points and the τ³",
-      "url": "/corpus/monographs/book-ii/part-01-interior-points-and-the-tau/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-01-interior-points-and-the-tau",
@@ -619,24 +297,7 @@
     "summary_short": "Part I defines the point set of τ³ and reveals the fibration structure τ³ = τ¹ ×_f T². The approach is coordinate-first: Book I earned the ABCD chart…",
     "legacy_publication_url": "/publications/books/book-ii/part-01-interior-points-and-the-tau/",
     "corpus_url": "/corpus/monographs/book-ii/part-01-interior-points-and-the-tau/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 20,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 19,
-      "title": "From Kernel to Interior",
-      "url": "/corpus/monographs/book-ii/part-00-from-kernel-to-interior/"
-    },
-    "next_part": {
-      "construction_sequence": 21,
-      "title": "Local Domains: Cylinders as Prefix Predicates",
-      "url": "/corpus/monographs/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-02-local-domains-cylinders-as-prefix-predicates",
@@ -651,24 +312,7 @@
     "summary_short": "Part II constructs the local domains and proves the central inversion: {holomorphic implies continuous}. Four chapters build the topological…",
     "legacy_publication_url": "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/",
     "corpus_url": "/corpus/monographs/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 21,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 20,
-      "title": "Interior Points and the τ³",
-      "url": "/corpus/monographs/book-ii/part-01-interior-points-and-the-tau/"
-    },
-    "next_part": {
-      "construction_sequence": 22,
-      "title": "Topology and Global Shape",
-      "url": "/corpus/monographs/book-ii/part-03-topology-and-global-shape/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-03-topology-and-global-shape",
@@ -683,24 +327,7 @@
     "summary_short": "Part III establishes the global topological shape of τ. Six chapters prove that τ is a Stone space, derive topology as an invariant of canonical…",
     "legacy_publication_url": "/publications/books/book-ii/part-03-topology-and-global-shape/",
     "corpus_url": "/corpus/monographs/book-ii/part-03-topology-and-global-shape/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 22,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 21,
-      "title": "Local Domains: Cylinders as Prefix Predicates",
-      "url": "/corpus/monographs/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
-    },
-    "next_part": {
-      "construction_sequence": 23,
-      "title": "Geometry: The Tarski Program",
-      "url": "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-04-geometry-the-tarski-program",
@@ -715,24 +342,7 @@
     "summary_short": "Part IV executes the Tarski program: deriving Euclidean geometry from ultrametric foundations. The two-readout principle (II.D18a, Chapter…",
     "legacy_publication_url": "/publications/books/book-ii/part-04-geometry-the-tarski-program/",
     "corpus_url": "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 23,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 22,
-      "title": "Topology and Global Shape",
-      "url": "/corpus/monographs/book-ii/part-03-topology-and-global-shape/"
-    },
-    "next_part": {
-      "construction_sequence": 24,
-      "title": "Earned Transcendentals: Lines, Circles, and the Constants π, e, j",
-      "url": "/corpus/monographs/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e",
@@ -747,24 +357,7 @@
     "summary_short": "Part V earns the transcendental constants π, e, j, and ι<sub>τ</sub> from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…",
     "legacy_publication_url": "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/",
     "corpus_url": "/corpus/monographs/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 24,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 23,
-      "title": "Geometry: The Tarski Program",
-      "url": "/corpus/monographs/book-ii/part-04-geometry-the-tarski-program/"
-    },
-    "next_part": {
-      "construction_sequence": 25,
-      "title": "Local Hartogs and the Holomorphic Interior",
-      "url": "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-06-local-hartogs-and-the-holomorphic-interior",
@@ -779,24 +372,7 @@
     "summary_short": "Part VI is {pivotal}: split-complex holomorphy becomes load-bearing. Eight chapters build the Local Hartogs extension theory, prove the central…",
     "legacy_publication_url": "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/",
     "corpus_url": "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 25,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 24,
-      "title": "Earned Transcendentals: Lines, Circles, and the Constants π, e, j",
-      "url": "/corpus/monographs/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
-    },
-    "next_part": {
-      "construction_sequence": 26,
-      "title": "Regularity and Mutual Determination",
-      "url": "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-07-regularity-and-mutual-determination",
@@ -811,24 +387,7 @@
     "summary_short": "Part VII executes the {regularity program}, proving that {holomorphic = idempotent-supported}. Five chapters build a three-lemma chain…",
     "legacy_publication_url": "/publications/books/book-ii/part-07-regularity-and-mutual-determination/",
     "corpus_url": "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 26,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 25,
-      "title": "Local Hartogs and the Holomorphic Interior",
-      "url": "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
-    },
-    "next_part": {
-      "construction_sequence": 27,
-      "title": "Self-Enrichment, Yoneda, and Higher Categories",
-      "url": "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-08-self-enrichment-yoneda-and-higher-categories",
@@ -843,24 +402,7 @@
     "summary_short": "Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…",
     "legacy_publication_url": "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/",
     "corpus_url": "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 27,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 26,
-      "title": "Regularity and Mutual Determination",
-      "url": "/corpus/monographs/book-ii/part-07-regularity-and-mutual-determination/"
-    },
-    "next_part": {
-      "construction_sequence": 28,
-      "title": "The Central Theorem and Categoricity",
-      "url": "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-09-the-central-theorem-and-categoricity",
@@ -875,24 +417,7 @@
     "summary_short": "Part IX is the climax: the {Central Theorem} and categoricity. Six chapters assemble boundary-to-interior correspondence and prove uniqueness.…",
     "legacy_publication_url": "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/",
     "corpus_url": "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 28,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 27,
-      "title": "Self-Enrichment, Yoneda, and Higher Categories",
-      "url": "/corpus/monographs/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
-    },
-    "next_part": {
-      "construction_sequence": 29,
-      "title": "Closure: Synthesis and Bridge to Book III",
-      "url": "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-10-closure-synthesis-and-bridge-to-book-iii",
@@ -907,24 +432,7 @@
     "summary_short": "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn τ-manifold structure from the…",
     "legacy_publication_url": "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/",
     "corpus_url": "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 29,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 28,
-      "title": "The Central Theorem and Categoricity",
-      "url": "/corpus/monographs/book-ii/part-09-the-central-theorem-and-categoricity/"
-    },
-    "next_part": {
-      "construction_sequence": 30,
-      "title": "The Fork — Category τ versus Orthodox Mathematics",
-      "url": "/corpus/monographs/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-ii-part-11-the-fork-category-tau-versus-orthodox-mathematics",
@@ -939,24 +447,7 @@
     "summary_short": "Part XI is the fork: a systematic comparison of Category τ against orthodox mathematics. Books I and II have built an alternative foundation from seven…",
     "legacy_publication_url": "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/",
     "corpus_url": "/corpus/monographs/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/",
-    "publication_book_url": "/publications/books/book-ii/",
-    "construction_sequence": 30,
-    "construction_layer": "mathematics",
-    "construction_layer_label": "Mathematics",
-    "construction_step_ids": [
-      "CS-02",
-      "CS-03"
-    ],
-    "previous_part": {
-      "construction_sequence": 29,
-      "title": "Closure: Synthesis and Bridge to Book III",
-      "url": "/corpus/monographs/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
-    },
-    "next_part": {
-      "construction_sequence": 31,
-      "title": "Where Does Physics Live?",
-      "url": "/corpus/monographs/book-iii/part-00-where-does-physics-live/"
-    }
+    "publication_book_url": "/publications/books/book-ii/"
   },
   {
     "id": "book-iii-part-00-where-does-physics-live",
@@ -971,24 +462,7 @@
     "summary_short": "The Central Theorem is proved and the holomorphic machinery is in hand. But τ³ = τ¹ ×_f T² does not look like Cartesian three-dimensional space. Where,…",
     "legacy_publication_url": "/publications/books/book-iii/part-00-where-does-physics-live/",
     "corpus_url": "/corpus/monographs/book-iii/part-00-where-does-physics-live/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 31,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 30,
-      "title": "The Fork — Category τ versus Orthodox Mathematics",
-      "url": "/corpus/monographs/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
-    },
-    "next_part": {
-      "construction_sequence": 32,
-      "title": "The Self-Enrichment Principle",
-      "url": "/corpus/monographs/book-iii/part-01-the-self-enrichment-principle/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-01-the-self-enrichment-principle",
@@ -1003,24 +477,7 @@
     "summary_short": "The enrichment ladder is the architectural spine of the entire series. We prove the **Canonical Ladder Theorem**: the self-enrichment of Category τ produces…",
     "legacy_publication_url": "/publications/books/book-iii/part-01-the-self-enrichment-principle/",
     "corpus_url": "/corpus/monographs/book-iii/part-01-the-self-enrichment-principle/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 32,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 31,
-      "title": "Where Does Physics Live?",
-      "url": "/corpus/monographs/book-iii/part-00-where-does-physics-live/"
-    },
-    "next_part": {
-      "construction_sequence": 33,
-      "title": "The 4+1 Sector Template",
-      "url": "/corpus/monographs/book-iii/part-02-the-4-1-sector-template/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-02-the-4-1-sector-template",
@@ -1035,24 +492,7 @@
     "summary_short": "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of τ induce four primitive sectors (α, π, γ, η) plus…",
     "legacy_publication_url": "/publications/books/book-iii/part-02-the-4-1-sector-template/",
     "corpus_url": "/corpus/monographs/book-iii/part-02-the-4-1-sector-template/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 33,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 32,
-      "title": "The Self-Enrichment Principle",
-      "url": "/corpus/monographs/book-iii/part-01-the-self-enrichment-principle/"
-    },
-    "next_part": {
-      "construction_sequence": 34,
-      "title": "The Spectral Algebra",
-      "url": "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-03-the-spectral-algebra",
@@ -1067,24 +507,7 @@
     "summary_short": "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, p-adic fields, ad\\`eles—from the τ kernel, not by…",
     "legacy_publication_url": "/publications/books/book-iii/part-03-the-spectral-algebra/",
     "corpus_url": "/corpus/monographs/book-iii/part-03-the-spectral-algebra/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 34,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 33,
-      "title": "The 4+1 Sector Template",
-      "url": "/corpus/monographs/book-iii/part-02-the-4-1-sector-template/"
-    },
-    "next_part": {
-      "construction_sequence": 35,
-      "title": "The Spectral Doors",
-      "url": "/corpus/monographs/book-iii/part-04-the-spectral-doors/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-04-the-spectral-doors",
@@ -1099,24 +522,7 @@
     "summary_short": "The first Millennium cluster earns two spectral prerequisites for the enrichment layer. **The Riemann Hypothesis** becomes a spectral-purity theorem. The…",
     "legacy_publication_url": "/publications/books/book-iii/part-04-the-spectral-doors/",
     "corpus_url": "/corpus/monographs/book-iii/part-04-the-spectral-doors/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 35,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 34,
-      "title": "The Spectral Algebra",
-      "url": "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
-    },
-    "next_part": {
-      "construction_sequence": 36,
-      "title": "The Physics Layer",
-      "url": "/corpus/monographs/book-iii/part-05-the-physics-layer/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-05-the-physics-layer",
@@ -1131,24 +537,7 @@
     "summary_short": "The second Millennium cluster builds the enrichment layer itself—the machinery that makes local Hartogs bulk projections glue into globally coherent physics.…",
     "legacy_publication_url": "/publications/books/book-iii/part-05-the-physics-layer/",
     "corpus_url": "/corpus/monographs/book-iii/part-05-the-physics-layer/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 36,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 35,
-      "title": "The Spectral Doors",
-      "url": "/corpus/monographs/book-iii/part-04-the-spectral-doors/"
-    },
-    "next_part": {
-      "construction_sequence": 37,
-      "title": "The Arithmetic Mirror",
-      "url": "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-06-the-arithmetic-mirror",
@@ -1163,24 +552,7 @@
     "summary_short": "The third Millennium cluster verifies that the enrichment tower is complete, self-consistent, and ready for export to Books IV–VII. **BSD** builds the rational…",
     "legacy_publication_url": "/publications/books/book-iii/part-06-the-arithmetic-mirror/",
     "corpus_url": "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 37,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 36,
-      "title": "The Physics Layer",
-      "url": "/corpus/monographs/book-iii/part-05-the-physics-layer/"
-    },
-    "next_part": {
-      "construction_sequence": 38,
-      "title": "The Hinge Theorem",
-      "url": "/corpus/monographs/book-iii/part-07-the-hinge-theorem/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-07-the-hinge-theorem",
@@ -1195,24 +567,7 @@
     "summary_short": "The mathematical arc closes. Parts 0 through VII have built every piece of the enrichment ladder from five generators and seven axioms—the spectral algebra,…",
     "legacy_publication_url": "/publications/books/book-iii/part-07-the-hinge-theorem/",
     "corpus_url": "/corpus/monographs/book-iii/part-07-the-hinge-theorem/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 38,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 37,
-      "title": "The Arithmetic Mirror",
-      "url": "/corpus/monographs/book-iii/part-06-the-arithmetic-mirror/"
-    },
-    "next_part": {
-      "construction_sequence": 39,
-      "title": "Where Physics Lives",
-      "url": "/corpus/monographs/book-iii/part-08-where-physics-lives/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-08-where-physics-lives",
@@ -1227,24 +582,7 @@
     "summary_short": "The Hinge Theorem is proved. The mathematical arc is closed. Now the driving question returns: *Where does physics live?* Chapter 2 previewed eight…",
     "legacy_publication_url": "/publications/books/book-iii/part-08-where-physics-lives/",
     "corpus_url": "/corpus/monographs/book-iii/part-08-where-physics-lives/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 39,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 38,
-      "title": "The Hinge Theorem",
-      "url": "/corpus/monographs/book-iii/part-07-the-hinge-theorem/"
-    },
-    "next_part": {
-      "construction_sequence": 40,
-      "title": "Where Life Lives",
-      "url": "/corpus/monographs/book-iii/part-09-where-life-lives/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-09-where-life-lives",
@@ -1259,24 +597,7 @@
     "summary_short": "The world exists (E₁). Can it be *modelled*? P versus NP has been conspicuously absent from the preceding Parts. The reason is not strategic but…",
     "legacy_publication_url": "/publications/books/book-iii/part-09-where-life-lives/",
     "corpus_url": "/corpus/monographs/book-iii/part-09-where-life-lives/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 40,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 39,
-      "title": "Where Physics Lives",
-      "url": "/corpus/monographs/book-iii/part-08-where-physics-lives/"
-    },
-    "next_part": {
-      "construction_sequence": 41,
-      "title": "Where Proof Lives",
-      "url": "/corpus/monographs/book-iii/part-10-where-proof-lives/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iii-part-10-where-proof-lives",
@@ -1291,24 +612,7 @@
     "summary_short": "The world exists (E₁). Life can model it (E₂). Can the modelling *model itself*? This final Part ascends to E₃—the enrichment layer where proof…",
     "legacy_publication_url": "/publications/books/book-iii/part-10-where-proof-lives/",
     "corpus_url": "/corpus/monographs/book-iii/part-10-where-proof-lives/",
-    "publication_book_url": "/publications/books/book-iii/",
-    "construction_sequence": 41,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-04",
-      "CS-05"
-    ],
-    "previous_part": {
-      "construction_sequence": 40,
-      "title": "Where Life Lives",
-      "url": "/corpus/monographs/book-iii/part-09-where-life-lives/"
-    },
-    "next_part": {
-      "construction_sequence": 42,
-      "title": "Two Arcs from One Neutron",
-      "url": "/corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/"
-    }
+    "publication_book_url": "/publications/books/book-iii/"
   },
   {
     "id": "book-iv-part-00-two-arcs-from-one-neutron",
@@ -1323,24 +627,7 @@
     "summary_short": "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel τ represents…",
     "legacy_publication_url": "/publications/books/book-iv/part-00-two-arcs-from-one-neutron/",
     "corpus_url": "/corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 42,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 41,
-      "title": "Where Proof Lives",
-      "url": "/corpus/monographs/book-iii/part-10-where-proof-lives/"
-    },
-    "next_part": {
-      "construction_sequence": 43,
-      "title": "The Joint Core: From Neutron to Hydrogen",
-      "url": "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-01-the-joint-core-from-neutron-to-hydrogen",
@@ -1355,24 +642,7 @@
     "summary_short": "Part I is the *Joint Core*: the ten chapters that both the Complexity Arc (Book IV) and the Force Arc (Book V) require as prerequisite. Starting from the τ³…",
     "legacy_publication_url": "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/",
     "corpus_url": "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 43,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 42,
-      "title": "Two Arcs from One Neutron",
-      "url": "/corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/"
-    },
-    "next_part": {
-      "construction_sequence": 44,
-      "title": "Quantum Mechanics as Address Obstruction",
-      "url": "/corpus/monographs/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-02-quantum-mechanics-as-address-obstruction",
@@ -1387,24 +657,7 @@
     "summary_short": "Quantum mechanics is not postulated—it is *derived* from the τ³ geometry. The CR-structure on the fibered product τ³ = τ¹ ×_f T² couples the torus…",
     "legacy_publication_url": "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/",
     "corpus_url": "/corpus/monographs/book-iv/part-02-quantum-mechanics-as-address-obstruction/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 44,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 43,
-      "title": "The Joint Core: From Neutron to Hydrogen",
-      "url": "/corpus/monographs/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
-    },
-    "next_part": {
-      "construction_sequence": 45,
-      "title": "The Electroweak Arc",
-      "url": "/corpus/monographs/book-iv/part-03-the-electroweak-arc/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-03-the-electroweak-arc",
@@ -1419,24 +672,7 @@
     "summary_short": "Forces are not the story—they are *tools* for the story. The complexity arc that began with the neutron (Part I) and continued through quantum mechanics (Part…",
     "legacy_publication_url": "/publications/books/book-iv/part-03-the-electroweak-arc/",
     "corpus_url": "/corpus/monographs/book-iv/part-03-the-electroweak-arc/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 45,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 44,
-      "title": "Quantum Mechanics as Address Obstruction",
-      "url": "/corpus/monographs/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
-    },
-    "next_part": {
-      "construction_sequence": 46,
-      "title": "The Strong Sector and Confinement",
-      "url": "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-04-the-strong-sector-and-confinement",
@@ -1451,24 +687,7 @@
     "summary_short": "The second force tool is the C-sector—the η-generator domain, χ_--dominant, with gauge group SU(3). Where the electroweak arc (Part III) was gentle, the…",
     "legacy_publication_url": "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/",
     "corpus_url": "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 46,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 45,
-      "title": "The Electroweak Arc",
-      "url": "/corpus/monographs/book-iv/part-03-the-electroweak-arc/"
-    },
-    "next_part": {
-      "construction_sequence": 47,
-      "title": "Particles, Generations, and Nuclear Physics",
-      "url": "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-05-particles-generations-and-nuclear-physics",
@@ -1483,24 +702,7 @@
     "summary_short": "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the E₁ spectral page: electromagnetic, weak,…",
     "legacy_publication_url": "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/",
     "corpus_url": "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 47,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 46,
-      "title": "The Strong Sector and Confinement",
-      "url": "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/"
-    },
-    "next_part": {
-      "construction_sequence": 48,
-      "title": "Atoms, Chemistry, and Molecular Structure",
-      "url": "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-06-atoms-chemistry-and-molecular-structure",
@@ -1515,24 +717,7 @@
     "summary_short": "The complexity ladder ascends. Nuclei (Part V) combine with electrons to form atoms. Atoms bond to form molecules. Molecular structure, organic chemistry,…",
     "legacy_publication_url": "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/",
     "corpus_url": "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 48,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 47,
-      "title": "Particles, Generations, and Nuclear Physics",
-      "url": "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/"
-    },
-    "next_part": {
-      "construction_sequence": 49,
-      "title": "Condensed Matter and Fluid Dynamics",
-      "url": "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-07-condensed-matter-and-fluid-dynamics",
@@ -1547,24 +732,7 @@
     "summary_short": "Parts II through VI studied the fiber T² one particle at a time: individual defect bundles, their quantum addresses, their interactions, their chemical…",
     "legacy_publication_url": "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/",
     "corpus_url": "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 49,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 48,
-      "title": "Atoms, Chemistry, and Molecular Structure",
-      "url": "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
-    },
-    "next_part": {
-      "construction_sequence": 50,
-      "title": "The Constants Ledger and the Complexity Summit",
-      "url": "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-iv-part-08-the-constants-ledger-and-the-complexity-summit",
@@ -1579,24 +747,7 @@
     "summary_short": "Part VIII draws together every constant, every derivation, every structural theorem developed throughout Book IV. The complete coupling ledger (Chapter…",
     "legacy_publication_url": "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/",
     "corpus_url": "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/",
-    "publication_book_url": "/publications/books/book-iv/",
-    "construction_sequence": 50,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 49,
-      "title": "Condensed Matter and Fluid Dynamics",
-      "url": "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
-    },
-    "next_part": {
-      "construction_sequence": 51,
-      "title": "The Hermetic Principle",
-      "url": "/corpus/monographs/book-v/part-00-the-hermetic-principle/"
-    }
+    "publication_book_url": "/publications/books/book-iv/"
   },
   {
     "id": "book-v-part-00-the-hermetic-principle",
@@ -1611,24 +762,7 @@
     "summary_short": "center *``The way up and the way down are one and the same.''*\\\\ — Heraclitus, Fragment 60 center Book IV completed the fiber. The torus T², spanned by the…",
     "legacy_publication_url": "/publications/books/book-v/part-00-the-hermetic-principle/",
     "corpus_url": "/corpus/monographs/book-v/part-00-the-hermetic-principle/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 51,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 50,
-      "title": "The Constants Ledger and the Complexity Summit",
-      "url": "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
-    },
-    "next_part": {
-      "construction_sequence": 52,
-      "title": "The Base Itself: Time from τ¹",
-      "url": "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-01-the-base-itself-time-from-tau",
@@ -1643,24 +777,7 @@
     "summary_short": "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle τ¹ of the fibered product τ³ = τ¹ ×_f T² carries…",
     "legacy_publication_url": "/publications/books/book-v/part-01-the-base-itself-time-from-tau/",
     "corpus_url": "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 52,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 51,
-      "title": "The Hermetic Principle",
-      "url": "/corpus/monographs/book-v/part-00-the-hermetic-principle/"
-    },
-    "next_part": {
-      "construction_sequence": 53,
-      "title": "The Connection: Gravity Earned",
-      "url": "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-02-the-connection-gravity-earned",
@@ -1675,24 +792,7 @@
     "summary_short": "Part II is the heart of Book V. Gravity is not a force that happens to exist; it is the fourth primitive holonomy sector of the boundary algebra H_∂[ω],…",
     "legacy_publication_url": "/publications/books/book-v/part-02-the-connection-gravity-earned/",
     "corpus_url": "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 53,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 52,
-      "title": "The Base Itself: Time from τ¹",
-      "url": "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
-    },
-    "next_part": {
-      "construction_sequence": 54,
-      "title": "What Propagates: Thermodynamic Inversion",
-      "url": "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-03-what-propagates-thermodynamic-inversion",
@@ -1707,24 +807,7 @@
     "summary_short": "Part III presents the most philosophically striking result in Book V: the orthodox second law is *inverted*. The arrow of time points toward *order*, not…",
     "legacy_publication_url": "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/",
     "corpus_url": "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 54,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 53,
-      "title": "The Connection: Gravity Earned",
-      "url": "/corpus/monographs/book-v/part-02-the-connection-gravity-earned/"
-    },
-    "next_part": {
-      "construction_sequence": 55,
-      "title": "Collective Dynamics",
-      "url": "/corpus/monographs/book-v/part-04-collective-dynamics/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-04-collective-dynamics",
@@ -1739,24 +822,7 @@
     "summary_short": "Part IV lifts the defect-functional framework from the fiber T² to the macroscopic base τ¹. Book IV, Chapter 53, classified fluid regimes, phase…",
     "legacy_publication_url": "/publications/books/book-v/part-04-collective-dynamics/",
     "corpus_url": "/corpus/monographs/book-v/part-04-collective-dynamics/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 55,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 54,
-      "title": "What Propagates: Thermodynamic Inversion",
-      "url": "/corpus/monographs/book-v/part-03-what-propagates-thermodynamic-inversion/"
-    },
-    "next_part": {
-      "construction_sequence": 56,
-      "title": "Global Structure",
-      "url": "/corpus/monographs/book-v/part-05-global-structure/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-05-global-structure",
@@ -1771,24 +837,7 @@
     "summary_short": "Part V turns Category τ toward the sky. The previous four Parts earned the temporal substrate (Part I), the gravitational connection (Part II), the…",
     "legacy_publication_url": "/publications/books/book-v/part-05-global-structure/",
     "corpus_url": "/corpus/monographs/book-v/part-05-global-structure/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 56,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 55,
-      "title": "Collective Dynamics",
-      "url": "/corpus/monographs/book-v/part-04-collective-dynamics/"
-    },
-    "next_part": {
-      "construction_sequence": 57,
-      "title": "Eternal Dynamics",
-      "url": "/corpus/monographs/book-v/part-06-eternal-dynamics/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-06-eternal-dynamics",
@@ -1803,24 +852,7 @@
     "summary_short": "Part VI turns to the largest questions: *Where does the universe come from? Where does it go? What are black holes?* The answers all flow from a single…",
     "legacy_publication_url": "/publications/books/book-v/part-06-eternal-dynamics/",
     "corpus_url": "/corpus/monographs/book-v/part-06-eternal-dynamics/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 57,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 56,
-      "title": "Global Structure",
-      "url": "/corpus/monographs/book-v/part-05-global-structure/"
-    },
-    "next_part": {
-      "construction_sequence": 58,
-      "title": "The Closure",
-      "url": "/corpus/monographs/book-v/part-07-the-closure/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-v-part-07-the-closure",
@@ -1835,24 +867,7 @@
     "summary_short": "",
     "legacy_publication_url": "/publications/books/book-v/part-07-the-closure/",
     "corpus_url": "/corpus/monographs/book-v/part-07-the-closure/",
-    "publication_book_url": "/publications/books/book-v/",
-    "construction_sequence": 58,
-    "construction_layer": "physics",
-    "construction_layer_label": "Physics",
-    "construction_step_ids": [
-      "CS-05",
-      "CS-06"
-    ],
-    "previous_part": {
-      "construction_sequence": 57,
-      "title": "Eternal Dynamics",
-      "url": "/corpus/monographs/book-v/part-06-eternal-dynamics/"
-    },
-    "next_part": {
-      "construction_sequence": 59,
-      "title": "The Question of Life",
-      "url": "/corpus/monographs/book-vi/part-00-the-question-of-life/"
-    }
+    "publication_book_url": "/publications/books/book-v/"
   },
   {
     "id": "book-vi-part-00-the-question-of-life",
@@ -1867,23 +882,7 @@
     "summary_short": "What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer captures a necessary condition but none is sufficient: fire…",
     "legacy_publication_url": "/publications/books/book-vi/part-00-the-question-of-life/",
     "corpus_url": "/corpus/monographs/book-vi/part-00-the-question-of-life/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 59,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 58,
-      "title": "The Closure",
-      "url": "/corpus/monographs/book-v/part-07-the-closure/"
-    },
-    "next_part": {
-      "construction_sequence": 60,
-      "title": "The Life Definition",
-      "url": "/corpus/monographs/book-vi/part-01-the-life-definition/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-01-the-life-definition",
@@ -1898,23 +897,7 @@
     "summary_short": "All formal machinery in one Part. The **Parity Bridge Theorem** identifies the weak sector's unique parity violation as the sole polarity seed for…",
     "legacy_publication_url": "/publications/books/book-vi/part-01-the-life-definition/",
     "corpus_url": "/corpus/monographs/book-vi/part-01-the-life-definition/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 60,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 59,
-      "title": "The Question of Life",
-      "url": "/corpus/monographs/book-vi/part-00-the-question-of-life/"
-    },
-    "next_part": {
-      "construction_sequence": 61,
-      "title": "Persistence — Archaea and the Temporal Axis",
-      "url": "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-02-persistence-archaea-and-the-temporal-axis",
@@ -1929,23 +912,7 @@
     "summary_short": "The α-sector: **temporal stability, homeostasis, deep time**. The persistence sector is the first of four primitive Life sectors, anchored on the temporal…",
     "legacy_publication_url": "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/",
     "corpus_url": "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 61,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 60,
-      "title": "The Life Definition",
-      "url": "/corpus/monographs/book-vi/part-01-the-life-definition/"
-    },
-    "next_part": {
-      "construction_sequence": 62,
-      "title": "Agency — Bacteria and the Spatial Axis",
-      "url": "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-03-agency-bacteria-and-the-spatial-axis",
@@ -1960,23 +927,7 @@
     "summary_short": "The π-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the τ¹ base. Bacteria—the most…",
     "legacy_publication_url": "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/",
     "corpus_url": "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 62,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 61,
-      "title": "Persistence — Archaea and the Temporal Axis",
-      "url": "/corpus/monographs/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
-    },
-    "next_part": {
-      "construction_sequence": 63,
-      "title": "Source — Plants and the Production Fiber",
-      "url": "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-04-source-plants-and-the-production-fiber",
@@ -1991,23 +942,7 @@
     "summary_short": "The γ-sector: **structure generation, photosynthesis, carbon fixation**. The source/producer sector operates on the production channel of the metabolic fiber…",
     "legacy_publication_url": "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/",
     "corpus_url": "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 63,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 62,
-      "title": "Agency — Bacteria and the Spatial Axis",
-      "url": "/corpus/monographs/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
-    },
-    "next_part": {
-      "construction_sequence": 64,
-      "title": "Closure — Fungi and the Recycling Fiber",
-      "url": "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-05-closure-fungi-and-the-recycling-fiber",
@@ -2022,23 +957,7 @@
     "summary_short": "The η-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…",
     "legacy_publication_url": "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/",
     "corpus_url": "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 64,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 63,
-      "title": "Source — Plants and the Production Fiber",
-      "url": "/corpus/monographs/book-vi/part-04-source-plants-and-the-production-fiber/"
-    },
-    "next_part": {
-      "construction_sequence": 65,
-      "title": "Consumer — Animals and the Mixed Sector",
-      "url": "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-06-consumer-animals-and-the-mixed-sector",
@@ -2053,23 +972,7 @@
     "summary_short": "The (γ, η) mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…",
     "legacy_publication_url": "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/",
     "corpus_url": "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 65,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 64,
-      "title": "Closure — Fungi and the Recycling Fiber",
-      "url": "/corpus/monographs/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
-    },
-    "next_part": {
-      "construction_sequence": 66,
-      "title": "Cosmic Life",
-      "url": "/corpus/monographs/book-vi/part-07-cosmic-life/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-07-cosmic-life",
@@ -2084,23 +987,7 @@
     "summary_short": "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier T(H_BH) satisfies both Distinction and SelfDesc with the…",
     "legacy_publication_url": "/publications/books/book-vi/part-07-cosmic-life/",
     "corpus_url": "/corpus/monographs/book-vi/part-07-cosmic-life/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 66,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 65,
-      "title": "Consumer — Animals and the Mixed Sector",
-      "url": "/corpus/monographs/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
-    },
-    "next_part": {
-      "construction_sequence": 67,
-      "title": "Consciousness, Language, and the Bridge to E₃",
-      "url": "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vi-part-08-consciousness-language-and-the-bridge-to-e",
@@ -2115,23 +1002,7 @@
     "summary_short": "The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…",
     "legacy_publication_url": "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/",
     "corpus_url": "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/",
-    "publication_book_url": "/publications/books/book-vi/",
-    "construction_sequence": 67,
-    "construction_layer": "life",
-    "construction_layer_label": "Life",
-    "construction_step_ids": [
-      "CS-07"
-    ],
-    "previous_part": {
-      "construction_sequence": 66,
-      "title": "Cosmic Life",
-      "url": "/corpus/monographs/book-vi/part-07-cosmic-life/"
-    },
-    "next_part": {
-      "construction_sequence": 68,
-      "title": "The Third Self-Enrichment",
-      "url": "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/"
-    }
+    "publication_book_url": "/publications/books/book-vi/"
   },
   {
     "id": "book-vii-part-00-the-third-self-enrichment",
@@ -2146,25 +1017,7 @@
     "summary_short": "Book VII is the E₃ layer—the third and final self-enrichment of the coherence kernel. At E₂, a system carries and decodes its own code. At E₃, a…",
     "legacy_publication_url": "/publications/books/book-vii/part-00-the-third-self-enrichment/",
     "corpus_url": "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 68,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 67,
-      "title": "Consciousness, Language, and the Bridge to E₃",
-      "url": "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
-    },
-    "next_part": {
-      "construction_sequence": 69,
-      "title": "The Metaphysics Definition",
-      "url": "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-01-the-metaphysics-definition",
@@ -2179,25 +1032,7 @@
     "summary_short": "Part I builds the formal apparatus that governs all subsequent Parts. The **four-register model** decomposes metaphysical reasoning into four independent…",
     "legacy_publication_url": "/publications/books/book-vii/part-01-the-metaphysics-definition/",
     "corpus_url": "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 69,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 68,
-      "title": "The Third Self-Enrichment",
-      "url": "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/"
-    },
-    "next_part": {
-      "construction_sequence": 70,
-      "title": "Categorical Ontology",
-      "url": "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-02-categorical-ontology",
@@ -2212,25 +1047,7 @@
     "summary_short": "**Sector S_E (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure τ whose admissible constructions…",
     "legacy_publication_url": "/publications/books/book-vii/part-02-categorical-ontology/",
     "corpus_url": "/corpus/monographs/book-vii/part-02-categorical-ontology/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 70,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 69,
-      "title": "The Metaphysics Definition",
-      "url": "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
-    },
-    "next_part": {
-      "construction_sequence": 71,
-      "title": "Categorical Phenomenology",
-      "url": "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-03-categorical-phenomenology",
@@ -2245,25 +1062,7 @@
     "summary_short": "**Sector S_E (Empirical), Part 2 of 2.** How do we know? **Knowledge is sections over experience**—justified belief is sheaf gluing; perception is constraint…",
     "legacy_publication_url": "/publications/books/book-vii/part-03-categorical-phenomenology/",
     "corpus_url": "/corpus/monographs/book-vii/part-03-categorical-phenomenology/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 71,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 70,
-      "title": "Categorical Ontology",
-      "url": "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-    },
-    "next_part": {
-      "construction_sequence": 72,
-      "title": "Categorical Aesthetics",
-      "url": "/corpus/monographs/book-vii/part-04-categorical-aesthetics/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-04-categorical-aesthetics",
@@ -2278,25 +1077,7 @@
     "summary_short": "**Sector S_D (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…",
     "legacy_publication_url": "/publications/books/book-vii/part-04-categorical-aesthetics/",
     "corpus_url": "/corpus/monographs/book-vii/part-04-categorical-aesthetics/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 72,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 71,
-      "title": "Categorical Phenomenology",
-      "url": "/corpus/monographs/book-vii/part-03-categorical-phenomenology/"
-    },
-    "next_part": {
-      "construction_sequence": 73,
-      "title": "Categorical Language & Meaning",
-      "url": "/corpus/monographs/book-vii/part-05-categorical-language-meaning/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-05-categorical-language-meaning",
@@ -2311,25 +1092,7 @@
     "summary_short": "**Sector S_D (Diagrammatic), Part 2 of 3.** How does meaning arise? Language adds **temporalization and mortality awareness**— the subsymbolic is real and…",
     "legacy_publication_url": "/publications/books/book-vii/part-05-categorical-language-meaning/",
     "corpus_url": "/corpus/monographs/book-vii/part-05-categorical-language-meaning/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 73,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 72,
-      "title": "Categorical Aesthetics",
-      "url": "/corpus/monographs/book-vii/part-04-categorical-aesthetics/"
-    },
-    "next_part": {
-      "construction_sequence": 74,
-      "title": "Categorical Logic & Inference",
-      "url": "/corpus/monographs/book-vii/part-06-categorical-logic-inference/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-06-categorical-logic-inference",
@@ -2344,25 +1107,7 @@
     "summary_short": "**Sector S_D (Diagrammatic), Part 3 of 3.** What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent. Truth-bearers are…",
     "legacy_publication_url": "/publications/books/book-vii/part-06-categorical-logic-inference/",
     "corpus_url": "/corpus/monographs/book-vii/part-06-categorical-logic-inference/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 74,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 73,
-      "title": "Categorical Language & Meaning",
-      "url": "/corpus/monographs/book-vii/part-05-categorical-language-meaning/"
-    },
-    "next_part": {
-      "construction_sequence": 75,
-      "title": "Categorical Ethics & the Kantian Bridge",
-      "url": "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-07-categorical-ethics-the-kantian-bridge",
@@ -2377,25 +1122,7 @@
     "summary_short": "**Sector S_P (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…",
     "legacy_publication_url": "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/",
     "corpus_url": "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 75,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 74,
-      "title": "Categorical Logic & Inference",
-      "url": "/corpus/monographs/book-vii/part-06-categorical-logic-inference/"
-    },
-    "next_part": {
-      "construction_sequence": 76,
-      "title": "Categorical Societies",
-      "url": "/corpus/monographs/book-vii/part-08-categorical-societies/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-08-categorical-societies",
@@ -2410,25 +1137,7 @@
     "summary_short": "**Sector S_P (Practical), Part 2 of 2.** How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles, globes, and foams. Dunbar…",
     "legacy_publication_url": "/publications/books/book-vii/part-08-categorical-societies/",
     "corpus_url": "/corpus/monographs/book-vii/part-08-categorical-societies/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 76,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 75,
-      "title": "Categorical Ethics & the Kantian Bridge",
-      "url": "/corpus/monographs/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
-    },
-    "next_part": {
-      "construction_sequence": 77,
-      "title": "Categorical Mind & Consciousness",
-      "url": "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-09-categorical-mind-consciousness",
@@ -2443,25 +1152,7 @@
     "summary_short": "**Sector S_C (Commitment).** What is mind? **Minds are internal topoi**—self-models with story functors. Consciousness is global section; intentionality is…",
     "legacy_publication_url": "/publications/books/book-vii/part-09-categorical-mind-consciousness/",
     "corpus_url": "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 77,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 76,
-      "title": "Categorical Societies",
-      "url": "/corpus/monographs/book-vii/part-08-categorical-societies/"
-    },
-    "next_part": {
-      "construction_sequence": 78,
-      "title": "The Logos Sector",
-      "url": "/corpus/monographs/book-vii/part-10-the-logos-sector/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-10-the-logos-sector",
@@ -2476,56 +1167,21 @@
     "summary_short": "**Sector S_L (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…",
     "legacy_publication_url": "/publications/books/book-vii/part-10-the-logos-sector/",
     "corpus_url": "/corpus/monographs/book-vii/part-10-the-logos-sector/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 78,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 77,
-      "title": "Categorical Mind & Consciousness",
-      "url": "/corpus/monographs/book-vii/part-09-categorical-mind-consciousness/"
-    },
-    "next_part": {
-      "construction_sequence": 79,
-      "title": "The Final Boundary: From Proof to Commitment",
-      "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   },
   {
     "id": "book-vii-part-12-the-final-boundary-from-proof-to-commitment",
     "book_id": "VII",
     "book_slug": "book-vii",
-    "part_number": 11,
+    "part_number": 12,
     "display_name": "Part XII",
     "title": "The Final Boundary: From Proof to Commitment",
-    "slug": "part-11-the-final-boundary-from-proof-to-commitment",
-    "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/",
+    "slug": "part-12-the-final-boundary-from-proof-to-commitment",
+    "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/",
     "chapter_count": 4,
     "summary_short": "The ω-germ question—whether ω is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…",
     "legacy_publication_url": "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/",
     "corpus_url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/",
-    "publication_book_url": "/publications/books/book-vii/",
-    "construction_sequence": 79,
-    "construction_layer": "metaphysics",
-    "construction_layer_label": "Metaphysics",
-    "construction_step_ids": [
-      "CS-08",
-      "CS-09",
-      "CS-10"
-    ],
-    "previous_part": {
-      "construction_sequence": 78,
-      "title": "The Logos Sector",
-      "url": "/corpus/monographs/book-vii/part-10-the-logos-sector/"
-    },
-    "next_part": {
-      "title": "Construction Map overview",
-      "url": "/corpus/construction-map/"
-    }
+    "publication_book_url": "/publications/books/book-vii/"
   }
 ]

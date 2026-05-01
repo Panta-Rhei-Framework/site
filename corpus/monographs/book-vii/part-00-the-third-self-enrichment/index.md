@@ -40,79 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 68
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
-chapter_refs:
-  -
-    id: "book-vii-ch-01"
-    chapter_number: 1
-    title: "The Third Self-Enrichment: Entry to E₃"
-    url: "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/chapter-01-the-third-self-enrichment-entry-to-e/"
-    slug: "chapter-01-the-third-self-enrichment-entry-to-e"
-  -
-    id: "book-vii-ch-02"
-    chapter_number: 2
-    title: "Map of Book VII"
-    url: "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/"
-    slug: "chapter-02-map-of-book-vii"
-registry_refs:
-  -
-    id: "VI.D86"
-    url: "/registry/object/VI.D86/"
-  -
-    id: "VI.T40"
-    url: "/registry/object/VI.T40/"
-  -
-    id: "VII.R01"
-    url: "/registry/object/VII.R01/"
-  -
-    id: "VII.R02"
-    url: "/registry/object/VII.R02/"
-  -
-    id: "VII.T06"
-    url: "/registry/object/VII.T06/"
-taulib_refs:
-  -
-    module: "TauLib.BookVI.Mind.Bridge"
-    title: "TauLib.BookVI.Mind.Bridge"
-    status: "available"
-    url: "/corpus/taulib/docs/book-vi-mind-bridge/"
-    registry_ids:
-      - "VI.T40"
-  -
-    module: "TauLib.BookVI.Mind.Consciousness"
-    title: "TauLib.BookVI.Mind.Consciousness"
-    status: "available"
-    url: "/corpus/taulib/docs/book-vi-mind-consciousness/"
-    registry_ids:
-      - "VI.D86"
-  -
-    module: "TauLib.BookVII.Meta.Saturation"
-    title: "TauLib.BookVII.Meta.Saturation"
-    status: "available"
-    url: "/corpus/taulib/docs/book-vii-meta-saturation/"
-    registry_ids:
-      - "VII.T06"
-  -
-    module: "TauLib.Tour.GuidedTour.BookVII"
-    title: "TauLib.Tour.GuidedTour.BookVII"
-    status: "available"
-    url: "/corpus/taulib/docs/tour-guided-tour-book-vii/"
-    registry_ids:
-      - "VII.T06"
-previous_part:
-  construction_sequence: 67
-  title: "Consciousness, Language, and the Bridge to E₃"
-  url: "/corpus/monographs/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
-next_part:
-  construction_sequence: 69
-  title: "The Metaphysics Definition"
-  url: "/corpus/monographs/book-vii/part-01-the-metaphysics-definition/"
 ---
 
 Book VII is the E₃ layer—the third and final self-enrichment of the coherence kernel.
@@ -129,3 +56,8 @@ The Prologue previews the arc: formal machinery (Part I), the four sectors of
 metaphysics S_E, S_D, S_P, S_C across Parts II–IX, the Logos sector S_L
 (Part X), Genesis exegesis (Part XI), and the final boundary where proof gives way
 to commitment (Part XII).
+
+## Chapters
+
+- **[Chapter 1: The Third Self-Enrichment: Entry to E₃]({{ '/corpus/monographs/book-vii/part-00-the-third-self-enrichment/chapter-01-the-third-self-enrichment-entry-to-e/' | relative_url }})**
+- **[Chapter 2: Map of Book VII]({{ '/corpus/monographs/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/' | relative_url }})**

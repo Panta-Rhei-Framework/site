@@ -24,7 +24,7 @@ summary_short: "Remark [rem:naturality] in Part XIII observed informally that to
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-16-the-presheaf-essence/"
-canonical_part_title: "The Presheaf Essence"
+canonical_part_title: "Part XVI: The Presheaf Essence"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-16-the-presheaf-essence/chapter-69-holomorphy-as-naturality/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 17
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 Remark [rem:naturality] in Part XIII observed informally

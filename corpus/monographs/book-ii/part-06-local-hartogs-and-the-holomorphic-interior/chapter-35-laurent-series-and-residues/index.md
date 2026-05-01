@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holo
 prev_chapter_title: "Chapter 34: Composition, Identity, Associativity"
 next_chapter_url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-36-the-canonical-holomorphic-basis-b/"
 next_chapter_title: "Chapter 36: The Canonical Holomorphic Basis B"
-summary_short: "Without SO(2), contour integrals, or annular domains, the τ-setting recovers a full Laurent–Residue theory: bipolar spectral decomposition replaces circular Fourier analysis, and the Residue Theorem (*II.T30*) equates the spectral trace with the sum of residues."
+summary_short: "Classical Laurent theory expands a holomorphic function in an annulus {r₁ < |z| < r₂} as a doubly-infinite power series ∑_{n=-∞}^∞ a_n z^n, with the…"
 canonical_book_url: "/corpus/monographs/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/corpus/monographs/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
-canonical_part_title: "Local Hartogs and the Holomorphic Interior"
+canonical_part_title: "Part VI: Local Hartogs and the Holomorphic Interior"
 publication_book_url: "/publications/books/book-ii/"
 legacy_publication_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-35-laurent-series-and-residues/"
 right_rail:
@@ -51,29 +51,44 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 25
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-02"
-  - "CS-03"
 ---
 
-Classical Laurent theory relies on three ingredients that the τ-setting does not possess: circular SO(2) symmetry, contour integration via the 2πi factor, and convergence in the Archimedean topology of ℂ. None survives the passage to the split-complex regime. Yet the central results of Laurent theory — doubly-infinite expansion, residues as distinguished coefficients, and a residue theorem — all have τ-analogues, reconstructed from bipolar spectral decomposition and discrete Fourier transforms on finite cyclic groups.
-
-## What this chapter contributes
-
-- **Definitions:** *II.D42 — Laurent Expansion*: every ω-germ transformer f decomposes as f = Σ_n a_n^(+) e_+ φ_n^(+) + Σ_n a_n^(-) e_- φ_n^(-), where the spectral coefficients a_n^(±) are extracted by finite DFT averages over ℤ/P_kℤ in the limit k → ∞; positive n gives regular terms, negative n gives the principal part. *II.D43 — Residue*: Res_x(f) = a_{-1}^(+) e_+ + a_{-1}^(-) e_- ∈ H_τ — the spectral coefficient at frequency n = −1, extracted independently from each channel without contour integration. *II.D44 — Meromorphic Function*: holomorphic on a co-finite set of τ-admissible points, with finite principal part at each excluded point; meromorphic functions form a category extending *HolEnd_τ*.
-- **Key results:** *II.T30 — Residue Theorem*: Tr_spec(f) = Σ_i Res_{x_i}(f), where the spectral trace is the stage-averaged limit of f over ℤ/P_kℤ. Proof: DFT orthogonality on cyclic groups picks out the zeroth coefficient; holomorphic terms contribute zero; only principal-part terms survive. The residue may have a nonzero j-component when the two channel residues differ — a genuinely split-complex phenomenon with no classical analogue.
-- **Structural results:** spectral decay bound |a_n^(±)| ≤ C · e^(−ι_τ|n|) for n > 0, coupling e (growth rate, *II.T23*) and ι_τ (*II.T25*) via the BndLift damping; π governs the spectral periodicity of the sector basis functions (*II.T22*). The residue vanishes at x_0 if and only if f extends holomorphically through x_0.
-- **Dependencies:** *I.D20*, *I.D21*, *I.T10*, *I.T18*, *I.P02*, *II.D01*, *II.D35*, *II.D39*, *II.D41*, *II.D45*, *II.T25*, *II.T26*, *II.T29*.
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module. A module `BookII.Hartogs.LaurentResidue` is planned.
-
-## Where this leads
-
-Chapter 36 extracts the underlying basis implicit in the Laurent expansion: the cylinder generators E_{k,v}^(σ), indexed by (stage, peel token, channel) triples, form the canonical holomorphic basis B_τ forced by CRT, bipolar idempotents, and NF addressing — with no coordinate freedom and trivial transition functions across cylinder overlaps.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-02/part06/ch34-laurent-residues.tex -->
+Classical Laurent theory
+expands a holomorphic function
+in an annulus {r₁ < |z| < r₂}
+as a doubly-infinite power series
+∑_{n=-∞}^∞ a_n z^n,
+with the residue a_-1
+computed by contour integration
+around the singularity Ahlfors1979,Conway1978.
+None of this machinery is available
+in the split-complex setting:
+there is no rotation group SO(2),
+no contour integration,
+and no annular domains
+in the sense of ℂ.
+This chapter develops the
+τ-analogue of Laurent expansion.
+The key insight is that the bipolar spectral decomposition
+(I.T10, I.D21, Book I)
+replaces the circular Fourier decomposition.
+A τ-holomorphic function
+decomposes into two independent channel series:
+<div class="math-display">f
+ =
+ ∑_n a_n e_+ φ_n^(+)
+ +
+ ∑_n b_n e_- φ_n^(-),</div>
+where φ_n^(±) are the sector basis functions.
+**Residues** emerge as
+spectral coefficients at distinguished frequencies
+(the relevant definition, II.D43)—not
+from contour integrals but from
+the spectral projection operators
+of Part V's calibration.
+The **Residue Theorem**
+(the relevant theorem, II.T30)
+shows that the sum of residues
+equals the **spectral trace**,
+a quantity computable from the
+boundary character alone.

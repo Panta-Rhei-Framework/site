@@ -24,7 +24,7 @@ summary_short: "Books I through III built the mathematical kernel of Category τ
 canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/corpus/monographs/book-iv/part-00-two-arcs-from-one-neutron/"
-canonical_part_title: "Two Arcs from One Neutron"
+canonical_part_title: "Prologue: Two Arcs from One Neutron"
 publication_book_url: "/publications/books/book-iv/"
 legacy_publication_url: "/publications/books/book-iv/part-00-two-arcs-from-one-neutron/chapter-02-importing-book-iii-the-e-template/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 42
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
 ---
 
 Books I through III built the mathematical kernel of Category τ:

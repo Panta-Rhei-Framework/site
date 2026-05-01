@@ -24,7 +24,7 @@ summary_short: "Parts VIII–XI built the finite-stage data of τ: modular arith
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-12-holomorphic-transformers/"
-canonical_part_title: "Holomorphic Transformers"
+canonical_part_title: "Part XII: Holomorphic Transformers"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 13
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 Parts VIII–XI built the finite-stage data of τ:

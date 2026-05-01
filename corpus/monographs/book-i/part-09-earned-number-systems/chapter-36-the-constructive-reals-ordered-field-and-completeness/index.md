@@ -24,7 +24,7 @@ summary_short: "Chapter [ch:number-tower] defined ℝ_τ as the Cauchy completio
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-09-earned-number-systems/"
-canonical_part_title: "Earned Number Systems"
+canonical_part_title: "Part IX: Earned Number Systems"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 10
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 the relevant chapter defined ℝ_τ

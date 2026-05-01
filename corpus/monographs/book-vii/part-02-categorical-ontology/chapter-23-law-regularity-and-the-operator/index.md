@@ -24,7 +24,7 @@ summary_short: "Laws of nature are not mere regularities in the Humean sense, no
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-canonical_part_title: "Categorical Ontology"
+canonical_part_title: "Part II: Categorical Ontology"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-23-law-regularity-and-the-operator/"
 right_rail:
@@ -51,30 +51,19 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 70
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-The Humean regularity theory and the Armstrong necessitation theory share a common presupposition that this chapter removes: both begin with substance ontology and then ask what laws add to it. The τ-framework reverses the explanatory order: laws constitute the world by determining which configurations are admissible, and substances emerge as the stable patterns the laws produce. The Law as Admissible Continuation definition (*VII.D31*) formalizes a law as an operator Λ: Loc(𝒦_τ) → Ext(𝒦_τ) satisfying three conditions — compatibility (L1), uniqueness (L2), and maximality (L3) — which mirror analytic continuation in complex analysis. A law is not a summary of what has happened but the structural constraint determining what must happen given local data. The Operator Realism Theorem (*VII.T12*) then proves that the classification of admissible continuation operators is a structural invariant: unique by the identity theorem for holomorphic continuation, rigidity-invariant because Aut(τ) = {id}, and observer-independent because the operator classification is j-closed in the presheaf topos and preserved by every faithful readout functor. Operator realism is stronger than Armstrong's position because realism is derived, not postulated. The chapter closes with a four-level taxonomy of operators from E₀ (mathematical laws) through E₁ (physical), E₂ (biological), and E₃ (metaphysical).
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *VII.D31 — Law as Admissible Continuation* (τ-effective): operator Λ with conditions L1–L3 (compatibility, uniqueness, maximality) formalizing laws as holomorphic extensions of local data.
-- **Key results:** *VII.T12 — Operator Realism*: three-part theorem establishing uniqueness, rigidity-invariance, and observer-independence of the operator classification, proved from the identity theorem for holomorphic continuation, rigidity of τ, and j-closure machinery.
-- **Notation introduced:** Loc(𝒦_τ) (local data category); Ext(𝒦_τ) (maximal coherent extensions); Λ (admissible continuation operator).
-- **Dependencies:** Book II Part I (analytic continuation principle, identity theorem); Book I (rigidity of τ); Chapter 19 (j-closed subobjects in presheaf topos); Chapter 17 (axioms K0–K6).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-Chapter 24 applies the operator framework to causation, space, and time, providing categorical reconstructions of all three and dissolving both the block-universe debate and the search for the "secret connexion" in causation theory.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part02/ch23.tex -->
+Laws of nature are not mere regularities in the Humean sense, nor
+brute necessitations in the Armstrong sense. They are *admissible
+continuation operators*—structural features of the coherence
+kernel K_τ that determine which extensions of a given
+configuration are τ-admissible and which are not. The analytic
+continuation principle of holomorphy (Book II) provides the formal
+mechanism: a law is an operator that takes a local datum and extends it
+uniquely to the maximal domain of coherence. The Operator Realism
+Theorem proves that the classification of admissible continuation
+operators is a structural invariant of the kernel—it is
+mind-independent, convention-independent, and observer-independent.
+The Humean debate between regularity theorists and necessitarians is
+dissolved: both sides presuppose substance ontology, and both are
+superseded by operator realism.

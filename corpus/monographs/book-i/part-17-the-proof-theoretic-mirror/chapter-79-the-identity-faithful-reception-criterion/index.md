@@ -22,7 +22,7 @@ summary_short: "The preceding two chapters established that diagonal resonance (
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-17-the-proof-theoretic-mirror/"
-canonical_part_title: "The Proof-Theoretic Mirror"
+canonical_part_title: "Part XVII: The Proof-Theoretic Mirror"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/"
 right_rail:
@@ -49,12 +49,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 18
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 The preceding two chapters established

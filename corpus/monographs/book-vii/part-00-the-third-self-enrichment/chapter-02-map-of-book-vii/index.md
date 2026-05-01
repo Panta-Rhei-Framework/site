@@ -24,7 +24,7 @@ summary_short: "Structural road map. The 4+1 sector decomposition at E₃ is pre
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-00-the-third-self-enrichment/"
-canonical_part_title: "The Third Self-Enrichment"
+canonical_part_title: "Prologue: The Third Self-Enrichment"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/"
 right_rail:
@@ -51,13 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 68
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
 Structural road map. The 4+1 sector decomposition at E₃ is previewed: S_E (Empirical, Parts II–III), S_D (Diagrammatic, Parts IV–VI), S_P (Practical, Parts VII–VIII), S_C (Commitment, Part IX), and S_L (Logos, Part X). The reader is oriented within the thirteen-Part architecture.

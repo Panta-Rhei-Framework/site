@@ -24,7 +24,7 @@ summary_short: "Energy and entropy exist at the substrate level—before any par
 canonical_book_url: "/corpus/monographs/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/corpus/monographs/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
-canonical_part_title: "Quantum Mechanics as Address Obstruction"
+canonical_part_title: "Part II: Quantum Mechanics as Address Obstruction"
 publication_book_url: "/publications/books/book-iv/"
 legacy_publication_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-19-energy-entropy-and-the-arrow/"
 right_rail:
@@ -51,29 +51,12 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 44
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
 ---
 
-Energy and entropy are usually defined in terms of particles, but in τ³ both exist at the substrate level before any particle appears. Energy is holomorphic tension: the coherence budget required to keep a configuration's T² torus shape aligned with its τ¹ character motion, expressed as E[C] = ∫_{τ³} T(x) dμ(x). The two standard energy formulas—E = mc² (stiffness of the torus against the background solenoidal expansion) and E = ℏω (frequency of character circulation on the lemniscate)—are the same spectral eigenvalue of the universal operator H_∞, viewed from different representations. Energy conservation follows from the τ-Hartogs extension theorem of Book II: because boundary data on 𝕃 is fixed, total holomorphic tension is invariant. Entropy is holomorphic branching, S(n) = ln b_holo(n), counting CR-compatible paths accessible from a configuration. The second law is then structural: the ultrametric coordinate of τ¹ refines only forward, making the α-orbit inherently asymmetric. No Past Hypothesis is needed; the arrow of time is built into the topology.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *IV.D41 — Graph Energy Density*. ρ_E(n) = lim_{r→∞} E_r(n)/N(r) at a Cayley graph node; coarse-grains to holomorphic tension density on τ³.
-- **Definitions / Axioms:** *IV.D42 — Holomorphic Entropy*. S(n) = ln b_holo(n), the logarithm of the holomorphic branching factor; equivalently the exponential growth rate of CR-compatible paths from n.
-- **Key results:** *IV.P07 — Energy as Tension Integral* (τ-effective): E[C] = ∫ T(x) dμ(x); total energy is the integrated holomorphic tension over τ³.
-- **Dependencies:** Chapter 13 (CR-structure, τ³ fibration measure), Chapters 15–16 (H_τ, spectral eigenvalues); Book II τ-Hartogs extension theorem (energy conservation); Book III categorical cascade (entropy as spectral-to-combinatorial drift).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-Chapter 20 assembles the Part II results into the first quantitative prediction of the τ³ framework: the neutron-to-electron mass ratio R₀ = ι_τ^{−7} − √3 ι_τ^{−2} ≈ 1838.7, derived via breathing modes, the Epstein zeta function, and a holonomy correction.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-04/part02/ch19-energy-entropy-arrow.tex -->
+Energy and entropy exist at the substrate level—before any particle
+appears. In τ³, energy is **holomorphic tension**: the
+coherence budget required to maintain CR-compatibility. Entropy
+measures **holomorphic branching**—how many distinct
+CR-compatible paths exist from one configuration to another. Together,
+they determine the arrow of time: entropy increases along the α-orbit
+because proto-time is structurally asymmetric.

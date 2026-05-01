@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-vii/part-06-categorical-logic-inferen
 prev_chapter_title: "Chapter 66: Boolean Logic at the Micro Scale"
 next_chapter_url: "/corpus/monographs/book-vii/part-06-categorical-logic-inference/chapter-68-internal-randomness/"
 next_chapter_title: "Chapter 68: Internal Randomness"
-summary_short: "At the micro scale logic is Boolean, but at the meso and macro scales—where multiple NF addresses are involved, evidence is partial, and competing hypotheses must be weighed—logic becomes Bayesian. This chapter shows that the transition is a structural consequence of scale, not an epistemic deficiency."
+summary_short: "At the micro scale, logic is Boolean: a morphism exists or does not, a diagram commutes or does not (Chapter [ch:boolean-micro]). At the meso and macro…"
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-06-categorical-logic-inference/"
-canonical_part_title: "Categorical Logic & Inference"
+canonical_part_title: "Part VI: Categorical Logic & Inference"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-67-bayesian-inference-at-meso-macro-scale/"
 right_rail:
@@ -51,29 +51,16 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 74
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-At the micro scale, logic is Boolean: a morphism exists or does not, a diagram commutes or does not. At the meso and macro scales—where multiple NF addresses are involved, evidence is partial, and competing hypotheses must be weighed—logic becomes Bayesian. Degrees of credence replace binary truth values, and belief revision follows from conditional probability understood as a categorical operation: Bayesian update is a morphism in Prob, the category of probability measures and Markov kernels, not a rule imposed from outside the framework. The transition from Boolean to Bayesian is not a departure from τ-logic but a structural consequence of the observer's partial resolution of the kernel's address space.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *VII.D58 — Bayesian Meso-Logic* (τ-effective). Defines meso-propositions as propositions over multiple NF addresses with incomplete resolution; specifies credence values in [0, 1], the embedding Bool ↪ Bayes via T ↦ 1, F ↦ 0, Bayesian conditioning as the update rule, and the Kolmogorov coherence requirement.
-- **Key results:** *VII.T23 — Scale-Dependent Logic* (τ-effective): τ's logic is stratified into three strata and a boundary regime—Boolean (micro), Bayesian (meso), presheaf (macro), and Truth4 (boundary)—with functorial embedding relations Bool ↪ Bayes ↪ Presheaf ensuring global consistency. The chapter also argues that credence ≠ fuzzy truth value: credences are observer-kernel interface features, not partial truth.
-- **Dependencies:** Chapter 66 (Boolean micro-logic, VII.D57, VII.T22); Boolean recovery theorem (Proposition I.P13, Book I); Kolmogorov axioms (introduced here, developed fully in Chapter 70).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module. The categorical treatment of Bayesian update as a morphism in `Prob` is the natural entry point for a future `MesoLogic.Bayesian` module.
-
-## Where this leads
-
-Chapter 68 examines how randomness arises internally from incompressibility rather than from any external source, grounding the probabilistic character of meso-scale inference in the kernel's own structural complexity.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part06/ch67.tex -->
+At the micro scale, logic is Boolean: a morphism exists or does not,
+a diagram commutes or does not . At
+the meso and macro scales—where multiple NF addresses are involved,
+where evidence is partial, and where competing hypotheses must be
+weighed—logic becomes Bayesian. Degrees of credence replace binary
+truth values, and belief revision follows from conditional probability
+understood as a categorical operation. This transition is not a
+departure from τ-logic but a structural consequence of scale:
+when the observer cannot resolve individual addresses, uncertainty
+enters not as an epistemic deficiency but as a feature of the scale
+at which inquiry is conducted.

@@ -40,51 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 7
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
-chapter_refs:
-  -
-    id: "book-i-ch-26"
-    chapter_number: 26
-    title: "The Spectral Question: What Do Primes See?"
-    url: "/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/chapter-26-the-spectral-question-what-do-primes-see/"
-    slug: "chapter-26-the-spectral-question-what-do-primes-see"
-  -
-    id: "book-i-ch-27"
-    chapter_number: 27
-    title: "The Prime Polarity Theorem"
-    url: "/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/chapter-27-the-prime-polarity-theorem/"
-    slug: "chapter-27-the-prime-polarity-theorem"
-registry_refs:
-  -
-    id: "I.T05"
-    url: "/registry/object/I.T05/"
-taulib_refs:
-  -
-    module: "TauLib.BookI.Polarity.Polarity"
-    title: "TauLib.BookI.Polarity.Polarity"
-    status: "available"
-    url: "/corpus/taulib/docs/book-i-polarity-polarity/"
-    registry_ids:
-      - "I.T05"
-  -
-    module: "TauLib.BookI.Polarity.Spectral"
-    title: "TauLib.BookI.Polarity.Spectral"
-    status: "available"
-    url: "/corpus/taulib/docs/book-i-polarity-spectral/"
-    registry_ids: []
-previous_part:
-  construction_sequence: 6
-  title: "Hyperfactorization"
-  url: "/corpus/monographs/book-i/part-05-hyperfactorization/"
-next_part:
-  construction_sequence: 8
-  title: "Omega-Germs & the Algebraic Lemniscate"
-  url: "/corpus/monographs/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
 ---
 
 The Hyperfactorization Theorem (Part V) established
@@ -121,3 +76,8 @@ the relevant chapter states and proves
 the Prime Polarity Theorem,
 including the stabilization mechanism
 that determines each prime's polarity.
+
+## Chapters
+
+- **[Chapter 26: The Spectral Question: What Do Primes See?]({{ '/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/chapter-26-the-spectral-question-what-do-primes-see/' | relative_url }})**
+- **[Chapter 27: The Prime Polarity Theorem]({{ '/corpus/monographs/book-i/part-06-the-prime-polarity-theorem/chapter-27-the-prime-polarity-theorem/' | relative_url }})**

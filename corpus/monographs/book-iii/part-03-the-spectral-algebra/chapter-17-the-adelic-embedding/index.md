@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chap
 prev_chapter_title: "Chapter 16: Hensel Lifting and Local Fields"
 next_chapter_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
 next_chapter_title: "Chapter 18: The Internal Bipolar Classifier"
-summary_short: "The τ-adele ring A_τ = ∏'_p ℤₚ^τ is defined as a restricted product with no archimedean factor; the Adelic Embedding Theorem III.T12 diagonally embeds τ into A_τ and proves the adelic Euler product formula."
+summary_short: "The CRT Decomposition Theorem (Chapter [ch:crt-decomposition-theorem]) splits the primorial residue ring ℤ / Prim(k) ℤ into a product of prime-power rings,…"
 canonical_book_url: "/corpus/monographs/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/corpus/monographs/book-iii/part-03-the-spectral-algebra/"
-canonical_part_title: "The Spectral Algebra"
+canonical_part_title: "Part III: The Spectral Algebra"
 publication_book_url: "/publications/books/book-iii/"
 legacy_publication_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-17-the-adelic-embedding/"
 right_rail:
@@ -51,28 +51,33 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 34
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-04"
-  - "CS-05"
 ---
 
-Chapters 14–16 produced the local infrastructure: the primorial ladder, CRT decomposition, and τ-native p-adic integers ℤₚ^τ. This chapter assembles the global object. The τ-adele ring is the restricted product A_τ = ∏′_p ℤₚ^τ: an adele is a family (aₚ)_p with aₚ ∈ ℤₚ^τ and aₚ ∈ ℤₚ^τ° (the unit ball) for all but finitely many p. The crucial difference from the classical adeles of ℚ is the absence of any archimedean factor: the τ-framework has no ℝ component, because the five generators produce only non-archimedean arithmetic. This is a structural signature, not a deficiency — all analytic content is derived from spectral algebra rather than real-valued analysis. The Adelic Embedding Theorem proves that there is a diagonal ring map τ → A_τ sending each element to the constant sequence at every prime, that this diagonal image is discrete in the restricted-product topology, and that the adelic Euler product formula ∏_p |a|_p · ‖a‖_NF = 1 holds without an archimedean correction factor. The adele ring A_τ is the domain in which the boundary characters χ_B and χ_C of Chapter 18 will be defined and decomposed — it is the global arithmetic arena for the entire Part IV programme.
+The CRT Decomposition Theorem
 
-## What this chapter contributes
+splits the primorial residue ring
+ℤ / Prim(k) ℤ
+into a product of prime-power rings,
+and Hensel lifting
 
-- **Definitions / Axioms:** *III.D22 — τ-Adele Ring A_τ*. The restricted product ∏′_p ℤₚ^τ with no archimedean factor; the restricted-product topology; the adele ring as the global non-archimedean arithmetic domain for the τ-framework.
-- **Key results:** *III.T12 — Adelic Embedding Theorem* (τ-effective): the diagonal map τ → A_τ is a ring embedding with discrete image; the adele ring is the correct global object for τ-arithmetic. *III.P07 — Adelic Euler Product Formula*: the product formula ∏_p |a|_p · ‖a‖_NF = 1 holds without archimedean factor, as a direct consequence of the local-global bridge of Chapter 16.
-- **Dependencies:** *III.D21* (τ-native local field ℤₚ^τ); *III.T11* (Constructive Hensel Lifting, local completeness); *III.T09* (Cofinality Theorem, global assembly); *I.T04* (Hyperfactorization, NF norms).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; the restricted-product construction and the Adelic Embedding Theorem do not yet have corresponding TauLib modules.
-
-## Where this leads
-
-Chapter 18 installs the internal bipolar classifier on the adelic boundary: each prime is labelled B, C, or X via the Legendre symbol (2/p), the labelling lifts to the full adele ring, and the result is a computable partition of the primes that will drive the spectral decomposition of Chapter 19.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-03/part03/ch17-the-adelic-embedding.tex -->
+extends these finite pieces
+to the τ-native local fields ℤ_p^τ.
+A single structural question remains:
+*how do the local fields reassemble
+into a global object?*
+The answer is the **τ-adele ring** A_τ,
+the restricted product of the ℤ_p^τ
+with respect to their unit groups.
+This chapter constructs A_τ
+within the τ framework—no
+algebraic number theory is imported—and
+proves the **Adelic Embedding Theorem**:
+the canonical map τ → A_τ
+is injective with dense image.
+We then show that τ-holomorphic functions
+on A_τ decompose into local Euler factors,
+and we give the bi-square (I.T41)
+its adelic reading:
+tower coherence becomes restricted-product coherence,
+and spectral naturality becomes
+compatible local spectral decompositions.

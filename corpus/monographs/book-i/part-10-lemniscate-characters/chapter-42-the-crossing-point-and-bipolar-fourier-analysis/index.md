@@ -24,7 +24,7 @@ summary_short: "The algebraic lemniscate 𝕃 has two sectors (B and C), and the
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-10-lemniscate-characters/"
-canonical_part_title: "Lemniscate Characters"
+canonical_part_title: "Part X: Lemniscate Characters"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-42-the-crossing-point-and-bipolar-fourier-analysis/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 11
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 The algebraic lemniscate 𝕃

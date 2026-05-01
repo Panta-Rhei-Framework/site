@@ -24,7 +24,7 @@ summary_short: "Space, metric, dimension, and locality are not postulated but de
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-canonical_part_title: "Categorical Ontology"
+canonical_part_title: "Part II: Categorical Ontology"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-20-geometry-from-generators/"
 right_rail:
@@ -51,30 +51,16 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 70
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-The history of space philosophy is haunted by the container conception: a box within which objects are placed. Category τ removes the postulate entirely. This chapter presents the Derived Geometry definition (*VII.D28*), which specifies that metric, dimension, topology, and locality all emerge from the generators and axioms rather than being posited as primitives. Distance is address-comparison cost (DG1): the minimal number of generator applications needed to traverse from one NF address to another, satisfying non-negativity, symmetry (via the involution α), and the triangle inequality. Dimension is the count of independent generator-directions surviving the axiom constraints (DG2): the fibered product τ³ = τ¹ ×_f T² has dim(τ³) = 1 + 2 = 3, one dimension from the base and two from the torus fiber, with no other dimension count compatible with the lemniscate boundary. Locality is the sheaf condition applied to the kernel's covering families (DG4): a property is local when it can be checked on patches and glued consistently. The philosophical yield is stated as a single thesis: geometry is earned, not assumed. Space has no container existence independent of its contents; background independence is derived rather than postulated.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *VII.D28 — Derived Geometry* (τ-effective): four sub-clauses DG1–DG4 deriving metric, dimension, topology, and locality from the generators and Grothendieck site structure.
-- **Key results:** *VII.R07 — Geometry as Consequence*: three-point remark establishing no-container, no-background, and no-arbitrariness as immediate consequences of derived geometry.
-- **Notation introduced:** d(a, b) (address-comparison cost metric); dim(τ³) = 3 (structural dimensionality result).
-- **Dependencies:** Book I (NF-address system, fibered product K3); Book II (holomorphic structure K6, capacity equation); Chapter 19 (sheaf condition and covering families, VII.T11).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-Chapter 21 exhibits τ³ = τ¹ ×_f T² itself — the central arena — and presents the philosophical import of the Central Theorem 𝒪(τ³) ≅ A_spec(𝕃), which establishes that the interior is completely determined by the lemniscate boundary.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part02/ch20.tex -->
+Space, metric, dimension, and locality are not postulated but derived
+from the five generators of Category τ. Distance is
+address-comparison cost: two NF addresses are close when they share
+a long common prefix. Dimension—specifically,
+dim(τ³) = 3—is a structural consequence of the fibered
+product construction, not an empirical input. Locality is the sheaf
+condition applied to the kernel's covering families: a property is
+local when it can be checked on patches and glued. The philosophical
+import is decisive: space is not a container that precedes its
+contents; it is a structural consequence of the generators that
+constitute those contents.

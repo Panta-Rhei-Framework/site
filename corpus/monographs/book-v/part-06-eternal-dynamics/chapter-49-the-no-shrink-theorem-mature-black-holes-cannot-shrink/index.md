@@ -1,18 +1,99 @@
 ---
-layout: "redirect"
-title: "Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink moved"
+layout: "corpus-monograph-chapter"
+title: "Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink"
 permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/"
-redirect_to: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-black-hole-bipolarity-and-blueprint-fusion/"
-compatibility_key: "chapter:book-v:49"
 lane: "corpus"
 v2_lane: "corpus"
-type: "Compatibility Redirect"
-status: "Compatibility"
-summary_short: "Redirects to the certified Corpus monograph projection route."
+type: "Corpus Monograph Chapter"
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
+book_id: "V"
+book_slug: "book-v"
+part_number: 6
+part_display: "Part VI"
+part_slug: "part-06-eternal-dynamics"
+chapter_number: 49
+chapter_slug: "chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink"
+page_in_book: 383
+prev_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-48-black-hole-bipolarity-and-blueprint-fusion/"
+prev_chapter_title: "Chapter 48: Black Hole Bipolarity and Blueprint Fusion"
+next_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-50-the-merger-normal-form-and-bh-astrophysics/"
+next_chapter_title: "Chapter 50: The Merger Normal Form and BH Astrophysics"
+summary_short: "Can a black hole lose mass? In orthodox general relativity, the answer was ``no'' until 1975. Hawking's celebrated calculation — quantum fields on a curved…"
+canonical_book_url: "/corpus/monographs/book-v/"
+canonical_book_title: "Book V: Categorical Macrocosm"
+canonical_part_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+canonical_part_title: "Part VI: Eternal Dynamics"
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/"
+right_rail:
+  related:
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VI: Eternal Dynamics"
+      url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
+  meta:
+    type: "Corpus Monograph Chapter"
+    book: "Book V"
+    part: "Part VI"
+    layer: "E₁ Physics (Macrocosm)"
+    updated: "April 2026"
 generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
 ---
 
-Redirecting to the certified Corpus monograph route: [/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-black-hole-bipolarity-and-blueprint-fusion/](/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-49-black-hole-bipolarity-and-blueprint-fusion/).
+Can a black hole lose mass?
+In orthodox general relativity,
+the answer was "no" until 1975.
+Hawking's celebrated calculation
+— quantum fields on a curved spacetime background —
+predicted thermal radiation
+at a temperature inversely proportional to mass,
+implying that black holes slowly evaporate
+and eventually disappear.
+This prediction created the information paradox:
+where does the information go
+when a black hole evaporates?
+Five decades of effort
+— from black hole complementarity
+to firewalls to replica wormholes —
+have not produced a consensus resolution.
+
+Category τ answers the original question differently.
+A *mature* black hole
+— one that has completed ringdown
+and achieved torus-vacuum stabilization —
+cannot lose mass.
+The proof rests on defect monotonicity:
+mass decrease would require an *increase*
+in defect entropy S_def,
+violating the Categorical Second Law
+.
+This is the **No-Shrink Theorem**
+.
+Hawking's thermal spectrum is not denied —
+it exists as a readout of the empirical layer —
+but it does not correspond to ontic mass loss.
+The information paradox dissolves:
+no information is lost
+because no mass is lost.
+
+This chapter also defines the concept of a
+**permanence hallmark**:
+a structural property that, once acquired,
+cannot be reversed.
+The No-Shrink Theorem is the first permanence hallmark.
+It is also the structural input
+that Book VI will use to connect
+black hole dynamics to the emergence of life.

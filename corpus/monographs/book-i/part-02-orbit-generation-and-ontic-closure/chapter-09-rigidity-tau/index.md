@@ -1,18 +1,73 @@
 ---
-layout: "redirect"
-title: "Chapter 9: Rigidity — (τ) = \\\\ moved"
+layout: "corpus-monograph-chapter"
+title: "Chapter 9: Rigidity — (τ) = \\\\"
 permalink: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
-redirect_to: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-the-iterator-of-iterator-ladder-and-tetration-saturation/"
-compatibility_key: "chapter:book-i:9"
 lane: "corpus"
 v2_lane: "corpus"
-type: "Compatibility Redirect"
-status: "Compatibility"
-summary_short: "Redirects to the certified Corpus monograph projection route."
+type: "Corpus Monograph Chapter"
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
+book_id: "I"
+book_slug: "book-i"
+part_number: 2
+part_display: "Part II"
+part_slug: "part-02-orbit-generation-and-ontic-closure"
+chapter_number: 9
+chapter_slug: "chapter-09-rigidity-tau"
+page_in_book: 37
+prev_chapter_url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-08-the-iterator-of-iterator-ladder-and-tetration-saturation/"
+prev_chapter_title: "Chapter 8: The Iterator-of-Iterator Ladder and Tetration Saturation"
+next_chapter_url: "/corpus/monographs/book-i/part-03-the-denotational-bridge/chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers/"
+next_chapter_title: "Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers"
+summary_short: "The Ontic Closure Theorem (Chapter [ch:ontic-closure]) established that Obj(τ) is ontically sealed: five pairwise disjoint sets, countable, with unique…"
+canonical_book_url: "/corpus/monographs/book-i/"
+canonical_book_title: "Book I: Categorical Foundations"
+canonical_part_url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
+canonical_part_title: "Part II: Orbit Generation and Ontic Closure"
+publication_book_url: "/publications/books/book-i/"
+legacy_publication_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
+right_rail:
+  related:
+    -
+      title: "Book I: Categorical Foundations"
+      url: "/corpus/monographs/book-i/"
+    -
+      title: "Part II: Orbit Generation and Ontic Closure"
+      url: "/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-i/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-i/"
+  meta:
+    type: "Corpus Monograph Chapter"
+    book: "Book I"
+    part: "Part II"
+    layer: "E₀ Mathematics"
+    updated: "April 2026"
 generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
 ---
 
-Redirecting to the certified Corpus monograph route: [/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-the-iterator-of-iterator-ladder-and-tetration-saturation/](/corpus/monographs/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-the-iterator-of-iterator-ladder-and-tetration-saturation/).
+The Ontic Closure Theorem
+
+established that Obj(τ) is ontically sealed:
+five pairwise disjoint sets, countable, with unique representation.
+We now prove two culminating theorems that complete Part II.
+The Rigidity Theorem shows that τ admits no
+non-trivial automorphisms:
+Aut(τ) = {id}.
+Every element of τ is uniquely determined
+by its structural position, not by its name.
+The Categoricity Theorem shows that τ₀
+has a unique model up to isomorphism:
+any two structures satisfying K1–K6
+are isomorphic via a unique isomorphism.
+Together, these results establish that
+τ is not merely *a* model of τ₀
+but *the* model.
+The ontic seal is now absolute.

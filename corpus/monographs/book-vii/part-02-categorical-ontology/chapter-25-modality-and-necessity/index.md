@@ -24,7 +24,7 @@ summary_short: "Necessity and possibility are not primitive metaphysical facts b
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-canonical_part_title: "Categorical Ontology"
+canonical_part_title: "Part II: Categorical Ontology"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-25-modality-and-necessity/"
 right_rail:
@@ -51,30 +51,18 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 70
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-The modal facts — that some things must be and others merely could be — are undeniable but have lacked structural grounding. This chapter locates modality in the space of admissible completions of the coherence kernel. The τ-Modal Operators definition (*VII.D33*) specifies: necessity □φ holds when φ is invariant under all admissible transformations of 𝒦_τ; possibility ◇φ holds when at least one admissible completion of 𝒦_τ realizes φ. At the E₀ level, rigidity makes all structural properties of τ necessary; at E₁–E₃, the carrier categories admit non-trivial admissible transformations and the necessity–contingency distinction becomes selective. Possible worlds are identified with maximal admissible completions of local data, connected by accessibility morphisms induced by admissible transformations between configurations — avoiding Lewisian concrete modal realism while providing worlds with precise structural identity. The Modal Logic Soundness Theorem (*VII.T13*) proves that this τ-semantic framework is sound with respect to standard Kripke semantics for the minimal normal modal logic K, with stronger systems (T, S4, S5) corresponding to additional constraints on the accessibility relation determined by enrichment level. The de re / de dicto distinction receives a categorical formulation: de dicto modality concerns properties of the presheaf topos (propositions holding in all internal domains); de re modality concerns persistence of NF addresses under admissible morphisms.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *VII.D33 — τ-Modal Operators* (τ-effective): □ as admissible-transformation invariance (M1); ◇ as existence of an admissible completion (M2); standard duality □φ ≡ ¬◇¬φ.
-- **Key results:** *VII.T13 — Modal Logic Soundness in τ*: verification that τ-semantics satisfy the Kripke truth conditions for atomic propositions, Boolean connectives, necessity, possibility, the distribution axiom, and the necessitation rule; soundness for logic K with stronger systems dependent on enrichment level.
-- **Notation introduced:** □ and ◇ as τ-modal operators; 𝒲 (set of maximal admissible completions); R (accessibility relation on worlds).
-- **Dependencies:** Chapter 23 (admissible continuation operators, VII.D31); Chapter 19 (possible worlds as internal domains, VII.R06); Chapter 17 (rigidity of τ).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-Chapter 26 turns from what could be to what is and becomes, synthesizing the ancient Heraclitean-Parmenidean debate through the structural thesis that morphisms constitute flow and their fixed points constitute permanence.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part02/ch25.tex -->
+Necessity and possibility are not primitive metaphysical facts but
+structural features of the coherence kernel. The τ-modal
+operators are defined: necessity (□) is invariance under all
+admissible transformations; possibility (◇) is the existence
+of at least one admissible completion. Possible worlds are not
+Lewisian concrete universes but internal domains of the presheaf topos,
+connected by accessibility morphisms. The Modal Logic Soundness Theorem
+proves that the internal modal logic of the τ-framework is sound
+with respect to standard Kripke semantics, establishing that the
+categorical treatment reproduces the established formal results while
+providing them with ontological grounding. The de re/de dicto
+distinction is given a precise categorical formulation, and modality
+is identified with the space of admissible completions.
