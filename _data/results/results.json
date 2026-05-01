@@ -2466,7 +2466,7 @@
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The neutrino mass sum Σm_ν = 0.089 eV and normal mass ordering are derived from the τ-framework. Normal hierarchy is Lean-verified from p < q.",
+    "summary_short": "Σm_ν = 0.089 eV from a 3-real-parameter σ-polarity exponent matrix (p, q, r) = (3.7, 4.8, 2.8) fitted to reproduce the sum (not derived from the K0–K6 kernel). Normal ordering proven Lean-verified from p < q. Individual mass splittings remain conjectural and visibly off measurement.",
     "url": "/results/problem/neutrino-mass-sum-0pt089-ev-normal-ordering/",
     "canonical_books": [
       "IV"

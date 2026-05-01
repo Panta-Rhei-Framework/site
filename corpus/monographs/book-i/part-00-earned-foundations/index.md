@@ -40,34 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 1
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
-chapter_refs:
-  -
-    id: "book-i-ch-01"
-    chapter_number: 1
-    title: "Earned Foundations"
-    url: "/corpus/monographs/book-i/part-00-earned-foundations/chapter-01-earned-foundations/"
-    slug: "chapter-01-earned-foundations"
-registry_refs: []
-taulib_refs:
-  -
-    module: "TauLib.BookI.Kernel.Signature"
-    title: "TauLib.BookI.Kernel.Signature"
-    status: "available"
-    url: "/corpus/taulib/docs/book-i-kernel-signature/"
-    registry_ids: []
-previous_part:
-  title: "Construction Map overview"
-  url: "/corpus/construction-map/"
-next_part:
-  construction_sequence: 2
-  title: "The Coherence Kernel"
-  url: "/corpus/monographs/book-i/part-01-the-coherence-kernel/"
 ---
 
 This Prologue situates Book I within the Panta Rhei series
@@ -82,3 +54,7 @@ the four-layer Kernel Hinge that structures
 the book's seventy-nine chapters,
 and the self-enrichment ladder E₀ → E₁ → E₂ → E₃
 that connects Book I to the rest of the series.
+
+## Chapters
+
+- **[Chapter 1: Earned Foundations]({{ '/corpus/monographs/book-i/part-00-earned-foundations/chapter-01-earned-foundations/' | relative_url }})**

@@ -13,7 +13,7 @@ result_kind: "frontier-problem"
 importance_class: "high-impact-frontier-problem"
 status_code: "R"
 domain_group: "Particle Physics"
-summary_short: "The neutrino mass sum Σm_ν = 0.089 eV and normal mass ordering are derived from the τ-framework. Normal hierarchy is Lean-verified from p < q."
+summary_short: "Σm_ν = 0.089 eV from a 3-real-parameter σ-polarity exponent matrix (p, q, r) = (3.7, 4.8, 2.8) fitted to reproduce the sum (not derived from the K0–K6 kernel). Normal ordering proven Lean-verified from p < q. Individual mass splittings remain conjectural and visibly off measurement."
 canonical_books:
   - "IV"
 right_rail:
@@ -41,6 +41,22 @@ do_not_edit: true
 ## Overview
 
 V.T165/T225 and V.T189 together establish the neutrino mass predictions: the CF-asymmetric grid (Δpq = 1.16, Δpr = 0.87) at +7.4 ppm gives the exponent parameters; the sum Σm_ν = 0.089 eV follows from the σ-polarity matrix (p = 3.7, q = 4.8, r = 2.8). The normal hierarchy (m₁ < m₂ < m₃) is proven from p < q as a theorem (IV.R395), Lean-verified. Σm_ν = 0.089 eV is consistent with DESI Year 1 and represents a 4.5σ detection target for DESI full survey.
+
+## Parameter accounting (above-the-fold disclosure)
+
+The framework's "single posited master constant" framing on the [homepage](/) refers to the K0–K6 kernel layer where ι<sub>τ</sub> = 2/(π+e) is the only continuous input. **This page operates at the bridge layer**, where matching observed neutrino structure introduces additional fitted parameters that are not derived from the kernel.
+
+Concretely, the prediction Σm_ν = 0.089 eV here uses:
+
+- **3 fitted real-valued exponent parameters**: the σ-polarity matrix `(p, q, r) = (3.7, 4.8, 2.8)`. These are bridge-layer fits, *not* derivations from K0–K6. They are chosen so that the implied individual masses m_i ∝ ι<sub>τ</sub><sup>p_i</sup> sum to a value compatible with the observational neutrino-mass-sum upper bound.
+- **2 grid parameters** from V.T189's CF-asymmetric grid (Δpq, Δpr) = (1.16, 0.87) — these *are* CF-derived (they come from the partial-quotient structure of ι<sub>τ</sub>) and are not free fits.
+
+Net cost-of-claim for `Σm_ν = 0.089 eV`: **three real-valued parameters fitted at the bridge layer, plus the kernel posit ι<sub>τ</sub>**. The page's framework-internal status is therefore:
+
+- *τ-effective:* the **sum** Σm_ν ≈ 0.089 eV (under the fitted exponents) and the **ordering** m₁ < m₂ < m₃ (proven Lean-verified from p < q in IV.R395).
+- *Conjectural:* the individual mass splittings — see the "completion status" paragraph below for the magnitudes by which the underlying Δm² values currently diverge from measurement.
+
+This page is the project's clearest counterexample to a naive reading of the "zero free parameters" framing, and it is surfaced explicitly here. A future-sprint task is either to (a) derive (p, q, r) from a kernel-level structural argument (which would retract the bridge-layer parameter cost) or (b) preserve the bridge-layer accounting and improve the individual-splittings derivation. The framework's posture is that (a) is the eventual obligation; this page documents the current state honestly.
 
 ## Detail
 

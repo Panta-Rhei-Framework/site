@@ -40,160 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 47
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
-chapter_refs:
-  -
-    id: "book-iv-ch-35"
-    chapter_number: 35
-    title: "Three Generations"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-35-three-generations/"
-    slug: "chapter-35-three-generations"
-  -
-    id: "book-iv-ch-36"
-    chapter_number: 36
-    title: "The Koide Relation and Mass Hierarchies"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-36-the-koide-relation-and-mass-hierarchies/"
-    slug: "chapter-36-the-koide-relation-and-mass-hierarchies"
-  -
-    id: "book-iv-ch-37"
-    chapter_number: 37
-    title: "Hadrons and Nuclei"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-37-hadrons-and-nuclei/"
-    slug: "chapter-37-hadrons-and-nuclei"
-  -
-    id: "book-iv-ch-38"
-    chapter_number: 38
-    title: "The Micro-Donut and Ternary Structure"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-38-the-micro-donut-and-ternary-structure/"
-    slug: "chapter-38-the-micro-donut-and-ternary-structure"
-  -
-    id: "book-iv-ch-39"
-    chapter_number: 39
-    title: "The Alpha Particle"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-39-the-alpha-particle/"
-    slug: "chapter-39-the-alpha-particle"
-  -
-    id: "book-iv-ch-40"
-    chapter_number: 40
-    title: "Light Nuclei: Helium to Iron"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-40-light-nuclei-helium-to-iron/"
-    slug: "chapter-40-light-nuclei-helium-to-iron"
-  -
-    id: "book-iv-ch-41"
-    chapter_number: 41
-    title: "Heavy Elements and Radioactivity"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-41-heavy-elements-and-radioactivity/"
-    slug: "chapter-41-heavy-elements-and-radioactivity"
-  -
-    id: "book-iv-ch-42"
-    chapter_number: 42
-    title: "Stellar Nucleosynthesis"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-42-stellar-nucleosynthesis/"
-    slug: "chapter-42-stellar-nucleosynthesis"
-  -
-    id: "book-iv-ch-43"
-    chapter_number: 43
-    title: "The Periodic Table"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-43-the-periodic-table/"
-    slug: "chapter-43-the-periodic-table"
-  -
-    id: "book-iv-ch-44"
-    chapter_number: 44
-    title: "The Particle Spectrum Complete"
-    url: "/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-44-the-particle-spectrum-complete/"
-    slug: "chapter-44-the-particle-spectrum-complete"
-registry_refs:
-  -
-    id: "III.T09"
-    url: "/registry/object/III.T09/"
-  -
-    id: "III.T27"
-    url: "/registry/object/III.T27/"
-  -
-    id: "III.T28"
-    url: "/registry/object/III.T28/"
-  -
-    id: "III.T41"
-    url: "/registry/object/III.T41/"
-  -
-    id: "IV.D344"
-    url: "/registry/object/IV.D344/"
-  -
-    id: "IV.P187"
-    url: "/registry/object/IV.P187/"
-  -
-    id: "IV.T143"
-    url: "/registry/object/IV.T143/"
-  -
-    id: "IV.T144"
-    url: "/registry/object/IV.T144/"
-  -
-    id: "IV.T148"
-    url: "/registry/object/IV.T148/"
-  -
-    id: "IV.T149"
-    url: "/registry/object/IV.T149/"
-taulib_refs:
-  -
-    module: "TauLib.BookIII.Hinge.HingeTheorem"
-    title: "TauLib.BookIII.Hinge.HingeTheorem"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-hinge-hinge-theorem/"
-    registry_ids:
-      - "III.T41"
-  -
-    module: "TauLib.BookIII.Physics.GapTheorem"
-    title: "TauLib.BookIII.Physics.GapTheorem"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-gap-theorem/"
-    registry_ids:
-      - "III.T27"
-  -
-    module: "TauLib.BookIII.Physics.Hodge"
-    title: "TauLib.BookIII.Physics.Hodge"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-hodge/"
-    registry_ids:
-      - "III.T28"
-  -
-    module: "TauLib.BookIII.Spectral.PrimorialLadder"
-    title: "TauLib.BookIII.Spectral.PrimorialLadder"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-spectral-primorial-ladder/"
-    registry_ids:
-      - "III.T09"
-  -
-    module: "TauLib.BookIV.Particles.ThreeGenerations"
-    title: "TauLib.BookIV.Particles.ThreeGenerations"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iv-particles-three-generations/"
-    registry_ids:
-      - "IV.D344"
-      - "IV.P187"
-      - "IV.T143"
-      - "IV.T144"
-      - "IV.T148"
-      - "IV.T149"
-  -
-    module: "TauLib.Tour.GuidedTour.BookIII"
-    title: "TauLib.Tour.GuidedTour.BookIII"
-    status: "available"
-    url: "/corpus/taulib/docs/tour-guided-tour-book-iii/"
-    registry_ids:
-      - "III.T41"
-previous_part:
-  construction_sequence: 46
-  title: "The Strong Sector and Confinement"
-  url: "/corpus/monographs/book-iv/part-04-the-strong-sector-and-confinement/"
-next_part:
-  construction_sequence: 48
-  title: "Atoms, Chemistry, and Molecular Structure"
-  url: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
 ---
 
 Forces are not the destination—they are the *tools*.
@@ -227,3 +73,16 @@ beyond the neutron mass m_n.
 By the end of Part V, the fiber T² has yielded everything:
 particles, forces, generations, nuclei, atoms, elements.
 The microcosm is complete.
+
+## Chapters
+
+- **[Chapter 35: Three Generations]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-35-three-generations/' | relative_url }})**
+- **[Chapter 36: The Koide Relation and Mass Hierarchies]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-36-the-koide-relation-and-mass-hierarchies/' | relative_url }})**
+- **[Chapter 37: Hadrons and Nuclei]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-37-hadrons-and-nuclei/' | relative_url }})**
+- **[Chapter 38: The Micro-Donut and Ternary Structure]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-38-the-micro-donut-and-ternary-structure/' | relative_url }})**
+- **[Chapter 39: The Alpha Particle]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-39-the-alpha-particle/' | relative_url }})**
+- **[Chapter 40: Light Nuclei: Helium to Iron]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-40-light-nuclei-helium-to-iron/' | relative_url }})**
+- **[Chapter 41: Heavy Elements and Radioactivity]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-41-heavy-elements-and-radioactivity/' | relative_url }})**
+- **[Chapter 42: Stellar Nucleosynthesis]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-42-stellar-nucleosynthesis/' | relative_url }})**
+- **[Chapter 43: The Periodic Table]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-43-the-periodic-table/' | relative_url }})**
+- **[Chapter 44: The Particle Spectrum Complete]({{ '/corpus/monographs/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-44-the-particle-spectrum-complete/' | relative_url }})**

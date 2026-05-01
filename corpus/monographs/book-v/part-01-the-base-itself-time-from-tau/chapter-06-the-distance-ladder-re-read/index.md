@@ -1,13 +1,13 @@
 ---
-layout: corpus-monograph-chapter
+layout: "corpus-monograph-chapter"
 title: "Chapter 6: The Distance Ladder Re-Read"
-permalink: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/
-lane: corpus
-v2_lane: corpus
+permalink: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/"
+lane: "corpus"
+v2_lane: "corpus"
 type: "Corpus Monograph Chapter"
-status: Canonical
-updated: April 2026
-publication_type: corpus_monograph_chapter
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
 book_id: "V"
 book_slug: "book-v"
 part_number: 1
@@ -21,44 +21,78 @@ prev_chapter_title: "Chapter 5: The Macro Readout: Operational Distance and Phot
 next_chapter_url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/chapter-07-boundary-data-cmb-and-cnu/"
 next_chapter_title: "Chapter 7: Boundary Data: CMB and Cν"
 summary_short: "Orthodox cosmology calibrates distances using a hierarchy of overlapping techniques: parallax, Cepheid variables, Type Ia supernovae, baryon acoustic…"
-canonical_book_url: /corpus/monographs/book-v/
+canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
-canonical_part_url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
+canonical_part_url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
 canonical_part_title: "Part I: The Base Itself: Time from τ¹"
-publication_book_url: /publications/books/book-v/
-legacy_publication_url: /publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/"
 right_rail:
   related:
-  - title: "Book V: Categorical Macrocosm"
-    url: /corpus/monographs/book-v/
-  - title: "Part I: The Base Itself: Time from τ¹"
-    url: /corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/
-  - title: "Research Monograph artifact"
-    url: /publications/books/book-v/
-  - title: "Registry"
-    url: /registry/books/book-v/
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part I: The Base Itself: Time from τ¹"
+      url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
   meta:
     type: "Corpus Monograph Chapter"
     book: "Book V"
     part: "Part I"
     layer: "E₁ Physics (Macrocosm)"
     updated: "April 2026"
+generated_from: "corpus/monograph-projections"
+projection_version: "v0.1"
+canonical_source: "corpus/monograph-projections"
+do_not_edit: true
 ---
 
-The astronomical distance ladder — parallax, Cepheid variables, Type Ia supernovae, baryon acoustic oscillations — is one of the great empirical achievements of modern cosmology. This chapter re-reads each rung in τ-language. The central thesis is that the ladder calibrates the distance readout functor R_d: Orbit_n(τ¹) → SI_length, not a physical distance in some absolute sense. Every standard candle and standard ruler is a readout calibrator whose intrinsic properties are derived from sector-coupling physics: Cepheid periods are boundary-character resonances in the (γ, D)-sector overlap; the Chandrasekhar mass is a cross-sector threshold between fiber-earned Fermi statistics and base-earned gravity; the BAO scale is the sound horizon at the recombination orbit depth n_rec. The Hubble tension — the ≳ 4σ discrepancy between Planck's H₀ ≈ 67.4 km s⁻¹ Mpc⁻¹ and SH0ES's H₀ ≈ 73.0 km s⁻¹ Mpc⁻¹ — is identified as a category error: the two measurements probe R_d at different orbit-depth regimes and the tension arises from forcing a regime-independent readout onto a regime-dependent reality. The apparent accelerating expansion (dark energy) is a readout-curvature artefact, stated here as a conjectural first pass and resolved quantitatively in Part V.
+Orthodox cosmology calibrates distances
+using a hierarchy of overlapping techniques:
+parallax, Cepheid variables, Type Ia supernovae,
+baryon acoustic oscillations.
+Each rung of this "distance ladder"
+is anchored to the rung below,
+and the entire structure rests
+on the assumption that a single global metric
+connects the emission event to the observer.
 
-## What this chapter contributes
-
-- **Definitions / Axioms:** *Distance Readout Functor R_d* (τ-effective); *Cepheid Readout Calibrator* (τ-effective); *BAO Standard Ruler* (τ-effective); *Readout Curvature κ_R(n)* (conjectural).
-- **Key results:** *Distance Ladder Translation Theorem* (τ-effective): every rung of the orthodox ladder has a τ-native interpretation as a calibration step for R_d with the same numerical predictions. *Hubble Tension Resolution Principle* (τ-effective): early- and late-universe H₀ measurements probe R_d at different orbit-depth regimes; the tension is a regime-mismatch, not a measurement crisis. *Dark Energy Artifact Theorem* (conjectural, first pass): positive readout curvature κ_R(n) > 0 produces an apparent cosmological constant Λ_app ≈ 3 κ_R H₀²; the full quantitative verification, yielding Ω_Λ = (1 − ι_τ)(1 + ι_τ³) ≈ 0.6849, is deferred to Part V.
-- **Dependencies:** ch04 (arc length time), ch05 (three epochs), ch06 (initial conditions), ch07 (macro readout), IV.D26 (readout functor), Book III III.T05 (Sector Preservation).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module. The formal sector-preservation lemma invoked (III.T05) is covered in `TauLib.BookIII`.
-
-## Where this leads
-
-Chapter 7 treats the CMB and CνB as constraint surfaces — the deepest cosmic boundary data encoded in H_∂[ω] at specific orbit depths — which will anchor the power-spectrum predictions developed in the Part VI falsification pack.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-05/part01/ch08-distance-ladder.tex -->
+This chapter re-reads the distance ladder
+in the language of Category τ.
+The central thesis is that what the ladder calibrates
+is not "physical distance" in some absolute sense
+but the *readout functor*
+R_d: Orbit_n → SI
+that maps orbit-depth progression on τ¹
+to SI-measured lengths
+(§).
+Each standard candle and standard ruler
+is a readout calibrator:
+a physical system whose intrinsic properties
+(period, luminosity, oscillation scale)
+are themselves earned from the physics
+of Books IV and V
+(§).
+The Hubble tension is not a measurement crisis
+but a *category error*:
+the "early universe" H₀ from the CMB
+and the "late universe" H₀
+from Cepheid-calibrated supernovae
+are readouts at different orbit depths,
+and the tension arises from assuming
+a single scale-factor history
+when the τ-framework has regime-dependent readout
+(§).
+The chapter closes with a first pass
+on the "dark energy" puzzle:
+the apparent accelerating expansion
+is a readout effect,
+not a new energy component
+(§,
+detailed treatment in Part V).

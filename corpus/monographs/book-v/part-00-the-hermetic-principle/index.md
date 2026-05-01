@@ -40,35 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 51
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
-chapter_refs:
-  -
-    id: "book-v-ch-01"
-    chapter_number: 1
-    title: "The Hermetic Principle: Fiber Complete, Base Awaits"
-    url: "/corpus/monographs/book-v/part-00-the-hermetic-principle/chapter-01-the-hermetic-principle-fiber-complete-base-awaits/"
-    slug: "chapter-01-the-hermetic-principle-fiber-complete-base-awaits"
-registry_refs: []
-taulib_refs:
-  -
-    module: "TauLib.BookV.Prologue.HermeticPrinciple"
-    title: "TauLib.BookV.Prologue.HermeticPrinciple"
-    status: "available"
-    url: "/corpus/taulib/docs/book-v-prologue-hermetic-principle/"
-    registry_ids: []
-previous_part:
-  construction_sequence: 50
-  title: "The Constants Ledger and the Complexity Summit"
-  url: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
-next_part:
-  construction_sequence: 52
-  title: "The Base Itself: Time from τ¹"
-  url: "/corpus/monographs/book-v/part-01-the-base-itself-time-from-tau/"
 ---
 
 > *"The way up and the way down are one and the same."*
@@ -113,3 +84,7 @@ what the fiber delivered,
 what the base must earn,
 and the dependency chain
 that connects them.
+
+## Chapters
+
+- **[Chapter 1: The Hermetic Principle: Fiber Complete, Base Awaits]({{ '/corpus/monographs/book-v/part-00-the-hermetic-principle/chapter-01-the-hermetic-principle-fiber-complete-base-awaits/' | relative_url }})**

@@ -24,7 +24,7 @@ summary_short: "Chapter [ch:boolean-recovery] (Part XI) defined Ω_τ = Truth4 a
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-14-the-earned-topos/"
-canonical_part_title: "The Earned Topos"
+canonical_part_title: "Part XIV: The Earned Topos"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 15
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 the relevant chapter (Part XI) defined

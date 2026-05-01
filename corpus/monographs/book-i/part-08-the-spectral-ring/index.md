@@ -40,71 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 9
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
-chapter_refs:
-  -
-    id: "book-i-ch-32"
-    chapter_number: 32
-    title: "The Profinite Boundary Ring Z"
-    url: "/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-32-the-profinite-boundary-ring-z/"
-    slug: "chapter-32-the-profinite-boundary-ring-z"
-  -
-    id: "book-i-ch-33"
-    chapter_number: 33
-    title: "Split-Complex Scalars"
-    url: "/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-33-split-complex-scalars/"
-    slug: "chapter-33-split-complex-scalars"
-  -
-    id: "book-i-ch-34"
-    chapter_number: 34
-    title: "The Master Constant ι<sub>τ</sub> = 2/(π + e)"
-    url: "/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/"
-    slug: "chapter-34-the-master-constant-iota-tau-2-pi-e"
-  -
-    id: "book-i-ch-35"
-    chapter_number: 35
-    title: "The Number Tower: From N"
-    url: "/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-35-the-number-tower-from-n/"
-    slug: "chapter-35-the-number-tower-from-n"
-registry_refs:
-  -
-    id: "I.T10"
-    url: "/registry/object/I.T10/"
-taulib_refs:
-  -
-    module: "TauLib.BookI.Boundary.SplitComplex"
-    title: "TauLib.BookI.Boundary.SplitComplex"
-    status: "available"
-    url: "/corpus/taulib/docs/book-i-boundary-split-complex/"
-    registry_ids:
-      - "I.T10"
-  -
-    module: "TauLib.BookI.Polarity.BipolarAlgebra"
-    title: "TauLib.BookI.Polarity.BipolarAlgebra"
-    status: "available"
-    url: "/corpus/taulib/docs/book-i-polarity-bipolar-algebra/"
-    registry_ids:
-      - "I.T10"
-  -
-    module: "TauLib.BookII.Prologue.SplitComplexInterior"
-    title: "TauLib.BookII.Prologue.SplitComplexInterior"
-    status: "available"
-    url: "/corpus/taulib/docs/book-ii-prologue-split-complex-interior/"
-    registry_ids:
-      - "I.T10"
-previous_part:
-  construction_sequence: 8
-  title: "Omega-Germs & the Algebraic Lemniscate"
-  url: "/corpus/monographs/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
-next_part:
-  construction_sequence: 10
-  title: "Earned Number Systems"
-  url: "/corpus/monographs/book-i/part-09-earned-number-systems/"
 ---
 
 Part VII introduced the boundary local ring
@@ -143,3 +78,10 @@ The split-complex j (from the spectral ring)
 and the complex i (from the number tower)
 are distinct algebraic extensions
 serving different structural roles.
+
+## Chapters
+
+- **[Chapter 32: The Profinite Boundary Ring Z]({{ '/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-32-the-profinite-boundary-ring-z/' | relative_url }})**
+- **[Chapter 33: Split-Complex Scalars]({{ '/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-33-split-complex-scalars/' | relative_url }})**
+- **[Chapter 34: The Master Constant ι<sub>τ</sub> = 2/(π + e)]({{ '/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/' | relative_url }})**
+- **[Chapter 35: The Number Tower: From N]({{ '/corpus/monographs/book-i/part-08-the-spectral-ring/chapter-35-the-number-tower-from-n/' | relative_url }})**

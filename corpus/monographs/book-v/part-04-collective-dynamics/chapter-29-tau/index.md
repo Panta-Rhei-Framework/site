@@ -1,6 +1,6 @@
 ---
 layout: "corpus-monograph-chapter"
-title: "Chapter 28: τ"
+title: "Chapter 29: τ"
 permalink: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-29-tau/"
 lane: "corpus"
 v2_lane: "corpus"
@@ -15,16 +15,16 @@ part_display: "Part IV"
 part_slug: "part-04-collective-dynamics"
 chapter_number: 29
 chapter_slug: "chapter-29-tau"
-page_in_book: 201
-prev_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-27-tau/"
-prev_chapter_title: "Chapter 27: τ"
-next_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-29-tau/"
-next_chapter_title: "Chapter 29: τ"
-summary_short: "Magnetohydrodynamics governs stellar interiors, the solar corona, accretion disks, and the interstellar medium. In Category τ, MHD is magneto-fluid holonomy: the coupled evolution of the macro defect tuple with the B-sector holonomy, in which frozen flux is conservation of topological charge and magnetic reconnection is a discrete defect event."
+page_in_book: 207
+prev_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-28-tau/"
+prev_chapter_title: "Chapter 28: τ"
+next_chapter_url: "/corpus/monographs/book-v/part-04-collective-dynamics/chapter-30-macro-phase-transitions-and-regime-crossings/"
+next_chapter_title: "Chapter 30: Macro Phase Transitions and Regime Crossings"
+summary_short: "Chapter [ch:book5-ch31-tau-mhd] derived the τ-MHD system and introduced Alfvén waves as coupled fluid–field oscillations. This chapter develops the…"
 canonical_book_url: "/corpus/monographs/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/corpus/monographs/book-v/part-04-collective-dynamics/"
-canonical_part_title: "Collective Dynamics"
+canonical_part_title: "Part IV: Collective Dynamics"
 publication_book_url: "/publications/books/book-v/"
 legacy_publication_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-29-tau/"
 right_rail:
@@ -51,31 +51,46 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 55
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
 ---
 
-Magnetohydrodynamics (MHD) is the dynamics of electrically conducting fluids in the presence of magnetic fields. It governs stellar interiors, the solar corona, the solar wind, accretion disks, and the interstellar medium. In the orthodox framework, MHD is a coupled system of the Navier–Stokes equation and the magnetic induction equation. In Category τ, MHD is *magneto-fluid holonomy*: the coupled evolution of the macro defect tuple (μ, ν, κ, θ) with the *B*-sector holonomy. The frozen-flux invariant (Alfvén's theorem) is the conservation of the *B*-sector topological charge θ_B under ideal MHD evolution. Magnetic reconnection — the topological rearrangement of field lines — is a *defect event*: a discrete change in the topological component θ of the defect tuple. Alfvén modes are coupled periodic orbits on the fiber T², and MHD instabilities are specific patterns of defect-tuple inequality violation.
+the relevant chapter
+derived the τ-MHD system
+and introduced Alfvén waves
+as coupled fluid–field oscillations.
+This chapter develops the Alfvén mode
+in full structural detail.
 
-## What this chapter contributes
+The central insight:
+an Alfvén wave is a *photon-in-fluid*—the
+electromagnetic degree of freedom
+(the Sector B-sector holonomy)
+propagating not through vacuum
+but through a conducting medium
+(the Sector D- and Sector A-sector fluid).
+The propagation speed is not c
+but v_A = B/μ_0ρ,
+because the fluid inertia
+loads the electromagnetic oscillation.
 
-- **τ-MHD system** (τ-effective): the coupled evolution of the macro defect tuple through (1) the macro τ-NS fluid equation with a Lorentz force source term J × B, and (2) the *B*-sector holonomy induction equation ∂B/∂t = ∇ × (v × B) + resistive correction.
-- **Frozen-flux theorem** (τ-effective): Alfvén's theorem — magnetic flux through a co-moving surface is conserved in ideal MHD — is the conservation of the *B*-sector topological charge θ_B. The τ derivation: under ideal evolution, the induction equation is equivalent to Lie-transport of θ_B along the fluid velocity, which preserves it exactly.
-- **Magnetic reconnection as defect event** (τ-effective): reconnection is a discrete change Δθ in the topological component of the defect tuple. It is not a continuous process but a topological transition at a current sheet — the defect-tuple jumps when the sheet thickness reaches the resistive scale λ_R ~ κ(B;2)^{1/2}.
-- **MHD instabilities as inequality violations** (τ-effective): Rayleigh–Taylor, Kelvin–Helmholtz, and kink instabilities correspond to specific patterns of defect-tuple inequality reversal in (μ, ν, κ, θ) space, with growth rates set by the sector couplings.
-- **Alfvén modes introduced** (τ-effective): the coupled *B*–*D* oscillation appears here at the system level; full development is in Chapter 29.
+In the τ-framework,
+this is a *mixed-sector mode*:
+a coupled oscillation
+of the Sector B-sector
+(magnetic field perturbation)
+and the Sector D-sector
+(fluid velocity perturbation).
+On the fiber T²,
+the Alfvén mode corresponds to
+a coupled periodic orbit—a
+trajectory that oscillates
+between the Sector B and Sector D
+directions in the holonomy algebra.
 
-## Lean coverage
+The chapter applies the Alfvén framework
+to stellar physics (coronal heating,
+stellar wind driving)
+and the interstellar medium
+(turbulent energy transport,
+cosmic ray scattering).
 
-- τ-effective throughout. The MHD system is a direct coupling of the Chapter 24 macro NS equation (fluid side) with the *B*-sector holonomy (magnetic side), mediated by the cross-coupling κ(B,D) = *ι*_τ²(1−*ι*_τ).
-- The ideal MHD limit (zero resistivity) is taken by setting the resistive correction to zero in the induction equation. Non-ideal effects (reconnection, resistive instabilities) are described by restoring the correction term.
-
-## Where this leads
-
-The MHD framework here feeds directly into Chapter 29, which develops the Alfvén wave — the MHD normal mode — in full structural detail as a mixed B–D sector oscillation. The frozen-flux and reconnection framework are also prerequisite for the stellar-physics applications in Part V, where magnetic field evolution drives stellar wind acceleration, coronal heating, and the solar cycle. MHD instability analysis recurs in the neutron-star and accretion-disk applications.
-
-<!-- regenerated 2026-04-29 from manuscript-sources/book-05/part04/ch31-tau-mhd.tex -->
+Scope: τ-effective throughout.

@@ -24,7 +24,7 @@ summary_short: "A comprehensive classification of seventeen classical metaphysic
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-02-categorical-ontology/"
-canonical_part_title: "Categorical Ontology"
+canonical_part_title: "Part II: Categorical Ontology"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-30-the-metaphysical-problem-map/"
 right_rail:
@@ -51,30 +51,13 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 70
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-Part II has addressed individual metaphysical problems sequentially; this chapter provides the synoptic view. The Problem Map Classification Scheme (*VII.D38*) establishes four categories: Resolved(Kernel) for problems dissolved by relational ontology itself without any specific construction (four problems: substance and accident, universals and particulars, abstract objects, mathematical existence); Resolved(Pattern) for problems receiving determinate structural answers from specific τ-constructions (eight problems: identity through time, causation, mind–body, laws of nature, modality, space and time, composition, solipsism); Reframed(VM/Scope) for problems that are artefacts of orthodox foundations (zero in the current Part II map — these are treated in Part VI on categorical logic); and Open/Interpretive for problems whose resolution requires a register commitment in Reg_C beyond the diagrammatic analysis of Part II (five problems: free will, problem of evil, consciousness, meaning of life, existence of God). The Problem Map Table (*VII.R11*) provides one-line classifications and chapter cross-references for all seventeen problems. Three warnings accompany the map: it is a reference tool rather than an argument, classifications may shift as the framework develops, and "Open" means register-commitment dependent rather than permanently unanswerable. The chapter also identifies notable omissions — personal identity, the nature of logic, aesthetic value, the is-ought gap — each treated in later Parts.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** *VII.D38 — Problem Map Classification Scheme* (τ-effective): four categories PM1–PM4 for classifying classical metaphysical problems within the τ-framework.
-- **Key results:** *VII.R11 — Problem Map Table*: reference remark classifying seventeen classical problems across PM1–PM4 with resolution summaries and chapter citations; not a theorem but a systematic diagnostic tool.
-- **Notation introduced:** PM1–PM4 (problem-map category labels); Resolved(Kernel), Resolved(Pattern), Reframed(VM/Scope), Open/Interpretive (as named categories).
-- **Dependencies:** All preceding chapters of Part II (Chapters 16–29); Part I (register framework, enrichment levels E₀–E₃).
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-Chapter 31 takes one of the most persistently challenging Open/Interpretive problems — solipsism — and shows that it receives a three-layer structural dissolution in relational ontology despite not being a pure diagrammatic result.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part02/ch30.tex -->
+A comprehensive classification of seventeen classical metaphysical
+problems. Each problem is classified into one of four categories:
+Resolved(Kernel)—dissolved by the kernel itself;
+Resolved(Pattern)—resolved by a specific τ-construction;
+Reframed(VM/Scope)—shown to be an artefact of orthodox foundations;
+Open/Interpretive—genuinely open within the framework. The chapter
+serves as a reference map for Part II and a guide to where each problem
+is treated in the series.

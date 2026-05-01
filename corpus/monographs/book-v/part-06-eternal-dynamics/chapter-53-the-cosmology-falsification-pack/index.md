@@ -1,18 +1,87 @@
 ---
-layout: "redirect"
-title: "Chapter 53: The Cosmology Falsification Pack moved"
+layout: "corpus-monograph-chapter"
+title: "Chapter 53: The Cosmology Falsification Pack"
 permalink: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-53-the-cosmology-falsification-pack/"
-redirect_to: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-53-the-cosmological-endstate-eternal-circulation/"
-compatibility_key: "chapter:book-v:53"
 lane: "corpus"
 v2_lane: "corpus"
-type: "Compatibility Redirect"
-status: "Compatibility"
-summary_short: "Redirects to the certified Corpus monograph projection route."
+type: "Corpus Monograph Chapter"
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
+book_id: "V"
+book_slug: "book-v"
+part_number: 6
+part_display: "Part VI"
+part_slug: "part-06-eternal-dynamics"
+chapter_number: 53
+chapter_slug: "chapter-53-the-cosmology-falsification-pack"
+page_in_book: 417
+prev_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/"
+prev_chapter_title: "Chapter 52: The Cosmological Endstate: Eternal Circulation"
+next_chapter_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-54-the-boundary-unification-program/"
+next_chapter_title: "Chapter 54: The Boundary Unification Program"
+summary_short: "A theory that cannot be falsified is not a physical theory. Category τ claims to derive cosmology from seven axioms on five generators. This chapter puts…"
+canonical_book_url: "/corpus/monographs/book-v/"
+canonical_book_title: "Book V: Categorical Macrocosm"
+canonical_part_url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+canonical_part_title: "Part VI: Eternal Dynamics"
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-53-the-cosmology-falsification-pack/"
+right_rail:
+  related:
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VI: Eternal Dynamics"
+      url: "/corpus/monographs/book-v/part-06-eternal-dynamics/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
+  meta:
+    type: "Corpus Monograph Chapter"
+    book: "Book V"
+    part: "Part VI"
+    layer: "E₁ Physics (Macrocosm)"
+    updated: "April 2026"
 generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
 ---
 
-Redirecting to the certified Corpus monograph route: [/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-53-the-cosmological-endstate-eternal-circulation/](/corpus/monographs/book-v/part-06-eternal-dynamics/chapter-53-the-cosmological-endstate-eternal-circulation/).
+A theory that cannot be falsified
+is not a physical theory.
+Category τ claims to derive cosmology
+from seven axioms on five generators.
+This chapter puts that claim on the line.
+We assemble a **falsification pack**:
+a collection of pre-registered predictions,
+organized by observational domain,
+each accompanied by its scope label,
+its precision estimate,
+and a clear statement of what observational result
+would constitute a falsification.
+
+Seven domains are covered:
+the CMB power spectrum (§),
+baryon acoustic oscillations
+and Type Ia supernovae (§),
+growth of structure
+and weak lensing (§),
+Big Bang nucleosynthesis (§),
+gravitational wave standard sirens (§),
+galaxy rotation curves (§),
+and the falsification standard itself (§).
+This chapter is deliberately conservative:
+where a prediction is quantitatively uncertain,
+it says so;
+where a prediction depends on conjectural elements,
+it says so;
+where a definitive test
+requires future instrumentation,
+it says so.
+Honesty is the price of credibility.

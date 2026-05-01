@@ -40,191 +40,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 49
-construction_layer: "physics"
-construction_layer_label: "Physics"
-construction_step_ids:
-  - "CS-05"
-  - "CS-06"
-chapter_refs:
-  -
-    id: "book-iv-ch-56"
-    chapter_number: 56
-    title: "The Defect Functional and Fluid Regimes"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/"
-    slug: "chapter-56-the-defect-functional-and-fluid-regimes"
-  -
-    id: "book-iv-ch-57"
-    chapter_number: 57
-    title: "The Universal Defect Tuple"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/"
-    slug: "chapter-57-the-universal-defect-tuple"
-  -
-    id: "book-iv-ch-58"
-    chapter_number: 58
-    title: "τ-Euler: Inviscid Flow"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/"
-    slug: "chapter-58-tau-euler-inviscid-flow"
-  -
-    id: "book-iv-ch-59"
-    chapter_number: 59
-    title: "τ-Navier–Stokes: Viscous Flow"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-59-tau-navier-stokes-viscous-flow/"
-    slug: "chapter-59-tau-navier-stokes-viscous-flow"
-  -
-    id: "book-iv-ch-60"
-    chapter_number: 60
-    title: "τ-MHD: Magnetohydrodynamics"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-60-tau-mhd-magnetohydrodynamics/"
-    slug: "chapter-60-tau-mhd-magnetohydrodynamics"
-  -
-    id: "book-iv-ch-61"
-    chapter_number: 61
-    title: "Superfluids and Superconductors"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-61-superfluids-and-superconductors/"
-    slug: "chapter-61-superfluids-and-superconductors"
-  -
-    id: "book-iv-ch-62"
-    chapter_number: 62
-    title: "Crystals, Glass, and Phase Transitions"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-62-crystals-glass-and-phase-transitions/"
-    slug: "chapter-62-crystals-glass-and-phase-transitions"
-  -
-    id: "book-iv-ch-63"
-    chapter_number: 63
-    title: "Magnetism on~T²"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-63-magnetism-on-t/"
-    slug: "chapter-63-magnetism-on-t"
-  -
-    id: "book-iv-ch-64"
-    chapter_number: 64
-    title: "Decidable Regimes and the NFL Theorem"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-64-decidable-regimes-and-the-nfl-theorem/"
-    slug: "chapter-64-decidable-regimes-and-the-nfl-theorem"
-  -
-    id: "book-iv-ch-65"
-    chapter_number: 65
-    title: "τ-NS Regularity at Fiber Level"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-65-tau-ns-regularity-at-fiber-level/"
-    slug: "chapter-65-tau-ns-regularity-at-fiber-level"
-  -
-    id: "book-iv-ch-66"
-    chapter_number: 66
-    title: "The Unified Regime Table"
-    url: "/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-66-the-unified-regime-table/"
-    slug: "chapter-66-the-unified-regime-table"
-registry_refs:
-  -
-    id: "III.D36"
-    url: "/registry/object/III.D36/"
-  -
-    id: "III.D38"
-    url: "/registry/object/III.D38/"
-  -
-    id: "III.D39"
-    url: "/registry/object/III.D39/"
-  -
-    id: "III.D40"
-    url: "/registry/object/III.D40/"
-  -
-    id: "III.P14"
-    url: "/registry/object/III.P14/"
-  -
-    id: "III.T24"
-    url: "/registry/object/III.T24/"
-  -
-    id: "III.T25"
-    url: "/registry/object/III.T25/"
-  -
-    id: "III.T26"
-    url: "/registry/object/III.T26/"
-  -
-    id: "IV.D16"
-    url: "/registry/object/IV.D16/"
-  -
-    id: "IV.D17"
-    url: "/registry/object/IV.D17/"
-  -
-    id: "IV.D18"
-    url: "/registry/object/IV.D18/"
-  -
-    id: "IV.D19"
-    url: "/registry/object/IV.D19/"
-  -
-    id: "IV.D25"
-    url: "/registry/object/IV.D25/"
-  -
-    id: "IV.D39"
-    url: "/registry/object/IV.D39/"
-  -
-    id: "IV.T04"
-    url: "/registry/object/IV.T04/"
-taulib_refs:
-  -
-    module: "TauLib.BookIII.Physics.FluidData"
-    title: "TauLib.BookIII.Physics.FluidData"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-fluid-data/"
-    registry_ids:
-      - "III.D36"
-      - "III.D38"
-      - "III.D39"
-  -
-    module: "TauLib.BookIII.Physics.GapTheorem"
-    title: "TauLib.BookIII.Physics.GapTheorem"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-gap-theorem/"
-    registry_ids:
-      - "III.T26"
-  -
-    module: "TauLib.BookIII.Physics.HartogsFlow"
-    title: "TauLib.BookIII.Physics.HartogsFlow"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-hartogs-flow/"
-    registry_ids:
-      - "III.D40"
-      - "III.T24"
-  -
-    module: "TauLib.BookIII.Physics.PositiveRegularity"
-    title: "TauLib.BookIII.Physics.PositiveRegularity"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iii-physics-positive-regularity/"
-    registry_ids:
-      - "III.P14"
-      - "III.T25"
-  -
-    module: "TauLib.BookIV.Calibration.ConstantsLedger"
-    title: "TauLib.BookIV.Calibration.ConstantsLedger"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iv-calibration-constants-ledger/"
-    registry_ids:
-      - "IV.D39"
-  -
-    module: "TauLib.BookIV.Physics.DefectFunctional"
-    title: "TauLib.BookIV.Physics.DefectFunctional"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iv-physics-defect-functional/"
-    registry_ids:
-      - "IV.D16"
-      - "IV.D17"
-      - "IV.D18"
-      - "IV.D19"
-  -
-    module: "TauLib.BookIV.Physics.Thermodynamics"
-    title: "TauLib.BookIV.Physics.Thermodynamics"
-    status: "available"
-    url: "/corpus/taulib/docs/book-iv-physics-thermodynamics/"
-    registry_ids:
-      - "IV.D25"
-      - "IV.T04"
-previous_part:
-  construction_sequence: 48
-  title: "Atoms, Chemistry, and Molecular Structure"
-  url: "/corpus/monographs/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
-next_part:
-  construction_sequence: 50
-  title: "The Constants Ledger and the Complexity Summit"
-  url: "/corpus/monographs/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
 ---
 
 Parts II through VI studied the fiber T² one particle at a time:
@@ -271,3 +86,17 @@ in a single defect-space diagram.
 
 The payoff: from molecules to bulk matter,
 one framework governs all.
+
+## Chapters
+
+- **[Chapter 56: The Defect Functional and Fluid Regimes]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/' | relative_url }})**
+- **[Chapter 57: The Universal Defect Tuple]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/' | relative_url }})**
+- **[Chapter 58: τ-Euler: Inviscid Flow]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/' | relative_url }})**
+- **[Chapter 59: τ-Navier–Stokes: Viscous Flow]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-59-tau-navier-stokes-viscous-flow/' | relative_url }})**
+- **[Chapter 60: τ-MHD: Magnetohydrodynamics]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-60-tau-mhd-magnetohydrodynamics/' | relative_url }})**
+- **[Chapter 61: Superfluids and Superconductors]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-61-superfluids-and-superconductors/' | relative_url }})**
+- **[Chapter 62: Crystals, Glass, and Phase Transitions]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-62-crystals-glass-and-phase-transitions/' | relative_url }})**
+- **[Chapter 63: Magnetism on~T²]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-63-magnetism-on-t/' | relative_url }})**
+- **[Chapter 64: Decidable Regimes and the NFL Theorem]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-64-decidable-regimes-and-the-nfl-theorem/' | relative_url }})**
+- **[Chapter 65: τ-NS Regularity at Fiber Level]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-65-tau-ns-regularity-at-fiber-level/' | relative_url }})**
+- **[Chapter 66: The Unified Regime Table]({{ '/corpus/monographs/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-66-the-unified-regime-table/' | relative_url }})**

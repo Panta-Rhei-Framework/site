@@ -1,18 +1,65 @@
 ---
-layout: "redirect"
-title: "Chapter 57: Export Contracts and Bridge to Life moved"
+layout: "corpus-monograph-chapter"
+title: "Chapter 57: Export Contracts and Bridge to Life"
 permalink: "/corpus/monographs/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/"
-redirect_to: "/corpus/monographs/book-v/part-07-the-closure/chapter-57-the-complete-constants-ledger-and-the-g-alpha-bridge/"
-compatibility_key: "chapter:book-v:57"
 lane: "corpus"
 v2_lane: "corpus"
-type: "Compatibility Redirect"
-status: "Compatibility"
-summary_short: "Redirects to the certified Corpus monograph projection route."
+type: "Corpus Monograph Chapter"
+status: "Canonical"
+updated: "April 2026"
+publication_type: "corpus_monograph_chapter"
+book_id: "V"
+book_slug: "book-v"
+part_number: 7
+part_display: "Part VII"
+part_slug: "part-07-the-closure"
+chapter_number: 57
+chapter_slug: "chapter-57-export-contracts-and-bridge-to-life"
+page_in_book: 449
+prev_chapter_url: "/corpus/monographs/book-v/part-07-the-closure/chapter-56-the-complete-constants-ledger-and-the-g-alpha-bridge/"
+prev_chapter_title: "Chapter 56: The Complete Constants Ledger and the G–α Bridge"
+next_chapter_url: "/corpus/monographs/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/"
+next_chapter_title: "Chapter 58: The Hermetic Truth and Panta Rhei"
+summary_short: "Books IV and V are the physics layer of *Panta Rhei*. They derive a complete account of the physical world at enrichment layer E₁ from seven axioms on five…"
+canonical_book_url: "/corpus/monographs/book-v/"
+canonical_book_title: "Book V: Categorical Macrocosm"
+canonical_part_url: "/corpus/monographs/book-v/part-07-the-closure/"
+canonical_part_title: "Part VII: The Closure"
+publication_book_url: "/publications/books/book-v/"
+legacy_publication_url: "/publications/books/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/"
+right_rail:
+  related:
+    -
+      title: "Book V: Categorical Macrocosm"
+      url: "/corpus/monographs/book-v/"
+    -
+      title: "Part VII: The Closure"
+      url: "/corpus/monographs/book-v/part-07-the-closure/"
+    -
+      title: "Research Monograph artifact"
+      url: "/publications/books/book-v/"
+    -
+      title: "Registry"
+      url: "/registry/books/book-v/"
+  meta:
+    type: "Corpus Monograph Chapter"
+    book: "Book V"
+    part: "Part VII"
+    layer: "E₁ Physics (Macrocosm)"
+    updated: "April 2026"
 generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
 ---
 
-Redirecting to the certified Corpus monograph route: [/corpus/monographs/book-v/part-07-the-closure/chapter-57-the-complete-constants-ledger-and-the-g-alpha-bridge/](/corpus/monographs/book-v/part-07-the-closure/chapter-57-the-complete-constants-ledger-and-the-g-alpha-bridge/).
+Books IV and V are the physics layer of *Panta Rhei*.
+They derive a complete account of the physical world at enrichment
+layer E₁ from seven axioms on five generators.
+But physics is not the end.
+This chapter specifies the nine export contracts (E1–E9) that
+Books VI and VII inherit from the physics volumes,
+and builds the bridge from E₁ physics to
+E₂ biology — from constants and forces to living systems.
+Nine contracts, no ambiguity, no hidden assumptions.
+The bridge is one-way: biology receives from physics, never the reverse.

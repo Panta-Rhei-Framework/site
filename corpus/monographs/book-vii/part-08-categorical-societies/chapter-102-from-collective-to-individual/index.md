@@ -20,11 +20,11 @@ prev_chapter_url: "/corpus/monographs/book-vii/part-08-categorical-societies/cha
 prev_chapter_title: "Chapter 101: Overload, Fragmentation, and Schizophrenia"
 next_chapter_url: "/corpus/monographs/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/"
 next_chapter_title: "Chapter 103: Nine Global Spheres"
-summary_short: "Individuation is modelled as the structural process by which an agent differentiates a personal section from collectively provided templates, remaining gluable to the social sheaf while authoring rather than inheriting the section."
+summary_short: "Modernity shifts the primary source of identity from externally assigned roles to self-authored life projects. This transition expands freedom while increasing…"
 canonical_book_url: "/corpus/monographs/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/corpus/monographs/book-vii/part-08-categorical-societies/"
-canonical_part_title: "Categorical Societies"
+canonical_part_title: "Part VIII: Categorical Societies"
 publication_book_url: "/publications/books/book-vii/"
 legacy_publication_url: "/publications/books/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/"
 right_rail:
@@ -51,29 +51,16 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 76
-construction_layer: "metaphysics"
-construction_layer_label: "Metaphysics"
-construction_step_ids:
-  - "CS-08"
-  - "CS-09"
-  - "CS-10"
 ---
 
-In traditional settings, identity is largely ascribed: lineage, occupation, gender roles, and community supply a template section that individuals inhabit with little need for authorship. Modernity progressively dissolves those templates, expanding the range of achievable life paths while shifting the burden of coherence construction onto individuals. This chapter models the resulting process — individuation — as a structural phenomenon within the categorical social ontology. Individuation is not separateness from society but the differentiation of a personal section σ_self from the collectively provided template sections, subject to the constraint that the personal section remain gluable to the social spheres on which it overlaps (*VII.R39 — τ-effective*). An individuated self that cannot glue to any social sphere is not a liberated agent but a disconnected one; individuation is always relational. The costs of self-authorship are analysed as structural rather than purely psychological: isolation (no community where the full personal section is legible), intensified responsibility, existential anxiety from choosing without canonical templates, and increased coherence work. The rewards — authenticity as reflective endorsement, creativity as novel section-combination, and moral agency as precondition for full participation in the CI proof programme — are equally structural. The chapter also addresses reactions: collective nostalgia and identity-restoration movements express a legitimate demand for coherence and legible belonging, and their admissibility is tested against the dignity constraint, not dismissed as irrationality.
-
-## What this chapter contributes
-
-- **Definitions / Axioms:** none introduced; this chapter develops consequences of *VII.D76* and the commitment register from Part VII.
-- **Key results:** *VII.R39 — Individuation as Structural Process* (τ-effective): individuation is the differentiation of a personal section σ_self from collective template sections, remaining gluable to social open sets; it is not withdrawal but authorship under overlap constraints.
-- **Dependencies:** *VII.D76* (social ontology), *VII.P24* (fragmentation proposition), commitment register Reg_C, CI sheaf, from Chapters 94–101 and Part VII.
-
-## Lean coverage
-
-This chapter is prose-only at the current release; its content does not yet have a corresponding TauLib module.
-
-## Where this leads
-
-The scalar picture is completed in Chapter 103, which classifies nine distinct structural spheres from self to species and analyses coordination failures that arise when problems at one scale must be solved by institutions operating at another.
-
-<!-- chapter-abstract: regenerated 2026-04-29 from manuscript-sources/book-07/part08/ch102.tex -->
+Modernity shifts the primary source of identity from externally
+assigned roles to self-authored life projects. This transition
+expands freedom while increasing the burden of self-interpretation:
+individuals must decide what to value, which commitments to make,
+and how to integrate multiple social roles. This chapter models
+individuation as a structural process within the categorical social
+ontology — not as separation from society but as the emergence of
+a distinct section that must be authored rather than inherited.
+The costs (isolation, anxiety, coherence work) and rewards
+(authenticity, creativity, moral agency) are analysed as structural
+consequences of this shift.

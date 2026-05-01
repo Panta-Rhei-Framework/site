@@ -24,7 +24,7 @@ summary_short: "Orthodox mathematics treats countability as a measure of *smalln
 canonical_book_url: "/corpus/monographs/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/corpus/monographs/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Internal Set Theory & The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 publication_book_url: "/publications/books/book-i/"
 legacy_publication_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-55-countability-is-not-a-limitation/"
 right_rail:
@@ -51,12 +51,6 @@ generated_from: "corpus/monograph-projections"
 projection_version: "v0.1"
 canonical_source: "corpus/monograph-projections"
 do_not_edit: true
-construction_sequence: 14
-construction_layer: "mathematics"
-construction_layer_label: "Mathematics"
-construction_step_ids:
-  - "CS-01"
-  - "CS-02"
 ---
 
 Orthodox mathematics treats countability
