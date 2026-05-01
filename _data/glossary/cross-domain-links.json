@@ -1,66 +1,1532 @@
 {
   "generated": "2026-04-30",
-  "edge_count": 10,
+  "edge_count": 192,
   "edges": [
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-D02-tau-categorical",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-D08-five-generators-def",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D01"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-K01-universe-postulate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-K02-five-generators",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-K03-no-omega-axiom",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C05-fine-structure-alpha",
+      "from_domain": "physics",
+      "to": "MathG-O01-tau-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-C06-elementary-charge",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C06-elementary-charge",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C14-gravitational-fine-structure",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C14-gravitational-fine-structure",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C16-weinberg-angle",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C16-weinberg-angle",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D03-window-algebra",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D05-rank-coordinates",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D06-truth4-logic",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D09-calibrated-split-complex",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D10-split-complex-scalars",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D11-stage-k-cylinder",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D15-boundary-ring",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-D16-ultrametric-distance",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-O02-window-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-S02-holomorphy-tower",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T01-hyperfactorization",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T04-central-theorem",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T07-split-complex-forced",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T08-crt-coherence",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T09-algebraic-lemniscate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T11-mutual-determination",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D18"
+    },
+    {
+      "from": "PG-C18-kappa-tau",
+      "from_domain": "physics",
+      "to": "MathG-T13-spectral-trichotomy",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L01-tau-schrodinger",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L01-tau-schrodinger",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L02-tau-heisenberg-uncertainty",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L02-tau-heisenberg-uncertainty",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D02-tau-categorical",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D03-window-algebra",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D05-rank-coordinates",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D08-five-generators-def",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D01"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D11-stage-k-cylinder",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-D12-progression-operator",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D02"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-K01-universe-postulate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-K02-five-generators",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-K03-no-omega-axiom",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-O01-tau-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-O02-window-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-S02-holomorphy-tower",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-T01-hyperfactorization",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L04-tau-einstein-equation",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D05-rank-coordinates",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T04"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D06-truth4-logic",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D09-calibrated-split-complex",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D10-split-complex-scalars",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D15-boundary-ring",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-D16-ultrametric-distance",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T01-hyperfactorization",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T04"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T04-central-theorem",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T07-split-complex-forced",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T08-crt-coherence",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T09-algebraic-lemniscate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T11-mutual-determination",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D18"
+    },
+    {
+      "from": "PG-L05-tau-newton-gravity",
+      "from_domain": "physics",
+      "to": "MathG-T13-spectral-trichotomy",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-D03-window-algebra",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-D05-rank-coordinates",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-D11-stage-k-cylinder",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-D12-progression-operator",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D02"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-O02-window-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-S02-holomorphy-tower",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-T01-hyperfactorization",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L12-tau-gravitational-wave",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D06-truth4-logic",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D09-calibrated-split-complex",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D10-split-complex-scalars",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D15-boundary-ring",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-D16-ultrametric-distance",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T04-central-theorem",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T07-split-complex-forced",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T08-crt-coherence",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T09-algebraic-lemniscate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-L13-tau-mercury-precession",
+      "from_domain": "physics",
+      "to": "MathG-T13-spectral-trichotomy",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
     {
       "from": "PG-P01-neutron",
       "from_domain": "physics",
       "to": "LG-Y02-kinetic-pseudoscalar-channel",
-      "to_domain": "life"
+      "to_domain": "life",
+      "edge_kind": "related"
     },
     {
       "from": "PG-P01-neutron",
       "from_domain": "physics",
       "to": "MG-R01-empirical-register",
-      "to_domain": "metaphysics"
+      "to_domain": "metaphysics",
+      "edge_kind": "related"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-D02-tau-categorical",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-D08-five-generators-def",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D01"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-K01-universe-postulate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-K02-five-generators",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-K03-no-omega-axiom",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-P04-photon",
+      "from_domain": "physics",
+      "to": "MathG-O01-tau-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "PG-P10-higgs-boson",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-P10-higgs-boson",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-P11-z-boson",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-P11-z-boson",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q01-mass",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q01-mass",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q02-energy",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q02-energy",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q03-mass-energy-relation",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q03-mass-energy-relation",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q07-electric-charge",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q07-electric-charge",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D03-window-algebra",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D05-rank-coordinates",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D08-five-generators-def",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D01"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D11-stage-k-cylinder",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-D12-progression-operator",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D02"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-O02-window-object",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-S02-holomorphy-tower",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-T01-hyperfactorization",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q10-proper-time",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D17"
+    },
+    {
+      "from": "PG-Q11-operational-distance",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q11-operational-distance",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-D06-truth4-logic",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-D09-calibrated-split-complex",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T10"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-D10-split-complex-scalars",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T10"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-D15-boundary-ring",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T07-split-complex-forced",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T10"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T08-crt-coherence",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T09-algebraic-lemniscate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T10"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T11-mutual-determination",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T10"
+    },
+    {
+      "from": "PG-Q12-spectral-distance-sqrt3",
+      "from_domain": "physics",
+      "to": "MathG-T13-spectral-trichotomy",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q13-energy-cr-tension",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q13-energy-cr-tension",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q15-holomorphic-entropy",
+      "from_domain": "physics",
+      "to": "MathG-D07-4-plus-1-sector",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q15-holomorphic-entropy",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "III.D13"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D01-iota-tau",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D06-truth4-logic",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D09-calibrated-split-complex",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D10-split-complex-scalars",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D20"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D15-boundary-ring",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-D16-ultrametric-distance",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-L01-idempotent-decomposition",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D19"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T04-central-theorem",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T06-prime-polarity",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T07-split-complex-forced",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T08-crt-coherence",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T09-algebraic-lemniscate",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
+    },
+    {
+      "from": "PG-Q24-velocity",
+      "from_domain": "physics",
+      "to": "MathG-T13-spectral-trichotomy",
+      "to_domain": "mathematics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.T05"
     },
     {
       "from": "LG-M01-consciousness",
       "from_domain": "life",
       "to": "MG-A01-ci-operator-graph",
-      "to_domain": "metaphysics"
+      "to_domain": "metaphysics",
+      "edge_kind": "related"
     },
     {
       "from": "LG-M01-consciousness",
       "from_domain": "life",
       "to": "MG-H01-qualia",
-      "to_domain": "metaphysics"
+      "to_domain": "metaphysics",
+      "edge_kind": "related"
     },
     {
       "from": "LG-Y02-kinetic-pseudoscalar-channel",
       "from_domain": "life",
       "to": "PG-P01-neutron",
-      "to_domain": "physics"
+      "to_domain": "physics",
+      "edge_kind": "related"
     },
     {
       "from": "LG-Y02-kinetic-pseudoscalar-channel",
       "from_domain": "life",
       "to": "MG-R01-empirical-register",
-      "to_domain": "metaphysics"
+      "to_domain": "metaphysics",
+      "edge_kind": "related"
     },
     {
       "from": "MG-A01-ci-operator-graph",
       "from_domain": "metaphysics",
       "to": "LG-M01-consciousness",
-      "to_domain": "life"
+      "to_domain": "life",
+      "edge_kind": "related"
     },
     {
       "from": "MG-H01-qualia",
       "from_domain": "metaphysics",
       "to": "LG-M01-consciousness",
-      "to_domain": "life"
+      "to_domain": "life",
+      "edge_kind": "related"
     },
     {
       "from": "MG-R01-empirical-register",
       "from_domain": "metaphysics",
       "to": "PG-P01-neutron",
-      "to_domain": "physics"
+      "to_domain": "physics",
+      "edge_kind": "related"
     },
     {
       "from": "MG-R01-empirical-register",
       "from_domain": "metaphysics",
       "to": "LG-Y02-kinetic-pseudoscalar-channel",
-      "to_domain": "life"
+      "to_domain": "life",
+      "edge_kind": "related"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "same-concept",
+      "via_registry_id": null
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U01-tau-second",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U02-tau-meter",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U03-tau-kilogram",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U04-tau-joule",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U05-tau-kelvin",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U06-tau-coulomb",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U07-tau-ampere",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U08-tau-newton",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U09-tau-pascal",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U10-tau-watt",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D01-iota-tau",
+      "from_domain": "mathematics",
+      "to": "PG-U11-tau-volt",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.D34"
+    },
+    {
+      "from": "MathG-D08-five-generators-def",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-D09-calibrated-split-complex",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-D12-progression-operator",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-D13-diagonal-discipline",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-K01-universe-postulate",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-K02-five-generators",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-K03-no-omega-axiom",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-T02-rigidity-non-omega",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-T03-categoricity-non-omega",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
+    },
+    {
+      "from": "MathG-T04-central-theorem",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "supporting-theorem",
+      "via_registry_id": null
+    },
+    {
+      "from": "MathG-T06-prime-polarity",
+      "from_domain": "mathematics",
+      "to": "PG-C02-iota-tau",
+      "to_domain": "physics",
+      "edge_kind": "dep-graph-derived",
+      "via_registry_id": "I.K0"
     }
   ]
 }
