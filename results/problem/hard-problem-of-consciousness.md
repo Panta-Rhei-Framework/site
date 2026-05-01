@@ -15,7 +15,7 @@ result_kind: "frontier-problem"
 importance_class: "core-foundational-problem"
 status_code: "P"
 domain_group: "PHEN/MIND"
-summary_short: "Hard Problem of Consciousness is a frontier problem in the PHEN/MIND domain."
+summary_short: "At E₃ the framework holds No Forced Stance (VII.T47) on whether phenomenal experience can be reduced to structure. Status Partial. The structural binding side — consciousness-as-global-section (VII.T41) — lives at E₂; see consciousness-global-section."
 canonical_books:
   - "VII"
 right_rail:
@@ -42,7 +42,9 @@ do_not_edit: true
 
 ## Overview
 
-The Hard Problem (Chalmers, 1995) asks: why is there subjective experience at all? Why does information processing in the brain produce *something it is like* to be conscious? The framework addresses this structurally through [Categorical Mind]({{ '/corpus/monographs/' | relative_url }}): consciousness is defined as a **global section** (VII.T41) — the sheaf-theoretic gluing of local representations into a unified experience.
+The Hard Problem (Chalmers, 1995) asks: why is there subjective experience at all? Why does information processing in the brain produce *something it is like* to be conscious?
+
+**The framework's two-layer answer.** At **E₂** (the structural layer where binding-of-distributed-cognitive-content admits a categorical account), the framework offers a positive structural result: the binding side of consciousness is a global section Γ(Mind) of the mind sheaf — see the dedicated treatment at [consciousness-global-section](/results/problem/consciousness-global-section/) (VII.T41). At **E₃** (where the question becomes whether and why a binding-unified system has phenomenal experience at all), the framework explicitly holds **No Forced Stance** (VII.T47) — the structural account at E₂ does not entail the phenomenal claim at E₃, and the kernel does not force a closure. The status of this page is **Partial** for exactly this reason: the structural account is delivered; the phenomenal-experience question is left unforced.
 
 ## Detail
 

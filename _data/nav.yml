@@ -181,6 +181,8 @@ lane_nav:
                 url: "/corpus/construction-map/life/"
               - title: "Metaphysics"
                 url: "/corpus/construction-map/metaphysics/"
+          - title: "Bi-Square Spine"
+            url: "/corpus/bi-square/"
           - title: "Foundational Hinges"
             url: "/corpus/foundational-hinges/"
             children:

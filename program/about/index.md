@@ -34,6 +34,9 @@ right_rail:
     scope: Program-wide
     status: Canonical
     updated: April 2026
+og_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
+twitter_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
+og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a public research observatory — Discover, Program, Corpus, Results, Verify, Publications, Impact, Engage."
 ---
 
 The **Panta Rhei Research Program** is an independent open research program centered on one demanding question:

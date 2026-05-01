@@ -27,6 +27,8 @@ right_rail:
       url: /verify/construction-spine-verification/
     - title: "Foundational Hinges"
       url: /corpus/foundational-hinges/
+    - title: "Bi-Square Spine"
+      url: /corpus/bi-square/
     - title: "Registry"
       url: /corpus/registry/
     - title: "TauLib"
@@ -61,6 +63,7 @@ The ten construction steps show how the Corpus is built: not as a timeline or sp
 - [TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean formalization projection.
 - [Publications]({{ '/publications/' | relative_url }}) are narrative proof-order projections.
 - [Corpus Graph]({{ '/corpus/graph/' | relative_url }}) is the dependency projection.
+- [Bi-Square Spine]({{ '/corpus/bi-square/' | relative_url }}) is the diagrammatic-shape route: tower coherence, spectral naturality, and pasting across the main algebraic, geometric, enriched, and computational lifts.
 
 ## Kernel starting point
 
