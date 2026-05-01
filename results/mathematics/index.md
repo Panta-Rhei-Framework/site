@@ -72,7 +72,7 @@ Books I–V of the [TauLib]({{ '/corpus/taulib/' | relative_url }}) are highly f
 - **[🎓 Mathematics Guided Tour]({{ '/results/mathematics/guided-tour/' | relative_url }})** — 6-stop, 10-minute walk-through in plain language
 - [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) — top results across all domains, including mathematics flagships
 - [TauLib browser]({{ '/corpus/taulib/' | relative_url }}) — the Lean formalization library
-- [Registry]({{ '/corpus/registry/' | relative_url }}) — 4,139 public objects across all 7 books
+- [Registry]({{ '/corpus/registry/' | relative_url }}) — 4,547 public objects across all 7 books
 - [Glossary Onboarding]({{ '/results/glossary-onboarding/' | relative_url }}) — 5-minute primer on τ-framework vocabulary
 
 ## See also

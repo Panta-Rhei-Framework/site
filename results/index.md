@@ -68,28 +68,28 @@ The τ-framework's results organize naturally into four domains, each with its o
   <a class="v2-tile v2-tile-domain v2-tile-mathematics" href="{{ '/results/mathematics/' | relative_url }}">
     <span class="eyebrow">Books I–III · Foundational Kernel</span>
     <h3>Mathematics</h3>
-    <p>{{ mathematics_results | size }} results · the categorical kernel from which everything follows. Categoricity, holomorphy, the central theorem, Yoneda enrichment, the master constant ι_τ.</p>
+    <p>The categorical kernel from which everything follows. Categoricity, holomorphy, the central theorem, Yoneda enrichment, the master constant ι_τ.</p>
     <span class="chip chip-cascade chip-cascade-kernel">Kernel</span>
   </a>
 
   <a class="v2-tile v2-tile-domain v2-tile-physics" href="{{ '/results/physics/' | relative_url }}">
     <span class="eyebrow">Books IV–V · Calibration Cascade</span>
     <h3>Physics</h3>
-    <p>{{ physics_results | size }} results · 95 glossary entries · 67 numerical predictions. Every SI value derives from ι_τ + the neutron-mass anchor m_n. Tier-A precision down to 0.025 ppm.</p>
+    <p>95 glossary entries · 67 numerical predictions. Every SI value derives from ι_τ + the neutron-mass anchor m_n. Tier-A precision down to 0.025 ppm.</p>
     <span class="chip chip-cascade chip-cascade-physics-cascade">Physics cascade</span>
   </a>
 
   <a class="v2-tile v2-tile-domain v2-tile-life" href="{{ '/results/life/' | relative_url }}">
     <span class="eyebrow">Book VI · K_χ Multi-Branch Tree</span>
     <h3>Life</h3>
-    <p>{{ life_results | size }} results · 78 glossary entries. Every biological observable inherits from the Kinetic Pseudoscalar Channel (LG-Y02 / VI.L18). Five branches: chirality, energy, information, temporal, phenomenal.</p>
+    <p>78 glossary entries. Every biological observable inherits from the Kinetic Pseudoscalar Channel (LG-Y02 / VI.L18). Five branches: chirality, energy, information, temporal, phenomenal.</p>
     <span class="chip chip-cascade chip-cascade-life-cascade">Life cascade</span>
   </a>
 
   <a class="v2-tile v2-tile-domain v2-tile-metaphysics" href="{{ '/results/metaphysics/' | relative_url }}">
     <span class="eyebrow">Book VII · Categorical Architecture</span>
     <h3>Metaphysics</h3>
-    <p>{{ metaphysics_results | size }} results · 68 glossary entries. No empirical anchor — categorical-only. Four readout registers (Reg_E/P/D/C → Obs/Norm/Proof/Stance) plus six narrowing principles (OR1–OR6).</p>
+    <p>68 glossary entries. No empirical anchor — categorical-only. Four readout registers (Reg_E/P/D/C → Obs/Norm/Proof/Stance) plus six narrowing principles (OR1–OR6).</p>
     <span class="chip chip-cascade chip-cascade-metaphysics-architecture">Architecture</span>
   </a>
 

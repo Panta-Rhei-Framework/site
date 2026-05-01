@@ -3,7 +3,7 @@
   "source": "corpus/scripts/sync_corpus_to_site.py",
   "corpus_repo": "Panta-Rhei-Research/corpus",
   "site_repo": "Panta-Rhei-Research/site",
-  "registry_objects_count": 4139,
+  "registry_objects_count": 4547,
   "data_files_copied": 25,
   "glossary_files_copied": 10,
   "page_files_copied": 352,

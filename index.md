@@ -76,7 +76,12 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
 <section class="content-card homepage-section">
   <p class="v2-kicker">Flagship results</p>
   <h2>Concrete claims before broad interpretation</h2>
-  <p>The program builds from a single posited master constant <strong>ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304</strong> — the calibration scalar from which the framework's quantitative readouts are computed. ι<sub>τ</sub> is treated on the public surface as a posit (not derived from the K0–K6 kernel on the public pages); the monograph offers a structural motivation. The downstream content is what the surface delivers: a worked example is the electron mass result, derived from ι<sub>τ</sub> and the kernel structure to within current measurement precision. See <a href="{{ '/results/landmark-results/' | relative_url }}">Landmark Results</a> for the full set.</p>
+  <p>The quantitative physics surface is organized around the master constant <strong>ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304</strong>. The current public release treats this as a review target, not a rhetorical shortcut: the constant has a dedicated research paper, a Corpus foundational-hinge page (H3), a scalar-readout route through Construction Spine Step&nbsp;2, Registry anchors, and TauLib evidence. Downstream physics claims remain bridge and empirical-accountability claims, but the master-constant question now has a direct public review path.</p>
+  <div class="btn-group section-ctas">
+    <a class="btn-secondary" href="{{ '/corpus/foundational-hinges/master-constant-iota-tau/' | relative_url }}">Review the Master Constant</a>
+    <a class="btn-ghost" href="{{ '/publications/research-papers/master-constant-iota-tau/' | relative_url }}">Read the paper</a>
+    <a class="btn-ghost" href="{{ '/results/predictions/timing/' | relative_url }}">See prediction timing</a>
+  </div>
   <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests — with <a href="{{ '/results/predictions/timing/' | relative_url }}">full pre-registration accounting</a> distinguishing post-dictions, tension-side commitments, and forward forbiddances. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
   <div class="v2-grid">
     <a class="v2-tile" href="{{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}">
@@ -104,14 +109,15 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
 
 <section class="content-card homepage-section">
   <p class="v2-kicker">How the system works</p>
-  <h2>One corpus, several public projections</h2>
-  <p>The site is organized around canonical ownership. Corpus truth lives in the corpus and registry. Publications crystallize it into narrative artifacts. Results present answer surfaces. Verify exposes the inspection routes.</p>
+  <h2>One Corpus, several public projections</h2>
+  <p>Corpus truth lives in the Corpus and Registry. Publications crystallize the Corpus into citable artifacts. Results present current consequence surfaces. Verify exposes formal, empirical, and review routes. TauLib provides the Lean&nbsp;4 formalization projection.</p>
   <div class="v2-system-strip">
-    <div class="v2-system-node"><strong>Kernel</strong>Five generators, one operator, and K0-K6 axioms.</div>
-    <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects and dependency relations.</div>
-    <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
-    <div class="v2-system-node"><strong>Verify</strong>TauLib, audit protocols, predictions, falsifications.</div>
-    <div class="v2-system-node"><strong>Publications</strong>Research Monographs, Monograph Supplements, Research Notes, Research Briefings, White Papers, and Release Artifacts.</div>
+    <div class="v2-system-node"><strong>Kernel</strong>Five generators, one primitive progression operator, K0–K6, and the foundational-hinge route.</div>
+    <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects, monograph drilldowns, construction spine, foundational hinges, and dependency graph.</div>
+    <div class="v2-system-node"><strong>TauLib</strong>Pinned Lean&nbsp;4 formalization with 522 modules, 0 sorry, and 3 custom axioms in Book&nbsp;III bridge territory.</div>
+    <div class="v2-system-node"><strong>Results</strong>Typed result pages, 67 quantitative predictions, and 30 falsification tests.</div>
+    <div class="v2-system-node"><strong>Verify</strong>Release Manifest, audit routes, prediction timing, falsification pack, and TCB disclosure.</div>
+    <div class="v2-system-node"><strong>Publications</strong>Research Monographs, research papers, supplements, notes, briefings, white papers, release artifacts, and errata.</div>
   </div>
 </section>
 
