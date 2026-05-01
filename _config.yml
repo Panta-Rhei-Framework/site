@@ -32,8 +32,6 @@ buttondown:
   button_label: "Subscribe"
 
 collections:
-  taulib_docs:
-    output: true
   bibliography:
     output: true
     permalink: /bibliography/:name/
@@ -79,6 +77,7 @@ exclude:
   - scripts
   - README.md
   - .DS_Store
+  - _taulib_docs
 
 defaults:
   - scope:
@@ -111,11 +110,17 @@ defaults:
     values:
       layout: "prediction-page"
       lane: "results"
+      v2_lane: "results"
+      type: "Prediction"
+      status: "Canonical"
   - scope:
       type: "falsifications"
     values:
       layout: "falsification-page"
       lane: "results"
+      v2_lane: "results"
+      type: "Falsification Path"
+      status: "Canonical"
   - scope:
       type: "problem_ledger"
     values:

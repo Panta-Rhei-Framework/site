@@ -48,13 +48,13 @@ right_rail:
       url: /verify/
   artifacts:
     - title: "TauLib: Book I BiSquare"
-      url: /verify/taulib/docs/book-i-holomorphy-presheaf-essence/
+      url: /corpus/taulib/docs/book-i-holomorphy-presheaf-essence/
     - title: "TauLib: Geometric Bi-Square"
-      url: /verify/taulib/docs/book-ii-closure-geometric-bi-square/
+      url: /corpus/taulib/docs/book-ii-closure-geometric-bi-square/
     - title: "TauLib: Enriched Bi-Square"
-      url: /verify/taulib/docs/book-iii-arithmetic-enriched-bi-square/
+      url: /corpus/taulib/docs/book-iii-arithmetic-enriched-bi-square/
     - title: "TauLib: Computational Bi-Square"
-      url: /verify/taulib/docs/book-iii-computation-comp-bi-square/
+      url: /corpus/taulib/docs/book-iii-computation-comp-bi-square/
   meta:
     type: "Corpus Route"
     scope: "Bi-square scaling chain"
@@ -108,10 +108,10 @@ The bi-square should be inspected through three public projections:
 
 The key TauLib routes are:
 
-- [Book I Holomorphy / Presheaf Essence]({{ '/verify/taulib/docs/book-i-holomorphy-presheaf-essence/' | relative_url }})
-- [Book II Geometric Bi-Square]({{ '/verify/taulib/docs/book-ii-closure-geometric-bi-square/' | relative_url }})
-- [Book III Enriched Bi-Square]({{ '/verify/taulib/docs/book-iii-arithmetic-enriched-bi-square/' | relative_url }})
-- [Book III Computational Bi-Square]({{ '/verify/taulib/docs/book-iii-computation-comp-bi-square/' | relative_url }})
+- [Book I Holomorphy / Presheaf Essence]({{ '/corpus/taulib/docs/book-i-holomorphy-presheaf-essence/' | relative_url }})
+- [Book II Geometric Bi-Square]({{ '/corpus/taulib/docs/book-ii-closure-geometric-bi-square/' | relative_url }})
+- [Book III Enriched Bi-Square]({{ '/corpus/taulib/docs/book-iii-arithmetic-enriched-bi-square/' | relative_url }})
+- [Book III Computational Bi-Square]({{ '/corpus/taulib/docs/book-iii-computation-comp-bi-square/' | relative_url }})
 
 ## What this route does not claim
 

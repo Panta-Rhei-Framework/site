@@ -23,8 +23,9 @@ Each module page records source path, imports, Registry anchors, and upstream so
 
 <ul class="v2-grid v2-card-list">
 {% for module in modules limit: 36 %}
-  {% assign module_url = module["url"] %}
-  <li><article class="v2-tile"><p class="eyebrow">{{ module.book | default: "TauLib" }}{% if module.family %} · {{ module.family }}{% endif %}</p><h3><a href="{{ module_url | relative_url }}">{{ module.module_name }}</a></h3><p>{{ module.line_count }} lines · {{ module.registry_ids | size }} registry anchors.</p></article></li>
+  {% assign module_url = module["url"] | replace: "/verify/taulib/docs/", "/corpus/taulib/docs/" %}
+  {% assign module_page = site.pages | where: "url", module_url | first %}
+  <li><article class="v2-tile"><p class="eyebrow">{{ module.book | default: "TauLib" }}{% if module.family %} · {{ module.family }}{% endif %}</p><h3>{% if module_page %}<a href="{{ module_url | relative_url }}">{{ module.module_name }}</a>{% else %}<code>{{ module.module_name }}</code>{% endif %}</h3><p>{{ module.line_count }} lines · {{ module.registry_ids | size }} registry anchors.</p>{% unless module_page %}<p class="muted">Corpus module page pending in the public projection.</p>{% endunless %}</article></li>
 {% endfor %}
 </ul>
 

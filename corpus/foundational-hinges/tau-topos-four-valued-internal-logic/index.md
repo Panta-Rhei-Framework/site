@@ -79,9 +79,9 @@ The research paper develops the τ-topos and its four-valued internal logic, add
 
 ## TauLib evidence
 
-- [TauLib.BookI.Logic.Truth4](/verify/taulib/docs/book-i-logic-truth4/)
-- [TauLib.BookI.Topos.EarnedTopos](/verify/taulib/docs/book-i-topos-earned-topos/)
-- [TauLib.BookI.Topos.InternalHom](/verify/taulib/docs/book-i-topos-internal-hom/)
+- [TauLib.BookI.Logic.Truth4](/corpus/taulib/docs/book-i-logic-truth4/)
+- [TauLib.BookI.Topos.EarnedTopos](/corpus/taulib/docs/book-i-topos-earned-topos/)
+- [TauLib.BookI.Topos.InternalHom](/corpus/taulib/docs/book-i-topos-internal-hom/)
 
 ## Failure consequence
 

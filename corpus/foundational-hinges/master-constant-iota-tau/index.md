@@ -105,8 +105,8 @@ The research paper develops the structural derivation of iota_tau and its role i
 
 ## TauLib evidence
 
-- [TauLib.BookI.Boundary.Iota](/verify/taulib/docs/book-i-boundary-iota/)
-- [TauLib.BookI.Boundary.Spectral](/verify/taulib/docs/book-i-boundary-spectral/)
+- [TauLib.BookI.Boundary.Iota](/corpus/taulib/docs/book-i-boundary-iota/)
+- [TauLib.BookI.Boundary.Spectral](/corpus/taulib/docs/book-i-boundary-spectral/)
 
 ## Failure consequence
 

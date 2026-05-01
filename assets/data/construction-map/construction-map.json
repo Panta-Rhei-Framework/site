@@ -24520,7 +24520,7 @@
     "next_part": {
       "construction_sequence": 79,
       "title": "The Final Boundary: From Proof to Commitment",
-      "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/"
+      "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
     }
   },
   {
@@ -24535,35 +24535,35 @@
     "part_display": "Part XII",
     "title": "The Final Boundary: From Proof to Commitment",
     "summary_short": "The ω-germ question—whether ω is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…",
-    "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/",
+    "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/",
     "chapter_count": 4,
     "chapter_refs": [
       {
         "id": "book-vii-ch-125",
         "chapter_number": 125,
         "title": "The Boundary Collapse Lemma",
-        "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/",
+        "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/",
         "slug": "chapter-125-the-boundary-collapse-lemma"
       },
       {
         "id": "book-vii-ch-126",
         "chapter_number": 126,
         "title": "No Forced Stance By Theorem",
-        "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/chapter-126-no-forced-stance-by-theorem/",
+        "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-126-no-forced-stance-by-theorem/",
         "slug": "chapter-126-no-forced-stance-by-theorem"
       },
       {
         "id": "book-vii-ch-127",
         "chapter_number": 127,
         "title": "The Epistemic→Performative Bridge",
-        "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/",
+        "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/",
         "slug": "chapter-127-the-epistemic-performative-bridge"
       },
       {
         "id": "book-vii-ch-128",
         "chapter_number": 128,
         "title": "The Series Closing Line",
-        "url": "/corpus/monographs/book-vii/part-11-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/",
+        "url": "/corpus/monographs/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/",
         "slug": "chapter-128-the-series-closing-line"
       }
     ],

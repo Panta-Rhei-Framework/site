@@ -35,7 +35,8 @@ The full module inventory is rendered below for crawlers and non-JavaScript read
 
   <ol class="v2-grid v2-card-list module-explorer-grid" id="taulib-module-list">
   {% for module in modules %}
-    {% assign module_url = module["url"] %}
+    {% assign module_url = module["url"] | replace: "/verify/taulib/docs/", "/corpus/taulib/docs/" %}
+    {% assign module_page = site.pages | where: "url", module_url | first %}
     <li class="module-card"
         data-book="{{ module.book }}"
         data-family="{{ module.family }}"
@@ -43,8 +44,9 @@ The full module inventory is rendered below for crawlers and non-JavaScript read
         data-registry="{{ module.registry_ids | join: ' ' }}">
       <article class="v2-tile">
         <p class="eyebrow">{{ module.book | default: "TauLib" }}{% if module.family %} · {{ module.family }}{% endif %}</p>
-        <h3><a href="{{ module_url | relative_url }}">{{ module.module_name }}</a></h3>
+        <h3>{% if module_page %}<a href="{{ module_url | relative_url }}">{{ module.module_name }}</a>{% else %}<code>{{ module.module_name }}</code>{% endif %}</h3>
         <p>{{ module.line_count }} lines · {{ module.registry_ids | size }} registry anchors.</p>
+        {% unless module_page %}<p class="muted">Corpus module page pending in the public projection.</p>{% endunless %}
         {% if module.registry_ids and module.registry_ids.size > 0 %}
         <p>{% for id in module.registry_ids limit: 6 %}<a class="chip" href="{{ '/registry/object/' | append: id | append: '/' | relative_url }}">{{ id }}</a>{% endfor %}</p>
         {% endif %}

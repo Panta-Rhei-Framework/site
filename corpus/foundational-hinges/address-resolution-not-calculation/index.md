@@ -70,7 +70,7 @@ The research paper develops canonical normalization, the genealogical DAG, the C
 
 ## TauLib evidence
 
-- [TauLib.BookI.Denotation.Arithmetic](/verify/taulib/docs/book-i-denotation-arithmetic/)
+- [TauLib.BookI.Denotation.Arithmetic](/corpus/taulib/docs/book-i-denotation-arithmetic/)
 - Dedicated H7 theorem documentation (pending explicit TauLib docs mapping)
 
 ## Failure consequence

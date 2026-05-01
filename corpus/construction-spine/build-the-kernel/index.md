@@ -47,22 +47,22 @@ related_registry_items:
 related_taulib_modules:
   -
     title: "TauLib.BookI.Kernel.Signature"
-    url: "/verify/taulib/docs/book-i-kernel-signature/"
+    url: "/corpus/taulib/docs/book-i-kernel-signature/"
   -
     title: "TauLib.BookI.Kernel.Axioms"
-    url: "/verify/taulib/docs/book-i-kernel-axioms/"
+    url: "/corpus/taulib/docs/book-i-kernel-axioms/"
   -
     title: "TauLib.BookI.Kernel.Diagonal"
-    url: "/verify/taulib/docs/book-i-kernel-diagonal/"
+    url: "/corpus/taulib/docs/book-i-kernel-diagonal/"
   -
     title: "TauLib.BookI.Boundary.SplitComplex"
-    url: "/verify/taulib/docs/book-i-boundary-split-complex/"
+    url: "/corpus/taulib/docs/book-i-boundary-split-complex/"
   -
     title: "TauLib.BookI.Holomorphy.TauHolomorphic"
-    url: "/verify/taulib/docs/book-i-holomorphy-tau-holomorphic/"
+    url: "/corpus/taulib/docs/book-i-holomorphy-tau-holomorphic/"
   -
     title: "TauLib.BookI.Topos.EarnedTopos"
-    url: "/verify/taulib/docs/book-i-topos-earned-topos/"
+    url: "/corpus/taulib/docs/book-i-topos-earned-topos/"
 related_books:
   -
     title: "Book I"
@@ -116,10 +116,10 @@ verification:
   taulib_modules:
     -
       title: "TauLib.BookI.Kernel.Signature"
-      url: "/verify/taulib/docs/book-i-kernel-signature/"
+      url: "/corpus/taulib/docs/book-i-kernel-signature/"
     -
       title: "TauLib.BookI.Kernel.Axioms"
-      url: "/verify/taulib/docs/book-i-kernel-axioms/"
+      url: "/corpus/taulib/docs/book-i-kernel-axioms/"
   bridge_check_status: "not_applicable"
   bridge_checks: []
   empirical_check_status: "not_applicable"
@@ -227,12 +227,12 @@ The kernel axiom cluster is the first review target. These axioms specify the ex
 | Axiom | Public statement | Registry | Lean evidence |
 |---|---|---|---|
 | K0 | Postulates the existence of the totality τ as a universe of discourse; distinguishes τ from the fixed-point element ω. | [I.K0](/registry/object/I.K0/) | implicit through the kernel type declarations |
-| K1 | α < π < γ < η < ω is a strict total order on the five generators. | [I.K1](/registry/object/I.K1/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
-| K2 | ρ(ω) = ω; ω is the fixed-point absorber. | [I.K2](/registry/object/I.K2/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
-| K3 | Each generator g in {α, π, γ, η} seeds its orbit ray O_g = {ρ^n(g) : n ≥ 0}. | [I.K3](/registry/object/I.K3/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
-| K4 | ρ is a successor within each orbit; no skipping; covers are primitive. | [I.K4](/registry/object/I.K4/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
-| K5 | ω is not in the image of ρ restricted to any orbit ray; ω is unreachable by finite iteration. | [I.K5](/registry/object/I.K5/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
-| K6 | Obj(τ) = {ω} ∪ O_α ∪ O_π ∪ O_γ ∪ O_η; no other objects exist. | [I.K6](/registry/object/I.K6/) | [Kernel axioms](/verify/taulib/docs/book-i-kernel-axioms/) |
+| K1 | α < π < γ < η < ω is a strict total order on the five generators. | [I.K1](/registry/object/I.K1/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
+| K2 | ρ(ω) = ω; ω is the fixed-point absorber. | [I.K2](/registry/object/I.K2/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
+| K3 | Each generator g in {α, π, γ, η} seeds its orbit ray O_g = {ρ^n(g) : n ≥ 0}. | [I.K3](/registry/object/I.K3/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
+| K4 | ρ is a successor within each orbit; no skipping; covers are primitive. | [I.K4](/registry/object/I.K4/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
+| K5 | ω is not in the image of ρ restricted to any orbit ray; ω is unreachable by finite iteration. | [I.K5](/registry/object/I.K5/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
+| K6 | Obj(τ) = {ω} ∪ O_α ∪ O_π ∪ O_γ ∪ O_η; no other objects exist. | [I.K6](/registry/object/I.K6/) | [Kernel axioms](/corpus/taulib/docs/book-i-kernel-axioms/) |
 
 The strict generator order is the first visible constraint:
 
@@ -380,12 +380,12 @@ Recommended first pass:
 
 ## TauLib modules
 
-- [TauLib.BookI.Kernel.Signature](/verify/taulib/docs/book-i-kernel-signature/)
-- [TauLib.BookI.Kernel.Axioms](/verify/taulib/docs/book-i-kernel-axioms/)
-- [TauLib.BookI.Kernel.Diagonal](/verify/taulib/docs/book-i-kernel-diagonal/)
-- [TauLib.BookI.Boundary.SplitComplex](/verify/taulib/docs/book-i-boundary-split-complex/)
-- [TauLib.BookI.Holomorphy.TauHolomorphic](/verify/taulib/docs/book-i-holomorphy-tau-holomorphic/)
-- [TauLib.BookI.Topos.EarnedTopos](/verify/taulib/docs/book-i-topos-earned-topos/)
+- [TauLib.BookI.Kernel.Signature](/corpus/taulib/docs/book-i-kernel-signature/)
+- [TauLib.BookI.Kernel.Axioms](/corpus/taulib/docs/book-i-kernel-axioms/)
+- [TauLib.BookI.Kernel.Diagonal](/corpus/taulib/docs/book-i-kernel-diagonal/)
+- [TauLib.BookI.Boundary.SplitComplex](/corpus/taulib/docs/book-i-boundary-split-complex/)
+- [TauLib.BookI.Holomorphy.TauHolomorphic](/corpus/taulib/docs/book-i-holomorphy-tau-holomorphic/)
+- [TauLib.BookI.Topos.EarnedTopos](/corpus/taulib/docs/book-i-topos-earned-topos/)
 
 ## Book locations
 

@@ -35,7 +35,7 @@ right_rail:
     updated: "April 2026"
 ---
 
-{% assign landmark_results = site.data.results.results | where: "landmark", true | sort: "landmark_rank" %}
+{% assign landmark_results = site.data.results.results | sort: "landmark_rank" %}
 
 ## What makes a result a landmark
 
@@ -76,6 +76,7 @@ The [Categorical Imperative Derivation]({{ '/results/problem/categorical-imperat
 
 <ol class="results-browse-grid landmark-result-grid">
   {% for result in landmark_results %}
+    {% if result["landmark_rank"] %}
     {% assign result_status_label = result.status_code %}
     {% case result.status_code %}
       {% when 'R' %}{% assign result_status_label = "Internally addressed" %}
@@ -117,6 +118,7 @@ The [Categorical Imperative Derivation]({{ '/results/problem/categorical-imperat
         </div>
       </a>
     </li>
+    {% endif %}
   {% endfor %}
 </ol>
 

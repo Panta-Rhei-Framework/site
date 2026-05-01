@@ -32,6 +32,23 @@ def copy_tree(source: Path, target: Path) -> None:
             copy_file(path, target / path.relative_to(source))
 
 
+def normalize_taulib_projection_routes(path: Path) -> None:
+    if not path.exists() or not path.is_file():
+        return
+    text = path.read_text(encoding="utf-8")
+    normalized = text.replace("/verify/taulib/docs/", "/corpus/taulib/docs/")
+    if normalized != text:
+        path.write_text(normalized, encoding="utf-8")
+
+
+def normalize_taulib_projection_tree(root: Path) -> None:
+    if not root.exists():
+        return
+    for path in sorted(root.rglob("*")):
+        if path.suffix in {".csv", ".json", ".md", ".ndjson"}:
+            normalize_taulib_projection_routes(path)
+
+
 def clean_generated_tree(
     target: Path,
     suffixes: tuple[str, ...] = (".md", ".json", ".csv", ".ndjson"),
@@ -669,8 +686,8 @@ def sync_problem_recovery_agenda() -> None:
 def sync_results() -> None:
     for filename in ("results.json", "results.ndjson", "results.csv"):
         source = CORPUS_EXPORTS / filename
-        copy_file(source, SITE_ROOT / "_data" / "results" / filename)
         copy_file(source, SITE_ROOT / "assets" / "data" / "results" / filename)
+    copy_file(CORPUS_EXPORTS / "results.json", SITE_ROOT / "_data" / "results" / "results.json")
     clean_generated_tree(SITE_ROOT / "results" / "problem")
     copy_tree(CORPUS_EXPORTS / "result-pages", SITE_ROOT / "results" / "problem")
 
@@ -838,11 +855,14 @@ def sync_taulib_projection() -> None:
         clean_generated_tree(SITE_ROOT / "assets" / "data" / "taulib-projections")
         copy_tree(data_source, SITE_ROOT / "_data" / "taulib_projections")
         copy_tree(data_source, SITE_ROOT / "assets" / "data" / "taulib-projections")
+        normalize_taulib_projection_tree(SITE_ROOT / "_data" / "taulib_projections")
+        normalize_taulib_projection_tree(SITE_ROOT / "assets" / "data" / "taulib-projections")
 
     if pages_source.exists():
         clean_generated_tree(SITE_ROOT / "_taulib_docs")
         clean_generated_tree(SITE_ROOT / "verify" / "taulib" / "docs")
         copy_tree(pages_source, SITE_ROOT / "_taulib_docs")
+        normalize_taulib_projection_tree(SITE_ROOT / "_taulib_docs")
 
 
 def main() -> int:

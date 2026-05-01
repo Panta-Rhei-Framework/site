@@ -97,8 +97,8 @@ def built_assertions() -> None:
         assert_equal(h1_count, 1, f"{route} H1 count")
 
     root_text = visible_text((SITE / "results/index.html").read_text(encoding="utf-8"))
-    if "255 total result pages" not in root_text:
-        raise AssertionError("Results root does not expose 255 total result pages")
+    if "255 total result pages" not in root_text and "full 255-page catalogue" not in root_text:
+        raise AssertionError("Results root does not expose the 255-result catalogue")
     if "234 total result pages" in root_text:
         raise AssertionError("Results root still exposes 234 total result pages")
 

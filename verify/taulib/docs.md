@@ -32,10 +32,10 @@ right_rail:
 
 ## Corpus-Native Projection
 
-This browser is generated directly from the pinned Corpus TauLib snapshot. It is not imported from generated HTML: the Corpus scanner reads the Lean source, extracts modules, imports, registry IDs, declarations, source spans, and stable URLs, then projects those records into these public pages.
+This browser is generated directly from the pinned Corpus TauLib snapshot. It is not imported from generated HTML: the Corpus scanner reads the Lean source, extracts modules, imports, registry IDs, declarations, source spans, and stable Corpus documentation URLs, then projects those records into these public pages.
 
 <div class="v2-grid">
-  <article class="v2-tile"><strong>{{ summary.module_count | default: modules.size }} modules</strong><span>Pinned Lean modules with stable compatibility URLs.</span></article>
+  <article class="v2-tile"><strong>{{ summary.module_count | default: modules.size }} modules</strong><span>Pinned Lean modules with stable Corpus documentation URLs.</span></article>
   <article class="v2-tile"><strong>{{ summary.declaration_count }} declarations/evals</strong><span>Theorems, lemmas, definitions, structures, classes, inductives, axioms, examples, and evaluations.</span></article>
   <article class="v2-tile"><strong>{{ summary.registry_linked_module_count }} linked modules</strong><span>Modules with explicit Registry identifiers.</span></article>
   <article class="v2-tile"><strong>{{ summary.registry_linked_declaration_count }} linked declarations</strong><span>Declaration-level Registry evidence where the source exposes it.</span></article>
@@ -56,9 +56,10 @@ This browser is generated directly from the pinned Corpus TauLib snapshot. It is
   </thead>
   <tbody>
   {% for module in modules %}
-    {% assign module_url = module["url"] %}
+    {% assign module_url = module["url"] | replace: "/verify/taulib/docs/", "/corpus/taulib/docs/" %}
+    {% assign module_page = site.pages | where: "url", module_url | first %}
     <tr>
-      <th scope="row"><a href="{{ module_url | relative_url }}"><code>{{ module.module_name }}</code></a></th>
+      <th scope="row">{% if module_page %}<a href="{{ module_url | relative_url }}"><code>{{ module.module_name }}</code></a>{% else %}<code>{{ module.module_name }}</code>{% endif %}</th>
       <td>{{ module.book | default: "Core" }}</td>
       <td>{{ module.family | default: "Root" }}</td>
       <td>{{ module.declarations | size }}</td>
