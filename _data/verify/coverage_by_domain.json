@@ -1,0 +1,128 @@
+{
+  "generated": "2026-04-30T22:15:29+00:00",
+  "source": "corpus/exports/public/taulib-projections/data/modules.json",
+  "source_commit": "cb5e83015b54dd72eba560953fe2461820078757",
+  "schema_version": "verify-v3.0",
+  "by_domain": {
+    "mathematics": {
+      "module_count": 284,
+      "line_count": 70685,
+      "declaration_counts": {
+        "def": 1904,
+        "theorem": 2891,
+        "structure": 145,
+        "example": 368,
+        "eval": 2244,
+        "inductive": 62,
+        "axiom": 3,
+        "lemma": 0
+      },
+      "registry_linked_module_count": 265,
+      "books": {
+        "BookI": {
+          "module_count": 147,
+          "line_count": 35469
+        },
+        "BookII": {
+          "module_count": 66,
+          "line_count": 18183
+        },
+        "BookIII": {
+          "module_count": 71,
+          "line_count": 17033
+        }
+      },
+      "declaration_count": 7617,
+      "formalized_count": 5002,
+      "axiom_count": 3
+    },
+    "physics": {
+      "module_count": 171,
+      "line_count": 58581,
+      "declaration_counts": {
+        "def": 1567,
+        "theorem": 1703,
+        "structure": 1102,
+        "example": 3,
+        "eval": 1577,
+        "inductive": 111,
+        "axiom": 0,
+        "lemma": 6
+      },
+      "registry_linked_module_count": 169,
+      "books": {
+        "BookIV": {
+          "module_count": 90,
+          "line_count": 29984
+        },
+        "BookV": {
+          "module_count": 81,
+          "line_count": 28597
+        }
+      },
+      "declaration_count": 6069,
+      "formalized_count": 4489,
+      "axiom_count": 0
+    },
+    "life": {
+      "module_count": 31,
+      "line_count": 5329,
+      "declaration_counts": {
+        "def": 164,
+        "theorem": 147,
+        "structure": 164,
+        "example": 0,
+        "eval": 0,
+        "inductive": 1,
+        "axiom": 0,
+        "lemma": 0
+      },
+      "registry_linked_module_count": 30,
+      "books": {
+        "BookVI": {
+          "module_count": 31,
+          "line_count": 5329
+        }
+      },
+      "declaration_count": 476,
+      "formalized_count": 476,
+      "axiom_count": 0
+    },
+    "metaphysics": {
+      "module_count": 9,
+      "line_count": 4517,
+      "declaration_counts": {
+        "def": 106,
+        "theorem": 116,
+        "structure": 107,
+        "example": 0,
+        "eval": 0,
+        "inductive": 8,
+        "axiom": 0,
+        "lemma": 0
+      },
+      "registry_linked_module_count": 8,
+      "books": {
+        "BookVII": {
+          "module_count": 9,
+          "line_count": 4517
+        }
+      },
+      "declaration_count": 337,
+      "formalized_count": 337,
+      "axiom_count": 0
+    }
+  },
+  "global_summary": {
+    "module_count": 512,
+    "declaration_count": 14601,
+    "registry_linked_module_count": 478,
+    "formal_status_counts": {
+      "defined": 5441,
+      "formalized": 4863,
+      "example": 371,
+      "computed": 3923,
+      "axiom": 3
+    }
+  }
+}
