@@ -6,6 +6,7 @@ v2_lane: verify
 type: "Verification Surface"
 status: "Canonical"
 summary_short: "Inspection route for transfer claims between internal framework structure and external mathematical or domain formulations."
+plain_language_summary: "A 'bridge' in this program is a claim of the form 'this internal τ-categorical structure corresponds to that external thing physicists/biologists/mathematicians already recognize.' Bridge verification is the audit route for those claims — separate from formal proof (a theorem can be machine-checked yet still describe the wrong external object) and separate from empirical fit (an empirical match doesn't establish that the τ-structural derivation is right). This page names the bridge inspection method: explicit naming of the external object, identification of the internal τ-construct, the morphism between them, and the obligations on each side that would have to fail for the bridge to be wrong."
 right_rail:
   related:
     - title: "Formal Verification Stack"

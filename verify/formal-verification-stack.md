@@ -7,6 +7,7 @@ type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/formal-verification-stack/
 summary_short: "The layered structure by which the formal core of the program is checked."
+plain_language_summary: "The framework's mathematical claims aren't just argued in prose — every theorem is written in Lean 4, a programming language that machine-checks proofs. There are 4,857 such theorems across 512 modules, all compiling with zero `sorry` placeholders. This page lays out the four layers of formal checking: kernel integrity (does Lean's own type-checker accept the proof?), standard-foundation alignment (does the proof use only Mathlib axioms plus three explicit custom ones?), bridge verification (do the formal claims correspond to the empirical predictions?), and external assessment (do specialists outside the program see the same picture?). Each layer is independently inspectable; nothing relies on a single black box."
 summary_cards:
   - title: "Lean layer"
     body: "TauLib is the machine-checkable formalization surface."

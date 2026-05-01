@@ -8,6 +8,7 @@ section: construction-verification
 type: "Verification Surface"
 status: "Canonical"
 summary_short: "Maps the ten Corpus Construction Spine steps to the relevant verification modes, including formal proof, bridge checks, empirical prediction, falsification, and answer-shape scrutiny."
+plain_language_summary: "The Construction Spine is the program's 10-step build of reality: kernel → core math → self-enrichment → physical carrier → physical grammar → measurement bridges → life → reflection → self-host → ontic closure. Each step makes a different *kind* of claim, so each step needs a different *kind* of inspection. This page maps every step to the verification modes that apply — formal proof for steps 1–3, bridge verification for steps 4–6, empirical prediction + falsification for measurement-bearing steps, and answer-shape scrutiny for the closure-level steps. Outside reviewers can use this map to find their entry point: 'I'm a category theorist — start me at step 3' or 'I'm an empirical physicist — show me steps 6 and 8.'"
 og_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
 twitter_image: /assets/images/plates/plate-06-verification-matrix-og.jpg
 og_image_alt: "Scientific plate showing the Verify lane as a verification matrix with obligations, construction steps, results, formal proof checking, bridge adequacy, predictions, falsification, and external assessment."
