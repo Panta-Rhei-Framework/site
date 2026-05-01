@@ -63,6 +63,16 @@ layout: default
 
 {% include summary-cards.html %}
 
+{%- comment -%}
+  Verify-Lane v3.3 — plain-language accordion. Renders only on pages that
+  set page.plain_language_summary (manual opt-in, currently verify-lane
+  technical pages). Sits between summary-cards and the technical content
+  card so the layperson reads it first.
+{%- endcomment -%}
+{% if page.plain_language_summary %}
+{% include verify-plain-language.html %}
+{% endif %}
+
 <div class="content-card">
   <div class="prose">
     {{ content }}

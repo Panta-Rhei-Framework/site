@@ -1,0 +1,35 @@
+{%- comment -%}
+  Verify-Lane v3.3 plain-language accordion.
+
+  Surfaces a non-expert-friendly summary at the top of technical verify
+  pages. By default, expanded — the intelligent layperson sees plain
+  language first; experts can collapse to read the technical body below.
+
+  Source priority:
+    1. page.plain_language_summary    (hand-authored override; preferred)
+    2. (skip — render nothing; verify pages without an authored summary
+       won't show the accordion to avoid noise from generic summary_short)
+
+  The accordion is built with native <details> for zero JS dependency.
+  Reuses the .result-plain-language SCSS palette (green-accent gradient
+  panel) so verify pages match the v3.4 results-lane plain-language
+  treatment visually — same UX language for the same affordance.
+
+  Usage:
+    {% include verify-plain-language.html %}
+{%- endcomment -%}
+
+{%- if page.plain_language_summary -%}
+<details class="result-plain-language verify-plain-language" open>
+  <summary>
+    <span class="result-plain-language-eyebrow">In plain language</span>
+    <span class="result-plain-language-toggle" aria-hidden="true">▾</span>
+  </summary>
+  <div class="result-plain-language-body">
+    <p>{{ page.plain_language_summary | strip_html }}</p>
+    <p class="muted result-plain-language-source">
+      Hand-edited plain-language summary for the verification surface. The technical body follows below.
+    </p>
+  </div>
+</details>
+{%- endif -%}

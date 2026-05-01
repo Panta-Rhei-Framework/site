@@ -7,6 +7,7 @@ type: "Verification Surface"
 status: "Canonical"
 permalink: /verify/scientific-rigor/
 summary_short: "The standards by which the program holds itself accountable as a serious, inspectable research program."
+plain_language_summary: "Most research programs ask you to take their claims at face value. This one asks the opposite — every claim is typed by what kind of thing it is (mathematical theorem, physical prediction, biological correlate, metaphysical commitment), and each type is held to the standard appropriate to it. A theorem must compile in Lean. A physical prediction must match measurement. A biological claim must point to a measurable biomarker. A metaphysical claim must instantiate categorically. The page below names those standards and the routes by which an outside reviewer can check that the program is actually following them."
 summary_cards:
   - title: "Typed claims"
     body: "Mathematical, physical, life, and metaphysical claims are not granted the same epistemic status."

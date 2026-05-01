@@ -8,6 +8,7 @@ type: "Verification Surface"
 verify_type: meta_frontier
 status: "Canonical"
 summary_short: "The remaining question of verifier externality, and the deeper closure ambitions of the program."
+plain_language_summary: "Once you trust Lean's kernel and have machine-checked proofs, you've answered the first-order question 'are the proofs correct?' But there's a deeper question hiding behind it: who verifies the verifier? Lean is itself a piece of software, written in Lean and compiled by a Lean compiler — and at some point you have to step outside the system to trust the system. This page names that frontier, explains what self-hosting and bootstrapping would mean for closing it, and lays out the ambitions the program holds for eventual full kernel-self-audit. It's an honest acknowledgement that no formal system can fully verify itself from inside."
 summary_cards:
   - title: "Current certification"
     body: "TauLib certification is meaningful relative to Lean and the stated release scope."
