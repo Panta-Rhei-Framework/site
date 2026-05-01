@@ -2,9 +2,167 @@
   "generated": "2026-04-30",
   "domain": "mathematics",
   "category_counts": {
-    "definition": 1
+    "axiom": 3,
+    "definition": 5,
+    "object": 2,
+    "postulate": 3,
+    "structure": 3,
+    "theorem": 5
   },
   "entries_by_category": {
+    "axiom": [
+      {
+        "id": "MathG-A01-bridge-functor",
+        "domain": "mathematics",
+        "category": "axiom",
+        "name": "Bridge functor axiom",
+        "tau_symbol": "B",
+        "slug": "bridge-functor",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Bridge functor axiom (III.D71) is the first of three custom axioms in TauLib beyond Mathlib's trusted base. It asserts the existence of a structure-preserving functor between τ-admissible spectral data and the orthodox classical formulations (Riemann zeta, Dirichlet/Hecke L-functions). Spectral-purity results in the τ-internal world translate to classical statements on the τ-admissible sub-domain. The axiom is finite-checked but not constructively proved: every finite (n, k) bound has been verified, but the universal extension is the conjectural step.",
+          "categorical_invariant": "A functor B : τ-Spec → Class-Spec preserving spectral purity, asserted to exist universally on τ-admissible inputs; the universal claim is the axiom, the finite envelope check is provable.",
+          "primary_registry_id": "III.D71",
+          "supporting_registry_ids": [
+            "III.T18",
+            "II.T40"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15) — τ-internal categorical anchor"
+            },
+            {
+              "step": 3,
+              "registry_id": "III.T18",
+              "claim": "Spectral correspondence theorem — within τ, spectral data and admissible classical data correspond at finite (n, k)"
+            },
+            {
+              "step": 4,
+              "registry_id": "III.D71",
+              "claim": "Bridge functor axiom — universal extension of the spectral correspondence to all τ-admissible inputs (this entry)"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookIII.Bridge.BridgeAxiom"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-A02-spectral-correspondence",
+        "domain": "mathematics",
+        "category": "axiom",
+        "name": "Spectral correspondence O(3) axiom",
+        "tau_symbol": "SC_{O(3)}",
+        "slug": "spectral-correspondence",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Spectral correspondence O(3) axiom (III.T18, surfaced as A02 in this glossary) is the second custom axiom in TauLib. It asserts that the τ-spectral correspondence — the τ-internal mapping between spectral data and the B↔I↔S triangle structure on the lemniscate boundary — extends to third-order constructions: degree-3 polynomial spectral sub-structures preserve the triangle in the same way degree-1 and degree-2 sub-structures do (which are proved). The finite envelope is checked; the universal extension to all O(3) configurations is the axiom.",
+          "categorical_invariant": "An order-3 extension of the spectral correspondence operator, asserted to commute with the B↔I↔S triangle on the τ-lemniscate boundary; the universal claim is the axiom, the finite envelope is provable.",
+          "primary_registry_id": "III.T18",
+          "supporting_registry_ids": [
+            "III.T19",
+            "III.D71"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15)"
+            },
+            {
+              "step": 3,
+              "registry_id": "III.T19",
+              "claim": "Critical Line theorem — degree-1 + degree-2 spectral correspondences proved"
+            },
+            {
+              "step": 4,
+              "registry_id": "III.T18",
+              "claim": "Spectral correspondence O(3) axiom — degree-3 extension (this entry)"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookIII.Doors.SpectralCorrespondence",
+            "TauLib.BookIII.Spectral.Trichotomy"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-A03-grand-grh-adelic",
+        "domain": "mathematics",
+        "category": "axiom",
+        "name": "Grand GRH (adelic) axiom",
+        "tau_symbol": "GRH_{adelic}",
+        "slug": "grand-grh-adelic",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Grand GRH (adelic) axiom (III.D31) is the third custom axiom in TauLib. It asserts that the Prime Polarity Scaling Theorem (III.T20) extends to all automorphic L-functions in the adelic sense — not just the finite-rank classes verifiable in Lean. The finite envelope (bounded rank, bounded conductor) is checked via native_decide; the universal extension to unbounded rank and conductor is the conjectural step.",
+          "categorical_invariant": "Universal spectral purity of τ-admissible automorphic data across the adelic class — asserted as the axiomatized extension of finite-rank purity (T20).",
+          "primary_registry_id": "III.D31",
+          "supporting_registry_ids": [
+            "III.T20",
+            "III.D71"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15)"
+            },
+            {
+              "step": 3,
+              "registry_id": "III.T20",
+              "claim": "Prime Polarity Scaling Theorem — finite-rank automorphic spectral purity proved"
+            },
+            {
+              "step": 4,
+              "registry_id": "III.D31",
+              "claim": "Grand GRH adelic axiom — universal extension to all automorphic L-functions (this entry)"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookIII.Spectral.Adeles"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      }
+    ],
     "definition": [
       {
         "id": "MathG-D01-iota-tau",
@@ -57,6 +215,872 @@
             "TauLib.BookI.Boundary.IotaTauStructural",
             "TauLib.BookI.Boundary.TauRealIotaTau",
             "TauLib.BookII.Transcendentals.IotaTauConfirmed"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-D02-tau-categorical",
+        "domain": "mathematics",
+        "category": "definition",
+        "name": "τ-categorical structure",
+        "tau_symbol": "τ-cat",
+        "slug": "tau-categorical",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The τ-categorical structure is the categorical content of the τ-kernel: τ as a category in its own right, equipped with the τ-site topology that turns it into an earned topos. The phrase 'τ-categorical' appears throughout the framework as the qualifier separating τ-internal claims (provable from K0–K6) from τ-external claims (requiring bridges into Mathlib or classical mathematics).",
+          "categorical_invariant": "τ together with its canonical site topology, viewed as an (∞, 1)-topos via the earned-topos construction.",
+          "primary_registry_id": "I.D56",
+          "supporting_registry_ids": [
+            "I.K0",
+            "I.K1",
+            "I.K6"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — kernel τ exists"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1–K5 generators give τ its category-theoretic content"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D56",
+              "claim": "τ-site — τ equipped with its canonical Grothendieck-style topology"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Topos.EarnedTopos",
+            "TauLib.BookI.Topos.LimitsSites"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-D03-window-algebra",
+        "domain": "mathematics",
+        "category": "definition",
+        "name": "Window-algebra integers W_n(k)",
+        "tau_symbol": "W_n(k)",
+        "slug": "window-algebra",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The window-algebra integers W_n(k) are the Book-II numerical invariants of the τ-categorical structure at rank coordinates (n, k). For load-bearing pairs (W₃(4) = 5, W₅(3) = 19, …) the values are exact closed-form integers; the central theorem at rank (3, 15) (T04 / II.T40) is the categoricity check that fixes them.",
+          "categorical_invariant": "The integer-valued algebra of bounded windows over the τ-coordinate chart; W_n(k) is the dimension of the n-th window at depth k.",
+          "primary_registry_id": "I.D17",
+          "supporting_registry_ids": [
+            "I.D08",
+            "II.T40"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.D08",
+              "claim": "Rank coordinates (n, k) — the indexing scheme for the windows"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D17",
+              "claim": "ABCD coordinate chart — the chart on which the windows are defined"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15) — fixes the load-bearing W-values via the categoricity check"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Coordinates.ABCD",
+            "TauLib.BookI.Coordinates.HyperfactIsomorphism"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-D04-yoneda-as-theorem",
+        "domain": "mathematics",
+        "category": "definition",
+        "name": "Yoneda-as-theorem under self-enrichment",
+        "tau_symbol": "Y",
+        "slug": "yoneda-as-theorem",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "Yoneda-as-theorem (II.D50) is the τ-framework's distinctive treatment of the Yoneda lemma: rather than appearing as an external categorical fact applied to τ, the Yoneda embedding is internalized as a theorem provable inside τ via self-enrichment. The construction is the keystone of Book II — it is what makes the Yoneda enrichment ladder (T05 / II.T36) and the central theorem (T04 / II.T40) possible.",
+          "categorical_invariant": "The pre-Yoneda embedding Y : τ → [τ^op, τ-Set] viewed as a τ-internal arrow under the self-enrichment of τ; combined with self-enrichment, the embedding becomes a τ-internal theorem rather than an external structural fact.",
+          "primary_registry_id": "II.D50",
+          "supporting_registry_ids": [
+            "II.D53",
+            "II.T36",
+            "II.T40"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.D53",
+              "claim": "Self-enrichment structure — τ is enriched over itself"
+            },
+            {
+              "step": 3,
+              "registry_id": "II.D50",
+              "claim": "Pre-Yoneda embedding — Y : τ → [τ^op, τ-Set] as a τ-internal arrow"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.T36",
+              "claim": "Yoneda enrichment ladder — Y extends to a full enrichment, making the lemma a theorem about τ"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookII.Enrichment.YonedaTheorem",
+            "TauLib.BookII.Enrichment.SelfEnrichment"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-D05-rank-coordinates",
+        "domain": "mathematics",
+        "category": "definition",
+        "name": "Rank coordinates (n, k)",
+        "tau_symbol": "(n, k)",
+        "slug": "rank-coordinates",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "Rank coordinates (n, k) are the indexing scheme used throughout Books I–II to locate τ-categorical content along two structural axes: n is the prime-rank index (which prime-numbered window of the ABCD chart), and k is the depth (how many K1 strict-order steps deep into that window). Together they index the window-algebra integers W_n(k), the central theorem rank (3, 15), and most theorem statements in Book II.",
+          "categorical_invariant": "A pair (n, k) ∈ ℕ_+ × ℕ identifying a unique window-depth pair on the ABCD coordinate chart; the indexing scheme of the τ-rank-transfer machinery.",
+          "primary_registry_id": "I.D08",
+          "supporting_registry_ids": [
+            "I.D17",
+            "I.T04"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1 strict order — depth coordinate k indexes K1-iteration depth"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D17",
+              "claim": "ABCD chart — the chart whose windows are indexed"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.D08",
+              "claim": "Rank-transfer maps — formal definition of (n, k) and the transfer rules between adjacent rank coordinates"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Coordinates.PrimeEnumeration",
+            "TauLib.BookI.Coordinates.HyperfactIsomorphism"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      }
+    ],
+    "object": [
+      {
+        "id": "MathG-O01-tau-object",
+        "domain": "mathematics",
+        "category": "object",
+        "name": "Generic τ-object",
+        "tau_symbol": "A ∈ τ",
+        "slug": "tau-object",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "A generic τ-object is an inhabitant of the τ-categorical kernel — an object of the (∞, 1)-category τ that arises from finite K1–K5 composition (closed under K6). Each τ-object carries a finite K1-trace identifying its construction; equivalence of τ-objects is decided by trace-equality, making the framework's object-equality a finite, decidable predicate.",
+          "categorical_invariant": "An object A ∈ τ — equivalently, a finite K1–K5-trace closed under K6.",
+          "primary_registry_id": "I.D56",
+          "supporting_registry_ids": [
+            "I.K0",
+            "I.K1",
+            "I.K6"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — kernel τ exists"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1–K5 generators give the construction primitives"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.K6",
+              "claim": "K6 closure restricts to finite K1–K5 composition"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.D56",
+              "claim": "τ-site — τ as a category, whose objects are the inhabitants of τ"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Topos.EarnedTopos",
+            "TauLib.BookI.Topos.LimitsSites"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-O02-window-object",
+        "domain": "mathematics",
+        "category": "object",
+        "name": "Window-algebra object",
+        "tau_symbol": "W_n(k)-obj",
+        "slug": "window-object",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "A window-algebra object is the categorical presentation of a window in the ABCD coordinate chart at rank coordinate (n, k). It is a τ-object (O01) carrying the K1-iteration depth k and the prime-window index n as structural data. The object's hom-set encodes the W_n(k) integer dimension; its endomorphism algebra is the τ-internal model of the n-th window's dynamics at depth k. Window-objects are the categorical entities the central theorem (T04) operates on at rank (3, 15).",
+          "categorical_invariant": "A τ-object W_n(k)-obj parametrized by rank coordinate (n, k) ∈ ℕ_+ × ℕ; its hom-internal structure is the W-algebra W_n(k).",
+          "primary_registry_id": "II.D54",
+          "supporting_registry_ids": [
+            "I.D17",
+            "I.D08"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.D17",
+              "claim": "ABCD coordinate chart"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D08",
+              "claim": "Rank coordinates (n, k)"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.D54",
+              "claim": "Hom-object construction — categorical presentation of the window structure"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookII.Enrichment.Homological",
+            "TauLib.BookI.Coordinates.ABCD"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      }
+    ],
+    "postulate": [
+      {
+        "id": "MathG-K01-universe-postulate",
+        "domain": "mathematics",
+        "category": "postulate",
+        "name": "The Universe Postulate (K0)",
+        "tau_symbol": "τ",
+        "slug": "universe-postulate",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Universe Postulate (I.K0) is the foundational axiom of the τ-framework: there exists a small (∞, 1)-category τ — the categorical kernel — that supports the five canonical generators (K1–K5) under the no-ω axiom (K6). Everything else in the framework is a theorem about τ; the postulate asserts only that τ exists.",
+          "categorical_invariant": "The single posited atom of the framework: an (∞, 1)-categorical universe τ with a distinguished collection of generators and a closure constraint.",
+          "primary_registry_id": "I.K0",
+          "supporting_registry_ids": [
+            "I.K1",
+            "I.K2",
+            "I.K3",
+            "I.K4",
+            "I.K5",
+            "I.K6"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — the categorical kernel τ exists (foundational; no further derivation)"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Kernel.Axioms"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-K02-five-generators",
+        "domain": "mathematics",
+        "category": "postulate",
+        "name": "The five canonical generators (K1–K5)",
+        "tau_symbol": "K1–K5",
+        "slug": "five-generators",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "K1–K5 are the five canonical generators of the τ-kernel — strict order, labelled boundary, composition, boundary identification, and generator closure. They are the structural atoms from which every τ-categorical invariant is built. The number five is not a parameter; the no-ω axiom (K6) proves that no sixth generator can be added.",
+          "categorical_invariant": "Five distinguished generators on the τ-kernel, each axiomatized by one of the K1–K5 axioms, jointly satisfying the K6 closure.",
+          "primary_registry_id": "I.K1",
+          "supporting_registry_ids": [
+            "I.K0",
+            "I.K2",
+            "I.K3",
+            "I.K4",
+            "I.K5",
+            "I.K6"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — the categorical kernel τ exists"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1: strict order on the kernel atoms"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.K2",
+              "claim": "K2: labelled boundary as a structured Stone space"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.K3",
+              "claim": "K3: composition (total and associative)"
+            },
+            {
+              "step": 5,
+              "registry_id": "I.K4",
+              "claim": "K4: boundary identification (universal property)"
+            },
+            {
+              "step": 6,
+              "registry_id": "I.K5",
+              "claim": "K5: generator closure (the five close under declared relations)"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Kernel.Signature",
+            "TauLib.BookI.Kernel.Diagonal"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-K03-no-omega-axiom",
+        "domain": "mathematics",
+        "category": "postulate",
+        "name": "The no-ω axiom (K6)",
+        "tau_symbol": "K6",
+        "slug": "no-omega-axiom",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "K6 is the closure axiom of the τ-kernel: there is no sixth generator. Any candidate sixth atom must reduce to a finite combination of K1–K5. K6 is what makes the τ-kernel finitely generated and what makes the categoricity theorem (T03 / I.T08) provable.",
+          "categorical_invariant": "A meta-logical constraint that forbids extending the kernel signature beyond K1–K5; expressed as the assertion that any τ-categorical invariant is reachable by finite K1–K5 composition.",
+          "primary_registry_id": "I.K6",
+          "supporting_registry_ids": [
+            "I.K0",
+            "I.K1",
+            "I.T08"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — kernel τ exists"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "Five canonical generators K1–K5 are posited"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.K6",
+              "claim": "No-ω axiom — no sixth generator can be added without contradicting closure"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.MetaLogic.OnticInvariance"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      }
+    ],
+    "structure": [
+      {
+        "id": "MathG-S01-spectrum-functor",
+        "domain": "mathematics",
+        "category": "structure",
+        "name": "Spectrum functor",
+        "tau_symbol": "Spec",
+        "slug": "spectrum-functor",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The spectrum functor (III.D81) is the τ-internal functor sending each τ-categorical object to its associated spectral data — the analogue of the algebraic-geometric Spec functor adapted to the τ-kernel signature. It is the structural input to all of Book III's spectral results, including the spectral correspondence (T18), the Critical Line theorem (T19), and the Prime Polarity Scaling Theorem (T20).",
+          "categorical_invariant": "A functor Spec : τ → τ-Spec sending each object to its spectral classification on the lemniscate boundary, equipped with the trichotomy (B, I, S) sector decomposition.",
+          "primary_registry_id": "III.D81",
+          "supporting_registry_ids": [
+            "III.T18",
+            "III.T19",
+            "III.T20"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15) — τ-internal anchor"
+            },
+            {
+              "step": 3,
+              "registry_id": "III.D81",
+              "claim": "Spectrum functor — Spec : τ → τ-Spec sending objects to their spectral data"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookIII.Doors.SpectralDecomp",
+            "TauLib.BookIII.Doors.LemniscateOperator"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-S02-holomorphy-tower",
+        "domain": "mathematics",
+        "category": "structure",
+        "name": "Book I holomorphy tower",
+        "tau_symbol": "Hol_τ",
+        "slug": "holomorphy-tower",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The holomorphy tower (I.D96) is the Book-I structural ladder of holomorphy refinements on the τ-categorical kernel. It exhibits a graded sequence of τ-internal holomorphic objects — each level a τ-categorical refinement of the previous — culminating in the τ-internal Hartogs-extension principle that supports the Book II central theorem and the Book III spectral correspondence. The tower is the τ-categorical analogue of the conventional holomorphy hierarchy (analytic ⊃ holomorphic ⊃ holomorphic-with-extra-structure).",
+          "categorical_invariant": "A graded τ-internal sequence of holomorphic objects, indexed by the K1 strict order, with each level admitting the next as an enriched refinement. The tower's colimit is the global Hartogs extension.",
+          "primary_registry_id": "I.D96",
+          "supporting_registry_ids": [
+            "I.D17",
+            "II.T40"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.D17",
+              "claim": "ABCD coordinate chart"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D96",
+              "claim": "Holomorphy tower — graded sequence of holomorphic refinements on the chart"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Holomorphy.GlobalHartogs",
+            "TauLib.BookI.Holomorphy.SpectralCoefficients"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-S03-self-enrichment",
+        "domain": "mathematics",
+        "category": "structure",
+        "name": "Self-enrichment construction",
+        "tau_symbol": "τ-enr",
+        "slug": "self-enrichment",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The self-enrichment construction (II.D53) equips τ with the structure of a category enriched over itself. Hom-sets in τ become τ-internal objects rather than external Set-elements, and statements about them become statements provable inside τ. The construction is the structural prerequisite for the Yoneda-as-theorem internalization (D04 / II.D50) and the enrichment ladder (T05 / II.T36) — without self-enrichment, the Yoneda lemma stays external and the Central theorem (T04) cannot be τ-categorical.",
+          "categorical_invariant": "A τ-Cat-enriched-category structure on τ — i.e., the data making τ a category enriched over itself rather than over Set.",
+          "primary_registry_id": "II.D53",
+          "supporting_registry_ids": [
+            "II.D50",
+            "II.T36"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.D53",
+              "claim": "Self-enrichment construction — τ as a category enriched over itself"
+            },
+            {
+              "step": 3,
+              "registry_id": "II.D50",
+              "claim": "Pre-Yoneda embedding lifts via self-enrichment"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.T36",
+              "claim": "Yoneda enrichment ladder converges via self-enrichment colimit"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookII.Enrichment.SelfEnrichment",
+            "TauLib.BookII.Enrichment.SelfDescribing",
+            "TauLib.BookII.Enrichment.TwoCategories"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      }
+    ],
+    "theorem": [
+      {
+        "id": "MathG-T01-hyperfactorization",
+        "domain": "mathematics",
+        "category": "theorem",
+        "name": "Hyperfactorization theorem",
+        "tau_symbol": "Hyperfact",
+        "slug": "hyperfactorization",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Hyperfactorization theorem (I.T04) is the Book-I structural result that every τ-categorical morphism admits a unique hyperfactorization: a canonical decomposition through the rank-coordinate machinery into a (prime-shift) × (depth-shift) × (boundary-extension) chain. It is the theorem that makes the rank coordinates (n, k) tractable and the windows W_n(k) finite-dimensional.",
+          "categorical_invariant": "An orthogonal-factorization system on τ given by (prime-shift, depth-shift, boundary-extension) — every τ-morphism factors uniquely as the composition of these three classes.",
+          "primary_registry_id": "I.T04",
+          "supporting_registry_ids": [
+            "I.D08",
+            "I.D17"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K3",
+              "claim": "K3 composition law"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.D17",
+              "claim": "ABCD coordinate chart"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.D08",
+              "claim": "Rank-transfer maps — the three factor classes are read off the chart"
+            },
+            {
+              "step": 5,
+              "registry_id": "I.T04",
+              "claim": "Hyperfactorization theorem — every τ-morphism factors uniquely through the three classes"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Coordinates.HyperfactIsomorphism",
+            "TauLib.BookI.Coordinates.Hyperfact"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-T02-rigidity-non-omega",
+        "domain": "mathematics",
+        "category": "theorem",
+        "name": "Rigidity of τ (non-ω)",
+        "tau_symbol": "Rigid_τ",
+        "slug": "rigidity-non-omega",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Rigidity theorem (I.T07) states that the τ-kernel admits no non-trivial automorphisms — every endomorphism of τ that fixes K0–K6 is the identity. Combined with the Categoricity theorem (T03 / I.T08), it gives the framework's two-step uniqueness argument: τ exists (K0), is unique up to canonical equivalence (T03), and that equivalence is itself unique (T02). The 'non-ω' qualifier reflects that the result holds in the K6-restricted world; without K6, τ admits ω-shift automorphisms.",
+          "categorical_invariant": "Aut(τ) = {id_τ}; the τ-kernel has trivial automorphism group within the K1–K6 signature.",
+          "primary_registry_id": "I.T07",
+          "supporting_registry_ids": [
+            "I.K6",
+            "I.T08"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1–K5 generators specify τ structure"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.K6",
+              "claim": "K6 closure axiom — no ω-shifts admitted"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.T07",
+              "claim": "Rigidity — every automorphism of τ fixing K0–K6 is the identity"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Orbit.Rigidity"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-T03-categoricity-non-omega",
+        "domain": "mathematics",
+        "category": "theorem",
+        "name": "Categoricity of τ (non-ω)",
+        "tau_symbol": "Cat_τ",
+        "slug": "categoricity-non-omega",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Categoricity theorem (I.T08) states that any two structures satisfying the τ-kernel axioms K0 + K1–K6 are canonically equivalent. Together with the Rigidity theorem (T02 / I.T07), it gives the framework's two-step uniqueness argument: τ exists, is unique up to canonical equivalence, and that equivalence is itself unique. The 'non-ω' qualifier reflects that without K6, multiple non-isomorphic K0 + K1–K5 models exist; K6 is the closure axiom that makes categoricity provable.",
+          "categorical_invariant": "Any two K0 + K1–K6 structures M, N admit a canonical equivalence Φ : M ≃ N — uniqueness up to canonical iso.",
+          "primary_registry_id": "I.T08",
+          "supporting_registry_ids": [
+            "I.K6",
+            "I.T07"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate — kernel exists"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.K1",
+              "claim": "K1–K5 generators"
+            },
+            {
+              "step": 3,
+              "registry_id": "I.K6",
+              "claim": "K6 closure axiom"
+            },
+            {
+              "step": 4,
+              "registry_id": "I.T08",
+              "claim": "Categoricity — any two K0–K6 models are canonically equivalent"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookI.Orbit.Saturation",
+            "TauLib.BookII.CentralTheorem.Categoricity"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-T04-central-theorem",
+        "domain": "mathematics",
+        "category": "theorem",
+        "name": "Central theorem at rank (3, 15)",
+        "tau_symbol": "T_{(3,15)}",
+        "slug": "central-theorem",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Central theorem at rank (3, 15) (II.T40) is the Book-II structural categoricity result that pins down the master constant ι_τ. The theorem asserts that the τ-categorical structure at rank coordinate (3, 15) admits a unique algebraic invariant — and that invariant is precisely 2/(π+e) = ι_τ. The proof is a finite-decidable check verified via native_decide; this places ι_τ outside any free-parameter freedom.",
+          "categorical_invariant": "The unique τ-categorical algebraic invariant at rank (3, 15), forced to equal ι_τ = 2/(π+e) by the rank-(3, 15) categoricity check.",
+          "primary_registry_id": "II.T40",
+          "supporting_registry_ids": [
+            "I.D34",
+            "II.T36"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "I.D34",
+              "claim": "Master constant ι_τ defined as 2/(π+e)"
+            },
+            {
+              "step": 3,
+              "registry_id": "II.T36",
+              "claim": "Yoneda enrichment ladder closes — invariant well-defined"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.T40",
+              "claim": "Central theorem at rank (3, 15) — finite-decidable categoricity check fixes the invariant"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookII.CentralTheorem.CentralTheorem",
+            "TauLib.BookII.CentralTheorem.Categoricity"
+          ]
+        },
+        "lean_coverage": null,
+        "related_glossary_entries": [],
+        "referenced_by": [],
+        "tags": [],
+        "version": {}
+      },
+      {
+        "id": "MathG-T05-yoneda-enrichment",
+        "domain": "mathematics",
+        "category": "theorem",
+        "name": "Yoneda enrichment ladder",
+        "tau_symbol": "Y_{enrich}",
+        "slug": "yoneda-enrichment",
+        "status": "canonical",
+        "tau_definition": {
+          "summary": "The Yoneda enrichment ladder (II.T36) is the Book-II theorem that lifts the pre-Yoneda embedding (D04 / II.D50) to a full self-enrichment of τ. The ladder exhibits a sequence of enrichment steps Y_0 ⊆ Y_1 ⊆ Y_2 ⊆ … each refining the previous, with the limit equal to the full Yoneda-as-theorem statement. It is the constructive proof of D04: not just that Yoneda is internalizable, but that the internalization is reachable as the limit of an explicit chain.",
+          "categorical_invariant": "An ω-chain of enrichment refinements on the pre-Yoneda embedding, whose colimit is the full self-enriched τ-internal Yoneda functor.",
+          "primary_registry_id": "II.T36",
+          "supporting_registry_ids": [
+            "II.D50",
+            "II.D53"
+          ]
+        },
+        "tau_derivation": {
+          "chain": [
+            {
+              "step": 1,
+              "registry_id": "I.K0",
+              "claim": "Universe Postulate"
+            },
+            {
+              "step": 2,
+              "registry_id": "II.D50",
+              "claim": "Pre-Yoneda embedding Y : τ → [τ^op, τ-Set]"
+            },
+            {
+              "step": 3,
+              "registry_id": "II.D53",
+              "claim": "Self-enrichment structure on τ"
+            },
+            {
+              "step": 4,
+              "registry_id": "II.T36",
+              "claim": "Yoneda enrichment ladder — ω-chain Y_0 ⊆ Y_1 ⊆ … with colimit = full self-enriched Yoneda"
+            }
+          ],
+          "lean_modules": [
+            "TauLib.BookII.Enrichment.EnrichmentLadder",
+            "TauLib.BookII.Enrichment.YonedaTheorem"
           ]
         },
         "lean_coverage": null,

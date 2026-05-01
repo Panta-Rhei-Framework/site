@@ -60,13 +60,16 @@ DOMAIN_DESCRIPTIONS = {
         "concrete examples and the register codomain it lives in."
     ),
     "mathematics": (
-        "The mathematics glossary covers the τ-framework's foundational kernel "
-        "(Books I–III): postulates, definitions, theorems, the three Book-III "
-        "conjectural axioms, structures, and τ-objects. Each entry carries a "
-        "mathematical-content section with the orthodox-mathematical statement, "
-        "Mathlib bridge (where applicable), and the categoricity argument that "
-        "fixes the concept inside the kernel. v0.0 pilot scope: 1 canonical "
-        "entry; full 22-entry pilot in rollout v0.1 → v0.4."
+        "The 21-entry mathematics glossary covers the τ-framework's foundational kernel "
+        "(Books I–III): postulates K0–K6, canonical definitions (ι_τ, τ-categorical, "
+        "window-algebra, Yoneda-as-theorem, rank coordinates), Books I–II load-bearing "
+        "theorems (Hyperfactorization, Rigidity, Categoricity, Central Theorem at rank "
+        "(3, 15), Yoneda enrichment ladder), the three Book-III conjectural axioms "
+        "(bridge functor, spectral correspondence O(3), Grand GRH adelic), structures "
+        "(spectrum functor, holomorphy tower, self-enrichment), and the τ-object class. "
+        "Each entry carries a mathematical-content section with the orthodox statement, "
+        "Mathlib bridge, and the categoricity argument fixing the concept inside the kernel. "
+        "Pilot sealed at v0.4."
     ),
 }
 
@@ -74,7 +77,7 @@ DOMAIN_HEADLINES = {
     "physics":      "Physics Glossary — 95 entries, 6 categories",
     "life":         "Life Glossary — 78 entries, 7 categories",
     "metaphysics":  "Metaphysics Glossary — 68 entries, 6 categories",
-    "mathematics":  "Mathematics Glossary — 1 entry (pilot v0.0; 22-entry rollout in flight)",
+    "mathematics":  "Mathematics Glossary — 21 entries, 6 categories",
 }
 
 
