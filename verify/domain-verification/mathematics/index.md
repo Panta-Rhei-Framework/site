@@ -30,6 +30,9 @@ right_rail:
     updated: "April 2026"
 glossary_term_ids:
   - MathG-D01-iota-tau
+  - MathG-K01-universe-postulate
+  - MathG-T04-central-theorem
+  - MathG-D04-yoneda-as-theorem
 ---
 
 {%- assign stats = site.data.verify.coverage_by_domain.by_domain.mathematics -%}

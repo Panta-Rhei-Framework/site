@@ -1,6 +1,6 @@
 {
   "generated": "2026-04-30",
-  "total_public": 242,
+  "total_public": 262,
   "domain_category_counts": {
     "physics": {
       "constant": 19,
@@ -28,7 +28,12 @@
       "register": 11
     },
     "mathematics": {
-      "definition": 1
+      "axiom": 3,
+      "definition": 5,
+      "object": 2,
+      "postulate": 3,
+      "structure": 3,
+      "theorem": 5
     }
   },
   "cross_link_edges_total": 712,
