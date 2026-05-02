@@ -71,4 +71,4 @@ For institutional citations, see [`/cite/`](/cite/) for canonical DOIs and ORCID
 
 ## How to challenge a plate
 
-A plate that misrepresents the underlying argument is a worse signal than a plate that is honestly imperfect. If you think any plate above is structurally inaccurate, mis-scoped, or hides a discipline that the prose carries, **please tell us**. Open an issue at [`Panta-Rhei-Research/site`](https://github.com/Panta-Rhei-Research/research/issues) or write to [errata@panta-rhei.site](mailto:errata@panta-rhei.site). Plates are versioned alongside the prose they map.
+A plate that misrepresents the underlying argument is a worse signal than a plate that is honestly imperfect. If you think any plate above is structurally inaccurate, mis-scoped, or hides a discipline that the prose carries, **please tell us**. Open an issue at [`Panta-Rhei-Research/site`](https://github.com/Panta-Rhei-Research/site/issues) or write to [errata@panta-rhei.site](mailto:errata@panta-rhei.site). Plates are versioned alongside the prose they map.
