@@ -7,9 +7,9 @@ climate-smart-irrigation-soil-moisture-water-productivity:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-climate-smart-irrigation-soil-moisture-water-productivity.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 2131509ba1422d692438f08ca86b9025bb276ab6f707025a6bce6e492700f5de
-  pdf_bytes: 515908
-  pdf_pages: 38
+  pdf_sha256: 1371286030bd2418d47ff54bd2358effffb06581dc5cbed12871ec6843af33d4
+  pdf_bytes: 352515
+  pdf_pages: 36
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -31,8 +31,8 @@ crop-biology-breeding-photosynthesis-gene-design:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-crop-biology-breeding-photosynthesis-gene-design.pdf
   legacy_pdf_paths: []
-  pdf_sha256: dfb19ae4a8fb59b95515705a46d6b329f6ab4ae8155b8619047c259e376d32ab
-  pdf_bytes: 370090
+  pdf_sha256: d21eeb4a120acea35993cf9ca3d2d9e5795e70438f144d300927d237df922d76
+  pdf_bytes: 281107
   pdf_pages: 33
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -55,9 +55,9 @@ operational-agro-weather-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-operational-agro-weather-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 78c0bf026454ccfd1e1223d1645c815785b4667da730e23db5fd7c685585b723
-  pdf_bytes: 477491
-  pdf_pages: 34
+  pdf_sha256: ae37da179578e64bd195bba47d5b1fbcd9afa4961d6942c7204ebb75495bdcb6
+  pdf_bytes: 301479
+  pdf_pages: 33
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -79,9 +79,9 @@ pest-disease-livestock-stress-early-warning:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-pest-disease-livestock-stress-early-warning.pdf
   legacy_pdf_paths: []
-  pdf_sha256: cfae4ee6cc6e3a51e21f8b4e0c2372930c238a51399f6fbb4a53f945effd14c6
-  pdf_bytes: 334942
-  pdf_pages: 31
+  pdf_sha256: cd9febd126f5e93a850b24348ca6a1fcd06818c3d9cb80f794412c6911ca7a2f
+  pdf_bytes: 254799
+  pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -103,9 +103,9 @@ seasonal-planning-disaster-anticipation-food-system-resilience:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-seasonal-planning-disaster-anticipation-food-system-resilience.pdf
   legacy_pdf_paths: []
-  pdf_sha256: a63d0859f507878973dfbad5a1f49b2849845357fdca9c342a55a7b0b15ac77b
-  pdf_bytes: 345239
-  pdf_pages: 35
+  pdf_sha256: f31a686a1a9d1048a3381651a54ba41f210f4154e6435685287f2fec6b4dd70e
+  pdf_bytes: 265603
+  pdf_pages: 34
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -128,8 +128,8 @@ biodiversity-finance-monitoring-restoration-verification:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-biodiversity-finance-monitoring-restoration-verification.pdf
   legacy_pdf_paths: []
-  pdf_sha256: d8a5ede9a4ba6dda61a73d74a07ec2bdb1652148bdb75089649f7be72dea6951
-  pdf_bytes: 374490
+  pdf_sha256: 7d35da6182f4445c7533f6aab01e6d082f44796f17a5b3fc3947a07552f4558e
+  pdf_bytes: 289116
   pdf_pages: 36
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -152,8 +152,8 @@ carbon-cycle-methane-aerosol-sink-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-carbon-cycle-methane-aerosol-sink-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: ce08dfc2cd4b99aff87075349ad547658e23d2d51fc1134256785a5cfa3e544f
-  pdf_bytes: 463814
+  pdf_sha256: aba4f79a17968be027121ca3b495343741b8d567edbab8f39b4342e93ca88288
+  pdf_bytes: 289297
   pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -176,9 +176,9 @@ climate-policy-optimization-investment-prioritization-international-coordination
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-climate-policy-optimization-investment-prioritization-international-coordination.pdf
   legacy_pdf_paths: []
-  pdf_sha256: fb72fb369ee5f30c58d8258f3eb62aaf40b141f5e257e19f74331d4c2456ccb7
-  pdf_bytes: 471053
-  pdf_pages: 30
+  pdf_sha256: cc5084819a8da1b81b859683e8f440cce5f80022903ed9eddb029ed6c14fe3a9
+  pdf_bytes: 299287
+  pdf_pages: 29
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -200,8 +200,8 @@ oceans-cryosphere-tipping-long-range-resilience:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-oceans-cryosphere-tipping-long-range-resilience.pdf
   legacy_pdf_paths: []
-  pdf_sha256: ff2ce3d6324bb84ed24336775d2d36abf5283803bd1e2dd2ae5a70d06347826e
-  pdf_bytes: 471169
+  pdf_sha256: 3720b1c7d878c3cafe8d456991508acd8c7abb7bd00b7b5206afc7250e6ccab6
+  pdf_bytes: 296849
   pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -224,8 +224,8 @@ regional-adaptation-sectoral-impact-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-regional-adaptation-sectoral-impact-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 2a1d39f1881e8f61b96a8aca5b70eb28c71021e88a1e7503584565ca9587b256
-  pdf_bytes: 449712
+  pdf_sha256: 4302d4d7801ce3c0fc7d4d082cdd9abbd050c155abc9087a9ae67d518f2d3a99
+  pdf_bytes: 273089
   pdf_pages: 28
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -248,8 +248,8 @@ anticipatory-action-humanitarian-logistics-climate-risk-finance:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-anticipatory-action-humanitarian-logistics-climate-risk-finance.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 9d4292fcf13ab2d6097236a5573cc3c39dcda37face49d696310ce5943262b37
-  pdf_bytes: 513264
+  pdf_sha256: a825d6e69b833d87c61c90f407032ad64f30e642e91e881c684bdc265774b157
+  pdf_bytes: 339073
   pdf_pages: 39
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -272,9 +272,9 @@ critical-infrastructure-emergency-operations-public-service-continuity:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-critical-infrastructure-emergency-operations-public-service-continuity.pdf
   legacy_pdf_paths: []
-  pdf_sha256: f32d9684659bffb4d87dca57c4c31788df7b3740d45e8d7592055a88bef39160
-  pdf_bytes: 500143
-  pdf_pages: 38
+  pdf_sha256: 1fc3aad5439fbef11385a19c54e9568eed227461a3572c1a3cc7f5c2449a343d
+  pdf_bytes: 329186
+  pdf_pages: 37
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -296,9 +296,9 @@ flood-coastal-surge-landslide-resilience:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-flood-coastal-surge-landslide-resilience.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 0c38337788b6119cb6c642b7c36cda74df49aacf88a6c8b33ab018f14051b592
-  pdf_bytes: 348503
-  pdf_pages: 37
+  pdf_sha256: 863180cee3a3375a3184602f63d2ee24585596630f1c3512cf547ee85dac6e3f
+  pdf_bytes: 275012
+  pdf_pages: 36
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -320,9 +320,9 @@ wildfire-smoke-heat-compound-extreme-health-protection:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-wildfire-smoke-heat-compound-extreme-health-protection.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 0230d72aa49c59531ebaa0da5c525ad676c719736eaed90979f268194dae6ba1
-  pdf_bytes: 361929
-  pdf_pages: 36
+  pdf_sha256: 1cc3dfe6b3e64f08b732b51f6c85beb16f550d70a490c7497c44cd6ad3441711
+  pdf_bytes: 288836
+  pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -345,8 +345,8 @@ advanced-fission-safety-operations-licensing-fleet-modernization:
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-advanced-fission-safety-operations-licensing-fleet-modernization.pdf
   legacy_pdf_paths:
   - /assets/pdfs/research-briefings/public-good/public-good-briefing-2026-04-26-advanced-fission-safety-operations-licensing-fleet-modernization.pdf
-  pdf_sha256: cc63fa40c2d225aa2327b99b90d47cd5b90238f5b7ee6b3df93c0195d3f85d5d
-  pdf_bytes: 455031
+  pdf_sha256: 2f417f847d649f74a78212ca1830e976f90e39ae3873b242e2f4a42e9f67bc55
+  pdf_bytes: 284000
   pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -369,8 +369,8 @@ der-storage-flexible-demand-microgrids-td-planning:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-der-storage-flexible-demand-microgrids-td-planning.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 8a4fc76e2f05e83673dcb5384a5fb1e65b7dfdb84bfe1fc505045581211c2e54
-  pdf_bytes: 464012
+  pdf_sha256: 0f9ef9f3ead870d566234f0ba71b989c5d4ee25b3dedbfeb2e2786777ee00aa7
+  pdf_bytes: 294394
   pdf_pages: 33
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -393,8 +393,8 @@ fusion-digital-twins-plasma-control-heat-exhaust-iter-demo:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-fusion-digital-twins-plasma-control-heat-exhaust-iter-demo.pdf
   legacy_pdf_paths: []
-  pdf_sha256: e0a4d546ea058d295def7efaece5cb76b8ad706894880f3b05f6ca7b1f4ffb21
-  pdf_bytes: 504106
+  pdf_sha256: d18ae201341c7c767ed1488025a67f78482aa6725de9711f46a5e77d3f7a7f03
+  pdf_bytes: 307596
   pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -417,9 +417,9 @@ grid-digital-twins-reliability-dispatch-resilience:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-grid-digital-twins-reliability-dispatch-resilience.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 8ab6bff6dc726969b671d41a6f647760cce98fc95f9744aa2a44f2ceb641dc40
-  pdf_bytes: 439066
-  pdf_pages: 25
+  pdf_sha256: e04d88c714f53a4a82d190dde70b10ecba65866b5d7fa8f5b67f0f212cc5266f
+  pdf_bytes: 255163
+  pdf_pages: 24
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -442,9 +442,9 @@ integrated-energy-system-planning-market-design-investment-coordination:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-integrated-energy-system-planning-market-design-investment-coordination.pdf
   legacy_pdf_paths: []
-  pdf_sha256: d5aab593c01c1f73ed3694179a91ebdad70e54d3fd697a8ace9253d55c4cdc86
-  pdf_bytes: 482808
-  pdf_pages: 35
+  pdf_sha256: 2d4907369d2d88188f818f0b1d7ba912bbdd6cbfff0b2b54ec28e9e16b2bb479
+  pdf_bytes: 316749
+  pdf_pages: 34
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -466,9 +466,9 @@ blue-food-systems-marine-ecosystem-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-blue-food-systems-marine-ecosystem-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: e472931362c5aad3d73eaa233078a3534c54427e87cd222f08c455c0dce7140d
-  pdf_bytes: 376982
-  pdf_pages: 36
+  pdf_sha256: b768cf1c67054673e243d3a97ee31a83d5bbf8881f60d4ca86aedc1753b5d896
+  pdf_bytes: 288857
+  pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -490,9 +490,9 @@ climate-smart-shipping-decarbonization-wind-corridors:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-climate-smart-shipping-decarbonization-wind-corridors.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 54bef80d8491981338c952b39d8076b7d1b595241d9df30fff2523403cf2691a
-  pdf_bytes: 383158
-  pdf_pages: 36
+  pdf_sha256: 8c4596e0a82a8e5b33ca62a799661544305f126ad331ad91f16c89b3d40ce83d
+  pdf_bytes: 291332
+  pdf_pages: 34
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -514,9 +514,9 @@ ocean-logistics-maritime-routing-port-flow-green-corridors:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-ocean-logistics-maritime-routing-port-flow-green-corridors.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 981d01dd7e811f2699144f3323db3b700da67a064b75d7106bd5d3589fd949fe
-  pdf_bytes: 378848
-  pdf_pages: 36
+  pdf_sha256: 9ecdcebb02e3df9e491c6b8670ad68b3a507862e963c3f8dfe330c105a253740
+  pdf_bytes: 288491
+  pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -538,9 +538,9 @@ ocean-stewardship-cleanup-marine-emergency-response:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-ocean-stewardship-cleanup-marine-emergency-response.pdf
   legacy_pdf_paths: []
-  pdf_sha256: d49da57bcfb4d041ae03157516a42cd1d8a9d1180aa14c90e366a48bb1c7c62e
-  pdf_bytes: 366982
-  pdf_pages: 38
+  pdf_sha256: 188028ff682c004c9937006ae8dec554c6814e55f310221ca0031338c6cfdcec
+  pdf_bytes: 291661
+  pdf_pages: 36
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -562,9 +562,9 @@ amr-wastewater-environmental-transmission-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-amr-wastewater-environmental-transmission-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 0f5f1831131caedf2a16544d87d55c8255a34454fb4df4f2600adc05cec81899
-  pdf_bytes: 493615
-  pdf_pages: 37
+  pdf_sha256: 4e4161770b683e1a6f0aba6681c5c60c49f8a6d79f27aecaf09fdd47e3361b41
+  pdf_bytes: 321864
+  pdf_pages: 36
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -586,9 +586,9 @@ food-safety-livestock-wildlife-community-exposure:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-food-safety-livestock-wildlife-community-exposure.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 359ff55191d8797771623b328d1e19e36868dcf2f3f23350081a70d9925b75b5
-  pdf_bytes: 368896
-  pdf_pages: 39
+  pdf_sha256: 72afae8e3a10bff21bd7e2647256582c55767ea74349cc064ac202ed10b922e2
+  pdf_bytes: 299630
+  pdf_pages: 38
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -611,8 +611,8 @@ one-health-vector-zoonotic-spillover-climate-outbreaks:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-one-health-vector-zoonotic-spillover-climate-outbreaks.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 805896407b6630e942397e4ea7deb8e11388db5b2504d9075e08cfddcca9dd14
-  pdf_bytes: 357088
+  pdf_sha256: e00d1cb3956910e94872857fdfdf070bb3394e4e7be033afe879336295344e24
+  pdf_bytes: 282128
   pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -636,9 +636,9 @@ precision-public-health-physiology-prevention-safer-therapeutics:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-precision-public-health-physiology-prevention-safer-therapeutics.pdf
   legacy_pdf_paths: []
-  pdf_sha256: f8878929a0fd24c5f87697f3ce9e54be6d134d5274f7e48f0b58a8125fcbfa0d
-  pdf_bytes: 474949
-  pdf_pages: 31
+  pdf_sha256: ef3d9990ec90fc382783330c7beca813a5328607940a8c8a832cae574dafc0cf
+  pdf_bytes: 297676
+  pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -661,8 +661,8 @@ chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 0a683f6302bc9b87d1f90c4d597fce6bbd48a61d43f3e01faf62e147899100db
-  pdf_bytes: 349735
+  pdf_sha256: d6e654aaba170b3f6ac1819526f96d532c4195aa4b56c272e5e5af805df612dc
+  pdf_bytes: 275815
   pdf_pages: 37
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -685,8 +685,8 @@ clean-air-digital-twins-exposure-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-clean-air-digital-twins-exposure-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 2a8519ba35bf940fb5596482479fae0cd692d57b7394ab8c7e36a8816b415837
-  pdf_bytes: 534886
+  pdf_sha256: fd1089baebe30f97d5ee1ab5c1119daac6da7c171b95377dd4c1fef8b4f30598
+  pdf_bytes: 329102
   pdf_pages: 39
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -710,8 +710,8 @@ industrial-transport-agricultural-emissions-attribution-compliance-abatement:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-industrial-transport-agricultural-emissions-attribution-compliance-abatement.pdf
   legacy_pdf_paths: []
-  pdf_sha256: a844431c447ad655c7d79e8c5e8fa316673a7aea2779519898e84f8302549108
-  pdf_bytes: 347287
+  pdf_sha256: 1f3cd1c836c70c4fb82a6c9c76c4bd0e4a5f8254d7780fd10bf8dc9da3c345db
+  pdf_bytes: 276092
   pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -735,8 +735,8 @@ waste-systems-plastics-leakage-zero-waste:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-waste-systems-plastics-leakage-zero-waste.pdf
   legacy_pdf_paths: []
-  pdf_sha256: db7c154caa398d92643e8b7879ad390a2d99d2abba7746dd78bf6488c321d828
-  pdf_bytes: 348885
+  pdf_sha256: 4ccc2c3a9886b51a386331e7d49e5a569757c2eabc14ec7af4701e3634c1c5c5
+  pdf_bytes: 269917
   pdf_pages: 34
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -759,8 +759,8 @@ bulk-grid-solar-forecasting:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-bulk-grid-solar-forecasting.pdf
   legacy_pdf_paths: []
-  pdf_sha256: b84e71b7bb9d04edb647a718b608b705e5532af3b52b8a1389dcdd4b6aa46502
-  pdf_bytes: 450492
+  pdf_sha256: 855a2c098ba7a1d3eae2e699bf6cf95127a86cb913395eae54bb9c7feb89d0dd
+  pdf_bytes: 277421
   pdf_pages: 27
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -783,9 +783,9 @@ distributed-pv-visibility-distribution-grid-orchestration:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-distributed-pv-visibility-distribution-grid-orchestration.pdf
   legacy_pdf_paths: []
-  pdf_sha256: b065b479deb7b7aa94723abfce8fe989901e1779177278e55489ad1377892cdb
-  pdf_bytes: 490239
-  pdf_pages: 34
+  pdf_sha256: e29271962f785fa9b3b30dfe452233b69d162950936234e3af0b80e0375e3fbe
+  pdf_bytes: 314728
+  pdf_pages: 33
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -807,8 +807,8 @@ pv-asset-protection-storm-hardening-long-term-planning:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-pv-asset-protection-storm-hardening-long-term-planning.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 3c2e86f05814856b512b75c8a7cd7a792b31e6cdd9f4be3dc8ce5786fbab4819
-  pdf_bytes: 432487
+  pdf_sha256: 0a1f3b57532c9c0f3401219c8f1f77b58a6c2209432be9d387b55066c4f2315c
+  pdf_bytes: 265666
   pdf_pages: 28
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -831,9 +831,9 @@ solar-storage-microgrids-critical-infrastructure-resilience:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-solar-storage-microgrids-critical-infrastructure-resilience.pdf
   legacy_pdf_paths: []
-  pdf_sha256: b7570e3c5725342410b198b12344f7acbb4b9651d393f4d5cec92ddc6f1a8a14
-  pdf_bytes: 482596
-  pdf_pages: 33
+  pdf_sha256: 92c1b7c507acddbc25866e8bab13abbb8dc5b068c02d1557be7281f991ea9c13
+  pdf_bytes: 304858
+  pdf_pages: 32
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -855,9 +855,9 @@ solar-synchronized-flexible-demand-grid-logistics:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-solar-synchronized-flexible-demand-grid-logistics.pdf
   legacy_pdf_paths: []
-  pdf_sha256: bc53eb3aa6d66b69a7bf0d12e4d9da6a045435300eaae587f5d1052cd4596377
-  pdf_bytes: 478748
-  pdf_pages: 35
+  pdf_sha256: 234d0b30349c68b1ae0b82195fcd61a6a5c1222d754ec0a4809f7d1830991c4c
+  pdf_bytes: 311513
+  pdf_pages: 34
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -879,8 +879,8 @@ distribution-networks-leakage-pressure-service-continuity:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-distribution-networks-leakage-pressure-service-continuity.pdf
   legacy_pdf_paths: []
-  pdf_sha256: c5ee4978ad1121585be4e67edc9be5576d47cb4ef7dcbdb8b9dbce454cfa4258
-  pdf_bytes: 470981
+  pdf_sha256: 36e141d529b0a201a1339f443a4a850d7c6213aaa703fca72dcc344145601aae
+  pdf_bytes: 290305
   pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -903,8 +903,8 @@ drinking-water-source-treatment-quality-early-warning:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-drinking-water-source-treatment-quality-early-warning.pdf
   legacy_pdf_paths: []
-  pdf_sha256: fca5248f672f2ba7f9b3ebeca9e4dfa8d5f4bcc98f3161a41ed7a0068856d9c5
-  pdf_bytes: 453740
+  pdf_sha256: 1094dada9290d37032810ac0f575c22bf433e15b493eeb29ba78dedfbfc8c5e7
+  pdf_bytes: 265789
   pdf_pages: 25
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -927,8 +927,8 @@ river-basin-groundwater-drought-flood-allocation-water-productivity:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-river-basin-groundwater-drought-flood-allocation-water-productivity.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 04fa4177d799472be24970bdb31928cff22147737b46c6c097f4635b7a380fc5
-  pdf_bytes: 469895
+  pdf_sha256: 9cb046f25fc6e183f2a35524aa6c2d59b5b83204e2a367f1b531ebcc3ab00f5d
+  pdf_bytes: 296520
   pdf_pages: 30
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -951,9 +951,9 @@ wash-health-facilities-schools-camps-climate-vulnerable-settlements:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-wash-health-facilities-schools-camps-climate-vulnerable-settlements.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 19f00acef7aa1737945a6babac7645da3dcc62ca3939758837b797d60a2e5db4
-  pdf_bytes: 451019
-  pdf_pages: 30
+  pdf_sha256: 14a4eeff0daa1af5c0b0582c3bb62a7b02a1003c9711eda86369e4bb9818e122
+  pdf_bytes: 270754
+  pdf_pages: 29
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -975,8 +975,8 @@ wastewater-stormwater-sanitation-circular-reuse:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-wastewater-stormwater-sanitation-circular-reuse.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 96a832066c9ea296dda2cf09d65f9d2c6a1212ba86ecdcc15d07f0e17c04469c
-  pdf_bytes: 456871
+  pdf_sha256: 63e514843548c9af0dde4022d8cdd600794ab795f39183d4ad2fbd7fa4662c40
+  pdf_bytes: 278520
   pdf_pages: 29
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
@@ -999,9 +999,9 @@ aviation-weather-intelligence:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-aviation-weather-intelligence.pdf
   legacy_pdf_paths: []
-  pdf_sha256: e9eff2dc8139a21c7a370c5fc6008ea590258f667e834a506e8aaaefbc59748c
-  pdf_bytes: 383799
-  pdf_pages: 36
+  pdf_sha256: b6f28eea3c582c35ac1fb37fd226c166e06925a8f9d458aeaaf52d72cc998f8a
+  pdf_bytes: 289365
+  pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -1023,9 +1023,9 @@ climate-smart-aviation-contrail-routing-decarbonization:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-climate-smart-aviation-contrail-routing-decarbonization.pdf
   legacy_pdf_paths: []
-  pdf_sha256: fe66f31220a48a93c3f3e2203e296942c6f7968df6b6090e241e62199c2f2c9f
-  pdf_bytes: 380701
-  pdf_pages: 36
+  pdf_sha256: 17bc080230bc8133803f4b70f4c5be4e512104b4c572769df6c5699dfd25a0a9
+  pdf_bytes: 286790
+  pdf_pages: 35
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
@@ -1047,9 +1047,9 @@ new-aerial-logistics-aam-airships-humanitarian-remote:
   pdf_status: available
   pdf_path: /assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-new-aerial-logistics-aam-airships-humanitarian-remote.pdf
   legacy_pdf_paths: []
-  pdf_sha256: 5c540990d9ab6afdc0aae5decbeeaff48712f16c8f32942c6b73427d953d9c86
-  pdf_bytes: 362447
-  pdf_pages: 38
+  pdf_sha256: 39a8f74b7d78be87ad3b90793ba888d3968be842b9de4f25c97594169abab4e5
+  pdf_bytes: 288392
+  pdf_pages: 37
   release_date: '2026-05-02'
   release_label: May 2026 publication-ready release
   release_status: publication_ready
