@@ -15,6 +15,10 @@ const SECURITY_HEADERS = {
 
 const CACHE_POLICIES = [
   {
+    test: (url) => isPublicGoodDossierPdf(url),
+    value: "public, max-age=3600, must-revalidate"
+  },
+  {
     test: (url) => url.pathname === "/assets/site.webmanifest",
     value: "public, max-age=604800"
   },
@@ -40,6 +44,8 @@ const CACHE_POLICIES = [
 // from sibling sites (taulib.site, future poster microsites, partner programs).
 // Content remains CC BY 4.0; cross-site GET is explicitly allowed.
 const CORS_PATH_PREFIXES = ["/api/"];
+const EDGE_CACHE_BYPASS_PREFIXES = ["/assets/pdfs/research-briefings/public-good/"];
+const PUBLIC_GOOD_PDF_ORIGIN_VERSION = "2026-05-02-template-polish";
 
 const PERMANENT_REDIRECTS = new Map([
   ["/publications/physics-ledger", "/publications/monograph-supplements/numerical-physics-ledger/"],
@@ -57,9 +63,43 @@ function isHtmlRequest(url, response) {
   return contentType.includes("text/html") || url.pathname.endsWith(".html") || url.pathname.endsWith("/");
 }
 
+function isPublicGoodDossierPdf(url) {
+  return (
+    url.pathname.startsWith("/assets/pdfs/research-briefings/public-good/") &&
+    url.pathname.endsWith(".pdf")
+  );
+}
+
 function cachePolicyFor(url, response) {
   const policy = CACHE_POLICIES.find((candidate) => candidate.test(url, response));
   return policy?.value;
+}
+
+export function fetchOptionsFor(request) {
+  const url = new URL(typeof request === "string" ? request : request.url);
+  const shouldBypassEdgeCache = EDGE_CACHE_BYPASS_PREFIXES.some((prefix) => url.pathname.startsWith(prefix));
+
+  if (!shouldBypassEdgeCache) {
+    return undefined;
+  }
+
+  return {
+    cf: {
+      cacheTtl: 0,
+      cacheEverything: false
+    }
+  };
+}
+
+export function originRequestFor(request) {
+  const url = new URL(typeof request === "string" ? request : request.url);
+
+  if (!isPublicGoodDossierPdf(url)) {
+    return request;
+  }
+
+  url.searchParams.set("__prr_pdf_release", PUBLIC_GOOD_PDF_ORIGIN_VERSION);
+  return typeof request === "string" ? new Request(url.toString()) : new Request(url.toString(), request);
 }
 
 function shouldEnableCors(url) {
@@ -156,7 +196,7 @@ export default {
       return applyEdgeHeaders(request, redirect);
     }
 
-    const originResponse = await fetch(request);
+    const originResponse = await fetch(originRequestFor(request), fetchOptionsFor(request));
     return applyEdgeHeaders(request, originResponse);
   }
 };
