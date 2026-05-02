@@ -90,6 +90,7 @@ The whitepaper presents the architecture, foundations, and case studies of the T
 
 BibTeX:
 
+{% raw %}
 ```bibtex
 @misc{Fuchs-TauLib-Whitepaper-v2-2026,
   author       = {Fuchs, Thorsten and Fuchs, Anna-Sophie},
@@ -103,6 +104,7 @@ BibTeX:
                   \url{https://doi.org/10.5281/zenodo.19976503}}
 }
 ```
+{% endraw %}
 
 ## Integrity
 
