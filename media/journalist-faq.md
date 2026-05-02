@@ -82,7 +82,7 @@ Each result has a stable URL and a typed status label. For citation:
 - **Books** — see [Cite]({{ '/cite/' | relative_url }}) for the canonical book DOIs and ORCID IDs.
 - **Research papers** — each paper carries its own DOI on Zenodo (e.g. [10.5281/zenodo.19820352](https://doi.org/10.5281/zenodo.19820352) for the Master Constant ι_τ paper).
 - **Registry objects** — every theorem, definition, and proof object on the public registry has a stable ID (e.g. `I.K0`, `II.T48`) and a permalink under [`/corpus/registry/`]({{ '/corpus/registry/' | relative_url }}).
-- **BibTeX** — the program publishes a [BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }}) (1,125 references) for direct inclusion in your tooling.
+- **BibTeX** — the program publishes a [BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }}) ({% include release-metric.html id="bibliography.references" unit=true %}) for direct inclusion in your tooling.
 
 For citation discipline questions, see [Cite]({{ '/cite/' | relative_url }}) for the canonical guidance.
 

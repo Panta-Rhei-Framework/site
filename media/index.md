@@ -55,7 +55,7 @@ This page gathers public materials for journalists, podcast hosts, public commun
 
 {% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign chapter_count = site.data.publications.chapters | size %}The program's canonical release (April 2026) includes:
 - A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
-- A **Lean 4 formalization library** (TauLib, 522 modules; the published formalized modules are built without `sorry`, while Book VI remains registry-planned and not yet fully Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
+- A **Lean 4 formalization library** (TauLib, {% include release-metric.html id="taulib.modules" unit=true %}; the published formalized modules are built without `sorry`, while Book VI remains registry-planned and not yet fully Lean-formalized — see [filter rules]({{ '/verify/filter-rules/' | relative_url }}))
 - This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
 
@@ -102,7 +102,7 @@ The single most journalism-leverageable framing: the program ships a **decisive 
 
 CMB-S4 — the next-generation CMB experiment, operational around 2030 — will measure r at a precision that distinguishes this prediction from competing inflationary models. **The framework is committed in advance.** If r ≈ 0.0136 the prediction succeeds; if r is materially different, the framework is in serious trouble.
 
-For the full timeline + all 30 named falsification tests, see [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}). For the angle's deeper framing, see [Story Angles → Falsification on day one]({{ '/media/story-angles/' | relative_url }}#angle-3--falsification-on-day-one).
+For the full timeline + all {% include release-metric.html id="falsifications.records" %} named falsification tests, see [Predictions & Falsification]({{ '/verify/predictions-and-falsification/' | relative_url }}). For the angle's deeper framing, see [Story Angles → Falsification on day one]({{ '/media/story-angles/' | relative_url }}#angle-3--falsification-on-day-one).
 
 ## Quick Facts
 
@@ -111,9 +111,9 @@ For the full timeline + all 30 named falsification tests, see [Predictions & Fal
 - **Master constant**: ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
 - **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters
 - **Results**: {{ result_count }} key results across 4 domains
-- **Formalization**: 142,406 lines of Lean 4 and 4,863 theorem records in the current public projection; published formalized modules are built without `sorry`
+- **Formalization**: {% include release-metric.html id="taulib.lines" unit=true %} of Lean 4 and {% include release-metric.html id="taulib.theorems_lemmas" unit=true %} in the current public projection; published formalized modules are built without `sorry`
 - **Registry**: {{ registry_count }} mathematical objects with dependency graphs
-- **Predictions and falsification**: 67 quantitative prediction records plus 30 named falsification tests in the current public projection
+- **Predictions and falsification**: {% include release-metric.html id="predictions.records" %} quantitative prediction records plus {% include release-metric.html id="falsifications.records" %} named falsification tests in the current public projection
 - **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0136 (~2030)
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
@@ -160,7 +160,7 @@ The program publishes its research papers as standalone PDFs under [`/publicatio
 ### Additional Research Assets
 
 - **[Brand Assets & Guidelines]({{ '/brand/' | relative_url }})** — πρ mark (SVG/PNG), wordmark lockups, social headers, color palette, and usage rules for press and collaborators
-- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — 1,125 references used by the program (downloadable .bib file)
+- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — {% include release-metric.html id="bibliography.references" unit=true %} used by the program (downloadable .bib file)
 - **[Author headshots](https://github.com/Panta-Rhei-Research/site/blob/main/assets/media/headshots/README.md)** — high-resolution editorial headshots (request via [press@panta-rhei.site](mailto:press@panta-rhei.site) until publication)
 - **[TauLib repository](https://github.com/Panta-Rhei-Research/taulib)** — Full Lean 4 source (clone and run `lake build`)
 
@@ -199,7 +199,7 @@ Three lengths are provided — pick whichever fits your headline / lede / body n
 
 > The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {{ result_count }} key results with typed epistemic status, and a public research website with {{ registry_count }} registry objects. All claims carry explicit scope labels and verification routes. The program is independent research — not yet peer-reviewed in traditional journals.
 >
-> Distinctively, the framework operates with **zero dimensionless free parameters**: a single algebraic constant ι_τ = 2/(π+e) ≈ 0.3413, derived from the categorical kernel, plus one empirical anchor (the neutron mass) jointly determine every dimensionless ratio in the published constants ledger. The program publishes its falsification tests alongside its claims — most decisively, the CMB-S4 tensor-to-scalar prediction r ≈ ι_τ⁴ ≈ 0.0136, scheduled for measurement around 2030. The Lean 4 formalization (TauLib, 522 modules) checks the framework's internal consistency; the published formalized modules are built without `sorry`. All review surfaces are public from day one.
+> Distinctively, the framework operates with **zero dimensionless free parameters**: a single algebraic constant ι_τ = 2/(π+e) ≈ 0.3413, derived from the categorical kernel, plus one empirical anchor (the neutron mass) jointly determine every dimensionless ratio in the published constants ledger. The program publishes its falsification tests alongside its claims — most decisively, the CMB-S4 tensor-to-scalar prediction r ≈ ι_τ⁴ ≈ 0.0136, scheduled for measurement around 2030. The Lean 4 formalization (TauLib, {% include release-metric.html id="taulib.modules" unit=true %}) checks the framework's internal consistency; the published formalized modules are built without `sorry`. All review surfaces are public from day one.
 
 ### Key Numbers
 
@@ -210,12 +210,12 @@ Three lengths are provided — pick whichever fits your headline / lede / body n
 | Chapters | {{ chapter_count }} |
 | Key results | {{ result_count }} |
 | Registry objects | {{ registry_count }} |
-| Lean 4 modules | 445 |
-| Lines of Lean 4 | 142,406 |
-| Machine-checked theorems | 4,863 |
+| Lean 4 modules | {% include release-metric.html id="taulib.modules" %} |
+| Lines of Lean 4 | {% include release-metric.html id="taulib.lines" %} |
+| Machine-checked theorems | {% include release-metric.html id="taulib.theorems_lemmas" %} |
 | Sorry (unproven) | 0 in the published formalized modules; Book VI remains registry-planned and not yet fully Lean-formalized |
 | Free parameters | 0 |
-| Quantitative predictions | 67 prediction records plus 30 named falsification tests |
+| Quantitative predictions | {% include release-metric.html id="predictions.records" %} prediction records plus {% include release-metric.html id="falsifications.records" %} named falsification tests |
 
 ### Author Bios
 
