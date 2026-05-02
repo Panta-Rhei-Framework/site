@@ -31,9 +31,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "e42f259c07f566fbade87f63c846a086dc79f6ec4035dfa531bac6b0a8ec4d63",
-    "pdf_bytes": 205393,
-    "pdf_pages": 9
+    "pdf_sha256": "cc63fa40c2d225aa2327b99b90d47cd5b90238f5b7ee6b3df93c0195d3f85d5d",
+    "pdf_bytes": 455031,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-one-health-paper-3",
@@ -67,9 +67,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "f87bcb814128c39e0eca596f6f298c7a602b433c4716f241e7e210c4a16dbfcc",
-    "pdf_bytes": 206605,
-    "pdf_pages": 9
+    "pdf_sha256": "0f5f1831131caedf2a16544d87d55c8255a34454fb4df4f2600adc05cec81899",
+    "pdf_bytes": 493615,
+    "pdf_pages": 37
   },
   {
     "id": "public-good-briefing-disaster-paper-5",
@@ -103,9 +103,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "896ba90a10bcc4bc87ba3df13647d9b046a5f3ebd24a37d7c602eaad1350aeff",
-    "pdf_bytes": 202205,
-    "pdf_pages": 9
+    "pdf_sha256": "9d4292fcf13ab2d6097236a5573cc3c39dcda37face49d696310ce5943262b37",
+    "pdf_bytes": 513264,
+    "pdf_pages": 39
   },
   {
     "id": "public-good-briefing-weather-paper-1",
@@ -139,9 +139,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "8c54b23b230a07557bbed05fc252a08afdefb3cd791c15937c5839adcb70b1c3",
-    "pdf_bytes": 194868,
-    "pdf_pages": 8
+    "pdf_sha256": "e9eff2dc8139a21c7a370c5fc6008ea590258f667e834a506e8aaaefbc59748c",
+    "pdf_bytes": 383799,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-biodiversity-restoration-paper-5",
@@ -175,9 +175,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "bc40382f192706f98da68b359b5e78bfa6e03cb371ae793023ecf3d00f8a2cb3",
-    "pdf_bytes": 199989,
-    "pdf_pages": 8
+    "pdf_sha256": "d8a5ede9a4ba6dda61a73d74a07ec2bdb1652148bdb75089649f7be72dea6951",
+    "pdf_bytes": 374490,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-ocean-paper-3",
@@ -211,9 +211,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "c50629935eb13e1a51620ea531dbc89596771a415791f56b2e8a5f76e1810eeb",
-    "pdf_bytes": 199478,
-    "pdf_pages": 8
+    "pdf_sha256": "e472931362c5aad3d73eaa233078a3534c54427e87cd222f08c455c0dce7140d",
+    "pdf_bytes": 376982,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-solar-paper-1",
@@ -247,9 +247,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "cea95ea6786021848880556114f007a5c0ee8f5f1085c623c9cbee0f0f3bc377",
-    "pdf_bytes": 203590,
-    "pdf_pages": 9
+    "pdf_sha256": "b84e71b7bb9d04edb647a718b608b705e5532af3b52b8a1389dcdd4b6aa46502",
+    "pdf_bytes": 450492,
+    "pdf_pages": 27
   },
   {
     "id": "public-good-briefing-climate-paper-2",
@@ -283,9 +283,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "dc9beee369d9914aeccc9a02595d903e1bd9ef44a4a469e2ae4c3d4068f22a8e",
-    "pdf_bytes": 198287,
-    "pdf_pages": 8
+    "pdf_sha256": "ce08dfc2cd4b99aff87075349ad547658e23d2d51fc1134256785a5cfa3e544f",
+    "pdf_bytes": 463814,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-pollution-circularity-paper-3",
@@ -319,9 +319,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "7fa0380f5458e60cf12a8de72a5646a8ee402888ca50b306a2513a2c48c10a8b",
-    "pdf_bytes": 197840,
-    "pdf_pages": 8
+    "pdf_sha256": "0a683f6302bc9b87d1f90c4d597fce6bbd48a61d43f3e01faf62e147899100db",
+    "pdf_bytes": 349735,
+    "pdf_pages": 37
   },
   {
     "id": "public-good-briefing-pollution-circularity-paper-1",
@@ -355,9 +355,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "e2691976ff90d1f89e20d69a9a8e582c59de0d0d48aee9c95edf2dda8389a15d",
-    "pdf_bytes": 205294,
-    "pdf_pages": 9
+    "pdf_sha256": "2a8519ba35bf940fb5596482479fae0cd692d57b7394ab8c7e36a8816b415837",
+    "pdf_bytes": 534886,
+    "pdf_pages": 39
   },
   {
     "id": "public-good-briefing-climate-paper-5",
@@ -391,9 +391,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "e2fb8f86346eca3b347732674323530cf132b3cf18638979898f4cee58f4f009",
-    "pdf_bytes": 207793,
-    "pdf_pages": 9
+    "pdf_sha256": "fb72fb369ee5f30c58d8258f3eb62aaf40b141f5e257e19f74331d4c2456ccb7",
+    "pdf_bytes": 471053,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-weather-paper-2",
@@ -427,9 +427,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "aa75a59c4c224f735e8551e52bdce7b66b305c16f20915f272ed40efe8be5cf8",
-    "pdf_bytes": 197413,
-    "pdf_pages": 8
+    "pdf_sha256": "fe66f31220a48a93c3f3e2203e296942c6f7968df6b6090e241e62199c2f2c9f",
+    "pdf_bytes": 380701,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-agriculture-paper-2",
@@ -463,9 +463,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "f53e69defd73cb45025675122628b20c2b13282a9dfc6bb8db297586c5af2a2b",
-    "pdf_bytes": 207129,
-    "pdf_pages": 9
+    "pdf_sha256": "2131509ba1422d692438f08ca86b9025bb276ab6f707025a6bce6e492700f5de",
+    "pdf_bytes": 515908,
+    "pdf_pages": 38
   },
   {
     "id": "public-good-briefing-ocean-paper-2",
@@ -499,9 +499,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "15779a8f6fde1b65de73d4b7280047c9c22ff12bf4d09976c0cabc9ef55785c3",
-    "pdf_bytes": 199027,
-    "pdf_pages": 8
+    "pdf_sha256": "54bef80d8491981338c952b39d8076b7d1b595241d9df30fff2523403cf2691a",
+    "pdf_bytes": 383158,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-disaster-paper-4",
@@ -535,9 +535,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "86299ca869b46322c396d50350729f93f03048776f7386f4a179785ebaabb14d",
-    "pdf_bytes": 204036,
-    "pdf_pages": 9
+    "pdf_sha256": "f32d9684659bffb4d87dca57c4c31788df7b3740d45e8d7592055a88bef39160",
+    "pdf_bytes": 500143,
+    "pdf_pages": 38
   },
   {
     "id": "public-good-briefing-agriculture-paper-5",
@@ -571,9 +571,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "2d07d9ff3057650b8f0d93b181d64da1acb1f4955e41287e30247ea8a308d2fd",
-    "pdf_bytes": 195531,
-    "pdf_pages": 8
+    "pdf_sha256": "dfb19ae4a8fb59b95515705a46d6b329f6ab4ae8155b8619047c259e376d32ab",
+    "pdf_bytes": 370090,
+    "pdf_pages": 33
   },
   {
     "id": "public-good-briefing-energy-paper-2",
@@ -607,9 +607,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "536a278610a7f0f4b4d0376ebeca0ca53ff6f1cb6ba75d542b702000a4118714",
-    "pdf_bytes": 203528,
-    "pdf_pages": 9
+    "pdf_sha256": "8a4fc76e2f05e83673dcb5384a5fb1e65b7dfdb84bfe1fc505045581211c2e54",
+    "pdf_bytes": 464012,
+    "pdf_pages": 33
   },
   {
     "id": "public-good-briefing-solar-paper-2",
@@ -643,9 +643,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "49ef483c8b17661470ba789980139231fa2ef5c00e0042808a99853b05055c06",
-    "pdf_bytes": 208528,
-    "pdf_pages": 9
+    "pdf_sha256": "b065b479deb7b7aa94723abfce8fe989901e1779177278e55489ad1377892cdb",
+    "pdf_bytes": 490239,
+    "pdf_pages": 34
   },
   {
     "id": "public-good-briefing-water-wash-paper-2",
@@ -679,9 +679,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "ee00d872599bd33e230d5e8ce3087c08469f15ca5650f9ee9ff8e8a6490a78fd",
-    "pdf_bytes": 208372,
-    "pdf_pages": 9
+    "pdf_sha256": "c5ee4978ad1121585be4e67edc9be5576d47cb4ef7dcbdb8b9dbce454cfa4258",
+    "pdf_bytes": 470981,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-water-wash-paper-1",
@@ -715,9 +715,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "399f0de911ef87e1abbcb6e87c845c84e8af66ba6f6dd3e0859111a07fa6e7c2",
-    "pdf_bytes": 205298,
-    "pdf_pages": 9
+    "pdf_sha256": "fca5248f672f2ba7f9b3ebeca9e4dfa8d5f4bcc98f3161a41ed7a0068856d9c5",
+    "pdf_bytes": 453740,
+    "pdf_pages": 25
   },
   {
     "id": "public-good-briefing-disaster-paper-2",
@@ -751,9 +751,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "d0d698dc00519a07f7dc1ced1d93b1abcd6e363541377b43136a73c6b6ecb645",
-    "pdf_bytes": 194896,
-    "pdf_pages": 8
+    "pdf_sha256": "0c38337788b6119cb6c642b7c36cda74df49aacf88a6c8b33ab018f14051b592",
+    "pdf_bytes": 348503,
+    "pdf_pages": 37
   },
   {
     "id": "public-good-briefing-one-health-paper-4",
@@ -787,9 +787,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "f01cc6d0c09e4a893588f8b10d12e681210673a54b2e2a3170607f36a1e4d75e",
-    "pdf_bytes": 198559,
-    "pdf_pages": 8
+    "pdf_sha256": "359ff55191d8797771623b328d1e19e36868dcf2f3f23350081a70d9925b75b5",
+    "pdf_bytes": 368896,
+    "pdf_pages": 39
   },
   {
     "id": "public-good-briefing-energy-paper-3",
@@ -823,9 +823,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "5d167e61fa6ef854f53f584468acd29adbcb3840c20c646bf649f620ca7ccecb",
-    "pdf_bytes": 208458,
-    "pdf_pages": 9
+    "pdf_sha256": "e0a4d546ea058d295def7efaece5cb76b8ad706894880f3b05f6ca7b1f4ffb21",
+    "pdf_bytes": 504106,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-energy-paper-1",
@@ -859,9 +859,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "de4d334d12da68a365d8acb1542cebc71334f30e0a646bf0eb597c4013b77929",
-    "pdf_bytes": 204646,
-    "pdf_pages": 9
+    "pdf_sha256": "8ab6bff6dc726969b671d41a6f647760cce98fc95f9744aa2a44f2ceb641dc40",
+    "pdf_bytes": 439066,
+    "pdf_pages": 25
   },
   {
     "id": "public-good-briefing-pollution-circularity-paper-2",
@@ -895,9 +895,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "f6640c7b054611fa5d7b14bc9a76a89d2beff937488a9cbc60cf69c67dd1c766",
-    "pdf_bytes": 196070,
-    "pdf_pages": 8
+    "pdf_sha256": "a844431c447ad655c7d79e8c5e8fa316673a7aea2779519898e84f8302549108",
+    "pdf_bytes": 347287,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-energy-paper-5",
@@ -931,9 +931,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "ae04077b0aad45fa4d2fd49a7f08636ccf13d3d26deb7e3f98c1da050dfa7779",
-    "pdf_bytes": 207251,
-    "pdf_pages": 9
+    "pdf_sha256": "d5aab593c01c1f73ed3694179a91ebdad70e54d3fd697a8ace9253d55c4cdc86",
+    "pdf_bytes": 482808,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-weather-paper-3",
@@ -967,9 +967,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "e19fcde13b98d08a0369ddaabbf3c5547f888318000ae0dd3ce837d7ada38b98",
-    "pdf_bytes": 197190,
-    "pdf_pages": 8
+    "pdf_sha256": "5c540990d9ab6afdc0aae5decbeeaff48712f16c8f32942c6b73427d953d9c86",
+    "pdf_bytes": 362447,
+    "pdf_pages": 38
   },
   {
     "id": "public-good-briefing-ocean-paper-1",
@@ -1003,9 +1003,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "9ee0d91b2c430a9b6cb688b6fa51e1a0c12c8ab3a57cada03207b0dd3c723f1b",
-    "pdf_bytes": 199185,
-    "pdf_pages": 8
+    "pdf_sha256": "981d01dd7e811f2699144f3323db3b700da67a064b75d7106bd5d3589fd949fe",
+    "pdf_bytes": 378848,
+    "pdf_pages": 36
   },
   {
     "id": "public-good-briefing-ocean-paper-4",
@@ -1039,9 +1039,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "bdd9e692b3e71bfee5a29299d4712a9970644beed199490781a06c69046e1123",
-    "pdf_bytes": 200263,
-    "pdf_pages": 8
+    "pdf_sha256": "d49da57bcfb4d041ae03157516a42cd1d8a9d1180aa14c90e366a48bb1c7c62e",
+    "pdf_bytes": 366982,
+    "pdf_pages": 38
   },
   {
     "id": "public-good-briefing-climate-paper-4",
@@ -1075,9 +1075,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "7ee4889f519eb5a48aa696a9dd9ae825c683b97b74b797b4d6d85e5862586a40",
-    "pdf_bytes": 207329,
-    "pdf_pages": 9
+    "pdf_sha256": "ff2ce3d6324bb84ed24336775d2d36abf5283803bd1e2dd2ae5a70d06347826e",
+    "pdf_bytes": 471169,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-one-health-paper-1",
@@ -1111,9 +1111,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "bb59477781e05147b4f737d321ff2869e466d483ae007536adb839f0ffa64824",
-    "pdf_bytes": 199399,
-    "pdf_pages": 8
+    "pdf_sha256": "805896407b6630e942397e4ea7deb8e11388db5b2504d9075e08cfddcca9dd14",
+    "pdf_bytes": 357088,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-agriculture-paper-1",
@@ -1147,9 +1147,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "4ecdcdaac3c835da421536725bfedaffcb58dcba4a967fe60aa99efb90c4031a",
-    "pdf_bytes": 203554,
-    "pdf_pages": 9
+    "pdf_sha256": "78c0bf026454ccfd1e1223d1645c815785b4667da730e23db5fd7c685585b723",
+    "pdf_bytes": 477491,
+    "pdf_pages": 34
   },
   {
     "id": "public-good-briefing-agriculture-paper-3",
@@ -1183,9 +1183,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "d022071b78d8f9a7c68525a72103b900a725af170ff050b12259aac7361d719b",
-    "pdf_bytes": 195329,
-    "pdf_pages": 8
+    "pdf_sha256": "cfae4ee6cc6e3a51e21f8b4e0c2372930c238a51399f6fbb4a53f945effd14c6",
+    "pdf_bytes": 334942,
+    "pdf_pages": 31
   },
   {
     "id": "public-good-briefing-one-health-paper-5",
@@ -1219,9 +1219,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "9e5fe3bc8ad99d790b1872074345f69ead4178a77b46384587a1700af5e82487",
-    "pdf_bytes": 210212,
-    "pdf_pages": 9
+    "pdf_sha256": "f8878929a0fd24c5f87697f3ce9e54be6d134d5274f7e48f0b58a8125fcbfa0d",
+    "pdf_bytes": 474949,
+    "pdf_pages": 31
   },
   {
     "id": "public-good-briefing-solar-paper-4",
@@ -1255,9 +1255,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "92b0aaf9077d07d099f44adef9579f146ab64d73b78a121f5162bd561dfe19ae",
-    "pdf_bytes": 204859,
-    "pdf_pages": 9
+    "pdf_sha256": "3c2e86f05814856b512b75c8a7cd7a792b31e6cdd9f4be3dc8ce5786fbab4819",
+    "pdf_bytes": 432487,
+    "pdf_pages": 28
   },
   {
     "id": "public-good-briefing-climate-paper-3",
@@ -1291,9 +1291,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "20e0844434b126e147bbfec2dcf93f6b79778470c0305c53b3aa2d32f6755433",
-    "pdf_bytes": 202654,
-    "pdf_pages": 9
+    "pdf_sha256": "2a1d39f1881e8f61b96a8aca5b70eb28c71021e88a1e7503584565ca9587b256",
+    "pdf_bytes": 449712,
+    "pdf_pages": 28
   },
   {
     "id": "public-good-briefing-water-wash-paper-4",
@@ -1327,9 +1327,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "e684d231f0148ac741fe60c3ab95daeb5d20ab19491010cdc866e96af1228c77",
-    "pdf_bytes": 205857,
-    "pdf_pages": 9
+    "pdf_sha256": "04fa4177d799472be24970bdb31928cff22147737b46c6c097f4635b7a380fc5",
+    "pdf_bytes": 469895,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-agriculture-paper-4",
@@ -1363,9 +1363,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "7a16682951d8213ffaf3d592b626f79482a47427c62e87ba00694577efe3cfef",
-    "pdf_bytes": 195578,
-    "pdf_pages": 8
+    "pdf_sha256": "a63d0859f507878973dfbad5a1f49b2849845357fdca9c342a55a7b0b15ac77b",
+    "pdf_bytes": 345239,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-solar-paper-3",
@@ -1399,9 +1399,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "8f659bdcaa4b3682a58498b3f008ac89b9d07bece1cb72f96d64a464702c6db9",
-    "pdf_bytes": 208444,
-    "pdf_pages": 9
+    "pdf_sha256": "b7570e3c5725342410b198b12344f7acbb4b9651d393f4d5cec92ddc6f1a8a14",
+    "pdf_bytes": 482596,
+    "pdf_pages": 33
   },
   {
     "id": "public-good-briefing-solar-paper-5",
@@ -1435,9 +1435,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "6f7ebb73eea85bcf651372a1d3e531fff6ca4e5cd4fd4b58b36e6791d2120f8d",
-    "pdf_bytes": 208245,
-    "pdf_pages": 9
+    "pdf_sha256": "bc53eb3aa6d66b69a7bf0d12e4d9da6a045435300eaae587f5d1052cd4596377",
+    "pdf_bytes": 478748,
+    "pdf_pages": 35
   },
   {
     "id": "public-good-briefing-water-wash-paper-5",
@@ -1471,9 +1471,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "dcc90485ab01475c2b634714a8fbae8a3b3a671deabef0354a111460239b92a3",
-    "pdf_bytes": 209159,
-    "pdf_pages": 9
+    "pdf_sha256": "19f00acef7aa1737945a6babac7645da3dcc62ca3939758837b797d60a2e5db4",
+    "pdf_bytes": 451019,
+    "pdf_pages": 30
   },
   {
     "id": "public-good-briefing-pollution-circularity-paper-4",
@@ -1507,9 +1507,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "919534c907886e04671dd8d774f9398728d06f8285079ae746fcde421a3cd8c5",
-    "pdf_bytes": 199974,
-    "pdf_pages": 8
+    "pdf_sha256": "db7c154caa398d92643e8b7879ad390a2d99d2abba7746dd78bf6488c321d828",
+    "pdf_bytes": 348885,
+    "pdf_pages": 34
   },
   {
     "id": "public-good-briefing-water-wash-paper-3",
@@ -1543,9 +1543,9 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "f80142d083afdffbbb8af3e8d4cd14ff62c32c3c929ee872e5d35bdc1bd7f4e7",
-    "pdf_bytes": 205361,
-    "pdf_pages": 8
+    "pdf_sha256": "96a832066c9ea296dda2cf09d65f9d2c6a1212ba86ecdcc15d07f0e17c04469c",
+    "pdf_bytes": 456871,
+    "pdf_pages": 29
   },
   {
     "id": "public-good-briefing-disaster-paper-3",
@@ -1579,8 +1579,8 @@
     "deployment_claim": false,
     "product_claim": false,
     "validation_claim": false,
-    "pdf_sha256": "b5d969d6d16babd4ad3d7b40b56e57232c89e6588883b5abea8a8f64d407d661",
-    "pdf_bytes": 198162,
-    "pdf_pages": 8
+    "pdf_sha256": "0230d72aa49c59531ebaa0da5c525ad676c719736eaed90979f268194dae6ba1",
+    "pdf_bytes": 361929,
+    "pdf_pages": 36
   }
 ]

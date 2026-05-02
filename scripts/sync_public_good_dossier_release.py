@@ -228,9 +228,18 @@ def update_old_portfolio_routes() -> None:
 
 
 def main() -> int:
+    global PAPERS_ROOT, SOURCE_ROOT
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--apply", action="store_true", help="copy PDFs and update site source files")
+    parser.add_argument(
+        "--papers-root",
+        type=Path,
+        default=PAPERS_ROOT,
+        help="private papers repo/worktree containing research-briefings/public-good",
+    )
     args = parser.parse_args()
+    PAPERS_ROOT = args.papers_root.resolve()
+    SOURCE_ROOT = PAPERS_ROOT / "research-briefings" / "public-good"
 
     records = load_yaml(SOURCE_ROOT / "dossiers.yml")
     source_records = {record["slug"]: record for record in records}
