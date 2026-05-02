@@ -18,6 +18,12 @@ right_rail:
   related:
     - title: "Media Kit"
       url: /media/
+    - title: "Story Angles"
+      url: /media/story-angles/
+    - title: "Journalist FAQ"
+      url: /media/journalist-faq/
+    - title: "Social Media Kit"
+      url: /media/social-media-kit/
     - title: "Review Kit"
       url: /media/review-kit/
     - title: "White Papers"
@@ -39,6 +45,10 @@ right_rail:
       url: /assets/media/falsification-pack.pdf
     - title: "Lean Verification Report"
       url: /assets/media/lean-verification-report.pdf
+    - title: "Reviewer's Dossier"
+      url: /assets/media/reviewers-dossier.pdf
+    - title: "Series Prospectus"
+      url: /assets/media/series-prospectus.pdf
   meta:
     type: "Media Route"
     scope: "Public communication"
@@ -67,7 +77,19 @@ The shortest accurate framing is: Panta Rhei is an independent open research pro
 <div class="v2-grid">
   <a class="v2-tile" href="{{ '/media/' | relative_url }}">
     <h3>Media Kit</h3>
-    <p>Program summary, quick facts, downloadable PDFs, press kit, and contact routing.</p>
+    <p>Program summary, quick facts, 14 downloadable PDFs, recent papers, three boilerplate length variants, and contact routing.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/media/story-angles/' | relative_url }}">
+    <h3>Story Angles</h3>
+    <p>Five framings for journalists with headlines, 30-second pitches, and key-fact anchors — independence, zero free parameters, falsification on day one, cross-domain scope, open verification.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/media/journalist-faq/' | relative_url }}">
+    <h3>Journalist FAQ</h3>
+    <p>Press Q&amp;A: peer-review status, funding, citation, interview windows, embargo policy, headshots, and what to avoid writing.</p>
+  </a>
+  <a class="v2-tile" href="{{ '/media/social-media-kit/' | relative_url }}">
+    <h3>Social Media Kit</h3>
+    <p>Suggested posts for X, LinkedIn, Bluesky, Mastodon · hashtags · share-card recommendations · email signature blocks. All CC BY 4.0.</p>
   </a>
   <a class="v2-tile" href="{{ '/media/review-kit/' | relative_url }}">
     <h3>Review Kit</h3>
