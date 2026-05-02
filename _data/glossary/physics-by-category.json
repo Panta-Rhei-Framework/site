@@ -506,7 +506,63 @@
             "α propagates into R_∞, a_0, λ_C, and (via the G–α bridge) into α_G"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D02-tau-categorical",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D08-five-generators-def",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D01"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K01-universe-postulate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K02-five-generators",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K03-no-omega-axiom",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O01-tau-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          }
+        ]
       },
       {
         "id": "PG-C06-elementary-charge",
@@ -597,7 +653,21 @@
             "Numerical: e is exact by 2019 SI definition (e fixes the ampere); the τ-framework adopts this verbatim"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-C07-vacuum-permittivity",
@@ -1344,7 +1414,21 @@
             "Hierarchy: α/α_G = α⁻¹⁷ · √3⁻¹ ≈ 10³⁶ — not a fine-tuning, just the seventeenth power of α⁻¹"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-C15-boltzmann-constant",
@@ -1514,7 +1598,21 @@
             "Conjectural sector — refinement expected at higher cascade depth"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-C17-strong-coupling",
@@ -1697,7 +1795,135 @@
             "κ_τ enters the Milgrom acceleration a_0 = c²/(2ℓ_τ) and the Cabibbo angle ι_τ · κ_D"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D03-window-algebra",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D05-rank-coordinates",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D06-truth4-logic",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D09-calibrated-split-complex",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D10-split-complex-scalars",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D11-stage-k-cylinder",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D15-boundary-ring",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D16-ultrametric-distance",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O02-window-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-S02-holomorphy-tower",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T01-hyperfactorization",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T04-central-theorem",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T07-split-complex-forced",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T08-crt-coherence",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T09-algebraic-lemniscate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T11-mutual-determination",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D18"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T13-spectral-trichotomy",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          }
+        ]
       },
       {
         "id": "PG-C19-milgrom-acceleration",
@@ -1877,7 +2103,21 @@
             "SI bridge via m_n anchor for energy units"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part02/ch16-holomorphic-quantization.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-L02-tau-heisenberg-uncertainty",
@@ -1957,7 +2197,21 @@
             "SI bridge via m_n anchor for length × momentum units"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part01/ch07-beta-decay-rosetta.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-L03-tau-maxwell-system",
@@ -2136,7 +2390,111 @@
             "SI bridge via m_n anchor for mass / curvature units"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part02/ch13-tau-einstein-equation.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D02-tau-categorical",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D03-window-algebra",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D05-rank-coordinates",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D08-five-generators-def",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D01"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D11-stage-k-cylinder",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D12-progression-operator",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D02"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K01-universe-postulate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K02-five-generators",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K03-no-omega-axiom",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O01-tau-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O02-window-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-S02-holomorphy-tower",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T01-hyperfactorization",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          }
+        ]
       },
       {
         "id": "PG-L05-tau-newton-gravity",
@@ -2229,7 +2587,111 @@
             "SI bridge via m_n anchor for mass and length units"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part02/ch14-linear-tau-einstein.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D05-rank-coordinates",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T04"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D06-truth4-logic",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D09-calibrated-split-complex",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D10-split-complex-scalars",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D15-boundary-ring",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D16-ultrametric-distance",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T01-hyperfactorization",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T04"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T04-central-theorem",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T07-split-complex-forced",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T08-crt-coherence",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T09-algebraic-lemniscate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T11-mutual-determination",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D18"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T13-spectral-trichotomy",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          }
+        ]
       },
       {
         "id": "PG-L06-tau-bianchi-identity",
@@ -2777,7 +3239,69 @@
             "SI bridge via m_n anchor and τ-second cascade for strain / frequency units"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part02/ch14-linear-tau-einstein.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D03-window-algebra",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D05-rank-coordinates",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D11-stage-k-cylinder",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D12-progression-operator",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D02"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O02-window-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-S02-holomorphy-tower",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T01-hyperfactorization",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          }
+        ]
       },
       {
         "id": "PG-L13-tau-mercury-precession",
@@ -2862,7 +3386,93 @@
             "SI bridge via m_n anchor for masses, τ-second for time"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part02/ch14-linear-tau-einstein.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D06-truth4-logic",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D09-calibrated-split-complex",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D10-split-complex-scalars",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D15-boundary-ring",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D16-ultrametric-distance",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T04-central-theorem",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T07-split-complex-forced",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T08-crt-coherence",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T09-algebraic-lemniscate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T13-spectral-trichotomy",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          }
+        ]
       }
     ],
     "object": [
@@ -4627,7 +5237,63 @@
             "c (propagation speed) anchored via dimensional bridge to m_n"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part01/ch05-photon-null-transport.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D02-tau-categorical",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D08-five-generators-def",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D01"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K01-universe-postulate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K02-five-generators",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-K03-no-omega-axiom",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O01-tau-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.K0"
+          }
+        ]
       },
       {
         "id": "PG-P05-neutrino",
@@ -5233,7 +5899,21 @@
             "Higgs vacuum value v ≈ 246 GeV (IV.D493)"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part03/ch26-tau-higgs.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-P11-z-boson",
@@ -5323,7 +6003,21 @@
             "Window-universality relation (IV.T178)"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part03/ch25-electroweak-mixing.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-P12-gluon",
@@ -5661,7 +6355,21 @@
             "two-sector (m_n - m_p) and Yukawa hierarchy formulas"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part07-closure/ch-closure-constants.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q02-energy",
@@ -5760,7 +6468,21 @@
             "E = m c² via IV.D23"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part04-quantum-mechanics/ch-energy-entropy.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q03-mass-energy-relation",
@@ -5846,7 +6568,21 @@
             "c² conversion factor"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part01-foundations/ch-mass-energy.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q04-entropy",
@@ -6205,7 +6941,21 @@
             "e := τ-elementary-charge unit fixed by α and the relational c, ℏ"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part05-electromagnetism/ch-electric-charge.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q08-geometric-charge",
@@ -6470,7 +7220,75 @@
             "second := 9 192 631 770 cycles of the Cs hyperfine transition (SI definition)"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part01-base/ch-proto-chronos.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D03-window-algebra",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D05-rank-coordinates",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D08-five-generators-def",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D01"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D11-stage-k-cylinder",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D12-progression-operator",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D02"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-O02-window-object",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-S02-holomorphy-tower",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T01-hyperfactorization",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D17"
+          }
+        ]
       },
       {
         "id": "PG-Q11-operational-distance",
@@ -6558,7 +7376,21 @@
             "metre := distance light travels in 1/299 792 458 second (SI definition)"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part02-spatial/ch-operational-distance.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q12-spectral-distance-sqrt3",
@@ -6637,7 +7469,69 @@
             "Spectral Distance √3 enters as a dimensionless factor in coupling formulas anchored to m_n via IV.D300"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part02-spectral/ch-three-fold-distance.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D06-truth4-logic",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D09-calibrated-split-complex",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T10"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D10-split-complex-scalars",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T10"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D15-boundary-ring",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T07-split-complex-forced",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T10"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T08-crt-coherence",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T09-algebraic-lemniscate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T10"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T11-mutual-determination",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T10"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T13-spectral-trichotomy",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          }
+        ]
       },
       {
         "id": "PG-Q13-energy-cr-tension",
@@ -6727,7 +7621,21 @@
             "E_CR translates to J via the dimensional cascade"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part04-quantum-mechanics/ch-cr-tension.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q14-graph-energy-density",
@@ -6901,7 +7809,21 @@
             "k_B via τ-conjugate ratio between energy and breathing-mode count"
           ],
           "manuscript_reference": "manuscript-sources/book-04/part04-quantum-mechanics/ch-energy-entropy.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D07-4-plus-1-sector",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "III.D13"
+          }
+        ]
       },
       {
         "id": "PG-Q16-color-charge",
@@ -7701,7 +8623,87 @@
             "v = dx/dt composed from these"
           ],
           "manuscript_reference": "manuscript-sources/book-05/part04-kinematics/ch-velocity.tex"
-        }
+        },
+        "cross_domain_anchors": [
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D01-iota-tau",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D06-truth4-logic",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D09-calibrated-split-complex",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D10-split-complex-scalars",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D20"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D15-boundary-ring",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-D16-ultrametric-distance",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-L01-idempotent-decomposition",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D19"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T04-central-theorem",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.D34"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T06-prime-polarity",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T07-split-complex-forced",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T08-crt-coherence",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T09-algebraic-lemniscate",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          },
+          {
+            "domain": "mathematics",
+            "entry_id": "MathG-T13-spectral-trichotomy",
+            "edge_kind": "dep-graph-derived",
+            "via_registry_id": "I.T05"
+          }
+        ]
       },
       {
         "id": "PG-Q25-degeneracy-pressure",

@@ -1210,3 +1210,126 @@
     padding: 14px;
   }
 }
+
+/* ---------------------------------------------------------------------------
+ * Sprint 3 — Math-specific glossary entry styling
+ *
+ * Theorem-statement box (proof-style highlighted block); Mathlib-bridge callout;
+ * math-content rationale paragraphs. Active only on math-domain glossary entries.
+ * ------------------------------------------------------------------------- */
+
+.theorem-statement-box {
+  margin: 16px 0;
+  padding: 16px 20px;
+  border-left: 4px solid #4a6fa5;
+  background: #f7f9fc;
+  border-radius: 4px;
+  position: relative;
+
+  .theorem-statement-box-eyebrow {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #5b6772;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .theorem-statement-box-body {
+    margin: 0;
+    font-size: 1.04rem;
+    line-height: 1.55;
+  }
+
+  &.theorem-statement-box-theorem    { border-left-color: #4a6fa5; background: #f7f9fc; }
+  &.theorem-statement-box-lemma      { border-left-color: #6a8aa8; background: #f8fafd; }
+  &.theorem-statement-box-definition { border-left-color: #2e7d32; background: #f6fbf7; }
+  &.theorem-statement-box-postulate  { border-left-color: #6a4ca0; background: #faf8fd; }
+  &.theorem-statement-box-axiom      { border-left-color: #c47a00; background: #fdfaf3; }
+  &.theorem-statement-box-structure  { border-left-color: #00695c; background: #f5fbfa; }
+  &.theorem-statement-box-object     { border-left-color: #5d4037; background: #faf8f6; }
+}
+
+.mathlib-bridge-callout {
+  margin: 20px 0 12px;
+  padding: 14px 18px;
+  border: 1px solid #d0dfee;
+  border-radius: 6px;
+  background: #fbfdff;
+
+  h3 {
+    margin: 0 0 8px;
+    font-size: 0.95rem;
+    font-weight: 700;
+
+    .mathlib-bridge-eyebrow {
+      display: inline-block;
+      padding: 2px 8px;
+      background: #e3edf7;
+      color: #2c4d72;
+      border-radius: 3px;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.94rem;
+    color: #374151;
+  }
+}
+
+.chip-math-kind {
+  font-weight: 600;
+
+  &.chip-math-kind-theorem    { background: #e3eaf2; color: #2c4570; }
+  &.chip-math-kind-lemma      { background: #e8eef5; color: #3a5780; }
+  &.chip-math-kind-definition { background: #e1efe3; color: #1a5421; }
+  &.chip-math-kind-postulate  { background: #ece6f4; color: #4a3372; }
+  &.chip-math-kind-axiom      { background: #f6ebd8; color: #784900; }
+  &.chip-math-kind-structure  { background: #d9efeb; color: #00514a; }
+  &.chip-math-kind-object     { background: #efe6e0; color: #4a342c; }
+}
+
+.chip-math-symbol {
+  font-family: var(--font-serif, Georgia, serif);
+  font-style: italic;
+  background: #f5f0e8;
+  color: #5a4a30;
+}
+
+.math-glossary-content {
+  .math-glossary-rationale > p {
+    margin: 8px 0;
+  }
+  .math-glossary-consequences {
+    margin: 6px 0 12px 18px;
+    li { margin: 4px 0; }
+  }
+  details.math-proof-sketch {
+    margin: 14px 0;
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+      color: #2c4570;
+      padding: 6px 0;
+    }
+    .prose {
+      padding: 8px 0 0 12px;
+      border-left: 2px solid #d0dfee;
+      margin-top: 8px;
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .theorem-statement-box {
+    padding: 12px 14px;
+    .theorem-statement-box-body { font-size: 0.96rem; }
+  }
+  .mathlib-bridge-callout {
+    padding: 12px 14px;
+  }
+}

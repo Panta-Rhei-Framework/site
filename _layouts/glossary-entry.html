@@ -152,16 +152,158 @@ layout: default
     {% if s3.manuscript_reference %}<p class="muted"><strong>Manuscript reference:</strong> <code>{{ s3.manuscript_reference }}</code></p>{% endif %}
   </div>
 </section>
+{% elsif page.domain == "mathematics" and entry.mathematical_content %}
+{%- comment -%}
+  Sprint 3 — math-specific Section 3.
+  Renders mathematical_content with proof-style theorem-statement box,
+  Mathlib-bridge callout, and collapsible proof-sketch + consequences.
+{%- endcomment -%}
+{%- assign s3 = entry.mathematical_content -%}
+<section class="content-card math-glossary-content" aria-labelledby="glossary-s3-heading">
+  <h2 id="glossary-s3-heading">Mathematical content</h2>
+  {% if s3.kind %}
+  <div class="chip-row">
+    <span class="chip chip-math-kind chip-math-kind-{{ s3.kind | downcase }}">{{ s3.kind | capitalize }}</span>
+    {% if entry.tau_symbol %}<span class="chip chip-math-symbol">{{ entry.tau_symbol }}</span>{% endif %}
+  </div>
+  {% endif %}
+
+  {% if s3.statement %}
+  <div class="theorem-statement-box theorem-statement-box-{{ s3.kind | default: 'theorem' | downcase }}" role="figure" aria-label="Statement">
+    <div class="theorem-statement-box-eyebrow">{{ s3.kind | default: "Statement" | capitalize }}</div>
+    <p class="theorem-statement-box-body"><strong>{{ s3.statement }}</strong></p>
+  </div>
+  {% endif %}
+
+  {% if s3.value_exact or s3.value_decimal %}
+  <div class="prose">
+    <p>
+      {% if s3.value_exact %}<strong>Exact:</strong> <code>{{ s3.value_exact }}</code>{% endif %}
+      {% if s3.value_decimal %}{% if s3.value_exact %} · {% endif %}<strong>Decimal:</strong> {{ s3.value_decimal }}{% endif %}
+    </p>
+  </div>
+  {% endif %}
+
+  {% if s3.proof_sketch %}
+  <details class="deep-dive math-proof-sketch" markdown="0">
+    <summary>Proof sketch (expand)</summary>
+    <div class="prose"><p>{{ s3.proof_sketch }}</p></div>
+  </details>
+  {% endif %}
+
+  {% if s3.proof_method %}
+  <div class="prose">
+    <p><strong>Proof method:</strong> {{ s3.proof_method }}</p>
+  </div>
+  {% endif %}
+
+  {% if s3.uniqueness or s3.role or s3.consequence or s3.tcb_cost or s3.transcendence_status or s3.irrationality or s3.non_omega_qualifier or s3.why_no_omega or s3.why_four or s3.why_5 or s3.why_4_plus_1 or s3.why_five or s3.why_ultrametric or s3.relationship_to_K02 or s3.relationship_to_classical_grh or s3.what_is_finite_checked or s3.what_is_axiomatized or s3.what_closes_the_gap or s3.load_bearing_for or s3.tower_structure or s3.construction or s3.novelty or s3.constructive_aspect or s3.trace_representation or s3.rank_transfer %}
+  <div class="prose math-glossary-rationale">
+    {% if s3.role %}<p><strong>Role.</strong> {{ s3.role }}</p>{% endif %}
+    {% if s3.uniqueness %}<p><strong>Uniqueness.</strong> {{ s3.uniqueness }}</p>{% endif %}
+    {% if s3.irrationality %}<p><strong>Irrationality.</strong> {{ s3.irrationality }}</p>{% endif %}
+    {% if s3.transcendence_status %}<p><strong>Transcendence status.</strong> {{ s3.transcendence_status }}</p>{% endif %}
+    {% if s3.non_omega_qualifier %}<p><strong>Non-ω qualifier.</strong> {{ s3.non_omega_qualifier }}</p>{% endif %}
+    {% if s3.why_no_omega %}<p><strong>Why "no ω".</strong> {{ s3.why_no_omega }}</p>{% endif %}
+    {% if s3.why_four %}<p><strong>Why four.</strong> {{ s3.why_four }}</p>{% endif %}
+    {% if s3.why_5 %}<p><strong>Why five.</strong> {{ s3.why_5 }}</p>{% endif %}
+    {% if s3.why_five %}<p><strong>Why five.</strong> {{ s3.why_five }}</p>{% endif %}
+    {% if s3.why_4_plus_1 %}<p><strong>Why 4+1.</strong> {{ s3.why_4_plus_1 }}</p>{% endif %}
+    {% if s3.why_ultrametric %}<p><strong>Why ultrametric.</strong> {{ s3.why_ultrametric }}</p>{% endif %}
+    {% if s3.what_is_finite_checked %}<p><strong>What is finite-checked.</strong> {{ s3.what_is_finite_checked }}</p>{% endif %}
+    {% if s3.what_is_axiomatized %}<p><strong>What is axiomatized.</strong> {{ s3.what_is_axiomatized }}</p>{% endif %}
+    {% if s3.what_closes_the_gap %}<p><strong>What closes the gap.</strong> {{ s3.what_closes_the_gap }}</p>{% endif %}
+    {% if s3.load_bearing_for %}<p><strong>Load-bearing for.</strong> {{ s3.load_bearing_for }}</p>{% endif %}
+    {% if s3.tower_structure %}<p><strong>Tower structure.</strong> {{ s3.tower_structure }}</p>{% endif %}
+    {% if s3.construction %}<p><strong>Construction.</strong> {{ s3.construction }}</p>{% endif %}
+    {% if s3.novelty %}<p><strong>Novelty.</strong> {{ s3.novelty }}</p>{% endif %}
+    {% if s3.constructive_aspect %}<p><strong>Constructive aspect.</strong> {{ s3.constructive_aspect }}</p>{% endif %}
+    {% if s3.trace_representation %}<p><strong>Trace representation.</strong> {{ s3.trace_representation }}</p>{% endif %}
+    {% if s3.rank_transfer %}<p><strong>Rank transfer.</strong> {{ s3.rank_transfer }}</p>{% endif %}
+    {% if s3.relationship_to_K02 %}<p><strong>Relationship to K02.</strong> {{ s3.relationship_to_K02 }}</p>{% endif %}
+    {% if s3.relationship_to_classical_grh %}<p><strong>Relationship to classical GRH.</strong> {{ s3.relationship_to_classical_grh }}</p>{% endif %}
+    {% if s3.consequence %}<p><strong>Consequence.</strong> {{ s3.consequence }}</p>{% endif %}
+    {% if s3.tcb_cost %}<p><strong>TCB cost.</strong> {{ s3.tcb_cost }}</p>{% endif %}
+  </div>
+  {% endif %}
+
+  {% if s3.consequences and s3.consequences.size > 0 %}
+  <div class="prose">
+    <p><strong>Consequences:</strong></p>
+    <ul class="math-glossary-consequences">
+      {% for c in s3.consequences %}
+      <li>{% if c.pair %}<code>{{ c.pair }}</code> — {% endif %}{% if c.obj %}<code>{{ c.obj }}</code> — {% endif %}{% if c.role %}{{ c.role }}{% else %}{{ c }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if s3.load_bearing_values and s3.load_bearing_values.size > 0 %}
+  <div class="prose">
+    <p><strong>Load-bearing values:</strong></p>
+    <ul class="math-glossary-consequences">
+      {% for v in s3.load_bearing_values %}
+      <li><code>{{ v.pair }}</code> — {{ v.role }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if s3.load_bearing_objects and s3.load_bearing_objects.size > 0 %}
+  <div class="prose">
+    <p><strong>Load-bearing objects:</strong></p>
+    <ul class="math-glossary-consequences">
+      {% for v in s3.load_bearing_objects %}
+      <li><code>{{ v.obj }}</code> — {{ v.role }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if s3.load_bearing_pairs and s3.load_bearing_pairs.size > 0 %}
+  <div class="prose">
+    <p><strong>Load-bearing rank pairs:</strong></p>
+    <ul class="math-glossary-consequences">
+      {% for v in s3.load_bearing_pairs %}
+      <li><code>{{ v.pair }}</code> — {{ v.role }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if s3.key_features and s3.key_features.size > 0 %}
+  <div class="prose">
+    <p><strong>Key features:</strong></p>
+    <ul class="math-glossary-consequences">
+      {% for f in s3.key_features %}<li>{{ f }}</li>{% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if s3.mathlib_bridge %}
+  <aside class="mathlib-bridge-callout" role="note" aria-labelledby="mathlib-bridge-heading">
+    <h3 id="mathlib-bridge-heading"><span class="mathlib-bridge-eyebrow">Mathlib bridge</span></h3>
+    <p>{{ s3.mathlib_bridge }}</p>
+  </aside>
+  {% endif %}
+</section>
 {% endif %}
 
-{% if entry.lean_coverage %}
+{%- comment -%}
+  Lean coverage section — physics/life/metaphysics use `lean_coverage`;
+  mathematics uses `lean` (mirroring registry items). Unify here.
+{%- endcomment -%}
+{%- assign lean_block = entry.lean_coverage | default: entry.lean -%}
+{% if lean_block %}
 <section class="content-card" aria-labelledby="glossary-lean-heading">
   <h2 id="glossary-lean-heading">Lean Coverage</h2>
   <div class="prose">
-    <p><strong>Status:</strong> {{ entry.lean_coverage.formalization_status | replace: "_", " " | capitalize }}</p>
-    {% if entry.lean_coverage.module %}<p><strong>Module:</strong> <code>{{ entry.lean_coverage.module }}</code></p>{% endif %}
-    {% if entry.lean_coverage.lean4_kind %}<p><strong>Lean kind:</strong> <code>{{ entry.lean_coverage.lean4_kind }}</code></p>{% endif %}
-    {% if entry.lean_coverage.lean_name %}<p><strong>Lean symbol:</strong> <code>{{ entry.lean_coverage.lean_name }}</code></p>{% endif %}
+    {%- assign lean_status = lean_block.formalization_status | default: lean_block.formalization -%}
+    {% if lean_status %}<p><strong>Status:</strong> {{ lean_status | replace: "_", " " | capitalize }}</p>{% endif %}
+    {% if lean_block.module %}<p><strong>Module:</strong> <a href="https://github.com/Panta-Rhei-Research/taulib/blob/main/{{ lean_block.module | replace: '.', '/' }}.lean" target="_blank" rel="noopener"><code>{{ lean_block.module }}</code></a></p>{% endif %}
+    {% if lean_block.lean4_kind %}<p><strong>Lean kind:</strong> <code>{{ lean_block.lean4_kind }}</code></p>{% endif %}
+    {%- assign lean_sym = lean_block.lean_name | default: lean_block.name -%}
+    {% if lean_sym %}<p><strong>Lean symbol:</strong> <code>{{ lean_sym }}</code></p>{% endif %}
   </div>
 </section>
 {% endif %}
