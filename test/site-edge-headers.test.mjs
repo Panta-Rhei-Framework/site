@@ -1,5 +1,11 @@
 import assert from "node:assert/strict";
-import { applyEdgeHeaders, corsPreflightResponse, edgeRedirectFor } from "../workers/site-edge-headers.js";
+import {
+  applyEdgeHeaders,
+  corsPreflightResponse,
+  edgeRedirectFor,
+  fetchOptionsFor,
+  originRequestFor
+} from "../workers/site-edge-headers.js";
 
 const SECURITY_EXPECTATIONS = {
   "X-Content-Type-Options": "nosniff",
@@ -36,6 +42,11 @@ const cases = [
   ["/", "text/html; charset=utf-8", "public, max-age=3600, must-revalidate"],
   ["/program/", "text/html; charset=utf-8", "public, max-age=3600, must-revalidate"],
   ["/research-program/index.html", "text/html; charset=utf-8", "public, max-age=3600, must-revalidate"],
+  [
+    "/assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-solar-synchronized-flexible-demand-grid-logistics.pdf",
+    "application/pdf",
+    "public, max-age=3600, must-revalidate"
+  ],
   ["/assets/css/site.css", "text/css", "public, max-age=31536000, immutable"],
   ["/assets/site.webmanifest", "application/manifest+json", "public, max-age=604800"],
   ["/pagefind/pagefind.js", "text/javascript", "public, max-age=31536000, immutable"],
@@ -79,6 +90,25 @@ for (const negativePath of ["/", "/results/", "/assets/css/site.css", "/sitemap.
 
 // Negative preflight: OPTIONS / must NOT short-circuit (falls through to origin → 405)
 assert.equal(corsPreflightResponse(new URL("https://panta-rhei.site/")), null, "OPTIONS / must not short-circuit (no broad preflight)");
+
+{
+  const publicGoodPdf =
+    "/assets/pdfs/research-briefings/public-good/public-good-impact-dossier-2026-05-02-solar-synchronized-flexible-demand-grid-logistics.pdf";
+  assert.deepEqual(
+    fetchOptionsFor(`https://panta-rhei.site${publicGoodPdf}`),
+    { cf: { cacheTtl: 0, cacheEverything: false } },
+    "Public-good PDFs should bypass Cloudflare's stale edge cache"
+  );
+  assert.equal(fetchOptionsFor("https://panta-rhei.site/assets/css/site.css"), undefined);
+
+  const originRequest = originRequestFor(`https://panta-rhei.site${publicGoodPdf}`);
+  assert.equal(
+    new URL(originRequest.url).searchParams.get("__prr_pdf_release"),
+    "2026-05-02-template-polish",
+    "Public-good PDF origin fetches should use a release-specific cache key"
+  );
+  assert.equal(originRequestFor("https://panta-rhei.site/assets/css/site.css"), "https://panta-rhei.site/assets/css/site.css");
+}
 
 for (const path of ["/publications/physics-ledger", "/publications/physics-ledger/", "/publications/numerical-physics-ledger/"]) {
   const redirect = edgeRedirectFor(`https://panta-rhei.site${path}`);
@@ -127,4 +157,4 @@ assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/monograph-sup
 assert.equal(edgeRedirectFor("https://panta-rhei.site/publications/books/book-i/"), null);
 assert.equal(edgeRedirectFor("https://panta-rhei.site/verify/taulib/docs/"), null);
 
-console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, and 15 redirect cases passed`);
+console.log(`site-edge-headers: ${cases.length} header cases, 5 CORS assertions, 4 CORS-negative cases, 4 preflight assertions, 2 fetch-option assertions, 2 origin-request assertions, and 15 redirect cases passed`);
