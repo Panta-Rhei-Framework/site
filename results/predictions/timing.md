@@ -4,7 +4,7 @@ title: "Prediction Timing — A Priori vs Post-Diction"
 permalink: /results/predictions/timing/
 lane: results
 section: "Numerical Physics Ledger · Timing"
-summary_short: "An honest accounting of which of the 67 zero-parameter predictions are a priori (committed before measurement), which are post-dictions of known quantities, and which are decisive forward tests."
+summary_short: "An honest accounting of which zero-parameter predictions are a priori (committed before measurement), which are post-dictions of known quantities, and which are decisive forward tests."
 right_rail:
   related:
   - title: Predictions Browse
@@ -21,14 +21,14 @@ right_rail:
     updated: "April 2026"
 og_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
 twitter_image: /assets/images/plates/plate-05-results-world-readout-og.jpg
-og_image_alt: "Scientific plate showing the Results World Readout, with the Prediction Timing accounting that classifies each of the 67 numerical predictions as a priori, tension-side, or post-diction."
+og_image_alt: "Scientific plate showing the Results World Readout, with the Prediction Timing accounting that classifies numerical predictions as a priori, tension-side, or post-diction."
 ---
 
-The first question any honest reader should ask of a zero-parameter theory with 67 numerical agreements is: **are these predictions a priori, or are they post-dictions of already-known data dressed up as derivations?** This page answers that question directly — without hedging, without post-hoc calibration, and without pretending to data we do not have.
+The first question any honest reader should ask of a zero-parameter theory with {% include release-metric.html id="predictions.records" %} numerical agreements is: **are these predictions a priori, or are they post-dictions of already-known data dressed up as derivations?** This page answers that question directly — without hedging, without post-hoc calibration, and without pretending to data we do not have.
 
 ## Precision-tier taxonomy (Tier A / B / C)
 
-Timing is not the only axis along which the 67 predictions sort. Each also carries a **cascade precision tier** (Numerical Physics Ledger Ch 58a) that states the best precision its calibration route can reach in principle:
+Timing is not the only axis along which the {% include release-metric.html id="predictions.records" %} predictions sort. Each also carries a **cascade precision tier** (Numerical Physics Ledger Ch 58a) that states the best precision its calibration route can reach in principle:
 
 - **Tier A (~0.025 ppm) — mass-ratio route.** Predictions that are dimensionless ratios (leptons, hadron mass ratios, Koide-style relations) where SI-calibration error cancels exactly. **Testable today at PDG/CODATA precision** — no future experiment required.
 - **Tier B (~3 ppm) — closing-identity route.** SI-anchored observables routed through the G–α closing identity (V.T20). Testable at ~ppm precision; most need specific future experiments (PSI muonic-atom campaigns ~2030, PDG-grade electroweak updates).
@@ -40,9 +40,9 @@ The key timing consequence: **Tier A predictions are already testable at the fra
 
 Two distinct readings of "a priori" operate in physics:
 
-1. **Structural a priori** — a prediction is structurally a priori if it is *forced* by the framework's kernel without any free parameter tuned to the target observation. In this reading, all 67 predictions in the Numerical Physics Ledger are a priori: they flow algebraically from the single constant ι<sub>τ</sub> = 2/(π+e), which is itself structurally fixed by the seven kernel axioms (see [Is ι_τ forced or fitted?]({{ '/program/about/red-team-faq/' | relative_url }}#is-iota-tau-fitted-or-forced)), not chosen to match any experiment.
+1. **Structural a priori** — a prediction is structurally a priori if it is *forced* by the framework's kernel without any free parameter tuned to the target observation. In this reading, the Numerical Physics Ledger predictions are a priori: they flow algebraically from the single constant ι<sub>τ</sub> = 2/(π+e), which is itself structurally fixed by the seven kernel axioms (see [Is ι_τ forced or fitted?]({{ '/program/about/red-team-faq/' | relative_url }}#is-iota-tau-fitted-or-forced)), not chosen to match any experiment.
 
-2. **Historical a priori** — a prediction is historically a priori if it was published *before* the experimental value was known. In this reading, the 67 predictions fall into three genuinely different categories depending on whether the target measurement pre-existed the derivation or post-dates it.
+2. **Historical a priori** — a prediction is historically a priori if it was published *before* the experimental value was known. In this reading, the prediction records fall into three genuinely different categories depending on whether the target measurement pre-existed the derivation or post-dates it.
 
 The first reading is what the framework claims. The second reading is the honest journalistic fact and deserves its own accounting. This page provides that accounting.
 
@@ -60,7 +60,7 @@ Representative examples (status confirmed internally addressed at published prec
 - **Weak mixing angle** sin²θ<sub>W</sub> — τ derives to −0.65 ppm. *[Tier B — closing-identity route]*
 - **Higgs self-coupling** — τ derives to +8.0 ppm. *[Tier B — closing-identity route]*
 
-Approximately **50 of the 67** predictions fall into Category A. They are the framework's *retro-consistency surface*: every well-known constant the framework should reproduce to publish credibly. Their explanatory weight rests on the fact that ι<sub>τ</sub> is structurally fixed by seven axioms whose justification has nothing to do with these target values. Category A is heavy in **Tier A** mass-ratio entries, which means most of Category A can be re-checked today against PDG/CODATA without waiting on any new measurement.
+Approximately **50** predictions fall into Category A. They are the framework's *retro-consistency surface*: every well-known constant the framework should reproduce to publish credibly. Their explanatory weight rests on the fact that ι<sub>τ</sub> is structurally fixed by seven axioms whose justification has nothing to do with these target values. Category A is heavy in **Tier A** mass-ratio entries, which means most of Category A can be re-checked today against PDG/CODATA without waiting on any new measurement.
 
 ### Category B — Tension accounts (a priori commitment to a specific side of an open discrepancy)
 
@@ -73,7 +73,7 @@ Representative examples (cascade tier in brackets):
 - **Muon g−2** — τ derives within the sector-coupled framework; the public account depends on hadronic vacuum polarization calculation evolution. *[Tier B — closing-identity route]*
 - **S<sub>8</sub> tension** — τ places S<sub>8</sub> at a specific value internally addressed within the same orbit-depth framework as h. *[Tier B — closing-identity route]*
 
-Approximately **10 of the 67** predictions fall into Category B. These are genuinely forward-committed on live empirical questions and mostly sit at **Tier B** — ppm-precision achievable once the relevant experiment publishes its next-generation result.
+Approximately **10** predictions fall into Category B. These are genuinely forward-committed on live empirical questions and mostly sit at **Tier B** — ppm-precision achievable once the relevant experiment publishes its next-generation result.
 
 ### Category C — Genuine forward predictions (decisive future tests)
 
@@ -88,7 +88,7 @@ Representative examples (cascade tier in brackets):
 - **No magnetic monopoles** — τ predicts monopoles are structurally forbidden. Any confirmed detection refutes the framework. *[Tier C — binary]*
 - **No supersymmetry** — τ predicts no superpartners at any scale. Continued LHC null results confirm; any confirmed sparticle detection refutes. *[Tier C — binary]*
 
-Approximately **7 of the 67** predictions are genuine Category-C forward tests. These are the ones that most directly settle the framework's fate. All 30 predictions in the [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) are Category-C or Category-B in this taxonomy. Category C is **experiment-gated**: unlike Tier A mass-ratio entries, these cannot be tested today — they wait on CMB-S4 (2028–2035), PSI muonic-atom campaigns (~2030), LEGEND/nEXO/CUPID (2030s), JUNO/DUNE/Hyper-K (late 2020s onward).
+Approximately **7** predictions are genuine Category-C forward tests. These are the ones that most directly settle the framework's fate. The {% include release-metric.html id="falsifications.records" %} predictions in the [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) are Category-C or Category-B in this taxonomy. Category C is **experiment-gated**: unlike Tier A mass-ratio entries, these cannot be tested today — they wait on CMB-S4 (2028–2035), PSI muonic-atom campaigns (~2030), LEGEND/nEXO/CUPID (2030s), JUNO/DUNE/Hyper-K (late 2020s onward).
 
 ## Summary table
 
@@ -97,7 +97,7 @@ Approximately **7 of the 67** predictions are genuine Category-C forward tests. 
 | **A — Pre-existing constants** | ~50 | Yes | No (post-diction) | Tier A (many) / Tier B / Tier C | Retro-consistency only; testable today |
 | **B — Tension accounts** | ~10 | Yes | Partial (forward commitment to open question) | Tier B | Strong on each settled tension |
 | **C — Forward predictions** | ~7 | Yes | Yes (pre-measurement) | Tier C (mostly binary) | Decisive — each can falsify the framework; experiment-gated |
-| **All 67** | **67** | Yes (all) | Category-mixed | Tier-mixed | Ledger as a whole |
+| **All predictions** | **{% include release-metric.html id="predictions.records" %}** | Yes (all) | Category-mixed | Tier-mixed | Ledger as a whole |
 
 Cascade tiers are defined in the Numerical Physics Ledger (Ch 58a, "The Calibration Cascade"): **Tier A** ≈ 0.025 ppm mass-ratio route, **Tier B** ≈ 3 ppm closing-identity route, **Tier C** ≈ 0.8% fine-structure leading-order or binary-structural route.
 
@@ -113,7 +113,7 @@ This is the test the framework voluntarily lives or dies by.
 
 ## What this ledger does NOT claim
 
-- **It does not claim per-prediction pre-registration.** None of the 67 predictions have verified out-of-sample measurement dates preceding the framework's first-edition publication. The structural a priori claim rests on ι<sub>τ</sub> being kernel-fixed, not on having archived predictions dated before experiments ran.
+- **It does not claim per-prediction pre-registration.** The prediction catalogue does not have verified out-of-sample measurement dates preceding the framework's first-edition publication. The structural a priori claim rests on ι<sub>τ</sub> being kernel-fixed, not on having archived predictions dated before experiments ran.
 - **It does not claim equal weight across categories.** A Category-A agreement is *evidence that ι<sub>τ</sub> captures the relevant scale* but is not a prediction in the philosopher-of-science forward-looking sense. A Category-C agreement is.
 - **It does not claim the categorization is exhaustive or uncontested.** A phenomenologist might recategorize specific predictions; the numbers (~50/~10/~7) are structural estimates at precision-tier granularity.
 
@@ -129,7 +129,7 @@ Until those land, this ledger is the honest framework-level statement.
 ## Cross-links
 
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue with filters
-- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 sharpest predictions against named experiments on explicit timelines
+- [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} sharpest predictions against named experiments on explicit timelines
 - [Numerical Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — complete typeset document with derivations
 - [Red-team FAQ]({{ '/program/about/red-team-faq/' | relative_url }}) — common skeptical questions answered honestly
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned release state and build verification

@@ -4,7 +4,7 @@ title: Falsification Pack (N1–N30)
 permalink: /results/falsifications/browse/
 lane: results
 section: "Results · Falsification Pack"
-summary_short: "30 sharp predictions where Category τ makes specific claims that named experiments can test on a 2025–2035 timeline."
+summary_short: "Sharp predictions where Category τ makes specific claims that named experiments can test on a 2025–2035 timeline."
 right_rail:
   related:
   - title: Physics Predictions
@@ -20,7 +20,7 @@ right_rail:
     updated: April 2026
 ---
 
-The **30-Prediction Falsification Pack** identifies the sharpest points where Category τ makes specific, testable claims that named experiments can verify or refute. Each prediction carries an ID (N1–N30), a domain, a named experiment, a timeline, and a current program-side tracking status (4 internally matched to current public data, 26 consistent-and-testable as of April 2026). The full 30-card grid, filterable by domain and status, sits below.
+The **{% include release-metric.html id="falsifications.records" %}-prediction Falsification Pack** identifies the sharpest points where Category τ makes specific, testable claims that named experiments can verify or refute. Each prediction carries an ID (N1–N30), a domain, a named experiment, a timeline, and a current program-side tracking status. The full card grid, filterable by domain and status, sits below.
 
 ## Three falsification tiers
 
@@ -58,10 +58,10 @@ The pack is designed so that individual failures are **sector-specific**, not fr
 
 The framework-terminal scenarios are two:
 
-1. **Cascade failure** — three or more independent falsifications across different domains would falsify the **master constant** ι<sub>τ</sub> itself, because the 67 zero-parameter agreements across the Numerical Physics Ledger all descend algebraically from the same kernel. A broad cluster of failures cannot be localized to a single sector.
+1. **Cascade failure** — three or more independent falsifications across different domains would falsify the **master constant** ι<sub>τ</sub> itself, because the {% include release-metric.html id="predictions.records" %} zero-parameter agreements across the Numerical Physics Ledger all descend algebraically from the same kernel. A broad cluster of failures cannot be localized to a single sector.
 2. **Structural impossibility** — a confirmed detection of proton decay (N8), supersymmetric partners (N2), a magnetic monopole, a fourth-generation fermion (N1), or a dark-matter particle (N3) falsifies the **Sector Exhaustion Theorem** on which the τ ontology closes. Any one of these is sufficient to refute the bridge axiom.
 
-This posture is deliberate. The framework publishes 30 named tests and voluntarily accepts that the cumulative structure is more fragile than any of its individual pieces. For the honest a-priori vs post-diction accounting of how these tests sit against the wider 67-prediction ledger — and for the taxonomy of retro-consistency (~50), tension-account (~10), and forward-test (~7) categories — see the [**Prediction Timing Ledger**]({{ '/results/predictions/timing/' | relative_url }}).
+This posture is deliberate. The framework publishes {% include release-metric.html id="falsifications.records" %} named tests and voluntarily accepts that the cumulative structure is more fragile than any of its individual pieces. For the honest a-priori vs post-diction accounting of how these tests sit against the wider {% include release-metric.html id="predictions.records" %}-prediction ledger — and for the taxonomy of retro-consistency, tension-account, and forward-test categories — see the [**Prediction Timing Ledger**]({{ '/results/predictions/timing/' | relative_url }}).
 
 ## How to read a falsification card
 
@@ -71,6 +71,6 @@ Each card below carries:
 - **Tier** — *A* (calibration-class, ~0.025 ppm), *B* (closing-identity, ~3 ppm), or *binary* (yes/no structural falsifier); see the three-tier explanation above for what each tier commits the framework to
 - **Named experiment(s)** responsible for the test, with a 2025–2035 timeline (plus or minus — some extend through 2040+)
 - **Current status** — *internally matched to current public data* (program-side match to an existing public measurement), *consistent with current public data* (present data does not break the τ-derived value; decisive test awaits the named experiment), or *committed test path* (published commitment, not yet live). These are program tracking labels, not external acceptance labels.
-- **Scope label** — all 30 pack entries are **τ-effective** (quantitative τ-derivation with a measurable discriminant); a small number carry **conjectural** flags where the derivation requires an axiom still in compute-then-axiomatize status (see [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}))
+- **Scope label** — pack entries are **τ-effective** unless the card states otherwise (quantitative τ-derivation with a measurable discriminant); a small number carry **conjectural** flags where the derivation requires an axiom still in compute-then-axiomatize status (see [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}))
 
 The complete typeset document (209 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Numerical Physics Ledger (PDF, 1.11 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).

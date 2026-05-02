@@ -15,7 +15,7 @@ canonical_relation: "Book V supplement / numerical ledger"
 domain: "Physics"
 status: "Canonical"
 updated: "April 2026"
-summary_short: "The complete numerical scorecard — from one algebraic posit (ι<sub>τ</sub> = 2/(π+e)) plus one SI measurement (neutron mass m<sub>n</sub>) through a four-layer calibration cascade to every observable value. Three τ-structural pillars, 30-item falsification pack, zero free continuous parameters. Free PDF download."
+summary_short: "The complete numerical scorecard — from one algebraic posit (ι<sub>τ</sub> = 2/(π+e)) plus one SI measurement (neutron mass m<sub>n</sub>) through a four-layer calibration cascade to observable values. Three τ-structural pillars, manifest-pinned falsification pack, zero free continuous parameters. Free PDF download."
 right_rail:
   related:
   - title: Predictions Browse
@@ -46,7 +46,7 @@ right_rail:
   </a>
 </div>
 
-The **Numerical Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+The **Numerical Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **{% include release-metric.html id="falsifications.records" %}-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
 
 ## Status and scope
 
@@ -71,7 +71,7 @@ From these two inputs, a **four-layer cascade** compiles every other quantity:
 - **L1 — Dimensionless layer**: all mass ratios, all mixing angles, all couplings. Key closed forms: α = (11/15)²·ι<sub>τ</sub>⁴ = (121/225)·ι<sub>τ</sub>⁴ at **9.8 ppm** vs CODATA; R₀ = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² is **m<sub>n</sub>/m<sub>e</sub>** (neutron/electron ratio) at **7.7 ppm** leading order; Koide lepton ratio Q = 2/3 exact at −9×10⁻⁶; sin²θ<sub>W</sub> from κ<sub>A</sub>/κ<sub>B</sub> at ~2.7% (tree); α<sub>s</sub> from κ<sub>C</sub>(3) at ~2.4%; α<sub>G</sub> = α¹⁸√3(1 − 3α/π). These values match Book IV §73's Predictive Record (Theorem iv-predictive-record) line for line.
 - **L2 — Single SI anchor**: m<sub>n</sub> (CODATA 2018). One measurement, theory-forced by the No Knobs Theorem.
 - **L3 — SI-anchored layer**: m<sub>e</sub>, G, m<sub>P</sub>, ℏ, k<sub>B</sub>, ε₀, μ₀ — obtained by the linear rescaling functor M<sub>SI</sub> = R<sub>M</sub>[M<sub>τ</sub>] = M<sub>τ</sub> · (m<sub>n</sub><sup>SI</sup> / m<sub>n</sub><sup>τ</sup>).
-- **L4 — Verification layer**: the 30-item falsification pack N1–N30 + all observational predictions across particle physics, atomic spectroscopy, cosmology.
+- **L4 — Verification layer**: the {% include release-metric.html id="falsifications.records" %}-item falsification pack N1–N30 + all observational predictions across particle physics, atomic spectroscopy, cosmology.
 
 **Three precision bands** characterize the predictions: **Precision-band** (≲ 10 ppm τ-side residual; includes Koide Q exact, R = m<sub>n</sub>/m<sub>e</sub> at 7.7 ppm, α at 9.8 ppm); **Identity-band** (∼1–3 per cent τ-side; Weinberg and strong self-coupling at tree level); and **Observation-capped** (capped by the experimental floor: *r*, *n*<sub>s</sub>, *H*<sub>0</sub>). A single "0.025 ppm" slogan was used in earlier internal drafts; it is dropped here in favour of per-row residuals, matching Book IV's Predictive Record exactly. Chapter 58a of the companion contains the complete self-contained cascade architecture.
 
@@ -80,10 +80,10 @@ From these two inputs, a **four-layer cascade** compiles every other quantity:
 - **Three τ-structural pillars** (topologically forced, no fitted parameters): |gen|=3 from first homology; θ<sub>QCD</sub>=0 from SA-i mod-3 admissibility; the Cabibbo-complement structure λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>).
 - **A two-tier coherence structure** distinguishing global holonomy on H<sub>∂</sub>[ω] (which sets cosmic-mean densities like ω<sub>m</sub>, ω<sub>b</sub>, ℓ<sub>1</sub>) from local matter-phase coupling (which sets galaxy-scale dynamics via a trinary D / ω / B sector decomposition).
 - **A refined BTFR master formula** (V.T85) with τ-natural coupling coefficients, tested on the full SPARC-175 rotation-curve sample (Lelli, McGaugh & Schombert 2016).
-- **A 30-item falsification pack** (N1–N30) naming specific τ predictions, experimental instruments, and decisive thresholds for 2025–2035.
+- **A {% include release-metric.html id="falsifications.records" %}-item falsification pack** (N1–N30) naming specific τ predictions, experimental instruments, and decisive thresholds for 2025–2035.
 - **Seven falsifiable seams** where τ and orthodox physics make structurally incompatible predictions.
 - **A tier-1 τ-native holographic structure** sketched as a research programme (not mathematically reduced to AdS/CFT; distinct in rank, boundary topology, and metric structure).
-- **Honest uncertainty bands** propagated from integer-choice sensitivity across the 30-item pack, with a per-prediction audit in Appendix 68.A.
+- **Honest uncertainty bands** propagated from integer-choice sensitivity across the {% include release-metric.html id="falsifications.records" %}-item pack, with a per-prediction audit in Appendix 68.A.
 
 ## Open research targets (stated in the Ledger)
 
@@ -111,7 +111,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Numerical Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">209 pages · 12 chapters · 4-layer calibration cascade · 3 τ-structural pillars · 30-item falsification pack (tier-tagged A/B/C) · 7 falsifiable seams · two-tier coherence structure · tier-1 τ-native holography (sketched)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">209 pages · 12 chapters · 4-layer calibration cascade · 3 τ-structural pillars · {% include release-metric.html id="falsifications.records" %}-item falsification pack (tier-tagged A/B/C) · 7 falsifiable seams · two-tier coherence structure · tier-1 τ-native holography (sketched)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -257,8 +257,8 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 
 The predictions and falsifications are also available as interactive, filterable collections with per-item detail pages:
 
-- [**Predictions Browse**]({{ '/results/predictions/browse/' | relative_url }}) — 67 cards with domain/precision/scope filters, each linking to a detail page with the explicit τ-formula and derivation prose
-- [**Falsifications Browse**]({{ '/results/falsifications/browse/' | relative_url }}) — 30 cards with domain/status filters, each with named experiments and current observational status
+- [**Predictions Browse**]({{ '/results/predictions/browse/' | relative_url }}) — {% include release-metric.html id="predictions.records" %} cards with domain/precision/scope filters, each linking to a detail page with the explicit τ-formula and derivation prose
+- [**Falsifications Browse**]({{ '/results/falsifications/browse/' | relative_url }}) — {% include release-metric.html id="falsifications.records" %} cards with domain/status filters, each with named experiments and current observational status
 
 ## Why this document matters
 
@@ -268,6 +268,6 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
     ⬇ Download Numerical Physics Ledger — Free PDF (1.11 MB, 209 pp)
   </a>
-  <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
+  <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse {% include release-metric.html id="predictions.records" %} Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>
 </div>

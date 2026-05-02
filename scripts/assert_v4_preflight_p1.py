@@ -145,7 +145,8 @@ def main() -> int:
     media = html_path(built, "/media/")
     assert_not_contains(media, "0 sorry across all 7 books")
     assert_not_contains(media, "zero sorry across all 7 books")
-    assert_contains(media, "published formalized modules are built without")
+    assert_contains(media, "published formalized modules are built with")
+    assert_contains(media, "sorry")
 
     # Glossary constant and metadata.
     glossary = html_path(built, "/verify/taulib/glossary/")

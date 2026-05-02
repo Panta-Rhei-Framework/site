@@ -24,7 +24,7 @@ This is where it begins. Every numerical SI value in the [Physics cascade]({{ '/
 
   <a class="v2-tile" href="{{ '/results/browse/?topic=mathematics' | relative_url }}">
     <strong>Browse</strong>
-    <span>77 mathematics result pages, filterable by importance class and Lean formalization status.</span>
+    <span>{% include release-metric.html id="results.mathematics.records" %} mathematics result pages, filterable by importance class and Lean formalization status.</span>
   </a>
 
   <a class="v2-tile" href="#mathematics-glossary-pending">
@@ -44,7 +44,7 @@ This is where it begins. Every numerical SI value in the [Physics cascade]({{ '/
 
   <a class="v2-tile" href="{{ '/corpus/registry/' | relative_url }}">
     <strong>Registry (Books I–III)</strong>
-    <span>Direct access to the foundational registry items: 770 public objects across coordinates, holomorphy, enrichment, and the central theorem.</span>
+    <span>Direct access to the foundational registry items across coordinates, holomorphy, enrichment, and the central theorem.</span>
   </a>
 
 </div>
@@ -55,7 +55,7 @@ In plain language: the τ-framework claims that the categorical kernel τ — de
 
 Books I–III do the heavy categorical lifting. Once `τ`, `Ω`, `Hom_τ`, `ι_τ`, the central theorem, and Hartogs extension are in place, Book IV begins instantiating the physics sectors and Books V–VII project into time, life, and metaphysics.
 
-The 77 mathematics-domain result pages span:
+The {% include release-metric.html id="results.mathematics.records" %} mathematics-domain result pages span:
 
 - **Categoricity & central theorem** (Book II) — the framework's mathematical backbone
 - **Holomorphy of τ** (Book I) — boundary→interior determination, Liouville-categorical dodge
@@ -72,7 +72,7 @@ Books I–V of the [TauLib]({{ '/corpus/taulib/' | relative_url }}) are highly f
 - **[🎓 Mathematics Guided Tour]({{ '/results/mathematics/guided-tour/' | relative_url }})** — 6-stop, 10-minute walk-through in plain language
 - [Landmark Results]({{ '/results/landmark-results/' | relative_url }}) — top results across all domains, including mathematics flagships
 - [TauLib browser]({{ '/corpus/taulib/' | relative_url }}) — the Lean formalization library
-- [Registry]({{ '/corpus/registry/' | relative_url }}) — 4,139 public objects across all 7 books
+- [Registry]({{ '/corpus/registry/' | relative_url }}) — {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects across all 7 books
 - [Glossary Onboarding]({{ '/results/glossary-onboarding/' | relative_url }}) — 5-minute primer on τ-framework vocabulary
 
 ## See also

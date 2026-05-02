@@ -52,13 +52,6 @@ right_rail:
     updated: "April 2026"
 ---
 
-{% assign result_count = site.data.results.results | size %}
-{% assign mathematics_results = site.data.results.results | where: "layer", "mathematics" %}
-{% assign physics_results = site.data.results.results | where: "layer", "physics" %}
-{% assign life_results = site.data.results.results | where: "layer", "life" %}
-{% assign metaphysics_results = site.data.results.results | where: "layer", "metaphysics" %}
-{% assign glossary_summary = site.data.glossary.summary %}
-
 ## Four domains, one cascade
 
 Results is where the built Corpus becomes a world. The public domain labels include Mathematics, Physics, Life-facing results, and Metaphysics / Philosophy-facing results, with every surface kept under the site’s internal-status / verification / external-acceptance grammar.
@@ -77,21 +70,21 @@ The τ-framework's results organize naturally into four domains, each with its o
   <a class="v2-tile v2-tile-domain v2-tile-physics" href="{{ '/results/physics/' | relative_url }}">
     <span class="eyebrow">Books IV–V · Calibration Cascade</span>
     <h3>Physics</h3>
-    <p>95 glossary entries · 67 numerical predictions. Every SI value derives from ι_τ + the neutron-mass anchor m_n. Tier-A precision down to 0.025 ppm.</p>
+    <p>{% include release-metric.html id="glossary.physics.entries" %} glossary entries · {% include release-metric.html id="predictions.records" %} numerical predictions. Every SI value derives from ι_τ + the neutron-mass anchor m_n. Tier-A precision down to 0.025 ppm.</p>
     <span class="chip chip-cascade chip-cascade-physics-cascade">Physics cascade</span>
   </a>
 
   <a class="v2-tile v2-tile-domain v2-tile-life" href="{{ '/results/life/' | relative_url }}">
     <span class="eyebrow">Book VI · K_χ Multi-Branch Tree</span>
     <h3>Life</h3>
-    <p>78 glossary entries. Every biological observable inherits from the Kinetic Pseudoscalar Channel (LG-Y02 / VI.L18). Five branches: chirality, energy, information, temporal, phenomenal.</p>
+    <p>{% include release-metric.html id="glossary.life.entries" %} glossary entries. Every biological observable inherits from the Kinetic Pseudoscalar Channel (LG-Y02 / VI.L18). Five branches: chirality, energy, information, temporal, phenomenal.</p>
     <span class="chip chip-cascade chip-cascade-life-cascade">Life cascade</span>
   </a>
 
   <a class="v2-tile v2-tile-domain v2-tile-metaphysics" href="{{ '/results/metaphysics/' | relative_url }}">
     <span class="eyebrow">Book VII · Categorical Architecture</span>
     <h3>Metaphysics</h3>
-    <p>68 glossary entries. No empirical anchor — categorical-only. Four readout registers (Reg_E/P/D/C → Obs/Norm/Proof/Stance) plus six narrowing principles (OR1–OR6).</p>
+    <p>{% include release-metric.html id="glossary.metaphysics.entries" %} glossary entries. No empirical anchor — categorical-only. Four readout registers (Reg_E/P/D/C → Obs/Norm/Proof/Stance) plus six narrowing principles (OR1–OR6).</p>
     <span class="chip chip-cascade chip-cascade-metaphysics-architecture">Architecture</span>
   </a>
 
@@ -158,17 +151,17 @@ Every result should be read with its status markers. An internally addressed res
 
   <a class="v2-tile" href="{{ '/results/landmark-results/' | relative_url }}">
     <strong>Landmark Results</strong>
-    <span>The 18 highest-impact results curated across all four domains.</span>
+    <span>The {% include release-metric.html id="results.landmark.records" %} highest-impact results curated across all four domains.</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/predictions/' | relative_url }}">
     <strong>Predictions</strong>
-    <span>67 zero-parameter numerical predictions with precision tiers (sub-ppm to %).</span>
+    <span>{% include release-metric.html id="predictions.records" %} zero-parameter numerical predictions with precision tiers (sub-ppm to %).</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/falsifications/' | relative_url }}">
     <strong>Falsifications</strong>
-    <span>30 sharp predictions (N1–N30) where named experiments adjudicate the framework on a 2025–2035 timeline.</span>
+    <span>{% include release-metric.html id="falsifications.records" %} sharp predictions (N1–N30) where named experiments adjudicate the framework on a 2025–2035 timeline.</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/problem-ledger-answers/' | relative_url }}">
@@ -193,7 +186,7 @@ Every result should be read with its status markers. An internally addressed res
 
   <a class="v2-tile" href="{{ '/results/browse/' | relative_url }}">
     <strong>Browse All</strong>
-    <span>The full {{ result_count }}-page catalogue with filters for domain, kind, importance, status, book, and v3 badges.</span>
+    <span>The full {% include release-metric.html id="results.records" %}-page catalogue with filters for domain, kind, importance, status, book, and v3 badges.</span>
   </a>
 
   <a class="v2-tile" href="{{ '/results/classifications/' | relative_url }}">

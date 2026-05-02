@@ -99,7 +99,7 @@ The cascade has direct Lean formalizations:
 ## Read next
 
 - [Physics glossary]({{ '/results/physics/glossary/' | relative_url }}) — 95 entries with full SI translations
-- [Predictions]({{ '/results/predictions/' | relative_url }}) — 67 numerical predictions on top of this cascade
+- [Predictions]({{ '/results/predictions/' | relative_url }}) — {% include release-metric.html id="predictions.records" %} numerical predictions on top of this cascade
 - [Falsifications]({{ '/results/falsifications/' | relative_url }}) — sharp tests of cascade-derived values
 - [Life cascade]({{ '/results/life/cascade/' | relative_url }}) — analogous cascade for biological observables (VI.L18 anchor)
 

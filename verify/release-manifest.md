@@ -52,18 +52,18 @@ The TauLib browser under `/verify/taulib/docs/` is generated from the Corpus-nat
 
 | Metric | Value |
 |--------|------:|
-| Total modules | **512** |
-| Total lines | 142,406 |
-| Theorems + lemmas | 4,863 |
-| Definitions | 3,741 |
-| Structures + inductive types | 1,700 |
-| Computations (`#eval`) | 3,923 |
-| Custom `axiom` declarations | **3** (all in Book III — spectral / number-theoretic bridges) |
-| `sorry` (incomplete proofs) | **0** (across all 7 books) |
+| Total modules | **{% include release-metric.html id="taulib.modules" %}** |
+| Total lines | {% include release-metric.html id="taulib.lines" %} |
+| Theorems + lemmas | {% include release-metric.html id="taulib.theorems_lemmas" %} |
+| Definitions | {% include release-metric.html id="taulib.definitions" %} |
+| Structures + inductive types | {% include release-metric.html id="taulib.structures_inductives" %} |
+| Computations (`#eval`) | {% include release-metric.html id="taulib.evals" %} |
+| Custom `axiom` declarations | **{% include release-metric.html id="taulib.custom_axioms" %}** (all in Book III — spectral / number-theoretic bridges) |
+| `sorry` (incomplete proofs) | **{% include release-metric.html id="taulib.sorry" %}** (across all 7 books) |
 
-The 3 custom axioms sit outside Mathlib's trusted base and are specific to the τ-framework's internal construction; they are named and documented in the per-module TauLib browser. The prior v1 release pinned at commit `181a59e` shipped a fourth axiom `central_theorem_physical : True` in Book IV which was retired in `peer-review-fixes-v1` (2026-04-19) as a no-op — an axiom of type `True` is inhabited by `trivial` and added nothing to the theory.
+The {% include release-metric.html id="taulib.custom_axioms" %} custom axioms sit outside Mathlib's trusted base and are specific to the τ-framework's internal construction; they are named and documented in the per-module TauLib browser. The prior v1 release pinned at commit `181a59e` shipped a fourth axiom `central_theorem_physical : True` in Book IV which was retired in `peer-review-fixes-v1` (2026-04-19) as a no-op — an axiom of type `True` is inhabited by `trivial` and added nothing to the theory.
 
-Pre-peer-review-fixes-v1, Book VII shipped three `theorem X : True := sorry` declarations encoding methodological commitments. These were identified as performative (True is provable by `trivial`) and were retired in favor of inspectable `def : Commitment` values carrying `statement`/`warrant`/`registry_id` string data. TauLib now contains **zero sorry across all seven books**. See `TauLib/BookVII/Meta/Commitment.lean` and the three commitment defs in `BookVII/Logos/Sector.lean` and `BookVII/Final/Boundary.lean`.
+Pre-peer-review-fixes-v1, Book VII shipped three `theorem X : True := sorry` declarations encoding methodological commitments. These were identified as performative (True is provable by `trivial`) and were retired in favor of inspectable `def : Commitment` values carrying `statement`/`warrant`/`registry_id` string data. TauLib now contains **{% include release-metric.html id="taulib.sorry" %} sorry across all seven books**. See `TauLib/BookVII/Meta/Commitment.lean` and the three commitment defs in `BookVII/Logos/Sector.lean` and `BookVII/Final/Boundary.lean`.
 
 ## Per-book reconciliation
 
@@ -71,15 +71,15 @@ This is the table Assessment #3 asked for. It shows, for each book, what each of
 
 | Book | Registry root | Dashboard total | Dashboard formalized | TauLib modules | Sorry |
 |------|-------------:|-----------------:|---------------------:|---------------:|------:|
-| I — Foundations | 254 | 254 | 221 | 147 | 0 |
-| II — Holomorphy | 230 | 219 | 184 | 66 | 0 |
-| III — Spectrum | 289 | 289 | 231 | 71 | 0 |
-| IV — Microcosm | 1864 | 1292 | 973 | 90 | 0 |
-| V — Macrocosm | 1419 | 1253 | 884 | 81 | 0 |
-| VI — Life | 217 | 168 | 0 | 31 | 0 |
-| VII — Metaphysics | 274 | 273 | 182 | 9 | 0 |
-| Meta / Tour / root modules | — | — | — | 17 | 0 |
-| **Total** | **4,547** | **3,548** | **2,675** | **512** | **0** |
+| I — Foundations | {% include release-metric.html id="registry.registry_total.book_i" %} | {% include release-metric.html id="registry.dashboard_display.book_i" %} | {% include release-metric.html id="registry.formalized_count.book_i" %} | {% include release-metric.html id="registry.taulib_modules.book_i" %} | {% include release-metric.html id="taulib.sorry" %} |
+| II — Holomorphy | {% include release-metric.html id="registry.registry_total.book_ii" %} | {% include release-metric.html id="registry.dashboard_display.book_ii" %} | {% include release-metric.html id="registry.formalized_count.book_ii" %} | {% include release-metric.html id="registry.taulib_modules.book_ii" %} | {% include release-metric.html id="taulib.sorry" %} |
+| III — Spectrum | {% include release-metric.html id="registry.registry_total.book_iii" %} | {% include release-metric.html id="registry.dashboard_display.book_iii" %} | {% include release-metric.html id="registry.formalized_count.book_iii" %} | {% include release-metric.html id="registry.taulib_modules.book_iii" %} | {% include release-metric.html id="taulib.sorry" %} |
+| IV — Microcosm | {% include release-metric.html id="registry.registry_total.book_iv" %} | {% include release-metric.html id="registry.dashboard_display.book_iv" %} | {% include release-metric.html id="registry.formalized_count.book_iv" %} | {% include release-metric.html id="registry.taulib_modules.book_iv" %} | {% include release-metric.html id="taulib.sorry" %} |
+| V — Macrocosm | {% include release-metric.html id="registry.registry_total.book_v" %} | {% include release-metric.html id="registry.dashboard_display.book_v" %} | {% include release-metric.html id="registry.formalized_count.book_v" %} | {% include release-metric.html id="registry.taulib_modules.book_v" %} | {% include release-metric.html id="taulib.sorry" %} |
+| VI — Life | {% include release-metric.html id="registry.registry_total.book_vi" %} | {% include release-metric.html id="registry.dashboard_display.book_vi" %} | {% include release-metric.html id="registry.formalized_count.book_vi" %} | {% include release-metric.html id="registry.taulib_modules.book_vi" %} | {% include release-metric.html id="taulib.sorry" %} |
+| VII — Metaphysics | {% include release-metric.html id="registry.registry_total.book_vii" %} | {% include release-metric.html id="registry.dashboard_display.book_vii" %} | {% include release-metric.html id="registry.formalized_count.book_vii" %} | {% include release-metric.html id="registry.taulib_modules.book_vii" %} | {% include release-metric.html id="taulib.sorry" %} |
+| Meta / Tour / root modules | — | — | — | {% include release-metric.html id="registry.taulib_modules.meta_tour_root_modules" %} | {% include release-metric.html id="taulib.sorry" %} |
+| **Total** | **{% include release-metric.html id="registry.registry_total.grand_total" %}** | **{% include release-metric.html id="registry.dashboard_display.grand_total" %}** | **{% include release-metric.html id="registry.formalized_count.grand_total" %}** | **{% include release-metric.html id="taulib.modules" %}** | **{% include release-metric.html id="taulib.sorry" %}** |
 
 Each column applies a specific **filter rule** to the same canonical source. The filter rules are documented on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}) and summarized here:
 
@@ -113,7 +113,7 @@ A follow-up sprint to consolidate the generation pipeline end-to-end (one script
 ## What this release does NOT claim
 
 - **Book VII is formalized at methodological depth.** The Lean corpus for Book VII contains 7 modules that include three `def : Commitment` values carrying structural-commitment data (statement, warrant, registry_id). Zero `sorry`. The Book VII formalization is scaffolded; the monograph's prose content is the primary substance.
-- **The physics bridge is not proof-assistant-verified.** TauLib verifies the internal τ-framework mathematics; it does not verify that τ-internal statements correspond to the external physics they are interpreted as describing. The 67 predictions surfaced in [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) and documented in the [Numerical Physics Ledger]({{ '/publications/monograph-supplements/numerical-physics-ledger/' | relative_url }}) are derived from the framework's algebraic structure; their agreement with experiment is empirical, not machine-checked.
+- **The physics bridge is not proof-assistant-verified.** TauLib verifies the internal τ-framework mathematics; it does not verify that τ-internal statements correspond to the external physics they are interpreted as describing. The {% include release-metric.html id="predictions.records" %} predictions surfaced in [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) and documented in the [Numerical Physics Ledger]({{ '/publications/monograph-supplements/numerical-physics-ledger/' | relative_url }}) are derived from the framework's algebraic structure; their agreement with experiment is empirical, not machine-checked.
 - **Millennium resolutions are not Clay-valid formulations.** Only the Poincaré conjecture aligns with the Clay statement as solved (via Perelman's proof, re-read in τ-language). The other six Millennium claims are τ-internal formulations with explicit bridge-conjecture gaps; see the [Millennium & Langlands briefing]({{ '/results/fields/millennium-langlands/' | relative_url }}).
 
 ## Reproduction instructions

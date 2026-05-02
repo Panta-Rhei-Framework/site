@@ -25,11 +25,6 @@ twitter_image: /assets/images/plates/plate-01-public-research-observatory-og.jpg
 og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a public research observatory with Research Agenda, Corpus, Results, Verify, Publications, Impact, and Engage."
 ---
 
-{% assign result_count = site.data.results.results | size %}
-{% assign registry_count = site.data.registry.objects | size %}
-{% assign book_count = site.data.publications.books | size %}
-{% assign chapter_count = site.data.publications.chapters | size %}
-
 <section class="content-card homepage-section">
   <p class="v2-kicker">The research observatory at a glance</p>
   <h2>The public research observatory</h2>
@@ -82,7 +77,7 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
     <a class="btn-ghost" href="{{ '/publications/research-papers/master-constant-iota-tau/' | relative_url }}">Read the paper</a>
     <a class="btn-ghost" href="{{ '/results/predictions/timing/' | relative_url }}">See prediction timing</a>
   </div>
-  <p>The program presents {{ result_count }} typed result pages, 67 quantitative predictions, and 30 named falsification tests — with <a href="{{ '/results/predictions/timing/' | relative_url }}">full pre-registration accounting</a> distinguishing post-dictions, tension-side commitments, and forward forbiddances. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
+  <p>The program presents {% include release-metric.html id="results.records" %} typed result pages, {% include release-metric.html id="predictions.records" %} quantitative predictions, and {% include release-metric.html id="falsifications.records" %} named falsification tests — with <a href="{{ '/results/predictions/timing/' | relative_url }}">full pre-registration accounting</a> distinguishing post-dictions, tension-side commitments, and forward forbiddances. These are not all equivalent in status; the site makes status, verification route, and external-acceptance boundaries visible at the page level.</p>
   <div class="v2-grid">
     <a class="v2-tile" href="{{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}">
       <h3>Hubble tension</h3>
@@ -113,8 +108,8 @@ og_image_alt: "Scientific plate mapping the Panta Rhei Research Program as a pub
   <p>Corpus truth lives in the Corpus and Registry. Publications crystallize the Corpus into citable artifacts. Results present current consequence surfaces. Verify exposes formal, empirical, and review routes. TauLib provides the Lean&nbsp;4 formalization projection.</p>
   <div class="v2-system-strip">
     <div class="v2-system-node"><strong>Kernel</strong>Five generators, one operator, and K0-K6 axioms, with the foundational-hinge route.</div>
-    <div class="v2-system-node"><strong>Corpus</strong>{{ registry_count }} registry objects, monograph drilldowns, construction spine, foundational hinges, and dependency graph.</div>
-    <div class="v2-system-node"><strong>TauLib</strong>Pinned Lean&nbsp;4 formalization with 522 modules, 0 sorry, and 3 custom axioms in Book&nbsp;III bridge territory.</div>
+    <div class="v2-system-node"><strong>Corpus</strong>{% include release-metric.html id="registry.registry_total.grand_total" %} registry objects, monograph drilldowns, construction spine, foundational hinges, and dependency graph.</div>
+    <div class="v2-system-node"><strong>TauLib</strong>Pinned Lean&nbsp;4 formalization with {% include release-metric.html id="taulib.modules" %} modules, {% include release-metric.html id="taulib.sorry" %} sorry, and {% include release-metric.html id="taulib.custom_axioms" %} custom axioms in Book&nbsp;III bridge territory.</div>
     <div class="v2-system-node"><strong>Results</strong>Landmark Results, World Readouts, Problem Ledger Answers, Recovery Target Status, and Progress Against Agenda.</div>
     <div class="v2-system-node"><strong>Verify</strong>Release Manifest, audit routes, prediction timing, falsification pack, and TCB disclosure.</div>
     <div class="v2-system-node"><strong>Publications</strong>Research Monographs, research papers, supplements, notes, briefings, white papers, release artifacts, and errata.</div>

@@ -41,7 +41,7 @@ These pages do not argue that the framework is correct. They argue that if you w
 
 ### [Formal Methods / Proof Assistant Expert]({{ '/verify/how-to-audit/formal-methods/' | relative_url }})
 
-If you work with Lean 4, Mathlib, Coq, Agda, Isabelle, or other proof assistants, the load-bearing question is whether TauLib's claimed formalization state (0 `sorry` across all 7 books, 3 named custom axioms in Book III, ~4,863 theorems, ~142K lines, plus the disclosed `native_decide` TCB extension) matches what actually compiles. This is the single most diagnostic check any reviewer can run.
+If you work with Lean 4, Mathlib, Coq, Agda, Isabelle, or other proof assistants, the load-bearing question is whether TauLib's claimed formalization state ({% include release-metric.html id="taulib.sorry" %} `sorry` across all 7 books, {% include release-metric.html id="taulib.custom_axioms" %} named custom axioms in Book III, {% include release-metric.html id="taulib.theorems_lemmas" %} theorem/lemma records, {% include release-metric.html id="taulib.lines" %} Lean lines, plus the disclosed `native_decide` TCB extension) matches what actually compiles. This is the single most diagnostic check any reviewer can run.
 
 ### [Mathematician]({{ '/verify/how-to-audit/mathematician/' | relative_url }})
 
@@ -49,7 +49,7 @@ If you work in category theory, model theory, analytic number theory, operator t
 
 ### [Physicist]({{ '/verify/how-to-audit/physicist/' | relative_url }})
 
-If you work in particle physics, cosmology, quantum foundations, or general relativity, the empirical track of the framework lives in the 67-prediction Numerical Physics Ledger and in the 30-item Falsification Pack. The load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the single-constant derivation chains survive independent checking.
+If you work in particle physics, cosmology, quantum foundations, or general relativity, the empirical track of the framework lives in the {% include release-metric.html id="predictions.records" %}-prediction Numerical Physics Ledger and in the {% include release-metric.html id="falsifications.records" %}-item Falsification Pack. The load-bearing questions are whether ι<sub>τ</sub> is fitted or forced, whether the predictions are a priori or post-dictions, and whether the single-constant derivation chains survive independent checking.
 
 ### [Philosopher (of science, mind, or metaphysics)]({{ '/verify/how-to-audit/philosopher/' | relative_url }})
 

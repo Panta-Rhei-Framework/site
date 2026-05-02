@@ -74,7 +74,7 @@ When you are reading a single result page, two complementary dimensions are wort
 - **L1 (dimensionless)** — ratios, mixing angles, and couplings (e.g. α, m<sub>p</sub>/m<sub>e</sub>, Cabibbo angle)
 - **L2 (anchor)** — the single SI input m<sub>n</sub>
 - **L3 (SI-anchored)** — quantities with units (m<sub>e</sub>, G, ℏ, k<sub>B</sub>, ε<sub>0</sub>, m<sub>P</sub>) produced by the rescaling functor M<sub>SI</sub> = R<sub>M</sub>[M<sub>τ</sub>]
-- **L4 (verification)** — spectroscopic and cosmological readouts, and the 30-item falsification pack
+- **L4 (verification)** — spectroscopic and cosmological readouts, and the {% include release-metric.html id="falsifications.records" %}-item falsification pack
 
 Knowing the layer tells you what kind of inspection is appropriate: L1 results are independent of any choice of units; L3 results inherit their SI scale from the m<sub>n</sub> anchor.
 

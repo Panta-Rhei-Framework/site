@@ -8,7 +8,7 @@ type: "Registry Index"
 status: "Canonical"
 summary_short: "The canonical public index of corpus items: definitions, lemmas, theorems, structures, and dependencies."
 summary_cards:
-  - title: "4,547 objects"
+  - title: "Manifest-pinned objects"
     body: "The current registry spans the seven-book corpus and exposes IDs, types, locations, dependencies, and status."
   - title: "Book-indexed"
     body: "Browse by book and dashboard while the v2 item templates are normalized."
@@ -35,7 +35,7 @@ right_rail:
 
 ## Overview
 
-The registry is the canonical public index of the corpus. Each object has an ID, a type, a book location, a scope label, dependency counts, and, when available, a Lean formalization pointer.
+The registry is the canonical public index of the corpus. The current manifest pins {% include release-metric.html id="registry.registry_total.grand_total" %} registry objects. Each object has an ID, a type, a book location, a scope label, dependency counts, and, when available, a Lean formalization pointer.
 
 ## Type filters
 

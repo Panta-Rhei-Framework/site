@@ -36,6 +36,6 @@ Each falsification pack should include:
 
 ## Current State
 
-The first production surface is the [30-item physics falsification pack]({{ '/results/falsifications/browse/' | relative_url }}). This Verify page defines the pack grammar so future numeric, structural, and domain-specific packs can be added consistently.
+The first production surface is the [{% include release-metric.html id="falsifications.records" %}-item physics falsification pack]({{ '/results/falsifications/browse/' | relative_url }}). This Verify page defines the pack grammar so future numeric, structural, and domain-specific packs can be added consistently.
 
 Packs may be executed manually, computationally, or through LLM-assisted review where appropriate.
